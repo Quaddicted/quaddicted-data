@@ -23,7 +23,8 @@
  "json_version": "2023.11.06-23.20",
  "sha256": "5fa847862d7bef141489c862c02a4f253face15450f039df23a3e6cc344cf69b",
  "tags": [
-  "author=id &amp; huanlopan",
+  "author=huanlopan",
+  "author=id",
   "commandline=-game drake",
   "dependency=drakebeta2021",
   "exceeds_quake_limits=yes",

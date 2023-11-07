@@ -3143,7 +3143,8 @@
  "json_version": "2023.11.06-23.20",
  "sha256": "a1137e6e1faec22f1ddbc584cbfd77357e79d63ae14241b6fbb9ccfe997d6a2e",
  "tags": [
-  "author=Tronyn &amp; PM",
+  "author=PM",
+  "author=Tronyn",
   "commandline=-game unforgiven -heapsize 64000 +max_edicts 2048",
   "exceeds_quake_limits=yes",
   "filename=unforgiven.zip",

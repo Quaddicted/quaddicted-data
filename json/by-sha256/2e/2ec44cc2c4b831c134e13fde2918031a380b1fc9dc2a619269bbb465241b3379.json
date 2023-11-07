@@ -493,7 +493,8 @@
  "json_version": "2023.11.06-23.20",
  "sha256": "2ec44cc2c4b831c134e13fde2918031a380b1fc9dc2a619269bbb465241b3379",
  "tags": [
-  "author=dumptruck_ds &amp; id Software",
+  "author=dumptruck_ds",
+  "author=id Software",
   "commandline=-game e2m4remix",
   "filename=e2m4remix.zip",
   "game=quake",

@@ -1896,7 +1896,8 @@
  "json_version": "2023.11.06-23.20",
  "sha256": "8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1",
  "tags": [
-  "author=Kell &amp; necros",
+  "author=Kell",
+  "author=necros",
   "commandline=-hipnotic -game quoth",
   "filename=quoth.zip",
   "game=quake",
