@@ -207,14 +207,19 @@
   "author=necros",
   "commandline=-game quoth -quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0', 'quoth<2.2')",
   "filename=quoth2pt2patch.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://tomeofpreach.wordpress.com/quoth/",
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
+  "patch=yes",
+  "provides='quoth=2.2'",
   "release_date=2014-05-04",
+  "release_group=quoth",
   "title=[NUKED]",
-  "type=mod"
+  "type=mod",
+  "version=2.2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2patch.zip",

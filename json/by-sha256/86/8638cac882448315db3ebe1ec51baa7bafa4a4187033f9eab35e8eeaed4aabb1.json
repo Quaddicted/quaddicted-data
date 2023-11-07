@@ -1910,7 +1910,10 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=toolbox",
   "nonspecific_tag=weapons",
+  "patch=no",
+  "provides='quoth=2.1'",
   "release_date=2008-03-09",
+  "release_group=quoth",
   "startmap=e1m1quoth",
   "startmap=e1m2quoth",
   "startmap=kellbase1",
@@ -1924,7 +1927,8 @@
   "theme=quoth",
   "theme=remix",
   "title=Quoth",
-  "type=mod"
+  "type=mod",
+  "version=2.1"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth.zip",

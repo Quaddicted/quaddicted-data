@@ -2028,6 +2028,7 @@
   "author=Preach",
   "author=necros",
   "commandline=-game quoth -quoth",
+  "current_main_group_package=yes",
   "filename=quoth2pt2full_2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -2035,10 +2036,14 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
   "nonspecific_tag=e1m1",
   "nonspecific_tag=e1m2",
+  "patch=no",
+  "provides='quoth=2.2'",
   "release_date=2014-05-04",
+  "release_group=quoth",
   "startmap=start",
   "title=Quoth 2.2 [PROPER]",
-  "type=mod"
+  "type=mod",
+  "version=2.2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2full_2.zip",

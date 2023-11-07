@@ -2033,9 +2033,14 @@
   "game_mode=singleplayer",
   "link:homepage=http://tomeofpreach.wordpress.com/quoth/",
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
+  "nuked=yes",
+  "patch=no",
+  "provides='quoth=2.2'",
   "release_date=2014-05-04",
+  "release_group=quoth",
   "title=[NUKED]",
-  "type=mod"
+  "type=mod",
+  "version=2.2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2full.zip",
