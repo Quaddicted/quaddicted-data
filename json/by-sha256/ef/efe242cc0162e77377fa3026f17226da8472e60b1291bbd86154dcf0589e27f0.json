@@ -1,0 +1,44 @@
+{
+ "bytes": 7220919,
+ "files": {
+  "ad_digs10.bsp": {
+   "bytes": 17121572,
+   "sha256": "c9a1d18f7205a1a24043a1df87f7a0d661b1bb7f9c912417e2f86a8913810725",
+   "timestamp": "2023-12-16T11:01:06.000Z"
+  },
+  "ad_digs10.lit": {
+   "bytes": 4323488,
+   "sha256": "9b00b6952c834d29854447df200e7251e84c58344e327b19aa19decfc37bd85c",
+   "timestamp": "2023-12-16T10:55:38.000Z"
+  },
+  "ad_digs10.txt": {
+   "bytes": 1871,
+   "sha256": "c2a1c0650cd10a8e0d87ff41cff3aefcc9373461b558bc200e62cbdecb3334a2",
+   "timestamp": "2023-12-16T11:02:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "efe242cc0162e77377fa3026f17226da8472e60b1291bbd86154dcf0589e27f0",
+ "tags": [
+  "author=digs",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "exceedslimits=yes",
+  "filename=ad_digs10.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard news post](https://celephais.net/board/view_thread.php?id=62290)",
+  "map_size=large",
+  "mod=arcanedimensions",
+  "release_date=2023-12-19",
+  "startmap=ad_digs10",
+  "title=The Anomaly 3: Tower",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/ad_digs10.zip"
+ ]
+}

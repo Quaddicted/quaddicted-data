@@ -1,0 +1,50 @@
+{
+ "bytes": 1204051,
+ "files": {
+  "itisover2024.bsp": {
+   "bytes": 1367856,
+   "sha256": "da4e0c6e2734ade4153e57dc3c81674eeb025def1c6510afb33c818d8fb3b3ec",
+   "timestamp": "2024-01-01T19:12:10.000Z"
+  },
+  "itisover2024.lit": {
+   "bytes": 743186,
+   "sha256": "6b5c27ae28bfe9bd0ba16158a065f07653f5131f6eff2e8ff65053e7dbfe41a9",
+   "timestamp": "2024-01-01T19:12:10.000Z"
+  },
+  "itisover2024.map": {
+   "bytes": 1154965,
+   "sha256": "ff4eedc374a7de2dd7f049a9da3cbbf676d5dbd34066954c0bdd26038189fe93",
+   "timestamp": "2024-01-01T18:57:44.000Z"
+  },
+  "itisover2024.txt": {
+   "bytes": 2263,
+   "sha256": "6172fe92ac7f07ed4ec1c104c22c3e6cdf991627dfae9e0fd3d27574b8e39dff",
+   "timestamp": "2024-01-01T19:09:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "be5340fc87d86533c3560bf13cd3cf804fd17cc94220b1890d7e9fcdcc2ea097",
+ "tags": [
+  "author=Mazu",
+  "commandline=-game copper",
+  "dependency=copper_v1_30",
+  "exceedslimits=yes",
+  "filename=itisover2024.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/it-is-over-2024.302/)",
+  "map_size=small",
+  "mod=copper",
+  "playstyle=slaughtermap",
+  "release_date=2024-01-01",
+  "startmap=itisover2024",
+  "title=It Is Over 2024",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/itisover2024.zip"
+ ]
+}

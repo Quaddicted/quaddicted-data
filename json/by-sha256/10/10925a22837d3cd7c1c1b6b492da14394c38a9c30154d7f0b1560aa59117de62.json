@@ -1,0 +1,49 @@
+{
+ "bytes": 7699736,
+ "files": {
+  "fotac_1_0.bsp": {
+   "bytes": 11569824,
+   "sha256": "16b245f1d7f48869a558e631e88e5481adb059abc563002511c9a3d7ef710b21",
+   "timestamp": "2024-01-07T22:42:32.000Z"
+  },
+  "fotac_1_0.lit": {
+   "bytes": 8116184,
+   "sha256": "aa22efa013b8c1e6d15d4232d3b053329c6d763bf8b0ce699abfcc8d70e20f0a",
+   "timestamp": "2024-01-07T22:42:32.000Z"
+  },
+  "fotac_1_0.map": {
+   "bytes": 6582299,
+   "sha256": "be0f728075d42dd81896573c1b723586627a61eca173870fcbd5956b6bfc43ad",
+   "timestamp": "2024-01-07T22:26:54.000Z"
+  },
+  "fotac_readme.txt": {
+   "bytes": 1358,
+   "sha256": "7ea00c7f5cc2a018f466140b333b99bcdcfe091d17b46937758870216bfbea8c",
+   "timestamp": "2024-01-07T23:34:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62",
+ "tags": [
+  "author=Sodium Chloride",
+  "commandline=-game copper",
+  "dependency=copper_v1_30",
+  "exceedslimits=yes",
+  "filename=fotac_1_0.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/fortress-of-the-arcane-conduit.305/)",
+  "map_size=large",
+  "mod=copper",
+  "release_date=2024-01-08",
+  "startmap=fotac_1_0",
+  "title=Fortress of the Arcane Conduit",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/fotac_1_0.zip"
+ ]
+}

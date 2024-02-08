@@ -1,0 +1,46 @@
+{
+ "bytes": 350694,
+ "files": {
+  "puzzlebox1.bsp": {
+   "bytes": 830244,
+   "sha256": "aab1838379c3c896a663d2f92030a3781e437f2b1eebdb66ba7087530c79ab3a",
+   "timestamp": "2023-10-28T17:33:30.000Z"
+  },
+  "puzzlebox1.lit": {
+   "bytes": 129863,
+   "sha256": "6f27a86f9ee27f4c9a39957a7d7cb04a8dc481c28bcdc02e3ecdd56f57c59ab1",
+   "timestamp": "2023-10-28T17:33:30.000Z"
+  },
+  "puzzlebox1.map": {
+   "bytes": 1098155,
+   "sha256": "fad4b2e703487ffda035f619b457477047492aecddb5c26aa7233427001ec2cb",
+   "timestamp": "2023-10-28T17:33:22.000Z"
+  },
+  "puzzlebox1_readme.txt": {
+   "bytes": 276,
+   "sha256": "337f40aa0089bdb0975439ba6fa5041c04a91f413810168bd86b5b77fda8cf81",
+   "timestamp": "2023-10-28T17:40:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4d8ac1f91d16e9785d4b4e2250743cc33ac95154c0bd2de0a2542bc591aad9a4",
+ "tags": [
+  "author=Yoder",
+  "filename=puzzlebox1_1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/puzzlebox.279/)",
+  "map_size=small",
+  "playstyle=nomonsters",
+  "release_date=2023-10-29",
+  "startmap=puzzlebox1",
+  "title=puzzlebox",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/puzzlebox1_1.zip"
+ ]
+}
