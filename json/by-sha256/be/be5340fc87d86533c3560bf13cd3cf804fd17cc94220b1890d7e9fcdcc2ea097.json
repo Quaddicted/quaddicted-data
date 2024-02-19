@@ -31,7 +31,7 @@
   "author=Mazu",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=itisover2024.zip",
   "game=quake",
   "game_mode=singleplayer",

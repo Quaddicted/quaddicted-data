@@ -51,7 +51,7 @@
   "author=apterous",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=apterous_pale_peril.zip",
   "game=quake",
   "game_mode=singleplayer",

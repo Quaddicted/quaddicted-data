@@ -2512,7 +2512,7 @@
   "author=nickster",
   "author=sze",
   "commandline=-game qbj2",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=qbj2_1.2.zip",
   "game=quake",
   "game_mode=singleplayer",

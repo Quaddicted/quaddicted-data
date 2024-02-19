@@ -1027,7 +1027,7 @@
  "tags": [
   "author=spootnik",
   "commandline=-game bv",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=bv.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -938,7 +938,7 @@
   "author=Shadesmaster",
   "author=alexUnder",
   "commandline=-game rmj1",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=rmj1.zip",
   "game=quake",
   "game_mode=singleplayer",

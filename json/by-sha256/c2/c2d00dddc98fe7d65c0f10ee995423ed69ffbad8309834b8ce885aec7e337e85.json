@@ -3213,7 +3213,7 @@
  "tags": [
   "author=zbidou72",
   "commandline=-game aqualus",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=aqualusV11.zip",
   "game=quake",
   "game_mode=singleplayer",

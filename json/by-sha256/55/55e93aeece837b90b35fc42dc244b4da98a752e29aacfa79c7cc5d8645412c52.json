@@ -91,7 +91,7 @@
   "author=Chuma",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=dungeonascension-3.0.zip",
   "game=quake",
   "game_mode=singleplayer",

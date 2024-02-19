@@ -1267,7 +1267,7 @@
   "author=stickflip",
   "author=sze",
   "commandline=-game snack3",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=snack3.zip",
   "game=quake",
   "game_mode=singleplayer",

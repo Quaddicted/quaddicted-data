@@ -26,7 +26,7 @@
   "author=digs",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=ad_digs10.zip",
   "game=quake",
   "game_mode=singleplayer",

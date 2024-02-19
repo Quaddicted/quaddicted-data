@@ -2897,7 +2897,7 @@
  "tags": [
   "author=zigi",
   "commandline=-game utotp",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=utotp.zip",
   "game=quake",
   "game_mode=singleplayer",

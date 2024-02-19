@@ -1705,7 +1705,7 @@
  "tags": [
   "author=Shadesmaster",
   "commandline=-game grinch",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=grinch.zip",
   "game=quake",
   "game_mode=singleplayer",

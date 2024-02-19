@@ -1004,7 +1004,7 @@
  "tags": [
   "author=ComfyByTheFire",
   "commandline=-game starslave",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=starslave_v1_3.zip",
   "game=quake",
   "game_mode=singleplayer",

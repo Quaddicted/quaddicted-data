@@ -870,7 +870,7 @@
  "tags": [
   "author=GunSgtHighway",
   "commandline=-game gsh_castleod",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=gsh_castleod.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -868,7 +868,7 @@
  "tags": [
   "author=DragonsForLunch",
   "commandline=-game tainted",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=taintedv1_2.zip",
   "game=quake",
   "game_mode=singleplayer",

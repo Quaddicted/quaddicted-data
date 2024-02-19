@@ -111,7 +111,7 @@
   "author=ZetaByt",
   "commandline=-game alk1.2",
   "dependency=alk1.2",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=zet_auriga_v1.01.zip",
   "game=quake",
   "game_mode=singleplayer",

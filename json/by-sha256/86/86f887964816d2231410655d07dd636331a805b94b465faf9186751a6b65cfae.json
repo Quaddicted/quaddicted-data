@@ -1088,7 +1088,7 @@
   "author=magnetbox",
   "author=nickster",
   "commandline=-game reload",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=reload.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -2613,7 +2613,7 @@
  "tags": [
   "author=Chuma",
   "commandline=-game lamothe",
-  "exceedslimits=yes",
+  "exceedslimits=exceeds_quake_limits",
   "filename=lamothe-1.0.zip",
   "game=quake",
   "game_mode=singleplayer",
