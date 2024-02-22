@@ -1,0 +1,1723 @@
+{
+ "bytes": 70559758,
+ "files": {
+  "grinch/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-01-02T21:27:46.000Z"
+  },
+  "grinch/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T20:07:00.000Z"
+  },
+  "grinch/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "a5046f0663151f5b621d16cff5f4092b420d23ed27496267a6fe729825eb618a",
+   "timestamp": "2023-06-28T08:57:48.000Z"
+  },
+  "grinch/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:16:08.000Z"
+  },
+  "grinch/gfx/env/mak_aurora1_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "664dfe5d666f82b4c56295dbc0e6581818efd8e97639dcb9b359967120d45d6f",
+   "timestamp": "2022-10-21T23:10:50.000Z"
+  },
+  "grinch/gfx/env/mak_aurora1_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "2917f93020c46e654afcffea05414048a27ed0ba319c440ea41b2e4f20b1a106",
+   "timestamp": "2022-10-21T23:10:48.000Z"
+  },
+  "grinch/gfx/env/mak_aurora1_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "4e7a7551815adadfeb5629b46c5439e7bc15ed90811f8624e40e02114b243034",
+   "timestamp": "2022-10-21T23:10:46.000Z"
+  },
+  "grinch/gfx/env/mak_aurora1_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "b8e096df5dbeb61d04d362442a4f19067e6351f4a8a2f2de23abf6bb958b363c",
+   "timestamp": "2022-10-21T23:10:44.000Z"
+  },
+  "grinch/gfx/env/mak_aurora1_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "0f50ce8c4cfdd6ed695b02650360029c7912529c09d9bdf116527939fe3c9189",
+   "timestamp": "2022-10-21T23:10:40.000Z"
+  },
+  "grinch/gfx/env/mak_aurora1_up.tga": {
+   "bytes": 3145772,
+   "sha256": "b8d9924059f1fb3e50e428dc607b34b232274f1f20c21fc688b241eba86b8a2e",
+   "timestamp": "2022-10-21T23:10:42.000Z"
+  },
+  "grinch/grinch.txt": {
+   "bytes": 2331,
+   "sha256": "c747d83a0a3cd107d7b4a9690a0d3dbd045fb174ac379bf9f1732651cba1ebe6",
+   "timestamp": "2024-01-02T21:31:22.000Z"
+  },
+  "grinch/grinch0.png": {
+   "bytes": 2157723,
+   "sha256": "d29accdd6fb581c3d13f96e265677dbdfe221cfda84d7b14b0a3f3179d7ecd73",
+   "timestamp": "2023-12-31T20:52:40.000Z"
+  },
+  "grinch/grinch1.png": {
+   "bytes": 1986732,
+   "sha256": "ec9f6929078ef2847cf426138822ebe74ef4d5d8e43b1c8e419a28cbd14cfe4a",
+   "timestamp": "2023-12-31T20:52:02.000Z"
+  },
+  "grinch/grinch2.png": {
+   "bytes": 2357675,
+   "sha256": "5ce07f177893967615cfb63a8ef3fbbd67066d4ad34e553af6c9f798da17c918",
+   "timestamp": "2023-12-31T20:52:16.000Z"
+  },
+  "grinch/grinch3.png": {
+   "bytes": 2225838,
+   "sha256": "da05fa12ce62ee5fb6f9efb6024b6bee5a501c5cdc056e6a7fae4efae1cba280",
+   "timestamp": "2023-12-31T20:56:08.000Z"
+  },
+  "grinch/grinch4.png": {
+   "bytes": 2997665,
+   "sha256": "59c7ed92a4d6f6d1fecf50bc860bcfcef46fcb7cbd6b1247554536a5f5fb2d6f",
+   "timestamp": "2023-12-31T20:56:42.000Z"
+  },
+  "grinch/grinch5.png": {
+   "bytes": 921636,
+   "sha256": "610621caefa797074667b8a4210553984b192113b2530ab7a199bbe1cf56e9c5",
+   "timestamp": "2024-01-02T21:27:42.000Z"
+  },
+  "grinch/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T20:09:54.000Z"
+  },
+  "grinch/maps/arlia_xmas.bsp": {
+   "bytes": 35369360,
+   "sha256": "19ebb7c02a5a482caf99feaadb29898544ce43d3fc4a405a84fb6abd6b40307f",
+   "timestamp": "2024-01-02T21:12:26.000Z"
+  },
+  "grinch/maps/arlia_xmas.lit": {
+   "bytes": 9629120,
+   "sha256": "33388e54e32bad404ff4d91428b31fe14042a6077dca35f6decd67764e44f73d",
+   "timestamp": "2024-01-02T21:12:24.000Z"
+  },
+  "grinch/maps/arlia_xmas.map": {
+   "bytes": 2195247,
+   "sha256": "4278318ec0e44b9d99cd82f8b69e275bfafd81da30a4e5c5fc91d166a696defc",
+   "timestamp": "2024-01-02T21:06:54.000Z"
+  },
+  "grinch/maps/arlia_xmas.wad": {
+   "bytes": 27367600,
+   "sha256": "70ec3cb929a10a198018a57be90bd8fcd9cc5b7908f1c91ce5553a9343e76a33",
+   "timestamp": "2023-12-31T12:49:26.000Z"
+  },
+  "grinch/maps/debris/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-27T07:37:36.000Z"
+  },
+  "grinch/maps/debris/brick01.bsp": {
+   "bytes": 7912,
+   "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "grinch/maps/debris/wood1.bsp": {
+   "bytes": 7584,
+   "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "grinch/maps/light.log": {
+   "bytes": 2966,
+   "sha256": "61c88dc6796a3299d68e525c468af68137055e3228a45c22a54bc9502cef0dad",
+   "timestamp": "2023-12-31T20:09:54.000Z"
+  },
+  "grinch/maps/start.bsp": {
+   "bytes": 6483680,
+   "sha256": "3e31433cec4d7f144ee9b0e11ae3438d5c119e001988d0d7ca409db07191159a",
+   "timestamp": "2023-12-31T20:09:54.000Z"
+  },
+  "grinch/maps/start.lit": {
+   "bytes": 75116,
+   "sha256": "3372874e94110fba075f0ba6c9742cafdf1a972c8ea654d80c1e57ed72468309",
+   "timestamp": "2023-12-31T20:09:54.000Z"
+  },
+  "grinch/maps/start.log": {
+   "bytes": 2429,
+   "sha256": "3642ac7fba99d997776f7ac163bd3ff5fa2ed9bc771317353ca5b65033d7485f",
+   "timestamp": "2023-12-31T20:09:50.000Z"
+  },
+  "grinch/maps/start.map": {
+   "bytes": 132295,
+   "sha256": "35c93c4615ddb5c2157e073995135d1dd20f3ceb817c96d919530e838008a005",
+   "timestamp": "2023-12-31T20:09:46.000Z"
+  },
+  "grinch/maps/start.prt": {
+   "bytes": 7467,
+   "sha256": "6482872ff861205abc2d3f5dbb3e657b5cb34e546f72332ddb98d363a6ae19f5",
+   "timestamp": "2023-12-31T20:09:50.000Z"
+  },
+  "grinch/maps/start.texinfo": {
+   "bytes": 918,
+   "sha256": "dd793d0c48f1c308de10806182c98acefaa831ccbfc0e52f51f416d21433622d",
+   "timestamp": "2023-12-31T20:09:50.000Z"
+  },
+  "grinch/maps/vis.log": {
+   "bytes": 512,
+   "sha256": "9b4439ebe9d17d667c0c847eb08ea2de5fd32e379885bf01c31d862baa7314be",
+   "timestamp": "2023-12-31T20:09:54.000Z"
+  },
+  "grinch/models/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:19:00.000Z"
+  },
+  "grinch/models/elemental.mdl": {
+   "bytes": 204828,
+   "sha256": "2161df1ae80561f7ef9f8a228769c9a804fc558d8e054ce7a838216245999448",
+   "timestamp": "2022-12-05T17:27:46.000Z"
+  },
+  "grinch/models/elementals.png": {
+   "bytes": 498119,
+   "sha256": "b14921b05103f430891d43311a7184105738ea51b36ebd5a05ff58a4cb24285b",
+   "timestamp": "2022-12-05T17:27:20.000Z"
+  },
+  "grinch/models/fiend.jpg": {
+   "bytes": 14492,
+   "sha256": "ff8f6b19ef67113a65840d94a6fd6633b8291ffc3312c76cae4161ec2ab0896b",
+   "timestamp": "2023-02-26T09:32:50.000Z"
+  },
+  "grinch/models/fireshambler.jpg": {
+   "bytes": 63110,
+   "sha256": "3d08d2e7fc5e02729231de88af2073c7ea28b782b5b34023bf4803347e19bc24",
+   "timestamp": "2022-12-05T17:11:54.000Z"
+  },
+  "grinch/models/fireshambler.mdl": {
+   "bytes": 169404,
+   "sha256": "5492386814e9142d4d385d4e985f1b207dc7cdf5de4ef7e3526a69ca2131c83a",
+   "timestamp": "2022-12-05T17:07:42.000Z"
+  },
+  "grinch/models/fireshambler.png": {
+   "bytes": 81328,
+   "sha256": "7d26df077478ca29eaabfba89cc6500e263c3141d6b172c41cce056aa7669344",
+   "timestamp": "2022-12-05T17:10:16.000Z"
+  },
+  "grinch/models/horn.jpg": {
+   "bytes": 18479,
+   "sha256": "8a6912849a44052e738ffcfdacb7c0b73a53210861fbf3eaaaba7d0aac1ee997",
+   "timestamp": "2023-02-26T08:42:56.000Z"
+  },
+  "grinch/models/iceboss.mdl": {
+   "bytes": 1552352,
+   "sha256": "0ea7562b49f34c3f9947eebd90ad83c1b92b563ebd09a0db13758f41839dfd51",
+   "timestamp": "2022-04-04T21:18:30.000Z"
+  },
+  "grinch/models/monsters/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-01-02T19:41:18.000Z"
+  },
+  "grinch/models/monsters/archvile.mdl": {
+   "bytes": 1569296,
+   "sha256": "35f9495a69c87360cc7d10b62d8fa2fb042aab4c604fed67f7f650d4797b2fb4",
+   "timestamp": "2023-12-31T14:41:56.000Z"
+  },
+  "grinch/models/monsters/big_spike.mdl": {
+   "bytes": 1058816,
+   "sha256": "451458023db62875117f633b232d59b3b71a310ee2a7fd494e95db026b929bc7",
+   "timestamp": "2023-01-12T20:10:10.000Z"
+  },
+  "grinch/models/monsters/dguardlt.mdl": {
+   "bytes": 176648,
+   "sha256": "198ceb60a6b324a57bacd579355af82b1f71ace622f604622c69ffb9adee1593",
+   "timestamp": "2023-12-31T13:55:18.000Z"
+  },
+  "grinch/models/monsters/diviner.mdl": {
+   "bytes": 294108,
+   "sha256": "47292322b80ebcf5dd97a0df7ef2ef2783623d08bbd397a2c49d460d9f09d1ad",
+   "timestamp": "2024-01-02T19:33:56.000Z"
+  },
+  "grinch/models/monsters/fireball.mdl": {
+   "bytes": 47968,
+   "sha256": "ef99bf083994d85f3ba265ee004b7b3f86aef8f78628dd8b2a512005ff79de5f",
+   "timestamp": "2023-01-11T19:39:24.000Z"
+  },
+  "grinch/models/monsters/gib_arch_arm.mdl": {
+   "bytes": 237956,
+   "sha256": "4646ba975be317c4f578895f617749ee6aa590d56c1b2cab674873e3f4b5472c",
+   "timestamp": "2023-12-31T14:28:16.000Z"
+  },
+  "grinch/models/monsters/gib_arch_head.mdl": {
+   "bytes": 1388112,
+   "sha256": "b74f9d4815e0641637beb26b48bc9145a0c7aefc25e86e2591459f4ef997f7d1",
+   "timestamp": "2023-12-31T14:34:34.000Z"
+  },
+  "grinch/models/monsters/gib_arch_leg.mdl": {
+   "bytes": 235476,
+   "sha256": "d218fc8ed6a9ca56530e4d727c49a7c897217bf29653d8e34f8e0e29ff43a06e",
+   "timestamp": "2023-12-31T14:43:48.000Z"
+  },
+  "grinch/models/monsters/gib_arch_torso.mdl": {
+   "bytes": 247732,
+   "sha256": "2bd87dcc9a98d2055bda3737676d961406e3fe1e0e2eb6c0c3c109fa206cb078",
+   "timestamp": "2023-12-31T15:15:04.000Z"
+  },
+  "grinch/models/monsters/gib_ice.mdl": {
+   "bytes": 11268,
+   "sha256": "f78949500b30d2b3db25c50a5f4cc9239dfb5aa686258f5589fc93c72705bdce",
+   "timestamp": "2023-12-31T20:23:42.000Z"
+  },
+  "grinch/models/monsters/gib_judgeboot.mdl": {
+   "bytes": 68228,
+   "sha256": "f25f72ba9d3627cfcb3371871b23e3698fd3c0b2f6b570b59d0f1affeb120c4a",
+   "timestamp": "2023-12-31T14:47:14.000Z"
+  },
+  "grinch/models/monsters/gib_judgeshould.mdl": {
+   "bytes": 68052,
+   "sha256": "7ecdbcc2f1143fdc9cd2f9b86f3bda99654daa1158cd45ea2a01b5884807fb67",
+   "timestamp": "2023-12-31T14:47:50.000Z"
+  },
+  "grinch/models/monsters/gib_rock.mdl": {
+   "bytes": 19368,
+   "sha256": "4a2e7c2207992bcbda6c45953478fc03b934e8fe01c76dfd8afcd786da16788b",
+   "timestamp": "2023-12-31T20:23:56.000Z"
+  },
+  "grinch/models/monsters/greenfireball.mdl": {
+   "bytes": 25112,
+   "sha256": "d29368557dde476f14f053c4e88808f6431af1a7269767bc6b46e9653621337b",
+   "timestamp": "2022-09-04T14:59:24.000Z"
+  },
+  "grinch/models/monsters/greenspike.mdl": {
+   "bytes": 25112,
+   "sha256": "3f4f54208259371dc58ff98a209b8e9937c2de611b6e31fd66336253989eba84",
+   "timestamp": "2022-09-04T14:58:54.000Z"
+  },
+  "grinch/models/monsters/gremgrn.mdl": {
+   "bytes": 110576,
+   "sha256": "e52537c58a50d64fc02c80a6c57f55eb662b762ed50f565b61d8c0f5778bfd50",
+   "timestamp": "2022-08-28T12:46:04.000Z"
+  },
+  "grinch/models/monsters/grinch.mdl": {
+   "bytes": 1569296,
+   "sha256": "7f74ba130b0da048ee30c32dde9dfee5496db813d982be88863876e920a9a0bd",
+   "timestamp": "2023-12-28T22:34:10.000Z"
+  },
+  "grinch/models/monsters/h_grem.mdl": {
+   "bytes": 15380,
+   "sha256": "b6b3713105cedd0f6cef824ebf2bb994503bc2769c4b4177994393f88bb2bae5",
+   "timestamp": "2022-08-27T23:14:42.000Z"
+  },
+  "grinch/models/monsters/h_guardian.mdl": {
+   "bytes": 216896,
+   "sha256": "c3a88daf39add8eb53c0b6d6764e5f11dd9fc6116adeb77030ec6aba52bd1cf2",
+   "timestamp": "2023-01-11T20:17:42.000Z"
+  },
+  "grinch/models/monsters/mon_golem.mdl": {
+   "bytes": 628276,
+   "sha256": "15bf93dbe02cfb3eea4964a2dcdd1d686b4ce9dbc17cbdc36aa0897719ec15b2",
+   "timestamp": "2023-12-27T22:20:56.000Z"
+  },
+  "grinch/models/monsters/mon_guardian_big.mdl": {
+   "bytes": 328880,
+   "sha256": "220422c1c5a1ba3567e49284a8cc9385b0953e3d45bd6643fc121fe49a2c783a",
+   "timestamp": "2023-12-28T22:31:00.000Z"
+  },
+  "grinch/models/monsters/mon_immora.mdl": {
+   "bytes": 1023508,
+   "sha256": "ac118f58c5db630bd6c2ce805daa32e8c62e6ea6f8536a0bca778bed8d28b893",
+   "timestamp": "2023-12-29T18:43:14.000Z"
+  },
+  "grinch/models/monsters/mon_judge.mdl": {
+   "bytes": 1033584,
+   "sha256": "6d2f153594baf38eb14287a41ab2a87d8ed7265a2cc46d90d2d64db6ba7eef21",
+   "timestamp": "2023-12-31T10:44:56.000Z"
+  },
+  "grinch/models/monsters/proj_immorablue.mdl": {
+   "bytes": 22660,
+   "sha256": "1f7e3b969482978f1be2964fa8e68b77f33dc29f9f429dc4ea951e26f4dba23c",
+   "timestamp": "2022-09-19T20:53:08.000Z"
+  },
+  "grinch/models/monsters/proj_immoraorange.mdl": {
+   "bytes": 22660,
+   "sha256": "2896a549f1336310c13710e1a391e20d80fd6e6247feda0ede6aaf809ce31cf6",
+   "timestamp": "2023-12-31T10:38:44.000Z"
+  },
+  "grinch/models/monsters/rena.mdl": {
+   "bytes": 294108,
+   "sha256": "37dd8a260988c02d9d0c5e0507b17436d8f6d12e44973c6d7d90f9eb85e0c184",
+   "timestamp": "2024-01-02T21:20:38.000Z"
+  },
+  "grinch/models/monsters/rogue_plasma_green.mdl": {
+   "bytes": 54972,
+   "sha256": "c0919878a1783cf3197598d570fead76378e3a6d2ea8c22b59c14c2dbae145d4",
+   "timestamp": "2023-03-02T20:43:20.000Z"
+  },
+  "grinch/models/monsters/rogue_plasma_orange.mdl": {
+   "bytes": 54972,
+   "sha256": "82fee508165067c66de46d9dad4060d78924806c29eacaf9b438608d703568eb",
+   "timestamp": "2023-12-31T16:19:48.000Z"
+  },
+  "grinch/models/monsters/sword.mdl": {
+   "bytes": 51880,
+   "sha256": "67da3956d6498e01c708cb688197cc1fef94264e5a9cd23bb4f9cb06d1b65fe2",
+   "timestamp": "2023-01-15T12:47:52.000Z"
+  },
+  "grinch/models/monsters/wrath.mdl": {
+   "bytes": 201000,
+   "sha256": "be8184ac12f9f60ad80e8c294d7af25f6875999e500f54256183ef910f2eb1b1",
+   "timestamp": "2023-12-28T20:41:04.000Z"
+  },
+  "grinch/models/monsters/wrthgib1.mdl": {
+   "bytes": 5300,
+   "sha256": "be341d54e1fe39bfd9239f1a708bb32548902067c80c5643479da30647087229",
+   "timestamp": "2018-06-23T11:48:40.000Z"
+  },
+  "grinch/models/monsters/wrthgib2.mdl": {
+   "bytes": 6292,
+   "sha256": "e0f85f9b51c584f30d27c48134dac9a35d25b7b6eb441df7b4b5c442c2b7e142",
+   "timestamp": "2018-06-23T11:48:40.000Z"
+  },
+  "grinch/models/monsters/wrthgib3.mdl": {
+   "bytes": 2516,
+   "sha256": "18550030f73726841d57f557d8791d5f2721bd7d7235e08636a960af3765c4e3",
+   "timestamp": "2018-06-23T11:48:40.000Z"
+  },
+  "grinch/models/nature/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:19:26.000Z"
+  },
+  "grinch/models/nature/pine_scraggy.mdl": {
+   "bytes": 491064,
+   "sha256": "c7f303bb35061d5cec232f6ca6b3840edc878b640c57637325db982ff42071c0",
+   "timestamp": "2023-12-25T18:15:52.000Z"
+  },
+  "grinch/models/nature/pinetree.mdl": {
+   "bytes": 553264,
+   "sha256": "943e884b7e6983b5b4ab81deca8fff30057f9e1c57ef81c42afa8400d3452b8a",
+   "timestamp": "2023-12-25T17:42:42.000Z"
+  },
+  "grinch/models/nature/pinetreelg.mdl": {
+   "bytes": 553264,
+   "sha256": "dcdc330e182c84dfc93d7890085f2f36a9b32ff73676cf89f9246eed20059675",
+   "timestamp": "2023-12-25T18:15:06.000Z"
+  },
+  "grinch/models/nature/pinetreem.mdl": {
+   "bytes": 556248,
+   "sha256": "6b645c4191dc8a58b72b4ced4a14cef70bb3e148cc33bf68a02c30203cb47cff",
+   "timestamp": "2023-12-25T18:16:16.000Z"
+  },
+  "grinch/models/nature/tree_christmas.mdl": {
+   "bytes": 153256,
+   "sha256": "cfbda656bd6ba189c9257ffcca24845310593f05cd5e6a5c07d6e1abf29bc9fd",
+   "timestamp": "2023-12-27T16:58:56.000Z"
+  },
+  "grinch/models/nature/tree_dead1.mdl": {
+   "bytes": 237576,
+   "sha256": "f1f85524e4018552188aa58979154ce5544381d7bfd5ae05da521e55efdc25e5",
+   "timestamp": "2018-06-23T11:48:40.000Z"
+  },
+  "grinch/models/nature/tree_dead2.mdl": {
+   "bytes": 237576,
+   "sha256": "14fd82b249c12bae50c1b154863a9cbbd2e688978051f754bd8098c29b5a3516",
+   "timestamp": "2023-12-26T21:06:52.000Z"
+  },
+  "grinch/models/nature/tree_dead3.mdl": {
+   "bytes": 195728,
+   "sha256": "98d848fb2e274c88a481d97b6daae126d9c669eb9a06418cf5039ec6ebeb134b",
+   "timestamp": "2023-12-26T21:08:20.000Z"
+  },
+  "grinch/models/nature/tree_dead4.mdl": {
+   "bytes": 404432,
+   "sha256": "1b6ba91642431a5115876ecde45b26122e1e1658c0916c72c576bc76ee017621",
+   "timestamp": "2023-12-26T21:14:02.000Z"
+  },
+  "grinch/models/nature/tree_dead5.mdl": {
+   "bytes": 404432,
+   "sha256": "295d52998f730d35b6f43d685aea6a13707cb55c612594f1a3be3830ec2f8721",
+   "timestamp": "2023-12-26T21:16:38.000Z"
+  },
+  "grinch/models/nature/tree_dead6.mdl": {
+   "bytes": 340612,
+   "sha256": "4ad75fd504a40024285df24d727e6a41d1f83e9a1f678a0af2ac24d698a5f32a",
+   "timestamp": "2023-12-26T21:32:58.000Z"
+  },
+  "grinch/models/nature/tree_dead7.mdl": {
+   "bytes": 145444,
+   "sha256": "e87574f4e067fe99704d235ec155118736e0e69d9554f8622a1f1ee1c4f831cf",
+   "timestamp": "2018-06-23T11:48:40.000Z"
+  },
+  "grinch/models/nature/tree_dead8.mdl": {
+   "bytes": 145444,
+   "sha256": "c063ff744eb08a2ba4c37994fa415a26f55b1aa531ba05816189512d0f490fc7",
+   "timestamp": "2023-12-26T21:15:34.000Z"
+  },
+  "grinch/models/nature/tree_dead9.mdl": {
+   "bytes": 237576,
+   "sha256": "4d2850cabd6c95bb074f0b3049508c89b3ea5db5ac710925e3a034d5fe224603",
+   "timestamp": "2023-12-26T21:37:28.000Z"
+  },
+  "grinch/models/props/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:20:08.000Z"
+  },
+  "grinch/models/props/balxj_tree_baubles.mdl": {
+   "bytes": 773032,
+   "sha256": "55fb8c40a1b07efa5ae24f526381f4a5657bc92d47b7453b52c03c2e1cb072c4",
+   "timestamp": "2023-12-31T13:33:20.000Z"
+  },
+  "grinch/models/props/chair.mdl": {
+   "bytes": 9364,
+   "sha256": "ef2e4cc1c31f169782502119e62236b64aafcf2451211fb51db70bda6eed6ba7",
+   "timestamp": "2022-12-18T23:15:36.000Z"
+  },
+  "grinch/models/props/chair_lg.mdl": {
+   "bytes": 9364,
+   "sha256": "89930f15b92da9bee3f630c00b7c25c16490024d1b056d1cf43295b6f7998b6e",
+   "timestamp": "2023-12-31T13:48:02.000Z"
+  },
+  "grinch/models/props/h_santa.mdl": {
+   "bytes": 50660,
+   "sha256": "281511d4b2d9d7c01b903a596371328b797b83eb3c7da79f5b4f80198915a855",
+   "timestamp": "2023-12-31T16:58:22.000Z"
+  },
+  "grinch/models/props/horn.mdl": {
+   "bytes": 163332,
+   "sha256": "a7607241623c6305ed763a73f41b7492868c1e85a98c4d53347e5640fec3e644",
+   "timestamp": "2023-12-31T15:34:00.000Z"
+  },
+  "grinch/models/props/kebby_xjgift.mdl": {
+   "bytes": 2641204,
+   "sha256": "a8443aea969c190cba374621095ebf42c640d087e15be3a085437cdede521efc",
+   "timestamp": "2022-12-18T23:15:36.000Z"
+  },
+  "grinch/models/props/kebby_xjgift_box_open.mdl": {
+   "bytes": 2548480,
+   "sha256": "c6ad2d4632015694ac57912647f5623c2a6cf64aa424d9b907a2a05f1d21e89f",
+   "timestamp": "2022-12-18T23:15:36.000Z"
+  },
+  "grinch/models/props/kebby_xjgift_box_open_sideways.mdl": {
+   "bytes": 2548480,
+   "sha256": "874aad5b71c8ea15d76520f77be34a67613137002da904adcc2a832acccbad50",
+   "timestamp": "2022-12-18T23:15:36.000Z"
+  },
+  "grinch/models/props/kebby_xjgift_lg.mdl": {
+   "bytes": 2641204,
+   "sha256": "27abc67441bc25977f4c9eb744efaaa674c69b965a6035ec77bc620b9f7b4b7f",
+   "timestamp": "2023-12-31T13:40:12.000Z"
+  },
+  "grinch/models/props/kebby_xjgift_lid.mdl": {
+   "bytes": 2577064,
+   "sha256": "0eec4a77fff51564c18bdb73da9f4ef906d18c7a886d1298fc2ac325639a8a0b",
+   "timestamp": "2022-12-18T23:15:36.000Z"
+  },
+  "grinch/models/props/kebby_xjgift_md.mdl": {
+   "bytes": 2641204,
+   "sha256": "dbbaece01e02e95f3e9733dfb6343e6f91caa51ce9dda6f6f470cb1ae9ad4fb0",
+   "timestamp": "2023-12-31T13:39:46.000Z"
+  },
+  "grinch/models/props/lantern.mdl": {
+   "bytes": 35652,
+   "sha256": "5ead9cf56bde8354b4f49bff5b0dc049d85a2393d58f4fa39d99abe9d3893397",
+   "timestamp": "2023-12-26T22:18:52.000Z"
+  },
+  "grinch/models/props/misc_lantern.mdl": {
+   "bytes": 28836,
+   "sha256": "d84e36232543a053f2772b1070b221dc23da1b34cd08ea551a982b5e9f168ea5",
+   "timestamp": "2023-12-26T20:49:38.000Z"
+  },
+  "grinch/models/props/snowflake.mdl": {
+   "bytes": 134688,
+   "sha256": "94226f70fd9cbe20e6e5575eef0e290fe17230dba2e671edb96a82a94b5d409a",
+   "timestamp": "2023-12-29T20:49:32.000Z"
+  },
+  "grinch/models/props/str_lantern.mdl": {
+   "bytes": 302132,
+   "sha256": "d632d512b150d7da6497bc50e518b3962803b0e7b4e82dda8f0b409652af19bb",
+   "timestamp": "2023-12-31T13:20:44.000Z"
+  },
+  "grinch/models/shambler_lava.mdl": {
+   "bytes": 169404,
+   "sha256": "ad2e203aaa0c9b88ed8d6793557c20c2b425f8d2d2f6ce6473697ffc4bd31752",
+   "timestamp": "2022-12-05T17:13:42.000Z"
+  },
+  "grinch/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:17:46.000Z"
+  },
+  "grinch/music/track02.ogg": {
+   "bytes": 3778171,
+   "sha256": "01c1953f74cb511cdb9422018068bec1219d4cce3d3340fc1634b7a54bb8d5f2",
+   "timestamp": "2021-08-19T17:40:46.000Z"
+  },
+  "grinch/music/track03.ogg": {
+   "bytes": 657739,
+   "sha256": "18ab87a2f6beba0ef806ae7feab8c94f7fc5ccf811e2296afd0cc15eb58776e5",
+   "timestamp": "2023-01-19T19:03:38.000Z"
+  },
+  "grinch/music/track32.ogg": {
+   "bytes": 3335344,
+   "sha256": "f35da98435162b2526386f03015ec2f60ebb524a542f9342cfc6bcb2fae8050e",
+   "timestamp": "2021-08-19T17:40:46.000Z"
+  },
+  "grinch/progs.dat": {
+   "bytes": 749842,
+   "sha256": "cf5045e62b6668ef38eece435e868c67dcc3051212d1fab442c2413a71e57f41",
+   "timestamp": "2022-09-26T08:38:14.000Z"
+  },
+  "grinch/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:46:24.000Z"
+  },
+  "grinch/progs/a_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-27T07:37:36.000Z"
+  },
+  "grinch/progs/a_mdls/m_cells1.mdl": {
+   "bytes": 3252,
+   "sha256": "1cdfc2b54dd883efe9215499603e341bfa72e800740a2e874e9bcf3b0afc68ba",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_cells2.mdl": {
+   "bytes": 4532,
+   "sha256": "8cb54159eeaa410b98478e9190bd2d33340d3a2e98a61d32ce1afaf4e99031a0",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_nails1.mdl": {
+   "bytes": 3252,
+   "sha256": "ac361970fb1cbbb87ad4593afecd6d8973a65ea4f14e5f7b565c8f38c181fa9d",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_nails2.mdl": {
+   "bytes": 4532,
+   "sha256": "0870b633f95bda895074e8d423631ee8805c3923f36a1c7f09938710783e8f99",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_rock1.mdl": {
+   "bytes": 3252,
+   "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_rock2.mdl": {
+   "bytes": 4532,
+   "sha256": "59988afc3603b83ccfadf0a9af423a113bf15ed969d4a62db9073e3061bc0fdc",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_shell1.mdl": {
+   "bytes": 3252,
+   "sha256": "696594c11dd6dbd2e60ac6923d82a55f8f5b16e93b93f7914abe5fd4df74299f",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/a_mdls/m_shell2.mdl": {
+   "bytes": 4532,
+   "sha256": "b558ee2dfd0078c7e3075079fb40368f53e7dfb162aaefcd20e53f562e405b1b",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/armshr.mdl": {
+   "bytes": 20012,
+   "sha256": "1873523424395b404ffafeb447383185e033826e33bf0a001efc34604ece95da",
+   "timestamp": "2022-08-27T08:17:44.000Z"
+  },
+  "grinch/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "grinch/progs/debris.mdl": {
+   "bytes": 263072,
+   "sha256": "2b60cba9cbb454e3524d174edc0e1a540f2b2e91fa0b35fc2ab20ccb7fabd8d1",
+   "timestamp": "2022-07-16T10:39:22.000Z"
+  },
+  "grinch/progs/enforcer.mdl": {
+   "bytes": 472208,
+   "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "grinch/progs/g_shotgu.mdl": {
+   "bytes": 29076,
+   "sha256": "4a8866ab410a93522a3d3221e0f3b45889a488b54c0551329f09493273e09840",
+   "timestamp": "2022-07-14T22:01:26.000Z"
+  },
+  "grinch/progs/greenspike.mdl": {
+   "bytes": 25112,
+   "sha256": "3f4f54208259371dc58ff98a209b8e9937c2de611b6e31fd66336253989eba84",
+   "timestamp": "2022-09-04T14:58:54.000Z"
+  },
+  "grinch/progs/h_boss.mdl": {
+   "bytes": 24028,
+   "sha256": "b41e2302e15d7cb47bf1eb4ee1df29e7e8d773a3dfc6059f5b1f8ce18685bba6",
+   "timestamp": "2022-07-16T10:39:40.000Z"
+  },
+  "grinch/progs/h_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-27T07:37:36.000Z"
+  },
+  "grinch/progs/h_mdls/m_h100.mdl": {
+   "bytes": 17992,
+   "sha256": "2e7fac7418838a721d80e80370000f3e400b21248b22c8d3555588d4f8437a5b",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/h_mdls/m_h15.mdl": {
+   "bytes": 3252,
+   "sha256": "1f4b0791be3156763c15521fbf2e747744ce3355d90d630b01c2227770314771",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/h_mdls/m_h25.mdl": {
+   "bytes": 14792,
+   "sha256": "6f792b9a80f34e31bceb4258e1d2c8f22d405a7ae1198b31bb285f502c720cfe",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/h_mdls/pd_vial.mdl": {
+   "bytes": 8292,
+   "sha256": "035673048c98991e790abe484c2403b56dfe5ea1f5fb185c1b7a657d918668e8",
+   "timestamp": "2022-07-31T08:06:18.000Z"
+  },
+  "grinch/progs/h_ogre.mdl": {
+   "bytes": 42048,
+   "sha256": "52760ce1f6e8f657e782846571baf9fde80859f5342d07a684fa8218f96f68db",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "grinch/progs/k_spike2.mdl": {
+   "bytes": 444704,
+   "sha256": "e466e7afa95868ec1a3b3bfc770573d93dc20c2d881a73d2b9b0e35f1dfa6d9b",
+   "timestamp": "2022-09-25T13:11:58.000Z"
+  },
+  "grinch/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "59264317258f19955b967177f0dbc5be1733e4ca07c4c7b3cc333bb88bc0c46e",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "grinch/progs/mervup.mdl": {
+   "bytes": 32948,
+   "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/ogre.mdl": {
+   "bytes": 366916,
+   "sha256": "29fa9866dd4862b99ebb9944ddb0bf24a6d0bb4bf00e26a94d3622cead9b6315",
+   "timestamp": "2021-09-27T10:05:14.000Z"
+  },
+  "grinch/progs/pd_b_key.mdl": {
+   "bytes": 128440,
+   "sha256": "c5aff23b766037ab550636516d7fe0235dacf566ddb966541d640092bcb62349",
+   "timestamp": "2022-08-15T07:16:34.000Z"
+  },
+  "grinch/progs/pd_bpack.mdl": {
+   "bytes": 216724,
+   "sha256": "1839c92899197344935eca44d7b4c70e903af84ab633259786f8c12c39905149",
+   "timestamp": "2022-08-22T21:49:22.000Z"
+  },
+  "grinch/progs/pd_r_key.mdl": {
+   "bytes": 269528,
+   "sha256": "7ef6894b955c4ca34bf3e2ebdc6288f55cc3b1285478444a81ca769866e1a119",
+   "timestamp": "2022-07-14T22:01:20.000Z"
+  },
+  "grinch/progs/pd_w_key.mdl": {
+   "bytes": 170680,
+   "sha256": "73f06fc10a53c93db25d67f20bad7672bc5f4e14bf3a6b5115d68f00696b536a",
+   "timestamp": "2022-08-17T08:55:00.000Z"
+  },
+  "grinch/progs/s_flame.spr": {
+   "bytes": 47856,
+   "sha256": "99fc3f91856aa6df2f25494a945e17b64b59ddc3faed424a6fcd73062a677fcc",
+   "timestamp": "2022-07-16T13:45:16.000Z"
+  },
+  "grinch/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "e306ec0fbf0f5e4306c6683f7c7b87674bb0a168ef32a2b1118dcffb083deeff",
+   "timestamp": "2022-05-16T10:59:28.000Z"
+  },
+  "grinch/progs/soldier.mdl": {
+   "bytes": 320900,
+   "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/spark.mdl": {
+   "bytes": 2544,
+   "sha256": "77d081c51af9bd6c82d2d51dcb955a2fca5189cda4eb09a138bfa2e2b521fb05",
+   "timestamp": "2022-07-14T22:01:30.000Z"
+  },
+  "grinch/progs/spike.mdl": {
+   "bytes": 4416,
+   "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "grinch/progs/teleport.mdl": {
+   "bytes": 1058800,
+   "sha256": "98eeb63a1ded2d7a1d3788562478aff891af1be4ef1c552bcdb913cb338387b6",
+   "timestamp": "2022-07-31T08:06:04.000Z"
+  },
+  "grinch/progs/v_spike.mdl": {
+   "bytes": 1058816,
+   "sha256": "ac4d47130af263cb6fd861d70ac09ebf758ab1a76da0b697e268382c65ae1a16",
+   "timestamp": "2022-08-07T12:30:54.000Z"
+  },
+  "grinch/progs/w_spike.mdl": {
+   "bytes": 311493,
+   "sha256": "add013a5a6686ffd76ec0f2b2b3413757432ba4a8564ffd81aeb7eb2c5a98398",
+   "timestamp": "2022-09-16T08:43:22.000Z"
+  },
+  "grinch/progs_dump-devkit-readme.txt": {
+   "bytes": 9360,
+   "sha256": "c8eb11121c42e133e391a016cae91abbd3766508d4108bf5a74ce61e6d8f2723",
+   "timestamp": "2023-05-12T18:21:40.000Z"
+  },
+  "grinch/quake.rc": {
+   "bytes": 469,
+   "sha256": "490877c3d81446c26fd36f25b358a0e0e109e6b3566f23a6a2d41c8319849750",
+   "timestamp": "2022-09-24T19:08:52.000Z"
+  },
+  "grinch/quakec src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-27T07:37:40.000Z"
+  },
+  "grinch/quakec src/LICENSE": {
+   "bytes": 18431,
+   "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b",
+   "timestamp": "2019-01-12T10:20:30.000Z"
+  },
+  "grinch/quakec src/ai.qc": {
+   "bytes": 18597,
+   "sha256": "bcd2d7de7ce600d39bbc9b189a2d9a6bde75cdcd0800e46bb14994424b287b26",
+   "timestamp": "2022-06-10T18:28:58.000Z"
+  },
+  "grinch/quakec src/boss.qc": {
+   "bytes": 13803,
+   "sha256": "41ca279d62544cdb718df7bc2905e7bb5df06706c54ef348d2d478470a4d5515",
+   "timestamp": "2022-05-12T08:38:28.000Z"
+  },
+  "grinch/quakec src/boss2.qc": {
+   "bytes": 16431,
+   "sha256": "d495677614d54635fe5f12d0f0d3fd88b88486d42ff2cc1cb467111390e79a84",
+   "timestamp": "2022-09-01T14:26:02.000Z"
+  },
+  "grinch/quakec src/buttons.qc": {
+   "bytes": 4446,
+   "sha256": "58ff5453eac2d012d5514d6c10babe85187744e1bd293720b2c1bda1109ebe04",
+   "timestamp": "2021-10-02T09:54:24.000Z"
+  },
+  "grinch/quakec src/changelog.txt": {
+   "bytes": 14317,
+   "sha256": "392ca6557e6c056f260904e815143403d98ecb8b6dde96d34cd98fc5504995fb",
+   "timestamp": "2022-09-17T13:37:14.000Z"
+  },
+  "grinch/quakec src/client.qc": {
+   "bytes": 35005,
+   "sha256": "84ad056d736b796c3ca4000c41c5dc9cd487489bc4fd35eb2914c3c65f19c63b",
+   "timestamp": "2022-01-25T13:15:20.000Z"
+  },
+  "grinch/quakec src/combat.qc": {
+   "bytes": 9118,
+   "sha256": "287c8d9d90a5dae838f6e2ced580bd306e545f255484a94308331a20d1c01d9b",
+   "timestamp": "2022-05-12T08:38:28.000Z"
+  },
+  "grinch/quakec src/cshift.qc": {
+   "bytes": 1747,
+   "sha256": "b3442a5eb8b04cfdcd2020dcc0099883e22f04153560308f793d0fcad8b3efbb",
+   "timestamp": "2022-02-19T10:20:34.000Z"
+  },
+  "grinch/quakec src/custom_mdls.qc": {
+   "bytes": 2275,
+   "sha256": "74f7e0e8bb25b8a70d54f1168ee90c773ee1bd909b15e045128f61e018716cc4",
+   "timestamp": "2021-09-06T12:12:54.000Z"
+  },
+  "grinch/quakec src/customsounds.qc": {
+   "bytes": 5564,
+   "sha256": "26bce1b876f3a8a709a2b61298d1f65de5f568f24ac66db713e8585afc694f5d",
+   "timestamp": "2020-11-07T21:36:26.000Z"
+  },
+  "grinch/quakec src/cutscene.qc": {
+   "bytes": 30738,
+   "sha256": "7b4d2fd6a7ffd2c2da115447e9f348a552d20c59728a072c7ced6308d31c0130",
+   "timestamp": "2022-09-26T08:38:10.000Z"
+  },
+  "grinch/quakec src/defs.qc": {
+   "bytes": 28880,
+   "sha256": "7cabf435fd377fcdce5895ee1d0a27e91c46a002a4b1689df712dc8b06546a57",
+   "timestamp": "2022-08-13T17:03:26.000Z"
+  },
+  "grinch/quakec src/demon.qc": {
+   "bytes": 15607,
+   "sha256": "14a99a3a771dfb5c0ddc4393a3cb520994a98fd16573f8ac6d6056a5b336f4f6",
+   "timestamp": "2022-01-25T14:56:34.000Z"
+  },
+  "grinch/quakec src/doelightning.qc": {
+   "bytes": 4955,
+   "sha256": "4b6233156f3792d7529d714de7f992c066a927d5f9109d9947caa2a7a2341c57",
+   "timestamp": "2021-01-29T09:50:08.000Z"
+  },
+  "grinch/quakec src/doeplats.qc": {
+   "bytes": 15495,
+   "sha256": "754e13c54f3d8ffc76ba80a1a7fbb3825ad5b300d9ff7f48195a7c6773036e80",
+   "timestamp": "2022-01-12T17:13:44.000Z"
+  },
+  "grinch/quakec src/dog.qc": {
+   "bytes": 15129,
+   "sha256": "3434cfe57a78759e0295ba717cafee2514ac01ae737732be046b7708e23da988",
+   "timestamp": "2022-01-25T14:56:34.000Z"
+  },
+  "grinch/quakec src/doors.qc": {
+   "bytes": 21714,
+   "sha256": "123edcc73083fd893140f1f4e5c337ca5925b923aa8f46862d1029ea1142afbe",
+   "timestamp": "2022-07-01T10:16:50.000Z"
+  },
+  "grinch/quakec src/dtmisc.qc": {
+   "bytes": 30024,
+   "sha256": "f383fb5017b305923ddbe5a71868e20567128c1fd4b66d5a9a761d7e3ee1e510",
+   "timestamp": "2022-07-09T20:34:38.000Z"
+  },
+  "grinch/quakec src/dtquake.qc": {
+   "bytes": 2654,
+   "sha256": "170b5464e0092f6a2f261910108381fd93fdb7fb5dd7bc047863f7bcc462dd9a",
+   "timestamp": "2020-11-27T21:06:14.000Z"
+  },
+  "grinch/quakec src/elevatr.qc": {
+   "bytes": 3624,
+   "sha256": "eb6a260d53ca8f7b69f20a8cc42341c597d5e06ea18bca86e6aabff71bbc892b",
+   "timestamp": "2021-01-29T09:50:20.000Z"
+  },
+  "grinch/quakec src/enforcer.qc": {
+   "bytes": 32786,
+   "sha256": "42de3a45a987bf7cf1921cc27d1d2a94129a43a4f8bb8b1de361e68968983ed7",
+   "timestamp": "2022-07-11T09:58:04.000Z"
+  },
+  "grinch/quakec src/fight.qc": {
+   "bytes": 9867,
+   "sha256": "0c2b4e3afe48260206e086c9742bf99c34f4c83993a368c0cfca764a84813add",
+   "timestamp": "2022-06-10T18:48:10.000Z"
+  },
+  "grinch/quakec src/fish.qc": {
+   "bytes": 11993,
+   "sha256": "d360b27d2e57192c2ebbaacd8532cdf7cd0330d63592032671c3b2efe5e41276",
+   "timestamp": "2022-01-12T17:13:44.000Z"
+  },
+  "grinch/quakec src/fog.qc": {
+   "bytes": 15746,
+   "sha256": "8e89fb2fa6a035620617bf155a531cff3261c60711a5c8237283970383ab2727",
+   "timestamp": "2022-07-28T08:37:18.000Z"
+  },
+  "grinch/quakec src/func_bob.qc": {
+   "bytes": 5676,
+   "sha256": "5fe11638fd89f509759c83748c519b98dc5fe5856b09fab1f6247518b9836143",
+   "timestamp": "2020-11-07T21:36:26.000Z"
+  },
+  "grinch/quakec src/func_brush.qc": {
+   "bytes": 1471,
+   "sha256": "cec99401fbecf0b4b07c81d79f13f3ea05a0f13296e75ddc3fcab4fff0dbd1f8",
+   "timestamp": "2022-01-04T22:28:36.000Z"
+  },
+  "grinch/quakec src/func_fall2.qc": {
+   "bytes": 8668,
+   "sha256": "eed5a376c5bc5a9262d2a6d08d46c67b3cae39a89830912a37d015e02e52d692",
+   "timestamp": "2022-06-25T08:37:18.000Z"
+  },
+  "grinch/quakec src/hipcount.qc": {
+   "bytes": 5217,
+   "sha256": "da5c096495966fa9ef5315ba00b315987349a817c889b974d8a91f506e6aee1d",
+   "timestamp": "2020-11-07T21:36:26.000Z"
+  },
+  "grinch/quakec src/hippart.qc": {
+   "bytes": 7983,
+   "sha256": "730ed584b4de9dd49283502419a8bcafb99e2f1a3d146e05afee0ab2547751c3",
+   "timestamp": "2021-10-18T13:59:18.000Z"
+  },
+  "grinch/quakec src/hiptrig.qc": {
+   "bytes": 6589,
+   "sha256": "4a5b1c58309c0a2c2d44d6d1a455263decba46bd965d71dd4e600aebb07c47e9",
+   "timestamp": "2022-07-01T10:16:50.000Z"
+  },
+  "grinch/quakec src/hknight.qc": {
+   "bytes": 30265,
+   "sha256": "1588171c8243cb9b71676cc35bb26cbfebe05e6577ea7a38c4cab8b7107ff3d0",
+   "timestamp": "2022-09-25T13:07:48.000Z"
+  },
+  "grinch/quakec src/intermission.qc": {
+   "bytes": 11029,
+   "sha256": "a3f031f373dffa837a1988445fffd7d9b979af9a675d2cba7f4e2bccc8f0a486",
+   "timestamp": "2022-01-01T10:17:06.000Z"
+  },
+  "grinch/quakec src/items.qc": {
+   "bytes": 66714,
+   "sha256": "85e2b7e7afcf5b0dab8db0f88187c5858c5790bffd98c44abd4269799e813c3d",
+   "timestamp": "2022-09-25T09:22:54.000Z"
+  },
+  "grinch/quakec src/keydata.qc": {
+   "bytes": 5639,
+   "sha256": "5902993c9755a2851ef424e48572a9806d20d3aae67a8f9d01446c4aad09a91a",
+   "timestamp": "2020-08-13T09:17:04.000Z"
+  },
+  "grinch/quakec src/keylock.qc": {
+   "bytes": 5884,
+   "sha256": "26751c63554a6e73da84138ee45871f501d3bb5250cbfa137a524087bc204e39",
+   "timestamp": "2020-08-13T09:17:04.000Z"
+  },
+  "grinch/quakec src/knight.qc": {
+   "bytes": 14999,
+   "sha256": "b03ffc882929eece408722163dd9c5d25f34d8096417c3288c276c5e6778dde9",
+   "timestamp": "2022-01-12T17:13:44.000Z"
+  },
+  "grinch/quakec src/lights.qc": {
+   "bytes": 16031,
+   "sha256": "5dc78d48aaafe3abdc220c3db75be4828bfba85fc25bbd62e799a29f4532a173",
+   "timestamp": "2022-07-16T22:04:22.000Z"
+  },
+  "grinch/quakec src/math.qc": {
+   "bytes": 4317,
+   "sha256": "961dd24bcc4b1941fc249a6d148e2a562e24fda4efc9e47e1040b516f8d86c2f",
+   "timestamp": "2022-02-10T10:22:32.000Z"
+  },
+  "grinch/quakec src/misc.qc": {
+   "bytes": 55326,
+   "sha256": "68871a011e43233445b6753cbceff302be8e570b8fb9049eeab2c032f1204681",
+   "timestamp": "2022-08-13T17:03:26.000Z"
+  },
+  "grinch/quakec src/misc_model.qc": {
+   "bytes": 5082,
+   "sha256": "9b7e616256997b563c1e5ab44918cd4b936606e2d26d2cb79f7e3b270623546c",
+   "timestamp": "2022-06-17T10:30:42.000Z"
+  },
+  "grinch/quakec src/mobot.qc": {
+   "bytes": 14723,
+   "sha256": "4d60beb5060a27a82d33ad6bcb5977e116bb9b93d9311aa7a30f925283b29be8",
+   "timestamp": "2022-08-13T17:03:26.000Z"
+  },
+  "grinch/quakec src/monsters.qc": {
+   "bytes": 12877,
+   "sha256": "4f5e2c7356a11bbd1465e1148b554fd732c249360c68f32efd6baa3bec0a1114",
+   "timestamp": "2022-08-13T17:03:26.000Z"
+  },
+  "grinch/quakec src/newflags.qc": {
+   "bytes": 5870,
+   "sha256": "192bf31eb0f13e6e55342801a42608caf797bfdfbdf27750c78ae67b1c1c5568",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "grinch/quakec src/ogre.qc": {
+   "bytes": 48366,
+   "sha256": "ac649ea8a41b1d4b4246f2e9c14bbc1cb7439381eba1b588c57545980f161930",
+   "timestamp": "2022-08-07T16:16:32.000Z"
+  },
+  "grinch/quakec src/oldone.qc": {
+   "bytes": 10467,
+   "sha256": "33ce6342a7c06ab06af995f235ab8170917db359a956d6fd96d00709c54a08c6",
+   "timestamp": "2022-01-25T13:15:20.000Z"
+  },
+  "grinch/quakec src/oldone2.qc": {
+   "bytes": 15136,
+   "sha256": "bad10c7974544972a4cdf8821eb745ea32a61de8bfa26c31b445ff1f619557c1",
+   "timestamp": "2022-05-29T08:14:30.000Z"
+  },
+  "grinch/quakec src/plats.qc": {
+   "bytes": 22678,
+   "sha256": "6ce695f58b859c09c7d79ae741b31246ca49a322515bbad54898dc19e0a5e448",
+   "timestamp": "2022-04-29T08:46:38.000Z"
+  },
+  "grinch/quakec src/player.qc": {
+   "bytes": 21779,
+   "sha256": "4c3935e710456c022c681ccf312109337616157bdebb7a72152f2ba37ec4cdce",
+   "timestamp": "2022-06-06T11:01:26.000Z"
+  },
+  "grinch/quakec src/progs.src": {
+   "bytes": 2033,
+   "sha256": "539b2dd5c36d69491e26a508c772d2f751529753f44465f48c52ce73cd8402d0",
+   "timestamp": "2022-07-16T18:14:04.000Z"
+  },
+  "grinch/quakec src/rotate.qc": {
+   "bytes": 31520,
+   "sha256": "ad5eee063eafd078f60ed3d247c19be9fc88887fd4c5aa307953c72089b53c6a",
+   "timestamp": "2022-06-20T11:49:52.000Z"
+  },
+  "grinch/quakec src/rubicon2.qc": {
+   "bytes": 29182,
+   "sha256": "aef0904a68af683fb3002effa918306ddfbe4230a18fd3470af107bd34105357",
+   "timestamp": "2022-09-24T08:44:38.000Z"
+  },
+  "grinch/quakec src/shalrath.qc": {
+   "bytes": 15839,
+   "sha256": "032b2f1eae78332de56603af833af57d78fa47ac29bf6eaf0a72c588b9e5c5df",
+   "timestamp": "2022-06-11T11:10:10.000Z"
+  },
+  "grinch/quakec src/shambler.qc": {
+   "bytes": 26084,
+   "sha256": "782cdf07726bb5c9b63fe93d880b39b9a6657463d4b145b53d26fb21290e8453",
+   "timestamp": "2022-06-11T08:55:06.000Z"
+  },
+  "grinch/quakec src/soldier.qc": {
+   "bytes": 21847,
+   "sha256": "28e94fd02188befb535bd16512cd6e7f4af3bdb5ef4a4cd6431965d8caf82474",
+   "timestamp": "2022-06-14T19:28:58.000Z"
+  },
+  "grinch/quakec src/spawn.qc": {
+   "bytes": 10642,
+   "sha256": "51571dd7851c2daf9d657b19350e05f5d10f85a212afcdd06757e1a27df7ef83",
+   "timestamp": "2022-01-25T13:15:20.000Z"
+  },
+  "grinch/quakec src/subs.qc": {
+   "bytes": 18016,
+   "sha256": "a7636b244cf1b7b8646feff48300c0ba8dd2d4e4169e18f14971de6904169880",
+   "timestamp": "2022-02-10T10:22:32.000Z"
+  },
+  "grinch/quakec src/triggers.qc": {
+   "bytes": 51080,
+   "sha256": "0fa737b126deb2e312b3f42bbd7f82281fbcf1f35df6faf4f19d6a0259f07bf5",
+   "timestamp": "2022-09-01T14:26:02.000Z"
+  },
+  "grinch/quakec src/utility.qc": {
+   "bytes": 4842,
+   "sha256": "a29fb47736072ad009a77ac4e063f9f7f4f854327b6c829a8e0403f4756c9994",
+   "timestamp": "2021-09-20T19:31:50.000Z"
+  },
+  "grinch/quakec src/weapons.qc": {
+   "bytes": 41766,
+   "sha256": "faceddfc37e7b414656a4660b9f951d2eb90424a01599ec02c9f7e912cc693a8",
+   "timestamp": "2022-09-24T13:49:22.000Z"
+  },
+  "grinch/quakec src/wizard.qc": {
+   "bytes": 16699,
+   "sha256": "02e4dfd2e264fd5901aaa3bb0a0ceb6381fc67027ddbba795c3702056a83cda2",
+   "timestamp": "2022-06-14T08:25:00.000Z"
+  },
+  "grinch/quakec src/world.qc": {
+   "bytes": 21577,
+   "sha256": "37578572550ac480bf0ace9d44b0082768115490950dee14731782dfc41cde16",
+   "timestamp": "2022-06-25T08:37:18.000Z"
+  },
+  "grinch/quakec src/zombie.qc": {
+   "bytes": 39679,
+   "sha256": "f2f4e0d2328c396087f9c4a06823861e5095f1c1ed7ec7a4163c8de350126fa4",
+   "timestamp": "2022-06-11T11:16:32.000Z"
+  },
+  "grinch/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:46.000Z"
+  },
+  "grinch/sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/ambience/chimes.wav": {
+   "bytes": 250476,
+   "sha256": "d1060cd75d8a520b748047790d33c9a4ab5fd626330ebf1242d318d308c165db",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/ambience/horn.wav": {
+   "bytes": 18016,
+   "sha256": "36d64e1d661b6c9fe5c7a27aabbe240c97ea23eade4359a5e854276219bf898b",
+   "timestamp": "2023-02-26T08:17:50.000Z"
+  },
+  "grinch/sound/ambience/moo.wav": {
+   "bytes": 265502,
+   "sha256": "35b7924115bc4cdf94e9cbb274a4d9ca251d6878817834bec08aaa176f2ddc9b",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/archvile/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/archvile/death.wav": {
+   "bytes": 131360,
+   "sha256": "2d58bff4858f198b6e2cbf07758f5d4004138b3afe6d3b75bfdaf43f3119dcff",
+   "timestamp": "2020-10-21T13:07:50.000Z"
+  },
+  "grinch/sound/archvile/fire.wav": {
+   "bytes": 150318,
+   "sha256": "09e32c92f97344cd77c87e1ceea3ed5821d4863f8ff63c77ee9c3a70cfcaa57c",
+   "timestamp": "2020-10-21T13:07:54.000Z"
+  },
+  "grinch/sound/archvile/idle.wav": {
+   "bytes": 214064,
+   "sha256": "4e8a1388399c1fab01b6a781856a1191a2f8761a2eab2f0814c7bcac3160d669",
+   "timestamp": "2020-10-21T13:07:52.000Z"
+  },
+  "grinch/sound/archvile/pain.wav": {
+   "bytes": 107870,
+   "sha256": "3a7fd756cfe7e983b8d13ffca35e60344673b39db66ec0c1c19a5ee1c91c41ca",
+   "timestamp": "2021-03-29T00:27:08.000Z"
+  },
+  "grinch/sound/archvile/sight.wav": {
+   "bytes": 245872,
+   "sha256": "560a467578b197d75422df90ff9bf5f39928fe7fb625c3a5fb0b8f45b52f15ed",
+   "timestamp": "2021-03-29T00:31:58.000Z"
+  },
+  "grinch/sound/archvile/snarl.wav": {
+   "bytes": 111664,
+   "sha256": "724a8cd74a0c326e20dad3d79e629819324e905e0fe3ec597124ffb76ed8f206",
+   "timestamp": "2020-10-21T13:07:52.000Z"
+  },
+  "grinch/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/break/bricks1.wav": {
+   "bytes": 49956,
+   "sha256": "302547c290609bc311098f9f63643199bee0164e907edf0e2b9289ccbce2a4e2",
+   "timestamp": "2022-06-23T12:14:32.000Z"
+  },
+  "grinch/sound/break/glass_impact.wav": {
+   "bytes": 98832,
+   "sha256": "32f51f7e8cb89c6b9a83c12603c4903a77370d9d16f8d3496e7ef22fb7b04a13",
+   "timestamp": "2019-09-20T20:19:32.000Z"
+  },
+  "grinch/sound/break/glass_impactSoft.wav": {
+   "bytes": 70828,
+   "sha256": "b9a90a5c6d2f5a64eb95738b67870c90067bc8935670f5e2af2ea7860e11f57c",
+   "timestamp": "2019-09-20T20:19:32.000Z"
+  },
+  "grinch/sound/break/metal1.wav": {
+   "bytes": 70054,
+   "sha256": "c178f8f52631b1ff353fbeb3557e04e8bd574646ed47f78a3003350b67540979",
+   "timestamp": "2022-07-07T10:21:52.000Z"
+  },
+  "grinch/sound/break/metal2.wav": {
+   "bytes": 65948,
+   "sha256": "7438b112d81fb92c285a507ebfbde5b15dbddcd90a85f51ecaae2df3ef83480c",
+   "timestamp": "2022-07-08T14:27:48.000Z"
+  },
+  "grinch/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/break/pd_metal1.wav": {
+   "bytes": 44146,
+   "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/break/pd_metal2.wav": {
+   "bytes": 70722,
+   "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/break/pd_stones1.wav": {
+   "bytes": 75150,
+   "sha256": "632d15db23ff70c23c199595b41a153ded67f664de46b7d0cbfa0228f071156e",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/break/pd_wood1.wav": {
+   "bytes": 34526,
+   "sha256": "621865f52fc27fb10108027ce3eea18aaf17181751a3ba1ceee0c9c99da9f375",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/break/pd_wood2.wav": {
+   "bytes": 33342,
+   "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/break/stnmov.wav": {
+   "bytes": 22058,
+   "sha256": "43f61540bd6f010b504987c7af8fd3f4d688e7adae6cc74a0c8f846b7882f107",
+   "timestamp": "2022-09-08T15:13:16.000Z"
+  },
+  "grinch/sound/break/stones1.wav": {
+   "bytes": 69380,
+   "sha256": "1b58b722e55c4e2d25f65e820e279699a7b236a02685fbc6a41a40e573df1928",
+   "timestamp": "2022-06-28T14:03:26.000Z"
+  },
+  "grinch/sound/break/wood1.wav": {
+   "bytes": 53720,
+   "sha256": "026e35d7108347603453765f66311fec99097ff9f82e2d2703f69b7d80ae07c9",
+   "timestamp": "2022-07-06T16:41:44.000Z"
+  },
+  "grinch/sound/break/wood2.wav": {
+   "bytes": 59252,
+   "sha256": "4488c91dc44e526beb95d33ad200e07e484a6f2fea59578784f3417a00df81f7",
+   "timestamp": "2022-07-06T16:41:12.000Z"
+  },
+  "grinch/sound/dguard/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/dguard/death1.wav": {
+   "bytes": 30610,
+   "sha256": "af3809501261ec4d0afa6ea7301c11a5c7bbc1cc3e06b8c88172ee0214c30969",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/death2.wav": {
+   "bytes": 43636,
+   "sha256": "93a70fc0d6fee819c723a435a3954b3fd3be86e358698ce85db1062990d1575e",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/fire.wav": {
+   "bytes": 60820,
+   "sha256": "f5e5d4f6ccc0778c1396c66d327564a0b1892773f2c23d2e30590abf0c758bd2",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/hit.wav": {
+   "bytes": 39352,
+   "sha256": "a9a06043bb979aad2db216a9d00b993da33c6a5069c6e3b14338afb6e2cb632a",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/idle.wav": {
+   "bytes": 20498,
+   "sha256": "45b2f208b9796d19d7aeb0cba64e4b0e5fd2ed7c980123f7c41ca10d17785021",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/pain1.wav": {
+   "bytes": 10380,
+   "sha256": "9a367afb7cde241099c58c999e225ba939be39f21be818b16444f5a810049960",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/pain2.wav": {
+   "bytes": 14892,
+   "sha256": "827a1e4d3c9983f61fffd61de33054274c144bddd9a68460b496fd6281cf9406",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/sight1.wav": {
+   "bytes": 18124,
+   "sha256": "9cb3d960261d90ec16c9883f4326c905356b6ff4e99cdf48ab5913b098588016",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/sight2.wav": {
+   "bytes": 18022,
+   "sha256": "35ee4b7ec6715c8c9fdc24f90ad0b5d90a0ae7a4986168cf40670e87c325d5db",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/sight3.wav": {
+   "bytes": 19948,
+   "sha256": "c6818770267626dea27f4a72ce2249771f6968924022c2275a5a96abfa485044",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/sight4.wav": {
+   "bytes": 20332,
+   "sha256": "7affcdbdc62f13e492a15b54fe642fe045641f5551f570cc3c8d5f7ee29521fd",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/slash.wav": {
+   "bytes": 22942,
+   "sha256": "44b60d785ff03f033e183b6fbce69e526351187d28efdeb308f6f8bea930d450",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/slhit.wav": {
+   "bytes": 31956,
+   "sha256": "0f07a131640f21337cd89a772588ecfc707d6a729f96b54c21920b809cd620e4",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/slmiss1.wav": {
+   "bytes": 10458,
+   "sha256": "e32d5cb070a13fad979b021e84a727f71242305ade1af7bfe18c255f0f6dd548",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dguard/slmiss2.wav": {
+   "bytes": 13840,
+   "sha256": "f6b3aee08c25434d2fda7468cacf35a0912b182653a45991149b54a0fc4be537",
+   "timestamp": "2022-06-19T08:12:20.000Z"
+  },
+  "grinch/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/dump/armsh1.wav": {
+   "bytes": 22610,
+   "sha256": "46801976a87d548c2cb7b1548f12dfd0b3f1d246aa9d86944574fa3216c6d6d1",
+   "timestamp": "2022-07-05T10:00:52.000Z"
+  },
+  "grinch/sound/dump/elec22k.wav": {
+   "bytes": 178736,
+   "sha256": "d56ff98d1d41511833c35b5a8b5311f00b7e13932591eee53f9e2adf788569e1",
+   "timestamp": "2022-07-05T10:23:22.000Z"
+  },
+  "grinch/sound/dump/magic_01.wav": {
+   "bytes": 125944,
+   "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
+   "timestamp": "2022-06-25T06:52:14.000Z"
+  },
+  "grinch/sound/dump/pd_armor1_sh.wav": {
+   "bytes": 12410,
+   "sha256": "3b80fc8000fe624ffbe4f119faf41a77406b83bd350020c7782bc03fd51a1799",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/dump/pd_magic_01.wav": {
+   "bytes": 125944,
+   "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/dump/pd_quake_end.wav": {
+   "bytes": 37248,
+   "sha256": "3ecb621fbf5a3f2ab090ebc0f3036069292181b11ab366689b3dfa0f19dd372a",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/dump/pd_quake_full.wav": {
+   "bytes": 156278,
+   "sha256": "872e0b0847fd366c59341d672cba9da0faaf85a881f8d4d5471a664923c8440e",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/dump/pd_quake_loop1.wav": {
+   "bytes": 159956,
+   "sha256": "52a330a12c35191347008f4c546b1c83b4e387f3f33c9b60c3a5e8e545b0517e",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/dump/pd_water.wav": {
+   "bytes": 92708,
+   "sha256": "0402b1fb2501dafb33bd43fa9c49c0f6a3fff615a200693cb7953852305c49f4",
+   "timestamp": "2022-06-27T20:25:30.000Z"
+  },
+  "grinch/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2022-06-25T06:52:14.000Z"
+  },
+  "grinch/sound/dump/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/dump/water_59_02.wav": {
+   "bytes": 40038,
+   "sha256": "25aa667940a737e46da0a829d9cb94922972b9b19726664d1a1133a666dc1439",
+   "timestamp": "2022-06-18T10:49:34.000Z"
+  },
+  "grinch/sound/golem/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/golem/death.wav": {
+   "bytes": 374654,
+   "sha256": "de356a2581884e9008ef798775f82049c465aec242cad0f6024b510d33e11764",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/groundslam.wav": {
+   "bytes": 132412,
+   "sha256": "f557ad378642a77a2f31433db5fe9315cf33f5fc350018e2bd26d32359ec8617",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/iceshard1.wav": {
+   "bytes": 53022,
+   "sha256": "41e523122aa4168298b247748bbe4201928582e974e673a83e717ea33f8656a8",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/iceshard2.wav": {
+   "bytes": 53012,
+   "sha256": "4b4e457f75d051a7aa3525bf82338f8b6d2f9460583c09e63d82b202cb11d03f",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/iceshard3.wav": {
+   "bytes": 53038,
+   "sha256": "8134080a7c6478463f9ea8c368eb6e0563dacb35bb3941b1e08e2cf0763d83ab",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/iceshard_impact.wav": {
+   "bytes": 176470,
+   "sha256": "ac850565ac7cfaa8ec2e55f535603aaf131605b9399f08f1b17f7c08920f7bda",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/icestorm.wav": {
+   "bytes": 61802,
+   "sha256": "2e8129333bc1a677591f9c4838a5f8c8e9ff63050fe6a47f212380f2497ae706",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/idle1a.wav": {
+   "bytes": 88238,
+   "sha256": "d238c43b6e83c044ba70352ed9362e50d68caf606f500c7d79f5c03d1e6a432e",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/idle1b.wav": {
+   "bytes": 88242,
+   "sha256": "93e3ca1ec51345da6e06a53f71bcd1271c911c9a6272246de9f58bef93c904dc",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/idle2a.wav": {
+   "bytes": 44166,
+   "sha256": "d0ceeb0ee1681127f9f426ccaa0ddb75c6ef32594618c972536871544e8d5748",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/idle2b.wav": {
+   "bytes": 44178,
+   "sha256": "94fb43b50445dbe7a8fe6cc06ea745b729cf5bf61c33cc543123f751e4a9cdf7",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/melee_pound.wav": {
+   "bytes": 17672,
+   "sha256": "23ff4f485f3adb3ba5227ba59824e226e91005846d2879077ffbe04141bab78b",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/melee_punch.wav": {
+   "bytes": 17702,
+   "sha256": "21cbd6ca5b9c8d95a43c39b360b12ee8033dca1aaf11d4c1164d4bc9ce83b7d3",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/melee_swipe.wav": {
+   "bytes": 40216,
+   "sha256": "f908e95c127faa417b848d835c55db04597714b17bddd18a8e44e282e5866425",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/pain1.wav": {
+   "bytes": 27948,
+   "sha256": "388150975b33e271db5402f502c6a36899731ec85cb9b16cdcc4b427b206a3f2",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/pain2.wav": {
+   "bytes": 32940,
+   "sha256": "b3908c02406bcb8c379f345f80a825aa270a54ae02fe0356e02330620d9cf437",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/rockstorm.wav": {
+   "bytes": 264676,
+   "sha256": "c57be8195f675560b879c3fc4e23c49f021d0c45aa81f2a84b74303f111d7c7a",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/sight.wav": {
+   "bytes": 76762,
+   "sha256": "965d1107adbc9a068d1d2af16fc783855833569dcc3a6030fa920019c30a4083",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/golem/wakestatue.wav": {
+   "bytes": 250454,
+   "sha256": "630505eb8c9c84511f39d2e77096cafcbab044f73569934cda127a4b6f37f138",
+   "timestamp": "2023-12-31T13:51:14.000Z"
+  },
+  "grinch/sound/gremlin/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/gremlin/attack.wav": {
+   "bytes": 4326,
+   "sha256": "4bc0f357667de80b3562455b04f9b73399082ec0d04200b2c7b8792de78e24a3",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/gremlin/death.wav": {
+   "bytes": 15470,
+   "sha256": "198003ef0624e9cf184c16eb96a715ccdb741100bfa4ace4f70dbe7eb4d91247",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/gremlin/idle.wav": {
+   "bytes": 11622,
+   "sha256": "ea7aec1e3e3d18c22848624b1afc24a58f8e4df60a039a96b18a4de0579634d4",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/gremlin/pain1.wav": {
+   "bytes": 3078,
+   "sha256": "1d909972c66b8e67f50867c141cbbb55796cfcda7314811b40e18f725e39256d",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/gremlin/pain2.wav": {
+   "bytes": 4068,
+   "sha256": "ddb2935dcb951f8d3c381657a04e26c4df742cb0cb8e08a39e94ec7c402d0323",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/gremlin/pain3.wav": {
+   "bytes": 3318,
+   "sha256": "88cb89b31186d7183a09867cc4ab244519c7f9184e391cb39edb6d10e021f2ac",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/gremlin/sight1.wav": {
+   "bytes": 12606,
+   "sha256": "c20f1f90cbb72dfa80bef8d845a76c2772b55235970bc7d801af57ad34351877",
+   "timestamp": "2022-08-27T23:15:48.000Z"
+  },
+  "grinch/sound/guardian/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/guardian/death.wav": {
+   "bytes": 37932,
+   "sha256": "aa753d544b7d2effbfb1c531728ad2bb6f27cec25bdb619c9d2518e2caf61b89",
+   "timestamp": "2023-01-11T19:58:30.000Z"
+  },
+  "grinch/sound/guardian/fire_strong.wav": {
+   "bytes": 9458,
+   "sha256": "10e4bef745e55fddd004ea78d24edb9d3d9edc1ce3053c377be07be27a4da144",
+   "timestamp": "2016-10-06T20:54:12.000Z"
+  },
+  "grinch/sound/guardian/fire_weak.wav": {
+   "bytes": 15132,
+   "sha256": "8ec5ee520f81c69ba367ae549a06d5ea1643b43f81dea7d8345561c94c8412ed",
+   "timestamp": "2016-10-06T20:54:12.000Z"
+  },
+  "grinch/sound/guardian/fire_xp.wav": {
+   "bytes": 17788,
+   "sha256": "1f7d6debef492f0861ee24049ad637a11b85d595cdf3f6d6aac422b7a0376d14",
+   "timestamp": "2017-10-23T18:49:14.000Z"
+  },
+  "grinch/sound/guardian/pain1.wav": {
+   "bytes": 21494,
+   "sha256": "ed805b9c10cd474cccce66283153ae6d97eb0292ef5644883752b693d9a437ef",
+   "timestamp": "2023-01-11T19:58:56.000Z"
+  },
+  "grinch/sound/guardian/see.wav": {
+   "bytes": 43796,
+   "sha256": "e9225396d6c0d1fb231bcf6ade4f27f16eea6564aa429ad05193394b7af5d25c",
+   "timestamp": "2023-01-11T19:59:30.000Z"
+  },
+  "grinch/sound/justice/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T18:05:26.000Z"
+  },
+  "grinch/sound/justice/death1.wav": {
+   "bytes": 61784,
+   "sha256": "39587bdb48642373b1d34b26fc79fd8f23ea5209137594268ea9ea8fda3e4b67",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/flame_attack.wav": {
+   "bytes": 26560,
+   "sha256": "7d24cf2d3cec234d3d56c30aab5dbcca9f898d7c15be010d074fb7a2fd16a855",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/flame_explode.wav": {
+   "bytes": 149986,
+   "sha256": "4d726e1dbb19a0974162f2fb1910270e7064cf1566cc340a496e17f7945ea202",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/flame_fire.wav": {
+   "bytes": 30700,
+   "sha256": "71e73672ec310ad59d10248d3f26a9a32b1eb7ad3d567124ddd95480042d0fa1",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/idle.wav": {
+   "bytes": 9998,
+   "sha256": "a98b3238c681349a984cac688288818d713339c551f6af4ff89f5f0fcda109b5",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/leap1.wav": {
+   "bytes": 96044,
+   "sha256": "6ba3d20cb966702af9852a6664d6ac6450c25ed4d05c1b69b8c9bea05509c612",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/magic_attack.wav": {
+   "bytes": 13274,
+   "sha256": "4e79789bbcd8bbf9f6c57ec716fb5cfa6517dc584f105cebf8a958fb397e79d1",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/magic_fire.wav": {
+   "bytes": 15070,
+   "sha256": "862bd21aa54cb05efe1dcfd7ae4fc9eebbaac82d426d12e419708b350e391141",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/magic_hit.wav": {
+   "bytes": 30700,
+   "sha256": "71e73672ec310ad59d10248d3f26a9a32b1eb7ad3d567124ddd95480042d0fa1",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/pain1.wav": {
+   "bytes": 22126,
+   "sha256": "ac02c92a9ab892c4d7b2ed68f37dba7d6f737b8e53ae92549faa50779491308d",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/sight1.wav": {
+   "bytes": 53058,
+   "sha256": "bb7626b220ef234bd886e4b11f12e2f8d6256a242f193c174b48059e647768d2",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/smash_hit.wav": {
+   "bytes": 17260,
+   "sha256": "5e3ba11e8e423597f97726335a62855ad2700c84713f4d2838663a8a6c942324",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/smash_hitheavy.wav": {
+   "bytes": 11100,
+   "sha256": "99246db4f002f21f97fe6d7806819b88f0f2ead2cc90cff32483b0b263240fb8",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/sword_draw.wav": {
+   "bytes": 20992,
+   "sha256": "784bde923b84db8d94be07957f1baef7d37f374f281913b49e0c4302560abedc",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/justice/sword_sheath.wav": {
+   "bytes": 9966,
+   "sha256": "3fb1bc0812fd25eca60e398e57a547222eaca0d846f41924b0baa89e0ae7f6c4",
+   "timestamp": "2023-12-31T13:52:48.000Z"
+  },
+  "grinch/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-27T07:37:36.000Z"
+  },
+  "grinch/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2022-06-25T06:52:14.000Z"
+  },
+  "grinch/sound/runes/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/runes/rune1.wav": {
+   "bytes": 14936,
+   "sha256": "90dd50b25175c8d514a52165429e9ca6b90c45dddbb0f301e5873146b4a4a06c",
+   "timestamp": "2022-12-02T18:05:42.000Z"
+  },
+  "grinch/sound/runes/rune2.wav": {
+   "bytes": 13008,
+   "sha256": "933046049bae4d866250ad9a6e0a4b2a9385caffb4156daaca39ff7110a71126",
+   "timestamp": "2022-12-02T18:05:42.000Z"
+  },
+  "grinch/sound/runes/rune22.wav": {
+   "bytes": 67328,
+   "sha256": "eea46c6de070db55002b9ebf7e1badb961ed4ecff50d458b41324c63eae5d71c",
+   "timestamp": "2022-12-02T18:05:42.000Z"
+  },
+  "grinch/sound/runes/rune3.wav": {
+   "bytes": 14854,
+   "sha256": "508d89890db17f828cde9511ebd97241ecfe07bbb6e5cba8c7538ab02e31b19f",
+   "timestamp": "2022-12-02T18:05:42.000Z"
+  },
+  "grinch/sound/runes/rune4.wav": {
+   "bytes": 11514,
+   "sha256": "c66471b98562c0628fe9d8dba43c46d1846d3c4b52b23cea143df933598fc1d5",
+   "timestamp": "2022-12-02T18:05:42.000Z"
+  },
+  "grinch/sound/wrath/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-31T17:14:20.000Z"
+  },
+  "grinch/sound/wrath/watt.wav": {
+   "bytes": 22374,
+   "sha256": "0aedb709c0769e401f25637e69140ba260035b75e36ae9f22cbb94cbf28f5f81",
+   "timestamp": "2013-05-18T17:01:52.000Z"
+  },
+  "grinch/sound/wrath/wdthc.wav": {
+   "bytes": 10580,
+   "sha256": "dd94c0dd5f38cd10395f100004078901754a6993af94e68a06cd154a251a2ee3",
+   "timestamp": "2013-05-18T17:01:52.000Z"
+  },
+  "grinch/sound/wrath/wpain.wav": {
+   "bytes": 18208,
+   "sha256": "ccf99194833e0db8af5702126a62c5e011138aa6ba814be51e4207b401183220",
+   "timestamp": "2013-05-18T17:01:52.000Z"
+  },
+  "grinch/sound/wrath/wsee.wav": {
+   "bytes": 10412,
+   "sha256": "619c48897129e2352f378e6d959e60f41c1c1d4d31606b2a9577fa186eb5e804",
+   "timestamp": "2013-05-18T17:01:52.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "19f0a4886d4ec681e546628f2a75013dc545ad1ac2d48665aa4d09450c603af0",
+ "tags": [
+  "author=Shadesmaster",
+  "commandline=-game grinch",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=grinch.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/enter-the-grinch.301/)",
+  "map_size=small",
+  "release_date=2024-01-01",
+  "startmap=start",
+  "title=Enter - The Grinch",
+  "type=map",
+  "type=mod"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/grinch.zip"
+ ]
+}

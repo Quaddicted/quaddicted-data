@@ -1,0 +1,79 @@
+{
+ "bytes": 18094226,
+ "files": {
+  "copper/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-01-25T18:56:08.000Z"
+  },
+  "copper/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-20T08:32:58.000Z"
+  },
+  "copper/maps/mtsch001.bsp": {
+   "bytes": 5627700,
+   "sha256": "c3503bf3306eab74b4b9b003dcb8a19616aeaebacf3057f6d6f860a9a0803509",
+   "timestamp": "2023-12-20T08:26:20.000Z"
+  },
+  "copper/maps/mtsch001.lit": {
+   "bytes": 2397416,
+   "sha256": "168847302ebc5e16ead7141818af89420107f4463625d5c4ca5f469d2672057c",
+   "timestamp": "2023-12-20T08:26:20.000Z"
+  },
+  "copper/mtsch001.txt": {
+   "bytes": 1724,
+   "sha256": "b342798af55cdcae94b025e8a2e0ed484b3a9959289207d5adff99e2c4c88b3c",
+   "timestamp": "2023-12-20T08:34:20.000Z"
+  },
+  "copper/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-15T09:36:00.000Z"
+  },
+  "copper/music/track66.mp3": {
+   "bytes": 14253864,
+   "sha256": "70375e15daab444fa7b5d4a9ff5f5314a4ad86d8537b3fb38622d7856e968acd",
+   "timestamp": "2023-12-10T10:02:02.000Z"
+  },
+  "copper/music/track66.txt": {
+   "bytes": 113,
+   "sha256": "1aeb464bf40b5a16c039afa5b554a3d2aeb689940e27368ebde47c9ed8af5eb8",
+   "timestamp": "2023-12-15T09:24:46.000Z"
+  },
+  "copper/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-12-20T08:33:22.000Z"
+  },
+  "copper/source/mtsch001.map": {
+   "bytes": 4969869,
+   "sha256": "26638ec3cb4c0985620cd2b675ddbab9f778fb570729fccdb35c2fcf5008ec4d",
+   "timestamp": "2023-12-20T08:11:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "574e41986025b438c55b6b77d904a1c7098cac1440aa8c46f047231347e26826",
+ "tags": [
+  "author=mtsch",
+  "commandline=-game copper",
+  "dependency=copper_v1_30",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=mtsch001.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-slime-sanctuary.296/)",
+  "map_size=medium",
+  "mod=copper",
+  "release_date=2023-12-17",
+  "startmap=mstch001",
+  "title=The Slime Sanctuary",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/mtsch001.zip"
+ ]
+}

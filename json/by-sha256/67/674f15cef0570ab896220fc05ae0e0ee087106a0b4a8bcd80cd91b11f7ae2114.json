@@ -1,0 +1,50 @@
+{
+ "bytes": 612466,
+ "files": {
+  "drmelon-smallgate.bsp": {
+   "bytes": 1095852,
+   "sha256": "490250cfddb0b0fe1be32152a3e6028dd97d961c28756cbec4ef3f4ee35d4dfc",
+   "timestamp": "2023-09-02T22:16:18.000Z"
+  },
+  "drmelon-smallgate.lit": {
+   "bytes": 360812,
+   "sha256": "9520f7cf2886c1c17f0e04b0eb524b2f11ef8b6880c7926cb96b338a3ac456b9",
+   "timestamp": "2023-09-02T22:16:18.000Z"
+  },
+  "drmelon-smallgate.map": {
+   "bytes": 512275,
+   "sha256": "4c0352dcbafecde99eef96f95be77f7a749bce662b0bb9e5607f05473fa12abe",
+   "timestamp": "2023-09-02T22:16:12.000Z"
+  },
+  "drmelon-smallgate.txt": {
+   "bytes": 570,
+   "sha256": "92bd4daa0738fee6aec05a2fd632320fbf64c380bf22f0a66790ec6a40d3c304",
+   "timestamp": "2024-01-25T21:06:44.000Z"
+  },
+  "kitchen.wad": {
+   "bytes": 99228,
+   "sha256": "1dda96370bcea630e9855b22b3fa5c9789a52ab9594ceb10d0744d92c13cd0d7",
+   "timestamp": "2023-09-02T18:52:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "674f15cef0570ab896220fc05ae0e0ee087106a0b4a8bcd80cd91b11f7ae2114",
+ "tags": [
+  "author=DrMelon",
+  "filename=drmelon-smallgate.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/a-smaller-slipgate.262/)",
+  "map_size=small",
+  "release_date=2023-09-02",
+  "startmap=drmelon-smallgate",
+  "title=A Smaller Slipgate",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/drmelon-smallgate.zip"
+ ]
+}

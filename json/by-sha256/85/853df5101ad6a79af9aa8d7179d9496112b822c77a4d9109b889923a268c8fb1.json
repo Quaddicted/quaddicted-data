@@ -1,0 +1,39 @@
+{
+ "bytes": 892399,
+ "files": {
+  "casana.bsp": {
+   "bytes": 1515920,
+   "sha256": "a4e4f47cda95eca37fac277b2238e02fd020b66f90a8b626884f1e3a89466dd2",
+   "timestamp": "2023-11-24T15:22:42.000Z"
+  },
+  "casana.lit": {
+   "bytes": 702248,
+   "sha256": "a6e6287aa37d4a797169b3acc9ae4f38deebc29526f4f850a135a64aa6da6808",
+   "timestamp": "2023-11-24T15:22:42.000Z"
+  },
+  "casana_readme.txt": {
+   "bytes": 920,
+   "sha256": "c9079d5fd25938af7fd61ccc5f9dc19964212a4b20d9dd85d198ca13d9f8a05a",
+   "timestamp": "2024-01-25T20:44:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "853df5101ad6a79af9aa8d7179d9496112b822c77a4d9109b889923a268c8fb1",
+ "tags": [
+  "author=oldspider",
+  "filename=casana.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/castle-anachron.287/)",
+  "release_date=2023-11-24",
+  "startmap=casana",
+  "title=Castle Anachron",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/casana.zip"
+ ]
+}
