@@ -60,7 +60,8 @@
   "startmap=sm6_vigil",
   "startmap=sm6_vondur",
   "title=Speedmapping pack 6 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm6_pack.zip",

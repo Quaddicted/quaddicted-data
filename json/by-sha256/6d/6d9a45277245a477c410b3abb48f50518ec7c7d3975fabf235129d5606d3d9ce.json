@@ -24,7 +24,8 @@
   "release_date=1998-10-26",
   "theme=base",
   "title=Installation of Disavowed",
-  "type=map"
+  "type=map",
+  "zipbasedir=bad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm1m1.zip",

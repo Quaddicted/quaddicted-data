@@ -36,7 +36,8 @@
   "theme=tech",
   "theme=underground",
   "title=Evil Exhumed",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/evilexhumed.zip",

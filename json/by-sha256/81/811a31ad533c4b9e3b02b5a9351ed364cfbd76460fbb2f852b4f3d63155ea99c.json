@@ -29,7 +29,8 @@
   "theme=oldschool",
   "theme=runic",
   "title=Acerbus",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/acerbus.zip",

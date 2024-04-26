@@ -31,7 +31,8 @@
   "theme=mandatory secret",
   "theme=metal",
   "title=DM Arena1 (The Blood Bath)",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dma1.zip",

@@ -799,7 +799,8 @@
   "theme=wizard",
   "title=Travail - A Quake Journey",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=travail/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/travail.zip",

@@ -30,7 +30,8 @@
   "theme=medieval",
   "theme=terracotta",
   "title=GatorMan's Diversion",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gatordiv.zip",

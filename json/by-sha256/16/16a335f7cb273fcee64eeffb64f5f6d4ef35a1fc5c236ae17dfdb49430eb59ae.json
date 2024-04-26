@@ -27,7 +27,8 @@
   "release_date=2002-05-25",
   "theme=idbase",
   "title=Security Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/simmer1.zip",

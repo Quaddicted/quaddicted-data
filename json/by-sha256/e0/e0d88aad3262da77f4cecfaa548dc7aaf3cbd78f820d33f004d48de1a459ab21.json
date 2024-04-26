@@ -52,7 +52,8 @@
   "theme=mixtex",
   "title=Bridges to the Highlands",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bridges.zip",

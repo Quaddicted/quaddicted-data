@@ -45,7 +45,8 @@
   "theme=medieval",
   "theme=temple",
   "title=The Temple of BLOOOOOOD",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tob.zip",

@@ -28,7 +28,8 @@
   "startmap=psycho",
   "theme=wizard",
   "title=The Psychotic Installation",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thepsyco.zip",

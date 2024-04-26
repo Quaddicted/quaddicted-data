@@ -109,7 +109,8 @@
   "startmap=rt_alk3",
   "startmap=rt_alk4",
   "title=Corruption Catharsis: Part 1 - Try To Act Normal (1.1)",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=alk1.1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rt23alk1_1.zip",

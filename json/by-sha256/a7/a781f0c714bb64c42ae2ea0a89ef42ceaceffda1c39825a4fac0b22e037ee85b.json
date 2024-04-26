@@ -35,7 +35,8 @@
   "startmap=sm145_zwiffle",
   "theme=outdoor",
   "title=Speedmapping pack 145 - Tropical island",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm145_pack.zip",

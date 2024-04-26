@@ -40,7 +40,8 @@
   "theme=remix",
   "theme=terracotta",
   "title=Gloom Keep [Drake remix]",
-  "type=map"
+  "type=map",
+  "zipbasedir=drake/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5drake.zip",

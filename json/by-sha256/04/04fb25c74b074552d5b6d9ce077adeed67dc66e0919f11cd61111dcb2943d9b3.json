@@ -50,7 +50,8 @@
   "theme=temple",
   "title=Return to Earth",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rte.zip",

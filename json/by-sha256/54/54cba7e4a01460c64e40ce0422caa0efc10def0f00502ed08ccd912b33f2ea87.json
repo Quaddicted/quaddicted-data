@@ -31,7 +31,8 @@
   "theme=id1",
   "theme=medieval",
   "title=Blue Is The Darkest Shade",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/002blue.zip",

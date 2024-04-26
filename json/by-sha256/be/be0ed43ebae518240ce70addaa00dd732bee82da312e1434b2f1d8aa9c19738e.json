@@ -24,7 +24,8 @@
   "theme=puzzles",
   "theme=traps",
   "title=Titan",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/titan.zip",

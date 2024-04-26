@@ -34,7 +34,8 @@
   "theme=ikbase",
   "theme=nehahra",
   "title=Grind Core",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/neh1m4.zip",

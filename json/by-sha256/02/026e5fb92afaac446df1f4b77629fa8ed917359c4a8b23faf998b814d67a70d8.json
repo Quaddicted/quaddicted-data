@@ -46,7 +46,8 @@
   "theme=quoth",
   "theme=water",
   "title=Plumbers Don't Wear Ties (But They Do Carry Shotguns)",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/apsp2.zip",

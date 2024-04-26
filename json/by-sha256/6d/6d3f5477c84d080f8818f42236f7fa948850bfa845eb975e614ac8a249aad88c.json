@@ -43,7 +43,8 @@
   "theme=idbase",
   "theme=remake",
   "title=The Occupied Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm3rmx.zip",

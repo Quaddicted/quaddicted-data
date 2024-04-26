@@ -32,7 +32,8 @@
   "startmap=sm132_generic",
   "startmap=sm132_omus",
   "title=Speedmapping pack 132 - Inverted Castle",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm132_pack.zip",

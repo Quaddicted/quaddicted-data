@@ -1114,7 +1114,8 @@
   "theme=industrial",
   "theme=rubicon",
   "title=Rubicon Rumble Pack",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=rrp/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rrp.zip",

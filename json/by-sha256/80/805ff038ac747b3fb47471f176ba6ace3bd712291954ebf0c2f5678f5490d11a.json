@@ -139,7 +139,8 @@
   "theme=quoth",
   "title=Deja - Vu !",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dejavu10.zip",

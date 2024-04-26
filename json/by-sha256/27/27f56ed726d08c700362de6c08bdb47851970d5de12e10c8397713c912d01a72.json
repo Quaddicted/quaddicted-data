@@ -373,7 +373,8 @@
   "startmap=sm189_ww",
   "theme=doom",
   "title=SM189 - DOOM / Satanic Mechanisms",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm189_pack.zip",

@@ -33,7 +33,8 @@
   "startmap=drearydisposition_albert",
   "theme=wizard",
   "title=Dreary Disposition",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/drearydisposition.zip",

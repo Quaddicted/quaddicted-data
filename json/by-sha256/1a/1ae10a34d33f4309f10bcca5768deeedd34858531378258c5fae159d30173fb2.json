@@ -42,7 +42,8 @@
   "theme=id1",
   "theme=wizard",
   "title=Babby's First Map",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bfmv1.zip",

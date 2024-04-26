@@ -194,7 +194,8 @@
   "theme=exploration",
   "theme=puzzles",
   "title=Explore Jam 1",
-  "type=map"
+  "type=map",
+  "zipbasedir=explorejam1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/explorejam1.zip",

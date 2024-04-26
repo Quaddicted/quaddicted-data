@@ -53,7 +53,8 @@
   "startmap=rc2",
   "theme=medieval",
   "title=Swamp & Towne",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rc2_3.zip",

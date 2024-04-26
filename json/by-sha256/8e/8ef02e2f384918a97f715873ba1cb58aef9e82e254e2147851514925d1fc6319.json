@@ -28,7 +28,8 @@
   "theme=realism",
   "theme=town",
   "title=Swinfen Hell",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/swinfen.zip",

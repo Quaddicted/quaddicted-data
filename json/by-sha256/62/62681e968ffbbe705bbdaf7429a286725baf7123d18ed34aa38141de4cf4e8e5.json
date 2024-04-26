@@ -32,7 +32,8 @@
   "theme=realism",
   "theme=space",
   "title=Lunar Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lunar.zip",

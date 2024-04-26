@@ -54,7 +54,8 @@
   "theme=town",
   "theme=village",
   "title=Village of Dread",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/village.zip",

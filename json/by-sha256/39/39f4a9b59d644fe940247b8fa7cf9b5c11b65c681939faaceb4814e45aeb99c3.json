@@ -191,7 +191,8 @@
   "theme=quoth",
   "theme=space",
   "title=The Living End & Elder World Waystation",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_lend_doom.zip",

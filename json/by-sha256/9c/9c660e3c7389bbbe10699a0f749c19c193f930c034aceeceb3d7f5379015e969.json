@@ -42,7 +42,8 @@
   "theme=knave",
   "theme=quoth",
   "title=Shifting Planes of Existence (version 2)",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/movplan2.zip",

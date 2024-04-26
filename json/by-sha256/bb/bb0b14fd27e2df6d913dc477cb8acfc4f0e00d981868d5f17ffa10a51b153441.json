@@ -37,7 +37,8 @@
   "theme=temple",
   "theme=terracotta",
   "title=Conflagrant Rodent",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oms2_2.zip",

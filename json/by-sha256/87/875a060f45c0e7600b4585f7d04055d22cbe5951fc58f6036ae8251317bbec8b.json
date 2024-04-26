@@ -28,7 +28,8 @@
   "theme=runic",
   "theme=traps",
   "title=Welcome to Ogre tower",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wtot.zip",

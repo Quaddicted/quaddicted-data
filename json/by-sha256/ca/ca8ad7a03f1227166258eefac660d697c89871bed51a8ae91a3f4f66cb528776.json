@@ -60,7 +60,8 @@
   "startmap=sm30_than",
   "theme=spd",
   "title=Speedmapping pack 30 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm30_pack.zip",

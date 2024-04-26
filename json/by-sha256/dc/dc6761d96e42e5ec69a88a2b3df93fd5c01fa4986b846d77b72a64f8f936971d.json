@@ -60,7 +60,8 @@
   "theme=classic",
   "theme=tech",
   "title=Quake Turtlemap 3",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm3.zip",

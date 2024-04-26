@@ -30,7 +30,8 @@
   "theme=egyptian",
   "theme=temple",
   "title=The Grand Guignol",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fr3nrun2.zip",

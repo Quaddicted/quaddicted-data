@@ -31,7 +31,8 @@
   "theme=puzzles",
   "theme=wizard",
   "title=Mayhem",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mayhem2.zip",

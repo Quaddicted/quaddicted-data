@@ -29,7 +29,8 @@
   "theme=no exit",
   "theme=wizard",
   "title=Crossfire",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cross_2.zip",

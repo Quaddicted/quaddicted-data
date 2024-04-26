@@ -57,7 +57,8 @@
   "startmap=blah1_voodoochopstiks",
   "theme=spd",
   "title=Impromptu Speedmaps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/blah1.zip",

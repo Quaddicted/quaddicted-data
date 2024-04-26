@@ -917,7 +917,8 @@
   "theme=exploration",
   "theme=puzzles",
   "title=January Jump Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jan_jump_jam_2020.zip",

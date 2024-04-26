@@ -33,7 +33,8 @@
   "theme=rubicon",
   "title=Rubicondom",
   "type=chainmap",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm82.zip",

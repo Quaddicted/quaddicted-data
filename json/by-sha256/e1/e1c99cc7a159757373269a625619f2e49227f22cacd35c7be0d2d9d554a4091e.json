@@ -37,7 +37,8 @@
   "theme=quoth",
   "theme=secrets",
   "title=Red 777",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/red777.zip",

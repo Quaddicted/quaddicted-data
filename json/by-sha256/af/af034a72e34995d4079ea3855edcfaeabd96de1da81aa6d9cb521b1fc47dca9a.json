@@ -240,7 +240,8 @@
   "startmap=start2",
   "theme=realism",
   "title=Murder at the Disco",
-  "type=map"
+  "type=map",
+  "zipbasedir=malice/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/malice_partyhard.zip",

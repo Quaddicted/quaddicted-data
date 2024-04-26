@@ -38,7 +38,8 @@
   "theme=fog",
   "theme=medieval",
   "title=Jump",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jump.zip",

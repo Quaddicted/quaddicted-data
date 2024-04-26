@@ -42,7 +42,8 @@
   "startmap=sm140_efdat",
   "startmap=sm140_ijed",
   "title=Speedmapping pack 140 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm140_pack.zip",

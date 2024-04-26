@@ -24,7 +24,8 @@
   "theme=snow",
   "theme=wizard",
   "title=Dark Hell",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dark.zip",

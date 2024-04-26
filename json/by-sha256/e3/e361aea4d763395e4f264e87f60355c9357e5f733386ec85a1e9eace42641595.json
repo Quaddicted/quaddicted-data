@@ -39,7 +39,8 @@
   "theme=id1",
   "theme=medieval",
   "title=Seven",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/xl7.zip",

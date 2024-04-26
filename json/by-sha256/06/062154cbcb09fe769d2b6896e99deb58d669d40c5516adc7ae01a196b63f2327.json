@@ -30,7 +30,8 @@
   "theme=base",
   "theme=oldschool",
   "title=Can't Stop Me Now",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sc_csmn.zip",

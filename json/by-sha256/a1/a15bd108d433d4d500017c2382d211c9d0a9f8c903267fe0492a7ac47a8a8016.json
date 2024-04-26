@@ -48,7 +48,8 @@
   "theme=traps",
   "title=Tale of Abbot's Rune",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sgodrune.zip",

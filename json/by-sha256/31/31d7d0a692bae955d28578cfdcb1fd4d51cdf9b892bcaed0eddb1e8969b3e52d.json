@@ -79,7 +79,8 @@
   "theme=base",
   "theme=traps",
   "title=Cataractnacon / Zeangala",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oms3.zip",

@@ -29,7 +29,8 @@
   "theme=quake 2",
   "theme=traps",
   "title=The Cesspit",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lfdm4.zip",

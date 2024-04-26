@@ -30,7 +30,8 @@
   "theme=base",
   "theme=puzzle",
   "title=Slipgate research complex",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/slipcomp.zip",

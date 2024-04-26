@@ -53,7 +53,8 @@
   "startmap=sm103_starbuck",
   "startmap=sm103_zwiffle",
   "title=Speedmapping pack 103 - Autumn",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm103_pack.zip",

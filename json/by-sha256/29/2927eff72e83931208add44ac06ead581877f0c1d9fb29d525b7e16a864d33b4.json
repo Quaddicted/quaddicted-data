@@ -37,7 +37,8 @@
   "theme=slime",
   "theme=wizard",
   "title=Into the Dark",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sr_dark.zip",

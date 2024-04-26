@@ -35,7 +35,8 @@
   "theme=quoth",
   "theme=remake",
   "title=Back To Gloom Keep",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quoth.zip",

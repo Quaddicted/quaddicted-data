@@ -37,7 +37,8 @@
   "theme=industrial",
   "theme=underground",
   "title=Cheyenne Mountain Complex",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cmc.zip",

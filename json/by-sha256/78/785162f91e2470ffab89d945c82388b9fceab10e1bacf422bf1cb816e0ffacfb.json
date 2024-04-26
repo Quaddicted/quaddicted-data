@@ -92,7 +92,8 @@
   "theme=remake",
   "theme=remix",
   "title=GravelPit",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gravelpitfinal2.zip",

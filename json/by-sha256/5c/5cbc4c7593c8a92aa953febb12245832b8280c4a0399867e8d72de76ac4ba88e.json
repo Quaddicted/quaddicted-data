@@ -664,7 +664,8 @@
   "theme=quoth",
   "title=Quenching Urges of Constant Killing [DEMO]",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quck_demo.zip",

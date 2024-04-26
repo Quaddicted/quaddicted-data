@@ -30,7 +30,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Burgt",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/burgtx12.zip",

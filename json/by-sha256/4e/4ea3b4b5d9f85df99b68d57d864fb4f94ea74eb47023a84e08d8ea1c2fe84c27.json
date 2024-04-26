@@ -37,7 +37,8 @@
   "theme=lava",
   "theme=remix",
   "title=Hell Revisited",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hellrev.zip",

@@ -92,7 +92,8 @@
   "theme=industrial",
   "theme=secrets",
   "title=The Lima Project",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_beep1m2.zip",

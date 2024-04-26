@@ -34,7 +34,8 @@
   "theme=medieval",
   "theme=oldschool",
   "title=Rune Keep",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/runekeepgl.zip",

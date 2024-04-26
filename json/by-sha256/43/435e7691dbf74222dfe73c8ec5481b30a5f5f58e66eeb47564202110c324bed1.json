@@ -63,7 +63,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Begining, The MiniBase, The Temple",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/first_maps.zip",

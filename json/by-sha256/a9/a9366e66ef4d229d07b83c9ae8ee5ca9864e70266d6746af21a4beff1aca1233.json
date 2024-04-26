@@ -35,7 +35,8 @@
   "theme=base",
   "theme=metal",
   "title=Dark 0.4 beta deathmatch maps for Quake",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dark04b.zip",

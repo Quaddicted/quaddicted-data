@@ -69,7 +69,8 @@
   "theme=quake the way id did",
   "theme=quoth",
   "title=Speedmapping pack 173 - Quake The Way Id Did",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm173_pack.zip",

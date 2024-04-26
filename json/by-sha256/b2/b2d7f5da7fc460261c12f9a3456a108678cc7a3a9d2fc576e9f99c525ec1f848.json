@@ -538,7 +538,8 @@
   "theme=wizard",
   "title=The Myths",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/themyths.zip",

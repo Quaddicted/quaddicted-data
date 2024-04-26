@@ -2938,7 +2938,8 @@
   "theme=fantasy",
   "theme=medieval",
   "title=Arcanum Demo",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=arcdemo/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcdemo.zip",

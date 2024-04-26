@@ -85,7 +85,8 @@
   "theme=metal",
   "theme=runic",
   "title=The Darkstone Halls",
-  "type=map"
+  "type=map",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jp1m1.zip",

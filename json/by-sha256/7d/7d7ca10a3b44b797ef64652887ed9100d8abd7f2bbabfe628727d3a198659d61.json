@@ -302,7 +302,8 @@
   "startmap=sm206_zigi",
   "startmap=start",
   "title=Speedmapping pack 206: Prototype textures",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=sm206/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm206.zip",

@@ -30,7 +30,8 @@
   "theme=village",
   "theme=wizard",
   "title=Hell's Village",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hellvill.zip",

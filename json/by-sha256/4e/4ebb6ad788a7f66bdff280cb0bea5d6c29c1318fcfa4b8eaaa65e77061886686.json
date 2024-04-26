@@ -66,7 +66,8 @@
   "startmap=sm15_xenon2",
   "theme=rubicon",
   "title=Speedmapping pack 15 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm15_pack.zip",

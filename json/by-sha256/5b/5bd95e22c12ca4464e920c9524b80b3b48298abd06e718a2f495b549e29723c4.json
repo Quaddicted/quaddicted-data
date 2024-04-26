@@ -28,7 +28,8 @@
   "theme=dungeon",
   "theme=wizard",
   "title=Demon Hunter",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hunter.zip",

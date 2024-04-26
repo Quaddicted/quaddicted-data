@@ -53,7 +53,8 @@
   "theme=lava",
   "theme=medieval",
   "title=Tomb of Fenrir",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_fenrir.zip",

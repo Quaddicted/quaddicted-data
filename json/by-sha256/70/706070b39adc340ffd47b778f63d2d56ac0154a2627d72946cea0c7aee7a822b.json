@@ -35,7 +35,8 @@
   "theme=plain",
   "theme=traps",
   "title=Mini",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mini.zip",

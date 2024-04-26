@@ -30,7 +30,8 @@
   "theme=traps",
   "theme=weird",
   "title=Orion",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/orion.zip",

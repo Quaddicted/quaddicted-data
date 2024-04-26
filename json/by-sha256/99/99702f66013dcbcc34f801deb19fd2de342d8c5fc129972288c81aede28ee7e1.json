@@ -34,7 +34,8 @@
   "game_mode=singleplayer",
   "release_date=2023-06-23",
   "title=Quantum Jam",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quanq1sp.zip",

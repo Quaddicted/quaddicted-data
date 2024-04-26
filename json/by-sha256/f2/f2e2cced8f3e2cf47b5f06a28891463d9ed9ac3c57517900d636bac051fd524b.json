@@ -30,7 +30,8 @@
   "theme=snow",
   "theme=winter",
   "title=The Castle of Hell",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/snow.zip",

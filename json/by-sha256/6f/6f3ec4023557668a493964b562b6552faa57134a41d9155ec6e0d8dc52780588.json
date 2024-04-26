@@ -41,7 +41,8 @@
   "theme=medieval",
   "theme=water",
   "title=Sunken Library",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/snklib.zip",

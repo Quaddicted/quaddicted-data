@@ -746,7 +746,8 @@
   "theme=quake 3",
   "theme=remix",
   "title=Coppertone Summer Jam",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ctsj.zip",

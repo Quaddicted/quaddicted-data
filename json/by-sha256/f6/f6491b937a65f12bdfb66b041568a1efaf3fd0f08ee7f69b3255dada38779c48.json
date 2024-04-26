@@ -138,7 +138,8 @@
   "theme=secrets",
   "theme=wind tunnels",
   "title=Backsteingotik",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=backstein/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/backstein1e.zip",

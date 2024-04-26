@@ -506,7 +506,8 @@
   "theme=remake",
   "theme=remix",
   "title=Ebon Fortress Remix",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e2m4remix.zip",

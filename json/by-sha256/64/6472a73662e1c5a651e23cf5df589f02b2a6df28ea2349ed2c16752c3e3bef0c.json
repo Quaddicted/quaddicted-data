@@ -32,7 +32,8 @@
   "theme=cistern",
   "theme=medieval",
   "title=Waterworks",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/watrwrks1_1.zip",

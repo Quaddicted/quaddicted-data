@@ -40,7 +40,8 @@
   "theme=base",
   "theme=nehahra",
   "title=Invein",
-  "type=map"
+  "type=map",
+  "zipbasedir=nehahra/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/invein.zip",

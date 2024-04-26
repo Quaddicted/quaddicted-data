@@ -31,7 +31,8 @@
   "startmap=demons",
   "theme=metal",
   "title=The Demons Lair",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/demonslair.zip",

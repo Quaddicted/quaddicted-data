@@ -37,7 +37,8 @@
   "theme=traps",
   "theme=wizard",
   "title=House of Traps",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/houstrps.zip",

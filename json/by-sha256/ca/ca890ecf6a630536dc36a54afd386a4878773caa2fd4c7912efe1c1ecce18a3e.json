@@ -46,7 +46,8 @@
   "startmap=sm11_czg",
   "startmap=sm11_misyu",
   "title=Speedmapping pack 11 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm11_pack.zip",

@@ -35,7 +35,8 @@
   "theme=rock",
   "theme=underground",
   "title=Februus Depth",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/februus.zip",

@@ -83,7 +83,8 @@
   "startmap=q1tm2_remnent",
   "theme=base",
   "title=Quake Turtlemap 2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm2.zip",

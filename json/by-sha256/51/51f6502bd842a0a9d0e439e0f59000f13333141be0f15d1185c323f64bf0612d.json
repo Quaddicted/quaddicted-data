@@ -32,7 +32,8 @@
   "release_date=2019-12-20",
   "theme=base",
   "title=Off Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/offbase.zip",

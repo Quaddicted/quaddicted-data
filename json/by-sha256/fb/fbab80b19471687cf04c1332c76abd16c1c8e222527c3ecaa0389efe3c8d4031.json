@@ -74,7 +74,8 @@
   "theme=metal",
   "theme=runic",
   "title=Ten Thousand Days In The Fire",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ttd.zip",

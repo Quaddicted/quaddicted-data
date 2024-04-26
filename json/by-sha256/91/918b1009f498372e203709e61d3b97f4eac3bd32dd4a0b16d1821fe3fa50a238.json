@@ -61,7 +61,8 @@
   "startmap=its_in_bois",
   "theme=quoth",
   "title=The C.G.L Project",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cgl_q.zip",

@@ -316,7 +316,8 @@
   "theme=metal",
   "theme=wizard",
   "title=(The Final) Descent",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=descent/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/descent.zip",

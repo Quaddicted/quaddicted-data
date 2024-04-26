@@ -40,7 +40,8 @@
   "startmap=sm139_spirit",
   "theme=spd",
   "title=Speedmapping pack 139 - Include your nick",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm139_pack.zip",

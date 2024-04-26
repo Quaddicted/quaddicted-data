@@ -41,7 +41,8 @@
   "theme=mixtex",
   "theme=puzzles",
   "title=The Isolation",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs08.zip",

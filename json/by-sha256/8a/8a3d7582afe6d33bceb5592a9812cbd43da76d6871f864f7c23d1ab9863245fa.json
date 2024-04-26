@@ -113,7 +113,8 @@
   "theme=scourge of armagon",
   "title=The 'lost' levels",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gotshun-never-released_levels.zip",

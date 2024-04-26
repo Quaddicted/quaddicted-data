@@ -29,7 +29,8 @@
   "startmap=sanct",
   "theme=wizard",
   "title=The Insurrection, part III - The Sanctuary",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ins3.zip",

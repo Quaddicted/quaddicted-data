@@ -33,7 +33,8 @@
   "theme=water",
   "theme=wizard",
   "title=Somewhere in Time",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/swintime.zip",

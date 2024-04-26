@@ -88,7 +88,8 @@
   "theme=tower",
   "theme=wizard",
   "title=Binding Tower",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bindingtower2.zip",

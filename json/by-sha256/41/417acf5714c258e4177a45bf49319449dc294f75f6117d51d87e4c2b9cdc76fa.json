@@ -53,7 +53,8 @@
   "startmap=sm21_tron",
   "startmap=sm21_vig",
   "title=Speedmapping pack 21 - Wood and stone, containing at least 1 bridge",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm21_pack.zip",

@@ -32,7 +32,8 @@
   "release_date=2019-05-04",
   "theme=wizard",
   "title=The Lost Tomb",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/losttomb.zip",

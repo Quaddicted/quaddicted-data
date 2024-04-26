@@ -36,7 +36,8 @@
   "source=included",
   "theme=medieval",
   "title=Rings2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rings2.zip",

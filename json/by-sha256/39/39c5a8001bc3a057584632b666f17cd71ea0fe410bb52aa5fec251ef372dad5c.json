@@ -83,7 +83,8 @@
   "theme=idbase",
   "theme=quoth",
   "title=The Hand That Feeds You",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thehand.zip",

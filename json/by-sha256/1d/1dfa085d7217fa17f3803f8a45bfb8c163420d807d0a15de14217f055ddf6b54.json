@@ -677,7 +677,8 @@
   "theme=swamp",
   "theme=wizard",
   "title=Speedmap Snack Pack",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=snack/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/snack.zip",

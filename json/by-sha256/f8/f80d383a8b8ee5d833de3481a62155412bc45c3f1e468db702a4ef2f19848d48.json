@@ -36,7 +36,8 @@
   "theme=traps",
   "theme=windtunnel",
   "title=Rust in Peace",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/grc4beta.zip",

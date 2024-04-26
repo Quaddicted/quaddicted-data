@@ -27,7 +27,8 @@
   "theme=blue",
   "theme=medieval",
   "title=The Cross",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cross.zip",

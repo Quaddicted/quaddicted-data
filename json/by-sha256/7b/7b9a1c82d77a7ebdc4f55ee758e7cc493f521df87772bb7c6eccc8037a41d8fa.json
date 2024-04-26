@@ -1249,7 +1249,8 @@
   "theme=void",
   "title=Dwell - Episode 1 (Version 1.2)",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=dwell/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwellv1p2.zip",

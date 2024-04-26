@@ -42,7 +42,8 @@
   "theme=lava",
   "theme=wizard",
   "title=The Doomed Cathedral",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bmfbrsp1.zip",

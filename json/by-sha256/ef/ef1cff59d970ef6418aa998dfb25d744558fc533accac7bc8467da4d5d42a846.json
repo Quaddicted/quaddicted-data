@@ -46,7 +46,8 @@
   "theme=realism",
   "title=City 2000",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/c2000.zip",

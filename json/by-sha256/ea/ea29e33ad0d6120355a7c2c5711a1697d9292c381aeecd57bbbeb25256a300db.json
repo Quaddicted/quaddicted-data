@@ -46,7 +46,8 @@
   "startmap=sm114_spirit",
   "startmap=sm114_trinca",
   "title=Speedmapping pack 114 - Only one texture",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm114_pack.zip",

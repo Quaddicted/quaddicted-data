@@ -58,7 +58,8 @@
   "source=included",
   "theme=arcane dimensions",
   "title=Chaotic Trinity",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/test_chaos1.zip",

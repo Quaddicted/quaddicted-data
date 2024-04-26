@@ -31,7 +31,8 @@
   "theme=castle",
   "theme=wizard",
   "title=Fear Castle v.2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/frcastl2.zip",

@@ -288,7 +288,8 @@
   "theme=swamp",
   "theme=traps",
   "title=Explore Jam 2",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=explorejam2/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/explorejam2.zip",

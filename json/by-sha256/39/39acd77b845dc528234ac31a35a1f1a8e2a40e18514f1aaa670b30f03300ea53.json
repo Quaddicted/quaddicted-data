@@ -42,7 +42,8 @@
   "source=included",
   "startmap=suzywarm",
   "title=The Warmest Body In The Room",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/suzywarm.zip",

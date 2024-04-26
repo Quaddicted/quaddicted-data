@@ -85,7 +85,8 @@
   "theme=canyon",
   "theme=quoth",
   "title=Luna in Silver Shards",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ion02.zip",

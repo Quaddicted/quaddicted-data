@@ -39,7 +39,8 @@
   "startmap=sm180_nait",
   "theme=castle",
   "title=Speedmapping pack 180 - A Map Repus Can Enjoy",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm180.zip",

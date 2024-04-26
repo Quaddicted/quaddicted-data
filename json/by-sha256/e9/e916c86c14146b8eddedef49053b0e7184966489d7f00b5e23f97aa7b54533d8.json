@@ -439,7 +439,8 @@
   "startmap=huh_waydown",
   "startmap=start",
   "title=HUH: A /vr/ mapping project",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/huh_final.zip",

@@ -32,7 +32,8 @@
   "theme=metal",
   "theme=wizard",
   "title=Notlob's Castle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sgc6.zip",

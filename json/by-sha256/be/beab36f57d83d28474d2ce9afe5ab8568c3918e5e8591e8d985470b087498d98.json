@@ -29,7 +29,8 @@
   "theme=no exit",
   "theme=underground",
   "title=The Lost Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lbase.zip",

@@ -30,7 +30,8 @@
   "theme=realism",
   "theme=wizard",
   "title=Obi's Quake World",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fober1.zip",

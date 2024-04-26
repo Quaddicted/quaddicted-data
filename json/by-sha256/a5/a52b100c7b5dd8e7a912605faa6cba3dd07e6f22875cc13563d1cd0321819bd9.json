@@ -321,7 +321,8 @@
   "theme=base",
   "theme=mine",
   "title=The Dig",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=dig/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dig.zip",

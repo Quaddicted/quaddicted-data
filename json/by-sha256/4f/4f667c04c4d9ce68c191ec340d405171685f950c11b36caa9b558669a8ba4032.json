@@ -57,7 +57,8 @@
   "theme=traps",
   "title=Reload",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rstart11.zip",

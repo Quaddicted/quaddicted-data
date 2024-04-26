@@ -50,7 +50,8 @@
   "startmap=sm46_harb",
   "startmap=sm46_scampie",
   "title=Speedmapping pack 46 - Swamp",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm46.zip",

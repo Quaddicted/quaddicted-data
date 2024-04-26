@@ -43,7 +43,8 @@
   "theme=base",
   "theme=industrial",
   "title=Clean Cut",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp8.zip",

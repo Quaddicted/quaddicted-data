@@ -31,7 +31,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Et's Level Of HELL",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ethell.zip",

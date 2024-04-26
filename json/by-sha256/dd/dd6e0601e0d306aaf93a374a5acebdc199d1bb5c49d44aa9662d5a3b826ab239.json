@@ -3592,7 +3592,8 @@
   "theme=winter",
   "title=Ter Shibboleth Part 2",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=shib/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ter_shibboleth_part_2_rev2.zip",

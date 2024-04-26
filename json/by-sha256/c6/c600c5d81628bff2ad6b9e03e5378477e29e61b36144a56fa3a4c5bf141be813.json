@@ -63,7 +63,8 @@
   "theme=medieval",
   "theme=oldschool",
   "title=Elements",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/eels.zip",

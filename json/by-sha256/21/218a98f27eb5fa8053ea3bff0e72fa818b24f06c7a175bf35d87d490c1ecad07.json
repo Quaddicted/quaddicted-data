@@ -45,7 +45,8 @@
   "theme=dkt",
   "title=SM40 contest",
   "type=chainmap",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm40contest.zip",

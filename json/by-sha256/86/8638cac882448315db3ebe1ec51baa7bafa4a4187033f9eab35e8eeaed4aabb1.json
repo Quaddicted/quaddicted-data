@@ -1928,7 +1928,8 @@
   "theme=remix",
   "title=Quoth",
   "type=mod",
-  "version=2.1"
+  "version=2.1",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth.zip",

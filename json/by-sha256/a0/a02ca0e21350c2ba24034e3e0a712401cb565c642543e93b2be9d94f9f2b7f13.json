@@ -28,7 +28,8 @@
   "theme=gothic",
   "theme=quake 3",
   "title=Realm of the tetris overlord",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/xnsm2_se.bsp.zip",

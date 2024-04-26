@@ -651,7 +651,8 @@
   "startmap=fbj_zigi",
   "startmap=start",
   "title=Fireblu Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fbj.zip",

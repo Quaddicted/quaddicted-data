@@ -33,7 +33,8 @@
   "startmap=gemch01",
   "theme=medieval",
   "title=Gem Church",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gemch01.zip",

@@ -33,7 +33,8 @@
   "theme=base",
   "theme=metal",
   "title=No Turning Back",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/noturn.zip",

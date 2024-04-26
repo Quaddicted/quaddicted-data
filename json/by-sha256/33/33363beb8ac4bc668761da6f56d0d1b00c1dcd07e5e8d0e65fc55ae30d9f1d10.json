@@ -37,7 +37,8 @@
   "theme=traps",
   "theme=underground",
   "title=Morbidity: 2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_2.zip",

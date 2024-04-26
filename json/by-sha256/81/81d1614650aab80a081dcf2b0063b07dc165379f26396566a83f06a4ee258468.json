@@ -47,7 +47,8 @@
   "theme=metal",
   "theme=wizard",
   "title=The Hub",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hub.zip",

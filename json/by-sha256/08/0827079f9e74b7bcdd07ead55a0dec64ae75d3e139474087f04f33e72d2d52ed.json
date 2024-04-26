@@ -34,7 +34,8 @@
   "theme=metal",
   "theme=wizard",
   "title=The Cult",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cult.zip",

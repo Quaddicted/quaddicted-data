@@ -39,7 +39,8 @@
   "theme=base",
   "theme=mixtex",
   "title=Peripheral Fundament",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hc0.zip",

@@ -26,7 +26,8 @@
   "theme=base",
   "theme=industrial",
   "title=Fatal Error",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fatal-error.zip",

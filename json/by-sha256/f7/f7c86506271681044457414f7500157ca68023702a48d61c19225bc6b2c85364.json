@@ -160,7 +160,8 @@
   "startmap=bario2",
   "theme=wizard",
   "title=House of jilted boys",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=bario/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jilted.zip",

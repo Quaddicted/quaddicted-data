@@ -48,7 +48,8 @@
   "theme=bricks",
   "theme=medieval",
   "title=The End of Solace",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/endofsolace.zip",

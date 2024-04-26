@@ -60,7 +60,8 @@
   "theme=metal",
   "theme=mixtex",
   "title=The Citadel of Sinners",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/xl2.zip",

@@ -29,7 +29,8 @@
   "theme=no exit",
   "theme=traps",
   "title=ALSC Deathtrap",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alsc.zip",

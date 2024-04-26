@@ -34,7 +34,8 @@
   "theme=base",
   "theme=quoth",
   "title=Fort Driant",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fort_driant-fullvis.zip",

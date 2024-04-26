@@ -32,7 +32,8 @@
   "theme=scourge of armagon",
   "theme=sewer",
   "title=Seweage Playground",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sewer12.zip",

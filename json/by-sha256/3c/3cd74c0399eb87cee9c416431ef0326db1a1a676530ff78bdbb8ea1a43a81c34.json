@@ -31,7 +31,8 @@
   "theme=base",
   "theme=doom 2",
   "title=SPD",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/spd2.zip",

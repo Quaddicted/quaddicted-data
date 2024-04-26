@@ -767,7 +767,8 @@
   "theme=story",
   "theme=traps",
   "title=In The Shadows [Demo v1.1]",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=shadows/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/its_demo_v1_1.zip",

@@ -179,7 +179,8 @@
   "theme=boss",
   "theme=quake 2",
   "title=Concentric Devastation",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=lunsp1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lunsp1.zip",

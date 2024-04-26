@@ -1413,7 +1413,8 @@
   "theme=underwater",
   "theme=water",
   "title=Underwater Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/uwjam.zip",

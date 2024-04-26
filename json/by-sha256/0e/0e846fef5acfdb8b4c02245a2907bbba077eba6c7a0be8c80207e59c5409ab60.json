@@ -48,7 +48,8 @@
   "theme=quoth",
   "theme=runic",
   "title=Squad 768",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/768_5th.zip",

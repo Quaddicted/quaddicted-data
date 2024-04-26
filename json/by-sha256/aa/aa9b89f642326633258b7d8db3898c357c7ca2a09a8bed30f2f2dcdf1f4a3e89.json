@@ -29,7 +29,8 @@
   "theme=prison",
   "theme=realism",
   "title=Three's Arena",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/3sarena.zip",

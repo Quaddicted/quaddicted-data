@@ -28,7 +28,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Horror Wonderful",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hor1.zip",

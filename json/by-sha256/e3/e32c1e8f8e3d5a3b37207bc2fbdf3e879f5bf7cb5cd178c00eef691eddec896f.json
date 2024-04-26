@@ -29,7 +29,8 @@
   "startmap=breakout",
   "theme=base",
   "title=Breakout",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/break1-map.zip",

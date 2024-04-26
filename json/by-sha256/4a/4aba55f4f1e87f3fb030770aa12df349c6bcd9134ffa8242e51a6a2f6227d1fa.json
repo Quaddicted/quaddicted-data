@@ -35,7 +35,8 @@
   "startmap=sm136_drew",
   "theme=quoth",
   "title=Speedmapping pack 136 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm136_pack.zip",

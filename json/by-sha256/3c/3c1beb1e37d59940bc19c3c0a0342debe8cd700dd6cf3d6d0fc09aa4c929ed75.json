@@ -29,7 +29,8 @@
   "theme=plain",
   "theme=wizard",
   "title=Notlob's Residence",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sgc4.zip",

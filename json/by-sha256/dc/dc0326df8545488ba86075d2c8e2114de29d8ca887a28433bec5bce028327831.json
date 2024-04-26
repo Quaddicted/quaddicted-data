@@ -31,7 +31,8 @@
   "theme=temple",
   "theme=water",
   "title=The FloodGate",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/canal3.zip",

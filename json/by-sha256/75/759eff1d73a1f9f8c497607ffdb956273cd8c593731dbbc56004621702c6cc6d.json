@@ -31,7 +31,8 @@
   "theme=stone",
   "theme=underground",
   "title=Fireworld",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fire.zip",

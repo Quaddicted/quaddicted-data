@@ -42,7 +42,8 @@
   "theme=mixtex",
   "title=Eat this...",
   "type=demo",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/whippet.zip",

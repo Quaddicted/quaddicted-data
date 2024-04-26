@@ -53,7 +53,8 @@
   "startmap=sm76_scampie",
   "startmap=sm76_zwiffle",
   "title=Speedmapping pack 76 - 100 min timelimit enforced",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm76_pack.zip",

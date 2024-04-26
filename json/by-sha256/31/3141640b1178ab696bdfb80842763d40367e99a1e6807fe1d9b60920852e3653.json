@@ -31,7 +31,8 @@
   "theme=cavern",
   "theme=medieval",
   "title=Coven",
-  "type=map"
+  "type=map",
+  "zipbasedir=soe/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coven.zip",

@@ -27,7 +27,8 @@
   "theme=metal",
   "theme=wizard",
   "title=666",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/r_666.zip",

@@ -39,7 +39,8 @@
   "source=included",
   "theme=base",
   "title=The Warfare Warehouse",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tww.zip",

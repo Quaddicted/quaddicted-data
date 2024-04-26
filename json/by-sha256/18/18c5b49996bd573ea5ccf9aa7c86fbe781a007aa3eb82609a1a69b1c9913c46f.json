@@ -42,7 +42,8 @@
   "theme=wizard",
   "title=A Quick Trip to the Old World",
   "type=map",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fwsm1.zip",

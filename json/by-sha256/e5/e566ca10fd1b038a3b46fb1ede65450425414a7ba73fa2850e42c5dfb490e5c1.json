@@ -30,7 +30,8 @@
   "theme=realism",
   "theme=wizard",
   "title=Wall Fortress",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkwall.zip",

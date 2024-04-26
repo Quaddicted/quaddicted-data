@@ -49,7 +49,8 @@
   "theme=castle",
   "theme=medieval",
   "title=Evil Wizard",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_evilwizard.zip",

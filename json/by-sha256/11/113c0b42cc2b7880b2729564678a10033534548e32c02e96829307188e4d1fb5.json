@@ -38,7 +38,8 @@
   "theme=medieval",
   "theme=underground",
   "title=Yog-Sothoth's Halls",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sodahalls03.zip",

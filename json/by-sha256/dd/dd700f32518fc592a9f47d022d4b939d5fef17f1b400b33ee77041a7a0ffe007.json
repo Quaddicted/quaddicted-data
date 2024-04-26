@@ -148,7 +148,8 @@
   "theme=base",
   "theme=cave",
   "title=The Gorge",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=q1gorge/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1gorge.zip",

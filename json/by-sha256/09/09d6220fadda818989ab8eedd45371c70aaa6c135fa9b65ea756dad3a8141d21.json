@@ -485,7 +485,8 @@
   "theme=traps",
   "theme=wizard",
   "title=The Purifier",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/purifier.zip",

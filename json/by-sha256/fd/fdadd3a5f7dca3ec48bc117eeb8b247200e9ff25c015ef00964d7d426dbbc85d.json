@@ -32,7 +32,8 @@
   "startmap=sm125_generic",
   "startmap=sm125_neg!ke",
   "title=Speedmapping pack 125 - Timelimit",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm125_pack.zip",

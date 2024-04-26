@@ -4770,7 +4770,8 @@
   "theme=doom 3",
   "theme=exploration",
   "title=Modding Jam 2019",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/modjam_2019.zip",

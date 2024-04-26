@@ -43,7 +43,8 @@
   "startmap=sm171_scampie",
   "theme=quoth",
   "title=Speedmapping pack 171 - Bricks",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm171_pack.zip",

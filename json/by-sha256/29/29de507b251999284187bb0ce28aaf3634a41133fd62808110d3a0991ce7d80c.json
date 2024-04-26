@@ -36,7 +36,8 @@
   "theme=traps",
   "theme=wizard",
   "title=The Downward Spiral",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dspirl11.zip",

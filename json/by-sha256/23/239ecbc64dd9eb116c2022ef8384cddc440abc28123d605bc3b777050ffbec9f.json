@@ -51,7 +51,8 @@
   "theme=doom",
   "theme=quake 2",
   "title=Crap from Tigger",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tig00.zip",

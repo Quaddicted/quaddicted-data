@@ -87,7 +87,8 @@
   "theme=castle",
   "theme=medieval",
   "title=The Underkeep",
-  "type=map"
+  "type=map",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jp1m2.zip",

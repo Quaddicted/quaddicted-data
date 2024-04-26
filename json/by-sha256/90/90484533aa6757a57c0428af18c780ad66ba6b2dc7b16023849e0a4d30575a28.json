@@ -44,7 +44,8 @@
   "theme=industrial",
   "theme=slime",
   "title=Sludge Factory",
-  "type=map"
+  "type=map",
+  "zipbasedir=drake/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sludgefactory.zip",

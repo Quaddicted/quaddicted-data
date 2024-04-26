@@ -216,7 +216,8 @@
   "theme=super secret",
   "title=One Thousand Cuts",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=1000cuts/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/1000cuts1a.zip",

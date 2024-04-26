@@ -33,7 +33,8 @@
   "startmap=torre",
   "theme=medieval",
   "title=La Torre Abandonada",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/torre.zip",

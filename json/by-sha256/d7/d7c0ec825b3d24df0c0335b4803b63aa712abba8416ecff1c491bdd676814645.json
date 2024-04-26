@@ -34,7 +34,8 @@
   "theme=cavern",
   "theme=underwater",
   "title=Pyro1",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pyro1.zip",

@@ -60,7 +60,8 @@
   "release_date=1998-07-16",
   "theme=base",
   "title=The Tower",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tower.zip",

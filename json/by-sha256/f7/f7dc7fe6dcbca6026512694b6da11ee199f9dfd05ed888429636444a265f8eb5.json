@@ -22,7 +22,8 @@
   "startmap=digs_4hour.bsp",
   "theme=blue",
   "title=digs_4hour",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs_4hour.zip",

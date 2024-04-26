@@ -105,7 +105,8 @@
   "theme=medieval",
   "theme=water",
   "title=Castle Attack",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/castle_attack.zip",

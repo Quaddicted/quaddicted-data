@@ -1215,7 +1215,8 @@
   "theme=medieval",
   "title=Soul of Evil",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=soe/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/soe_full.zip",

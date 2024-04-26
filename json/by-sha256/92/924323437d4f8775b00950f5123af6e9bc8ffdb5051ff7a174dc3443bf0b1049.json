@@ -373,7 +373,8 @@
   "startmap=start",
   "theme=void",
   "title=Speedmapping pack 213 - Low Gravity",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm213.zip",

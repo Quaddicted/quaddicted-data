@@ -27,7 +27,8 @@
   "startmap=sm87_jacek",
   "startmap=sm87_zwiffle",
   "title=Bees",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm87_maps.zip",

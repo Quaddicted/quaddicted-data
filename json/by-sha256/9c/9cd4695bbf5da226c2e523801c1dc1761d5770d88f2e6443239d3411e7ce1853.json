@@ -41,7 +41,8 @@
   "theme=secrets",
   "theme=village",
   "title=Silhouette of Darkness",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/siluette.zip",

@@ -27,7 +27,8 @@
   "theme=cave",
   "theme=wizard",
   "title=Ickle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ickle.zip",

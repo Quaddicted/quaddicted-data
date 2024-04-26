@@ -1432,7 +1432,8 @@
   "theme=runic",
   "theme=snow",
   "title=SMEJ Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smejjam.zip",

@@ -33,7 +33,8 @@
   "theme=bricks",
   "theme=medieval",
   "title=Maked GEO special for GAME.EXE",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/konk1.zip",

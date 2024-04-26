@@ -39,7 +39,8 @@
   "theme=metal",
   "theme=traps",
   "title=Myworld is Yourworld",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/iam1.zip",

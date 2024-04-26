@@ -29,7 +29,8 @@
   "release_date=1999-04-07",
   "theme=metal",
   "title=LS",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ls.zip",

@@ -34,7 +34,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Recurrent Rumours",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rumours.zip",

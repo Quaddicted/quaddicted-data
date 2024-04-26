@@ -47,7 +47,8 @@
   "theme=base",
   "theme=crates",
   "title=The Fistfucking Little Box",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pdq1sp1_c.zip",

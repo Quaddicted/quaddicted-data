@@ -59,7 +59,8 @@
   "startmap=sm84_pope",
   "startmap=sm84_scampie",
   "title=Speedmapping pack 84 - Oldschool maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm84_pack.zip",

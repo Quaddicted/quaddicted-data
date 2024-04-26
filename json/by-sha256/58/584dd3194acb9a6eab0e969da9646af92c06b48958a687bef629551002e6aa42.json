@@ -70,7 +70,8 @@
   "theme=water",
   "theme=wizard",
   "title=Anaconda",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=anaconda/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/anaconda.zip",

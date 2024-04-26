@@ -30,7 +30,8 @@
   "theme=mixtex",
   "theme=realism",
   "title=BadLand2 : Countdown",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/badland2.zip",

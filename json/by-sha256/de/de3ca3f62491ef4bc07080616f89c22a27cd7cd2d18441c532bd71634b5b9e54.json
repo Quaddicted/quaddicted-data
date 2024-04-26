@@ -30,7 +30,8 @@
   "theme=cave",
   "theme=cavern",
   "title=Lost Pantera",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pum1.zip",

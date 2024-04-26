@@ -24,7 +24,8 @@
   "theme=metal",
   "theme=runic",
   "title=The Garrison",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/garrison.zip",

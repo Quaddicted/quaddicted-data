@@ -99,7 +99,8 @@
   "theme=void",
   "title=The Coagula Contest",
   "type=contest",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=coagulacontest/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coagulacontest.zip",

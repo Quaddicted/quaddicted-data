@@ -39,7 +39,8 @@
   "theme=fortress",
   "theme=knave",
   "title=A Quick One Before Azathoth Devours Fodrian",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/azathoth.zip",

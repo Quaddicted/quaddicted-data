@@ -57,7 +57,8 @@
   "theme=remake",
   "theme=remix",
   "title=Alter's Hangar",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alt_e1m1.zip",

@@ -27,7 +27,8 @@
   "startmap=sm107_generic",
   "startmap=sm107_ht",
   "title=Speedmapping pack 107",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm107_pack.zip",

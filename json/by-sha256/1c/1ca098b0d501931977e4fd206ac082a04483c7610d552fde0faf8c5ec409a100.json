@@ -20,7 +20,8 @@
   "game_mode=singleplayer",
   "release_date=2005-08-06",
   "title=Title",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_czg2.zip",

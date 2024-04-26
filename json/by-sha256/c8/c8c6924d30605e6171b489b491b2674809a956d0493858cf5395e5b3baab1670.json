@@ -45,7 +45,8 @@
   "theme=base",
   "theme=exploration",
   "title=Swarm Breach Torrent Fight",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sbtf_cop16.zip",

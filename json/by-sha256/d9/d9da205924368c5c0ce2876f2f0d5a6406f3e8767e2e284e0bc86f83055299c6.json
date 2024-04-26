@@ -614,7 +614,8 @@
   "theme=medieval",
   "title=The Punishment Due",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=pun/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pun.zip",

@@ -33,7 +33,8 @@
   "theme=medieval",
   "theme=outdoor",
   "title=Memento Mori",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/czg02.zip",

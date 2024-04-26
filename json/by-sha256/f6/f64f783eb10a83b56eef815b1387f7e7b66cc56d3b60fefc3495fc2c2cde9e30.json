@@ -133,7 +133,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Amusement Inferno",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/aur1_amuse_upd1.zip",

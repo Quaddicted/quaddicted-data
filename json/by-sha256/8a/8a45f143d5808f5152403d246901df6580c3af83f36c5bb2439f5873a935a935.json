@@ -47,7 +47,8 @@
   "startmap=sm38_speedy",
   "theme=spd",
   "title=Speedmapping pack 38 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm38_temp.zip",

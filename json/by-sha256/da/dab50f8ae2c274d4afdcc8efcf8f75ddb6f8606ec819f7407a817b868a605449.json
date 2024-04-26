@@ -60,7 +60,8 @@
   "startmap=sm59_scampie",
   "startmap=sm59_starbuck",
   "title=Speedmapping pack 59 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm59_pack.zip",

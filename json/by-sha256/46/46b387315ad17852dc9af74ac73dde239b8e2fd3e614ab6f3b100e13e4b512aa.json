@@ -42,7 +42,8 @@
   "theme=cistern",
   "title=Sinister Cistern",
   "type=map",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sincinch.zip",

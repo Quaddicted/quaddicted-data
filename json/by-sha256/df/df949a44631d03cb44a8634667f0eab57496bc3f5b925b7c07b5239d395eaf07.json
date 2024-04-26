@@ -32,7 +32,8 @@
   "theme=puzzles",
   "theme=wizard",
   "title=The Hallowed Halls",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bnt2.zip",

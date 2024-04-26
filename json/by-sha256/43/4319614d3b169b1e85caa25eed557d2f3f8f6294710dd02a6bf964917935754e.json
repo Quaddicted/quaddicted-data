@@ -29,7 +29,8 @@
   "theme=doom",
   "theme=doom 2",
   "title=Doom2 Map01 - Entryway",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_01.zip",

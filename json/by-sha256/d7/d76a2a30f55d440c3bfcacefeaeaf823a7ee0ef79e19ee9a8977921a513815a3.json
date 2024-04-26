@@ -32,7 +32,8 @@
   "theme=brick",
   "theme=medieval",
   "title=God's House",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/godsjt.zip",

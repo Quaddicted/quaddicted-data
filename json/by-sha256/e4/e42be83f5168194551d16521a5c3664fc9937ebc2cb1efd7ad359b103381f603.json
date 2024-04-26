@@ -30,7 +30,8 @@
   "theme=space",
   "theme=void",
   "title=CZG's moonshot",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/czg_moon.zip",

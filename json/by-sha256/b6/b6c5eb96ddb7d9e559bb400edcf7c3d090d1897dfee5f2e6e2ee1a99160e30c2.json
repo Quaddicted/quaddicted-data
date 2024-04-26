@@ -110,7 +110,8 @@
   "theme=ruins",
   "theme=village",
   "title=The Goblin City",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=goblin/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/goblin.zip",

@@ -76,7 +76,8 @@
   "theme=orange",
   "theme=quoth",
   "title=Blood Colored Rust",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mhsp01.zip",

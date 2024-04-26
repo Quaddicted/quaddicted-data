@@ -2043,7 +2043,8 @@
   "startmap=start",
   "title=Quoth 2.2",
   "type=mod",
-  "version=2.2"
+  "version=2.2",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2full_2.zip",

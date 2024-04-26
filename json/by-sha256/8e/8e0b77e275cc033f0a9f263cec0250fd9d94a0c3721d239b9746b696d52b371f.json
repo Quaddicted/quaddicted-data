@@ -60,7 +60,8 @@
   "startmap=sm27_than",
   "startmap=sm27_xenon",
   "title=Speedmapping pack 27 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm27_pack.zip",

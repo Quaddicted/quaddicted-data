@@ -122,7 +122,8 @@
   "theme=base",
   "title=Bario3",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=bario3/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bario3.zip",

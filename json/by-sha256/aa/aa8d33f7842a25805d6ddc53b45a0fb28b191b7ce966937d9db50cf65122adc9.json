@@ -42,7 +42,8 @@
   "theme=blue",
   "theme=void",
   "title=Adrift",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/whirlq01.zip",

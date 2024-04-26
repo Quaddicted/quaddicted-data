@@ -23,7 +23,8 @@
   "theme=mixtex",
   "theme=traps",
   "title=The Hockey Arena",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gostown7.zip",

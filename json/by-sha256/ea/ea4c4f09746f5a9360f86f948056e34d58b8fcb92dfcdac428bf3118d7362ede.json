@@ -38,7 +38,8 @@
   "theme=classic",
   "theme=id1",
   "title=Outpost 91",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/outpost91_b1.zip",

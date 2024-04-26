@@ -387,7 +387,8 @@
   "theme=city",
   "theme=remake",
   "title=Duke Nukem Quake",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dnq.zip",

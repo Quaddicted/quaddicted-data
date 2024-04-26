@@ -155,7 +155,8 @@
   "theme=quake 2",
   "theme=space",
   "title=Colony",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=gmsp1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gmsp1.zip",

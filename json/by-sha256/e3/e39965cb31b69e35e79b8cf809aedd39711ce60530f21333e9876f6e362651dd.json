@@ -64,7 +64,8 @@
   "startmap=sm50_xen",
   "startmap=sm50_xen2",
   "title=Speedmapping pack 50 - Water",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm50_pack.zip",

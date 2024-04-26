@@ -837,7 +837,8 @@
   "theme=bricks",
   "theme=mixtex",
   "title=BSQM Safe",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=bsqmsafe/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bsqmsafe.zip",

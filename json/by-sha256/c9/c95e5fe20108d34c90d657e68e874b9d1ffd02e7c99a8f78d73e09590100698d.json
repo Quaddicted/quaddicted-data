@@ -37,7 +37,8 @@
   "theme=base",
   "theme=classic",
   "title=Slipgate to a Lost Dimension",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/eber1_final.zip",

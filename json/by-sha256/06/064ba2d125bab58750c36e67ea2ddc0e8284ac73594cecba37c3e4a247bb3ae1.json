@@ -33,7 +33,8 @@
   "theme=lava",
   "theme=medieval",
   "title=Rune Keep",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/runekeep.zip",

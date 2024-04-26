@@ -29,7 +29,8 @@
   "startmap=polygon",
   "theme=base",
   "title=Polygon Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/polybase.zip",

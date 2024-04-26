@@ -52,7 +52,8 @@
   "startmap=sm24_than",
   "startmap=sm24_xenon",
   "title=Speedmapping pack 24 - Metal at night",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_pack.zip",

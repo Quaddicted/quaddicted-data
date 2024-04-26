@@ -34,7 +34,8 @@
   "theme=castle",
   "theme=wizard",
   "title=Dimension of the Doomed",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qx11_z1.zip",

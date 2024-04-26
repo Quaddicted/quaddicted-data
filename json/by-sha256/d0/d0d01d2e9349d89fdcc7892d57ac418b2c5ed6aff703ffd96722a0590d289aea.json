@@ -51,7 +51,8 @@
   "theme=medieval",
   "theme=metal",
   "title=QExpo 2006 Turtlemap pack",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tmqe06_pack.zip",

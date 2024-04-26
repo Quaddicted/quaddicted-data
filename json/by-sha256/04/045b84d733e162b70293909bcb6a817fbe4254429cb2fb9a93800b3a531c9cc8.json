@@ -29,7 +29,8 @@
   "theme=base",
   "theme=outdoor",
   "title=Scoop of chaos",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/scoop.zip",

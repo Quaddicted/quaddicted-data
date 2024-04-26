@@ -70,7 +70,8 @@
   "theme=wizard",
   "title=Terra",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/terra.zip",

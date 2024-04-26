@@ -141,7 +141,8 @@
   "theme=quoth",
   "theme=tech",
   "title=Mainframe Mayhem",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp17.zip",

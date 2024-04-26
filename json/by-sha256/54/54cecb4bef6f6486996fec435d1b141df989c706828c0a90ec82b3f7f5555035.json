@@ -30,7 +30,8 @@
   "theme=metal",
   "theme=mixtex",
   "title=Med Labs",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/medlab.zip",

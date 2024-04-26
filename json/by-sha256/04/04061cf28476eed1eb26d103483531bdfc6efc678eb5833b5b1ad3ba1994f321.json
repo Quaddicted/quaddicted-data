@@ -317,7 +317,8 @@
   "theme=base",
   "theme=rubicon",
   "title=Hrimturt",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=hrimturt/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrimturt.zip",

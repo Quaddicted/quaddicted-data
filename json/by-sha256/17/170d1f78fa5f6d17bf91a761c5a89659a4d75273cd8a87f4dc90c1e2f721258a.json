@@ -76,7 +76,8 @@
   "startmap=sm48_starbuck",
   "startmap=sm48_xen",
   "title=Speedmapping pack 48 - Non-detail textures",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm48_pack.zip",

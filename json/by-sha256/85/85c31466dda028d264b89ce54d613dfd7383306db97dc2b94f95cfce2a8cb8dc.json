@@ -41,7 +41,8 @@
   "theme=runic",
   "theme=temple",
   "title=Temple of Azathoth",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tofaz.zip",

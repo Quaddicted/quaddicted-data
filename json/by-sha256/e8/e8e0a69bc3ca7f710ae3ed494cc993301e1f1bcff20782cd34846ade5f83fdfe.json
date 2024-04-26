@@ -29,7 +29,8 @@
   "theme=experimental",
   "theme=metal",
   "title=Bubbah's Slate",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bub2.zip",

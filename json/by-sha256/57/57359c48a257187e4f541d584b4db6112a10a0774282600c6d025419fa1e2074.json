@@ -34,7 +34,8 @@
   "theme=city",
   "theme=realism",
   "title=City",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/city.zip",

@@ -55,7 +55,8 @@
   "startmap=sm143_spirit",
   "startmap=sm143_trinca",
   "title=Speedmapping pack 143 - Carnage/Quake lake",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm143_pack.zip",

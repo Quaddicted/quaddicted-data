@@ -39,7 +39,8 @@
   "theme=runic",
   "theme=secrets",
   "title=Wenl Mine",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/megad2lvl3.zip",

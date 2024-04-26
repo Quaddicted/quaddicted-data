@@ -33,7 +33,8 @@
   "theme=base",
   "theme=ikbase",
   "title=The Frater Fracas",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rc1.zip",

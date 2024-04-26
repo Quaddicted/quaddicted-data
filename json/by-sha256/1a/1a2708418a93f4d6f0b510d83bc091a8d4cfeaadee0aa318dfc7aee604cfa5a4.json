@@ -58,7 +58,8 @@
   "theme=traps",
   "title=Series 1",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/series1.zip",

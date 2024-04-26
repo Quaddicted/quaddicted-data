@@ -48,7 +48,8 @@
   "startmap=FirstCoolMapRelease/fcm",
   "theme=base",
   "title=FirstCoolMap",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/firstcoolmaprelease.zip",

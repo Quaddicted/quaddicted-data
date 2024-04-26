@@ -28,7 +28,8 @@
   "startmap=sp",
   "theme=base",
   "title=Staging Point",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sp1.zip",

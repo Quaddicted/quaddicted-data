@@ -31,7 +31,8 @@
   "theme=base",
   "theme=wizard",
   "title=Hive, part I",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hive.zip",

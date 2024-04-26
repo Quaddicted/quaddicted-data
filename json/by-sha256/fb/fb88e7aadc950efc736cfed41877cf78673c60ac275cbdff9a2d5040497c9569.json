@@ -35,7 +35,8 @@
   "theme=canyon",
   "theme=medieval",
   "title=Iredent",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/iredent_qmap.zip",

@@ -50,7 +50,8 @@
   "theme=tomb",
   "theme=underground",
   "title=Runic Mechanism",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/runemech.zip",

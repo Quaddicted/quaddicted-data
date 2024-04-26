@@ -33,7 +33,8 @@
   "release_date=2000-04-01",
   "theme=egypt",
   "title=The Journey Home",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/a3.zip",

@@ -46,7 +46,8 @@
   "startmap=sm16_misyu",
   "startmap=sm16_nane",
   "title=Speedmapping pack 16 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm16_pack.zip",

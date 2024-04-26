@@ -38,7 +38,8 @@
   "theme=quoth",
   "theme=secrets",
   "title=Fort Ratsack",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/base_debris.zip",

@@ -795,7 +795,8 @@
   "theme=sewer",
   "theme=underwater",
   "title=Quake Sewer Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=swjam/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sewerjam.zip",

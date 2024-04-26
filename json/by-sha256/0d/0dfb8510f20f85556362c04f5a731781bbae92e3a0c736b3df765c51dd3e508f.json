@@ -337,7 +337,8 @@
   "theme=dm4",
   "theme=metal",
   "title=DM4 Jam DLC Update",
-  "type=map"
+  "type=map",
+  "zipbasedir=dm4jam/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm4jam_dlc_patch.zip",

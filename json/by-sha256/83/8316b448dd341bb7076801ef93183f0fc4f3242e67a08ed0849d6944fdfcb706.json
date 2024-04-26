@@ -34,7 +34,8 @@
   "theme=traps",
   "theme=wizard",
   "title=The Ascent from Hell",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/afhell.zip",

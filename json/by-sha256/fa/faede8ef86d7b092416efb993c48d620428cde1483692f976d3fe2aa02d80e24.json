@@ -38,7 +38,8 @@
   "theme=dungeon",
   "theme=egypt",
   "title=Perish the Thoth",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/perish.zip",

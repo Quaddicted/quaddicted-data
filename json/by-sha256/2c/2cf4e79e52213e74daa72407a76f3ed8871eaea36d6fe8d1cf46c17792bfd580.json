@@ -304,7 +304,8 @@
   "theme=medieval",
   "title=Lomgoat",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=lomgoat/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lomgoat.zip",

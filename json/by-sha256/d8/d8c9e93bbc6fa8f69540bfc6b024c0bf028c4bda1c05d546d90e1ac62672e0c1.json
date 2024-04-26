@@ -28,7 +28,8 @@
   "theme=house",
   "theme=realism",
   "title=Home sweet home",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/home_ke.zip",

@@ -27,7 +27,8 @@
   "theme=metal",
   "theme=tomb",
   "title=Citadel",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/citadel.zip",

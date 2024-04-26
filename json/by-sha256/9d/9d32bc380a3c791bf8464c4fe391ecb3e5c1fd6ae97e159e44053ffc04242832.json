@@ -3272,7 +3272,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Arcanum Bonus Maps",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=arcextra/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcextra.zip",

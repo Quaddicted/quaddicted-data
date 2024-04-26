@@ -31,7 +31,8 @@
   "theme=traps",
   "theme=wizard",
   "title=The Forgotten Level",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tfl.zip",

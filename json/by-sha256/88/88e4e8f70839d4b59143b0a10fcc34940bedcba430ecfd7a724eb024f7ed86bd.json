@@ -55,7 +55,8 @@
   "startmap=sm55_starbuck",
   "theme=quake the way id did",
   "title=Speedmapping pack 55 - IDbase (The 4 Seasons of Quake #1)",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm55_pack.zip",

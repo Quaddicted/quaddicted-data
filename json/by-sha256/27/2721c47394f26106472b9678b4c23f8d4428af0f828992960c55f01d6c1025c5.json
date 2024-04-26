@@ -38,7 +38,8 @@
   "theme=green",
   "theme=traps",
   "title=Laboratory X",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/omlabx.zip",

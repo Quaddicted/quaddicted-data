@@ -45,7 +45,8 @@
   "theme=knave",
   "title=Dead But Dreaming",
   "type=demo",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dbdreaming.zip",

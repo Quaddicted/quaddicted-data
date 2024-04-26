@@ -32,7 +32,8 @@
   "theme=water",
   "theme=wizard",
   "title=Mykd1",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mykd1.zip",

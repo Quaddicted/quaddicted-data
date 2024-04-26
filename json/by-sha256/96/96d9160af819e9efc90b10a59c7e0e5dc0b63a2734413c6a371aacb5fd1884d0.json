@@ -36,7 +36,8 @@
   "theme=remake",
   "theme=terracotta",
   "title=The Palace of Fear",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tpof.zip",

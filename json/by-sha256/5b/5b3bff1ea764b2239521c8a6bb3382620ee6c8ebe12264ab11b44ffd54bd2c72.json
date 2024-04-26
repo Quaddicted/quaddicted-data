@@ -69,7 +69,8 @@
   "theme=remake",
   "theme=remix",
   "title=Candles of the Damned",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_candles.zip",

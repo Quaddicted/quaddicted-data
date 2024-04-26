@@ -30,7 +30,8 @@
   "theme=mixtex",
   "theme=wizard",
   "title=The mortal environment",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mortal.zip",

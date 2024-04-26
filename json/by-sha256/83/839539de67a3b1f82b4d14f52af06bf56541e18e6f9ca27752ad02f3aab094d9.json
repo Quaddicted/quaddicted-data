@@ -30,7 +30,8 @@
   "theme=traps",
   "theme=wizard",
   "title=The domain of Sadlark",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark4.zip",

@@ -97,7 +97,8 @@
   "startmap=start",
   "theme=medieval",
   "title=The Vigil",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=vigil/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/vigil.zip",

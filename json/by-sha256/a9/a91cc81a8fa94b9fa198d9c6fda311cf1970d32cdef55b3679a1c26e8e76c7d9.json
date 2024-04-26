@@ -41,7 +41,8 @@
   "theme=puzzles",
   "theme=slime",
   "title=RJ Zone",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs07.zip",

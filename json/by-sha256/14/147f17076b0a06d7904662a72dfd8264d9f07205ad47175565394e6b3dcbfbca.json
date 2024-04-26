@@ -61,7 +61,8 @@
   "startmap=sm37_xenon",
   "theme=rubicon",
   "title=Speedmapping pack 37 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm37_pack.zip",

@@ -67,7 +67,8 @@
   "startmap=sm19_misyu",
   "startmap=sm19_xenon",
   "title=Speedmapping pack 19 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm19_pack.zip",

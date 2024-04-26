@@ -29,7 +29,8 @@
   "theme=outdoor",
   "theme=quake 3",
   "title=Cappuccino: The refill",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cappuccino_v2.zip",

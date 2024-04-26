@@ -31,7 +31,8 @@
   "theme=plain",
   "theme=wizard",
   "title=Welcome To The Mill",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/themill.zip",

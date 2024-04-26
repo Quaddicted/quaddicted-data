@@ -66,7 +66,8 @@
   "startmap=sm130_neg!ke",
   "startmap=sm130_spirit",
   "title=Speedmapping pack 130 - Revisiting familiar places",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm130_pack.zip",

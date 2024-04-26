@@ -29,7 +29,8 @@
   "release_date=1999-12-04",
   "theme=base",
   "title=Dawn of the Dead",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dotd4.zip",

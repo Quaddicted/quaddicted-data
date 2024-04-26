@@ -30,7 +30,8 @@
   "theme=canyon",
   "theme=rock",
   "title=Con1",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/con1.zip",

@@ -86,7 +86,8 @@
   "startmap=sm142_zwiffle",
   "theme=spd",
   "title=Speedmapping pack 142 - Netherworld assembly line",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm142_pack.zip",

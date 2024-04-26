@@ -47,7 +47,8 @@
   "startmap=sm4_vondur",
   "startmap=sm4_xenon",
   "title=Speedmapping pack 4 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm4_pack.zip",

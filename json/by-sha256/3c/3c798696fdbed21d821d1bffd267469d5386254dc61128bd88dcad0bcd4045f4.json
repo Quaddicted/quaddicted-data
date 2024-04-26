@@ -32,7 +32,8 @@
   "startmap=sm96_tron",
   "startmap=sm96_zwiffle",
   "title=Speedmapping pack 96 - The Room",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm96_pack.zip",

@@ -44,7 +44,8 @@
   "theme=traps",
   "theme=water",
   "title=The Pillars of the Damned",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pillars.zip",

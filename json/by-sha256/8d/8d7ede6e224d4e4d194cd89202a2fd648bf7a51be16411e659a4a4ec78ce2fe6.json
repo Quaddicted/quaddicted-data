@@ -139,7 +139,8 @@
   "theme=wizard",
   "title=Death's Dominion",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=dd/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dd.zip",

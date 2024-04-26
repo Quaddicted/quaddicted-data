@@ -27,7 +27,8 @@
   "startmap=bldston",
   "theme=mixtex",
   "title=Bloodstone",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bldstone.zip",

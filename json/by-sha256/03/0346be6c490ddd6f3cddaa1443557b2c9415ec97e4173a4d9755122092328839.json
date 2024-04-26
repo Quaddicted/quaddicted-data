@@ -254,7 +254,8 @@
   "theme=weird",
   "title=Abandon",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=abandon/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/abandon.zip",

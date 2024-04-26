@@ -121,7 +121,8 @@
   "startmap=sm185_ww",
   "theme=dm4",
   "title=Speedmapping pack 185 - 1024 Units",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm185_pack.zip",

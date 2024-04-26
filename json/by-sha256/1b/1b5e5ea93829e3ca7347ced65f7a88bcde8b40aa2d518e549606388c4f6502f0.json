@@ -30,7 +30,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Butcher Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/butcher.zip",

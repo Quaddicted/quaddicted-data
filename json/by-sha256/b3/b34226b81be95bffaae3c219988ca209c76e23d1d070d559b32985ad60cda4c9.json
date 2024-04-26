@@ -815,7 +815,8 @@
   "theme=castle",
   "theme=remake",
   "title=Tower Of Dal Gurak",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=bod/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bod.zip",

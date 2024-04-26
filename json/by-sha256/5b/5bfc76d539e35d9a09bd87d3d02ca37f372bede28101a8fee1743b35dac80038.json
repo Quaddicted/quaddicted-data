@@ -36,7 +36,8 @@
   "theme=medieval",
   "theme=ruins",
   "title=Ire and Abbeys",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/scot2.zip",

@@ -39,7 +39,8 @@
   "theme=quoth",
   "theme=realism",
   "title=Enter Sleepgate",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sleepgate.zip",

@@ -83,7 +83,8 @@
   "startmap=sm2_vigil",
   "theme=spd",
   "title=Speedmapping pack 2",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm2_pack.zip",

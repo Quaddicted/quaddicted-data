@@ -42,7 +42,8 @@
   "theme=dungeon",
   "theme=medieval",
   "title=Through the Gates of the Silver Key",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/throughthegatesv3.zip",

@@ -46,7 +46,8 @@
   "theme=base",
   "theme=idbase",
   "title=Pleasant murder",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alb1v1a.zip",

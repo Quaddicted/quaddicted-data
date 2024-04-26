@@ -44,7 +44,8 @@
   "startmap=sm135_generic",
   "startmap=sm135_lurker",
   "title=Speedmapping pack 135 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm135_pack.zip",

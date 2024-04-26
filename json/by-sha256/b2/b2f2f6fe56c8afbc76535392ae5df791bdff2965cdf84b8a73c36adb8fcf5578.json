@@ -302,7 +302,8 @@
   "theme=100b",
   "title=100 Brush Competition #1",
   "type=contest",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=100brush/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/100brush.zip",

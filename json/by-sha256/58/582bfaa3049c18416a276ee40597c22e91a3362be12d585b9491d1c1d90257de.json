@@ -1560,7 +1560,8 @@
   "theme=temple",
   "title=The Altar of Storms",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=ne_ruins/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_ruins.zip",

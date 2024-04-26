@@ -46,7 +46,8 @@
   "startmap=sm13_bear",
   "startmap=sm13_mal",
   "title=Speedmapping pack 13 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm13_pack.zip",

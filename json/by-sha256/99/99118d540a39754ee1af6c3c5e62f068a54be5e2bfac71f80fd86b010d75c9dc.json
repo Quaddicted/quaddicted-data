@@ -87,7 +87,8 @@
   "startmap=toybox2",
   "theme=puzzles",
   "title=Toybox",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=toybox/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/toybox_v1.zip",

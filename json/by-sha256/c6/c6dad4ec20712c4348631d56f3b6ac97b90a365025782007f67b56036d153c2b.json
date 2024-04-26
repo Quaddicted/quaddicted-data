@@ -73,7 +73,8 @@
   "startmap=sm49_scampie",
   "startmap=sm49_starbuck",
   "title=Speedmapping pack 49 - Crappy maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm49_pack.zip",

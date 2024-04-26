@@ -32,7 +32,8 @@
   "theme=no exit",
   "theme=pyramid",
   "title=Level by Tony Hillman",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cool1.zip",

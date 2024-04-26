@@ -60,7 +60,8 @@
   "startmap=sm8_misyu",
   "startmap=sm8_scampie",
   "title=Speedmapping pack 8 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm8_pack.zip",

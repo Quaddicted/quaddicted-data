@@ -27,7 +27,8 @@
   "theme=city",
   "theme=medieval",
   "title=The Bizarre Bazaar",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dw_bizbazfinal.zip",

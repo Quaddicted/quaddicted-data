@@ -68,7 +68,8 @@
   "theme=underground",
   "title=Ancient (v1.1)",
   "type=map",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=copper/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ancient1.1.zip",

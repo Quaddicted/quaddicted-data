@@ -46,7 +46,8 @@
   "theme=knave",
   "theme=quoth",
   "title=Conference of the Shamblers",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sksp2b.zip",

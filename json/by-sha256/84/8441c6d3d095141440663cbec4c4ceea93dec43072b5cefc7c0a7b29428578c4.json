@@ -101,7 +101,8 @@
   "theme=base",
   "theme=egyptian",
   "title=Zombie Jam 2",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zjam2.zip",

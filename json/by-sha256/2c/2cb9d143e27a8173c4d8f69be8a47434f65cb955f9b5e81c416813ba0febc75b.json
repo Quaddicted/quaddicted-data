@@ -37,7 +37,8 @@
   "theme=base",
   "theme=doom",
   "title=Aerospace Vitriol",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/aerovit.zip",

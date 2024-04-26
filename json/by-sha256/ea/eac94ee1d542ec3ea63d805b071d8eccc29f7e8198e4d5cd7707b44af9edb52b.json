@@ -30,7 +30,8 @@
   "theme=metal",
   "theme=no exit",
   "title=Corporate Takeover",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/office.zip",

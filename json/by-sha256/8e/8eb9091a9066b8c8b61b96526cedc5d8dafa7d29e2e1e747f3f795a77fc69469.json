@@ -39,7 +39,8 @@
   "theme=industrial",
   "theme=realism",
   "title=Bad Decision",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/baddec.zip",

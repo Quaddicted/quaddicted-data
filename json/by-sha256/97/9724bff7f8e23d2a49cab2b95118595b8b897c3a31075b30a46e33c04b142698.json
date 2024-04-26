@@ -100,7 +100,8 @@
   "startmap=sm200c",
   "startmap=sm200d",
   "title=SM200: Chainmap Chaos",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm200_pack.zip",

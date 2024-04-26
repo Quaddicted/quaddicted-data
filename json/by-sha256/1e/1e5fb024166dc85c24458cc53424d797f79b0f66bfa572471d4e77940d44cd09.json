@@ -33,7 +33,8 @@
   "startmap=AZSPQ1",
   "theme=blue",
   "title=Inferno, The Plains of Purgatory",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/azspq1.zip",

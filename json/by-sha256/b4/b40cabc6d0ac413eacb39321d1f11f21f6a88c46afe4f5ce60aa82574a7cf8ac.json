@@ -33,7 +33,8 @@
   "theme=castle",
   "theme=medieval",
   "title=Castled!",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/castled.zip",

@@ -63,7 +63,8 @@
   "theme=ikbase",
   "theme=industrial",
   "title=The Machinery",
-  "type=map"
+  "type=map",
+  "zipbasedir=nmth_machinery/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nmth_machinery_fix.zip",

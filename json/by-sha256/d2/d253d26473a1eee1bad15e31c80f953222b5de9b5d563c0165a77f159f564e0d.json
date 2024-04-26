@@ -40,7 +40,8 @@
   "theme=lava",
   "theme=quoth",
   "title=Are you yet Living?",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chapter_necros2.zip",

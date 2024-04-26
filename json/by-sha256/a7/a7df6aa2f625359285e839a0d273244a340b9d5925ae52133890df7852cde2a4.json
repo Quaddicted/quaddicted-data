@@ -31,7 +31,8 @@
   "theme=oldschool",
   "theme=wizard",
   "title=Citadel of Fire",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rgfire.zip",

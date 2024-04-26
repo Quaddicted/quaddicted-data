@@ -29,7 +29,8 @@
   "theme=base",
   "theme=space",
   "title=Wetbase",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wetbase.zip",

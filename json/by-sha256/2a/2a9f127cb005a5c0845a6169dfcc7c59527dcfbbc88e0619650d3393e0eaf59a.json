@@ -137,7 +137,8 @@
   "source=included",
   "theme=base",
   "title=Infection",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=infectn/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/infectn.zip",

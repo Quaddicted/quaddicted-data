@@ -28,7 +28,8 @@
   "startmap=purg2",
   "theme=wizard",
   "title=Life After Death",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/purgtor2.zip",

@@ -41,7 +41,8 @@
   "theme=cistern",
   "theme=sewer",
   "title=Down the Gutter",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/plaw01.zip",

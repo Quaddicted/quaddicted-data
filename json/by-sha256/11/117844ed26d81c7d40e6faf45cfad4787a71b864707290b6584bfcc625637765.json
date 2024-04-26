@@ -48,7 +48,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Temple of Tourment",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=temple/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/temple2.zip",

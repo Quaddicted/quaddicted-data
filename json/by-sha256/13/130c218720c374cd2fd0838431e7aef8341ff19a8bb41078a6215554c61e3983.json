@@ -44,7 +44,8 @@
   "startmap=sm23_jay4",
   "theme=doom",
   "title=Speedmapping pack 23",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm23_pack.zip",

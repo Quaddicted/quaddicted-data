@@ -32,7 +32,8 @@
   "theme=castle",
   "theme=medieval",
   "title=The Keldjoran Outpost",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/outpost2.zip",

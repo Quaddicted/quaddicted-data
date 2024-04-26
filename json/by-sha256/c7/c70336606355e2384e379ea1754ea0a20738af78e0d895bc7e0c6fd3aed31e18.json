@@ -32,7 +32,8 @@
   "theme=metal",
   "theme=traps",
   "title=Cogs Of Conflict",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cogs.zip",

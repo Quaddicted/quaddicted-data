@@ -36,7 +36,8 @@
   "startmap=e2m10",
   "theme=wizard",
   "title=Lost Entrance of the Dismal Oubliette [transparent water]",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e2m10glq.zip",

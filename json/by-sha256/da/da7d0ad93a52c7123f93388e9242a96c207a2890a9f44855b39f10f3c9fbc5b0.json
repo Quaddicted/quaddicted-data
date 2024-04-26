@@ -48,7 +48,8 @@
   "theme=industrial",
   "theme=realism",
   "title=War Church",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/war_church.zip",

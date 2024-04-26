@@ -35,7 +35,8 @@
   "theme=metal",
   "theme=wizard",
   "title=Escape",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp1.zip",

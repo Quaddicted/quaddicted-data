@@ -619,7 +619,8 @@
   "link=[Version 1.17](https://www.quaddicted.com/filebase/copper_v1_17.zip)",
   "release_date=2019-06-21",
   "title=Copper Quake",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/copper.zip",

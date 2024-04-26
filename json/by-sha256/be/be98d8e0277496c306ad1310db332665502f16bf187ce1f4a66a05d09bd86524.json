@@ -29,7 +29,8 @@
   "theme=mixtex",
   "theme=no exit",
   "title=Wolfenstein3D e1m1",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wolfie3d.zip",

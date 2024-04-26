@@ -70,7 +70,8 @@
   "startmap=start",
   "theme=traps",
   "title=The last game",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=lastgame/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lastgame.zip",

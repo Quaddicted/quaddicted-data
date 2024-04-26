@@ -41,7 +41,8 @@
   "theme=knave",
   "theme=quoth",
   "title=Breakfast at twilight",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp3.zip",

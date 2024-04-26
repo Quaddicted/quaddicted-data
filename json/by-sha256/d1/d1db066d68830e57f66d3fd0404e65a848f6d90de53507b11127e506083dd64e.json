@@ -30,7 +30,8 @@
   "theme=quake 2",
   "theme=sewer",
   "title=Pumping station 43/A",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ps43a.zip",

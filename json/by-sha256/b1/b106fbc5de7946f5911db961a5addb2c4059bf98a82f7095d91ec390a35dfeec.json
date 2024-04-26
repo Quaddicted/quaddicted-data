@@ -31,7 +31,8 @@
   "theme=realism",
   "theme=wizard",
   "title=darknite",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/darknite.zip",

@@ -31,7 +31,8 @@
   "theme=castle",
   "theme=metal",
   "title=The Fatal Place",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fatalpla.zip",

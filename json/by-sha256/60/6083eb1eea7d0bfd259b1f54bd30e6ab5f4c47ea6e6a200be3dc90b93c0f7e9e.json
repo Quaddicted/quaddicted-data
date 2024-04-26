@@ -38,7 +38,8 @@
   "theme=doom 3",
   "theme=quoth",
   "title=SRC: The Slime Refinery Complex",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/src.zip",

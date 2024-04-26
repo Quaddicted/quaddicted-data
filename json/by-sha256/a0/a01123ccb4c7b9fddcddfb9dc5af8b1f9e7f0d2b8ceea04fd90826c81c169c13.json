@@ -204,7 +204,8 @@
   "theme=quake 2",
   "theme=realism",
   "title=Train Station",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/trainstation.zip",

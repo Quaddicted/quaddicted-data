@@ -98,7 +98,8 @@
   "startmap=sm41_rpg",
   "theme=spd",
   "title=Speedmapping pack 41 - QExpo",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm41_pack.zip",

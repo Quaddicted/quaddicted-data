@@ -146,7 +146,8 @@
   "startmap=sm181_savagex",
   "theme=metal",
   "title=Speedmapping pack 181 - Copper",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm181_pack_bugfixed.zip",

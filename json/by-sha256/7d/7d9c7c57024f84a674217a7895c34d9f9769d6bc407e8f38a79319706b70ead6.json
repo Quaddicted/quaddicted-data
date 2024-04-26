@@ -48,7 +48,8 @@
   "theme=base",
   "theme=water",
   "title=Drowning in Space",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/udob1_4.zip",

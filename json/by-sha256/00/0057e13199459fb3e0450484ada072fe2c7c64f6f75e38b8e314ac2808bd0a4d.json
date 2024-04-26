@@ -35,7 +35,8 @@
   "theme=church",
   "theme=wizard",
   "title=Cathedral of the Doubt",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cotdq1sp.zip",

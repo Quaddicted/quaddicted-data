@@ -148,7 +148,8 @@
   "startmap=sm203_greenwood2",
   "startmap=sm203_maxx",
   "title=Speedmapping pack 203: 99 brushes or less",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm203-pack.zip",

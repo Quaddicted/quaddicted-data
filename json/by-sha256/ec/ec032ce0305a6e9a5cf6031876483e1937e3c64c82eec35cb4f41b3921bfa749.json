@@ -27,7 +27,8 @@
   "startmap=LEVEL",
   "theme=mixtex",
   "title=Hello",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/level.zip",

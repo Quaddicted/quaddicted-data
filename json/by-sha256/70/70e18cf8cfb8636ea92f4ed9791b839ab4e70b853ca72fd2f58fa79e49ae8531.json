@@ -40,7 +40,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Cha Gheill",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cha-gh.zip",

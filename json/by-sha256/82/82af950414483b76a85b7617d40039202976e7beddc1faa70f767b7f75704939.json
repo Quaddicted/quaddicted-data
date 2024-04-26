@@ -27,7 +27,8 @@
   "theme=traps",
   "theme=wizard",
   "title=(The) Killing Complex",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/killcomp.zip",

@@ -54,7 +54,8 @@
   "startmap=sm80_zwiffle",
   "theme=spd",
   "title=Speedmapping pack 80 - Vertical Swamps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm80_pack.zip",

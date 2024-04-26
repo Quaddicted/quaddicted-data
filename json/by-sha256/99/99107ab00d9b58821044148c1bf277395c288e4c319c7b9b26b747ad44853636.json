@@ -30,7 +30,8 @@
   "theme=medieval",
   "theme=temple",
   "title=Quakeshift",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qshift.zip",

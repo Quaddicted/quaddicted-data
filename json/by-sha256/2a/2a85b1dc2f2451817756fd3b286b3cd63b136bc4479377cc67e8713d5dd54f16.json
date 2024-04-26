@@ -46,7 +46,8 @@
   "startmap=sm168_digs2",
   "theme=rubicon",
   "title=Speedmapping Pack 168 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm168_pack.zip",

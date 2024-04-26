@@ -33,7 +33,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Fane of the Diabolist",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fane11.zip",

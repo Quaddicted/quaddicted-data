@@ -62,7 +62,8 @@
   "theme=puzzles",
   "theme=rubicon",
   "title=Speedmapping pack QExpo 2011 - 15 years tribute",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqx11_pack.zip",

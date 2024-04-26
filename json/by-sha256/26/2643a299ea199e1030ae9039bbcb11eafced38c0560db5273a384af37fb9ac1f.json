@@ -49,7 +49,8 @@
   "theme=base",
   "theme=metal",
   "title=In Ovo",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/in_ovo.zip",

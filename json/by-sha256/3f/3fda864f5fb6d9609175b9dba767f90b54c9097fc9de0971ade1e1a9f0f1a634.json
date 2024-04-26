@@ -87,7 +87,8 @@
   "startmap=sm57_scampie",
   "theme=quake the way id did",
   "title=Speedmapping pack 57 - Episode 3 / Runic (The 4 Seasons of Quake #3)",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm57_pack.zip",

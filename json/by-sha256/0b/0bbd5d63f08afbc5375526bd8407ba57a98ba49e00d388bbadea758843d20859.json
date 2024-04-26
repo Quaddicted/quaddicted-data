@@ -265,7 +265,8 @@
   "theme=town",
   "title=Ter Shibboleth",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ter_shibboleth.zip",

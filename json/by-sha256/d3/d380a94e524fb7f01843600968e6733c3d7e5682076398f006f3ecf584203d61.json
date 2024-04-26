@@ -34,7 +34,8 @@
   "theme=mixtex",
   "theme=wizard",
   "title=King Solomon's Mines",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ksm.zip",

@@ -40,7 +40,8 @@
   "theme=outdoor",
   "theme=temple",
   "title=Precipice Continuum",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/precipice_continuum.zip",

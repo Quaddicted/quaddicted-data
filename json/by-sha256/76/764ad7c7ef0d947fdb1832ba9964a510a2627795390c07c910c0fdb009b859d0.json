@@ -44,7 +44,8 @@
   "theme=medieval",
   "theme=quoth",
   "title=Crescendo Of Dreams + Surmounting Terror",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_marb.zip",

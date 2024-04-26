@@ -85,7 +85,8 @@
   "theme=realism",
   "theme=village",
   "title=The Zombie's House",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs09.zip",

@@ -56,7 +56,8 @@
   "theme=graveyard",
   "theme=medieval",
   "title=Cemetery Castle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cemetery_castle.zip",

@@ -31,7 +31,8 @@
   "release_date=2004-03-12",
   "theme=metal",
   "title=Azure Influx",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/flecksp1.zip",

@@ -32,7 +32,8 @@
   "theme=underwater",
   "theme=wizard",
   "title=Out of time",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/out1.zip",

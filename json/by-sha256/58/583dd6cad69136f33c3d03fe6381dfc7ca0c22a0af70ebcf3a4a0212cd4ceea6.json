@@ -203,7 +203,8 @@
   "theme=metal",
   "theme=quoth",
   "title=Ruined Nation",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dis_sp6.zip",

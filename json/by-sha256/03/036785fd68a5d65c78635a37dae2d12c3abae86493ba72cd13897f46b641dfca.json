@@ -24,7 +24,8 @@
   "theme=outdoor",
   "theme=traps",
   "title=My Own Prison",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/burns.zip",

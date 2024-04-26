@@ -41,7 +41,8 @@
   "startmap=sm1_rpg",
   "startmap=sm1_scampie",
   "title=Speedmapping pack 1",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm1_pack.zip",

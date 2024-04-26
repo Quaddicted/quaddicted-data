@@ -29,7 +29,8 @@
   "theme=base",
   "theme=traps",
   "title=Area 51",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/area51.zip",

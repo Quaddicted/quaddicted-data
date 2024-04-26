@@ -33,7 +33,8 @@
   "theme=metal",
   "theme=outdoors",
   "title=A Subtle Dagger",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/evspq1.zip",
