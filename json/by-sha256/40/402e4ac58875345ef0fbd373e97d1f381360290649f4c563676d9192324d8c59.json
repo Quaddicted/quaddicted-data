@@ -79,7 +79,8 @@
   "theme=idbase",
   "theme=quoth",
   "title=Three Towers And A Sick Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sickbase.zip",

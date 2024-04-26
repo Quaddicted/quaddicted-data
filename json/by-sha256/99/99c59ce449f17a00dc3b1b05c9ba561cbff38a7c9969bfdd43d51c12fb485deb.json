@@ -68,7 +68,8 @@
   "theme=secrets",
   "theme=super secret",
   "title=Grendel's Blade",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_grendel1h.zip",

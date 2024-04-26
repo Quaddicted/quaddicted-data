@@ -170,7 +170,8 @@
   "theme=base",
   "theme=snow",
   "title=Starship 2",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=moon/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/starshp2.zip",

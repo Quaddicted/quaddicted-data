@@ -31,7 +31,8 @@
   "theme=mine",
   "theme=rubicon",
   "title=Industrial Combat",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ic.zip",

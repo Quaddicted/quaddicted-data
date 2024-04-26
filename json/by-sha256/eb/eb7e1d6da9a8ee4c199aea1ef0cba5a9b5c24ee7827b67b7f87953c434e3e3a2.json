@@ -259,7 +259,8 @@
   "startmap=sm191_ww",
   "startmap=sm191_yoder",
   "title=SM191 - Origins",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm191_pack.zip",

@@ -31,7 +31,8 @@
   "link:homepage=http://planetquake.com/rde",
   "release_date=2000-03-30",
   "title=Runner's Delight (BUGFIX)",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=rde/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rdestats161.zip",

@@ -46,7 +46,8 @@
   "startmap=sm83_rpg",
   "startmap=sm83_scampie",
   "title=Speedmapping pack 83 - Deathmatch maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_pack.zip",

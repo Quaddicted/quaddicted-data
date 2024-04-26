@@ -31,7 +31,8 @@
   "theme=rubicon",
   "theme=traps",
   "title=Project Monsterfree",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/monfree.zip",

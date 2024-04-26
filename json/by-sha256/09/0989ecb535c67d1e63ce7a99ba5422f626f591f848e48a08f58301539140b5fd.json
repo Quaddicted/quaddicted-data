@@ -30,7 +30,8 @@
   "theme=traps",
   "theme=wizard",
   "title=E.T.'s World",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/etworld.zip",

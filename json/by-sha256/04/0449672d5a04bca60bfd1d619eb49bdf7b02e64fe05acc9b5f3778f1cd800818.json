@@ -71,7 +71,8 @@
   "startmap=smqe08d_sw",
   "theme=space",
   "title=Speedmapping pack QExpo2008 #4 - Teleporter madness",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08d_pack.zip",

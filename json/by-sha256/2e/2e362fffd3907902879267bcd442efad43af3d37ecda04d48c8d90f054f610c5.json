@@ -43,7 +43,8 @@
   "theme=oldschool",
   "theme=stone",
   "title=Devastation (single player version)",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1shw1sp.zip",

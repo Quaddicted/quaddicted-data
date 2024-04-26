@@ -70,7 +70,8 @@
   "theme=doom 2",
   "theme=quoth",
   "title=Speedmapping pack 176 - Quantity over Quality",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm176_pack.zip",

@@ -44,7 +44,8 @@
   "theme=100b",
   "theme=castle",
   "title=The Secret Castle",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=aard100/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/aard100.zip",

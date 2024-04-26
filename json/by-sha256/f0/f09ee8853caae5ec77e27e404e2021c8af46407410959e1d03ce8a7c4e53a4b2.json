@@ -39,7 +39,8 @@
   "theme=castle",
   "theme=medieval",
   "title=Deufel's Barracks",
-  "type=map"
+  "type=map",
+  "zipbasedir=shadows/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dr57-itsd2-deufel.zip",

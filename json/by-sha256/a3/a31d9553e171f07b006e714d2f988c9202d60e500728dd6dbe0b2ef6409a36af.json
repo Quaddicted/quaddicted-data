@@ -30,7 +30,8 @@
   "theme=traps",
   "theme=wizard",
   "title=For My Babies",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fmb1.zip",

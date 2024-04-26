@@ -22,7 +22,8 @@
   "theme=metal",
   "theme=quake 3",
   "title=Geometric Map of Horror",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zwifflesm1.zip",

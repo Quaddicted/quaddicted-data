@@ -29,7 +29,8 @@
   "theme=puzzle",
   "theme=traps",
   "title=April Fools II",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lasp02.zip",

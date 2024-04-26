@@ -31,7 +31,8 @@
   "theme=base",
   "theme=industrial",
   "title=Base-X2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/base-x2.zip",

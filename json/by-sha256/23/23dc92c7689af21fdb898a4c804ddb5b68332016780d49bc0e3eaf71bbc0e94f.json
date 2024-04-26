@@ -39,7 +39,8 @@
   "release_date=1999-12-19",
   "theme=realism",
   "title=Hospital Center Quake Map Designer",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chqmd.zip",

@@ -141,7 +141,8 @@
   "theme=wizard",
   "title=Deathmatch Classics Vol. 3",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dmc3.zip",

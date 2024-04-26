@@ -32,7 +32,8 @@
   "theme=mixtex",
   "theme=remix",
   "title=Mutant",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mutant.zip",

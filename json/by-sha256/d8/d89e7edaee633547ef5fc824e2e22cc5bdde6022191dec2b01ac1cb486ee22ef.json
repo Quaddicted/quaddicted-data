@@ -51,7 +51,8 @@
   "startmap=sm105_neg!ke",
   "startmap=sm105_tron",
   "title=Speedmapping pack 105 - What if two maps mated",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm105_pack.zip",

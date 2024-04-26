@@ -40,7 +40,8 @@
   "theme=medieval",
   "theme=sewer",
   "title=Feindlich Sewers v1.2",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/arttis01_02.zip",

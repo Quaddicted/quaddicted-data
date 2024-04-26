@@ -41,7 +41,8 @@
   "theme=knave",
   "theme=medieval",
   "title=Embrasure",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thuby01.zip",

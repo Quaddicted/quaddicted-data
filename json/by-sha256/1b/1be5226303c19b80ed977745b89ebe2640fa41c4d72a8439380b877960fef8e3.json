@@ -33,7 +33,8 @@
   "theme=outdoor",
   "theme=traps",
   "title=Canyon's Abode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/canabode.zip",

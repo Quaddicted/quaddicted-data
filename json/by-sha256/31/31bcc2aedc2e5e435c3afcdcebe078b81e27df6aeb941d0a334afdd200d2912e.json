@@ -30,7 +30,8 @@
   "theme=prison",
   "theme=realism",
   "title=Escape",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/escape09.zip",

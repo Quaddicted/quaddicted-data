@@ -31,7 +31,8 @@
   "theme=metal",
   "theme=tech",
   "title=Morbidity: 1",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_1.zip",

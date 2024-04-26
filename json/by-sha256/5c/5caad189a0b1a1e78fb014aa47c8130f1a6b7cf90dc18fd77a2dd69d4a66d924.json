@@ -40,7 +40,8 @@
   "startmap=rathole2",
   "theme=metal",
   "title=Son of The Rat Hole",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rathole2.zip",

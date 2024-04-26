@@ -31,7 +31,8 @@
   "theme=medieval",
   "theme=terracotta",
   "title=The Hall of Trilogy",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thoth96.zip",

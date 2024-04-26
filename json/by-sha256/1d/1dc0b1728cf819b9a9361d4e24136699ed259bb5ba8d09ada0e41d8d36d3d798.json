@@ -48,7 +48,8 @@
   "theme=runic",
   "theme=traps",
   "title=The Guardhouse",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=guard/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/guard.zip",

@@ -40,7 +40,8 @@
   "theme=medieval",
   "theme=outdoor",
   "title=Laboratory X & Neighboring Alcazar's",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oms_unmentionables.zip",

@@ -51,7 +51,8 @@
   "theme=ikbase",
   "theme=industrial",
   "title=37th Relic Retrieval",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/37_hcm1.zip",

@@ -56,7 +56,8 @@
   "theme=outdoor",
   "theme=zerst\u00f6rer",
   "title=LZM Nuclear Research Labs",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lzmlabs.zip",

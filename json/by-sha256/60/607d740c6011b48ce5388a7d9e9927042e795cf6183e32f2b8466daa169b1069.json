@@ -45,7 +45,8 @@
   "startmap=sm53_scampie",
   "startmap=sm53_starbuck",
   "title=Speedmapping pack 53 - Cube maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm53_pack.zip",

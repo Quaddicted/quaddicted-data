@@ -53,7 +53,8 @@
   "startmap=sm18_misyu",
   "startmap=sm18_nane",
   "title=Speedmapping pack 18 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm18_pack.zip",

@@ -60,7 +60,8 @@
   "startmap=sm79_scampie",
   "startmap=sm79_zwiffle",
   "title=Speedmapping pack 79 - Abandoned city",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm79_pack.zip",

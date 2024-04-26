@@ -32,7 +32,8 @@
   "theme=metal",
   "theme=wizard",
   "title=Beneath The Mountain",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/btm.zip",

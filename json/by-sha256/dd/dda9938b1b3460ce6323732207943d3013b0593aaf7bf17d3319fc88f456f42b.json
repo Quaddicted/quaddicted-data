@@ -28,7 +28,8 @@
   "theme=medieval",
   "theme=temple",
   "title=Double Back",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dblback.zip",

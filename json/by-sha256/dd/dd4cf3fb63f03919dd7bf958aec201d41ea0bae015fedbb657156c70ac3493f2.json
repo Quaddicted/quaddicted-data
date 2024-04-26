@@ -83,7 +83,8 @@
   "theme=idbase",
   "theme=quoth",
   "title=Stark Monstrosity",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/starkmon.zip",

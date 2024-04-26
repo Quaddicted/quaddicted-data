@@ -29,7 +29,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Resident Evil part 2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/r-evil2.zip",

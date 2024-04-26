@@ -27,7 +27,8 @@
   "theme=cavern",
   "theme=lava",
   "title=Speedmapping pack 108 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm108_bam.zip",

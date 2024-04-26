@@ -44,7 +44,8 @@
   "theme=quoth",
   "theme=snow",
   "title=Speedmapping pack 137 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm137_pack.zip",

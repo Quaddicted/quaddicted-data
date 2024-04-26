@@ -30,7 +30,8 @@
   "theme=outdoor",
   "theme=wizard",
   "title=Windy Temple",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/w_temple.zip",

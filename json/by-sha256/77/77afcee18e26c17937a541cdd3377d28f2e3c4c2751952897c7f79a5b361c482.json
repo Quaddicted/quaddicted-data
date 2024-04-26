@@ -36,7 +36,8 @@
   "theme=mandatory secret",
   "theme=wizard",
   "title=Warmup",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm17.zip",

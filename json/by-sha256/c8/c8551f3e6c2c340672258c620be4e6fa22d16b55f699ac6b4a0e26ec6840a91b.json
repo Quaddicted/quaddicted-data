@@ -33,7 +33,8 @@
   "theme=base",
   "theme=realism",
   "title=Equivocal Facility",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shelsp1.zip",

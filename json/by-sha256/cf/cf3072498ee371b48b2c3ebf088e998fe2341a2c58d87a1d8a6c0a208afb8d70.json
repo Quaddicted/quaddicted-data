@@ -40,7 +40,8 @@
   "theme=scourge of armagon",
   "title=Power Plant",
   "type=demo",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mungo.zip",

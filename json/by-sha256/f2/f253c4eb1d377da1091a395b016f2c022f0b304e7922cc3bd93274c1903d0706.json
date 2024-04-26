@@ -46,7 +46,8 @@
   "startmap=sm131_spirit",
   "startmap=sm131_trinca",
   "title=Speedmapping pack 131 - Elder world train station",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm131_pack.zip",

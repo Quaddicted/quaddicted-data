@@ -41,7 +41,8 @@
   "theme=remix",
   "theme=secrets",
   "title=The Elder Reality",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam4dlc_pulsar.zip",

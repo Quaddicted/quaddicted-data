@@ -41,7 +41,8 @@
   "theme=space",
   "theme=void",
   "title=Coagula",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coagula.zip",

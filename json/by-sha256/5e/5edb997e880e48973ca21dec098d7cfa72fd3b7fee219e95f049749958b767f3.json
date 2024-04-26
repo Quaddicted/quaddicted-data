@@ -68,7 +68,8 @@
   "theme=puzzles",
   "theme=secrets",
   "title=Speedmapping pack 104 - Secret Maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm104_pack.zip",

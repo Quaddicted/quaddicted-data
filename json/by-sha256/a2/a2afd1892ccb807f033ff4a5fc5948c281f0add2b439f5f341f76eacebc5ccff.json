@@ -31,7 +31,8 @@
   "startmap=gor1f",
   "theme=wizard",
   "title=Gods of Rapture",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gor1.zip",

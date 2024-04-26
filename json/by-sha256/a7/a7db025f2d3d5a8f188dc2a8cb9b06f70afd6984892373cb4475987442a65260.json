@@ -44,7 +44,8 @@
   "theme=remake",
   "theme=remix",
   "title=The Dark Portal",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm6rmx.zip",

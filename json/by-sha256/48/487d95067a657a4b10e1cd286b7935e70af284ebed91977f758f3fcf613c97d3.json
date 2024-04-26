@@ -44,7 +44,8 @@
   "theme=rubicon",
   "theme=void",
   "title=Threat Assessment",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp2.zip",

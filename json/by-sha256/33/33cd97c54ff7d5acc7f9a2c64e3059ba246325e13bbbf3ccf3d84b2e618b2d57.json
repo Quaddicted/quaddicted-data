@@ -1787,7 +1787,8 @@
   "theme=secrets",
   "title=Re:Mobilize 1.1",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=rm1.1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rm1.1.zip",

@@ -567,7 +567,8 @@
   "theme=secrets",
   "title=Realm of the Lost (Menetettyjen Valtakunta)",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smej_1.0.zip",

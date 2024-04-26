@@ -174,7 +174,8 @@
   "theme=base",
   "title=Subterranean Siege",
   "type=chainmap",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=sm36/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm36.zip",

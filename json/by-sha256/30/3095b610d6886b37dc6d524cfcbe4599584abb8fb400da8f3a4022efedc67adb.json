@@ -29,7 +29,8 @@
   "theme=puzzles",
   "theme=traps",
   "title=The House of Seraphim",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/seraphim.zip",

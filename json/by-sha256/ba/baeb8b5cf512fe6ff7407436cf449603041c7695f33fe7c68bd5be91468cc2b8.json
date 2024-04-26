@@ -36,7 +36,8 @@
   "startmap=suzyhrt",
   "theme=base",
   "title=Head Reattachment Trauma",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/suzyhrt.zip",

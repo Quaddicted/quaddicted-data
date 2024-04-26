@@ -3589,7 +3589,8 @@
   "theme=medieval",
   "theme=secrets",
   "title=Something Wicked This Way Comes",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=wicked/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/something_wicked.zip",

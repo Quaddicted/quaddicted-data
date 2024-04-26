@@ -54,7 +54,8 @@
   "startmap=sm150_nahk",
   "startmap=sm150_spirit",
   "title=Speedmapping pack 150 - 150",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm150_pack.zip",

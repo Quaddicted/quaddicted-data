@@ -538,7 +538,8 @@
   "startmap=start",
   "title=We got bored lol",
   "type=episode",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bored.zip",

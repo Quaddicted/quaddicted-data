@@ -47,7 +47,8 @@
   "startmap=sm81_zwiffle",
   "theme=spd",
   "title=Speedmapping pack 81 - Massive Scale",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm81_pack.zip",

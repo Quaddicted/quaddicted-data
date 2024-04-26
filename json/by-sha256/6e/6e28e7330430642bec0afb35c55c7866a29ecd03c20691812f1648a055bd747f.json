@@ -881,7 +881,8 @@
   "theme=maya",
   "theme=rubicon",
   "title=Jumpmod 2 + Triune Discovery",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jumpmod2+td_complete.zip",

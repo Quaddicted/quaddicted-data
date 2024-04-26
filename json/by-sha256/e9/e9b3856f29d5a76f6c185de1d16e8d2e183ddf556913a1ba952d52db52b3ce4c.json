@@ -39,7 +39,8 @@
   "theme=arcane dimensions",
   "theme=maya",
   "title=Trench Foot",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_muksp1.zip",

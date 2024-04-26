@@ -41,7 +41,8 @@
   "startmap=jason3",
   "theme=wizard",
   "title=Jason's first map pack",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jason1.zip",

@@ -57,7 +57,8 @@
   "theme=base",
   "theme=doom",
   "title=The Dreaded Dreadbase of Dread",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dreadbase.zip",

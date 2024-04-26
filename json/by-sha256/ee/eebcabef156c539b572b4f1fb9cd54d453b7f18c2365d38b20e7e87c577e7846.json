@@ -61,7 +61,8 @@
   "startmap=sm3_scampie",
   "startmap=sm3_vigil",
   "title=Speedmapping pack 3 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm3_pack.zip",

@@ -30,7 +30,8 @@
   "theme=medieval",
   "theme=traps",
   "title=Abode of Agony",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/agony.zip",

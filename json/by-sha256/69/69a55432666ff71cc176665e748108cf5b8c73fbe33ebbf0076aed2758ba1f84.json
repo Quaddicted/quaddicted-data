@@ -34,7 +34,8 @@
   "theme=terracotta",
   "theme=wizard",
   "title=The Stone of Tear",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/stone.zip",

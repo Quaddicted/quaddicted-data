@@ -52,7 +52,8 @@
   "startmap=sm127_neg!ke",
   "startmap=sm127_spirit",
   "title=Speedmapping pack 127 - 1024^3",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm127_pack.zip",

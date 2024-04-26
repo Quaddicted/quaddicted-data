@@ -41,7 +41,8 @@
   "theme=wizard",
   "title=Slip Tripping",
   "type=map",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/markiesm1v2.zip",

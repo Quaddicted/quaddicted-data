@@ -33,7 +33,8 @@
   "theme=space",
   "theme=void",
   "title=Insides-Out",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/insides.zip",

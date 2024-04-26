@@ -88,7 +88,8 @@
   "theme=industrial",
   "theme=spd",
   "title=Explore or Die",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/xplore.zip",

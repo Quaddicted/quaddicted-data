@@ -31,7 +31,8 @@
   "theme=medieval",
   "theme=tech",
   "title=Perssp1",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/perssp1.zip",

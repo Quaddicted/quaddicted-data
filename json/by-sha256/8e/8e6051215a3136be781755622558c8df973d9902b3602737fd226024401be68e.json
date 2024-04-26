@@ -57,7 +57,8 @@
   "theme=knave",
   "theme=realism",
   "title=Speedmap 100 Turtle map event",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm100turtle.zip",

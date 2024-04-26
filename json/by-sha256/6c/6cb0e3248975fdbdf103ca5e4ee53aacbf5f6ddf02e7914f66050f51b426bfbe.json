@@ -53,7 +53,8 @@
   "startmap=smqe1_preach",
   "startmap=smqe1_zwiffle",
   "title=Speedmapping pack QExpo 2005 - The Emerald City",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe1.zip",

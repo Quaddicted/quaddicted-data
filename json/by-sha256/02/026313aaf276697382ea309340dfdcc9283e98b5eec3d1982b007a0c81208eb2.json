@@ -55,7 +55,8 @@
   "startmap=sm39_scampie",
   "startmap=sm39_xenon",
   "title=Speedmapping pack 39 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm39_temp.zip",

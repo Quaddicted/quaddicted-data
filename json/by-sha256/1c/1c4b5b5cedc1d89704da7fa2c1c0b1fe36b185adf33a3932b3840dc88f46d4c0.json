@@ -39,7 +39,8 @@
   "theme=lava",
   "theme=wizard",
   "title=The Beaches Of Hell",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/beach1.zip",

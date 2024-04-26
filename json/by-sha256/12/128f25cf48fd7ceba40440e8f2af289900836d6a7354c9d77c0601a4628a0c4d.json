@@ -8129,7 +8129,8 @@
   "theme=puzzles",
   "theme=secrets",
   "title=Explore Jam 3 (1.15)",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/explorejam3_v1.15.zip",

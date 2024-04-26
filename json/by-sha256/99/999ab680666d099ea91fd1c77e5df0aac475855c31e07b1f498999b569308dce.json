@@ -32,7 +32,8 @@
   "theme=egypt",
   "theme=traps",
   "title=Temple of Amon-Sadlark",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark8.zip",

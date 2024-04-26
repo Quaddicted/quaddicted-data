@@ -34,7 +34,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Sewage devastation",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sewage.zip",

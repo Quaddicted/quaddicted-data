@@ -35,7 +35,8 @@
   "startmap=sm32",
   "title=Shut Up, RPG!",
   "type=chainmap",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm32_pack.zip",

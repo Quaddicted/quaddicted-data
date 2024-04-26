@@ -67,7 +67,8 @@
   "theme=outdoor",
   "theme=quoth",
   "title=Forgotten Valley",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fv.zip",

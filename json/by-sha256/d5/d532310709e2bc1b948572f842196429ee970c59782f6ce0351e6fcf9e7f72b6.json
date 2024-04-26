@@ -30,7 +30,8 @@
   "startmap=opus",
   "theme=medieval",
   "title=The Insurrection, part II - The Grand Opus",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ins2.zip",

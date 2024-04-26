@@ -44,7 +44,8 @@
   "startmap=sm94_bam",
   "startmap=sm94_zwiffle",
   "title=Speedmapping pack 94 - The Rabbit Hole",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm94_pack.zip",

@@ -642,7 +642,8 @@
   "theme=slime",
   "theme=wizard",
   "title=Weight For It",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_weight.zip",

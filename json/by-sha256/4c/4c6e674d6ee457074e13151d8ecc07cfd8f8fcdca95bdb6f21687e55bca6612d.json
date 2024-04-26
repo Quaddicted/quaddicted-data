@@ -41,7 +41,8 @@
   "game_mode=singleplayer",
   "release_date=2023-05-05",
   "title=Quad Lake Castle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/avix_qcastle.zip",

@@ -52,7 +52,8 @@
   "theme=wizard",
   "title=The Wrong Way",
   "type=demo",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/death.zip",

@@ -414,7 +414,8 @@
   "theme=medieval",
   "theme=terracotta",
   "title=Speedmapping pack 186 - Terracotta",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm186.zip",

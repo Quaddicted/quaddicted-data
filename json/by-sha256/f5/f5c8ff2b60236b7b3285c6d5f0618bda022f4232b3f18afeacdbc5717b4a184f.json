@@ -30,7 +30,8 @@
   "theme=base",
   "theme=blue",
   "title=Anonca base 3",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/anonca3.zip",

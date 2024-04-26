@@ -241,7 +241,8 @@
   "theme=medieval",
   "theme=oldschool",
   "title=The Horde of Zendar",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=zendar/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zendar1d.zip",

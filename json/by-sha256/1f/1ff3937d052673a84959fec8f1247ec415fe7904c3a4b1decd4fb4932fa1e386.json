@@ -65,7 +65,8 @@
   "theme=base",
   "theme=zerst\u00f6rer",
   "title=Zerst\u00f6rer Turtlemap Pack",
-  "type=map"
+  "type=map",
+  "zipbasedir=zer/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zertm_pack.zip",

@@ -261,7 +261,8 @@
   "startmap=sm204_zungryware",
   "theme=quake 3",
   "title=Speedmapping pack 204: 20 years of Quake III Arena",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm204.zip",

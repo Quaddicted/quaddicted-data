@@ -597,7 +597,8 @@
   "theme=slime",
   "theme=speedbase",
   "title=Reliquary",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/reliqv1.zip",

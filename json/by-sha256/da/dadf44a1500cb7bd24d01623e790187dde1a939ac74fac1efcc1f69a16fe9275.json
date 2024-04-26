@@ -34,7 +34,8 @@
   "source=included",
   "theme=knave",
   "title=Forgotten Tomb",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp2.zip",

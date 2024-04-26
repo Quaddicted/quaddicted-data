@@ -41,7 +41,8 @@
   "startmap=sm85_pope",
   "startmap=sm85_zwiffle",
   "title=Speedmapping pack 85 - Male manhood",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm85_temp.zip",

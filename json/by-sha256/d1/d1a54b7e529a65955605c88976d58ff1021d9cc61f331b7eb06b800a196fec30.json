@@ -57,7 +57,8 @@
   "theme=metal",
   "theme=runic",
   "title=What Lies Behind v1.0",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wlb.zip",

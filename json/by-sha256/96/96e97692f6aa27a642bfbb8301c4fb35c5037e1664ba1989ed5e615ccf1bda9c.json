@@ -410,7 +410,8 @@
   "theme=wizard",
   "title=The Source of Power",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=sop/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sop_v2.zip",

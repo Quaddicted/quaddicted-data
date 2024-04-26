@@ -118,7 +118,8 @@
   "theme=space",
   "theme=traps",
   "title=Event Horizon",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=event/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/event.zip",

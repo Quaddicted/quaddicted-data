@@ -38,7 +38,8 @@
   "theme=conversion",
   "theme=doom",
   "title=Military Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/doom_e1m9.zip",

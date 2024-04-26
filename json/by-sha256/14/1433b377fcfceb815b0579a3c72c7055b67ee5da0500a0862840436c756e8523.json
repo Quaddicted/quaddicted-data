@@ -30,7 +30,8 @@
   "release_date=1999-07-13",
   "theme=quake 2",
   "title=Outpost alpha",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/outpost-alpha.zip",

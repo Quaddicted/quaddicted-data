@@ -31,7 +31,8 @@
   "theme=maya",
   "theme=temple",
   "title=The Temple",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/temple_e1.zip",

@@ -37,7 +37,8 @@
   "theme=quake the way id did",
   "theme=wizard",
   "title=Ceremonial Circles",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/czg03.zip",

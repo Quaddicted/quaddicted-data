@@ -76,7 +76,8 @@
   "startmap=zjam1_zombie",
   "theme=wizard",
   "title=Zombie Jam 1",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zjam1.zip",

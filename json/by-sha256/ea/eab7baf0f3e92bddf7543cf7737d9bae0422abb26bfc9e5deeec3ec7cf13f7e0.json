@@ -57,7 +57,8 @@
   "theme=puzzles",
   "theme=traps",
   "title=Timebomb & Salvation",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wieder.zip",

@@ -43,7 +43,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Dirt!",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dirt!.zip",

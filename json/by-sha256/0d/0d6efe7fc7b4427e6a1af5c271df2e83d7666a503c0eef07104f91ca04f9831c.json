@@ -27,7 +27,8 @@
   "theme=mixtex",
   "theme=no exit",
   "title=The Cargo Hulk for STORM",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cargoshp.zip",

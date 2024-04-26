@@ -31,7 +31,8 @@
   "theme=exploration",
   "theme=traps",
   "title=In the Cave",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cave.zip",

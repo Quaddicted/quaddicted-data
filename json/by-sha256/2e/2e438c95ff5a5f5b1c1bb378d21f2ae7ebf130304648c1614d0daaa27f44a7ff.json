@@ -31,7 +31,8 @@
   "theme=crates",
   "theme=realism",
   "title=Lost Underground Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/my_level.zip",

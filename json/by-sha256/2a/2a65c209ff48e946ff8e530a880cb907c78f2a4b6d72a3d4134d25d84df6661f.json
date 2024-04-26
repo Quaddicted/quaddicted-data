@@ -38,7 +38,8 @@
   "theme=medieval",
   "theme=remake",
   "title=Shrine of the Fiends",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sotf1.zip",

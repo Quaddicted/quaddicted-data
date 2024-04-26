@@ -151,7 +151,8 @@
   "theme=doom 3",
   "theme=quoth",
   "title=The Five Rivers Land",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/5rivers.zip",

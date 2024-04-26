@@ -215,7 +215,8 @@
   "startmap=start",
   "title=Schist",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=schist/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/schist.zip",

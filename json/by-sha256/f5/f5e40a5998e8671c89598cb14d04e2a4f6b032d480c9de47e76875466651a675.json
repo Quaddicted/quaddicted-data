@@ -964,7 +964,8 @@
   "theme=quake 2",
   "theme=quake 3",
   "title=Func Map Jam X - Insomnia Theme",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjamx.zip",

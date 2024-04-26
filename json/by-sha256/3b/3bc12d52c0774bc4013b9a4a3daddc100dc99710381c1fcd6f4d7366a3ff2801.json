@@ -38,7 +38,8 @@
   "startmap=sm120_trinca1",
   "startmap=sm120_trinca2",
   "title=Speedmapping pack 120 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm120_pack.zip",

@@ -90,7 +90,8 @@
   "theme=desert",
   "theme=industrial",
   "title=Dismal Signal",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/heresp5_rev.zip",

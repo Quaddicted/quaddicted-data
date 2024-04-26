@@ -42,7 +42,8 @@
   "theme=realism",
   "theme=wizard",
   "title=My Home & Prison",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/prison.zip",

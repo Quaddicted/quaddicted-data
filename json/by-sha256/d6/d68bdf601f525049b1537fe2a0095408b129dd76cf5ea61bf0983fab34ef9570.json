@@ -41,7 +41,8 @@
   "theme=base",
   "theme=mixtex",
   "title=House of Bombay",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/agx.zip",

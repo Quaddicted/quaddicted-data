@@ -31,7 +31,8 @@
   "theme=metal",
   "theme=mixtex",
   "title=The Death Trap",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dethtrap.zip",

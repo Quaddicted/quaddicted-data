@@ -31,7 +31,8 @@
   "theme=oldschool",
   "theme=wizard",
   "title=Prepare for HELL",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/obiwan.zip",

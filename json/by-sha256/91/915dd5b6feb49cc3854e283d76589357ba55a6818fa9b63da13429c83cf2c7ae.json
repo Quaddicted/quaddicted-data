@@ -33,7 +33,8 @@
   "theme=space",
   "theme=terracotta",
   "title=The Terracotta Terror",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/terror.zip",

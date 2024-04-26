@@ -47,7 +47,8 @@
   "startmap=sm97_tron",
   "startmap=sm97_zwiffle",
   "title=Speedmapping pack 97 - Nowhere to hide",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm97_pack.zip",

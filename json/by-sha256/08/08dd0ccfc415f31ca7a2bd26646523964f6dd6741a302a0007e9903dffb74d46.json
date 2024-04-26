@@ -32,7 +32,8 @@
   "theme=realism",
   "theme=traps",
   "title=The Roritor Level",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/roritor.zip",

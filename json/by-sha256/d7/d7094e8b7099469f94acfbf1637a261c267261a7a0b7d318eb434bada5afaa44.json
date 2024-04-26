@@ -31,7 +31,8 @@
   "theme=mixtex",
   "theme=slime",
   "title=The Slipgate Labs",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/portal.zip",

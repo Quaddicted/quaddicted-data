@@ -35,7 +35,8 @@
   "theme=medieval",
   "theme=tomb",
   "title=Io. Brimstoneburg.",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/asl_2.zip",

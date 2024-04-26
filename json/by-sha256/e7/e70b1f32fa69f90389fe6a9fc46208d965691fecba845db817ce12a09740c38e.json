@@ -29,7 +29,8 @@
   "theme=traps",
   "theme=wizard",
   "title=CrossRoad",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/crosroad.zip",

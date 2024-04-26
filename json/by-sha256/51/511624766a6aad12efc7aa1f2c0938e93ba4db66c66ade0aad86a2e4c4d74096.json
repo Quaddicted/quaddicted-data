@@ -39,7 +39,8 @@
   "startmap=sm77_scampie",
   "startmap=sm77_zwiffle",
   "title=Speedmapping pack 77 - A new end map for Quake",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm77_pack.zip",

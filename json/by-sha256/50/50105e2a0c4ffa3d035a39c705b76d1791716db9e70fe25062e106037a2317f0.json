@@ -42,7 +42,8 @@
   "theme=secrets",
   "theme=void",
   "title=The Bonehoard",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp1.zip",

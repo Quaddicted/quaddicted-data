@@ -76,7 +76,8 @@
   "startmap=sm5_speed",
   "theme=spd",
   "title=Speedmapping pack 5 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm5_pack.zip",

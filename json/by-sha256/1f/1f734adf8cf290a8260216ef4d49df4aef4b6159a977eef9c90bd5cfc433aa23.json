@@ -43,7 +43,8 @@
   "theme=prison",
   "theme=quoth",
   "title=Escape From Your Cell",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quothescape.zip",

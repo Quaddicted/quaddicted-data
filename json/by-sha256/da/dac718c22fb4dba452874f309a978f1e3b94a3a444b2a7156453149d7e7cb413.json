@@ -40,7 +40,8 @@
   "theme=mixtex",
   "theme=traps",
   "title=The Gate",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/the_gate.zip",

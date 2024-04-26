@@ -36,7 +36,8 @@
   "theme=experimental",
   "theme=weird",
   "title=AI Textures",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ai-textures.zip",

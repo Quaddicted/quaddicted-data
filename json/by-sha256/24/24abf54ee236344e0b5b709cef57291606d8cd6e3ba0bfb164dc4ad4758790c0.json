@@ -81,7 +81,8 @@
   "startmap=sm7_ray",
   "startmap=sm7_scampie",
   "title=Speedmapping pack 7 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm7_pack.zip",

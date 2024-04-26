@@ -41,7 +41,8 @@
   "theme=scourge of armagon",
   "theme=wizard",
   "title=Daredevil's Descent & Cryogenic Crypt",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cryo.zip",

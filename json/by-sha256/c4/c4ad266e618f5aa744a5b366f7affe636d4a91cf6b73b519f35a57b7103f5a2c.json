@@ -30,7 +30,8 @@
   "theme=realism",
   "theme=wizard",
   "title=The Old House - the beginning",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oldhouse.zip",

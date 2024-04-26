@@ -47,7 +47,8 @@
   "theme=temple",
   "theme=tomb",
   "title=The Tomb of Chak Toh Ich`ak",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tchak.zip",

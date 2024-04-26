@@ -104,7 +104,8 @@
   "theme=doom",
   "theme=remake",
   "title=Mars Base Excavation Incident",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=rhoq_mbei/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rhoqdoom_mbei.zip",

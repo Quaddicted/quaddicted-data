@@ -59,7 +59,8 @@
   "theme=dm4",
   "title=DMxSP - The Deathmatch Experience",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm1-6sp.zip",

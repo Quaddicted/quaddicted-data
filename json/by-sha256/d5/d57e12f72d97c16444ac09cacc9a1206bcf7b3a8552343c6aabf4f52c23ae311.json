@@ -70,7 +70,8 @@
   "theme=canyon",
   "theme=castle",
   "title=Crown Of Thorns",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shamsp1.zip",

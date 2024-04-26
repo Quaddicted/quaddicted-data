@@ -33,7 +33,8 @@
   "theme=medieval",
   "theme=quoth",
   "title=The Rats in the Walls",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_deadcity.zip",

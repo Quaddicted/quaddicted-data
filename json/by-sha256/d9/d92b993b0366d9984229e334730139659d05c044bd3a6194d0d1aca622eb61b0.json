@@ -127,7 +127,8 @@
   "theme=knave",
   "title=Contract Revoked",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=contract/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/contract.zip",

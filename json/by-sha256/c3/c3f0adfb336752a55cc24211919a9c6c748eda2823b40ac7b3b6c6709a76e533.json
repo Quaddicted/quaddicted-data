@@ -33,7 +33,8 @@
   "theme=traps",
   "theme=wizard",
   "title=The Fate for Walhalla",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/walhalla.zip",

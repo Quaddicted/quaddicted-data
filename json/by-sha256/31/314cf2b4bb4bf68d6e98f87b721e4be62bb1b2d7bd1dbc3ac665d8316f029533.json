@@ -34,7 +34,8 @@
   "theme=idbase",
   "theme=traps",
   "title=Severe Exposure",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/se.zip",

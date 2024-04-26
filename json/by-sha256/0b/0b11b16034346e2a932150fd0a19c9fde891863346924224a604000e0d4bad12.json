@@ -39,7 +39,8 @@
   "startmap=sm75_scampie",
   "startmap=sm75_zwiffle",
   "title=Speedmapping pack 75 - Doom maps (no room over room/no slopes)",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm75_pack.zip",

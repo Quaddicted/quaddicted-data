@@ -2574,7 +2574,8 @@
   "theme=void",
   "title=Alkaline",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alkaline.zip",

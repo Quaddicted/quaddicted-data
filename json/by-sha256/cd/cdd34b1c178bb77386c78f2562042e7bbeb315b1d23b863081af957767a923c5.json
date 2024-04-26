@@ -40,7 +40,8 @@
   "theme=abstract",
   "theme=experimental",
   "title=Digs02 - Virtual World",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs02.zip",

@@ -44,7 +44,8 @@
   "startmap=sm106_generic",
   "startmap=sm106_pulsar",
   "title=Speedmapping pack 106 - Partially submerged",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm106_pack.zip",

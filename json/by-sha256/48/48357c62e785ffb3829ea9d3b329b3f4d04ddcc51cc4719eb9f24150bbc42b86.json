@@ -38,7 +38,8 @@
   "source=included",
   "theme=runic",
   "title=Typhon's Dead Underworld",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rune1.zip",

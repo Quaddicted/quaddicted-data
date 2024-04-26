@@ -33,7 +33,8 @@
   "theme=base",
   "theme=slime",
   "title=The Alpha Project",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alpha001.zip",

@@ -726,7 +726,8 @@
   "startmap=start",
   "theme=realism",
   "title=GSH Jungle mod",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gsh_jungle.zip",

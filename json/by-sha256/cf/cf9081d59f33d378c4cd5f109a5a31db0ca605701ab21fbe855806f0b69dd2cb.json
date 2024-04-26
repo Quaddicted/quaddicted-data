@@ -31,7 +31,8 @@
   "theme=scourge of armagon",
   "theme=stone",
   "title=Temple of Lightning",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tol.zip",

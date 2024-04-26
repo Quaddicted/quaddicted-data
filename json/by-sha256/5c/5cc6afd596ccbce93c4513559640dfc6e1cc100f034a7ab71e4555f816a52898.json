@@ -87,7 +87,8 @@
   "theme=medieval",
   "theme=realism",
   "title=Ravenous",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ravenous.zip",

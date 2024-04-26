@@ -542,7 +542,8 @@
   "theme=scourge of armagon",
   "theme=temple",
   "title=ADD2: Scorpion Garrison",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=add2/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/add2.zip",

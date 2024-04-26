@@ -27,7 +27,8 @@
   "theme=mandatory secret",
   "theme=wizard",
   "title=Shadow Keep",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shkeep.zip",

@@ -72,7 +72,8 @@
   "theme=bricks",
   "theme=sewer",
   "title=Primo",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/primo_1.1.0.zip",

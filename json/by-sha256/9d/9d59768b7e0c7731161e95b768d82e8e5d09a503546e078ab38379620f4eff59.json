@@ -104,7 +104,8 @@
   "startmap=smqe08a_zwiffle",
   "theme=traps",
   "title=Speedmapping pack QExpo2008 #1 - Dreamscape",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08a_pack.zip",

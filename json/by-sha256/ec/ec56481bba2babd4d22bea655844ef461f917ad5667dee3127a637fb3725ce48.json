@@ -44,7 +44,8 @@
   "startmap=sm148_spirit",
   "startmap=sm148_willem",
   "title=Speedmapping pack 148 - Don't touch that!",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm148_pack.zip",

@@ -28,7 +28,8 @@
   "theme=industrial",
   "theme=metal",
   "title=Jackboot Hero",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jackboot.zip",

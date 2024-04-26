@@ -50,7 +50,8 @@
   "theme=swamp",
   "theme=wizard",
   "title=ArcanBroomada Doctrina",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwabd.zip",

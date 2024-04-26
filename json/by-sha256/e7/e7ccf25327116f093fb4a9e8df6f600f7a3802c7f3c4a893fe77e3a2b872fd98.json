@@ -28,7 +28,8 @@
   "theme=blue",
   "theme=medieval",
   "title=Satan's Cathedral",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/satcath.zip",

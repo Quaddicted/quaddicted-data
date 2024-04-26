@@ -35,7 +35,8 @@
   "theme=quoth",
   "theme=runic",
   "title=I Pity Thee Not",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kellmet1.zip",

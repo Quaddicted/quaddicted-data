@@ -60,7 +60,8 @@
   "startmap=sm20_mystery8",
   "startmap=sm20_vig",
   "title=Speedmapping pack 20 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm20_pack.zip",

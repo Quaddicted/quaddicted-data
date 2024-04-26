@@ -33,7 +33,8 @@
   "theme=metal",
   "theme=slime",
   "title=The Crawling Chaos",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chaos.zip",

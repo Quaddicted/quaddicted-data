@@ -32,7 +32,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Quatrotsky",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quadrx6.zip",

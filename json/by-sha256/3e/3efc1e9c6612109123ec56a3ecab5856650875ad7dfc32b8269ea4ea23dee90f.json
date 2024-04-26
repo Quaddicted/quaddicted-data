@@ -36,7 +36,8 @@
   "theme=realism",
   "theme=sewer",
   "title=Dark City",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/darkcity.zip",

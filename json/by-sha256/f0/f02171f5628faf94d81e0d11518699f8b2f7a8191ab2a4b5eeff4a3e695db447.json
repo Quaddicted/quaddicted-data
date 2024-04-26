@@ -75,7 +75,8 @@
   "source=included",
   "theme=realism",
   "title=Null Bearing",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nullbear.zip",

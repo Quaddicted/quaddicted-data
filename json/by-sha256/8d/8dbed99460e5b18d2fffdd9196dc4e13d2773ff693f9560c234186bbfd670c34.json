@@ -27,7 +27,8 @@
   "startmap=canyon",
   "theme=canyon",
   "title=Three's Canyon",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/3scanyon.zip",

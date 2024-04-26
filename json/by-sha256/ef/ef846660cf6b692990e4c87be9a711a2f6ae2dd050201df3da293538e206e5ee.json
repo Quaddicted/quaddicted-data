@@ -44,7 +44,8 @@
   "theme=base",
   "theme=plain",
   "title=The Lost Tech Center",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/losttec.zip",

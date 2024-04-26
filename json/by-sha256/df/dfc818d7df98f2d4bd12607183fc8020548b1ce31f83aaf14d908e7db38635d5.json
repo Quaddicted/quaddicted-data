@@ -55,7 +55,8 @@
   "theme=cavern",
   "theme=snow",
   "title=The Evolution",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tevo.zip",

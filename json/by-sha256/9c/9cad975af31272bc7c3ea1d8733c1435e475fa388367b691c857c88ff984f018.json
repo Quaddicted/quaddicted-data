@@ -45,7 +45,8 @@
   "theme=medieval",
   "theme=mixtex",
   "title=Court of the Chaos God",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cotcg.zip",

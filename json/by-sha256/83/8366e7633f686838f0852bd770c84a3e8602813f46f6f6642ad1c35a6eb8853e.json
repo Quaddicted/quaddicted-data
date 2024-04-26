@@ -366,7 +366,8 @@
   "startmap=sm190_skacky2",
   "startmap=sm190_ukko",
   "title=SM190 - Six textures",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm190_pack.zip",

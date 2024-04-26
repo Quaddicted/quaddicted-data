@@ -36,7 +36,8 @@
   "startmap=sm100_pulsar",
   "startmap=sm100_zwiffle",
   "title=Speedmapping pack 100 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm100_pack.zip",

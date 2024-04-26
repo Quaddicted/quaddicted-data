@@ -34,7 +34,8 @@
   "theme=bricks",
   "theme=medieval",
   "title=Dark Oddyssey",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dark_oddyssey_qmap.zip",

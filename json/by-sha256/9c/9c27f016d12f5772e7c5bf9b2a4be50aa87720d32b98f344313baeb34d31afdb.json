@@ -579,7 +579,8 @@
   "startmap=start",
   "title=SM Levels Pack for QUAKE",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=smlevel/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smlevel.zip",

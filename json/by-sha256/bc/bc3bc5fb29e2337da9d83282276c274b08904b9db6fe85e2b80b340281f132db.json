@@ -86,7 +86,8 @@
   "theme=doom 3",
   "theme=quoth",
   "title=Slave to a Machine",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/slave.zip",

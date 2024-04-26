@@ -34,7 +34,8 @@
   "startmap=odyssey1",
   "theme=wizard",
   "title=Odyssey One",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/odyssey1_v2.zip",

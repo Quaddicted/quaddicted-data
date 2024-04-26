@@ -33,7 +33,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Haunted Revenge",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/haunt.zip",

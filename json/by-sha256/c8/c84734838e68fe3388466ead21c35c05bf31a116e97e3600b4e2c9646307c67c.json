@@ -35,7 +35,8 @@
   "theme=terracotta",
   "theme=traps",
   "title=The House Of Sadlark",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark5.zip",

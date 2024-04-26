@@ -155,7 +155,8 @@
   "theme=medieval",
   "title=Arcanum",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=wicked/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcanum.zip",

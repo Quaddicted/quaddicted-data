@@ -46,7 +46,8 @@
   "theme=temple",
   "theme=wizard",
   "title=Simplex",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/simplex.zip",

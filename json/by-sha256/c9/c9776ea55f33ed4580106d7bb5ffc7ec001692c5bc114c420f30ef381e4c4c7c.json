@@ -50,7 +50,8 @@
   "theme=quoth",
   "title=Data Download",
   "type=contest",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hulk256.zip",

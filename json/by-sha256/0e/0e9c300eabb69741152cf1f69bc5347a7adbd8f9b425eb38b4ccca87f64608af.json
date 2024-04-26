@@ -33,7 +33,8 @@
   "theme=puzzles",
   "theme=wizard",
   "title=Caelestis Tumultus",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/awsp1.zip",

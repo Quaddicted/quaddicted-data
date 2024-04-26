@@ -43,7 +43,8 @@
   "theme=ruins",
   "theme=underground",
   "title=Pain in the Arch",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp10.zip",

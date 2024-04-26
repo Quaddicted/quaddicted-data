@@ -43,7 +43,8 @@
   "theme=id1",
   "theme=medieval",
   "title=Rising Action",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/frogsaction_v1.zip",

@@ -341,7 +341,8 @@
   "theme=traps",
   "title=Retro Jam 1 - Medieval/Castle Theme",
   "type=mapjam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=retrojam1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam1.zip",

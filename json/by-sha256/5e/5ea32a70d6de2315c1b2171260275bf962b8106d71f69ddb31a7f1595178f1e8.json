@@ -96,7 +96,8 @@
   "startmap=du_sm1_yoder",
   "theme=metal",
   "title=Disconcerting Unease Speedmap Pack",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/du_sm1.zip",

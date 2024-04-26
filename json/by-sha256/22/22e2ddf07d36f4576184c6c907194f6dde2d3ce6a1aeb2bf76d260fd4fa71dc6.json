@@ -39,7 +39,8 @@
   "source=included",
   "startmap=insane",
   "title=Insaneninjaviper",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/insane01.zip",

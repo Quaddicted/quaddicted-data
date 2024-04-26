@@ -926,7 +926,8 @@
   "startmap=sm225_spoot",
   "startmap=start",
   "title=SM225 - Return of the Randomizer Special (Jam)",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm225.zip",

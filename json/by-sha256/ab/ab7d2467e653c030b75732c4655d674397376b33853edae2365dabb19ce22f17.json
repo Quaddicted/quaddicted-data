@@ -32,7 +32,8 @@
   "theme=base",
   "theme=ikbase",
   "title=Ground Zero",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dazsp3.zip",

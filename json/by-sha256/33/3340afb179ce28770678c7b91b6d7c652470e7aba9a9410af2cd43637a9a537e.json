@@ -54,7 +54,8 @@
   "theme=base",
   "theme=realism",
   "title=Area32x",
-  "type=map"
+  "type=map",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ex_area32x_q1.zip",

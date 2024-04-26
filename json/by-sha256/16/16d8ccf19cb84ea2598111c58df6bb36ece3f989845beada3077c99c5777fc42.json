@@ -29,7 +29,8 @@
   "theme=outdoor",
   "theme=wizard",
   "title=Astrus Base",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/astrus.zip",

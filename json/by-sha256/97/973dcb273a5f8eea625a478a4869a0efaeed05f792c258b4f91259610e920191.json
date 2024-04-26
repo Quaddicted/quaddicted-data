@@ -35,7 +35,8 @@
   "theme=medieval",
   "theme=underground",
   "title=Symphony of Science",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/symphony_v101.zip",

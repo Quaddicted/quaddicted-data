@@ -31,7 +31,8 @@
   "theme=puzzles",
   "theme=scourge of armagon",
   "title=The Biogenetic Forge",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bioforge.zip",

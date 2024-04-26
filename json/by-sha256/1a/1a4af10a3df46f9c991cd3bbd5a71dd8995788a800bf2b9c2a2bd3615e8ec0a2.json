@@ -514,7 +514,8 @@
   "theme=remix",
   "title=Deathmatch Dimension (1.02)",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dmd.zip",

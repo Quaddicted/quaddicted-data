@@ -28,7 +28,8 @@
   "theme=base",
   "theme=castle",
   "title=Shoradar",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shoradar.zip",

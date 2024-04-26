@@ -39,7 +39,8 @@
   "startmap=sm74_necros",
   "startmap=sm74_zwiffle",
   "title=Speedmapping pack 74 - Maps you play through twice",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm74_pack.zip",

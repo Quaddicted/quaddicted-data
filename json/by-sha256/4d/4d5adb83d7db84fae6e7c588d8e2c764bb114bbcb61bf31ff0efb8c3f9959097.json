@@ -44,7 +44,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=The Beastial Castle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/castle100.zip",

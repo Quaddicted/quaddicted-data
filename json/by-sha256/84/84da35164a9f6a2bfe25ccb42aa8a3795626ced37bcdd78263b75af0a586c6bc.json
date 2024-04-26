@@ -50,7 +50,8 @@
   "theme=traps",
   "theme=wind tunnels",
   "title=Der Wanderer \u00fcber dem S\u00e4uremeer",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ion01.zip",

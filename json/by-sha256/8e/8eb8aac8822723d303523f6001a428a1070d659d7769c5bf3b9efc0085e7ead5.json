@@ -80,7 +80,8 @@
   "theme=prison",
   "title=Escape",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=escape/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/escape.zip",

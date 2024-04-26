@@ -37,7 +37,8 @@
   "theme=base",
   "theme=crates",
   "title=Logistics Central",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lc_cop16.zip",

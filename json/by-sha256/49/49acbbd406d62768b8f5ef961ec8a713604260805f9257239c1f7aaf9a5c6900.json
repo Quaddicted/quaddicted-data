@@ -9601,7 +9601,8 @@
   "theme=doom",
   "theme=doom 3",
   "title=Doom Tintin Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dtintin_fixed.zip",

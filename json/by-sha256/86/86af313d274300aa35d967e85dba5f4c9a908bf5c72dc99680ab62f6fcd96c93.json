@@ -50,7 +50,8 @@
   "theme=runic",
   "theme=slime",
   "title=The Putrid Pumps",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/putrid.zip",

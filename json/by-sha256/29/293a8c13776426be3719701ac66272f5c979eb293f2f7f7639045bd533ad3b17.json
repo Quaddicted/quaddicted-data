@@ -32,7 +32,8 @@
   "startmap=sm14_bear",
   "startmap=sm14_inane",
   "title=Speedmapping pack 14 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm14_pack.zip",

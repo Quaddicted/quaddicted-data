@@ -37,7 +37,8 @@
   "theme=id1",
   "theme=wizard",
   "title=The Grim Outpost",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/grim_rezipped.zip",

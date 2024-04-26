@@ -39,7 +39,8 @@
   "startmap=sm166_zwiffle",
   "theme=doom",
   "title=Speedmapping Pack 166 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm166_pack.zip",

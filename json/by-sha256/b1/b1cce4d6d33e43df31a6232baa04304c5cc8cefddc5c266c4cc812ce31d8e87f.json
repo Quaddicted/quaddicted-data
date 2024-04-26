@@ -45,7 +45,8 @@
   "theme=slime",
   "theme=underground",
   "title=Acid Worship",
-  "type=map"
+  "type=map",
+  "zipbasedir=rubicon2/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/acidworship_cv.zip",

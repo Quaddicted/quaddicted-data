@@ -35,7 +35,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Temple of the Secret Society",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tss.zip",

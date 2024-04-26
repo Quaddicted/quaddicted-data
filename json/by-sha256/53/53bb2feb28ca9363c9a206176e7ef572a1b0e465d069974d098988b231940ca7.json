@@ -47,7 +47,8 @@
   "theme=super secret",
   "theme=underground",
   "title=Adamantine Cruelty",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ac.zip",

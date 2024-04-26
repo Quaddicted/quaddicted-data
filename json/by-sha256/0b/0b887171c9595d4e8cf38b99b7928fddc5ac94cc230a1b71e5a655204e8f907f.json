@@ -92,7 +92,8 @@
   "theme=arcane dimensions",
   "theme=base",
   "title=The Battery",
-  "type=map"
+  "type=map",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_jpqm5.zip",

@@ -124,7 +124,8 @@
   "theme=doom 3",
   "theme=quoth",
   "title=The Gateway to Hell",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gth.zip",

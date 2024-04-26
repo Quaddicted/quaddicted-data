@@ -212,7 +212,8 @@
   "theme=lava",
   "theme=secrets",
   "title=Oxyblack Fortress",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_heresp1.zip",

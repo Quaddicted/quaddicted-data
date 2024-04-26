@@ -36,7 +36,8 @@
   "theme=quoth",
   "theme=traps",
   "title=Skinny Norris",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/768_negke.zip",

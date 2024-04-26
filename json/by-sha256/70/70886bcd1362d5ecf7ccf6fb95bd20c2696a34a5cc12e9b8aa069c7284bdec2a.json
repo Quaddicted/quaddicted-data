@@ -69,7 +69,8 @@
   "theme=tomb",
   "theme=traps",
   "title=Egyptgington",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam6_negke.zip",

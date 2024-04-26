@@ -48,7 +48,8 @@
   "theme=medieval",
   "theme=terracotta",
   "title=Askisi Gamma",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/4ltsp01.zip",

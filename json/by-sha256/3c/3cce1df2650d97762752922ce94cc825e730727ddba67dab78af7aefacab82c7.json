@@ -35,7 +35,8 @@
   "theme=red",
   "theme=terracotta",
   "title=Red Slammer",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mappi.zip",

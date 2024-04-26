@@ -40,7 +40,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=Forgotten Fortress",
-  "type=map"
+  "type=map",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jpqm3.zip",

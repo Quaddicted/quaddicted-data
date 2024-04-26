@@ -28,7 +28,8 @@
   "theme=lava",
   "theme=no exit",
   "title=The Arenas of Might",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mightarenas.zip",

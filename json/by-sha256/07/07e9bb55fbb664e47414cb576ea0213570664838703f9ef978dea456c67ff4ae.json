@@ -33,7 +33,8 @@
   "theme=metal",
   "theme=quake the way id did",
   "title=Discordia",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/discord.zip",

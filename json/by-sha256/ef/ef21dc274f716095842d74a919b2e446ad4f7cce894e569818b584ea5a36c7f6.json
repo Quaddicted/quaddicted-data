@@ -28,7 +28,8 @@
   "startmap=erkle9",
   "theme=wizard",
   "title=Erkle's Domain",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/erkle.zip",

@@ -90,7 +90,8 @@
   "theme=classic",
   "theme=medieval",
   "title=The Middle Evil",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=middle/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/middle.zip",

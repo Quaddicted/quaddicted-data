@@ -43,7 +43,8 @@
   "theme=pyramid",
   "theme=runic",
   "title=Roots",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/metzman_roots.zip",

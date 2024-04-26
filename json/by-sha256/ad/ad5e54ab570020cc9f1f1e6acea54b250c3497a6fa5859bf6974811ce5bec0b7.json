@@ -41,7 +41,8 @@
   "theme=puzzles",
   "theme=traps",
   "title=Notlob's Moonshot",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sgc8.zip",

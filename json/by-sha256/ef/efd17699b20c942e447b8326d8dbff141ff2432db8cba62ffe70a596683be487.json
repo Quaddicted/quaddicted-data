@@ -27,7 +27,8 @@
   "theme=medieval",
   "theme=mixtex",
   "title=Secret Civilization",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/civil.zip",

@@ -63,7 +63,8 @@
   "startmap=sm66_rpg",
   "startmap=sm66_starbuck",
   "title=Speedmapping pack 66 - Crap maps or Parody maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm66_pack.zip",

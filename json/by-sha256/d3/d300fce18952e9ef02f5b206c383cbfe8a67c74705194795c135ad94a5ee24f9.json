@@ -86,7 +86,8 @@
   "theme=lava",
   "theme=space",
   "title=Kelluva Linna",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kelluva_linna.zip",

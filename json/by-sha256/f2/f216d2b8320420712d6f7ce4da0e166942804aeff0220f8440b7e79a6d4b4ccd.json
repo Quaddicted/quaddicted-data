@@ -694,7 +694,8 @@
   "startmap=start",
   "theme=underwater",
   "title=The Deepness Below",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/deepness.zip",

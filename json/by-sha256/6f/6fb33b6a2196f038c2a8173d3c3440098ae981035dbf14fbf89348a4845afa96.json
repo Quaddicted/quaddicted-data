@@ -440,7 +440,8 @@
   "startmap=sm193_ukko",
   "theme=ikwhite",
   "title=Speedmapping pack 193 - Quakeguy Goes to White Castle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm193_pack.zip",

@@ -57,7 +57,8 @@
   "theme=secrets",
   "theme=super secret",
   "title=Gloomier Keep",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quotha.zip",

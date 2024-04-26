@@ -54,7 +54,8 @@
   "startmap=smqe06b_zwiffle",
   "theme=outdoor",
   "title=Speedmapping pack QExpo 2006 #2 - Episode 1 in one map",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe06b_pack.zip",

@@ -48,7 +48,8 @@
   "theme=castle",
   "theme=void",
   "title=Speedmapping pack 95 - Castle Void",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm95_pack.zip",

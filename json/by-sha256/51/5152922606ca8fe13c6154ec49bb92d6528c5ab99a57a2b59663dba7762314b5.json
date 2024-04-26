@@ -32,7 +32,8 @@
   "theme=experimental",
   "theme=metal",
   "title=R_speeds be damned!",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nesp16.zip",

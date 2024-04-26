@@ -27,7 +27,8 @@
   "startmap=volcano2",
   "theme=medieval",
   "title=Eruption is immanent!",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/volcano.zip",

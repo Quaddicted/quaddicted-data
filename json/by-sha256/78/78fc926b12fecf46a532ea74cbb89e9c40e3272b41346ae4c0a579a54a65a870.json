@@ -76,7 +76,8 @@
   "theme=metal",
   "title=Deathmatch Classics Vol. 1",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dmc1.zip",

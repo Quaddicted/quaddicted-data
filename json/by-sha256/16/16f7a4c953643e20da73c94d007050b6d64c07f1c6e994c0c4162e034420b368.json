@@ -46,7 +46,8 @@
   "startmap=sm17_ray",
   "startmap=sm17_xenon",
   "title=Speedmapping pack 17 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm17_pack.zip",

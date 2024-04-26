@@ -79,7 +79,8 @@
   "theme=id1",
   "theme=runic",
   "title=What Lies Behind v1.2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wlb1.2.zip",

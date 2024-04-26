@@ -33,7 +33,8 @@
   "theme=pyramid",
   "theme=traps",
   "title=Pyramid of Pain",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pypain.zip",

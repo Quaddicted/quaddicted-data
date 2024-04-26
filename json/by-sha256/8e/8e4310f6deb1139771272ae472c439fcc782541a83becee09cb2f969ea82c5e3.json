@@ -54,7 +54,8 @@
   "theme=lava",
   "theme=medieval",
   "title=Short Fight",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/short_fight.zip",

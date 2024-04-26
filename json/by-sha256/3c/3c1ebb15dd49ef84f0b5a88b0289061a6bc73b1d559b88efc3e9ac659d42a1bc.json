@@ -318,7 +318,8 @@
   "startmap=sm188_yoder",
   "startmap=start",
   "title=Speedmapping pack 188 - Progs_dump",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=sm188/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm188.zip",

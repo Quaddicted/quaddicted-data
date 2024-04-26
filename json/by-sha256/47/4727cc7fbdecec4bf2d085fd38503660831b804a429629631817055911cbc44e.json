@@ -29,7 +29,8 @@
   "theme=bricks",
   "theme=mixtex",
   "title=Supmut",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/supmut.zip",

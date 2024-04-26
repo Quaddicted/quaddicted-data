@@ -36,7 +36,8 @@
   "release_date=1997-04-24",
   "theme=wizard",
   "title=Welcome to IKSPQ",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ikstart.zip",

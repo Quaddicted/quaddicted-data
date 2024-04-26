@@ -32,7 +32,8 @@
   "theme=cavern",
   "theme=wizard",
   "title=Far beyond reality",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/real.zip",

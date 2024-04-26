@@ -875,7 +875,8 @@
   "theme=metal",
   "theme=quoth",
   "title=Blue Monday Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=bluemonday/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bluemonday_v2.zip",

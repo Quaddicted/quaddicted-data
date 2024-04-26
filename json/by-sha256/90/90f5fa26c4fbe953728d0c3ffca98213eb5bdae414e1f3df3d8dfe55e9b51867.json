@@ -88,7 +88,8 @@
   "startmap=flatmap",
   "startmap=manydoors",
   "title=Claustrophobica, FlatMap, A Place of Many Doors",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mappack_2.zip",

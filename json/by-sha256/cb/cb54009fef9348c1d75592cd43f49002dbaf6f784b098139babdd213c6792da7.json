@@ -41,7 +41,8 @@
   "source=included",
   "theme=wizard",
   "title=Pretend Dead Friend",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/apdm3.zip",

@@ -50,7 +50,8 @@
   "theme=lava",
   "theme=mixtex",
   "title=Hello",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rohling.zip",

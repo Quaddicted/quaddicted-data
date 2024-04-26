@@ -9749,7 +9749,8 @@
   "theme=secrets",
   "theme=void",
   "title=Raven Keep",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ravenkeep.zip",

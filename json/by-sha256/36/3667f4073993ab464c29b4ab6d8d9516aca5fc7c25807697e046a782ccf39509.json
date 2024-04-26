@@ -29,7 +29,8 @@
   "release_date=2015-12-10",
   "theme=base",
   "title=Hellhole",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hellhole.zip",

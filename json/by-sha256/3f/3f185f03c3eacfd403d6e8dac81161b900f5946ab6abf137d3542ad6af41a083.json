@@ -35,7 +35,8 @@
   "theme=cave",
   "theme=swamp",
   "title=Lost Entrance of the Dismal Oubliette",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e2m10.zip",

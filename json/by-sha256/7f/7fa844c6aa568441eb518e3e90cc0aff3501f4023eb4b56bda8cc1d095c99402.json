@@ -32,7 +32,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Lucifer's Path",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/martim6.zip",

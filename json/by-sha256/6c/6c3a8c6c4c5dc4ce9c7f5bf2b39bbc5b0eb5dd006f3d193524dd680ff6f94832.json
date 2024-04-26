@@ -87,7 +87,8 @@
   "startmap=sm25_werd",
   "theme=spd",
   "title=Speedmapping pack 25 - (QExpo)",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm25_pack.zip",

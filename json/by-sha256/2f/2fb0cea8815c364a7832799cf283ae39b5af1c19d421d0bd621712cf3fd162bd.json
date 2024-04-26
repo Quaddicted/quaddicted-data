@@ -55,7 +55,8 @@
   "startmap=sm58_xen",
   "theme=quake the way id did",
   "title=SM 58 pack - The Elder World (The 4 Seasons of Quake #4)",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm58_pack.zip",

@@ -35,7 +35,8 @@
   "startmap=dungeon",
   "theme=wizard",
   "title=Jim's Dungeon",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jdungeon.zip",

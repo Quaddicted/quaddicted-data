@@ -3362,7 +3362,8 @@
   "theme=water",
   "title=Sewer Jam 2 v1.2.1",
   "type=mapjam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=sewerjam2/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sewerjam2_v1.2.1.zip",

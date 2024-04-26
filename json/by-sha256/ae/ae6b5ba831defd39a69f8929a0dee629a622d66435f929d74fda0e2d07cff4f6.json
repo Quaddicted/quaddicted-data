@@ -6835,7 +6835,8 @@
   "theme=traps",
   "title=Arcane Dimensions 1.42",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_v1_42final.zip",

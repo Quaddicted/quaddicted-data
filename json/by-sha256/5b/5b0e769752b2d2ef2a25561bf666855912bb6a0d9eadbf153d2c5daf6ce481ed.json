@@ -27,7 +27,8 @@
   "theme=base",
   "theme=realism",
   "title=The Abandoned Silo",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/icbm.zip",

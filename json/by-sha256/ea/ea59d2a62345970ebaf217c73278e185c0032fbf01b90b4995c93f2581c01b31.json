@@ -45,7 +45,8 @@
   "theme=realism",
   "theme=wizard",
   "title=Nazihell",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nazihell.zip",

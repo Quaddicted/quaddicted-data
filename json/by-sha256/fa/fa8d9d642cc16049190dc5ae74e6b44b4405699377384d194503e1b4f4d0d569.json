@@ -92,7 +92,8 @@
   "theme=doom",
   "theme=remake",
   "title=Tower of Babel",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=babel/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/babel.zip",

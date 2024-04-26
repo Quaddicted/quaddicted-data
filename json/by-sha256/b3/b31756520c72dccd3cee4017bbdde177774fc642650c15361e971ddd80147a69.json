@@ -49,7 +49,8 @@
   "theme=quake the way id did",
   "title=Quake Condensed",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rpgsmse.zip",

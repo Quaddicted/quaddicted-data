@@ -38,7 +38,8 @@
   "startmap=alk08sp",
   "theme=metal",
   "title=Charmhood",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alk08.zip",

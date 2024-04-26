@@ -139,7 +139,8 @@
   "theme=metal",
   "theme=sewer",
   "title=Tormentarium",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/torment.zip",

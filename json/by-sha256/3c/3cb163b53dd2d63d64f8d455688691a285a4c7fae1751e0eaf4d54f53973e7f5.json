@@ -422,7 +422,8 @@
   "source=included",
   "theme=traps",
   "title=The Colosseum",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=coloseum/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/colosseum.zip",

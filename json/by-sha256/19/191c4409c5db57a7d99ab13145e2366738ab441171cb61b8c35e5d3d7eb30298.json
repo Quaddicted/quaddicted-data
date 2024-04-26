@@ -58,7 +58,8 @@
   "startmap=sm144_spirit",
   "startmap=sm144_zwiffle",
   "title=Speedmapping pack 144 - Super Collider 128",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm144_pack.zip",

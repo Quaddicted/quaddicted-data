@@ -31,7 +31,8 @@
   "theme=idbase",
   "theme=metal",
   "title=Hrimspeed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrimspeed.zip",

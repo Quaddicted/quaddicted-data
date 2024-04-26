@@ -34,7 +34,8 @@
   "theme=bricks",
   "theme=castle",
   "title=Alena Kingdom",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ba1_qmap.zip",

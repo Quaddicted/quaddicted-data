@@ -46,7 +46,8 @@
   "startmap=sm12_ray",
   "startmap=sm12_scampie",
   "title=Speedmapping pack 12 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm12_pack.zip",

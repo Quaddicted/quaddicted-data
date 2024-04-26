@@ -29,7 +29,8 @@
   "theme=base",
   "theme=outdoor",
   "title=Full of Boxes",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/f_box.zip",

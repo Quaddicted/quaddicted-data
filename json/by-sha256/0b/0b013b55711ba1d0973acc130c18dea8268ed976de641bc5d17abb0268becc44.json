@@ -116,7 +116,8 @@
   "startmap=sm179_otp",
   "theme=wizard",
   "title=Speedmapping pack 179 - Wizard",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm179_pack.zip",

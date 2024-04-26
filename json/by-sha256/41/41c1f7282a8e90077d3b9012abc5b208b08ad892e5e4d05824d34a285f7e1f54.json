@@ -133,7 +133,8 @@
   "theme=industrial",
   "theme=rubicon",
   "title=Rubicon",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=rubicon/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rubicon.zip",

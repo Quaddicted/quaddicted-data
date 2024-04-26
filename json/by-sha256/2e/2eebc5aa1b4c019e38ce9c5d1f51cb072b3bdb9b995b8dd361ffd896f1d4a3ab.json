@@ -106,7 +106,8 @@
   "theme=town",
   "theme=village",
   "title=Shadow over Innsmouth",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=shadow/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shadow.zip",

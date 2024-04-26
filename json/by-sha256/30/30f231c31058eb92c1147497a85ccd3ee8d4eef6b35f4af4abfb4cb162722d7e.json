@@ -31,7 +31,8 @@
   "theme=wizard",
   "title=LFSP Start",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lfstart.zip",

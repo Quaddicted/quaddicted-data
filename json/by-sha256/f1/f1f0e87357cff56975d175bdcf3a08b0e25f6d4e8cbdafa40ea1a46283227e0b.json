@@ -46,7 +46,8 @@
   "startmap=sm60_xen",
   "startmap=sm60_zwiffle",
   "title=Speedmapping pack 60 - Deathmatch maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm60_pack.zip",

@@ -19,7 +19,8 @@
   "game_mode=singleplayer",
   "release_date=2004-02-01",
   "title=Title",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_megazoid.zip",

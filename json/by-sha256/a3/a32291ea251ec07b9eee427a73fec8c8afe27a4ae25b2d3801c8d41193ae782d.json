@@ -30,7 +30,8 @@
   "theme=medieval",
   "theme=wizard",
   "title=BadLand1 : Break-In",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/badland1.zip",

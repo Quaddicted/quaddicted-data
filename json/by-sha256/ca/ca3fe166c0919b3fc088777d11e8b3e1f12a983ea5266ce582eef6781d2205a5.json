@@ -39,7 +39,8 @@
   "theme=lava",
   "theme=temple",
   "title=Citadel of Fire v3",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rgfire_v3.zip",

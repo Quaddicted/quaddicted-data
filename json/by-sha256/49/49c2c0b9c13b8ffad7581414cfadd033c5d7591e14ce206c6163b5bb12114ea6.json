@@ -73,7 +73,8 @@
   "theme=base",
   "theme=metal",
   "title=Grendel's Keep",
-  "type=map"
+  "type=map",
+  "zipbasedir=travail/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qt_pre02.zip",

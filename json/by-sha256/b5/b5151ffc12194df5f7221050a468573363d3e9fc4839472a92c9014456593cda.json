@@ -33,7 +33,8 @@
   "theme=secrets",
   "theme=traps",
   "title=The house of Sadlark (2)",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark2.zip",

@@ -218,7 +218,8 @@
   "theme=runic",
   "theme=secrets",
   "title=Oozing Blasphemy",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_blasphemy.zip",

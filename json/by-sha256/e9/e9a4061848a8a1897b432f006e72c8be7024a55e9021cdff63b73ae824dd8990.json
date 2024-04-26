@@ -30,7 +30,8 @@
   "theme=house",
   "theme=no exit",
   "title=Battle at Home",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/battle.zip",

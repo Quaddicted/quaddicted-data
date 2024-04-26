@@ -546,7 +546,8 @@
   "theme=temple",
   "title=Operation: Urth Majik",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=oum/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oum.zip",

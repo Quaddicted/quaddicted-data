@@ -36,7 +36,8 @@
   "theme=no exit",
   "theme=rock",
   "title=Dave\\'s Graves",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dgrave.zip",

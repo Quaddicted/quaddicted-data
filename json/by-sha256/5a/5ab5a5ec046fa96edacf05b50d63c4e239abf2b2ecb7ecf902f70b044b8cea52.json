@@ -47,7 +47,8 @@
   "startmap=sm31_speedy",
   "theme=spd",
   "title=Speedmapping pack 31 - IDbase",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm31_pack.zip",

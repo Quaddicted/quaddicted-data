@@ -103,7 +103,8 @@
   "theme=ikbase",
   "theme=rubicon",
   "title=Backwards Compatible",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=lthsp2/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp2.zip",

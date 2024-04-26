@@ -35,7 +35,8 @@
   "theme=quake 2",
   "theme=quoth",
   "title=Speedmapping pack 149 - Finish some scrap",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm149_pack.zip",

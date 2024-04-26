@@ -40,7 +40,8 @@
   "theme=canyon",
   "theme=quake 2",
   "title=Centurion",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/xnq1002.zip",

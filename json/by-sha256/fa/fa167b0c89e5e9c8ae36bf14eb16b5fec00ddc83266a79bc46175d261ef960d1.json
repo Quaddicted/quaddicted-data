@@ -30,7 +30,8 @@
   "theme=metal",
   "theme=windtunnel",
   "title=The Fierce Livid",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tfl2.zip",

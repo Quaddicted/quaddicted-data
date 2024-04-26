@@ -38,7 +38,8 @@
   "theme=mine",
   "theme=scourge of armagon",
   "title=Qmine",
-  "type=map"
+  "type=map",
+  "zipbasedir=hipnotic/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qmine.zip",

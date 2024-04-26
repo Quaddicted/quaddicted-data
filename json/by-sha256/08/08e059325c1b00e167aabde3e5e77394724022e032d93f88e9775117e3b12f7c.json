@@ -40,7 +40,8 @@
   "theme=base",
   "theme=idbase",
   "title=The Sector Four",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/xl4.zip",

@@ -34,7 +34,8 @@
   "theme=quake the way id did",
   "theme=wind tunnels",
   "title=Antediluvian",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ant.zip",

@@ -30,7 +30,8 @@
   "theme=medieval",
   "theme=traps",
   "title=Nurgle's Vault",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mexx4.zip",

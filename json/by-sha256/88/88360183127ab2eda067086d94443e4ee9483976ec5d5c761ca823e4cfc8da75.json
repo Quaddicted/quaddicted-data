@@ -32,7 +32,8 @@
   "theme=lava",
   "theme=metal",
   "title=Pyro4 - The Awakening",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pyro4.zip",

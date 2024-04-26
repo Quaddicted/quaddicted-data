@@ -30,7 +30,8 @@
   "theme=mixtex",
   "theme=outdoor",
   "title=Basic Castle",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bc.zip",

@@ -145,7 +145,8 @@
   "theme=runic",
   "title=Retro Jam 3 DLC",
   "type=mapjam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=retrojam3dlc/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam3dlc.zip",

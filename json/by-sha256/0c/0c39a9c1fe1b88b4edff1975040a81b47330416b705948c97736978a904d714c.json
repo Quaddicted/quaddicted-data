@@ -35,7 +35,8 @@
   "startmap=mexx1",
   "theme=metal",
   "title=The Entrance & The Sanctum",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mexx.zip",

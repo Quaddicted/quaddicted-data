@@ -29,7 +29,8 @@
   "startmap=sm101_starbuck",
   "startmap=sm101_zwiffle",
   "title=Speedmapping pack 101 - The Basics",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm101_pack.zip",

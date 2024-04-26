@@ -30,7 +30,8 @@
   "theme=metal",
   "theme=realism",
   "title=PC Gamer Warehouse",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pcgwhse.zip",

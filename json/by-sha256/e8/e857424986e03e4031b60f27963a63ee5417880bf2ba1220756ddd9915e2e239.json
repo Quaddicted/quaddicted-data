@@ -54,7 +54,8 @@
   "theme=bricks",
   "theme=medieval",
   "title=A Horse Named Quake",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mjb_horse.zip",

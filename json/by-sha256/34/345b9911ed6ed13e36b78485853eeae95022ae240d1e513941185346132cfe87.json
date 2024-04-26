@@ -30,7 +30,8 @@
   "theme=base",
   "theme=medieval",
   "title=Base of disgrace",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/disgrace.zip",

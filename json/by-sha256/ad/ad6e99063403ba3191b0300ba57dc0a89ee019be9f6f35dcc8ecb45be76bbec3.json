@@ -2342,7 +2342,8 @@
   "theme=industrial",
   "theme=rubicon",
   "title=Alkaline Jam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alkjam.zip",

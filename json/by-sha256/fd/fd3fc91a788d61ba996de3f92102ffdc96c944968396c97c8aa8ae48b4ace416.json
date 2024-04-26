@@ -34,7 +34,8 @@
   "game_mode=singleplayer",
   "release_date=2019-12-14",
   "title=1916",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/1916.zip",

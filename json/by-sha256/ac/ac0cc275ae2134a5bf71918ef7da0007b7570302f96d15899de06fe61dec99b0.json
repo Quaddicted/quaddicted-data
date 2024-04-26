@@ -34,7 +34,8 @@
   "source=included",
   "theme=base",
   "title=Q-Deck",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fesp1.zip",

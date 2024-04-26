@@ -38,7 +38,8 @@
   "theme=oldschool",
   "theme=runic",
   "title=Armageddon 2",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/arma2.zip",

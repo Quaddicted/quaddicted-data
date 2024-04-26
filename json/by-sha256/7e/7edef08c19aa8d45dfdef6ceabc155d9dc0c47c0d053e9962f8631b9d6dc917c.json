@@ -144,7 +144,8 @@
   "theme=medieval",
   "theme=tower",
   "title=The Ivory Tower",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=ivory/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ivory1b.zip",

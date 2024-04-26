@@ -94,7 +94,8 @@
   "startmap=shipnod",
   "theme=water",
   "title=Ship Showdown",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shipnod.zip",

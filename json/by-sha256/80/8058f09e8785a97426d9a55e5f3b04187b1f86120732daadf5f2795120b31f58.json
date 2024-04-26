@@ -40,7 +40,8 @@
   "startmap=oopv",
   "theme=metal",
   "title=Untitled",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oopv.zip",

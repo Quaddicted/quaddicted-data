@@ -42,7 +42,8 @@
   "startmap=sm172_scampie",
   "theme=quoth",
   "title=Speedmapping pack 172 - Explosions",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm172_pack.zip",

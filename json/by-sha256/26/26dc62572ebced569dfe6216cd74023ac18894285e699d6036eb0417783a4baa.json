@@ -30,7 +30,8 @@
   "theme=brick",
   "theme=rock",
   "title=The Place of Dismay",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/efdatsp1.zip",

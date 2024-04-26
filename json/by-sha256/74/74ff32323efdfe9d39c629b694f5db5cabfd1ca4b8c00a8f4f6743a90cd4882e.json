@@ -54,7 +54,8 @@
   "startmap=Intrusion_upd",
   "theme=metal",
   "title=Intrusion 2021",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/intrusion_2021.zip",

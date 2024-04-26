@@ -68,7 +68,8 @@
   "startmap=sm9_scampie",
   "startmap=sm9_xenon",
   "title=Speedmapping pack 9 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm9_pack.zip",

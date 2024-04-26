@@ -629,7 +629,8 @@
   "theme=puzzles",
   "theme=wizard",
   "title=Church Of The Unholy",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/unholy.zip",

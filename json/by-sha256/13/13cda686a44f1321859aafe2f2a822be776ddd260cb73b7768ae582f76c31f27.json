@@ -62,7 +62,8 @@
   "theme=wizard",
   "title=Rune of Blood",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=quoth/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/runeofblood.zip",

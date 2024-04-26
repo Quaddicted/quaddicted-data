@@ -38,7 +38,8 @@
   "theme=water",
   "theme=wizard",
   "title=B.C. Dwellings",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bc2.zip",

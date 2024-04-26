@@ -33,7 +33,8 @@
   "theme=traps",
   "theme=wizard",
   "title=Coma",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coma.zip",

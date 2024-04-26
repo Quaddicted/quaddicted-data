@@ -60,7 +60,8 @@
   "startmap=sm54_necros",
   "startmap=sm54_starbuck",
   "title=Speedmapping pack 54 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm54_pack.zip",

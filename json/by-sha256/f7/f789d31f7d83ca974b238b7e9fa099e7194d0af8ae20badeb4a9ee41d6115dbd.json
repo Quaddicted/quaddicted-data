@@ -32,7 +32,8 @@
   "theme=no exit",
   "theme=wizard",
   "title=The Pump Station",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pumpstat.zip",

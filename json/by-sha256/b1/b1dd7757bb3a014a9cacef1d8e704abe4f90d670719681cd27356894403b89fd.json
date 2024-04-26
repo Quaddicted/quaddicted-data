@@ -29,7 +29,8 @@
   "theme=base",
   "theme=industrial",
   "title=The Last Strong Hold",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/strong-hold.zip",

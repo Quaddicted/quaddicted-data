@@ -26,7 +26,8 @@
   "release_date=2000-01-13",
   "theme=base",
   "title=Store",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkstore.zip",

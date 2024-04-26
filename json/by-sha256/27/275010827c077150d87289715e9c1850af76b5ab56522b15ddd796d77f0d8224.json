@@ -22,7 +22,8 @@
   "release_date=2008-01-23",
   "theme=wizard",
   "title=Waterways",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/watrways.zip",

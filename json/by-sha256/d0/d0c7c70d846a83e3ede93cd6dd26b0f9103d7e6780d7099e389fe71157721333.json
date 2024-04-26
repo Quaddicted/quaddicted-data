@@ -38,7 +38,8 @@
   "theme=wizard",
   "title=The Insurrection, part I - The Overlord's Legacy",
   "type=episode",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ins1.zip",

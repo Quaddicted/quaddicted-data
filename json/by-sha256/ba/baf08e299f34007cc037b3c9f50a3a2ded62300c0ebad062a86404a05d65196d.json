@@ -68,7 +68,8 @@
   "startmap=sm42_xen",
   "theme=spd",
   "title=Speedmapping pack 42 - Unthemed",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm42_pack.zip",

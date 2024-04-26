@@ -37,7 +37,8 @@
   "theme=bricks",
   "theme=medieval",
   "title=Cradle",
-  "type=map"
+  "type=map",
+  "zipbasedir=copper/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/akm1.zip",

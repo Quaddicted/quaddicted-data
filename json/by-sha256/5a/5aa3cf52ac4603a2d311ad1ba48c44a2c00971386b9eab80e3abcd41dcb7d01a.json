@@ -200,7 +200,8 @@
   "startmap=sm192_naitelveni",
   "startmap=sm192_pinchy",
   "title=SM192 - Rooftops",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm192_pack.zip",

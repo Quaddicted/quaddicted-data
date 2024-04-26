@@ -31,7 +31,8 @@
   "theme=no exit",
   "theme=weird",
   "title=Marsbase",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/marsbase.zip",

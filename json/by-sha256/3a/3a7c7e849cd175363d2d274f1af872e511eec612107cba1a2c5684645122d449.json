@@ -37,7 +37,8 @@
   "startmap=q1",
   "theme=medieval",
   "title=The Darkness Within",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/darkness.zip",

@@ -32,7 +32,8 @@
   "startmap=sm123_neg!ke",
   "startmap=sm123_trinca",
   "title=Speedmapping pack 123 - A tribute to the Dopefish",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm123_pack.zip",

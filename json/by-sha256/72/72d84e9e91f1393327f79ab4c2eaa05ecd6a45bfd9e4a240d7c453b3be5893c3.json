@@ -380,7 +380,8 @@
   "theme=rubicon",
   "theme=space",
   "title=Forwards Compatible",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=back2forwards/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/back2forwards.zip",

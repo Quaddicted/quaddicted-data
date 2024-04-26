@@ -671,7 +671,8 @@
   "theme=traps",
   "title=DM4 Jam",
   "type=mapjam",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=dm4jam/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm4jam.zip",

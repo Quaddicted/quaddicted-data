@@ -33,7 +33,8 @@
   "theme=quake the way id did",
   "theme=traps",
   "title=The Well of Wishes",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wishes.zip",

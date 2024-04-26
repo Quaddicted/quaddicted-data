@@ -33,7 +33,8 @@
   "theme=medieval",
   "theme=water",
   "title=Liquid Despair",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/despair2.zip",

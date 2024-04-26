@@ -55,7 +55,8 @@
   "theme=medieval",
   "theme=space",
   "title=Disjointed Realms",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/disjointedrealms.zip",

@@ -55,7 +55,8 @@
   "startmap=sm51_xen",
   "theme=remix",
   "title=Speedmapping pack 51 - ~ish maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm51_pack.zip",

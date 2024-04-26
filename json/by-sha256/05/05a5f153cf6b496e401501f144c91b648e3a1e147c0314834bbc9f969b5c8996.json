@@ -1379,7 +1379,8 @@
   "startmap=start",
   "theme=realism",
   "title=Quake April Fools Mega Jokemap Extravaganza Incorporated (Jokejam)",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jokejam_v1.zip",

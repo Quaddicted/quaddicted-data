@@ -38,7 +38,8 @@
   "startmap=pyramid",
   "theme=pyramid",
   "title=The Pyramid",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thepyram.zip",

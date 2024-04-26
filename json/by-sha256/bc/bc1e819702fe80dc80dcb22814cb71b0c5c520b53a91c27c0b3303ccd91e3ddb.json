@@ -38,7 +38,8 @@
   "theme=underground",
   "theme=wizard",
   "title=Deepest Oblivion v3",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rgdeep_v3.zip",

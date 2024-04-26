@@ -111,7 +111,8 @@
   "theme=ikwhite",
   "theme=space",
   "title=Un Lugar Otro Que El Cielo",
-  "type=map"
+  "type=map",
+  "zipbasedir=ad/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/loqec.zip",

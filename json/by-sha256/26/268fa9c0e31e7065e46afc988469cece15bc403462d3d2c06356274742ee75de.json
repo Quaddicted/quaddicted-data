@@ -39,7 +39,8 @@
   "startmap=sm64_scampie",
   "startmap=sm64_zwiffle",
   "title=Speedmapping pack 64 - Skyward maps",
-  "type=speedmap"
+  "type=speedmap",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm64_pack.zip",

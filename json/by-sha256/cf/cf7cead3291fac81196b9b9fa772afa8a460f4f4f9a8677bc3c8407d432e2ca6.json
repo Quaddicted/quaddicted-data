@@ -369,7 +369,8 @@
   "theme=wizard",
   "title=Underdark Overbright - Version 1.1",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "zipbasedir=copper/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/udob_v1_1.zip",

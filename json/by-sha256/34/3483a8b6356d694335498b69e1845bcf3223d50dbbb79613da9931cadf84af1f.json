@@ -32,7 +32,8 @@
   "theme=blue",
   "theme=metal",
   "title=The Elektra Complex",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/elektra.zip",

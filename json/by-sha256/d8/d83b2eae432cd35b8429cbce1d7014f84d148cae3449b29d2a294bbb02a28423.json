@@ -29,7 +29,8 @@
   "theme=mixtex",
   "theme=prison",
   "title=Jailbreak",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jailbrk.zip",

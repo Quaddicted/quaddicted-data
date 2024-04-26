@@ -44,7 +44,8 @@
   "theme=idbase",
   "theme=remix",
   "title=The Slipgate Duplex",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1rmx.zip",

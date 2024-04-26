@@ -42,7 +42,8 @@
   "theme=quake 2",
   "theme=remake",
   "title=Orb's Betrayal",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/orbit.zip",

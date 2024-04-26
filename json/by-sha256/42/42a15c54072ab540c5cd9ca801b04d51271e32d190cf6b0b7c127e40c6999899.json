@@ -35,7 +35,8 @@
   "theme=water",
   "theme=wizard",
   "title=The Place Of Belonging",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/placebo.zip",

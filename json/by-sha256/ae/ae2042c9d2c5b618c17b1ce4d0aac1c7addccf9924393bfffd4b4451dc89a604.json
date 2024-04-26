@@ -33,7 +33,8 @@
   "theme=spd",
   "theme=traps",
   "title=Mescalito",
-  "type=map"
+  "type=map",
+  "zipbasedir=id1/maps/"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mescalito.zip",
