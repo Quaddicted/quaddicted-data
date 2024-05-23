@@ -36,12 +36,15 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levels0-9.htm#4fiffy3)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=small",
+  "provides='4fiffy3=1.0'",
   "release_date=1997-04-21",
+  "release_group=4fiffy3",
   "startmap=fiffy3",
   "theme=traps",
   "theme=wizard",
   "title=REoL TOUGH: Damnation!",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

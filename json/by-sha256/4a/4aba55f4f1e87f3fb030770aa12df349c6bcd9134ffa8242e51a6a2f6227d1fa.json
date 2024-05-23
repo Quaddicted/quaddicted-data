@@ -26,6 +26,7 @@
   "author=Ankh",
   "author=Drew",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sm136_pack.zip",
   "game=quake",
   "game_mode=singleplayer",

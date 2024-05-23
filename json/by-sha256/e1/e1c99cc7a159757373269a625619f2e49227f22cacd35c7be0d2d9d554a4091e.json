@@ -21,6 +21,7 @@
   "author=Kell",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=red777.zip",
   "game=quake",
   "game_mode=singleplayer",

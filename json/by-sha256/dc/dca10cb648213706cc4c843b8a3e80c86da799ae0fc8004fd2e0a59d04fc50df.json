@@ -667,12 +667,15 @@
   "filename=copper_v1_11.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "link:homepage=http://www.lunaran.com/copper",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61905)",
+  "link:homepage=http://www.lunaran.com/copper",
+  "provides='copper=1.11'",
   "release_date=2020-07-15",
+  "release_group=copper",
   "startmap=start",
   "title=Copper - Version 1.11",
   "type=mod",
+  "version=1.11",
   "zipbasedir=/"
  ],
  "urls": [

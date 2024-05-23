@@ -138,7 +138,9 @@
   "map_size=small",
   "mod=copper",
   "nonspecific_tag=coop",
+  "provides='toneodspmp3=2.2'",
   "release_date=2022-09-18",
+  "release_group=toneodspmp3",
   "startmap=eod_intro",
   "theme=base",
   "theme=brick",
@@ -152,6 +154,7 @@
   "title=Empire of Disorder v2.2",
   "type=episode",
   "type=map",
+  "version=2.2",
   "zipbasedir=id1/"
  ],
  "urls": [

@@ -91,6 +91,7 @@
   "author=Chris \"1600frogs\" Brady",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "exceeds_quake_limits=yes",
   "filename=frogscrack_v1p1.zip",
   "game=quake",

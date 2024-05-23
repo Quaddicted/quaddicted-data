@@ -814,14 +814,18 @@
  "tags": [
   "author=Lunaran",
   "commandline=-game copper",
+  "current_main_group_package=yes",
   "filename=copper_v1_30.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Copper homepage](http://lunaran.com/copper/download/)",
+  "provides='copper=1.30'",
   "release_date=2023-10-31",
+  "release_group=copper",
   "startmap=start",
   "title=Copper v1.30",
-  "type=mod"
+  "type=mod",
+  "version=1.30"
  ],
  "urls": [
   "https://x901.net/quaddictedfiles/copper_v1_30.zip"

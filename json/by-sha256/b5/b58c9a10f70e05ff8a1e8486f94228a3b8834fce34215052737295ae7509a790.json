@@ -712,13 +712,16 @@
   "filename=copper_v1_16.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "link:homepage=http://lunaran.com/copper/",
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61746)",
   "link=[List of changes](http://lunaran.com/copper/changes.html)",
+  "link:homepage=http://lunaran.com/copper/",
+  "provides='copper=1.16'",
   "release_date=2021-06-21",
+  "release_group=copper",
   "startmap=start",
   "title=Copper - Version 1.16",
   "type=mod",
+  "version=1.16",
   "zipbasedir=/"
  ],
  "urls": [

@@ -39,17 +39,21 @@
  "sha256": "e61b81f64a8f23289a241d734280841b8cc13f2bdfec4d4854cd8303808bb80a",
  "tags": [
   "author=James Bernard Roth",
+  "current_main_group_package=yes",
   "filename=1916_v2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "music=custom",
   "nonspecific_tag=ww1",
   "nonspecific_tag=zombies",
+  "provides='1916=2.0'",
   "release_date=2019-12-14",
+  "release_group=1916",
   "startmap=1916",
   "theme=realism",
   "title=1916",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/"
  ],
  "urls": [

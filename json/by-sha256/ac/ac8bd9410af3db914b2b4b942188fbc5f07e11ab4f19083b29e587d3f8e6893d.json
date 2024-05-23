@@ -250,6 +250,7 @@
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game coe",
+  "current_main_group_package=yes",
   "filename=coe.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -264,12 +265,16 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=insane",
   "nonspecific_tag=monsters",
+  "patch=no",
+  "provides='coe=1.0'",
   "release_date=2000-12-16",
+  "release_group=coe",
   "startmap=coestart",
   "theme=medieval",
   "title=Coven of Ebony",
   "type=episode",
   "type=mod",
+  "version=1.0",
   "zipbasedir=coe/"
  ],
  "urls": [

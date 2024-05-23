@@ -66,6 +66,7 @@
   "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sickbase.zip",
   "game=quake",
   "game_mode=singleplayer",

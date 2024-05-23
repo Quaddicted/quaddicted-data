@@ -27,6 +27,7 @@
   "bsp_format=bsp2",
   "commandline=-game rubicon2",
   "dependency=rubicon2",
+  "depends=349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
   "exceeds_quake_limits=yes",
   "filename=acidworship_cv.zip",
   "game=quake",

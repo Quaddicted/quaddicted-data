@@ -1945,9 +1945,9 @@
   "filename=ctsj2.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "link:homepage=https://www.slipseer.com/index.php?resources/coppertone-summer-jam-2.103/",
   "link=[Func_Msgboard thread](https://celephais.net/board/view_thread.php?id=62197)",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/coppertone-summer-jam-2.103/)",
+  "link:homepage=https://www.slipseer.com/index.php?resources/coppertone-summer-jam-2.103/",
   "map_size=large",
   "map_size=small",
   "mod=copper",
@@ -1956,7 +1956,9 @@
   "nonspecific_tag=makkon",
   "nonspecific_tag=unique",
   "nonspecific_tag=woods",
+  "provides='ctsj2=1.0'",
   "release_date=2022-08-09",
+  "release_group=ctsj2",
   "source=included",
   "startmap=start",
   "theme=base",
@@ -1972,6 +1974,7 @@
   "title=Coppertone Summer Jam 2 v1.0",
   "type=mapjam",
   "type=mod",
+  "version=1.0",
   "zipbasedir=ctsj2/"
  ],
  "urls": [

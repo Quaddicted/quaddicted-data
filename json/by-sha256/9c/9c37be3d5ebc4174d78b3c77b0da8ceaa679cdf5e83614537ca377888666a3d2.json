@@ -66,6 +66,7 @@
   "author=mfx",
   "commandline=-game quoth -hipnotic +r_novis 1 +r_wateralpha 0.3",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=mfxsp6.zip",
   "game=quake",
   "game_mode=singleplayer",

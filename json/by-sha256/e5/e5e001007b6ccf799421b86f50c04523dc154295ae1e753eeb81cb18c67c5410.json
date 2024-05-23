@@ -24,16 +24,19 @@
  "sha256": "e5e001007b6ccf799421b86f50c04523dc154295ae1e753eeb81cb18c67c5410",
  "tags": [
   "author=Digs",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=digs08.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "link:homepage=http://digspt.ru/quake",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61304)",
+  "link:homepage=http://digspt.ru/quake",
   "map_size=large",
   "nonspecific_tag=outside",
   "nonspecific_tag=teleporters",
+  "provides='digs07=2.0'",
   "release_date=2016-03-24",
+  "release_group=digs07",
   "theme=bricks",
   "theme=experimental",
   "theme=exploration",
@@ -42,6 +45,7 @@
   "theme=puzzles",
   "title=The Isolation",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

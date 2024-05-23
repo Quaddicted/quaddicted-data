@@ -71,6 +71,7 @@
   "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=starkmon.zip",
   "game=quake",

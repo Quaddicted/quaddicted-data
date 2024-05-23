@@ -46,6 +46,7 @@
   "author=Bloughsburgh",
   "commandline=-quoth -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=runeofblood.zip",
   "game=quake",
   "game_mode=singleplayer",

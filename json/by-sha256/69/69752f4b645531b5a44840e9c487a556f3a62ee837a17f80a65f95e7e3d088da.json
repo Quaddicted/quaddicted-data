@@ -61,6 +61,7 @@
   "author=Aesopolis",
   "commandline=-game alk1.1",
   "dependency=alkaline1.1",
+  "depends=('alkaline>=1.10')",
   "exceeds_quake_limits=yes",
   "filename=aesop_power1.1.zip",
   "game=quake",

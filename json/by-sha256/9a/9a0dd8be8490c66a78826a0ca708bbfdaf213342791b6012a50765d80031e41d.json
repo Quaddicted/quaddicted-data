@@ -34,6 +34,7 @@
  "sha256": "9a0dd8be8490c66a78826a0ca708bbfdaf213342791b6012a50765d80031e41d",
  "tags": [
   "author=George J. Fiffy II",
+  "current_main_group_package=yes",
   "filename=gl4fify4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -42,12 +43,15 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=chthon",
+  "provides='4fiffy4=2.0'",
   "release_date=1997-11-30",
+  "release_group=4fiffy4",
   "startmap=fiffy4",
   "theme=traps",
   "theme=wizard",
   "title=REoL TOUGH: Antichrist! (watervised)",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

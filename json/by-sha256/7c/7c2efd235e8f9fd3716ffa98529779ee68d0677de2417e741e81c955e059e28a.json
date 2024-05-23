@@ -722,11 +722,14 @@
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.lunaran.com/copper",
+  "provides='copper=1.17'",
   "release_date=2021-08-25",
+  "release_group=copper",
   "startmap=end",
   "startmap=start",
   "title=Copper - Version 1.17",
   "type=mod",
+  "version=1.17",
   "zipbasedir=/"
  ],
  "urls": [

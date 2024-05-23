@@ -176,6 +176,7 @@
   "author=HanDuo",
   "commandline=-game handuo_stepwell",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=handuo_stepwell.zip",
   "game=quake",

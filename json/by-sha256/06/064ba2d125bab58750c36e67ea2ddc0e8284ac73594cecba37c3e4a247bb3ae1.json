@@ -28,12 +28,15 @@
   "map_size=large",
   "nonspecific_tag=chthon",
   "nonspecific_tag=swimming",
+  "provides='runekeep=1.0'",
   "release_date=2002-03-19",
+  "release_group=runekeep",
   "startmap=rrsp1",
   "theme=lava",
   "theme=medieval",
   "title=Rune Keep",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

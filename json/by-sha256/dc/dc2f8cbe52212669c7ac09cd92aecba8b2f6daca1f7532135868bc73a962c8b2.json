@@ -31,12 +31,15 @@
   "nonspecific_tag=rtgnosis",
   "nonspecific_tag=textures",
   "nonspecific_tag=unreal",
+  "provides='gmsp3=1.0'",
   "release_date=2003-10-19",
+  "release_group=gmsp3",
   "startmap=gmsp3v2",
   "theme=castle",
   "theme=medieval",
   "title=Day of the Lords",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

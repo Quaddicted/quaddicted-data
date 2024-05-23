@@ -51,13 +51,16 @@
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61985)",
   "map_size=small",
   "music=custom",
+  "provides='wlb=1.0'",
   "release_date=2020-12-01",
+  "release_group=wlb",
   "source=included",
   "startmap=wlb",
   "theme=metal",
   "theme=runic",
   "title=What Lies Behind v1.0",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

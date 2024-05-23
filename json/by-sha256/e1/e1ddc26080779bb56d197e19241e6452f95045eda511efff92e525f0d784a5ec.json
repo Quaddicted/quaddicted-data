@@ -28,9 +28,12 @@
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61580)",
+  "provides='intrusion=1.0'",
   "release_date=2018-06-28",
+  "release_group=intrusion",
   "title=Intrusion",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

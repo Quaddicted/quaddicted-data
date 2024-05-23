@@ -328,17 +328,21 @@
  "tags": [
   "author=Graham Davis (OrbItaL)",
   "commandline=-game sop",
+  "current_main_group_package=yes",
   "filename=sop123.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990804.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "nonspecific_tag=monsters",
+  "provides='sop_v2=2.0'",
   "release_date=1999-08-01",
+  "release_group=sop_v2",
   "startmap=start",
   "title=The Source of Power",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "version=2.0"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sop123.zip",

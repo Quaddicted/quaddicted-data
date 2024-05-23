@@ -24,11 +24,15 @@
   "game=quake",
   "game_mode=singleplayer",
   "nonspecific_tag=patch",
+  "patch=yes",
+  "provides=''zer=1.1'",
   "release_date=1997-10-23",
+  "release_group=zer",
   "startmap=start",
-  "theme=zerst\u00f6rer",
-  "title=Zerst\u00f6rer v1.1",
+  "theme=zerst\u005Cu00f6rer",
+  "title=Zerst\u005Cu00f6rer v1.1",
   "type=mod",
+  "version=1.1",
   "zipbasedir=zer/"
  ],
  "urls": [

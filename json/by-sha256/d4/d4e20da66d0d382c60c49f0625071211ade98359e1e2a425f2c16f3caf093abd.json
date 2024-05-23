@@ -21,6 +21,7 @@
   "author=Biff Debris",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=base_debris.zip",
   "game=quake",
   "game_mode=singleplayer",

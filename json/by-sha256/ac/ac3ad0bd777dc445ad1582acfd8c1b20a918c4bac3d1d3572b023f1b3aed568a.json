@@ -26,6 +26,7 @@
   "author=Arttis",
   "commandline=-game copper",
   "dependency=copper_v1_19",
+  "depends=('copper>=1.19')",
   "filename=arttis01_01.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,7 +34,9 @@
   "mod=copper",
   "nonspecific_tag=debut",
   "nonspecific_tag=makkon",
+  "provides='arttis01=1.0'",
   "release_date=2022-09-29",
+  "release_group=arttis01",
   "startmap=arttis01",
   "theme=castle",
   "theme=knave",
@@ -41,6 +44,7 @@
   "theme=sewer",
   "title=Feindlich Sewers v1.0",
   "type=map",
+  "version=1.0",
   "zipbasedir=copper/"
  ],
  "urls": [

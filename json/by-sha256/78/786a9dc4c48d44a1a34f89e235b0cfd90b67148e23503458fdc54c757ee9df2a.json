@@ -490,6 +490,7 @@
  "tags": [
   "author=zbidou72",
   "commandline=-game teuthis",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=teuthisv3.zip",
   "game=quake",
@@ -499,7 +500,9 @@
   "nonspecific_tag=extras_r5",
   "nonspecific_tag=makkon",
   "nonspecific_tag=submarine",
+  "provides='teuthis=3.0'",
   "release_date=2023-01-11",
+  "release_group=teuthis",
   "source=included",
   "startmap=teuthis",
   "theme=base",
@@ -508,7 +511,8 @@
   "theme=underwater",
   "theme=water",
   "title=Temple of Teuthis v3",
-  "type=mod"
+  "type=mod",
+  "version=3.0"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/teuthisv3.zip",

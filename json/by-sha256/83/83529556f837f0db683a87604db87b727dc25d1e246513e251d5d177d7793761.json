@@ -392,6 +392,7 @@
   "bsp_format=bsp2",
   "commandline=-game copper",
   "dependency=copper_v1_15",
+  "depends=('copper>=1.15')",
   "exceeds_quake_limits=yes",
   "filename=sm210_overgrown.zip",
   "game=quake",

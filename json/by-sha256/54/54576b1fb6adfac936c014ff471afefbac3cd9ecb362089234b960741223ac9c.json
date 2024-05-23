@@ -53,6 +53,7 @@
   "author=doomer",
   "author=skacky",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sm173_pack.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -833,6 +833,7 @@
   "bsp_format=bsp2",
   "commandline=-quoth -game bluemonday",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=bluemonday_v2.zip",
   "game=quake",

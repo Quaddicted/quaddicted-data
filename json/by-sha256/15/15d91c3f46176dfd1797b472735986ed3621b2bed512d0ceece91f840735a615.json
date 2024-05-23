@@ -26,6 +26,7 @@
   "author=Ankh",
   "commandline=-quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=e1m5quoth.zip",
   "game=quake",
   "game_mode=singleplayer",

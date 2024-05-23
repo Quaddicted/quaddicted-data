@@ -67,6 +67,7 @@
   "bsp_format=bsp2",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "exceeds_quake_limits=yes",
   "filename=ion03.zip",
   "game=quake",

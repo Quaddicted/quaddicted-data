@@ -61,6 +61,7 @@
   "author=Shambler",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=ad_dm2rmx_sham.zip",
   "game=quake",

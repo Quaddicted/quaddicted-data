@@ -62,6 +62,7 @@
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=ad_shamsp5.zip",
   "game=quake",

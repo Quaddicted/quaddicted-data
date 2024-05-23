@@ -91,6 +91,7 @@
  "tags": [
   "author=Steve Rescoe",
   "commandline=-game shadowgl",
+  "current_main_group_package=yes",
   "filename=shadowgl.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -103,13 +104,16 @@
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=skins",
+  "provides='shadow=2.0'",
   "release_date=1997-02-16",
+  "release_group=shadow",
   "startmap=shadow",
   "theme=pyramid",
   "theme=town",
   "theme=village",
   "title=Shadow over Innsmouth (GL)",
   "type=mod",
+  "version=2.0",
   "zipbasedir=shadowgl/"
  ],
  "urls": [

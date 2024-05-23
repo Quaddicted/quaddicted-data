@@ -31,6 +31,7 @@
   "author=Spipper",
   "commandline=-quoth -game quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=movplan.zip",
   "game=quake",
@@ -38,11 +39,14 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61537)",
   "map_size=medium",
   "mod=quoth",
+  "provides='movplan=1.0'",
   "release_date=2017-12-26",
+  "release_group=movplan",
   "theme=knave",
   "theme=quoth",
   "title=Shifting Planes Of Existence",
   "type=map",
+  "version=1.0",
   "zipbasedir=/"
  ],
  "urls": [

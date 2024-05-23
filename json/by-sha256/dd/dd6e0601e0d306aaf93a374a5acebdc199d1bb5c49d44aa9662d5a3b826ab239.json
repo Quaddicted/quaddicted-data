@@ -3573,8 +3573,8 @@
   "filename=ter_shibboleth_part_2_rev2.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "link:homepage=http://qrf.servequake.com/orl/",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61822)",
+  "link:homepage=http://qrf.servequake.com/orl/",
   "map_size=huge",
   "nonspecific_tag=coliseum",
   "nonspecific_tag=drake",
@@ -3583,7 +3583,9 @@
   "nonspecific_tag=mountains",
   "nonspecific_tag=paris",
   "nonspecific_tag=rome",
+  "provides='ter_shibboleth=2.0'",
   "release_date=2020-01-15",
+  "release_group=ter_shibboleth",
   "startmap=shib6",
   "startmap=shib7",
   "startmap=shib8",
@@ -3593,6 +3595,7 @@
   "title=Ter Shibboleth Part 2",
   "type=episode",
   "type=mod",
+  "version=2.0",
   "zipbasedir=shib/"
  ],
  "urls": [

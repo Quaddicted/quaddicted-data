@@ -31,6 +31,7 @@
   "author=whirledtsar",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "filename=whirlq01.zip",
   "game=quake",
   "game_mode=singleplayer",

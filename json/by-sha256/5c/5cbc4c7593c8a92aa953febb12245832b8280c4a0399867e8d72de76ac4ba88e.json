@@ -646,6 +646,7 @@
   "author=skacky",
   "commandline=-quoth -game quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=quck_demo.zip",
   "game=quake",

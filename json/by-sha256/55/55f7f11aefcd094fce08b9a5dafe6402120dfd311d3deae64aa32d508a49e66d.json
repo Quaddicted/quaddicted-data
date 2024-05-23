@@ -1004,6 +1004,7 @@
   "author=ww",
   "commandline=-quoth -game 100b4",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=100b4.zip",
   "game=quake",

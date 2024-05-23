@@ -1073,6 +1073,7 @@
   "author=vIE888",
   "commandline=-nehahra -game rotcs +gamedir rotcs",
   "dependency=nehahra",
+  "depends=5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
   "filename=rotcs.zip",
   "game=quake",
   "game_mode=singleplayer",

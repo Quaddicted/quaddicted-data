@@ -36,6 +36,7 @@
   "author=4LT",
   "commandline=-game copper",
   "dependency=copper_v1_15",
+  "depends=('copper>=1.15')",
   "filename=4ltsp01.zip",
   "game=quake",
   "game_mode=singleplayer",

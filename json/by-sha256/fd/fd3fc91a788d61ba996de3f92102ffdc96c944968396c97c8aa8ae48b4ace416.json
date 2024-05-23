@@ -32,9 +32,12 @@
   "filename=1916.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "provides='1916=1.0'",
   "release_date=2019-12-14",
+  "release_group=1916",
   "title=1916",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

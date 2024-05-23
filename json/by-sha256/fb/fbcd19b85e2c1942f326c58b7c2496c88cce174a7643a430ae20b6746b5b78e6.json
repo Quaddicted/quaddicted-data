@@ -767,6 +767,7 @@
   "author=ijed",
   "commandline=-heapsize 64000 -quoth -game warp +max_edicts 2048",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=warpspasm.zip",
   "game=quake",
   "game_mode=singleplayer",

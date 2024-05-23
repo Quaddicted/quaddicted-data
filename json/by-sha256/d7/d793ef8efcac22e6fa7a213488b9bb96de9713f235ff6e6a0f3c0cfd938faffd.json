@@ -37,12 +37,15 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levels0-9.htm#fortress)",
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=medium",
+  "provides='4fiffy2=1.0'",
   "release_date=1997-02-24",
+  "release_group=4fiffy2",
   "startmap=fiffy2",
   "theme=metal",
   "theme=wizard",
   "title=REoL TOUGH: Fortress!",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

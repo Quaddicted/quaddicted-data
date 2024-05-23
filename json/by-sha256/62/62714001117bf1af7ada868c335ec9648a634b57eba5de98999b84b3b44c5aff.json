@@ -98,6 +98,7 @@
   "author=RickyT23",
   "commandline=-game alk1.1",
   "dependency=alkaline1.1",
+  "depends=('alkaline>=1.10')",
   "filename=rt23alk1_1.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -2407,6 +2407,7 @@
  "tags": [
   "author=Justin Fleck",
   "commandline=-game rd1m4rmx",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=rd1m4rmx.zip",
   "game=quake",
@@ -2418,6 +2419,7 @@
   "nonspecific_tag=alkaline",
   "nonspecific_tag=cr8",
   "release_date=2022-12-27",
+  "release_group=0",
   "source=included",
   "startmap=rd1m4rmx",
   "theme=base",

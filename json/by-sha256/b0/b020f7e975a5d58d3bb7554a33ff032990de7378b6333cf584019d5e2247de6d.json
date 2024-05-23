@@ -21,6 +21,7 @@
   "author=negke",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=768_negke.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -27,12 +27,15 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=coop",
+  "provides='dxm=1.0'",
   "release_date=1997-06-20",
+  "release_group=dxm",
   "startmap=dxm",
   "theme=base",
   "theme=idbase",
   "title=Dextromethorphan",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

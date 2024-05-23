@@ -27,11 +27,14 @@
   "map_size=small",
   "nonspecific_tag=dark",
   "nonspecific_tag=old version",
+  "provides='frcastle=1.0'",
   "release_date=1996-10-24",
+  "release_group=frcastle",
   "theme=castle",
   "theme=wizard",
   "title=Fear Castle",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

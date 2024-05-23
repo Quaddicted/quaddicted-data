@@ -1178,6 +1178,7 @@
   "bsp_format=bsp2",
   "commandline=-quoth -game jam9",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=func_mapjam9_2.zip",
   "game=quake",

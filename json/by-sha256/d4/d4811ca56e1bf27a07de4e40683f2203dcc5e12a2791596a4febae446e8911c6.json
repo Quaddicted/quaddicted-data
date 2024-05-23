@@ -41,6 +41,7 @@
   "author=Doug Wheeler aka Bullseye8841",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=ad_dwoffice.zip",
   "game=quake",

@@ -71,6 +71,7 @@
   "author=ionous",
   "commandline=-quoth -game quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "filename=ion02.zip",
   "game=quake",
   "game_mode=singleplayer",

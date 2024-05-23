@@ -96,6 +96,7 @@
   "author=Mittens for Kittens",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=ad_mfk_dreamdem (v1.1).zip",
   "game=quake",
   "game_mode=singleplayer",

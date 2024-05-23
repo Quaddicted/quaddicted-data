@@ -681,6 +681,7 @@
   "author=negke",
   "commandline=-heapsize 128000 -game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=func_xmasjam2017.zip",
   "game=quake",
@@ -716,7 +717,7 @@
   "theme=realism",
   "theme=speedbase",
   "theme=temple",
-  "title=Xmas Jam 2017 - 1024\u00b3 theme",
+  "title=Xmas Jam 2017 - 1024\u005Cu00b3 theme",
   "type=map",
   "zipbasedir=ad/"
  ],

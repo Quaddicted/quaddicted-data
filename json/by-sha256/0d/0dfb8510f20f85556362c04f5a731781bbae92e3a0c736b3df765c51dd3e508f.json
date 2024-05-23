@@ -293,6 +293,7 @@
   "author=scar3crow",
   "commandline=-game dm4jam",
   "dependency=dm4jam",
+  "depends=ed67bde135d884b0c161f4e78dc1c68f1796a6b047b535a20f568a9698904ec3",
   "exceeds_quake_limits=yes",
   "filename=dm4jam_dlc_patch.zip",
   "game=quake",

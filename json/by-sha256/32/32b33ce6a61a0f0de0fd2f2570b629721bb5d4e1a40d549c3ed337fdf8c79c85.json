@@ -32,12 +32,15 @@
   "map_size=small",
   "nonspecific_tag=old version",
   "nonspecific_tag=start",
+  "provides='houstrps=1.0'",
   "release_date=1996-10-22",
+  "release_group=houstrps",
   "startmap=enterhot",
   "theme=traps",
   "theme=wizard",
   "title=House of Traps",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

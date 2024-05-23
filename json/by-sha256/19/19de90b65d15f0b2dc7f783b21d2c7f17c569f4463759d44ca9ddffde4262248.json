@@ -23,10 +23,13 @@
   "game=quake",
   "game_mode=singleplayer",
   "map_size=large",
+  "provides='odyssey1=1.0'",
   "release_date=1998-04-01",
+  "release_group=odyssey1",
   "theme=wizard",
   "title=Odyssey One",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

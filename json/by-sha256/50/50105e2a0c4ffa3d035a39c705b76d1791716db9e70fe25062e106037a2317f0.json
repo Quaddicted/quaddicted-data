@@ -26,6 +26,7 @@
   "author=Lane Powell",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=lpqsp1.zip",
   "game=quake",

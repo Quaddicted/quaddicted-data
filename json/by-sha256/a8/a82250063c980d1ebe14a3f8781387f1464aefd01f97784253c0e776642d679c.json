@@ -36,6 +36,7 @@
   "author=Henrik Oresten (Giftmacher)",
   "commandline=-heapsize 128000 -zone 4096 -game ad",
   "dependency=ad_v1_50final",
+  "depends=('ad>=1.50')",
   "exceeds_quake_limits=yes",
   "filename=ad_fenrir.zip",
   "game=quake",

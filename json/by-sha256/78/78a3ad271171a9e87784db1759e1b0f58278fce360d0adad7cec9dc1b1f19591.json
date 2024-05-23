@@ -200,11 +200,15 @@
   "nonspecific_tag=chthon",
   "nonspecific_tag=decon",
   "nonspecific_tag=dinosaurs",
+  "patch=no",
   "playstyle=speedrunning",
+  "provides='rdefull=1.0'",
   "release_date=1999-08-13",
+  "release_group=rdefull",
   "startmap=rdstart",
   "title=Runner's Delight",
   "type=mod",
+  "version=1.0",
   "zipbasedir=rde/"
  ],
  "urls": [

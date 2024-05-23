@@ -26,6 +26,7 @@
   "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game drake",
   "dependency=drake",
+  "depends=('drake>=1.0')",
   "filename=sludgefactory.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -180,6 +180,7 @@
   "author=khreathor",
   "commandline=-heapsize 64000 -game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=mapjam7.zip",
   "game=quake",
