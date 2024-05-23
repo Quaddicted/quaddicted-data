@@ -1,0 +1,45 @@
+{
+ "bytes": 10514981,
+ "files": {
+  "ad_roj1.bsp": {
+   "bytes": 20965152,
+   "sha256": "c913d92d34d60307e517e108cfde1f57bb7d31a842587a7ce69e266d581cb719",
+   "timestamp": "2024-04-05T03:05:50.000Z"
+  },
+  "ad_roj1.lit": {
+   "bytes": 4280186,
+   "sha256": "99d53f552c7f1192294fdbae994f80dd3f9fba1e507aa713264de3f4e8ae5a76",
+   "timestamp": "2024-04-05T03:05:50.000Z"
+  },
+  "ad_roj1.txt": {
+   "bytes": 1744,
+   "sha256": "304b7870cc8bdbf3d289f602d854c564401fe8f24e22a3a7c8920a67a7211344",
+   "timestamp": "2024-05-16T22:24:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "a75f04317459e69961acfcded5e43c6fdc5d44d7775730f741daf71ebfbb7042",
+ "tags": [
+  "author=RecycledOJ",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=ad_roj1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/grit-under-the-eyelid.344/)",
+  "mod=ad",
+  "release_date=2024-03-31",
+  "startmap=ad_roj1",
+  "title=Grit Under the Eyelid",
+  "type=map",
+  "zipbasedir=ad/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/ad_roj1.zip"
+ ]
+}

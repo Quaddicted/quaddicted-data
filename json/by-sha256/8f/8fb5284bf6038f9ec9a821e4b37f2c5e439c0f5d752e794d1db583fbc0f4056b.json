@@ -1,0 +1,155 @@
+{
+ "bytes": 50650118,
+ "files": {
+  "maps/Hourences.txt": {
+   "bytes": 1078,
+   "sha256": "22d99d2f91a6765fcb6bad19d1e542049beabbeaa4e11c4f1f1c0a2c76aac4b9",
+   "timestamp": "2024-02-21T21:47:22.000Z"
+  },
+  "maps/Hourences.wad": {
+   "bytes": 298236,
+   "sha256": "990c829a49123cd0acb55e05925c9649c15d99b3532d51af1941629373ce9fef",
+   "timestamp": "2024-03-14T19:53:08.000Z"
+  },
+  "maps/r_yellow.bsp": {
+   "bytes": 106771260,
+   "sha256": "fbfcc9292dc6a6ecb71383249f795de6683cfee92a428d57a70881ddc1796be2",
+   "timestamp": "2024-03-23T13:51:08.000Z"
+  },
+  "maps/r_yellow.lit": {
+   "bytes": 13942268,
+   "sha256": "9cfa83104245bfb772471632c267a928255df0a76e8be58c27d3dc40d35069c6",
+   "timestamp": "2024-03-23T13:51:08.000Z"
+  },
+  "maps/r_yellow.map": {
+   "bytes": 92976384,
+   "sha256": "6c1ba504eb8fc6d31714b602780c9c167f38307bdee2e460c08350cebf48f184",
+   "timestamp": "2024-03-23T13:40:22.000Z"
+  },
+  "maps/r_yellow.txt": {
+   "bytes": 3627,
+   "sha256": "f6e4b3d2ca119aafb8fe7e7b5ba9812c47d4dac62135cee84b546b0530818d93",
+   "timestamp": "2024-03-23T13:54:04.000Z"
+  },
+  "progs/replicon/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-03-19T17:59:24.000Z"
+  },
+  "progs/replicon/candleb.mdl": {
+   "bytes": 35908,
+   "sha256": "61b882f3d9d8306aa12117290370d86128d2e9413940fd40c8c1fe63f8bef8d1",
+   "timestamp": "1997-08-09T15:13:28.000Z"
+  },
+  "progs/replicon/candler.mdl": {
+   "bytes": 21476,
+   "sha256": "cab92c51cc2d2c553075d38247bfda0fd514ffeb94579c44c47bc1f0e17209ba",
+   "timestamp": "2021-07-02T09:47:04.000Z"
+  },
+  "progs/replicon/chimp.mdl": {
+   "bytes": 500260,
+   "sha256": "589379c9c04b2e35d843e923330564e1e00cad36d5babcc7d20452c2f64e2cb6",
+   "timestamp": "2022-10-27T18:19:50.000Z"
+  },
+  "progs/replicon/fishh2.mdl": {
+   "bytes": 40736,
+   "sha256": "38b87aa83ecd575b851ef95882bd83aa82270893fde9f37b3b8eb80f4bbecf33",
+   "timestamp": "2022-10-27T17:52:58.000Z"
+  },
+  "progs/replicon/h2p_skeleton.mdl": {
+   "bytes": 151508,
+   "sha256": "83cc20f5c7257e504d9c2f4591b72a022883099494ef4b3f4fc75c01c8e4b60c",
+   "timestamp": "2023-11-05T11:12:54.000Z"
+  },
+  "progs/replicon/ht2fish.mdl": {
+   "bytes": 249672,
+   "sha256": "9e49ace79d7876262efe4f7ecf676b5e88ecbec9162eb0e55e09f7c3fcfd9e89",
+   "timestamp": "2024-02-21T15:12:18.000Z"
+  },
+  "progs/replicon/labfish.mdl": {
+   "bytes": 33284,
+   "sha256": "45f273df12346a4a502e51af35904aa8e5aa8656d0d30d8c94e67c626626a119",
+   "timestamp": "2024-02-06T21:10:10.000Z"
+  },
+  "progs/replicon/labfish3.mdl": {
+   "bytes": 102180,
+   "sha256": "c012a0dcc1fa1018fbdbac5bb55582a9ea88d70264aa7190b62b2215c1be1457",
+   "timestamp": "2024-02-06T21:14:16.000Z"
+  },
+  "progs/replicon/vtube.mdl": {
+   "bytes": 18536,
+   "sha256": "c364b31667192bfb35291d1e34459e8f489d0b4f3954acda521a19d8e07f743d",
+   "timestamp": "2024-02-08T18:41:48.000Z"
+  },
+  "progs/replicon/zombie2.mdl": {
+   "bytes": 59012,
+   "sha256": "d6c2612c04acefb06e2f7e628c1186800dd90b972ad35f1ecec097645ff28b76",
+   "timestamp": "2021-10-07T17:43:48.000Z"
+  },
+  "sound/replicon/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-03-19T10:45:54.000Z"
+  },
+  "sound/replicon/back1.wav": {
+   "bytes": 29044,
+   "sha256": "4caace7efee0535a545e462902d3aab1989f9ddfc9d5b6bbdce344a113585fc5",
+   "timestamp": "2024-02-29T19:31:46.000Z"
+  },
+  "sound/replicon/back3.wav": {
+   "bytes": 42542,
+   "sha256": "bc86f4d0c24ff1caa0a996105dc970b054a844e0694f04284e2a59d38b033948",
+   "timestamp": "2024-03-12T19:47:26.000Z"
+  },
+  "sound/replicon/c1a0_sci_crit2a.wav": {
+   "bytes": 28364,
+   "sha256": "f972684c74eeb51872873cc2b7053448c6cdd716b8c3535929fdbcc508d62ef5",
+   "timestamp": "2024-03-19T10:45:54.000Z"
+  },
+  "sound/replicon/lowboom_nl.wav": {
+   "bytes": 666574,
+   "sha256": "94adb53cba57c5d507c6c37be21d9261db02e288ab222ec367f5f31ba74d1ae6",
+   "timestamp": "2024-03-03T10:25:08.000Z"
+  },
+  "sound/replicon/pulse8.wav": {
+   "bytes": 53448,
+   "sha256": "035e5a9bfc8731fa40f829e7407b8f9be902a7d8e2292c252edc57d90afe1986",
+   "timestamp": "2024-03-12T20:29:58.000Z"
+  },
+  "sound/replicon/swing_2l.wav": {
+   "bytes": 34888,
+   "sha256": "407f9cbdb6efd779e7571293a5311bbba8e4bddb2137b900666c6a063fbe8fc1",
+   "timestamp": "2024-02-29T14:07:12.000Z"
+  },
+  "sound/replicon/techy1.wav": {
+   "bytes": 65418,
+   "sha256": "f9445528fa3a4135b77e9c3ea21f9911fe582d09aa605cfaebc7ff53b3ea6278",
+   "timestamp": "2024-02-29T12:17:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "8fb5284bf6038f9ec9a821e4b37f2c5e439c0f5d752e794d1db583fbc0f4056b",
+ "tags": [
+  "author=Calluna Vulgaris",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=replicon.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/replicon.338/)",
+  "mod=ad",
+  "release_date=2024-03-22",
+  "startmap=r_yellow",
+  "title=Replicon",
+  "type=map",
+  "zipbasedir=ad/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/replicon.zip"
+ ]
+}

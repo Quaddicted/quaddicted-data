@@ -1,0 +1,49 @@
+{
+ "bytes": 1525258,
+ "files": {
+  "README.txt": {
+   "bytes": 628,
+   "sha256": "8bb1c7219496f0b2aa8f39c50edb7d77a6f2197aa43dc55edfaa57314de74720",
+   "timestamp": "2024-05-08T13:37:16.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-05-08T13:29:04.000Z"
+  },
+  "maps/lns_spoot.bsp": {
+   "bytes": 2896764,
+   "sha256": "17021a5d30269b3f0f888bc8e4c77d4cfb3a55782f5fa3168adfb348036932b7",
+   "timestamp": "2024-05-08T13:25:32.000Z"
+  },
+  "maps/lns_spoot.lit": {
+   "bytes": 1807508,
+   "sha256": "f08dade004204a1833f821b3d922baf251512c246ee2b4da806cf08e4f68dd9d",
+   "timestamp": "2024-05-08T13:03:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/snack3/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4558b104f87306491e9233ba01ae25caea9100e624956bd7778c3333bd163862",
+ "tags": [
+  "author=spootnik",
+  "commandline=-game snack3",
+  "dependency=snack3",
+  "depends=92b11d3749b3b7d0ada1cbf779417d56ccfbfaf24347c91a416c5da91f82d687",
+  "filename=latenightsnack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/late-night-snack-another-map-for-snack-pack-3.355/)",
+  "mod=snack3",
+  "release_date=2024-05-08",
+  "startmap=lns_spoot",
+  "title=Late Night Snack",
+  "type=map",
+  "zipbasedir=snack3/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/latenightsnack.zip"
+ ]
+}

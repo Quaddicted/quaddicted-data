@@ -1,0 +1,512 @@
+{
+ "bytes": 30448488,
+ "files": {
+  "quotes/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-05-19T22:04:32.000Z"
+  },
+  "quotes/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-04-08T20:48:56.000Z"
+  },
+  "quotes/maps/20230916.bsp": {
+   "bytes": 3417384,
+   "sha256": "fd0118e95abb4a713326b7cf186007566ffb9798a73a6aacefddb463c8417c60",
+   "timestamp": "2024-03-29T00:55:50.000Z"
+  },
+  "quotes/maps/20230916.lit": {
+   "bytes": 1166096,
+   "sha256": "e5fe30c42b12be933d795ca6f7c24cd25e062aad1f6b560f0654a63261e0eca7",
+   "timestamp": "2024-03-29T00:55:50.000Z"
+  },
+  "quotes/maps/20231101paper.bsp": {
+   "bytes": 4078532,
+   "sha256": "91485bb7dc63859b1c9351e95cb9071e48535043440155027de876db4e9fe208",
+   "timestamp": "2024-04-08T20:41:00.000Z"
+  },
+  "quotes/maps/bitsnpieces.lit": {
+   "bytes": 660482,
+   "sha256": "5145d4eebb7356fa5905ace17a65a8923cc3db1a2b08bdba609087a1eedfbaee",
+   "timestamp": "2024-03-15T23:13:52.000Z"
+  },
+  "quotes/maps/chess.bsp": {
+   "bytes": 663444,
+   "sha256": "824a24b27c09079233568fbb03f30c1a8b59af0b91c266c50f20fabca8ca59fb",
+   "timestamp": "2024-03-17T00:43:40.000Z"
+  },
+  "quotes/maps/chess.lit": {
+   "bytes": 158993,
+   "sha256": "09cd38d36187f602de25158b62db8b72bbb04cfc7dc2bb5e3e6515b24a11119c",
+   "timestamp": "2024-03-17T00:43:40.000Z"
+  },
+  "quotes/maps/floatin.bsp": {
+   "bytes": 6918068,
+   "sha256": "d218d0153d08c3e687d7cf58a6a0b7e8aa5a25e6ba32cd067158eaa567ed597b",
+   "timestamp": "2024-04-02T22:34:54.000Z"
+  },
+  "quotes/maps/floatin.lit": {
+   "bytes": 1612460,
+   "sha256": "68ef1f9fa426209e769eb26a1e2d592b681f610ea33617fe26fbc1b05841a116",
+   "timestamp": "2024-04-02T22:34:54.000Z"
+  },
+  "quotes/maps/knighttime.bsp": {
+   "bytes": 5934860,
+   "sha256": "779a80288762c1106e9e931026af53c5ff4d0f6f59f55c40931ef08290d0534a",
+   "timestamp": "2024-04-14T23:17:20.000Z"
+  },
+  "quotes/maps/knighttime.lit": {
+   "bytes": 1612748,
+   "sha256": "a9ea09381da96e33bf12ec31ce46b193ee8378ebd84295879614e557ba088853",
+   "timestamp": "2024-04-14T23:17:20.000Z"
+  },
+  "quotes/maps/lavaroof.bsp": {
+   "bytes": 4504084,
+   "sha256": "dde57cea3dfcce5a7136bc3da97f91c3c47babd8030a073641ff78b4a89f68fa",
+   "timestamp": "2024-04-03T23:49:18.000Z"
+  },
+  "quotes/maps/lavaroof.lit": {
+   "bytes": 1383320,
+   "sha256": "382d31d063fc7e6ee6ed7c3f669a2fdca9f72de2a57fe728042187511a8e1a4d",
+   "timestamp": "2024-04-03T23:49:18.000Z"
+  },
+  "quotes/maps/liltest.bsp": {
+   "bytes": 266920,
+   "sha256": "afc182fd49544449d7d9a97fd24516a8f17943e3e49a2e4f4e2ca8c301378a0b",
+   "timestamp": "2024-03-09T13:14:42.000Z"
+  },
+  "quotes/maps/mausol.bsp": {
+   "bytes": 9676772,
+   "sha256": "001199d7946781af3f7848ae140ce0f375df74cdb9620810d7e6fb95093b53b7",
+   "timestamp": "2024-04-14T14:23:24.000Z"
+  },
+  "quotes/maps/mausol.lit": {
+   "bytes": 2826932,
+   "sha256": "a76a190c4690298851deebb2fe4ff4369897f9a4c427629d17a3f959d6bc0468",
+   "timestamp": "2024-04-14T14:23:24.000Z"
+  },
+  "quotes/maps/ogresquid.bsp": {
+   "bytes": 3647796,
+   "sha256": "ff0b5270fd4ca0883dcd843add1141d3b3604fd66d4a797f37aa938591dd1f1b",
+   "timestamp": "2024-04-04T21:55:32.000Z"
+  },
+  "quotes/maps/ogresquid.lit": {
+   "bytes": 785384,
+   "sha256": "b17cd92548570d7e74e028601485e1f44d78a1565c3cf494a32dfd7df20facab",
+   "timestamp": "2024-04-04T21:55:32.000Z"
+  },
+  "quotes/maps/pit.bsp": {
+   "bytes": 5015752,
+   "sha256": "b665de051f1cd34ebf496fbfcaee8a347ae1f62e34f99cca6c7e5cd9d896bbbf",
+   "timestamp": "2024-03-17T00:19:26.000Z"
+  },
+  "quotes/maps/pit.lit": {
+   "bytes": 1449812,
+   "sha256": "d5903e9729f3d427d3d687645942f7c9bbf8bbd02bf57d7629f2d01f6223941e",
+   "timestamp": "2024-03-17T00:19:26.000Z"
+  },
+  "quotes/maps/proper2.bsp": {
+   "bytes": 4332792,
+   "sha256": "9b3da6bb634fb489c64087f9a38d7633e0efa04eb7eeb6e5891a14692f961edb",
+   "timestamp": "2024-03-17T00:07:20.000Z"
+  },
+  "quotes/maps/q27.bsp": {
+   "bytes": 1261252,
+   "sha256": "daa2054cac40c29078ebf6612e767e1940ec0f3c14d7eb12413f3a31923fd73e",
+   "timestamp": "2024-04-13T15:55:26.000Z"
+  },
+  "quotes/maps/q27.lit": {
+   "bytes": 394004,
+   "sha256": "69f08c7939c96c3ea2b9745c659adcbcd7b033782ea830cf6ca9b7ecd298c63d",
+   "timestamp": "2024-04-13T15:55:26.000Z"
+  },
+  "quotes/maps/quotes.txt": {
+   "bytes": 4276,
+   "sha256": "1a0a82799278fe798a6eed8782a5ae0a9160f505c80394230297b1f491f9297c",
+   "timestamp": "2024-04-13T14:59:20.000Z"
+  },
+  "quotes/maps/sm223_66ppt99.bsp": {
+   "bytes": 1972684,
+   "sha256": "cea95d11463a8f86e259680874fd07db695c4d1bfe7bff03dd99d494cf4685d9",
+   "timestamp": "2024-03-16T23:43:24.000Z"
+  },
+  "quotes/maps/sm223_66ppt99.lit": {
+   "bytes": 695375,
+   "sha256": "698e697f8371d65431020e89c4a986498ee781f5f65e1285d14950654d903604",
+   "timestamp": "2024-03-16T23:43:24.000Z"
+  },
+  "quotes/maps/sm228_66ppt99.bsp": {
+   "bytes": 6085760,
+   "sha256": "284f9534c81c1674887443ea92298778a47df45b593af69bf2b0ae2089e9a43c",
+   "timestamp": "2024-04-04T21:17:02.000Z"
+  },
+  "quotes/maps/sm228_66ppt99.lit": {
+   "bytes": 3368756,
+   "sha256": "ac9cd358ca5b76e55433628c4d31e62434d5885782edcb5a5af779c9bb069ecf",
+   "timestamp": "2024-04-04T21:17:02.000Z"
+  },
+  "quotes/maps/squid01.bsp": {
+   "bytes": 1480348,
+   "sha256": "c65e93ed16d2d5db22bb44333e99cb9644ed8406c8cc093ddf0ec6cdbeddc2b5",
+   "timestamp": "2024-04-07T22:00:58.000Z"
+  },
+  "quotes/maps/squid01.lit": {
+   "bytes": 403748,
+   "sha256": "764bcad1065c3146f5e47e18c7b51cd2e1920171ab0f4e3f15ee9b4472b14294",
+   "timestamp": "2024-04-07T22:00:58.000Z"
+  },
+  "quotes/maps/start.bsp": {
+   "bytes": 4036648,
+   "sha256": "9a8f9eee99174e4870518fb3ae408b215be2985abc804645162556b8391655b0",
+   "timestamp": "2024-04-08T20:07:56.000Z"
+  },
+  "quotes/maps/start.lit": {
+   "bytes": 805772,
+   "sha256": "93383e2ee8ba3d042722256c78368ed403df19ee9b24ee1176c432dca81ef295",
+   "timestamp": "2024-04-08T20:07:56.000Z"
+  },
+  "quotes/maps/trials.bsp": {
+   "bytes": 4188836,
+   "sha256": "2ffe8b0b6d35cb863af91f1da475c1c981c61b38d04af59588025dfaecc3ec9f",
+   "timestamp": "2024-03-16T23:01:14.000Z"
+  },
+  "quotes/maps/trials.lit": {
+   "bytes": 1353251,
+   "sha256": "83a454f8c2f2cbaab8fac9a59f0856327ad724319c7c77ef7b85d2a0d56f6e7c",
+   "timestamp": "2024-03-16T23:01:14.000Z"
+  },
+  "quotes/maps/violenza.bsp": {
+   "bytes": 3231056,
+   "sha256": "74ec2a85889158736e9442b00df06cbf3c81009e9e578edf82e1d9d868249ee8",
+   "timestamp": "2024-04-13T12:18:28.000Z"
+  },
+  "quotes/maps/violenza.lit": {
+   "bytes": 3296492,
+   "sha256": "df517599f4fb390c1d29d3c8dd0c1c88822b320c35d8806cc2a6dd26245fd02f",
+   "timestamp": "2024-04-13T12:18:28.000Z"
+  },
+  "quotes/progs.dat": {
+   "bytes": 749842,
+   "sha256": "cf5045e62b6668ef38eece435e868c67dcc3051212d1fab442c2413a71e57f41",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-11-19T22:11:32.000Z"
+  },
+  "quotes/progs/a_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/a_mdls/m_cells1.mdl": {
+   "bytes": 3252,
+   "sha256": "1cdfc2b54dd883efe9215499603e341bfa72e800740a2e874e9bcf3b0afc68ba",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/a_mdls/m_cells2.mdl": {
+   "bytes": 4532,
+   "sha256": "8cb54159eeaa410b98478e9190bd2d33340d3a2e98a61d32ce1afaf4e99031a0",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/a_mdls/m_nails1.mdl": {
+   "bytes": 3252,
+   "sha256": "ac361970fb1cbbb87ad4593afecd6d8973a65ea4f14e5f7b565c8f38c181fa9d",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/a_mdls/m_nails2.mdl": {
+   "bytes": 4532,
+   "sha256": "0870b633f95bda895074e8d423631ee8805c3923f36a1c7f09938710783e8f99",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/a_mdls/m_rock1.mdl": {
+   "bytes": 3252,
+   "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/a_mdls/m_rock2.mdl": {
+   "bytes": 4532,
+   "sha256": "59988afc3603b83ccfadf0a9af423a113bf15ed969d4a62db9073e3061bc0fdc",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/a_mdls/m_shell1.mdl": {
+   "bytes": 3252,
+   "sha256": "696594c11dd6dbd2e60ac6923d82a55f8f5b16e93b93f7914abe5fd4df74299f",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/a_mdls/m_shell2.mdl": {
+   "bytes": 4532,
+   "sha256": "b558ee2dfd0078c7e3075079fb40368f53e7dfb162aaefcd20e53f562e405b1b",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/armshr.mdl": {
+   "bytes": 20012,
+   "sha256": "1873523424395b404ffafeb447383185e033826e33bf0a001efc34604ece95da",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/cult.mdl": {
+   "bytes": 73840,
+   "sha256": "619375f5ed05413d1af2c71ce2acc7e634bb32245e8116f590cf8b2f45afe939",
+   "timestamp": "2023-11-19T22:11:32.000Z"
+  },
+  "quotes/progs/debris.mdl": {
+   "bytes": 263072,
+   "sha256": "2b60cba9cbb454e3524d174edc0e1a540f2b2e91fa0b35fc2ab20ccb7fabd8d1",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/enforcer.mdl": {
+   "bytes": 472208,
+   "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/g_shotgu.mdl": {
+   "bytes": 29076,
+   "sha256": "4a8866ab410a93522a3d3221e0f3b45889a488b54c0551329f09493273e09840",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/h_boss.mdl": {
+   "bytes": 24028,
+   "sha256": "b41e2302e15d7cb47bf1eb4ee1df29e7e8d773a3dfc6059f5b1f8ce18685bba6",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/h_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/h_mdls/m_h100.mdl": {
+   "bytes": 17992,
+   "sha256": "2e7fac7418838a721d80e80370000f3e400b21248b22c8d3555588d4f8437a5b",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/h_mdls/m_h15.mdl": {
+   "bytes": 3252,
+   "sha256": "1f4b0791be3156763c15521fbf2e747744ce3355d90d630b01c2227770314771",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/h_mdls/m_h25.mdl": {
+   "bytes": 14792,
+   "sha256": "6f792b9a80f34e31bceb4258e1d2c8f22d405a7ae1198b31bb285f502c720cfe",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/h_mdls/pd_vial.mdl": {
+   "bytes": 8292,
+   "sha256": "035673048c98991e790abe484c2403b56dfe5ea1f5fb185c1b7a657d918668e8",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/progs/h_ogre.mdl": {
+   "bytes": 42048,
+   "sha256": "52760ce1f6e8f657e782846571baf9fde80859f5342d07a684fa8218f96f68db",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/k_spike2.mdl": {
+   "bytes": 444704,
+   "sha256": "e466e7afa95868ec1a3b3bfc770573d93dc20c2d881a73d2b9b0e35f1dfa6d9b",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "59264317258f19955b967177f0dbc5be1733e4ca07c4c7b3cc333bb88bc0c46e",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/mervup.mdl": {
+   "bytes": 32948,
+   "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/ogre.mdl": {
+   "bytes": 366916,
+   "sha256": "29fa9866dd4862b99ebb9944ddb0bf24a6d0bb4bf00e26a94d3622cead9b6315",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/pd_b_key.mdl": {
+   "bytes": 128440,
+   "sha256": "c5aff23b766037ab550636516d7fe0235dacf566ddb966541d640092bcb62349",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/pd_bpack.mdl": {
+   "bytes": 216724,
+   "sha256": "1839c92899197344935eca44d7b4c70e903af84ab633259786f8c12c39905149",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/pd_r_key.mdl": {
+   "bytes": 269528,
+   "sha256": "7ef6894b955c4ca34bf3e2ebdc6288f55cc3b1285478444a81ca769866e1a119",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/pd_w_key.mdl": {
+   "bytes": 170680,
+   "sha256": "73f06fc10a53c93db25d67f20bad7672bc5f4e14bf3a6b5115d68f00696b536a",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/s_flame.spr": {
+   "bytes": 47856,
+   "sha256": "99fc3f91856aa6df2f25494a945e17b64b59ddc3faed424a6fcd73062a677fcc",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "e306ec0fbf0f5e4306c6683f7c7b87674bb0a168ef32a2b1118dcffb083deeff",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/soldier.mdl": {
+   "bytes": 320900,
+   "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/spark.mdl": {
+   "bytes": 2544,
+   "sha256": "77d081c51af9bd6c82d2d51dcb955a2fca5189cda4eb09a138bfa2e2b521fb05",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/spike.mdl": {
+   "bytes": 4416,
+   "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/teleport.mdl": {
+   "bytes": 1058800,
+   "sha256": "98eeb63a1ded2d7a1d3788562478aff891af1be4ef1c552bcdb913cb338387b6",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/v_spike.mdl": {
+   "bytes": 1058816,
+   "sha256": "ac4d47130af263cb6fd861d70ac09ebf758ab1a76da0b697e268382c65ae1a16",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/w_spike.mdl": {
+   "bytes": 311493,
+   "sha256": "add013a5a6686ffd76ec0f2b2b3413757432ba4a8564ffd81aeb7eb2c5a98398",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/progs/weirdball.MDL": {
+   "bytes": 21198,
+   "sha256": "32f806e159a2c9ab8fab09145f1db6e96bda6504e5793dfdf3ed724eadeba61a",
+   "timestamp": "2023-11-19T21:26:06.000Z"
+  },
+  "quotes/progs_dump-devkit-readme.txt": {
+   "bytes": 9360,
+   "sha256": "c8eb11121c42e133e391a016cae91abbd3766508d4108bf5a74ce61e6d8f2723",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/quake.rc": {
+   "bytes": 469,
+   "sha256": "490877c3d81446c26fd36f25b358a0e0e109e6b3566f23a6a2d41c8319849750",
+   "timestamp": "2023-10-22T22:15:34.000Z"
+  },
+  "quotes/quotes.txt": {
+   "bytes": 4276,
+   "sha256": "1a0a82799278fe798a6eed8782a5ae0a9160f505c80394230297b1f491f9297c",
+   "timestamp": "2024-04-13T14:59:20.000Z"
+  },
+  "quotes/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/sound/break/bricks1.wav": {
+   "bytes": 49956,
+   "sha256": "302547c290609bc311098f9f63643199bee0164e907edf0e2b9289ccbce2a4e2",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/sound/break/metal1.wav": {
+   "bytes": 70054,
+   "sha256": "c178f8f52631b1ff353fbeb3557e04e8bd574646ed47f78a3003350b67540979",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/sound/break/metal2.wav": {
+   "bytes": 65948,
+   "sha256": "7438b112d81fb92c285a507ebfbde5b15dbddcd90a85f51ecaae2df3ef83480c",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/sound/break/stones1.wav": {
+   "bytes": 69380,
+   "sha256": "1b58b722e55c4e2d25f65e820e279699a7b236a02685fbc6a41a40e573df1928",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/sound/break/wood1.wav": {
+   "bytes": 53720,
+   "sha256": "026e35d7108347603453765f66311fec99097ff9f82e2d2703f69b7d80ae07c9",
+   "timestamp": "2023-10-22T22:15:36.000Z"
+  },
+  "quotes/sound/break/wood2.wav": {
+   "bytes": 59252,
+   "sha256": "4488c91dc44e526beb95d33ad200e07e484a6f2fea59578784f3417a00df81f7",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/dump/armsh1.wav": {
+   "bytes": 22610,
+   "sha256": "46801976a87d548c2cb7b1548f12dfd0b3f1d246aa9d86944574fa3216c6d6d1",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/dump/elec22k.wav": {
+   "bytes": 178736,
+   "sha256": "d56ff98d1d41511833c35b5a8b5311f00b7e13932591eee53f9e2adf788569e1",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/dump/magic_01.wav": {
+   "bytes": 125944,
+   "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/dump/pd_water.wav": {
+   "bytes": 92708,
+   "sha256": "0402b1fb2501dafb33bd43fa9c49c0f6a3fff615a200693cb7953852305c49f4",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  },
+  "quotes/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2023-10-22T22:15:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3cf13c44cabfdc48109fe38abbc95ab40a1bcd33d29ac8cab794fd4985de887d",
+ "tags": [
+  "author=66ppt99",
+  "commandline=-game quotes",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=quotes20240414.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/quotes.350/)",
+  "release_date=2024-09-04",
+  "startmap=start",
+  "title=Quotes",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/quotes20240414.zip"
+ ]
+}

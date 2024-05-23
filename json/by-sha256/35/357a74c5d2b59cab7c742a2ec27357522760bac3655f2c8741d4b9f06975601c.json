@@ -1,0 +1,45 @@
+{
+ "bytes": 4697284,
+ "files": {
+  "spasp1.bsp": {
+   "bytes": 7441960,
+   "sha256": "0fd0f23efead573c27b98450d44da1164ea838738e246c95dc5ec54da59be6aa",
+   "timestamp": "2024-04-27T00:37:56.000Z"
+  },
+  "spasp1.lit": {
+   "bytes": 2777510,
+   "sha256": "88bfc9a584586a772d630c6341637f1a3c2601becf28b8f4034f50f0cc2455bd",
+   "timestamp": "2024-04-27T00:37:56.000Z"
+  },
+  "spasp1.map": {
+   "bytes": 9256229,
+   "sha256": "e538918aa2164d5f4e2677ae76d261fc36db1439e8bf34a5444fd6ac375fb3ec",
+   "timestamp": "2024-04-27T00:37:20.000Z"
+  },
+  "spasp1_readme.txt": {
+   "bytes": 3734,
+   "sha256": "bc9218fcdfeae45aa6e16a2802206da0ce0f043e7af09a2223173bb4791e9a7c",
+   "timestamp": "2024-04-27T03:48:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "357a74c5d2b59cab7c742a2ec27357522760bac3655f2c8741d4b9f06975601c",
+ "tags": [
+  "author=Spacebike",
+  "filename=spasp1_1.3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/enforced-entropy.343/)",
+  "release_date=2024-03-30",
+  "startmap=spasp1",
+  "title=Enforced Entropy",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/spasp1_1.3.zip"
+ ]
+}
