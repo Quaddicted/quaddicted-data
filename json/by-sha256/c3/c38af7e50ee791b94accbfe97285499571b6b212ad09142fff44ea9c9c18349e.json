@@ -150,6 +150,7 @@
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game masque_final",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=masque_final.zip",
   "game=quake",
@@ -160,7 +161,9 @@
   "nonspecific_tag=flesh",
   "nonspecific_tag=massive",
   "nonspecific_tag=mayhem",
+  "provides='masque=2.0'",
   "release_date=2006-10-13",
+  "release_group=masque",
   "startmap=masque",
   "startmap=masquestart",
   "theme=blood",
@@ -171,6 +174,7 @@
   "theme=scourge of armagon",
   "title=The Masque of Red Death",
   "type=mod",
+  "version=2.0",
   "zipbasedir=masque_final/"
  ],
  "urls": [

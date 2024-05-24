@@ -101,6 +101,7 @@
   "author=Suzanne 'Trashbang' Will",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "filename=suzyctmt.zip",
   "game=quake",
   "game_mode=singleplayer",

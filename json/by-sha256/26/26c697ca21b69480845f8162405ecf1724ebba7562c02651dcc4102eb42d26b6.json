@@ -34,18 +34,22 @@
  "sha256": "26c697ca21b69480845f8162405ecf1724ebba7562c02651dcc4102eb42d26b6",
  "tags": [
   "author=George J. Fiffy II",
+  "current_main_group_package=yes",
   "filename=gl4fify5.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://members.aol.com/georgef551",
   "link:review=[Crash's](http://www.quake2.com/crash/levels0-9.htm)",
   "map_size=medium",
+  "provides='4fiffy5=2.0'",
   "release_date=1997-11-30",
+  "release_group=4fiffy5",
   "startmap=fiffy5",
   "theme=idbase",
   "theme=traps",
   "title=REoL TOUGH: Base! (watervised)",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

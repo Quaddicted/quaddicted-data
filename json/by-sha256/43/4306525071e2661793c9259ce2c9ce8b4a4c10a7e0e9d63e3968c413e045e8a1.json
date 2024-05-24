@@ -135,6 +135,7 @@
   "author=MortalMaxx",
   "commandline=-game copper",
   "dependency=copper",
+  "depends=('copper>=1.00')",
   "filename=sm203-pack.zip",
   "game=quake",
   "game_mode=singleplayer",

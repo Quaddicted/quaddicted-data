@@ -58,6 +58,7 @@
   "author=necros",
   "author=negke",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sm164_pack.zip",
   "game=quake",
   "game_mode=singleplayer",

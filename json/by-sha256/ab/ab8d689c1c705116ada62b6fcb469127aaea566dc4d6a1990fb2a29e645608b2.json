@@ -76,6 +76,7 @@
   "author=Mememind",
   "commandline=-game alk1.1",
   "dependency=alkaline1.1",
+  "depends=('alkaline>=1.10')",
   "filename=hydromadnessv3.2.zip",
   "game=quake",
   "game_mode=singleplayer",

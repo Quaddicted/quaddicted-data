@@ -247,7 +247,9 @@
   "nonspecific_tag=textures",
   "nonspecific_tag=vista",
   "nonspecific_tag=western",
+  "provides='ter_shibboleth=1.0'",
   "release_date=2017-09-01",
+  "release_group=ter_shibboleth",
   "source=included",
   "startmap=shib1",
   "startmap=shib2",
@@ -266,6 +268,7 @@
   "title=Ter Shibboleth",
   "type=episode",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

@@ -21,6 +21,7 @@
   "author=Drew",
   "author=Zwiffle",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sm153_pack.zip",
   "game=quake",
   "game_mode=singleplayer",

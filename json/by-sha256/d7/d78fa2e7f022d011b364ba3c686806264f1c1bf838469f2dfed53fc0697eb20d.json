@@ -9214,7 +9214,10 @@
   "nonspecific_tag=toolbox",
   "nonspecific_tag=weapons",
   "nonspecific_tag=wow",
+  "patch=no",
+  "provides='ad=1.50'",
   "release_date=2016-12-03",
+  "release_group=ad",
   "source=included",
   "startmap=ad_azad",
   "startmap=ad_chapters",
@@ -9259,6 +9262,7 @@
   "title=Arcane Dimensions 1.50",
   "type=episode",
   "type=mod",
+  "version=1.50",
   "zipbasedir=ad/"
  ],
  "urls": [

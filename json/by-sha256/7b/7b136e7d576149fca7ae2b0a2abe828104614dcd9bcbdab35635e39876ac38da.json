@@ -32,6 +32,7 @@
   "author=Zwiffle (czg)",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=winterpack2005-2006.zip",
   "game=quake",
   "game_mode=singleplayer",

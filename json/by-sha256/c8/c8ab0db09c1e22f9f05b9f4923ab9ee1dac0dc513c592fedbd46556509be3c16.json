@@ -450,7 +450,9 @@
   "nonspecific_tag=extras_r5",
   "nonspecific_tag=makkon",
   "nonspecific_tag=submarine",
+  "provides='teuthis=1.0'",
   "release_date=2022-04-13",
+  "release_group=teuthis",
   "source=included",
   "startmap=teuthis",
   "theme=base",
@@ -459,7 +461,8 @@
   "theme=underwater",
   "theme=water",
   "title=Temple of Teuthis v1",
-  "type=mod"
+  "type=mod",
+  "version=1.0"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/teuthis.zip",

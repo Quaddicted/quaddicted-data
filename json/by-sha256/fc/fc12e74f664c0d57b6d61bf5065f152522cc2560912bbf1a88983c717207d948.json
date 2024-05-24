@@ -290,8 +290,11 @@
   "nonspecific_tag=dp",
   "nonspecific_tag=skins",
   "nonspecific_tag=soe",
+  "provides='nsoe=2.0'",
   "release_date=2008-05-27",
-  "title=Soul of Evil: Indian Summer (Skins for DP)"
+  "release_group=nsoe",
+  "title=Soul of Evil: Indian Summer (Skins for DP)",
+  "version=2.0"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/soeskins_dp.zip",

@@ -1956,7 +1956,9 @@
   "nonspecific_tag=makkon",
   "nonspecific_tag=unique",
   "nonspecific_tag=woods",
+  "provides='ctsj2=1.0'",
   "release_date=2022-08-09",
+  "release_group=ctsj2",
   "source=included",
   "startmap=start",
   "theme=base",
@@ -1972,6 +1974,7 @@
   "title=Coppertone Summer Jam 2 v1.0",
   "type=mapjam",
   "type=mod",
+  "version=1.0",
   "zipbasedir=ctsj2/"
  ],
  "urls": [

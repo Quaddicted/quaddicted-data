@@ -26,6 +26,7 @@
   "author=Lane Powell",
   "commandline=-game ad",
   "dependency=ad_v1_50final",
+  "depends=('ad>=1.50')",
   "exceeds_quake_limits=yes",
   "filename=lpqsp2.zip",
   "game=quake",

@@ -54,8 +54,9 @@
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
   "bsp_format=bsp2",
-  "commandline=-game wicked",
-  "dependency=something_wicked",
+  "commandline=-game drake",
+  "dependency=drake290111",
+  "depends=('drake>=1.0')",
   "exceeds_quake_limits=yes",
   "filename=nyarlathotep.zip",
   "game=quake",

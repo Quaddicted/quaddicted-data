@@ -91,6 +91,7 @@
   "author=Fern (aka Fr3n)",
   "commandline=-quoth -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=dom3m1.zip",
   "game=quake",

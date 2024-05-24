@@ -18,8 +18,9 @@
  "json_version": "2023.11.06-23.20",
  "sha256": "7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e",
  "tags": [
-  "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "author=Iikka \"Fingers\" Ker\u005Cu00e4nen",
   "dependency=ikspq3",
+  "depends=bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f",
   "filename=ikspq2.zip",
   "game=quake",
   "game_mode=singleplayer",

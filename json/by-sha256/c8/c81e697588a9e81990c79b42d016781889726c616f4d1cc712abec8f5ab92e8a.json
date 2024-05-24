@@ -86,6 +86,7 @@
   "author=BlorgBlorgBlorg",
   "commandline=-game alk1.2",
   "dependency=alk1.2",
+  "depends=('alkaline>=1.20')",
   "filename=blorgsp1.zip",
   "game=quake",
   "game_mode=singleplayer",

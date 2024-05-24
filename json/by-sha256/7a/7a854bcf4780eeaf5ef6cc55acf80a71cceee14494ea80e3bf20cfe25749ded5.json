@@ -56,6 +56,7 @@
   "author=mfx",
   "commandline=-heapsize 256000 -zone 4096 -game ad",
   "dependency=ad_v1_42final",
+  "depends=('ad>=1.42')",
   "filename=ad_e3m2.zip",
   "game=quake",
   "game_mode=singleplayer",

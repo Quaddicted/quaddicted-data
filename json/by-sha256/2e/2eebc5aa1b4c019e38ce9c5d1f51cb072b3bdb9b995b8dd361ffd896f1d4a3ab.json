@@ -99,7 +99,9 @@
   "nonspecific_tag=lovecraft",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=skins",
+  "provides='shadow=1.0'",
   "release_date=1997-03-06",
+  "release_group=shadow",
   "theme=medieval",
   "theme=oldschool",
   "theme=pyramid",
@@ -107,6 +109,7 @@
   "theme=village",
   "title=Shadow over Innsmouth",
   "type=mod",
+  "version=1.0",
   "zipbasedir=shadow/"
  ],
  "urls": [

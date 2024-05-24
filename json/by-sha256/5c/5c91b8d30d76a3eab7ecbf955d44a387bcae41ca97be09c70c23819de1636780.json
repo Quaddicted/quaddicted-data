@@ -3677,6 +3677,7 @@
   "author=zigi",
   "bsp_format=bsp2",
   "commandline=-game alk1.2",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=alk1.2.zip",
   "game=quake",
@@ -3701,7 +3702,9 @@
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
+  "provides='alkaline=1.20'",
   "release_date=2023-03-03",
+  "release_group=alkaline",
   "startmap=start",
   "theme=base",
   "theme=doom 3",
@@ -3718,7 +3721,8 @@
   "theme=void",
   "title=Alkaline 1.2",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "version=1.20"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alk1.2.zip",

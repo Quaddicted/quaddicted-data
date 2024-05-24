@@ -105,7 +105,9 @@
  "tags": [
   "author=zbidou72",
   "commandline=-game alk1.1",
+  "current_main_group_package=yes",
   "dependency=alkaline1.1",
+  "depends=('alkaline>=1.10')",
   "exceeds_quake_limits=yes",
   "filename=nullbear2v12.zip",
   "game=quake",
@@ -119,7 +121,9 @@
   "nonspecific_tag=mg1",
   "nonspecific_tag=ship",
   "nonspecific_tag=warehouse",
+  "provides='nullbear2=1.2'",
   "release_date=2022-09-30",
+  "release_group=nullbear2",
   "source=included",
   "startmap=nullbear2",
   "theme=base",
@@ -127,6 +131,7 @@
   "theme=water",
   "title=Null Bearing Redux v1.2",
   "type=map",
+  "version=1.2",
   "zipbasedir=alk1.1/"
  ],
  "urls": [

@@ -67,6 +67,7 @@
   "bsp_format=bsp2",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=digs09.zip",
   "game=quake",

@@ -766,12 +766,17 @@
   "author=sock",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "filename=ad_v1_70patch1.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "patch=yes",
+  "provides='ad=1.71'",
   "release_date=2018-01-07",
+  "release_group=ad",
   "startmap=ac",
   "title=Arcane Dimensions 1.70 Patch 1",
+  "version=1.71",
   "zipbasedir=ad/"
  ],
  "urls": [

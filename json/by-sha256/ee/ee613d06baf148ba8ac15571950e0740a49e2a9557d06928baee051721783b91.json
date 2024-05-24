@@ -37,6 +37,7 @@
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "depends=('ad>=1.71')",
   "filename=ad_b100_sock.zip",
   "game=quake",
   "game_mode=singleplayer",

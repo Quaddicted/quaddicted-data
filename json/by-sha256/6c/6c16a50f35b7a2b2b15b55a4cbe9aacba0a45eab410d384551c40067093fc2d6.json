@@ -495,14 +495,18 @@
  "tags": [
   "author=Tonhao",
   "commandline=-game eod3.0",
+  "current_main_group_package=yes",
   "filename=toneodspmp3_3.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/empire-of-disorder.118/)",
+  "provides='toneodspmp3=3.0'",
   "release_date=2023-08-06",
+  "release_group=toneodspmp3",
   "startmap=eod0",
   "title=Empire of Disorder v3.0",
   "type=map",
+  "version=3.0",
   "zipbasedir=/"
  ],
  "urls": [

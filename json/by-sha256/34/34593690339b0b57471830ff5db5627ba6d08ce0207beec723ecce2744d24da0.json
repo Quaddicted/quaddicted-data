@@ -77,6 +77,7 @@
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=biome-pritchard.zip",
   "game=quake",

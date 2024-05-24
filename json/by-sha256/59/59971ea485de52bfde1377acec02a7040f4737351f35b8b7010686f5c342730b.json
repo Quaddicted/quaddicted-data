@@ -112,6 +112,7 @@
   "bsp_format=bsp2",
   "commandline=-quoth -game metmon",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=metmon1d.zip",
   "game=quake",

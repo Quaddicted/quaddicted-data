@@ -34,6 +34,7 @@
  "sha256": "baba3cd788888ba2cf29513bdf347f5427c9cabde7af174e81ae7f515e25da21",
  "tags": [
   "author=George J. Fiffy II",
+  "current_main_group_package=yes",
   "filename=gl4fify3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -41,12 +42,15 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levels0-9.htm#4fiffy3)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=small",
+  "provides='4fiffy3=2.0'",
   "release_date=1997-11-30",
+  "release_group=4fiffy3",
   "startmap=fiffy3",
   "theme=traps",
   "theme=wizard",
   "title=REoL TOUGH: Damnation! (watervised)",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

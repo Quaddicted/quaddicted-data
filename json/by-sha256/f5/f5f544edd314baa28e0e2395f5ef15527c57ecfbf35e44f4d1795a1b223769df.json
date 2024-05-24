@@ -31,6 +31,7 @@
   "author=Spootnik",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "filename=dope1.zip",
   "game=quake",
   "game_mode=singleplayer",

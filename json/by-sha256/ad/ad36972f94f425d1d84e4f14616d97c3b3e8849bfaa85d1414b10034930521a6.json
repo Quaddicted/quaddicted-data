@@ -24,6 +24,7 @@
  "sha256": "ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6",
  "tags": [
   "author=Zied Rieke",
+  "current_main_group_package=yes",
   "filename=dxmf.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,10 +32,13 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990102.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "provides='dxm=2.0'",
   "release_date=1997-09-21",
+  "release_group=dxm",
   "theme=base",
   "title=Dextromethrophan",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

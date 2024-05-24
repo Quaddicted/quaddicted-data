@@ -31,6 +31,7 @@
   "author=Andrew 'than' Palmer",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=apsp2.zip",
   "game=quake",
   "game_mode=singleplayer",

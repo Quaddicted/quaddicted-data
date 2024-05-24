@@ -2782,6 +2782,7 @@
   "author=h4724",
   "author=ptoing",
   "commandline=-game dwellv2p2",
+  "current_main_group_package=yes",
   "filename=dwellv2p2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -2801,7 +2802,9 @@
   "nonspecific_tag=models",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "provides='dwell=2.2'",
   "release_date=2023-02-12",
+  "release_group=dwell",
   "source=included",
   "startmap=d1end",
   "startmap=d1m1",
@@ -2832,7 +2835,8 @@
   "theme=void",
   "title=Dwell v2.2",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "version=2.2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwellv2p2.zip",

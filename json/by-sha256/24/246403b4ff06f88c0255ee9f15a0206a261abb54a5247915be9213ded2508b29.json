@@ -1206,7 +1206,9 @@
   "nonspecific_tag=models",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "provides='dwell=1.0'",
   "release_date=2020-10-01",
+  "release_group=dwell",
   "startmap=d1m1",
   "startmap=d1m2",
   "startmap=d1m3",
@@ -1224,6 +1226,7 @@
   "title=Dwell - Episode 1 (Version 1.0)",
   "type=episode",
   "type=mod",
+  "version=1.0",
   "zipbasedir=dwell/"
  ],
  "urls": [

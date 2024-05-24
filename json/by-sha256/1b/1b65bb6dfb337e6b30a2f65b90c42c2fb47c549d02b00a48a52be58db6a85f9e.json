@@ -760,6 +760,7 @@
  "tags": [
   "author=necros",
   "commandline=-game n3sp02",
+  "current_main_group_package=yes",
   "filename=n3sp02_13.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -767,12 +768,15 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev010726.html)",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=n3sp02)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "provides='n3sp02=1.0'",
   "release_date=2001-07-26",
+  "release_group=n3sp02",
   "startmap=n3sp02",
   "theme=castle",
   "theme=medieval",
   "title=Castle Necrosis",
   "type=mod",
+  "version=1.0",
   "zipbasedir=n3sp02/"
  ],
  "urls": [

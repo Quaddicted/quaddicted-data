@@ -3583,7 +3583,9 @@
   "nonspecific_tag=mountains",
   "nonspecific_tag=paris",
   "nonspecific_tag=rome",
+  "provides='ter_shibboleth=2.0'",
   "release_date=2020-01-15",
+  "release_group=ter_shibboleth",
   "startmap=shib6",
   "startmap=shib7",
   "startmap=shib8",
@@ -3593,6 +3595,7 @@
   "title=Ter Shibboleth Part 2",
   "type=episode",
   "type=mod",
+  "version=2.0",
   "zipbasedir=shib/"
  ],
  "urls": [

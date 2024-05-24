@@ -182,6 +182,7 @@
   "commandline=-game ad",
   "dependency=ad_sepulcher",
   "dependency=ad_v1_50final",
+  "depends=('ad>=1.70')",
   "filename=ad_paradise.zip",
   "game=quake",
   "game_mode=singleplayer",

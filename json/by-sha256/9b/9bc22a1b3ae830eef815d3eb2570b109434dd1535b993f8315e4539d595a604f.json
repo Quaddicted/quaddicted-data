@@ -1,0 +1,40 @@
+{
+ "bytes": 1077135,
+ "files": {
+  "castle.bsp": {
+   "bytes": 2747344,
+   "sha256": "ae724f77237f976a4a40881cf8692fc4290d5f4efc5a1be07c18c07f416dc108",
+   "timestamp": "2024-03-03T20:11:08.000Z"
+  },
+  "castle.map": {
+   "bytes": 681363,
+   "sha256": "f5ecfa9412451b18bf027e3149bc230c0b86419c594d23f971a9f1d3f336a861",
+   "timestamp": "2024-03-03T19:38:34.000Z"
+  },
+  "castle_readme.txt": {
+   "bytes": 1641,
+   "sha256": "eafca185786ce0678372ece720b8d78ea33618053a0c4600bbf7ed9c40102879",
+   "timestamp": "2024-03-03T20:15:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "9bc22a1b3ae830eef815d3eb2570b109434dd1535b993f8315e4539d595a604f",
+ "tags": [
+  "author=Skullzrawk9",
+  "filename=castle.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/foreboding-fortress.332/)",
+  "release_date=2024-03-04",
+  "startmap=castle",
+  "title=Foreboding Fortress",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/castle.zip"
+ ]
+}

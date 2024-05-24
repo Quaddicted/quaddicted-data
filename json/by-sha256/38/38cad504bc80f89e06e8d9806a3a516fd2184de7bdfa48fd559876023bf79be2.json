@@ -726,6 +726,7 @@
  "tags": [
   "author=sock",
   "commandline=-game shadows",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=its_demo_v1_1.zip",
   "game=quake",
@@ -752,7 +753,9 @@
   "nonspecific_tag=unique",
   "nonspecific_tag=unorthodox",
   "playstyle=stealth",
+  "provides='its_demo=1.1'",
   "release_date=2012-12-30",
+  "release_group=its_demo",
   "startmap=s1m1",
   "startmap=s1m2",
   "startmap=start",
@@ -768,6 +771,7 @@
   "theme=traps",
   "title=In The Shadows [Demo v1.1]",
   "type=mod",
+  "version=1.1",
   "zipbasedir=shadows/"
  ],
  "urls": [

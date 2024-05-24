@@ -76,6 +76,7 @@
   "author=Paul Lawitzki",
   "commandline=-game copper",
   "dependency=copper_v1_17",
+  "depends=('copper>=1.17')",
   "exceeds_quake_limits=yes",
   "filename=plaw02.zip",
   "game=quake",

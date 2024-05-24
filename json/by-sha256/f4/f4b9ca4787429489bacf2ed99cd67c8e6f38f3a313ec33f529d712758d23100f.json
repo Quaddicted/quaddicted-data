@@ -37,6 +37,7 @@
   "bsp_format=bsp2",
   "commandline=-game dtintin",
   "dependency=dtintin_fixed",
+  "depends=49acbbd406d62768b8f5ef961ec8a713604260805f9257239c1f7aaf9a5c6900",
   "exceeds_quake_limits=yes",
   "filename=tintin_jam_nait.zip",
   "game=quake",

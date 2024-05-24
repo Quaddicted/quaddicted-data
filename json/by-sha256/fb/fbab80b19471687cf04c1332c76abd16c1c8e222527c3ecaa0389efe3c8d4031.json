@@ -61,6 +61,7 @@
   "author=eber150",
   "commandline=-game copper",
   "dependency=copper_v1_17",
+  "depends=('copper>=1.17')",
   "filename=ttd.zip",
   "game=quake",
   "game_mode=singleplayer",

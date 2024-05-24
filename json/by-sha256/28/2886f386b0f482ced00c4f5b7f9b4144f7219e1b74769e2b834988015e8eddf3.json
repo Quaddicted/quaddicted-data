@@ -21,6 +21,7 @@
   "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=quarantine.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,11 +30,14 @@
   "map_size=medium",
   "mod=quoth",
   "nonspecific_tag=glass",
+  "provides='quarantine=1.0'",
   "release_date=2013-04-08",
+  "release_group=quarantine",
   "theme=base",
   "theme=quoth",
   "title=Quarantine",
   "type=map",
+  "version=1.0",
   "zipbasedir=quoth/maps/"
  ],
  "urls": [

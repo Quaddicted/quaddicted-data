@@ -1,0 +1,296 @@
+{
+ "bytes": 21731776,
+ "files": {
+  "sm228/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-03-13T14:20:50.000Z"
+  },
+  "sm228/docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-03-11T17:51:20.000Z"
+  },
+  "sm228/docs/sm228_alexunder.txt": {
+   "bytes": 899,
+   "sha256": "efb3e0432b9bf6a25230fbb2efb0bf01440c4768395117a5eafe960f27e45cf0",
+   "timestamp": "2024-03-10T17:25:20.000Z"
+  },
+  "sm228/docs/sm228_chuma README.txt": {
+   "bytes": 1352,
+   "sha256": "79a97f98f9a77aadaa49af02e5beb9808b73c7cd7e4813cfa1b57960dc9eb9f5",
+   "timestamp": "2024-03-11T01:33:40.000Z"
+  },
+  "sm228/docs/sm228_doritos420.txt": {
+   "bytes": 1629,
+   "sha256": "5f68abf0dd13222e411ef170a63844ae8c84128b9986edd67eb0b28a0a89c2ab",
+   "timestamp": "2024-03-11T06:50:02.000Z"
+  },
+  "sm228/docs/sm228_hcm.txt": {
+   "bytes": 2292,
+   "sha256": "7d9319beeb2a327a151ff3c5f1a207e6767ea6739698ee562548507a592ceeac",
+   "timestamp": "2024-03-11T00:06:56.000Z"
+  },
+  "sm228/docs/sm228_iyago.txt": {
+   "bytes": 2964,
+   "sha256": "6806e14d97c5b96732d82a73f73dc3163bca8f2c67c8af6454b48cb7bbbd41fa",
+   "timestamp": "2024-03-10T22:40:14.000Z"
+  },
+  "sm228/docs/sm228_lob.txt": {
+   "bytes": 1973,
+   "sha256": "d5824e8d6d35ee18aa92de5f17968b82a45340699d74a81570cd883c6d9b6bb3",
+   "timestamp": "2024-03-11T02:44:18.000Z"
+  },
+  "sm228/docs/sm228_maxx.txt": {
+   "bytes": 923,
+   "sha256": "0532633d96ba8abf4f0ab55c76f02d9128ed61d34f646569e3d7ba6beb38680a",
+   "timestamp": "2024-03-10T21:41:24.000Z"
+  },
+  "sm228/docs/sm228_recycledoj.txt": {
+   "bytes": 1463,
+   "sha256": "23f7a7cef3a2315ecf6bcfa58729e804d1399604e58d9485a81e38322bfa12f0",
+   "timestamp": "2024-03-11T09:51:42.000Z"
+  },
+  "sm228/docs/sm228_zetabyt.txt": {
+   "bytes": 3496,
+   "sha256": "0b48b67a66603c7068ada19836dfe4f13a0c709555806c506e5bc5ba2d553c67",
+   "timestamp": "2024-03-10T19:49:44.000Z"
+  },
+  "sm228/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-03-13T14:16:14.000Z"
+  },
+  "sm228/maps/sm228_66ppt99.bsp": {
+   "bytes": 10276212,
+   "sha256": "98c400ac78789c44771b9eeca1f3b7c382d7648a8e2b8e92fa8c0d1e90e88df1",
+   "timestamp": "2024-03-11T17:41:54.000Z"
+  },
+  "sm228/maps/sm228_alexunder.bsp": {
+   "bytes": 1318608,
+   "sha256": "371ca920f961318dfdc6e3ab4610791311a8e6cf1aa3a61e890a10360d0d8bdd",
+   "timestamp": "2024-03-10T17:25:58.000Z"
+  },
+  "sm228/maps/sm228_avix.bsp": {
+   "bytes": 1011848,
+   "sha256": "ac3f294a36d8a14801c0e45964bc2393c5ee01e2a1de7e4c15adc6c32d3e861f",
+   "timestamp": "2024-03-10T18:27:14.000Z"
+  },
+  "sm228/maps/sm228_cc.bsp": {
+   "bytes": 1088084,
+   "sha256": "cf7569de343e82609a203ef55d10a3075681cad078cdc0b8a291d311ebd08248",
+   "timestamp": "2024-03-15T10:27:26.000Z"
+  },
+  "sm228/maps/sm228_chuma.bsp": {
+   "bytes": 1589432,
+   "sha256": "2f5d0818315780cf97fd550cf3b42f12e1759fe9ad2b168056fa793b068f707d",
+   "timestamp": "2024-03-10T20:07:42.000Z"
+  },
+  "sm228/maps/sm228_danz.bsp": {
+   "bytes": 1574844,
+   "sha256": "d2a3a8a11d1ba9d10422dfb72a3f6b1a00035e6273b32e3df27889019166e41e",
+   "timestamp": "2024-03-14T10:37:12.000Z"
+  },
+  "sm228/maps/sm228_doritos420.bsp": {
+   "bytes": 2790452,
+   "sha256": "2047fba8e534b32e0c6cf804bd7218ef046a17346dfc93d6f78dbfee03efb4d5",
+   "timestamp": "2024-03-11T06:49:16.000Z"
+  },
+  "sm228/maps/sm228_hcm.bsp": {
+   "bytes": 2217024,
+   "sha256": "7a2b0a0ab27f41934fd90a9974335710423b499f23a1cc687d9d63be484d4818",
+   "timestamp": "2024-03-11T00:05:58.000Z"
+  },
+  "sm228/maps/sm228_iyago.bsp": {
+   "bytes": 1472684,
+   "sha256": "f1dad724b6233d4e134414915058665571ea0f2b311282273e99b3d8767634e4",
+   "timestamp": "2024-03-15T10:27:02.000Z"
+  },
+  "sm228/maps/sm228_lob.bsp": {
+   "bytes": 1372560,
+   "sha256": "947c4a97cd5613fbf872148ed7ecd0907a033f04f8ba87ad63d479d8ce527f2e",
+   "timestamp": "2024-03-11T02:29:10.000Z"
+  },
+  "sm228/maps/sm228_maxx.bsp": {
+   "bytes": 1758132,
+   "sha256": "5c233e25a174aaa3cce4e17d837a12d2a0c5128bf8865db2cc79ef916441bde1",
+   "timestamp": "2024-03-10T21:29:42.000Z"
+  },
+  "sm228/maps/sm228_milestone.bsp": {
+   "bytes": 28487432,
+   "sha256": "aaec6f3bb3e27288536ceb93da9e6a76572ffda53a7dc4f4652ae1ca67f58c40",
+   "timestamp": "2024-03-11T17:41:38.000Z"
+  },
+  "sm228/maps/sm228_mizuki.bsp": {
+   "bytes": 1990676,
+   "sha256": "c5382fe88a6238a60672e57396665af4ca4582a550938c35eb8ba2b32121ed27",
+   "timestamp": "2024-03-11T20:42:16.000Z"
+  },
+  "sm228/maps/sm228_nh.bsp": {
+   "bytes": 1279292,
+   "sha256": "ec3b0014811c3e4063e0565ac21be54315632e5e2f15165fb92d1a3ce866a50e",
+   "timestamp": "2024-03-11T18:45:30.000Z"
+  },
+  "sm228/maps/sm228_recycledoj.bsp": {
+   "bytes": 1343420,
+   "sha256": "6c59d2618df24876cda519debc58bafddfb28adf30365783c10dc5a47c6985b8",
+   "timestamp": "2024-03-11T09:52:14.000Z"
+  },
+  "sm228/maps/sm228_spoot.bsp": {
+   "bytes": 1491888,
+   "sha256": "dcfdec3111b0051475d6bae2af86f459648353680f7dfef3137b9b04759f3e1d",
+   "timestamp": "2024-03-13T19:30:36.000Z"
+  },
+  "sm228/maps/sm228_zetabyt.bsp": {
+   "bytes": 1742468,
+   "sha256": "5884789a2b670386814187ee02cd27dc00276e6273812871390364bedc5d5c91",
+   "timestamp": "2024-03-10T22:52:10.000Z"
+  },
+  "sm228/maps/sm228_zigi.bsp": {
+   "bytes": 1900176,
+   "sha256": "18ce7375bcde7701da9eaf0b112e2eb81abecb8e8a04e765c88106e6111c1b86",
+   "timestamp": "2024-03-11T17:28:26.000Z"
+  },
+  "sm228/maps/start.bsp": {
+   "bytes": 852300,
+   "sha256": "76704b8330edcf6a5d4f7f41378e94e6e9544c76f6cea9f0eb52c4e5647eadf3",
+   "timestamp": "2024-03-12T09:50:28.000Z"
+  },
+  "sm228/sm228_poster.jpg": {
+   "bytes": 99190,
+   "sha256": "72452fbc53514a632dc894b295b59d6903fd81b160533982eed960294e760f11",
+   "timestamp": "2024-03-11T21:55:56.000Z"
+  },
+  "sm228/sm228_readme.txt": {
+   "bytes": 1914,
+   "sha256": "23245313d9a90044380e0795ccb65e05d85bb0bbdbdfa23e0e6a6694d7e76713",
+   "timestamp": "2024-03-12T08:57:40.000Z"
+  },
+  "sm228/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-03-13T14:16:18.000Z"
+  },
+  "sm228/src/sm228_66ppt99.map": {
+   "bytes": 3065414,
+   "sha256": "873e6e25f9b8ec532e9f004ba474826af9499c3d833a3b2d79026fdd38a9a637",
+   "timestamp": "2024-03-11T17:41:56.000Z"
+  },
+  "sm228/src/sm228_alexunder.map": {
+   "bytes": 1126249,
+   "sha256": "67a5166bc7c6d129d61ddc4d3cbb5aea356401ca2963e43d49d0e5afa542d579",
+   "timestamp": "2024-03-10T17:25:22.000Z"
+  },
+  "sm228/src/sm228_avix.map": {
+   "bytes": 743359,
+   "sha256": "c394ce6caebb37bd5be729b03317871951f7dc770c5a8cbc8efe99a95af0ba61",
+   "timestamp": "2024-03-10T18:27:10.000Z"
+  },
+  "sm228/src/sm228_cc.map": {
+   "bytes": 462122,
+   "sha256": "51240580b30efc8803a883089ca3f642bc8f09bfbc8344760096077f3bbaec74",
+   "timestamp": "2024-03-15T10:27:02.000Z"
+  },
+  "sm228/src/sm228_chuma.map": {
+   "bytes": 665329,
+   "sha256": "64c84fac7d0a7464746180b0d613d4b8f5c75aa38b43ca9f75c77e8131527bc4",
+   "timestamp": "2024-03-10T20:07:26.000Z"
+  },
+  "sm228/src/sm228_danz.map": {
+   "bytes": 1307223,
+   "sha256": "c24220f21720a1afd1d4b86ac7bddc49d018ddfedb62640c7f161710e35094c7",
+   "timestamp": "2024-03-14T10:37:14.000Z"
+  },
+  "sm228/src/sm228_doritos420.map": {
+   "bytes": 4804431,
+   "sha256": "1c5143b0941ebcb8e7fc055d491acc3049244d11d99f38a6431ed8d431e2f7a3",
+   "timestamp": "2024-03-11T06:48:58.000Z"
+  },
+  "sm228/src/sm228_hcm.map": {
+   "bytes": 2966756,
+   "sha256": "1f2aba9f572e2eb3ca7b0b513c4c6c2edb68f5864b3307ed8694f6cd9f6760f1",
+   "timestamp": "2024-03-10T23:53:04.000Z"
+  },
+  "sm228/src/sm228_iyago.map": {
+   "bytes": 988910,
+   "sha256": "af54b4367689dc80d3945fd0ababc5c0b33de3e7c179c74da09ef0530710ec72",
+   "timestamp": "2024-03-15T10:26:54.000Z"
+  },
+  "sm228/src/sm228_lob.map": {
+   "bytes": 816497,
+   "sha256": "a5f12612bbcf87b2a6bbf5838f228542b178f02083f9a917b6d749bbe5c569bf",
+   "timestamp": "2024-03-11T02:29:18.000Z"
+  },
+  "sm228/src/sm228_maxx.map": {
+   "bytes": 1175494,
+   "sha256": "bd8f2fd6ea7b96b6206b6a9f3aa6fca4edb701c2b4c5a87cbf151913d9f8b7eb",
+   "timestamp": "2024-03-10T21:29:22.000Z"
+  },
+  "sm228/src/sm228_milestone.map": {
+   "bytes": 1478133,
+   "sha256": "622f5e18cddcf80e53a119ca3aa7f86c09a3dcc746499c2c7b7780e6b3f0e985",
+   "timestamp": "2024-03-11T17:41:40.000Z"
+  },
+  "sm228/src/sm228_nh.map": {
+   "bytes": 787927,
+   "sha256": "134d358c5ffc09198a6ff008727f621b09e825a514bb0b67be9ee32a55092998",
+   "timestamp": "2024-03-11T18:45:14.000Z"
+  },
+  "sm228/src/sm228_recycledoj.map": {
+   "bytes": 707293,
+   "sha256": "22e139c0b449750098af299e7f35faf741ad9a0d68fbf41e6b66ad7203f9c0ff",
+   "timestamp": "2024-03-11T09:52:08.000Z"
+  },
+  "sm228/src/sm228_zetabyt.map": {
+   "bytes": 2184808,
+   "sha256": "713faf0c980e05077425476af1cb2a8d4c7d343fab9764935bc523fd9c4d4722",
+   "timestamp": "2024-03-10T22:52:02.000Z"
+  },
+  "sm228/src/sm228_zigi.map": {
+   "bytes": 1705239,
+   "sha256": "76ddf5cdf440de385f247adc10de128c8d0b125634eeee41f2df4a749896cb55",
+   "timestamp": "2024-03-11T17:28:06.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "afccd47d4ab7f6c4a8b5f81f8261977934875b11f6782f1f6d1de3b24ad78fd3",
+ "tags": [
+  "author=66ppt99",
+  "author=Avix",
+  "author=Chuma",
+  "author=CommonCold",
+  "author=Danz",
+  "author=Doritos420",
+  "author=Lob",
+  "author=Mazu",
+  "author=Milestone",
+  "author=Mizuki",
+  "author=MortalMaxx",
+  "author=Newhouse",
+  "author=RecycledOJ",
+  "author=Spootnik",
+  "author=VuRkka",
+  "author=ZetaByt",
+  "author=alexUnder",
+  "author=iYago",
+  "author=zigi",
+  "commandline=-game sm228",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=sm228.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/sm228-vanilla.335/)",
+  "release_date=2024-03-13",
+  "startmap=start",
+  "title=SM228 - Vanilla",
+  "type=mapjam",
+  "type=mod",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/sm228.zip"
+ ]
+}

@@ -61,6 +61,7 @@
   "author=Mista Heita",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=mhsp01.zip",
   "game=quake",

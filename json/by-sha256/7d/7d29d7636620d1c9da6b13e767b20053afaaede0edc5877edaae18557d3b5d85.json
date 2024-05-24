@@ -41,6 +41,7 @@
   "author=Giftmacher",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=ad_e1m3.zip",
   "game=quake",

@@ -81,6 +81,7 @@
   "author=quasiotter",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=quasiotter_cmrsfm.zip",
   "game=quake",
   "game_mode=singleplayer",

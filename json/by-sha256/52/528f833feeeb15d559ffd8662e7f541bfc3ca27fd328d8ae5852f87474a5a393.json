@@ -118,13 +118,16 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=60931)",
   "map_size=medium",
   "nonspecific_tag=items",
+  "provides='mstalk=1.0'",
   "release_date=2013-05-11",
+  "release_group=mstalk",
   "source=included",
   "startmap=mstalk",
   "theme=metal",
   "theme=runic",
   "title=Midnight Stalker",
   "type=mod",
+  "version=1.0",
   "zipbasedir=mstalk/"
  ],
  "urls": [

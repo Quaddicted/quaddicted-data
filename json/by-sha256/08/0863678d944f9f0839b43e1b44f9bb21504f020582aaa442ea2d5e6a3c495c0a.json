@@ -71,6 +71,7 @@
   "author=mfx",
   "commandline=-game retrojam1",
   "dependency=retrojam1",
+  "depends=ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
   "filename=retro_mfx_fix.zip",
   "game=quake",
   "game_mode=singleplayer",

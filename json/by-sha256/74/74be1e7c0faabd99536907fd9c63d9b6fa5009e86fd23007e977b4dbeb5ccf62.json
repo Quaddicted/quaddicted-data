@@ -337,6 +337,7 @@
   "author=Scampie",
   "commandline=-game copper",
   "dependency=copper_v1_16",
+  "depends=('copper>=1.16')",
   "exceeds_quake_limits=yes",
   "filename=udob.zip",
   "game=quake",
@@ -351,7 +352,9 @@
   "nonspecific_tag=q3dm3",
   "nonspecific_tag=q3dm6",
   "nonspecific_tag=start",
+  "provides='udob=1.0'",
   "release_date=2019-06-21",
+  "release_group=udob",
   "source=included",
   "startmap=end",
   "startmap=start",
@@ -372,6 +375,7 @@
   "title=Underdark Overbright",
   "type=episode",
   "type=map",
+  "version=1.0",
   "zipbasedir=copper/"
  ],
  "urls": [

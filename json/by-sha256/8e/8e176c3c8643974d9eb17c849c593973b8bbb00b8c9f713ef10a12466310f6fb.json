@@ -25,7 +25,9 @@
  "tags": [
   "author=JPL",
   "commandline=-hipnotic -game quoth",
+  "current_main_group_package=yes",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=src2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -35,12 +37,15 @@
   "map_size=large",
   "mod=quoth",
   "nonspecific_tag=ambiance",
+  "provides='src=2.0'",
   "release_date=2008-03-10",
+  "release_group=src",
   "theme=base",
   "theme=doom 3",
   "theme=quoth",
   "title=SRC2: Slime Refinery Complex - Quoth2 Version",
   "type=map",
+  "version=2.0",
   "zipbasedir=quoth/maps/"
  ],
  "urls": [

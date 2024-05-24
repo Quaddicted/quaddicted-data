@@ -36,6 +36,7 @@
   "author=sock",
   "commandline=-heapsize 128000 -game ad",
   "dependency=ad_v1_50final",
+  "depends=('ad>=1.50')",
   "exceeds_quake_limits=yes",
   "filename=ad_scastle1d.zip",
   "game=quake",

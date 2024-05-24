@@ -36,6 +36,7 @@
   "author=Avix",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "filename=avix_qcastle.zip",
   "game=quake",
   "game_mode=singleplayer",

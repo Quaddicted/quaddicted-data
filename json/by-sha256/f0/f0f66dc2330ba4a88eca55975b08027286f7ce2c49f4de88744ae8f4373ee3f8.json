@@ -743,11 +743,14 @@
   "mod=copper",
   "nonspecific_tag=devkit",
   "nonspecific_tag=qc",
+  "provides='copper=1.20'",
   "release_date=2022-11-27",
+  "release_group=copper",
   "startmap=start",
   "theme=base",
   "title=Copper - Version 1.20",
-  "type=mod"
+  "type=mod",
+  "version=1.20"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/copper_v1_20.zip",

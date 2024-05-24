@@ -24,18 +24,22 @@
  "sha256": "3f185f03c3eacfd403d6e8dac81161b900f5946ab6abf137d3542ad6af41a083",
  "tags": [
   "author=John Romero",
+  "current_main_group_package=yes",
   "filename=e2m10.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://rome.ro",
   "link:review=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=80)",
   "nonspecific_tag=id",
+  "provides='e2m10=2.0'",
   "release_date=2001-06-23",
+  "release_group=e2m10",
   "source=included",
   "theme=cave",
   "theme=swamp",
   "title=Lost Entrance of the Dismal Oubliette",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

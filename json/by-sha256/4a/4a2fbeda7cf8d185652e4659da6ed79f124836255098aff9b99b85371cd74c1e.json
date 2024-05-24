@@ -31,6 +31,7 @@
   "author=Spiked_",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "exceeds_quake_limits=yes",
   "filename=runemech.zip",
   "game=quake",

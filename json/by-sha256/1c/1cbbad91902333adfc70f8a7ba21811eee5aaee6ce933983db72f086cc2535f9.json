@@ -1948,7 +1948,9 @@
   "nonspecific_tag=epic",
   "nonspecific_tag=hard",
   "nonspecific_tag=monsters",
+  "provides='nsoe=1.0'",
   "release_date=2008-08-15",
+  "release_group=nsoe",
   "startmap=start",
   "theme=dragon",
   "theme=fantasy",
@@ -1956,6 +1958,7 @@
   "title=Soul of Evil: Indian Summer",
   "type=episode",
   "type=mod",
+  "version=1.0",
   "zipbasedir=nsoe/"
  ],
  "urls": [

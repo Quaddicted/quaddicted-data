@@ -27,6 +27,7 @@
   "bsp_format=bsp2",
   "commandline=-game shadows",
   "dependency=its_demo_v1_1",
+  "depends=('its_demo>=1.1')",
   "filename=dr57-itsd2-deufel.zip",
   "game=quake",
   "game_mode=singleplayer",

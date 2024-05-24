@@ -337,6 +337,7 @@
   "author=Scampie",
   "commandline=-game copper",
   "dependency=copper_v1_16",
+  "depends=('copper>=1.16')",
   "exceeds_quake_limits=yes",
   "filename=udob_v1_1.zip",
   "game=quake",

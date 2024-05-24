@@ -371,6 +371,7 @@
   "author=GW_X9",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=dnq.zip",
   "game=quake",
   "game_mode=singleplayer",

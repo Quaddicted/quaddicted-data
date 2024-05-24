@@ -737,11 +737,14 @@
   "mod=copper",
   "nonspecific_tag=devkit",
   "nonspecific_tag=qc",
+  "provides='copper=1.19'",
   "release_date=2022-07-01",
+  "release_group=copper",
   "startmap=start",
   "theme=base",
   "title=Copper - Version 1.19",
-  "type=mod"
+  "type=mod",
+  "version=1.19"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/copper_v1_19.zip",

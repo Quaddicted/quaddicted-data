@@ -121,6 +121,7 @@
   "author=mfx",
   "commandline=-game quoth -hipnotic",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=mfxsp17.zip",
   "game=quake",

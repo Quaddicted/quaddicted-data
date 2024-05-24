@@ -26,6 +26,7 @@
   "author=Matthias Worch",
   "commandline=-game bbelief",
   "dependency=bbelief",
+  "depends=0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
   "filename=bbelief2008.zip",
   "game=quake",
   "game_mode=singleplayer",

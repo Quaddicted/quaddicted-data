@@ -44,7 +44,9 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
   "nonspecific_tag=old version",
+  "provides='masque=1.0'",
   "release_date=2005-10-12",
+  "release_group=masque",
   "startmap=masque",
   "startmap=masquestart",
   "theme=canyon",
@@ -53,6 +55,7 @@
   "theme=scourge of armagon",
   "title=The Masque of Red Death",
   "type=mod",
+  "version=1.0",
   "zipbasedir=masque/"
  ],
  "urls": [

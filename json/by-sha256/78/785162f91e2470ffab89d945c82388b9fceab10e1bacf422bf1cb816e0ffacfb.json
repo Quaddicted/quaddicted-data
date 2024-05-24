@@ -76,6 +76,7 @@
   "author=Daya",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "filename=gravelpitfinal2.zip",
   "game=quake",
   "game_mode=singleplayer",

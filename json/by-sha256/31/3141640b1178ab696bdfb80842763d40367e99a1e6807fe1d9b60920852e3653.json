@@ -21,6 +21,7 @@
   "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game soe",
   "dependency=soe_full",
+  "depends=9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
   "exceeds_quake_limits=yes",
   "filename=coven.zip",
   "game=quake",

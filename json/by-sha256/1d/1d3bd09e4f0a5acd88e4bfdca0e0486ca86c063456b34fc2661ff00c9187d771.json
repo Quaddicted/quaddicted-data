@@ -281,6 +281,7 @@
   "author=rj",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceedslimits=exceeds_quake_limits",
   "filename=ad_rje2m6.zip",
   "game=quake",

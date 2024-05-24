@@ -26,6 +26,7 @@
   "author=John \"DaMaul\" McCann",
   "commandline=-game zer",
   "dependency=zer",
+  "depends=('zer>=1.0')",
   "filename=damaul6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,7 +38,7 @@
   "release_date=1999-06-18",
   "theme=base",
   "theme=industrial",
-  "theme=zerst\u00f6rer",
+  "theme=zerst\u005Cu00f6rer",
   "title=Bestial Devastation",
   "type=map",
   "zipbasedir=id1/maps/"

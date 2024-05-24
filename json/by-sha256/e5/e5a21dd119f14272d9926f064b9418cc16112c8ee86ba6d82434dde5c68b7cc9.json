@@ -3035,7 +3035,9 @@
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
+  "provides='alkaline=1.10'",
   "release_date=2021-11-23",
+  "release_group=alkaline",
   "startmap=alk_bdown",
   "startmap=alk_central",
   "startmap=alk_chaos",
@@ -3064,6 +3066,7 @@
   "title=Alkaline 1.1",
   "type=episode",
   "type=mod",
+  "version=1.10",
   "zipbasedir=/"
  ],
  "urls": [

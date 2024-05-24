@@ -79,6 +79,7 @@
   "author=Neil Manke",
   "commandline=-game soldier",
   "dependency=sofsp1",
+  "depends=8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2",
   "filename=sofsp2.zip",
   "game=quake",
   "game_mode=singleplayer",

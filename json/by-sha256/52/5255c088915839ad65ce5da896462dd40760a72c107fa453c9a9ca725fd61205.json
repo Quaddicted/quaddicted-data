@@ -51,6 +51,7 @@
   "author=Mista Heita",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "filename=ancient1.1.zip",
   "game=quake",
   "game_mode=deathmatch",

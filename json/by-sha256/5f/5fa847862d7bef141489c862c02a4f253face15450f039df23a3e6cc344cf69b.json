@@ -27,6 +27,7 @@
   "author=id",
   "commandline=-game drake",
   "dependency=drakebeta2021",
+  "depends=('drake>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=e1m5drake.zip",
   "game=quake",

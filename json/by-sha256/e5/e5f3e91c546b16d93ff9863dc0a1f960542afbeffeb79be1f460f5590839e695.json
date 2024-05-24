@@ -21,6 +21,7 @@
   "author=necros",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=ne_deadcity.zip",
   "game=quake",
   "game_mode=singleplayer",

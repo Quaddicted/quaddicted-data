@@ -20,7 +20,9 @@
  "tags": [
   "author=RickyT23",
   "commandline=-hipnotic -game quoth",
+  "current_main_group_package=yes",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=quarantine02.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,11 +31,14 @@
   "map_size=medium",
   "mod=quoth",
   "nonspecific_tag=glass",
+  "provides='quarantine=2.0'",
   "release_date=2013-04-09",
+  "release_group=quarantine",
   "theme=base",
   "theme=quoth",
   "title=Quarantine",
   "type=map",
+  "version=2.0",
   "zipbasedir=quoth/maps/"
  ],
  "urls": [

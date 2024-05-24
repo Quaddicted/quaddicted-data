@@ -61,6 +61,7 @@
   "author=mtsch",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=mtsch001.zip",
   "game=quake",

@@ -26,6 +26,7 @@
   "author=mukor",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "filename=ad_muksp2.zip",
   "game=quake",
   "game_mode=singleplayer",

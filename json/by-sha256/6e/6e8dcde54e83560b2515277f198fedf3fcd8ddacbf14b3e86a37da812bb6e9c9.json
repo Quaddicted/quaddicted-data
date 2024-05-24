@@ -1,0 +1,40 @@
+{
+ "bytes": 504334,
+ "files": {
+  "planetside.bsp": {
+   "bytes": 1104876,
+   "sha256": "2bb8aa1b28b304f65dbc2bef63db84fb4667bd307f571b6b6abd703586922e65",
+   "timestamp": "2024-02-18T18:42:26.000Z"
+  },
+  "planetside.map": {
+   "bytes": 286292,
+   "sha256": "deaf8263cc5a9abf9bfcc98fc47c38571fcfc2219a50ea5e8c3d045917325898",
+   "timestamp": "2024-01-13T14:38:46.000Z"
+  },
+  "planetside_readme.txt": {
+   "bytes": 1759,
+   "sha256": "47ac7c476df05917bbc16233a764d5e88149b1a91bf367a740e60ae1d3816dfa",
+   "timestamp": "2024-02-18T18:51:14.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6e8dcde54e83560b2515277f198fedf3fcd8ddacbf14b3e86a37da812bb6e9c9",
+ "tags": [
+  "author=Skullzrawk9",
+  "filename=planetside.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer link](https://www.slipseer.com/index.php?resources/planetside.323/)",
+  "release_date=2024-02-20",
+  "startmap=planetside",
+  "title=Planetside",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/planetside.zip"
+ ]
+}

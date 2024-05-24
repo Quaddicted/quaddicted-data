@@ -41,6 +41,7 @@
   "author=Scampie",
   "commandline=-game copper",
   "dependency=copper",
+  "depends=('copper>=1.00')",
   "exceeds_quake_limits=yes",
   "filename=primum.zip",
   "game=quake",

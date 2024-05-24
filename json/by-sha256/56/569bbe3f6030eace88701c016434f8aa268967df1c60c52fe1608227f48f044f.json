@@ -46,6 +46,7 @@
   "author=DrMelon",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "filename=drmelon-thrallbreak.zip",
   "game=quake",
   "game_mode=singleplayer",

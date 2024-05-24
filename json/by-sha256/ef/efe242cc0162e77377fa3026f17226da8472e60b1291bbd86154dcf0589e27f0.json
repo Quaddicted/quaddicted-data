@@ -26,6 +26,7 @@
   "author=digs",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceedslimits=exceeds_quake_limits",
   "filename=ad_digs10.zip",
   "game=quake",

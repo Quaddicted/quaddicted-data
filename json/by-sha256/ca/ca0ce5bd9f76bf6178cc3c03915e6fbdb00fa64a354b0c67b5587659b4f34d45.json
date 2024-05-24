@@ -31,6 +31,7 @@
   "author=Drew",
   "author=Trinca",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sm137_pack.zip",
   "game=quake",
   "game_mode=singleplayer",

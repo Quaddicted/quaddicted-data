@@ -116,6 +116,7 @@
   "author=alexUnder",
   "commandline=-game copper",
   "dependency=copper_v1_19",
+  "depends=('copper>=1.19')",
   "exceeds_quake_limits=yes",
   "filename=aur1_amuse_upd1.zip",
   "game=quake",

@@ -3685,6 +3685,7 @@
   "author=KenChennar alias Orl",
   "bsp_format=bsp2",
   "commandline=-heapsize 1536000 -game Tershibboleth +sv_protocol 999",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=ter_shibboleth_drake_redux.zip",
   "game=quake",
@@ -3703,7 +3704,9 @@
   "nonspecific_tag=paris",
   "nonspecific_tag=rome",
   "nonspecific_tag=vista",
+  "provides='ter_shibboleth=2.1'",
   "release_date=2020-10-12",
+  "release_group=ter_shibboleth",
   "source=included",
   "startmap=shib1_drake",
   "startmap=shib2_drake",
@@ -3728,6 +3731,7 @@
   "title=Ter Shibboleth: Drake Redux",
   "type=episode",
   "type=mod",
+  "version=2.1",
   "zipbasedir=/"
  ],
  "urls": [

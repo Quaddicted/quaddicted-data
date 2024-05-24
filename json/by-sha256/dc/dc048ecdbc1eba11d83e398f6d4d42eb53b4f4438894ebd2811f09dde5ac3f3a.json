@@ -199,6 +199,7 @@
   "author=necros",
   "commandline=-quoth -game ne_tower",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=ne_tower.zip",
   "game=quake",
   "game_mode=singleplayer",

@@ -26,6 +26,7 @@
   "author=mfx",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=mfxsp10.zip",
   "game=quake",
   "game_mode=singleplayer",

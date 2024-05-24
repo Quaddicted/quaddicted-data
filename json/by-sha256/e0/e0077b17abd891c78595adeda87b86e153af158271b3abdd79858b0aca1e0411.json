@@ -43,6 +43,7 @@
  "tags": [
   "author=Scott McNutt",
   "commandline=-game housep",
+  "current_main_group_package=yes",
   "filename=housp.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -52,12 +53,15 @@
   "nonspecific_tag=custom",
   "nonspecific_tag=monsters",
   "nonspecific_tag=start",
+  "provides='houstrps=2.0'",
   "release_date=1996-11-20",
+  "release_group=houstrps",
   "startmap=enterhos",
   "theme=traps",
   "theme=wizard",
   "title=House of Traps (Spider)",
   "type=mod",
+  "version=2.0",
   "zipbasedir=housep/"
  ],
  "urls": [

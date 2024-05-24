@@ -31,6 +31,7 @@
   "author=skacky",
   "commandline=-game quoth -quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=sksp2b.zip",
   "game=quake",

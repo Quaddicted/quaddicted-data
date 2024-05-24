@@ -714,10 +714,13 @@
   "game_mode=singleplayer",
   "link:homepage=http://lunaran.com/copper/",
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61746)",
+  "provides='copper=1.15'",
   "release_date=2020-11-22",
+  "release_group=copper",
   "startmap=start",
   "title=Copper - Version 1.15",
   "type=mod",
+  "version=1.15",
   "zipbasedir=/"
  ],
  "urls": [
