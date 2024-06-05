@@ -1,5 +1,6 @@
 {
  "bytes": 3508243,
+ "description": "A pretty big and hard base map. The map source is included.",
  "files": {
   "fbase.bsp": {
    "bytes": 6224012,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b54bacebf3ce44e4bf983982bdc3480f4c5abe13c45d19b40fbc4548bfa8071a",
  "tags": [
   "author=Trinca",

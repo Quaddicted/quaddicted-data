@@ -1,5 +1,6 @@
 {
  "bytes": 1970253,
+ "description": "Results of an impromptu speedmapping/jam session following a \"medieval E1M2 style brickwork and about 20 monsters\" theme. The map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -61,6 +62,7 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "711c7de5d896c0780c56552b3b6f8e30dca88c0061ebcf73533ac18ddb10f890",
  "tags": [
   "author=Zombie",

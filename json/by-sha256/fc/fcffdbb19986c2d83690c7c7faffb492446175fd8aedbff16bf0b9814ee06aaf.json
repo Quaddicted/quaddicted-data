@@ -1,5 +1,6 @@
 {
  "bytes": 641128,
+ "description": "Two *very* small maps with Wolfenstein / Doom2 textures.",
  "files": {
   "jzspq/CONFIG.CFG": {
    "bytes": 7283,
@@ -56,6 +57,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fcffdbb19986c2d83690c7c7faffb492446175fd8aedbff16bf0b9814ee06aaf",
  "tags": [
   "author=Jason Zukowski",

@@ -1,5 +1,6 @@
 {
  "bytes": 9019819,
+ "description": "Single player campaign with two episodes, each consisting of five small to medium sized maps in varying themes.",
  "files": {
   "PAK2.PAK": {
    "bytes": 10467766,
@@ -115,6 +116,9 @@
   "extract": "{base}/dd/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map pack requires Scourge of Armagon."
+ ],
  "sha256": "8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6",
  "tags": [
   "author=Lethargy Software",

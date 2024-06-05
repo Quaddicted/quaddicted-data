@@ -1,5 +1,6 @@
 {
  "bytes": 755462,
+ "description": "Medium sized Wizard map with awkward lighting in places the player is required to find buttons.",
  "files": {
   "TheMines.TXT": {
    "bytes": 2004,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b2f9c859027cc3fb026d087699bc949be6425f37e39cc7898732832c6cbadbaf",
  "tags": [
   "author=Stuart Maine",

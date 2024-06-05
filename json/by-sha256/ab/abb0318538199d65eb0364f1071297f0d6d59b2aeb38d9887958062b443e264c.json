@@ -1,5 +1,6 @@
 {
  "bytes": 571588,
+ "description": "Medium sized Base map with Wizard bits.",
  "files": {
   "Hellbase.txt": {
    "bytes": 1533,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "abb0318538199d65eb0364f1071297f0d6d59b2aeb38d9887958062b443e264c",
  "tags": [
   "author=Roger Staines",

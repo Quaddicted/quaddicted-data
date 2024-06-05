@@ -1,5 +1,6 @@
 {
  "bytes": 402973,
+ "description": "A blue metal map, quite confusing at moments but overall quite entertaining to play.",
  "files": {
   "SCORN.BSP": {
    "bytes": 925232,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "04d5125af12b46b48557d9accc6098302ba75404f57c8c4e3da3b294694aa6c5",
  "tags": [
   "author=Michael Reed",

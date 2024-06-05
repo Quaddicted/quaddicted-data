@@ -1,5 +1,6 @@
 {
  "bytes": 758490,
+ "description": "Small wizard map that requires finding some secrets to proceed. Comes with two demos.",
  "files": {
   "DEATH.BSP": {
    "bytes": 1121576,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "38ac8d891811f43e83f130756ee81e06bf90e0c01216aead3f994865a1c025f4",
  "tags": [
   "author=Marc Roussel",

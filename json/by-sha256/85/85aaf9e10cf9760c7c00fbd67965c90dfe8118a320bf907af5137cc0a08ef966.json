@@ -1,5 +1,6 @@
 {
  "bytes": 789919,
+ "description": "Large base map.",
  "files": {
   "Borax.txt": {
    "bytes": 6564,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "85aaf9e10cf9760c7c00fbd67965c90dfe8118a320bf907af5137cc0a08ef966",
  "tags": [
   "author=Dennis Katsonis",

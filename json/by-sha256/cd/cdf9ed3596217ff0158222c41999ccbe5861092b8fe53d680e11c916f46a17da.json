@@ -1,5 +1,6 @@
 {
  "bytes": 1594481,
+ "description": "Large interconnected metal-style windtunnel map.",
  "files": {
   "digs03.bsp": {
    "bytes": 3740178,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cdf9ed3596217ff0158222c41999ccbe5861092b8fe53d680e11c916f46a17da",
  "tags": [
   "author=Digs",

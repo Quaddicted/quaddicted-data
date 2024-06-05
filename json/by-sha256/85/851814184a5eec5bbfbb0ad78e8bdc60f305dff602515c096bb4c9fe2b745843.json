@@ -1,5 +1,6 @@
 {
  "bytes": 298438,
+ "description": "Small and dark IKblue map.",
  "files": {
   "dnspq1.bsp": {
    "bytes": 717328,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "851814184a5eec5bbfbb0ad78e8bdc60f305dff602515c096bb4c9fe2b745843",
  "tags": [
   "author=Jago",

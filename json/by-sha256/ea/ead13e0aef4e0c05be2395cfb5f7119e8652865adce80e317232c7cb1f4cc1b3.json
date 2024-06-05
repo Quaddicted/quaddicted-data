@@ -1,5 +1,6 @@
 {
  "bytes": 533908,
+ "description": "Medium wizard level in E1M2 style.",
  "files": {
   "Hostile.bsp": {
    "bytes": 1188688,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3",
  "tags": [
   "author=J.F.Gustafsson",

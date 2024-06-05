@@ -1,5 +1,6 @@
 {
  "bytes": 878492,
+ "description": "Large base map.",
  "files": {
   "polygon.bsp": {
    "bytes": 2060300,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a",
  "tags": [
   "author=Rick Lipsey",

@@ -1,5 +1,6 @@
 {
  "bytes": 9821947,
+ "description": "Small temple map using Kaahoo textures. A touched-up and expanded version of sock's entry from SM175.",
  "files": {
   "kaahoo1a_readme.txt": {
    "bytes": 2937,
@@ -153,6 +154,7 @@
   "extract": "{base}/kaahoo/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
  "tags": [
   "author=sock",

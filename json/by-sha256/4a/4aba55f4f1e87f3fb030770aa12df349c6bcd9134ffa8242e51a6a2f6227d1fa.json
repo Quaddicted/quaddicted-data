@@ -1,5 +1,6 @@
 {
  "bytes": 1081245,
+ "description": "Unthemed / 2 SP maps / Ankh, Drew (Quoth)",
  "files": {
   "sm136_ankh.bsp": {
    "bytes": 897104,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4aba55f4f1e87f3fb030770aa12df349c6bcd9134ffa8242e51a6a2f6227d1fa",
  "tags": [
   "author=Ankh",

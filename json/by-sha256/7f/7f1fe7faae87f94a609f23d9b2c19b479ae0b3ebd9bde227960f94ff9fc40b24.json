@@ -1,5 +1,6 @@
 {
  "bytes": 482940,
+ "description": "Small metal map.",
  "files": {
   "Foon.bsp": {
    "bytes": 1080512,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7f1fe7faae87f94a609f23d9b2c19b479ae0b3ebd9bde227960f94ff9fc40b24",
  "tags": [
   "author=J.F.Gustafsson",

@@ -1,5 +1,6 @@
 {
  "bytes": 7927814,
+ "description": "A large base-themed map inspired by Half-Life 1 / Black Mesa with a ton of blue and green lighting, hence the name. The author's first release.",
  "files": {
   "id1/Maps/": {
    "bytes": 0,
@@ -71,6 +72,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Difficulty settings are not implemented. Map source is included. Probably requires a modern engine / source port with increased limits."
+ ],
  "sha256": "2bbdb18035cbc2b44ad506025e4288a444bc106748b7cab57ba8c895d03be72c",
  "tags": [
   "author=GrazzasOnlyFan",

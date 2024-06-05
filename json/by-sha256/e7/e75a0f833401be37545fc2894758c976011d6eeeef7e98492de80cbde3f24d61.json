@@ -1,5 +1,6 @@
 {
  "bytes": 414808,
+ "description": "Large, plain, orange multiple-story building.",
  "files": {
   "Empire.bsp": {
    "bytes": 1016768,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e75a0f833401be37545fc2894758c976011d6eeeef7e98492de80cbde3f24d61",
  "tags": [
   "author=Jim Strider",

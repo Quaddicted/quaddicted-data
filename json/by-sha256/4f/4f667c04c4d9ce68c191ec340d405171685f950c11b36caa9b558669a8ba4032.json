@@ -1,5 +1,6 @@
 {
  "bytes": 4151285,
+ "description": "Short episode with five small Base maps. The mission is to infiltrate some bioforge facility, retrieve a genetic code stored on a keycard and return to entrance slipgate.",
  "files": {
   "dxmf.bsp": {
    "bytes": 1920508,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032",
  "tags": [
   "author=Zied Rieke",

@@ -1,5 +1,6 @@
 {
  "bytes": 781862,
+ "description": "Bookworm Bitches from the Ether Space / 3 SP maps / NahkahiiR, Spirit, Trinca",
  "files": {
   "sm151_nahk.bsp": {
    "bytes": 327440,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e0bbd0b0d2844e40056f804e2ffdcc5207463dc662d7b328a496ebd89ed3e159",
  "tags": [
   "author=NahkahiiR",

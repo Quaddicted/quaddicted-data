@@ -1,5 +1,6 @@
 {
  "bytes": 644348,
+ "description": "Small to medium Wizard/Metal map with waterfall canyon leading to a cave with an eddy, a temple and underground caverns.",
  "files": {
   "dspirl11.bsp": {
    "bytes": 1519408,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c",
  "tags": [
   "author=Stan C.",

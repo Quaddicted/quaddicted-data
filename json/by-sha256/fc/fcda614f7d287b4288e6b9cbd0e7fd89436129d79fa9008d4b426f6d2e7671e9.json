@@ -1,5 +1,6 @@
 {
  "bytes": 403344,
+ "description": "A nice looking church but very short gameplay.",
  "files": {
   "r_church.bsp": {
    "bytes": 1044724,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fcda614f7d287b4288e6b9cbd0e7fd89436129d79fa9008d4b426f6d2e7671e9",
  "tags": [
   "author=Rutger Baks",

@@ -1,5 +1,6 @@
 {
  "bytes": 544742,
+ "description": "Small linear Wizard/Medieval map created for speedrunning.",
  "files": {
   "Phallusy.txt": {
    "bytes": 2048,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8d399359f47acddb513e51fec50d8d1f4a043aa476eb233a9d10a222d628051c",
  "tags": [
   "author=Marc Reilly",

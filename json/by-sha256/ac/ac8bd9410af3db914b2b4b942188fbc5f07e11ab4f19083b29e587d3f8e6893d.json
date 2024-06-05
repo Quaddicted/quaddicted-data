@@ -1,5 +1,6 @@
 {
  "bytes": 3871715,
+ "description": "Blue medieval episode with 4 levels (+start/end map), some new monsters and fairly tough gameplay.",
  "files": {
   "coe_readme.txt": {
    "bytes": 4784,
@@ -246,6 +247,9 @@
   "extract": "{base}/coe/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "A patch is available here: <a href=\"8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac\">coe_p</a>."
+ ],
  "sha256": "ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

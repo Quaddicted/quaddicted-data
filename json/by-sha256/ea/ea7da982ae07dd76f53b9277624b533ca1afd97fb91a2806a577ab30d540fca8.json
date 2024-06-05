@@ -1,5 +1,6 @@
 {
  "bytes": 1218390,
+ "description": "Around medium sized map - an attempt at recreating \"the squalid east end of London of the Victorian era a time of gas lamp shadows alleyways and the worlds first serial killer\" (Jack the Ripper).",
  "files": {
   "deadstuf.zip": {
    "bytes": 233014,
@@ -269,6 +270,7 @@
   "extract": "{base}/fromhell/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "tags": [
   "author=Pete Burrows",

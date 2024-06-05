@@ -1,5 +1,6 @@
 {
  "bytes": 1092192,
+ "description": "Large Wizard castle with several water and outdoor areas.",
  "files": {
   "Burgth.txt": {
    "bytes": 2540,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b951df48ca68557293284ad52e4dfd38154f992cc305834a96ab2efd97414038",
  "tags": [
   "author=MadFox",

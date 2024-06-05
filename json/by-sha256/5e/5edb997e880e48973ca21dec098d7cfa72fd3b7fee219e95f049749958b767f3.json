@@ -1,5 +1,6 @@
 {
  "bytes": 1806944,
+ "description": "Secret maps / 6 SP maps / Voodoochopstiks, Drew, generic, Hrimfaxi, neg!ke, Tron",
  "files": {
   "sm104_chop.bsp": {
    "bytes": 719804,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3",
  "tags": [
   "author=Drew",

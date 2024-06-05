@@ -1,5 +1,6 @@
 {
  "bytes": 888235,
+ "description": "Medium sized map with a somewhat unusual theme (some new textures) but basic gameplay. Average at best.",
  "files": {
   "purg3.bsp": {
    "bytes": 2036884,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f919907c53d201278422cd14f034dfe3bbb23f7790e8034f702c0f155a833e5a",
  "tags": [
   "author=Bryan Pillow",

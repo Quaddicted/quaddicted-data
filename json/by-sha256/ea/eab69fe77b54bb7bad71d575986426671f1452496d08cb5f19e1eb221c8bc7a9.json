@@ -1,5 +1,6 @@
 {
  "bytes": 951582,
+ "description": "Netherworld assembly line / 5 SP maps, 1 DM map / bambuz, negke, Speedy, Spirit, Zwiffle",
  "files": {
   "sm142_bam.bsp": {
    "bytes": 171376,
@@ -66,6 +67,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9",
  "tags": [
   "author=Speedy",

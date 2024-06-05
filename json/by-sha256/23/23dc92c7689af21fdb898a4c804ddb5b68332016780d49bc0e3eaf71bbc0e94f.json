@@ -1,5 +1,6 @@
 {
  "bytes": 610094,
+ "description": "A hospital-based deathmatch map with some zombies thrown in. Comes with two player skins for deathmatch (janitor and chef). Lots of fullbright pixels.",
  "files": {
   "chqmd.bsp": {
    "bytes": 1784532,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f",
  "tags": [
   "author=Quake Map Designer",

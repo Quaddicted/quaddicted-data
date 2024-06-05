@@ -1,5 +1,6 @@
 {
  "bytes": 521710,
+ "description": "Small Base-style speedmap.",
  "files": {
   "Speedbase.txt": {
    "bytes": 659,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181",
  "tags": [
   "author=Hrimfaxi",

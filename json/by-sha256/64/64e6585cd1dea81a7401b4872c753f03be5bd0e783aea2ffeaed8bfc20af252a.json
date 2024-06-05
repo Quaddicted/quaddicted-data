@@ -1,5 +1,6 @@
 {
  "bytes": 468328,
+ "description": "Small Metal level.",
  "files": {
   "ARMA2.BSP": {
    "bytes": 1090712,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a",
  "tags": [
   "author=Matthias Worch",

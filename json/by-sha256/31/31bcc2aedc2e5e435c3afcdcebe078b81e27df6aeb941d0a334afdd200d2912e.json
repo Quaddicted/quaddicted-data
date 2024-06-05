@@ -1,5 +1,6 @@
 {
  "bytes": 602226,
+ "description": "Small to medium 'realism' prism escape map.",
  "files": {
   "escape.bsp": {
    "bytes": 1384984,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e",
  "tags": [
   "author=Gonzoj",

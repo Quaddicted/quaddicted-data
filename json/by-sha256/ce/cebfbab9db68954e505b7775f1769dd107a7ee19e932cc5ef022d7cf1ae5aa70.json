@@ -1,5 +1,6 @@
 {
  "bytes": 896187,
+ "description": "A short non-interactive demo setting the tone of the events about to unfold in <a href=\"e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797\">Zerstörer - Testament of the Destroyer</a>.",
  "files": {
   "zerdem/pak0.pak": {
    "bytes": 2105521,
@@ -58,6 +59,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cebfbab9db68954e505b7775f1769dd107a7ee19e932cc5ef022d7cf1ae5aa70",
  "tags": [
   "author=Nihilism Unlimited",
@@ -67,8 +69,8 @@
   "game_mode=singleplayer",
   "nonspecific_tag=preview",
   "release_date=1997-06-07",
-  "theme=zerst\u00f6rer",
-  "title=Zerst\u00f6rer Demo",
+  "theme=zerstu00f6rer",
+  "title=Zerstu00f6rer Demo",
   "type=mod"
  ],
  "urls": [

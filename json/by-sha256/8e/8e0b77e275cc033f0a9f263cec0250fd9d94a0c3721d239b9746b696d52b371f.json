@@ -1,5 +1,6 @@
 {
  "bytes": 764800,
+ "description": "Unthemed / 6 SP maps / Apollo, Cybear, intertia, Notorious Ray, than, Xenon",
  "files": {
   "sm27_ap.bsp": {
    "bytes": 294392,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f",
  "tags": [
   "author=Apollo",

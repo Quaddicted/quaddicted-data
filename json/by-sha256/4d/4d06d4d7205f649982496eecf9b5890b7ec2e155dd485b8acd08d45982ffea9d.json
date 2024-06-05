@@ -1,5 +1,6 @@
 {
  "bytes": 1201269,
+ "description": "A well made, pretty huge and nicely balanced medieval level.",
  "files": {
   "CZG02.bsp": {
    "bytes": 2762148,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4d06d4d7205f649982496eecf9b5890b7ec2e155dd485b8acd08d45982ffea9d",
  "tags": [
   "author=czg",

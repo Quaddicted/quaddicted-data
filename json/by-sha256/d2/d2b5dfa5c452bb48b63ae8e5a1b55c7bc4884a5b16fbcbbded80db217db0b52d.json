@@ -1,5 +1,6 @@
 {
  "bytes": 347787,
+ "description": "Small Base-style hub connecting the three units of the LFSP series.",
  "files": {
   "lfspme.bsp": {
    "bytes": 896660,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d2b5dfa5c452bb48b63ae8e5a1b55c7bc4884a5b16fbcbbded80db217db0b52d",
  "tags": [
   "author=Leafface",

@@ -1,5 +1,6 @@
 {
  "bytes": 1130633,
+ "description": "~ish maps / 4 SP maps / czg, Fat Controller, Scampie, Xen",
  "files": {
   "SM51_FAT.bsp": {
    "bytes": 465368,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2",
  "tags": [
   "author=Fat Controller",

@@ -1,5 +1,6 @@
 {
  "bytes": 731209,
+ "description": "Small medieval/metal level with a rocky outdoor area. Includes the .map file and a demo.",
  "files": {
   "WHIPPET.BSP": {
    "bytes": 1211200,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a",
  "tags": [
   "author=Marc Roussel",

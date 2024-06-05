@@ -1,5 +1,6 @@
 {
  "bytes": 39881484,
+ "description": "Maps made using Kreathor's prototype texture wad. Uses the copper mod (included).",
  "files": {
   "sm224/": {
    "bytes": 0,
@@ -1710,6 +1711,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a93e1031b474ae33e1ed16c98ede2a839449d8ff5644ca9678cfb5073af6b180",
  "tags": [
   "author=Amperz",

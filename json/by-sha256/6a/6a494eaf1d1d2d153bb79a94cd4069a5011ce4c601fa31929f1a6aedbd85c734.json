@@ -1,5 +1,6 @@
 {
  "bytes": 1502932,
+ "description": "Action-packed Q2 base / metal themed level with many reskinned grunts.",
  "files": {
   "simmer/": {
    "bytes": 0,
@@ -205,6 +206,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6a494eaf1d1d2d153bb79a94cd4069a5011ce4c601fa31929f1a6aedbd85c734",
  "tags": [
   "author=Qubix",

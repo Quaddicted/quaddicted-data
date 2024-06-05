@@ -1,5 +1,6 @@
 {
  "bytes": 1661018,
+ "description": "Medium sized Base map with some very tough custom monsters (SNG and RL grunts, laser drones, Manga Babe and two of her friends) as well as other progs.",
  "files": {
   "Bazooka.txt": {
    "bytes": 4512,
@@ -282,6 +283,7 @@
   "extract": "{base}/hrdtrgt2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38",
  "tags": [
   "author=Scott McNutt",

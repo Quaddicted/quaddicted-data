@@ -1,5 +1,6 @@
 {
  "bytes": 1343295,
+ "description": "A showcase map for the \"Director patch\", nicely rotating entities and fun cutscenes. Worth a look and delivering a laugh.",
  "files": {
   "Gadgets.BAT": {
    "bytes": 39,
@@ -184,6 +185,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f",
  "tags": [
   "author=David Kelvin",

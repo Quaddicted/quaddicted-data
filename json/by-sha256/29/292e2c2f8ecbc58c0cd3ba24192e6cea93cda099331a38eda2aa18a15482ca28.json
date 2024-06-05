@@ -1,5 +1,6 @@
 {
  "bytes": 10646497,
+ "description": "Expanded standalone version of sock's map from <a href=\"4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac\">Func Map Jam 2</a>: a medium-sized, IKblue-themed, partially ruined temple with two individual routes for replayablility. It comes with a set of medieval-style item boxes.",
  "files": {
   "1000cuts1a_readme.txt": {
    "bytes": 3206,
@@ -197,6 +198,7 @@
   "extract": "{base}/1000cuts/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28",
  "tags": [
   "author=sock",

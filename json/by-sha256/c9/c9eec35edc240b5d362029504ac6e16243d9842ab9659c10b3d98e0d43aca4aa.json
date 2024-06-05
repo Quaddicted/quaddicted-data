@@ -1,5 +1,6 @@
 {
  "bytes": 178522,
+ "description": "A room with brushes in it.",
  "files": {
   "ANOXIA.BSP": {
    "bytes": 386268,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c9eec35edc240b5d362029504ac6e16243d9842ab9659c10b3d98e0d43aca4aa",
  "tags": [
   "author=Paul Cook",

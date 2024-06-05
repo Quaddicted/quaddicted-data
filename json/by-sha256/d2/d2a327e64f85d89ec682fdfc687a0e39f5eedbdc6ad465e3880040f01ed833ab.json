@@ -1,5 +1,6 @@
 {
  "bytes": 922525,
+ "description": "Small purple-bricked castle level. The map source is included.",
  "files": {
   "sm_dq1.bsp": {
    "bytes": 1494876,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab",
  "tags": [
   "author=DraQu",

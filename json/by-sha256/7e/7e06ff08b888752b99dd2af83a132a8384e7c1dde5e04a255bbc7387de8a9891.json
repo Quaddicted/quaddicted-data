@@ -1,5 +1,6 @@
 {
  "bytes": 229556,
+ "description": "Small teleporter hub something.",
  "files": {
   "FunRun.bsp": {
    "bytes": 548528,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7e06ff08b888752b99dd2af83a132a8384e7c1dde5e04a255bbc7387de8a9891",
  "tags": [
   "author=Phil Hammond",

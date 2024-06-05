@@ -1,5 +1,6 @@
 {
  "bytes": 480926,
+ "description": "Small Wizard style castle with an emphasis on speedrunning.",
  "files": {
   "msacro.bsp": {
    "bytes": 1090280,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ff2ae2266fd583113f3255fb196b7495e1a8c060f92b46e00214909a0523949f",
  "tags": [
   "author=Dmitry 'Manslay' Dementjev",

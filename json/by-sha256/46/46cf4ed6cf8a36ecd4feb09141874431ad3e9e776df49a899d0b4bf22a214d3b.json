@@ -1,5 +1,6 @@
 {
  "bytes": 652811,
+ "description": "Medium sized, fairly plain monastry with a semi-explorational gameplay and some new textures.",
  "files": {
   "Monastry.bsp": {
    "bytes": 1534608,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "46cf4ed6cf8a36ecd4feb09141874431ad3e9e776df49a899d0b4bf22a214d3b",
  "tags": [
   "author=Neil Manke",

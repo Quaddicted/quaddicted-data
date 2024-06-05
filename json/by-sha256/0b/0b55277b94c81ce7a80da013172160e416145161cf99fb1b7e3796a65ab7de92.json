@@ -1,5 +1,6 @@
 {
  "bytes": 468044,
+ "description": "Improved version of the first Liquid Despair map. A medium sized Episode4-style map relying on water for progression in all directions.",
  "files": {
   "Despair2.txt": {
    "bytes": 2974,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0b55277b94c81ce7a80da013172160e416145161cf99fb1b7e3796a65ab7de92",
  "tags": [
   "author=Steve Rescoe",

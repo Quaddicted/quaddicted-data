@@ -1,5 +1,6 @@
 {
  "bytes": 1174848,
+ "description": "Unthemed / 2 SP maps / Drew (Quoth), Trinca",
  "files": {
   "sm137_drew.bsp": {
    "bytes": 1637504,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ca0ce5bd9f76bf6178cc3c03915e6fbdb00fa64a354b0c67b5587659b4f34d45",
  "tags": [
   "author=Drew",

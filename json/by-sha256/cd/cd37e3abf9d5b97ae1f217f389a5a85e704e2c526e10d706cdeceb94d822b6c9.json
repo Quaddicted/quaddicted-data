@@ -1,5 +1,6 @@
 {
  "bytes": 4631982,
+ "description": "This is a single player campaign that came with the Virtus Deathmatch Maker map editor (not included) to serve as an example of its potential. It features 12 small to medium-sized levels in two episodes and a new boss enemy. First episode is mostly base, second episode realism-themed, with maps including a lab, a prison, a subway station and an office building.",
  "files": {
   "virtus/": {
    "bytes": 0,
@@ -106,6 +107,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cd37e3abf9d5b97ae1f217f389a5a85e704e2c526e10d706cdeceb94d822b6c9",
  "tags": [
   "author=Virtus",

@@ -1,5 +1,6 @@
 {
  "bytes": 5517777,
+ "description": "Medium-sized elder world map with medieval and wizard elements, classic vanilla id1 style. The author's first release. Map source file is included.",
  "files": {
   "windfsp1.bsp": {
    "bytes": 12318460,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires a modern engine / source port with increased limits."
+ ],
  "sha256": "2718b21837e9361e1b71bfd949ec3858bb658093f9421c58940ab59258e48089",
  "tags": [
   "author=wind_f",

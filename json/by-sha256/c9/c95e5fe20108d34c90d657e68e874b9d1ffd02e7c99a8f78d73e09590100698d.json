@@ -1,5 +1,6 @@
 {
  "bytes": 902902,
+ "description": "A small single classic-style map inspired by id base maps but with some eldritch monsters. The author's first release. Map source is included.",
  "files": {
   "eber1.bsp": {
    "bytes": 1884088,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c95e5fe20108d34c90d657e68e874b9d1ffd02e7c99a8f78d73e09590100698d",
  "tags": [
   "author=eber150",

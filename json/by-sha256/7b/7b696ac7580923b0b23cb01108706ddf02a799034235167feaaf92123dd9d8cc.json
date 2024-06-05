@@ -1,5 +1,6 @@
 {
  "bytes": 3422130,
+ "description": "Large, dark castle level with DKT3 textures.",
  "files": {
   "CDA.txt": {
    "bytes": 4712,
@@ -30,6 +31,7 @@
   "extract": "{base}/cda/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "tags": [
   "author=JPL",

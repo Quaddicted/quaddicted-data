@@ -1,5 +1,6 @@
 {
  "bytes": 1720991,
+ "description": "Sequel of <a href=\"7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066\">starship</a>: a medium sized, plain map set on an icy planet with low gravity. Features new textures and reskinned/ modified monsters.",
  "files": {
   "pak0.pak": {
    "bytes": 3541423,
@@ -150,6 +151,7 @@
   "extract": "{base}/moon/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "272c13208fc5c03dc5f69f7fb9bb07dd4e553588d3f4ab994d0b437bd8e7a3ba",
  "tags": [
   "author=Neil Manke",

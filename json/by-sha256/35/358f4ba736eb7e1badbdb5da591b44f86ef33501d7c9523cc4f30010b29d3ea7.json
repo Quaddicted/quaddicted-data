@@ -1,5 +1,6 @@
 {
  "bytes": 855811,
+ "description": "Medium sized Wizard map.",
  "files": {
   "Armorgod.bsp": {
    "bytes": 1879236,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "358f4ba736eb7e1badbdb5da591b44f86ef33501d7c9523cc4f30010b29d3ea7",
  "tags": [
   "author=Scott McNutt",

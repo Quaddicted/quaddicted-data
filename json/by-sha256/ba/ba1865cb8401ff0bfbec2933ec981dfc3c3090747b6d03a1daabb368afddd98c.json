@@ -1,5 +1,6 @@
 {
  "bytes": 6715860,
+ "description": "Q3stone/metal styled fortress of epic scale, with a few new monsters in lots of horde combat (about 300 monsters in total) and other custom gameplay additions.",
  "files": {
   "bastion/": {
    "bytes": 0,
@@ -464,6 +465,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c",
  "tags": [
   "author=Kinn",

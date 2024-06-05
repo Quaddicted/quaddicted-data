@@ -1,5 +1,6 @@
 {
  "bytes": 7136541,
+ "description": "SP campaign for Nehahra with three small to medium-sized maps: a base, caverns with an ancient temple beneath, and a snowy village floating in the void. It uses modified textures from RTP and comes with four new music tracks.",
  "files": {
   "tsd/": {
    "bytes": 0,
@@ -112,6 +113,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>."
+ ],
  "sha256": "a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb",
  "tags": [
   "author=vIE888",

@@ -1,5 +1,6 @@
 {
  "bytes": 862569,
+ "description": "Fairly large, plain Metal map.",
  "files": {
   "killcomp.bsp": {
    "bytes": 1974788,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "82af950414483b76a85b7617d40039202976e7beddc1faa70f767b7f75704939",
  "tags": [
   "author=Benjamin S. Clower",

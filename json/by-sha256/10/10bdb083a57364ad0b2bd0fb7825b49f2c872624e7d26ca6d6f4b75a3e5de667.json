@@ -1,5 +1,6 @@
 {
  "bytes": 281106,
+ "description": "Very small cramped house/flat. The yellow armor is the exit.",
  "files": {
   "apocshel.bsp": {
    "bytes": 646156,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "10bdb083a57364ad0b2bd0fb7825b49f2c872624e7d26ca6d6f4b75a3e5de667",
  "tags": [
   "author=MERLIN",

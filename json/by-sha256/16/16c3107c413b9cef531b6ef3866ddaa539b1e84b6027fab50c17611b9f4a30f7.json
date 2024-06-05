@@ -1,5 +1,6 @@
 {
  "bytes": 13695593,
+ "description": "Large metal map with many light fixtures and various traps and setpieces involving moving parts.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -51,6 +52,9 @@
   "extract": "{base}/copper/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
+ ],
  "sha256": "16c3107c413b9cef531b6ef3866ddaa539b1e84b6027fab50c17611b9f4a30f7",
  "tags": [
   "author=Exabyt",

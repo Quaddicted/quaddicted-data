@@ -1,5 +1,6 @@
 {
  "bytes": 388041,
+ "description": "Very small map (three rooms) with mixed texture themes and a large battle mech.",
  "files": {
   "MekBase.txt": {
    "bytes": 1378,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7",
  "tags": [
   "author=Paul Roberts",

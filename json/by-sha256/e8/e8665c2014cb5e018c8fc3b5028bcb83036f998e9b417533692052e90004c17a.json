@@ -1,5 +1,6 @@
 {
  "bytes": 838090,
+ "description": "Unthemed / 6 DM maps / Vondur, Fern, Aardappel, Vigil, NorotiousRay, DaZ",
  "files": {
   "sm6_aard.bsp": {
    "bytes": 329168,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a",
  "tags": [
   "author=Aardappel",

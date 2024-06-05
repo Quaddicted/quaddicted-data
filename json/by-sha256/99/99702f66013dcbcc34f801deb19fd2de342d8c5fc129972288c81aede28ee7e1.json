@@ -1,5 +1,6 @@
 {
  "bytes": 2387862,
+ "description": "Small metallic base map with vibrant colored lighting.",
  "files": {
   "quanq1sp.bsp": {
    "bytes": 3645976,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "99702f66013dcbcc34f801deb19fd2de342d8c5fc129972288c81aede28ee7e1",
  "tags": [
   "author=Rastrelly",

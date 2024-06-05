@@ -1,5 +1,6 @@
 {
  "bytes": 1277793,
+ "description": "Medium sized, mashup of texture themes with some paintings by H.R. Giger, Boris Vallejo and Olivia.",
  "files": {
   "AFHELL.BSP": {
    "bytes": 2877808,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8316b448dd341bb7076801ef93183f0fc4f3242e67a08ed0849d6944fdfcb706",
  "tags": [
   "author=DeSoto",

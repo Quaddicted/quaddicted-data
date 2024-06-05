@@ -1,5 +1,6 @@
 {
  "bytes": 1015754,
+ "description": "A large outdoor/canyon map with temple ruins.",
  "files": {
   "precipice.txt": {
    "bytes": 2465,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "tags": [
   "author=Tim Elek",

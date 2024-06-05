@@ -1,5 +1,6 @@
 {
  "bytes": 1434686,
+ "description": "Unthemed / 5 __ maps / drew, Leviathan, PuLSaR, Scampie, Zwiffle",
  "files": {
   "sm61_PuLSaR.bsp": {
    "bytes": 1308340,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc",
  "tags": [
   "author=Leviathan",

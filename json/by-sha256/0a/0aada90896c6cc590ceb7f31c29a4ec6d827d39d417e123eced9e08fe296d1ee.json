@@ -1,5 +1,6 @@
 {
  "bytes": 415506,
+ "description": "Medium sized Wizard/Metal dungeon with lots of water/lava.",
  "files": {
   "fearfall.bsp": {
    "bytes": 1202592,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0aada90896c6cc590ceb7f31c29a4ec6d827d39d417e123eced9e08fe296d1ee",
  "tags": [
   "author=Jay Vanover",

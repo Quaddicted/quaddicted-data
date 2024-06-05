@@ -1,5 +1,6 @@
 {
  "bytes": 788428,
+ "description": "Small blue labyrinth filled with monsters.",
  "files": {
   "dumbdim.bsp": {
    "bytes": 2125968,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0",
  "tags": [
   "author=Sid",

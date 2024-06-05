@@ -1,5 +1,6 @@
 {
  "bytes": 320117,
+ "description": "Small to medium blueish medieval map with a few nasty traps.",
  "files": {
   "AGONY.BSP": {
    "bytes": 709960,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1ce2699ea76856946e4e3c3b2993e8f25f9a70b2a8749e6571822d08d0f08c14",
  "tags": [
   "author=Kevin Haley",

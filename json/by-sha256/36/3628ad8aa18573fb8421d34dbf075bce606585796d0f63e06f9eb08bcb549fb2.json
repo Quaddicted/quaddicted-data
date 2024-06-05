@@ -1,5 +1,6 @@
 {
  "bytes": 306801,
+ "description": "Inverted Castle / 2 SP maps / generic, Omus",
  "files": {
   "sm132_generic.bsp": {
    "bytes": 256016,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2",
  "tags": [
   "author=Omus",

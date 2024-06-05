@@ -1,5 +1,6 @@
 {
  "bytes": 1973247,
+ "description": "Episode 3 / Runic (The 4 Seasons of Quake #3) / 9 SP maps / CZG, distrans, Hrimfaxi, Leviathan, Moz, Pulsar, RPG, Scampie, Xenon",
  "files": {
   "sm57_PuLSaR.bsp": {
    "bytes": 407248,
@@ -61,6 +62,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3fda864f5fb6d9609175b9dba767f90b54c9097fc9de0971ade1e1a9f0f1a634",
  "tags": [
   "author=CZG",

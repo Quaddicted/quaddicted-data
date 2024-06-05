@@ -1,5 +1,6 @@
 {
  "bytes": 2659877,
+ "description": "Medium to large terracotta-themed map. The map source is included.",
  "files": {
   "4ltsp01.bsp": {
    "bytes": 1872684,
@@ -31,6 +32,9 @@
   "extract": "{base}/copper/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a>."
+ ],
  "sha256": "80b11127a4f5d1a9cbdd2a5e37c3731938a8767f5218625d3589008815fee6c2",
  "tags": [
   "author=4LT",

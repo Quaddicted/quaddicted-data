@@ -1,5 +1,6 @@
 {
  "bytes": 243541955,
+ "description": "17 stinky sewer-themed maps (+ custom start map) running on a pre-release version of Alkaline 1.2 (already included), \"created by a bunch of cool people\" over a 4-week period. Features some custom music. Map sources included. Jam organized by bmFbr.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -3323,6 +3324,9 @@
   "extract": "{base}/sewerjam2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires a modern engine / source port with increased limits."
+ ],
  "sha256": "ff4a1016f152ecaa2ab0007e164de4cb8fda4e60f36acd9bca16e6581a180f8c",
  "tags": [
   "author=Andrew Yoder",

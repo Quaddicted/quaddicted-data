@@ -1,5 +1,6 @@
 {
  "bytes": 9787715,
+ "description": "Quake's E1M1 reimagined in the style of Sandy Peterson. Also contains a start map.",
  "files": {
   "zafp/": {
    "bytes": 0,
@@ -51,6 +52,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9b37a5d251225d0e8778d8eeb78c24f35bdd9355d4880dbbb0cddcb0b5533eb8",
  "tags": [
   "author=zigi",

@@ -1,5 +1,6 @@
 {
  "bytes": 335264,
+ "description": "Very small, plain red brick map.",
  "files": {
   "gloin.bsp": {
    "bytes": 794392,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "361265c0ee6801b033c0a3458584cf43c31d2cca239514c616f533c784b4b8fc",
  "tags": [
   "author=Unknown",

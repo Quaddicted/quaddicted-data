@@ -1,5 +1,6 @@
 {
  "bytes": 10695223,
+ "description": "Large floating castle using Daiktana E3 textures. Based on an unfinished map for a canceled Nehahra expansion episode from 2005. Comes with a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -66,6 +67,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "d300fce18952e9ef02f5b206c383cbfe8a67c74705194795c135ad94a5ee24f9",
  "tags": [
   "author=Greenwood",

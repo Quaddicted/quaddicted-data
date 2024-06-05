@@ -1,5 +1,6 @@
 {
  "bytes": 1133133,
+ "description": "Coagula Theme/ 5 SP maps / DaZ, Raptore, NotoriousRay, Scampie, Starbuck",
  "files": {
   "sm45_daz.bsp": {
    "bytes": 676988,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af",
  "tags": [
   "author=DaZ",

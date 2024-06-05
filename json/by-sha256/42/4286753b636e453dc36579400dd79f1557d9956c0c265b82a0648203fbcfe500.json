@@ -1,5 +1,6 @@
 {
  "bytes": 2271601,
+ "description": "Two maps: a large Metal/Wood fortress in the mountains and a small end battle arena,  featuring some modified Fiends and Shamblers.",
  "files": {
   "n3sp03.txt": {
    "bytes": 5909,
@@ -102,6 +103,7 @@
   "extract": "{base}/n3sp03/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4286753b636e453dc36579400dd79f1557d9956c0c265b82a0648203fbcfe500",
  "tags": [
   "author=necros",

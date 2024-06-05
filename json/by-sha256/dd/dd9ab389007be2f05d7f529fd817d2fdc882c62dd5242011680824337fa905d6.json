@@ -1,5 +1,6 @@
 {
  "bytes": 2258220,
+ "description": "Speedmapping pack featuring three DM levels and two SP levels based on old maps by the authors. The map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -146,6 +147,7 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6",
  "tags": [
   "author=Cocerello",

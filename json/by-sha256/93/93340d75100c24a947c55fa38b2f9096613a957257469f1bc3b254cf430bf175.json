@@ -1,5 +1,6 @@
 {
  "bytes": 9279102,
+ "description": "Small sewer map with Petersen-ian \"backroom\" vibes and some Makkon textures for vanilla Quake. Custom music is Secret From The River by Repulsive.",
  "files": {
   "Urantia/": {
    "bytes": 0,
@@ -51,6 +52,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "93340d75100c24a947c55fa38b2f9096613a957257469f1bc3b254cf430bf175",
  "tags": [
   "author=Luis 'Chuma' Fernandez",

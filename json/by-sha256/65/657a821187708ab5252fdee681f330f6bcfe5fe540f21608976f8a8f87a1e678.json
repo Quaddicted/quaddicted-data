@@ -1,5 +1,6 @@
 {
  "bytes": 18120611,
+ "description": "Total conversion featuring \"18 new levels, 112 new models, 100's of new sounds, over 400 new textures, max size progs.dat\", and other custom stuff - pretty much everything replaced.",
  "files": {
   "ATF.TXT": {
    "bytes": 6180,
@@ -1387,6 +1388,7 @@
   "extract": "{base}/atf/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "657a821187708ab5252fdee681f330f6bcfe5fe540f21608976f8a8f87a1e678",
  "tags": [
   "author=ATF Team",

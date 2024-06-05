@@ -1,5 +1,6 @@
 {
  "bytes": 499004,
+ "description": "Unthemed / 4 DM maps / Aardappel, Cybear, NotoriousRay, Scampie",
  "files": {
   "sm12_aard.bsp": {
    "bytes": 249988,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979",
  "tags": [
   "author=Aardappel",

@@ -1,5 +1,6 @@
 {
  "bytes": 728133,
+ "description": "Unthemed / 6 DM maps / ap, dietz, Blitz, NotoriousRay, Scampie, Xenon",
  "files": {
   "sm39_ap.bsp": {
    "bytes": 154244,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "026313aaf276697382ea309340dfdcc9283e98b5eec3d1982b007a0c81208eb2",
  "tags": [
   "author=Blitz",

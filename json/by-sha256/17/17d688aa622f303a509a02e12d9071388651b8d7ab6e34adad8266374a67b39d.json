@@ -1,5 +1,6 @@
 {
  "bytes": 1077206,
+ "description": "About medium sized, cramped blue brick/ Wizard zombie dungeon. Comes with a start map.",
  "files": {
   "graveset.bsp": {
    "bytes": 761612,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d",
  "tags": [
   "author=Kevin Gwartney (GunnerMan)",

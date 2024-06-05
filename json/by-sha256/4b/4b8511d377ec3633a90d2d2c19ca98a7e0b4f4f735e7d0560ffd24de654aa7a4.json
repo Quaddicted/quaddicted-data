@@ -1,5 +1,6 @@
 {
  "bytes": 133212165,
+ "description": "Finnish mappers episode jam 2, the sequel to <a href=\"964c7f1e6f20f04d32cc075ca70e6fdb28913875b8861d408e52b732643742ed\">Realm of the Lost</a>: seven large maps in varying themes, based on the <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a> mod (included). It also features four new monsters, a new boss, a few new sounds and music tracks.",
  "files": {
   "changelog.txt": {
    "bytes": 160,
@@ -826,6 +827,9 @@
   "extract": "{base}/smej2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "4b8511d377ec3633a90d2d2c19ca98a7e0b4f4f735e7d0560ffd24de654aa7a4",
  "tags": [
   "author=Immorpher",
@@ -875,7 +879,7 @@
   "theme=sewer",
   "theme=snow",
   "theme=winter",
-  "title=Torrent of Impurities (Ep\u00e4puhtauksien Virta)",
+  "title=Torrent of Impurities (Epu00e4puhtauksien Virta)",
   "type=episode",
   "type=mod",
   "zipbasedir=smej2/"

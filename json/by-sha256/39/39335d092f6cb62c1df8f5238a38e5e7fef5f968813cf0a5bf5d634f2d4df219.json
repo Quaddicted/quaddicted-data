@@ -1,5 +1,6 @@
 {
  "bytes": 518485,
+ "description": "A map based on a ship, requiring finding hidden buttons to proceed.",
  "files": {
   "NAVYBASE.BSP": {
    "bytes": 1228164,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "39335d092f6cb62c1df8f5238a38e5e7fef5f968813cf0a5bf5d634f2d4df219",
  "tags": [
   "author=Gary Marshall (Zedek)",

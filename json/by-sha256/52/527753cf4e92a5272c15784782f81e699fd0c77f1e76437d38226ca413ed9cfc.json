@@ -1,5 +1,6 @@
 {
  "bytes": 807221,
+ "description": "Small to medium IKBase-style map featuring modified Hell Knights.",
  "files": {
   "Pak0.pak": {
    "bytes": 2050950,
@@ -50,6 +51,7 @@
   "extract": "{base}/lthsp1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc",
  "tags": [
   "author=The Lieutenant",

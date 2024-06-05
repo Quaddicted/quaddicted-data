@@ -1,5 +1,6 @@
 {
  "bytes": 513351,
+ "description": "Medium sized map - a small base bit leading into a dark Wizard/brick dungeon.",
  "files": {
   "colony.bsp": {
    "bytes": 1152096,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2",
  "tags": [
   "author=Mark Turner",

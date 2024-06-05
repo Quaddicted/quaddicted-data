@@ -1,5 +1,6 @@
 {
  "bytes": 5091305,
+ "description": "Around medium-sized idbase map.",
  "files": {
   "Read_Me.txt": {
    "bytes": 1650,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "51f6502bd842a0a9d0e439e0f59000f13333141be0f15d1185c323f64bf0612d",
  "tags": [
   "author=Greenwood",

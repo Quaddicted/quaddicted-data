@@ -1,5 +1,6 @@
 {
  "bytes": 942990,
+ "description": "Medium \"non linear (sort of) Sadlark metal style map.\"",
  "files": {
   "sadlark7.bsp": {
    "bytes": 2177540,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc",
  "tags": [
   "author=Jonas N.P. Lindstrom",

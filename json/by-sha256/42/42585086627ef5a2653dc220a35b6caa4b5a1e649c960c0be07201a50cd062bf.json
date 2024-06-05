@@ -1,5 +1,6 @@
 {
  "bytes": 694814,
+ "description": "Small Wizard-style brick level with a runic finish.",
  "files": {
   "castleod.bsp": {
    "bytes": 1520252,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf",
  "tags": [
   "author=JCorvinus",

@@ -1,5 +1,6 @@
 {
  "bytes": 985638,
+ "description": "Around medium sized red brick/metal mountain base map.",
  "files": {
   "efdatsp1.bsp": {
    "bytes": 2231176,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "26dc62572ebced569dfe6216cd74023ac18894285e699d6036eb0417783a4baa",
  "tags": [
   "author=efdat",

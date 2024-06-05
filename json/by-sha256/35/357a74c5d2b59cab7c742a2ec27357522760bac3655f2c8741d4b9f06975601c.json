@@ -1,5 +1,6 @@
 {
  "bytes": 4697284,
+ "description": "Large idbase textured map with a high monster count, plus a tricky platforming section. The author's first map for Quake.",
  "files": {
   "spasp1.bsp": {
    "bytes": 7441960,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires a source port with increased limits / BSP2 support."
+ ],
  "sha256": "357a74c5d2b59cab7c742a2ec27357522760bac3655f2c8741d4b9f06975601c",
  "tags": [
   "author=Spacebike",

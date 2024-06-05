@@ -1,5 +1,6 @@
 {
  "bytes": 10279093,
+ "description": "Large medieval city at nighttime with a strong focus on exploration and route choices. It comes with custom medieval-style items. The map source is included in the PAK.",
  "files": {
   "dont_readme.txt": {
    "bytes": 3761,
@@ -214,6 +215,9 @@
   "extract": "{base}/zendar/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires an engine port with increased limits."
+ ],
  "sha256": "12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6",
  "tags": [
   "author=sock",

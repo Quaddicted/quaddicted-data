@@ -1,5 +1,6 @@
 {
  "bytes": 2248490,
+ "description": "Small / medium level with a mix of medieval / industrial / base themes for vanilla Quake. Map source is included.",
  "files": {
   "Short_Fight.bsp": {
    "bytes": 2819548,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8e4310f6deb1139771272ae472c439fcc782541a83becee09cb2f969ea82c5e3",
  "tags": [
   "author=Paul Keefner",

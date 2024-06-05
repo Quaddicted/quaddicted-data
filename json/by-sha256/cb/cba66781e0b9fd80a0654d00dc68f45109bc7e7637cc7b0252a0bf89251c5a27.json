@@ -1,5 +1,6 @@
 {
  "bytes": 652737,
+ "description": "Medium sized metal/wizard level with a few traps.",
  "files": {
   "WELL.BSP": {
    "bytes": 1505988,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cba66781e0b9fd80a0654d00dc68f45109bc7e7637cc7b0252a0bf89251c5a27",
  "tags": [
   "author=Michael Reed",

@@ -1,5 +1,6 @@
 {
  "bytes": 46493278,
+ "description": "Small medieval map with a non-linear layout. Based on the Alkaline devkit (included).",
  "files": {
   "rotus/": {
    "bytes": 0,
@@ -2978,6 +2979,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "cc9d348b4a116ce60cbaa89c8deb2b95e9e0ef78c0a26a297d7ad5a7927e0317",
  "tags": [
   "author=Tonhao",

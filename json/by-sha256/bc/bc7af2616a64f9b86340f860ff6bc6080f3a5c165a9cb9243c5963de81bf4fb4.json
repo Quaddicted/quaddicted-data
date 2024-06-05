@@ -1,5 +1,6 @@
 {
  "bytes": 670098,
+ "description": "Medium sized boxed  Ebon-style map with some outdoor areas.",
  "files": {
   "fc.bsp": {
    "bytes": 1462130,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bc7af2616a64f9b86340f860ff6bc6080f3a5c165a9cb9243c5963de81bf4fb4",
  "tags": [
   "author=Darren Stabler",

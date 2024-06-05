@@ -1,5 +1,6 @@
 {
  "bytes": 719211,
+ "description": "Large 2D-ish map with a mixture of texture themes and architectural ideas. And a Baywatch poster...",
  "files": {
   "Sfest97.bsp": {
    "bytes": 1624204,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0d41277d22804d9b97f32bfb488629b53df49dd7ea3539332a117abbe0bd9adf",
  "tags": [
   "author=Brett Wilcock",

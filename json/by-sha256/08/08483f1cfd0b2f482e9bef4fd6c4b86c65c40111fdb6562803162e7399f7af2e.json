@@ -1,5 +1,6 @@
 {
  "bytes": 816690,
+ "description": "Two very small maps; one features the head of a dragon.",
  "files": {
   "Drakopf.txt": {
    "bytes": 3212,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e",
  "tags": [
   "author=Steve Rescoe",

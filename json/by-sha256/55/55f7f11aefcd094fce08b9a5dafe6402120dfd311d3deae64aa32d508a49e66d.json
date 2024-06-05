@@ -1,5 +1,6 @@
 {
  "bytes": 47725151,
+ "description": "Results of the fourth 100b contest (=maps made using &lt;100 brushes): 19 singleplayer levels by various authors, and a start hub to select each of them. Some of the maps come with additional content such as models, sounds, and skyboxes. The map sources are included.",
  "files": {
   "100b4_readme.txt": {
    "bytes": 1483,
@@ -986,6 +987,9 @@
   "extract": "{base}/100b4/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and in parts a source port with increased limits."
+ ],
  "sha256": "55f7f11aefcd094fce08b9a5dafe6402120dfd311d3deae64aa32d508a49e66d",
  "tags": [
   "author=Artistical",

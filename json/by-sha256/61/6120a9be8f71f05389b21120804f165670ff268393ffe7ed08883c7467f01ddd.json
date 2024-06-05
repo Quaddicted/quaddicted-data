@@ -1,5 +1,6 @@
 {
  "bytes": 1328552,
+ "description": "A showcase map displaying several tricks that can be done with a standard Quake progs.dat. Very neat, but basically of interest to mappers only.",
  "files": {
   "progref.bsp": {
    "bytes": 1581932,
@@ -36,6 +37,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6120a9be8f71f05389b21120804f165670ff268393ffe7ed08883c7467f01ddd",
  "tags": [
   "author=Mechtech",

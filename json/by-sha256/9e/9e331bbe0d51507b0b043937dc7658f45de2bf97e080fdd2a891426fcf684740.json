@@ -1,5 +1,6 @@
 {
  "bytes": 642479,
+ "description": "Part of the BadLands series: Small military base with an underground  rocket depot.",
  "files": {
   "badland2.bsp": {
    "bytes": 1464568,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9e331bbe0d51507b0b043937dc7658f45de2bf97e080fdd2a891426fcf684740",
  "tags": [
   "author=Chris Spain",

@@ -1,5 +1,6 @@
 {
  "bytes": 585312,
+ "description": "Unthemed / 3 DM maps / Apollo, Starbuck, than",
  "files": {
   "sm33_ap.bsp": {
    "bytes": 170084,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "tags": [
   "author=Apollo",

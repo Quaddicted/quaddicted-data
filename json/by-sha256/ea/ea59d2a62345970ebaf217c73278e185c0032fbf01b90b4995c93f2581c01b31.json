@@ -1,5 +1,6 @@
 {
  "bytes": 497852,
+ "description": "Small Wizard house with talking furniture.",
  "files": {
   "nazihell.bsp": {
    "bytes": 861628,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ea59d2a62345970ebaf217c73278e185c0032fbf01b90b4995c93f2581c01b31",
  "tags": [
   "author=ET",

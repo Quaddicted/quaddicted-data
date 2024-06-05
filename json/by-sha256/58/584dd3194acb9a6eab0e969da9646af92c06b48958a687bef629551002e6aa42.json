@@ -1,5 +1,6 @@
 {
  "bytes": 781143,
+ "description": "A short map where most action happens underwater. Comes with a new dual-uzi snake monster and a big boss snake.",
  "files": {
   "anaconda.txt": {
    "bytes": 437,
@@ -50,6 +51,7 @@
   "extract": "{base}/anaconda/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [
   "author=Magicman",

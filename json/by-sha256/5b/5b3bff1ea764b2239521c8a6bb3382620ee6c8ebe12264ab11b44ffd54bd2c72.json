@@ -1,5 +1,6 @@
 {
  "bytes": 10902576,
+ "description": "Remake of E1M2 from Quake: a medium-sized medieval castle with many candles. The map was previously released as part of <a href=\"1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a\">Halloween Jam 2</a>. Among other things, this version features even more candles! Comes with a new bat model and some ambient sounds.",
  "files": {
   "ad_candles.txt": {
    "bytes": 3023,
@@ -46,6 +47,9 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
+ ],
  "sha256": "5b3bff1ea764b2239521c8a6bb3382620ee6c8ebe12264ab11b44ffd54bd2c72",
  "tags": [
   "author=Comrade Beep",

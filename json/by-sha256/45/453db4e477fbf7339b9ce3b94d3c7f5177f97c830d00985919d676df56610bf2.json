@@ -1,5 +1,6 @@
 {
  "bytes": 229507,
+ "description": "Very small runic-style cathedral.",
  "files": {
   "fatalstp.bsp": {
    "bytes": 554348,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "453db4e477fbf7339b9ce3b94d3c7f5177f97c830d00985919d676df56610bf2",
  "tags": [
   "author=super",

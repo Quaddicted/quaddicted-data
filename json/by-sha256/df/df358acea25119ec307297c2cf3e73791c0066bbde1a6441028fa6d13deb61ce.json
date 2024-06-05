@@ -1,5 +1,6 @@
 {
  "bytes": 189318,
+ "description": "Very small arena level.",
  "files": {
   "coliseum.bsp": {
    "bytes": 455352,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "df358acea25119ec307297c2cf3e73791c0066bbde1a6441028fa6d13deb61ce",
  "tags": [
   "author=Rebelvodka",

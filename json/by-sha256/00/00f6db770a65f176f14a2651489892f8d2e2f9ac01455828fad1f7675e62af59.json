@@ -1,5 +1,6 @@
 {
  "bytes": 469202,
+ "description": "Small Wizard tower-like map with multiple floors",
  "files": {
   "Enterrw.bsp": {
    "bytes": 531468,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59",
  "tags": [
   "author=Scott McNutt",

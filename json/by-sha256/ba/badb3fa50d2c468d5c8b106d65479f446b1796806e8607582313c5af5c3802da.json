@@ -1,5 +1,6 @@
 {
  "bytes": 668705,
+ "description": "Small Wizard-like map with a few custom textures. According to redrum.txt, this is the deathmatch version of \"Valley of the Wind\" (wind.zip).",
  "files": {
   "RR.jpg": {
    "bytes": 15546,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "badb3fa50d2c468d5c8b106d65479f446b1796806e8607582313c5af5c3802da",
  "tags": [
   "author=Steve Wilson",

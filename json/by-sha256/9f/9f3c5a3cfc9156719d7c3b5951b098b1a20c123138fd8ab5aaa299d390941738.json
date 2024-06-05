@@ -1,5 +1,6 @@
 {
  "bytes": 576976,
+ "description": "Unthemed / 4 DM maps / Aardappel, Amrik, Cybear, malevola",
  "files": {
   "sm13_aard.bsp": {
    "bytes": 376348,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738",
  "tags": [
   "author=Aardappel",

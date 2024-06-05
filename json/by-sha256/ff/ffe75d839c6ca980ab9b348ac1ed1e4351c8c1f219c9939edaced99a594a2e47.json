@@ -1,5 +1,6 @@
 {
  "bytes": 4809255,
+ "description": "A mini-campaign with 5 small maps and a start map. New textures (e.g. Quake2 and Half-Life), some new code bits and sounds,as well as a few  new monsters such as spiders and turrets. Starting with a shuttle crash, you fight your way through a collapsing enemy base in order to reach the rescuing teleporter.",
  "files": {
   "Assault/": {
    "bytes": 0,
@@ -211,6 +212,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47",
  "tags": [
   "author=The Harb!ngeR of Fish",

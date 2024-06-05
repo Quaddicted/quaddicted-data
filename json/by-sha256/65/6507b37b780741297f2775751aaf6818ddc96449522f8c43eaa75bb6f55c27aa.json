@@ -1,5 +1,6 @@
 {
  "bytes": 306491,
+ "description": "Very small Metal map. Hardly more than two rooms.",
  "files": {
   "Pagan.map": {
    "bytes": 114300,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa",
  "tags": [
   "author=Mike Melzer",

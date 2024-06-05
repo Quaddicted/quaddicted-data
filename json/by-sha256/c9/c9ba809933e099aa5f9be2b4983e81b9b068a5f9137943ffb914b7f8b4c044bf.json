@@ -1,5 +1,6 @@
 {
  "bytes": 878533,
+ "description": "Medium sized Wizard/ Medieval map with a few new textures.",
  "files": {
   "Gibplex.rmf": {
    "bytes": 1302198,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c9ba809933e099aa5f9be2b4983e81b9b068a5f9137943ffb914b7f8b4c044bf",
  "tags": [
   "author=Fred Hite,Jr (DEVIANT)",

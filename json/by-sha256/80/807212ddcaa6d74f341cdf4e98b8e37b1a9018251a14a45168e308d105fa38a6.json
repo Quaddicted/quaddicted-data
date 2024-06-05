@@ -1,5 +1,6 @@
 {
  "bytes": 603636,
+ "description": "Small to medium Metal map.",
  "files": {
   "RIT2.BSP": {
    "bytes": 1361616,
@@ -16,6 +17,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "While the timestamps in the zip say 1996, Crash's dating of 1997-09-25 is much more realistic."
+ ],
  "sha256": "807212ddcaa6d74f341cdf4e98b8e37b1a9018251a14a45168e308d105fa38a6",
  "tags": [
   "author=Chris Burgess",

@@ -1,5 +1,6 @@
 {
  "bytes": 748453,
+ "description": "Around medium sized simple Wizard map. Comes with a skill selection map.",
  "files": {
   "purg.txt": {
    "bytes": 1452,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7a540ebbff81b681eb334a61f805d2ab29fc8943585a384343078fe82af98b4a",
  "tags": [
   "author=Bryan Pillow",

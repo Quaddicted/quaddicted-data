@@ -1,5 +1,6 @@
 {
  "bytes": 605755,
+ "description": "Same as <a href=\"153911dcf01f1019e8ff2896d41c40876a3e83a117611b6150979d9bf0bc14af\">brt08q1</a> but with -hipnotic monsters.",
  "files": {
   "brt08hip.bsp": {
    "bytes": 1484988,
@@ -16,6 +17,7 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6308785a00050879ca77a0146a88677e4ff51caa0113a2e36c8f5cb20c88789d",
  "tags": [
   "author=QBrt",

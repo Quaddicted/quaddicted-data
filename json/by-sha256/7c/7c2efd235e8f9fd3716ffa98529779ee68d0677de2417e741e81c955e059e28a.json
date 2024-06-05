@@ -1,5 +1,6 @@
 {
  "bytes": 3466968,
+ "description": "Updated version of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a>, featuring bug-fixes and further gameplay tweaks, most notably compatibility to the KexQuake port from the official Quake \"revitalization\" update. The mod source is included.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -714,6 +715,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a",
  "tags": [
   "author=Lunaran",

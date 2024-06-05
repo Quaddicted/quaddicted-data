@@ -1,5 +1,6 @@
 {
  "bytes": 780285,
+ "description": "Medium sized Wizard map with a sense of exploration.",
  "files": {
   "warpgate.bsp": {
    "bytes": 1772808,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0",
  "tags": [
   "author=Ozric",

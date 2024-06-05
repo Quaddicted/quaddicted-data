@@ -1,5 +1,6 @@
 {
  "bytes": 3714076,
+ "description": "Small medieval blue castle level made for vanilla Quake. The author's first release. Difficulty settings are not implemented. Map source is included.",
  "files": {
   "idcsp1.6/gfx/": {
    "bytes": 0,
@@ -96,9 +97,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7772824d469744cd8154075a69e99b1bf97975b75379d512994560cab2707ce6",
  "tags": [
-  "author=J\u00e9nilson Martins Da Silva",
+  "author=Ju00e9nilson Martins Da Silva",
   "commandline=-game idcsp1.6",
   "filename=idcsp1.6.zip",
   "game=quake",

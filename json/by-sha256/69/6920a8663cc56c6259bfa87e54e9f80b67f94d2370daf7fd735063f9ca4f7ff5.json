@@ -1,5 +1,6 @@
 {
  "bytes": 473039,
+ "description": "Small orange base map, made for Computer Gaming World magazine. The map source is included.",
  "files": {
   "HIPSIDE.BSP": {
    "bytes": 986588,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5",
  "tags": [
   "author=Levelord",

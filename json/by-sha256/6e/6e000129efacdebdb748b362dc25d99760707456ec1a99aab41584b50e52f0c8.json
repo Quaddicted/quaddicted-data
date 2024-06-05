@@ -1,5 +1,6 @@
 {
  "bytes": 1796313,
+ "description": "Unthemed / 7 SP maps / cybear, CZG, Gibbie, necros, Scampie, than, Xenon",
  "files": {
   "SM29_Gib.bsp": {
    "bytes": 190824,
@@ -56,6 +57,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8",
  "tags": [
   "author=CZG",

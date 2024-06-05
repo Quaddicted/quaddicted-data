@@ -1,5 +1,6 @@
 {
  "bytes": 1013720,
+ "description": "Small to medium Egyptian temple.",
  "files": {
   "Hellchepsout.txt": {
    "bytes": 2685,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727",
  "tags": [
   "author=JPL",

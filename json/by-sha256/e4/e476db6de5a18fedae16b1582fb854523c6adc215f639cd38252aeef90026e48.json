@@ -1,5 +1,6 @@
 {
  "bytes": 1632487,
+ "description": "Mini-Marcher / 2 SP maps / generic, neg!ke",
  "files": {
   "sm126_generic.bsp": {
    "bytes": 2068944,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e476db6de5a18fedae16b1582fb854523c6adc215f639cd38252aeef90026e48",
  "tags": [
   "author=generic",

@@ -1,5 +1,6 @@
 {
  "bytes": 466568,
+ "description": "Tricking maps / 3 SP maps / adamllis, neg!ke",
  "files": {
   "sm116_adamllis.bsp": {
    "bytes": 259824,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a",
  "tags": [
   "author=adamllis",

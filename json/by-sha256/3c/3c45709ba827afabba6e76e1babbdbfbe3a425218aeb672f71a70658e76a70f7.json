@@ -1,5 +1,6 @@
 {
  "bytes": 82074,
+ "description": "Small dark watery box utilising the Dopefish background texture.",
  "files": {
   "qpi1.bsp": {
    "bytes": 231688,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3c45709ba827afabba6e76e1babbdbfbe3a425218aeb672f71a70658e76a70f7",
  "tags": [
   "author=Jeds",

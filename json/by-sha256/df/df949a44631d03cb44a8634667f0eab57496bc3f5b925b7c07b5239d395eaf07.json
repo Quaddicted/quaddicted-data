@@ -1,5 +1,6 @@
 {
  "bytes": 492700,
+ "description": "Small to medium-sized wizmetal map with nice looks and non-linear layout. It is meant as the succeeding map to <a href=\"b4ef9f01c8b723be7f9fbb6b5b5e89ecaba940ab1053ab85c5c5b91deed39b77\">bnt</a>.",
  "files": {
   "BNT2.BSP": {
    "bytes": 1201632,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "df949a44631d03cb44a8634667f0eab57496bc3f5b925b7c07b5239d395eaf07",
  "tags": [
   "author=Jim Hendrickson",

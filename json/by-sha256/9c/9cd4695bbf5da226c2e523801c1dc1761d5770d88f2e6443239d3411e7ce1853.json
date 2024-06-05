@@ -1,5 +1,6 @@
 {
  "bytes": 683471,
+ "description": "A medium sized medieval map with new textures, gameplay focuses largely on discovering secrets.",
  "files": {
   "Silhints.txt": {
    "bytes": 4928,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853",
  "tags": [
   "author=Neil Manke",

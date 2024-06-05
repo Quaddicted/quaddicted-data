@@ -1,5 +1,6 @@
 {
  "bytes": 2278548,
+ "description": "Small base/industrial-style map. A reinterpretation of the original DM5 - part of than's ongoing <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3Dthan%22%5D\">DMxRMX</a> series. The map source is included.",
  "files": {
   "dm5rmx.bsp": {
    "bytes": 4381508,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "04b26d806bcc7622c4530eb263aaf188250ca8045c90f698fa276adc9bbcebe0",
  "tags": [
   "author=Andrew 'than' Palmer",

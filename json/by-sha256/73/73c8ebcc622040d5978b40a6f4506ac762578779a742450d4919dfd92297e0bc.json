@@ -1,5 +1,6 @@
 {
  "bytes": 382628,
+ "description": "Small beginner map with mixed texture themes.",
  "files": {
   "digs2.bsp": {
    "bytes": 876776,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "73c8ebcc622040d5978b40a6f4506ac762578779a742450d4919dfd92297e0bc",
  "tags": [
   "author=digs",

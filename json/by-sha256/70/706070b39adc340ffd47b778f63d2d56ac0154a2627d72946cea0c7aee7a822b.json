@@ -1,5 +1,6 @@
 {
  "bytes": 325787,
+ "description": "Very small Base map.",
  "files": {
   "FILE_ID.DIZ": {
    "bytes": 312,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "706070b39adc340ffd47b778f63d2d56ac0154a2627d72946cea0c7aee7a822b",
  "tags": [
   "author=Denis Moeller (panza)",

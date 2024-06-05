@@ -1,5 +1,6 @@
 {
  "bytes": 1374173,
+ "description": "Do stuff based on a really ugly layout drawing Scampie did / 2 SP, 3 DM maps / czg, Scampie, Starbuck, Zwiffle",
  "files": {
   "sm65_czg.bsp": {
    "bytes": 401952,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c",
  "tags": [
   "author=Scampie",

@@ -1,5 +1,6 @@
 {
  "bytes": 1912859,
+ "description": "Medium-sized base/wizard map where two Quake dimensions clash.",
  "files": {
   "necroswtfseriously.txt": {
    "bytes": 1242,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "53277de96328a8d0ef7d4a8ba1d17827706455d568974cd465f7eec60f79ad5a",
  "tags": [
   "author=Zwiffle",

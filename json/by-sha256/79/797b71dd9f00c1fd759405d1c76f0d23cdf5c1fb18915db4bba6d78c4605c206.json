@@ -1,5 +1,6 @@
 {
  "bytes": 299960,
+ "description": "Small Wizard/blue brick level \"made made to show off the capabilities of PolyEd.\"",
  "files": {
   "giant.bsp": {
    "bytes": 685948,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "797b71dd9f00c1fd759405d1c76f0d23cdf5c1fb18915db4bba6d78c4605c206",
  "tags": [
   "author=Matt Joiner",

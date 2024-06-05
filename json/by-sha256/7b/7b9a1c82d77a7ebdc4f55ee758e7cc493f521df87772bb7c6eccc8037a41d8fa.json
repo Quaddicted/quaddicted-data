@@ -1,5 +1,6 @@
 {
  "bytes": 127668441,
+ "description": "First episode of a four-episode project: nine medium to large Egyptian-themed levels including a start map. They are based on the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod (included) and feature new monsters, weapons, sounds, skyboxes and custom music tracks. The map sources are included.",
  "files": {
   "README_dwellv1p2.txt": {
    "bytes": 3734,
@@ -1201,6 +1202,10 @@
   "extract": "{base}/dwell/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "UPDATE, 15 Feb 2023: <a href=\"15bbc5dc0eb3fee5763835cea1aa62ab263545ca8c04aaa019982d45d1e8d11d\">new version v2.2</a> features updated versions of all episode 1 maps and much much more.",
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "7b9a1c82d77a7ebdc4f55ee758e7cc493f521df87772bb7c6eccc8037a41d8fa",
  "tags": [
   "author=AlekswithaK",

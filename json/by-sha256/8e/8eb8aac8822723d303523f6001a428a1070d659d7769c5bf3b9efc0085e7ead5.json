@@ -1,5 +1,6 @@
 {
  "bytes": 2186958,
+ "description": "Mini-campaign with six small (mostly) IKBase maps, lots of rats and a 'fishy' boss battle. Escape out of a prison cell and fight your way through the enemy base.",
  "files": {
   "Escape.txt": {
    "bytes": 6927,
@@ -61,6 +62,7 @@
   "extract": "{base}/escape/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5",
  "tags": [
   "author=The Harb!ngeR of Fish",

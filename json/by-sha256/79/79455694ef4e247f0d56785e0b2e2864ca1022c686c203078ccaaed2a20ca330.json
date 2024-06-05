@@ -1,5 +1,6 @@
 {
  "bytes": 411976,
+ "description": "Very small Metal-style crypt.",
  "files": {
   "thecrypt.bsp": {
    "bytes": 882312,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "79455694ef4e247f0d56785e0b2e2864ca1022c686c203078ccaaed2a20ca330",
  "tags": [
   "author=Repo",

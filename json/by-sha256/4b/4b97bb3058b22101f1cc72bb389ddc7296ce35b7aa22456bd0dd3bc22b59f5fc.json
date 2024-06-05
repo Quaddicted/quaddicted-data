@@ -1,5 +1,6 @@
 {
  "bytes": 1189137,
+ "description": "First map of the Alba TC. Set in 14th century Scotland. A small canyon level.",
  "files": {
   "alba01.txt": {
    "bytes": 10327,
@@ -70,6 +71,7 @@
   "extract": "{base}/alba01/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc",
  "tags": [
   "author=Einar Saukas (QC)",

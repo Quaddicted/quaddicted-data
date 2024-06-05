@@ -1,5 +1,6 @@
 {
  "bytes": 24804891,
+ "description": "Total conversion with almost new everything. Around 20 SP maps in varying medieval/ fantasy themes and 4 DM maps; multiple player classes to choose from, new weapons, new enemies, etc.",
  "files": {
   "fq.bat": {
    "bytes": 2259,
@@ -1486,6 +1487,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "A patch is available <a href=\"http://dukeworld.com/telefragged/quake/fantasy/fq091.zip\">here</a>"
+ ],
  "sha256": "503dc0b832ca6aea4ba31ac33b90186bada3697a3ce5feb31537e01821497fb6",
  "tags": [
   "author=Team Phoenix",

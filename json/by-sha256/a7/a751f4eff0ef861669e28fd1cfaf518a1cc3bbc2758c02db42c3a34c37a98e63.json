@@ -1,5 +1,6 @@
 {
  "bytes": 17176993,
+ "description": "Short map for Arcane Dimensions in Makkon stone textures, featuring a recurring blood motif and boss fight.",
  "files": {
   "freyja.txt": {
    "bytes": 5872,
@@ -81,6 +82,11 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
+  "This file was repackaged for Quake Injector compatibility.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "a751f4eff0ef861669e28fd1cfaf518a1cc3bbc2758c02db42c3a34c37a98e63",
  "tags": [
   "author=Chuma",

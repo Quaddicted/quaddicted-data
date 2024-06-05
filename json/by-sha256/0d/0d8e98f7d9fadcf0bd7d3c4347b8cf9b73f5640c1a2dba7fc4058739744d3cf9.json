@@ -1,5 +1,6 @@
 {
  "bytes": 903817,
+ "description": "Medium sized IKbase map.",
  "files": {
   "rc1.bsp": {
    "bytes": 2139372,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9",
  "tags": [
   "author=Robert \"Fat Controller\" Cruickshank",

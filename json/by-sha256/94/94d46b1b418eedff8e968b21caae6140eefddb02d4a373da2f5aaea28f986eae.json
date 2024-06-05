@@ -1,5 +1,6 @@
 {
  "bytes": 799748,
+ "description": "Medium sized Metal/runic level.",
  "files": {
   "arcane.bsp": {
    "bytes": 1849308,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "94d46b1b418eedff8e968b21caae6140eefddb02d4a373da2f5aaea28f986eae",
  "tags": [
   "author=Matt Sefton",

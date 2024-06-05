@@ -1,5 +1,6 @@
 {
  "bytes": 967673,
+ "description": "Crap maps or Parody maps / 5 SP maps / Gleeb, Megazoid, NotoriousRay, RPG, Starbuck",
  "files": {
   "sm66_gleeb.bsp": {
    "bytes": 445992,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7cec99d6ad5c664bc3f672af44339fee09608ec42f6caa88a2ffa90646cbb7c5",
  "tags": [
   "author=Gleeb",

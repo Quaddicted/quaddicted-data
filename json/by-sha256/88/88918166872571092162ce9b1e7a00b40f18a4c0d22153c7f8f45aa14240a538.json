@@ -1,5 +1,6 @@
 {
  "bytes": 6885204,
+ "description": "Large April's fools level: long corridors with over 400 enemies, a rapid-fire shotgun, kickable gibs and Ranger voice-overs from Quake Champions. The qc source files are included.",
  "files": {
   "autoexec.cfg": {
    "bytes": 45,
@@ -811,6 +812,7 @@
   "extract": "{base}/bsqmsafe/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "88918166872571092162ce9b1e7a00b40f18a4c0d22153c7f8f45aa14240a538",
  "tags": [
   "author=Lord Asaki",

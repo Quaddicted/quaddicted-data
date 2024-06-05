@@ -1,5 +1,6 @@
 {
  "bytes": 491241,
+ "description": "Very small medieval level made for speedrunning.",
  "files": {
   "BiliousOutpost.bsp": {
    "bytes": 1216788,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238",
  "tags": [
   "author=F14m3z",

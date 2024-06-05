@@ -1,5 +1,6 @@
 {
  "bytes": 623952,
+ "description": "Medium sized Base map.",
  "files": {
   "!!READ!!.BAT": {
    "bytes": 19329,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c149bf2aeeeb32449f9b74ef84c6477b834ae93689e9ade8109865c2b9ca649d",
  "tags": [
   "author=George J. Fiffy II",

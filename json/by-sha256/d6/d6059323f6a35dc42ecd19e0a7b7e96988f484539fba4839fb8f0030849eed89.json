@@ -1,5 +1,6 @@
 {
  "bytes": 2735848,
+ "description": "Small to medium-sized base-style prison level. Comes with a skill-selection map.",
  "files": {
   "efq.bsp": {
    "bytes": 5423224,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d6059323f6a35dc42ecd19e0a7b7e96988f484539fba4839fb8f0030849eed89",
  "tags": [
   "author=Stylaphone",

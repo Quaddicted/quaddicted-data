@@ -1,5 +1,6 @@
 {
  "bytes": 705988,
+ "description": "Fairly large Wizard map.",
  "files": {
   "tss.bsp": {
    "bytes": 1570452,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bb15224e225e64244e3c1c463b578c7dbc20ff618e993c84c565cb4222496225",
  "tags": [
   "author=Ace",

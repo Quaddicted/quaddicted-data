@@ -1,5 +1,6 @@
 {
  "bytes": 599129,
+ "description": "Small Rubicon-style industrial level with a mine tunnels section.",
  "files": {
   "IC.BSP": {
    "bytes": 1457348,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0",
  "tags": [
   "author=Jim Lowell",

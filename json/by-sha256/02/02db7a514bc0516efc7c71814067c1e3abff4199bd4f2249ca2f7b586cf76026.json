@@ -1,5 +1,6 @@
 {
  "bytes": 26913882,
+ "description": "Episode of five previously-released maps by <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3DThe%20Lieutenant%22%5D\">The Lieutenant</a> joined together by Greenwood and given a new ending, in addition to some minor fixes and monster improvements.",
  "files": {
   "lth/lth_poster.jpg": {
    "bytes": 719605,
@@ -347,6 +348,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Trivia: the original maps were some of the first released custom Quake maps to use colored lighting."
+ ],
  "sha256": "02db7a514bc0516efc7c71814067c1e3abff4199bd4f2249ca2f7b586cf76026",
  "tags": [
   "author=Greenwood",

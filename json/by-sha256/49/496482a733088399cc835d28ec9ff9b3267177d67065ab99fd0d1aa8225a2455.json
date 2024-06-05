@@ -1,5 +1,6 @@
 {
  "bytes": 770881,
+ "description": "Large Base map. Part of the LFSP series (unit 2).",
  "files": {
   "lfsp5.bsp": {
    "bytes": 1875156,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "496482a733088399cc835d28ec9ff9b3267177d67065ab99fd0d1aa8225a2455",
  "tags": [
   "author=Leafface",

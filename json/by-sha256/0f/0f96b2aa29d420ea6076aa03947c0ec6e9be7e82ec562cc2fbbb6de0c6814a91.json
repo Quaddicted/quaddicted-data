@@ -1,5 +1,6 @@
 {
  "bytes": 2690851,
+ "description": "Medium-sized level starting out in a ruined temple leading onward to areas with various texture themes. Comes in two versions: one with colored lighting and one without. A demo and the map sources are included.",
  "files": {
   "strange.bsp": {
    "bytes": 1694372,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0f96b2aa29d420ea6076aa03947c0ec6e9be7e82ec562cc2fbbb6de0c6814a91",
  "tags": [
   "author=mariteaux",

@@ -1,5 +1,6 @@
 {
  "bytes": 1680533,
+ "description": "Small medieval level made in a classic style for vanilla Quake. Map source is included.",
  "files": {
   "xl7.bsp": {
    "bytes": 2768504,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e361aea4d763395e4f264e87f60355c9357e5f733386ec85a1e9eace42641595",
  "tags": [
   "author=xlarve",

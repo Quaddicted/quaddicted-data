@@ -1,5 +1,6 @@
 {
  "bytes": 2243871,
+ "description": "Water / 6 SP maps / Asaki, Moz, Scampie, Starbuck, Xen",
  "files": {
   "progs.dat": {
    "bytes": 413096,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd",
  "tags": [
   "author=Asaki",

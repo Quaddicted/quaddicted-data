@@ -1,5 +1,6 @@
 {
  "bytes": 497451,
+ "description": "Nowhere to hide / 4 SP maps / bambuz, generic, Tron, Zwiffle",
  "files": {
   "SM97_generic.bsp": {
    "bytes": 361240,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3d98ecf60b35d54613c4afc02a3849867abcbb43e4d276a879d4bd4d9e553274",
  "tags": [
   "author=Tron",

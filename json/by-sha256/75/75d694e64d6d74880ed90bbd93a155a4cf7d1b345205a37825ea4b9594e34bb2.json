@@ -1,5 +1,6 @@
 {
  "bytes": 125985,
+ "description": "One room with a \"water elevator\", struts and monsters.",
  "files": {
   "SHAFT29.BSP": {
    "bytes": 290696,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "75d694e64d6d74880ed90bbd93a155a4cf7d1b345205a37825ea4b9594e34bb2",
  "tags": [
   "author=Alan Troup",

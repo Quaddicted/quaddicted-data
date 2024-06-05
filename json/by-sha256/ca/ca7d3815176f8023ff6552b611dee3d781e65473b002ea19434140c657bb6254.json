@@ -1,5 +1,6 @@
 {
  "bytes": 365900,
+ "description": "Wizard map with sparse corridors and lots of slime.",
  "files": {
   "qkpit.bsp": {
    "bytes": 1054196,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254",
  "tags": [
   "author=DAV",

@@ -1,5 +1,6 @@
 {
  "bytes": 2958918,
+ "description": "Mini campaign with three small-to-medium Wizard/Metal maps and a start map. The custom progs.dat slightly modifies some monsters and adds more gore.",
  "files": {
   "Flee.bat": {
    "bytes": 27,
@@ -41,6 +42,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf",
  "tags": [
   "author=Jay Vanover",

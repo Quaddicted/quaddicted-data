@@ -1,5 +1,6 @@
 {
  "bytes": 543730,
+ "description": "Small wizard level. Transparent-water-vised version of <a href=\"716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9\">4fiffy3</a>",
  "files": {
   "!!READ!!.BAT": {
    "bytes": 16081,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "baba3cd788888ba2cf29513bdf347f5427c9cabde7af174e81ae7f515e25da21",
  "tags": [
   "author=George J. Fiffy II",

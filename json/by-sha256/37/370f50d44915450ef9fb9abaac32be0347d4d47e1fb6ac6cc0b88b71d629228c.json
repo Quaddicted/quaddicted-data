@@ -1,5 +1,6 @@
 {
  "bytes": 1675511,
+ "description": "A big green swampy sewage system.",
  "files": {
   "sewage.bsp": {
    "bytes": 4027504,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "tags": [
   "author=Hrimfaxi",

@@ -1,5 +1,6 @@
 {
  "bytes": 292727,
+ "description": "Small space map with several floating platforms. Originally supposed to be the secret level of Ion Storm's Anachronox, but scrapped in later stages of the development and released a couple of years later.",
  "files": {
   "oblivion.bsp": {
    "bytes": 695276,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a",
  "tags": [
   "author=Rich Carlson",

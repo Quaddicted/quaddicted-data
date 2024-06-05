@@ -1,5 +1,6 @@
 {
  "bytes": 834575,
+ "description": "Medium sized Base map with an original and unique twist: the illusion of walking on multiple plains - nine years before Prey.",
  "files": {
   "thefly.bsp": {
    "bytes": 1979896,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e",
  "tags": [
   "author=Markus Klar",

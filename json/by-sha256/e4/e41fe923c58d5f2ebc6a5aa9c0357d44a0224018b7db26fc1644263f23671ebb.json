@@ -1,5 +1,6 @@
 {
  "bytes": 564374,
+ "description": "Small to medium sized Base map.",
  "files": {
   "desout.bsp": {
    "bytes": 1398440,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e41fe923c58d5f2ebc6a5aa9c0357d44a0224018b7db26fc1644263f23671ebb",
  "tags": [
   "author=S. Mennier",

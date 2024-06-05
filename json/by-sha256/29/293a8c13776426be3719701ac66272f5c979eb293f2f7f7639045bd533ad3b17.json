@@ -1,5 +1,6 @@
 {
  "bytes": 281311,
+ "description": "Unthemed / 2 DM maps / Cybear, iNaNe",
  "files": {
   "sm14_bear.bsp": {
    "bytes": 402104,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "293a8c13776426be3719701ac66272f5c979eb293f2f7f7639045bd533ad3b17",
  "tags": [
   "author=Cybear",

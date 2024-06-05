@@ -1,5 +1,6 @@
 {
  "bytes": 1879876,
+ "description": "Medium sized Q2base map. Comes with a .lit file and a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -71,6 +72,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "7695ffefc933b67f20ae85b2f12e5bb463645516409f9a5eff77d22877c596ab",
  "tags": [
   "author=Mateusz 'MaTi' Piaskiewicz",

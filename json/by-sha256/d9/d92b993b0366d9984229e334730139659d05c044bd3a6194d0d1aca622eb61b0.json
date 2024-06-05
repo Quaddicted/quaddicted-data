@@ -1,5 +1,6 @@
 {
  "bytes": 7242850,
+ "description": "Small episode consisting of 4 levels and a start map, with knave textures, some modified models and sounds.",
  "files": {
   "contract.html": {
    "bytes": 13665,
@@ -106,6 +107,7 @@
   "extract": "{base}/contract/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [
   "author=Kell",

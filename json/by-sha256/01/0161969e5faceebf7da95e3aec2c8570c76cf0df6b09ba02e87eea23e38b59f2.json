@@ -1,5 +1,6 @@
 {
  "bytes": 1507537,
+ "description": "Smallish white brick level with a garden and a lava-filled atrium; the single player version of <a href=\"https://celephais.net/board/view_thread.php?id=61584\">rhoqtdm1</a>. The map source is included.",
  "files": {
   "rhoqtdm1sp.bsp": {
    "bytes": 1871524,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0161969e5faceebf7da95e3aec2c8570c76cf0df6b09ba02e87eea23e38b59f2",
  "tags": [
   "author=Rhoq",

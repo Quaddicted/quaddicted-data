@@ -1,5 +1,6 @@
 {
  "bytes": 2611104,
+ "description": "The SM40 contest was something RPG started so that the SM40 Speedchainmap would actually get finished.",
  "files": {
   "Fmb_SM40.bsp": {
    "bytes": 3498328,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07",
  "tags": [
   "author=Mike Woodham",

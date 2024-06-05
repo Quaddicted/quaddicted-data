@@ -1,5 +1,6 @@
 {
  "bytes": 3781382,
+ "description": "Episode with nine small maps (including a start map, a secret map called penis.bsp and two DM maps), two reskinned monsters and a rain effect.",
  "files": {
   "strom.bat": {
    "bytes": 19,
@@ -187,6 +188,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
  "tags": [
   "author=Tigger-On",

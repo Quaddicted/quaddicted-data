@@ -1,5 +1,6 @@
 {
  "bytes": 672463,
+ "description": "Large Medieval/ Wizard map. Third map of the LFSP series.",
  "files": {
   "lfsp3.bsp": {
    "bytes": 1575416,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d5f75f2aedfbcbecc001369b026e4c1fb723acea197b1122421c78d4b6705432",
  "tags": [
   "author=Leafface",

@@ -1,5 +1,6 @@
 {
  "bytes": 2508359,
+ "description": "Large mine cavern map; a remake of the third level from Descent 2. Exploration-style gameplay and many secrets.",
  "files": {
   "megad2lvl3.bsp": {
    "bytes": 4326908,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "2285af46d290b3e856f343ae16af666912c974542a6bcde92a3b720d971e8916",
  "tags": [
   "author=megaman",

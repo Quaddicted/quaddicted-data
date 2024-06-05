@@ -1,5 +1,6 @@
 {
  "bytes": 525853,
+ "description": "Small Wizard map with some traps. Comes with a start map.",
  "files": {
   "ENTERHOT.BSP": {
    "bytes": 559972,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85",
  "tags": [
   "author=Scott McNutt",

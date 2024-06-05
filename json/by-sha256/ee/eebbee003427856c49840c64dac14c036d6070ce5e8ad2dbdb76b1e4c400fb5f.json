@@ -1,5 +1,6 @@
 {
  "bytes": 1313072,
+ "description": "Three small maps representing one. They are somewhat medieval/metal themed for the most part and have quite a few deadly traps.",
  "files": {
   "Config.cfg": {
    "bytes": 2111,
@@ -56,6 +57,7 @@
   "extract": "{base}/lastgame/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [
   "author=J.F.Gustafsson",

@@ -1,5 +1,6 @@
 {
  "bytes": 1141690,
+ "description": "<i>A marketplace-themed SP map of moderate size</i>.",
  "files": {
   "dw_bizbazfinal.bsp": {
    "bytes": 2766677,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "211232477b4777cb2f7eeb68442833fae50a450b952e04fef36873b1803c96a9",
  "tags": [
   "author=Doug Wheeler aka Bullseye8841",

@@ -1,5 +1,6 @@
 {
  "bytes": 651087,
+ "description": "Medium sized base map with a few new textures.",
  "files": {
   "Ohzarm.bsp": {
    "bytes": 1697424,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c3464ac33a64e43eee2bc55a9ce432df13c2633440f7f88de99b800a95ae7c1d",
  "tags": [
   "author=Tony Boyer",

@@ -1,5 +1,6 @@
 {
  "bytes": 494845,
+ "description": "Small, weird base map with a few textures from Zerstörer (no exit).",
  "files": {
   "logs.zip": {
    "bytes": 1501,
@@ -43,6 +44,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6c2b951eaaa5f26334f240332b8a63037cf590fa4523d86552df7c05555acae7",
  "tags": [
   "author=LZM",
@@ -54,7 +56,7 @@
   "theme=base",
   "theme=no exit",
   "theme=outdoor",
-  "theme=zerst\u00f6rer",
+  "theme=zerstu00f6rer",
   "title=LZM Nuclear Research Labs",
   "type=map",
   "zipbasedir=id1/maps/"

@@ -1,5 +1,6 @@
 {
  "bytes": 716346,
+ "description": "Medium sized temple with Maya and Hexen2 textures.",
  "files": {
   "e1.bsp": {
    "bytes": 1853044,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "tags": [
   "author=Mr Ed",

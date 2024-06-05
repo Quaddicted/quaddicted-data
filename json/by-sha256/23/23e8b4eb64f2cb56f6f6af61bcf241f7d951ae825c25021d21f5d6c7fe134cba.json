@@ -1,5 +1,6 @@
 {
  "bytes": 852371,
+ "description": "Two small Base maps.",
  "files": {
   "KABSP2.bsp": {
    "bytes": 1354208,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "23e8b4eb64f2cb56f6f6af61bcf241f7d951ae825c25021d21f5d6c7fe134cba",
  "tags": [
   "author=Jacek Gordinier",

@@ -1,5 +1,6 @@
 {
  "bytes": 276533,
+ "description": "Small map with a mixture of textures with a Star Wars shuttle prefab at the end.",
  "files": {
   "Storm.bsp": {
    "bytes": 643756,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2eb4fe98166bffb365693423f9cdba77e77a9900c681a19bd793cb55d23b6ebe",
  "tags": [
   "author=Ben Watson",

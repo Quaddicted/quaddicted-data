@@ -1,5 +1,6 @@
 {
  "bytes": 1066985,
+ "description": "Fairly large aqueduct level split into three color sections, and some underwater bits.",
  "files": {
   "The guys.JPG": {
    "bytes": 66601,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a8b58c4526addf3749eb8abd0a565c5a2ca9f6b27b014f29a04a44b398e4a1db",
  "tags": [
   "author=Roger Staines",

@@ -1,5 +1,6 @@
 {
  "bytes": 559202,
+ "description": "Small medieval-style fortress where all items are hidden in countless secrets which have to be discovered in order to survive.",
  "files": {
   "secret.bsp": {
    "bytes": 1157204,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "eafae3baaeee7004a9614f648dd692016b5968757769756e54c5b59883a816ed",
  "tags": [
   "author=DeeDoubleU",

@@ -1,5 +1,6 @@
 {
  "bytes": 458622,
+ "description": "Small, very plain Base map.",
  "files": {
   "TDA.bsp": {
    "bytes": 1040808,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e02ca74b973c524027788ffc8d38021ec4c96d7d71ac47f908f634adf8e1b0a4",
  "tags": [
   "author=Peter \"Da Oregon Pimp\" Tew",

@@ -1,5 +1,6 @@
 {
  "bytes": 1442512,
+ "description": "Small beginner's base map. Comes with a custom music track. The map source is included.",
  "files": {
   "berthe.bsp": {
    "bytes": 1461640,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "667577b803e740112d77ff6f6ddc5f417ca49fd80866b07f3e494235b089a45e",
  "tags": [
   "author=Leonardi",

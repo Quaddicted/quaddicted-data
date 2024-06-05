@@ -1,5 +1,6 @@
 {
  "bytes": 528135,
+ "description": "Small medieval map. The author's first Quake release.",
  "files": {
   "torre.bsp": {
    "bytes": 1177624,
@@ -21,9 +22,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "67bcd34cc1a597010fd73dcfcb3654de0f028f07c26f09bbc0685dcd12a6435b",
  "tags": [
-  "author=Daniel G\u00f3mez (Rat\u00f3n)",
+  "author=Daniel Gu00f3mez (Ratu00f3n)",
   "filename=torre.zip",
   "game=quake",
   "game_mode=singleplayer",

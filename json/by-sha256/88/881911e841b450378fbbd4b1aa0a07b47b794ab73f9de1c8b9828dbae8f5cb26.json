@@ -1,5 +1,6 @@
 {
  "bytes": 40155924,
+ "description": "Small tech base level in classic id1 style, with custom enemies via progs_dump v3 mod (already included). The author's second release. Map source and .dem are included.",
  "files": {
   "Readme.txt": {
    "bytes": 2765,
@@ -736,6 +737,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "There's no start map; load manually via console (\"game cheese; map Cheesebase01\")"
+ ],
  "sha256": "881911e841b450378fbbd4b1aa0a07b47b794ab73f9de1c8b9828dbae8f5cb26",
  "tags": [
   "author=CreamyMCcheese",

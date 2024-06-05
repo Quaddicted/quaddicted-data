@@ -1,5 +1,6 @@
 {
  "bytes": 705868,
+ "description": "Small map with a gothic theme, using a mixture of ID1 and knave textures. The author's first map.",
  "files": {
   "deception.bsp": {
    "bytes": 1257664,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility."
+ ],
  "sha256": "6fa8076f2494e9b1766a7367fecbbc499a3b3897212f48911e09c7bded31152f",
  "tags": [
   "author=BBPoison",

@@ -1,5 +1,6 @@
 {
  "bytes": 2423720,
+ "description": "Medium-sized runic-style temple. The map source is included.",
  "files": {
   "pillars.bsp": {
    "bytes": 3330320,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "64cb7e71278cd125b56bdd15808c5dafd82ada006365d5e344c8e1b6d1f42ade",
  "tags": [
   "author=Sergey Rupasov",

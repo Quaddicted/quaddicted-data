@@ -1,5 +1,6 @@
 {
  "bytes": 609129,
+ "description": "Small sewage plant, created for the Escape For Quake conversion.",
  "files": {
   "SEWAGE.BSP": {
    "bytes": 1579144,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91",
  "tags": [
   "author=Trace Stuart",

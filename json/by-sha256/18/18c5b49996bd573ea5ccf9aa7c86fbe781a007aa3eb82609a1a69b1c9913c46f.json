@@ -1,5 +1,6 @@
 {
  "bytes": 420212,
+ "description": "Small 768*768 speedmap. The map source is included.",
  "files": {
   "dont_readme": {
    "bytes": 680,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "18c5b49996bd573ea5ccf9aa7c86fbe781a007aa3eb82609a1a69b1c9913c46f",
  "tags": [
   "author=Fairweather",

@@ -1,5 +1,6 @@
 {
  "bytes": 603322,
+ "description": "Medium sized boxed Base maze with a crate area and lots of darkness.",
  "files": {
   "supply.bsp": {
    "bytes": 1633928,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc",
  "tags": [
   "author=Darren (Rex_Noctu) Johnson",

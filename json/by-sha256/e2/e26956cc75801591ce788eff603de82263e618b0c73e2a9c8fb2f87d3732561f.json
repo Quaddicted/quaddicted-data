@@ -1,5 +1,6 @@
 {
  "bytes": 1908919,
+ "description": "The original Quake deathmatch maps converted for single player mode.",
  "files": {
   "dm1sp.bsp": {
    "bytes": 577492,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e26956cc75801591ce788eff603de82263e618b0c73e2a9c8fb2f87d3732561f",
  "tags": [
   "author=Basil de Vries",

@@ -1,5 +1,6 @@
 {
  "bytes": 824741,
+ "description": "Caught between slipgates / 2 SP maps / Drew (Quoth), Zwiffle",
  "files": {
   "sm153_drew.bsp": {
    "bytes": 1689696,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "tags": [
   "author=Drew",

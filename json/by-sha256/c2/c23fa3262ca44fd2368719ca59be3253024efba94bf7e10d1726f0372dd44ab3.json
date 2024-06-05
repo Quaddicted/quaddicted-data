@@ -1,5 +1,6 @@
 {
  "bytes": 786320,
+ "description": "Small, linear indsutrial map using the Cr8 texture set.",
  "files": {
   "zsp1.bsp": {
    "bytes": 2133204,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c23fa3262ca44fd2368719ca59be3253024efba94bf7e10d1726f0372dd44ab3",
  "tags": [
   "author=Zwiffle",

@@ -1,5 +1,6 @@
 {
  "bytes": 7025998,
+ "description": "Medium-sized Knave fortress. It comes with a custom skybox and a music track. The map source is included.",
  "files": {
   "maxx/": {
    "bytes": 0,
@@ -86,6 +87,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "27b270766996015a6d97aac5a7c31db879692566ecff568f2642db135ecc919a",
  "tags": [
   "author=MortalMaxx",

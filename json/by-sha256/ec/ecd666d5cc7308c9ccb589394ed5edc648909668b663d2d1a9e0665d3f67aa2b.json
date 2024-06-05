@@ -1,5 +1,6 @@
 {
  "bytes": 576062,
+ "description": "Small medieval map with some Quad action.",
  "files": {
   "loupus1.bsp": {
    "bytes": 1301580,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ecd666d5cc7308c9ccb589394ed5edc648909668b663d2d1a9e0665d3f67aa2b",
  "tags": [
   "author=Sean Reed",

@@ -1,5 +1,6 @@
 {
  "bytes": 501214,
+ "description": "A small cabin with a basement in a dark forest, inspired by the Evil Dead movies (originally created for the never completed Army of Darkness TC). Map source is included.",
  "files": {
   "Evildead.map": {
    "bytes": 362504,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9644adcc4b040f12a185cd82b61c42f87ffbc0e93c9184737a64e5002504b573",
  "tags": [
   "author=Steve Rescoe",

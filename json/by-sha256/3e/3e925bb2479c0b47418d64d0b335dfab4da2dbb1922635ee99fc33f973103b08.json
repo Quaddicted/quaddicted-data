@@ -1,5 +1,6 @@
 {
  "bytes": 526895,
+ "description": "VR themed map with stealth mechanics.",
  "files": {
   "VR/CONFIG.CFG": {
    "bytes": 2251,
@@ -136,6 +137,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08",
  "tags": [
   "author=George Grotans",

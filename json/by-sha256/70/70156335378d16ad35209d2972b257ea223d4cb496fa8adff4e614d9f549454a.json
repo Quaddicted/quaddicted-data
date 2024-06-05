@@ -1,5 +1,6 @@
 {
  "bytes": 1550063,
+ "description": "Medium sized Metal map with some base monsters and a Base generator room.",
  "files": {
   "fmb6.bsp": {
    "bytes": 3462252,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "70156335378d16ad35209d2972b257ea223d4cb496fa8adff4e614d9f549454a",
  "tags": [
   "author=Mike Woodham",

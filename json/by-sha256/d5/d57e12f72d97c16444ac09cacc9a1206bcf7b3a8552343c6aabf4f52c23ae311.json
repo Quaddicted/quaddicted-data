@@ -1,5 +1,6 @@
 {
  "bytes": 4051121,
+ "description": "Very small map with a blue castle in a canyon. Comes with a custom skybox.",
  "files": {
   "gfx/env/": {
    "bytes": 0,
@@ -56,6 +57,7 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311",
  "tags": [
   "author=Shambler",

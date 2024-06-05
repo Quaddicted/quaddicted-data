@@ -1,5 +1,6 @@
 {
  "bytes": 356406,
+ "description": "Small map with a bridge over lava.",
  "files": {
   "rjty.bsp": {
    "bytes": 731036,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b",
  "tags": [
   "author=Tyler McNamee",

@@ -1,5 +1,6 @@
 {
  "bytes": 1799275,
+ "description": "The Borg cube from the Star Trek series, with new monster skins and sounds.",
  "files": {
   "Borg.txt": {
    "bytes": 2472,
@@ -122,6 +123,7 @@
   "extract": "{base}/borg/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f",
  "tags": [
   "author=GreenHornet aka.",

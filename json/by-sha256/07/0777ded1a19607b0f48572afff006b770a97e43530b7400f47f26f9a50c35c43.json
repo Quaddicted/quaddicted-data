@@ -1,5 +1,6 @@
 {
  "bytes": 791307,
+ "description": "Very small Japanese shrine using Daikatana textures. The map source is included.",
  "files": {
   "hc1extndagain.bsp": {
    "bytes": 1176168,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0777ded1a19607b0f48572afff006b770a97e43530b7400f47f26f9a50c35c43",
  "tags": [
   "author=Nicolas 'hexcalk' Maeder",

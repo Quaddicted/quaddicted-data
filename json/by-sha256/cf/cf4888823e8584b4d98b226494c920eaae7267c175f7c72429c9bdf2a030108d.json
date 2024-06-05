@@ -1,5 +1,6 @@
 {
  "bytes": 858681,
+ "description": "Small medieval castle with a few custom textures, designed for the Deathmatch Maker Competition '97. Comes with an additional skill selection map. The DMM map sources are included.",
  "files": {
   "horrors.bsp": {
    "bytes": 869432,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d",
  "tags": [
   "author=Richard Neff",

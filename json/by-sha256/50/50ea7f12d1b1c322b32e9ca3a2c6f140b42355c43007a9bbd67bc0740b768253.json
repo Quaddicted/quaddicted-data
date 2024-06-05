@@ -1,5 +1,6 @@
 {
  "bytes": 7206575,
+ "description": "Koohoo's Castle / 6 SP maps / Cocerello, digs, DOOMer, FifthElephant, Scampie. This is the later release by sock with the maps not in a pak file, no additional media and sock's entry removed.  Alternative versions of Cocerello's maps are included for use with Scorge of Armagon and Dissolution of Eternity.",
  "files": {
   "sm175_5th.bsp": {
    "bytes": 1989437,
@@ -101,6 +102,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "50ea7f12d1b1c322b32e9ca3a2c6f140b42355c43007a9bbd67bc0740b768253",
  "tags": [
   "author=Cocerello",

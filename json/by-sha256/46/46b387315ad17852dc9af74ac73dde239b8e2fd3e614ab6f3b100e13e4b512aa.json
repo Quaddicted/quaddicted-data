@@ -1,5 +1,6 @@
 {
  "bytes": 2570509,
+ "description": "Around medium-sized blood cistern level using terracotta-style custom textures. The map source is included.",
  "files": {
   "sincinch.bsp": {
    "bytes": 3651932,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "46b387315ad17852dc9af74ac73dde239b8e2fd3e614ab6f3b100e13e4b512aa",
  "tags": [
   "author=Chris Holden",

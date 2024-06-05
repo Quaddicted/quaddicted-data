@@ -1,5 +1,6 @@
 {
  "bytes": 1900644,
+ "description": "Quantity over Quality / 6 SP maps / Jacek, HeadThump, Xenon, Zwiffle",
  "files": {
   "sm67_headthump.bsp": {
    "bytes": 757832,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a9b689a85614f06e64fb42ffdeb65ecf33dea8d61db70d0fc32de2565e03d316",
  "tags": [
   "author=HeadThump",

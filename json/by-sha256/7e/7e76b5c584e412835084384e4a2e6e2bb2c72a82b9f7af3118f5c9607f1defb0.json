@@ -1,5 +1,6 @@
 {
  "bytes": 570274,
+ "description": "Small to medium horizontal Wizard with different texture combinations is each room. Features Willy the Spider.",
  "files": {
   "FF.TXT": {
    "bytes": 7673,
@@ -66,6 +67,7 @@
   "extract": "{base}/wishwell/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0",
  "tags": [
   "author=Tom Cleghorn aka Murgatroyd",

@@ -1,5 +1,6 @@
 {
  "bytes": 567201,
+ "description": "Small Base map.",
  "files": {
   "outpost.bsp": {
    "bytes": 1442940,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4a89c8e21e5b7a42a32aba6f33e4cb766335da87974c4d59405e7f4150989eae",
  "tags": [
   "author=Creed",

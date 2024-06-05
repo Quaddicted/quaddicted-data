@@ -1,5 +1,6 @@
 {
  "bytes": 953930,
+ "description": "Medium sized chain map by Than, Gibbie, RPG, Nightbringer.",
  "files": {
   "sm32.bsp": {
    "bytes": 2127304,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02",
  "tags": [
   "author=Gibbie",

@@ -1,5 +1,6 @@
 {
  "bytes": 12108041,
+ "description": "Large castle library in the mountains. It uses some Knave textures and comes with a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -61,6 +62,9 @@
   "extract": "{base}/mahagony/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support."
+ ],
  "sha256": "92fa1bcdfa251d4447e2b6f4ebd12ff5fa1803a4cf6ee351d21edbcdd12443a4",
  "tags": [
   "author=Poorchop",

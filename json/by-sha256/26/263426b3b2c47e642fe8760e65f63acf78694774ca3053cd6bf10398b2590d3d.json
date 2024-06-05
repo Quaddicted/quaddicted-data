@@ -1,5 +1,6 @@
 {
  "bytes": 860768,
+ "description": "Two medium sized metal maps.",
  "files": {
   "garrison.bsp": {
    "bytes": 902660,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d",
  "tags": [
   "author=Peter Bisseker (tiddles)",

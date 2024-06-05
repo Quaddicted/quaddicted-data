@@ -1,5 +1,6 @@
 {
  "bytes": 576808,
+ "description": "Medium sized greyish dungeon.",
  "files": {
   "PABC6.bsp": {
    "bytes": 1422968,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7d6897e3690ff87de9d49b0caea8fcdb865df2791bd76c305953fb98c1cbd30a",
  "tags": [
   "author=Unknown",

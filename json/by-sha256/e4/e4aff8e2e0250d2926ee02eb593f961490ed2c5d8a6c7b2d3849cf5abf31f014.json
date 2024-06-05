@@ -1,5 +1,6 @@
 {
  "bytes": 46616213,
+ "description": "Map jam #5 - a community project at Func_Msgboard. The pack features a start map and 8 maps of various themes made for WarrenM's Qonquer mod (included), which lets the player fight waves of monsters in arena-style maps, with the occasional assistance of minions.",
  "files": {
   "demo1.dem": {
    "bytes": 2135701,
@@ -606,7 +607,7 @@
    "sha256": "069d50ccdf80165a27330925fdf00c7113543cdb6683ecc0864b3d3698adeb48",
    "timestamp": "2015-04-09T11:37:06.000Z"
   },
-  "source/zerst\u00f6rer.wad": {
+  "source/zerstu00f6rer.wad": {
    "bytes": 937692,
    "sha256": "50458672bcfd01aae902e7250efe323aafb00fcd38c5797d1019f1aa012d24f0",
    "timestamp": "2015-04-09T11:37:06.000Z"
@@ -616,6 +617,9 @@
   "extract": "{base}/func_mapjam5/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014",
  "tags": [
   "author=Arrrcee",

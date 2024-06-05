@@ -1,5 +1,6 @@
 {
  "bytes": 324198,
+ "description": "Small Wizard map with a large water area at the end.",
  "files": {
   "CRYPT.BSP": {
    "bytes": 777468,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2cf4325b7648955a90679fdd228c5bcdb157feedcc823f33b5cb3540e8e52302",
  "tags": [
   "author=Richard Carlson",

@@ -1,5 +1,6 @@
 {
  "bytes": 3336039,
+ "description": "Medium sized mental asylum with new textures, some SOA code/monsters, and a few Duke Nukem remarks.",
  "files": {
   "Asylum.txt": {
    "bytes": 2486,
@@ -543,6 +544,7 @@
   "extract": "{base}/asylum/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4019a0237688eefe2f2899bee6eff73e1f9aae4d7df5dfcadfc3f0fa79dea278",
  "tags": [
   "author=Phil Daniels",

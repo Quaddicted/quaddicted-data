@@ -1,5 +1,6 @@
 {
  "bytes": 2644257,
+ "description": "Medium to large medieval-style dungeon in a subterranean lava cave. The map source and the texture wad are included.",
  "files": {
   "ad_fenrir.bsp": {
    "bytes": 3905640,
@@ -31,6 +32,9 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions</a> and an engine port with increased limits."
+ ],
  "sha256": "a82250063c980d1ebe14a3f8781387f1464aefd01f97784253c0e776642d679c",
  "tags": [
   "author=Henrik Oresten (Giftmacher)",

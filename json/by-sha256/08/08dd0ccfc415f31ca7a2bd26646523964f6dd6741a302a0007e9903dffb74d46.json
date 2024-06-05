@@ -1,5 +1,6 @@
 {
  "bytes": 1011247,
+ "description": "Medium sized Metal/Base laboratory with a few custom textures such as paintings and blackboards. Loosely based on the movie \"Brain Candy\".",
  "files": {
   "Roritor.txt": {
    "bytes": 2651,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "08dd0ccfc415f31ca7a2bd26646523964f6dd6741a302a0007e9903dffb74d46",
  "tags": [
   "author=Gregory Keen",

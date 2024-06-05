@@ -1,5 +1,6 @@
 {
  "bytes": 1663836,
+ "description": "Three small space base maps with unusual but not necessarily bad new textures.",
  "files": {
   "area51.txt": {
    "bytes": 2289,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9",
  "tags": [
   "author=Anders Gustavsson",

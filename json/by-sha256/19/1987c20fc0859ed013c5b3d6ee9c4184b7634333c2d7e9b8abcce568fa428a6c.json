@@ -1,5 +1,6 @@
 {
  "bytes": 2819227,
+ "description": "Spanish 'realism' map with new monsters and textures. Comes with a start map.",
  "files": {
   "Kaos.txt": {
    "bytes": 3330,
@@ -362,6 +363,7 @@
   "extract": "{base}/kaos/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1987c20fc0859ed013c5b3d6ee9c4184b7634333c2d7e9b8abcce568fa428a6c",
  "tags": [
   "author=McRuli (Rodrigo Hernandez)",

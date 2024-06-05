@@ -1,5 +1,6 @@
 {
  "bytes": 949257,
+ "description": "Medium sized blue Wizard level with a bit of button searching.",
  "files": {
   "ARCH.MAP": {
    "bytes": 14629,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31",
  "tags": [
   "author=David Minor",

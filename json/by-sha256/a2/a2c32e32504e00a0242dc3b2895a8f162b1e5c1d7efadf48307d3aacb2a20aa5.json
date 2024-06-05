@@ -1,5 +1,6 @@
 {
  "bytes": 658100,
+ "description": "Smallish Wizard/Metal map with a hub structure.",
  "files": {
   "PAND01A.BSP": {
    "bytes": 1601616,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5",
  "tags": [
   "author=Richard Dale Carlson",

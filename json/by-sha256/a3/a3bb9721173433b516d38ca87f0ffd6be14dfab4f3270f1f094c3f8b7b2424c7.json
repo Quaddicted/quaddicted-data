@@ -1,5 +1,6 @@
 {
  "bytes": 824867,
+ "description": "Medium sized red brick/medieval map.",
  "files": {
   "Orion.doc": {
    "bytes": 11264,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a3bb9721173433b516d38ca87f0ffd6be14dfab4f3270f1f094c3f8b7b2424c7",
  "tags": [
   "author=Jason Fink",

@@ -1,5 +1,6 @@
 {
  "bytes": 3405052,
+ "description": "2 SP maps by mukor and Naitelveni.  The title of the pack is not referenced in the zip as their is no readme file.",
  "files": {
   "sm180_mukor.bsp": {
    "bytes": 5118900,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "afcfebba72a79ebb38aba27520489a36a73b1cacc8c6d9c3d25a233c241c6feb",
  "tags": [
   "author=Naitelveni",

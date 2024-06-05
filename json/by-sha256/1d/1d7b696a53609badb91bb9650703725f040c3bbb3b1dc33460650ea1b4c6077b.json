@@ -1,5 +1,6 @@
 {
  "bytes": 3180918,
+ "description": "Small to medium-sized runic-style temple with a graveyard in rocky surroundings. The level can be finished fairly quickly, but in order to visit all areas and get better equipment it requires exploration and secret-hunting. The map source is included.",
  "files": {
   "TofQuake_v2.bsp": {
    "bytes": 5274192,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This is an updated version that addresses several technical issues. The unfixed original version is available <a href=\"https://www.quaddicted.com/filebase/tofquake.zip\">here</a>."
+ ],
  "sha256": "1d7b696a53609badb91bb9650703725f040c3bbb3b1dc33460650ea1b4c6077b",
  "tags": [
   "author=Esrael",

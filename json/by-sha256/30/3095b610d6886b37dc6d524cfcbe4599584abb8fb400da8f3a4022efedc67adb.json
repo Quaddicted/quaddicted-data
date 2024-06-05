@@ -1,5 +1,6 @@
 {
  "bytes": 1416355,
+ "description": "Medium-sized puzzle map with Hipnotic/Metal textures. The layout is cramped and fairly nonlinear, the gameplay relies heavily on finding secret areas and hidden buttons.",
  "files": {
   "seraphim.bsp": {
    "bytes": 3195852,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3095b610d6886b37dc6d524cfcbe4599584abb8fb400da8f3a4022efedc67adb",
  "tags": [
   "author=Peter van Wingerden",

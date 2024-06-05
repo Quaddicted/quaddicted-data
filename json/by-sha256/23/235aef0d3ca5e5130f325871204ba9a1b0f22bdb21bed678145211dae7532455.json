@@ -1,5 +1,6 @@
 {
  "bytes": 2810152,
+ "description": "Huge and spacious base map.",
  "files": {
   "wbase.bsp": {
    "bytes": 6513256,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "235aef0d3ca5e5130f325871204ba9a1b0f22bdb21bed678145211dae7532455",
  "tags": [
   "author=Trinca",

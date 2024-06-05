@@ -1,5 +1,6 @@
 {
  "bytes": 87362607,
+ "description": "11 maps featuring the most infamous texture from DOOM, FireBlu! Made using Dumptruck_ds's Speedmapping Progs.",
  "files": {
   "fbj/": {
    "bytes": 0,
@@ -620,6 +621,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b58f870ff22e91e863ec89f220d73a8e1b1717c847fa5edab9e35215904249e2",
  "tags": [
   "author=Adib Murad",

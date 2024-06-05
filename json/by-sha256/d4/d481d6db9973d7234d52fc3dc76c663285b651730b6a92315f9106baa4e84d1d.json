@@ -1,5 +1,6 @@
 {
  "bytes": 333862,
+ "description": "Very small and dark atrium map. \"Secret level of of the SP-game: \"Far away from home\"'",
  "files": {
   "LFDM4.bsp": {
    "bytes": 778116,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d481d6db9973d7234d52fc3dc76c663285b651730b6a92315f9106baa4e84d1d",
  "tags": [
   "author=Leafface",

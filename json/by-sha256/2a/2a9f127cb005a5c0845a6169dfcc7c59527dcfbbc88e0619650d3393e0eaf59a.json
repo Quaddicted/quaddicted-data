@@ -1,5 +1,6 @@
 {
  "bytes": 1320255,
+ "description": "Small space base with a hidden UFO beneath. Comes with strange new textures and three custom monsters (Drone, Red Demon, Snakeman).",
  "files": {
   "GAMES/QUAKE/INFECTN/CONFIG.CFG": {
    "bytes": 2138,
@@ -121,6 +122,7 @@
   "extract": "{base}/infectn/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a",
  "tags": [
   "author=Dia Westerteicher",

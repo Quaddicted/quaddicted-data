@@ -1,5 +1,6 @@
 {
  "bytes": 596781,
+ "description": "Very nice wizmetal map with nice traps and well made progression, but occasionally repetitive corridors.",
  "files": {
   "opcondor.bsp": {
    "bytes": 1496280,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6da3c986690d6b6faef38bd3cb534f96af8f4b28e24152cf09e76ef855225452",
  "tags": [
   "author=Scott McNutt",

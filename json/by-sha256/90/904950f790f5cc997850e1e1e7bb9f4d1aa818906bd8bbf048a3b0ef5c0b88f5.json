@@ -1,5 +1,6 @@
 {
  "bytes": 1780755,
+ "description": "Small to medium-sized vertical mixed-texture 90s style map. The underlying \"story\" is that you are in some kind of base environment built in such a way that you must climb through three increasingly macabre gauntlets in order to escape.",
  "files": {
   "infernal.bsp": {
    "bytes": 3610012,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5",
  "tags": [
   "author=ubiquitous",

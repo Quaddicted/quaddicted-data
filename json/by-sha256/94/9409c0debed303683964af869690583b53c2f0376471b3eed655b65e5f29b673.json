@@ -1,5 +1,6 @@
 {
  "bytes": 24190783,
+ "description": "Huge two-episode campaign featuring 12 medium-to large medieval/wizard/terrain style maps (+ start and end maps) plus many new monsters, sounds, textures and QC features. Also includes seven deathmatch maps that can be played in SP via 'arena mode'.",
  "files": {
   "pak0.PAK": {
    "bytes": 13969201,
@@ -1194,6 +1195,7 @@
   "extract": "{base}/soe/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

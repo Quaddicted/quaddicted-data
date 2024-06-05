@@ -1,5 +1,6 @@
 {
  "bytes": 516914,
+ "description": "Largish somewhat plain Wizard fortress.",
  "files": {
   "Haunt.txt": {
    "bytes": 14531,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e85e21d96e7805669968f84015398c021685aa931fbb80c0167ffdb7c7f7408e",
  "tags": [
   "author=Tiarnan Breffni",

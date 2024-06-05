@@ -1,5 +1,6 @@
 {
  "bytes": 21633856,
+ "description": "Two medium/large blue-themed maps plus a start map and a battle arena, featuring elements from some of the original Quake levels and certain old custom maps. Comes with three music tracks. The map sources are included.",
  "files": {
   "arrogant/": {
    "bytes": 0,
@@ -91,6 +92,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These levels require a source port with increased limits."
+ ],
  "sha256": "99804f1812be1056f2b6067c43055944b730a5fdec17e00f2e5c80a5969ebc0f",
  "tags": [
   "author=mariteaux",

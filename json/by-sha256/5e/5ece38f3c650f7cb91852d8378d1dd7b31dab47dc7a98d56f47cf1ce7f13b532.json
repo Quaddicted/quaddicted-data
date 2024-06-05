@@ -1,5 +1,6 @@
 {
  "bytes": 4471104,
+ "description": "Medium-sized toxic sewer/industrial base map.",
  "files": {
   "snaut-acidtrip.bsp": {
    "bytes": 13527928,
@@ -21,6 +22,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits.",
+  "Rezipped for Quaddicted"
+ ],
  "sha256": "5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532",
  "tags": [
   "author=Shamblernaut",

@@ -1,5 +1,6 @@
 {
  "bytes": 231771,
+ "description": "Small, plain and linear Metal map with a crypt corridor. Map source is included.",
  "files": {
   "crypt.bsp": {
    "bytes": 481748,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb",
  "tags": [
   "author=Dan Edwards",

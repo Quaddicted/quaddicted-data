@@ -1,5 +1,6 @@
 {
  "bytes": 1558519,
+ "description": "Medium-sized cathedral with some base elements. The map source is included.",
  "files": {
   "cotdq1.txt": {
    "bytes": 1438,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0057e13199459fb3e0450484ada072fe2c7c64f6f75e38b8e314ac2808bd0a4d",
  "tags": [
   "author=Rastrelly",

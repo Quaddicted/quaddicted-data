@@ -1,5 +1,6 @@
 {
  "bytes": 608871,
+ "description": "Medium sized Base/Metal map. Uses some DOOM2 textures and some other custom ones.",
  "files": {
   "Morbid_1.bsp": {
    "bytes": 1427120,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4a707504af6ede52fe2cf2e69f22ca0c8fffe58bd75481a7329c9309d5bbb276",
  "tags": [
   "author=Daniel Vogt (MoRbId)",

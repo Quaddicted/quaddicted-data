@@ -1,5 +1,6 @@
 {
  "bytes": 724217,
+ "description": "Medium-sized Q2base level with a sewer system. Buttons are often hidden in shadows.",
  "files": {
   "ps43a.bsp": {
    "bytes": 1971992,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e",
  "tags": [
   "author=Dabbler (Jan Buchholz)",

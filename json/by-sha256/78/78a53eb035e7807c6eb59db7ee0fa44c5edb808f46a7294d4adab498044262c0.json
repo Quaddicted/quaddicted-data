@@ -1,5 +1,6 @@
 {
  "bytes": 448461,
+ "description": "Small base map.",
  "files": {
   "F_Box.bsp": {
    "bytes": 1046032,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "78a53eb035e7807c6eb59db7ee0fa44c5edb808f46a7294d4adab498044262c0",
  "tags": [
   "author=Lukasxd",

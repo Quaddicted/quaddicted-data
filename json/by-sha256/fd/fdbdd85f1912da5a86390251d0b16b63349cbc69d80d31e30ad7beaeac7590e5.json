@@ -1,5 +1,6 @@
 {
  "bytes": 1034501,
+ "description": "Large temple with a unique metal theme, some reskinned monsters, an interesting boss fight, and a start map.",
  "files": {
   "Pak0.pak": {
    "bytes": 2580068,
@@ -71,6 +72,7 @@
   "extract": "{base}/eltemple/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "tags": [
   "author=Rob Marton (nn6)",

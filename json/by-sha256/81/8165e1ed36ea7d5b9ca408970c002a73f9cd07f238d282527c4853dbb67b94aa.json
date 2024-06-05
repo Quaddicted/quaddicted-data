@@ -1,5 +1,6 @@
 {
  "bytes": 34850569,
+ "description": "Large medieval dark fantasy castle in frozen lands with haunted crypt. A late entry for <a href=\"0fc8f530297f27b1360f05ae59d8facd3a9aedf153ac4d02dc7af882f0b78e1e\">Twisted Christmas Jam 2022</a>. Map source is included. Custom music by BouncyTEM. Textures and skybox by Makkon.",
  "files": {
   "tcj_alexunder/": {
    "bytes": 0,
@@ -91,6 +92,11 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map won't work in Quake Injector. It must be manually installed (move subfolders into /ad/ mod folder).",
+  "Built for <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> (NOT included).",
+  "Probably requires a modern engine / source port with increased limits."
+ ],
  "sha256": "8165e1ed36ea7d5b9ca408970c002a73f9cd07f238d282527c4853dbb67b94aa",
  "tags": [
   "author=alexUnder Ros",

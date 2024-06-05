@@ -1,5 +1,6 @@
 {
  "bytes": 142102818,
+ "description": "Pack featuring 15 <a href=\"d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0\">Contract Revoked</a> / Knave-themed levels of varying sizes. It comes with a start map and many custom models, sounds and skyboxes. The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -1158,6 +1159,10 @@
   "extract": "{base}/jam9"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and a source port with increased limits &amp; BSP2 support as well as the -quoth command line switch.",
+  "This is an updated version of the pack which contains some bug fixes."
+ ],
  "sha256": "21d33c8a494b6c569696e156f36ce43485c3ed1db4ae38f2f7722e71db83404b",
  "tags": [
   "author=              Haunter",

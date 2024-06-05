@@ -1,5 +1,6 @@
 {
  "bytes": 462808,
+ "description": "Small Wizard/brick level.",
  "files": {
   "prison.bsp": {
    "bytes": 1013916,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49",
  "tags": [
   "author=Anders Gustavsson",

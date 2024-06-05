@@ -1,5 +1,6 @@
 {
  "bytes": 613518,
+ "description": "Medium sized base with a rocket bay.",
  "files": {
   "NITEMARE.BSP": {
    "bytes": 1445836,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "389fa22cd2a0b791d207f363fa3846c365c0db9420d3d4527f5530c2760acad8",
  "tags": [
   "author=ViolentJ (Jeff Farris)",

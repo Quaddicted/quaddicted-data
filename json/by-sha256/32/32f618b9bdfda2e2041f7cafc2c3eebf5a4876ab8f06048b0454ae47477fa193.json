@@ -1,5 +1,6 @@
 {
  "bytes": 787339,
+ "description": "Medium sized Wizard castle.",
  "files": {
   "sgc6.bsp": {
    "bytes": 1823924,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193",
  "tags": [
   "author=Steve Clarke",

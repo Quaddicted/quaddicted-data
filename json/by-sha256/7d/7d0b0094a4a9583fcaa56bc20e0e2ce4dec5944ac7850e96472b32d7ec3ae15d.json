@@ -1,5 +1,6 @@
 {
  "bytes": 406342,
+ "description": "Medium-sized plain caverns level.",
  "files": {
   "Burrow.bsp": {
    "bytes": 889228,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d",
  "tags": [
   "author=Jean-Pierre Raumer",

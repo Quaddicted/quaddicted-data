@@ -1,5 +1,6 @@
 {
  "bytes": 925348,
+ "description": "Unthemed / 3 SP maps / Ankh, generic, lurker",
  "files": {
   "sm135_ankh.bsp": {
    "bytes": 840784,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5326aa8cf15b97b66882f9c4a9114fcc5f103ecf1e19281451fba42f1bceb366",
  "tags": [
   "author=Ankh",

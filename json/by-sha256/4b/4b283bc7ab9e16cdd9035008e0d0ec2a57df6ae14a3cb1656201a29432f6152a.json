@@ -1,5 +1,6 @@
 {
  "bytes": 4713110,
+ "description": "Small mansion in a dark forest, with complete custom texture set. \"This pak uses Ultimate Weapons combo mod as a base and includes these monsters: Snakeman, Dragon, Raptor, Cyberdemon, Blarg, Spider, Grunts package, Femenforcer.\"",
  "files": {
   "CONFIG.CFG": {
    "bytes": 2990,
@@ -842,6 +843,7 @@
   "extract": "{base}/drastic/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a",
  "tags": [
   "author=Mark Wheeler",

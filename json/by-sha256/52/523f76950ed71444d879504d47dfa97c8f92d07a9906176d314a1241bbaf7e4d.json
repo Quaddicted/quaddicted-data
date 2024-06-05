@@ -1,5 +1,6 @@
 {
  "bytes": 5779959,
+ "description": "Three independent levels connected by a start map. <ul><li>Voidscape: Very small rocky island floating in space.</li><li>Brownie: Small medieval fortress with an atrium and tower areas.</li><li>For The Love Of Evil: Large Metal/runic map with majestic halls and various traps.</li></ul>",
  "files": {
   "hrim_sp4/": {
    "bytes": 0,
@@ -41,6 +42,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Load each map manually if you want to avoid starting with all weapons from the previous one.",
+  "On hard difficulty, the third map exceeds the max_edicts limit, so it requires a source port with increased limits."
+ ],
  "sha256": "523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d",
  "tags": [
   "author=Hrimfaxi",

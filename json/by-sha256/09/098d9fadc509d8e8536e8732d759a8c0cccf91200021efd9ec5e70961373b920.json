@@ -1,5 +1,6 @@
 {
  "bytes": 207914,
+ "description": "Decay / 1 SP map / Zwiffle",
  "files": {
   "sm89_zwiffle.bsp": {
    "bytes": 457136,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "098d9fadc509d8e8536e8732d759a8c0cccf91200021efd9ec5e70961373b920",
  "tags": [
   "author=Zwiffle",

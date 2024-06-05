@@ -1,5 +1,6 @@
 {
  "bytes": 456358,
+ "description": "Medium sized, partly cramped Wizard map.",
  "files": {
   "!!READ!!.BAT": {
    "bytes": 16156,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd",
  "tags": [
   "author=George J. Fiffy II",

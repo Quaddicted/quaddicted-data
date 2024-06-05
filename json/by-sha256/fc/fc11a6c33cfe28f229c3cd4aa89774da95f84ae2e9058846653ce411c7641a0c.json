@@ -1,5 +1,6 @@
 {
  "bytes": 592709,
+ "description": "[No information]",
  "files": {
   "sm107_generic.bsp": {
    "bytes": 327556,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fc11a6c33cfe28f229c3cd4aa89774da95f84ae2e9058846653ce411c7641a0c",
  "tags": [
   "author=HeadThump",

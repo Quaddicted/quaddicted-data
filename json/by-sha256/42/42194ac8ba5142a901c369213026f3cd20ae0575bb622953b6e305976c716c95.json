@@ -1,5 +1,6 @@
 {
  "bytes": 1897564,
+ "description": "Medium-sized idbase map with many crates and a critical slipgate malfunction.",
  "files": {
   "scampsp1.bsp": {
    "bytes": 4020180,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "42194ac8ba5142a901c369213026f3cd20ae0575bb622953b6e305976c716c95",
  "tags": [
   "author=Scampie",

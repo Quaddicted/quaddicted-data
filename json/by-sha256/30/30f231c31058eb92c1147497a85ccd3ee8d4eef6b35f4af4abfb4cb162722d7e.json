@@ -1,5 +1,6 @@
 {
  "bytes": 200162,
+ "description": "Simple skill selection map of the LFSP series. It is supposed to link to <a href=\"421212a45754a532cc239aed0c885e2e2f9f3275d341312900fb6ed3e4165d7a\">lfsp1</a>, however the target map filename is wrong.",
  "files": {
   "lfstart.bsp": {
    "bytes": 471436,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e",
  "tags": [
   "author=Leafface",

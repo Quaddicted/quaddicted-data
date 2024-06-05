@@ -1,5 +1,6 @@
 {
  "bytes": 1424184,
+ "description": "Large interconnected base map with a unique theme and quite original gameplay. Uses a variety of new textures, e.g. IKBase. After arriving in a train, you have to infiltrate an enemy facility and work your way to the manager's office to blow it up.",
  "files": {
   "mrdrinc.bsp": {
    "bytes": 3289596,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a56912aedd877a4f14b275fe479b9af56397cb093ee622cdb8181af373481d99",
  "tags": [
   "author=Isaac Barry (aka Clorox)",

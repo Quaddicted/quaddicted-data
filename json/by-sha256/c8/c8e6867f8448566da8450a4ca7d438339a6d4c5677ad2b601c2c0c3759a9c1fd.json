@@ -1,5 +1,6 @@
 {
  "bytes": 163393,
+ "description": "Small, plain and leaked Wizard map with underwater areas.",
  "files": {
   "EVILPOOL.BSP": {
    "bytes": 366652,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c8e6867f8448566da8450a4ca7d438339a6d4c5677ad2b601c2c0c3759a9c1fd",
  "tags": [
   "author=Glenn Ancheta",

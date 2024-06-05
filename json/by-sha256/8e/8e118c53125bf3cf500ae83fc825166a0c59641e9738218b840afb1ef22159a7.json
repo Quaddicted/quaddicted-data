@@ -1,5 +1,6 @@
 {
  "bytes": 4222517,
+ "description": "Large blood temple. The map source is included.",
  "files": {
   "ToB.bsp": {
    "bytes": 7161988,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support."
+ ],
  "sha256": "8e118c53125bf3cf500ae83fc825166a0c59641e9738218b840afb1ef22159a7",
  "tags": [
   "author=ZQ",

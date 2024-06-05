@@ -1,5 +1,6 @@
 {
  "bytes": 2094131,
+ "description": "\"Medium sized medieval and base map\".",
  "files": {
   "tsotm.bsp": {
    "bytes": 3600508,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8124bd2dad0c1ba76f9d90d85ec95abd724da262a5759e9505359189f3938d2e",
  "tags": [
   "author=nolcoz",

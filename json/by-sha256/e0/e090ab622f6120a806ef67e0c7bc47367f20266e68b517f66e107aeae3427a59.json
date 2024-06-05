@@ -1,5 +1,6 @@
 {
  "bytes": 601255,
+ "description": "Medium-sized moldy brick level inside a cave. It runs on the SMP mod (included). The map source is included.",
  "files": {
   "README.md": {
    "bytes": 1801,
@@ -31,6 +32,7 @@
   "extract": "{base}/pam1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59",
  "tags": [
   "author=c0j",

@@ -1,5 +1,6 @@
 {
  "bytes": 487159,
+ "description": "Medium sized Egypt-style temple in a canyon.",
  "files": {
   "percept.bsp": {
    "bytes": 1253348,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3bacde2398dd6783b34f108cce2c94ec568d019b26d6b075530e7e2a2da9c91d",
  "tags": [
   "author=XeNoN",

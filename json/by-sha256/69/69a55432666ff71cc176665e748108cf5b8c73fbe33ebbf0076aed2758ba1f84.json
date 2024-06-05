@@ -1,5 +1,6 @@
 {
  "bytes": 779295,
+ "description": "Medium sized stone castle with a few Metal elements.",
  "files": {
   "stone.bsp": {
    "bytes": 1760772,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84",
  "tags": [
   "author=Brian Morgan (Duley)",

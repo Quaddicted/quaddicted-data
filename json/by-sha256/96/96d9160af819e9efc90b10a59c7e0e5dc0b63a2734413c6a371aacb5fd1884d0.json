@@ -1,5 +1,6 @@
 {
  "bytes": 793740,
+ "description": "A dark turtlemap remake of e4m4.",
  "files": {
   "tpof.bsp": {
    "bytes": 2383488,
@@ -16,6 +17,9 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> to be installed."
+ ],
  "sha256": "96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0",
  "tags": [
   "author=ijed",

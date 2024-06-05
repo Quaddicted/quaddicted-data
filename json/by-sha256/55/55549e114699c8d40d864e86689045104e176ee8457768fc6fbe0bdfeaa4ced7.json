@@ -1,5 +1,6 @@
 {
  "bytes": 1083831,
+ "description": "Medium sized map with mixed textures and a Cyberdemon arena fight in the end.",
  "files": {
   "BADASS.TXT": {
    "bytes": 3699,
@@ -74,6 +75,7 @@
   "extract": "{base}/badass/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "55549e114699c8d40d864e86689045104e176ee8457768fc6fbe0bdfeaa4ced7",
  "tags": [
   "author=Derrick Dela Cruz",

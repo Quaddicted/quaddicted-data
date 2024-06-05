@@ -1,5 +1,6 @@
 {
  "bytes": 3895738,
+ "description": "Three-map pack with new monsters, textures and skins with a dark and morbid metal style using grotty brownish modified ID textures.",
  "files": {
   "necro/": {
    "bytes": 0,
@@ -348,6 +349,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9e36f588f2e02ce9da5d0aada8ab279e1664e6bb433c4450b5b25136fdef7716",
  "tags": [
   "author=Shaun [Kona] Ross",

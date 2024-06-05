@@ -1,5 +1,6 @@
 {
  "bytes": 302810,
+ "description": "Agenda/Dead map textures (A Tribute to Headshot #4) / 2 SP, 1 DM maps / nane, Zwiffle",
  "files": {
   "sm73_nane.bsp": {
    "bytes": 255616,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "063e577ee8adbd747829b22a357f38765d338843e1d7d6759d13bbe2f6f9e130",
  "tags": [
   "author=Zwiffle",

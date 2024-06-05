@@ -1,5 +1,6 @@
 {
  "bytes": 692671,
+ "description": "Otherworldly color / 2 SP maps / Drew, generic",
  "files": {
   "sm152_drew.bsp": {
    "bytes": 1262952,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9d986c81318738831d53d75aef22d0a3a6d4c3500bc58462078cf40e24cfd489",
  "tags": [
   "author=Drew",

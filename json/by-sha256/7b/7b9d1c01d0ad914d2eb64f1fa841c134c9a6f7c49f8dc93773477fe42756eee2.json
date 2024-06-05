@@ -1,5 +1,6 @@
 {
  "bytes": 1068306,
+ "description": "Medium-sized blue Metal map with a lot of spikes.",
  "files": {
   "assassin.bsp": {
    "bytes": 2484236,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7b9d1c01d0ad914d2eb64f1fa841c134c9a6f7c49f8dc93773477fe42756eee2",
  "tags": [
   "author=Stuart Maine",

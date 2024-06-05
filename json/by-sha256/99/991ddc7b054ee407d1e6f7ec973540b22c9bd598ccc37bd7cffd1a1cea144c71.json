@@ -1,5 +1,6 @@
 {
  "bytes": 562348,
+ "description": "czg's second entry for the second 100brush contest: a small industrial map with Quake2 textures.",
  "files": {
   "czgtoxic.bsp": {
    "bytes": 1506144,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "991ddc7b054ee407d1e6f7ec973540b22c9bd598ccc37bd7cffd1a1cea144c71",
  "tags": [
   "author=czg",

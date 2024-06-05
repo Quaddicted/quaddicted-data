@@ -1,5 +1,6 @@
 {
  "bytes": 3689580,
+ "description": "Medium sized Christmas-themed map based in a shopping mall, with new textures and monsters (Also contains a QW deathmatch version of the map).",
  "files": {
   "PAK0.PAK": {
    "bytes": 7153435,
@@ -403,6 +404,7 @@
   "extract": "{base}/xmas/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e",
  "tags": [
   "author=Twisted Matrix",

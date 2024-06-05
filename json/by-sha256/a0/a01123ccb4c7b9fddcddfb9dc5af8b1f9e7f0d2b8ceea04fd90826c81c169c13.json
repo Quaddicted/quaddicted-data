@@ -1,5 +1,6 @@
 {
  "bytes": 3270362,
+ "description": "Around medium-sized base level set in a train station. It uses Quake II textures and runs on the Progs_dump mod (included), and comes with a couple of new models and sounds. A texture wad and the map source are included.",
  "files": {
   "trainstation/": {
    "bytes": 0,
@@ -186,6 +187,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a01123ccb4c7b9fddcddfb9dc5af8b1f9e7f0d2b8ceea04fd90826c81c169c13",
  "tags": [
   "author=Fimbul K",

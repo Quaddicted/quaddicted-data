@@ -1,5 +1,6 @@
 {
  "bytes": 1095196,
+ "description": "Medium-sized dark metal/medieval dungeon with a few jumping bits.",
  "files": {
   "egany.bsp": {
    "bytes": 2598364,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "46471b2b69c4351625ff150ef83f6bbee9e391349d1d957e641721bbcc06af60",
  "tags": [
   "author=Scott \"Gemein\" Perry",

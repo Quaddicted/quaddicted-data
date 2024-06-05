@@ -1,5 +1,6 @@
 {
  "bytes": 711485,
+ "description": "Quake's E4M1 - The Sewage System with medieval monsters. Quite hard. The GPL map source is included.",
  "files": {
   "ssm.bsp": {
    "bytes": 1404776,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5a8d904469726032d92aa3cd9560dac51ec81c9150f84e2624fe1f0623d893ae",
  "tags": [
   "author=Ankh",

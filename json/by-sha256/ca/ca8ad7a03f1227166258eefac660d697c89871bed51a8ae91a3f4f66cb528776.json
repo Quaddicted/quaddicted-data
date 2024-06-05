@@ -1,5 +1,6 @@
 {
  "bytes": 890591,
+ "description": "Unthemed / 6 DM maps / Notorious Ray, Starbuck, Scampie, Speedy, than",
  "files": {
   "sm30_pack.txt": {
    "bytes": 2177,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "tags": [
   "author=Notorious Ray",

@@ -1,5 +1,6 @@
 {
  "bytes": 397467,
+ "description": "Small and tight medieval tech map with a polished look.",
  "files": {
   "PERSSP1.BSP": {
    "bytes": 954000,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3",
  "tags": [
   "author=Perselicas (Fern (aka Fr3n))",

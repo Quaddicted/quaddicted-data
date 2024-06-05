@@ -1,5 +1,6 @@
 {
  "bytes": 6255309,
+ "description": "Fifth \"retro\" map jam held at Func_Msgboard, following a E3M5/The Wind Tunnels theme, resulting in seven small to medium-sized levels. The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -151,6 +152,7 @@
   "extract": "{base}/retrojam5/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55",
  "tags": [
   "author=Bloughsburgh",

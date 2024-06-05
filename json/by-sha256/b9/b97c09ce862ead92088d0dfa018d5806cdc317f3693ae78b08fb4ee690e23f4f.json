@@ -1,5 +1,6 @@
 {
  "bytes": 529093,
+ "description": "Small metal map with some base textures.",
  "files": {
   "compugib.bsp": {
    "bytes": 1294620,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b97c09ce862ead92088d0dfa018d5806cdc317f3693ae78b08fb4ee690e23f4f",
  "tags": [
   "author=Fred Hite,Jr (DEVIANT)",

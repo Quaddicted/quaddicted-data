@@ -1,5 +1,6 @@
 {
  "bytes": 1495458,
+ "description": "Two unthemed single player maps by digs.",
  "files": {
   "sm167_digs.bsp": {
    "bytes": 1178168,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "225022c272bc3cee552b86502f2db7e2148601d80741da0ab6edc83920278e49",
  "tags": [
   "author=digs",

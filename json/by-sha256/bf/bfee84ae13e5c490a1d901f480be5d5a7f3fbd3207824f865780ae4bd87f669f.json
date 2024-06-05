@@ -1,5 +1,6 @@
 {
  "bytes": 458689,
+ "description": "Third map of the IKSPQ series: a medium sized blue temple map.",
  "files": {
   "IKSPQ3.BSP": {
    "bytes": 1197460,
@@ -16,9 +17,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f",
  "tags": [
-  "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "author=Iikka \"Fingers\" Keru00e4nen",
   "dependency=ikspq4",
   "depends=b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
   "filename=ikspq3.zip",

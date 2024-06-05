@@ -1,5 +1,6 @@
 {
  "bytes": 1087145,
+ "description": "Large Wizard mansion with a number of new textures. It also features some oversized furniture and computer terminals, and a graveyard.",
  "files": {
   "BORAX3.TXT": {
    "bytes": 5916,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "41f7f95f1a87bdd39f2b1f90c09ef0fa54050cca25c09bdd361b77918f16e6ac",
  "tags": [
   "author=Dennis Katsonis",

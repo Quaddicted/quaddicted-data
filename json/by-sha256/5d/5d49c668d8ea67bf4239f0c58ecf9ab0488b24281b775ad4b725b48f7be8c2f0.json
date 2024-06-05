@@ -1,5 +1,6 @@
 {
  "bytes": 1029627,
+ "description": "A very short space/tech map.",
  "files": {
   "ananke.bsp": {
    "bytes": 2738108,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5d49c668d8ea67bf4239f0c58ecf9ab0488b24281b775ad4b725b48f7be8c2f0",
  "tags": [
   "author=Ankh",

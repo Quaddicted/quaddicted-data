@@ -1,5 +1,6 @@
 {
  "bytes": 1799110,
+ "description": "Detailed remake of Quake's semi-stock map DM7: A small to medium-sized medieval fortress inside a canyon. The map source (in standard and WC format) is included.",
  "files": {
   "dm7rmx.bsp": {
    "bytes": 3330008,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5c547dfdff16a30d0df54e159f0e87903eb1bfbbca837073342ee4fac5f50d41",
  "tags": [
   "author=Andrew 'than' Palmer",

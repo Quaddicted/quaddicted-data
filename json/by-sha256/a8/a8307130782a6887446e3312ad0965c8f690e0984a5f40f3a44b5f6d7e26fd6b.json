@@ -1,5 +1,6 @@
 {
  "bytes": 418614,
+ "description": "Small moon base with custom textures. A deathmatch level with monsters.",
  "files": {
   "lunar2.bsp": {
    "bytes": 1261056,
@@ -16,6 +17,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This level does not have an exit. A hotfix that adds one is available <a href=\"http://quaketastic.com/files/single_player/maps/lunar2_spfix.zip\">here</a>."
+ ],
  "sha256": "a8307130782a6887446e3312ad0965c8f690e0984a5f40f3a44b5f6d7e26fd6b",
  "tags": [
   "author=Brian Hess a.k.a. Wendigo",

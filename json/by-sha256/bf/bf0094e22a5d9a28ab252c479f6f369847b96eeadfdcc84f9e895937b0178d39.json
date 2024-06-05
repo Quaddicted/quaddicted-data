@@ -1,5 +1,6 @@
 {
  "bytes": 756977,
+ "description": "Medium sized map with mixed texture styles and hard gameplay.",
  "files": {
   "KYSHELL.BSP": {
    "bytes": 1741268,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bf0094e22a5d9a28ab252c479f6f369847b96eeadfdcc84f9e895937b0178d39",
  "tags": [
   "author=Kayos",

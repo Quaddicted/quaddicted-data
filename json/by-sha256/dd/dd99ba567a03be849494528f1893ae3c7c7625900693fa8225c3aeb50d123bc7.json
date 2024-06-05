@@ -1,5 +1,6 @@
 {
  "bytes": 546992,
+ "description": "Medium sized, fairly plain Wizard 'tomb' with a few water areas.",
  "files": {
   "TheTomb.txt": {
    "bytes": 2378,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7",
  "tags": [
   "author=N.I.B.",

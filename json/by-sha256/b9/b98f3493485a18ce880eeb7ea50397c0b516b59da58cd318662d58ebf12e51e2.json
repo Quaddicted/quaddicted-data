@@ -1,5 +1,6 @@
 {
  "bytes": 391612,
+ "description": "Small, simple medieval map.",
  "files": {
   "thoth96.bsp": {
    "bytes": 905160,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b98f3493485a18ce880eeb7ea50397c0b516b59da58cd318662d58ebf12e51e2",
  "tags": [
   "author=Stuart Presley",

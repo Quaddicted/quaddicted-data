@@ -1,5 +1,6 @@
 {
  "bytes": 752667,
+ "description": "Super collider 128 / 5 SP maps / bambuz, lurker, negke, Spirit, Zwiffle",
  "files": {
   "sm144_bam.bsp": {
    "bytes": 429988,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298",
  "tags": [
   "author=Spirit",

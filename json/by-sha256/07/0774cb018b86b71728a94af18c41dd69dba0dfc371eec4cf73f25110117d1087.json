@@ -1,5 +1,6 @@
 {
  "bytes": 633575,
+ "description": "Spaceship / 3 SP maps / bambuz, neg!ke",
  "files": {
   "sm124_bam.bsp": {
    "bytes": 554960,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0774cb018b86b71728a94af18c41dd69dba0dfc371eec4cf73f25110117d1087",
  "tags": [
   "author=bambuz",

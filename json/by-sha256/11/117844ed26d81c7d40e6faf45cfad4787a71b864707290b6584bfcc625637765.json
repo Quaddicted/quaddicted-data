@@ -1,5 +1,6 @@
 {
  "bytes": 842525,
+ "description": "Small Wizard temple in a canyon with a prison/ torture chamber beneath.",
  "files": {
   "PAK0.PAK": {
    "bytes": 2382294,
@@ -34,6 +35,7 @@
   "extract": "{base}/temple/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "117844ed26d81c7d40e6faf45cfad4787a71b864707290b6584bfcc625637765",
  "tags": [
   "author=Fredrik 'PeyloW' Olsson",

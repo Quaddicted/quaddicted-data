@@ -1,5 +1,6 @@
 {
  "bytes": 1048089,
+ "description": "Medium sized base map inspired by The Slipgate Complex. Also features a few Ogres and Knights.",
  "files": {
   "commctr.bsp": {
    "bytes": 2290532,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0c92c11f45322027ad6b005bdcb35714f37878239fb18098d68c0952fe02d604",
  "tags": [
   "author=Rick Troppman",

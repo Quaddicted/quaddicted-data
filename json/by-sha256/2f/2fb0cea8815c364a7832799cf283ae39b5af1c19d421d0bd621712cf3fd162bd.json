@@ -1,5 +1,6 @@
 {
  "bytes": 1323977,
+ "description": "Episode 4 / The Elder World (The 4 Seasons of Quake #4) / 5 SP maps / RPG, Scampie, Starbuck, Xenon",
  "files": {
   "sm58_pack.txt": {
    "bytes": 1720,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd",
  "tags": [
   "author=RPG",

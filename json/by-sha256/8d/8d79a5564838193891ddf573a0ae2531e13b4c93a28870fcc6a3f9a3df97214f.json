@@ -1,5 +1,6 @@
 {
  "bytes": 1379401,
+ "description": "A large base, some non-linear gameplay in parts. Must be played with Scourge of Armagon.",
  "files": {
   "cloning.bsp": {
    "bytes": 3306264,
@@ -16,6 +17,7 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8d79a5564838193891ddf573a0ae2531e13b4c93a28870fcc6a3f9a3df97214f",
  "tags": [
   "author=John Watson (Shoggoth)",

@@ -1,5 +1,6 @@
 {
  "bytes": 2636655,
+ "description": "Large and exessively detailed IKbase level using some SOA entities and the Mega-Enforcer.",
  "files": {
   "araivo/": {
    "bytes": 0,
@@ -235,6 +236,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32",
  "tags": [
   "author=Jago",

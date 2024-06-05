@@ -1,5 +1,6 @@
 {
  "bytes": 2960092,
+ "description": "Results of an impromptu speedmapping/jam session following a \"lifts and zombies and 20ish monsters\" theme. The map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -81,6 +82,7 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4",
  "tags": [
   "author=Giftmacher",

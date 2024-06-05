@@ -1,5 +1,6 @@
 {
  "bytes": 1804685,
+ "description": "A large brick/metal sewer-type map with an optional secret area. Comes with an extra skill selection map.",
  "files": {
   "ac.bsp": {
    "bytes": 4066412,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "tags": [
   "author=Vondur",

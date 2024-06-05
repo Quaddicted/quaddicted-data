@@ -1,5 +1,6 @@
 {
  "bytes": 678607,
+ "description": "\"Stargate-themed\" map with lots of lava.",
  "files": {
   "qkstarg.bsp": {
    "bytes": 1750128,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a",
  "tags": [
   "author=DAV",

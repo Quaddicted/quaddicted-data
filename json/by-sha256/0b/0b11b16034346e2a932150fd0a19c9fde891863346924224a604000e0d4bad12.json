@@ -1,5 +1,6 @@
 {
  "bytes": 524245,
+ "description": "Doom maps (no room over room/no slopes) / 2 SP, 1 DM maps / nane, necros, Zwiffle",
  "files": {
   "sm75_nane.bsp": {
    "bytes": 124808,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0b11b16034346e2a932150fd0a19c9fde891863346924224a604000e0d4bad12",
  "tags": [
   "author=Zwiffle",

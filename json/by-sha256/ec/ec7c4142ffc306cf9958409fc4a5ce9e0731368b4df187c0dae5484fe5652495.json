@@ -1,5 +1,6 @@
 {
  "bytes": 664242,
+ "description": "Red Brick/Grey Brick (A Tribute to Headshot #1) / 4 SP, 1 DM maps / CZG, Jacek, Preach, Scampie, Zwiffle",
  "files": {
   "sm70_czg.bsp": {
    "bytes": 309008,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495",
  "tags": [
   "author=CZG",

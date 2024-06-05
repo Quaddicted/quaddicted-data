@@ -1,5 +1,6 @@
 {
  "bytes": 362125,
+ "description": "Very small temple built around a volcano. A deathmatch level with single player settings, but no exit (only a message).",
  "files": {
   "VOLCANO2.BSP": {
    "bytes": 825704,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942",
  "tags": [
   "author=Trace Stuart",

@@ -1,5 +1,6 @@
 {
  "bytes": 255610484,
+ "description": "Mod that introduces several significant new player movement mechanics to Quake, including trampolines, climbable wiremeshes and lighthooks (similar to grapple hooks). Includes 11 new purpose-built maps, by various authors, plus a start map.",
  "files": {
   "rm1.1/Pak0.pak": {
    "bytes": 499723584,
@@ -1744,6 +1745,10 @@
   "extract": "{base}/rm1.1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This might not work when installed with the Quake Injector on a case-sensitive filesystem (Linux) because the pak file is named \"Pak0.pak\". You can manually rename the file to lowercase \"pak0.pak\".",
+  "A modern engine / source port with increased limits is required."
+ ],
  "sha256": "33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57",
  "tags": [
   "author=DragonsForLunch",

@@ -1,5 +1,6 @@
 {
  "bytes": 792770,
+ "description": "Around medium sized map with a sort of novelty theme: The player has to complete four distinct areas representing each element - earth, water, air, fire.",
  "files": {
   "ELEMENTS.BSP": {
    "bytes": 1994716,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "487c2d2545c619a65437100344b55828fd33825dae37bc39b0aa42ff52eec1ff",
  "tags": [
   "author=Al Conrad",

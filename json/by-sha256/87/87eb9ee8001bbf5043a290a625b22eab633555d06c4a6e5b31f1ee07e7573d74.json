@@ -1,5 +1,6 @@
 {
  "bytes": 676495,
+ "description": "The Rabbit Hole / 3 SP maps / bambuz, Tr0n, Zwiffle",
  "files": {
   "SM94_Tron.bsp": {
    "bytes": 831252,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74",
  "tags": [
   "author=Tr0n",

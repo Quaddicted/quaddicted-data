@@ -1,5 +1,6 @@
 {
  "bytes": 414610,
+ "description": "<a href=\"ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d\">Coven of Ebony</a> Patch - includes some tweaks to the COE code and a better-looking Necromancer model.",
  "files": {
   "PAK1.PAK": {
    "bytes": 959980,
@@ -26,6 +27,7 @@
   "extract": "{base}/coe/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac",
  "tags": [
   "author=Robert \"Fat Controller\" Cruickshank",

@@ -1,5 +1,6 @@
 {
  "bytes": 288963,
+ "description": "Small Egyptian tomb.",
  "files": {
   "MCM01.BSP": {
    "bytes": 708404,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f85a2ddfb4a475bb4e2c6fce512b343f8c25da22deeda57dffb8a839c54b4c6a",
  "tags": [
   "author=Matthew C. Mary \"MCM\"",

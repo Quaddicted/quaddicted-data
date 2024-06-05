@@ -1,5 +1,6 @@
 {
  "bytes": 577456,
+ "description": "Small to medium-sized realism map with custom textures, set in a slaughterhouse, complete with bloody slaughter areas, freezer, and manager's office.",
  "files": {
   "Slaughtr.txt": {
    "bytes": 7475,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427",
  "tags": [
   "author=Neil Manke",

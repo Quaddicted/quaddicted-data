@@ -1,5 +1,6 @@
 {
  "bytes": 575673,
+ "description": "Medium sized brick map with some questionable custom texture additions.",
  "files": {
   "Avatar.bsp": {
    "bytes": 1282740,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "315ab499542bffeb6af00ff440ab5b00384815405dda9b6e041d52f5c30e15be",
  "tags": [
   "author=Ben Watson",

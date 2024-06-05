@@ -1,5 +1,6 @@
 {
  "bytes": 768464,
+ "description": "Small Wizard castle.",
  "files": {
   "death.bsp": {
    "bytes": 1791152,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
  "tags": [
   "author=Utah",

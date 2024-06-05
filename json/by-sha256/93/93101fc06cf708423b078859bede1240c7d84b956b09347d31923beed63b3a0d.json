@@ -1,5 +1,6 @@
 {
  "bytes": 244003,
+ "description": "Very small wizard map.",
  "files": {
   "TTOT.BSP": {
    "bytes": 537776,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "93101fc06cf708423b078859bede1240c7d84b956b09347d31923beed63b3a0d",
  "tags": [
   "author=Juha Koiste",

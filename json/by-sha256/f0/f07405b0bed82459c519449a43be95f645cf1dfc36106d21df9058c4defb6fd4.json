@@ -1,5 +1,6 @@
 {
  "bytes": 628597,
+ "description": "A small DM map with SP settings, custom textures and modified Grunts (the progs.dat also includes some sort of DM/Team bots).",
  "files": {
   "corp2/": {
    "bytes": 0,
@@ -41,6 +42,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "f07405b0bed82459c519449a43be95f645cf1dfc36106d21df9058c4defb6fd4",
  "tags": [
   "author=Gyro Gearloose",

@@ -1,5 +1,6 @@
 {
  "bytes": 611846,
+ "description": "Medium sized realism map made for the PC Gamer magazine. Grab a PCG issue on Quake2 from their warehouse and pay a visit to the Coconut Monkey.",
  "files": {
   "PCGWHSE.BSP": {
    "bytes": 1588328,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f7a36c3c0253a3777f3411ae4087860ce55c850ae15a6fac10fa1895f4318744",
  "tags": [
   "author=Michael Reed",

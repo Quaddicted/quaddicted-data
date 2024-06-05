@@ -1,5 +1,6 @@
 {
  "bytes": 1362565,
+ "description": "No monsters (optional theme) / 3 SP maps / Fat Controller, necros, Zwiffle",
  "files": {
   "SM63_FAT.bsp": {
    "bytes": 188352,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "64ecf6fd7fe340cad9a20da4e05e8ca8fea729146d3368239aa6c7bc5c825d94",
  "tags": [
   "author=Fat Controller",

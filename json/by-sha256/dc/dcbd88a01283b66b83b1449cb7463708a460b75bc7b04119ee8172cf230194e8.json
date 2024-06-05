@@ -1,5 +1,6 @@
 {
  "bytes": 1343893,
+ "description": "Unthemed / 7 SP maps / Apollo, Blitz, DaZ, Lunaran, Miikka, Misyu, XeNoN",
  "files": {
   "sm19_ap.bsp": {
    "bytes": 256924,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8",
  "tags": [
   "author=Apollo",

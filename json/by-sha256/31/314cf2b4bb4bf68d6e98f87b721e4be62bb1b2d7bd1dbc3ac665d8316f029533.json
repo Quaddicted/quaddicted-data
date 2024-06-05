@@ -1,5 +1,6 @@
 {
  "bytes": 884373,
+ "description": "Small to medium-sized base/industrial facility with a slightly nonlinear touch to gameplay.",
  "files": {
   "FILE_ID.DIZ": {
    "bytes": 264,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533",
  "tags": [
   "author=Zied Rieke",

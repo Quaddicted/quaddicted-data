@@ -1,5 +1,6 @@
 {
  "bytes": 4771352,
+ "description": "Map jam #4 - a community project at Func_Msgboard. The pack features 2 low gravity runic maps. The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -111,6 +112,7 @@
   "extract": "{base}/func_mapjam4/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b16460addc43911788f7add9db2ce6d11e3947310daceafa9821472046567719",
  "tags": [
   "author=FifthElephant",

@@ -1,5 +1,6 @@
 {
  "bytes": 727693,
+ "description": "Small base map with an AAC in an outdoor area, a pumping station and a tank.",
  "files": {
   "Scoop.bsp": {
    "bytes": 1652036,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "045b84d733e162b70293909bcb6a817fbe4254429cb2fb9a93800b3a531c9cc8",
  "tags": [
   "author=J.F.Gustafsson",

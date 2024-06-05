@@ -1,5 +1,6 @@
 {
  "bytes": 1815281,
+ "description": "Very large and detailed Knave fortress.",
  "files": {
   "nastrond.bsp": {
    "bytes": 4878084,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "045aa3d1d3df278e72373d47921f89a7d8d4df0e2340544aa55be1e50868be42",
  "tags": [
   "author=Vondur",

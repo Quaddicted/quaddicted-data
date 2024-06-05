@@ -1,5 +1,6 @@
 {
  "bytes": 1053811,
+ "description": "Machinery / 2 SP maps, 1 SPDM map / efdat, neg!ke, Spirit",
  "files": {
   "sm133_efdat.bsp": {
    "bytes": 1107840,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c",
  "tags": [
   "author=Spirit",

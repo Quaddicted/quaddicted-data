@@ -1,5 +1,6 @@
 {
  "bytes": 1247863,
+ "description": "Medium to large Egyptian temple based on Tronyn's \"Runezig\" map.",
  "files": {
   "FMB8.TXT": {
    "bytes": 3090,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "db002144a727be2c9a4b309d59e821038d2bb3e2fb0436503a08913131a4315b",
  "tags": [
   "author=Mike Woodham",

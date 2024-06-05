@@ -1,5 +1,6 @@
 {
  "bytes": 1014247,
+ "description": "A city courtyard / temple type map with terracotta and metal tectures, narrow rooms and well-executed traps.",
  "files": {
   "sadlark5.bsp": {
    "bytes": 2288564,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c84734838e68fe3388466ead21c35c05bf31a116e97e3600b4e2c9646307c67c",
  "tags": [
   "author=Jonas N.P. Lindstrom",

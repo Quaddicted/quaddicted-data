@@ -1,5 +1,6 @@
 {
  "bytes": 1357570,
+ "description": "Medium sized gothic fortress with Q3A textures.",
  "files": {
   "Cappuccino_V2.txt": {
    "bytes": 2265,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327",
  "tags": [
   "author=Hrimfaxi",

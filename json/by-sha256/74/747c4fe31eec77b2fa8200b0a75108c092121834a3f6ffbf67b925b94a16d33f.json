@@ -1,5 +1,6 @@
 {
  "bytes": 2716973,
+ "description": "Small boat-themed / dock map for vanilla Quake. The author's first release. Map source is included.",
  "files": {
   "gfx/env/deepblue_up.tga": {
    "bytes": 84377,
@@ -76,6 +77,7 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "747c4fe31eec77b2fa8200b0a75108c092121834a3f6ffbf67b925b94a16d33f",
  "tags": [
   "author=Nodding",

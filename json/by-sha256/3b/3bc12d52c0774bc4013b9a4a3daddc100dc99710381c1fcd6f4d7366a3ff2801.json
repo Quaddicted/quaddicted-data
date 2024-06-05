@@ -1,5 +1,6 @@
 {
  "bytes": 677177,
+ "description": "Unthemed / 3 SP maps / generic, Trinca",
  "files": {
   "sm120_generic.bsp": {
    "bytes": 1043080,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3bc12d52c0774bc4013b9a4a3daddc100dc99710381c1fcd6f4d7366a3ff2801",
  "tags": [
   "author=Trinca",

@@ -1,5 +1,6 @@
 {
  "bytes": 4607594,
+ "description": "Small mostly base-style beginner map. The map source is included.",
  "files": {
   "hc0.bsp": {
    "bytes": 2736956,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a98129a4fe8dd31e5879addf3eec301581a368180144a6337103ba38da2706ce",
  "tags": [
   "author=Nicolas 'hexcalk' Maeder",

@@ -1,5 +1,6 @@
 {
  "bytes": 690847,
+ "description": "Brightly lit terracotta tower.",
  "files": {
   "qkmetro.bsp": {
    "bytes": 1769812,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f",
  "tags": [
   "author=DAV",

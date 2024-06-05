@@ -1,5 +1,6 @@
 {
  "bytes": 797589,
+ "description": "Small Wizard level with a cool spider trap and a neat-looking dungeon room. Features Snakeman and Willy the Spider monsters.",
  "files": {
   "PLUMBER/MAPS/": {
    "bytes": 0,
@@ -61,6 +62,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f71e3dea4007132f63c0bf5a0a2936a127b88fa916fa418d39d67b206d2970a1",
  "tags": [
   "author=Gyro Gearloose",

@@ -1,5 +1,6 @@
 {
  "bytes": 1138146,
+ "description": "Medium sized Metal map in a canyon, with a Base bit at the beginning.",
  "files": {
   "ObiWan2.bsp": {
    "bytes": 2584612,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b4639b5a26df294e4443029ecf1a66626dbd60cfe740bdc2fb77e09e10fb3345",
  "tags": [
   "author=Obi-Wan",

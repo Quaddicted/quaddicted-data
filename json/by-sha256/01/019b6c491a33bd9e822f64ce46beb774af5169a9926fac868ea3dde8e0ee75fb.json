@@ -1,5 +1,6 @@
 {
  "bytes": 517836,
+ "description": "\"A Huge Level made to sort of resemble a castle\" with the author's own editor (actually a bunch of simple brush editors).",
  "files": {
   "bc.bsp": {
    "bytes": 1462820,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "019b6c491a33bd9e822f64ce46beb774af5169a9926fac868ea3dde8e0ee75fb",
  "tags": [
   "author=Darren Stabler",

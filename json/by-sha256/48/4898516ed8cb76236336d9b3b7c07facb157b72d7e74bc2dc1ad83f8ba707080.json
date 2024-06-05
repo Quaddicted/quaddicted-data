@@ -1,5 +1,6 @@
 {
  "bytes": 1070084,
+ "description": "Medium-sized medieval fortress. Comes with a start map and features a few new textures as well as a custom SNG model.",
  "files": {
   "Pak0.pak": {
    "bytes": 2501096,
@@ -42,6 +43,7 @@
   "extract": "{base}/lmed1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "tags": [
   "author=Derek 'Lombard' Barr",

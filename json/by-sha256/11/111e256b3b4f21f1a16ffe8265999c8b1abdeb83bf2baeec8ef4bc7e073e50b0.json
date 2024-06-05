@@ -1,5 +1,6 @@
 {
  "bytes": 1309868,
+ "description": "Small to medium-sized blueish medieval level; the single player version of <a href=\"https://www.quaddicted.com/files/maps/multiplayer/rhoqtdm2.zip\">rhoqtdm2</a>. The map source is included.",
  "files": {
   "rhoqtdm2sp.bsp": {
    "bytes": 1963824,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "111e256b3b4f21f1a16ffe8265999c8b1abdeb83bf2baeec8ef4bc7e073e50b0",
  "tags": [
   "author=Rhoq",

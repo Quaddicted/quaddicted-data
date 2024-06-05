@@ -1,5 +1,6 @@
 {
  "bytes": 547853,
+ "description": "Smallish oldschool Medieval map: a church with a graveyard and many corridors.",
  "files": {
   "CHURCH.BSP": {
    "bytes": 1010252,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de",
  "tags": [
   "author=Juha Koiste",

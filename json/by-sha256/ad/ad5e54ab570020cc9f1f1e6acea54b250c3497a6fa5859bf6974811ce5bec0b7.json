@@ -1,5 +1,6 @@
 {
  "bytes": 1015431,
+ "description": "Large, somewhat non-linear/hub Base map.",
  "files": {
   "Mission2.txt": {
    "bytes": 3629,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ad5e54ab570020cc9f1f1e6acea54b250c3497a6fa5859bf6974811ce5bec0b7",
  "tags": [
   "author=Steve Clarke",

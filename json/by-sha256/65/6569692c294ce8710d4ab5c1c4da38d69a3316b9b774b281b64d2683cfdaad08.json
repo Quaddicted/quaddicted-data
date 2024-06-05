@@ -1,5 +1,6 @@
 {
  "bytes": 889928,
+ "description": "Small Ebon-style level based on E4M4. The map source is included.",
  "files": {
   "rin1m1.bsp": {
    "bytes": 2029901,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6569692c294ce8710d4ab5c1c4da38d69a3316b9b774b281b64d2683cfdaad08",
  "tags": [
   "author=Qmaster",

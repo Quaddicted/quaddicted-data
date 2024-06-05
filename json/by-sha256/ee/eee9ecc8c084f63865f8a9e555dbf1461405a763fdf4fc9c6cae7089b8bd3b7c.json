@@ -1,5 +1,6 @@
 {
  "bytes": 1567688,
+ "description": "Large base map consisting of tight corridors with ambushes.",
  "files": {
   "xl6.bsp": {
    "bytes": 2829724,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "eee9ecc8c084f63865f8a9e555dbf1461405a763fdf4fc9c6cae7089b8bd3b7c",
  "tags": [
   "author=xlarve",

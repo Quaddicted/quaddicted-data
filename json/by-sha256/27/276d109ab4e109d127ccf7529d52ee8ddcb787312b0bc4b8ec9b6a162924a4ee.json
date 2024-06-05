@@ -1,5 +1,6 @@
 {
  "bytes": 868691,
+ "description": "Originally designed for speedrunning but playable for all players. Dressed in Sock's egyptian textures.",
  "files": {
   "fr3nrun2.bsp": {
    "bytes": 2031972,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "276d109ab4e109d127ccf7529d52ee8ddcb787312b0bc4b8ec9b6a162924a4ee",
  "tags": [
   "author=Fern (aka Fr3n)",

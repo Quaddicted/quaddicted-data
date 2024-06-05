@@ -1,5 +1,6 @@
 {
  "bytes": 123293,
+ "description": "A shooting range with bouncing monsters.",
  "files": {
   "skeet.bsp": {
    "bytes": 276436,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "50ac7c0c1962c10151e0a77bda2956d5c527646a9fc45870d8dbcc72529ed0d3",
  "tags": [
   "author=Sid",

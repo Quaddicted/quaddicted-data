@@ -1,5 +1,6 @@
 {
  "bytes": 323494,
+ "description": "Small Wizard level. Map sources are included.",
  "files": {
   "BUB1.3DS": {
    "bytes": 516131,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b5d4645b32a90562cee9fbc45c3871be2df9896107e7b408b26b5d0c733bf5ac",
  "tags": [
   "author=The Bubbah",

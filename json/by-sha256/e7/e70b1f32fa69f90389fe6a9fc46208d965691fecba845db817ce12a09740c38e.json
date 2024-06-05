@@ -1,5 +1,6 @@
 {
  "bytes": 183737,
+ "description": "Smallish Wizard map with most rooms are connected by upside-down cross teleporters.",
  "files": {
   "CROSROAD.BSP": {
    "bytes": 438568,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e70b1f32fa69f90389fe6a9fc46208d965691fecba845db817ce12a09740c38e",
  "tags": [
   "author=Glenn Ancheta",

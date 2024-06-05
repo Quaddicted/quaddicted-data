@@ -1,5 +1,6 @@
 {
  "bytes": 259664,
+ "description": "Tiny base map. Another conversion of Doom 2 map01, albeit made from scratch and using Quake textures. The map source is included.",
  "files": {
   "FILE_ID.DIZ": {
    "bytes": 320,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8",
  "tags": [
   "author=Matthias Worch",

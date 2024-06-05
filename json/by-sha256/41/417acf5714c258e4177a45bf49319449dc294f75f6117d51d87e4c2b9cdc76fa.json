@@ -1,5 +1,6 @@
 {
  "bytes": 1252675,
+ "description": "Wood and stone, containing at least 1 bridge / 5 SP maps / Gibbie, Misyu, NaNe, Tron, Vigil",
  "files": {
   "sm21_gibbie.bsp": {
    "bytes": 1500652,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa",
  "tags": [
   "author=Gibbie",

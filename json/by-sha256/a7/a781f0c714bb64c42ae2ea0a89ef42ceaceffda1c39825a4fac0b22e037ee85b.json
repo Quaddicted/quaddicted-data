@@ -1,5 +1,6 @@
 {
  "bytes": 972340,
+ "description": "Tropical island / 2 SP maps / negke, Zwiffle",
  "files": {
   "sm145_negke.bsp": {
    "bytes": 2694300,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b",
  "tags": [
   "author=Zwiffle",

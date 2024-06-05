@@ -1,5 +1,6 @@
 {
  "bytes": 1152196,
+ "description": "Large somewhat nonlinear Wizard level.",
  "files": {
   "TEMODEA.BSP": {
    "bytes": 2562900,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0e3d643e4fa5bcfd38d119b28c8c88785099f0494be0909f2e120785871c16b9",
  "tags": [
   "author=Jan Jakubovic",

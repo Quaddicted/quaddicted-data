@@ -1,5 +1,6 @@
 {
  "bytes": 1760404,
+ "description": "Large, kind of plain realistic map: an eletric company infested by fast dogs and evil spiders.",
  "files": {
   "PAK0.PAK": {
    "bytes": 4709736,
@@ -131,6 +132,7 @@
   "extract": "{base}/electric/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f40017500e54a222a99ef81abed5d70597ea5e134a44c46b2076cec237836d7a",
  "tags": [
   "author=Erik Robson",

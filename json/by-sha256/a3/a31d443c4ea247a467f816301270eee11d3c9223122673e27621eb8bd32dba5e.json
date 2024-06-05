@@ -1,5 +1,6 @@
 {
  "bytes": 3621762,
+ "description": "Very large egyptian temple with diverse and challenging gameplay.",
  "files": {
   "menk.bsp": {
    "bytes": 6331068,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e",
  "tags": [
   "author=PuLSaR",

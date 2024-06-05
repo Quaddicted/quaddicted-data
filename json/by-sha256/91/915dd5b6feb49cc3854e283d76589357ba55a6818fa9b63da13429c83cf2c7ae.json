@@ -1,5 +1,6 @@
 {
  "bytes": 634222,
+ "description": "Small terracotta-colored Coagula-style space map. Also featured in the first Coagula mapping contest pack.",
  "files": {
   "terror.bsp": {
    "bytes": 2009572,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

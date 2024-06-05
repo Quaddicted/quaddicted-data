@@ -1,5 +1,6 @@
 {
  "bytes": 1356368,
+ "description": "Mini episode consisting of five small polished-up speedmaps, each following one of Quake's native texture themes.",
  "files": {
   "rpgsmse.txt": {
    "bytes": 5276,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69",
  "tags": [
   "author=R.P.G.",

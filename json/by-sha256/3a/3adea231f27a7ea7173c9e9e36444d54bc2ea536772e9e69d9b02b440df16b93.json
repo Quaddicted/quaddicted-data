@@ -1,5 +1,6 @@
 {
  "bytes": 866393,
+ "description": "Use the Egypt texture set created by sock as converted by Fren / 4 SP maps / Apollo, Cybear, necros, nekroe",
  "files": {
   "sm35_ap.bsp": {
    "bytes": 267540,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93",
  "tags": [
   "author=Apollo",

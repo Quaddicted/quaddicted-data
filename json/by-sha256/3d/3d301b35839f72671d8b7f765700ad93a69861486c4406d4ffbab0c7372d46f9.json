@@ -1,5 +1,6 @@
 {
  "bytes": 504326,
+ "description": "Medium sized blue metal base map with a unique theme.",
  "files": {
   "anonca1.bsp": {
    "bytes": 1179868,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9",
  "tags": [
   "author=Rob Marton",

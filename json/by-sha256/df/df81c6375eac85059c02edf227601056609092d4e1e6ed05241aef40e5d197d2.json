@@ -1,5 +1,6 @@
 {
  "bytes": 5286630,
+ "description": "Small non-playable machinima-type of map, made as a show-case for the cutscene features in the Progs_dump mod (included). It comes with a few new models, sounds, sprites and a music track. The map source is included.",
  "files": {
   "ca_show.txt": {
    "bytes": 1961,
@@ -321,6 +322,7 @@
   "extract": "{base}/ca_show/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "df81c6375eac85059c02edf227601056609092d4e1e6ed05241aef40e5d197d2",
  "tags": [
   "author=Nolcoz",

@@ -1,5 +1,6 @@
 {
  "bytes": 595636,
+ "description": "Very square and cramped \"my house\" type level. Comes with a difficulty selecting start level.",
  "files": {
   "9GO.BSP": {
    "bytes": 432940,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2f93857166e7c8c961584bc0fc3c51f61476bc0438a34c3d444934c50b334443",
  "tags": [
   "author=Russell McKenzie",

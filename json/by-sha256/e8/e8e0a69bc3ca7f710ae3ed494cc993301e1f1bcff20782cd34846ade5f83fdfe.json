@@ -1,5 +1,6 @@
 {
  "bytes": 273712,
+ "description": "Very small metal map with a slate.",
  "files": {
   "BUB2.3DS": {
    "bytes": 446604,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe",
  "tags": [
   "author=Bubbah",

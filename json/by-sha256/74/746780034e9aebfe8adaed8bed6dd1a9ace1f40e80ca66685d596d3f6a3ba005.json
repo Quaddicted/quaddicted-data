@@ -1,5 +1,6 @@
 {
  "bytes": 1398643,
+ "description": "Traps / 3 SP maps / efdat, neg!ke, Omus",
  "files": {
   "sm129_efdat.bsp": {
    "bytes": 1741952,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "746780034e9aebfe8adaed8bed6dd1a9ace1f40e80ca66685d596d3f6a3ba005",
  "tags": [
   "author=Omus",

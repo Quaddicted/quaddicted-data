@@ -1,5 +1,6 @@
 {
  "bytes": 1629835,
+ "description": "Unthemed / 7 SP maps / Aardappel, Cybear, Damaul, iNaNe, BlackPope, Scampie, XeNoN",
  "files": {
   "sm9_aard.bsp": {
    "bytes": 1006448,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2",
  "tags": [
   "author=Aardappel",

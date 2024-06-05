@@ -1,5 +1,6 @@
 {
  "bytes": 27198353,
+ "description": "Medium-sized nightclub level with several dancefloors, bars and VIP areas. Comes with an optional start map, a few external textures as well as a custom skybox, and some music tracks. The map source is included.",
  "files": {
   "partyhard/": {
    "bytes": 0,
@@ -216,6 +217,10 @@
   "extract": "{base}/malice/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires the Malice TC and a source port with increased limits and BSP2 support.",
+  "Cannot be played from within the Quake Injector."
+ ],
  "sha256": "af034a72e34995d4079ea3855edcfaeabd96de1da81aa6d9cb521b1fc47dca9a",
  "tags": [
   "author=Kayne",

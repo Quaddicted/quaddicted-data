@@ -1,5 +1,6 @@
 {
  "bytes": 1343609,
+ "description": "Moody (ik)base map with outdoor parts.",
  "files": {
   "Distractions.txt": {
    "bytes": 10572,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c42c5dc26e774e59ea9dfcbc628d0477a6357ef6fa4d6e06f7cc3e405f0f6ca5",
  "tags": [
   "author=Mikko Sandt",

@@ -1,5 +1,6 @@
 {
  "bytes": 729950,
+ "description": "A small to medium base map.",
  "files": {
   "cdestroy.bsp": {
    "bytes": 1813816,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "40042ebdd2426f3691bc92b92d3fd8f9c450616122b629e084b1d3097cc54204",
  "tags": [
   "author=Sonya Roberts",

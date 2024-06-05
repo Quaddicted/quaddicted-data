@@ -1,5 +1,6 @@
 {
  "bytes": 919856,
+ "description": "Large plain Base map with nonlinear gameplay. A deathmatch map with single player settings.",
  "files": {
   "fact969.bsp": {
    "bytes": 2366672,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493",
  "tags": [
   "author=james4040",

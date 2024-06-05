@@ -1,5 +1,6 @@
 {
  "bytes": 927718,
+ "description": "Two small maps: An orange base and a Wizard castle with a few tricks to kill monsters more easily.",
  "files": {
   "Bastardry.txt": {
    "bytes": 4046,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1",
  "tags": [
   "author=Ace",

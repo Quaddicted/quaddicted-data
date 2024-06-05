@@ -1,5 +1,6 @@
 {
  "bytes": 163340,
+ "description": "Smallish and very basic Wizard/Medieval map.",
  "files": {
   "PAGAN.BSP": {
    "bytes": 361396,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4",
  "tags": [
   "author=Fredrik Martinsson",

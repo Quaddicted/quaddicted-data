@@ -1,5 +1,6 @@
 {
  "bytes": 607813,
+ "description": "Small blue medieval castle map for vanilla Quake.",
  "files": {
   "Blue.txt": {
    "bytes": 487,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "54cba7e4a01460c64e40ce0422caa0efc10def0f00502ed08ccd912b33f2ea87",
  "tags": [
   "author=sodalimonada176",

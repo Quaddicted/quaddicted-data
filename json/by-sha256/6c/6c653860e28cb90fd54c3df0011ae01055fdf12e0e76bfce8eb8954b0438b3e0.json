@@ -1,5 +1,6 @@
 {
  "bytes": 632369,
+ "description": "Unthemed / 6 DM maps / Aardappel, Cybear, Damaul, Frib, Misyu, Scampie",
  "files": {
   "sm8_aard.bsp": {
    "bytes": 251964,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0",
  "tags": [
   "author=Aardappel",

@@ -1,5 +1,6 @@
 {
  "bytes": 1754495,
+ "description": "A well-designed medieval map.",
  "files": {
   "rettear.bsp": {
    "bytes": 1752064,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f",
  "tags": [
   "author=Taskmaster",

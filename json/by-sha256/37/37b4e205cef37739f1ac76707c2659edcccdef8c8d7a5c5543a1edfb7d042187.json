@@ -1,5 +1,6 @@
 {
  "bytes": 90283,
+ "description": "Very small medieval map.",
  "files": {
   "CLOSE.BSP": {
    "bytes": 202020,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "37b4e205cef37739f1ac76707c2659edcccdef8c8d7a5c5543a1edfb7d042187",
  "tags": [
   "author=Seth Williams",

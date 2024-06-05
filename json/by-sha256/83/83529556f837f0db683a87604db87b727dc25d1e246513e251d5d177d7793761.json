@@ -1,5 +1,6 @@
 {
  "bytes": 40871664,
+ "description": "SM210: 11 SP maps with an \"overgrown\" theme. Comes with a few custom skyboxes. The map sources are included.",
  "files": {
   "SM210_Overgrown/": {
    "bytes": 0,
@@ -376,6 +377,10 @@
   "extract": "{base}/copper/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper</a> and some of them a source port with increased limits and/or BSP2 support.",
+  "Cannot be run through the Quake Injector."
+ ],
  "sha256": "83529556f837f0db683a87604db87b727dc25d1e246513e251d5d177d7793761",
  "tags": [
   "author=Burnham",

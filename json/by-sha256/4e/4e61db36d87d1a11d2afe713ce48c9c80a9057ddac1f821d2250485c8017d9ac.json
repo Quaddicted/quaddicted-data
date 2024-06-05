@@ -1,5 +1,6 @@
 {
  "bytes": 45264992,
+ "description": "Map jam #2 - a community project at Func_Msgboard. The pack features 8 medium to large <a href=\"../?include=metadata-%3Etags.cs.%5B%22theme%3Dikblue%22%5D\">ikblue</a> / <a href=\"../?include=metadata-%3Etags.cs.%5B%22theme%3Dikwhite%22%5D\">ikwhite</a>-themed maps. It comes with a couple of modified models and custom skyboxes. The map sources are included.  Some of the maps require an engine port with increased limits.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -441,6 +442,7 @@
   "extract": "{base}/func_mapjam2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac",
  "tags": [
   "author=Cocerello",

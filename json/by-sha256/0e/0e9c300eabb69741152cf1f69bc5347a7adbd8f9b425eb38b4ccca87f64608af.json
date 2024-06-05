@@ -1,5 +1,6 @@
 {
  "bytes": 1898959,
+ "description": "Large Wizard map with a strange theme and some neat gameplay twists.",
  "files": {
   "awsp1.bsp": {
    "bytes": 4769688,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0e9c300eabb69741152cf1f69bc5347a7adbd8f9b425eb38b4ccca87f64608af",
  "tags": [
   "author=Andrew \"Starfire21\" White",

@@ -1,5 +1,6 @@
 {
  "bytes": 731331,
+ "description": "Unthemed / 3 SP, 2 DM maps / Blackpope, E-werd, NotoriousRay, Scampie, Starbuck",
  "files": {
   "sm44_bp.bsp": {
    "bytes": 255352,
@@ -36,6 +37,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a",
  "tags": [
   "author=Blackpope",

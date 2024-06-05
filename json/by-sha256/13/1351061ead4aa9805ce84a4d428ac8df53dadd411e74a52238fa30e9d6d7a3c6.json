@@ -1,5 +1,6 @@
 {
  "bytes": 1314677,
+ "description": "Medium-sized curvy metal castle. Originally meant for a mod but then turned into a regular map.",
  "files": {
   "tcoa.bsp": {
    "bytes": 2993420,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1351061ead4aa9805ce84a4d428ac8df53dadd411e74a52238fa30e9d6d7a3c6",
  "tags": [
   "author=Trinca",

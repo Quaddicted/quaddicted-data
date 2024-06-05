@@ -1,5 +1,6 @@
 {
  "bytes": 544856,
+ "description": "Small, boxed map.",
  "files": {
   "pop.bsp": {
    "bytes": 1228051,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e",
  "tags": [
   "author=Darren Stabler",

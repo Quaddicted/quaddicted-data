@@ -1,5 +1,6 @@
 {
  "bytes": 167618,
+ "description": "Medium sized maze with Wizard textures.",
  "files": {
   "labirint.TXT": {
    "bytes": 1358,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc",
  "tags": [
   "author=Andrew M@N",

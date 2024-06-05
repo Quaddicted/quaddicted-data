@@ -1,5 +1,6 @@
 {
  "bytes": 2457310,
+ "description": "Around medium sized base map with Cr8 textures and somewhat non-linear gameplay relying on exploration (for ammo). Comes with a custom skybox and support for colored lighting.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -66,6 +67,7 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838",
  "tags": [
   "author=Speedy",

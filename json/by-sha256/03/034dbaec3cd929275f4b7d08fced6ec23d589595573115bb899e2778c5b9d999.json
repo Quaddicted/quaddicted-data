@@ -1,5 +1,6 @@
 {
  "bytes": 808363,
+ "description": "Small blue brick map with a lava pool in the center.",
  "files": {
   "PABC8.bsp": {
    "bytes": 1945564,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999",
  "tags": [
   "author=Unknown",

@@ -1,5 +1,6 @@
 {
  "bytes": 760947,
+ "description": "Elder world train station / 3 SP maps, 1 SPDM map / efdat, neg!ke, Spirit, Trinca",
  "files": {
   "sm131_efdat.bsp": {
    "bytes": 418572,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f253c4eb1d377da1091a395b016f2c022f0b304e7922cc3bd93274c1903d0706",
  "tags": [
   "author=Spirit",

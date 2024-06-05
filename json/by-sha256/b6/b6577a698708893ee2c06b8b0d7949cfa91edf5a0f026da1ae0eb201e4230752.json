@@ -1,5 +1,6 @@
 {
  "bytes": 3780801,
+ "description": "Small medieval castle compound used as a slime factory. The map source is included.",
  "files": {
   "kslimef.bsp": {
    "bytes": 6742704,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b6577a698708893ee2c06b8b0d7949cfa91edf5a0f026da1ae0eb201e4230752",
  "tags": [
   "author=krak",

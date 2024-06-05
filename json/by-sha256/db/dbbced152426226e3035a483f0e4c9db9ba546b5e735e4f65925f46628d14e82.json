@@ -1,5 +1,6 @@
 {
  "bytes": 987456,
+ "description": "Large, detailed industrial map using Speedbase textures.",
  "files": {
   "could.bsp": {
    "bytes": 2522384,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "dbbced152426226e3035a483f0e4c9db9ba546b5e735e4f65925f46628d14e82",
  "tags": [
   "author=R.P.G.",

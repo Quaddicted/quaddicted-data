@@ -1,5 +1,6 @@
 {
  "bytes": 22024945,
+ "description": "Medium / large runic base map with \"void vibes\", built on progs_dump 3.0 (already included). Some sounds from Arcane Dimensions, custom music \"Yss Éskiuth\" by Immorpher. Map source is included.",
  "files": {
   "jpqm12/README - jpqm12 - The Rust Forge.txt": {
    "bytes": 3133,
@@ -619,6 +620,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "There's no custom start map. Load via console: \"game jpqm12; map jpqm12\"",
+  "Requires a modern engine / source port with increased limits and BSP2 support."
+ ],
  "sha256": "5e28e1bf5bbeffe5cfaf6429f163dded2f5c2780d9561c696033139eb1afa816",
  "tags": [
   "author=JPal",

@@ -1,5 +1,6 @@
 {
  "bytes": 1748162,
+ "description": "Small, vertical wizard themed level tight on ammunition.",
  "files": {
   "finally.bsp": {
    "bytes": 3507900,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ddf8106ef7dabf30c9b2fe396742bcc40fecaef4afb20f2439e7f2637566bfaa",
  "tags": [
   "author=nadzia (narnar)",

@@ -1,5 +1,6 @@
 {
  "bytes": 580057,
+ "description": "Medium sized plain Medieval map with a tower and a dungeon area.",
  "files": {
   "MEXX7.BSP": {
    "bytes": 1403592,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048",
  "tags": [
   "author=Marcus Dromowicz",

@@ -1,5 +1,6 @@
 {
  "bytes": 929744,
+ "description": "Medium sized brown fortress level with a small Wizard end battle map.",
  "files": {
   "DaMaul3.bsp": {
    "bytes": 1398948,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "tags": [
   "author=John \"DaMaul\" McCann",

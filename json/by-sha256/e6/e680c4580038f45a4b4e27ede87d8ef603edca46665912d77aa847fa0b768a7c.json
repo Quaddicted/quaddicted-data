@@ -1,5 +1,6 @@
 {
  "bytes": 1139984,
+ "description": "Large interconnected Metal castle with a sense of exploration.",
  "files": {
   "oblivion.bsp": {
    "bytes": 2551836,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c",
  "tags": [
   "author=Rick Lipsey",

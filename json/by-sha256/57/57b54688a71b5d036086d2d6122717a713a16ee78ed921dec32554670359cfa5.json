@@ -1,5 +1,6 @@
 {
  "bytes": 3363983,
+ "description": "Large moldy blood dungeon \"in the style of E1M3\". The map source is included.",
  "files": {
   "endofsolace.bsp": {
    "bytes": 4422716,
@@ -31,6 +32,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5",
  "tags": [
   "author=dumptruck_ds",

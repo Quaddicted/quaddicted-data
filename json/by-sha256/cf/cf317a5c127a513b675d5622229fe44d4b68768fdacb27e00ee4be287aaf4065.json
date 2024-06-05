@@ -1,5 +1,6 @@
 {
  "bytes": 2602445,
+ "description": "Around medium-sized blue puzzle dungeon made for cooperative play (cannot be completed solo).",
  "files": {
   "vrkcoop1-server.cfg": {
    "bytes": 2147,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cf317a5c127a513b675d5622229fe44d4b68768fdacb27e00ee4be287aaf4065",
  "tags": [
   "author=VuRkka",

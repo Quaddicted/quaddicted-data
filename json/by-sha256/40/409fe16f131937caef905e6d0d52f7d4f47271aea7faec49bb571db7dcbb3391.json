@@ -1,5 +1,6 @@
 {
  "bytes": 2280096,
+ "description": "Small mappack in a swamp/tribal setting. Features a start, main level and boss map.",
  "files": {
   "koohoo/": {
    "bytes": 0,
@@ -51,6 +52,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [
   "author=Vondur",

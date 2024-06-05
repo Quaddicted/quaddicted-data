@@ -1,5 +1,6 @@
 {
  "bytes": 421864,
+ "description": "Medium sized, fairly dark Wizmetal map.",
  "files": {
   "chain2.bsp": {
    "bytes": 1117880,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "715e00a1b2d37c36fb17346e6d4fbcb45e3ebd91d4ae69c573949ade3794023a",
  "tags": [
   "author=ChAiNeR",

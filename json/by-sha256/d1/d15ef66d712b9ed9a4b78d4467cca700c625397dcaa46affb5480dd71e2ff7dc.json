@@ -1,5 +1,6 @@
 {
  "bytes": 965714,
+ "description": "Medium sized Metal level.",
  "files": {
   "evspq1.bsp": {
    "bytes": 2366096,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc",
  "tags": [
   "author=Evan Wagner",

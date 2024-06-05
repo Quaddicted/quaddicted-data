@@ -1,5 +1,6 @@
 {
  "bytes": 1882516,
+ "description": "Medieval themed map set in a monastery.",
  "files": {
   "therequiem.bsp": {
    "bytes": 4070828,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility."
+ ],
  "sha256": "4f471481c4fb360ba822685cae347e8dfe905335127a1b9f6a5ce437ffc8147f",
  "tags": [
   "author=Haikids",

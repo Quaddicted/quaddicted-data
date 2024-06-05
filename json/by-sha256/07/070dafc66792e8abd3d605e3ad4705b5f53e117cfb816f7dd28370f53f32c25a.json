@@ -1,5 +1,6 @@
 {
  "bytes": 1064764,
+ "description": "Large, action-packed Egyptian-themed level featuring Snakeman and a boss fight.",
  "files": {
   "alk07/": {
    "bytes": 0,
@@ -47,6 +48,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "070dafc66792e8abd3d605e3ad4705b5f53e117cfb816f7dd28370f53f32c25a",
  "tags": [
   "author=Shaun [Kona] Ross",

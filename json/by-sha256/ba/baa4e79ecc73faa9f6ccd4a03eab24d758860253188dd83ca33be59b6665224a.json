@@ -1,5 +1,6 @@
 {
  "bytes": 568687,
+ "description": "Smallish map with mixed texture themes. Includes a chapel and stairs, and blue bricks.",
  "files": {
   "DECREE.TXT": {
    "bytes": 2664,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a",
  "tags": [
   "author=Jim Ahara",

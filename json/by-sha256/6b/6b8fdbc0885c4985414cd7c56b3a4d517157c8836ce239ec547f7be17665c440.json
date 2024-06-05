@@ -1,5 +1,6 @@
 {
  "bytes": 1614316,
+ "description": "Finish some scrap / 2 SP maps / Drew, Hrimfaxi",
  "files": {
   "sm149_drew.bsp": {
    "bytes": 2360592,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6b8fdbc0885c4985414cd7c56b3a4d517157c8836ce239ec547f7be17665c440",
  "tags": [
   "author=Drew",

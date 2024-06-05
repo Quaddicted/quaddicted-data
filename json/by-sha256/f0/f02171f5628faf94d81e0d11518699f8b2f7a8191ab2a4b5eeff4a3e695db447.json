@@ -1,5 +1,6 @@
 {
  "bytes": 7993419,
+ "description": "Large realism map set in a port. It uses custom textures and comes with a custom skybox. The map source is included.",
  "files": {
   "gfx/env/jajsundown1_bk.tga": {
    "bytes": 786476,
@@ -56,6 +57,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "f02171f5628faf94d81e0d11518699f8b2f7a8191ab2a4b5eeff4a3e695db447",
  "tags": [
   "author=Bruno Fabbri (zbidou72)",

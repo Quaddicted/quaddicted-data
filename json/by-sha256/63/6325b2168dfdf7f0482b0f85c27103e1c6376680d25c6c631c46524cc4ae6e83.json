@@ -1,5 +1,6 @@
 {
  "bytes": 1171549,
+ "description": "Unthemed / 2 SP, 3 DM maps / CZG, Grahf, inertia, Moz, necros, Starbuck",
  "files": {
   "sm54_czg.bsp": {
    "bytes": 679380,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83",
  "tags": [
   "author=CZG",

@@ -1,5 +1,6 @@
 {
  "bytes": 326473,
+ "description": "Very small metal map.",
  "files": {
   "Emolt.bsp": {
    "bytes": 732776,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4757d7cf01a5512c25658952eccc73baea49085193d3884ad964ea60f7be7b23",
  "tags": [
   "author=SnAzBaZ",

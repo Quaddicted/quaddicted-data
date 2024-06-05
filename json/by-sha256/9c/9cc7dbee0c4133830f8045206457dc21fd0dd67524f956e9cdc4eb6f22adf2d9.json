@@ -1,5 +1,6 @@
 {
  "bytes": 11538070,
+ "description": "Community mapping event in celebration of Quake's 25th anniversary: 16 small to large oldschool levels in varying classic themes + a start hub map, all keeping within the original game's technical and stylistic restraints. The map sources are included inside the PAK.",
  "files": {
   "q25limit/": {
    "bytes": 0,
@@ -211,6 +212,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "9cc7dbee0c4133830f8045206457dc21fd0dd67524f956e9cdc4eb6f22adf2d9",
  "tags": [
   "author=4LT",

@@ -1,5 +1,6 @@
 {
  "bytes": 4108406,
+ "description": "Big base map in Daikatana textures with objective-based gameplay.",
  "files": {
   "Event.txt": {
    "bytes": 3870,
@@ -98,6 +99,7 @@
   "extract": "{base}/event/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770",
  "tags": [
   "author=JPL",

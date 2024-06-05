@@ -1,5 +1,6 @@
 {
  "bytes": 329939,
+ "description": "First map of the IKSPQ series: a small Wizard castle in the mountains.",
  "files": {
   "IKSPQ1.BSP": {
    "bytes": 739196,
@@ -16,9 +17,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b",
  "tags": [
-  "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "author=Iikka \"Fingers\" Keru00e4nen",
   "dependency=ikspq2",
   "depends=7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e",
   "filename=ikspq1.zip",

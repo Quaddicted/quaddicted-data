@@ -1,5 +1,6 @@
 {
  "bytes": 1680875,
+ "description": "Medium-sized ikwhite-themed temple featuring a boss-fight.",
  "files": {
   "shesp1.bsp": {
    "bytes": 5174392,
@@ -31,6 +32,9 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
+ ],
  "sha256": "859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d",
  "tags": [
   "author=Sidhe",

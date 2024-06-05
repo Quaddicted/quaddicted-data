@@ -1,5 +1,6 @@
 {
  "bytes": 4971715,
+ "description": "A knave-textured castle built upon scraps by Kell and Drew and the author's speedmap from SM93.",
  "files": {
   "Hrim_sp3.txt": {
    "bytes": 4813,
@@ -21,6 +22,7 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1",
  "tags": [
   "author=Hrimfaxi",

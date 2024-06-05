@@ -1,5 +1,6 @@
 {
  "bytes": 6029582,
+ "description": "This is the 1997 classic Q1SP episode <a href=\"0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721\">Beyond Belief</a> merged into a single level (excluding the start map).",
  "files": {
   "bbin1.bsp": {
    "bytes": 15246708,
@@ -21,6 +22,9 @@
   "extract": "{base}//id1/maps"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires an engine port with increased limits and <u>BSP2 support</u>."
+ ],
  "sha256": "cc4d6429e0abcafea6797b86f403e49d887fdaeb062c616beceefb4aed635174",
  "tags": [
   "author=Matthias Worch",

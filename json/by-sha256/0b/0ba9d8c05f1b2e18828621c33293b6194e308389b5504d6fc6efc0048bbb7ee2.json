@@ -1,5 +1,6 @@
 {
  "bytes": 2136768,
+ "description": "Destruction / 4 SP maps / generic, neg!ke, Zwiffle",
  "files": {
   "sm120_neg!ke.bsp": {
    "bytes": 4720856,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0ba9d8c05f1b2e18828621c33293b6194e308389b5504d6fc6efc0048bbb7ee2",
  "tags": [
   "author=Zwiffle",

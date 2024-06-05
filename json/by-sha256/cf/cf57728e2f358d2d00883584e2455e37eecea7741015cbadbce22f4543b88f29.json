@@ -1,5 +1,6 @@
 {
  "bytes": 3359275,
+ "description": "Medium-sized cathedral with a base area. The map source is included.",
  "files": {
   "bmfbrsp1.bsp": {
    "bytes": 5425968,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "cf57728e2f358d2d00883584e2455e37eecea7741015cbadbce22f4543b88f29",
  "tags": [
   "author=bmFbr",

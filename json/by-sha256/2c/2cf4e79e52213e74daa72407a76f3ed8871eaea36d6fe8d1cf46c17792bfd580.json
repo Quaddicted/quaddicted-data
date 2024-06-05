@@ -1,5 +1,6 @@
 {
  "bytes": 3818145,
+ "description": "Mini-campaign with three small SP levels: a base warehouse, a cathedral and a mine. It also comes with a start map, an additional DM map, and features all new textures as well as a modified palette giving monsters and items a new look.",
  "files": {
   "PAK0.PAK": {
    "bytes": 7328862,
@@ -286,6 +287,7 @@
   "extract": "{base}/lomgoat/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "tags": [
   "author=Goatlord",

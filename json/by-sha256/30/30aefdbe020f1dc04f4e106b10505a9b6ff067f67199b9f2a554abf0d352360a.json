@@ -1,5 +1,6 @@
 {
  "bytes": 806711,
+ "description": "Medium sized Medieval/Metal map with a somewhat interesting \"lightshow\" at the beginning.",
  "files": {
   "sos.bsp": {
    "bytes": 1928684,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a",
  "tags": [
   "author=Derek Lawrie",

@@ -1,5 +1,6 @@
 {
  "bytes": 2443317,
+ "description": "SP remake of Quake's original deathmatch map DM3. Highly detailed and many expanded areas yet still maintaining the original layout in deathmatch mode. Map source is included.",
  "files": {
   "dm3rmx.bsp": {
    "bytes": 3989396,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c",
  "tags": [
   "author=Andrew 'than' Palmer",

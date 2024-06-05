@@ -1,5 +1,6 @@
 {
  "bytes": 371605,
+ "description": "This level is a near 100% conversion with full Doom2 textures.",
  "files": {
   "doom2_01.bsp": {
    "bytes": 1087656,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4319614d3b169b1e85caa25eed557d2f3f8f6294710dd02a6bf964917935754e",
  "tags": [
   "author=Peter Lomax",

@@ -1,5 +1,6 @@
 {
  "bytes": 26498426,
+ "description": "Medium sized dark fantasy castle map with industrial bits, with textures by Makkon. Map source and custom music is included. Requires <a href=\"484334d9305c5097b8b735bd1b91d943753c5fd77d65401b519b84b93c00f82c\">Copper v1.19+</a> (NOT included).  <i>\"My first solo map. [...] Non-linear and therefore a bit confusing. Also map introduces some sort of stealth gameplay with the ability to eliminate some of the ambushes if appropriate secrets are found in time. All in all experience is harder than vanilla, closer to DOMA difficulty.\"</i>  Probably requires a modern engine / source port with increased limits.",
  "files": {
   "aur1_amuse.txt": {
    "bytes": 3089,
@@ -111,6 +112,7 @@
   "extract": "{base}/copper/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f64f783eb10a83b56eef815b1387f7e7b66cc56d3b60fefc3495fc2c2cde9e30",
  "tags": [
   "author=alexUnder",

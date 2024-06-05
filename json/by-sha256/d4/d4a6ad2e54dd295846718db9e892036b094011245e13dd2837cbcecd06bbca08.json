@@ -1,5 +1,6 @@
 {
  "bytes": 267237,
+ "description": "Small Base warehouse. OK, but unnecessarily dark.",
  "files": {
   "chain1.bsp": {
    "bytes": 684264,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08",
  "tags": [
   "author=ChAiNeR",

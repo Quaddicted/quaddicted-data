@@ -1,5 +1,6 @@
 {
  "bytes": 766595,
+ "description": "Large Wizard map with caverns and a Base bit.",
  "files": {
   "EPOCH.BSP": {
    "bytes": 1732040,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15",
  "tags": [
   "author=Andrew Smith",

@@ -1,5 +1,6 @@
 {
  "bytes": 26023528,
+ "description": "Experimental 25-map pack featuring large levels with intentionally challenging navigation and progression.",
  "files": {
   "ABAND0N.JPG": {
    "bytes": 100995,
@@ -237,6 +238,7 @@
   "extract": "{base}/abandon/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0346be6c490ddd6f3cddaa1443557b2c9415ec97e4173a4d9755122092328839",
  "tags": [
   "author=MadFox",

@@ -1,5 +1,6 @@
 {
  "bytes": 673837,
+ "description": "Outdoor speedbaze-themed map, action-packed with traps and numerous secrets.",
  "files": {
   "mescalito.bsp": {
    "bytes": 1781628,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ae2042c9d2c5b618c17b1ce4d0aac1c7addccf9924393bfffd4b4451dc89a604",
  "tags": [
   "author=Speedy",

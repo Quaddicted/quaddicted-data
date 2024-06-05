@@ -1,5 +1,6 @@
 {
  "bytes": 4148969,
+ "description": "Large green brick/slime dungeon; a textured and re-lit version of the author's <a href=\"e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c\">SM214</a> entry. It runs on the Progs_dump mod (included) and comes with a few new sounds and models.",
  "files": {
   "dfl_weight/maps/": {
    "bytes": 0,
@@ -626,6 +627,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b700be7d6973f517d66bb39da3c6d411251f9be0c2518ea4d19369f586a990f4",
  "tags": [
   "author=DragonsForLunch",

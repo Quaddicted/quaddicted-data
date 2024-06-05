@@ -1,5 +1,6 @@
 {
  "bytes": 845924,
+ "description": "Chain map / DaMaul, than, Lunaran, Xenon",
  "files": {
   "sm28.bsp": {
    "bytes": 2098316,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "793f55b177e6d97835a56e008f4b1a42a01cace24566501bfc80b7e494e7ea04",
  "tags": [
   "author=DaMaul",

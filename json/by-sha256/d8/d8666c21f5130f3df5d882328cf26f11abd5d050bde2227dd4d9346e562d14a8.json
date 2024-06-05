@@ -1,5 +1,6 @@
 {
  "bytes": 3934516,
+ "description": "Small submarine base; features some material ripped from other mods, e.g. Scourge of Armagon and Zerstörer.",
  "files": {
   "pak0.pak": {
    "bytes": 8112672,
@@ -590,6 +591,7 @@
   "extract": "{base}/seaview/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d8666c21f5130f3df5d882328cf26f11abd5d050bde2227dd4d9346e562d14a8",
  "tags": [
   "author=Daryl Deep",

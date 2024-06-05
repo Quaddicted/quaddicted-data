@@ -1,5 +1,6 @@
 {
  "bytes": 234624,
+ "description": "Unthemed / 3 DM maps / Scampie, bear, RPG",
  "files": {
   "sm1_bear.bsp": {
    "bytes": 153912,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af",
  "tags": [
   "author=RPG",

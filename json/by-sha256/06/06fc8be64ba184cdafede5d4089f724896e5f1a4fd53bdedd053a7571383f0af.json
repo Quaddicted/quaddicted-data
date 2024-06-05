@@ -1,5 +1,6 @@
 {
  "bytes": 757067,
+ "description": "Use the decon textures created by Stecki / 4 SP maps / Cybear, Fren, gibbie, than",
  "files": {
   "SM34_FR3N.bsp": {
    "bytes": 448540,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af",
  "tags": [
   "author=Cybear",

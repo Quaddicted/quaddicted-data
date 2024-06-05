@@ -1,5 +1,6 @@
 {
  "bytes": 2282389,
+ "description": "Medium-sized brick/cistern-themed level for single player and deathmatch, based on Quake's stock levels DM5 and DM6, with an underwater DM4 below. The GPL map source is included.",
  "files": {
   "dm456sp.bsp": {
    "bytes": 4682244,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "70fc2496d9d48a6476ecf7fbd28aa7335fbb51ffa7c5d88d8d70eccd9c891404",
  "tags": [
   "author=negke",

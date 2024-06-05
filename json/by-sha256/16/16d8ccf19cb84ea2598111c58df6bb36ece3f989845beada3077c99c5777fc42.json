@@ -1,5 +1,6 @@
 {
  "bytes": 741272,
+ "description": "Large, dark, mostly Wizard map with outdoor areas.",
  "files": {
   "ASTRUS.BSP": {
    "bytes": 1758812,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "16d8ccf19cb84ea2598111c58df6bb36ece3f989845beada3077c99c5777fc42",
  "tags": [
   "author=Dennis Katsonis",

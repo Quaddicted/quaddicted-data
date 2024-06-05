@@ -1,5 +1,6 @@
 {
  "bytes": 25068626,
+ "description": "Second \"explore\" map jam - featuring five smallish levels in different themes and with experimental gameplay. No combat; instead, the focus is on exploration and solving puzzles or discovering secrets. The pack comes with two skyboxes, custom medievel-style item visuals, and the map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -251,6 +252,9 @@
   "extract": "{base}/explorejam2"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require an engine port with increased limits."
+ ],
  "sha256": "783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997",
  "tags": [
   "author=Bloughsburgh",

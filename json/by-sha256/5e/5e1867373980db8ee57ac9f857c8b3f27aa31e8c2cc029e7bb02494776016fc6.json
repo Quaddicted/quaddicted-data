@@ -1,5 +1,6 @@
 {
  "bytes": 432738,
+ "description": "Small blue Metal map with easy gameplay but a very unique style.",
  "files": {
   "M_PALACE.BSP": {
    "bytes": 1016576,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5e1867373980db8ee57ac9f857c8b3f27aa31e8c2cc029e7bb02494776016fc6",
  "tags": [
   "author=Bryan L. aka Mungo",

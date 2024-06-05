@@ -1,5 +1,6 @@
 {
  "bytes": 13156499,
+ "description": "An episode of 9 small maps with various classic themes (base, medieval, wizard, runic, brick, etc.) for vanilla Quake, but also works well in Copper / with co-op support.",
  "files": {
   "Bots read-me.txt": {
    "bytes": 402,
@@ -126,6 +127,11 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "UPDATE, 28 Novemberr 2022: v2.4 fixes multiplayer bot .nav waypoints (deathmatch only) for KexQuake and a soft lock in co-op, <a href=\"https://www.quaddicted.com/files/maps/singleplayer/toneodspmp3_2_4.zip\">download here</a>.",
+  "After installing, start the episode via console command: \"map eod_intro\"",
+  "May require a modern engine / source port with increased limits."
+ ],
  "sha256": "72d7cb7c259d6c98084a5989ab9766df98087647592d3bfd5065002dae65ffa6",
  "tags": [
   "author=Tonhao",

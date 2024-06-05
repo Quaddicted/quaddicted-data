@@ -1,5 +1,6 @@
 {
  "bytes": 260158,
+ "description": "Small white medieval map with Hipnotic textures and lightning effects, has to be played with Scourge of Armagon.",
  "files": {
   "TOL.BSP": {
    "bytes": 626060,
@@ -16,6 +17,7 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
  "tags": [
   "author=John Parr",

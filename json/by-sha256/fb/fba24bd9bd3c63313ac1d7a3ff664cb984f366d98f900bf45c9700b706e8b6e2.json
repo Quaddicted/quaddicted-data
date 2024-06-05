@@ -1,5 +1,6 @@
 {
  "bytes": 2067310,
+ "description": "Large underground base map with some Quake2 textures.",
  "files": {
   "CMC.bsp": {
    "bytes": 4401960,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fba24bd9bd3c63313ac1d7a3ff664cb984f366d98f900bf45c9700b706e8b6e2",
  "tags": [
   "author=JPL",

@@ -1,5 +1,6 @@
 {
  "bytes": 614475,
+ "description": "Short base/metal/medieval mix.",
  "files": {
   "qkstore.bsp": {
    "bytes": 1501376,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea",
  "tags": [
   "author=DAV",

@@ -1,5 +1,6 @@
 {
  "bytes": 95532573,
+ "description": "Episode with 10 around medium-sized levels plus small start/end/credits maps in various themes, including bases, temples, citadels, towns and dungeons. The goal was to create an \"unofficial 6th episode\" similar to <a href=\"6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381\">DOPA</a>. The levels are based on the Progs_dump mod (included) and feature some additional content like models, skyboxes and custom music tracks (in OGG format).",
  "files": {
   "eoe/eoe.pdf": {
    "bytes": 116200,
@@ -543,6 +544,10 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "A hotfix for a progression stopper on eoe7 (only occurs on easy skill) is available <a href=\"http://www.quaketastic.com/files/single_player/maps/eoem7_fix.zip\">here</a>.",
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "78039e2132b59dd08a8ddb19340c0e0606d4e7eeacb0d9c4e323ca98e694d57e",
  "tags": [
   "author=Bal",

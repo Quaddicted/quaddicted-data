@@ -1,5 +1,6 @@
 {
  "bytes": 624220,
+ "description": "About medium sized, mostly cramped medieval castle with custom textures, reskinned zombies and a reskinned boss knight.",
  "files": {
   "dknight/Dknight.txt": {
    "bytes": 2743,
@@ -26,6 +27,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "tags": [
   "author=Tobias Person aka Tobey",

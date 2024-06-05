@@ -1,5 +1,6 @@
 {
  "bytes": 1103713,
+ "description": "Medium sized egyptian map featuring a zombie quad massacre.",
  "files": {
   "readme.txt": {
    "bytes": 778,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "7228e3addff4d4e4b10b96316c6e8921149db83e1627f092296d3646a763e502",
  "tags": [
   "author=DeathMethod",

@@ -1,5 +1,6 @@
 {
  "bytes": 11959529,
+ "description": "Five speedjam levels, custom skyboxes and a music track.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -181,6 +182,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps probably require a source port with increased."
+ ],
  "sha256": "5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a",
  "tags": [
   "author=Digs",

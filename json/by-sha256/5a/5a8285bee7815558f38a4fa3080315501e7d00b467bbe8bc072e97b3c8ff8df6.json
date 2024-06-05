@@ -1,5 +1,6 @@
 {
  "bytes": 578025,
+ "description": "Small linear Wizard/Metal level.",
  "files": {
   "MORTAL.BSP": {
    "bytes": 1253012,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5a8285bee7815558f38a4fa3080315501e7d00b467bbe8bc072e97b3c8ff8df6",
  "tags": [
   "author=Marc Roussel",

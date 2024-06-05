@@ -1,5 +1,6 @@
 {
  "bytes": 620941,
+ "description": "Medium sized, somewhat cramped Medieval castle.",
  "files": {
   "gwynt.bsp": {
    "bytes": 1448184,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f341f5f78153d607d9efdaa555dcc17cbc6cf93118b36416ead7bd683d579308",
  "tags": [
   "author=Tom Cleghorn",

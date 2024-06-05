@@ -1,5 +1,6 @@
 {
  "bytes": 26072137,
+ "description": "A large prototype-textured map with non-linear progression, slaughter fights, and trick jumping. Runs on the Copper mod, which is included. Originally intended as an entry for SM224.",
  "files": {
   "fear/": {
    "bytes": 0,
@@ -810,6 +811,10 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires up-to-date Ironwail or vkQuake on Protocol 999. Quakespasm will encounter bugs.",
+  "Please play one difficulty lower than you normally would; hard and nightmare are intended to be impossible for the majority of players."
+ ],
  "sha256": "ab0218a90b7fb62a00c5b349ba8780406656c1c51eb1faac5e7edac585d51244",
  "tags": [
   "author=ComfyByTheFire",

@@ -1,5 +1,6 @@
 {
  "bytes": 139609760,
+ "description": "Industrial themed total conversion episode of six maps, with all new weapons, monsters and items, set in the Slave Zero X universe and forming a prequel to the original Slave Zero game.",
  "files": {
   "enyo/": {
    "bytes": 0,
@@ -2438,6 +2439,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "45ddd187e07af6b3d43a5f9f5597172e43aae7cebe73cdd2a5057ad6a36f570e",
  "tags": [
   "author=Greenwood",

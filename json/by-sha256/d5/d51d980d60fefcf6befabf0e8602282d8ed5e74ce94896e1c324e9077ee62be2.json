@@ -1,5 +1,6 @@
 {
  "bytes": 22528706,
+ "description": "A medium / large Runic themed classic-style map with some pretty big encounters. The author's first release. Contains custom music by the author. Uses Copper mod (already included).",
  "files": {
   "forsaken/": {
    "bytes": 0,
@@ -724,6 +725,11 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "No custom start map or built-in difficulty select, so select your difficulty manually via \"skill #\" in console, and load the map manually via \"map forsaken\" in console.",
+  "This is version 2 with fixed monster placement, texture alignment, and music.",
+  "Due to high monster count, probably requires a modern engine / source port with increased limits."
+ ],
  "sha256": "d51d980d60fefcf6befabf0e8602282d8ed5e74ce94896e1c324e9077ee62be2",
  "tags": [
   "author=Colossus",

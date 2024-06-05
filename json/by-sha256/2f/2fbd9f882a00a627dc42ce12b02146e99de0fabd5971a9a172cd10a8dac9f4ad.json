@@ -1,5 +1,6 @@
 {
  "bytes": 988861,
+ "description": "Medium to large, fairly plain, linear Medieval map.",
  "files": {
   "GATORDIV.BSP": {
    "bytes": 2234252,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad",
  "tags": [
   "author=GatorMan",

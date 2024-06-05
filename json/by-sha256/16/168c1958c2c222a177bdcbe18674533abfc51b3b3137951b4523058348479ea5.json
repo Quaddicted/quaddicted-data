@@ -1,5 +1,6 @@
 {
  "bytes": 3731057,
+ "description": "Small episode with 4 maps of medium size, each with a different texture theme (Base, Metal, Wizard) and a few custom monsters. Never officially finished, but playable as-is.",
  "files": {
   "BAD/AUTOEXEC.CFG": {
    "bytes": 89,
@@ -406,6 +407,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
  "tags": [
   "author=Ironhammer",

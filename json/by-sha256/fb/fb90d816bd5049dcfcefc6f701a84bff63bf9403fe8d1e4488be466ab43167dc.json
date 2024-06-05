@@ -1,5 +1,6 @@
 {
  "bytes": 860982,
+ "description": "Short, straightforward medieval map with some Q3 textures.",
  "files": {
   "heresp2.bsp": {
    "bytes": 2359632,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "fb90d816bd5049dcfcefc6f701a84bff63bf9403fe8d1e4488be466ab43167dc",
  "tags": [
   "author=Here",

@@ -1,5 +1,6 @@
 {
  "bytes": 1115377,
+ "description": "Small plain Base map. Comes with a skill selection map.",
  "files": {
   "LOSTTEC.bsp": {
    "bytes": 1526888,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee",
  "tags": [
   "author=Richard Neff",

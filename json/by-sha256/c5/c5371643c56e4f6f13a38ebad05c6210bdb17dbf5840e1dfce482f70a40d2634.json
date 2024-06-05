@@ -1,5 +1,6 @@
 {
  "bytes": 585050,
+ "description": "Ziggurat / 3 SP maps / bambuz, generic, neg!ke",
  "files": {
   "sm115_bam.bsp": {
    "bytes": 218944,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c5371643c56e4f6f13a38ebad05c6210bdb17dbf5840e1dfce482f70a40d2634",
  "tags": [
   "author=bambuz",

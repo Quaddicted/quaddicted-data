@@ -1,5 +1,6 @@
 {
  "bytes": 707645,
+ "description": "Medium sized map, a short Base leading to Wizard areas with an underwater part in-between.",
  "files": {
   "out1.bsp": {
    "bytes": 1555808,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "df2e4bfd80b778b8ab089ef8c5ecc8b426afeb65b30e6e977f544cd934b03e22",
  "tags": [
   "author=J.F.Gustafsson",

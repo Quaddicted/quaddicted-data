@@ -1,5 +1,6 @@
 {
  "bytes": 1026623,
+ "description": "Medium sized base map with a unique concept: \"keep the usual shapes but take away the textures.\" A biohazard outbreak at this facility adds lots of blood to the mostly white textures.",
  "files": {
   "whiteroom/": {
    "bytes": 0,
@@ -36,6 +37,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a",
  "tags": [
   "author=Willem (Warren Marshall)",

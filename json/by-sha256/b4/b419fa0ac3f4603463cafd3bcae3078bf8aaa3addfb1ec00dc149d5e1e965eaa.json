@@ -1,5 +1,6 @@
 {
  "bytes": 687775,
+ "description": "sock's Egypt texture set / 1 SP map / digs",
  "files": {
   "sm165_digs.bsp": {
    "bytes": 1585616,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b419fa0ac3f4603463cafd3bcae3078bf8aaa3addfb1ec00dc149d5e1e965eaa",
  "tags": [
   "author=digs",

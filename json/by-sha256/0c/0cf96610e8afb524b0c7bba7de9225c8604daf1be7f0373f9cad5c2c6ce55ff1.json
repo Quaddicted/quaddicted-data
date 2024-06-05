@@ -1,5 +1,6 @@
 {
  "bytes": 274302,
+ "description": "Small brick map with upward/downward water tubes.",
  "files": {
   "watertor.bsp": {
    "bytes": 629068,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0cf96610e8afb524b0c7bba7de9225c8604daf1be7f0373f9cad5c2c6ce55ff1",
  "tags": [
   "author=Benjamin S. Clower",

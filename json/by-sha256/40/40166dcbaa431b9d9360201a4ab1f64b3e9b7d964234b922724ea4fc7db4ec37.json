@@ -1,5 +1,6 @@
 {
  "bytes": 939334,
+ "description": "Old school maps / 4 SP, 2 DM maps / FrikaC, Jacek, Moz, BlackPope, Scampie",
  "files": {
   "sm84_frik.bsp": {
    "bytes": 473116,
@@ -41,6 +42,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "40166dcbaa431b9d9360201a4ab1f64b3e9b7d964234b922724ea4fc7db4ec37",
  "tags": [
   "author=BlackPope",

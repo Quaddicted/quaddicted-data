@@ -1,5 +1,6 @@
 {
  "bytes": 452496,
+ "description": "Medium sized boxed Metal map.",
  "files": {
   "tef_aop.bsp": {
    "bytes": 970224,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168",
  "tags": [
   "author=T.H. Johansen (TJ)",

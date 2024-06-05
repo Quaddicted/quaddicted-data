@@ -1,5 +1,6 @@
 {
  "bytes": 617791,
+ "description": "Small Wizard castle with some custom textures and Whaleboy's rain patch (optional).",
  "files": {
   "doomcasl.bsp": {
    "bytes": 928376,
@@ -53,6 +54,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56",
  "tags": [
   "author=Jacob Fike",

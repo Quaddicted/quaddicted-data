@@ -1,5 +1,6 @@
 {
  "bytes": 539684,
+ "description": "Small to medium-sized subterranean 'city' with Medieval textures.",
  "files": {
   "OLD_CITY.BSP": {
    "bytes": 1258608,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bbf109b602c58f8682bc0a2190531a01285e6c6b2be8c5c29b54f540ed075b46",
  "tags": [
   "author=Michael Cullum",

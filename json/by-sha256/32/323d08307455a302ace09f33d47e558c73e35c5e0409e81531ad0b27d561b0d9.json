@@ -1,5 +1,6 @@
 {
  "bytes": 21483687,
+ "description": "Two maps with massive scale and thick atmosphere, using an expanded cistern texture set and featuring several gameplay enhancements and surprises. Includes a start/outro map and a bonus credits map. QC and map sources are included.",
  "files": {
   "honey/": {
    "bytes": 0,
@@ -503,6 +504,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "tags": [
   "author=czg",

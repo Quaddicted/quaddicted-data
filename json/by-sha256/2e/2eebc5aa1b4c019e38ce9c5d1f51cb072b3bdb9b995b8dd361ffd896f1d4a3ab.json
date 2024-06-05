@@ -1,5 +1,6 @@
 {
  "bytes": 1036825,
+ "description": "Large medieval village with a few new textures and reskinned monsters. Somewhat of a sequel to \"Village of Dread\".",
  "files": {
   "Pak0.pak": {
    "bytes": 2262816,
@@ -82,6 +83,7 @@
   "extract": "{base}/shadow/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab",
  "tags": [
   "author=Steve Rescoe",

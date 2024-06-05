@@ -1,5 +1,6 @@
 {
  "bytes": 534236,
+ "description": "Fourth map of the IKSPQ series: a medium sized blue temple with an outside bit.",
  "files": {
   "IKSPQ4.BSP": {
    "bytes": 1356704,
@@ -16,9 +17,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
  "tags": [
-  "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "author=Iikka \"Fingers\" Keru00e4nen",
   "dependency=ikspq5",
   "depends=f60aa159e22e7c0e5a1df78a73185610c84b01b9e1a91c5a90c7955e3b622466",
   "filename=ikspq4.zip",

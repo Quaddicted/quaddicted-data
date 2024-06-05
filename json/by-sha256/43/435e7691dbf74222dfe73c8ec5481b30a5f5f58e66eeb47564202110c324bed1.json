@@ -1,5 +1,6 @@
 {
  "bytes": 1379826,
+ "description": "Three tiny beginner's levels. The map sources are included.",
  "files": {
   "first_maps/": {
    "bytes": 0,
@@ -46,6 +47,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "435e7691dbf74222dfe73c8ec5481b30a5f5f58e66eeb47564202110c324bed1",
  "tags": [
   "author=Ondrejoda",

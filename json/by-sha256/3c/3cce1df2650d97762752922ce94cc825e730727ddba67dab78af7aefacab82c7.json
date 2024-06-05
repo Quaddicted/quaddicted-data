@@ -1,5 +1,6 @@
 {
  "bytes": 1962529,
+ "description": "Medium-sized terracotta style map with a built-in skill selection room and an additional alternative game mode.",
  "files": {
   "mappi.bsp": {
    "bytes": 5057800,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "3cce1df2650d97762752922ce94cc825e730727ddba67dab78af7aefacab82c7",
  "tags": [
   "author=negke",

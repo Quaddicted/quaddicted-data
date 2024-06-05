@@ -1,5 +1,6 @@
 {
  "bytes": 1133535,
+ "description": "Small green Wizard-textured temple ruins with some ancient machinery. The map source is included.",
  "files": {
   "mazotac.bsp": {
    "bytes": 1770500,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0d0e69d78ef341bfc53343bf5f32c95e3fa49e9e66eb0f83fc1079cba4029fd6",
  "tags": [
   "author=Andrew Yoder",

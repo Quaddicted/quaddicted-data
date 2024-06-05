@@ -1,5 +1,6 @@
 {
  "bytes": 596537,
+ "description": "Medium Wizard/Metal map with a Chthon battle.",
  "files": {
   "!!READ!!.BAT": {
    "bytes": 22260,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "620e029071a2d9cbf18fa308aa83f9c0da35b4365a80e9e550b04380c89e7981",
  "tags": [
   "author=George J. Fiffy II",

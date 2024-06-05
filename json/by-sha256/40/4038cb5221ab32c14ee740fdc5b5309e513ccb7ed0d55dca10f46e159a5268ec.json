@@ -1,5 +1,6 @@
 {
  "bytes": 752002,
+ "description": "A nicely made egyptian remix of Quake's e1m3 - The Necropolis.",
  "files": {
   "fr3n1m3.bsp": {
    "bytes": 1720412,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4038cb5221ab32c14ee740fdc5b5309e513ccb7ed0d55dca10f46e159a5268ec",
  "tags": [
   "author=Fern (aka Fr3n)",

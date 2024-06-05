@@ -1,5 +1,6 @@
 {
  "bytes": 1795019,
+ "description": "Teleporter madness / 6 SP maps / adamllis, HeadThump, Lunaran, Omus, Spirit, sielwolf",
  "files": {
   "smqe08d_adamllis.bsp": {
    "bytes": 809944,
@@ -51,6 +52,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "0449672d5a04bca60bfd1d619eb49bdf7b02e64fe05acc9b5f3778f1cd800818",
  "tags": [
   "author=HeadThump",

@@ -1,5 +1,6 @@
 {
  "bytes": 958042,
+ "description": "Fairly large idbase map with a lot of button pressing.",
  "files": {
   "jawbreak.bsp": {
    "bytes": 2247276,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128",
  "tags": [
   "author=Matt Sefton",

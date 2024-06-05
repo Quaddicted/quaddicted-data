@@ -1,5 +1,6 @@
 {
  "bytes": 538577,
+ "description": "Medium sized Metal level with a pyramid.",
  "files": {
   "evilwrld.bsp": {
    "bytes": 1247732,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "1aa3bb69e90ea18d89c179c628a512b332101cde5bdf58fb96545f6d5ea3dd4c",
  "tags": [
   "author=Matt Sefton",

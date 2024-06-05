@@ -1,5 +1,6 @@
 {
  "bytes": 235751,
+ "description": "Doom 3 / 1 SP map / Zwiffle",
  "files": {
   "sm86_zwiffle.bsp": {
    "bytes": 507320,
@@ -11,6 +12,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "5ac7151c380ba16c4744e9dfdf90273ceab3ee9357e8a4acf057184e7a2a7b7c",
  "tags": [
   "author=Zwiffle",

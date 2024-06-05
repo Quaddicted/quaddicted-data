@@ -1,5 +1,6 @@
 {
  "bytes": 724430,
+ "description": "Unthemed / 3 __ maps / Scampie, Necros, Starbuck",
  "files": {
   "sm47_necros.bsp": {
    "bytes": 1026960,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "tags": [
   "author=Necros",

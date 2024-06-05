@@ -1,5 +1,6 @@
 {
  "bytes": 4643322,
+ "description": "Two old maps released for archival purposes: Laboratory X (oms24), a huge underground base with strange comic-style custom textures, and Neighboring Alcazar's (oms25), a medium-sized orange medieval fortress inside a canyon, which follows the same theme as <a href=\"bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441\">Conflagrant Rodent</a>.",
  "files": {
   "oms24.bsp": {
    "bytes": 5435228,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920",
  "tags": [
   "author=ORL",

@@ -1,5 +1,6 @@
 {
  "bytes": 1265923,
+ "description": "Three small \"cyberpunk\"-themed levels with weird construction and mixed texture styles.",
  "files": {
   "elcshp.bsp": {
    "bytes": 1147656,
@@ -26,6 +27,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "4767ba068d8746cb09861c2b255a7be8f968f767ff50491fe710c0fc786274e2",
  "tags": [
   "author=David Jewsbury",

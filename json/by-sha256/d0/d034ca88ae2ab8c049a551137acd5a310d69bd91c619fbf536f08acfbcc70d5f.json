@@ -1,5 +1,6 @@
 {
  "bytes": 1142513,
+ "description": "Medium-sized Wizard-textured tomb level. The map source is included.",
  "files": {
   "losttomb.bsp": {
    "bytes": 2293076,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "d034ca88ae2ab8c049a551137acd5a310d69bd91c619fbf536f08acfbcc70d5f",
  "tags": [
   "author=ZQ",

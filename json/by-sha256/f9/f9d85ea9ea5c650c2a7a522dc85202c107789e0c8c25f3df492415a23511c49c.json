@@ -1,5 +1,6 @@
 {
  "bytes": 444658,
+ "description": "Small plain lava canyon with a tint of base.",
  "files": {
   "fbreak.bsp": {
    "bytes": 1068060,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f9d85ea9ea5c650c2a7a522dc85202c107789e0c8c25f3df492415a23511c49c",
  "tags": [
   "author=Jason Fischer aka ThreeD",

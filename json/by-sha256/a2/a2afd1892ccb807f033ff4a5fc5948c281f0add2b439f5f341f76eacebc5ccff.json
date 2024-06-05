@@ -1,5 +1,6 @@
 {
  "bytes": 878975,
+ "description": "Medium to large Wizard map.",
  "files": {
   "GOR1.TXT": {
    "bytes": 1867,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "a2afd1892ccb807f033ff4a5fc5948c281f0add2b439f5f341f76eacebc5ccff",
  "tags": [
   "author=Potsy aka (Jim Hughes)",

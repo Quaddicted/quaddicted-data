@@ -1,5 +1,6 @@
 {
  "bytes": 527908,
+ "description": "Deathmatch maps / 4 DM maps / FrikaC, NotoriousRay, RPG, Scampie",
  "files": {
   "sm83_frik.bsp": {
    "bytes": 391656,
@@ -31,6 +32,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "8cf7e3c1b5daec0d5d7f7d3c648aed389bd4c981a2270e46a2a359a0ece58754",
  "tags": [
   "author=FrikaC",

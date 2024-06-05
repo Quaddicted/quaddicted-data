@@ -1,5 +1,6 @@
 {
  "bytes": 7148510,
+ "description": "The demo version of an unfinished Quake episode. Contains three medium to large SP maps and a skill selection map, and features some environmental and monster modifications.",
  "files": {
   "kaiser/": {
    "bytes": 0,
@@ -179,6 +180,7 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee",
  "tags": [
   "author=Samuel 'Kaiser' Villarreal",
@@ -195,7 +197,7 @@
   "startmap=start",
   "theme=base",
   "theme=traps",
-  "theme=zerst\u00f6rer",
+  "theme=zerstu00f6rer",
   "title=Quake: Harvester of Chaos (Demo)",
   "type=episode",
   "type=mod",

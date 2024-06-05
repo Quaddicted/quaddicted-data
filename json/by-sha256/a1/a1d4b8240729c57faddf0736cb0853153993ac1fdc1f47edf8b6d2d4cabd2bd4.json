@@ -1,5 +1,6 @@
 {
  "bytes": 1089330,
+ "description": "Unthemed / 6 SP maps / generic, Drew, HeadThump, Trinca, Zwiffle",
  "files": {
   "sm109/": {
    "bytes": 0,
@@ -41,6 +42,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Cannot be run through the Quake Injector."
+ ],
  "sha256": "a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4",
  "tags": [
   "author=Drew",

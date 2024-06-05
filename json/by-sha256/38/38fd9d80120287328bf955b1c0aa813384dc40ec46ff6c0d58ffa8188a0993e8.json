@@ -1,5 +1,6 @@
 {
  "bytes": 429543,
+ "description": "Cramped and weird oldschool map. Tower-like structure with Fiend cages and \"evil\" staircases.",
  "files": {
   "qkhouse.bsp": {
    "bytes": 1054172,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8",
  "tags": [
   "author=DAV",

@@ -1,5 +1,6 @@
 {
  "bytes": 73116,
+ "description": "Tiny joke map with an arena fight.",
  "files": {
   "lasp01.bsp": {
    "bytes": 499244,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "f3805cd3687e9ba5545c044e07e71ed0031e31d5e4bcc50ecdc8646932c584bd",
  "tags": [
   "author=Lord Asaki",

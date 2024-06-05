@@ -1,5 +1,6 @@
 {
  "bytes": 495463,
+ "description": "Small Wizard hub map with Base elements.",
  "files": {
   "kathedral.txt": {
    "bytes": 2227,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca",
  "tags": [
   "author=The Void (Tim Fairchild)",

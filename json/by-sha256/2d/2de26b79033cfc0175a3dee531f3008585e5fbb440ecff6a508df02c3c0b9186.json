@@ -1,5 +1,6 @@
 {
  "bytes": 476161,
+ "description": "About medium sized Metal map with a certain maze feel.",
  "files": {
   "doormat.bsp": {
    "bytes": 1125868,
@@ -21,6 +22,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186",
  "tags": [
   "author=Erik Robson",

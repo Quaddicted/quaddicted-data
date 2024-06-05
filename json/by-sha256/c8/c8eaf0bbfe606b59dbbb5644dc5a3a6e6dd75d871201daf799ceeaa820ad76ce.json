@@ -1,5 +1,6 @@
 {
  "bytes": 5017001,
+ "description": "Around medium-sized map with a Knave-textured courtyard, a blue subterranean church and a base. Comes with a custom skybox. The map source is included.",
  "files": {
   "README!.txt": {
    "bytes": 2425,
@@ -86,6 +87,7 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "c8eaf0bbfe606b59dbbb5644dc5a3a6e6dd75d871201daf799ceeaa820ad76ce",
  "tags": [
   "author=Andr04x",

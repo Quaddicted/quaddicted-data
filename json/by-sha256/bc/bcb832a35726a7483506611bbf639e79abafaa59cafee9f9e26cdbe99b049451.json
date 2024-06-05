@@ -1,5 +1,6 @@
 {
  "bytes": 789538,
+ "description": "Medium sized brick/metal map with some large rooms and creative ideas.",
  "files": {
   "iam1.bsp": {
    "bytes": 1907248,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "bcb832a35726a7483506611bbf639e79abafaa59cafee9f9e26cdbe99b049451",
  "tags": [
   "author=Martin R. Goedtke  (Iam)",

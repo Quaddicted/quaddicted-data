@@ -1,5 +1,6 @@
 {
  "bytes": 598219,
+ "description": "Small Metal level.",
  "files": {
   "EROTIQUE.BSP": {
    "bytes": 1395632,
@@ -16,6 +17,7 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "dcb99b69a1c6c3d47781171dc72e97862945d275b3eb3001c190c48a2fad7ef6",
  "tags": [
   "author=marty",

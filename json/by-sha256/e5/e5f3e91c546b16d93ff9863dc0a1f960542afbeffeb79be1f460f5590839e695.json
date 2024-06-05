@@ -1,5 +1,6 @@
 {
  "bytes": 610688,
+ "description": "Small oldschool brick level with a few DOOM textures.",
  "files": {
   "ne_deadcity.bsp": {
    "bytes": 1693676,
@@ -16,6 +17,7 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [],
  "sha256": "e5f3e91c546b16d93ff9863dc0a1f960542afbeffeb79be1f460f5590839e695",
  "tags": [
   "author=necros",
