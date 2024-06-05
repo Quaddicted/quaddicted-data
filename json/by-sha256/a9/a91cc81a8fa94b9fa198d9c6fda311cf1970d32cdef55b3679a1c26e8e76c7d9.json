@@ -36,12 +36,15 @@
   "nonspecific_tag=rocketjump",
   "nonspecific_tag=unique",
   "playstyle=tricks",
+  "provides='digs07=1.0'",
   "release_date=2014-02-18",
+  "release_group=digs07",
   "theme=base",
   "theme=puzzles",
   "theme=slime",
   "title=RJ Zone",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [
