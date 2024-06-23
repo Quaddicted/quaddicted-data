@@ -1,6 +1,5 @@
 {
  "bytes": 776502,
- "description": "Medium Base level with a submerged cave.",
  "files": {
   "RA.BSP": {
    "bytes": 1710848,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b0e4c813c12d979da605cc8b61f71223e461468a5da8ff4453a8aea06fc3159c",
  "tags": [
   "author=Jussi Tuononen",

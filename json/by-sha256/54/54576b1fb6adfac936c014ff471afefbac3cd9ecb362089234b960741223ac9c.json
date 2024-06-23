@@ -1,6 +1,5 @@
 {
  "bytes": 2042511,
- "description": "Quake The Way Id Did / 4 SP maps / Cocerello, Digs, DOOMer, Skacky",
  "files": {
   "sm173_Cocerello.txt": {
    "bytes": 2266,
@@ -47,7 +46,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c",
  "tags": [
   "author=Cocerello",

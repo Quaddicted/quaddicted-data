@@ -1,6 +1,5 @@
 {
  "bytes": 46579,
- "description": "Ugly stupid stupid ugly maze.",
  "files": {
   "MAZE1.bsp": {
    "bytes": 152500,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "97fe15d5566f283863308cec001c40de195958181f347d205543f7577201c0a1",
  "tags": [
   "author=George Grotans",

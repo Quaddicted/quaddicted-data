@@ -1,6 +1,5 @@
 {
  "bytes": 6939416,
- "description": "Medium-sized military base with an artillery battery. Comes with a custom skybox. The map source is included.",
  "files": {
   "README - ad_jpqm5 - The Battery.txt": {
    "bytes": 3441,
@@ -72,9 +71,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
- ],
  "sha256": "0b887171c9595d4e8cf38b99b7928fddc5ac94cc230a1b71e5a655204e8f907f",
  "tags": [
   "author=JPal",

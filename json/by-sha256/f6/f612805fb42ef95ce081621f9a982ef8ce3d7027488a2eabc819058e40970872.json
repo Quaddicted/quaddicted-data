@@ -1,6 +1,5 @@
 {
  "bytes": 423951,
- "description": "Medium sized woodbox map",
  "files": {
   "tef_sg.bsp": {
    "bytes": 913868,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f612805fb42ef95ce081621f9a982ef8ce3d7027488a2eabc819058e40970872",
  "tags": [
   "author=T.H. Johansen (TJ)",

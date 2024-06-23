@@ -1,6 +1,5 @@
 {
  "bytes": 738979,
- "description": "Medium sized Wizard map.",
  "files": {
   "TFL.BSP": {
    "bytes": 1651552,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276",
  "tags": [
   "author=Anders \"Backspace\" Persson",

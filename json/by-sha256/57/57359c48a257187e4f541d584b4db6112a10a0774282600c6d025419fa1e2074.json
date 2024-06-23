@@ -1,6 +1,5 @@
 {
  "bytes": 190718,
- "description": "Small, dark and plain city with a few simple buildings and a 'zoo' arena.",
  "files": {
   "city.bsp": {
    "bytes": 511620,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "57359c48a257187e4f541d584b4db6112a10a0774282600c6d025419fa1e2074",
  "tags": [
   "author=George Grotans",

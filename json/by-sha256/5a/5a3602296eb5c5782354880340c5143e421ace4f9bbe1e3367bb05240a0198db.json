@@ -1,6 +1,5 @@
 {
  "bytes": 139074,
- "description": "Leaked and symmetrical maze with sky as walls.",
  "files": {
   "SKYMAZE.bsp": {
    "bytes": 400168,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "5a3602296eb5c5782354880340c5143e421ace4f9bbe1e3367bb05240a0198db",
  "tags": [
   "author=George Grotans",

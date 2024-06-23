@@ -1,6 +1,5 @@
 {
  "bytes": 4951724,
- "description": "Small map based on a real-life location, possibly a school. Contains some custom textures, including a very specific stucco wall and carpet.",
  "files": {
   "quakeDVM.txt": {
    "bytes": 145,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cd02509f5f501d503de9f40f0ab7b201009920660d37566a4cbf3c6eefdb8457",
  "tags": [
   "author=Luigiman2020",

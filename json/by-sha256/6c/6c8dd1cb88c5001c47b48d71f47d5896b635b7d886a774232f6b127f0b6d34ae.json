@@ -1,6 +1,5 @@
 {
  "bytes": 5112773,
- "description": "Large, open medieval castle with courtyards, a throne room, a wine cellar, and a dungeon. Comes with a custom skybox. The map source is included.",
  "files": {
   "brendy1/": {
    "bytes": 0,
@@ -72,9 +71,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "6c8dd1cb88c5001c47b48d71f47d5896b635b7d886a774232f6b127f0b6d34ae",
  "tags": [
   "author=Brendy Caldwell",

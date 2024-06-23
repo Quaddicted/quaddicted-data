@@ -1,6 +1,5 @@
 {
  "bytes": 579202,
- "description": "Easy map with a mixture of styles (medieval, wizardish, swamp), created by splicing together two pre-existing dm maps, by Jim Lowell and Viper respectively.",
  "files": {
   "fmb2.bsp": {
    "bytes": 1213720,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "09fdecea46a37dfe268abc9b6e14dd770fa410f0eba5b71d85a699429d9f168e",
  "tags": [
   "author=Mike Woodham",

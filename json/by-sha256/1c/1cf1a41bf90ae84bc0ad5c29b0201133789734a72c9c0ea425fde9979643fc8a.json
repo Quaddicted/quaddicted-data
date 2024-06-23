@@ -1,6 +1,5 @@
 {
  "bytes": 3228343,
- "description": "A four level wizard/medieval episode with a start map. Features exploding barrels, cutscenes and a few new monsters (dragons and boss).",
  "files": {
   "Pak0.PAK": {
    "bytes": 8388180,
@@ -159,7 +158,6 @@
   "extract": "{base}/pg2/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

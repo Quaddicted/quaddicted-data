@@ -1,6 +1,5 @@
 {
  "bytes": 99577,
- "description": "*Very* small (and very early?) wizard level. Map file is included.",
  "files": {
   "SHAM.BSP": {
    "bytes": 200396,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "536c94b450c460f0bb8bd6c744ecb9f1416c37d5a50de315eeececb71dfceb3a",
  "tags": [
   "author=Chris",

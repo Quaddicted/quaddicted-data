@@ -1,6 +1,5 @@
 {
  "bytes": 130569,
- "description": "Small, leaked map with a mix of Base/Metal textures.",
  "files": {
   "TEMPLE.bsp": {
    "bytes": 346892,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7d2ea288bbee21145f6c9e38962722bcd00d0dc3a3bbdd3cf2186837e4860609",
  "tags": [
   "author=HS Xsniper (Michael Rogers)",

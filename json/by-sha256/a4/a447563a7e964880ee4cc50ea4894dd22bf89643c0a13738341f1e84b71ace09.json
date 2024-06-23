@@ -1,6 +1,5 @@
 {
  "bytes": 829927,
- "description": "Small temple-themed level set on Atlantis, featuring two new enemy types: female temple guardians and hilarious pouncing jaws.",
  "files": {
   "ATLANTIX.TXT": {
    "bytes": 6792,
@@ -122,7 +121,6 @@
   "extract": "{base}/atlantis/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a447563a7e964880ee4cc50ea4894dd22bf89643c0a13738341f1e84b71ace09",
  "tags": [
   "author=Bruce W. Krueger",

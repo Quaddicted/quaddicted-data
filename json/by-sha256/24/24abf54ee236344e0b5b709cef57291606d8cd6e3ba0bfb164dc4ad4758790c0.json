@@ -1,6 +1,5 @@
 {
  "bytes": 973128,
- "description": "Unthemed / 9 DM maps / Aardappel, Aru, Bal, Cybear, Frib, iNaNe, Raptor, Notorious Ray, Scampie",
  "files": {
   "sm7_aard.bsp": {
    "bytes": 436100,
@@ -57,7 +56,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "24abf54ee236344e0b5b709cef57291606d8cd6e3ba0bfb164dc4ad4758790c0",
  "tags": [
   "author=Aardappel",

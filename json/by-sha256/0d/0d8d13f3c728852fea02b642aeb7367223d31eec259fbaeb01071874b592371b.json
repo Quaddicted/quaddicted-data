@@ -1,6 +1,5 @@
 {
  "bytes": 9813889,
- "description": "First \"alpha\" version of a mod based off of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> with some new and modified weapons, such as a pistol and triple-barrelled shotgun, and more challenging gameplay. It comes with two levels plus a start map: a medium-sized sewage facility and a large medieval castle dungeon. The map sources are included.",
  "files": {
   "reliq/": {
    "bytes": 0,
@@ -567,9 +566,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require a source port with increased limits."
- ],
  "sha256": "0d8d13f3c728852fea02b642aeb7367223d31eec259fbaeb01071874b592371b",
  "tags": [
   "author=Markie",

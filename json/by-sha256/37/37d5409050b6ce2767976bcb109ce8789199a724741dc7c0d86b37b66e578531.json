@@ -1,6 +1,5 @@
 {
  "bytes": 9293481,
- "description": "Seven SP maps based on suggestions by ZungryWare's <a href=\"http://www.codeskulptor.org/#user47_u7IXWYGJpl_1.py\">Quake Map Idea Generator</a>.",
  "files": {
   "sm205/bin/": {
    "bytes": 0,
@@ -162,9 +161,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps probably require a source port with increased limits."
- ],
  "sha256": "37d5409050b6ce2767976bcb109ce8789199a724741dc7c0d86b37b66e578531",
  "tags": [
   "author=Chris Holden",

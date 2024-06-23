@@ -1,6 +1,5 @@
 {
  "bytes": 3416567,
- "description": "Medium castle-themed map with a bathroom at the end.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -52,7 +51,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f6956a179fc248aca8a4d91dc79dc302d848fe63522b1fd3e7a8fb49e3dc3bc5",
  "tags": [
   "author=Paul Keefner",

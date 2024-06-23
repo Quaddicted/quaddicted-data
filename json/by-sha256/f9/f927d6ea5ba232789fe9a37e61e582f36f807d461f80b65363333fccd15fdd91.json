@@ -1,6 +1,5 @@
 {
  "bytes": 490955,
- "description": "Small rusty base map.",
  "files": {
   "fatal-error.bsp": {
    "bytes": 1142988,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91",
  "tags": [
   "author=Tiddles",

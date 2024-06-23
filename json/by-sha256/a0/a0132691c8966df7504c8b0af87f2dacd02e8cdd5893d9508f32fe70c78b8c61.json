@@ -1,6 +1,5 @@
 {
  "bytes": 1411018,
- "description": "Small tp-industrial-textured base map. The map source is included.",
  "files": {
   "gpl-2.0.txt": {
    "bytes": 18326,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a0132691c8966df7504c8b0af87f2dacd02e8cdd5893d9508f32fe70c78b8c61",
  "tags": [
   "author=Nicolas 'hexcalk' Maeder",

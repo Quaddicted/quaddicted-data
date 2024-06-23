@@ -1,6 +1,5 @@
 {
  "bytes": 1933550,
- "description": "Large blue, somewhat E2M5ish fortress with several outside areas and a dark platforming section. The map source is included.",
  "files": {
   "sr_dark.bsp": {
    "bytes": 4017652,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "2927eff72e83931208add44ac06ead581877f0c1d9fb29d525b7e16a864d33b4",
  "tags": [
   "author=Sergey Rupasov",

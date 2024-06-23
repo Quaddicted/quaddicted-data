@@ -1,6 +1,5 @@
 {
  "bytes": 11061975,
- "description": "Impromptu map jam following a \"retro\" medieval/castle theme: five small maps by ericw, mfx, Scampie, Skacky and sock. It comes with optional medieval-style item models, and the map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -314,9 +313,6 @@
   "extract": "{base}/retrojam1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "A rebalanced version of mfx's map is available <a href=\"0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a\">here</a>, and a fixed version of Skacky's map is available <a href=\"1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a\">here</a>. An expanded and polished standalone version of Sock's map is available <a href=\"21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b\">here</a>."
- ],
  "sha256": "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
  "tags": [
   "author=Scampie",

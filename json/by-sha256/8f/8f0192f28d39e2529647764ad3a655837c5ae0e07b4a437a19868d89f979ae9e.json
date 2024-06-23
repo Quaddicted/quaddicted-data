@@ -1,6 +1,5 @@
 {
  "bytes": 329404,
- "description": "Small mixed texture map.",
  "files": {
   "MIX1.pcx": {
    "bytes": 56362,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8f0192f28d39e2529647764ad3a655837c5ae0e07b4a437a19868d89f979ae9e",
  "tags": [
   "author=Daniel Svensson",

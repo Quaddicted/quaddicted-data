@@ -1,6 +1,5 @@
 {
  "bytes": 3008886,
- "description": "Mini-campaign consisting of five *very* small maps and a start map with IKBlue textures. Also features a customized Chthon boss battle.",
  "files": {
   "jzspq2/BOSSQC.TXT": {
    "bytes": 1341,
@@ -135,7 +134,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b7fcd229cb05e4bda5e2cbffbedb02a6bad43684cbc8596d596cde2342d96697",
  "tags": [
   "author=Jason Zukowski",

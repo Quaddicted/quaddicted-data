@@ -1,6 +1,5 @@
 {
  "bytes": 3244524,
- "description": "Medium sized map with some city-themed sections and an open layout. The author's first map for Quake.",
  "files": {
   "nola1.bsp": {
    "bytes": 6776644,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility."
- ],
  "sha256": "da3c76fe3b2f55dba8c182dfc747e0b521e5205f135ce7a247213074a28ac322",
  "tags": [
   "author=Nolatron",

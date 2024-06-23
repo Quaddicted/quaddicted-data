@@ -1,6 +1,5 @@
 {
  "bytes": 345796,
- "description": "Very small Wizard map with a water area.",
  "files": {
   "SHKEEP.BSP": {
    "bytes": 772708,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6",
  "tags": [
   "author=Glenn French",

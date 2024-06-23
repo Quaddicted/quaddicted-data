@@ -1,6 +1,5 @@
 {
  "bytes": 890491,
- "description": "Medium sized medieval map.",
  "files": {
   "lostwrld.bsp": {
    "bytes": 2030384,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725",
  "tags": [
   "author=Matt Sefton",

@@ -1,6 +1,5 @@
 {
  "bytes": 2441892,
- "description": "Small episode with three Wizard and one Base level as well as a start map. Also has a few new textures and different endings depending on skill level.",
  "files": {
   "Black.bat": {
    "bytes": 25,
@@ -69,7 +68,6 @@
   "extract": "{base}/black/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "eb9b1a32679fd9fc3132efe7923b73f40c8d4a1fcf1a210a7f5eed7a623dd3c5",
  "tags": [
   "author=J.F.Gustafsson",

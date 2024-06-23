@@ -1,6 +1,5 @@
 {
  "bytes": 6720618,
- "description": "Large dungeon ruins beneath a mountain with a lava-filled central hall.",
  "files": {
   "btm.bsp": {
    "bytes": 20478960,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits + BSP2 support."
- ],
  "sha256": "f80133b7491513b2466eed11f6ad3e2782c79cebff7fa1031e7e740e0c7521e8",
  "tags": [
   "author=Quiet-Emerald",

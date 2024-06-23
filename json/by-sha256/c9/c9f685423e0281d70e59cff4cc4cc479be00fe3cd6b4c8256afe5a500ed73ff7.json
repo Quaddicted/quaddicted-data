@@ -1,6 +1,5 @@
 {
  "bytes": 9072033,
- "description": "Episode with 9 medium to large maps (including a secret map) in varying styles - Base/Wizard/Metal - with many caverns and fortesses, and a few new monsters.",
  "files": {
   "Descent.doc": {
    "bytes": 41472,
@@ -291,7 +290,6 @@
   "extract": "{base}/descent/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "tags": [
   "author=Mike Wilberforce (Hellscrag)",

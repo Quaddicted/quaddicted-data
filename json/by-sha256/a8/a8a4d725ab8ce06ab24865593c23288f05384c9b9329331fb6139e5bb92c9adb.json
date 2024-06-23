@@ -1,6 +1,5 @@
 {
  "bytes": 1012379,
- "description": "Unthemed / 4 SP maps / Aardappel, Gibbie, Misyu, NaNe",
  "files": {
   "sm16_aard.bsp": {
    "bytes": 860012,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a8a4d725ab8ce06ab24865593c23288f05384c9b9329331fb6139e5bb92c9adb",
  "tags": [
   "author=Aardappel",

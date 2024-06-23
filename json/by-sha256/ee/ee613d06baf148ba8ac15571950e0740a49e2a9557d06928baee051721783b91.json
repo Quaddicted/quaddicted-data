@@ -1,6 +1,5 @@
 {
  "bytes": 916352,
- "description": "Small level created in the spirit of the 100b competitions (using not more than 100 world brushes). The map source is included.",
  "files": {
   "ad_b100_sock.txt": {
    "bytes": 3076,
@@ -32,9 +31,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>."
- ],
  "sha256": "ee613d06baf148ba8ac15571950e0740a49e2a9557d06928baee051721783b91",
  "tags": [
   "author=sock",

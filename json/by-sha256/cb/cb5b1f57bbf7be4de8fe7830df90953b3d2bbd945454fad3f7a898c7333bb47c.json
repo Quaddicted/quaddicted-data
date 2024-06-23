@@ -1,6 +1,5 @@
 {
  "bytes": 1436557,
- "description": "Two small to medium sized snowy castles with non-linear gameplay, extracted from the Rise of the Phoenix TC. Both feel like DM maps in terms of layout.",
  "files": {
   "Kewmaps.txt": {
    "bytes": 2652,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c",
  "tags": [
   "author=Timothy R. Jervis (Kew)",

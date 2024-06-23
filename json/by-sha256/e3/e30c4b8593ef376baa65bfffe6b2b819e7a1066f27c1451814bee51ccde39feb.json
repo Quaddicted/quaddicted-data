@@ -1,6 +1,5 @@
 {
  "bytes": 1692117,
- "description": "Medium-sized green metal map with lightning gun-focused combat. The map source is included.",
  "files": {
   "tbg1.bsp": {
    "bytes": 2524180,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits."
- ],
  "sha256": "e30c4b8593ef376baa65bfffe6b2b819e7a1066f27c1451814bee51ccde39feb",
  "tags": [
   "author=Qmaster",

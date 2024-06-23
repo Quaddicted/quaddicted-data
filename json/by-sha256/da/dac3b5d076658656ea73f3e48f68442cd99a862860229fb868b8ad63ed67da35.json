@@ -1,6 +1,5 @@
 {
  "bytes": 574914,
- "description": "Medium sized wild west ghost town with two different game modes depending on the selected skill level.",
  "files": {
   "ghost.bsp": {
    "bytes": 1310492,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35",
  "tags": [
   "author=Roger Staines",

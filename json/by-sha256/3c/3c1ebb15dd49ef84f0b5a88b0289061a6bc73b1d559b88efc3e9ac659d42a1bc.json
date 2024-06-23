@@ -1,6 +1,5 @@
 {
  "bytes": 16515215,
- "description": "Progs_dump mod (included) / 8 SP maps + start map / Breezeep, dumptruck_ds, Ing-ing, ionous, JCR, Nostalgick, QueenJazz, Andrew Yoder. Also includes a custom skybox, a few custom sounds and models, and some map sources.",
  "files": {
   "SM188 README.txt": {
    "bytes": 1082,
@@ -292,9 +291,6 @@
   "extract": "{base}/sm188/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of the maps may require a source port with increased limits."
- ],
  "sha256": "3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc",
  "tags": [
   "author=Andrew Yoder",

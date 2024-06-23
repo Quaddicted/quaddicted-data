@@ -1,6 +1,5 @@
 {
  "bytes": 16714764,
- "description": "The first map by GunSgtHighway.",
  "files": {
   "gsh_tod.txt": {
    "bytes": 717,
@@ -87,7 +86,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba",
  "tags": [
   "author=GunSgtHighway",

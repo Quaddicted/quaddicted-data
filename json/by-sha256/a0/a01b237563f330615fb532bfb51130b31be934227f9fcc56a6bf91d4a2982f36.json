@@ -1,6 +1,5 @@
 {
  "bytes": 109459,
- "description": "Very small Medieval level. The author's first map.",
  "files": {
   "brt01q1.bsp": {
    "bytes": 244332,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36",
  "tags": [
   "author=QBrt",

@@ -1,6 +1,5 @@
 {
  "bytes": 251165515,
- "description": "Version 1.1 update of <a href=\"2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5\">Alkaline</a>, featuring fixes and polish to the original levels as well as several additional maps, enemies and music tracks. Thirteen large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
  "files": {
   "alk1.1/": {
    "bytes": 0,
@@ -2994,10 +2993,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "UPDATE, 8 March 2023: <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">version 1.2</a> is available and recommended.",
-  "These maps require a source port with increased limits + BSP2 support."
- ],
  "sha256": "e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9",
  "tags": [
   "author=Bal",

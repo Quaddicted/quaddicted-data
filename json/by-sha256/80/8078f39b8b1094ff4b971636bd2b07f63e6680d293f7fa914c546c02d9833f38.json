@@ -1,6 +1,5 @@
 {
  "bytes": 578417,
- "description": "Medium sized industrial base map.",
  "files": {
   "jackboot.bsp": {
    "bytes": 1435468,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8078f39b8b1094ff4b971636bd2b07f63e6680d293f7fa914c546c02d9833f38",
  "tags": [
   "author=tiddles",

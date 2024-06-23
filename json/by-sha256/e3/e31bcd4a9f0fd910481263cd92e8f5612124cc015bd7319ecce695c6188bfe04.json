@@ -1,6 +1,5 @@
 {
  "bytes": 590260,
- "description": "Include your nick / 3 SP maps / neg!ke, Spirit, Speedy",
  "files": {
   "sm139_neg!ke.bsp": {
    "bytes": 413316,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e31bcd4a9f0fd910481263cd92e8f5612124cc015bd7319ecce695c6188bfe04",
  "tags": [
   "author=Speedy",

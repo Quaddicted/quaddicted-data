@@ -1,6 +1,5 @@
 {
  "bytes": 480917,
- "description": "Vondur's iceberg / 3 SP maps / lurker, Spirit, st3ady",
  "files": {
   "sm146_lurker.bsp": {
    "bytes": 463164,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a0c3626775726d51a655dc2222baf825ec1efdbfe7ed321c7a6f1abd1999c2c8",
  "tags": [
   "author=Spirit",

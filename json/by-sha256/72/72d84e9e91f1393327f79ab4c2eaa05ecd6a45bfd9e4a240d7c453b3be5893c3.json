@@ -1,6 +1,5 @@
 {
  "bytes": 3455127,
- "description": "A big rusty metal (rubicon) space station.",
  "files": {
   "back2forwards.txt": {
    "bytes": 1367,
@@ -362,7 +361,6 @@
   "extract": "{base}/back2forwards/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3",
  "tags": [
   "author=LTH",

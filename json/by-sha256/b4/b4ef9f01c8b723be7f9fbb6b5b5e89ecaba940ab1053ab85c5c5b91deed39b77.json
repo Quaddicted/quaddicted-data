@@ -1,6 +1,5 @@
 {
  "bytes": 831157,
- "description": "Large interconnected Metal level.",
  "files": {
   "BNT.BSP": {
    "bytes": 2012044,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b4ef9f01c8b723be7f9fbb6b5b5e89ecaba940ab1053ab85c5c5b91deed39b77",
  "tags": [
   "author=Jim Hendrickson",

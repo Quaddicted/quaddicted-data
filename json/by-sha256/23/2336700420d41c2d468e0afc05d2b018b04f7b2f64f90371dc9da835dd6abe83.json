@@ -1,6 +1,5 @@
 {
  "bytes": 27811222,
- "description": "Arcane Dimensions version 1.71 patch featuring various bug-fixes and an additional level: a remake/remix of <a href=\"53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7\">Ademantine Cruelty</a>.",
  "files": {
   "ad_1_7p1_gtk.def": {
    "bytes": 317473,
@@ -762,9 +761,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This patch requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.70</a> to be installed."
- ],
  "sha256": "2336700420d41c2d468e0afc05d2b018b04f7b2f64f90371dc9da835dd6abe83",
  "tags": [
   "author=sock",

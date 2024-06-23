@@ -1,6 +1,5 @@
 {
  "bytes": 303895,
- "description": "Small Wizard/ brick map.",
  "files": {
   "MAYHEM.BSP": {
    "bytes": 714176,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd",
  "tags": [
   "author=Mark Murray",

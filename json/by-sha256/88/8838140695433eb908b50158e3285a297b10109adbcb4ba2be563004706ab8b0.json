@@ -1,6 +1,5 @@
 {
  "bytes": 4144604,
- "description": "Large abstract level floating in the void, with mixed texture themes and a very large enemy count / horde combat.",
  "files": {
   "README.txt": {
    "bytes": 2284,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits + BSP2 support."
- ],
  "sha256": "8838140695433eb908b50158e3285a297b10109adbcb4ba2be563004706ab8b0",
  "tags": [
   "author=Boss300",

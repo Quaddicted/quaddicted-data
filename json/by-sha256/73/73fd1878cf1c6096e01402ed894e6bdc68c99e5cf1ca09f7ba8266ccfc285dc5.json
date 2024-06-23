@@ -1,6 +1,5 @@
 {
  "bytes": 711311,
- "description": "Small to medium-sized map inspired by E4M2- The Tower of Despair.",
  "files": {
   "WellOfLostSouls_Readme.txt": {
    "bytes": 2655,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Repacked for Quaddicted."
- ],
  "sha256": "73fd1878cf1c6096e01402ed894e6bdc68c99e5cf1ca09f7ba8266ccfc285dc5",
  "tags": [
   "author=Miss Bubbles",

@@ -1,6 +1,5 @@
 {
  "bytes": 2059161,
- "description": "Large base-themed map in a factory setting.",
  "files": {
   "ad_tonslr.bsp": {
    "bytes": 3762756,
@@ -22,9 +21,6 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81</a> or later (NOT included) and a modern engine / source port with increased limits."
- ],
  "sha256": "3f65cf55fdec42ffee4ffe85f30b9b799997fedfa49a7b3fa9eaf215c5c0e3eb",
  "tags": [
   "author=Tonhao",

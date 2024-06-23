@@ -1,6 +1,5 @@
 {
  "bytes": 878196,
- "description": "Fifth map of the IKSPQ series and first appearance of the well-known IKbase texture set.",
  "files": {
   "IKSPQ5.BSP": {
    "bytes": 2087904,
@@ -17,10 +16,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f60aa159e22e7c0e5a1df78a73185610c84b01b9e1a91c5a90c7955e3b622466",
  "tags": [
-  "author=Iikka \"Fingers\" Keru00e4nen",
+  "author=Iikka \"Fingers\" Ker\u00e4nen",
   "filename=ikspq5.zip",
   "game=quake",
   "game_mode=singleplayer",

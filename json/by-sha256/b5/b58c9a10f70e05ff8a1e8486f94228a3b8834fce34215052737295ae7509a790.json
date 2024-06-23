@@ -1,6 +1,5 @@
 {
  "bytes": 3414593,
- "description": "Updated version of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a>, featuring bug-fixes and further gameplay tweaks. The mod source is included. This is a standalone version which does not require the previous ones.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -706,7 +705,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b58c9a10f70e05ff8a1e8486f94228a3b8834fce34215052737295ae7509a790",
  "tags": [
   "author=Lunaran",

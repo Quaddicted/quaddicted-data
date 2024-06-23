@@ -1,6 +1,5 @@
 {
  "bytes": 20679353,
- "description": "Large Egyptian-style map. Comes with a custom skybox and a music track. The map source is included.This map requires a source port with increased limits.",
  "files": {
   "woa_kayne/WoA_Kayne.txt": {
    "bytes": 3004,
@@ -87,9 +86,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "An updated version is available <a href=\"https://www.quaddicted.com/filebase/woa_kayne2.0.zip\">here</a>."
- ],
  "sha256": "45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290",
  "tags": [
   "author=Kayne",

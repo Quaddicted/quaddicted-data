@@ -1,6 +1,5 @@
 {
  "bytes": 542563,
- "description": "Medium sized Base map with an almost endless story in the text file and many poorly aligned textures.",
  "files": {
   "dstab1.bsp": {
    "bytes": 1456532,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8ec14d4f9129875fd4f91b924edd2255421b13cb892adcecc74817ddadf668c6",
  "tags": [
   "author=Nathan \"De4thst4bber\" Mills",

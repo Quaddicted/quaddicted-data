@@ -1,6 +1,5 @@
 {
  "bytes": 838558,
- "description": "Small level that combines one room from each map in Quake's first episode into a cute little summary or reminder of it.",
  "files": {
   "deja.bsp": {
    "bytes": 1838140,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9e1d2743c00730aef63884ed9e9ddbde851914ac30f87388903b7d73fd7e403c",
  "tags": [
   "author=Flavio 'GinKo' Quadros",

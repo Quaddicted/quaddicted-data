@@ -1,6 +1,5 @@
 {
  "bytes": 264448756,
- "description": "Community-based pack of 30 maps, all with the goal of remaking a multiplayer map from another game as a Quake singleplayer map. The maps use Copper (included) and are connected by a start map (also a remix, of Q3A's The Longest Yard)",
  "files": {
   "rmxjam/": {
    "bytes": 0,
@@ -1833,10 +1832,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "3e7b133a82737b006cd8fb99913076672f981222c7a3cb131d95a4aae2d6795e",
  "tags": [
   "author=Burnham",

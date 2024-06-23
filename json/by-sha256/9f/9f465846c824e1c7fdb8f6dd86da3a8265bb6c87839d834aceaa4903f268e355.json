@@ -1,6 +1,5 @@
 {
  "bytes": 961102,
- "description": "Tanks / 2 SP maps / neg!ke, Trinca",
  "files": {
   "sm138_neg!ke.bsp": {
    "bytes": 1301864,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9f465846c824e1c7fdb8f6dd86da3a8265bb6c87839d834aceaa4903f268e355",
  "tags": [
   "author=Trinca",

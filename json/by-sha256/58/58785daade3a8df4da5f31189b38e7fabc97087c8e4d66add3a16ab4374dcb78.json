@@ -1,6 +1,5 @@
 {
  "bytes": 1070799,
- "description": "Smallish mixstyle map with many long corridors, misaligned crates and an interesting glowing light effect in the main room. Comes with three demos. Map source is included.",
  "files": {
   "ThePit.bsp": {
    "bytes": 1585824,
@@ -42,7 +41,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78",
  "tags": [
   "author=Mike Biggerstaff (Miko)",

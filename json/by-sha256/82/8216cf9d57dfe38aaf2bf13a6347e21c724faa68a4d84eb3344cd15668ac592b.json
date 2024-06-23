@@ -1,6 +1,5 @@
 {
  "bytes": 569365,
- "description": "Medium-sized level, a medieval village with a waterfilled canyon. Comes with a few new textures and a medieval-style replacement for the exploding barrel.",
  "files": {
   "Pak0.pak": {
    "bytes": 17496,
@@ -33,9 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b",
  "tags": [
   "author=Steve Rescoe",

@@ -1,6 +1,5 @@
 {
  "bytes": 15270599,
- "description": "Turok-themed levels with custom textures. Comes with a music track and the map source is included.",
  "files": {
   "fv.bsp": {
    "bytes": 180420,
@@ -47,9 +46,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These map require <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>."
- ],
  "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
  "tags": [
   "author=nolcoz",

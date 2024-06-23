@@ -1,6 +1,5 @@
 {
  "bytes": 350931,
- "description": "A small brown metal floater, feels more like a DOOM map.",
  "files": {
   "Em1.bsp": {
    "bytes": 811748,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c64f0ad862de155aa9b5a9e83f57c68f9cab266875be7699b64c399c40b79816",
  "tags": [
   "author=Dave Kelvin",

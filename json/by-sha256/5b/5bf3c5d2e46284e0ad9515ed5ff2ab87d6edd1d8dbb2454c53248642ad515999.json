@@ -1,6 +1,5 @@
 {
  "bytes": 230839743,
- "description": "Large-scale single player campaign with many new levels, some of them labeled as \"test\" maps, featuring a whole line-up of new monsters and items as well as several tweaks and changes to the gameplay. Furthermore, it is meant to serve as a tool box for level designers, offering a large number of modified and new things to use in custom-made maps. Map and QC sources are included.",
  "files": {
   "ad_changelog.txt": {
    "bytes": 26802,
@@ -9742,10 +9741,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps (and likely all subsequent maps based on AD) require a source port with increased limits as well as support for BSP2 and transparent textures. Quakespasm 0.93+ is strongly recommended.",
-  "An additional bug-fix <b>patch</b> is available: <a href=\"https://www.quaddicted.com/filebase/ad_v1_70patch1.zip\">here</a>"
- ],
  "sha256": "5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999",
  "tags": [
   "author=EricW",

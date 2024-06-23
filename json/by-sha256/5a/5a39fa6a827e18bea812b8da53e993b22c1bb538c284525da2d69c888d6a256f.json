@@ -1,6 +1,5 @@
 {
  "bytes": 1121462,
- "description": "Strafing, jumping grunts. Lots of them.",
  "files": {
   "CORPORAL.QC": {
    "bytes": 92675,
@@ -36,7 +35,6 @@
   "extract": "{base}/corporal/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f",
  "tags": [
   "author=Gyro Gearloose",

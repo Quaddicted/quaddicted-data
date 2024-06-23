@@ -1,6 +1,5 @@
 {
  "bytes": 564088,
- "description": "A map built with no more than 256 brushes. Your mission is to download some data, but there are a couple of enemies who try to prevent that. Fast and frantic non-stop action.",
  "files": {
   "hulk256.bsp": {
    "bytes": 1368216,
@@ -27,9 +26,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
- ],
  "sha256": "c9776ea55f33ed4580106d7bb5ffc7ec001692c5bc114c420f30ef381e4c4c7c",
  "tags": [
   "author=ijed",

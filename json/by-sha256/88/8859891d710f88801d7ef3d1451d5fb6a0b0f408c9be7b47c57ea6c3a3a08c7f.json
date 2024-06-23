@@ -1,6 +1,5 @@
 {
  "bytes": 2567104,
- "description": "Small to medium-sized Knave-themed level. The map source and a texture wad are included.",
  "files": {
   "azathoth.bsp": {
    "bytes": 3926008,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8859891d710f88801d7ef3d1451d5fb6a0b0f408c9be7b47c57ea6c3a3a08c7f",
  "tags": [
   "author=skacky",

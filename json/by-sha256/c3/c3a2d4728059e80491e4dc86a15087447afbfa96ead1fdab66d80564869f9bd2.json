@@ -1,6 +1,5 @@
 {
  "bytes": 1060565,
- "description": "Spine map textures (A Tribute to Headshot #3) / 4 SP, 1 DM maps / CardO, Scampie, RPG, Zwiffle",
  "files": {
   "sm72_cardo.bsp": {
    "bytes": 267896,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2",
  "tags": [
   "author=CardO",

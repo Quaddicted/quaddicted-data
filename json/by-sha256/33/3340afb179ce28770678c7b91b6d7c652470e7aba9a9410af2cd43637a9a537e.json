@@ -1,6 +1,5 @@
 {
  "bytes": 5489624,
- "description": "Large base level with Half-Life-inspired style and textures.",
  "files": {
   "id1/": {
    "bytes": 0,
@@ -42,9 +41,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "3340afb179ce28770678c7b91b6d7c652470e7aba9a9410af2cd43637a9a537e",
  "tags": [
   "author=eXeler0",

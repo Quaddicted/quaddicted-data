@@ -1,6 +1,5 @@
 {
  "bytes": 100558873,
- "description": "Large, spacious, story-driven Egyptian themed map with extensive use of colored light and shadows. Contains various innovative gameplay setups and intentionally tough combat (users are advised to play one skill level lower than usual)",
  "files": {
   "starslave/": {
    "bytes": 0,
@@ -1001,9 +1000,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "f56997aa143e503e08a20b840563851075da39f583a42ae42eab9f35a9782a4f",
  "tags": [
   "author=ComfyByTheFire",

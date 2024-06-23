@@ -1,6 +1,5 @@
 {
  "bytes": 554836,
- "description": "Short, linear map in Q3 gothic textures, an enhanced version of the author's sm9 speedmap.",
  "files": {
   "xnsm2_se.bsp": {
    "bytes": 1304672,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a02ca0e21350c2ba24034e3e0a712401cb565c642543e93b2be9d94f9f2b7f13",
  "tags": [
   "author=Rich \"xen\" Thorne",

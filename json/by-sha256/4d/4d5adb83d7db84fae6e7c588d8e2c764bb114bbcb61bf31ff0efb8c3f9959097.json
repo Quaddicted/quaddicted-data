@@ -1,6 +1,5 @@
 {
  "bytes": 2795539,
- "description": "A small classic-style medieval castle map. The author's first release.",
  "files": {
   "castle100.bsp": {
    "bytes": 690384,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Custom music is included, but unfortunately it is packaged in the wrong folder relative to the map files and requires manually moving files to the correct place after unzipping. Thus, the custom music won't work if installed via Quake Injector."
- ],
  "sha256": "4d5adb83d7db84fae6e7c588d8e2c764bb114bbcb61bf31ff0efb8c3f9959097",
  "tags": [
   "author=sodalimonada176",

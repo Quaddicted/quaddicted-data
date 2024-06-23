@@ -1,6 +1,5 @@
 {
  "bytes": 572317,
- "description": "Small, dark, Speedbase-themed map.",
  "files": {
   "matsp1.bsp": {
    "bytes": 1701704,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fe0be1d7571a61253e17c417e2f8dca9885797ba287caf6275313f646f588807",
  "tags": [
   "author=Mateusz 'MaTi' Piaskiewicz",

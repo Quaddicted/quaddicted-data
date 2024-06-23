@@ -1,6 +1,5 @@
 {
  "bytes": 258172,
- "description": "Small deathmatch level with a few monsters thrown in but no exit. It is based on the main office for Magnet Interactive Studios.",
  "files": {
   "magnet.bsp": {
    "bytes": 609296,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "50eede7ae726346ef7790dd754be138e0ef5e8b5729a6214d371cb742ef0a409",
  "tags": [
   "author=Andy House",

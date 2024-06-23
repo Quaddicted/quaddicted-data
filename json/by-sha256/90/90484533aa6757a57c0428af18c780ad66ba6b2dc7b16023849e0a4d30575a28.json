@@ -1,6 +1,5 @@
 {
  "bytes": 5480558,
- "description": "Two industrial/slime-themed maps with custom textures and horde-based combat: a large factory in a canyon and a small oil rig on an ocean of slime.",
  "files": {
   "sludge factory.txt": {
    "bytes": 1150,
@@ -22,9 +21,6 @@
   "extract": "{base}/drake/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require the <a href=\"http://quaddicted.com/filebase/drake290111.zip\">Drake</a> mod and an engine port with increased limits."
- ],
  "sha256": "90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

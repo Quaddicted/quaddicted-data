@@ -1,6 +1,5 @@
 {
  "bytes": 3031142,
- "description": "Mini-episode with four small to medium Wizard-style maps and a start map.",
  "files": {
   "Maelstrm/Maelstrm.txt": {
    "bytes": 2282,
@@ -75,9 +74,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "In the third map, some teleporters may be malfunctioning in newer engines, leaving player/monsters stuck in the ceiling. Use noclip/fullbright temporarily to be able to proceed in these situations."
- ],
  "sha256": "9dacf0389b907eef8d0b388ce9ad07719d4926c21f4687ae70e0ebda0b493979",
  "tags": [
   "author=Stephen Parker",

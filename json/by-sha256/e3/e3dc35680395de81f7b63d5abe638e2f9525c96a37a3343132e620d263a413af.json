@@ -1,6 +1,5 @@
 {
  "bytes": 6310625,
- "description": "Mini SP campaign consisting of three medium sized outdoor levels (+ start map) in Wizard/ Canyon/ Egyptian style. Uses custents and has a few new monsters like improved Grunts/ Ogres and Mechs. The maps are only playable in DOS/ Winquake or a high-limit engine. For regular GL engines, download the fixed version instead: <a href=\"96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c\">sop_v2</a>.",
  "files": {
   "sop/Config.cfg": {
    "bytes": 2159,
@@ -325,9 +324,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af",
  "tags": [
   "author=Graham Davis (OrbItaL)",

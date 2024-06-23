@@ -1,6 +1,5 @@
 {
  "bytes": 1153541,
- "description": "Medium-sized brick/metal dungeon.",
  "files": {
   "tdl.bsp": {
    "bytes": 2309968,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d",
  "tags": [
   "author=Trinca",

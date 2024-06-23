@@ -1,6 +1,5 @@
 {
  "bytes": 1633090,
- "description": "Small base map with modified monsters, custom level mechanics and a few new sound effects.",
  "files": {
   "ZOOM9/": {
    "bytes": 0,
@@ -156,7 +155,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0",
  "tags": [
   "author=Andrew Aksenov",

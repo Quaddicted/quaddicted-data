@@ -1,6 +1,5 @@
 {
  "bytes": 863956,
- "description": "Small to medium sized Base level.",
  "files": {
   "endtime.bsp": {
    "bytes": 2012056,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "af9befb9abaf3b324067ba51edd7e69d375df95b7a619092aeed3d1bc154bfa3",
  "tags": [
   "author=marty",

@@ -1,6 +1,5 @@
 {
  "bytes": 12840666,
- "description": "Large challenging dark industrial runic map with 16 secrets and custom sounds.",
  "files": {
   "ad_blasphemy.txt": {
    "bytes": 3573,
@@ -192,9 +191,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.81</a> and a modern engine / source port with increased limits and BSP2 support."
- ],
  "sha256": "913a5e2ec718f668e1b39985e64a5bf9abf3a5ed1a81b39b1e92c75bd4438442",
  "tags": [
   "author=Zothique",

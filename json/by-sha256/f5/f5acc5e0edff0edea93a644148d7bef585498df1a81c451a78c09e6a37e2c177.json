@@ -1,6 +1,5 @@
 {
  "bytes": 997135,
- "description": "Unthemed / 5 SP maps / Aardappel, Apollo, Cybear, Damaul, Misyu",
  "files": {
   "sm10_aard.bsp": {
    "bytes": 1000248,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177",
  "tags": [
   "author=Aardappel",

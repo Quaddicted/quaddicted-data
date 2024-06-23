@@ -1,6 +1,5 @@
 {
  "bytes": 763927,
- "description": "Small mine level with slightly confusing progression and some kind of future amazon enemy with a rocketlauncher.",
  "files": {
   "M&M/mines.txt": {
    "bytes": 6531,
@@ -87,7 +86,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "tags": [
   "author=Ed Cope",

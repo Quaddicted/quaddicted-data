@@ -1,6 +1,5 @@
 {
  "bytes": 728691,
- "description": "Medium sized Medieval castle with some blue and gray brick bits.",
  "files": {
   "CASTLE.BSP": {
    "bytes": 1664004,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2",
  "tags": [
   "author=Juha Koiste",

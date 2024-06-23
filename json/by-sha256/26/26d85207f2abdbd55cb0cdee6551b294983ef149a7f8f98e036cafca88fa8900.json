@@ -1,6 +1,5 @@
 {
  "bytes": 8162140,
- "description": "Large level with a medieval castle, a base excarvation site leading to an otherworldly pyramid, and a tentacle monster exit. The map source is included.This map requires a source port with increased limits + BSP2 support. It is unvised, so perfomance may suffer on slower machines.",
  "files": {
   "metzman_roots.bsp": {
    "bytes": 19864224,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "26d85207f2abdbd55cb0cdee6551b294983ef149a7f8f98e036cafca88fa8900",
  "tags": [
   "author=MetzMan",

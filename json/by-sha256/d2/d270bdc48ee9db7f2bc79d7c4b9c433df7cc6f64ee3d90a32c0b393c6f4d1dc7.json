@@ -1,6 +1,5 @@
 {
  "bytes": 53878595,
- "description": "Sixth \"retro\" map jam - featuring 17 small to medium-sized Egyptian-themed levels by various authors. It comes with custom visuals for the items, several skyboxes, and the map sources are included.",
  "files": {
   "retrojam6/": {
    "bytes": 0,
@@ -667,7 +666,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d270bdc48ee9db7f2bc79d7c4b9c433df7cc6f64ee3d90a32c0b393c6f4d1dc7",
  "tags": [
   "author=Bloodshot",

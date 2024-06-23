@@ -1,6 +1,5 @@
 {
  "bytes": 11110128,
- "description": "Small / medium sized runic themed map, with custom music (\"Ghosts In My Head\" from Quake 64). An update of <a href=\"d1a54b7e529a65955605c88976d58ff1021d9cc61f331b7eb06b800a196fec30\">What Lies Behind v1.0</a>, first released three years before. Map source is included.",
  "files": {
   "Unfinished sketch.jpg": {
    "bytes": 145037,
@@ -62,9 +61,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a modern engine / source port with increased limits."
- ],
  "sha256": "7e257b1180c6945a9a770fbafba3003d5ac7c4713cbb7327ff950018f8458bdc",
  "tags": [
   "author=iYago",

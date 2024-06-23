@@ -1,6 +1,5 @@
 {
  "bytes": 24294384,
- "description": "Medium-sized medieval castle map. Map source and custom skybox is included. Custom music is included too, but the map hasn't been configured to use it.",
  "files": {
   "Castle Attack 1.png": {
    "bytes": 493802,
@@ -92,7 +91,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "bb6dae8f46c914521278cf5695166e07140722fa4e5c5aba723805c384e8419c",
  "tags": [
   "author=Paul Keefner",

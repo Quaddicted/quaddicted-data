@@ -1,6 +1,5 @@
 {
  "bytes": 164655,
- "description": "Very small, plain and dark base map.",
  "files": {
   "Flyer.txt": {
    "bytes": 431,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f7b04a2d514289dd0a60fb05eead02b2196541b9b5199f98d6d51a84cc9b0041",
  "tags": [
   "author=Phil Hammond",

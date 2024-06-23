@@ -1,6 +1,5 @@
 {
  "bytes": 17188369,
- "description": "Mod featuring many new and modified monsters, weapons and other map features, created over the course of many years, primarily for use in releases by <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3DTronyn%22%5D\">Tronyn</a> but used in various other maps too.",
  "files": {
   "pak0.pak": {
    "bytes": 23815404,
@@ -2993,10 +2992,6 @@
   "extract": "{base}/drake/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Previously only available in the Quaddicted filebase, but added to the main archive during the 2024 rebuild for dependency purposes.",
-  "A newer version is available <a href=\"76ec31782bf5c8cf9a372c59bfd20b5e38f7d76c94aa1190078cfb72ecb41cd3\">here</a>."
- ],
  "sha256": "5f96f0649ccd114708566f3710357cb56e0ae0b060b2f19aade60cd8f26052a4",
  "tags": [
   "author=Patrick Martin",

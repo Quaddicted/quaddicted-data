@@ -1,6 +1,5 @@
 {
  "bytes": 538533,
- "description": "Small to medium very dark Wizard map.",
  "files": {
   "MEXX3.BSP": {
    "bytes": 1306936,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fe9f7a8fa5da2c1f6b61754ade7cf4c6edbf4f50612ced9f2d8b1e2108ba0b1f",
  "tags": [
   "author=Marcus Dromowicz",

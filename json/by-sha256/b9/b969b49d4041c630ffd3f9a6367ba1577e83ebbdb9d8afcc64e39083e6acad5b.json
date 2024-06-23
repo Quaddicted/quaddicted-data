@@ -1,6 +1,5 @@
 {
  "bytes": 849314,
- "description": "Medium sized Base/mine map with a Medieval temple area.",
  "files": {
   "coopmine.bsp": {
    "bytes": 2048928,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b969b49d4041c630ffd3f9a6367ba1577e83ebbdb9d8afcc64e39083e6acad5b",
  "tags": [
   "author=Tom Cleghorn aka Murgatroyd",

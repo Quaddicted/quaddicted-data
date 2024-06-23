@@ -1,6 +1,5 @@
 {
  "bytes": 32347755,
- "description": "Episode of 8 medium-to-large maps in varying styles, featuring mostly classic textures but with a modern twist. A lot of focus is put into combat design, with many ambushes and elaborate fight setups.",
  "files": {
   "tainted/copper_v1_20.txt": {
    "bytes": 95723,
@@ -865,9 +864,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "aff4eab971e06a5f6800e277d72bdbfec36e3ba40c08fedba2dffb5161e9b0a8",
  "tags": [
   "author=DragonsForLunch",

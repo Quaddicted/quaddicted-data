@@ -1,6 +1,5 @@
 {
  "bytes": 2999046,
- "description": "Medium-sized dark runic metal/base style biomatter processing facility.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -62,9 +61,6 @@
   "extract": "{base}/travail/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "A sort of prequel to the <a href=\"c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076\">Travail</a> missionpack (which is required to play)."
- ],
  "sha256": "49c2c0b9c13b8ffad7581414cfadd033c5d7591e14ce206c6163b5bb12114ea6",
  "tags": [
   "author=distrans",

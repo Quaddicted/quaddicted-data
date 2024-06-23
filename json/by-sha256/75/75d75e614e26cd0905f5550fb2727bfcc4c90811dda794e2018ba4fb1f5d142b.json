@@ -1,6 +1,5 @@
 {
  "bytes": 11187044,
- "description": "SM207: 13 SP maps inspired by <a href=\"924c448bc11feba82775f4a5d28d4d4d750a13b7710970f1af761f88e4b44f0c\">Ceremonial Circles</a>. Some map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -197,9 +196,6 @@
   "extract": "{base}/sm207/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "quasiotter's map requires a source port with increased limits."
- ],
  "sha256": "75d75e614e26cd0905f5550fb2727bfcc4c90811dda794e2018ba4fb1f5d142b",
  "tags": [
   "author=4LT",

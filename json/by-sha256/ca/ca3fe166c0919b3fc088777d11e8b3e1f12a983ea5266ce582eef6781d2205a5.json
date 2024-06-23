@@ -1,6 +1,5 @@
 {
  "bytes": 839641,
- "description": "Medium sized lava cave temple level in a classic id1 style for vanilla Quake. An update of <a href=\"a7df6aa2f625359285e839a0d273244a340b9d5925ae52133890df7852cde2a4\">Citadel of Fire (2020)</a>. Map source is included.",
  "files": {
   "rgfire.bsp": {
    "bytes": 1661016,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ca3fe166c0919b3fc088777d11e8b3e1f12a983ea5266ce582eef6781d2205a5",
  "tags": [
   "author=Daniel Remar",

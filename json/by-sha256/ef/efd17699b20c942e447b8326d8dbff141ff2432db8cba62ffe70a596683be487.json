@@ -1,6 +1,5 @@
 {
  "bytes": 704880,
- "description": "Small map inspired by some memorable areas in the first episode.",
  "files": {
   "CIVIL.BSP": {
    "bytes": 1641984,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487",
  "tags": [
   "author=Pete Jones",

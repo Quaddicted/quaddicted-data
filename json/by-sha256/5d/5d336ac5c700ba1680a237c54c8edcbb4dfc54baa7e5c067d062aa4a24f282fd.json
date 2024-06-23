@@ -1,6 +1,5 @@
 {
  "bytes": 585828,
- "description": "Well-polished Idbase map.",
  "files": {
   "IMP1SP1.bsp": {
    "bytes": 1530444,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd",
  "tags": [
   "author=Biff Debris",

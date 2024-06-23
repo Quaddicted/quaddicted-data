@@ -1,6 +1,5 @@
 {
  "bytes": 685775,
- "description": "Small Base map, around id quality.",
  "files": {
   "alpha001.bsp": {
    "bytes": 1583020,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "f93e6915f8f42c36a895f4b290b57a0fb80392d75e99153009c71ea11358c2f4",
  "tags": [
   "author=Jeff Popplewell",

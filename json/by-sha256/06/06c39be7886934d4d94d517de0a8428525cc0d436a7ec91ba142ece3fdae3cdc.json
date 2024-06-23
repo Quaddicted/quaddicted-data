@@ -1,6 +1,5 @@
 {
  "bytes": 194230021,
- "description": "JJJ2 is a map jam pack made of 15 acrobatic maps, built with base-themed Alkaline mod kit (included in download) which adds a \"jump boots\" powerup for mid-air jumps. Includes start map, built-in difficulty select, YouTube-safe custom soundtrack, and map source. Some of the maps are quite difficult. Expect floating platforms, bottomless pits, and void maps.",
  "files": {
   "jjj2/": {
    "bytes": 0,
@@ -2921,14 +2920,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This mod requires a source port with increased limits.",
-  "See also: <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline 1.1</a>, <a href=\"181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab\">January Jump Jam 2020</a>"
- ],
  "sha256": "06c39be7886934d4d94d517de0a8428525cc0d436a7ec91ba142ece3fdae3cdc",
  "tags": [
   "author=DragonsForLunch",
-  "author=Eduardo Su00e1nchez Barrios",
+  "author=Eduardo S\u00e1nchez Barrios",
   "author=GW_X9",
   "author=Greenwood",
   "author=Ish",

@@ -1,6 +1,5 @@
 {
  "bytes": 11684094,
- "description": "Medium to large, semi-linear level with a dungeon ruin and a surprise reveal. Includes some custom audio and music. Map source is also included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -97,9 +96,6 @@
   "extract": "{base}/copper/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper</a> and a source port with increased limits."
- ],
  "sha256": "e2084b9acd3ad249a5d6c0eca9d18443a3ef2dd9daed072a242dbc50b0de9eb7",
  "tags": [
   "author=Suzanne 'Trashbang' Will",

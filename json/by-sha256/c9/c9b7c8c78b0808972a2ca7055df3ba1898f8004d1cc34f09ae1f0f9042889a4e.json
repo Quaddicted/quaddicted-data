@@ -1,6 +1,5 @@
 {
  "bytes": 2476666,
- "description": "Episode consisting of five classic deathmatch maps converted for single player (with speedrunning in mind): <br><br> dmc2m1 : Deadalus Revisited (imp1dm6) by Biff Debris<br> dmc2m2 : Slipstream         (slip)    by Inertia<br> dmc2m3 : Black Rain         (evdm1)   by Evan Wagner<br> dmc2m4 : The Killing Jar    (kdmj)    by Kell<br> dmc2m5 : Void Runner        (kdmv)    by Kell<br>",
  "files": {
   "dmc2.txt": {
    "bytes": 1572,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c9b7c8c78b0808972a2ca7055df3ba1898f8004d1cc34f09ae1f0f9042889a4e",
  "tags": [
   "author=Connor Fitzgerald feat. Biff Debris",

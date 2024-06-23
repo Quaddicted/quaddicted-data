@@ -1,6 +1,5 @@
 {
  "bytes": 1793848,
- "description": "Small void map with a focus on exploration.",
  "files": {
   "ad_muksp2.bsp": {
    "bytes": 5267776,
@@ -22,9 +21,6 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>."
- ],
  "sha256": "70ecb1f8167d713da0465dab724ffe5f0d2309b9a4222f7a72e0db17549e52e6",
  "tags": [
   "author=mukor",

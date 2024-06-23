@@ -1,6 +1,5 @@
 {
  "bytes": 663254,
- "description": "Medium sized boxy map with mixed texture themes.",
  "files": {
   "BUTCHER.BSP": {
    "bytes": 1486152,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0",
  "tags": [
   "author=Chris Williams",

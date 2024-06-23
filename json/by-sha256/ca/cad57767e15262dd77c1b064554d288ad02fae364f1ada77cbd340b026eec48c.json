@@ -1,6 +1,5 @@
 {
  "bytes": 280766,
- "description": "Small metal/runic castle. The map source is included.",
  "files": {
   "crunixpu.bsp": {
    "bytes": 486000,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cad57767e15262dd77c1b064554d288ad02fae364f1ada77cbd340b026eec48c",
  "tags": [
   "author=c0j",

@@ -1,6 +1,5 @@
 {
  "bytes": 4339740,
- "description": "Medium-sized metal/runic dungeon; uses a few custom textures.",
  "files": {
   "Read_Me.txt": {
    "bytes": 1447,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0f938637296216dc52443aceb049959b37622e698fa9bb7b10af9b46efc261bc",
  "tags": [
   "author=Greenwood",

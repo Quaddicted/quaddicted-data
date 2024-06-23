@@ -1,6 +1,5 @@
 {
  "bytes": 931228,
- "description": "Starting outdoors in a metal theme, it goes into an zombie-infested underwater castle, and finishes in a lava/brick environment.",
  "files": {
   "burns.bsp": {
    "bytes": 2226504,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "036785fd68a5d65c78635a37dae2d12c3abae86493ba72cd13897f46b641dfca",
  "tags": [
   "author=Sid",

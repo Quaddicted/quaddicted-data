@@ -1,6 +1,5 @@
 {
  "bytes": 54979927,
- "description": "Pack featuring four Film Noir / black&amp;white-themed levels as well as a start map and comes bundled with <a href=\"ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6\">Arcane Dimensions</a> enemies. The map sources are included.",
  "files": {
   "jam8/": {
    "bytes": 0,
@@ -6397,10 +6396,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require a source port with increased limits.",
-  "Rezipped for Quaddicted."
- ],
  "sha256": "923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee",
  "tags": [
   "author=NewHouse",

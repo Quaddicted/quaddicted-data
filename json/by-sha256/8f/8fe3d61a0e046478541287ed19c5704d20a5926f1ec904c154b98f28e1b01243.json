@@ -1,6 +1,5 @@
 {
  "bytes": 3757635,
- "description": "Small idbase level set in a miliary base/hangar. It features three distinct route choices: normal combat, permanent quad damage, and slime maze, and is supposed to be the first map of an episode focusing on these route mechanics. It comes with a few custom models, and the map source is included.",
  "files": {
   "sthangar/": {
    "bytes": 0,
@@ -281,9 +280,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "8fe3d61a0e046478541287ed19c5704d20a5926f1ec904c154b98f28e1b01243",
  "tags": [
   "author=Esrael",

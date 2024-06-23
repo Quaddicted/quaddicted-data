@@ -1,6 +1,5 @@
 {
  "bytes": 70559758,
- "description": "Christmas themed map set amongst a snowy forest, complete with christmas lights, trees, Aurora Borealis and numerous wintery cottages. Contains a custom titular boss. Built on progs_dump (included).",
  "files": {
   "grinch/": {
    "bytes": 0,
@@ -1702,9 +1701,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "19f0a4886d4ec681e546628f2a75013dc545ad1ac2d48665aa4d09450c603af0",
  "tags": [
   "author=Shadesmaster",

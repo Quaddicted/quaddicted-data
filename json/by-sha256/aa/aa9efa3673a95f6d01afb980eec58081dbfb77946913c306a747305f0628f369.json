@@ -1,6 +1,5 @@
 {
  "bytes": 10297733,
- "description": "Large medieval castle in an underground cave with DKTe3 textures, a couple of new monsters and (optional) background music.",
  "files": {
   "FMB_bdg/": {
    "bytes": 0,
@@ -657,7 +656,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369",
  "tags": [
   "author=Mike Woodham",

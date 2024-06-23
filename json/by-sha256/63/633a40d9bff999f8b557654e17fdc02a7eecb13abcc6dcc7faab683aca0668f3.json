@@ -1,6 +1,5 @@
 {
  "bytes": 288125,
- "description": "Small base map with many unaligned textures.",
  "files": {
   "COPE.BSP": {
    "bytes": 668828,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "633a40d9bff999f8b557654e17fdc02a7eecb13abcc6dcc7faab683aca0668f3",
  "tags": [
   "author=Ed Cope",

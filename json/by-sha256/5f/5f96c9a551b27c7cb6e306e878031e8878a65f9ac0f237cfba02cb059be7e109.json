@@ -1,6 +1,5 @@
 {
  "bytes": 664007,
- "description": "Smallish mix-of-textures map. A demo and the map source are included.",
  "files": {
   "MISERY.BSP": {
    "bytes": 1110980,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5f96c9a551b27c7cb6e306e878031e8878a65f9ac0f237cfba02cb059be7e109",
  "tags": [
   "author=Marc Roussel",

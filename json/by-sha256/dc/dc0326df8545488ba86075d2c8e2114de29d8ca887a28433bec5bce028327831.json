@@ -1,6 +1,5 @@
 {
  "bytes": 633568,
- "description": "Medium sized, interconnected canal/water complex with a small medieval temple.",
  "files": {
   "CANAL3.BSP": {
    "bytes": 1386088,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831",
  "tags": [
   "author=Michael Cullum",

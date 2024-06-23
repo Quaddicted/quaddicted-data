@@ -1,6 +1,5 @@
 {
  "bytes": 12262226,
- "description": "Large underground castle / medieval sewer map in the style of Honey. Custom music is \"Only Child\" by Julia Kent (track 22).",
  "files": {
   "ad/": {
    "bytes": 0,
@@ -42,11 +41,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> (NOT included).",
-  "Load manually via console: \"game ad; map warden\"",
-  "Note: a modern engine with increased limits is recommended. Tested on Ironwail and vkQuake."
- ],
  "sha256": "88b5a8425360dbef4e16151d17a80771b868792d83bdf51598aee1f7d7af22da",
  "tags": [
   "author=spootnik",

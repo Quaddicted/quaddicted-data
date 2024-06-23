@@ -1,6 +1,5 @@
 {
  "bytes": 738784,
- "description": "Medium sized Wizard level.",
  "files": {
   "Edom.bsp": {
    "bytes": 1644012,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc",
  "tags": [
   "author=J.F.Gustafsson",

@@ -1,6 +1,5 @@
 {
  "bytes": 2102818,
- "description": "Mini-episode - a large brick building spanning across several maps which the player travels up and down through. Mostly plain brick/mixed texture style with a somewhat maze-like layout.",
  "files": {
   "002.bsp": {
    "bytes": 695440,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "42d0cd0512756eff796c07add8fc8cf8bfaf6116eec17a8c0ce968afd3ed2c55",
  "tags": [
   "author=Repus",

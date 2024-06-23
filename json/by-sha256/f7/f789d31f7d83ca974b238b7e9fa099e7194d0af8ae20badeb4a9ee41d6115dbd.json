@@ -1,6 +1,5 @@
 {
  "bytes": 596902,
- "description": "Wizmetal map.",
  "files": {
   "pumpstat.bsp": {
    "bytes": 1412544,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f789d31f7d83ca974b238b7e9fa099e7194d0af8ae20badeb4a9ee41d6115dbd",
  "tags": [
   "author=Fraggler.Heat",

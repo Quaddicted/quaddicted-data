@@ -1,6 +1,5 @@
 {
  "bytes": 366865,
- "description": "Small Base? map with custom textures.",
  "files": {
   "noturn.bsp": {
    "bytes": 808048,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "bbab99a3e4af05e96f47f6a8a124abf99de724d916d1a0e5c0385febb8e65379",
  "tags": [
   "author=Geoffrey Overdorff",

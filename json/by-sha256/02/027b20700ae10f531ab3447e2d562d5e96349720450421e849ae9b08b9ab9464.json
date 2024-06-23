@@ -1,6 +1,5 @@
 {
  "bytes": 1192965,
- "description": "Large Egyptian-themed night-time map, split into three parts.",
  "files": {
   "DAZSP2.bsp": {
    "bytes": 1195276,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "027b20700ae10f531ab3447e2d562d5e96349720450421e849ae9b08b9ab9464",
  "tags": [
   "author=DaZ",

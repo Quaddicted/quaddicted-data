@@ -1,6 +1,5 @@
 {
  "bytes": 466765,
- "description": "Small cramped metal map.",
  "files": {
   "chessp1.bsp": {
    "bytes": 1063692,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "70e87024e43b7c187bb80f5242656d5645301f87a21d925e6fd8cc794e81e7fa",
  "tags": [
   "author=cheshire",

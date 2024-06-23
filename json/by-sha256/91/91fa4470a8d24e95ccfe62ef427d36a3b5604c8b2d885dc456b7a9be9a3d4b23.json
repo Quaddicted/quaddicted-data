@@ -1,6 +1,5 @@
 {
  "bytes": 745333,
- "description": "Smallish basic looking Basemetal map featuring somewhat interesting rotation puzzles.",
  "files": {
   "bioforge.bsp": {
    "bytes": 1816444,
@@ -17,9 +16,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires Scourge of Armagon."
- ],
  "sha256": "91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23",
  "tags": [
   "author=Cullen Wheeler",

@@ -1,6 +1,5 @@
 {
  "bytes": 16049839,
- "description": "9 SP maps using not more than six textures. A music track and the map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -172,9 +171,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps probably require a source port with increased limits."
- ],
  "sha256": "a00b23175cbafdd6cdf3672bfa62271eb6c4b58337a47c08d5e12854d44b224d",
  "tags": [
   "author=Artistical",

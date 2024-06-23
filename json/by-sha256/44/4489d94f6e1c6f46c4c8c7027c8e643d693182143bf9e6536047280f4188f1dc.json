@@ -1,6 +1,5 @@
 {
  "bytes": 2138141,
- "description": "Results of the second Quake Turtlemap event: 4 small to medium SP maps and one DM map in varying themes - all made in one week or less.",
  "files": {
   "q1tm2README.txt": {
    "bytes": 1168,
@@ -62,7 +61,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc",
  "tags": [
   "author=Hrimfaxi",

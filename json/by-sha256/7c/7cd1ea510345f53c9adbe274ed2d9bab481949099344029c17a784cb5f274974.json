@@ -1,6 +1,5 @@
 {
  "bytes": 1796473,
- "description": "Episode 2 (The 4 Seasons of Quake #2) / 9 SP maps / CZG, Hrimfaxi, Leviathan, Moz, Pulsar, RPG, Scampie, Xenon",
  "files": {
   "SM56_PuLSaR.bsp": {
    "bytes": 457532,
@@ -62,7 +61,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974",
  "tags": [
   "author=CZG",

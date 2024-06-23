@@ -1,6 +1,5 @@
 {
  "bytes": 1810593,
- "description": "Medium sized, somewhat nonlinear map using Knave textures.",
  "files": {
   "chapter_necros2.bsp": {
    "bytes": 4414784,
@@ -17,7 +16,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d253d26473a1eee1bad15e31c80f953222b5de9b5d563c0165a77f159f564e0d",
  "tags": [
   "author=necros",

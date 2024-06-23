@@ -1,6 +1,5 @@
 {
  "bytes": 1909364,
- "description": "Large stone map with many custom textures, several new monsters such as agents and cyborgs (?), a few new weapons, and some custom progs like rotation and cutscences. All text messages are in Spanish.",
  "files": {
   "Pak0.pak": {
    "bytes": 4068093,
@@ -287,7 +286,6 @@
   "extract": "{base}/ruliano/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8",
  "tags": [
   "author=Rodrigo HernandeZ B.",

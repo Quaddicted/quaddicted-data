@@ -1,6 +1,5 @@
 {
  "bytes": 653578,
- "description": "Small detailed Base map with a lava cavern bit.",
  "files": {
   "prey2.bsp": {
    "bytes": 1451204,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc",
  "tags": [
   "author=marty",

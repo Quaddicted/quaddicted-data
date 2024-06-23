@@ -1,6 +1,5 @@
 {
  "bytes": 46532344,
- "description": "Three-map mini-episode with a small base level, a medium-sized nonlinear wizard-style map, and a large homage to E4M4- The Palace of Hate. It comes with custom music tracks. The map sources are incuded.",
  "files": {
   "cimmerian/cimmerian_readme.txt": {
    "bytes": 1614,
@@ -72,9 +71,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "The third map requires a source port with increased limits."
- ],
  "sha256": "e0a66606d653af0b133edb69384a7b6c4ce7b2a2c9af261460fb8f09734f70e8",
  "tags": [
   "author=Sonnenblume",

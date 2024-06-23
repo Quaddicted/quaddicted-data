@@ -1,6 +1,5 @@
 {
  "bytes": 907878,
- "description": "Medium sized clean Base map hosting a genetic experiments facility.",
  "files": {
   "harmsway.bsp": {
    "bytes": 2136848,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b",
  "tags": [
   "author=Brian Morgan (Duley)",

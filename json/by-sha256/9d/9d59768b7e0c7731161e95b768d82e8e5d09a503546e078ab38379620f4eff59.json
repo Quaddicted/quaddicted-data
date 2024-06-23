@@ -1,6 +1,5 @@
 {
  "bytes": 2185467,
- "description": "Dreamscape / 4 SP maps / negke, rudl, TextFish, Zwiffle",
  "files": {
   "smqe08a_negke.bsp": {
    "bytes": 260888,
@@ -89,7 +88,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9d59768b7e0c7731161e95b768d82e8e5d09a503546e078ab38379620f4eff59",
  "tags": [
   "author=TextFish",

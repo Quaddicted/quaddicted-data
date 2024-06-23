@@ -1,6 +1,5 @@
 {
  "bytes": 255952,
- "description": "Medium sized Medievalish map meant to be played with Bubbah's Snakeman mod.",
  "files": {
   "SNAKEPIT.BSP": {
    "bytes": 538296,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "35a7ee9897d4f28d8ad1be89d54ae82904eb88598b0733c47c8528268226094c",
  "tags": [
   "author=Tan Sian Yue (aka. BUBBAH)",

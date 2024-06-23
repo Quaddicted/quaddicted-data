@@ -1,6 +1,5 @@
 {
  "bytes": 1539247,
- "description": "A mini-episode consisting of three small urban realism-style maps, with some emphasis on exploration.",
  "files": {
   "C2000.txt": {
    "bytes": 3753,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846",
  "tags": [
   "author=Perro Seco",

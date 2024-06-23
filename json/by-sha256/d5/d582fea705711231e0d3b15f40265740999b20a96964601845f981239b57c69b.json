@@ -1,6 +1,5 @@
 {
  "bytes": 1614973,
- "description": "Small, dark vault level with tight corridors and custom textures.",
  "files": {
   "nar_vault.bsp": {
    "bytes": 3161092,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d582fea705711231e0d3b15f40265740999b20a96964601845f981239b57c69b",
  "tags": [
   "author=nadzia (narnar)",

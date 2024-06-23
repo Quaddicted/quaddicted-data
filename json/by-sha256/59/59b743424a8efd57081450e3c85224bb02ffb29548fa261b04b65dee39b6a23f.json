@@ -1,6 +1,5 @@
 {
  "bytes": 4572549,
- "description": "Medium sized blue runic / metal themed map remix based on <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">rd1m2 from Runner's Delight</a>, built on Progs Dump 3 (already included). Map source is included.",
  "files": {
   "rd1m2rmx/": {
    "bytes": 0,
@@ -712,10 +711,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There's no custom start map, so load the level manually via console: \"map rd1m2rmx\"",
-  "May require a modern engine / source port with increased limits."
- ],
  "sha256": "59b743424a8efd57081450e3c85224bb02ffb29548fa261b04b65dee39b6a23f",
  "tags": [
   "author=Justin Fleck",

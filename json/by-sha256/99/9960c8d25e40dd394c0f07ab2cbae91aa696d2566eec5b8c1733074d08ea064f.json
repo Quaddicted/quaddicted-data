@@ -1,6 +1,5 @@
 {
  "bytes": 495012,
- "description": "Small Metal level.",
  "files": {
   "HAYDUKE1.BSP": {
    "bytes": 1168948,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There is no gold key, the intended way over the GK bars is a rocket jump."
- ],
  "sha256": "9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f",
  "tags": [
   "author=Malcolm Sailor (aka hayduke)",

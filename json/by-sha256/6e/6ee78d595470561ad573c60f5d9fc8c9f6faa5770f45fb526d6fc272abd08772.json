@@ -1,6 +1,5 @@
 {
  "bytes": 1064943,
- "description": "Large idbase map with a derelict underground part and two outdoor areas.",
  "files": {
   "czg01.bsp": {
    "bytes": 2494384,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6ee78d595470561ad573c60f5d9fc8c9f6faa5770f45fb526d6fc272abd08772",
  "tags": [
   "author=czg",

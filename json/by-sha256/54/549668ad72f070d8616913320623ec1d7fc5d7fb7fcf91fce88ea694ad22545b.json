@@ -1,6 +1,5 @@
 {
  "bytes": 4585258,
- "description": "Medieval and base-themed episode with four medium-sized maps as well as a start-map and a small secret level. Quite hard and challenging at times.",
  "files": {
   "P_se.txt.txt": {
    "bytes": 9369,
@@ -51,7 +50,6 @@
   "extract": "{base}/pse/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "tags": [
   "author=Dario Casali",

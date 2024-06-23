@@ -1,6 +1,5 @@
 {
  "bytes": 1211578,
- "description": "Large maze-like base map.",
  "files": {
   "pak0.pak": {
    "bytes": 3056185,
@@ -43,7 +42,6 @@
   "extract": "{base}/level5/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
  "tags": [
   "author=Kevin Rogers",

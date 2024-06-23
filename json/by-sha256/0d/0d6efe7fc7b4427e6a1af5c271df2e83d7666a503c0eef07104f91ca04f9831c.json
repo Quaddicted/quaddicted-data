@@ -1,6 +1,5 @@
 {
  "bytes": 447400,
- "description": "A deathmatch map with some monsters thrown in.",
  "files": {
   "CARGOSHP.BSP": {
    "bytes": 1056524,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c",
  "tags": [
   "author=Benjamin \"The Harb!ngeR of Fish\" Martyn Skinner",

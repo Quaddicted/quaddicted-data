@@ -1,6 +1,5 @@
 {
  "bytes": 44962273,
- "description": "Nine (9) speedmaps made in less than three days, all themed around towers and verticality. Built on Speed Mapping Progs v2021.11 (already included). Organized by zigi. QuakeC source code, some map source, and custom music is included.",
  "files": {
   "sm222/": {
    "bytes": 0,
@@ -462,10 +461,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There's no custom start map, so load maps manually in console (all map names prefixed with \"sm222_\").",
-  "May require a modern engine / source port with increased limits."
- ],
  "sha256": "c09ebe9e426e033a654fa622a47228d01788c0c4544e5029b4a2c65b9ce69368",
  "tags": [
   "author=Aesopolis",

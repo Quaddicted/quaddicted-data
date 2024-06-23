@@ -1,6 +1,5 @@
 {
  "bytes": 266108,
- "description": "Small map using Dhell2 textures. Made for one of Aardappel's 100 Brush contests.",
  "files": {
   "czg100b.bsp": {
    "bytes": 764833,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8605288ca6a48f6a56f42dfce57bf254e72dbf4a7db4bdfe87734e5160a506e7",
  "tags": [
   "author=czg",

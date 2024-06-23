@@ -1,6 +1,5 @@
 {
  "bytes": 359925,
- "description": "Medium-sized plain Metal level with base monsters. Lots of ammo there, but no weapons.",
  "files": {
   "garrison.bsp": {
    "bytes": 902660,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9881316552c43180463bd14468b3df21e6c31b8f257aee9e2d5c57c045f607b3",
  "tags": [
   "author=Unknown",

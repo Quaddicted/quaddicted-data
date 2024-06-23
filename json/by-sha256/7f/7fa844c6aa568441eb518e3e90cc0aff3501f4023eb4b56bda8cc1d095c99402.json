@@ -1,6 +1,5 @@
 {
  "bytes": 917903,
- "description": "Large Wizard map. Could use more detail, otherwise",
  "files": {
   "MARTIM6.BSP": {
    "bytes": 2025600,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "tags": [
   "author=Marco van Schriek",

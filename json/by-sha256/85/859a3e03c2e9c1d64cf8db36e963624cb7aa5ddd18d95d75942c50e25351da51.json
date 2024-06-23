@@ -1,6 +1,5 @@
 {
  "bytes": 780780,
- "description": "Two small levels: A simple house with a garden and a Metal bit in the basement, leading to  a small Metal/Wizard map.",
  "files": {
   "SWEN.BSP": {
    "bytes": 679804,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51",
  "tags": [
   "author=Swen Klemund",

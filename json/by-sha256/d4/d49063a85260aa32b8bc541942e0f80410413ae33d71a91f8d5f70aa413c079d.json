@@ -1,6 +1,5 @@
 {
  "bytes": 5880100,
- "description": "Medium-sized medieval map with fairly linear gameplay and some monster modifications.",
  "files": {
   "gfx/env/": {
    "bytes": 0,
@@ -67,7 +66,6 @@
   "extract": "{base}/thtc/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d",
  "tags": [
   "author=WarrenM",

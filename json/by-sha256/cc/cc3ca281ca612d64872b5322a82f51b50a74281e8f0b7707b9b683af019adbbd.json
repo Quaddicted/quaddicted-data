@@ -1,6 +1,5 @@
 {
  "bytes": 17528563,
- "description": "Medium / large base map with lots of lava. Built on progs_dump 3.0 (already included). Custom music is \"Scratch My Surface\" by Verbum Mentis. Map source is included.",
  "files": {
   "jpqm13/README - jpqm13 - Concrete Meltdown.txt": {
    "bytes": 3249,
@@ -528,10 +527,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There is no custom start map, so set your desired difficulty and load the map manually via console: \"map jpqm13\"",
-  "Requires a modern engine / source port with increased limits and BSP2 support."
- ],
  "sha256": "cc3ca281ca612d64872b5322a82f51b50a74281e8f0b7707b9b683af019adbbd",
  "tags": [
   "author=JPal",

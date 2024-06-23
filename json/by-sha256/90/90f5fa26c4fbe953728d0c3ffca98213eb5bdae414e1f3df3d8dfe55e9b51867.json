@@ -1,6 +1,5 @@
 {
  "bytes": 2087521,
- "description": "Three tiny, cramped beginner's maps. Walkthrough demos and the map sources are included.",
  "files": {
   "mappack 2/": {
    "bytes": 0,
@@ -77,9 +76,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Cannot be run through the Quake Injector."
- ],
  "sha256": "90f5fa26c4fbe953728d0c3ffca98213eb5bdae414e1f3df3d8dfe55e9b51867",
  "tags": [
   "author=Ondrejoda",

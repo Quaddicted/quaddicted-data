@@ -1,6 +1,5 @@
 {
  "bytes": 1005597,
- "description": "Quake's Gloom Keep (e1m5) reworked for Quoth. Nice effects and brutally hard. The GPL map source is included.",
  "files": {
   "e1m5quoth.bsp": {
    "bytes": 1967268,
@@ -22,7 +21,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615",
  "tags": [
   "author=Ankh",

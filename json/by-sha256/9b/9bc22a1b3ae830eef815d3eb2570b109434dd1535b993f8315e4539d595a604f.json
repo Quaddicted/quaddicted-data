@@ -1,6 +1,5 @@
 {
  "bytes": 1077135,
- "description": "Short map featuring a large castle engulfed in shadows, surrounded by a lava moat and an open outdoor section.",
  "files": {
   "castle.bsp": {
    "bytes": 2747344,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility."
- ],
  "sha256": "9bc22a1b3ae830eef815d3eb2570b109434dd1535b993f8315e4539d595a604f",
  "tags": [
   "author=Skullzrawk9",

@@ -1,6 +1,5 @@
 {
  "bytes": 22318516,
- "description": "Speedy map jam following the theme \"Fantasy brick cities in the skies\": three floating maps by Skacky, Sock and RickyT23. It comes with optional medieval-style item models.",
  "files": {
   "pak0.pak": {
    "bytes": 81899534,
@@ -269,7 +268,6 @@
   "extract": "{base}//retrojam2"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
  "tags": [
   "author=RickyT23",

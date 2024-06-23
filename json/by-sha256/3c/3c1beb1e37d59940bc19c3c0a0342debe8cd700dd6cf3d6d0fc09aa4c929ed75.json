@@ -1,6 +1,5 @@
 {
  "bytes": 353708,
- "description": "Medium sized, plain Wizard map.",
  "files": {
   "sgc4.bsp": {
    "bytes": 789388,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Somewhat of a sequel to <a href=\"21008f010dbda603c944afb8e3bd498c467443340c2d62ff367fe8401e32c70a\">sgc3</a>."
- ],
  "sha256": "3c1beb1e37d59940bc19c3c0a0342debe8cd700dd6cf3d6d0fc09aa4c929ed75",
  "tags": [
   "author=Steve Clarke",

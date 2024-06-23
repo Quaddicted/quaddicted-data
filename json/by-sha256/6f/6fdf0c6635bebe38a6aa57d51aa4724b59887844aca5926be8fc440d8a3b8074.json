@@ -1,6 +1,5 @@
 {
  "bytes": 40365478,
- "description": "Ten small to large levels in varying themes/styles and a start hub map to access each of them. Most mappers involved were relatively new to mapping. Comes with three custom skyboxes and an ambient music track. The map sources are included.",
  "files": {
   "qump/": {
    "bytes": 0,
@@ -322,9 +321,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require a source port with increased limits."
- ],
  "sha256": "6fdf0c6635bebe38a6aa57d51aa4724b59887844aca5926be8fc440d8a3b8074",
  "tags": [
   "author=Danzadan",

@@ -1,6 +1,5 @@
 {
  "bytes": 4349149,
- "description": "A four-level campaign with chemical lab, a sewer system, and a dark forest. A few new textures and reskinned monsters. The levels are dark and quite cramped.",
  "files": {
   "PAK0.PAK": {
    "bytes": 10729712,
@@ -107,7 +106,6 @@
   "extract": "{base}/bario3/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e5959ff6b5d58c3fdad1ad8e253448549aa23268919ac3040e4a9b8b928bac89",
  "tags": [
   "author=Bario",

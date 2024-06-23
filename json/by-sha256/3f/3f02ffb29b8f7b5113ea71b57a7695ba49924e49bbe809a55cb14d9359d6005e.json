@@ -1,6 +1,5 @@
 {
  "bytes": 2941068,
- "description": "A big, open, twisted, confusing, hard and unconventional coagula map. id texturing and a lot of fresh gameplay ideas.",
  "files": {
   "coag3_negke.bsp": {
    "bytes": 6882312,
@@ -22,10 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "The progs.dat is for Darkplaces users only.",
-  "This map features two different game modes: Skill 0/1: exploration mode (finding keys, pushing buttons, solving puzzles); skill 2: DMSP-like mode (deathmatch against monsters with respawning items)"
- ],
  "sha256": "3f02ffb29b8f7b5113ea71b57a7695ba49924e49bbe809a55cb14d9359d6005e",
  "tags": [
   "author=negke",

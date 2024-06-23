@@ -1,6 +1,5 @@
 {
  "bytes": 13863562,
- "description": "Two episode pack featuring 16 new levels (10 single player/6 deathmatch), six new foes, four new weapons, one power-up.",
  "files": {
   "IMPEL/CONFIG.CFG": {
    "bytes": 2456,
@@ -1013,10 +1012,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Contains minor some bugs withone potentially breaking progression, see readme for further info.",
-  "Aop2m2 on hard skill can only be played in a high-limit engine."
- ],
  "sha256": "3817a3a4556a6484b6796d4f690c6d5f6ff0075264df43a98939b96616fae4e1",
  "tags": [
   "author=Impel Productions",

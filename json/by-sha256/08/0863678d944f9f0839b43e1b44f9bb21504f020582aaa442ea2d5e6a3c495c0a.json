@@ -1,6 +1,5 @@
 {
  "bytes": 2646593,
- "description": "A rebalanced version of mfx's map from <a href=\"ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587\">Retro Jam 1</a>: a medieval building nestled in a rocky cavern and fronted by a lake of slime. Features traps and tough combat.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -67,9 +66,6 @@
   "extract": "{base}/retrojam1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map is meant to be played with the <a href=\"https://www.quaddicted.com/filebase/retrojam1.zip\">Retro Jam 1</a> pack."
- ],
  "sha256": "0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a",
  "tags": [
   "author=mfx",

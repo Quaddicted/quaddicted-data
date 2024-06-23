@@ -1,6 +1,5 @@
 {
  "bytes": 1403385,
- "description": "Large underground catacomb level.",
  "files": {
   "februus.bsp": {
    "bytes": 3333576,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68",
  "tags": [
   "author=czg",

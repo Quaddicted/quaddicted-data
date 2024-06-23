@@ -1,6 +1,5 @@
 {
  "bytes": 378700,
- "description": "Big and empty base.",
  "files": {
   "j2.bsp": {
    "bytes": 912024,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "01f64963146fa98bc0650e45f15554d32236af87a168698265746892957ddb8b",
  "tags": [
   "author=phlamethrower",

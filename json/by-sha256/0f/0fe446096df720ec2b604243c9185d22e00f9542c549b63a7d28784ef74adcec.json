@@ -1,6 +1,5 @@
 {
  "bytes": 382792,
- "description": "Small medieval building with a lava area.",
  "files": {
   "DESO.BSP": {
    "bytes": 883108,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec",
  "tags": [
   "author=Jim Lowell",

@@ -1,6 +1,5 @@
 {
  "bytes": 754181,
- "description": "Small dark wizard-themed level in a classic id1 style with some puzzle elements, for vanilla Quake. An update of <a href=\"c56bc095cddb401223b30a0fde0abb69903ef16880c79bbe5462a3b8691ed8d2\">Deepest Oblivion (2019)</a>. Map source is included.",
  "files": {
   "rgdeep.bsp": {
    "bytes": 1530560,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "bc1e819702fe80dc80dcb22814cb71b0c5c520b53a91c27c0b3303ccd91e3ddb",
  "tags": [
   "author=Daniel Remar",

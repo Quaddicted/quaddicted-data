@@ -1,6 +1,5 @@
 {
  "bytes": 8403909,
- "description": "A small 5-map episode for Quoth. Starts with base maps and ends in a Doom-like \"hell bunker\".",
  "files": {
   "dejavu10.txt": {
    "bytes": 4248,
@@ -122,9 +121,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a",
  "tags": [
   "author=RickyT23",

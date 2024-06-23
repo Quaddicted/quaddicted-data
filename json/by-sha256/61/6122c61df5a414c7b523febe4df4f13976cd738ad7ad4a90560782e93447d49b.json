@@ -1,6 +1,5 @@
 {
  "bytes": 132946,
- "description": "A cramped map with a \"chess board\" in the middle.",
  "files": {
   "chess.bsp": {
    "bytes": 303788,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
  "tags": [
   "author=David Ottvall",

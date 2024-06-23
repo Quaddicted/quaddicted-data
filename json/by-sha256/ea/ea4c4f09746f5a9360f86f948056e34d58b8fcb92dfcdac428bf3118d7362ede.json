@@ -1,6 +1,5 @@
 {
  "bytes": 1547585,
- "description": "Small / medium sized base themed map in a classic id1 style for vanilla Quake. The author's first release for Quake.",
  "files": {
   "Outpost 91.txt": {
    "bytes": 492,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ea4c4f09746f5a9360f86f948056e34d58b8fcb92dfcdac428bf3118d7362ede",
  "tags": [
   "author=Jimmy / James Paddock",

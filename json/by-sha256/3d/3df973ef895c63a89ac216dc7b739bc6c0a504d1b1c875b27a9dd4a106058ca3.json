@@ -1,6 +1,5 @@
 {
  "bytes": 281982,
- "description": "Doom 2 MAP02 remake for Quake.",
  "files": {
   "Id1/": {
    "bytes": 0,
@@ -57,9 +56,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This will not work on a case-sensitive filesystem (Linux) if you install via the Quake Injector because the ZIP contains an \"Id1\" directory"
- ],
  "sha256": "3df973ef895c63a89ac216dc7b739bc6c0a504d1b1c875b27a9dd4a106058ca3",
  "tags": [
   "author=Kurtis",

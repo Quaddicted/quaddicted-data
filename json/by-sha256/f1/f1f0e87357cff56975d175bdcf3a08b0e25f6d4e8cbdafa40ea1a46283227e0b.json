@@ -1,6 +1,5 @@
 {
  "bytes": 949990,
- "description": "Deathmatch maps / 4 DM maps / Gleeb, metlslime, Xen, Zwiffle",
  "files": {
   "sm60_gleeb.bsp": {
    "bytes": 278092,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f1f0e87357cff56975d175bdcf3a08b0e25f6d4e8cbdafa40ea1a46283227e0b",
  "tags": [
   "author=Gleeb",

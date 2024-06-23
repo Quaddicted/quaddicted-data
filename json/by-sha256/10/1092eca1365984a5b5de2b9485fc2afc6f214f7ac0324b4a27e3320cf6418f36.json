@@ -1,6 +1,5 @@
 {
  "bytes": 2175689,
- "description": "Castle Void / 4 SP maps / HeadThumb, RPG, Tr0n, Zwiffle",
  "files": {
   "sm95_headthump.bsp": {
    "bytes": 2445564,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1092eca1365984a5b5de2b9485fc2afc6f214f7ac0324b4a27e3320cf6418f36",
  "tags": [
   "author=HeadThumb",

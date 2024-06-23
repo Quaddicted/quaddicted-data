@@ -1,6 +1,5 @@
 {
  "bytes": 1560758,
- "description": "Large Wizard style castle with basic detailing and a dragon boss battle.",
  "files": {
   "mospq1.txt": {
    "bytes": 2343,
@@ -140,7 +139,6 @@
   "extract": "{base}/mospq1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cc614914fc11e452e048301325f520a3cb3da6e530b6789f666f0f070fb45034",
  "tags": [
   "author=Tuomo \"Morpheus\" Tomperi",

@@ -1,6 +1,5 @@
 {
  "bytes": 577817,
- "description": "Medium sized Metal map.",
  "files": {
   "CARNAGE.BSP": {
    "bytes": 1425704,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c",
  "tags": [
   "author=Andrew Smith",

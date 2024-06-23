@@ -1,6 +1,5 @@
 {
  "bytes": 60755881,
- "description": "An episode of 9 small maps with various classic themes (base, medieval, wizard, runic, brick, etc.) for vanilla Quake, but also works well in Copper / with co-op support.",
  "files": {
   "eod3.0/": {
    "bytes": 0,
@@ -492,11 +491,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This is an update to <a href=\"72d7cb7c259d6c98084a5989ab9766df98087647592d3bfd5065002dae65ffa6\">version 2</a> with some quality of life changes.",
-  "After installing, start the episode via console command: \"map eod_intro\"",
-  "May require a modern engine / source port with increased limits."
- ],
  "sha256": "6c16a50f35b7a2b2b15b55a4cbe9aacba0a45eab410d384551c40067093fc2d6",
  "tags": [
   "author=Tonhao",

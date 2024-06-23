@@ -1,6 +1,5 @@
 {
  "bytes": 2649062,
- "description": "Medium-sized dark underground laboratory.",
  "files": {
   "symphony_v101.bsp": {
    "bytes": 5273976,
@@ -19,10 +18,9 @@
   }
  },
  "install": {
-  "extract": "{base}/id1u005Cmapsu005C"
+  "extract": "{base}/id1\\maps\\"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191",
  "tags": [
   "author=Ubiquitous",

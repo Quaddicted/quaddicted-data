@@ -1,6 +1,5 @@
 {
  "bytes": 706493,
- "description": "Small to medium Base map.",
  "files": {
   "RIT.BSP": {
    "bytes": 1642760,
@@ -22,10 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "While the timestamps in the zip say 1996, Crash's dating of 1997-09-17 is much more realistic.",
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "05b89a52abd8cc300ee5304c25e16c8d1ef669eab0edaa2a643cf8a152dbdcff",
  "tags": [
   "author=Chris Burgess",

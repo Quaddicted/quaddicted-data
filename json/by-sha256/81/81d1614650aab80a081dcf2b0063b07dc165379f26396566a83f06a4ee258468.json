@@ -1,6 +1,5 @@
 {
  "bytes": 1069189,
- "description": "Around medium sized simple Metal/ Wizard castle with long corridors, a church room and very few (base) enemies. Comes with a start map. Map sources are included.",
  "files": {
   "HUB.bsp": {
    "bytes": 1359008,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468",
  "tags": [
   "author=Richard Neff",

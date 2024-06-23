@@ -1,6 +1,5 @@
 {
  "bytes": 5536003,
- "description": "7-map pack including new versions of some maps previously released by the author. Contains various new weapons, monsters and mods such as a Chase Cam, flashlight/flares and environmental effects.",
  "files": {
   "Pak0.pak": {
    "bytes": 13543634,
@@ -564,7 +563,6 @@
   "extract": "{base}/smlevel/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "tags": [
   "author=Scott McNutt",

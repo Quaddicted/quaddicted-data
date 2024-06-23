@@ -1,6 +1,5 @@
 {
  "bytes": 1389546,
- "description": "Small castle courtyard map with a large cemetery, all in a classic style. The author's second release. Map source is included.",
  "files": {
   "cc1.jpg": {
    "bytes": 158372,
@@ -42,9 +41,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Only skill 1 (\"Normal\") is implemented."
- ],
  "sha256": "929b737166ae30d68834d22f36620e4d5f96c1fc792c283500a3bc7ebf0692f0",
  "tags": [
   "author=Paul Keefner",

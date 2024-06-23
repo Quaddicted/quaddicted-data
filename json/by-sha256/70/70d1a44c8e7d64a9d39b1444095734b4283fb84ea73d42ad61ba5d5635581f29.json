@@ -1,6 +1,5 @@
 {
  "bytes": 133126,
- "description": "Very small Wizard room with multiple stories.",
  "files": {
   "TOD.BSP": {
    "bytes": 308148,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "70d1a44c8e7d64a9d39b1444095734b4283fb84ea73d42ad61ba5d5635581f29",
  "tags": [
   "author=Scott McNutt",

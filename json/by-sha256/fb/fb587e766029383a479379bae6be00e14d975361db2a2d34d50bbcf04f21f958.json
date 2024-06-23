@@ -1,6 +1,5 @@
 {
  "bytes": 4236512,
- "description": "Sequel of \"A Desert Dusk\" - Large desert themed SP level that also supports coop and deathmatch. Uses some SOA entities.",
  "files": {
   "Pak0.PAK": {
    "bytes": 9362153,
@@ -523,7 +522,6 @@
   "extract": "{base}/add2/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

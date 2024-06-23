@@ -1,6 +1,5 @@
 {
  "bytes": 34275043,
- "description": "23 small to medium-sized maps using khreathor's Prototype texture wad and Dumptruck's SMP progs (included). Comes with a custom music track. The map sources are included.",
  "files": {
   "sm214/README.md": {
    "bytes": 1801,
@@ -407,9 +406,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of these maps probably require a source port with increased limits + BSP2 support."
- ],
  "sha256": "e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c",
  "tags": [
   "author=AlexUnder",

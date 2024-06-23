@@ -1,6 +1,5 @@
 {
  "bytes": 672091,
- "description": "Outdoor area with a spaceship and a few monsters tossed in.",
  "files": {
   "MARSBASE.BSP": {
    "bytes": 1575208,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a",
  "tags": [
   "author=Psycho",

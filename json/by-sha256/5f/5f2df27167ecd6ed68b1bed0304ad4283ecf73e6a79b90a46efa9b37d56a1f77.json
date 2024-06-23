@@ -1,6 +1,5 @@
 {
  "bytes": 394986,
- "description": "Small medieval castle. The map source is included.",
  "files": {
   "ad_fireplace.bsp": {
    "bytes": 711144,
@@ -27,10 +26,6 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits.",
-  "An updated version of this map is available <a href=\"https://www.quaddicted.com/filebase/ad_fireplace_v2.zip\">here</a>."
- ],
  "sha256": "5f2df27167ecd6ed68b1bed0304ad4283ecf73e6a79b90a46efa9b37d56a1f77",
  "tags": [
   "author=Cthulhu",

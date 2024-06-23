@@ -1,6 +1,5 @@
 {
  "bytes": 291684,
- "description": "Original e2m6 cave entrance, cut from the final Quake release due to size limits.",
  "files": {
   "e2m10.bsp": {
    "bytes": 574308,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3f185f03c3eacfd403d6e8dac81161b900f5946ab6abf137d3542ad6af41a083",
  "tags": [
   "author=John Romero",

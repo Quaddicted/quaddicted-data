@@ -1,6 +1,5 @@
 {
  "bytes": 491279,
- "description": "Small cramped Wizard map.",
  "files": {
   "pyromid.bsp": {
    "bytes": 1113712,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e826d5bb111d2cafcb4658f3b19679282e2e694b29c5f96bc63ebb27b9a6081d",
  "tags": [
   "author=D. North",

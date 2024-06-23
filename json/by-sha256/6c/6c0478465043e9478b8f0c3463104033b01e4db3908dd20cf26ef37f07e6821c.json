@@ -1,6 +1,5 @@
 {
  "bytes": 1404315,
- "description": "Medium-sized nightly industrial base where a dark ritual is being performed; the single player version of <a href=\"http://www.disenchant.net/maps.html#deathmatch\">ritual</a>, though slightly expanded. The GPL map source is included.",
  "files": {
   "ritualsp.bsp": {
    "bytes": 2986780,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c",
  "tags": [
   "author=Tyrann",

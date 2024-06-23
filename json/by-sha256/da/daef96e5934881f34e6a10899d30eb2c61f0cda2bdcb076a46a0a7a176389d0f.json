@@ -1,6 +1,5 @@
 {
  "bytes": 2034914,
- "description": "Knave-style remix/remake of E1M5 / Gloom Keep.",
  "files": {
   "e1m5quoth_crystal.bsp": {
    "bytes": 49084,
@@ -37,9 +36,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
- ],
  "sha256": "daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f",
  "tags": [
   "author=Kell",

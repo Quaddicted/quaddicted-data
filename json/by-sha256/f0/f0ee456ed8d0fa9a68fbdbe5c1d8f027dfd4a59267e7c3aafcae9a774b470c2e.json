@@ -1,6 +1,5 @@
 {
  "bytes": 377885,
- "description": "Two very small maps (two small rooms each) with easily gibbable Zombies (Fiends).",
  "files": {
   "CONFIG.CFG": {
    "bytes": 2797,
@@ -47,7 +46,6 @@
   "extract": "{base}/fdtd/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f0ee456ed8d0fa9a68fbdbe5c1d8f027dfd4a59267e7c3aafcae9a774b470c2e",
  "tags": [
   "author=Iceman",

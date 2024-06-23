@@ -1,6 +1,5 @@
 {
  "bytes": 721342,
- "description": "Small base/prison, created for the Escape For Quake conversion.",
  "files": {
   "ARENA.BSP": {
    "bytes": 1724404,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "aa9b89f642326633258b7d8db3898c357c7ca2a09a8bed30f2f2dcdf1f4a3e89",
  "tags": [
   "author=Trace Stuart",

@@ -1,6 +1,5 @@
 {
  "bytes": 1083515,
- "description": "A fixed version of Skacky's map from <a href=\"ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587\">Retro Jam 1</a> (fixes an issue that made it impossible to load saved games): A small map set in a medieval courtyard and the surrounding buildings. Features somewhat non-linear gameplay.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -22,9 +21,6 @@
   "extract": "{base}/retrojam1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map is meant to be played with the <a href=\"https://www.quaddicted.com/filebase/retrojam1.zip\">retrojam1</a> pack."
- ],
  "sha256": "1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a",
  "tags": [
   "author=Skacky",

@@ -1,6 +1,5 @@
 {
  "bytes": 1813957,
- "description": "Small to medium id-base level with traps. Vanilla Quake version of the <a href=\"http://celephais.net/board/view_thread.php?id=61897\">SM209</a> entry.",
  "files": {
   "malvirta.bsp": {
    "bytes": 3493732,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e97cd0dbc038e37c6adab113370223e699584e66e690f9669eaab69ca9eed8af",
  "tags": [
   "author=Greenwood",

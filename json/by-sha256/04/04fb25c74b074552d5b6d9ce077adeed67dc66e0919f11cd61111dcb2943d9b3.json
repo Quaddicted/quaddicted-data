@@ -1,6 +1,5 @@
 {
  "bytes": 1241108,
- "description": "Four beginner maps with strange textures.",
  "files": {
   "maps/blood.bsp": {
    "bytes": 1203815,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "04fb25c74b074552d5b6d9ce077adeed67dc66e0919f11cd61111dcb2943d9b3",
  "tags": [
   "author=XeNoN",

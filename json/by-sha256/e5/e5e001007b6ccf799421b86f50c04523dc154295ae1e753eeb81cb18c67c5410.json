@@ -1,6 +1,5 @@
 {
  "bytes": 3492680,
- "description": "Large fortress with four differently-colored/textured areas around a Minecraft-styled courtyard.",
  "files": {
   "digs08.bsp": {
    "bytes": 6661020,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits. Support for colored lighting recommended."
- ],
  "sha256": "e5e001007b6ccf799421b86f50c04523dc154295ae1e753eeb81cb18c67c5410",
  "tags": [
   "author=Digs",

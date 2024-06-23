@@ -1,6 +1,5 @@
 {
  "bytes": 1598508,
- "description": "Unthemed / 5 SP, 1 DM maps / Hrimfaxi, Leviathan, MadFox, Scampie, Starbuck",
  "files": {
   "sm59_hrim.bsp": {
    "bytes": 1235228,
@@ -42,7 +41,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449",
  "tags": [
   "author=Hrimfaxi",

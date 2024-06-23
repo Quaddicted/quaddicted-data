@@ -1,6 +1,5 @@
 {
  "bytes": 1322852,
- "description": "Medium sized Wizard map with a mine bit leading through a waterfall canyon. There are many deadly traps, so frequent quicksaving is recommended.",
  "files": {
   "halo.bsp": {
    "bytes": 3551248,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7",
  "tags": [
   "author=Brian Ball",

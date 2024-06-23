@@ -1,6 +1,5 @@
 {
  "bytes": 1957516,
- "description": "A series of four small maps with mixed textures and poor layout/construction quality.",
  "files": {
   "Level0.bsp": {
    "bytes": 270212,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66",
  "tags": [
   "author=Unknown",

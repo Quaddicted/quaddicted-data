@@ -1,6 +1,5 @@
 {
  "bytes": 6081244,
- "description": "Large cloister/castle map combining Wizard/Medieval/Metal textures. Somewhat inspired by E2M5. It comes with a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -67,9 +66,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c",
  "tags": [
   "author=Shamblernaut",

@@ -1,6 +1,5 @@
 {
  "bytes": 594642,
- "description": "Smallish Wizard map.",
  "files": {
   "etworld.txt": {
    "bytes": 1619,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "tags": [
   "author=E.T. [Etienne Rheaume]",

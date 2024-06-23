@@ -1,6 +1,5 @@
 {
  "bytes": 531771,
- "description": "Small Wizard map with a Medieval and a Base bit. Ostensibly related to the Resident Evil game series.",
  "files": {
   "R-Evil2.txt": {
    "bytes": 2017,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7d7c23281b0898992adf3dc2519e052a10efab744a970a43e5c0cf9f0d010e2b",
  "tags": [
   "author=Myk (Mike Denby)",

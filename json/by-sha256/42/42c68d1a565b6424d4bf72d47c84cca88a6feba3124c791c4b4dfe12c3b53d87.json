@@ -1,6 +1,5 @@
 {
  "bytes": 438914,
- "description": "Smallish, nonlinear Wizard-style level with long corridors, originally designed for deathmatch.",
  "files": {
   "Psycho.bsp": {
    "bytes": 900596,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87",
  "tags": [
   "author=Gunnar Saethre",

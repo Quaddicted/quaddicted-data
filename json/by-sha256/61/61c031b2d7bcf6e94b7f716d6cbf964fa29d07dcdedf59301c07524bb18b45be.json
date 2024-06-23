@@ -1,6 +1,5 @@
 {
  "bytes": 500950,
- "description": "Medium sized plain Metal level with many monsters/non-stop action.",
  "files": {
   "MEXX4.BSP": {
    "bytes": 1186712,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be",
  "tags": [
   "author=Marcus Dromowicz",

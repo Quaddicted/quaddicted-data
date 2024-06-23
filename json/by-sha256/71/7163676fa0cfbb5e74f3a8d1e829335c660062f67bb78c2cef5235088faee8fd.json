@@ -1,6 +1,5 @@
 {
  "bytes": 168331827,
- "description": "\"Blue\"-themed community map pack with 15 mostly small to medium-sized levels including a start map. It comes with a few high-res textures, custom skyboxes, and music tracks. The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -812,9 +811,6 @@
   "extract": "{base}/bluemonday/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and a source port supporting the <i>-quoth</i> commandline switch. Additionally, for some of these maps it must have increased limits and/or BSP2 support."
- ],
  "sha256": "7163676fa0cfbb5e74f3a8d1e829335c660062f67bb78c2cef5235088faee8fd",
  "tags": [
   "author=Chris Holden",

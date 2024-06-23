@@ -1,6 +1,5 @@
 {
  "bytes": 17990821,
- "description": "Medium sized Rubicon base themed map remix based on <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">rd1m1 from Runner's Delight</a>, built on Alkaline 1.2 RC1 (already included). Map source is included.",
  "files": {
   "rd1m1rmx/": {
    "bytes": 0,
@@ -2389,9 +2388,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There is no custom start map, load manually via console: \"map rd1m1rmx\""
- ],
  "sha256": "51cd8bd4cc5e636bd5b423339a68f7c13a71a3dee8a42addc7b1eb60b8459539",
  "tags": [
   "author=Justin Fleck",

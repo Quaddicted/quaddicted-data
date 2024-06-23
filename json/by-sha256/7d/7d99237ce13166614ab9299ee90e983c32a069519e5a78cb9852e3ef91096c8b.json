@@ -1,6 +1,5 @@
 {
  "bytes": 113340,
- "description": "Small plain tower. A nostalgia remake of czg's very first map (in Thred!).",
  "files": {
   "czg00.bsp": {
    "bytes": 283820,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b",
  "tags": [
   "author=czg",

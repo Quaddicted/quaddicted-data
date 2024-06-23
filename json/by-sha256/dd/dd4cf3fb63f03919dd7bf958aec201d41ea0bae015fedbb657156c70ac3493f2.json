@@ -1,6 +1,5 @@
 {
  "bytes": 5672650,
- "description": "A rather nonlinear huge base map with outdoor parts. Requires an engine port with increased limits.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -67,7 +66,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
  "tags": [
   "author=RickyT23",

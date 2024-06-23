@@ -1,6 +1,5 @@
 {
  "bytes": 3563541,
- "description": "Very large, nonlinear base map with a unique twist: progression requires rocket jumping and the way to proceed is hidden, which essentially makes this a trick jump puzzle map (with respawning items).",
  "files": {
   "digs07.bsp": {
    "bytes": 7502844,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits.<br>An updated version is available <a href=\"52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f\">here</a>."
- ],
  "sha256": "a91cc81a8fa94b9fa198d9c6fda311cf1970d32cdef55b3679a1c26e8e76c7d9",
  "tags": [
   "author=Digs",

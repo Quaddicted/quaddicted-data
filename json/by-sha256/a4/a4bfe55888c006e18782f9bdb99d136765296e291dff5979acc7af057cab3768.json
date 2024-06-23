@@ -1,6 +1,5 @@
 {
  "bytes": 19246082,
- "description": "Small sized palace/catacomb map with a lot of close combat and strong Zerstörer vibes. A foretaste of an upcoming the upcoming \"Arcanum\" project.",
  "files": {
   "arcdemo.txt": {
    "bytes": 853,
@@ -2926,7 +2925,6 @@
   "extract": "{base}/arcdemo/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768",
  "tags": [
   "author=PM",

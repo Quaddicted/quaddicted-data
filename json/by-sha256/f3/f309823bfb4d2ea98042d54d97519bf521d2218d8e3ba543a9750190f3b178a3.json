@@ -1,6 +1,5 @@
 {
  "bytes": 890707,
- "description": "Doom E1M7 (\"Computer Station\") rebuilt for Quake.",
  "files": {
   "DoomE1M7.txt": {
    "bytes": 2090,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires Scourge of Armagon."
- ],
  "sha256": "f309823bfb4d2ea98042d54d97519bf521d2218d8e3ba543a9750190f3b178a3",
  "tags": [
   "author=Ben Glover",

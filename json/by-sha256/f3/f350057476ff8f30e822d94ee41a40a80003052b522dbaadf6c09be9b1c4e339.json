@@ -1,6 +1,5 @@
 {
  "bytes": 536942,
- "description": "Small to medium-sized runic level with an interconnected layout.",
  "files": {
   "runfear.bsp": {
    "bytes": 1189888,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339",
  "tags": [
   "author=super",

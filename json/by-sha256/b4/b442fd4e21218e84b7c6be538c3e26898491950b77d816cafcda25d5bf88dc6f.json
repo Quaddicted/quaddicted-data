@@ -1,6 +1,5 @@
 {
  "bytes": 757800,
- "description": "Medium sized Wizard/Medieval castle with a yard, a chapel, some dark corridors and lots of action.",
  "files": {
   "fober1.bsp": {
    "bytes": 1763364,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b442fd4e21218e84b7c6be538c3e26898491950b77d816cafcda25d5bf88dc6f",
  "tags": [
   "author=Franz Obermeier",

@@ -1,6 +1,5 @@
 {
  "bytes": 15670500,
- "description": "Six small ~2-hour speedmaps + a start hub, all following different themes and based on the <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a> mod (included). It comes with a custom music track. The map sources are included.",
  "files": {
   "bored/": {
    "bytes": 0,
@@ -514,7 +513,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "25600d067aa318a670bfa3f00541e49cc9c237f9070a2ce037e517ac50c09cbc",
  "tags": [
   "author=Fairweather",

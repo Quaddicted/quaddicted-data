@@ -1,6 +1,5 @@
 {
  "bytes": 33411499,
- "description": "Brick-themed map with many blood/lava details and a couple of vertical sections.",
  "files": {
   "pain/": {
    "bytes": 0,
@@ -627,9 +626,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "389a0ece381bb3a3bf899286ffff30344087d4e6156f3892096eadf7e8a5c691",
  "tags": [
   "author=Xeryn",

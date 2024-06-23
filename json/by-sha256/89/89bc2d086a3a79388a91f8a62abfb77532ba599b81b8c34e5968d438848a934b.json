@@ -1,6 +1,5 @@
 {
  "bytes": 6461223,
- "description": "Episode with seven small levels varying in theme, including start and boss map. Most monsters and items have new, strange-looking skins and sounds, some custom weapon models (e.g. from zer), and a bunch of new textures.",
  "files": {
   "Alkado/": {
    "bytes": 0,
@@ -712,7 +711,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b",
  "tags": [
   "author=Alkado",

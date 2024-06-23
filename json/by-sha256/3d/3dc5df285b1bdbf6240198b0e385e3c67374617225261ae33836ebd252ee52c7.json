@@ -1,6 +1,5 @@
 {
  "bytes": 19430642,
- "description": "Single player episode with five huge maps by Tronyn and Pulsar. Epic in style and scale. Tough battles with high numbers of enemies. Many modified and new monsters, weapons and items. Very hard. Includes a start map by distrans.",
  "files": {
   "arcanum_v11.txt": {
    "bytes": 200,
@@ -127,9 +126,6 @@
   "extract": "{base}/wicked/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "<b>Note:</b> These maps require <a href=\"http://quaddicted.com/filebase/drake290111.zip\">Drake</a> and an engine port with increased limits."
- ],
  "sha256": "3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7",
  "tags": [
   "author=PM",

@@ -1,6 +1,5 @@
 {
  "bytes": 774079,
- "description": "Huge green swampy map.",
  "files": {
   "fmb4.bsp": {
    "bytes": 1721852,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6b5e30f2612cfdc0f45dbe63ce7d967772bba613037b7fcc2cf0ca982d260a69",
  "tags": [
   "author=Mike Woodham",

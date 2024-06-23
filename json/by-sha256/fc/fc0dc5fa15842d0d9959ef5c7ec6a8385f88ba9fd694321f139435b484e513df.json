@@ -1,6 +1,5 @@
 {
  "bytes": 16882459,
- "description": "A large Doom themed map, using the SMEJ2 progs (already included). Contains music from Doom 2 OST. Map source is included.",
  "files": {
   "zigisp2/": {
    "bytes": 0,
@@ -782,10 +781,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Start map is not included. Load manually in console via \"map zigisp2\".",
-  "Probably requires a modern engine / source port with increased limits."
- ],
  "sha256": "fc0dc5fa15842d0d9959ef5c7ec6a8385f88ba9fd694321f139435b484e513df",
  "tags": [
   "author=zigi",

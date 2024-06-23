@@ -1,6 +1,5 @@
 {
  "bytes": 8933718,
- "description": "A robot total conversion with 18 small to medium sized levels (incl. start map), all new textures, monsters, sounds, everything.  It seems to be consistent in quality and theme (which is very 1998-like, think Malice), but also very strange.",
  "files": {
   "tsoa/": {
    "bytes": 0,
@@ -1373,10 +1372,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This is the full version (not just the shareware levels, as written in tsoa.txt).",
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "84a262cd840e957add537853551d4fdf565ebba7584cc23a94634f2616cafea9",
  "tags": [
   "author=Simitar",

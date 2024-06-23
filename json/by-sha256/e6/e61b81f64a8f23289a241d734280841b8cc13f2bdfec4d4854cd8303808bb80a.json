@@ -1,6 +1,5 @@
 {
  "bytes": 6429560,
- "description": "Small level that aims to recreate the horrors of World War I. Comes with a custom music track and the map source is included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -37,9 +36,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits. In this version the music track is in the right place in the zip."
- ],
  "sha256": "e61b81f64a8f23289a241d734280841b8cc13f2bdfec4d4854cd8303808bb80a",
  "tags": [
   "author=James Bernard Roth",

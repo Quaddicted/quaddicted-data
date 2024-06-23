@@ -1,6 +1,5 @@
 {
  "bytes": 354551,
- "description": "Small Wizard-textured building in a water pool.",
  "files": {
   "K_DARK1.BSP": {
    "bytes": 814300,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8",
  "tags": [
   "author=Ludovic Texier",

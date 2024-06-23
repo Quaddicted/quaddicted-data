@@ -1,6 +1,5 @@
 {
  "bytes": 739488,
- "description": "Medium sized Base map with somewhat confusing 'find-the-button-then-the-bars'-type of gameplay.",
  "files": {
   "ObiWan3.bsp": {
    "bytes": 1713828,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e04b0a488944d6fd3519c452fca10fc897cf4dc475847972925770f0c8b9417a",
  "tags": [
   "author=Obi-Wan",

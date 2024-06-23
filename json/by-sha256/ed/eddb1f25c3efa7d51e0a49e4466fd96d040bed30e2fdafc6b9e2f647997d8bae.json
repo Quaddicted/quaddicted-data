@@ -1,6 +1,5 @@
 {
  "bytes": 7100320,
- "description": "6-map episode (incl. start map) consisting to a large degree of stuff ripped from other people's maps.",
  "files": {
   "Readme.txt": {
    "bytes": 2832,
@@ -343,7 +342,6 @@
   "extract": "{base}/e-5/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae",
  "tags": [
   "author=AxeMan",

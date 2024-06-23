@@ -1,6 +1,5 @@
 {
  "bytes": 4716678,
- "description": "Large ruined subterranean library with tight corridors, bloodfalls and eerie atmosphere. The map source is included.",
  "files": {
   "apsp3/": {
    "bytes": 0,
@@ -52,9 +51,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
- ],
  "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
  "tags": [
   "author=Andrew 'than' Palmer",

@@ -1,6 +1,5 @@
 {
  "bytes": 12111229,
- "description": "Small green temple map using a custom texture set. It also features a custom skybox and the map source is included.",
  "files": {
   "gfx/env/": {
    "bytes": 0,
@@ -62,7 +61,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e61f73b1c187a9a46ec5de8b8fa9649fbb19c2a8acd1582b1cfd143ddfb38304",
  "tags": [
   "author=Chris Holden",

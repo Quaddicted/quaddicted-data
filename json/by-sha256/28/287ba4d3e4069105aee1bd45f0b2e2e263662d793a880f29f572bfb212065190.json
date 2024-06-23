@@ -1,6 +1,5 @@
 {
  "bytes": 627882,
- "description": "Unthemed / 3 SP maps / generic, Pulsar, Zwiffle",
  "files": {
   "sm100_generic.bsp": {
    "bytes": 498776,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190",
  "tags": [
   "author=Pulsar",

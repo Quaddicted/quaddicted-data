@@ -1,6 +1,5 @@
 {
  "bytes": 55108663,
- "description": "Two-episode campaign featuring 17 medium-to-large maps, cutscenes, new monsters, weapons and many other features. Comes with a custom engine.",
  "files": {
   "DPNehahra.exe": {
    "bytes": 577024,
@@ -3176,9 +3175,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "You can turn off the new AI (side-strafing monsters) with <code>nomonsters \"1\"</code>."
- ],
  "sha256": "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
  "tags": [
   "author=Nehahra Team",

@@ -1,6 +1,5 @@
 {
  "bytes": 78729,
- "description": "A small joke map inspired by Tetris.",
  "files": {
   "pajitnov.bsp": {
    "bytes": 389904,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3d665279ed876425fddf946d8bf1039346435ab35078acdc268207593b7a1c85",
  "tags": [
   "author=R.P.G.",

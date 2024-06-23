@@ -1,6 +1,5 @@
 {
  "bytes": 953119,
- "description": "100 min timelimit enforced / 5 SP maps / CZG, Drew, HeadThump, Scampie, Zwiffle",
  "files": {
   "sm76_czg.bsp": {
    "bytes": 286584,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "02c1cff9b78677ee42e04f79b46d1bff994e15525b826baae46d6c7b0a82f83f",
  "tags": [
   "author=CZG",

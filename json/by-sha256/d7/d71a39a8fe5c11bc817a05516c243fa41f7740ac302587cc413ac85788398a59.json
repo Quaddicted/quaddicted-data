@@ -1,6 +1,5 @@
 {
  "bytes": 1051448,
- "description": "Large Medieval map.",
  "files": {
   "pb2.bsp": {
    "bytes": 2279648,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59",
  "tags": [
   "author=Wright Bagwell (Paul_Bunyan)",

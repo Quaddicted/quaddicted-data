@@ -1,6 +1,5 @@
 {
  "bytes": 326013,
- "description": "Only one texture / 4 SP maps / bambuz, neg!ke, Spirit, Trinca",
  "files": {
   "sm114_bam.bsp": {
    "bytes": 184796,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db",
  "tags": [
   "author=Spirit",

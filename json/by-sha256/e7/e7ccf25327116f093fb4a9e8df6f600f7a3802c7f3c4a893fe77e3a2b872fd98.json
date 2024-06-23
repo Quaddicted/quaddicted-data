@@ -1,6 +1,5 @@
 {
  "bytes": 1129000,
- "description": "Medium-sized blue cathedral. Slighly buggy and may run slow on older machines.",
  "files": {
   "satcath.bsp": {
    "bytes": 3079980,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e7ccf25327116f093fb4a9e8df6f600f7a3802c7f3c4a893fe77e3a2b872fd98",
  "tags": [
   "author=Stijn Raiguel",

@@ -1,6 +1,5 @@
 {
  "bytes": 43988441,
- "description": "15 speedjam SP levels, five custom skyboxes, a music track, and some map sources.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -402,9 +401,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps probably require a source port with increased limits."
- ],
  "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
  "tags": [
   "author=Bal",

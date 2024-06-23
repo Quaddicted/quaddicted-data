@@ -1,6 +1,5 @@
 {
  "bytes": 2540961,
- "description": "A collection of old maps from the author, the only SP map in this pack is RC0: COMING OUT PARTY from 1998, a tricky base map with several traps.",
  "files": {
   "rc0.bsp": {
    "bytes": 2098152,
@@ -77,7 +76,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fb2abc5e90de8d4ef2a6cf645bd8ba02a28fcdb23c5cd4013e45ffedf5304537",
  "tags": [
   "author=Robert \"Fat Controller\" Cruickshank",

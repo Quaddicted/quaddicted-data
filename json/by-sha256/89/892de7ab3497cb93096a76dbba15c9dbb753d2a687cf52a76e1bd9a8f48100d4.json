@@ -1,6 +1,5 @@
 {
  "bytes": 492981,
- "description": "Small Base level - fifth map of the <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> episode (though not included).",
  "files": {
   "IH1M5.BSP": {
    "bytes": 1184936,
@@ -12,9 +11,6 @@
   "extract": "{base}/badpak/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
- ],
  "sha256": "892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4",
  "tags": [
   "author=Ironhammer",

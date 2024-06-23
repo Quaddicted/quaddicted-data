@@ -1,6 +1,5 @@
 {
  "bytes": 326633,
- "description": "Small, linear rusty metal/stone base map.",
  "files": {
   "BASE-X2.bsp": {
    "bytes": 830352,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140",
  "tags": [
   "author=Peter Bisseker (tiddles)",

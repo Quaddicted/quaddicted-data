@@ -1,6 +1,5 @@
 {
  "bytes": 27878985,
- "description": "DLC/Update for the <a href=\"ed67bde135d884b0c161f4e78dc1c68f1796a6b047b535a20f568a9698904ec3\">DM4 Jam</a> with improved versions of several maps and three previously unreleased levels. The start map has been updated with additional exits. Some custom skyboxes and the map sources are included.",
  "files": {
   "dm4jam_dlc_readme.txt": {
    "bytes": 5572,
@@ -282,9 +281,6 @@
   "extract": "{base}/dm4jam/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of these maps require a source port with increased limits."
- ],
  "sha256": "0dfb8510f20f85556362c04f5a731781bbae92e3a0c736b3df765c51dd3e508f",
  "tags": [
   "author=Breezeep",

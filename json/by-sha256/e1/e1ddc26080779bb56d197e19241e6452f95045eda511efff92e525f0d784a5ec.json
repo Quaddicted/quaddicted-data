@@ -1,6 +1,5 @@
 {
  "bytes": 2573990,
- "description": "Medium-sized, very dark metal fortress.",
  "files": {
   "Intrusion Readme.txt": {
    "bytes": 1372,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "e1ddc26080779bb56d197e19241e6452f95045eda511efff92e525f0d784a5ec",
  "tags": [
   "author=mafon2",

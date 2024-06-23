@@ -1,6 +1,5 @@
 {
  "bytes": 3233156,
- "description": "A remake/remix of DM6 'The Dark Zone': Quake's stock deathmatch level turned into a large, industrial base-style singleplayer map. The map source is included.",
  "files": {
   "dm6rmx.bsp": {
    "bytes": 5469364,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260",
  "tags": [
   "author=than",

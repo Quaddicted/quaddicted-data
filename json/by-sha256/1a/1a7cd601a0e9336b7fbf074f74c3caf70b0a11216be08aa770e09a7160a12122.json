@@ -1,6 +1,5 @@
 {
  "bytes": 1068528,
- "description": "Small to medium, nicely built Base-style mining complex.",
  "files": {
   "mcomplex.bsp": {
    "bytes": 2625468,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1a7cd601a0e9336b7fbf074f74c3caf70b0a11216be08aa770e09a7160a12122",
  "tags": [
   "author=Ilkka Kurkela",

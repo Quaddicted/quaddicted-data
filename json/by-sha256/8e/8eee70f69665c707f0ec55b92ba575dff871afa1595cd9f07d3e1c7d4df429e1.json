@@ -1,6 +1,5 @@
 {
  "bytes": 157306,
- "description": "More or less one Wizard-textured room with a few monsters.",
  "files": {
   "THELEDGE.BSP": {
    "bytes": 384596,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8eee70f69665c707f0ec55b92ba575dff871afa1595cd9f07d3e1c7d4df429e1",
  "tags": [
   "author=Glenn Ancheta",

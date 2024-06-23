@@ -1,6 +1,5 @@
 {
  "bytes": 1275514,
- "description": "Smallish brick-themed map with some lava sections and multiple endings.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -42,10 +41,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
-  "This file was repackaged for Quake Injector compatibility."
- ],
  "sha256": "569bbe3f6030eace88701c016434f8aa268967df1c60c52fe1608227f48f044f",
  "tags": [
   "author=DrMelon",

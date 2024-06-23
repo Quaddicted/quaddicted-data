@@ -1,6 +1,5 @@
 {
  "bytes": 13385547,
- "description": "Eleven small classic-style / vanilla maps made in 48 hours, all themed after Quake episode 4 - The Elder World. Custom start map is included, as well as map source.",
  "files": {
   "sm218/": {
    "bytes": 0,
@@ -232,9 +231,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some maps may require a modern engine / source port with increased limits."
- ],
  "sha256": "6ac9e28d7b06f2c0f3ae012f1ae0f9141733fc2838703bb2f98dcd150806c771",
  "tags": [
   "author=Chris Holden",

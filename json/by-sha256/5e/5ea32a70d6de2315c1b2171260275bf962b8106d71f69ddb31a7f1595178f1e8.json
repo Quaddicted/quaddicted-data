@@ -1,6 +1,5 @@
 {
  "bytes": 8777379,
- "description": "Weekend-long impromptu speedmapping session: four around medium-sized metal levels. The map sources are included.",
  "files": {
   "du_sm1_dunlop.bsp": {
    "bytes": 3441760,
@@ -77,7 +76,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5ea32a70d6de2315c1b2171260275bf962b8106d71f69ddb31a7f1595178f1e8",
  "tags": [
   "author=Dunlop",

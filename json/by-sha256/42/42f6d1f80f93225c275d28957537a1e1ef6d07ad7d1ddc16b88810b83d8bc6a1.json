@@ -1,6 +1,5 @@
 {
  "bytes": 2051129,
- "description": "Base level. The map source is included.",
  "files": {
   "soulcomplex.bsp": {
    "bytes": 3724952,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1",
  "tags": [
   "author=Sonnenblume",

@@ -1,6 +1,5 @@
 {
  "bytes": 507182,
- "description": "A Doom2 MAP01 clone. Map file is included.",
  "files": {
   "KYSENTY3.BSP": {
    "bytes": 1160768,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "23d6430f5f24d3b9096021f17dde844f1c20711732c354fd6d826d2e40578e19",
  "tags": [
   "author=Kayos",

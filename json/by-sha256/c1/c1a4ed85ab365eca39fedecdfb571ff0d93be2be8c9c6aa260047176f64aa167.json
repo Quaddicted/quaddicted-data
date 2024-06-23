@@ -1,6 +1,5 @@
 {
  "bytes": 557135,
- "description": "Small orange/rock church surrounded by a stone graveyard. The map source is included.",
  "files": {
   "dgrave.bsp": {
    "bytes": 1234980,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c1a4ed85ab365eca39fedecdfb571ff0d93be2be8c9c6aa260047176f64aa167",
  "tags": [
   "author=David Nickerson",
@@ -37,7 +35,7 @@
   "theme=graveyard",
   "theme=no exit",
   "theme=rock",
-  "title=Daveu005C's Graves",
+  "title=Dave\\'s Graves",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

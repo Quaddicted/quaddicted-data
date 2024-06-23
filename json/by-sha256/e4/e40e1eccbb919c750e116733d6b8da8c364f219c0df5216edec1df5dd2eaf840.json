@@ -1,6 +1,5 @@
 {
  "bytes": 433846,
- "description": "Small Metal level.",
  "files": {
   "DISTURB.TXT": {
    "bytes": 3342,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840",
  "tags": [
   "author=marty",

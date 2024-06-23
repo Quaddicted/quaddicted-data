@@ -1,6 +1,5 @@
 {
  "bytes": 39684566,
- "description": "Large dark underwater base / temple adventure map with lots of exploration. Textures by Makkon, built on extras_r5 mod by Khreathor (already included) with features like ladders. Map source is included.",
  "files": {
   "id1/gfx/": {
    "bytes": 0,
@@ -437,12 +436,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "UPDATE, 08 Feb 2023: an updated version is available (<a href=\"786a9dc4c48d44a1a34f89e235b0cfd90b67148e23503458fdc54c757ee9df2a\">teuthisv3.zip</a>)",
-  "Make sure to save often, and save powerups until you really need them.",
-  "No custom start map or difficulty settings. Load manually in console with \"map teuthis\"",
-  "Requires a modern engine / source port with increased limits. Probably won't work on regular Quakespasm, for best results use Quakespasm Spiked or vkQuake."
- ],
  "sha256": "c8ab0db09c1e22f9f05b9f4923ab9ee1dac0dc513c592fedbd46556509be3c16",
  "tags": [
   "author=zbidou72",

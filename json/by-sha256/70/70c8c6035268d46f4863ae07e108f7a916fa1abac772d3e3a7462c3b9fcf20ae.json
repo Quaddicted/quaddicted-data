@@ -1,6 +1,5 @@
 {
  "bytes": 1593594,
- "description": "Two medium sized Metal/Wizard maps and a start map.",
  "files": {
   "C_GOL.bsp": {
    "bytes": 1511208,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae",
  "tags": [
   "author=Tim Elek",

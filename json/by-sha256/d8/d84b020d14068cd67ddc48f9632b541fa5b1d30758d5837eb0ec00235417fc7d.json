@@ -1,6 +1,5 @@
 {
  "bytes": 37878519,
- "description": "Speedmapping pack featuring seven SP/DM maps. The map sources are included. And some skyboxes, too.",
  "files": {
   "gfx/env/d4sky02_bk.tga": {
    "bytes": 3213712,
@@ -237,7 +236,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d",
  "tags": [
   "author=ChrisHolden",

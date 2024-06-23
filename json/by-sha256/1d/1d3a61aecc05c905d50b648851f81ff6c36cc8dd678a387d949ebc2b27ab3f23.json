@@ -1,6 +1,5 @@
 {
  "bytes": 2414882,
- "description": "Chain map consisting of five speedmapped 'sections' by various authors, idbase themed and set underground, with a somewhat vertical layout. The map source is included.",
  "files": {
   "pak0.PAK": {
    "bytes": 4746020,
@@ -159,7 +158,6 @@
   "extract": "{base}/sm36/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "tags": [
   "author=Misyu",

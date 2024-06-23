@@ -1,6 +1,5 @@
 {
  "bytes": 845360,
- "description": "Small mixed-style level; the single player version of <a href=\"http://shadowsdomain.wordpress.com/levels/quake/devastation/\">q1shw1</a>. The GPL map source is included.",
  "files": {
   "q1shw1sp.bsp": {
    "bytes": 1281360,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2e362fffd3907902879267bcd442efad43af3d37ecda04d48c8d90f054f610c5",
  "tags": [
   "author=ShadoW",

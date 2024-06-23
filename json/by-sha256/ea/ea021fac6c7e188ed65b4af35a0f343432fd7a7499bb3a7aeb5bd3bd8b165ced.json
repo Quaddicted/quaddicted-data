@@ -1,6 +1,5 @@
 {
  "bytes": 4487802,
- "description": "Large industrial factory/refinery level with a few arcane elements.",
  "files": {
   "asl_1.bsp": {
    "bytes": 12594500,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "ea021fac6c7e188ed65b4af35a0f343432fd7a7499bb3a7aeb5bd3bd8b165ced",
  "tags": [
   "author=Asl",

@@ -1,6 +1,5 @@
 {
  "bytes": 1002242,
- "description": "Large Base map. Custom progs include rotating fans.",
  "files": {
   "pak0.pak": {
    "bytes": 2503064,
@@ -27,7 +26,6 @@
   "extract": "{base}/tfl4/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1b0abee2da830f78fe6d34a44eab218355f4e2a87a65aadba9d4cc465e7cf66f",
  "tags": [
   "author=Anders \"Backspace\" Persson",

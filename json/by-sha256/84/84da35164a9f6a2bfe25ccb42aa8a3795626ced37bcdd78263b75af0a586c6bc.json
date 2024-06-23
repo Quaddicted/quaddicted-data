@@ -1,6 +1,5 @@
 {
  "bytes": 2688944,
- "description": "Small and tight vertical runic level. The map source is included.",
  "files": {
   "ion01.bsp": {
    "bytes": 4428733,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits."
- ],
  "sha256": "84da35164a9f6a2bfe25ccb42aa8a3795626ced37bcdd78263b75af0a586c6bc",
  "tags": [
   "author=ionous",
@@ -53,7 +49,7 @@
   "theme=slime",
   "theme=traps",
   "theme=wind tunnels",
-  "title=Der Wanderer u00fcber dem Su00e4uremeer",
+  "title=Der Wanderer \u00fcber dem S\u00e4uremeer",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -1,6 +1,5 @@
 {
  "bytes": 1912364,
- "description": "Retextured version of <a href=\"278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa\">Hell</a> with a bit of colored lighting added and a few missing items fixed.",
  "files": {
   "hellrev.bsp": {
    "bytes": 2800452,
@@ -22,11 +21,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4ea3b4b5d9f85df99b68d57d864fb4f94ea74eb47023a84e08d8ea1c2fe84c27",
  "tags": [
   "author=Greenwood",
-  "author=Rickard Edu00e9",
+  "author=Rickard Ed\u00e9",
   "filename=hellrev.zip",
   "game=quake",
   "game_mode=singleplayer",

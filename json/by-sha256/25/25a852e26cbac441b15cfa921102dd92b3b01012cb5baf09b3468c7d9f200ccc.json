@@ -1,6 +1,5 @@
 {
  "bytes": 98255,
- "description": "some Speedmap by card0",
  "files": {
   "sm72_cardo.bsp": {
    "bytes": 267896,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "25a852e26cbac441b15cfa921102dd92b3b01012cb5baf09b3468c7d9f200ccc",
  "tags": [
   "author=Cardo",

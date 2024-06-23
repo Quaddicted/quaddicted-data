@@ -1,6 +1,5 @@
 {
  "bytes": 3149426,
- "description": "Huge and very detailed space colony level with custom textures, new monsters such as Shock Troopers and Battle Mechs, as well as some other additional progs.",
  "files": {
   "gmsp1.txt": {
    "bytes": 4840,
@@ -131,7 +130,6 @@
   "extract": "{base}/gmsp1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "63ad5a20323f68cab9526efe3b8a265d05227d367b2758183bc6ac5ae3ed3a35",
  "tags": [
   "author=Howard \"GlassMan\" Shaw",

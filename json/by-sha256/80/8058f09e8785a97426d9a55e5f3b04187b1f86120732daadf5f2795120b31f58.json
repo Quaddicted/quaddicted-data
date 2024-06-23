@@ -1,6 +1,5 @@
 {
  "bytes": 95033,
- "description": "Unlit arena map with 300+ monsters. The map source is included.",
  "files": {
   "oopv.bsp": {
    "bytes": 245140,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "8058f09e8785a97426d9a55e5f3b04187b1f86120732daadf5f2795120b31f58",
  "tags": [
   "author=Ranch Soil (hexcalk)",

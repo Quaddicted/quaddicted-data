@@ -1,6 +1,5 @@
 {
  "bytes": 607508,
- "description": "Fifth map of the LTHSP series: a small unique blue metal map featuring Crossbow Knights and, like the other LTH maps, supports colored lighting (which you might want to disable in this case).",
  "files": {
   "lthsp5.txt": {
    "bytes": 2596,
@@ -62,7 +61,6 @@
   "extract": "{base}/lthsp5/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257",
  "tags": [
   "author=The Lieutenant",

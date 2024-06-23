@@ -1,6 +1,5 @@
 {
  "bytes": 18026695,
- "description": "Large techbase themed map using a variety of texture sets.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -107,10 +106,6 @@
   "extract": "{base}/alk1.2/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a>.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "72163b4d7131602c593ef028004108886483c5d2a2c1a831a4d5cf7068bbc3c6",
  "tags": [
   "author=ZetaByt",

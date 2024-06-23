@@ -1,6 +1,5 @@
 {
  "bytes": 1924172,
- "description": "Medium to large base map with a warehouse, a mech hangar and a submarine port. A singleplayer demo is included.",
  "files": {
   "BASE1.dem": {
    "bytes": 2382350,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Originally named \"my level.zip\", renamed to \"my_level.zip\"."
- ],
  "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "tags": [
   "author=Denis Gusakov",

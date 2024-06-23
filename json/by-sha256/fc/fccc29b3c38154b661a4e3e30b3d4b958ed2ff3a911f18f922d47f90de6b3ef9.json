@@ -1,6 +1,5 @@
 {
  "bytes": 284994,
- "description": "Small gritty industrial map.",
  "files": {
   "steel valour.txt": {
    "bytes": 2245,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9",
  "tags": [
   "author=Peter Bisseker (tiddles)",

@@ -1,6 +1,5 @@
 {
  "bytes": 78589455,
- "description": "Halloween-themed episode of 8 short maps by various authors, plus three bonus maps, all accessible from a central hub. Built on a modified <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a> mod (included) with a new 'Penetrator' stake gun weapon, the Rotary Shotgun from Dwell and the Gaunt monster from Quoth.",
  "files": {
   "snack3/": {
    "bytes": 0,
@@ -1253,10 +1252,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "92b11d3749b3b7d0ada1cbf779417d56ccfbfaf24347c91a416c5da91f82d687",
  "tags": [
   "author=66ppt99",

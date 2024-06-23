@@ -1,6 +1,5 @@
 {
  "bytes": 19103359,
- "description": "Three-map mini episode in a dark medieval theme. It has an extra start map and features a few modifications, some new sounds, models and textures.",
  "files": {
   "e1ubi/": {
    "bytes": 0,
@@ -247,10 +246,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require a source port with increased limits and BSP2 support.",
-  "An updated version is available <a href=\"https://www.quaddicted.com/filebase/e1ubi_plantegenets_v1_4.zip\">here</a>."
- ],
  "sha256": "3c7682c9903bcc766381d58e7e91550620cf427a37e01be81d9fab74e9ebe762",
  "tags": [
   "author=Ubiquitous",

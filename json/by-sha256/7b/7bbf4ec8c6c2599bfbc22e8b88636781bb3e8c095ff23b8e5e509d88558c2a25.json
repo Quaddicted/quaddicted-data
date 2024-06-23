@@ -1,6 +1,5 @@
 {
  "bytes": 6202841,
- "description": "Remake of Blood's e1m1. Requires Darkplaces or another engine with support for transparent textures.",
  "files": {
   "cradle/": {
    "bytes": 0,
@@ -82,7 +81,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7bbf4ec8c6c2599bfbc22e8b88636781bb3e8c095ff23b8e5e509d88558c2a25",
  "tags": [
   "author=Ruin",

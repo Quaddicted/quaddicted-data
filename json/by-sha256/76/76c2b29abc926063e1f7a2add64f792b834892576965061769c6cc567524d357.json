@@ -1,6 +1,5 @@
 {
  "bytes": 7274807,
- "description": "Medium-sized terracotta/red brick castle based on the Progs_dump mod (included). Comes with a custom skybox and a few new sounds/models. The map and QC sources are included.",
  "files": {
   "README - jpqm6 - Brick Red.txt": {
    "bytes": 3283,
@@ -462,9 +461,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits + BSP2 support."
- ],
  "sha256": "76c2b29abc926063e1f7a2add64f792b834892576965061769c6cc567524d357",
  "tags": [
   "author=JPal",

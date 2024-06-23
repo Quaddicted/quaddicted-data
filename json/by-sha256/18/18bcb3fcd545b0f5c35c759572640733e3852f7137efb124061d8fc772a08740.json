@@ -1,6 +1,5 @@
 {
  "bytes": 11377530,
- "description": "SP episode with 8 medium sized Medieval/ Metal maps with some Base bits and a few custom textures (including start and secret level).",
  "files": {
   "orlmap4.bsp": {
    "bytes": 2419904,
@@ -62,7 +61,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "18bcb3fcd545b0f5c35c759572640733e3852f7137efb124061d8fc772a08740",
  "tags": [
   "author=ORL",

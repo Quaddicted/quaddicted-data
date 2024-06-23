@@ -1,6 +1,5 @@
 {
  "bytes": 641050,
- "description": "Plain medium-sized castle with an underground cave.",
  "files": {
   "ps.bsp": {
    "bytes": 1408357,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12",
  "tags": [
   "author=Darren Stabler",

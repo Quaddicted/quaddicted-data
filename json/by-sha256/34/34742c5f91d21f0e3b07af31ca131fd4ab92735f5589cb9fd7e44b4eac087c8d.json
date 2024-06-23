@@ -1,6 +1,5 @@
 {
  "bytes": 10684100,
- "description": "A small weird experimental map for vanilla Quake, using custom made AI-generated textures with Stable Diffusion. Map source file is included. <i>\"No real monsters.\"</i>",
  "files": {
   "ai-textures.bsp": {
    "bytes": 32670020,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires a modern engine / source port with increased limits."
- ],
  "sha256": "34742c5f91d21f0e3b07af31ca131fd4ab92735f5589cb9fd7e44b4eac087c8d",
  "tags": [
   "author=nathnolt",

@@ -1,6 +1,5 @@
 {
  "bytes": 6439926,
- "description": "Large greek-themed medieval town with a venice-style canal and cavern areas beneath. It also features a few new and modified monsters: crossbow knights, skeletons and Granito.",
  "files": {
   "pak0.pak": {
    "bytes": 19030168,
@@ -248,7 +247,6 @@
   "extract": "{base}/veni/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08",
  "tags": [
   "author=MadFox",

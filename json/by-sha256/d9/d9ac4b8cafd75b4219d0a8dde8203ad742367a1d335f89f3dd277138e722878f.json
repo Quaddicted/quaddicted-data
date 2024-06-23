@@ -1,6 +1,5 @@
 {
  "bytes": 3359943,
- "description": "Results of the 2007 Vertical map event at Func_Msgboard. According to the rules all brushwork and entities remain within a 768*768 unit base with unlimited vertical height, the maps make no use of player teleportation, support singleplayer and are based on Quoth. The pack includes four medium sized maps of varying themes by lurker, rudl, Spirit and Trinca.",
  "files": {
   "768_pack.txt": {
    "bytes": 1648,
@@ -87,9 +86,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
- ],
  "sha256": "d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f",
  "tags": [
   "author=Lurker",

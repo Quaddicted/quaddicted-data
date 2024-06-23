@@ -1,6 +1,5 @@
 {
  "bytes": 1369067,
- "description": "Fairly large, plain base level with a flying enforcer and non-linear gameplay.",
  "files": {
   "pak0.PAK": {
    "bytes": 3448948,
@@ -31,7 +30,6 @@
   "extract": "{base}/v6/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1",
  "tags": [
   "author=Zied Rieke",

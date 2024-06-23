@@ -1,6 +1,5 @@
 {
  "bytes": 10410776,
- "description": "Smallish castle with a library and 'digestive dungeon' beneath. Comes with a custom music track and a few screenshots. The map source is included.",
  "files": {
   "ravenous3.bsp": {
    "bytes": 5932468,
@@ -72,9 +71,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "5cc6afd596ccbce93c4513559640dfc6e1cc100f034a7ab71e4555f816a52898",
  "tags": [
   "author=Jon Richter",

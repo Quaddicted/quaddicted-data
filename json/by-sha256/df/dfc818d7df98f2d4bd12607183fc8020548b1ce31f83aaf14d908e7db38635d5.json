@@ -1,6 +1,5 @@
 {
  "bytes": 536539,
- "description": "A series of 5 small short maps for vanilla Quake from a beginner mapper back in 2000. Variety of different settings and themes, from an ice cavern to a dark castle, and hard gameplay.",
  "files": {
   "tevo.txt": {
    "bytes": 2716,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dfc818d7df98f2d4bd12607183fc8020548b1ce31f83aaf14d908e7db38635d5",
  "tags": [
   "author=Leo Slayer",

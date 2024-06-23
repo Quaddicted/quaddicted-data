@@ -1,6 +1,5 @@
 {
  "bytes": 6084377,
- "description": "Temple themed map with bright outdoor sections.",
  "files": {
   "MARTY1.BSP": {
    "bytes": 2123368,
@@ -42,9 +41,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires Scourge of Armagon."
- ],
  "sha256": "d084d752d4bce81c6553d353765255a16902a07bf67f9f73b3e0028b415ecfaf",
  "tags": [
   "author=marty",

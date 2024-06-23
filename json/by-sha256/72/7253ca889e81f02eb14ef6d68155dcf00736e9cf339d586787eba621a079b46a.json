@@ -1,6 +1,5 @@
 {
  "bytes": 1150805,
- "description": "Smallish city/realism map with a few new textures. The map source is included.",
  "files": {
   "voidc.bsp": {
    "bytes": 2839480,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7253ca889e81f02eb14ef6d68155dcf00736e9cf339d586787eba621a079b46a",
  "tags": [
   "author=nolcoz",

@@ -1,6 +1,5 @@
 {
  "bytes": 826482,
- "description": "Two medium sized levels: A tight metal-themed canyon map and a spacious and plain Metal/Wizard map. Fort2 has to be played first!",
  "files": {
   "Kfort1.txt": {
    "bytes": 3212,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fe8aa9b396cd454f698a627303233d7f5154bed4080742dc90461b38ff44b08a",
  "tags": [
   "author=Kurt Kesler",

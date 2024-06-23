@@ -1,6 +1,5 @@
 {
  "bytes": 825427,
- "description": "Medium sized Wizard map. Second map of the LFSP series.",
  "files": {
   "lfsp2.bsp": {
    "bytes": 1852572,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed",
  "tags": [
   "author=Leafface",

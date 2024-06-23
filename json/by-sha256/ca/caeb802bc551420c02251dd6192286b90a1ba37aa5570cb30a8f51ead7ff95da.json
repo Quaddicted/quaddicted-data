@@ -1,6 +1,5 @@
 {
  "bytes": 2164318,
- "description": "Medium-sized medieval stronghold surrounded by rocks and lava. A classic-style level in the spirit of <a href=\"0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721\">Beyond Belief</a>. The map source is included.",
  "files": {
   "bbelief2008.bsp": {
    "bytes": 4617288,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "caeb802bc551420c02251dd6192286b90a1ba37aa5570cb30a8f51ead7ff95da",
  "tags": [
   "author=Matthias Worch",

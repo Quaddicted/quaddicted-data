@@ -1,6 +1,5 @@
 {
  "bytes": 5128876,
- "description": "A remix of id's e2m5 in Q3 gothic textures and bigger scale.",
  "files": {
   "E2M5.map": {
    "bytes": 2684096,
@@ -69,7 +68,6 @@
   "extract": "{base}/e2m5rmx/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1",
  "tags": [
   "author=rj",

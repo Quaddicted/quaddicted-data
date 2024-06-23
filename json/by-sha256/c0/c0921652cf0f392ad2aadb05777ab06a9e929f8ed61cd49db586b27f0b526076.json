@@ -1,6 +1,5 @@
 {
  "bytes": 41366161,
- "description": "Large-scale Quake mission with 15 SP levels (including a start map and two secret maps), custom textures, a few new monsters and items, as well as some additional deathmatch maps.",
  "files": {
   "pak0.pak": {
    "bytes": 100036539,
@@ -747,9 +746,6 @@
   "extract": "{base}/travail/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Additional files: soundtrack</a>, reworked skins</a>."
- ],
  "sha256": "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
  "tags": [
   "author=Asaki",

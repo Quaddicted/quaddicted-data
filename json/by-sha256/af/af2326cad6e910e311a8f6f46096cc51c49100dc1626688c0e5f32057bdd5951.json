@@ -1,6 +1,5 @@
 {
  "bytes": 8179098,
- "description": "Large \"meaty\" medieval map for vanilla Quake with wave-based \"horde\" style gameplay. It uses a mix of mostly id1 textures, with some Impel and Rogue textures mixed in. The author's first release. Map source is included.",
  "files": {
   "cinburron/": {
    "bytes": 0,
@@ -42,10 +41,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "No custom start map; load manually via console: \"map cinburron\"",
-  "Due to high monster count, likely requires a modern engine / source port with increased limits. Ironwail recommended."
- ],
  "sha256": "af2326cad6e910e311a8f6f46096cc51c49100dc1626688c0e5f32057bdd5951",
  "tags": [
   "author=ZetaByt",

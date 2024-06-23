@@ -1,6 +1,5 @@
 {
  "bytes": 974397,
- "description": "Medium sized Base map with non-linear gameplay. Map source is included.",
  "files": {
   "GENETIX.TXT": {
    "bytes": 3963,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "abe5926c7e2ea7bc02522865c6edc4eaab6934be9a171554111ccff83fa90f41",
  "tags": [
   "author=Astaroth (Rob Ellis II)",

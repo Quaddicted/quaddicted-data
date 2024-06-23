@@ -1,6 +1,5 @@
 {
  "bytes": 4400729,
- "description": "Speedmapping pack featuring six SP levels. The map sources are included.",
  "files": {
   "maps/sm203_artistical.bsp": {
    "bytes": 3803864,
@@ -127,9 +126,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps requires the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod."
- ],
  "sha256": "4306525071e2661793c9259ce2c9ce8b4a4c10a7e0e9d63e3968c413e045e8a1",
  "tags": [
   "author=Artistical",

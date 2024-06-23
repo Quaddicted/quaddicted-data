@@ -1,6 +1,5 @@
 {
  "bytes": 486117,
- "description": "Small, dark wizard map.",
  "files": {
   "darknite.bsp": {
    "bytes": 1106032,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b106fbc5de7946f5911db961a5addb2c4059bf98a82f7095d91ec390a35dfeec",
  "tags": [
   "author=Neil Manke",

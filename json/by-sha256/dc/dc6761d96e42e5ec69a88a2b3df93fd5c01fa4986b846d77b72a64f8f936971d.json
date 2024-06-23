@@ -1,6 +1,5 @@
 {
  "bytes": 4741650,
- "description": "Results of the third Quake Turtlemap event: 4 small to medium SP maps in varying themes by Hrimfaxi, Leviathan and Zwiffle - all made in one week or less.",
  "files": {
   "q1tm3.txt": {
    "bytes": 1138,
@@ -42,7 +41,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d",
  "tags": [
   "author=Hrimfaxi",

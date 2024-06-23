@@ -1,6 +1,5 @@
 {
  "bytes": 459614,
- "description": "Medium sized realistic map with custom textures.",
  "files": {
   "etown.bsp": {
    "bytes": 1026024,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c9b4807b47aaf8a696be33e1fa3168453759469505c2a0630fd702b34893cf0a",
  "tags": [
   "author=Anders Gustavsson",

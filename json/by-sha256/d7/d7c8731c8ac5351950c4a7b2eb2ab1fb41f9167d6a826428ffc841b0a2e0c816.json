@@ -1,6 +1,5 @@
 {
  "bytes": 828722,
- "description": "A small base level with lots of monsters and little ammo. Features 'new' flying enforcer enemy.",
  "files": {
   "3oc.txt": {
    "bytes": 4333,
@@ -59,7 +58,6 @@
   "extract": "{base}/3oc/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "tags": [
   "author=Zied Rieke",

@@ -1,6 +1,5 @@
 {
  "bytes": 848574,
- "description": "Medium-sized lava cavern with a base part.",
  "files": {
   "TOHNSAY.BSP": {
    "bytes": 1934712,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345",
  "tags": [
   "author=John Dreese",

@@ -1,6 +1,5 @@
 {
  "bytes": 570863,
- "description": "A house.",
  "files": {
   "MADHOUSE.BSP": {
    "bytes": 1377172,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b85b204098bbf7b6b2420d7d7aec77c3cdbc276b9372b0144a3a99a45e6ab917",
  "tags": [
   "author=Shamus Young",

@@ -1,6 +1,5 @@
 {
  "bytes": 3331209,
- "description": "Large mountain base with Q2MP1 textures and some custom monsters.",
  "files": {
   "lunsp1.txt": {
    "bytes": 5768,
@@ -158,7 +157,6 @@
   "extract": "{base}/lunsp1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "tags": [
   "author=Matt \"Lunaran\"  Breit",

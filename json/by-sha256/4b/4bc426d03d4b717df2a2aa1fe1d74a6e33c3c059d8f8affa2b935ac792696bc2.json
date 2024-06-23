@@ -1,6 +1,5 @@
 {
  "bytes": 1747986,
- "description": "Around medium-sized blue brick level.",
  "files": {
   "akm1.bsp": {
    "bytes": 1123436,
@@ -22,9 +21,6 @@
   "extract": "{base}/copper/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a>."
- ],
  "sha256": "4bc426d03d4b717df2a2aa1fe1d74a6e33c3c059d8f8affa2b935ac792696bc2",
  "tags": [
   "author=AlekswithaK",

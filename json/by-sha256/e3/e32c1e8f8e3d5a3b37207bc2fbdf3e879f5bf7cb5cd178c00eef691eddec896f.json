@@ -1,6 +1,5 @@
 {
  "bytes": 660641,
- "description": "Medium sized Base map with a bunker/turrets area and a few custom textures. Originally designed for the Navy Seals mod.",
  "files": {
   "ReadMe.txt": {
    "bytes": 1367,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e32c1e8f8e3d5a3b37207bc2fbdf3e879f5bf7cb5cd178c00eef691eddec896f",
  "tags": [
   "author=Zakalwe (Judson Eiloart)",

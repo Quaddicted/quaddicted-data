@@ -1,6 +1,5 @@
 {
  "bytes": 487136,
- "description": "Small castle with a few custom textures and many func_illusionaries.",
  "files": {
   "Janitor1.bsp": {
    "bytes": 1187928,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f6f5898d1baeaa7f054b997d21af2da9ff71b98b4c43c104828f5d64dc87c02d",
  "tags": [
   "author=Neil Manke",

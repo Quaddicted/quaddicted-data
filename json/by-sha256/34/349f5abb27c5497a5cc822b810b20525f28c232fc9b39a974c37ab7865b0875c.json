@@ -1,6 +1,5 @@
 {
  "bytes": 9733830,
- "description": "Three-map base/industrial campaign with new textures, three new monsters, and a few other additions.",
  "files": {
   "pak0.pak": {
    "bytes": 24381576,
@@ -295,7 +294,6 @@
   "extract": "{base}/rubicon2/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
  "tags": [
   "author=czg",

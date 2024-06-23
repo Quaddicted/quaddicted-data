@@ -1,6 +1,5 @@
 {
  "bytes": 237062,
- "description": "Small sewer map with a few custom textures and lava columns?!",
  "files": {
   "sewer.bsp": {
    "bytes": 531188,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5a71a5c61c59664730b8080ae72911c025a0a934e9d2e002766716a72f607a64",
  "tags": [
   "author=Francis Fearon",

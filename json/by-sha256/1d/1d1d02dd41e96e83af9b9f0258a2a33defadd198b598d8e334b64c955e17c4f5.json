@@ -1,6 +1,5 @@
 {
  "bytes": 52916895,
- "description": "Community mapping project with the goal of creating a full level based on a simple layout provided by Markie Music. The resulting pack features 14 small to medium-sized levels of varying themes. It comes with three custom skyboxes and two music tracks. The map sources are included.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -382,9 +381,6 @@
   "extract": "{base}/qbb1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of these maps require a source port with increased limits + BSP2 support."
- ],
  "sha256": "1d1d02dd41e96e83af9b9f0258a2a33defadd198b598d8e334b64c955e17c4f5",
  "tags": [
   "author=Artistical",

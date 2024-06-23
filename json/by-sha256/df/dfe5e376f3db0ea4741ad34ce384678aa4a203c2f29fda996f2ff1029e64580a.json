@@ -1,6 +1,5 @@
 {
  "bytes": 4459088,
- "description": "Small / medium sized medieval castle / wizard themed map for vanilla Quake.",
  "files": {
   "FortressOfSecrets/Read me.txt": {
    "bytes": 1128,
@@ -27,9 +26,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map must be manually installed and will not work in Quake Injector."
- ],
  "sha256": "dfe5e376f3db0ea4741ad34ce384678aa4a203c2f29fda996f2ff1029e64580a",
  "tags": [
   "author=Vaskully",

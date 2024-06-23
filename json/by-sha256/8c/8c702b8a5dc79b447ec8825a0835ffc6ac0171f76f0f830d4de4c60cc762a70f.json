@@ -1,6 +1,5 @@
 {
  "bytes": 3137694,
- "description": "A \"Vanilla+\" gameplay mod that introduces subtle tweaks to some of the game's core mechanics in order to make for a smoother experience. It is compatible with the original maps and most standard (id1-based) custom levels.<br><br>Summary:<ul><i> <li>Weapons fire is not blocked by monsters in death animations</li> <li>Ring of Shadows makes enemies less accurate in combat</li> <li>Vore missiles have a less-than-perfect turn rate</li> <li>Ogres are 'partially' Z-aware</li> <li>Zombie edge cases are fixed</li> <li>Armor protection is proportional to current quantity</li> <li>Nightmare skill is 50 max HP instead of turret-monsters</li></i></ul>",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -604,9 +603,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "The mod is accompanied by a seperate custom episode: <a href=\"74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62\">Underdark Overbright</a> An updated version (1.17) is available <a href=\"7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a\">here</a>."
- ],
  "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",
  "tags": [
   "author=Lunaran",

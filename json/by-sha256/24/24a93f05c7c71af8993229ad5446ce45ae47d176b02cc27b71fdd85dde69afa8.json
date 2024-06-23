@@ -1,6 +1,5 @@
 {
  "bytes": 513331352,
- "description": "Sequel to the <a href=\"c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10\">Quake Brutalist Jam</a> featuring another 30 concrete hellscapes and brutal liminal voids, from mapping veterans and newcomers alike. Organisation, texture wad and expansive start map (pictured) by Makkon. Based on the Copper mod (included).",
  "files": {
   "qbj2/": {
    "bytes": 0,
@@ -2480,9 +2479,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8",
  "tags": [
   "author=Andicraft",

@@ -1,6 +1,5 @@
 {
  "bytes": 9123935,
- "description": "Medium-sized base map using Doom 3 textures. It comes with a number of custom ambient sounds and features hard combat.",
  "files": {
   "dis_sp6.txt": {
    "bytes": 6566,
@@ -182,9 +181,6 @@
   "extract": "{base}/quoth"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
- ],
  "sha256": "583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6",
  "tags": [
   "author=distrans",

@@ -1,6 +1,5 @@
 {
  "bytes": 744245,
- "description": "Two boxed base maps with unusual texturing and lighting. The mission is to make one's way up a tower and escape through the hangar.",
  "files": {
   "LIGHT.LOG": {
    "bytes": 133,
@@ -52,7 +51,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7a2badbd1de8ca4f6207d41abb305e31f2149d8dfe63bc4ea94b266e9557e674",
  "tags": [
   "author=Andrej 'MC' Kacian",

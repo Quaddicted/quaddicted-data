@@ -1,6 +1,5 @@
 {
  "bytes": 1266466,
- "description": "Fairly large wizard level.",
  "files": {
   "ariadat.bsp": {
    "bytes": 3254184,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "47f58747c89e335ce2e13acd417e038b27bea5b9b50dc3af192b1e89ae8aa6c3",
  "tags": [
   "author=HeadThump",

@@ -1,6 +1,5 @@
 {
  "bytes": 327415,
- "description": "Rescue mission / 1 SP map / neg!ke",
  "files": {
   "sm113_neg!ke.bsp": {
    "bytes": 805584,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "04618b6574ade9daf91df0396d542729298a7698105a9e1b499b7b6cc6b58994",
  "tags": [
   "author=negke",

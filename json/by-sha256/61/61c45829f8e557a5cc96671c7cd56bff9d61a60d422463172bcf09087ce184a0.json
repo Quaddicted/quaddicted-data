@@ -1,6 +1,5 @@
 {
  "bytes": 887909,
- "description": "This is a vis patch for <a href=\"549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b\">Prodigy SE</a> enabling support for transparent water.",
  "files": {
   "pse.dat": {
    "bytes": 246,
@@ -42,7 +41,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "61c45829f8e557a5cc96671c7cd56bff9d61a60d422463172bcf09087ce184a0",
  "tags": [
   "author=Dario Casali (Darren Winter)",

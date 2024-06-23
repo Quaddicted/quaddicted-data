@@ -1,6 +1,5 @@
 {
  "bytes": 6051217,
- "description": "First half of an SP episode. Three medium sized canyon/ swamp/ Medieval temple maps and an unfinished Base map - many new (partly strange) textures.",
  "files": {
   "oms2.txt": {
    "bytes": 1930,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151",
  "tags": [
   "author=ORL",

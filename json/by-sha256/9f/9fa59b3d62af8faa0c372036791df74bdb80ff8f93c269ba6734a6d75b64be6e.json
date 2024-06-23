@@ -1,6 +1,5 @@
 {
  "bytes": 569784,
- "description": "Medium sized, interconnected and largely nonlinear Metal map.",
  "files": {
   "wishes.bsp": {
    "bytes": 1285104,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9fa59b3d62af8faa0c372036791df74bdb80ff8f93c269ba6734a6d75b64be6e",
  "tags": [
   "author=Rick Lipsey",

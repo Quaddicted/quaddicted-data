@@ -1,6 +1,5 @@
 {
  "bytes": 238149,
- "description": "Small map, a deadly maze inside a pyramid.",
  "files": {
   "pypain.bsp": {
    "bytes": 698806,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "259eb255ef525d7ec25f96ec4f4214d09a9d733ca7d21b06a0764500c4ca814c",
  "tags": [
   "author=Omus",

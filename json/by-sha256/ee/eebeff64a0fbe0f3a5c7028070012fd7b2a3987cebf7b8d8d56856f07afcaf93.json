@@ -1,6 +1,5 @@
 {
  "bytes": 412548,
- "description": "Small brick castle with a courtyard.",
  "files": {
   "PABC3.bsp": {
    "bytes": 1013888,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "eebeff64a0fbe0f3a5c7028070012fd7b2a3987cebf7b8d8d56856f07afcaf93",
  "tags": [
   "author=Unknown",

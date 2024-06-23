@@ -1,6 +1,5 @@
 {
  "bytes": 24308024,
- "description": "Large dark industrial map using IKbase textures. Comes with a custom music track by the author. The map source is included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -47,9 +46,6 @@
   "extract": "{base}/nmth_machinery"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "6165726da0d276d595f9d370b6cd464f21ed0d46d19802ef13f2e77ac89c2c94",
  "tags": [
   "author=Guilherme Nemeth",

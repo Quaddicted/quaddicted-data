@@ -1,6 +1,5 @@
 {
  "bytes": 2844296,
- "description": "<s>Update to <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth 2</a> with a focus on refinement, such as fixing bugs and rebalancing monsters, with some minor new features.</s>   This release was nuked, because it does not include the correct files. <b>? The proper release is available <a href=\"33c5fcaf006a30d0692fd6ec72c59ee7141bacd656cd335d03944d439c6656fd\">here</a>.</b>",
  "files": {
   "launch.bat": {
    "bytes": 6927,
@@ -201,7 +200,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "30b92311e31ae20c4bd3bfb06a5bfc9e1888de655b92d8e86a6352319a201972",
  "tags": [
   "author=Kell",

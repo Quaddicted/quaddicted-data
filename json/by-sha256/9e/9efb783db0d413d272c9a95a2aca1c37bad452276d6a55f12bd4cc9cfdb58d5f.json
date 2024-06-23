@@ -1,6 +1,5 @@
 {
  "bytes": 46727961,
- "description": "Four-map episode inspired by classic quake themes, designs and gameplay.",
  "files": {
   "vestige/": {
    "bytes": 0,
@@ -109,9 +108,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility."
- ],
  "sha256": "9efb783db0d413d272c9a95a2aca1c37bad452276d6a55f12bd4cc9cfdb58d5f",
  "tags": [
   "author=Jack of Black Phoenix",

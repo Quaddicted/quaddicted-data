@@ -1,6 +1,5 @@
 {
  "bytes": 540133,
- "description": "IDbase / 4 SP maps / Apollo, CardO, Starbuck, Speedy",
  "files": {
   "sm31_ap.bsp": {
    "bytes": 56604,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5ab5a5ec046fa96edacf05b50d63c4e239abf2b2ecb7ecf902f70b044b8cea52",
  "tags": [
   "author=Apollo",

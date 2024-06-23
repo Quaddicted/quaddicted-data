@@ -1,6 +1,5 @@
 {
  "bytes": 915422,
- "description": "Large red brick map.",
  "files": {
   "GODSJT.BSP": {
    "bytes": 2084332,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d76a2a30f55d440c3bfcacefeaeaf823a7ee0ef79e19ee9a8977921a513815a3",
  "tags": [
   "author=Jussi Tuononen",

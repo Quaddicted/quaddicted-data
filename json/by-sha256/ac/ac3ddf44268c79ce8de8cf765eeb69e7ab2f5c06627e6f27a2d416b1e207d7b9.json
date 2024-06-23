@@ -1,6 +1,5 @@
 {
  "bytes": 124202,
- "description": "Small, cramped, dark, plain Wizard-style deathmatch map with monsters but no exit.",
  "files": {
   "cross.bsp": {
    "bytes": 309568,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ac3ddf44268c79ce8de8cf765eeb69e7ab2f5c06627e6f27a2d416b1e207d7b9",
  "tags": [
   "author=Peter Bisseker (tiddles)",

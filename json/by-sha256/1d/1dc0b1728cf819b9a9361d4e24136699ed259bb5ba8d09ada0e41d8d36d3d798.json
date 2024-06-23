@@ -1,6 +1,5 @@
 {
  "bytes": 491373,
- "description": "Medium sized detailed Metal level with base and medieval monsters. Comes with a start map. Unnecessarily released as a PAK.",
  "files": {
   "pak0.pak": {
    "bytes": 1157568,
@@ -27,7 +26,6 @@
   "extract": "{base}/guard/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798",
  "tags": [
   "author=Andrew Smith",

@@ -1,6 +1,5 @@
 {
  "bytes": 799457,
- "description": "Medium sized Metal map.",
  "files": {
   "Res.bsp": {
    "bytes": 1850092,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f",
  "tags": [
   "author=Chris Mayers",

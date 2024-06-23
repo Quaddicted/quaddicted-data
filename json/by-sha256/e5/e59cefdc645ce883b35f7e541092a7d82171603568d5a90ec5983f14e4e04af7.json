@@ -1,6 +1,5 @@
 {
  "bytes": 309035,
- "description": "Castle MadFox / 2 SP maps / negke, Scampie",
  "files": {
   "sm174_negke.bsp": {
    "bytes": 631364,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e59cefdc645ce883b35f7e541092a7d82171603568d5a90ec5983f14e4e04af7",
  "tags": [
   "author=Scampie",

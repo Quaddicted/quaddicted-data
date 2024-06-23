@@ -1,6 +1,5 @@
 {
  "bytes": 232820,
- "description": "Dark stone maze.",
  "files": {
   "supermaze.bsp": {
    "bytes": 1003156,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e1f11cfc0d6f0bf5434f9f5502bcda8b919fac025d4977089e19f3d0737cb921",
  "tags": [
   "author=Unknown",

@@ -1,6 +1,5 @@
 {
  "bytes": 542018,
- "description": "Very small map leading from a base through a canyon. Uses a few Doom textures.",
  "files": {
   "MDKT.BSP": {
    "bytes": 1324440,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "216b1c48f9f64a515dcb2d70f95194f3def2b3fafc46228c6eefaa551ce4e3a2",
  "tags": [
   "author=JAR",

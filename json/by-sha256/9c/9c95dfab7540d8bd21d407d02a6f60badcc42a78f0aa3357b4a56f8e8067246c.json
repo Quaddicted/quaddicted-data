@@ -1,6 +1,5 @@
 {
  "bytes": 10378394,
- "description": "Reworked monster skins for <a href=\"c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076\">Travail</a> \"just filtered a bit to bring out more details and colours\".",
  "files": {
   "Travail_skins.txt": {
    "bytes": 2074,
@@ -112,7 +111,6 @@
   "extract": "{base}/travail/textures/monsters"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9c95dfab7540d8bd21d407d02a6f60badcc42a78f0aa3357b4a56f8e8067246c",
  "tags": [
   "author=aguirRe",

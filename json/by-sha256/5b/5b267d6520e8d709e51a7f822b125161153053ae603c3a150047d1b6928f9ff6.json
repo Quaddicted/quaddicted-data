@@ -1,6 +1,5 @@
 {
  "bytes": 262033,
- "description": "Very small, leaked Base map. One room with crates, three monsters.",
  "files": {
   "evilarmy.bsp": {
    "bytes": 619892,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6",
  "tags": [
   "author=Vidar Ermesjo (aka Saboteur/Nagel)",

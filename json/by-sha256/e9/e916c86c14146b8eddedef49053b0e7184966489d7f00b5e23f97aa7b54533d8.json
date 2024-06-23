@@ -1,6 +1,5 @@
 {
  "bytes": 39110650,
- "description": "A set of 11 beginner levels in various themes. Features a start map and a custom music track. The map sources are included. One of the maps (huh_tombandtower) requires a source port with increased limits.",
  "files": {
   "huh/": {
    "bytes": 0,
@@ -410,7 +409,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e916c86c14146b8eddedef49053b0e7184966489d7f00b5e23f97aa7b54533d8",
  "tags": [
   "author=ASO3000",

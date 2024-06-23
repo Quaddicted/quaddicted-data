@@ -1,6 +1,5 @@
 {
  "bytes": 404374,
- "description": "Small blocky level textured almost entirely in brown bricks. The author states it was built with Legos first, then mapped.",
  "files": {
   "gr1m1.bsp": {
    "bytes": 912980,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "79dcaa79b1797f36e174de888fcbe2e62a39bca70286ff79af0d22c2efcbf80f",
  "tags": [
   "author=Qmaster",

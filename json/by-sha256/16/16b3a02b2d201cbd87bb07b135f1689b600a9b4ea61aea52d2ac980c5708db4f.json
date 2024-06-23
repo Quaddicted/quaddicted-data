@@ -1,6 +1,5 @@
 {
  "bytes": 8275513,
- "description": "Three-map pack created with Fakk2 and Quake3 textures, many new + modified monsters and some new weapons.",
  "files": {
   "flesh/": {
    "bytes": 0,
@@ -636,7 +635,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "16b3a02b2d201cbd87bb07b135f1689b600a9b4ea61aea52d2ac980c5708db4f",
  "tags": [
   "author=Shaun [Kona] Ross",

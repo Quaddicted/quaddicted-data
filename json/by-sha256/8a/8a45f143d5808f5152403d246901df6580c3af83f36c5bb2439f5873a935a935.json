@@ -1,6 +1,5 @@
 {
  "bytes": 547646,
- "description": "Unthemed / 4 DM maps / DaZ, gemein, Starbuck, Speedy",
  "files": {
   "SM38_SB.bsp": {
    "bytes": 356628,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8a45f143d5808f5152403d246901df6580c3af83f36c5bb2439f5873a935a935",
  "tags": [
   "author=DaZ",

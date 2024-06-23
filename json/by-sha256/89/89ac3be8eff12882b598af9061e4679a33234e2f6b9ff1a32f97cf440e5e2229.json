@@ -1,6 +1,5 @@
 {
  "bytes": 696144,
- "description": "Medium-sized dark city/realism map with backyards, warehouses and sewers.",
  "files": {
   "scity509.bsp": {
    "bytes": 1737080,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "89ac3be8eff12882b598af9061e4679a33234e2f6b9ff1a32f97cf440e5e2229",
  "tags": [
   "author=NCMark",

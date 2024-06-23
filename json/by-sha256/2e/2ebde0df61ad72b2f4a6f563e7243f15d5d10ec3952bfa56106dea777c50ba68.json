@@ -1,6 +1,5 @@
 {
  "bytes": 603968,
- "description": "Small mixed style map with an airstrike in the beginning.",
  "files": {
   "mission.bsp": {
    "bytes": 1383320,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2ebde0df61ad72b2f4a6f563e7243f15d5d10ec3952bfa56106dea777c50ba68",
  "tags": [
   "author=(Hidden)",

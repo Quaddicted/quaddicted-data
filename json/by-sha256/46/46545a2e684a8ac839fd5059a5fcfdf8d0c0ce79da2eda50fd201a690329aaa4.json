@@ -1,6 +1,5 @@
 {
  "bytes": 274130,
- "description": "<a href=\"e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797\">Zerstörer</a> patch: progs.dat / qwprogs.dat <b>version 1.1</b>.",
  "files": {
   "progs.dat": {
    "bytes": 588276,
@@ -17,7 +16,6 @@
   "extract": "{base}/zer/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4",
  "tags": [
   "author=Nihilism Unlimited",
@@ -31,8 +29,8 @@
   "release_date=1997-10-23",
   "release_group=zer",
   "startmap=start",
-  "theme=zerstu00f6rer",
-  "title=Zerstu00f6rer v1.1",
+  "theme=zerst\u00f6rer",
+  "title=Zerst\u00f6rer v1.1",
   "type=mod",
   "version=1.1",
   "zipbasedir=zer/"

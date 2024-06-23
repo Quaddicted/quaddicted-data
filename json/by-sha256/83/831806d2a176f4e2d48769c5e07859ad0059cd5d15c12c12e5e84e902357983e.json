@@ -1,6 +1,5 @@
 {
  "bytes": 13906988,
- "description": "Demo version of an atmospheric singleplayer campaign with three small medieval levels (two of which are remakes of the orignal E1M1 and E1M2). It features both normal gameplay and a new, very unique stealth mode. The enemy AI has been vastly improved, and there are countless visual overhauls and miscellaneous additions.",
  "files": {
   "its_demo1e_readme.txt": {
    "bytes": 9766,
@@ -439,9 +438,6 @@
   "extract": "{base}/shadows/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This is version <b>1.0</b>. The newer version 1.1 is available <a href=\"38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2\">here</a>."
- ],
  "sha256": "831806d2a176f4e2d48769c5e07859ad0059cd5d15c12c12e5e84e902357983e",
  "tags": [
   "author=sock",

@@ -1,6 +1,5 @@
 {
  "bytes": 1115772,
- "description": "Medium sized Base map with a rocket/shuttle hangar. Must be played in Missionpack 1: Scourge of Armagon (hipnotic).",
  "files": {
   "mars1.bsp": {
    "bytes": 2592004,
@@ -17,7 +16,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fccb9df7926073c5dc28c5e0d359484650d862aaf297be2a5e185318ec5e66eb",
  "tags": [
   "author=Jean-Marc Gruninger",

@@ -1,6 +1,5 @@
 {
  "bytes": 6204041,
- "description": "Large, spacious Q3Gothic-style fortress in a blood canyon, featuring some modified monsters and an evil dragon boss.",
  "files": {
   "autoexec.cfg": {
    "bytes": 442,
@@ -228,7 +227,6 @@
   "extract": "{base}/ne_sp06/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "66edf428edd505a6b13e38dd40e8da3c333c154869c7de587311da8209b9bffd",
  "tags": [
   "author=necros",

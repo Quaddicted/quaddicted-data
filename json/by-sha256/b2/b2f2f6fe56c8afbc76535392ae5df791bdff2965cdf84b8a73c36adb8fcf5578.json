@@ -1,6 +1,5 @@
 {
  "bytes": 4160776,
- "description": "Pack of 14 small maps in various styles, each consisting of 100 brushes or less. Also features a start hub map.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -262,7 +261,6 @@
   "extract": "{base}/100brush/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b2f2f6fe56c8afbc76535392ae5df791bdff2965cdf84b8a73c36adb8fcf5578",
  "tags": [
   "author=DaMaul",
@@ -271,7 +269,7 @@
   "author=Fern",
   "author=Gilt",
   "author=Grahf",
-  "author=Iikka \"Fingers\" Keru00e4nen",
+  "author=Iikka \"Fingers\" Ker\u00e4nen",
   "author=JAJ",
   "author=Killazontherun",
   "author=Palldjon",

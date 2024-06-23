@@ -1,6 +1,5 @@
 {
  "bytes": 1890122,
- "description": "Large interconnected red Knave-style castle with an insane number of secrets.",
  "files": {
   "red777.bsp": {
    "bytes": 4802476,
@@ -17,9 +16,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
- ],
  "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "tags": [
   "author=Kell",

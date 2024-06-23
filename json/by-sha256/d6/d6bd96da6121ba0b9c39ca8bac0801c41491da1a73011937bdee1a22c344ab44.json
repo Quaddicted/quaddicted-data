@@ -1,6 +1,5 @@
 {
  "bytes": 220813,
- "description": "Small, vertical base inside a canyon. Fixed-up and polished version of the author's sm24 speedmap.",
  "files": {
   "sm24_than_se.bsp": {
    "bytes": 603176,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d6bd96da6121ba0b9c39ca8bac0801c41491da1a73011937bdee1a22c344ab44",
  "tags": [
   "author=than",

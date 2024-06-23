@@ -1,6 +1,5 @@
 {
  "bytes": 485017,
- "description": "Smallish Metal/ Wizard map. Map source is included.",
  "files": {
   "trincasp1.bsp": {
    "bytes": 1156904,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8b14eb157ed011390e0e0acb29c0191c10f7a74c613313b686b14466a8756daa",
  "tags": [
   "author=Trinca",

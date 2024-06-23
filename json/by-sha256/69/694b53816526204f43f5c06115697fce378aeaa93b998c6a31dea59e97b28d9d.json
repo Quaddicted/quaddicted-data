@@ -1,6 +1,5 @@
 {
  "bytes": 26862306,
- "description": "Large industrial dock-themed map with lots of exploration, using Makkon and MG1 textures. This is an updated overhaul / redesign of the author's previous release <a href=\"f02171f5628faf94d81e0d11518699f8b2f7a8191ab2a4b5eeff4a3e695db447\">Null Bearing (2020)</a>. Map source is included.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -102,11 +101,6 @@
   "extract": "{base}/alk1.1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "UPDATE, 5 October 2022: <a href=\"259a4ecba2eb565fc2a35498fb6e0167d9ae259b36c5e31ddf92358f21c4298a\">new version v1.2</a> has re-enabled infighting. This version is obsolete.",
-  "Requires a modern engine / source port with increased limits.",
-  "Requires <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline 1.1+</a> (NOT included)."
- ],
  "sha256": "694b53816526204f43f5c06115697fce378aeaa93b998c6a31dea59e97b28d9d",
  "tags": [
   "author=zbidou72",

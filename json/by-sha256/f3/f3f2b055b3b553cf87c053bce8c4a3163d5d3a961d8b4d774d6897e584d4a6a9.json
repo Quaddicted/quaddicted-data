@@ -1,6 +1,5 @@
 {
  "bytes": 3092188,
- "description": "6-map episode featuring raptors, set in a military base and the surrounding countryside.",
  "files": {
   "demo1.dem": {
    "bytes": 143640,
@@ -170,7 +169,6 @@
   "extract": "{base}/raptors/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
  "tags": [
   "author=Andy \"ajay\" Simpson",

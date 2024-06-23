@@ -1,6 +1,5 @@
 {
  "bytes": 500823,
- "description": "A map with many red bricks.",
  "files": {
   "pyro1.bsp": {
    "bytes": 1083964,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "d7c0ec825b3d24df0c0335b4803b63aa712abba8416ecff1c491bdd676814645",
  "tags": [
   "author=Dean Scott",

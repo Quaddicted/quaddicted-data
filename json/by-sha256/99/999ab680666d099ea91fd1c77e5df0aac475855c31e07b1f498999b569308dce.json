@@ -1,6 +1,5 @@
 {
  "bytes": 813603,
- "description": "Largish Egyptian-style temple with tombs, a few traps, and so on.",
  "files": {
   "sadlark8.bsp": {
    "bytes": 1939384,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce",
  "tags": [
   "author=Jonas N.P. Lindstrom",

@@ -1,6 +1,5 @@
 {
  "bytes": 2384037,
- "description": "Large Wizard-/Episode 2-themed fortress.",
  "files": {
   "grim.bsp": {
    "bytes": 5671244,
@@ -22,10 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits and BSP2 support.",
-  "Rezipped for Quaddicted"
- ],
  "sha256": "35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b",
  "tags": [
   "author=Andrew Smith",

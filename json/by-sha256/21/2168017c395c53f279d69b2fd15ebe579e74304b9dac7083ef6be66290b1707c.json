@@ -1,6 +1,5 @@
 {
  "bytes": 622851,
- "description": "Short q3gothic map with a somewhat deathmatch-like layout/feeling.",
  "files": {
   "heresp1.bsp": {
    "bytes": 1735940,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2168017c395c53f279d69b2fd15ebe579e74304b9dac7083ef6be66290b1707c",
  "tags": [
   "author=Here",

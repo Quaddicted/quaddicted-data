@@ -1,6 +1,5 @@
 {
  "bytes": 20843086,
- "description": "Huge hellish fortress using a combination of Apocrypha/Ogro/Zerstörer textures. Features a high monster count, a couple of technical additions, and a custom music track.",
  "files": {
   "loc/": {
    "bytes": 0,
@@ -156,9 +155,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits and BSP2 support."
- ],
  "sha256": "247c9aa4469bf4155c965ed9b6a1bd2829afd21b11786a6e49f85183bce3b9cd",
  "tags": [
   "author=Dennis Katsonis",
@@ -176,7 +172,7 @@
   "nonspecific_tag=spooky",
   "release_date=2020-02-16",
   "theme=lava",
-  "theme=zerstu00f6rer",
+  "theme=zerst\u00f6rer",
   "title=Lords of Chaos",
   "type=mod",
   "zipbasedir=/"

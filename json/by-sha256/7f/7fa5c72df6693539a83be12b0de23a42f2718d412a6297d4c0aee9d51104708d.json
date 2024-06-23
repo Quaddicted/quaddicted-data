@@ -1,6 +1,5 @@
 {
  "bytes": 443371,
- "description": "Very small hotel-like level with a few new textures, most notably an animated tv screen with a dog.",
  "files": {
   "hotel.bsp": {
    "bytes": 1527948,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7fa5c72df6693539a83be12b0de23a42f2718d412a6297d4c0aee9d51104708d",
  "tags": [
   "author=Andrew Turner",

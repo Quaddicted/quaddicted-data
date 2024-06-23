@@ -1,6 +1,5 @@
 {
  "bytes": 1086005,
- "description": "Small Medieval map with focus on arena combat.",
  "files": {
   "PAK0.PAK": {
    "bytes": 2888018,
@@ -79,7 +78,6 @@
   "extract": "{base}/vigil/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
  "tags": [
   "author=Wright Bagwell",

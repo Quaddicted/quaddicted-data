@@ -1,6 +1,5 @@
 {
  "bytes": 645271,
- "description": "A small map. Originally a deathmatch map the author did place some monsters into it.",
  "files": {
   "dock5.bsp": {
    "bytes": 1467088,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b2ad74e6389faa240ba348f2a84e38e934a5918e86a67f3ff933d1f6e85194c8",
  "tags": [
   "author=ray (tigger-up-late)",

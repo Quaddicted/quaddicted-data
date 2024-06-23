@@ -1,6 +1,5 @@
 {
  "bytes": 299835,
- "description": "Beginner map designed mostly for deathmatch.",
  "files": {
   "axeme7.bsp": {
    "bytes": 648592,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d8482ad57c29da0bd5f451323177bc810fba7a1edd8edb44adae5a033594a6bb",
  "tags": [
   "author=Eric Stevens (Axeme)",

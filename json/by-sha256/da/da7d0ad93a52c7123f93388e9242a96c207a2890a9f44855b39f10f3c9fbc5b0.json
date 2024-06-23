@@ -1,6 +1,5 @@
 {
  "bytes": 15922655,
- "description": "Large, spacious military base/stronghold fortifying an old church. The map source is included.",
  "files": {
   "War Church/": {
    "bytes": 0,
@@ -32,10 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits + BSP2 support.",
-  "Cannot be run through the Quake Injector."
- ],
  "sha256": "da7d0ad93a52c7123f93388e9242a96c207a2890a9f44855b39f10f3c9fbc5b0",
  "tags": [
   "author=BassLexa",
@@ -48,7 +43,7 @@
   "nonspecific_tag=turrets",
   "release_date=2021-08-25",
   "source=included",
-  "startmap=\"War Churchu005Cwar_church\"",
+  "startmap=\"War Church\\war_church\"",
   "theme=base",
   "theme=industrial",
   "theme=realism",

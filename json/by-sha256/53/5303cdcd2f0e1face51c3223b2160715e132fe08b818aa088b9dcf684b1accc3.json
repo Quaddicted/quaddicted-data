@@ -1,6 +1,5 @@
 {
  "bytes": 1333047,
- "description": "Medium sized Wizard map with many outside areas.",
  "files": {
   "corpus.bsp": {
    "bytes": 2964980,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5303cdcd2f0e1face51c3223b2160715e132fe08b818aa088b9dcf684b1accc3",
  "tags": [
   "author=Dogstar AKA Dan Thibadeau",

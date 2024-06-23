@@ -1,6 +1,5 @@
 {
  "bytes": 6626220,
- "description": "Huge metal/runic fortress built into the mountains, with a high monster count. The map source is included.",
  "files": {
   "hcmsp1.bsp": {
    "bytes": 9680072,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "422757d6b44cfe0588d2721178717546190faf89e88c9579e067136098bafdc5",
  "tags": [
   "author=Mazu",

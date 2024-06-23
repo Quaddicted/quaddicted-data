@@ -1,6 +1,5 @@
 {
  "bytes": 1195100,
- "description": "Large underground dungeon in hell. Features new textures and reskinned monsters - for this, the color palette was changed which results in color changes on all monsters and items, a greenish tint mostly. It also makes the level look darker and the status bar harder to read, so players might want to consider deleting the \"gfx\" directory in order to see better (note that this will make the lava appear pink).",
  "files": {
   "VILE/GFX/COLORMAP.LMP": {
    "bytes": 16385,
@@ -67,10 +66,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa",
  "tags": [
-  "author=Rickard Edu00e9n (Nephilim)",
+  "author=Rickard Ed\u00e9n (Nephilim)",
   "commandline=-game vile",
   "filename=vile.zip",
   "game=quake",

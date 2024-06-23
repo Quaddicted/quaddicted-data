@@ -1,6 +1,5 @@
 {
  "bytes": 468525,
- "description": "Small Wizard map - a large hall and some small rooms. Uses a few Doom2 textures.",
  "files": {
   "DM17.BSP": {
    "bytes": 1200684,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "77afcee18e26c17937a541cdd3377d28f2e3c4c2751952897c7f79a5b361c482",
  "tags": [
   "author=TexGamer",

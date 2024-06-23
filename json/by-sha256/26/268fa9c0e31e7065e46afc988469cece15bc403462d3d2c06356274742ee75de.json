@@ -1,6 +1,5 @@
 {
  "bytes": 613937,
- "description": "Skyward maps / 3 SP maps / Moz, Scampie, Zwiffle",
  "files": {
   "sm64_moz.bsp": {
    "bytes": 401296,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "268fa9c0e31e7065e46afc988469cece15bc403462d3d2c06356274742ee75de",
  "tags": [
   "author=Moz",

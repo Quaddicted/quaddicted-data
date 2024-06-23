@@ -1,6 +1,5 @@
 {
  "bytes": 157644,
- "description": "Babylon / 1 SP map / Zwiffle",
  "files": {
   "sm90_zwiffle.bsp": {
    "bytes": 401236,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "015cf420fcbe0af3dfe27002a3b189f85bb89f3558f9985937a55fe2b38a3910",
  "tags": [
   "author=Zwiffle",

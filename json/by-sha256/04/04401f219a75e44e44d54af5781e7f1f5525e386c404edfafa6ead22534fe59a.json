@@ -1,6 +1,5 @@
 {
  "bytes": 362860,
- "description": "Medium-sized plain beginner map with mixed textures.",
  "files": {
   "tab1.bsp": {
    "bytes": 814460,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "04401f219a75e44e44d54af5781e7f1f5525e386c404edfafa6ead22534fe59a",
  "tags": [
   "author=Michael Contorno",

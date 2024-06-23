@@ -1,6 +1,5 @@
 {
  "bytes": 1120599,
- "description": "Unthemed / 9 DM maps / Aardappel, Cybear, RPG, Vigil, DaZ, Blade, Speedy, Goetz, iNane",
  "files": {
   "sm2_aard.bsp": {
    "bytes": 493148,
@@ -57,7 +56,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "68dc17eaa7a5d63b3a13304c1d54070dd359fa0e45ef363a1c91180f65e683ac",
  "tags": [
   "author=Aardappel",

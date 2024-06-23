@@ -1,6 +1,5 @@
 {
  "bytes": 1889818,
- "description": "Medium-sized metal/runic style level with a built-in skill-selection room and an additional alternative game mode.",
  "files": {
   "mappi2.bsp": {
    "bytes": 4898424,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c833ed90ff94e6788f128763b11ad173642150ce397ad60bb161e1edda768742",
  "tags": [
   "author=negke",

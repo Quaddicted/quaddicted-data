@@ -1,6 +1,5 @@
 {
  "bytes": 741041,
- "description": "Small to medium Wizard castle with Base and underground areas. The mission is to get in, retrieve the lightning gun and escape in under 12 minutes - after this time reinforcements will arrive.",
  "files": {
   "twelve.bsp": {
    "bytes": 1767284,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "102f261556b879e84b7ca876abff456ffa81aae6f3223a09aae6a21614d9d2a3",
  "tags": [
   "author=Pingu",

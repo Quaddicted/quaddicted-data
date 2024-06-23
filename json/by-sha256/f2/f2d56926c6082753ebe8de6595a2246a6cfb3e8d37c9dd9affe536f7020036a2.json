@@ -1,6 +1,5 @@
 {
  "bytes": 4409354,
- "description": "Around medium-sized cistern/sewer level. The map source is included.",
  "files": {
   "plaw01.bsp": {
    "bytes": 8162164,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f2d56926c6082753ebe8de6595a2246a6cfb3e8d37c9dd9affe536f7020036a2",
  "tags": [
   "author=Paul Lawitzki",

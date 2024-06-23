@@ -1,6 +1,5 @@
 {
  "bytes": 1048882,
- "description": "Small base map that requires rocket/trick jumping to progress.",
  "files": {
   "hellhole.bsp": {
    "bytes": 2698540,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509",
  "tags": [
   "author=kukkye",

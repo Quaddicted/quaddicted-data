@@ -1,6 +1,5 @@
 {
  "bytes": 5657038,
- "description": "Large, interconnected base in the mountains with a lava cave beneath. It comes with a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -67,9 +66,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and a source port with increased limits."
- ],
  "sha256": "39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c",
  "tags": [
   "author=RickyT23",

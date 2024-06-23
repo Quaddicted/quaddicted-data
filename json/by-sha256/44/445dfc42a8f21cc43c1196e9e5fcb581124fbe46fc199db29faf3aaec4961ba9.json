@@ -1,6 +1,5 @@
 {
  "bytes": 2125051,
- "description": "Medium-sized underground ruins in Knave style with many tight spaces and initially limited supplies. The map source is included.",
  "files": {
   "mfxsp10.bsp": {
    "bytes": 4325032,
@@ -22,7 +21,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9",
  "tags": [
   "author=mfx",

@@ -1,6 +1,5 @@
 {
  "bytes": 446844,
- "description": "Small egyptian style turtle map.",
  "files": {
   "whisper.bsp": {
    "bytes": 1118100,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c471aeb497c29b9c8ccdde89c45dc65735ce3f8ade48198adef8da9e64562f63",
  "tags": [
   "author=Jon \"Starbuck\" Miles",

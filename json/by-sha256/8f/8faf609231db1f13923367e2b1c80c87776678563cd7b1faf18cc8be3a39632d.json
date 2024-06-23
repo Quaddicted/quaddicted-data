@@ -1,6 +1,5 @@
 {
  "bytes": 475869,
- "description": "Very small curvy industrial sewage deathmatch map with monsters.",
  "files": {
   "spd.bsp": {
    "bytes": 1148396,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8faf609231db1f13923367e2b1c80c87776678563cd7b1faf18cc8be3a39632d",
  "tags": [
   "author=Gilt",

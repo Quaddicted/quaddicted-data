@@ -1,6 +1,5 @@
 {
  "bytes": 6462010,
- "description": "Small sci-fi base themed underground research facility. Built on Copper v1.19 (already included but with the default folder name; see install notes). Difficulty settings are not implemented. The author's first release.",
  "files": {
   "savetheworld-package/": {
    "bytes": 0,
@@ -762,9 +761,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This won't work in Quake Injector, it must be installed manually. This ZIP includes Copper v1.19 files in a mod folder called \"copper\". To avoid confusion, as well as overwriting an existing Copper install, you may want to rename this ZIP's \"copper\" mod folder to something like \"savetheworld\" before putting it in your Quake folder."
- ],
  "sha256": "acf882ba1e9fc68fb183f7ae3720947f48614128f46f1f9171f76f8400aa07c5",
  "tags": [
   "author=SleepyAdam",

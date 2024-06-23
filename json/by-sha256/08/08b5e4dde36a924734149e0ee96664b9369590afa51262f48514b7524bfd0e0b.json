@@ -1,6 +1,5 @@
 {
  "bytes": 1089879,
- "description": "Start map and small first level, both in Base style, of an episode in progress (then).",
  "files": {
   "fracture/": {
    "bytes": 0,
@@ -61,7 +60,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "08b5e4dde36a924734149e0ee96664b9369590afa51262f48514b7524bfd0e0b",
  "tags": [
   "author=Adam Foster",

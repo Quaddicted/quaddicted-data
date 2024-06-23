@@ -1,6 +1,5 @@
 {
  "bytes": 271303,
- "description": "Very small circular metal level. The single player version of rathole.bsp (also included in the zip).",
  "files": {
   "RATHOLE.BSP": {
    "bytes": 350892,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924",
  "tags": [
   "author=Zdim",

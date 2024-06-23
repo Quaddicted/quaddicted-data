@@ -1,6 +1,5 @@
 {
  "bytes": 1494761,
- "description": "Vertical cathedral-themed level with many gray textures and a challenging finale.",
  "files": {
   "nar_cat.bsp": {
    "bytes": 3673060,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f3e7ff877d8f00e287b7202a3db578415fc80240e0be2de9ab56d7e1643ff558",
  "tags": [
   "author=nadzia (narnar)",

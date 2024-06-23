@@ -1,6 +1,5 @@
 {
  "bytes": 8034650,
- "description": "Results of the 2008 remix competition at Func_Msgboard: five remixes/remakes of original id maps.<br><br>e2m1rmx by Spirit<br>e3m4rmx by Willem<br>e3m5rmx by Speedy<br>e4m1rmx by RickyT23<br>e4m7rmx by Zwiffle",
  "files": {
   "_readme-rmx.txt": {
    "bytes": 880,
@@ -127,10 +126,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Running the pack from a mod directory is optional - if one wishes to access the maps from the included start map.",
-  "Some maps are released under the terms of GPL: sources</a>"
- ],
  "sha256": "6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54",
  "tags": [
   "author=RickyT23",

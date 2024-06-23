@@ -1,6 +1,5 @@
 {
  "bytes": 1340940,
- "description": "Small, unique geocomp metal map.",
  "files": {
   "nesp16.bsp": {
    "bytes": 3687408,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5152922606ca8fe13c6154ec49bb92d6528c5ab99a57a2b59663dba7762314b5",
  "tags": [
   "author=necros",

@@ -1,6 +1,5 @@
 {
  "bytes": 757459,
- "description": "Small, linear dungeon made of several distinct parts: a runic area, a blue marble area, a lava cave, and a brick area.",
  "files": {
   "PYRO2.BSP": {
    "bytes": 1685880,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0fa55a0e3e44d77d77269a2b02dd69a328431060f7815836c3723b7af95859ad",
  "tags": [
   "author=Dean Scott",

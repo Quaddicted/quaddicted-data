@@ -1,6 +1,5 @@
 {
  "bytes": 796667,
- "description": "Small shadowy medieval-themed castle map. Difficulty settings are not implemented (all skill levels play the same.) Map source is included.",
  "files": {
   "thuby01.bsp": {
    "bytes": 1367348,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3629f116243d1d690d68e3d4fe76a8ad08c26ce9e203b3c7b3ee803202b371c0",
  "tags": [
   "author=Thuby",

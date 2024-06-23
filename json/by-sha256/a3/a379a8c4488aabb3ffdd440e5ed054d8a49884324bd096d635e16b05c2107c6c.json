@@ -1,6 +1,5 @@
 {
  "bytes": 471941,
- "description": "Late entry for <a href=\"44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b\">SM161</a>.",
  "files": {
   "sm161_distrans.bsp": {
    "bytes": 1040760,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a379a8c4488aabb3ffdd440e5ed054d8a49884324bd096d635e16b05c2107c6c",
  "tags": [
   "author=distrans",

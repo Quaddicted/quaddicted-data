@@ -1,6 +1,5 @@
 {
  "bytes": 4337423,
- "description": "Three medium sized maps inspired by Hexen2, with many custom monsters.",
  "files": {
   "alk12/": {
    "bytes": 0,
@@ -598,7 +597,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb",
  "tags": [
   "author=Shaun [Kona] Ross",

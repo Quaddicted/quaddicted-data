@@ -1,6 +1,5 @@
 {
  "bytes": 3948753,
- "description": "Medium-sized medieval outpost in a swampy hollow with a caves and a chapel. The map source is included.",
  "files": {
   "dwabd.bsp": {
    "bytes": 6983120,
@@ -27,9 +26,6 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> and a source port with increased limits."
- ],
  "sha256": "fe4b8d5a0382907f7c80568935ffc47b08a2cf87d87cd54f82c02667e7b4d984",
  "tags": [
   "author=DeeDoubleU",

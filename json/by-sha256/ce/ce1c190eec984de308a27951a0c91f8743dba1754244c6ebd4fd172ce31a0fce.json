@@ -1,6 +1,5 @@
 {
  "bytes": 1110778,
- "description": "A small base map originally created by the author in 1997.",
  "files": {
   "alb1.bsp": {
    "bytes": 1422500,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ce1c190eec984de308a27951a0c91f8743dba1754244c6ebd4fd172ce31a0fce",
  "tags": [
   "author=Cocerello",

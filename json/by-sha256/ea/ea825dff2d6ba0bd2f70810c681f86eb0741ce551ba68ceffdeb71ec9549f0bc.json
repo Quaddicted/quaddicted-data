@@ -1,6 +1,5 @@
 {
  "bytes": 1047688,
- "description": "Large blue metal/brick map.",
  "files": {
   "hellbrid.bsp": {
    "bytes": 2325756,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "tags": [
   "author=PuLSaR",

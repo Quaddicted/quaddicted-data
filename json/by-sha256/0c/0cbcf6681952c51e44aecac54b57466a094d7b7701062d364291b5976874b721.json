@@ -1,6 +1,5 @@
 {
  "bytes": 7319919,
- "description": "E1-style SP episode that features 8 small to medium-sized levels as well as a new start map - all of which also support co-op mode and DM - a few new textures, and a modified Chthon boss.",
  "files": {
   "BBELIEF.BAT": {
    "bytes": 38,
@@ -90,9 +89,6 @@
   "extract": "{base}/bbelief/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There is a glitch in the sixth map that prevents the player from escaping a spike trap in modern engine ports. Here is a <a href=\"http://www.quaddicted.com/filebase/bbelief6_fix.zip\">hotfix</a>."
- ],
  "sha256": "0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
  "tags": [
   "author=Matthias Worch",

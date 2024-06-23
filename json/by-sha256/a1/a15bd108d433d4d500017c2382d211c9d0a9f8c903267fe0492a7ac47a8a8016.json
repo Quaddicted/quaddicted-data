@@ -1,6 +1,5 @@
 {
  "bytes": 1849560,
- "description": "Short story-driven SP \"hub\" with 4 maps. Very original style and gameplay!",
  "files": {
   "SGODRUN1.BSP": {
    "bytes": 2112500,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016",
  "tags": [
   "author=Rain Rannu (Spacegod)",

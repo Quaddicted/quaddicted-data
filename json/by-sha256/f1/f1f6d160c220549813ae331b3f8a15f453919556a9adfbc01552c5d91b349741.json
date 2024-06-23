@@ -1,6 +1,5 @@
 {
  "bytes": 15416862,
- "description": "Large abstract floating ikwhite level. Comes with a new model, sounds, a custom skybox and a music track. The map source is included.",
  "files": {
   "gfx/env/": {
    "bytes": 0,
@@ -87,9 +86,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.71</a> and a source port with increased limits + BSP2 support."
- ],
  "sha256": "f1f6d160c220549813ae331b3f8a15f453919556a9adfbc01552c5d91b349741",
  "tags": [
   "author=nolcoz",

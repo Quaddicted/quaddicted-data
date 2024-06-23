@@ -1,6 +1,5 @@
 {
  "bytes": 514179,
- "description": "Spaceship map. Has some hard and awkward puzzles.",
  "files": {
   "space.bsp": {
    "bytes": 1217132,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6c9daf7d7242657ea5e68e4f55c50cd3f8d3f5fb01db30b2dc4826f37e5d9ce8",
  "tags": [
   "author=Paul Murphy",

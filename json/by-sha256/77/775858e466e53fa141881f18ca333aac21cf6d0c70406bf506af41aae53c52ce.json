@@ -1,6 +1,5 @@
 {
  "bytes": 2116993,
- "description": "Large Wizard-themed medieval castle/dungeon level. The map source is included.",
  "files": {
   "drearydisposition.txt": {
    "bytes": 1538,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "775858e466e53fa141881f18ca333aac21cf6d0c70406bf506af41aae53c52ce",
  "tags": [
   "author=Albert van Zyl",

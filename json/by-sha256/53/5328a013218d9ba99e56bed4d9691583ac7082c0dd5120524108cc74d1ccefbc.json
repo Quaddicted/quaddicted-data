@@ -1,6 +1,5 @@
 {
  "bytes": 16694785,
- "description": "Medium sized lava temple built on progs_dump 3.0 (already included) with some Koohoo textures and assets from Arcane Dimensions. Music by AlekswithaK. Map source is included.",
  "files": {
   "parallax/": {
    "bytes": 0,
@@ -692,10 +691,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There's no custom start map, load manually via console: \"map parallax\"",
-  "Probably requires a modern engine / source port with increased limits. \"Tested with vkQuake.\""
- ],
  "sha256": "5328a013218d9ba99e56bed4d9691583ac7082c0dd5120524108cc74d1ccefbc",
  "tags": [
   "author=Spoot",

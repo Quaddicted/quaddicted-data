@@ -1,6 +1,5 @@
 {
  "bytes": 528163,
- "description": "Small base-y map with a pool, traps and an outside area.",
  "files": {
   "BASE-N.BSP": {
    "bytes": 1378736,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056",
  "tags": [
   "author=Andrzej Mackiewicz",

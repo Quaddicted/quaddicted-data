@@ -1,6 +1,5 @@
 {
  "bytes": 577826,
- "description": "Small Metal level; the single player version of <a href=\"http://www.shadowsdomain.wordpress.com/levels/quake/deep-scars/\">q1shw2</a>. The GPL map source is included.",
  "files": {
   "q1shw2sp.bsp": {
    "bytes": 902188,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2",
  "tags": [
   "author=ShadoW",

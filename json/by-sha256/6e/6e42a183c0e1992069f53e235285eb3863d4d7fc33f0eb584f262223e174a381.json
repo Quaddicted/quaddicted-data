@@ -1,6 +1,5 @@
 {
  "bytes": 7081283,
- "description": "Episode with nine small to medium-sized levels of various themes including a start map, a secret map, and a deathmatch arena. Also comes with three demos.",
  "files": {
   "dopa.bat": {
    "bytes": 27,
@@ -85,7 +84,6 @@
   "extract": "{base}/dopa/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "tags": [
   "author=J.F.Gustafsson",

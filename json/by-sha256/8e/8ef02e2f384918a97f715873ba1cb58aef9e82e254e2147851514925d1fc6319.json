@@ -1,6 +1,5 @@
 {
  "bytes": 136809,
- "description": "Small town with a few simple houses and trees, somewhat blighted by portal errors.",
  "files": {
   "swinfen.bsp": {
    "bytes": 336268,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8ef02e2f384918a97f715873ba1cb58aef9e82e254e2147851514925d1fc6319",
  "tags": [
   "author=Tom Jackson (Paradox)",

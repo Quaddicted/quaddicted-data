@@ -1,6 +1,5 @@
 {
  "bytes": 508972,
- "description": "The Basics / 1 SP map, 1 DM map / Starbuck, Zwiffle",
  "files": {
   "sm101_starbuck.bsp": {
    "bytes": 1111200,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502",
  "tags": [
   "author=Starbuck",

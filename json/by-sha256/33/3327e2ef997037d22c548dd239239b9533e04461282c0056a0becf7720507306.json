@@ -1,6 +1,5 @@
 {
  "bytes": 884383,
- "description": "Medium sized Wizard fortress.",
  "files": {
   "purg2.bsp": {
    "bytes": 2032408,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3327e2ef997037d22c548dd239239b9533e04461282c0056a0becf7720507306",
  "tags": [
   "author=Bryan Pillow",

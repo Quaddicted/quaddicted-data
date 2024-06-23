@@ -1,6 +1,5 @@
 {
  "bytes": 5351008,
- "description": "Large metal-style industrial facility surrounded by caverns; features a few custom map props.",
  "files": {
   "torro/": {
    "bytes": 0,
@@ -122,9 +121,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This is the second version, the first release named torro.zip can be found in the <a href=\"http://www.quaddicted.com/filebase/trash/torro.zip\">trash/</a>."
- ],
  "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
  "tags": [
   "author=Madfox",

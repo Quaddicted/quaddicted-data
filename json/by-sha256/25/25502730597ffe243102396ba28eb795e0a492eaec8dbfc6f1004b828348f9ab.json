@@ -1,6 +1,5 @@
 {
  "bytes": 586728,
- "description": "A imaginative but simple fortress. Features a (long and slow) ride on a cable car.",
  "files": {
   "qkfort.bsp": {
    "bytes": 1459044,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "25502730597ffe243102396ba28eb795e0a492eaec8dbfc6f1004b828348f9ab",
  "tags": [
   "author=DAV",

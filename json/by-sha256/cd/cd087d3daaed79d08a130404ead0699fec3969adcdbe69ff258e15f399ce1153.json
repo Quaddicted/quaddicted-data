@@ -1,6 +1,5 @@
 {
  "bytes": 199692,
- "description": "Small, mixed texture map.",
  "files": {
   "ALTUS2.BSP": {
    "bytes": 448008,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153",
  "tags": [
   "author=Travis Pease",

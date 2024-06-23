@@ -1,6 +1,5 @@
 {
  "bytes": 110135,
- "description": "Very small, very dark and plain blueish maze-like map.",
  "files": {
   "TheMill.txt": {
    "bytes": 498,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f0bb5f57c7a39012d0b39dc7c88f9f0a5f4f0b52ecc8b9434d07ae9844439856",
  "tags": [
   "author=Phil Hammond",

@@ -1,6 +1,5 @@
 {
  "bytes": 5197459,
- "description": "Latest version of the popular Copper mod. This update mainly focuses on a new Nightmare skill with many revamped monster abilities, as well as a new HUD, many new mapper features and various bugfixes.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -811,7 +810,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8",
  "tags": [
   "author=Lunaran",

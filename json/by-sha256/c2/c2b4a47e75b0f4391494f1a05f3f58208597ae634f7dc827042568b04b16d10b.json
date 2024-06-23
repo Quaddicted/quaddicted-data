@@ -1,6 +1,5 @@
 {
  "bytes": 821733,
- "description": "Medium-sized cramped mixed-texture dungeon with an ice hockey arena.",
  "files": {
   "GOSTOWN7.BSP": {
    "bytes": 2010740,
@@ -12,9 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Also available as part of <a href=\"76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6\">jhhub6</a>."
- ],
  "sha256": "c2b4a47e75b0f4391494f1a05f3f58208597ae634f7dc827042568b04b16d10b",
  "tags": [
   "author=John Harley",

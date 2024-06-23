@@ -1,6 +1,5 @@
 {
  "bytes": 38296644,
- "description": "Three-map singleplayer campaign of epic proportions: A huge arcane demon fortress built into a mountain, complete with a canyon start map and a bloody boss arena. The levels are based on the Drake mod (included) which features a plethora of new monsters and items. Many secrets and hard gameplay.",
  "files": {
   "gfx/env/": {
    "bytes": 0,
@@ -3551,9 +3550,6 @@
   "extract": "{base}/wicked/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require a source port with BSP2 support as well as increased limits."
- ],
  "sha256": "1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d",
  "tags": [
   "author=PM",

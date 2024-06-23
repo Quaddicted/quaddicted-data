@@ -1,6 +1,5 @@
 {
  "bytes": 30552446,
- "description": "Comes with two custom skyboxes and a music track. Some map sources are included.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -332,9 +331,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps probably require a source port with increased limits."
- ],
  "sha256": "8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e",
  "tags": [
   "author=Digs",

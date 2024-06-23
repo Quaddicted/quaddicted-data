@@ -1,6 +1,5 @@
 {
  "bytes": 849942,
- "description": "Medium to large Metal map. Secret level of the LFSP series.",
  "files": {
   "lfspplus.bsp": {
    "bytes": 2056252,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b74fb456eaa4487ad2c11b89cbaa3720fbc080e66300fa378e458664937313c8",
  "tags": [
   "author=Leafface",

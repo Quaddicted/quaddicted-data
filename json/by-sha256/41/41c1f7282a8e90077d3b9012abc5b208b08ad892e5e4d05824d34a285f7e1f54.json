@@ -1,6 +1,5 @@
 {
  "bytes": 2764680,
- "description": "Large rusty metal/industrial complex with custom textures, a few code tweaks, a start map and a cool Zelda tribute secret level.",
  "files": {
   "Rubicon.txt": {
    "bytes": 4717,
@@ -111,7 +110,6 @@
   "extract": "{base}/rubicon/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",

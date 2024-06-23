@@ -1,6 +1,5 @@
 {
  "bytes": 126906,
- "description": "Basic arena combat map.",
  "files": {
   "overflow.bsp": {
    "bytes": 360564,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "242e92d6a9f5772837c5f142aa406a4e21f6fb8377ab254ee3cda5cde08e39a9",
  "tags": [
   "author=LZM",

@@ -1,6 +1,5 @@
 {
  "bytes": 638404,
- "description": "Medium sized Metal map.",
  "files": {
   "networld.bsp": {
    "bytes": 1486120,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "85ae898d5e49323dd61d82601e91f11114f3a139ff8c5a86ff8da018829c9198",
  "tags": [
   "author=Dave Kelvin (Kevlar)",

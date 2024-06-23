@@ -1,6 +1,5 @@
 {
  "bytes": 800693,
- "description": "Small linear tomb/citadel map.",
  "files": {
   "citadel.bsp": {
    "bytes": 1828388,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b28dc3a2883fc39ef0142ca60515730e9dbc747da108ed5bceee6e9a424ac7bf",
  "tags": [
   "author=Russell \"Krusty\" Hayward",

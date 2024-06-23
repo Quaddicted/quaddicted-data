@@ -1,6 +1,5 @@
 {
  "bytes": 9293427,
- "description": "Small short linear single player sci-fi base map with Makkon textures. The author's second release. Map source file is included.",
  "files": {
   "suzyhrt.bsp": {
    "bytes": 20511520,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires a modern engine /  limit-removing source port."
- ],
  "sha256": "baeb8b5cf512fe6ff7407436cf449603041c7695f33fe7c68bd5be91468cc2b8",
  "tags": [
   "author=Suzanne 'Trashbang' Will",

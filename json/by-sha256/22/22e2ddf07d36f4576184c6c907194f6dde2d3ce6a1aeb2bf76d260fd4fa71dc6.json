@@ -1,6 +1,5 @@
 {
  "bytes": 126482,
- "description": "Small horde arena combat map with a story. Map source is included.",
  "files": {
   "Quick.sav": {
    "bytes": 120999,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "22e2ddf07d36f4576184c6c907194f6dde2d3ce6a1aeb2bf76d260fd4fa71dc6",
  "tags": [
   "author=Insane Ninja Viper",

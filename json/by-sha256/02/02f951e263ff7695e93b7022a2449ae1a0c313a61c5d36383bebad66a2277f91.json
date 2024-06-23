@@ -1,6 +1,5 @@
 {
  "bytes": 6627608,
- "description": "Small tomb / crypt brick map built within a 1024^3 volume, textured with Makkon and based on Progs_dump (included). Map source is included.",
  "files": {
   "stoneblanket/": {
    "bytes": 0,
@@ -632,11 +631,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "No custom start map, load via console command \"map brendy3\"",
-  "Skill 0 (Easy) is not implemented, will play like skill 1 (Normal).",
-  "Watch the author's <a href=\"https://youtu.be/s5HIHTISenE\">design breakdown video on YouTube</a>."
- ],
  "sha256": "02f951e263ff7695e93b7022a2449ae1a0c313a61c5d36383bebad66a2277f91",
  "tags": [
   "author=Brendy Caldwell",

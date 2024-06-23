@@ -1,6 +1,5 @@
 {
  "bytes": 1060400,
- "description": "Large Knave-style tomb level with graveyards, dungeons and tough gameplay. Map source is included.",
  "files": {
   "trincasp2.bsp": {
    "bytes": 2777872,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dadf44a1500cb7bd24d01623e790187dde1a939ac74fac1efcc1f69a16fe9275",
  "tags": [
   "author=Trinca",

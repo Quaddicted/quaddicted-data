@@ -1,6 +1,5 @@
 {
  "bytes": 406947,
- "description": "Small wizard level.",
  "files": {
   "DARK.BSP": {
    "bytes": 958992,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257",
  "tags": [
   "author=Unknown",

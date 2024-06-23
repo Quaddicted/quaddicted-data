@@ -1,6 +1,5 @@
 {
  "bytes": 62039311,
- "description": "Spacious map using Half-Life textures and thick yellow fog.",
  "files": {
   "lamothe/": {
    "bytes": 0,
@@ -2610,10 +2609,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "d4e45c20a816ce13c49c5f717c492b4acc9181ed969505aa34548da1d7e28f55",
  "tags": [
   "author=Chuma",

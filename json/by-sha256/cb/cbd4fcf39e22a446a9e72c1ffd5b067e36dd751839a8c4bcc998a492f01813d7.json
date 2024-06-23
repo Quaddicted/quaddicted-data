@@ -1,6 +1,5 @@
 {
  "bytes": 728754,
- "description": "Smallish Wizard castle with a handful of custom textures.",
  "files": {
   "TRR.BSP": {
    "bytes": 1677664,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cbd4fcf39e22a446a9e72c1ffd5b067e36dd751839a8c4bcc998a492f01813d7",
  "tags": [
   "author=Luke Higgins",

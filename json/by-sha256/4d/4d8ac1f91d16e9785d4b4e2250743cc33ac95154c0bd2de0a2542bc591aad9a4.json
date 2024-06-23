@@ -1,6 +1,5 @@
 {
  "bytes": 350694,
- "description": "Single room with no monsters and escape room puzzle mechanics. Made using only vanilla map hacks (no custom progs).",
  "files": {
   "puzzlebox1.bsp": {
    "bytes": 830244,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4d8ac1f91d16e9785d4b4e2250743cc33ac95154c0bd2de0a2542bc591aad9a4",
  "tags": [
   "author=Yoder",

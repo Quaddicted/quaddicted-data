@@ -1,6 +1,5 @@
 {
  "bytes": 469744,
- "description": "Medieval map with outdoor areas. Prolific mapper <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3DJ.F.Gustafsson%22%5D\">J.F Gustafsson</a>'s first map.",
  "files": {
   "Dirt!.txt": {
    "bytes": 1066,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "93636eb12d793410272dac73556dd2656164391abcb6314a30cb9ba50cb56d20",
  "tags": [
   "author=J.F.Gustafsson",

@@ -1,6 +1,5 @@
 {
  "bytes": 564481,
- "description": "Medium sized Wizard prison map with a small mine bit.",
  "files": {
   "Ktl.bsp": {
    "bytes": 1222024,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb",
  "tags": [
   "author=J.F.Gustafsson",

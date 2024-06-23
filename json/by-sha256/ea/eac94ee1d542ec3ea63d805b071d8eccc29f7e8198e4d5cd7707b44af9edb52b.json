@@ -1,6 +1,5 @@
 {
  "bytes": 191988,
- "description": "A tower with hordes of monsters on each floor, connected by an annoying lift. No details whatsoever, neither any point in playing it.",
  "files": {
   "Office.txt": {
    "bytes": 1472,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "eac94ee1d542ec3ea63d805b071d8eccc29f7e8198e4d5cd7707b44af9edb52b",
  "tags": [
   "author=The Omnimancer",

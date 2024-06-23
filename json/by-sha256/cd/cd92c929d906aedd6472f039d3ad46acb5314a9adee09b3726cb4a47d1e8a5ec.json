@@ -1,6 +1,5 @@
 {
  "bytes": 3783495,
- "description": "1024 units / 6 SP maps / Artistical, DraQu, JCR, muk0r, onetruepurple, ww<br><br>Includes map sources and some of the maps may require a source port with increased limits.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -102,7 +101,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cd92c929d906aedd6472f039d3ad46acb5314a9adee09b3726cb4a47d1e8a5ec",
  "tags": [
   "author=Artistical",

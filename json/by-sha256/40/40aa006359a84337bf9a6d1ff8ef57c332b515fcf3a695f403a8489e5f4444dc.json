@@ -1,6 +1,5 @@
 {
  "bytes": 923020,
- "description": "Medium sized metal level.",
  "files": {
   "ABW.BSP": {
    "bytes": 2082628,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "40aa006359a84337bf9a6d1ff8ef57c332b515fcf3a695f403a8489e5f4444dc",
  "tags": [
   "author=Jim Hughes",

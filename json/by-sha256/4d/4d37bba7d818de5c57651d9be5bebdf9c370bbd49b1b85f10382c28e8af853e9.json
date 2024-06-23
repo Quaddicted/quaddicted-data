@@ -1,6 +1,5 @@
 {
  "bytes": 468375,
- "description": "Huge plain rooms, hard.",
  "files": {
   "QVER.EXE": {
    "bytes": 8946,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
  "tags": [
   "author=Kevin Rohling",

@@ -1,6 +1,5 @@
 {
  "bytes": 135389928,
- "description": "A pack of 12 bridge-themed maps made in 48 hours with some custom music, built on Copper v1.19 (already included). Map source is included too.",
  "files": {
   "config.cfg": {
    "bytes": 2915,
@@ -897,10 +896,6 @@
   "extract": "{base}/sm221/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There's no custom start map for this release, so you must manually load the levels via console (prefixed with \"sm221_\") and make sure to set your desired skill level too.",
-  "Probably requires a modern engine / source port with increased limits."
- ],
  "sha256": "63b889e609f2ed6b8e2eeb58459aea078b61d0b56d66c4f66e117b243506b44c",
  "tags": [
   "author=Alekswithak",

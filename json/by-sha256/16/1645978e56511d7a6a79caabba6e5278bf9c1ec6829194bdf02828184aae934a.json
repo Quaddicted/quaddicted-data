@@ -1,6 +1,5 @@
 {
  "bytes": 3714823,
- "description": "Medium-sized underground temple with a unique Persian-like style. Preview/teaser for the upcoming DOM3 episode.",
  "files": {
   "dom3m1.txt": {
    "bytes": 6905,
@@ -87,9 +86,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
- ],
  "sha256": "1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a",
  "tags": [
   "author=Fern (aka Fr3n)",

@@ -1,6 +1,5 @@
 {
  "bytes": 471067,
- "description": "Small to medium plain Medieval map.",
  "files": {
   "gibcent.bsp": {
    "bytes": 1065332,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2cd8e510c97ab3ebc8f060764e2448e55ff29e6ba801096d6d0fcb04f0498ef1",
  "tags": [
   "author=Dick Nelson",

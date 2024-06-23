@@ -1,6 +1,5 @@
 {
  "bytes": 77313,
- "description": "A simple arena with knights, not even an exit.",
  "files": {
   "mightarenas.bsp": {
    "bytes": 201924,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e76a824cbef5010bc97bf4d67dc3f7791ad1f8df54eb7a7a9cdd8a986d30e9d4",
  "tags": [
   "author=Justin",

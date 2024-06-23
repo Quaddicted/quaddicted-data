@@ -1,6 +1,5 @@
 {
  "bytes": 569307,
- "description": "Medium sized stone complex.",
  "files": {
   "lm231.bsp": {
    "bytes": 1479500,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "442d900777c39023d128e61bb8e3e6cc36075b9dff9b000a9fab1363e8a2586c",
  "tags": [
   "author=Mark McClure",

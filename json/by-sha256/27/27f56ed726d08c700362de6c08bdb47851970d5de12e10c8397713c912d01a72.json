@@ -1,6 +1,5 @@
 {
  "bytes": 17000408,
- "description": "Comes with a few custom skyboxes and external textures.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -347,9 +346,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps probably require a source port with increased limits"
- ],
  "sha256": "27f56ed726d08c700362de6c08bdb47851970d5de12e10c8397713c912d01a72",
  "tags": [
   "author=Ing-ing",

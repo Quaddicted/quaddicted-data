@@ -1,6 +1,5 @@
 {
  "bytes": 281568,
- "description": "Speedmap with Q3A textures.",
  "files": {
   "zwiffleSM1.bsp": {
    "bytes": 595388,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "11600d7e6073dbfe750d00f6ddd141f6fb395f900044afd6f1663157dbd0d70c",
  "tags": [
   "author=Zwiffle",

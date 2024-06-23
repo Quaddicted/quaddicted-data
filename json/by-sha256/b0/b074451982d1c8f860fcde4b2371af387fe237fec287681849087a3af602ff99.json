@@ -1,6 +1,5 @@
 {
  "bytes": 10937146,
- "description": "Mini campaign in DOOM 3 hell-style with three small to medium sized, dark and scrary maps, D3 textures (needless to say) and some ambient sounds.",
  "files": {
   "gfx/env/hellsky4bk.tga": {
    "bytes": 786476,
@@ -132,7 +131,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b074451982d1c8f860fcde4b2371af387fe237fec287681849087a3af602ff99",
  "tags": [
   "author=JPL",

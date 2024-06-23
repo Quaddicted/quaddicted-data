@@ -1,6 +1,5 @@
 {
  "bytes": 282799,
- "description": "Small, leaked white inside of a pyramid.",
  "files": {
   "MAPS/PYRAMID.BSP": {
    "bytes": 612264,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "tags": [
   "author=Dann Thombs",

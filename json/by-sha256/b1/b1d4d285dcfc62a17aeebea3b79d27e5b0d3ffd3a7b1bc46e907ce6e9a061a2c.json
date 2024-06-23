@@ -1,6 +1,5 @@
 {
  "bytes": 1881070,
- "description": "Small prison tract built into a dark mire cavern. The map source is included.",
  "files": {
   "mire_prison.bsp": {
    "bytes": 5033024,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c",
  "tags": [
   "author=Jose C. Rodriguez (JCR)",

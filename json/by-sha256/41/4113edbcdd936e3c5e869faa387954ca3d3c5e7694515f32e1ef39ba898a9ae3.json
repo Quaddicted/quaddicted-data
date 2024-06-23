@@ -1,6 +1,5 @@
 {
  "bytes": 2849791,
- "description": "Two unfinished sci-fi base-themed maps with all-new textures, modified cyber monster skins and a few new sounds.",
  "files": {
   "TPHOB2.bsp": {
    "bytes": 1336368,
@@ -167,7 +166,6 @@
   "extract": "{base}/techphob/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3",
  "tags": [
   "author=Tim Elek",

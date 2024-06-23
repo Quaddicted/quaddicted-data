@@ -1,6 +1,5 @@
 {
  "bytes": 72705385,
- "description": "Episode with five huge, uniquely themed levels: a beach resort under a Golden Gate Bridge, a puzzle map set in an industrial storage facility, an Asian temple, a twisted otherworldly fortress, and a western mining town. Most of the maps use custom textures; the texture wads and the map sources are included.",
  "files": {
   "Quakespasm-0.92.2.zip": {
    "bytes": 1563707,
@@ -231,9 +230,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher."
- ],
  "sha256": "0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859",
  "tags": [
   "author=KenChennar alias Orl",

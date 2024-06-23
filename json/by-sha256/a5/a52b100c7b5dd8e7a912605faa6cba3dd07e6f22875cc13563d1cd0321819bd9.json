@@ -1,6 +1,5 @@
 {
  "bytes": 2564448,
- "description": "Short SP unit with a mine base / estate theme (2.5 maps + start map) and nice use of new progs (rotation, for instance); there are also some modified Grunts with new skins.",
  "files": {
   "CONFIG.CFG": {
    "bytes": 2211,
@@ -302,7 +301,6 @@
   "extract": "{base}/dig/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "tags": [
   "author=Iain Bruce",

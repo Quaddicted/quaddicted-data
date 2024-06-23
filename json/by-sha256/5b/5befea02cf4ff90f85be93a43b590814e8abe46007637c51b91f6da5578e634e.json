@@ -1,6 +1,5 @@
 {
  "bytes": 2190650,
- "description": "Town-themed map inspired by Thief, with non-linear gameplay designed with replayability in mind.",
  "files": {
   "twilight_town_readme.txt": {
    "bytes": 956,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5befea02cf4ff90f85be93a43b590814e8abe46007637c51b91f6da5578e634e",
  "tags": [
   "author=oldspider",

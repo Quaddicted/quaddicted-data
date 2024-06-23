@@ -1,6 +1,5 @@
 {
  "bytes": 252344,
- "description": "Very small arena combat map.",
  "files": {
   "Rings2.map": {
    "bytes": 261437,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "08449d5b2f09d2b6f63b04908228d4462f767be119b706255bf36d1d9df2133c",
  "tags": [
   "author=David White (NiX)",

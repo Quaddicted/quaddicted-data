@@ -1,6 +1,5 @@
 {
  "bytes": 151144,
- "description": "Small, boxed, fullbright platform map.",
  "files": {
   "PLATFORM.bsp": {
    "bytes": 455564,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "20d354044de711c1db79de607025aa6c5febb25d9d2f1f78f2777ca7f11eeca4",
  "tags": [
   "author=George Grotans",

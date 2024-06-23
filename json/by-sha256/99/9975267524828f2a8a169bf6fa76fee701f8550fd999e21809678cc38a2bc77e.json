@@ -1,6 +1,5 @@
 {
  "bytes": 834014,
- "description": "Short base map with custom sounds and a tiny skill selection map.",
  "files": {
   "sgq.bat": {
    "bytes": 32,
@@ -112,7 +111,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "tags": [
   "author=Ben Horsley",

@@ -1,6 +1,5 @@
 {
  "bytes": 765839,
- "description": "Small  to medium-sized medieval castle with a dungeon and a lava cave beneath.",
  "files": {
   "CAMBER.BSP": {
    "bytes": 1697996,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9470e1586f29c48d1df1d8ab9e2e6832d6a68603c2f8353815426d7e68286d96",
  "tags": [
   "author=Psycho",

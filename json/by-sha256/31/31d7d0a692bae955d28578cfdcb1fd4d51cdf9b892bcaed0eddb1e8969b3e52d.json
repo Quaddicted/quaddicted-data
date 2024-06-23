@@ -1,6 +1,5 @@
 {
  "bytes": 27693606,
- "description": "Two large abstract base levels, <i>\"a lengthy journey through a non-linear H.R. Giger-themed flooded scrapyard\"</i>. The map sources are included.",
  "files": {
   "RMQEngine_0.85.3.zip": {
    "bytes": 391535,
@@ -59,10 +58,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require an engine port with increased limits and expanded map boundaries. Currently, only RMQ (included) and Quakespasm (version 0.92.0 or later; set \"sv_protocol\" to \"999\") are capable of running them.",
-  "The maps can only be played on either Easy or Hard skill setting."
- ],
  "sha256": "31d7d0a692bae955d28578cfdcb1fd4d51cdf9b892bcaed0eddb1e8969b3e52d",
  "tags": [
   "author=ORL",

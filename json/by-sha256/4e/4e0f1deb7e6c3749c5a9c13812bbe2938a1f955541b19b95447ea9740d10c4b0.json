@@ -1,6 +1,5 @@
 {
  "bytes": 110367,
- "description": "Very small and abstract map.",
  "files": {
   "Nozza.txt": {
    "bytes": 1716,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4e0f1deb7e6c3749c5a9c13812bbe2938a1f955541b19b95447ea9740d10c4b0",
  "tags": [
   "author=Steven Norrie",

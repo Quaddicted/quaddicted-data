@@ -1,6 +1,5 @@
 {
  "bytes": 17756753,
- "description": "Mayan / 4 SP maps / Artistical, Breezeep, JCR, negke impersonating Shambler<br><br> Includes custom skyboxes and map sources. Some of the maps probably require a source port with increased limits.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -187,7 +186,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4484b2ac29b485dbf6b3444702a7b02dc6795c09a6297ae16e53fa9f71c5475d",
  "tags": [
   "author=Artistical",

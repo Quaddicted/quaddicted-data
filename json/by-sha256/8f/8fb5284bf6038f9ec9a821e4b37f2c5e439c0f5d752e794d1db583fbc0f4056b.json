@@ -1,6 +1,5 @@
 {
  "bytes": 50650118,
- "description": "Base themed map set in a large installation surrounded by a lake. Features an open layout and many intricate details.",
  "files": {
   "maps/Hourences.txt": {
    "bytes": 1078,
@@ -132,10 +131,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "8fb5284bf6038f9ec9a821e4b37f2c5e439c0f5d752e794d1db583fbc0f4056b",
  "tags": [
   "author=Calluna Vulgaris",

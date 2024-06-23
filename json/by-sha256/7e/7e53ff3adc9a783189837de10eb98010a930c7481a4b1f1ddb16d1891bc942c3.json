@@ -1,6 +1,5 @@
 {
  "bytes": 1733128,
- "description": "Small to medium-sized crude recreation of the author's school with many rooms in long corridors, a gym, a basement and a front yard.",
  "files": {
   "FLSMAP.TXT": {
    "bytes": 6895,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3",
  "tags": [
   "author=Stephen \"The Viper\" Peterson",

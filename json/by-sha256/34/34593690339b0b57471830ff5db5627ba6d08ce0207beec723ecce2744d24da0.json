@@ -1,6 +1,5 @@
 {
  "bytes": 14148792,
- "description": "Industrial-themed 1024³ level with a lava-flooded foundry, a humid cave system and an icy outside area; originally started for the <a href=\"007c1cf0bc552e656e852a902a89f0867ca87e4b7c93341b335ae90a04816716\">Xmas Jam 2019</a>. It uses custom textures from various sources and comes with a new skybox. The map source is included.",
  "files": {
   "biome-pritchard.txt": {
    "bytes": 2705,
@@ -72,9 +71,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
- ],
  "sha256": "34593690339b0b57471830ff5db5627ba6d08ce0207beec723ecce2744d24da0",
  "tags": [
   "author=Pritchard",

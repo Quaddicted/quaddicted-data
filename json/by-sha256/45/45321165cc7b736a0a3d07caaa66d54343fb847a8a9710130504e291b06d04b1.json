@@ -1,6 +1,5 @@
 {
  "bytes": 205226999,
- "description": "Big map jam pack with 22 levels ranging from small to large, with veteran and beginner designers. Maps were made in 2 1/2 weeks, with hot sunny theming encouraged but not required. Includes custom start map with built-in difficulty selection. Uses Copper v1.19 (already included) and co-op supported. QuakeC source is also included, as well as some MAP source.",
  "files": {
   "ctsj2.txt": {
    "bytes": 2201,
@@ -1917,10 +1916,6 @@
   "extract": "{base}/ctsj2/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "UPDATE, 11 August 2022: This version has major bugs. The authors strongly recommend playing the <a href=\"848b3d9f71de828890839ced4c5c2799ec25a07e111b61c5787b9a401740b95c\">v1.2 patched version</a> instead.",
-  "Requires a modern engine / source port with increased limits."
- ],
  "sha256": "45321165cc7b736a0a3d07caaa66d54343fb847a8a9710130504e291b06d04b1",
  "tags": [
   "author=Alekswithak",

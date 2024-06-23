@@ -1,6 +1,5 @@
 {
  "bytes": 4285806,
- "description": "Base map for Arcane Dimensions featuring a mixture of texture themes and some old-school influences.",
  "files": {
   "ad/": {
    "bytes": 0,
@@ -32,10 +31,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "8adcd23c3a814448ba3edb5182b976dcdd85a094ab3c266afca02eccfd00acc7",
  "tags": [
   "author=velcrosasquach",

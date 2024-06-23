@@ -1,6 +1,5 @@
 {
  "bytes": 5346085,
- "description": "Results of the second <a href=\"206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73\">Coagula contest</a> : six small-to-medium maps floating in the void.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -95,7 +94,6 @@
   "extract": "{base}/coagulacontest2/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137",
  "tags": [
   "author=Chainer",

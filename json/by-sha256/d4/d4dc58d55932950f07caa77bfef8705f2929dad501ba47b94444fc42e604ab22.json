@@ -1,6 +1,5 @@
 {
  "bytes": 466966,
- "description": "Small Wizard/Metal map with torture chambers and some neat masks.",
  "files": {
   "TORTURE.BSP": {
    "bytes": 1069324,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22",
  "tags": [
   "author=Gyro Gearloose",

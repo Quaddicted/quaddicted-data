@@ -1,6 +1,5 @@
 {
  "bytes": 3501991,
- "description": "Small base level, a remake of the original Termination Central (E3M1). It comes with a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -62,9 +61,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and the following settings: <i>r_novis 1, r_wateralpha 0.3</i>."
- ],
  "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
  "tags": [
   "author=mfx",

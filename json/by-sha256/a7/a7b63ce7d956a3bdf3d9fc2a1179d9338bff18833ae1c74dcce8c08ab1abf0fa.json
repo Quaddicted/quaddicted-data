@@ -1,6 +1,5 @@
 {
  "bytes": 326928,
- "description": "Lava with walkways above it and demonfaced-walls.",
  "files": {
   "bridges.bsp": {
    "bytes": 756576,
@@ -22,10 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>",
-  "This file was originally called bridges.zip"
- ],
  "sha256": "a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa",
  "tags": [
   "author=George Grotans",

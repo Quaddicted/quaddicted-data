@@ -1,6 +1,5 @@
 {
  "bytes": 580034,
- "description": "Small deathmatch level with a unique style and wave-based arena combat in SP mode. A DM-only version is included as well.",
  "files": {
   "ALK08DM.bsp": {
    "bytes": 559064,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7",
  "tags": [
   "author=Shaun [Kona] Ross",

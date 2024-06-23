@@ -1,6 +1,5 @@
 {
  "bytes": 1180527,
- "description": "Medium sized dark forest with some castle bits.",
  "files": {
   "DARKFST.BSP": {
    "bytes": 2829548,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920",
  "tags": [
   "author=Reichert",

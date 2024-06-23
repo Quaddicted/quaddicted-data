@@ -1,6 +1,5 @@
 {
  "bytes": 822605,
- "description": "Small / medium-ish medieval cave / tomb level in a classic id1 style for vanilla Quake. Map source is included.",
  "files": {
   "Sodahalls.txt": {
    "bytes": 534,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "113c0b42cc2b7880b2729564678a10033534548e32c02e96829307188e4d1fb5",
  "tags": [
   "author=Sodalimonada176",

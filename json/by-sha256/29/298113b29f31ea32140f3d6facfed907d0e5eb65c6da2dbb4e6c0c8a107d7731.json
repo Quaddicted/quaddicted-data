@@ -1,6 +1,5 @@
 {
  "bytes": 3282336,
- "description": "Mini-episode with two around medium-sized base levels and a start map. The map sources are included.",
  "files": {
   "rav1.bsp": {
    "bytes": 2401772,
@@ -57,7 +56,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "298113b29f31ea32140f3d6facfed907d0e5eb65c6da2dbb4e6c0c8a107d7731",
  "tags": [
   "author=raven33 / Lilybug33",

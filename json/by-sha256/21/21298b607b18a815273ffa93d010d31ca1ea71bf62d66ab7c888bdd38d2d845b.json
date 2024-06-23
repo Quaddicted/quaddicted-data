@@ -1,6 +1,5 @@
 {
  "bytes": 4596407,
- "description": "Small medieval map, set in a courtyard and surrounding buildings. An expanded version of Sock's map from <a href=\"ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587\">Retro Jam 1</a>, featuring bug fixes, a skill selection section, additional areas and gameplay, and more secrets than the original version of the map.",
  "files": {
   "fallen1c_readme.txt": {
    "bytes": 3442,
@@ -182,7 +181,6 @@
   "extract": "{base}//fallen1c"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b",
  "tags": [
   "author=sock",

@@ -1,6 +1,5 @@
 {
  "bytes": 688923,
- "description": "Small Wizard map in hub form with a few traps.",
  "files": {
   "custmap.txt": {
    "bytes": 2204,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899",
  "tags": [
   "author=Martin Hryniewieck",

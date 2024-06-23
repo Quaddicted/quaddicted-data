@@ -1,6 +1,5 @@
 {
  "bytes": 974534,
- "description": "Medium-sized detailed Metal map.",
  "files": {
   "rpgsp1.bsp": {
    "bytes": 1939228,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "bb2ad511fb26d165113935ce24cad8e6f212d499960ad0baeaecf9aa0d0e4e2d",
  "tags": [
   "author=R.P.G.",

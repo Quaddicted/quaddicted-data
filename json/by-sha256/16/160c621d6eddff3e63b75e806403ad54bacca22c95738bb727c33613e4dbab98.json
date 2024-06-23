@@ -1,6 +1,5 @@
 {
  "bytes": 845089,
- "description": "Medium to large Wizard map.",
  "files": {
   "pb1.bsp": {
    "bytes": 1848084,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "160c621d6eddff3e63b75e806403ad54bacca22c95738bb727c33613e4dbab98",
  "tags": [
   "author=Wright Bagwell (Paul_Bunyan)",

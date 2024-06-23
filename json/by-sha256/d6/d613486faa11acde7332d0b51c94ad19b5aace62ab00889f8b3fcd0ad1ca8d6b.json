@@ -1,6 +1,5 @@
 {
  "bytes": 2614915,
- "description": "Large Egyptian-themed temple. The map source is included.",
  "files": {
   "ad_scastle1d_readme.txt": {
    "bytes": 3427,
@@ -32,9 +31,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions</a> and an engine port with increased limits."
- ],
  "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "tags": [
   "author=sock",

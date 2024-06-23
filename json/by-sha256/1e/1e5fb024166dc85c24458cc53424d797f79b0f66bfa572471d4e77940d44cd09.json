@@ -1,6 +1,5 @@
 {
  "bytes": 1133697,
- "description": "A pack of two maps that evokes the long blue corridors of e4m7 Azure Agony. (Don't miss the hint about going back to the start!)",
  "files": {
   "AZSPQ1.BSP": {
    "bytes": 1902116,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1e5fb024166dc85c24458cc53424d797f79b0f66bfa572471d4e77940d44cd09",
  "tags": [
   "author=Greg Watters",

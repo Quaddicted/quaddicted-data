@@ -1,6 +1,5 @@
 {
  "bytes": 13303553,
- "description": "Speedmapping pack 206: 13 singleplayer levels and a simple start map using <a href=\"http://khreathor.xyz/site/prototype/\">khreathor's prototype textures</a>. The map sources are included.",
  "files": {
   "SM206 README.txt": {
    "bytes": 1568,
@@ -267,9 +266,6 @@
   "extract": "{base}/sm206/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of these maps probably require a source port with increased limits."
- ],
  "sha256": "7d7ca10a3b44b797ef64652887ed9100d8abd7f2bbabfe628727d3a198659d61",
  "tags": [
   "author=Arkii",

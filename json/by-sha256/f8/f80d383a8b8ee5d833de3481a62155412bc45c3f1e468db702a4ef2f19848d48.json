@@ -1,6 +1,5 @@
 {
  "bytes": 913459,
- "description": "Medium sized original Metal-style windtunnel base map.",
  "files": {
   "GRC4BETA.BSP": {
    "bytes": 2168840,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48",
  "tags": [
   "author=Mike Ruete / 'Gripp'",

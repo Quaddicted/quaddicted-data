@@ -1,6 +1,5 @@
 {
  "bytes": 10694590,
- "description": "Episode with five medium-to-large maps in IKBase/Quake2/Egyptian theme. Some new monsters/weapons and progs including cutscenes.",
  "files": {
   "PAK0.PAK": {
    "bytes": 25844961,
@@ -519,7 +518,6 @@
   "extract": "{base}/oum/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f",
  "tags": [
   "author=Apollo",

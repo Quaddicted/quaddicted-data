@@ -1,6 +1,5 @@
 {
  "bytes": 285535,
- "description": "Small Metal level.",
  "files": {
   "Story.txt": {
    "bytes": 2756,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7ea4f284f0f383f020ad7775928c8943de92f58f4610554394ab7486288eb6d8",
  "tags": [
   "author=Rudolf Kremers",

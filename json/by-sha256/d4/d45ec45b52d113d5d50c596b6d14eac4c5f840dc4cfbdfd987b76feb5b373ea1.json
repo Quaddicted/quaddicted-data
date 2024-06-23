@@ -1,6 +1,5 @@
 {
  "bytes": 980164,
- "description": "Very small Medieval map (+ a skill selection map and three demos) unnecessarily bundled in a .pak. Source is included.",
  "files": {
   "shoot/pak0.pak": {
    "bytes": 2560581,
@@ -86,10 +85,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
  "tags": [
-  "author=u00c9tienne (Blood Man) Bu00e9gin",
+  "author=\u00c9tienne (Blood Man) B\u00e9gin",
   "commandline=-game shoot",
   "filename=shoot.zip",
   "game=quake",

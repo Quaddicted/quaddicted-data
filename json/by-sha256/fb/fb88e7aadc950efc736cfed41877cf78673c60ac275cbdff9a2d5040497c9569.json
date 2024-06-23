@@ -1,6 +1,5 @@
 {
  "bytes": 554317,
- "description": "Small level set in a water-filled mountain crevasse. The map source is included.",
  "files": {
   "Iredent.bsp": {
    "bytes": 1041788,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "fb88e7aadc950efc736cfed41877cf78673c60ac275cbdff9a2d5040497c9569",
  "tags": [
   "author=c0j",

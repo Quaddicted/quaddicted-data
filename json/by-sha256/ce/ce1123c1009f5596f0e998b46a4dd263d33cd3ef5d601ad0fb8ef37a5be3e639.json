@@ -1,6 +1,5 @@
 {
  "bytes": 2353307,
- "description": "Large medieval brick estate with subterranean water caverns. It also includes a small start level and an unfinished end map.",
  "files": {
   "SBE.txt": {
    "bytes": 11060,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ce1123c1009f5596f0e998b46a4dd263d33cd3ef5d601ad0fb8ef37a5be3e639",
  "tags": [
   "author=Scragbait",

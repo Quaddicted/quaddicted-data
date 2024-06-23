@@ -1,6 +1,5 @@
 {
  "bytes": 360047,
- "description": "A office-like deathmatch map that has a few monster in SP too. Marbleous...",
  "files": {
   "alsc.bsp": {
    "bytes": 789448,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e25271fc4bbd8aa9a334863ff69380b080f39092821fbafffbc97a7f1b4c3b90",
  "tags": [
   "author=Darin McNeil",

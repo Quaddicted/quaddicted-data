@@ -1,6 +1,5 @@
 {
  "bytes": 123305044,
- "description": "Mini-episode of three maps in a fantasy/medieval style, with many custom modifications including rotating entities, jumppads and cutscenes.",
  "files": {
   "gsh_castleod/": {
    "bytes": 0,
@@ -867,9 +866,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "373f362d2fdcd64482fe8976cef50bfdf2502495da3197d666ca763c3d446b65",
  "tags": [
   "author=GunSgtHighway",

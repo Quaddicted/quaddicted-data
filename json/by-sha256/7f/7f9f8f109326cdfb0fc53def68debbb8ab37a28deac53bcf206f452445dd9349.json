@@ -1,6 +1,5 @@
 {
  "bytes": 106960,
- "description": "Tilted / 1 SP map / negke",
  "files": {
   "smqe08c_negke.bsp": {
    "bytes": 254672,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7f9f8f109326cdfb0fc53def68debbb8ab37a28deac53bcf206f452445dd9349",
  "tags": [
   "author=negke",

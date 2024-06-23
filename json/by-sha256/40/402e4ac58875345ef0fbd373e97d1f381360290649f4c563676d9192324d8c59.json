@@ -1,6 +1,5 @@
 {
  "bytes": 4789071,
- "description": "Large open base map set inside a lava canyon.",
  "files": {
   "Sickbase.txt": {
    "bytes": 5377,
@@ -62,9 +61,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and a source port with increased limits."
- ],
  "sha256": "402e4ac58875345ef0fbd373e97d1f381360290649f4c563676d9192324d8c59",
  "tags": [
   "author=RickyT23",

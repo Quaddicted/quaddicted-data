@@ -1,6 +1,5 @@
 {
  "bytes": 27990059,
- "description": "Eight deathmatch levels remixed for single player, most of them based on the stock DM maps. They run on the SMP mod (included) and come with two skyboxes plus a music track. The map sources are included.",
  "files": {
   "sm212/SM212-POSTER.jpg": {
    "bytes": 174127,
@@ -247,9 +246,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of these maps require a source port with increased limits and/or BSP2 support."
- ],
  "sha256": "33fceca29654ece3ffa4ef9aefe4b95d78ec9b3c08ae3c0e5c13db7aba26f3c4",
  "tags": [
   "author=DragonsForLunch",

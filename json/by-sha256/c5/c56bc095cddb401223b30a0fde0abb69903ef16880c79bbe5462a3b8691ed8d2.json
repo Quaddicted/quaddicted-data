@@ -1,6 +1,5 @@
 {
  "bytes": 634962,
- "description": "Dark oldschool dungeon level, originally made in 2019.",
  "files": {
   "rgdeep.bsp": {
    "bytes": 1579544,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "UPDATE, 21 DECEMBER 2022: <a href=\"bc1e819702fe80dc80dcb22814cb71b0c5c520b53a91c27c0b3303ccd91e3ddb\">Deepest Oblivion v3</a> is now available."
- ],
  "sha256": "c56bc095cddb401223b30a0fde0abb69903ef16880c79bbe5462a3b8691ed8d2",
  "tags": [
   "author=Daniel Remar",

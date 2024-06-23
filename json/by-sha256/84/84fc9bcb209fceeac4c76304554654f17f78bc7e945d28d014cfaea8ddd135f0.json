@@ -1,6 +1,5 @@
 {
  "bytes": 2249952,
- "description": "Unthemed / 6 SP maps / digs, necros, negke, ZealousQuakeFan",
  "files": {
   "sm164_digs.bsp": {
    "bytes": 554644,
@@ -52,7 +51,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0",
  "tags": [
   "author=ZealousQuakeFan",

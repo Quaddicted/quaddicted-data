@@ -1,6 +1,5 @@
 {
  "bytes": 8805254,
- "description": "Slightly touched-up version of the original map E2M4 - Ebon Fortress, adding small gameplay tweaks and subtle colored lighting. It runs on the progsdump mod (included) and comes with a custom music track in two formats created by the author. The map and mod sources are included.",
  "files": {
   "e2m4remix/e2m4remix.txt": {
    "bytes": 3055,
@@ -492,7 +491,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2ec44cc2c4b831c134e13fde2918031a380b1fc9dc2a619269bbb465241b3379",
  "tags": [
   "author=dumptruck_ds",

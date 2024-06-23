@@ -1,6 +1,5 @@
 {
  "bytes": 509084,
- "description": "Small medieval/brick map originally made for <a href=\"8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33\">SM195</a>. The map source is included.",
  "files": {
   "prensp1.bsp": {
    "bytes": 820908,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b087397bc663c9cbf0a7b23759f4cb2039b3592098b0ac8ecf3e1aa5ad563b66",
  "tags": [
   "author=prengle",

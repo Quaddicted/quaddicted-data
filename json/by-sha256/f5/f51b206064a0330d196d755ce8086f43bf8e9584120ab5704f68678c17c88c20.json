@@ -1,6 +1,5 @@
 {
  "bytes": 1294422,
- "description": "Small metal / runic map in a classic id1 style for vanilla Quake. The author's first release. Difficulty settings are not implemented. Map source is included.",
  "files": {
   "lee1m1.bsp": {
    "bytes": 2334912,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f51b206064a0330d196d755ce8086f43bf8e9584120ab5704f68678c17c88c20",
  "tags": [
   "author=Lee \"RoughTank\" Hirst",

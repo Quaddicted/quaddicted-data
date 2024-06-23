@@ -1,6 +1,5 @@
 {
  "bytes": 72972516,
- "description": "Nine small / medium maps made in a week using MachineGames' new textures for the rerelease. A variety of themes and styles. Based on Copper mod (already included). Custom start map, MAP source, and QC source code is included.",
  "files": {
   "sm217/": {
    "bytes": 0,
@@ -1140,9 +1139,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Probably requires a modern engine / source port with increased limits."
- ],
  "sha256": "c03235e804a9c8f23c6cc65eb340a2d45d033eb8c9f221b18ceb332dfe852342",
  "tags": [
   "author=Aesopolis",

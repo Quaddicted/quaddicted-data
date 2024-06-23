@@ -1,6 +1,5 @@
 {
  "bytes": 5638123,
- "description": "Updated (fully vised) version of <a href=\"e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2\">Fort Driant</a> which improves the rendering performance.",
  "files": {
   "fort_driant-fullvis.bsp": {
    "bytes": 12392900,
@@ -17,9 +16,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>, the <a href=\"e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2\">original release</a> and a source port with increased limits."
- ],
  "sha256": "d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726",
  "tags": [
   "author=JPL",

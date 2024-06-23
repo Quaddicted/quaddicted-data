@@ -1,6 +1,5 @@
 {
  "bytes": 746676,
- "description": "Quite large and fairly hard base map.",
  "files": {
   "DOTD4.bsp": {
    "bytes": 1714616,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f1d604f3a464083d045fc0a60dfa078ebefddeeb2754c3ad134a51d806229cf9",
  "tags": [
   "author=Thehuge",

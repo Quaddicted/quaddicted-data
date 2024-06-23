@@ -1,6 +1,5 @@
 {
  "bytes": 319259,
- "description": "Explosions / 3 SP maps / digs (Quoth), Orbs, Scampie (Quoth)",
  "files": {
   "sm172_digs.bsp": {
    "bytes": 579840,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950",
  "tags": [
   "author=Orbs",

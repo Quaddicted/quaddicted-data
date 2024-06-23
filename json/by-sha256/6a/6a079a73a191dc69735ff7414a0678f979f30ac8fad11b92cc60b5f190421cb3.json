@@ -1,6 +1,5 @@
 {
  "bytes": 1031908,
- "description": "Medium sized Wizard castle. Map source is included.",
  "files": {
   "FDISSENS.BSP": {
    "bytes": 2305936,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6a079a73a191dc69735ff7414a0678f979f30ac8fad11b92cc60b5f190421cb3",
  "tags": [
   "author=G.Pietz (Laernu)",

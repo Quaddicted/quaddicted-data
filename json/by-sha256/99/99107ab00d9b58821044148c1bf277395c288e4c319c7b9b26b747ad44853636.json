@@ -1,6 +1,5 @@
 {
  "bytes": 1197076,
- "description": "Medium sized medieval castle with a temple and a sewer. Uses many new textures.",
  "files": {
   "qshift.bsp": {
    "bytes": 3050464,
@@ -17,10 +16,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "99107ab00d9b58821044148c1bf277395c288e4c319c7b9b26b747ad44853636",
  "tags": [
-  "author=Anders Elvstru00f6m \"Elvis\"",
+  "author=Anders Elvstr\u00f6m \"Elvis\"",
   "filename=qshift.zip",
   "game=quake",
   "game_mode=singleplayer",

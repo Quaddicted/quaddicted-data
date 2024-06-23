@@ -1,6 +1,5 @@
 {
  "bytes": 1119675,
- "description": "Swamp / 2 SP, 1 DMSP maps / Harb, Scampie, Starbuck",
  "files": {
   "sm46_harb - READ ME FIRST - DARKPLACES REQUIRED.txt": {
    "bytes": 115,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e",
  "tags": [
   "author=Harb",

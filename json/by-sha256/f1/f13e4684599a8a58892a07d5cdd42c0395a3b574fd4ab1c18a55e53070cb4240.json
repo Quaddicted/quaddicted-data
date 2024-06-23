@@ -1,6 +1,5 @@
 {
  "bytes": 1068388,
- "description": "Aardappel's entry for the QMap 100 Brush Competition of Dec00-Jan01: a huge canyon with a hidden castle. It comes with an optional progs.dat which removes dead bodies and gibs for better performance. The map source is included.",
  "files": {
   "aard100.bsp": {
    "bytes": 1829272,
@@ -32,7 +31,6 @@
   "extract": "{base}/aard100/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f13e4684599a8a58892a07d5cdd42c0395a3b574fd4ab1c18a55e53070cb4240",
  "tags": [
   "author=Aardappel",

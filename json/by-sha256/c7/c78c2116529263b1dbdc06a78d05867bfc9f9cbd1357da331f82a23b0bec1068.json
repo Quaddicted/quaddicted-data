@@ -1,6 +1,5 @@
 {
  "bytes": 26804491,
- "description": "16 speedmaps with varying themes + custom start map. Each map has at least 2 quad damage powerups, requiring players to chain together quad buffs into a \"quad run.\" Many maps may feel difficult, even on skill 0. Beginners beware. Built on Copper (already included). Organized by Greenwood.",
  "files": {
   "sm223/pak0.pak": {
    "bytes": 74591634,
@@ -606,7 +605,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c78c2116529263b1dbdc06a78d05867bfc9f9cbd1357da331f82a23b0bec1068",
  "tags": [
   "author=66ppt99",

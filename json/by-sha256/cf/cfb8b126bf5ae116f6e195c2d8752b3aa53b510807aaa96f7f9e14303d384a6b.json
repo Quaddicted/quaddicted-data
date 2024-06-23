@@ -1,6 +1,5 @@
 {
  "bytes": 641652,
- "description": "Fairly large wizard canal system with boats, sluices and a cool flood wave. Quite hard.",
  "files": {
   "canal.bsp": {
    "bytes": 1566244,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cfb8b126bf5ae116f6e195c2d8752b3aa53b510807aaa96f7f9e14303d384a6b",
  "tags": [
   "author=Mick Brown",

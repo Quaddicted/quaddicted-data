@@ -1,6 +1,5 @@
 {
  "bytes": 202219,
- "description": "Small map with a unique Tron- or cyberspace-like texture theme.",
  "files": {
   "digs02.bsp": {
    "bytes": 699352,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cdd34b1c178bb77386c78f2562042e7bbeb315b1d23b863081af957767a923c5",
  "tags": [
   "author=Digs",

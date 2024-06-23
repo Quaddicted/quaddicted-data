@@ -1,6 +1,5 @@
 {
  "bytes": 421868,
- "description": "Very small level using sock's Egyptian textures.",
  "files": {
   "rofra.bsp": {
    "bytes": 984836,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "adbbf91f64bf471f4ed73ed12016ff1e1f868cb7c50fbd8e881c8dd422bd5068",
  "tags": [
   "author=super",

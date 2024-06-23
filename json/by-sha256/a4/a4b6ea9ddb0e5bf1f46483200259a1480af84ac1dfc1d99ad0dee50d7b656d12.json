@@ -1,6 +1,5 @@
 {
  "bytes": 34935,
- "description": "A single room with a bunch of monsters and items.",
  "files": {
   "killemal.bsp": {
    "bytes": 94680,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a4b6ea9ddb0e5bf1f46483200259a1480af84ac1dfc1d99ad0dee50d7b656d12",
  "tags": [
   "author=Matthias Kunze",

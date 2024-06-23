@@ -1,6 +1,5 @@
 {
  "bytes": 906590,
- "description": "Medium to large nukage processing base built into a mountain - all custom textures; strong Half-Life flair. (This is the non-speedrunning version of the map)",
  "files": {
   "thepit.bsp": {
    "bytes": 2464464,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b",
  "tags": [
   "author=Attila Csernyik",

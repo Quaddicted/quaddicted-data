@@ -1,6 +1,5 @@
 {
  "bytes": 793659,
- "description": "Medium sized red brick realism map with a Wizard bit beneath.",
  "files": {
   "gordian.bsp": {
    "bytes": 1816444,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "48091e16e426678aeaea3224a3262c521c534c153deb557c420965611522e58b",
  "tags": [
   "author=O. Marlowe",

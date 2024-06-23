@@ -1,6 +1,5 @@
 {
  "bytes": 8337038,
- "description": "Six maps of varying style created by five authors over a period of five weeks, each with a focus on speedrunning but also suitable for casual play. Each map comes with its own par time.",
  "files": {
   "srj1/": {
    "bytes": 0,
@@ -127,7 +126,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "dcb5f9bbf05322e4d6a9740e9add5ef9486050cc35218d762d88a3d4f8feb7fe",
  "tags": [
   "author=ChadQuad",

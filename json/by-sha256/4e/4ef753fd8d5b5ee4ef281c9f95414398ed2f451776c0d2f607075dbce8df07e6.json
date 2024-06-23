@@ -1,6 +1,5 @@
 {
  "bytes": 1828442,
- "description": "Conversion of Quake II's map01, complete with textures and coloured lighting, but different monster placement.",
  "files": {
   "orb's betrayal.txt": {
    "bytes": 1649,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6",
  "tags": [
   "author=MadFox",

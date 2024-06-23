@@ -1,6 +1,5 @@
 {
  "bytes": 1783076,
- "description": "Unthemed / 4 SP maps / generic, neg!ke, Trinca, Zwiffle",
  "files": {
   "sm111_generic.bsp": {
    "bytes": 1177608,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005",
  "tags": [
   "author=Trinca",

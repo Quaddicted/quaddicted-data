@@ -1,6 +1,5 @@
 {
  "bytes": 67685358,
- "description": "132 (!!!) short speed-maps + custom start map and end map, each made in two hours by 36 mappers for vanilla Quake. There were four episodic themes: Egypt, Runic, Koohoo, and Elder, and each episode is accessible from the start map hub. Co-op and deathmatch support varies for each map. Organized by Spootnik and Fairweather. Map source is included.",
  "files": {
   "quoffee2.txt": {
    "bytes": 1621,
@@ -1967,9 +1966,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "See also: the original <a href=\"92a7419dfa9b90fcf197d42efc5a0d9c248dd6d3dbdc14b73eac2ec65d0f5033\">Coffee Quake (2019)</a>."
- ],
  "sha256": "6484249b2bf35ac30b2cf849e727a57e7a7c2be569340695c3aaef8ccae311ae",
  "tags": [
   "author=4LT",

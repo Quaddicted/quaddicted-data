@@ -1,6 +1,5 @@
 {
  "bytes": 3980320,
- "description": "Late entry for <a href=\"6755b682db4d2fcd3e92dee61b7975468a2807abc2a93f29051835e7e33aec69\">Xmas Jam 2020</a>: a small Knave-themed level built inside a 1024³ units space. It comes with a custom sky box. The map source is included.",
  "files": {
   "ad_bmfbr_xm.txt": {
    "bytes": 2276,
@@ -72,9 +71,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> or <a href=\"6755b682db4d2fcd3e92dee61b7975468a2807abc2a93f29051835e7e33aec69\">Xmas Jam 2020</a>."
- ],
  "sha256": "565e37a0a76b8956534ca1273d98222f01a79bd9e9af7a408519a3cb1442dc4a",
  "tags": [
   "author=bmFbr",

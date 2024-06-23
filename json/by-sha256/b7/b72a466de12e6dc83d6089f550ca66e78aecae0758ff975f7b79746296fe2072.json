@@ -1,6 +1,5 @@
 {
  "bytes": 859996,
- "description": "E1M1 of Wolfenstein 3D, complete with original textures and layout. Uses some SOA entities.",
  "files": {
   "WOLF3D.bsp": {
    "bytes": 2232048,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072",
  "tags": [
   "author=Daryl Deep",

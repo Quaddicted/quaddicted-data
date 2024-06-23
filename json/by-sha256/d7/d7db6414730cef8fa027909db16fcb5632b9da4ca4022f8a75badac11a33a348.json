@@ -1,6 +1,5 @@
 {
  "bytes": 1073497,
- "description": "Smallish, linear base+bricks style level. The map source is included.",
  "files": {
   "ia01q1sp.bsp": {
    "bytes": 2305215,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d7db6414730cef8fa027909db16fcb5632b9da4ca4022f8a75badac11a33a348",
  "tags": [
   "author=IcarusAvery",

@@ -1,6 +1,5 @@
 {
  "bytes": 425049,
- "description": "Small egyptian map with a base part. Was created for speedrunning but works for the casual player too.",
  "files": {
   "aow.bsp": {
    "bytes": 912464,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1746616a60fc110fc9856df73c346dccba6ce8e5e79e9ae3208dbd107c3f8705",
  "tags": [
   "author=Rutger Baks",

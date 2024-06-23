@@ -1,6 +1,5 @@
 {
  "bytes": 4302618,
- "description": "Large Metal/runic/mixed-tex dungeon with relentless arena combat in small rooms and tight corridors. 500+ monsters in total.",
  "files": {
   "xld.bsp": {
    "bytes": 7369556,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits."
- ],
  "sha256": "532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2",
  "tags": [
   "author=xlarve",

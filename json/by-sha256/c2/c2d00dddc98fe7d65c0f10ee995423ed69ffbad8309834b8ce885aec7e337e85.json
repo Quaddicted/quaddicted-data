@@ -1,6 +1,5 @@
 {
  "bytes": 106377507,
- "description": "Large map in a unique style, combining an 'adventure' theme with pirate ship, caves, and underwater exploration, with sci-fi elements and monsters.",
  "files": {
   "aqualus/aqualus.txt": {
    "bytes": 3655,
@@ -3210,9 +3209,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "c2d00dddc98fe7d65c0f10ee995423ed69ffbad8309834b8ce885aec7e337e85",
  "tags": [
   "author=zbidou72",

@@ -1,6 +1,5 @@
 {
  "bytes": 823649,
- "description": "Bricks / 3 SP maps / Cocerello (Quoth), digs, Scampie",
  "files": {
   "sm171_cocerello.bsp": {
    "bytes": 841996,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed",
  "tags": [
   "author=Cocerello",

@@ -1,6 +1,5 @@
 {
  "bytes": 830952,
- "description": "Large vertical Wizard map.",
  "files": {
   "czg03.bsp": {
    "bytes": 1938294,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "924c448bc11feba82775f4a5d28d4d4d750a13b7710970f1af761f88e4b44f0c",
  "tags": [
   "author=czg",

@@ -1,6 +1,5 @@
 {
  "bytes": 720556,
- "description": "Dark oldschool lava temple level, originally made in 2019.",
  "files": {
   "rgfire.bsp": {
    "bytes": 1756220,
@@ -17,9 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "UPDATE, 20 December 2022: there is now an updated <a href=\"ca3fe166c0919b3fc088777d11e8b3e1f12a983ea5266ce582eef6781d2205a5\">Citadel of Fire v3</a>."
- ],
  "sha256": "a7df6aa2f625359285e839a0d273244a340b9d5925ae52133890df7852cde2a4",
  "tags": [
   "author=Daniel Remar",

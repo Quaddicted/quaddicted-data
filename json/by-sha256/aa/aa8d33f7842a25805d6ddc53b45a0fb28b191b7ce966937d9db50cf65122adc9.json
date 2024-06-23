@@ -1,6 +1,5 @@
 {
  "bytes": 3141348,
- "description": "Small abstact blue void map using custom textures. The texture wad is included.",
  "files": {
   "h2cloud.wad": {
    "bytes": 2111660,
@@ -27,9 +26,6 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.7</a>."
- ],
  "sha256": "aa8d33f7842a25805d6ddc53b45a0fb28b191b7ce966937d9db50cf65122adc9",
  "tags": [
   "author=whirledtsar",

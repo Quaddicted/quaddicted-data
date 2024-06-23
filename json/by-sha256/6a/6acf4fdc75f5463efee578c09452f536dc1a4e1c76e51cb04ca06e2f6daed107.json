@@ -1,6 +1,5 @@
 {
  "bytes": 84043,
- "description": "Small, fullbright pseudo-maze created with the Stoneless editor.",
  "files": {
   "MAZE.bsp": {
    "bytes": 207324,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107",
  "tags": [
   "author=Cristina Baroglio",

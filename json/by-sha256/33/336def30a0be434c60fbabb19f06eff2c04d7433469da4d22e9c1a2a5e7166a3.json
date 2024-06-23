@@ -1,6 +1,5 @@
 {
  "bytes": 528356,
- "description": "Small base map with a focus on monster closets.",
  "files": {
   "Basetunnels.txt": {
    "bytes": 667,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "336def30a0be434c60fbabb19f06eff2c04d7433469da4d22e9c1a2a5e7166a3",
  "tags": [
   "author=Doug Magee",

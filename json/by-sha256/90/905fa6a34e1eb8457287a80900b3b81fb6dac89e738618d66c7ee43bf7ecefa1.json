@@ -1,6 +1,5 @@
 {
  "bytes": 30045278,
- "description": "15 small / medium sized maps made in three days, with one design constraint: only 40 monsters or less. Built on Copper v1.19 (already included) and map source files are included too.",
  "files": {
   "copper.def": {
    "bytes": 100563,
@@ -1097,10 +1096,6 @@
   "extract": "{base}/sm219/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "There is no custom start map, so levels must be loaded manually via console.",
-  "The map sm219_ish2.bsp is in a hidden folder, and must be manually moved into the root of the /maps/ folder to play it."
- ],
  "sha256": "905fa6a34e1eb8457287a80900b3b81fb6dac89e738618d66c7ee43bf7ecefa1",
  "tags": [
   "author=Chris Holden",

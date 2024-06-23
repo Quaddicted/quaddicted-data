@@ -1,6 +1,5 @@
 {
  "bytes": 526083,
- "description": "Unthemed / 2 SP, 2 DM maps / E-werd, necros, Starbuck, NotoriousRay",
  "files": {
   "sm52_ewerd.bsp": {
    "bytes": 85872,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8f7f7b32f9901d11a3904f50a883fa14dfcb6d8df1a0e64c16050b3136b494d2",
  "tags": [
   "author=E-werd",

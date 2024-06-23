@@ -1,6 +1,5 @@
 {
  "bytes": 916469,
- "description": "Smallish mine level with a outdoor area with houses and a temple entrance. Requires Scourge of Armagon.",
  "files": {
   "Qmine.txt": {
    "bytes": 1783,
@@ -22,7 +21,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "671f23a3317e75415e6efd4411155f76096fb6f0f38a6e1f4883fe3661b46988",
  "tags": [
   "author=DD",

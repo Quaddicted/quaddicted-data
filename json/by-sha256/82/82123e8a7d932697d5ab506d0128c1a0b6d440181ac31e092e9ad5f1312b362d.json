@@ -1,6 +1,5 @@
 {
  "bytes": 2566684,
- "description": "Small Metal/runic level.",
  "files": {
   "vrksp1.bsp": {
    "bytes": 5237292,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "82123e8a7d932697d5ab506d0128c1a0b6d440181ac31e092e9ad5f1312b362d",
  "tags": [
   "author=VuRkka",

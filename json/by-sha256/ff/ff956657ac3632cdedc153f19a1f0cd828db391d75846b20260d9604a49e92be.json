@@ -1,6 +1,5 @@
 {
  "bytes": 300401,
- "description": "Large leaked room with monsters and many rockets. Requires an engine with increased limits. Map source is included.",
  "files": {
   "arena3.MAP": {
    "bytes": 16543,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ff956657ac3632cdedc153f19a1f0cd828db391d75846b20260d9604a49e92be",
  "tags": [
   "author=Bad Ash",

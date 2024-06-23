@@ -1,6 +1,5 @@
 {
  "bytes": 1246665,
- "description": "Large base map with a unique theme and reliance on exploration. Reinforcements teleport in if the mission is not completed within 15 minutes.",
  "files": {
   "tmc.bsp": {
    "bytes": 2878992,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b",
  "tags": [
   "author=Sascha Otterbein (mne[MON]ik)",

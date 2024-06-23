@@ -1,6 +1,5 @@
 {
  "bytes": 1381961,
- "description": "Small base level; a remake of the first map of the game Viscerafest. The map source is included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -37,9 +36,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.71</a>."
- ],
  "sha256": "d5204ca4d97a1fdc80d32bd1087492e3be8a84d45bdf87f928d7a420e54dd01d",
  "tags": [
   "author=Markie Music",

@@ -1,6 +1,5 @@
 {
  "bytes": 604171,
- "description": "Smallish castle.",
  "files": {
   "castled!.bsp": {
    "bytes": 1325496,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b40cabc6d0ac413eacb39321d1f11f21f6a88c46afe4f5ce60aa82574a7cf8ac",
  "tags": [
   "author=Steve Rescoe",

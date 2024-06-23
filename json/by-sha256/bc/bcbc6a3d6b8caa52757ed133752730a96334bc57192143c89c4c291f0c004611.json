@@ -1,6 +1,5 @@
 {
  "bytes": 1346716,
- "description": "Huge wizmetal medieval map with tense gameplay and cutscenes.",
  "files": {
   "MEXX8.TXT": {
    "bytes": 15084,
@@ -75,7 +74,6 @@
   "extract": "{base}/mexx8/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611",
  "tags": [
   "author=Marcus Dromowicz",

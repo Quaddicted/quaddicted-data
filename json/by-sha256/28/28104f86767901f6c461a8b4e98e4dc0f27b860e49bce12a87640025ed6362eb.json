@@ -1,6 +1,5 @@
 {
  "bytes": 2047364,
- "description": "Large medieval town in a thundery night with completely new textures and non-standard gameplay. To proceed, it's often required to find hidden buttons and use certain strategies to defeat the monsters (such as relying on infighting and conserving ammo).",
  "files": {
   "middle.txt": {
    "bytes": 1771,
@@ -67,7 +66,6 @@
   "extract": "{base}/middle/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "tags": [
   "author=Jean-Marc Gruninger",

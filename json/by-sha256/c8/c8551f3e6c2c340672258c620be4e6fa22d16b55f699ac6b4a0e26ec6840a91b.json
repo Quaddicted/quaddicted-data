@@ -1,6 +1,5 @@
 {
  "bytes": 739672,
- "description": "Small to medium-sized military base with nightly outside areas. The map source is included.",
  "files": {
   "shelsp1.bsp": {
    "bytes": 1656068,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c8551f3e6c2c340672258c620be4e6fa22d16b55f699ac6b4a0e26ec6840a91b",
  "tags": [
   "author=Shelvid_",

@@ -1,6 +1,5 @@
 {
  "bytes": 409052,
- "description": "Small blue/red bricks level.",
  "files": {
   "brt06q1.bsp": {
    "bytes": 961144,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "615ce0f31269282863236193522051c0713c72b88d80896d51f075e15d7798c8",
  "tags": [
   "author=QBrt",

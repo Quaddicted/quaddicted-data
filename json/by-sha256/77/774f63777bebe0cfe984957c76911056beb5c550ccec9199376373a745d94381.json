@@ -1,6 +1,5 @@
 {
  "bytes": 615428,
- "description": "The author's first map. A small wizard-themed interior of a house, and some base/grotto bits.",
  "files": {
   "bario.bsp": {
    "bytes": 1386992,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "774f63777bebe0cfe984957c76911056beb5c550ccec9199376373a745d94381",
  "tags": [
   "author=Bario",

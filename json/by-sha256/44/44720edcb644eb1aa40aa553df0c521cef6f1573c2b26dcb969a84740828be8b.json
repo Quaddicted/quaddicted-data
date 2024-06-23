@@ -1,6 +1,5 @@
 {
  "bytes": 1150959,
- "description": "50 brushes / 8 SP maps / ericw, ijed, RickyT23, Spirit, Trinca, ZealousQuakeFan, Zwiffle",
  "files": {
   "sm161_ericw.bsp": {
    "bytes": 465312,
@@ -92,7 +91,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b",
  "tags": [
   "author=RickyT23",
@@ -117,7 +115,7 @@
   "startmap=sm161_zwiffle",
   "theme=quoth",
   "theme=void",
-  "theme=zerstu00f6rer",
+  "theme=zerst\u00f6rer",
   "title=Speedmapping pack 161 - 50 brushes",
   "type=speedmap",
   "zipbasedir=id1/maps/"

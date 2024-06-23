@@ -1,6 +1,5 @@
 {
  "bytes": 1310050,
- "description": "Small red brick level with a start map.",
  "files": {
   "GOSTOWN7.BSP": {
    "bytes": 2010740,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6",
  "tags": [
   "author=John Harley",

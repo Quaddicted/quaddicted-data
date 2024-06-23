@@ -1,6 +1,5 @@
 {
  "bytes": 157641,
- "description": "\"This patch fixes a bug in <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">RDE</a>'s original progs.dat: When you record a coop demo on rdend, there were one or two (depending on the skill setting) hellknights who did not teleport in when you picked up the nailgun. Now they appear as they should.\"",
  "files": {
   "PAK1.PAK": {
    "bytes": 509691,
@@ -23,7 +22,6 @@
   "extract": "{base}/rde/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d2489b4b26e65b81676112dcbed4eac2eb87f017f0f3de18b871e357da3b0bad",
  "tags": [
   "author=Jesse van Dijk",

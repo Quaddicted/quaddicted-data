@@ -1,6 +1,5 @@
 {
  "bytes": 7067802,
- "description": "SP episode consisting of six medium to large egyptian/wizard style maps (and a start map) with reskinned monsters. Originally created and released sometime in 2003. Unfortunately, it was unfinished and had e.g. a lot of entity and progression problems. Therefore aguirRe fixed the maps up and re-released this version. The final map nj4 is still missing.",
  "files": {
   "nightjourney/": {
    "bytes": 0,
@@ -98,9 +97,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This pack has to be played with Q1MP2: Dissolution of Eternity."
- ],
  "sha256": "51c39a4723c82c53a8386fde62781526a8b94ab1d4aee0bcdf757dcc9cc5fc51",
  "tags": [
   "author=Daz",

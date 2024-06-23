@@ -1,6 +1,5 @@
 {
  "bytes": 401149,
- "description": "E2M1-inspired base map with an emphasis on speedrunning.",
  "files": {
   "runerun.bsp": {
    "bytes": 1018276,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "c3f2a24e90b14e57dac5a5a09ef5986ee6f1cc88cdf0f7ceddd1c4afd642a301",
  "tags": [
   "author=Connor Fitzgerald",

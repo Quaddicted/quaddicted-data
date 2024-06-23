@@ -1,6 +1,5 @@
 {
  "bytes": 792040,
- "description": "Medium sized map with strange textures.",
  "files": {
   "AgX.txt": {
    "bytes": 4204,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d68bdf601f525049b1537fe2a0095408b129dd76cf5ea61bf0983fab34ef9570",
  "tags": [
   "author=Dr. Gomez Inigo Bombay",

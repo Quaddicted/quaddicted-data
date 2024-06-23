@@ -1,6 +1,5 @@
 {
  "bytes": 1396673,
- "description": "Medium-sized base map; a maze of dark corridors with exploration/invasion-based gameplay. The map uses procedural variation to populate each area and provides a complete game mode intended for cooperative play. The map source is included.",
  "files": {
   "sbtf_cop16.bsp": {
    "bytes": 3063108,
@@ -27,9 +26,6 @@
   "extract": "{base}/copper/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires Copper 1.16</a> and a source port with increased limits."
- ],
  "sha256": "c8c6924d30605e6171b489b491b2674809a956d0493858cf5395e5b3baab1670",
  "tags": [
   "author=The Solipsist",

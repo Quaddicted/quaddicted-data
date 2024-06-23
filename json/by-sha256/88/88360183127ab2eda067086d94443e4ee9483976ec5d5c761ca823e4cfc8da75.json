@@ -1,6 +1,5 @@
 {
  "bytes": 858434,
- "description": "Simple medium sized Metal map with a Chthon boss fight.",
  "files": {
   "PYRO4.BSP": {
    "bytes": 1923240,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75",
  "tags": [
   "author=Dean Scott",

@@ -1,6 +1,5 @@
 {
  "bytes": 3583584,
- "description": "Old unfinished 2016 beta version of the <a href=\"dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb\">Forgotten Sepulcher level</a> in Arcane Dimensions, before it was significantly changed for final release in 2017. It was arguably a completely different map.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -37,10 +36,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map is archived here mostly for academic / historical interest. Keep in mind it is a non-final test version built for an older version of AD, so there will likely be bugs or broken features.",
-  "Note: requires Arcane Dimensions v1.5+ (NOT included) as well as a modern engine / source port with increased limits."
- ],
  "sha256": "7d29d7636620d1c9da6b13e767b20053afaaede0edc5877edaae18557d3b5d85",
  "tags": [
   "author=Giftmacher",

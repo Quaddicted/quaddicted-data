@@ -1,6 +1,5 @@
 {
  "bytes": 18953665,
- "description": "Medium-sized flooded Aztec / Mesoamerican ruins (Koohoo) map with a few puzzles and \"cheeky\" combat, built on Progs Dump 3 (already included). QuakeC and map source is included. Custom music by Patrick Patrikios.",
  "files": {
   "sf/config.cfg": {
    "bytes": 3018,
@@ -712,9 +711,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "No start map, load it via console: \"game sf; map sunkenfallacy\""
- ],
  "sha256": "f702012d2966b57cf1b378dfc2604516ba8f86a3e9c2492c522884947ea2abbf",
  "tags": [
   "author=GrazzasOnlyFans",

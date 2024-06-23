@@ -1,6 +1,5 @@
 {
  "bytes": 750770,
- "description": "Small boxed Wizard map. Requires cheats to finish.",
  "files": {
   "KEYQUEST.MAP": {
    "bytes": 713506,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d",
  "tags": [
   "author=Yvon Lariviere",

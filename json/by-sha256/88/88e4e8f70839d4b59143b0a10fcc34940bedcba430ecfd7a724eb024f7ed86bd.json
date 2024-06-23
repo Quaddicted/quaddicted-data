@@ -1,6 +1,5 @@
 {
  "bytes": 1490030,
- "description": "IDbase (The 4 Seasons of Quake #1) / 5 SP maps / Asaki, CZG, Metlslime, Scampie, Starbuck",
  "files": {
   "sm55_asaki.bsp": {
    "bytes": 985224,
@@ -37,7 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "88e4e8f70839d4b59143b0a10fcc34940bedcba430ecfd7a724eb024f7ed86bd",
  "tags": [
   "author=Asaki",

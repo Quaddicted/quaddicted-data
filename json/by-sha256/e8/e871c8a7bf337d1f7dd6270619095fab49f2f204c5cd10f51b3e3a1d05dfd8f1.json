@@ -1,6 +1,5 @@
 {
  "bytes": 1338215,
- "description": "Small to medium-sized level in Gloom Keep style, with a dark brick dungeon beneath. The map source is included.",
  "files": {
   "hush.bsp": {
    "bytes": 2546144,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e871c8a7bf337d1f7dd6270619095fab49f2f204c5cd10f51b3e3a1d05dfd8f1",
  "tags": [
   "author=iYago",

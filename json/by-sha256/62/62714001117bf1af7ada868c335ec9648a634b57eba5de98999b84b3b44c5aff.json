@@ -1,6 +1,5 @@
 {
  "bytes": 9119693,
- "description": "Episode consisting of four base maps in various styles (idbase, ikbase and zerbase are all featured) with a short backing story. Intended as part 1 of a wider release. Designed to run on the original Quake limits.",
  "files": {
   "readme.txt": {
    "bytes": 8306,
@@ -94,9 +93,6 @@
   "extract": "{base}/alk1.1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This episode requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a> to be installed."
- ],
  "sha256": "62714001117bf1af7ada868c335ec9648a634b57eba5de98999b84b3b44c5aff",
  "tags": [
   "author=RickyT23",

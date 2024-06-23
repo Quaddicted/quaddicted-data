@@ -1,6 +1,5 @@
 {
  "bytes": 1749090,
- "description": "Three small, experimental levels with cartoony textures and gameplay focusing on exploration and movement. The map sources are included.",
  "files": {
   "before you play.txt": {
    "bytes": 3773,
@@ -72,7 +71,6 @@
   "extract": "{base}/toybox/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "99118d540a39754ee1af6c3c5e62f068a54be5e2bfac71f80fd86b010d75c9dc",
  "tags": [
   "author=Andrew Yoder",

@@ -1,6 +1,5 @@
 {
  "bytes": 198088,
- "description": "Small oldschool medieval level. The map source is included.",
  "files": {
   "do1.bsp": {
    "bytes": 370284,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "75d9d6938d21b75eab68280d84aa608a04fefecaa0a8a79984a940a60966f3a3",
  "tags": [
   "author=c0j",

@@ -1,6 +1,5 @@
 {
  "bytes": 2633504,
- "description": "Large map with a mixture of base and medieval elements.",
  "files": {
   "grenade.txt": {
    "bytes": 2692,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c",
  "tags": [
   "author=MadFox",

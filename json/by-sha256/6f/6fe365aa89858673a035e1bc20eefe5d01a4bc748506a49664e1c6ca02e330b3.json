@@ -1,6 +1,5 @@
 {
  "bytes": 647757,
- "description": "Medium sized Base map with an outside area and a heavy tech bit.",
  "files": {
   "Colony2.bsp": {
    "bytes": 1491200,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3",
  "tags": [
   "author=Mark Turner",

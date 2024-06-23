@@ -1,6 +1,5 @@
 {
  "bytes": 67959716,
- "description": "A community map pack featuring nine (under)water-themed levels by various authors. They use different texture styles and some custom monsters/assets.",
  "files": {
   "uwjam/": {
    "bytes": 0,
@@ -1367,9 +1366,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require a source port with increased limits."
- ],
  "sha256": "6ff19c8513875e7830077f770d45ef5cf049b4d6ba01fac4a32c888f248a36c1",
  "tags": [
   "author=Bloodshot",

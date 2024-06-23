@@ -1,6 +1,5 @@
 {
  "bytes": 33784324,
- "description": "Small military camp in the jungle. An asset showcase and a resource/toolbox for vegetation in levels. It is based on the Progs_dump mod (included), uses custom textures and comes with a few new sounds. The map and qc sources are included.",
  "files": {
   "gsh_jungle/": {
    "bytes": 0,
@@ -702,9 +701,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits + BSP2 support as well as transparent textures. Perfomance issues on slower machines are to be expected."
- ],
  "sha256": "90ff5c700593d979b92864de8c773869c22a07ae8820e7b73bb62ce3175a93c9",
  "tags": [
   "author=GunSgtHighway",

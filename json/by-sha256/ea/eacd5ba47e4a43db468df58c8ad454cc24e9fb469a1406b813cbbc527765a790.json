@@ -1,6 +1,5 @@
 {
  "bytes": 644807,
- "description": "Small Base map - a weapon factory producing aircrafts, tanks and submarines.",
  "files": {
   "weaponf.bsp": {
    "bytes": 1489612,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "eacd5ba47e4a43db468df58c8ad454cc24e9fb469a1406b813cbbc527765a790",
  "tags": [
   "author=EraserX",

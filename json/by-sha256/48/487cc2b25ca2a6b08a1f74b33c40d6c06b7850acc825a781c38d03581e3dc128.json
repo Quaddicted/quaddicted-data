@@ -1,6 +1,5 @@
 {
  "bytes": 733309,
- "description": "Medium size metal castle.",
  "files": {
   "FatalPla.bsp": {
    "bytes": 1695300,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "487cc2b25ca2a6b08a1f74b33c40d6c06b7850acc825a781c38d03581e3dc128",
  "tags": [
   "author=Massimo Ciano",

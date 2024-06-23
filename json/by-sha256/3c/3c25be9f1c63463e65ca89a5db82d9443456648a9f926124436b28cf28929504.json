@@ -1,6 +1,5 @@
 {
  "bytes": 893444,
- "description": "Unthemed / 1 SP map, 1 SPDM map / efdat, ijed",
  "files": {
   "sm140_efdat.bsp": {
    "bytes": 965696,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3c25be9f1c63463e65ca89a5db82d9443456648a9f926124436b28cf28929504",
  "tags": [
   "author=efdat",

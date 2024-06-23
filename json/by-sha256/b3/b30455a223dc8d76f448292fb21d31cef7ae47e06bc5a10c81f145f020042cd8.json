@@ -1,6 +1,5 @@
 {
  "bytes": 29249661,
- "description": "Medium-sized oldschoolish medieval church complex with Hexen II-vibe puzzles. Comes with modified models/sounds and gameplay features, and custom music tracks. The map and qc sources are included.",
  "files": {
   "unholy/": {
    "bytes": 0,
@@ -602,10 +601,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires the FTE source port",
-  "An updated version is available <a href=\"https://www.quaddicted.com/filebase/unholy.7.zip\">here</a>."
- ],
  "sha256": "b30455a223dc8d76f448292fb21d31cef7ae47e06bc5a10c81f145f020042cd8",
  "tags": [
   "author=Inky",

@@ -1,6 +1,5 @@
 {
  "bytes": 1118536,
- "description": "Medium sized map: a Metal temple with a warehouse leading into a Base.",
  "files": {
   "AREA51.BSP": {
    "bytes": 2626312,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "tags": [
   "author=Juha Koiste",

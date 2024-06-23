@@ -1,6 +1,5 @@
 {
  "bytes": 1650815,
- "description": "Large, spacious and somewhat empty castle with a focus on unusual shapes.",
  "files": {
   "autumn_sp.bsp": {
    "bytes": 3683684,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "The map source is included.This map requires a source port with increased limits."
- ],
  "sha256": "271003aa991e3e3cb29a1f6ff56ac275220729a62af74eadb8a0c5f4a07667ad",
  "tags": [
   "author=human[rus]",

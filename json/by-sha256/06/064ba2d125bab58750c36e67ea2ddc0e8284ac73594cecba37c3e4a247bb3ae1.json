@@ -1,6 +1,5 @@
 {
  "bytes": 1121820,
- "description": "A large, detailed Medieval fortress.",
  "files": {
   "RRSP1.bsp": {
    "bytes": 2685424,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1",
  "tags": [
   "author=Rcktrob",

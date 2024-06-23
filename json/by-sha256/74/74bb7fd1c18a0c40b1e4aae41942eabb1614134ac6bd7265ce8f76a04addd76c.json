@@ -1,6 +1,5 @@
 {
  "bytes": 275398,
- "description": "Medium sized Medieval map.",
  "files": {
   "DARKAGES.BSP": {
    "bytes": 657784,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c",
  "tags": [
   "author=Juha Koiste",

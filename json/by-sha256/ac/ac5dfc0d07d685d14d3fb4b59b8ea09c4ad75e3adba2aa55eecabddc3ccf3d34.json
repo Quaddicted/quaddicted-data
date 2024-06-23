@@ -1,6 +1,5 @@
 {
  "bytes": 1239355,
- "description": "Medium to large oldschool Wizard dungeon.",
  "files": {
   "coma.bsp": {
    "bytes": 3007492,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "ac5dfc0d07d685d14d3fb4b59b8ea09c4ad75e3adba2aa55eecabddc3ccf3d34",
  "tags": [
   "author=Ankh",

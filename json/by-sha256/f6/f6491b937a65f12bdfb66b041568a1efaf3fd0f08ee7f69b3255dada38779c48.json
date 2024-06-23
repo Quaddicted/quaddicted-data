@@ -1,6 +1,5 @@
 {
  "bytes": 5656008,
- "description": "Large brick-style dungeon with wind tunnels. It has a built-in skill selection area and comes with custom medieval items. The map source is included in the PAK.",
  "files": {
   "backstein1e_readme.txt": {
    "bytes": 10447,
@@ -118,9 +117,6 @@
   "extract": "{base}/backstein/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits."
- ],
  "sha256": "f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48",
  "tags": [
   "author=sock",

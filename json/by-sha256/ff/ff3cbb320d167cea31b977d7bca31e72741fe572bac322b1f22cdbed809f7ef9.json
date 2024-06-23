@@ -1,6 +1,5 @@
 {
  "bytes": 11422729,
- "description": "Singleplayer conversion of American McGees DM7, cut from the original game but included in the re-release.",
  "files": {
   "dm7sp/": {
    "bytes": 0,
@@ -52,11 +51,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map is packaged in a way that requires manual sorting into subdirectories and thus it cannot be installed using the Quake Injector.",
-  "This map requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper</a>",
-  "See also: <a href=\"78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870\">dmc1m2</a>"
- ],
  "sha256": "ff3cbb320d167cea31b977d7bca31e72741fe572bac322b1f22cdbed809f7ef9",
  "tags": [
   "author=Chuma",

@@ -1,6 +1,5 @@
 {
  "bytes": 9644317,
- "description": "Singleplayer campaign featuring four large levels as well as a start map. It appears to be a very close tribute/remix of <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a>, following the same theme of tall brick structures, and corresponding design/layout traits. Additionally, there is a rebuilt version of Quake's E1M5.",
  "files": {
   "Requiem.txt": {
    "bytes": 3110,
@@ -37,9 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require an engine port with increased limits."
- ],
  "sha256": "1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a",
  "tags": [
   "author=Gotshun",

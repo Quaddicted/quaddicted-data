@@ -1,6 +1,5 @@
 {
  "bytes": 98550442,
- "description": "Community mapping event based on the Copper mod: 16 levels of varying sizes and texture themes plus a start map. It contains custom skyboxes, a few new sounds/models, and some music tracks. The map sources are included.",
  "files": {
   "ctsj.txt": {
    "bytes": 2403,
@@ -677,9 +676,6 @@
   "extract": "{base}/copper/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper 1.11</a> and a source port with increased limits + BSP2 support."
- ],
  "sha256": "4a0a18dfb514443bfe46b6e90c7512c5f7ccd6fef5c69a68fb975d6f33b8d633",
  "tags": [
   "author=Artistical",

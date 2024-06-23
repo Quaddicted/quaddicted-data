@@ -1,6 +1,5 @@
 {
  "bytes": 794457,
- "description": "Medium sized, boxed , plain Medieval building with a graveyard outside.",
  "files": {
   "Haunted.bsp": {
    "bytes": 1919064,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "00f7018d564bd7151620a60d25ae478476c5e92b83c57270528131aa29980f92",
  "tags": [
   "author=GreenHornet aka.",

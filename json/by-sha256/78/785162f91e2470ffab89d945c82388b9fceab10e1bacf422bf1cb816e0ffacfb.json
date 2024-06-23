@@ -1,6 +1,5 @@
 {
  "bytes": 4462234,
- "description": "Medium-sized base-style map, based on the Team Fortress 2 level \"Gravel Pit\". It uses a mix of idbase and Quake II textures. The author's first Quake map.",
  "files": {
   "READ ME gravelpit.txt": {
    "bytes": 6359,
@@ -72,10 +71,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>.",
-  "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a> and an engine port with support for colored lighting and skyboxes."
- ],
  "sha256": "785162f91e2470ffab89d945c82388b9fceab10e1bacf422bf1cb816e0ffacfb",
  "tags": [
   "author=Daya",

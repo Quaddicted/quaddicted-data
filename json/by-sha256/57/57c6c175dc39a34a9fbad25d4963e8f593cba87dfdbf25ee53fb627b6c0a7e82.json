@@ -1,6 +1,5 @@
 {
  "bytes": 245373,
- "description": "Small to medium-sized plain beginner's map using mixed texture themes.",
  "files": {
   "hor1.bsp": {
    "bytes": 558500,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "57c6c175dc39a34a9fbad25d4963e8f593cba87dfdbf25ee53fb627b6c0a7e82",
  "tags": [
   "author=Eblan Bush",

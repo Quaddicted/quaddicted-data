@@ -1,6 +1,5 @@
 {
  "bytes": 3141436,
- "description": "Large Knave-textured level. Comes with a 100% completion demo (protocol 666). The map source is included.",
  "files": {
   "dbd_secrets.dem": {
    "bytes": 4993270,
@@ -32,9 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "499fbd7694714668389230ddd833f97bfb9147c552477bbe552810649e377abc",
  "tags": [
   "author=Fairweather",

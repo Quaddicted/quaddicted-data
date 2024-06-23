@@ -1,6 +1,5 @@
 {
  "bytes": 30317090,
- "description": "Huge town at nighttime with a castle and a big cathedral. It uses custom textures and comes with few new models, sounds, a custom skybox as well as a music track. The map source is included.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -172,9 +171,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
- ],
  "sha256": "40fe04fa5bf504a0eebc1e29128ee61be1082e2aee4acfa59b6baa1a0532ce87",
  "tags": [
   "author=MortalMaxx",

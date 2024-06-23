@@ -1,6 +1,5 @@
 {
  "bytes": 4134905,
- "description": "Large level inspired by E1M4-The Grisly Grotto, however with an abstract twist to its style, featuring somewhat cramped interiors, underwater and void sections. The map source is included.",
  "files": {
   "memgrot/": {
    "bytes": 0,
@@ -27,12 +26,9 @@
   "extract": ""
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "04d8fa78d751ab394b54e4771f6eeef573675309825bca2928af6acff6baa105",
  "tags": [
-  "author=Magnus Bju00f6rkbom",
+  "author=Magnus Bj\u00f6rkbom",
   "exceedslimits=exceeds_quake_limits",
   "filename=memgrot.zip",
   "game=quake",

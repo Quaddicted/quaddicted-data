@@ -1,6 +1,5 @@
 {
  "bytes": 225978,
- "description": "Conversion of Wolfenstein3D's first map.",
  "files": {
   "wolfie3d.bsp": {
    "bytes": 559692,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "be98d8e0277496c306ad1310db332665502f16bf187ce1f4a66a05d09bd86524",
  "tags": [
   "author=Rutabaga",

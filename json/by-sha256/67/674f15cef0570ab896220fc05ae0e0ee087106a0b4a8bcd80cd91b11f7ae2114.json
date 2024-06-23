@@ -1,6 +1,5 @@
 {
  "bytes": 612466,
- "description": "Short experimental map with a semi-realistic theme, centered around a unique idea involving altered player perspective. The texture wad is included.",
  "files": {
   "drmelon-smallgate.bsp": {
    "bytes": 1095852,
@@ -32,9 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged for Quake Injector compatibility."
- ],
  "sha256": "674f15cef0570ab896220fc05ae0e0ee087106a0b4a8bcd80cd91b11f7ae2114",
  "tags": [
   "author=DrMelon",

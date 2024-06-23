@@ -1,6 +1,5 @@
 {
  "bytes": 9253562,
- "description": "Remnants of an abandoned project Tronyn and Murderous Martin worked on in 1997, only listed here for archival purposes and not recommended for playing due to numerous bugs, unfinished maps and lack of balancing.",
  "files": {
   "anevil/ADVANCE.CFG": {
    "bytes": 1000,
@@ -1327,9 +1326,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "A few of the maps/areas eventually appeared in other projects by Tronyn, namely <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a> and <a href=\"6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff\">The Masque of Red Death</a>. <b>See anevil_readme.txt for more information.</b>"
- ],
  "sha256": "74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

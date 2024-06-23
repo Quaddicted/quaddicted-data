@@ -1,6 +1,5 @@
 {
  "bytes": 992676,
- "description": "Medium to large Wizard castle.",
  "files": {
   "elsinore.bsp": {
    "bytes": 2175824,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253",
  "tags": [
   "author=Roger Staines",

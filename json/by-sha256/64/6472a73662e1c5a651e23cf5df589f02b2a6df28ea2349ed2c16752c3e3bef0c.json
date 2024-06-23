@@ -1,6 +1,5 @@
 {
  "bytes": 828918,
- "description": "Medium sized blue brick cistern map with pipes and a Base bit.",
  "files": {
   "watrwrks.bsp": {
    "bytes": 1891452,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "6472a73662e1c5a651e23cf5df589f02b2a6df28ea2349ed2c16752c3e3bef0c",
  "tags": [
   "author=Erik Robson",

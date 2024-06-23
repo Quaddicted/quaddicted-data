@@ -1,6 +1,5 @@
 {
  "bytes": 887759,
- "description": "Medium sized subway station infested by base monsters and Vores, a few new textures.",
  "files": {
   "Metro.bsp": {
    "bytes": 2063660,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122",
  "tags": [
   "author=Chris Mayers",

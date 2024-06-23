@@ -1,6 +1,5 @@
 {
  "bytes": 1002937,
- "description": "Largish Metal map divided into four 'chapters'.",
  "files": {
   "sadlark6.bsp": {
    "bytes": 2323068,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0959500afae734e91f04c833cfffc81d78bbfef304fea30b14f548fe007b8dde",
  "tags": [
   "author=Jonas N.P. Lindstrom",

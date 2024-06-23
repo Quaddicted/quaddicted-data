@@ -1,6 +1,5 @@
 {
  "bytes": 939494,
- "description": "Medium sized metal/dungeon map.",
  "files": {
   "TRAIL.BSP": {
    "bytes": 2088048,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "10fdabd6836032781a2abc35c3d38576e68ee8e5fa9c3fad9c9a4b67a001cca9",
  "tags": [
   "author=MadFox",

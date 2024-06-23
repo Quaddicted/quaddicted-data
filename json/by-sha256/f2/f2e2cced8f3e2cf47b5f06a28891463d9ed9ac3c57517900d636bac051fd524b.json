@@ -1,6 +1,5 @@
 {
  "bytes": 607974,
- "description": "Small, snowy map with Hexen II textures.",
  "files": {
   "snow.bsp": {
    "bytes": 1362124,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f2e2cced8f3e2cf47b5f06a28891463d9ed9ac3c57517900d636bac051fd524b",
  "tags": [
   "author=Ben Horsley",

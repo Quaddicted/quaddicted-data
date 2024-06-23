@@ -1,6 +1,5 @@
 {
  "bytes": 798842,
- "description": "Large brick/metal void map.",
  "files": {
   "czg04.bsp": {
    "bytes": 1987080,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7fe7afc8bc117e8fafd3415c15808ca1d62c90fd6a739ef81efbe3a52eb990b0",
  "tags": [
   "author=czg",

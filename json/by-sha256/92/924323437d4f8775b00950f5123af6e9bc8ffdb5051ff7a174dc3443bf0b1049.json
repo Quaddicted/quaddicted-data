@@ -1,6 +1,5 @@
 {
  "bytes": 38131626,
- "description": "Two-day speedmapping event following a \"low gravity\" theme with 10 small to medium-sized levels and a start hub. It runs on the SMP mod (included) and comes with a custom skybox and a music track. The map sources are included.",
  "files": {
   "sm213/SM213_POSTER.jpg": {
    "bytes": 174386,
@@ -337,9 +336,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Some of these maps require a source port with increased limits + BSP2 support."
- ],
  "sha256": "924323437d4f8775b00950f5123af6e9bc8ffdb5051ff7a174dc3443bf0b1049",
  "tags": [
   "author=Greenwood",

@@ -1,6 +1,5 @@
 {
  "bytes": 578038,
- "description": "Doom2 - Map08 converted for Quake with original textures.",
  "files": {
   "08.BSP": {
    "bytes": 1896536,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7",
  "tags": [
   "author=Swen Klemund",

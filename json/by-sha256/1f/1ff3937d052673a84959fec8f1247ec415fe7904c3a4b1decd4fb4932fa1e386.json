@@ -1,6 +1,5 @@
 {
  "bytes": 4520938,
- "description": "A pack of turtlemaps for the <a href=\"e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797\">Zerstörer</a> mod made by efdat, HeadThump and neg!ke.<br><ul><br><li>Love in a bunker, baby! by efdat</li><br><li>Hold of the Troglodyte by HeadThump</li><br><li>Aderlass by neg!ke</li><br></ul>",
  "files": {
   "ZerTM_ht.bsp": {
    "bytes": 1850708,
@@ -42,7 +41,6 @@
   "extract": "{base}/zer/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1ff3937d052673a84959fec8f1247ec415fe7904c3a4b1decd4fb4932fa1e386",
  "tags": [
   "author=HeadThump",
@@ -66,8 +64,8 @@
   "startmap=adrlass2",
   "startmap=zerTM_efdat",
   "theme=base",
-  "theme=zerstu00f6rer",
-  "title=Zerstu00f6rer Turtlemap Pack",
+  "theme=zerst\u00f6rer",
+  "title=Zerst\u00f6rer Turtlemap Pack",
   "type=map",
   "zipbasedir=zer/maps/"
  ],

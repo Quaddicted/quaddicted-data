@@ -1,6 +1,5 @@
 {
  "bytes": 338872,
- "description": "Small, intense Coagula space map. Also featured in the first Coagula mapping contest pack.",
  "files": {
   "scream.bsp": {
    "bytes": 905796,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "9c67c137d4bf1e2033ff0d8472f0b3e78e1bfa186e3279e89e4b8a013474c99e",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

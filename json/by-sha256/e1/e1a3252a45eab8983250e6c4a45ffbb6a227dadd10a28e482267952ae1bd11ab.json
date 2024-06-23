@@ -1,6 +1,5 @@
 {
  "bytes": 814048,
- "description": "Medium sized brick map, somewhat reminiscent of Kingpin?!",
  "files": {
   "ATROCITY.BSP": {
    "bytes": 1936292,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e1a3252a45eab8983250e6c4a45ffbb6a227dadd10a28e482267952ae1bd11ab",
  "tags": [
   "author=Jeff Aranyi",

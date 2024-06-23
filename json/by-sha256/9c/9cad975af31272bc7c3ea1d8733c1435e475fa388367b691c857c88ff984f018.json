@@ -1,6 +1,5 @@
 {
  "bytes": 2396959,
- "description": "Small otherworldly castle surrounded by mountains. The map source is included.",
  "files": {
   "CotCG.bsp": {
    "bytes": 4658980,
@@ -27,9 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "9cad975af31272bc7c3ea1d8733c1435e475fa388367b691c857c88ff984f018",
  "tags": [
   "author=ShockedHorizon5",

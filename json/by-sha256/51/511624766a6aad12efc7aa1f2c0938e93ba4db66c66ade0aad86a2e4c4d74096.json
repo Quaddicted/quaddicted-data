@@ -1,6 +1,5 @@
 {
  "bytes": 570570,
- "description": "A new end map for Quake / 3 SP maps / RPG, Scampie, Zwiffle",
  "files": {
   "sm77_pack.txt": {
    "bytes": 1362,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "511624766a6aad12efc7aa1f2c0938e93ba4db66c66ade0aad86a2e4c4d74096",
  "tags": [
   "author=RPG",

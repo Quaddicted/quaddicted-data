@@ -1,6 +1,5 @@
 {
  "bytes": 241550,
- "description": "Very small brick/base prison map.",
  "files": {
   "celscape.bsp": {
    "bytes": 572972,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d",
  "tags": [
   "author=The Void (tim)",

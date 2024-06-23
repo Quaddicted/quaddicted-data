@@ -1,6 +1,5 @@
 {
  "bytes": 907672,
- "description": "Medium to large, plain, dark cavern map with some Metal bits.",
  "files": {
   "Tinrope.txt": {
    "bytes": 2269,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f0e2200a6de5064f5bf1215067aabdb0ffd73fbff9cc271558e38bc859e3b42f",
  "tags": [
   "author=MadFox",

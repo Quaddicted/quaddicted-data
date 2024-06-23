@@ -1,6 +1,5 @@
 {
  "bytes": 4795331,
- "description": "Five medium-sized maps consisting of 1000 brushes or less, and DKTe3 textures. Includes a start map.",
  "files": {
   "dkt1000/": {
    "bytes": 0,
@@ -134,7 +133,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4",
  "tags": [
   "author=Blitz",

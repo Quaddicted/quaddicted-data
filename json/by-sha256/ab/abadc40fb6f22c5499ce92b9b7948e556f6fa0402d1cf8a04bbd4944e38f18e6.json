@@ -1,6 +1,5 @@
 {
  "bytes": 5164128,
- "description": "Huge underground necropolis in a Medieval/terracotta theme. It features the gremlin from SoA and has special optimizations for coop gameplay. The map source is included.",
  "files": {
   "terracity/": {
    "bytes": 0,
@@ -327,9 +326,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires an engine port with increased limits."
- ],
  "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
  "tags": [
   "author=Qmaster",

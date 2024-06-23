@@ -1,6 +1,5 @@
 {
  "bytes": 49267028,
- "description": "14 speedjam SP levels made on a 64 unit grid, three custom skyboxes, four music tracks, and some map sources.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -387,9 +386,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps probably require a source port with increased limits."
- ],
  "sha256": "a4d67bacaa9c0229fc947e9b93cff70817a3753f26c492fdaab6ff9859a40ec8",
  "tags": [
   "author=Artistical",

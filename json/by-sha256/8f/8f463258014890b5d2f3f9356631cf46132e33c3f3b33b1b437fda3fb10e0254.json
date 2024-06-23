@@ -1,6 +1,5 @@
 {
  "bytes": 573862,
- "description": "Small to medium sized blue brick map. Very basic in terms of looks and gameplay, however there are many original machines, animated bits and mapobjects.",
  "files": {
   "WCA.TXT": {
    "bytes": 1142,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8f463258014890b5d2f3f9356631cf46132e33c3f3b33b1b437fda3fb10e0254",
  "tags": [
   "author=K.S.",

@@ -1,6 +1,5 @@
 {
  "bytes": 15647190,
- "description": "Medium-sized lava-industrial facility on a desert planet, using custom textures. It comes with a custom skybox and the map source is included.",
  "files": {
   "GFX/": {
    "bytes": 0,
@@ -72,9 +71,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits. Additionally, the files and folders need to be renamed in order to work with case-sensitive operating systems."
- ],
  "sha256": "e5d6879a7d51b222123cc7087eaddc79479bf7da8387c0f229b2b3e5a15afd5c",
  "tags": [
   "author=Heresy",

@@ -1,6 +1,5 @@
 {
  "bytes": 830393,
- "description": "Unthemed / 2 SP maps / negke, Zwiffle",
  "files": {
   "sm159_negke.bsp": {
    "bytes": 2171692,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f4cecdc2a8248de33c37dba361140e6ac1064446d2059bf2d1882bacfc109f60",
  "tags": [
   "author=Zwiffle",

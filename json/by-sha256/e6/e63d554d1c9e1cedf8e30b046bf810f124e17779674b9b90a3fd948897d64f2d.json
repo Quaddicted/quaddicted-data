@@ -1,6 +1,5 @@
 {
  "bytes": 483402,
- "description": "A nice looking but boxed and very short wizmetal map.",
  "files": {
   "r_666.bsp": {
    "bytes": 1146208,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e63d554d1c9e1cedf8e30b046bf810f124e17779674b9b90a3fd948897d64f2d",
  "tags": [
   "author=Rutger Baks",

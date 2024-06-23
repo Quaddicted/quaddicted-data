@@ -1,6 +1,5 @@
 {
  "bytes": 2087524,
- "description": "3-map SP campaign for Nehahra.",
  "files": {
   "maelstromv2_quaddictedrepack.txt": {
    "bytes": 319,
@@ -57,9 +56,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
- ],
  "sha256": "af90398351f17dc4ac254e84b6c3503a2c8e43bd82864159aa07dc9247877d56",
  "tags": [
   "author=ijed",

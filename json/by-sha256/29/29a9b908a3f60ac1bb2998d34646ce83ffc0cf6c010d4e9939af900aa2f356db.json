@@ -1,6 +1,5 @@
 {
  "bytes": 514418,
- "description": "Small base map. Includes a version with fewer monsters (ebellesh.bsp).",
  "files": {
   "bellesh.bsp": {
    "bytes": 582732,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db",
  "tags": [
   "author=Cristian Martinez",

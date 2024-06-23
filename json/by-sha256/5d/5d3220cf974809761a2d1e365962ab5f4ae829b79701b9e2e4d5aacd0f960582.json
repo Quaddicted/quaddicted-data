@@ -1,6 +1,5 @@
 {
  "bytes": 5171270,
- "description": "Medium sized runic / metal themed level in a classic style, a remix of the author's 2004 release <a href=\"217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e\">\"Azure Influx\" (flecksp1)</a>. Built on progs_dump v3 (already included). Map source is included. v1.3 features minor texture fixes and the sky is higher.",
  "files": {
   "flecksp1rmx/": {
    "bytes": 0,
@@ -717,9 +716,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Might require a modern engine / source port with increased limits"
- ],
  "sha256": "5d3220cf974809761a2d1e365962ab5f4ae829b79701b9e2e4d5aacd0f960582",
  "tags": [
   "author=Justin Fleck",

@@ -1,6 +1,5 @@
 {
  "bytes": 2069928,
- "description": "Two (3) small, story-driven maps with medieval villages, temples and tombs, using Hexen2 textures.",
  "files": {
   "CURSE1.bsp": {
    "bytes": 2201920,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "tags": [
   "author=Tim Elek",

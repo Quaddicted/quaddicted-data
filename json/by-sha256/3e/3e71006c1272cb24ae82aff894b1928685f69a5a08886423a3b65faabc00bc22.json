@@ -1,6 +1,5 @@
 {
  "bytes": 2458829,
- "description": "Medium-sized Ebon fortress/metal-themed level. The map source is included.",
  "files": {
   "scar3sp01.bsp": {
    "bytes": 5054240,
@@ -22,9 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires a source port with increased limits."
- ],
  "sha256": "3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22",
  "tags": [
   "author=scar3crow",

@@ -1,6 +1,5 @@
 {
  "bytes": 284835,
- "description": "Small and very dark level consisting of two rooms connected by a drain pipe, possibly designed for deathmatch.",
  "files": {
   "watrways.bsp": {
    "bytes": 727908,
@@ -12,7 +11,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "275010827c077150d87289715e9c1850af76b5ab56522b15ddd796d77f0d8224",
  "tags": [
   "author=Unknown",

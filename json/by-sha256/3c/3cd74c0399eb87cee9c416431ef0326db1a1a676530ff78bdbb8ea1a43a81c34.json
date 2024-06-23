@@ -1,6 +1,5 @@
 {
  "bytes": 601701,
- "description": "This level was inspired by Doom2 map01. Grey-blue textures, Base-style.",
  "files": {
   "readmeh.txt": {
    "bytes": 408,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34",
  "tags": [
   "author=Speedy",

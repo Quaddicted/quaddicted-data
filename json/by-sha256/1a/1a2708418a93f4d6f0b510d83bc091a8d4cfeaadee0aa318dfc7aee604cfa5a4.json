@@ -1,6 +1,5 @@
 {
  "bytes": 1089961,
- "description": "Episode with six small to medium leaked maps in various texture themes.",
  "files": {
   "S1L1.BSP": {
    "bytes": 546024,
@@ -42,7 +41,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
  "tags": [
   "author=Inforatt (?)",

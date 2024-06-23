@@ -1,6 +1,5 @@
 {
  "bytes": 32931607,
- "description": "Mini-episode consisting of three large levels and a start map. The maps follow an evil metal-egyptian-flesh texture theme and include many modified and new monsters, new items and weapons as well as other custom code (see arwop.txt). The episode also features background music inspired by The Doors (can be turned off with \"impulse 17\") and a hidden fifth difficulty mode. The gameplay is fast and very hard, blending in with the strong 'Doom vibe' it conveys - especially the boss battle is extremely tough.",
  "files": {
   "arwop.txt": {
    "bytes": 9939,
@@ -2971,7 +2970,6 @@
   "extract": "{base}/arwop/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "19f47d229df571e473a33c6d33e27d9702bf34d1983d7dc523773ca0028f022a",
  "tags": [
   "author=PM",
@@ -2981,7 +2979,7 @@
   "game=quake",
   "game_mode=singleplayer",
   "link=[A history of A Roman Wilderness of Pain, 1999-2009](/articles/a_history_of_a_roman_wilderness_of_pain_1999-2009_by_tronyn_2009)",
-  "link=[Necros' review](https://shoresofnis.wordpress.com/2010/05/19/review-arwop-u2013-a-roman-wilderness-of-pain/)",
+  "link=[Necros' review](https://shoresofnis.wordpress.com/2010/05/19/review-arwop-\u2013-a-roman-wilderness-of-pain/)",
   "map_size=huge",
   "music=custom",
   "nonspecific_tag=epic",

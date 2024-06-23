@@ -1,6 +1,5 @@
 {
  "bytes": 1087198,
- "description": "Unthemed / 4 SP, 1 DM maps / necros, Preach, NotoriousRay, Scampie, Starbuck",
  "files": {
   "sm43_necros.bsp": {
    "bytes": 631152,
@@ -42,7 +41,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363",
  "tags": [
   "author=NotoriousRay",

@@ -1,6 +1,5 @@
 {
  "bytes": 436992,
- "description": "Medium sized, plain Metal map with some water areas/sewer dungeon.",
  "files": {
   "discord2.bsp": {
    "bytes": 1002360,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "35384955b2754b7fe79040ef7d85a59dad4dd604bff86d6b28778452896cc0b6",
  "tags": [
   "author=Creed",

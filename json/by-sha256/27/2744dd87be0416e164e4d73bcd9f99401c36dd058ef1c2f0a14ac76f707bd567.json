@@ -1,6 +1,5 @@
 {
  "bytes": 1198459,
- "description": "Two very small Base maps which were already made in 2000 and also served as demo maps of some sort.",
  "files": {
   "alana.bsp": {
    "bytes": 1195420,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "2744dd87be0416e164e4d73bcd9f99401c36dd058ef1c2f0a14ac76f707bd567",
  "tags": [
   "author=necros",

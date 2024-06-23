@@ -1,6 +1,5 @@
 {
  "bytes": 7184734,
- "description": "Large Metal/gothic lava fortress with a bunch of modified and new monsters, as well as a medium sized, hard secret map. Very high monster count in both maps, compensated by slight changes to some weapons and ammo system.",
  "files": {
   "Tyr-Quake_readme.txt": {
    "bytes": 1585,
@@ -360,9 +359,6 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "Requires an engine with increased limits."
- ],
  "sha256": "e6ee551a480f5752503510dfef78d1bcf607b17aeab688a5112d085bc8f99ca7",
  "tags": [
   "author=necros",

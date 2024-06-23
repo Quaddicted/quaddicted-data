@@ -1,6 +1,5 @@
 {
  "bytes": 7801345,
- "description": "Four-day 'retro' map jam following an <i>Episode 4</i> tribute theme. The result is eight small, dark and brutal levels by various authors. The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -157,7 +156,6 @@
   "extract": "{base}/retrojam4"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255",
  "tags": [
   "author=FifthElephant",

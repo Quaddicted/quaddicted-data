@@ -1,6 +1,5 @@
 {
  "bytes": 538230,
- "description": "Medium sized plain Base map with overly bright outside areas and a tech station.",
  "files": {
   "!!READ!!.BAT": {
    "bytes": 19393,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d8c7465315cc91c3059299d577352a0ef28c3b4d60c9b649e9d11259e81479b3",
  "tags": [
   "author=George J. Fiffy II",

@@ -1,6 +1,5 @@
 {
  "bytes": 2018430,
- "description": "Speedmap 100 Turtle map event (maps made in one week or less)",
  "files": {
   "bamvoo_tur100.bsp": {
    "bytes": 1515028,
@@ -37,9 +36,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "An updated version of neg!ke's map can be found <a href=\"60892632e26d8c57485c8176152be23a63e7c60f160b7795af02952de91188c8\">here</a>. It has a critical bug fixed that could crash the game under certain circumstances."
- ],
  "sha256": "8e6051215a3136be781755622558c8df973d9902b3602737fd226024401be68e",
  "tags": [
   "author=Bambuz",

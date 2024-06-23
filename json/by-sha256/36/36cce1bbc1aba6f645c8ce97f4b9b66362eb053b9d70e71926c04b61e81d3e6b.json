@@ -1,6 +1,5 @@
 {
  "bytes": 1657642,
- "description": "Fourth map in the LTHSP series, follow-up to <a href=\"7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16\">lthsp3</a>: a large spacious medieval castle with Crossbow Knights, modified Ogres and a few other custom things. Comes with a small start map.",
  "files": {
   "lthsp4.txt": {
    "bytes": 3132,
@@ -97,7 +96,6 @@
   "extract": "{base}/lthsp4/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "36cce1bbc1aba6f645c8ce97f4b9b66362eb053b9d70e71926c04b61e81d3e6b",
  "tags": [
   "author=The Lieutenant",

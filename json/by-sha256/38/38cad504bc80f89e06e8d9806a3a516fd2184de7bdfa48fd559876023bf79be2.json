@@ -1,6 +1,5 @@
 {
  "bytes": 16510638,
- "description": "Demo version of an atmospheric singleplayer campaign with three small medieval levels (two of which are remakes of the orignal E1M1 and E1M2). It features both normal gameplay and a new, very unique stealth mode. The enemy AI has been vastly improved, and there are countless visual overhauls and miscellaneous additions.",
  "files": {
   "its_demo_v1_1_readme.txt": {
    "bytes": 13111,
@@ -723,9 +722,6 @@
   "extract": "{base}/shadows/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This is version <b>1.1</b> which has several improvements and additions; version 1.0 can be found <a href=\"http://www.quaddicted.com/filebase/its_demo_v1.zip\">here</a>."
- ],
  "sha256": "38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2",
  "tags": [
   "author=sock",

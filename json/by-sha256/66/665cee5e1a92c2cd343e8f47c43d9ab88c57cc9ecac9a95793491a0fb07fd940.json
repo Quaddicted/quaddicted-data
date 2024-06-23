@@ -1,6 +1,5 @@
 {
  "bytes": 399002,
- "description": "A imaginative but plain Quake version of Doom's first map.",
  "files": {
   "qkdme1m1.bsp": {
    "bytes": 969952,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "665cee5e1a92c2cd343e8f47c43d9ab88c57cc9ecac9a95793491a0fb07fd940",
  "tags": [
   "author=DAV",

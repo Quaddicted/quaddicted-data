@@ -1,6 +1,5 @@
 {
  "bytes": 558514,
- "description": "Medium sized Metal/Ebon style map with lots of ammo and health.",
  "files": {
   "ELEKTRA.BSP": {
    "bytes": 1358892,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "3483a8b6356d694335498b69e1845bcf3223d50dbbb79613da9931cadf84af1f",
  "tags": [
   "author=Andrew Smith",

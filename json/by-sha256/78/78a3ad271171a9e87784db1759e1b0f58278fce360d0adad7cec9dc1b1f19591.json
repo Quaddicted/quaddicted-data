@@ -1,6 +1,5 @@
 {
  "bytes": 7285375,
- "description": "Six SP/DM maps of varying sizes and themes, designed specifically (but not exclusively) for speed-running. Comes with some custom progs, e.g. rotating objects, and a start map.",
  "files": {
   "info.txt": {
    "bytes": 13175,
@@ -188,7 +187,6 @@
   "extract": "{base}/rde/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591",
  "tags": [
   "author=Jesse van Dijk",

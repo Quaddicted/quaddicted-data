@@ -1,6 +1,5 @@
 {
  "bytes": 6921425,
- "description": "Small industrial base station inside an underground acid cave.",
  "files": {
   "acidworship_cv.bsp": {
    "bytes": 15880516,
@@ -22,9 +21,6 @@
   "extract": "{base}/rubicon2/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a> and a source port with increased limits + BSP2 support."
- ],
  "sha256": "b1cce4d6d33e43df31a6232baa04304c5cc8cefddc5c266c4cc812ce31d8e87f",
  "tags": [
   "author=Calluna Vulgaris",

@@ -1,6 +1,5 @@
 {
  "bytes": 2036351,
- "description": "Large fish factory combining several texture themes. The map source is included.",
  "files": {
   "fishfac.bsp": {
    "bytes": 3692276,
@@ -27,7 +26,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0a2dcc9c711274e02fdb8254c13510302725214fa754341fab898be6ecdd6996",
  "tags": [
   "author=Jaeon",

@@ -1,6 +1,5 @@
 {
  "bytes": 504026,
- "description": "About medium sized Metal map. Map source is included (Thred format).",
  "files": {
   "CRITTERS.3DT": {
    "bytes": 867902,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "055837cd16807df2f9237d967be20ab84944c003930176ff8f4854a57a4c87ad",
  "tags": [
   "author=Jim Lowell",

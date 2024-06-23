@@ -1,6 +1,5 @@
 {
  "bytes": 1448321,
- "description": "Small symmetrical medieval level with a base exit.",
  "files": {
   "resurrection.bsp": {
    "bytes": 3301052,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4be96210a58924266b39697e3f6143454bc877abb6744af9c272189549372c86",
  "tags": [
   "author=Thobias \"Loke\" Fast",

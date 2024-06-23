@@ -1,6 +1,5 @@
 {
  "bytes": 1411877,
- "description": "Unthemed / 8 DM maps / Cybear, Aardappel, Gibbie, Aru, Grahf, iNaNe, Speedy, Scampi",
  "files": {
   "sm5_aard.bsp": {
    "bytes": 531316,
@@ -52,7 +51,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d",
  "tags": [
   "author=Aardappel",

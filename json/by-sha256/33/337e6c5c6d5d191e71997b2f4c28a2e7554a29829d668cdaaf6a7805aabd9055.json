@@ -1,6 +1,5 @@
 {
  "bytes": 961742,
- "description": "Small level featuring a blue underground castle. The map source is included.",
  "files": {
   "tra/": {
    "bytes": 0,
@@ -67,7 +66,6 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "337e6c5c6d5d191e71997b2f4c28a2e7554a29829d668cdaaf6a7805aabd9055",
  "tags": [
   "author=Doom-pope",

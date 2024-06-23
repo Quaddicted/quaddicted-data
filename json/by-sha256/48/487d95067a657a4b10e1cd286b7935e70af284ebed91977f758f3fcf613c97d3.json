@@ -1,6 +1,5 @@
 {
  "bytes": 1491790,
- "description": "Small metal/base Coagula-type void level with a high enemy density.",
  "files": {
   "lpqsp2.bsp": {
    "bytes": 2854172,
@@ -22,9 +21,6 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions 1.50</a> and an engine port with increased limits."
- ],
  "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
  "tags": [
   "author=Lane Powell",

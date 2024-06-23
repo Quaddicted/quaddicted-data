@@ -1,6 +1,5 @@
 {
  "bytes": 435798,
- "description": "Two small maps: first one is the outside of a temple and functions as a skill selection map, second one is the plain interior.",
  "files": {
   "tempio.bsp": {
    "bytes": 347672,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "d396c9e07f3b5face33db5ac3474850df99f900a32a6e3bd6ad91c960280ad34",
  "tags": [
   "author=Lka",

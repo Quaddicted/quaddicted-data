@@ -1,6 +1,5 @@
 {
  "bytes": 2001654,
- "description": "A medium sized, dark and hostile swamp, and a large medieval town with a few custom textures. The second map centers on the cult of Koth.",
  "files": {
   "RC3.bsp": {
    "bytes": 2926804,
@@ -32,7 +31,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "35cceef1e7ba5931e264f613815b00df777eb92d306ec9f7a89bd5a7b874cc4c",
  "tags": [
   "author=Robert \"Fat Controller\" Cruickshank",

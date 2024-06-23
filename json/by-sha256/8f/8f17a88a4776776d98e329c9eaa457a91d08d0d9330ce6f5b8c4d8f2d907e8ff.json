@@ -1,6 +1,5 @@
 {
  "bytes": 1248703,
- "description": "Smallish hub map, each branch in a different texture style.",
  "files": {
   "sadlark9.bsp": {
    "bytes": 2900668,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "8f17a88a4776776d98e329c9eaa457a91d08d0d9330ce6f5b8c4d8f2d907e8ff",
  "tags": [
   "author=Jonas N.P. Lindstrom",

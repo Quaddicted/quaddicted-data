@@ -1,6 +1,5 @@
 {
  "bytes": 2526618,
- "description": "A small escape-themed base map, partly inspired by the original \"Prisons of the Underworld\" theme of <a href=\"e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014\">Func Map Jam 5</a>.",
  "files": {
   "READ ME escape.txt": {
    "bytes": 5529,
@@ -27,9 +26,6 @@
   "extract": "{base}/quoth/maps"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a> and an engine with support for coloured lighting."
- ],
  "sha256": "1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23",
  "tags": [
   "author=Daya",

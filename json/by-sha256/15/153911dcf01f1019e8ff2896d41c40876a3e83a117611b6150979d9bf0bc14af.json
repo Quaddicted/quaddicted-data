@@ -1,6 +1,5 @@
 {
  "bytes": 605641,
- "description": "Small to medium-sized red/blue brick level with some cave bit at the end.",
  "files": {
   "brt08q1.bsp": {
    "bytes": 1484272,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "153911dcf01f1019e8ff2896d41c40876a3e83a117611b6150979d9bf0bc14af",
  "tags": [
   "author=QBrt",

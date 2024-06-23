@@ -1,6 +1,5 @@
 {
  "bytes": 756012,
- "description": "A tiny arena map to showcase four of the author's favorite custom monsters: Willy the spider, the manga babe, the snakeman and the bazooka babe.",
  "files": {
   "bazooka.txt": {
    "bytes": 4512,
@@ -185,7 +184,6 @@
   "extract": "{base}/foxyzoo/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c",
  "tags": [
   "author=Martin Fuchsr",

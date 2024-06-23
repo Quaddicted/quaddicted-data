@@ -1,6 +1,5 @@
 {
  "bytes": 1089556,
- "description": "Second map of the Alba TC. Set in 14th century Scotland. A dark medium-sized town with several houses, cellars, a chapel and a cemetary.",
  "files": {
   "alba02.txt": {
    "bytes": 5111,
@@ -43,7 +42,6 @@
   "extract": "{base}/alba02/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "tags": [
   "author=Einar Saukas (QC)",

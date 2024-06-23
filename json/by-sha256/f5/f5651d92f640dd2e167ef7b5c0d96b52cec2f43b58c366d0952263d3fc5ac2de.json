@@ -1,6 +1,5 @@
 {
  "bytes": 37269,
- "description": "A huge box.",
  "files": {
   "LOCALH.BSP": {
    "bytes": 98544,
@@ -22,7 +21,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de",
  "tags": [
   "author=DaveDemon",

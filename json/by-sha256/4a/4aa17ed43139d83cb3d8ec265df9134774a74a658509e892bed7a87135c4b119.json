@@ -1,6 +1,5 @@
 {
  "bytes": 657194,
- "description": "Medium sized Wizard/Metal map with a cage ride, an underwater ruin and a few tricks'n'traps.",
  "files": {
   "PMECAGE.BSP": {
    "bytes": 1547388,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "4aa17ed43139d83cb3d8ec265df9134774a74a658509e892bed7a87135c4b119",
  "tags": [
   "author=PME",

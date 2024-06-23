@@ -1,6 +1,5 @@
 {
  "bytes": 500818,
- "description": "Small to medium Wizard brick/rock dungeon.",
  "files": {
   "EARTH.BSP": {
    "bytes": 1068220,
@@ -17,7 +16,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7b4139e07645066725f35b5918d4b810699a3012345479f8aaa64d622c7451f6",
  "tags": [
   "author=Andy \"Liger\" Patrizio",

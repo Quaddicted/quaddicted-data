@@ -1,6 +1,5 @@
 {
  "bytes": 3084164,
- "description": "Small runic level. The map source is included.",
  "files": {
   "wads/": {
    "bytes": 0,
@@ -47,7 +46,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905",
  "tags": [
   "author=Windaws",

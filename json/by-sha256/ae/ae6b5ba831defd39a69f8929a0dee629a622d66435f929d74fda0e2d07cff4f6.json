@@ -1,6 +1,5 @@
 {
  "bytes": 143051441,
- "description": "Large-scale single player campaign with many new levels, some of them labeled as \"test\" maps, featuring a whole line-up of new monsters and items as well as several tweaks and changes to the gameplay. It is also meant to serve as a tool box for level designers. Map and QC sources are included.",
  "files": {
   "ad_quake.def": {
    "bytes": 241502,
@@ -6777,10 +6776,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "These maps require an engine port with increased limits, support for BSP2 and transparent textures. They are designed to be played with <a href=\"http://quakespasm.sourceforge.net/download.htm\">QuakeSpasm 0.91.0</a> or later.",
-  "A patch is available <a href=\"https://www.quaddicted.com/filebase/ad_v1_42patch2.zip\">here</a>."
- ],
  "sha256": "ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6",
  "tags": [
   "author=EricW",

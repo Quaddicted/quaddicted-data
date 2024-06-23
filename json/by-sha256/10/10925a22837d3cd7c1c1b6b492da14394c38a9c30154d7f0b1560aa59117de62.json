@@ -1,6 +1,5 @@
 {
  "bytes": 7699736,
- "description": "Large, non-linear map using Wizard textures with some custom additions. The objective is to collect multiple keys throughout the map to escape. The author's first map for Quake.",
  "files": {
   "fotac_1_0.bsp": {
    "bytes": 11569824,
@@ -27,10 +26,6 @@
   "extract": "{base}/copper/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62",
  "tags": [
   "author=Sodium Chloride",

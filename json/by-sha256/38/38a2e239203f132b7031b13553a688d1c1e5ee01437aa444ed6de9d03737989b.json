@@ -1,6 +1,5 @@
 {
  "bytes": 2098716,
- "description": "An Egyptian temple on an unknown island. Start map, medium temple map and small boss level, many cramped caverns and a dragon battle at the end.",
  "files": {
   "Lisland.txt": {
    "bytes": 1487,
@@ -123,7 +122,6 @@
   "extract": "{base}/lisland/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [],
  "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "tags": [
   "author=Michele (miccar) Cardinale",
