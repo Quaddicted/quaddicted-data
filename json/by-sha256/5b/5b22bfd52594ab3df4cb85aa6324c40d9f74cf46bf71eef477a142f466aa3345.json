@@ -1,5 +1,6 @@
 {
  "bytes": 1832541,
+ "description": "Large base-themed level with completely new textures and a thick atmosphere. The mission is to purge a waste purification facility of a parasite infestation.",
  "files": {
   "INVEIN.bsp": {
    "bytes": 3676892,
@@ -21,6 +22,9 @@
   "extract": "{base}/nehahra/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This level requires <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>."
+ ],
  "sha256": "5b22bfd52594ab3df4cb85aa6324c40d9f74cf46bf71eef477a142f466aa3345",
  "tags": [
   "author=Iain Bruce",

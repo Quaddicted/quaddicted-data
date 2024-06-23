@@ -1,5 +1,6 @@
 {
  "bytes": 647206,
+ "description": "Small metal/base map with many crates and jumping puzzles. It is inspired by the <a href=\"d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f\">768/vertical contest</a> and <a href=\"59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b\">Metal Monstrosity</a>. The map source is included.",
  "files": {
   "768_5th.bsp": {
    "bytes": 1277971,
@@ -26,6 +27,9 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>."
+ ],
  "sha256": "0e846fef5acfdb8b4c02245a2907bbba077eba6c7a0be8c80207e59c5409ab60",
  "tags": [
   "author=FifthElephant",

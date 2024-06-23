@@ -1,5 +1,6 @@
 {
  "bytes": 19932084,
+ "description": "Large level with a secret military research base in the mountains built on top of a runic/metal dungeon. It is based on the Progs_dump mod (included) and comes with a few modified models and a custom skybox. The map and QC sources are included.",
  "files": {
   "bmfbr/": {
    "bytes": 0,
@@ -481,6 +482,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits"
+ ],
  "sha256": "8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f",
  "tags": [
   "author=bmFbr",

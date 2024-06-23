@@ -1,5 +1,6 @@
 {
  "bytes": 5356372,
+ "description": "Around medium-sized base level with a green metal section. It is based on the Progs_dump mod (included) and comes with a few new sounds/models. The map and QC sources are included.",
  "files": {
   "nebsp1/": {
    "bytes": 0,
@@ -481,6 +482,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "eecd943dbc2183cfb19b803f5c7710f4668e0d196169b13bc923c39f90f9def9",
  "tags": [
   "author=Nebiont",

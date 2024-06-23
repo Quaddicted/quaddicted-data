@@ -1,5 +1,6 @@
 {
  "bytes": 50649,
+ "description": "A map you only need to play once a year!",
  "files": {
   "FUN!.bsp": {
    "bytes": 125736,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "87095ab51b927b314f42fdf1d37fa220a4a5bd1616d93321c9fc0a9631b6b439",
  "tags": [
   "author=George Grotans",

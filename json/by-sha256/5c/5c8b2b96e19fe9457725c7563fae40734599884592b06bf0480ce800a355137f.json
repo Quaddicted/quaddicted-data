@@ -1,5 +1,6 @@
 {
  "bytes": 3366502,
+ "description": "Episode of four medium sized tough maps in a strange and unique Metal-ish theme.",
  "files": {
   "alk10/": {
    "bytes": 0,
@@ -65,6 +66,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This level requires <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>"
+ ],
  "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
  "tags": [
   "author=Shaun [Kona] Ross",

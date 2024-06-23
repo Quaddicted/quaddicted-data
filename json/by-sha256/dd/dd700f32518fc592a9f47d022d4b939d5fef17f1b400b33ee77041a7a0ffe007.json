@@ -1,5 +1,6 @@
 {
  "bytes": 6722626,
+ "description": "Large base themed map surrounded by cliffs and caves, an adaptation / conversion of the level \"Mountain Gorge\" from the game SiN (1998). Originally presented at the 20th anniversary QEXPO 2016 (<a href=\"https://qexpo2016.com/sins-gorge-for-quake1/\">via qexpo2016.com</a>).",
  "files": {
   "pak0.pak": {
    "bytes": 18477212,
@@ -130,6 +131,9 @@
   "extract": "{base}/q1gorge/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "After unzipping to /q1gorge/, start manually via console: \"map q1gorge\"<br><br>  Requires a modern engine / source port with increased limits."
+ ],
  "sha256": "dd700f32518fc592a9f47d022d4b939d5fef17f1b400b33ee77041a7a0ffe007",
  "tags": [
   "author=Madfox",

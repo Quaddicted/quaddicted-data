@@ -1,5 +1,6 @@
 {
  "bytes": 890892,
+ "description": "Small Metal/runic map with a base part at the beginning.",
  "files": {
   "quaddicted_repack.txt": {
    "bytes": 51,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Repacked for Quaddicted."
+ ],
  "sha256": "c00acfbb59d1a50e630557dee81b0eda1ef7923529d01496cc13739a31b7ce41",
  "tags": [
   "author=vaf",

@@ -1,5 +1,6 @@
 {
  "bytes": 3466797,
+ "description": "Maps made in 4 hours or less / 9 SP maps / dantescanline, Danzadan, dumptruck_ds, ing-ing, JCR, Naitelveni, Newhouse, prengle",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -131,6 +132,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Some map sources are included and some of the maps may require a source port with increased limits."
+ ],
  "sha256": "c8e87ffe97c414e61c1513fcb1a94d76b22d614c35f1267b2bd3d9969cf51429",
  "tags": [
   "author=Danzadan",

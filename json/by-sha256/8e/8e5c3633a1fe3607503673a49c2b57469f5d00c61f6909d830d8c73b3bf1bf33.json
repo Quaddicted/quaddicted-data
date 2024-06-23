@@ -1,5 +1,6 @@
 {
  "bytes": 10345493,
+ "description": "Seven 24-hour speedmaps. The map sources and a custom skybox are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -171,6 +172,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps probably require a source port with increased limits."
+ ],
  "sha256": "8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33",
  "tags": [
   "author=Artistical",

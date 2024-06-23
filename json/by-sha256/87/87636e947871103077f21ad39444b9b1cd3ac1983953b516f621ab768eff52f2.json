@@ -1,5 +1,6 @@
 {
  "bytes": 3369316,
+ "description": "Very small map aiming to recreate System Control of Doom TNT.",
  "files": {
   "tntmap01/": {
    "bytes": 0,
@@ -56,6 +57,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This cannot be installed with the Quake Injector because extracting the ZIP archive contains an extra root directory."
+ ],
  "sha256": "87636e947871103077f21ad39444b9b1cd3ac1983953b516f621ab768eff52f2",
  "tags": [
   "author=Chuma",

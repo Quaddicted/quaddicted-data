@@ -1,5 +1,6 @@
 {
  "bytes": 3557361,
+ "description": "Two large, detailed Base levels with a story, some new textures, skins and sounds, and nasty cyborg enforcers, along with a few other additions. The author encourages COOP play, too.",
  "files": {
   "MEXX10.TXT": {
    "bytes": 25556,
@@ -246,6 +247,9 @@
   "extract": "{base}/mexx10/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "The built-in unzip tool in Windows seems to struggle with this archive. You can use the free <a href=\"http://7-zip.org/\">7-zip</a> to unpack."
+ ],
  "sha256": "8048b61c3155f2a3a7f3f740abb6497d0a53fe0a32adfe1bb4c9f211a076cbb3",
  "tags": [
   "author=Marcus Dromowicz",

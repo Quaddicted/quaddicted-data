@@ -1,5 +1,6 @@
 {
  "bytes": 2608904,
+ "description": "Huge base map, a labyrinth of tight corridors with ambushes.",
  "files": {
   "xl4/": {
    "bytes": 0,
@@ -26,6 +27,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits",
+  "May not work with the Quake Injector."
+ ],
  "sha256": "08e059325c1b00e167aabde3e5e77394724022e032d93f88e9775117e3b12f7c",
  "tags": [
   "author=xLarve",

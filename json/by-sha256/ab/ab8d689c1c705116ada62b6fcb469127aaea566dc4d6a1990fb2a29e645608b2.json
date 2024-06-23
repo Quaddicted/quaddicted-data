@@ -1,5 +1,6 @@
 {
  "bytes": 4172231,
+ "description": "Medium sized base map centered around a dam and water facility. Map source is included.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -71,6 +72,10 @@
   "extract": "{base}/alk1.1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires  <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline 1.1</a>",
+  "This is v3.2, which is identical to v3.0 except with different packaging."
+ ],
  "sha256": "ab8d689c1c705116ada62b6fcb469127aaea566dc4d6a1990fb2a29e645608b2",
  "tags": [
   "author=Mememind",

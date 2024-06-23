@@ -1,5 +1,6 @@
 {
  "bytes": 8328390,
+ "description": "Large, spacious base map with industrial machinery. The map source is included.",
  "files": {
   "plowing_through/": {
    "bytes": 0,
@@ -31,6 +32,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support.",
+  "Cannot be run through the Quake Injector."
+ ],
  "sha256": "357a85c2900043c234e873ddee2acd535156a10ae2b24f58119ae18413c5255e",
  "tags": [
   "author=BassLexa",

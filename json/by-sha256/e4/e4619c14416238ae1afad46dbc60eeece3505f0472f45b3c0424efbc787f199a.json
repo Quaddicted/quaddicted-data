@@ -1,5 +1,6 @@
 {
  "bytes": 3868119,
+ "description": "Second part of <a href=\"cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101\">Root of all Evil</a>. A large underground research facility.",
  "files": {
   "dwroae_m3b.bsp": {
    "bytes": 7236252,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires an engine port with increased limits."
+ ],
  "sha256": "e4619c14416238ae1afad46dbc60eeece3505f0472f45b3c0424efbc787f199a",
  "tags": [
   "author=DeeDoubleU",

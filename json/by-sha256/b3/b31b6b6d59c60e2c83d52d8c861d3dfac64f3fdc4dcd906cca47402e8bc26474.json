@@ -1,5 +1,6 @@
 {
  "bytes": 110062510,
+ "description": "28 levels + custom start map, offering a variety of map sizes and gameplay themes. All maps were made in 1-2 weeks, using the Prototype textures by Khreathor. Built on Copper v1.19 (already included) with some extra Prototype-themed assets (models, UI) by Kebby. Map source files are included.",
  "files": {
   "sm220/": {
    "bytes": 0,
@@ -2103,6 +2104,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "See also: <a href=\"e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c\">SM214 Prototype Jam 2</a>, <a href=\"7d7ca10a3b44b797ef64652887ed9100d8abd7f2bbabfe628727d3a198659d61\">SM206 Prototype Jam 1</a>",
+  "Probably requires a modern engine / source port with increased limits and BSP2 support."
+ ],
  "sha256": "b31b6b6d59c60e2c83d52d8c861d3dfac64f3fdc4dcd906cca47402e8bc26474",
  "tags": [
   "author=4LT",

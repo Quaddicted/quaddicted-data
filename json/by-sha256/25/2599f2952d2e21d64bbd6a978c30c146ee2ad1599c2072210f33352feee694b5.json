@@ -1,5 +1,6 @@
 {
  "bytes": 183314967,
+ "description": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
  "files": {
   "alkaline/alkaline_read_me.txt": {
    "bytes": 6235,
@@ -2513,6 +2514,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5",
  "tags": [
   "author=Bal",

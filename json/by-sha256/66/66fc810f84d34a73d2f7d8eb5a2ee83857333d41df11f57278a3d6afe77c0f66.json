@@ -1,5 +1,6 @@
 {
  "bytes": 649293,
+ "description": "Multiplayer map \"inspired by old Action Quake 2 maps\", with singleplayer entities added for a playable experience. Partially intended as a parody. Based on an expanded ending to the author's <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a> entry.",
  "files": {
   "bots/": {
    "bytes": 0,
@@ -41,6 +42,10 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "66fc810f84d34a73d2f7d8eb5a2ee83857333d41df11f57278a3d6afe77c0f66",
  "tags": [
   "author=Mazu",

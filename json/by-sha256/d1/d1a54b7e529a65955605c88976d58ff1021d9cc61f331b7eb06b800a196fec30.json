@@ -1,5 +1,6 @@
 {
  "bytes": 11104891,
+ "description": "Small metal/runic level. Comes with a custom music track from Quake64. The map source is included.",
  "files": {
   "Unfinished sketch.jpg": {
    "bytes": 145037,
@@ -41,6 +42,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "UPDATE, 16 Feb 2023: <a href=\"7e257b1180c6945a9a770fbafba3003d5ac7c4713cbb7327ff950018f8458bdc\">version 1.2</a> is available.",
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "d1a54b7e529a65955605c88976d58ff1021d9cc61f331b7eb06b800a196fec30",
  "tags": [
   "author=iYago",

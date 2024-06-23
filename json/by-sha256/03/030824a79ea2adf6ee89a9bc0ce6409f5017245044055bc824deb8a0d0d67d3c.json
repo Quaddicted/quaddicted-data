@@ -1,5 +1,6 @@
 {
  "bytes": 2270884,
+ "description": "Medium-sized metal dungeon in E3M6 mashup style with a built-in skill selection room. It also features custom item boxes. The map source is included.",
  "files": {
   "mstalk.bsp": {
    "bytes": 2970188,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This is an optimized, stand-alone version of the level which stays within the vanilla Quake limits and does not require any special engine port. It does not include the custom item boxes from the <a href=\"528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393\">previous version</a>."
+ ],
  "sha256": "030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c",
  "tags": [
   "author=sock",

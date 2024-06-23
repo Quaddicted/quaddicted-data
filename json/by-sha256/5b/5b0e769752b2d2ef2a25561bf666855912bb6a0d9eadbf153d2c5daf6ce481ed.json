@@ -1,5 +1,6 @@
 {
  "bytes": 660232,
+ "description": "Base map with shootable buttons and a rocket to launch.",
  "files": {
   "icbm.bsp": {
    "bytes": 1533840,
@@ -11,6 +12,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "The original zip did not include a txt file. It is available separately in <a href=\"http://www.gamers.org/pub/idgames2/levels/g-i/icbm.txt\">/idgames/levels/g-i/icbm.txt</a> though."
+ ],
  "sha256": "5b0e769752b2d2ef2a25561bf666855912bb6a0d9eadbf153d2c5daf6ce481ed",
  "tags": [
   "author=Timothy R. Jervis",

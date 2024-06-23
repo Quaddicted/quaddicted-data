@@ -1,5 +1,6 @@
 {
  "bytes": 10994420,
+ "description": "A medium-to-large sized pine forest / base map with a mix of custom textures and a few id1 texture mashups. Map source is included.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -71,6 +72,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a\">Copper</a> and a modern engine / source port with increased limits."
+ ],
  "sha256": "189d2dca7101689c0400ba960b178f4b39538c35b09dd872bf6103e61190e405",
  "tags": [
   "author=Paul Lawitzki",

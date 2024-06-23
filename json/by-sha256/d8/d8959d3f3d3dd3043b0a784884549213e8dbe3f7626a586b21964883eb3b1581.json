@@ -1,5 +1,6 @@
 {
  "bytes": 770364,
+ "description": "Small to medium Base-themed sewer map with lots of pipes and an outside area.",
  "files": {
   "author.txt": {
    "bytes": 2185,
@@ -16,6 +17,9 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map has to be played in Scourge of Armagon."
+ ],
  "sha256": "d8959d3f3d3dd3043b0a784884549213e8dbe3f7626a586b21964883eb3b1581",
  "tags": [
   "author=Brian Kline (Larry)",

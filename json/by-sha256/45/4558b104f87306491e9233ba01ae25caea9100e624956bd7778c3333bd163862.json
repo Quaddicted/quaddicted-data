@@ -1,5 +1,6 @@
 {
  "bytes": 1525258,
+ "description": "Medieval temple themed map with many dark shadows and notable use of underwater combat. Late entry to the <a href=\"92b11d3749b3b7d0ada1cbf779417d56ccfbfaf24347c91a416c5da91f82d687\">Snack Pack 3</a> community pack.",
  "files": {
   "README.txt": {
    "bytes": 628,
@@ -26,6 +27,9 @@
   "extract": "{base}/snack3/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"92b11d3749b3b7d0ada1cbf779417d56ccfbfaf24347c91a416c5da91f82d687\">Snack Pack 3</a>."
+ ],
  "sha256": "4558b104f87306491e9233ba01ae25caea9100e624956bd7778c3333bd163862",
  "tags": [
   "author=spootnik",

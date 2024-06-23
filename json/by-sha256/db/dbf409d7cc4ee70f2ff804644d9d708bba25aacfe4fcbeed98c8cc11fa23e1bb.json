@@ -1,5 +1,6 @@
 {
  "bytes": 30964728,
+ "description": "Huge and intricately detailed map set in a medieval swampy environment. Loosely based on e1m3. The map source and the texture wad are included.",
  "files": {
   "ad_quake.def": {
    "bytes": 290898,
@@ -1091,6 +1092,10 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "The download includes an update to <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions 1.5</a>, which is required.",
+  "This release requires an engine with dramatically raised limits, such as Quakespasm 0.93.0 or higher."
+ ],
  "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
  "tags": [
   "author=Giftmacher",

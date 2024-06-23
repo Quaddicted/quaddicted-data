@@ -1,5 +1,6 @@
 {
  "bytes": 317130,
+ "description": "Small Metal space floater. Origin of the well-known Coagula style (tight void maps requiring the player to work their way upward).",
  "files": {
   "coagula.bsp": {
    "bytes": 954672,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "8ca58100dd844fa6c0b0a3bc82c7c35d9c9382acccefb8d338ee5ac89b9b6a09",
  "tags": [
   "author=Tim Elek",

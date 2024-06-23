@@ -1,5 +1,6 @@
 {
  "bytes": 192676,
+ "description": "A dungeon made of brick and wood.",
  "files": {
   "Dungeon.bsp": {
    "bytes": 450464,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
  "tags": [
   "author=James Garrett",

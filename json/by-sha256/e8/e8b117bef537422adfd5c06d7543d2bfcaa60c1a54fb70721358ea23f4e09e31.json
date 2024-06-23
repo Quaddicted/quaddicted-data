@@ -1,5 +1,6 @@
 {
  "bytes": 243394289,
+ "description": "Community mapping event organized at 4chan's retro videogame board: 11 large levels including a start map and a secret map, following a variety of styles and texture themes. They run on a custom mod that combines enemies, weapons, items and assets from both official mission packs, <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>, <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>, RMQ and Progs_dump. As such, it comes with many new models, sounds as well as skyboxes and custom music tracks.",
  "files": {
   "vr/": {
    "bytes": 0,
@@ -2962,6 +2963,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "e8b117bef537422adfd5c06d7543d2bfcaa60c1a54fb70721358ea23f4e09e31",
  "tags": [
   "author=Anonymous users",

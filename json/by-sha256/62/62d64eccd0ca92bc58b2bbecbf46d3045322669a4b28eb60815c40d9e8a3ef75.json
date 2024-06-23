@@ -1,5 +1,6 @@
 {
  "bytes": 12006228,
+ "description": "Weekend-long speedmapping session; eight <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a>-themed singleplayer maps. The map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -131,6 +132,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps probably require a source port with increased limits."
+ ],
  "sha256": "62d64eccd0ca92bc58b2bbecbf46d3045322669a4b28eb60815c40d9e8a3ef75",
  "tags": [
   "author=Artistical",

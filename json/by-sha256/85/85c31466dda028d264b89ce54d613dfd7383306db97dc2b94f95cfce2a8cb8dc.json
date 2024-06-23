@@ -1,5 +1,6 @@
 {
  "bytes": 4489751,
+ "description": "Medium-sized red runic style temple.",
  "files": {
   "tofaz/tofaz.bsp": {
    "bytes": 9732768,
@@ -18,9 +19,12 @@
   }
  },
  "install": {
-  "extract": "{base}/id1\\maps\\"
+  "extract": "{base}/id1\u005Cmaps\u005C"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "tags": [
   "author=YukiRaven",
@@ -34,7 +38,7 @@
   "map_size=medium",
   "nonspecific_tag=lit",
   "release_date=2017-10-18",
-  "startmap=tofaz\\tofaz",
+  "startmap=tofaz\u005Ctofaz",
   "theme=fog",
   "theme=metal",
   "theme=red",

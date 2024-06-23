@@ -1,5 +1,6 @@
 {
  "bytes": 33559915,
+ "description": "Epic fantasy episode with three huge levels, hardcore horde battles with many new monsters and bosses, several new and modified weapons and items from the Drake mod (latest version is included). It also comes with a start map, custom skyboxes and background music.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -3141,6 +3142,9 @@
   "extract": "{base}/unforgiven/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This episode requires an engine port with increased limits. The max_edicts value has to be raised to 2048 if supported."
+ ],
  "sha256": "a1137e6e1faec22f1ddbc584cbfd77357e79d63ae14241b6fbb9ccfe997d6a2e",
  "tags": [
   "author=PM",

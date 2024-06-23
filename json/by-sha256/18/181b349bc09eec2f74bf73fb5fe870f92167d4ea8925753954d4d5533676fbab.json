@@ -1,5 +1,6 @@
 {
  "bytes": 84829465,
+ "description": "Ten maps of varying themes based on the <a href=\"6e28e7330430642bec0afb35c55c7866a29ecd03c20691812f1648a055bd747f\">Jump mod</a> (included) which adds double/triple-jump abilities. The map sources are included.",
  "files": {
   "jan_jump_jam_2020/": {
    "bytes": 0,
@@ -881,6 +882,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Some of these maps require a source port with increased limits."
+ ],
  "sha256": "181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab",
  "tags": [
   "author=Greenwood",

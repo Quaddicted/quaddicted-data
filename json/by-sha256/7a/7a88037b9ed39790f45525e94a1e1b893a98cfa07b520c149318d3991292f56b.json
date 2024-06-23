@@ -1,5 +1,6 @@
 {
  "bytes": 4546166,
+ "description": "Very large fortress/citadel with many corridors and ambushes. Comes with a small skill selection map.",
  "files": {
   "xl2/": {
    "bytes": 0,
@@ -41,6 +42,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits.",
+  "Does not work with the Quake Injector"
+ ],
  "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
  "tags": [
   "author=xlarve",

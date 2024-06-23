@@ -1,5 +1,6 @@
 {
  "bytes": 5176633,
+ "description": "Medium-sized medieval castle level. It is based on the Progs_dump mod (included) and comes with some custom sounds and models. The map and qc sources are included.This map requires a source port with increased limits.",
  "files": {
   "dfl_godfreys/config.cfg": {
    "bytes": 2597,
@@ -631,6 +632,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "The mod folder has a config.cfg file which may override the current user configuration."
+ ],
  "sha256": "7eb5ad28389039e362fea730b59cdd7ae2e624ffaddd9b618615bdbef9583054",
  "tags": [
   "author=DragonsForLunch",

@@ -1,5 +1,6 @@
 {
  "bytes": 3747790,
+ "description": "Large Medieval mountain fortress with large scale and horde combat. Unlike the <a href=\"6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff\">previous version</a>, this one does not require Scourge of Armagon.",
  "files": {
   "Masquereadme.txt": {
    "bytes": 4211,
@@ -146,6 +147,9 @@
   "extract": "{base}/masque_final/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires an engine with increased limits."
+ ],
  "sha256": "c38af7e50ee791b94accbfe97285499571b6b212ad09142fff44ea9c9c18349e",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

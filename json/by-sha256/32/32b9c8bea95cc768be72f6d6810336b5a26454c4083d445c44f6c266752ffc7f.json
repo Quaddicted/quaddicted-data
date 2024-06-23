@@ -1,5 +1,6 @@
 {
  "bytes": 175602087,
+ "description": "Fourth Halloween Jam, a community project featuring eight levels + a start map in varying sizes and themes. Some of the maps use custom textures, e.g. Makkon and Alice. The pack runs on <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> (included) and comes with various custom content like models, sounds, skyboxes, and music tracks. The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -10443,6 +10444,9 @@
   "extract": "{base}/hwjam4/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits and some of them BSP2 support.<br>The missing skybox for Riktoi's map can be downloaded <a href=\"https://www.quaddicted.com/filebase/hwjam4_riktoi.zip\">here</a>."
+ ],
  "sha256": "32b9c8bea95cc768be72f6d6810336b5a26454c4083d445c44f6c266752ffc7f",
  "tags": [
   "author=Artistical",

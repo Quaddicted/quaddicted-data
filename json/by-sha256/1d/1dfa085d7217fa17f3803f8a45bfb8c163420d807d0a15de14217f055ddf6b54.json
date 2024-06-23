@@ -1,5 +1,6 @@
 {
  "bytes": 20731612,
+ "description": "Episode of 14 smallish speedmap-like levels in varying themes. The maps are based on the <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper</a> mod (included) and there is a custom music track. The map sources are included.",
  "files": {
   "doc/": {
    "bytes": 0,
@@ -618,6 +619,9 @@
   "extract": "{base}/snack/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Some of these maps require a source port with increased limits and/or BSP2 support."
+ ],
  "sha256": "1dfa085d7217fa17f3803f8a45bfb8c163420d807d0a15de14217f055ddf6b54",
  "tags": [
   "author=Artistical",

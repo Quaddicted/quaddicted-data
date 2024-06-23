@@ -1,5 +1,6 @@
 {
  "bytes": 1019110,
+ "description": "Large ikbase level - neh1m4 from <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a> converted for <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
  "files": {
   "neh1m4.bsp": {
    "bytes": 2456048,
@@ -16,6 +17,9 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>."
+ ],
  "sha256": "700e69bd22ccd5335a28ff56470530dc2afcc7e1c30e5d5fd45ff734fabe6f8d",
  "tags": [
   "author=DaMaul",

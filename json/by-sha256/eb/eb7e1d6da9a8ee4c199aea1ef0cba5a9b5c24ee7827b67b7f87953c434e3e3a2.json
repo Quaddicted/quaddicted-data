@@ -1,5 +1,6 @@
 {
  "bytes": 13582768,
+ "description": "The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -221,6 +222,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps probably require a source port with increased limits."
+ ],
  "sha256": "eb7e1d6da9a8ee4c199aea1ef0cba5a9b5c24ee7827b67b7f87953c434e3e3a2",
  "tags": [
   "author=Breezeep",

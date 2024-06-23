@@ -1,5 +1,6 @@
 {
  "bytes": 1184275,
+ "description": "A small wizard / runic themed map built within a 1024x1024x1024 volume. The author's first release for Quake. Map source is included.",
  "files": {
   "suzy1024.bsp": {
    "bytes": 2054764,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a modern engine / source port with increased limits."
+ ],
  "sha256": "a6c7c4e915c55aec04cfc976933dad575303e0c76ea88913c098c83605ef9ad7",
  "tags": [
   "author=Suzanne 'Trashbang' Will",

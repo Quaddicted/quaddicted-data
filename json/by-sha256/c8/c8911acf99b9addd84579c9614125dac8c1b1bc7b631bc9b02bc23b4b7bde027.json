@@ -1,5 +1,6 @@
 {
  "bytes": 67296760,
+ "description": "City-themed Arcane Dimenions map set at night, with non-linear gameplay and usage of breakables to progress. Partly inspired by Duke Nukem and Half-Life.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -206,6 +207,10 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "c8911acf99b9addd84579c9614125dac8c1b1bc7b631bc9b02bc23b4b7bde027",
  "tags": [
   "author=GW_X9",

@@ -1,5 +1,6 @@
 {
  "bytes": 2704611,
+ "description": "Two large oldschool Base and Metal levels and an unfinished Wizard map.",
  "files": {
   "INOVO.txt": {
    "bytes": 4906,
@@ -36,6 +37,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f",
  "tags": [
   "author=Jaromir Bergmann",

@@ -1,5 +1,6 @@
 {
  "bytes": 7916968,
+ "description": "A small episode for <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>. Starts in a base, then goes into a dark moody mountain theme.",
  "files": {
   "elek_neh_episode4_quaddictedrepack.txt": {
    "bytes": 319,
@@ -71,6 +72,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "038a48fd95fb3b128d4afd64336054110d537cca849e428ec1faf31d05a630a4",
  "tags": [
   "author=ELEK",

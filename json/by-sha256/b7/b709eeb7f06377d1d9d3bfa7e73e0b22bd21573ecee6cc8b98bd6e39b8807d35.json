@@ -1,5 +1,6 @@
 {
  "bytes": 5516102,
+ "description": "Small lava void map with floating islands. Map source is included. The author's first release.",
  "files": {
   "infernalislands/": {
    "bytes": 0,
@@ -136,6 +137,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires Arcane Dimensions v1.81+ (NOT included).",
+  "This won't work in Quake Injector and must be manually installed. Just move the two subfolders /gfx/ and /maps/ into your /ad/ mod folder, and ignore the other unnecessary files."
+ ],
  "sha256": "b709eeb7f06377d1d9d3bfa7e73e0b22bd21573ecee6cc8b98bd6e39b8807d35",
  "tags": [
   "author=Xenos",

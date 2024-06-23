@@ -1,5 +1,6 @@
 {
  "bytes": 5531644,
+ "description": "Remix/remake of the original E1M1 - The Slipgate Complex, but larger and more spacious, with many new and expanded areas.",
  "files": {
   "e1m1rt23.txt": {
    "bytes": 2639,
@@ -66,6 +67,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "60df7afb08da3ca0379f562b0707d09b4cf494cabdf7e7e0f53fb651036df358",
  "tags": [
   "author=RickyT23",

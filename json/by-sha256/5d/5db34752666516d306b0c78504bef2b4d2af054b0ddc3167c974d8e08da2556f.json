@@ -1,5 +1,6 @@
 {
  "bytes": 164188510,
+ "description": "Pack of four maps in various styles, based on the <a href=\"33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57\">Re:Mobilize</a> mod (included), all taking advantage of new gameplay mechanics.",
  "files": {
   "rmj1/map readmes/": {
    "bytes": 0,
@@ -931,6 +932,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f",
  "tags": [
   "author=Chuma",

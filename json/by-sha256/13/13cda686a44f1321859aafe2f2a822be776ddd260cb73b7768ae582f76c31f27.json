@@ -1,5 +1,6 @@
 {
  "bytes": 3000485,
+ "description": "Mini-episode consisting of three small levels and a start map. Some of the author's very first maps.",
  "files": {
   "MJB2HUB.bsp": {
    "bytes": 328350,
@@ -41,6 +42,9 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
+ ],
  "sha256": "13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27",
  "tags": [
   "author=Bloughsburgh",

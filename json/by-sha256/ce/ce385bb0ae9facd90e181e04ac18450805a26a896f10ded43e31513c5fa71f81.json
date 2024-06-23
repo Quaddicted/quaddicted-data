@@ -1,5 +1,6 @@
 {
  "bytes": 4106192,
+ "description": "Large base map with some nightly outside areas. The map source is included.",
  "files": {
   "nightshift.bsp": {
    "bytes": 7186728,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "ce385bb0ae9facd90e181e04ac18450805a26a896f10ded43e31513c5fa71f81",
  "tags": [
   "author=Bonn",

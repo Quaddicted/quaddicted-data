@@ -1,5 +1,6 @@
 {
  "bytes": 295537,
+ "description": "Small Chthon arena.",
  "files": {
   "boss_quaddictedrepack.txt": {
    "bytes": 319,
@@ -51,6 +52,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "You can press the switch that causes Chthon to spawn multiple times, which he will do. This map is designed to be used with Dave Weiden's mod (included), which modifies Chthon's behaviour and, among other things, makes him killable with regular weapons.",
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "tags": [
   "author=Tekno Tom",

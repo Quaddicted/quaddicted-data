@@ -1,5 +1,6 @@
 {
  "bytes": 58668446,
+ "description": "Mini episode of 3 levels of various themes (base, medieval, runic) + custom start map. Built on progs_dump v3 (already included).",
  "files": {
   "sac/": {
    "bytes": 0,
@@ -996,6 +997,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a modern engine / source port with increased limits and features."
+ ],
  "sha256": "544ea0b171ec7b971ef2fed1fcfcedc36e917ad086a7a57933cb823d4f781384",
  "tags": [
   "author=Shadesmaster",

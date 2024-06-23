@@ -1,5 +1,6 @@
 {
  "bytes": 973912,
+ "description": "Medium blue-metal map with abstract designs.",
  "files": {
   "asylum.bsp": {
    "bytes": 2169308,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f",
  "tags": [
   "author=Charles Daniel",

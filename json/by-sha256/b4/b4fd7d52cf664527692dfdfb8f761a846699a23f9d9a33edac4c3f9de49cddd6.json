@@ -1,5 +1,6 @@
 {
  "bytes": 3851150,
+ "description": "Large medieval lava castle map in a classic style; the author's first release. Difficulty settings aren't implemented (they're all the same). Map source is included.",
  "files": {
   "03.jpg": {
    "bytes": 232320,
@@ -46,6 +47,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Note: probably requires a source port / modern engine with increased limits."
+ ],
  "sha256": "b4fd7d52cf664527692dfdfb8f761a846699a23f9d9a33edac4c3f9de49cddd6",
  "tags": [
   "author=Paul Keefner",

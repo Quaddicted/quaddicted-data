@@ -1,5 +1,6 @@
 {
  "bytes": 1101318,
+ "description": "Medium to large spacious medieval level with long corridors. The map source is included.",
  "files": {
   "human1320.bsp": {
    "bytes": 2025116,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires TF or MTF coop. Since there are no weapons/supplies, it cannot be played without."
+ ],
  "sha256": "96d77af2eb4e8081d04804a27f6603cd5b83a581822b668e68a9911039293ad7",
  "tags": [
   "author=human[rus]",

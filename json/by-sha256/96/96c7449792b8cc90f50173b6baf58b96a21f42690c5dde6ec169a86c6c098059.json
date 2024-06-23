@@ -1,5 +1,6 @@
 {
  "bytes": 3235502,
+ "description": "Huge map with a mix of base structures and caves.",
  "files": {
   "phantom/": {
    "bytes": 0,
@@ -246,6 +247,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "96c7449792b8cc90f50173b6baf58b96a21f42690c5dde6ec169a86c6c098059",
  "tags": [
   "author=MadFox",

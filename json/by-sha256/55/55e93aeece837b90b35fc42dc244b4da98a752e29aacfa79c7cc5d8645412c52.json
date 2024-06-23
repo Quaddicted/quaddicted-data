@@ -1,5 +1,6 @@
 {
  "bytes": 10767280,
+ "description": "Spacious map using a mixture of texture themes.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -86,6 +87,11 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
+  "This file was repackaged for Quake Injector compatibility.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "55e93aeece837b90b35fc42dc244b4da98a752e29aacfa79c7cc5d8645412c52",
  "tags": [
   "author=Chuma",

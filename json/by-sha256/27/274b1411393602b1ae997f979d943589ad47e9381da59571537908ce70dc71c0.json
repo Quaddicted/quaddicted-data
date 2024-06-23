@@ -1,5 +1,6 @@
 {
  "bytes": 1847585,
+ "description": "Medium-sized oldschool-style brick dungeon level. The map source is included.",
  "files": {
   "throughthegates.txt": {
    "bytes": 1435,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "274b1411393602b1ae997f979d943589ad47e9381da59571537908ce70dc71c0",
  "tags": [
   "author=Mike_C",

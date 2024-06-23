@@ -1,5 +1,6 @@
 {
  "bytes": 2946003,
+ "description": "Small medieval outpost with a unique texture theme and horde-based combat. A touched-up version of an old deathmatch map converted for SP mode. Comes with a custom skybox.",
  "files": {
   "drysorrow.txt": {
    "bytes": 1083,
@@ -61,6 +62,9 @@
   "extract": "{base}/wicked/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires the <a href=\"http://quaddicted.com/filebase/drake290111.zip\">Drake</a> mod."
+ ],
  "sha256": "20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

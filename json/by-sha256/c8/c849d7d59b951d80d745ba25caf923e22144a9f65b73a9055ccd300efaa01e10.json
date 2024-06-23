@@ -1,5 +1,6 @@
 {
  "bytes": 513781916,
+ "description": "35 \"concrete murderzones\" inspired by modernist architecture, all made over 2.5 weeks by a variety of first-time mappers and veterans. Most maps make heavy use of Makkon textures. Built on Copper 1.19 (already included). Map source files are included for some of the levels. Custom start map with built-in difficulty select is included.",
  "files": {
   "qbj_1.05/": {
    "bytes": 0,
@@ -2511,6 +2512,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires a modern engine / source port with increased limits. Tested on IronWail, Quakespasm, and vkQuake. But there have been issues reported with Quakespasm Spiked.",
+  "Note: does not work in Quake Injector until https://github.com/hrehfeld/QuakeInjector/issues/146 is fixed."
+ ],
  "sha256": "c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10",
  "tags": [
   "author=Annihilator",

@@ -1,5 +1,6 @@
 {
  "bytes": 788333,
+ "description": "Short, linear map in E1M5 textures and a garden area.",
  "files": {
   "the_roted_castle_readme.txt": {
    "bytes": 1198,
@@ -31,6 +32,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility."
+ ],
  "sha256": "ee055107b62f559a9278f5f523eaad1a96b5b5a4db558b8e747e3d4e0dc82365",
  "tags": [
   "author=Haikids",
