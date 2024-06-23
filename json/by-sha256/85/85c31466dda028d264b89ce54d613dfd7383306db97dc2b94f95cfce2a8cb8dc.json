@@ -19,7 +19,7 @@
   }
  },
  "install": {
-  "extract": "{base}/id1\u005Cmaps\u005C"
+  "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
  "notes": [
@@ -38,7 +38,7 @@
   "map_size=medium",
   "nonspecific_tag=lit",
   "release_date=2017-10-18",
-  "startmap=tofaz\u005Ctofaz",
+  "startmap=tofaz",
   "theme=fog",
   "theme=metal",
   "theme=red",
