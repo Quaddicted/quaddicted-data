@@ -1,5 +1,6 @@
 {
  "bytes": 19709397,
+ "description": "A pack of 6 levels made in 48 hours for a community speedmapping jam where participants had one day to make textures, and then one day to make a map with only those textures. Built with the <a href=\"https://github.com/quake-mapping-community/smp\">Speedmapping Progs dev kit</a> (already included). Custom start map has built-in difficulty selection. ZIP includes map source.",
  "files": {
   "sm216/docs/": {
    "bytes": 0,
@@ -191,6 +192,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Probably requires a modern source port / engine with increased limits."
+ ],
  "sha256": "c472d8be7b82d3d312f979ea3544027292e32b2dc085758891d36f880f80ae60",
  "tags": [
   "author=4LT",

@@ -1,5 +1,6 @@
 {
  "bytes": 2055533,
+ "description": "Two maps: a small unfinished base level (timebomb), and a small metal level with extremely nasty traps (salv) that encourages secret hunting and frequent saving.",
  "files": {
   "readme.txt": {
    "bytes": 4402,
@@ -36,6 +37,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "All maps require Scourge of Armagon."
+ ],
  "sha256": "eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0",
  "tags": [
   "author=Charlie Wiederhold",

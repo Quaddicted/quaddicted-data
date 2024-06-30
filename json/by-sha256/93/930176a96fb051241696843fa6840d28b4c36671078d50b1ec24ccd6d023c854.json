@@ -1,5 +1,6 @@
 {
  "bytes": 18831622,
+ "description": "Medium sized map for Arcane Dimensions using Makkon and Knave textures set in a tower in the sky with many books. Contains some non-linear sections. The author's first map for Quake.",
  "files": {
   "ad_tower.bsp": {
    "bytes": 31197344,
@@ -21,6 +22,10 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "930176a96fb051241696843fa6840d28b4c36671078d50b1ec24ccd6d023c854",
  "tags": [
   "author=radhsar",

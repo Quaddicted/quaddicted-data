@@ -1,5 +1,6 @@
 {
  "bytes": 789719,
+ "description": "A large Base map with some water areas.",
  "files": {
   "polygon8.bsp": {
    "bytes": 1833244,
@@ -16,6 +17,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "An upgraded version was released as <a href=\"2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a\">polybase</a>."
+ ],
  "sha256": "61e91271b63015bc351ed40e4407daf76be94faa91ca8f3ae1648cfd306bdbeb",
  "tags": [
   "author=Rick Lipsey",

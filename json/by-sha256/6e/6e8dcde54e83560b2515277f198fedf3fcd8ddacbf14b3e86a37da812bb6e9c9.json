@@ -1,5 +1,6 @@
 {
  "bytes": 504334,
+ "description": "Short base-themed map centered around a mysterious structure.",
  "files": {
   "planetside.bsp": {
    "bytes": 1104876,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility."
+ ],
  "sha256": "6e8dcde54e83560b2515277f198fedf3fcd8ddacbf14b3e86a37da812bb6e9c9",
  "tags": [
   "author=Skullzrawk9",

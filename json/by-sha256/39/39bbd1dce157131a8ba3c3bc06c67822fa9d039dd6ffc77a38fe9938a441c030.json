@@ -1,5 +1,6 @@
 {
  "bytes": 16540614,
+ "description": "\"Speedmapping\" jam pack 199: Collaboration. Five SP levels, each one made by two collaborating authors.",
  "files": {
   "docs/Readme_BurnhamYoder.txt": {
    "bytes": 497,
@@ -221,6 +222,9 @@
   "extract": "{base}/sm199/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps probably require a source port with increased limits."
+ ],
  "sha256": "39bbd1dce157131a8ba3c3bc06c67822fa9d039dd6ffc77a38fe9938a441c030",
  "tags": [
   "author=Burnham",

@@ -1,5 +1,6 @@
 {
  "bytes": 220222542,
+ "description": "Second Halloween Jam community project featuring 14 levels of varying styles, and a start map. The levels run on the Arcane Dimensions mod (included). The map sources are included.",
  "files": {
   "docs/": {
    "bytes": 0,
@@ -8111,6 +8112,9 @@
   "extract": "{base}/hwjam2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits."
+ ],
  "sha256": "1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a",
  "tags": [
   "author=Artistical",

@@ -1,5 +1,6 @@
 {
  "bytes": 6632990,
+ "description": "Around medium-sized brick/sewer level in <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a>-style. Comes with a custom skybox.",
  "files": {
   "primo_1.1.0/primo.bsp": {
    "bytes": 8431328,
@@ -56,6 +57,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support.",
+  "Cannot be played through the Quake Injector."
+ ],
  "sha256": "27e3bd6f30cf5d21165f9fdf1f5810afb45ab781ace5dff8ab454229e22311fc",
  "tags": [
   "author=remi",

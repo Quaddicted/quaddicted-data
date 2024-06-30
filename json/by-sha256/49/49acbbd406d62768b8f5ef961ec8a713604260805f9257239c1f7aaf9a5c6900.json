@@ -1,5 +1,6 @@
 {
  "bytes": 115809969,
+ "description": "Community map pack: nine medium to large levels including a start map, using modified DOOM3 textures and running on the <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> mod (included). Also contains a few custom skyboxes and music tracks. Some map sources are included.",
  "files": {
   "dtintin/": {
    "bytes": 0,
@@ -9556,6 +9557,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "49acbbd406d62768b8f5ef961ec8a713604260805f9257239c1f7aaf9a5c6900",
  "tags": [
   "author=Chris Holden",

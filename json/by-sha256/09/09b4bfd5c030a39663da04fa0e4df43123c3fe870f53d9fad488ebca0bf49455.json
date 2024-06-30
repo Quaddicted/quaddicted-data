@@ -1,5 +1,6 @@
 {
  "bytes": 2361711,
+ "description": "Small to medium-sized wiztech level, industrial structures and crumbling brick buildings blending together.",
  "files": {
   "ou.bsp": {
    "bytes": 5953736,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with BSP2 support."
+ ],
  "sha256": "09b4bfd5c030a39663da04fa0e4df43123c3fe870f53d9fad488ebca0bf49455",
  "tags": [
   "author=czg",

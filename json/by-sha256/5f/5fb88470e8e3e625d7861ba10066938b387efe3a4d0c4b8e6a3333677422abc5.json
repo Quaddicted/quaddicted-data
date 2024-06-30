@@ -1,5 +1,6 @@
 {
  "bytes": 1563830,
+ "description": "Medium-to-large interconnected IKBase map. Features the Mega Enforcer from Zerstörer.",
  "files": {
   "apsp1.bat": {
    "bytes": 1595,
@@ -104,6 +105,9 @@
   "extract": "{base}/apsp1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Some engine ports render the elevator at the beginning in the wrong position (not a critical bug). A hotfix</a> is available for ports that support .ent files."
+ ],
  "sha256": "5fb88470e8e3e625d7861ba10066938b387efe3a4d0c4b8e6a3333677422abc5",
  "tags": [
   "author=Andrew 'than' Palmer",

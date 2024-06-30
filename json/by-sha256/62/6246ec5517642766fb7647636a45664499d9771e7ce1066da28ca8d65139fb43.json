@@ -1,5 +1,6 @@
 {
  "bytes": 41676633,
+ "description": "An assorted pack of 15 levels made in 48 hours for a community speedmapping jam, all centered around the Quad Damage powerup. Built with the <a href=\"https://github.com/quake-mapping-community/smp\">Speedmapping Progs dev kit</a>, already included. Custom start map has built-in difficulty selection. ZIP includes map source.",
  "files": {
   "sm215/docs/": {
    "bytes": 0,
@@ -406,6 +407,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Probably requires a modern source port / engine with increased limits."
+ ],
  "sha256": "6246ec5517642766fb7647636a45664499d9771e7ce1066da28ca8d65139fb43",
  "tags": [
   "author=Arnau",

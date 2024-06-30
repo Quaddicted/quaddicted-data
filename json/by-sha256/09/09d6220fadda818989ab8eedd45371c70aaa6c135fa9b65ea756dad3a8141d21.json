@@ -1,5 +1,6 @@
 {
  "bytes": 11090175,
+ "description": "Large blood sewers level with traps. It is based on the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod (version 1.15 + an additional fix is included) and comes with a few new ambient sounds.",
  "files": {
   "purifier/": {
    "bytes": 0,
@@ -465,6 +466,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support."
+ ],
  "sha256": "09d6220fadda818989ab8eedd45371c70aaa6c135fa9b65ea756dad3a8141d21",
  "tags": [
   "author=Zothique",

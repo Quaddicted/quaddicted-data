@@ -1,5 +1,6 @@
 {
  "bytes": 2692677,
+ "description": "Medium-sized spacious metal/runic-style fortress.",
  "files": {
   "catatonic.bsp": {
    "bytes": 4618836,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires an engine port with increased limits (fog support recommended)."
+ ],
  "sha256": "1809900c15113e5dbf309abc94e414eff098de75a11f585d14050afcb7c3ab6c",
  "tags": [
   "author=RickyT23",

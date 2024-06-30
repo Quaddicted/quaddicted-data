@@ -1,5 +1,6 @@
 {
  "bytes": 12582570,
+ "description": "Medium-sized metal cathedral in the void. It is based on the Progs_dump mod (included) and comes with a custom music track. The map source is included.",
  "files": {
   "jpqm7/README - jpqm7 - Halls of the Void.txt": {
    "bytes": 3826,
@@ -507,6 +508,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support."
+ ],
  "sha256": "d20d6537efead2954ef637f77f02f2181a69074403e2d26da7f2b248757c8831",
  "tags": [
   "author=JPal",

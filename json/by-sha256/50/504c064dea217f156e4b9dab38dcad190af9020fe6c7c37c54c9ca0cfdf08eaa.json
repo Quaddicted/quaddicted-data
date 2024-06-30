@@ -1,5 +1,6 @@
 {
  "bytes": 9116072,
+ "description": "Small to medium-sized medieval / hell map, the sequel to <a href=\"7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc\">Castle of the Dark Ages</a>. Uses DKT and Doom3 textures, and comes with a few additional ambient sounds as well as a hell skybox.",
  "files": {
   "gfx/env/hellsky2bk.tga": {
    "bytes": 787493,
@@ -101,6 +102,9 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
+ ],
  "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
  "tags": [
   "author=JPL",

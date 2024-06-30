@@ -1,5 +1,6 @@
 {
  "bytes": 433605,
+ "description": "Small plain Medieval/brick map. A deathmatch level with monsters.",
  "files": {
   "CHURCH.TXT": {
    "bytes": 1017,
@@ -16,6 +17,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map does not have an exit."
+ ],
  "sha256": "8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253",
  "tags": [
   "author=Anders Gustafsson",

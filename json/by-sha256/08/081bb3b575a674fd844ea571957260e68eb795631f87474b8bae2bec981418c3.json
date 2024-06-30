@@ -1,5 +1,6 @@
 {
  "bytes": 29273000,
+ "description": "Updated version of <a href=\"1cbbad91902333adfc70f8a7ba21811eee5aaee6ce933983db72f086cc2535f9\">nsoe</a>, comes with a new map. Medieval/fantasy episode consisting of five medium to large maps - sequel to <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a>. Also features new and modified monsters, weapons and items as well as a story in the vein of SOE unfolding throughout the maps, many custom textures, sounds and skyboxes. Gameplay is somewhat non-linear and very hard.",
  "files": {
   "nsoe_readme.txt": {
    "bytes": 9389,
@@ -2162,6 +2163,10 @@
   "extract": "{base}/nsoe2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Enhanced skins are available: regular</a> and DP</a> version.",
+  "These maps require an engine port with increased limits."
+ ],
  "sha256": "081bb3b575a674fd844ea571957260e68eb795631f87474b8bae2bec981418c3",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert et al",

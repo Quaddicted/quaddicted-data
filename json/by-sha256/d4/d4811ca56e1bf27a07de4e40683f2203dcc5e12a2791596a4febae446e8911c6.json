@@ -1,5 +1,6 @@
 {
  "bytes": 14355380,
+ "description": "Medium-sized realism map using Kingpin textures and set in a prestigeous office building, complete with a cantina, a parking garage, and maintenance areas. Comes with three custom sounds.",
  "files": {
   "ad_dwoffice.bsp": {
    "bytes": 8384916,
@@ -36,6 +37,9 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits (Quakespasm-Spike fork recommended)."
+ ],
  "sha256": "d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6",
  "tags": [
   "author=Doug Wheeler aka Bullseye8841",

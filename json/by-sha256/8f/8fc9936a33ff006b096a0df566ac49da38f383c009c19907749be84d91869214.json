@@ -1,5 +1,6 @@
 {
  "bytes": 20957246,
+ "description": "10 speedmaps + start map inspired by e1m4 - The Grisly Grotto. Mappers had 60 hours to create a map using custom progs - based on Copper v1.20 and featuring the diving gear from Dwell (included) - with no restrictions on texturing or gameplay other than the prompt.",
  "files": {
   "sm226/": {
    "bytes": 0,
@@ -930,6 +931,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Some maps may require a modern engine / source port with increased limits."
+ ],
  "sha256": "8fc9936a33ff006b096a0df566ac49da38f383c009c19907749be84d91869214",
  "tags": [
   "author=Andrew Yoder",

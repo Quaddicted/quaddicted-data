@@ -1,5 +1,6 @@
 {
  "bytes": 19298538,
+ "description": "Large Escher-themed map using a completely new texture set and skybox. Features spacious rooms, vertical combat and many innovative entity setups, such as buttons requiring specific weapons to progress.",
  "files": {
   "copper/": {
    "bytes": 0,
@@ -81,6 +82,11 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
+  "This file was repackaged for Quake Injector compatibility. The original package was bundled with a depreciated version of Copper which has been removed to prevent conflicts.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "152db76fa2af981c5e4dbd823681f0431c9635df5156171e0e9ed5efea8e4b4f",
  "tags": [
   "author=Paul Lawitzki",

@@ -1,5 +1,6 @@
 {
  "bytes": 21299263,
+ "description": "Small industrial cr8 base level, an update of a previous version for <a href=\"c09ebe9e426e033a654fa622a47228d01788c0c4544e5029b4a2c65b9ce69368\">SM222 - Towers</a>. Uses SMP (already included). Custom music by the author. Map source is included.",
  "files": {
   "aes_lrod.txt": {
    "bytes": 3462,
@@ -306,6 +307,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "There's no custom start map; load manually via console: \"map aes_lrod\""
+ ],
  "sha256": "3b7ae78fc8ad4464650e9c5b3faed79fadec78008e81c37ad22f5c99091d8377",
  "tags": [
   "author=Aesopolis",

@@ -1,5 +1,6 @@
 {
  "bytes": 2394012,
+ "description": "Small Hexen2-textured 100 brush map. Comes with a custom skybox.",
  "files": {
   "gfx/": {
    "bytes": 0,
@@ -66,6 +67,9 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>."
+ ],
  "sha256": "7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c",
  "tags": [
   "author=ionous",

@@ -1,5 +1,6 @@
 {
  "bytes": 26744012,
+ "description": "Large medieval castle with several nightly courtyards. It runs on the Progs_dump mod (included) and comes with a few custom models, sounds, a skybox and a music track. The map and qc sources are included.",
  "files": {
   "jpqm9/README - jpqm9 - Greymoor.txt": {
    "bytes": 4137,
@@ -523,6 +524,10 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits + BSP2 support",
+  "An updated version is available <a href=\"https://www.quaddicted.com/filebase/jpqm9_upd.zip\">here</a>."
+ ],
  "sha256": "4b395b68083c794a4bc1fd2ca701d2392487df42b434b89fd791bb9437702be2",
  "tags": [
   "author=JPal",

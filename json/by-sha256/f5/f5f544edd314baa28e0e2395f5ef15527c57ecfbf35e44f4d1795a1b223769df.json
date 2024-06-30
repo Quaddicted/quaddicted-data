@@ -1,5 +1,6 @@
 {
  "bytes": 809861,
+ "description": "Small map created with protoype textures, consisting of various experimental 'challenges' in place of conventional gameplay.",
  "files": {
   "dope1.bsp": {
    "bytes": 1098280,
@@ -26,6 +27,10 @@
   "extract": "{base}/copper/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
+  "This file was repackaged for Quake Injector compatibility."
+ ],
  "sha256": "f5f544edd314baa28e0e2395f5ef15527c57ecfbf35e44f4d1795a1b223769df",
  "tags": [
   "author=Spootnik",

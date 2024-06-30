@@ -1,5 +1,6 @@
 {
  "bytes": 5644338,
+ "description": "Two small maps made over two days. Gameplay is experimental and focuses solely on exploration and finding the way to progress. There are no monsters and no serious threats to the player.",
  "files": {
   "explorejam1_readme.txt": {
    "bytes": 2366,
@@ -176,6 +177,9 @@
   "extract": "{base}/explorejam1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "The map sources are included. These maps require an engine with skybox support."
+ ],
  "sha256": "57a98c2ecff4ce8230824ff39c858212580443d15ac41e3ff8e8a865d0c2c98c",
  "tags": [
   "author=PuLSaR",

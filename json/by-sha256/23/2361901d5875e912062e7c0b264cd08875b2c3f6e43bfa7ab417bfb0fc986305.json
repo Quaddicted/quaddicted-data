@@ -1,5 +1,6 @@
 {
  "bytes": 9108464,
+ "description": "Large map with a castle in a dark forest. Comes with a custom skybox and the map source is included.",
  "files": {
   "bindingtower.txt": {
    "bytes": 1683,
@@ -66,6 +67,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits and BSP2 support."
+ ],
  "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "tags": [
   "author=Albert van Zyl",

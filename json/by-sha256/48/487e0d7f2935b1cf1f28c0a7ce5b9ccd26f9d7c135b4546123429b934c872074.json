@@ -1,5 +1,6 @@
 {
  "bytes": 575392,
+ "description": "Small level with custom textures.",
  "files": {
   "Off.txt": {
    "bytes": 4415,
@@ -16,6 +17,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map has to be played with Scourge of Armagon."
+ ],
  "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "tags": [
   "author=Chris Williams",

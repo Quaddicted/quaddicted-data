@@ -1,5 +1,6 @@
 {
  "bytes": 91611534,
+ "description": "Episode of five maps (plus start and end map) all centered around a Brutalist/concrete theme. The maps were originally created for <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a> before being repurposed. Built on Copper (included). Custom music also included.",
  "files": {
   "bv/": {
    "bytes": 0,
@@ -1023,6 +1024,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "a6c8789e985b110718aa249a9f53565c507ff57831498def218ea9939324d5f1",
  "tags": [
   "author=spootnik",

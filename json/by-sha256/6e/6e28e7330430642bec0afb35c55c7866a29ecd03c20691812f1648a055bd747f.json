@@ -1,5 +1,6 @@
 {
  "bytes": 123273603,
+ "description": "Map pack centered around a Jump Boots item that adds a double jump ability. There are five levels set in Mayan ruins in canyons and caves, a miliary bases, and a crumbling castle. It also features a few custom monsters from <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a>, new skyboxes and music tracks. The QC and map sources are included.",
  "files": {
   "jumpmod/": {
    "bytes": 0,
@@ -856,6 +857,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits."
+ ],
  "sha256": "6e28e7330430642bec0afb35c55c7866a29ecd03c20691812f1648a055bd747f",
  "tags": [
   "author=JCR",

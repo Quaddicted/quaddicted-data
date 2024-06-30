@@ -1,5 +1,6 @@
 {
  "bytes": 15929654,
+ "description": "Large industrial sci-fi map with some Doom and Makkon textures, a few hundred monsters, and lot of secrets. Difficulty settings are not implemented.",
  "files": {
   "asl_3/": {
    "bytes": 0,
@@ -21,6 +22,10 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map won't work in Quake Injector. It must be manually installed (move \"asl_3.bsp\" to the root of the id1/maps/ folder)",
+  "You'll need a modern engine / source port with increased limits."
+ ],
  "sha256": "30e2f5a3266a25e8767084325273083a18885d4ffd64006e1bf39871444d558c",
  "tags": [
   "author=Asl",

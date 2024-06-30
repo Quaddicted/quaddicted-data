@@ -1,5 +1,6 @@
 {
  "bytes": 2333088,
+ "description": "Seven small / medium classic maps made in 1998-2001 by Peter Bisseker, also known as Tiddles. A variety of themes (base, rogue brick, wizmet) in an early yet distinct style. All levels were previously released separately, but were intended to lead into each other. This release is a modern repackaging by historical map appreciator Greenwood, curating all of Tiddles' single player maps together into a convenient episode.",
  "files": {
   "tiddles/": {
    "bytes": 0,
@@ -106,6 +107,11 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "<a href=\"4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140\">Base X2</a> has been repurposed as a start map, and does not have built-in difficulty select. Make sure you manually set your skill level via console, e.g. \"skill 0\" is Easy.",
+  "The second-to-last map <a href=\"263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d\">Garrison</a> was supposed to lead into a last map called <a href=\"https://www.quaddicted.com/files/maps/multiplayer/rift.zip\">Rift</a> which ended up being a deathmatch map. So instead, Greenwood has swapped in <a href=\"8078f39b8b1094ff4b971636bd2b07f63e6680d293f7fa914c546c02d9833f38\">Jackboot Hero</a> as the last level (renamed it as \"rift.bsp\") which perhaps makes for a better ending anyway.",
+  "All the maps have co-op spawns / are co-op friendly."
+ ],
  "sha256": "267a37e94ba14fde746935535f31b9b0b0cb17324ae7b8a3345da59db4edde0b",
  "tags": [
   "author=Peter Bisseker (Tiddles)",

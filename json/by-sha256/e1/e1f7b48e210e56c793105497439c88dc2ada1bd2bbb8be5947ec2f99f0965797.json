@@ -1,5 +1,6 @@
 {
  "bytes": 11467125,
+ "description": "7-map partial conversion with excellent new weapons, monsters, graphics and effects, with a mixture of styles and a recurrant bloody theme.",
  "files": {
   "DEVKIT.TXT": {
    "bytes": 42484,
@@ -959,6 +960,9 @@
   "extract": "{base}/zer/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Additional files: <a href=\"http://www.quaddicted.com/reviews/zer11.html\">patch 1.1</a>, <a href=\"http://www.quaddicted.com/filebase/zerend_fix.zip\">zerend hotfix</a>, <a href=\"http://www.quaddicted.com/reviews/zerdem.html\">teaser demo</a>."
+ ],
  "sha256": "e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797",
  "tags": [
   "author=Nihilism Unlimited",

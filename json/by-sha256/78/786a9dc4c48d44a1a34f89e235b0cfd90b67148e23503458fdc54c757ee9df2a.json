@@ -1,5 +1,6 @@
 {
  "bytes": 50384104,
+ "description": "Large underwater cave temple map, an overhaul of the <a href=\"c8ab0db09c1e22f9f05b9f4923ab9ee1dac0dc513c592fedbd46556509be3c16\">previous version</a> with new encounters, secrets, and difficulty settings implemented. Textures by Makkon. Uses the extras_r5 progs by Khreathor (already included). Custom music is \"Falling through the Abyss\" by Kirk Osamayo. Map source is included.",
  "files": {
   "teuthis/": {
    "bytes": 0,
@@ -486,6 +487,10 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "There's no custom start map; load the map manually via console: \"map teuthis\"",
+  " Probably requires a modern engine / source port with increased limits."
+ ],
  "sha256": "786a9dc4c48d44a1a34f89e235b0cfd90b67148e23503458fdc54c757ee9df2a",
  "tags": [
   "author=zbidou72",

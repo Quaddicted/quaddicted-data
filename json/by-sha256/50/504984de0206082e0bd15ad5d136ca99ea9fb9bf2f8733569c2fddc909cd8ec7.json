@@ -1,5 +1,6 @@
 {
  "bytes": 270143840,
+ "description": "A collection of seven maps created over a period of two weeks for Arcane Dimensions (included) with the theme \"Decay and disrepair\".",
  "files": {
   "rotj/Rotting_Jam_README.txt": {
    "bytes": 819,
@@ -10315,6 +10316,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a modern engine / source port with increased limits."
+ ],
  "sha256": "504984de0206082e0bd15ad5d136ca99ea9fb9bf2f8733569c2fddc909cd8ec7",
  "tags": [
   "author=4LT",

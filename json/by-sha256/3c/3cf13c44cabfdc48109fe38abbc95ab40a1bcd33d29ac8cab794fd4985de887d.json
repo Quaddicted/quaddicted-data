@@ -1,5 +1,6 @@
 {
  "bytes": 30448488,
+ "description": "Pack of 10 maps connected by a start hub, often featuring a 90s aesthetic and unique or novelty theme/gameplay ideas.",
  "files": {
   "quotes/": {
    "bytes": 0,
@@ -491,6 +492,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "3cf13c44cabfdc48109fe38abbc95ab40a1bcd33d29ac8cab794fd4985de887d",
  "tags": [
   "author=66ppt99",

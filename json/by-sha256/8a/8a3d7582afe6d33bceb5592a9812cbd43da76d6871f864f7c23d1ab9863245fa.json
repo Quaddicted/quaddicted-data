@@ -1,5 +1,6 @@
 {
  "bytes": 8369855,
+ "description": "Classic singleplayer campaign made by Gotshun that was never finished or released: Two episodes with 16 levels of various themes including a start map and a secret map. The second episode lacks a conclusion/boss fight due to the unfinished nature of the pack, but it is perfectly playable.",
  "files": {
   "e1sl1.bsp": {
    "bytes": 1329708,
@@ -88,9 +89,12 @@
   }
  },
  "install": {
-  "extract": "{base}/hipnotic\\maps\\"
+  "extract": "{base}/hipnotic\u005Cmaps\u005C"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These levels require Scourge of Armagon."
+ ],
  "sha256": "8a3d7582afe6d33bceb5592a9812cbd43da76d6871f864f7c23d1ab9863245fa",
  "tags": [
   "author=Gotshun",

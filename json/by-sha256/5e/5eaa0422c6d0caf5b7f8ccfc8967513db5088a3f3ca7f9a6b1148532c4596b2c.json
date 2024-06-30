@@ -1,5 +1,6 @@
 {
  "bytes": 329573,
+ "description": "Small Metal space level.",
  "files": {
   "coagula2.bsp": {
    "bytes": 930780,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "5eaa0422c6d0caf5b7f8ccfc8967513db5088a3f3ca7f9a6b1148532c4596b2c",
  "tags": [
   "author=Tim Elek",

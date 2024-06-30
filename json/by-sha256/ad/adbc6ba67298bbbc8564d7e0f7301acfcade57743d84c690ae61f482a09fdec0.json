@@ -1,5 +1,6 @@
 {
  "bytes": 42822818,
+ "description": "Four (4) map episode with a variety of medieval / wizard / runic themes in a classic style, made for vanilla Quake. Some levels are rather non-linear and large. Map source is included.",
  "files": {
   "coldlight_1_2/": {
    "bytes": 0,
@@ -76,6 +77,11 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "<b>(This pack won't work in Quake Injector and must be manually installed.</b> Move all files to the root of id1/maps/)",
+  "<b>Warning: there is one known soft-lock bug on map #2 addy_cl_m2:</b> <i>\"do NOT go near the lift wall in the final arena room or you will get teleported back behind a locked door\" -Greenwood</i>",
+  "Note: run these levels with \"-protocol 999\" in the command line. You'll need a modern engine / source port with protocol 999 support."
+ ],
  "sha256": "adbc6ba67298bbbc8564d7e0f7301acfcade57743d84c690ae61f482a09fdec0",
  "tags": [
   "author=Addy / TheADrain",

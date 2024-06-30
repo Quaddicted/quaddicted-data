@@ -1,5 +1,6 @@
 {
  "bytes": 1534363,
+ "description": "Two large levels in Medieval/Metal/Wizard/Hipchurch style.",
  "files": {
   "Cryo.txt": {
    "bytes": 2488,
@@ -21,6 +22,9 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require Scourge of Armagon."
+ ],
  "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "tags": [
   "author=Dan Koppel",

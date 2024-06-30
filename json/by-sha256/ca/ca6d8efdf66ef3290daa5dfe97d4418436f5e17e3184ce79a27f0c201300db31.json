@@ -1,5 +1,6 @@
 {
  "bytes": 11671756,
+ "description": "Medium-sized blue desert castle. Map source is included.",
  "files": {
   "README - ad_mfk_dreamdem.txt": {
    "bytes": 3984,
@@ -91,6 +92,9 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.81</a> and a modern engine / source port with increased limits."
+ ],
  "sha256": "ca6d8efdf66ef3290daa5dfe97d4418436f5e17e3184ce79a27f0c201300db31",
  "tags": [
   "author=Mittens for Kittens",

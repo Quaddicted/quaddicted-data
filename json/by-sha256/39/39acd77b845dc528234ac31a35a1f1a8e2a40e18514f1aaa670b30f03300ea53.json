@@ -1,5 +1,6 @@
 {
  "bytes": 1356627,
+ "description": "Small dark semi-linear single-player map with minimalist brushwork and texturing. Map source is included.",
  "files": {
   "suzywarm.bsp": {
    "bytes": 2485912,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires a modern engine / source port with increased limits and colored lighting."
+ ],
  "sha256": "39acd77b845dc528234ac31a35a1f1a8e2a40e18514f1aaa670b30f03300ea53",
  "tags": [
   "author=Suzanne 'Trashbang' Will",

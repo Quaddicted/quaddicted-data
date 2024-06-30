@@ -1,5 +1,6 @@
 {
  "bytes": 157741520,
+ "description": "Three-map campaign set in and around a large nightly castle on the top of a mountain as well as a secluded graveyard with a chapel. It features modified and new enemies/bosses, weapons and misc. objects, and is based on the <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> devkit (included). The setting is inspired by Dark Souls and Bloodborne, among other things.",
  "files": {
   "ravenkeep/": {
    "bytes": 0,
@@ -9711,6 +9712,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits and BSP2 + protocol 999 support."
+ ],
  "sha256": "cf64625b4cd222a440a4fbb53766b6f1efc7e7b3fce38ca0b61e6835b9b55977",
  "tags": [
   "author=Redfield",

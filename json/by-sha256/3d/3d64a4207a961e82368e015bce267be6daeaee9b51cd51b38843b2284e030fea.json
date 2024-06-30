@@ -1,5 +1,6 @@
 {
  "bytes": 4290002,
+ "description": "Large white brick/medieval fortress. Comes with a custom skybox. The map source is included.",
  "files": {
   "README - jp1m2 - The Underkeep.txt": {
    "bytes": 2552,
@@ -71,6 +72,9 @@
   "extract": "{base}//"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
  "sha256": "3d64a4207a961e82368e015bce267be6daeaee9b51cd51b38843b2284e030fea",
  "tags": [
   "author=JPal",

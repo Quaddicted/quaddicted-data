@@ -1,5 +1,6 @@
 {
  "bytes": 4026515,
+ "description": "Very large, nonlinear base map with a unique twist: progression requires rocket jumping and the way to proceed is hidden, which essentially makes this a trick jump puzzle map (with respawning items).",
  "files": {
   "digs07.bsp": {
    "bytes": 7769243,
@@ -21,9 +22,13 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires an engine port with increased limits. This is an updated version with bugfixes/tweaks."
+ ],
  "sha256": "52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f",
  "tags": [
   "author=Digs",
+  "current_main_group_package=yes",
   "filename=digs07_v2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,7 +36,7 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=60996)",
   "map_size=large",
   "nonspecific_tag=unique",
-  "provides='digs07=1.0'",
+  "provides='digs07=2.0'",
   "release_date=2014-02-27",
   "release_group=digs07",
   "startmap=digs07",
@@ -40,7 +45,7 @@
   "theme=puzzles",
   "title=RJ Zone (Version 2)",
   "type=map",
-  "version=1.0",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

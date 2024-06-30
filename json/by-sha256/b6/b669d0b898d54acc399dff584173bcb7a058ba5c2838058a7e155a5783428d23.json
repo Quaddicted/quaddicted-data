@@ -1,5 +1,6 @@
 {
  "bytes": 43835868,
+ "description": "Huge lava fortress using custom textures by Makkon. It comes with a few new sounds, a custom skybox and a music track. The map source is included.",
  "files": {
   "ad_heresp1.txt": {
    "bytes": 2745,
@@ -181,6 +182,10 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.7</a> and a source port with increased limits + BSP2 support.",
+  "The new sound effects may not work on case-sensitive operating systems."
+ ],
  "sha256": "b669d0b898d54acc399dff584173bcb7a058ba5c2838058a7e155a5783428d23",
  "tags": [
   "author=Heresy",

@@ -1,5 +1,6 @@
 {
  "bytes": 2429455,
+ "description": "Medium-sized idbase industrial facility with tight corridors, glass windows and pipes. The map source is included.",
  "files": {
   "mfxsp8.bsp": {
    "bytes": 4283476,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires r_wateralpha to be set to 0.3 and r_waterwarp set to 0 in order to make the windows look correct.<br>This is the fixed second version of the zip."
+ ],
  "sha256": "b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2",
  "tags": [
   "author=mfx",

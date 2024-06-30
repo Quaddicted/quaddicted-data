@@ -1,5 +1,6 @@
 {
  "bytes": 16348852,
+ "description": "A huge military base in Half-Life/Doom style. The mission is to disable  a reactor within. Comes with a few ambient sounds and a custom skybox.",
  "files": {
   "gfx/env/dragonheart_bk.tga": {
    "bytes": 637657,
@@ -131,6 +132,10 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and a source port with increased limits.",
+  "A fully-vised version of the map is available <a href=\"d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726\">here</a> although requires this version to be installed first (custom sounds and skybox are not included in the fullvised version)"
+ ],
  "sha256": "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2",
  "tags": [
   "author=JPL",

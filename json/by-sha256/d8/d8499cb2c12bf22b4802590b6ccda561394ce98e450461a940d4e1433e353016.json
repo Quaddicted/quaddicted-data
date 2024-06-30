@@ -1,5 +1,6 @@
 {
  "bytes": 3478428,
+ "description": "Small Zerstörer-themed level.",
  "files": {
   "ad_shamsp4.txt": {
    "bytes": 1450,
@@ -66,6 +67,9 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
+ ],
  "sha256": "d8499cb2c12bf22b4802590b6ccda561394ce98e450461a940d4e1433e353016",
  "tags": [
   "author=Shambler",

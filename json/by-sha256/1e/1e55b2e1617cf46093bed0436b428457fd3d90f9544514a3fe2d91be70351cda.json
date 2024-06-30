@@ -1,5 +1,6 @@
 {
  "bytes": 9873064,
+ "description": "Large Knave-textured castle with libraries and a courtyard.",
  "files": {
   "ad_maktsp01.txt": {
    "bytes": 2402,
@@ -26,6 +27,9 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "The map source is included.This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
+ ],
  "sha256": "1e55b2e1617cf46093bed0436b428457fd3d90f9544514a3fe2d91be70351cda",
  "tags": [
   "author=Makt",

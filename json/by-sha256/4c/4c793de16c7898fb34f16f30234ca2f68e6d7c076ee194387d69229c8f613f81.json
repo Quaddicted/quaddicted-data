@@ -1,5 +1,6 @@
 {
  "bytes": 13599370,
+ "description": "Small base map using Speedbase textures. Comes with a new skybox and a custom music track.",
  "files": {
   "ad_beep1m1.txt": {
    "bytes": 2638,
@@ -86,6 +87,9 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.71</a> and a source port with increased limits + BSP2 support."
+ ],
  "sha256": "4c793de16c7898fb34f16f30234ca2f68e6d7c076ee194387d69229c8f613f81",
  "tags": [
   "author=Comrade Beep",

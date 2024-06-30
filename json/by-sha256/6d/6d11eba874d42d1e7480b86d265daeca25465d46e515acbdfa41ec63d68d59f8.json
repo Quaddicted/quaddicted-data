@@ -1,5 +1,6 @@
 {
  "bytes": 2462809,
+ "description": "Results for the third 100 brush mapping competition. Contains 4 Quake Single Player maps, all made using 100 brushes or less.",
  "files": {
   "100b3_quaddictedrepack.txt": {
    "bytes": 319,
@@ -121,6 +122,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "6d11eba874d42d1e7480b86d265daeca25465d46e515acbdfa41ec63d68d59f8",
  "tags": [
   "author=RPG",

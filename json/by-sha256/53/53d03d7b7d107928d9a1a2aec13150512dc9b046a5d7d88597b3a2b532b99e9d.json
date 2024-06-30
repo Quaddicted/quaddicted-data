@@ -1,5 +1,6 @@
 {
  "bytes": 781103,
+ "description": "Copper/metal level that kind of feels like a DOOM map.",
  "files": {
   "horrid.bsp": {
    "bytes": 1862888,
@@ -16,6 +17,9 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires Scourge of Armagon."
+ ],
  "sha256": "53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d",
  "tags": [
   "author=Noel Weer",

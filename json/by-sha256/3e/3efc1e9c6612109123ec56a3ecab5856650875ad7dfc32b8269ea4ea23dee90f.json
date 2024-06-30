@@ -1,5 +1,6 @@
 {
  "bytes": 448061,
+ "description": "Smallish, linear, plain red brick alley with a sewer beneath.",
  "files": {
   "darkcity.bsp": {
    "bytes": 1119068,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "3efc1e9c6612109123ec56a3ecab5856650875ad7dfc32b8269ea4ea23dee90f",
  "tags": [
   "author=Stuart Maine",

@@ -1,5 +1,6 @@
 {
  "bytes": 243498274,
+ "description": "Annual Christmas mapping event. This pack features 25 \"small\" maps in varying styles where all gameplay takes place within a 1024x1024x1024 space. It runs on <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> (included) and comes with some additional content like sounds, models, skyboxes and music tracks. The map sources are included.",
  "files": {
   "ad_v1_80_credits.txt": {
    "bytes": 15585,
@@ -10491,6 +10492,9 @@
   "extract": "{base}/xmasjam2021/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps require a source port with increased limits + BSP2 support."
+ ],
  "sha256": "9e4e3f1c9d2a4d0a8feafdc208e9f361e34879db46d83b503e8de307bd53e905",
  "tags": [
   "author=ChrisHolden",

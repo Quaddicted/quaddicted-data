@@ -1,5 +1,6 @@
 {
  "bytes": 1624103,
+ "description": "Small vertical medieval courtyard with a built-in skill selection room. The map source is included.",
  "files": {
   "ad_v1_42P2_readme.txt": {
    "bytes": 142037,
@@ -31,6 +32,9 @@
   "extract": "{base}/ad/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6\">Arcane Dimensions</a>."
+ ],
  "sha256": "e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239",
  "tags": [
   "author=Bloughsburgh",

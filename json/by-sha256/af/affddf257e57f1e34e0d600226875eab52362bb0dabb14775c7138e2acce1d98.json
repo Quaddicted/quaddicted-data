@@ -1,5 +1,6 @@
 {
  "bytes": 2101161,
+ "description": "Large 'techno-dungeon' with many corridors and ambushes.",
  "files": {
   "xl3/": {
    "bytes": 0,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Does not work with the Quake Injector."
+ ],
  "sha256": "affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98",
  "tags": [
   "author=xlarve",

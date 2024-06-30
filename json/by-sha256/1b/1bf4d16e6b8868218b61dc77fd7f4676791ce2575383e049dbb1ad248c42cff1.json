@@ -1,5 +1,6 @@
 {
  "bytes": 745537,
+ "description": "Small base level. The map source is included.",
  "files": {
   "FirstCoolMapRelease/": {
    "bytes": 0,
@@ -36,6 +37,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Cannot be run through the Quake Injector."
+ ],
  "sha256": "1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1",
  "tags": [
   "author=Lilith/raven33",

@@ -1,5 +1,6 @@
 {
  "bytes": 6569540,
+ "description": "Medieval themed map dressed in Makkon textures, with occasionally sparse health.",
  "files": {
   "thefortressofdoom.bsp": {
    "bytes": 14689552,
@@ -26,6 +27,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility."
+ ],
  "sha256": "2668ca81f1901853171b658fdbabd78d2b4a80feed84c0ceb2d0c64c3f8c1049",
  "tags": [
   "author=Davide Perdon",

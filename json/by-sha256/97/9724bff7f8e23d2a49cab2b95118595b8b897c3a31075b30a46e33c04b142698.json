@@ -1,5 +1,6 @@
 {
  "bytes": 18582346,
+ "description": "Four chainmaps by various authors, each one following a Honey, Zendar, Egyptian and Knave theme. The map sources are included.",
  "files": {
   "maps/": {
    "bytes": 0,
@@ -76,6 +77,9 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "These maps probably require a source port with increased limits."
+ ],
  "sha256": "9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698",
  "tags": [
   "author=Artistical",

@@ -1,5 +1,6 @@
 {
  "bytes": 151225304,
+ "description": "18 map pack from many authors (organised by Markie) and run in cooperation with Reload Magazine, with the goal of picking three entries to write about in an article. No specific style or theme. Contains a start map connecting all maps together. All maps based on the Copper mod (included).",
  "files": {
   "reload/": {
    "bytes": 0,
@@ -1066,6 +1067,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
  "sha256": "86f887964816d2231410655d07dd636331a805b94b465faf9186751a6b65cfae",
  "tags": [
   "author=Burnham",

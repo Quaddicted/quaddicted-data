@@ -1,5 +1,6 @@
 {
  "bytes": 6984482,
+ "description": "Large metal/runic industrial slime temple. The map source is included.",
  "files": {
   "putrid.bsp": {
    "bytes": 13329084,
@@ -31,6 +32,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "An updated (fullvis) version is available <a href=\"https://www.quaddicted.com/filebase/putrid_fullvis.zip\">here</a>."
+ ],
  "sha256": "86af313d274300aa35d967e85dba5f4c9a908bf5c72dc99680ab62f6fcd96c93",
  "tags": [
   "author=Bonn",

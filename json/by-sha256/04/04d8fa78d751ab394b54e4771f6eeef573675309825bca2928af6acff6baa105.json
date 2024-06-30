@@ -1,0 +1,48 @@
+{
+ "bytes": 4134905,
+ "description": "Large level inspired by E1M4-The Grisly Grotto, however with an abstract twist to its style, featuring somewhat cramped interiors, underwater and void sections. The map source is included.",
+ "files": {
+  "memgrot/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-06-04T15:49:58.000Z"
+  },
+  "memgrot/memgrot.bsp": {
+   "bytes": 9187452,
+   "sha256": "a28e7fa45f5547446ad4f3a5fefa0d6d527b4a8e8b22a4665720624a61834e67",
+   "timestamp": "2019-07-02T22:27:48.000Z"
+  },
+  "memgrot/memgrot.map": {
+   "bytes": 2796669,
+   "sha256": "e6d5660768274dca3a1a699b94997e07aff1ad8870f126e99517017a7d02603c",
+   "timestamp": "2019-06-26T14:20:54.000Z"
+  },
+  "memgrot/memgrot.txt": {
+   "bytes": 3652,
+   "sha256": "3cba1fdd6355c0204371b7d8bd42e2dfc283f55ed1e1ba65f06534b8b91583d4",
+   "timestamp": "2019-07-07T11:21:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits."
+ ],
+ "sha256": "04d8fa78d751ab394b54e4771f6eeef573675309825bca2928af6acff6baa105",
+ "tags": [
+  "author=Magnus Bj\u00f6rkbom",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=memgrot.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2019-07-07",
+  "startmap=memgrot",
+  "title=Memories of a Grotto",
+  "type=map"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/memgrot.zip"
+ ]
+}

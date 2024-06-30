@@ -1,5 +1,6 @@
 {
  "bytes": 30143441,
+ "description": "Short episode with custom start map + 3 small / medium sized levels of various themes, with custom weapons and monsters. Some textures from Doom, some custom music sampled from Nine Inch Nails. Map source is included.",
  "files": {
   "tdt100/": {
    "bytes": 0,
@@ -386,6 +387,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "Requires a modern engine / source port with increased limits."
+ ],
  "sha256": "bb1ced62053a83634cff6fe5bba864d133277472ff2b682bed85c29f2bba766f",
  "tags": [
   "author=imi74",

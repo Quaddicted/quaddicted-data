@@ -1,5 +1,6 @@
 {
  "bytes": 1189086,
+ "description": "Pretty big castle-like map in wizardish textures.",
  "files": {
   "onepair.txt": {
    "bytes": 1482,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "7b626f23a48bdcced5c223d6ca8c69667812bfb867521996f3c3bc8228662733",
  "tags": [
   "author=MadFox",

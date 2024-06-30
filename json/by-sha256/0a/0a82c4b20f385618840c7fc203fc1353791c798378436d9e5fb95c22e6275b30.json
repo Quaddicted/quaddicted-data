@@ -1,5 +1,6 @@
 {
  "bytes": 887405,
+ "description": "A medium to large wizard pyramid. Contains (optional) laser cannon mod and a somewhat neat looking start map.",
  "files": {
   "sul01/": {
    "bytes": 0,
@@ -51,6 +52,9 @@
   "extract": "{base}/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
+ ],
  "sha256": "0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30",
  "tags": [
   "author=Sul",

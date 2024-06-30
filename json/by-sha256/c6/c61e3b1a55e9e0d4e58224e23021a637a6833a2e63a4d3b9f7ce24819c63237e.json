@@ -1,5 +1,6 @@
 {
  "bytes": 1937701,
+ "description": "Small industrial Rubicon-style base map with a few modified monsters. Also includes an updated version of <a href=\"527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc\">lthsp1</a>.",
  "files": {
   "lthsp1a.txt": {
    "bytes": 2363,
@@ -86,6 +87,9 @@
   "extract": "{base}/lthsp2/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map has a sequel, <a href=\"7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16\">lthsp3 (\"Cruel Intentions\")</a>, which is designed to be played directly after lthsp2."
+ ],
  "sha256": "c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e",
  "tags": [
   "author=The Lieutenant",

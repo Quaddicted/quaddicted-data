@@ -1,5 +1,6 @@
 {
  "bytes": 1420074,
+ "description": "Detailed recreation of a gothic stone church (\"from somewhere in Canada\") with no monsters or gameplay, intended more as a mapping exercise / study rather than a playable level.",
  "files": {
   "church.jpg": {
    "bytes": 130271,
@@ -21,6 +22,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits."
+ ],
  "sha256": "332d0c93a61451337abd896ca132f5d992bbed567e316f12b9bfe253851e9e2f",
  "tags": [
   "author=Gemein",
