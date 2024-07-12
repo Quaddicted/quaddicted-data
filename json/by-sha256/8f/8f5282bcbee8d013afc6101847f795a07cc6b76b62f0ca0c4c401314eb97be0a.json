@@ -1,0 +1,46 @@
+{
+ "bytes": 2106970,
+ "description": "Pack of two small maps by a new mapper, both in different  variations of the wizard/medieval theme.",
+ "files": {
+  "SoulRunnersQuakeMaps.txt": {
+   "bytes": 1621,
+   "sha256": "5db998062ccc0c57dac0e9d8263408a2dfb30abc656a6e64744c6dcd43b0012b",
+   "timestamp": "2024-06-22T02:21:06.000Z"
+  },
+  "soulrunner_map01.bsp": {
+   "bytes": 3998784,
+   "sha256": "8dd5cd70d91ae447f12896ef3cccce8ba495e2789e7904f0fbdd6249f00a47f7",
+   "timestamp": "2024-06-20T16:36:40.000Z"
+  },
+  "soulrunner_return.bsp": {
+   "bytes": 909300,
+   "sha256": "061174b318d21131d04633b907dd70c2b609c88b2fc2323d08e99ca11a7ff307",
+   "timestamp": "2024-06-22T02:04:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This file was repackaged for Quake Injector compatibility.",
+  "The BSP files have been renamed with 'soulrunner_' to prevent conflicts with previous releases in the archive."
+ ],
+ "sha256": "8f5282bcbee8d013afc6101847f795a07cc6b76b62f0ca0c4c401314eb97be0a",
+ "tags": [
+  "author=SoulRunner",
+  "filename=soulrunnerquakemaps.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[ModDB page](https://www.slipseer.com/index.php?resources/soul-runners-quake-maps.366/)",
+  "release_date=2024-06-22",
+  "startmap=soulrunner_map01",
+  "title=Soul Runner's Quake Maps",
+  "type=map",
+  "type=mod",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/soulrunnerquakemaps.zip"
+ ]
+}
