@@ -1,0 +1,41 @@
+{
+ "bytes": 1440827,
+ "description": "Smal, confined map with an original bright and airy theme and action-packed gameplay.",
+ "files": {
+  "tc_cemix.bsp": {
+   "bytes": 2361156,
+   "sha256": "eb27b7e61dce7ab28d0062117ba48eac3de539c7f87ee5e097d3eb017dafce99",
+   "timestamp": "2024-07-11T20:02:08.000Z"
+  },
+  "tc_cemix.lit": {
+   "bytes": 672512,
+   "sha256": "fa0d9817508b272583f31f0c596f2dca654f8b3520188f9046cce858b51b60f6",
+   "timestamp": "2024-07-11T20:02:08.000Z"
+  },
+  "tc_cemix.txt": {
+   "bytes": 2288,
+   "sha256": "ca79cdd9e7bda9de26be6b243e16f5ad388e25551bdb8634419182203b894368",
+   "timestamp": "2024-07-11T20:08:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e5cb36d0adf69c587523f0f1706c6cd01602cd41e690adfb9c998691966fa0e0",
+ "tags": [
+  "author=Carter",
+  "filename=tc_cemix.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[ModDB page](https://www.slipseer.com/index.php?resources/1024-cement-mixer.370/)",
+  "release_date=2024-07-11",
+  "startmap=tc_cemix",
+  "title=1024 Cement Mixer",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/tc_cemix.zip"
+ ]
+}

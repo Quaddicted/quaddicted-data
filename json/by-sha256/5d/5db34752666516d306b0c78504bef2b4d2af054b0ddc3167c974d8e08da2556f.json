@@ -947,12 +947,15 @@
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/re-mobilize-jam-1-re-collections.275/)",
+  "provides='remobilize=1.1J'",
   "release_date=2023-10-08",
+  "release_group=remobilize",
   "startmap=start",
   "title=Re:Mobilize Jam 1: Re:Collections",
   "type=episode",
   "type=mapjam",
-  "type=mod"
+  "type=mod",
+  "version=1.1J"
  ],
  "urls": [
   "https://x901.net/quaddictedfiles/rmj1.zip"
