@@ -1,0 +1,60 @@
+{
+ "bytes": 4737339,
+ "description": "The original Quake episode 1 maps fused into one, with a new layout encouraging nonlinearity.",
+ "files": {
+  "e1.map": {
+   "bytes": 6690710,
+   "sha256": "bb54f5ddab98f25818b575f088aa9318e7ce27e62d08c5e3ea1e7e73ca579364",
+   "timestamp": "2024-06-20T22:31:26.000Z"
+  },
+  "e1.txt": {
+   "bytes": 5245,
+   "sha256": "a2ee488c4c531ffe419fe84e7fcdf2c13d9a2339e966bfe2f51ea9a35c46ae8c",
+   "timestamp": "2024-06-20T22:37:50.000Z"
+  },
+  "pak0.pak": {
+   "bytes": 11592708,
+   "files": {
+    "maps/e1.bsp": {
+     "bytes": 11174880,
+     "sha256": "005c2bb880294ce8d054c1e93f4ee9d9c215ecf1e0eeaa6728c053e3dd45c0b3"
+    },
+    "progs.dat": {
+     "bytes": 417688,
+     "sha256": "ec35dfdbf01285be58a5fbe9b487fee73c499fa8e5d6ed6e4ee4a2c7fa115011"
+    }
+   },
+   "sha256": "4ea053b4116500253f3c9ce790a5bdadbbfd855881b519d9b016d0cb7ac528dd",
+   "timestamp": "2024-06-20T22:39:18.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/e1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
+ "sha256": "12f23892afa818ab5b10ad0c76ee2e9304196e74415f49345e0cfba0504826ed",
+ "tags": [
+  "author=American McGee",
+  "author=John Romero",
+  "author=Tim Willits",
+  "author=rj",
+  "commandline=-game e1",
+  "exceeds_quake_limits=yes",
+  "filename=e1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/dimension-of-the-fused.365/)",
+  "release_date=2024-06-20",
+  "startmap=e1",
+  "title=Dimension of the Fused",
+  "type=map",
+  "type=mod",
+  "zipbasedir=e1/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/e1.zip"
+ ]
+}

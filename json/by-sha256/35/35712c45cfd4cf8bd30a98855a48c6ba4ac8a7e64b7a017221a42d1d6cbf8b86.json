@@ -1,21 +1,21 @@
 {
- "bytes": 19162210,
- "description": "Medium-large grungy metal sci-fi map with platforming aspects. Textures from Quake / Quake 3 / the author. Custom music by the author. Map source is included.",
+ "bytes": 19144245,
+ "description": "Small-scale map in Q3A textures, with platforming sections and lots of visual detail.",
  "files": {
   "maps/nkstrq1m1.bsp": {
-   "bytes": 19177800,
-   "sha256": "51075bce227fd61a43df2d89f22d4f5f150f006a6be1372e251142c381b84b26",
-   "timestamp": "2022-10-24T19:52:54.000Z"
+   "bytes": 19113996,
+   "sha256": "ccbb0bc8ee8a5458712fc599baacb9bea3b5fde84e38c649ca1b2aeaccca38f9",
+   "timestamp": "2024-06-21T12:17:12.000Z"
   },
   "maps/nkstrq1m1.lit": {
-   "bytes": 4421870,
-   "sha256": "ef2195207c0eb24bcc7b12a3a5fca97d94cfff23d26ed8d28f0f5747abac7fb3",
-   "timestamp": "2022-10-24T19:52:54.000Z"
+   "bytes": 4424243,
+   "sha256": "cc79847bff2840d9b7d1fe5bc341ab9dd126e29f1fd1f53efcce6e9e9f90fb28",
+   "timestamp": "2024-06-21T12:17:12.000Z"
   },
   "maps/nkstrq1m1.map": {
-   "bytes": 19537912,
-   "sha256": "a3ca91f07a9db17416e07e1cfd2523dc8a569fe1e23f29b6bcc1d14f10a3f09c",
-   "timestamp": "2022-10-24T19:50:54.000Z"
+   "bytes": 19546448,
+   "sha256": "f52090bf30f9389f7beccebe3d9be2cc77ae3a8039641858d647c860f53745f5",
+   "timestamp": "2024-06-21T12:15:44.000Z"
   },
   "music/track120.ogg": {
    "bytes": 6070583,
@@ -23,9 +23,9 @@
    "timestamp": "2022-10-14T18:11:16.000Z"
   },
   "nkstrq1m1.txt": {
-   "bytes": 1968,
-   "sha256": "39a31a15068bf455bf45645c5c49b9b5db568511c6bf7357690b7d387ed6baa7",
-   "timestamp": "2022-10-24T19:53:46.000Z"
+   "bytes": 2596,
+   "sha256": "029817af980907fb3a8cac94a49fa40f666ba6bad8497ed418a6d598e35fcdc0",
+   "timestamp": "2024-06-21T11:44:10.000Z"
   },
   "sound/nickster/alienbugs1_11k.wav": {
    "bytes": 645280,
@@ -78,42 +78,32 @@
  },
  "json_version": "2023.11.06-23.20",
  "notes": [
-  "Requires <a href=\"484334d9305c5097b8b735bd1b91d943753c5fd77d65401b519b84b93c00f82c\">Copper v1.19+</a> (NOT included).",
-  "Probably requires a modern engine / source port with increased limits."
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
+  "May require a source port with increased limits / BSP2 support."
  ],
- "sha256": "8398b08a58d6381e003264163e780f8a6e86ff3243ad52b628bbe0cac0cb8ec3",
+ "sha256": "35712c45cfd4cf8bd30a98855a48c6ba4ac8a7e64b7a017221a42d1d6cbf8b86",
  "tags": [
-  "author=nickster",
+  "author=Nickster",
   "commandline=-game copper",
-  "dependency=copper_v1_19",
-  "depends=('copper>=1.19')",
+  "current_main_group_package=yes",
+  "dependency=copper_v1_30",
+  "depends=('copper=1.30')",
   "exceeds_quake_limits=yes",
-  "filename=nkstrq1m1.zip",
+  "filename=nkstrq1m1_v1.1.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "link=[Author's Bandcamp page](https://jupiterskydive.bandcamp.com/)",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/smells-like-grandmas.141/)",
-  "map_size=large",
-  "map_size=medium",
   "mod=copper",
-  "music=custom",
-  "nonspecific_tag=platforming",
-  "nonspecific_tag=sci-fi",
-  "provides='nkstrq1m1=1.0'",
-  "release_date=2022-10-24",
+  "provides='nkstrq1m1=1.1'",
+  "release_date=2024-06-21",
   "release_group=nkstrq1m1",
-  "source=included",
   "startmap=nkstrq1m1",
-  "theme=base",
-  "theme=metal",
-  "theme=quake 3",
-  "title=Smells Like Grandma's",
-  "type=mod",
-  "version=1.0",
+  "title=Smells Like Grandma's (v1.1)",
+  "type=map",
+  "version=1.1",
   "zipbasedir=copper/"
  ],
  "urls": [
-  "https://www.quaddicted.com/filebase/nkstrq1m1.zip",
-  "https://www.quaddicted.com/files/by-sha256/83/8398b08a58d6381e003264163e780f8a6e86ff3243ad52b628bbe0cac0cb8ec3/nkstrq1m1.zip"
+  "https://x901.net/quaddictedfiles/nkstrq1m1_v1.1.zip"
  ]
 }
