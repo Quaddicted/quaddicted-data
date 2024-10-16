@@ -1,0 +1,41 @@
+{
+ "bytes": 3625274,
+ "description": "Small map with abstract designs and mainly outdoor settings, with nightmare difficulty automatically enabled. The author's first map.",
+ "files": {
+  "rcavup.bsp": {
+   "bytes": 9549632,
+   "sha256": "ac7687987322130a32f0d313cfb01c8c2be62b883bb4f9c97d2a632d525522ba",
+   "timestamp": "2024-07-24T21:02:10.000Z"
+  },
+  "rcavup.pts": {
+   "bytes": 370377,
+   "sha256": "6a2e63156c74760afa5c3e171a7dcec7785d32513ecbd9fc6dc28a8a5bc0999d",
+   "timestamp": "2024-07-24T21:01:34.000Z"
+  },
+  "rcavup.txt": {
+   "bytes": 750,
+   "sha256": "a03b0f2b30e5165486cba4c0c8760f5ccd6d5ee708b4fc88f3a6adfe16451d15",
+   "timestamp": "2024-07-24T21:06:52.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "bf58cae9e7863f4de259d46cc91bad8fa5256d2489113f65826e67fa4e485372",
+ "tags": [
+  "author=GraveyardKaiser",
+  "filename=recavup.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/rotten-caverns-my-first-map-skill-selector-added-some-sealing-fixes.374/)",
+  "release_date=2024-07-24",
+  "startmap=rcavup",
+  "title=Rotten Caverns",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/recavup.zip"
+ ]
+}

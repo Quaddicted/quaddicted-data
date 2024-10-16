@@ -1,0 +1,48 @@
+{
+ "bytes": 703767,
+ "description": "Metal map set in a mountain crypt. The author's first finished map.",
+ "files": {
+  "hiddencrypt.bsp": {
+   "bytes": 1104268,
+   "sha256": "e39178bf4c1002eaed131961ea21b481d1e9d60c7a7f79e81feb750bcec0f5e1",
+   "timestamp": "2024-07-29T17:30:20.000Z"
+  },
+  "hiddencrypt.lit": {
+   "bytes": 410075,
+   "sha256": "f05176652092bc3709b9ed5422d7608dd22452a3832aa55cbc21414bc2657f28",
+   "timestamp": "2024-07-29T17:30:20.000Z"
+  },
+  "hiddencrypt.txt": {
+   "bytes": 1298,
+   "sha256": "91cdd9c8f073455868ceb5608e0851f7da76448a4fccf869b96ef70c4e2ac0e5",
+   "timestamp": "2024-07-30T01:01:14.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
+ ],
+ "sha256": "9a9b793d4e574e1c301173ae9e842cfda791cdaa02234a6def193609bf13be19",
+ "tags": [
+  "author=lumisynth",
+  "commandline=-game copper",
+  "dependency=copper_v1_30",
+  "depends=('copper=1.30')",
+  "filename=hiddencrypt_1.2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/hidden-cursed-crypt.376/)",
+  "mod=copper",
+  "release_date=2024-07-29",
+  "startmap=hiddencrypt",
+  "title=Hidden Cursed Crypt",
+  "type=map",
+  "zipbasedir=copper/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/hiddencrypt_1.2.zip"
+ ]
+}

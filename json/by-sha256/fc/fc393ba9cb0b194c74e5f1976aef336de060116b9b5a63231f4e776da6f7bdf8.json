@@ -1,0 +1,41 @@
+{
+ "bytes": 1085304,
+ "description": "Small, abstract-themed wizard/castle map.",
+ "files": {
+  "anawiz.bsp": {
+   "bytes": 2735212,
+   "sha256": "d4ad729fbb1509d1298a0e6f5c142ee8b70edd026f55f66159b8e491e570210f",
+   "timestamp": "2024-08-18T16:00:06.000Z"
+  },
+  "anawiz.pts": {
+   "bytes": 63646,
+   "sha256": "af1e4d1cafd0629554c4d955b3fe0dbf4b665d58c351a116bf4230191cfc77d3",
+   "timestamp": "2024-08-13T19:19:56.000Z"
+  },
+  "anawiz.txt": {
+   "bytes": 400,
+   "sha256": "0ed2446481954c6264e82467cef99188ec872bb1e8a58225c84ee5d94d2b931a",
+   "timestamp": "2024-08-18T16:03:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "fc393ba9cb0b194c74e5f1976aef336de060116b9b5a63231f4e776da6f7bdf8",
+ "tags": [
+  "author=GraveyardKaiser",
+  "filename=anawiz.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/anatomy-of-a-wizard.388/)",
+  "release_date=2024-08-18",
+  "startmap=anawiz",
+  "title=Anatomy of a Wizard",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/anawiz.zip"
+ ]
+}
