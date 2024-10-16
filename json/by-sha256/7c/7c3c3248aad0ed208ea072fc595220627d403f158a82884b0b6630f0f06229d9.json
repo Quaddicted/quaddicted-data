@@ -1,0 +1,513 @@
+{
+ "bytes": 28206782,
+ "description": "Pack of 24 maps in a retro e2/metal/wizard style, connected by a start map. The first Quake jam hosted by Quake 2's Map Center discord, featuring entries from many first-time Quake mappers alongside a few veterans.",
+ "files": {
+  "mc_retrojam1/bots/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-08-06T19:38:20.000Z"
+  },
+  "mc_retrojam1/bots/navigation/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-08-06T19:38:20.000Z"
+  },
+  "mc_retrojam1/bots/navigation/mc_rj1_cc.nav": {
+   "bytes": 6344,
+   "sha256": "5dc5570aacea20e8863f9f4b2373bcd8ad3f91f7d6e71f425a5fb3473c5c1e0d",
+   "timestamp": "2024-08-06T15:40:26.000Z"
+  },
+  "mc_retrojam1/bots/navigation/mc_rj1_dumptruck.nav": {
+   "bytes": 6224,
+   "sha256": "371db4386d42dade1ba6d117131aa737485d1a7bc258f68a883f0d89b8e41825",
+   "timestamp": "2024-08-06T14:57:44.000Z"
+  },
+  "mc_retrojam1/bots/navigation/mc_rj1_iyago.nav": {
+   "bytes": 12136,
+   "sha256": "83cfa6036c16d5e2260a6cfefb0c3804eaa114593bddb049d6f50aa402ed116a",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/bots/navigation/mc_rj1_niccolicious.nav": {
+   "bytes": 3640,
+   "sha256": "0c7459270bd84abeafd234d8b5454800c4f1b75f6827f12a209bb8e5310662c9",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/bots/navigation/mc_rj1_sock.nav": {
+   "bytes": 3906,
+   "sha256": "511bca6fbc66af71d722558ce85903a1ecf63c18878978f61d9f0b51380d0df3",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/bots/navigation/mc_rj1_thundergoose.nav": {
+   "bytes": 4520,
+   "sha256": "b42b75c2de3e16c660b9cffce9ed3b9abce97689eb8c6641771c6ff25c13c62d",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/descript.ion": {
+   "bytes": 23,
+   "sha256": "14162b1a3c46ce2628215363bf0e4e170dd9dd98a4c4c12dfe7002fec1a8e4b1",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-08-06T19:38:20.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_atom1k.txt": {
+   "bytes": 1298,
+   "sha256": "1ff3ffb8ac8f62c68bac5d9834393d933f2cbc767f0b84fcec626162715c6c8d",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_cc.txt": {
+   "bytes": 1434,
+   "sha256": "d15203bcb4d1bed27cebf24953708c41e64a9e0cab73fc6ad976bb8eb9d6c61e",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_chnuckierdbeer.txt": {
+   "bytes": 84,
+   "sha256": "5f7fb9ecf0a89c96b33a6acaf680ef780ba9b674c10ed9c66d8e8d7bbc555ed8",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_chuma.txt": {
+   "bytes": 2339,
+   "sha256": "99ece7383c4758c85049ba8a630fb7bec1ca783083748ca7f546a71d8c6923f8",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_colossus.txt": {
+   "bytes": 1527,
+   "sha256": "1eef89f5e8e4e56cee0c2d2c4fc0ec69dd319e8c6a1aa07c8731a24922dae24f",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_detrohogga.txt": {
+   "bytes": 1934,
+   "sha256": "3221448829ceb7823424159983141cee8d92383eef96eff23c576452a229a8f2",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_deviltower.txt": {
+   "bytes": 3067,
+   "sha256": "64c874e8ffa5cd34826f2ae3487be447a1e3f5d0f85c55d93755c568a3174068",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_dumptruck.txt": {
+   "bytes": 599,
+   "sha256": "40a495265df559b95851b354136af7aaa669c26330c662df3e04bf4f8a97c04b",
+   "timestamp": "2024-08-06T15:54:06.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_fix.txt": {
+   "bytes": 357,
+   "sha256": "6e0a78261ca271ffdd632731970c2fa7be377dea39d3b5737ee55b5588233a4f",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_indigo.txt": {
+   "bytes": 701,
+   "sha256": "7f2ad4791c8e1efc047b50765987ab75c3e44f4a4abc40eae0d47fb90206f175",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_ioridyson.txt": {
+   "bytes": 516,
+   "sha256": "42887a396a472658090aee8995e30838599766f803ab1d0ee74ca9a7d1f5a9b2",
+   "timestamp": "2024-08-06T15:34:22.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_iyago.txt": {
+   "bytes": 3088,
+   "sha256": "327524510a51a39cb8c7ed0af8cacdf253c860b44737bbe5f4caa621d05de2b4",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_jerry_readme.txt": {
+   "bytes": 646,
+   "sha256": "b37b3b3320adc71f3d9b57147b66be41263c3c5c6a429c8dba0aab13a35756da",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_kdmg_readme.txt": {
+   "bytes": 1948,
+   "sha256": "2872607b1128982820fa10946d888a62cf8784d3259d863e5ed8ee7d84b6edfa",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_knefarious.txt": {
+   "bytes": 244,
+   "sha256": "1b7d9c8bec8b61ca708670e22211ab6d75b45b0b04ca5bbf6cf158bcff87aacb",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_niccolicious.txt": {
+   "bytes": 2230,
+   "sha256": "d9596dab046843f78f0ad4bf838becbdb56a50da8c4b34723098118e3af9575a",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_scump.txt": {
+   "bytes": 1919,
+   "sha256": "b70adce76b3f83912281bed6e7791b9699e163bbac9b99ac14c73ab62d87ff00",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_shades.txt": {
+   "bytes": 1843,
+   "sha256": "e232f14ee989e85123791c7b61aac22845621cdd10fe4e8400d88e30982b74ef",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_simonn.txt": {
+   "bytes": 1797,
+   "sha256": "539b888b24b0d0adfb8fd48e7b4b1cac6e171915b8b90e73b061ae513676c5fd",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_sixsik6.txt": {
+   "bytes": 2094,
+   "sha256": "27f0729ea1a7e8d84ded23a780c9163df97820e25c6d98ef3ed3404b2a6db145",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_thelokk.txt": {
+   "bytes": 1980,
+   "sha256": "b02ef07382e32790f40ea2f7234f36cecc9fd8830d650ad39d66329ad5ae3b13",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/docs/mc_rj1_thundergoose.txt": {
+   "bytes": 1353,
+   "sha256": "b95cdaf9832c7897362d773b89fe26b0d28f263d80bbcf0dc08f6f984562e0be",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-08-07T00:11:12.000Z"
+  },
+  "mc_retrojam1/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "7eab535261fc6641bc3d549bf53d4afaeaffddf56c64e88673d5360ef5ffca6d",
+   "timestamp": "2024-08-07T00:10:50.000Z"
+  },
+  "mc_retrojam1/mapdb.json": {
+   "bytes": 6953,
+   "sha256": "ca3a29589ed9a24ca2df324cc2cd77939ceed250f685794d51ebca54181dd51a",
+   "timestamp": "2024-08-06T15:43:30.000Z"
+  },
+  "mc_retrojam1/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-08-06T23:50:16.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_atom1k.bsp": {
+   "bytes": 930634,
+   "sha256": "e0c91ce8d548e46bd71db869ae4acf9616b6a030558220482acd51ae88fff286",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_cc.bsp": {
+   "bytes": 2452164,
+   "sha256": "702de68772866c1bf9154b26d75029fb18a45f8aae50bb8d96350fb5a51fcec6",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_chnuckierdbeer.bsp": {
+   "bytes": 2791112,
+   "sha256": "3a42ee2c628fe079ab44da4c9a10c7d23e71a283b19de77cdb72199b65fe5ab9",
+   "timestamp": "2024-08-05T15:30:28.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_chuma.bsp": {
+   "bytes": 1280480,
+   "sha256": "e06a6c0dc256ecb5733d6f5592de64552ba5d8e5c74b34c4e77994ce314b569f",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_colossus.bsp": {
+   "bytes": 2229364,
+   "sha256": "cbbb550102d3b3236a09eeeda97f5b90a1fef42ce3f8ee6f1bae4e164ba2c563",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_detrohogga.bsp": {
+   "bytes": 2352096,
+   "sha256": "6da63f7cd16824484bdacf269f820fb70d34399fe3e58f31ae9d82a5fa099b33",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_detrohogga.lit": {
+   "bytes": 1351940,
+   "sha256": "1dcd356bc37de54157b8433042b15d8627079a79cf2fb8f0acc36de6c58fe868",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_deviltower.bsp": {
+   "bytes": 2483112,
+   "sha256": "f8a7bead68285d88633de68f34351639497cdb2453be30ec83e5d9627afc5cf2",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_dumptruck.bsp": {
+   "bytes": 1368392,
+   "sha256": "9315cfb3f185b7bce10d40f2056ff1cd9d8acc4835a0af2aa6158f80b9578f2f",
+   "timestamp": "2024-08-06T14:20:04.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_fix.bsp": {
+   "bytes": 1102044,
+   "sha256": "540249b8a89e2b80e9e1ccda343dc682ff7dcf68ba5a986dab5894775756a404",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_indigo.bsp": {
+   "bytes": 1658524,
+   "sha256": "b69a6862e783536ad41f25e0b165d0639848448799f6a3d8a5ff386cabef749f",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_ioridyson.bsp": {
+   "bytes": 3703944,
+   "sha256": "286a0d8af3bed6a53fa8d4be9256808bd28f3b75ad16fa7c1b1e707fdcd976ed",
+   "timestamp": "2024-08-06T15:31:12.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_ioridyson.lit": {
+   "bytes": 2025752,
+   "sha256": "0b2e9f63c25ed6e798f7ca5f94e160016b10e9dea956cde620dd65eb44054d6d",
+   "timestamp": "2024-08-06T15:31:12.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_iyago.bsp": {
+   "bytes": 1654400,
+   "sha256": "fd3ef97089c699c4fecfed79b2394c25ce24a9bc72f157dc97e5e6dbd5ac7ef5",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_jerry.bsp": {
+   "bytes": 1547692,
+   "sha256": "494b66d614012e073689126df2c5afa52fe2226466e0f24d0f2f79223a2e6b09",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_kdmg.bsp": {
+   "bytes": 1253016,
+   "sha256": "c57722f97209e91b98903e798a5ed59eeeeb33a061a5b7607cc5633c740f531b",
+   "timestamp": "2024-08-06T23:44:56.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_knefarious.bsp": {
+   "bytes": 3984152,
+   "sha256": "5e7e3dd14f55f400a141dd8e314a4cb3a0f8aa0373e2906f796c9d63eeabb9e7",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_niccolicious.bsp": {
+   "bytes": 3109204,
+   "sha256": "661fc934b261aab4468bc29759c439125297123f587589afcd6be57ac47a97da",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_niccolicious.lit": {
+   "bytes": 1849340,
+   "sha256": "51b8f2036537fbc803a85ce9592cbc53629e56f23c3feb41b485995fe8f0d7ec",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_scump.bsp": {
+   "bytes": 2016812,
+   "sha256": "4bdfb332ce0a97934f7c99c36f48ef5e6ff3a8ca8d3683b4b20aa4eea490dfe7",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_shades.bsp": {
+   "bytes": 2150756,
+   "sha256": "12f1d9aa76ff2a485b4cd7b9acf5c966e0476ec44892d0847c3156327e244c36",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_shades.lit": {
+   "bytes": 700202,
+   "sha256": "9cd0f056dfab5e818e61052374687086f28d1883a403564f5a874299ac62a600",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_simonn.bsp": {
+   "bytes": 1183680,
+   "sha256": "2191f6d61003db43c048fdf859f1d0cbd77924d51ea4f53a91df317fbea04d63",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_sixsik6.bsp": {
+   "bytes": 1943252,
+   "sha256": "12b686f9eb6fa0e813da44471847cf2357d66e93c5513adb04f8cfb29b362057",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_sixsik6.lit": {
+   "bytes": 763868,
+   "sha256": "03e21e3cf78c89ac92db43acaeea76dfcb4292051cea9aff0a806f28f91cf9a3",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_sock.bsp": {
+   "bytes": 812396,
+   "sha256": "cdef95b76dbb4faae2a8921c301095899c07f6056044598480637b9017efc814",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_stormcatcher77.bsp": {
+   "bytes": 1499400,
+   "sha256": "1234283e4768f34e9e3580fcbf883ad59f1af3c269c1a53e278bb460180974f9",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_thelokk.bsp": {
+   "bytes": 663468,
+   "sha256": "ae903ae84efa2f81af4744fd2d33e13721b610bdf78a55a21c8c0a6b66bfb271",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_thundergoose.bsp": {
+   "bytes": 3846652,
+   "sha256": "0862eb9724c810bc320fe5ddb08599c641e0d51dfcbd388c3b4acf650ea8e9ab",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/mc_rj1_thundergoose.lit": {
+   "bytes": 2408654,
+   "sha256": "3b41d9b37a46b777f644f8210e0c3fc3882e1d220dcdc7d92c5bccc9dd3b05dd",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/maps/start.bsp": {
+   "bytes": 1110720,
+   "sha256": "bfc9200c1fc8d6376c4f69ba83714165f586825a310ee943cbf0d6d54dc1bd23",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/mc_retrojam1_readme.txt": {
+   "bytes": 7171,
+   "sha256": "6c7e08735ac55a63af6b3f70336a884f9dc247993d42e3c8712e0a26c739823b",
+   "timestamp": "2024-08-07T00:22:06.000Z"
+  },
+  "mc_retrojam1/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-08-06T23:49:52.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_chnuckierdbeer+dm.map": {
+   "bytes": 1796143,
+   "sha256": "3abb63b016439f4b43ef1adaa5141290e812d91a4ef22c17262b02002f370d3e",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_chnuckierdbeer.map": {
+   "bytes": 1774566,
+   "sha256": "2c256e11bad4b5a98e094904bc14d94f73d601005f20c5f10a7f91e29a8c32d0",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_chuma.map": {
+   "bytes": 914635,
+   "sha256": "6121539f9b7d1d35916e303955141b467d76f78e371cba0ad8a9149b783f8fb3",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_colossus.map": {
+   "bytes": 2601483,
+   "sha256": "9ce1125c478aace93e53876a51a4589131e1510ad455241755ed3c009b31eef8",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_detrohogga.map": {
+   "bytes": 1750786,
+   "sha256": "ab9adce8cc784bca31bd175d31e024346266d4152259677fc3da2464ef5c92fe",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_deviltower.map": {
+   "bytes": 710414,
+   "sha256": "0ee7e06c161c83a2aee6150f305dcf14c16376a507f201e42deaf2f2d7ac1d5d",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_dumptruck.map": {
+   "bytes": 753758,
+   "sha256": "c5fc00244c81ec34dc29f91a5f48a2fca450d4be531698d58c3ebb3295a380d9",
+   "timestamp": "2024-08-06T14:23:44.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_fix.map": {
+   "bytes": 324316,
+   "sha256": "7bf7f4d8a6330ab7e41f4df4346039bd2d30ae7f4184cbecb8ac7d4ff273e12c",
+   "timestamp": "2024-08-05T15:30:30.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_indigo.map": {
+   "bytes": 811464,
+   "sha256": "e993d5f709d9ceffba9d838592096adc376115e0060407f27699c1d044da29fa",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_ioridyson.map": {
+   "bytes": 1922375,
+   "sha256": "1d6f943f69d40671724220341bd283e6c0b63f6b3a432ea6dce0e51c79658c1e",
+   "timestamp": "2024-08-06T15:31:26.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_iyago.map": {
+   "bytes": 915097,
+   "sha256": "e7b28e850df2004933724f3400f8cf3c48f02028e6bbd660cb20575b33a9ddd4",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_jerry.map": {
+   "bytes": 1149649,
+   "sha256": "c9696b17c0b622fcf03fc7d7aa05a966d8416701f9f30ab32f3b218fb67138ca",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_kdmg.map": {
+   "bytes": 649857,
+   "sha256": "c4213051c8e6e2dc4e84e455dffadb5d4727db465a333998d1cc2db062b2c7aa",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_knefarious.map": {
+   "bytes": 1241249,
+   "sha256": "096cbda7997571a41e7c4c6be124206cce487dab2dd544581addaa09da67154b",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_niccolicious.map": {
+   "bytes": 1067876,
+   "sha256": "8506f880052a75b2c7cd57b7f6d340686b7eb6ef68c09d2c75f604ea53107e55",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_scump.map": {
+   "bytes": 586458,
+   "sha256": "df28395b84577312103a36e455727ebaaa41c559cf1f02b9ecb1e13e5f55ea86",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_shades.map": {
+   "bytes": 818099,
+   "sha256": "bb8c83a8fd2a6d2648525fbc3221f908f92a5e9e43ea3f3c43185ec8e080e9db",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_simonn.map": {
+   "bytes": 818559,
+   "sha256": "0659811bf56d72ca33f770273ff34f93139a452c5c8dd794df668d5701fa043b",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_sixsik6.map": {
+   "bytes": 1798345,
+   "sha256": "4dd84a9e1ecbaf2c47717f42d2bb54cac17382801d2d00afaa3147d1e2bcbabb",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_sock.map": {
+   "bytes": 825225,
+   "sha256": "604c4c2bc71c6058ac743d5929c99c1245c2b37ee8c92914ef3735d37bd5c9c3",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_thelokk.map": {
+   "bytes": 292845,
+   "sha256": "65e84a2c102465758664617acb34ebc5813b23f09a5b7cf34ab3372ed453496a",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/mc_rj1_thundergoose.map": {
+   "bytes": 3272981,
+   "sha256": "755eceecaef92e5afb2b87c9770d12394ac0246da740dacbbc4cba6d68d1b891",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  },
+  "mc_retrojam1/src/start.map": {
+   "bytes": 908002,
+   "sha256": "ef7321cc8716aaf74bc5549ac9f1fddc923e5de18331849d382e2a455d1fda9f",
+   "timestamp": "2024-08-05T15:30:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "May require a source port with increased limits / BSP2 support."
+ ],
+ "sha256": "7c3c3248aad0ed208ea072fc595220627d403f158a82884b0b6630f0f06229d9",
+ "tags": [
+  "author=Atom1K",
+  "author=Chnucki Erdbeer",
+  "author=Chuma",
+  "author=Colossus",
+  "author=CommonCold",
+  "author=DetroHogga",
+  "author=Fix",
+  "author=Indigo",
+  "author=Jerry",
+  "author=Knefarious",
+  "author=KurtDamage",
+  "author=Niccolicious",
+  "author=Shades",
+  "author=Simon Novak",
+  "author=Sock",
+  "author=StormCatcher.77",
+  "author=Thelokk",
+  "author=Thunder Goose",
+  "author=deviltower",
+  "author=dumptruck_ds",
+  "author=iYago",
+  "author=ioridyson",
+  "author=scumpsmallbrain",
+  "author=sixsik6",
+  "commandline=-game mc_retrojam1",
+  "exceeds_quake_limits=yes",
+  "filename=mc_retrojam1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[ModDB page](https://www.moddb.com/games/quake/addons/map-center-quake-retrojam-1)",
+  "release_date=2024-08-08",
+  "startmap=start",
+  "title=Map-Center Quake Retrojam 1",
+  "type=mapjam"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/mc_retrojam1.zip"
+ ]
+}

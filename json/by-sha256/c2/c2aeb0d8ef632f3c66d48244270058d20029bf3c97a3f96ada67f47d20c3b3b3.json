@@ -1,0 +1,41 @@
+{
+ "bytes": 1386770,
+ "description": "Small, story-driven map where you refuel a plane to escape from a facility.",
+ "files": {
+  "acidni.bsp": {
+   "bytes": 3045728,
+   "sha256": "a262a74b539e28a82ceed127d8c93dfd89072689762ee3cf3a2a5f00cd24d9ed",
+   "timestamp": "2024-07-24T00:05:20.000Z"
+  },
+  "acidni.pts": {
+   "bytes": 152213,
+   "sha256": "f9ae0fe93382e68dfa8b18cfe04a469d0b000126c81cd3ea7fe08cced0facf6c",
+   "timestamp": "2024-07-24T00:05:16.000Z"
+  },
+  "acidni.txt": {
+   "bytes": 613,
+   "sha256": "3704a0f6da8dc27bf17a73129ed10f660077833b0d83f423add74aac8ed0c2d5",
+   "timestamp": "2024-07-24T00:09:14.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "c2aeb0d8ef632f3c66d48244270058d20029bf3c97a3f96ada67f47d20c3b3b3",
+ "tags": [
+  "author=GraveyardKaiser",
+  "filename=acidni.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/acid-plane.375/)",
+  "release_date=2024-07-24",
+  "startmap=acidni",
+  "title=Acid Plane",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/acidni.zip"
+ ]
+}

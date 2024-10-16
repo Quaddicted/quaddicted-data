@@ -1,0 +1,41 @@
+{
+ "bytes": 842415,
+ "description": "Small metal map set in a 'space station'.",
+ "files": {
+  "fbkmor.bsp": {
+   "bytes": 1790436,
+   "sha256": "f51fb22f0d808898388e34a129dd7926daf3a0e8e79105591d58d0532c156641",
+   "timestamp": "2024-08-08T14:26:40.000Z"
+  },
+  "fbkmor.pts": {
+   "bytes": 192440,
+   "sha256": "3c568430b93e954cdd35c66f87db1c7aee7c9ca755a4c8914ed9fdee7e4c391f",
+   "timestamp": "2024-08-08T14:26:40.000Z"
+  },
+  "fbkmor.txt": {
+   "bytes": 395,
+   "sha256": "54a739391ed47ab584b1a0f236679b0069a9f42fdd4c46d2066d9e0934f4dd62",
+   "timestamp": "2024-08-08T14:29:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "af15a52a05724e7a2885572c37e3b37967a942e03a8a357b7731eeb3da0be773",
+ "tags": [
+  "author=GraveyardKaiser",
+  "filename=fbkmor.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/fabrika-mortis.382/)",
+  "release_date=2024-08-08",
+  "startmap=fbkmor",
+  "title=Fabrika Mortis",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/fbkmor.zip"
+ ]
+}

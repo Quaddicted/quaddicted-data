@@ -1,0 +1,41 @@
+{
+ "bytes": 2582171,
+ "description": "A map set in a medieval village.",
+ "files": {
+  "vill.bsp": {
+   "bytes": 4331064,
+   "sha256": "5e5e7a5c33e32dddffb7a58b4382fccc2be4428b93406b3ef265cb78d853ad27",
+   "timestamp": "2024-07-29T20:38:32.000Z"
+  },
+  "vill.prt": {
+   "bytes": 1878186,
+   "sha256": "dfa13c6ec0c09c95a0c069ea0033cd1dfe13c87552e0da7f0c13c669d460a8f0",
+   "timestamp": "2024-07-29T20:38:28.000Z"
+  },
+  "vill.vis": {
+   "bytes": 6847051,
+   "sha256": "f5340b4c8886b8aa30fea220b4a00ea94ec0bdc456c6019c9c6cc2f7506bbf34",
+   "timestamp": "2024-07-29T20:21:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ad4680243ca40c96a1d91548f7c611ddbffe1c74ff7c95b64d8caac27d03b643",
+ "tags": [
+  "author=GraveyardKaiser",
+  "filename=vill.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/decomposed-village.377/)",
+  "release_date=2024-07-29",
+  "startmap=vill",
+  "title=Decomposed Village",
+  "type=map",
+  "zipbasedir=id1/maps/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/vill.zip"
+ ]
+}

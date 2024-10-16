@@ -1,0 +1,260 @@
+{
+ "bytes": 103067109,
+ "description": "Five map episode (plus start map) in a minimal, brutalist style with heavy use of fog and intense combat.",
+ "files": {
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-06-17T23:59:04.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-06-17T23:59:04.000Z"
+  },
+  "gfx/env/plainwhite_bk.tga": {
+   "bytes": 8731,
+   "sha256": "f7131e686a81c2d08c03bcc9bc7b7e6cb0d8aff1c962e8d0f9403e65f6fbd84e",
+   "timestamp": "2023-10-11T17:01:18.000Z"
+  },
+  "gfx/env/plainwhite_dn.tga": {
+   "bytes": 8731,
+   "sha256": "11c7b68110ab9cc7fb6c4e252eabd13b8d13bd0f4ceecb2a76c5082b53761d10",
+   "timestamp": "2023-10-11T17:01:12.000Z"
+  },
+  "gfx/env/plainwhite_ft.tga": {
+   "bytes": 8731,
+   "sha256": "345976356193f988d7b8989614df0b9023d411c22b6c4cb2a721f5bd6f4e84af",
+   "timestamp": "2023-10-11T17:01:26.000Z"
+  },
+  "gfx/env/plainwhite_lf.tga": {
+   "bytes": 8731,
+   "sha256": "3a7e524c6bfe8c76b6b9fe8231a2bb8f14e0798727a9afbae4ea465b19eb8647",
+   "timestamp": "2023-10-11T17:01:36.000Z"
+  },
+  "gfx/env/plainwhite_rt.tga": {
+   "bytes": 8731,
+   "sha256": "c5076bb64e37015ab2e78c2fe2f96cba422907b538bde27c20a2d728570f7103",
+   "timestamp": "2023-10-11T17:01:48.000Z"
+  },
+  "gfx/env/plainwhite_up.tga": {
+   "bytes": 8731,
+   "sha256": "ce96f32346d0901a24cf456a1ef7645b6695b8150d6257550e5e47331724457f",
+   "timestamp": "2023-10-11T17:01:54.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-07-29T22:47:24.000Z"
+  },
+  "maps/null1.bsp": {
+   "bytes": 12146872,
+   "sha256": "e7df1d26f286cd0f7e006848540af8d18bb576f98a663d3a80c560fbb9ebfae8",
+   "timestamp": "2024-07-28T21:49:22.000Z"
+  },
+  "maps/null1.lit": {
+   "bytes": 2452205,
+   "sha256": "fdf650988ebe9073fd43ad334897cf11fecfd55f5ddeb0f3aa9e713eebfa417e",
+   "timestamp": "2024-07-28T21:49:22.000Z"
+  },
+  "maps/null2.bsp": {
+   "bytes": 8065596,
+   "sha256": "de7737440978920a8b01c9cc2c99ebb9e2e3ad4b2a4976e00362e728a023e050",
+   "timestamp": "2024-07-18T19:47:56.000Z"
+  },
+  "maps/null2.lit": {
+   "bytes": 2895779,
+   "sha256": "a815d60ab76f7338378c28511f85f7d46f12f1cc86999547cb253f8ee7a847cf",
+   "timestamp": "2024-07-18T19:47:56.000Z"
+  },
+  "maps/null3.bsp": {
+   "bytes": 8886488,
+   "sha256": "6220a8b223723248363f128cd19b0556efbf24a1e7d4a6cb2ac2cf38cf9e27e6",
+   "timestamp": "2024-07-19T16:29:24.000Z"
+  },
+  "maps/null3.lit": {
+   "bytes": 2902052,
+   "sha256": "c4c2a1aaf35d903080f1f8840326294a266fe75ad1c35b352800e23a27585f3b",
+   "timestamp": "2024-07-19T16:29:24.000Z"
+  },
+  "maps/null4.bsp": {
+   "bytes": 16351472,
+   "sha256": "2ed71998dde11973f228cdb1d1cd10288ad6dde4e5a01a60ad9dcd90e57b4a4d",
+   "timestamp": "2024-07-29T22:45:44.000Z"
+  },
+  "maps/null4.lit": {
+   "bytes": 4210445,
+   "sha256": "9bdf2a4ce182ffe7b69537bd9d71f6587fe2896514554369a23a6af98d8a9259",
+   "timestamp": "2024-07-29T22:45:44.000Z"
+  },
+  "maps/null5.bsp": {
+   "bytes": 5944240,
+   "sha256": "97a641ee64aa37e6e268cd41056c29e96f42fb0840e08bf74aa1b5dd0d6eb3e6",
+   "timestamp": "2024-07-20T14:16:02.000Z"
+  },
+  "maps/null5.lit": {
+   "bytes": 2152319,
+   "sha256": "a825575a7374ecc868c612f8c9c4ffc9c873ccf5b478bc2f8474bcc74046bbb5",
+   "timestamp": "2024-07-20T14:16:02.000Z"
+  },
+  "maps/start.bsp": {
+   "bytes": 8484508,
+   "sha256": "60c6be061442aa25696aaa3b7e519f4f9aa8b6c8d488e68f238ec7ad18c969b8",
+   "timestamp": "2024-07-29T01:51:24.000Z"
+  },
+  "maps/start.lit": {
+   "bytes": 2174720,
+   "sha256": "ffaf5e0cfec9aa79bf35e12bab72b6cfa54803208ed681d0f21b82f961982d69",
+   "timestamp": "2024-07-29T01:51:24.000Z"
+  },
+  "mapsrc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-07-29T22:47:26.000Z"
+  },
+  "mapsrc/null1.map": {
+   "bytes": 1503316,
+   "sha256": "d0dc5be63af8411beceb23a47fa8d72555f1ca4e87dfbf7e02fff5d6a75e48ad",
+   "timestamp": "2024-07-28T21:48:30.000Z"
+  },
+  "mapsrc/null2.map": {
+   "bytes": 725951,
+   "sha256": "97bdf36181760fceb9dfd3381623640f917087c89cf9e81743231068b013a3d3",
+   "timestamp": "2024-07-18T19:32:38.000Z"
+  },
+  "mapsrc/null3.map": {
+   "bytes": 1180019,
+   "sha256": "850e58b77612d07de11107fc11038f8aac30096d153ebd9553f5853251acafe0",
+   "timestamp": "2024-07-19T16:27:56.000Z"
+  },
+  "mapsrc/null4.map": {
+   "bytes": 2374493,
+   "sha256": "13c9486ccc19d31818df7f6f9d3c568cf9405dc4167e1847bc76ad3761fdf3d9",
+   "timestamp": "2024-07-29T22:43:44.000Z"
+  },
+  "mapsrc/null5.map": {
+   "bytes": 1205643,
+   "sha256": "fa95f9379ee3c8462c5bfc95cd66c7d17886179fdb0eb8e2dd30d62d37dc2d63",
+   "timestamp": "2024-07-20T14:14:52.000Z"
+  },
+  "mapsrc/nullstart.map": {
+   "bytes": 833310,
+   "sha256": "077e5d67d91e93e0d03c938200627197527b57b7242d1d3224a41217c1baa322",
+   "timestamp": "2024-07-29T01:50:18.000Z"
+  },
+  "models/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-06-30T02:42:22.000Z"
+  },
+  "models/rune_n3.mdl": {
+   "bytes": 21812,
+   "sha256": "38cb7486bdc99c2f0c8e9f194293db248e67c26afc3ee5ed6f6822f9d8eab745",
+   "timestamp": "2021-10-23T05:19:56.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-07-31T15:35:20.000Z"
+  },
+  "music/track03.ogg": {
+   "bytes": 8953691,
+   "sha256": "ebf5e01ccd297bc02bc9ebbcf73e1e08ae984ceb169ad4311499b78567193ef4",
+   "timestamp": "2024-06-28T03:25:20.000Z"
+  },
+  "music/track15.ogg": {
+   "bytes": 8540013,
+   "sha256": "d4962a1db3c2e8a96397bb24b32bb43ce84437e88b4edacf2f27bb22d2afb65f",
+   "timestamp": "2023-12-09T20:07:02.000Z"
+  },
+  "music/track16.ogg": {
+   "bytes": 11034650,
+   "sha256": "0c6313ebb7d52faabc069081cbd03f46c254e4a944b849c6adcc352037afafcf",
+   "timestamp": "2024-02-03T10:58:28.000Z"
+  },
+  "music/track17.ogg": {
+   "bytes": 7934367,
+   "sha256": "6fab0945db5106060587865a122787092256ba27b770015a76082c34b0ac9cc5",
+   "timestamp": "2023-12-09T20:07:06.000Z"
+  },
+  "music/track18.ogg": {
+   "bytes": 3983750,
+   "sha256": "d78dfa5b9f09b36fbde3d70df17da723426848c5b195618819cbc8593ad3c70e",
+   "timestamp": "2024-03-02T04:47:20.000Z"
+  },
+  "music/track19.ogg": {
+   "bytes": 15775072,
+   "sha256": "3d347d9cc6f93305b80be71295f62d8b92d5836368d7ec160759164d854271bd",
+   "timestamp": "2023-12-09T20:08:12.000Z"
+  },
+  "music/track20.ogg": {
+   "bytes": 13896181,
+   "sha256": "b9990ef3f56297166a496a09d3224d7b6568893bfbe559530a0816688fdf430f",
+   "timestamp": "2024-06-28T03:26:32.000Z"
+  },
+  "txt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2024-07-29T03:20:30.000Z"
+  },
+  "txt/Nullspace I (readme).txt": {
+   "bytes": 7932,
+   "sha256": "18b364673ccba801798dd585dd9a5aab4e6d2a55d355a7cd36c76d459320228f",
+   "timestamp": "2024-07-31T15:42:36.000Z"
+  },
+  "txt/Nullspace II (readme).txt": {
+   "bytes": 8057,
+   "sha256": "c78401f6763fdf5ab090bc9255038d8ce0542ae960ab31172429a1c3e343f740",
+   "timestamp": "2024-07-12T04:50:02.000Z"
+  },
+  "txt/Nullspace III (readme).txt": {
+   "bytes": 8305,
+   "sha256": "bf662679d7d849dbd1a0f5ade9614d92c217c66ec2b5796e9a875fd88446b53d",
+   "timestamp": "2024-07-12T04:50:30.000Z"
+  },
+  "txt/Nullspace IV (readme).txt": {
+   "bytes": 7695,
+   "sha256": "ecee539338acca0b11b4ccd261f556bacc7b68b9806d5f0af8c901d632ddaafd",
+   "timestamp": "2024-07-12T05:49:02.000Z"
+  },
+  "txt/Nullspace V (readme).txt": {
+   "bytes": 10139,
+   "sha256": "96acfec3538541a9b12356182596a5e567ef7c17526050e622b2cf1f5676c4f6",
+   "timestamp": "2024-07-28T21:51:16.000Z"
+  },
+  "txt/The Nullspace (Startmap and Episode Readme).txt": {
+   "bytes": 19770,
+   "sha256": "b650338b5a5e0d58813f19c916ec43d0fc0e8319016f5bb73608b61d6deb7fab",
+   "timestamp": "2024-07-29T03:20:06.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
+ "sha256": "d811423b06f1fa6a02f23f8c502d8bb766189521d11ad02c2adcf870f035adc0",
+ "tags": [
+  "author=ExaByt",
+  "commandline=-game copper",
+  "dependency=copper_v1_30",
+  "depends=('copper=1.30')",
+  "exceeds_quake_limits=yes",
+  "filename=nullspace_v1.0.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-nullspace.379/)",
+  "mod=copper",
+  "release_date=2024-07-31",
+  "startmap=start",
+  "title=The Nullspace",
+  "type=episode",
+  "zipbasedir=copper/"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/nullspace_v1.0.zip"
+ ]
+}
