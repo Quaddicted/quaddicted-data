@@ -1,7 +1,17 @@
 {
- "bytes": 154219071,
+ "bytes": 154229308,
  "description": "Episode of five increasingly large main maps (plus start, end and secret level) progressing from an industrial theme through to a gothic/temple finale. Includes several new monsters and weapons.",
  "files": {
+  "TOMBOFTHUNDER2024_README.txt": {
+   "bytes": 12973,
+   "sha256": "25e7abc6c335179e43f8331c5c9e7d88794513e62b4687310836e838ecf7a283",
+   "timestamp": "2024-07-24T10:00:00.000Z"
+  },
+  "Tomb of Thunder - Secrets guide.docx": {
+   "bytes": 10513,
+   "sha256": "b6488194509e47ffa2feba1f4e5becc818f641cd3f5ea5cfda309dafe4f31807",
+   "timestamp": "2024-07-01T11:26:24.000Z"
+  },
   "tombofthunder/": {
    "bytes": 0,
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -43,11 +53,6 @@
    },
    "sha256": "1c93d84804a35349a2e09f21c3ef2fa5ef732aa10c756b882d3caf18a7f974ae",
    "timestamp": "2024-05-18T23:14:36.000Z"
-  },
-  "tombofthunder/TOMBOFTHUNDER2024_README.txt": {
-   "bytes": 12973,
-   "sha256": "25e7abc6c335179e43f8331c5c9e7d88794513e62b4687310836e838ecf7a283",
-   "timestamp": "2024-07-24T10:00:00.000Z"
   },
   "tombofthunder/Tomb of Thunder - Secrets guide.docx": {
    "bytes": 10513,
@@ -2498,16 +2503,15 @@
  },
  "json_version": "2023.11.06-23.20",
  "notes": [
-  "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "sha256": "dee9623f95eff90701883a0b96d6b3a6adf2feae77e0c74f0864b3258c76a933",
+ "sha256": "9755bf7150f47e3ae285d3a9c188d3b3800d14c416bed99f1296cecea612e012",
  "tags": [
   "author=aDaya",
   "commandline=-game tombofthunder",
   "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
-  "filename=tombofthunder_mod_2024_v1032b.zip",
+  "filename=TOMBOFTHUNDER_MOD_2024.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/tomb-of-thunder.357/)",
