@@ -29,6 +29,7 @@
  "tags": [
   "author=lumisynth",
   "commandline=-game copper",
+  "current_main_group_package=yes",
   "dependency=copper_v1_30",
   "depends=('copper=1.30')",
   "filename=hiddencrypt_1.2.zip",
@@ -36,10 +37,13 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/hidden-cursed-crypt.376/)",
   "mod=copper",
+  "provides='hiddencrypt=1.2'",
   "release_date=2024-07-29",
+  "release_group=hiddencrypt",
   "startmap=hiddencrypt",
   "title=Hidden Cursed Crypt",
   "type=map",
+  "version=1.2",
   "zipbasedir=copper/"
  ],
  "urls": [
