@@ -1,0 +1,332 @@
+{
+ "bytes": 27337589,
+ "description": "A pack of 15 small-to-medium vanilla maps inspired by Quake's early episode 2 levels (e2m2-e2m4) connected by a start map.",
+ "files": {
+  "Remastered Map Center Retrojam3.lnk": {
+   "bytes": 1589,
+   "sha256": "3e68a438245e15e7fd513423bee4e4e4e26bcef540815e685914368b0e190805",
+   "timestamp": "2025-02-04T19:11:42.000Z"
+  },
+  "bots/navigation/mc_rj3_detrohogga.nav": {
+   "bytes": 6414,
+   "sha256": "2cacee67c8d0c1a47c0b880b513766f1e44e7b0ae73889a3bc75dd4feb1fe1ea",
+   "timestamp": "2025-01-28T04:59:58.000Z"
+  },
+  "descript.ion": {
+   "bytes": 23,
+   "sha256": "41e287e7f78f15993a9fce68454f869e41f80491a5d57a2759d23ca284bb89b8",
+   "timestamp": "2025-02-04T19:06:36.000Z"
+  },
+  "docs/mc_rj3_alexunder.txt": {
+   "bytes": 533,
+   "sha256": "fc002d98763cb9855d806dd3ce6d955b119a456d4712b626bc10679d792fc78d",
+   "timestamp": "2025-02-04T19:20:14.000Z"
+  },
+  "docs/mc_rj3_caffeinefreak.txt": {
+   "bytes": 1553,
+   "sha256": "6e5018ee130f4712c1d05dd0eaa195c848db0a44b5a4712d34c5e3624a168822",
+   "timestamp": "2025-02-05T20:04:32.000Z"
+  },
+  "docs/mc_rj3_detrohogga.txt": {
+   "bytes": 2013,
+   "sha256": "108e18af3d956acee119dcdda02ec56ec88a264990dfd0ce422b592c15f7f2b9",
+   "timestamp": "2025-01-28T06:37:12.000Z"
+  },
+  "docs/mc_rj3_doritos420.txt": {
+   "bytes": 4629,
+   "sha256": "409913a144e8903c1971c863f3f5043dd966ddd54978014b27ad68be581953f3",
+   "timestamp": "2025-01-30T20:24:52.000Z"
+  },
+  "docs/mc_rj3_grue.txt": {
+   "bytes": 1728,
+   "sha256": "4f9e534e20ea5143486302fe0fa19c5bd6d367718f9141f2ff114ea5f5d7272d",
+   "timestamp": "2025-02-06T00:29:28.000Z"
+  },
+  "docs/mc_rj3_hole.txt": {
+   "bytes": 4695,
+   "sha256": "bbd28c01ee80e7aceae36ba1b0285eeb1e841f5c8001d0bdd99d8da75620c548",
+   "timestamp": "2025-01-30T10:42:34.000Z"
+  },
+  "docs/mc_rj3_icoshee.txt": {
+   "bytes": 1424,
+   "sha256": "48710f33839e4d54efa6b213afbb51907d800ceea3fac7d7505f43f233918099",
+   "timestamp": "2025-02-04T19:39:16.000Z"
+  },
+  "docs/mc_rj3_ilike80srock.txt": {
+   "bytes": 1970,
+   "sha256": "0ed6719ee0616f14da26490e1f7947018768f747ed388cbc5613671e3895372a",
+   "timestamp": "2025-02-04T19:39:40.000Z"
+  },
+  "docs/mc_rj3_kaz.txt": {
+   "bytes": 1163,
+   "sha256": "69c698d02923fa494a8fa5cddb0f9ae541d4945b4a4fe9cbaea469478406c192",
+   "timestamp": "2025-02-04T19:40:08.000Z"
+  },
+  "docs/mc_rj3_null.txt": {
+   "bytes": 1852,
+   "sha256": "7f20c64f26a9b489225129797d85f091af42b9a17686f142b07852c2061279ee",
+   "timestamp": "2025-02-05T08:10:48.000Z"
+  },
+  "docs/mc_rj3_pulsar.txt": {
+   "bytes": 1909,
+   "sha256": "a4aab4a370488b5dfb18227f05b22a2d4b5a64db7b7a75ffc4e1e9b3d365e42c",
+   "timestamp": "2025-02-05T20:05:18.000Z"
+  },
+  "docs/mc_rj3_sndein.txt": {
+   "bytes": 908,
+   "sha256": "27bd124545df6f7da247318955678d74bffa61071f78e0ace57ae39d3224d43e",
+   "timestamp": "2025-02-05T10:53:02.000Z"
+  },
+  "docs/mc_rj3_textfish.txt": {
+   "bytes": 814,
+   "sha256": "ee921fb7693c0895897a14699d370bf8403333ac83adfa7134d459d285f67a02",
+   "timestamp": "2025-01-31T18:20:16.000Z"
+  },
+  "docs/mc_rj3_warrenm.txt": {
+   "bytes": 1740,
+   "sha256": "05c9984f5c6288f25c033b1a91853eb2b32592be893a64242c389771566dea54",
+   "timestamp": "2025-02-04T19:41:54.000Z"
+  },
+  "docs/mc_rj3_zetabyt.txt": {
+   "bytes": 26858,
+   "sha256": "c8ad14ba024a1281995a0de267fbb9317f37fa048ee42c9d6eae0a4fa755096f",
+   "timestamp": "2025-02-04T19:42:22.000Z"
+  },
+  "gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "231b0c2952ae85692f8c4c14555af02e99e10b278e795f074d36af466309aea8",
+   "timestamp": "2024-10-10T13:29:34.000Z"
+  },
+  "mapdb.json": {
+   "bytes": 4515,
+   "sha256": "e5d85de7475c0942619497929a7dec37d3bb0dc3ff9b16230bd882982966d306",
+   "timestamp": "2025-02-04T22:06:10.000Z"
+  },
+  "maps/mc_rj3_alexunder.bsp": {
+   "bytes": 3384580,
+   "sha256": "4f31cc33b79016c0791360df2490836d2ecb540642d4d14aea30d49fb15c0e7c",
+   "timestamp": "2025-02-04T19:20:14.000Z"
+  },
+  "maps/mc_rj3_caffeinefreak.bsp": {
+   "bytes": 3741960,
+   "sha256": "1199876a87bf1c2523146f05ec8e56d088b7d6ded2dde987d3104800c734d11c",
+   "timestamp": "2025-02-05T20:04:32.000Z"
+  },
+  "maps/mc_rj3_caffeinefreak.lit": {
+   "bytes": 1394936,
+   "sha256": "f446c537a004c296859c7df90e6d240e6074d52b3358077c717cdd19ba617358",
+   "timestamp": "2025-02-05T20:04:32.000Z"
+  },
+  "maps/mc_rj3_detrohogga.bsp": {
+   "bytes": 3846348,
+   "sha256": "d30d5b3caf4484d3af79e9f42fd6f5df93082da1d25c45b8a8eb4a75b44d62d8",
+   "timestamp": "2025-01-30T10:43:56.000Z"
+  },
+  "maps/mc_rj3_doritos420.bsp": {
+   "bytes": 2934072,
+   "sha256": "5dc67eb50714b8a97da9ea4ef2a5235fc94636417e4951d238a1c3b143b94b07",
+   "timestamp": "2025-01-30T20:22:00.000Z"
+  },
+  "maps/mc_rj3_doritos420.lit": {
+   "bytes": 978494,
+   "sha256": "51a5df6ecfc6a45236c229c3a24b767077b3ac6b3c4a7802cd6264cbca7dbd94",
+   "timestamp": "2025-01-30T20:22:00.000Z"
+  },
+  "maps/mc_rj3_grue.bsp": {
+   "bytes": 4168980,
+   "sha256": "25396e2c65002ff1dda24973a756aaa97867cb10455df1dda3beaa10fd562d4c",
+   "timestamp": "2025-02-06T00:29:28.000Z"
+  },
+  "maps/mc_rj3_grue.lit": {
+   "bytes": 2237528,
+   "sha256": "06b8d1f9b3931a2f430d4da8b4470be08148fa57cfc271977d285b975ac07252",
+   "timestamp": "2025-02-06T00:29:28.000Z"
+  },
+  "maps/mc_rj3_hole.bsp": {
+   "bytes": 735884,
+   "sha256": "80e1bd47922b458a806676f17230394c2636edca1535865514d8b90a7cae1885",
+   "timestamp": "2025-01-30T10:53:54.000Z"
+  },
+  "maps/mc_rj3_icoshee.bsp": {
+   "bytes": 4541656,
+   "sha256": "21a22aecf94cc9be23d20ab553b9b237bdbe0ba81efe3138e8b47159245d8068",
+   "timestamp": "2025-02-04T19:39:16.000Z"
+  },
+  "maps/mc_rj3_ilike80srock.bsp": {
+   "bytes": 1013436,
+   "sha256": "3367bf2806009d1844e916be8119555ed49b960dde99319c977fccd5b5ba0ac3",
+   "timestamp": "2025-02-04T19:39:40.000Z"
+  },
+  "maps/mc_rj3_kaz.bsp": {
+   "bytes": 4674232,
+   "sha256": "7216d55f0143059629ee179d4896f4c916793bf646de0726542bfb3572904f18",
+   "timestamp": "2025-02-04T19:40:08.000Z"
+  },
+  "maps/mc_rj3_null.bsp": {
+   "bytes": 2569076,
+   "sha256": "068c3824efa4ad95a43f2105b5b0e5c026ad631ccd6741ddf8bd7a86d66f4293",
+   "timestamp": "2025-02-05T08:10:48.000Z"
+  },
+  "maps/mc_rj3_pulsar.bsp": {
+   "bytes": 3980388,
+   "sha256": "faf5c44b64deb64947d3d5e593400ae5cf18e4898d1cadfdef7b7e2ed5e994a0",
+   "timestamp": "2025-02-05T20:05:18.000Z"
+  },
+  "maps/mc_rj3_pulsar.lit": {
+   "bytes": 1854740,
+   "sha256": "a0167e1fcb00a7a215f3b9925a42168ce498e18d5636217ff2df15a7c06ea1b6",
+   "timestamp": "2025-02-05T20:05:18.000Z"
+  },
+  "maps/mc_rj3_sndein.bsp": {
+   "bytes": 2188084,
+   "sha256": "7445e416ba2eed4cbd8ae916f4435818f017fa1555b79dfbf1df77d4eb4155d9",
+   "timestamp": "2025-02-05T10:53:02.000Z"
+  },
+  "maps/mc_rj3_textfish.bsp": {
+   "bytes": 2461564,
+   "sha256": "80cee6825a1881a8960b7cd60f24624b77d9c4b06dcbf2d865a755655d2639f6",
+   "timestamp": "2025-02-03T14:20:06.000Z"
+  },
+  "maps/mc_rj3_textfish.lit": {
+   "bytes": 1800008,
+   "sha256": "20b4919f2b64b3ef095fe58d996f8fbddb05bd31b00a3c1adc42bb82c9c26889",
+   "timestamp": "2025-02-03T14:20:06.000Z"
+  },
+  "maps/mc_rj3_warrenm.bsp": {
+   "bytes": 2273568,
+   "sha256": "3b575c956363fc24769db964ba6bbd8fb31cd2e06acdfed39676ae836862855b",
+   "timestamp": "2025-02-04T19:41:54.000Z"
+  },
+  "maps/mc_rj3_zetabyt.bsp": {
+   "bytes": 2703292,
+   "sha256": "8a13f13fa7c07224d2a05748435f891af95db1f403e773474cddc74206707863",
+   "timestamp": "2025-02-04T19:42:22.000Z"
+  },
+  "maps/start.bsp": {
+   "bytes": 1526508,
+   "sha256": "4ab233ad14aa7561186ab44960d1f05b461a0e86037b6c0c91abbd2596d108f9",
+   "timestamp": "2025-02-05T07:53:56.000Z"
+  },
+  "mc_retrojam3_readme.txt": {
+   "bytes": 6211,
+   "sha256": "47c6761bc924a8b2f2d240236c868296b1875d76322222d0c4e7491a0d1ec400",
+   "timestamp": "2025-02-05T23:55:48.000Z"
+  },
+  "src/mc_rj3_alexunder.map": {
+   "bytes": 2853440,
+   "sha256": "5937f7a703314c1ecceeeb54d8d6703734ee63d4c566d33041eab86ef3e356fb",
+   "timestamp": "2025-02-04T19:20:14.000Z"
+  },
+  "src/mc_rj3_caffeinefreak.map": {
+   "bytes": 1691522,
+   "sha256": "c9896e6b2a6990b92c8d538e27a8833960fe1099bf040496a936b8487de25ef3",
+   "timestamp": "2025-02-05T20:04:32.000Z"
+  },
+  "src/mc_rj3_detrohogga.map": {
+   "bytes": 2593476,
+   "sha256": "99ffb909e3aab748645e46a56ec8773328053dd5c23034b892ed9d9b7eba26a1",
+   "timestamp": "2025-01-30T10:37:04.000Z"
+  },
+  "src/mc_rj3_doritos420.map": {
+   "bytes": 3343006,
+   "sha256": "00d638739a7a49e5e7713f76abacf2319368e720abde3c2cb47ab0d830b37768",
+   "timestamp": "2025-01-30T20:21:42.000Z"
+  },
+  "src/mc_rj3_grue.map": {
+   "bytes": 2781265,
+   "sha256": "7d1e1e813f1bb11a18bb781399eb44c6bc82208fa4ca8e62e4d19de8c0b1d615",
+   "timestamp": "2025-02-06T00:29:28.000Z"
+  },
+  "src/mc_rj3_hole.map": {
+   "bytes": 438840,
+   "sha256": "04bb79d20795c94e68909fe0e4eef394a6d27081e32ff9910cae837edd6041dc",
+   "timestamp": "2025-01-30T10:54:18.000Z"
+  },
+  "src/mc_rj3_icoshee.map": {
+   "bytes": 4111928,
+   "sha256": "884e203b61543bffa24f32ee8f15ce84dafa89ee0482f0534214d44059b2a23f",
+   "timestamp": "2025-02-04T19:39:16.000Z"
+  },
+  "src/mc_rj3_ilike80srock.map": {
+   "bytes": 783130,
+   "sha256": "de3a52c03fe9be589de86927fa8736eefb2e8d17353a0b12a02212d8a576ceff",
+   "timestamp": "2025-02-04T19:39:40.000Z"
+  },
+  "src/mc_rj3_kaz.map": {
+   "bytes": 1815948,
+   "sha256": "06f3ab43bdd03e89e5d18009a19d3bc96deacb0ec9de2eb84841649a17546d01",
+   "timestamp": "2025-02-04T19:40:10.000Z"
+  },
+  "src/mc_rj3_null.map": {
+   "bytes": 1510489,
+   "sha256": "922aa76cd948fe19b5779f4189f88bcd380927f7057f32a70313a489bafbd57f",
+   "timestamp": "2025-02-05T08:10:48.000Z"
+  },
+  "src/mc_rj3_pulsar.map": {
+   "bytes": 3422338,
+   "sha256": "6f4b656ed344d1652758c299303f8ea102a5f346fe0ffb1e68998a534d76f70b",
+   "timestamp": "2025-02-05T20:05:18.000Z"
+  },
+  "src/mc_rj3_sndein.map": {
+   "bytes": 867176,
+   "sha256": "63e6567097644eb3993699672167f421e5d87e0cd0f618cb38dd29e1fb56d8de",
+   "timestamp": "2025-02-05T10:53:02.000Z"
+  },
+  "src/mc_rj3_textfish.map": {
+   "bytes": 1459577,
+   "sha256": "f5a48454717f91ec47f015d85c782472d88e2c8963b15582fb538caa8013fa55",
+   "timestamp": "2025-02-03T14:19:56.000Z"
+  },
+  "src/mc_rj3_warrenm.map": {
+   "bytes": 1660119,
+   "sha256": "9a9459c3194355298dfe83c22e7cb4448c00b913f44ec7f3795195867964e8ed",
+   "timestamp": "2025-02-04T19:41:54.000Z"
+  },
+  "src/mc_rj3_zetabyt.map": {
+   "bytes": 4651164,
+   "sha256": "25199898f0f78b6f78a20708a1de45a2d873db4770056e8cac4f25944767c524",
+   "timestamp": "2025-02-04T19:42:22.000Z"
+  },
+  "src/start.map": {
+   "bytes": 1108001,
+   "sha256": "5e3fa0d3dcda28538d508a86f7b4a61c79819191d4b0f8f6df730adcf9c08ca5",
+   "timestamp": "2025-02-05T07:34:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/mc_retrojam3"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "28efa4c614cce3a4a470433b56cb3f3972474caa26b2cf12e82dcc9c698416fe",
+ "tags": [
+  "author=Caffeine Freak",
+  "author=DetroHogga",
+  "author=Doritos420",
+  "author=Grue",
+  "author=HOLE",
+  "author=IcoShee",
+  "author=Kaz115",
+  "author=Null",
+  "author=PuLSaR",
+  "author=Sock",
+  "author=Text_Fish",
+  "author=WarrenM",
+  "author=ZetaByt",
+  "author=alexUnder",
+  "author=iLike80sRock",
+  "author=sndein",
+  "commandline=-game mc_retrojam3",
+  "filename=mc_retrojam3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[ModDB page](https://www.moddb.com/games/quake/addons/map-center-quake-retrojam-3)",
+  "release_date=2025-07-02",
+  "startmap=start",
+  "title=Map-Center Quake Retrojam 3",
+  "type=mapjam",
+  "zipbasedir=mc_retrojam3"
+ ],
+ "urls": [
+  "https://x901.net/quaddictedfiles/mc_retrojam3.zip"
+ ]
+}
