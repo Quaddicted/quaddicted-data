@@ -1,0 +1,28 @@
+{
+ "bytes": 3683338,
+ "description": "Large level inspired by E1M4-The Grisly Grotto, however with an abstract twist to its style, featuring somewhat cramped interiors, underwater and void sections. The map source is included.",
+ "files": null,
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "notes": [
+  "This map requires a source port with increased limits.",
+  "This file is actually a RAR archive, not ZIP."
+ ],
+ "sha256": "34f579cbfe6b4d3d18332900b96c5ea0c5bc179810f65e1493997adc9ac73343",
+ "tags": [
+  "author=Magnus Bj\u00f6rkbom",
+  "exceedslimits=exceeds_quake_limits",
+  "filename=memgrot.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2019-07-07",
+  "startmap=memgrot",
+  "title=Memories of a Grotto",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/34/34f579cbfe6b4d3d18332900b96c5ea0c5bc179810f65e1493997adc9ac73343/memgrot.zip"
+ ]
+}
