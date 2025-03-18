@@ -1,5 +1,6 @@
 {
  "bytes": 1724503,
+ "description": "Medium vanilla map in a grey brick medieval city theme.",
  "files": {
   "spires.bsp": {
    "bytes": 3581312,
@@ -17,11 +18,26 @@
    "timestamp": "2024-12-04T10:23:24.000Z"
   }
  },
- "install": {},
+ "install": {
+  "extract": "{base}/id1/maps"
+ },
  "json_version": "2023.11.06-23.20",
  "sha256": "8db128edc4cd3cce0d7d5b1f7c5532ec502d6f06f24037a6d06afa590e732452",
  "tags": [
-  "filename=spires.zip"
+  "author=Vondur",
+  "filename=spires.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard post](https://celephais.net/board/view_thread.php?id=62336)",
+  "release_date=2024-12-04",
+  "size=medium",
+  "startmap=spires",
+  "title=Spires, The Wailing City",
+  "type=map",
+  "zipbasedir=id1/maps"
  ],
- "urls": []
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/8d/8db128edc4cd3cce0d7d5b1f7c5532ec502d6f06f24037a6d06afa590e732452/spires.zip",
+  "https://www.quaketastic.com/files/single_player/maps/spires.zip"
+ ]
 }

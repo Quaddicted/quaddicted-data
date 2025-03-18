@@ -1,5 +1,6 @@
 {
  "bytes": 6246638,
+ "description": "Small medieval map using a variety of texture themes, tested for both vanilla progs and Copper (not required). The author's first map.",
  "files": {
   "vanisch01/": {
    "bytes": 0,
@@ -77,11 +78,27 @@
    "timestamp": "2025-01-11T06:00:30.000Z"
   }
  },
- "install": {},
+ "install": {
+  "extract": "{base}"
+ },
  "json_version": "2023.11.06-23.20",
  "sha256": "17a4d2ecb95d070d65c433ed592c39784244b4b3d3ca2769e45b1ed6fc9573e0",
  "tags": [
-  "filename=vanisch013.zip"
+  "author=Vanisch",
+  "commandline=-game vanisch01",
+  "filename=vanisch013.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer](https://www.slipseer.com/index.php?resources/november-schlacht.425/)",
+  "release_date=2025-01-10",
+  "size=small",
+  "startmap=vanisch01",
+  "title=November-Schlacht",
+  "type=map",
+  "zipbasedir={base}"
  ],
- "urls": []
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/17/17a4d2ecb95d070d65c433ed592c39784244b4b3d3ca2769e45b1ed6fc9573e0/vanisch013.zip",
+  "https://www.quaketastic.com/files/single_player/maps/vanisch013.zip"
+ ]
 }

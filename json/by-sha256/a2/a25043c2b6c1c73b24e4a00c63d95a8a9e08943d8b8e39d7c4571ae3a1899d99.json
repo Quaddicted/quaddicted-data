@@ -1,5 +1,6 @@
 {
  "bytes": 1030073,
+ "description": "E1 themed medieval map that serves as a sequel to <a href=\"https://www.quaddicted.com/db/v1/maps/ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2\">Colony</a> and <a href=\"https://www.quaddicted.com/db/v1/maps/6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3\">Colony 2</a> from 1997/1998.",
  "files": {
   "colony3.bsp": {
    "bytes": 2282520,
@@ -12,11 +13,25 @@
    "timestamp": "2025-02-03T22:25:30.000Z"
   }
  },
- "install": {},
+ "install": {
+  "extract": "{base}/id1/maps"
+ },
  "json_version": "2023.11.06-23.20",
  "sha256": "a25043c2b6c1c73b24e4a00c63d95a8a9e08943d8b8e39d7c4571ae3a1899d99",
  "tags": [
-  "filename=colony3.zip"
+  "author=Mark Turner",
+  "filename=colony3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2025-02-04",
+  "size=medium",
+  "startmap=colony3",
+  "title=Colony 3 : Demon Keep",
+  "type=map",
+  "zipbasedir=id1/maps"
  ],
- "urls": []
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/a2/a25043c2b6c1c73b24e4a00c63d95a8a9e08943d8b8e39d7c4571ae3a1899d99/colony3.zip",
+  "https://www.quaketastic.com/files/colony3.zip"
+ ]
 }
