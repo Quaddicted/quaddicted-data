@@ -290,9 +290,9 @@
  "notes": [
   "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher. The memory heapsize needs to be set to around 1.5 GB!"
  ],
- "provides": [
-  "ter_shibboleth=2.1"
- ],
+ "provides": {
+  "ter_shibboleth": "2.1"
+ },
  "release_date": "2020-10-12",
  "release_group": "ter_shibboleth",
  "sha256": "3a52ac681e571ec330f6b23f83222021e65fc3664396b8ae80b38ef8f4824b6a",

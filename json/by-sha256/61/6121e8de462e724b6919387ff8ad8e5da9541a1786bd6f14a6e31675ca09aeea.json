@@ -23,9 +23,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "frcastle=2.0"
- ],
+ "provides": {
+  "frcastle": "2.0"
+ },
  "release_date": "1996-10-30",
  "release_group": "frcastle",
  "sha256": "6121e8de462e724b6919387ff8ad8e5da9541a1786bd6f14a6e31675ca09aeea",

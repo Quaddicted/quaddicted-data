@@ -532,9 +532,9 @@
   "No custom start map or difficulty settings. Load manually in console with \"map teuthis\"",
   "Requires a modern engine / source port with increased limits. Probably won't work on regular Quakespasm, for best results use Quakespasm Spiked or vkQuake."
  ],
- "provides": [
-  "teuthis=1.0"
- ],
+ "provides": {
+  "teuthis": "1.0"
+ },
  "release_date": "2022-04-13",
  "release_group": "teuthis",
  "sha256": "c8ab0db09c1e22f9f05b9f4923ab9ee1dac0dc513c592fedbd46556509be3c16",

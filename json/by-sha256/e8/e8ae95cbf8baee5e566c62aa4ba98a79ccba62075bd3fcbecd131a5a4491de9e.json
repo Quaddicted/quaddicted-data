@@ -155,9 +155,9 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "provides": [
-  "remobilize=1.2"
- ],
+ "provides": {
+  "remobilize": "1.2"
+ },
  "release_date": "2024-06-24",
  "release_group": "remobilize",
  "sha256": "e8ae95cbf8baee5e566c62aa4ba98a79ccba62075bd3fcbecd131a5a4491de9e",

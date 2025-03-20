@@ -922,9 +922,9 @@
  "notes": [
   "This patch requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.70</a> to be installed."
  ],
- "provides": [
-  "ad=1.71"
- ],
+ "provides": {
+  "ad": "1.71"
+ },
  "release_date": "2018-01-07",
  "release_group": "ad",
  "sha256": "2336700420d41c2d468e0afc05d2b018b04f7b2f64f90371dc9da835dd6abe83",

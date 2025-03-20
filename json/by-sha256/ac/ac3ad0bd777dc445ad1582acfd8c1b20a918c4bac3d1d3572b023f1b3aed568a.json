@@ -36,9 +36,9 @@
   "Probably requires a modern engine / source port with increased limits.",
   "Requires Copper v1.19+ (NOT included)."
  ],
- "provides": [
-  "arttis01=1.0"
- ],
+ "provides": {
+  "arttis01": "1.0"
+ },
  "release_date": "2022-09-29",
  "release_group": "arttis01",
  "sha256": "ac3ad0bd777dc445ad1582acfd8c1b20a918c4bac3d1d3572b023f1b3aed568a",

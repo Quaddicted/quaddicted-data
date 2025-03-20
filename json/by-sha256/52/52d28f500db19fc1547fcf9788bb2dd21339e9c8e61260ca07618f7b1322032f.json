@@ -32,9 +32,9 @@
  "notes": [
   "This map requires an engine port with increased limits. This is an updated version with bugfixes/tweaks."
  ],
- "provides": [
-  "digs07=2.0"
- ],
+ "provides": {
+  "digs07": "2.0"
+ },
  "release_date": "2014-02-27",
  "release_group": "digs07",
  "sha256": "52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f",

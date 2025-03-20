@@ -302,9 +302,9 @@
   "These maps require a source port with increased limits and BSP2 support.",
   "An updated version is available <a href=\"https://www.quaddicted.com/filebase/e1ubi_plantegenets_v1_4.zip\">here</a>."
  ],
- "provides": [
-  "e2m10=1.0"
- ],
+ "provides": {
+  "e2m10": "1.0"
+ },
  "release_date": "2019-08-08",
  "release_group": "e2m10",
  "sha256": "3c7682c9903bcc766381d58e7e91550620cf427a37e01be81d9fab74e9ebe762",

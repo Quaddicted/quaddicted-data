@@ -129,9 +129,9 @@
   "Enhanced skins are available: <a href=\"http://www.quaddicted.com/filebase/soeskins_glquake.zip\">regular</a> and <a href=\"http://www.quaddicted.com/filebase/soeskins_dp.zip\">DP</a> version.",
   "These maps require an engine port with increased limits."
  ],
- "provides": [
-  "nsoe=1.0"
- ],
+ "provides": {
+  "nsoe": "1.0"
+ },
  "release_date": "2008-08-15",
  "release_group": "nsoe",
  "sha256": "1cbbad91902333adfc70f8a7ba21811eee5aaee6ce933983db72f086cc2535f9",

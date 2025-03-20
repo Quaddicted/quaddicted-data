@@ -28,9 +28,9 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>. A bug-fixed version (some monsters are missing) is available as <a href=\"1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef\">quarantine02.zip</a>."
  ],
- "provides": [
-  "quarantine=1.0"
- ],
+ "provides": {
+  "quarantine": "1.0"
+ },
  "release_date": "2013-04-08",
  "release_group": "quarantine",
  "sha256": "2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3",

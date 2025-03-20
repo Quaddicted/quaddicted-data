@@ -58,9 +58,9 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "provides": [
-  "remobilize=1.1J"
- ],
+ "provides": {
+  "remobilize": "1.1J"
+ },
  "release_date": "2023-10-08",
  "release_group": "remobilize",
  "sha256": "5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f",

@@ -1111,9 +1111,9 @@
   "UPDATE, 15 Feb 2023: <a href=\"15bbc5dc0eb3fee5763835cea1aa62ab263545ca8c04aaa019982d45d1e8d11d\">new version v2.2</a> features updated versions of all episode 1 maps and much much more.",
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "provides": [
-  "dwell=1.2"
- ],
+ "provides": {
+  "dwell": "1.2"
+ },
  "release_date": "2020-10-07",
  "release_group": "dwell",
  "sha256": "7b9a1c82d77a7ebdc4f55ee758e7cc493f521df87772bb7c6eccc8037a41d8fa",

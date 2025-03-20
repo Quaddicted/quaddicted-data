@@ -29,9 +29,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "tc_cemix=1.1"
- ],
+ "provides": {
+  "tc_cemix": "1.1"
+ },
  "release_date": "2024-07-27",
  "release_group": "tc_cemix",
  "sha256": "68b42dbcdae2b9e7136f0575034b6eebdd67dfa7c3a9af06b65904aadeae225a",

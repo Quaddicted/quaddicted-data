@@ -591,9 +591,9 @@
   "There's no custom start map; load the map manually via console: \"map teuthis\"",
   " Probably requires a modern engine / source port with increased limits."
  ],
- "provides": [
-  "teuthis=3.0"
- ],
+ "provides": {
+  "teuthis": "3.0"
+ },
  "release_date": "2023-01-11",
  "release_group": "teuthis",
  "sha256": "786a9dc4c48d44a1a34f89e235b0cfd90b67148e23503458fdc54c757ee9df2a",

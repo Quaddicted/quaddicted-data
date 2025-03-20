@@ -26,9 +26,9 @@
  "notes": [
   "This map requires an engine with increased limits."
  ],
- "provides": [
-  "masque=2.0"
- ],
+ "provides": {
+  "masque": "2.0"
+ },
  "release_date": "2006-10-13",
  "release_group": "masque",
  "sha256": "c38af7e50ee791b94accbfe97285499571b6b212ad09142fff44ea9c9c18349e",

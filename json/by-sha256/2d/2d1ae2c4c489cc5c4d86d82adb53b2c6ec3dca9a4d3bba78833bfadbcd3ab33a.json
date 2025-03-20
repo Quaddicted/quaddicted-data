@@ -23,9 +23,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "polybase=2.0"
- ],
+ "provides": {
+  "polybase": "2.0"
+ },
  "release_date": "1998-04-25",
  "release_group": "polybase",
  "sha256": "2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a",
