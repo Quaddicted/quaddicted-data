@@ -31,9 +31,9 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "provides": [
-  "intrusion=1.0"
- ],
+ "provides": {
+  "intrusion": "1.0"
+ },
  "release_date": "2018-06-28",
  "release_group": "intrusion",
  "sha256": "e1ddc26080779bb56d197e19241e6452f95045eda511efff92e525f0d784a5ec",

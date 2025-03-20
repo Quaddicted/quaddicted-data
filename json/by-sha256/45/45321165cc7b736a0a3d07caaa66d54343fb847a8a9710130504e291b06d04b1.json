@@ -1859,9 +1859,9 @@
   "UPDATE, 11 August 2022: This version has major bugs. The authors strongly recommend playing the <a href=\"848b3d9f71de828890839ced4c5c2799ec25a07e111b61c5787b9a401740b95c\">v1.2 patched version</a> instead.",
   "Requires a modern engine / source port with increased limits."
  ],
- "provides": [
-  "ctsj2=1.0"
- ],
+ "provides": {
+  "ctsj2": "1.0"
+ },
  "release_date": "2022-08-09",
  "release_group": "ctsj2",
  "sha256": "45321165cc7b736a0a3d07caaa66d54343fb847a8a9710130504e291b06d04b1",

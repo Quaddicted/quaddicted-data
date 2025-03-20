@@ -457,9 +457,9 @@
  "notes": [
   "As a reminder: Copper is a gameplay mod, you need to find maps for it yourself. Any vanilla Quake map is compatible with it, or a href=\"../?include=metadata-%3Etags.cs.%5B%22mod%3Dcopper%22%5D\"search this database for the 'copper' tag</a>."
  ],
- "provides": [
-  "copper=1.20"
- ],
+ "provides": {
+  "copper": "1.20"
+ },
  "release_date": "2022-11-27",
  "release_group": "copper",
  "sha256": "f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8",

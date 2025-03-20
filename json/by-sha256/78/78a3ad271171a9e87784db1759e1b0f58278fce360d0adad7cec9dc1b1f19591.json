@@ -28,9 +28,9 @@
   "extract": "{base}/rde/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "rdefull=1.0"
- ],
+ "provides": {
+  "rdefull": "1.0"
+ },
  "release_date": "1999-08-13",
  "release_group": "rdefull",
  "sha256": "78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591",

@@ -29,9 +29,9 @@
   "extract": "{base}/shadowgl/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "shadow=2.0"
- ],
+ "provides": {
+  "shadow": "2.0"
+ },
  "release_date": "1997-02-16",
  "release_group": "shadow",
  "sha256": "a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd",

@@ -85,9 +85,9 @@
  "notes": [
   "A modern engine / source port with increased limits is required."
  ],
- "provides": [
-  "alkaline=1.20"
- ],
+ "provides": {
+  "alkaline": "1.20"
+ },
  "release_date": "2023-03-03",
  "release_group": "alkaline",
  "sha256": "5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780",

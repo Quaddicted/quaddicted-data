@@ -23,9 +23,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "gmsp3=2.0"
- ],
+ "provides": {
+  "gmsp3": "2.0"
+ },
  "release_date": "2004-06-01",
  "release_group": "gmsp3",
  "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",

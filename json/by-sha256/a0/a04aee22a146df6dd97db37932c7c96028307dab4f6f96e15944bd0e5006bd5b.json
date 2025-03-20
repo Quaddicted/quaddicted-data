@@ -932,9 +932,9 @@
  "notes": [
   "This map has specific technical requirements, please see the included readme for details."
  ],
- "provides": [
-  "immortal=1.9"
- ],
+ "provides": {
+  "immortal": "1.9"
+ },
  "release_date": "2024-08-04",
  "release_group": "immortal",
  "sha256": "a04aee22a146df6dd97db37932c7c96028307dab4f6f96e15944bd0e5006bd5b",

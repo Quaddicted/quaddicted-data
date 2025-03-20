@@ -101,9 +101,9 @@
   "Requires <a href=\"484334d9305c5097b8b735bd1b91d943753c5fd77d65401b519b84b93c00f82c\">Copper v1.19+</a> (NOT included).",
   "Probably requires a modern engine / source port with increased limits."
  ],
- "provides": [
-  "nkstrq1m1=1.0"
- ],
+ "provides": {
+  "nkstrq1m1": "1.0"
+ },
  "release_date": "2022-10-24",
  "release_group": "nkstrq1m1",
  "sha256": "8398b08a58d6381e003264163e780f8a6e86ff3243ad52b628bbe0cac0cb8ec3",

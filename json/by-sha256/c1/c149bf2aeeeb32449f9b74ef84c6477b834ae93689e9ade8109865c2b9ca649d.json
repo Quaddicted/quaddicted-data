@@ -34,9 +34,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "4fiffy5=1.0"
- ],
+ "provides": {
+  "4fiffy5": "1.0"
+ },
  "release_date": "1997-09-09",
  "release_group": "4fiffy5",
  "sha256": "c149bf2aeeeb32449f9b74ef84c6477b834ae93689e9ade8109865c2b9ca649d",

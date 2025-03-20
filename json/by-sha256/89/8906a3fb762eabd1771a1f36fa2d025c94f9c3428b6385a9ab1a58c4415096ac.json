@@ -25,9 +25,9 @@
   "extract": "{base}/coe/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "coe=1.1"
- ],
+ "provides": {
+  "coe": "1.1"
+ },
  "release_date": "2001-01-08",
  "release_group": "coe",
  "sha256": "8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac",

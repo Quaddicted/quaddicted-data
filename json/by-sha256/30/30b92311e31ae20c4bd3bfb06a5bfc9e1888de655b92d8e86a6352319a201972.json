@@ -39,9 +39,9 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "quoth=2.2"
- ],
+ "provides": {
+  "quoth": "2.2"
+ },
  "release_date": "2014-05-04",
  "release_group": "quoth",
  "sha256": "30b92311e31ae20c4bd3bfb06a5bfc9e1888de655b92d8e86a6352319a201972",

@@ -445,9 +445,9 @@
  "notes": [
   "This is a standalone version which does not require the previous one.<br>A newer version is available <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">here</a>."
  ],
- "provides": [
-  "copper=1.11"
- ],
+ "provides": {
+  "copper": "1.11"
+ },
  "release_date": "2020-07-15",
  "release_group": "copper",
  "sha256": "dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df",

@@ -56,9 +56,9 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "provides": [
-  "intrusion=2.0"
- ],
+ "provides": {
+  "intrusion": "2.0"
+ },
  "release_date": "2021-05-23",
  "release_group": "intrusion",
  "sha256": "74ff32323efdfe9d39c629b694f5db5cabfd1ca4b8c00a8f4f6743a90cd4882e",

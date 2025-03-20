@@ -29,9 +29,9 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "dxm=2.0"
- ],
+ "provides": {
+  "dxm": "2.0"
+ },
  "release_date": "1997-09-21",
  "release_group": "dxm",
  "sha256": "ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6",

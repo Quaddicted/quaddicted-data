@@ -54,9 +54,9 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "provides": [
-  "alkaline=1.00"
- ],
+ "provides": {
+  "alkaline": "1.00"
+ },
  "release_date": "2021-06-13",
  "release_group": "alkaline",
  "sha256": "2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5",
