@@ -1,51 +1,60 @@
 {
+ "authors": [
+  "Avix"
+ ],
  "bytes": 5835451,
+ "depends": [
+  "copper>=1.20"
+ ],
  "description": "A map featuring multiple quad fights in a castle surrounding a lake. Hence the name. The author's first Quake map.",
- "files": {
-  "avix_qcastle.bsp": {
+ "files": [
+  {
    "bytes": 11498272,
+   "path": "avix_qcastle.bsp",
    "sha256": "c3d1c9a4c5000042e4a0d241f76453b99642875c2162c48977c845224941a201",
    "timestamp": "2023-05-30T14:12:10.000Z"
   },
-  "avix_qcastle.lit": {
+  {
    "bytes": 3896690,
+   "path": "avix_qcastle.lit",
    "sha256": "f5b03a544908766e06d286a3bade2d61d310f94409da6beddcc465e4e41f3be2",
    "timestamp": "2023-05-30T14:12:10.000Z"
   },
-  "avix_qcastle.map": {
+  {
    "bytes": 6362223,
+   "path": "avix_qcastle.map",
    "sha256": "7305774db23a3febd2d694dc12ec25ff0eee1fae9a743ca005c2cdb5ff37abbb",
    "timestamp": "2023-05-30T14:11:12.000Z"
   },
-  "avix_qcastle.txt": {
+  {
    "bytes": 1950,
+   "path": "avix_qcastle.txt",
    "sha256": "807e50ae1bb776311ff25e1b6902814d9581574c7c805959ae8100a194451fe3",
    "timestamp": "2023-05-29T19:09:30.000Z"
   },
-  "charlie.wad": {
+  {
    "bytes": 1915828,
+   "path": "charlie.wad",
    "sha256": "fbd10762d40ea018005bcacbe483beea3b79b75eff840db566bcc345a616fca6",
    "timestamp": "2023-05-27T03:00:44.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2023-05-05",
  "sha256": "4c6e674d6ee457074e13151d8ecc07cfd8f8fcdca95bdb6f21687e55bca6612d",
  "tags": [
-  "author=Avix",
   "commandline=-game copper",
   "dependency=copper_v1_20",
-  "depends=('copper>=1.20')",
   "filename=avix_qcastle.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "release_date=2023-05-05",
-  "title=Quad Lake Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Quad Lake Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/avix_qcastle.zip",
   "https://www.quaddicted.com/files/by-sha256/4c/4c6e674d6ee457074e13151d8ecc07cfd8f8fcdca95bdb6f21687e55bca6612d/avix_qcastle.zip"

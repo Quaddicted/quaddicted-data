@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Steve Clarke"
+ ],
  "bytes": 787339,
  "description": "Medium sized Wizard castle.",
- "files": {
-  "sgc6.bsp": {
+ "files": [
+  {
    "bytes": 1823924,
+   "path": "sgc6.bsp",
    "sha256": "b0d4e6319d5287b9a770507e61aedd38fee29e001f3ce410d85b745669e4d322",
    "timestamp": "1997-01-26T19:31:10.000Z"
   },
-  "sgc6.txt": {
+  {
    "bytes": 2024,
+   "path": "sgc6.txt",
    "sha256": "00e627adffb717687082d80d166677fbe587c120fe67f4d45c993f435e0df6cd",
    "timestamp": "1997-01-26T14:28:48.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-01-26",
  "sha256": "32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193",
  "tags": [
-  "author=Steve Clarke",
   "filename=sgc6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -28,14 +33,13 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/m_o.htm)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
-  "release_date=1997-01-26",
   "theme=castle",
   "theme=metal",
   "theme=wizard",
-  "title=Notlob's Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Notlob's Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/sgc6.zip",
   "https://www.quaddicted.com/files/by-sha256/32/32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193/sgc6.zip"

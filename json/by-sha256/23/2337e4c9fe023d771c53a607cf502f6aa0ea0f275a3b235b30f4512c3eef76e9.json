@@ -1,43 +1,48 @@
 {
+ "authors": [
+  "digs",
+  "scampie"
+ ],
  "bytes": 527087,
  "description": "Islands / 2 SP maps / digs, scampie",
- "files": {
-  "sm170_digs.bsp": {
+ "files": [
+  {
    "bytes": 1096396,
+   "path": "sm170_digs.bsp",
    "sha256": "2591081d5beb9ea5f3bbb08749f90e53e812de7bac6ea171e6802a50bf737bc2",
    "timestamp": "2013-05-19T13:39:54.000Z"
   },
-  "sm170_scampie.bsp": {
+  {
    "bytes": 281084,
+   "path": "sm170_scampie.bsp",
    "sha256": "62b20e1792de116b7478bc240d717180fe0fcea7b14ab141cd1541a15025f3c6",
    "timestamp": "2013-05-20T06:58:06.000Z"
   },
-  "sm170_scampie.map": {
+  {
    "bytes": 39180,
+   "path": "sm170_scampie.map",
    "sha256": "a8e641557031b42fcda361e5ebc34230aeabc7ddfd7389ec30b0c1bec954208b",
    "timestamp": "2013-05-20T06:58:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2013-05-20",
  "sha256": "2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9",
  "tags": [
-  "author=digs",
-  "author=scampie",
   "filename=sm170_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
   "mod=rubicon",
-  "release_date=2013-05-20",
   "startmap=sm170_digs",
   "startmap=sm170_scampie",
   "theme=rubicon",
-  "title=Speedmapping pack 170 - Islands",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Speedmapping pack 170 - Islands",
  "urls": [
   "https://www.quaddicted.com/filebase/sm170_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/23/2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9/sm170_pack.zip"

@@ -1,50 +1,56 @@
 {
+ "authors": [
+  "BlackPope",
+  "Jacek",
+  "Paintsniffing Joe",
+  "Zwiffle"
+ ],
  "bytes": 420122,
  "description": "Male manhood / 4 __ maps / Jacek, Paintsniffing Joe, BlackPope, Zwiffle",
- "files": {
-  "sm85_jacek.bsp": {
+ "files": [
+  {
    "bytes": 131580,
+   "path": "sm85_jacek.bsp",
    "sha256": "71c4c2307b0d2325dab752db10fc87ce396f5efe191e6e1084601afb9c19b5e3",
    "timestamp": "2004-07-17T19:09:20.000Z"
   },
-  "sm85_paintyj.bsp": {
+  {
    "bytes": 338396,
+   "path": "sm85_paintyj.bsp",
    "sha256": "409596429405370f68f761c5eada165161a93050b8bcbc3a05e045349de1cbdc",
    "timestamp": "2004-07-17T15:54:30.000Z"
   },
-  "sm85_pope.bsp": {
+  {
    "bytes": 479788,
+   "path": "sm85_pope.bsp",
    "sha256": "5ed5514ad703cd5a6ffecd15a07b06cc45717bd397a0c7458207642231080afc",
    "timestamp": "2004-07-17T16:30:54.000Z"
   },
-  "sm85_zwiffle.bsp": {
+  {
    "bytes": 282444,
+   "path": "sm85_zwiffle.bsp",
    "sha256": "3e795281cdfd4c55e7c400f94812119b1580395d88209446e8534e1ed2251800",
    "timestamp": "2004-07-17T17:07:14.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2005-08-06",
  "sha256": "dbb69a923c273554a1765ad60c632753a0530d54b372e7270b1b67d15ff45452",
  "tags": [
-  "author=BlackPope",
-  "author=Jacek",
-  "author=Paintsniffing Joe",
-  "author=Zwiffle",
   "filename=sm85_temp.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "release_date=2005-08-06",
   "startmap=sm85_jacek",
   "startmap=sm85_paintyj",
   "startmap=sm85_pope",
   "startmap=sm85_zwiffle",
-  "title=Speedmapping pack 85 - Male manhood",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Speedmapping pack 85 - Male manhood",
  "urls": [
   "https://www.quaddicted.com/filebase/sm85_temp.zip",
   "https://www.quaddicted.com/files/by-sha256/db/dbb69a923c273554a1765ad60c632753a0530d54b372e7270b1b67d15ff45452/sm85_temp.zip"

@@ -1,35 +1,39 @@
 {
+ "authors": [
+  "DAV"
+ ],
  "bytes": 678607,
  "description": "\"Stargate-themed\" map with lots of lava.",
- "files": {
-  "qkstarg.bsp": {
+ "files": [
+  {
    "bytes": 1750128,
+   "path": "qkstarg.bsp",
    "sha256": "b1b2cb97d55f415b4cee46e54b7a33015cf89e15b691a7f2f4f42344d7814c9e",
    "timestamp": "1998-07-07T22:31:30.000Z"
   },
-  "qkstarg.txt": {
+  {
    "bytes": 1989,
+   "path": "qkstarg.txt",
    "sha256": "ccd3386d605bb4cdbd3f594d04ebf36b1dd9b2cf1af27b3d7781bd8c781ee42a",
    "timestamp": "2000-01-13T18:50:26.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2000-01-13",
  "sha256": "8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a",
  "tags": [
-  "author=DAV",
   "filename=qkstarg.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.planetquake.com/davlevels/",
   "nonspecific_tag=stargate",
-  "release_date=2000-01-13",
-  "title=StarGate",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "StarGate",
  "urls": [
   "https://www.quaddicted.com/filebase/qkstarg.zip",
   "https://www.quaddicted.com/files/by-sha256/85/8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a/qkstarg.zip"

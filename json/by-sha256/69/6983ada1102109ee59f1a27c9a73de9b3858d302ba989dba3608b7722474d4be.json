@@ -1,40 +1,45 @@
 {
+ "authors": [
+  "GraveyardKaiser"
+ ],
  "bytes": 1180991,
  "description": "Unsealed map using a variety of textures.",
- "files": {
-  "voices.bsp": {
+ "files": [
+  {
    "bytes": 2883396,
+   "path": "voices.bsp",
    "sha256": "d9aa8bd48f7a8653ad6033d540858b05b003f91af8b0a6a1936b58ea5531e5f9",
    "timestamp": "2024-08-12T14:52:40.000Z"
   },
-  "voices.pts": {
+  {
    "bytes": 32207,
+   "path": "voices.pts",
    "sha256": "f2b7274eace08662d2aa5341d482208111240777468e8c8a7b81c2d152f43602",
    "timestamp": "2024-08-10T13:53:38.000Z"
   },
-  "voices.txt": {
+  {
    "bytes": 346,
+   "path": "voices.txt",
    "sha256": "30435424635e63d7e664a9ee7bfa3be803c431e855d3d6cdd5744d20156503e1",
    "timestamp": "2024-08-12T14:58:26.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2024-08-12",
  "sha256": "6983ada1102109ee59f1a27c9a73de9b3858d302ba989dba3608b7722474d4be",
  "tags": [
-  "author=GraveyardKaiser",
   "filename=voices.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/dead-voices.385/)",
-  "release_date=2024-08-12",
   "startmap=voices",
-  "title=Dead Voices",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Dead Voices",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/69/6983ada1102109ee59f1a27c9a73de9b3858d302ba989dba3608b7722474d4be/voices.zip",
   "https://x901.net/quaddictedfiles/voices.zip"

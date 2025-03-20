@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Hrimfaxi"
+ ],
  "bytes": 1675511,
  "description": "A big green swampy sewage system.",
- "files": {
-  "sewage.bsp": {
+ "files": [
+  {
    "bytes": 4027504,
+   "path": "sewage.bsp",
    "sha256": "ba09c1092eb75c55f99643f2fbcb20772874b8a9ec73ea8ad2c5c8f45532a569",
    "timestamp": "2006-04-15T18:48:28.000Z"
   },
-  "sewage.txt": {
+  {
    "bytes": 1624,
+   "path": "sewage.txt",
    "sha256": "7df58fd585e8bdc97a7541a3db176f943cbc66e6728d1678e13bf437556fdf64",
    "timestamp": "2006-04-15T18:27:28.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2006-04-15",
  "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "tags": [
-  "author=Hrimfaxi",
   "filename=sewage.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,17 +32,16 @@
   "link=[Func_msgboard](http://www.celephais.net/board/view_thread.php?id=44919)",
   "nonspecific_tag=difficult",
   "nonspecific_tag=hard",
-  "release_date=2006-04-15",
   "theme=medieval",
   "theme=metal",
   "theme=sewer",
   "theme=swamp",
   "theme=traps",
   "theme=wizard",
-  "title=Sewage devastation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Sewage devastation",
  "urls": [
   "https://www.quaddicted.com/filebase/sewage.zip",
   "https://www.quaddicted.com/files/by-sha256/37/370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c/sewage.zip"

@@ -1,36 +1,41 @@
 {
+ "authors": [
+  "Auhsan"
+ ],
  "bytes": 479100,
+ "depends": [
+  "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5"
+ ],
  "description": "Small base map.",
- "files": {
-  "AUHE1M15.BSP": {
+ "files": [
+  {
    "bytes": 1174412,
+   "path": "AUHE1M15.BSP",
    "sha256": "45866b472fa02cf284b53fa4e093f111eafefa223689aa18ee61645e7cff6f80",
    "timestamp": "1998-05-01T12:49:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/bad/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
  ],
+ "release_date": "1998-05-01",
  "sha256": "2cfc09ba89ad5d66154919cebf5d4c122d174a9296b7d09e68cd58014df6cc22",
  "tags": [
-  "author=Auhsan",
   "dependency=badpak",
-  "depends=168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
   "filename=auhe1m15.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=badpak",
-  "release_date=1998-05-01",
   "theme=base",
-  "title=Firestarter",
   "type=map",
   "zipbasedir=bad/maps/"
  ],
+ "title": "Firestarter",
  "urls": [
   "https://www.quaddicted.com/filebase/auhe1m15.zip",
   "https://www.quaddicted.com/files/by-sha256/2c/2cfc09ba89ad5d66154919cebf5d4c122d174a9296b7d09e68cd58014df6cc22/auhe1m15.zip"

@@ -1,33 +1,41 @@
 {
+ "authors": [
+  "mfx"
+ ],
  "bytes": 2125051,
+ "depends": [
+  "quoth>=2.0"
+ ],
  "description": "Medium-sized underground ruins in Knave style with many tight spaces and initially limited supplies. The map source is included.",
- "files": {
-  "mfxsp10.bsp": {
+ "files": [
+  {
    "bytes": 4325032,
+   "path": "mfxsp10.bsp",
    "sha256": "0db85d0d2ee7d6f949bfc6ff651aa30b37f7dbe01b428724aa98ed734d71a57a",
    "timestamp": "2013-04-23T13:40:10.000Z"
   },
-  "mfxsp10.map": {
+  {
    "bytes": 5508007,
+   "path": "mfxsp10.map",
    "sha256": "893b5e635af1683cad69b82b5a6ec0f69c076048413a0491f21477c4f6f1b310",
    "timestamp": "2013-04-23T14:05:10.000Z"
   },
-  "mfxsp10.txt": {
+  {
    "bytes": 3179,
+   "path": "mfxsp10.txt",
    "sha256": "7ebf7fa0b2a8becae0a0554492eb48dffbd1120e13a1c3553bba81a57dd8f37c",
    "timestamp": "2013-04-23T14:45:10.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2013-04-23",
  "sha256": "445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9",
  "tags": [
-  "author=mfx",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
-  "depends=('quoth>=2.0')",
   "filename=mfxsp10.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,7 +44,6 @@
   "mod=quoth",
   "nonspecific_tag=interconnectivity",
   "nonspecific_tag=than",
-  "release_date=2013-04-23",
   "source=included",
   "theme=boss",
   "theme=caverns",
@@ -44,10 +51,10 @@
   "theme=quoth",
   "theme=ruins",
   "theme=underground",
-  "title=Pain in the Arch",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
+ "title": "Pain in the Arch",
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp10.zip",
   "https://www.quaddicted.com/files/by-sha256/44/445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9/mfxsp10.zip"

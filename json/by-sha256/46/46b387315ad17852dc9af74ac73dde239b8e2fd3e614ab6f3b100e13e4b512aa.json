@@ -1,35 +1,42 @@
 {
+ "authors": [
+  "Chris Holden"
+ ],
  "bytes": 2570509,
  "description": "Around medium-sized blood cistern level using terracotta-style custom textures. The map source is included.",
- "files": {
-  "sincinch.bsp": {
+ "files": [
+  {
    "bytes": 3651932,
+   "path": "sincinch.bsp",
    "sha256": "1cd4e486ad95915e82da6eea07c2d493de8d670c82007410ea38f7f0cf2b90d6",
    "timestamp": "2020-05-03T23:55:56.000Z"
   },
-  "sincinch.lit": {
+  {
    "bytes": 1375859,
+   "path": "sincinch.lit",
    "sha256": "57506fad01c261bed63cf6b0c20c74a5e13cba8f95731b23cfbe2b95d6f8e270",
    "timestamp": "2020-05-03T23:55:56.000Z"
   },
-  "sincinch.map": {
+  {
    "bytes": 5433247,
+   "path": "sincinch.map",
    "sha256": "00dd95d3f072f0588cf0b18fe3eeba43845ab17ff894ceb09f5ed3b73016d9d7",
    "timestamp": "2020-05-03T23:55:12.000Z"
   },
-  "sincinch_readme.txt": {
+  {
    "bytes": 1958,
+   "path": "sincinch_readme.txt",
    "sha256": "376e2e4d158da42d854f9b15149af8f1d74e182484b4805475943413becebcf5",
    "timestamp": "2020-05-04T00:07:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2020-05-04",
  "sha256": "46b387315ad17852dc9af74ac73dde239b8e2fd3e614ab6f3b100e13e4b512aa",
  "tags": [
-  "author=Chris Holden",
   "filename=sincinch.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,15 +44,14 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61883)",
   "map_size=medium",
   "nonspecific_tag=textures",
-  "release_date=2020-05-04",
   "source=included",
   "theme=blood",
   "theme=cistern",
-  "title=Sinister Cistern",
   "type=map",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Sinister Cistern",
  "urls": [
   "https://www.quaddicted.com/filebase/sincinch.zip",
   "https://www.quaddicted.com/files/by-sha256/46/46b387315ad17852dc9af74ac73dde239b8e2fd3e614ab6f3b100e13e4b512aa/sincinch.zip"

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Utah"
+ ],
  "bytes": 768464,
  "description": "Small Wizard castle.",
- "files": {
-  "death.bsp": {
+ "files": [
+  {
    "bytes": 1791152,
+   "path": "death.bsp",
    "sha256": "149d912f3b5965deabfa969ed5db2cefdbd2f182a34f1c1155430979bdf9082d",
    "timestamp": "1997-04-01T19:15:04.000Z"
   },
-  "death.txt": {
+  {
    "bytes": 1076,
+   "path": "death.txt",
    "sha256": "817c6ed9104389a9a4fb314f345b556655534b4b89e53d7adcbaffc51a367a91",
    "timestamp": "1997-04-01T19:30:06.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-04-01",
  "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
  "tags": [
-  "author=Utah",
   "filename=utah.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,7 +36,6 @@
   "nonspecific_tag=difficult",
   "nonspecific_tag=hard",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-04-01",
   "startmap=death",
   "theme=castle",
   "theme=classic",
@@ -41,10 +45,10 @@
   "theme=secrets",
   "theme=super secret",
   "theme=wizard",
-  "title=Death's Taste",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Death's Taste",
  "urls": [
   "https://www.quaddicted.com/filebase/utah.zip",
   "https://www.quaddicted.com/files/by-sha256/e1/e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020/utah.zip"

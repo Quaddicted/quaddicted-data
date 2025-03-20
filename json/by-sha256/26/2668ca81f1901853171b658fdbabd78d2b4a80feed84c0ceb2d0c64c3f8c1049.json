@@ -1,48 +1,54 @@
 {
+ "authors": [
+  "Davide Perdon"
+ ],
  "bytes": 6569540,
  "description": "Medieval themed map dressed in Makkon textures, with occasionally sparse health.",
- "files": {
-  "thefortressofdoom.bsp": {
+ "files": [
+  {
    "bytes": 14689552,
+   "path": "thefortressofdoom.bsp",
    "sha256": "b5b3cf3bc7fdbe0e9cbd79d0e7363573a3917f34df7841ede84c3bf5a5654e30",
    "timestamp": "2023-11-01T11:26:46.000Z"
   },
-  "thefortressofdoom.lit": {
+  {
    "bytes": 1140776,
+   "path": "thefortressofdoom.lit",
    "sha256": "a38c6386ce58b1813a1d95ae2b2a0f62126a6a2c42b4648467c4a88bb7451d58",
    "timestamp": "2023-11-01T11:26:46.000Z"
   },
-  "thefortressofdoom.map": {
+  {
    "bytes": 6850292,
+   "path": "thefortressofdoom.map",
    "sha256": "e0edcba68731b80227c786bf42c0db0944577b4efdc23959457f787dadf570d8",
    "timestamp": "2023-11-01T11:25:10.000Z"
   },
-  "thefortressofdoom.txt": {
+  {
    "bytes": 2023,
+   "path": "thefortressofdoom.txt",
    "sha256": "ac68587069746800ea19cb117f757acae9dfdbf4c1cbe7af756688c9a11ed538",
    "timestamp": "2024-01-30T18:22:30.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
+ "release_date": "2024-01-30",
  "sha256": "2668ca81f1901853171b658fdbabd78d2b4a80feed84c0ceb2d0c64c3f8c1049",
  "tags": [
-  "author=Davide Perdon",
   "filename=thefortressofdoom.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/the-fortress-of-doom.314/)",
-  "release_date=2024-01-30",
   "startmap=thefortressofdoom",
-  "title=The Fortress of Doom",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Fortress of Doom",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/26/2668ca81f1901853171b658fdbabd78d2b4a80feed84c0ceb2d0c64c3f8c1049/thefortressofdoom.zip",
   "https://x901.net/quaddictedfiles/thefortressofdoom.zip"

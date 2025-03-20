@@ -1,35 +1,30 @@
 {
+ "authors": [
+  "Andrew Smith"
+ ],
  "bytes": 491373,
  "description": "Medium sized detailed Metal level with base and medieval monsters. Comes with a start map. Unnecessarily released as a PAK.",
- "files": {
-  "pak0.pak": {
+ "files": [
+  {
    "bytes": 1157568,
-   "files": {
-    "maps/epoch.bsp": {
-     "bytes": 124420,
-     "sha256": "6896c1fd4517d174c7acc8bc9ee874815fa4b21865fb37a02e4d29fe4f057447"
-    },
-    "maps/epoch1m2.bsp": {
-     "bytes": 1033008,
-     "sha256": "e70094b770cf221e8af0dc88aad759ef0099fd259e96d8cddb433e7d85fee1fa"
-    }
-   },
+   "path": "pak0.pak",
    "sha256": "b86298702b13b925c15f386c46872e9eace8939beb13b75cd2aac3830ad22458",
    "timestamp": "1996-11-17T03:40:16.000Z"
   },
-  "quard.txt": {
+  {
    "bytes": 3552,
+   "path": "quard.txt",
    "sha256": "2f3de452d36937b79950bb73cd0e2e00b6be4ccfa773c048fe92c61d2d911d3f",
    "timestamp": "1996-11-17T04:06:50.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/guard/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-11-17",
  "sha256": "1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798",
  "tags": [
-  "author=Andrew Smith",
   "commandline=-game guard",
   "filename=guard.zip",
   "game=quake",
@@ -41,17 +36,16 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=start",
-  "release_date=1996-11-17",
   "startmap=epoch",
   "theme=cave",
   "theme=cavern",
   "theme=metal",
   "theme=runic",
   "theme=traps",
-  "title=The Guardhouse",
   "type=mod",
   "zipbasedir=guard/"
  ],
+ "title": "The Guardhouse",
  "urls": [
   "https://www.quaddicted.com/filebase/guard.zip",
   "https://www.quaddicted.com/files/by-sha256/1d/1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798/guard.zip"

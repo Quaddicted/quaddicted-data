@@ -1,98 +1,118 @@
 {
+ "authors": [
+  "Paul Lawitzki"
+ ],
  "bytes": 19298538,
+ "depends": [
+  "copper>=1.30"
+ ],
  "description": "Large Escher-themed map using a completely new texture set and skybox. Features spacious rooms, vertical combat and many innovative entity setups, such as buttons requiring specific weapons to progress.",
- "files": {
-  "copper/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-25T19:04:36.000Z"
   },
-  "copper/gfx/": {
+  {
    "bytes": 0,
+   "path": "copper/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-02-01T20:45:00.000Z"
   },
-  "copper/gfx/env/": {
+  {
    "bytes": 0,
+   "path": "copper/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-08-24T19:18:14.000Z"
   },
-  "copper/gfx/env/plaw03_bk.tga": {
+  {
    "bytes": 2979754,
+   "path": "copper/gfx/env/plaw03_bk.tga",
    "sha256": "17306466e499f9cd93862591f5f90ef56089756f45bd43a2fd9513cee7344858",
    "timestamp": "2023-08-24T19:16:30.000Z"
   },
-  "copper/gfx/env/plaw03_dn.tga": {
+  {
    "bytes": 2997353,
+   "path": "copper/gfx/env/plaw03_dn.tga",
    "sha256": "fc1a0f251438ad257c09c622038576ba814de98f1509ae0c9b4b0495875c8fa9",
    "timestamp": "2023-08-24T19:16:36.000Z"
   },
-  "copper/gfx/env/plaw03_ft.tga": {
+  {
    "bytes": 2942433,
+   "path": "copper/gfx/env/plaw03_ft.tga",
    "sha256": "1b6fec3c49153cc51883645db44ecc137d0b868290758f6e87fd0a11dd469a9f",
    "timestamp": "2023-08-24T19:16:42.000Z"
   },
-  "copper/gfx/env/plaw03_lf.tga": {
+  {
    "bytes": 2882240,
+   "path": "copper/gfx/env/plaw03_lf.tga",
    "sha256": "361007c3f082e5c1538901c14030ee7d22e3584af3c22b15edb9bc43f6db96d7",
    "timestamp": "2023-08-24T19:16:48.000Z"
   },
-  "copper/gfx/env/plaw03_rt.tga": {
+  {
    "bytes": 2973576,
+   "path": "copper/gfx/env/plaw03_rt.tga",
    "sha256": "4f6c998a570562a9bd74e9584d54dd08b047913f61916ebbc66286c06a8fd7bb",
    "timestamp": "2023-08-24T19:16:52.000Z"
   },
-  "copper/gfx/env/plaw03_up.tga": {
+  {
    "bytes": 2971746,
+   "path": "copper/gfx/env/plaw03_up.tga",
    "sha256": "acc5128112ed0c2f0f8e5287b6023975327f0aa64bc28d99a50d8992e024c26a",
    "timestamp": "2023-08-24T19:17:00.000Z"
   },
-  "copper/maps/": {
+  {
    "bytes": 0,
+   "path": "copper/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-04T19:19:48.000Z"
   },
-  "copper/maps/plaw03.bsp": {
+  {
    "bytes": 22421892,
+   "path": "copper/maps/plaw03.bsp",
    "sha256": "0343c6eab06bdf56c64f4d24e9efbc4e19352e2756327c8fee8cb5c59ee33654",
    "timestamp": "2024-01-08T20:00:24.000Z"
   },
-  "copper/maps/plaw03.lit": {
+  {
    "bytes": 5874830,
+   "path": "copper/maps/plaw03.lit",
    "sha256": "4c3eced6e8da05f697d4f020d534380d6c29c9cbac557f272e608abbaaa93d3b",
    "timestamp": "2024-01-08T20:00:26.000Z"
   },
-  "copper/plaw03.txt": {
+  {
    "bytes": 5605,
+   "path": "copper/plaw03.txt",
    "sha256": "ead2957d6a7975f68009d253fea84256172ba973dd22abbcd19563826cc5f9da",
    "timestamp": "2024-01-25T19:03:54.000Z"
   },
-  "copper/source/": {
+  {
    "bytes": 0,
+   "path": "copper/source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-04T19:22:34.000Z"
   },
-  "copper/source/plaw03.map": {
+  {
    "bytes": 17686937,
+   "path": "copper/source/plaw03.map",
    "sha256": "4a18e14bf41426e8ae078e0c67e71b401a823908bfaab8b082e920be1f028f03",
    "timestamp": "2024-01-08T19:59:58.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility. The original package was bundled with a depreciated version of Copper which has been removed to prevent conflicts.",
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2024-01-04",
  "sha256": "152db76fa2af981c5e4dbd823681f0431c9635df5156171e0e9ed5efea8e4b4f",
  "tags": [
-  "author=Paul Lawitzki",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=plaw03.zip",
   "game=quake",
@@ -100,11 +120,10 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-tricksters-domain.304/)",
   "map_size=large",
   "mod=copper",
-  "release_date=2024-01-04",
   "startmap=plaw03",
-  "title=The Trickster's Domain",
   "type=map"
  ],
+ "title": "The Trickster's Domain",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/15/152db76fa2af981c5e4dbd823681f0431c9635df5156171e0e9ed5efea8e4b4f/plaw03.zip",
   "https://x901.net/quaddictedfiles/plaw03.zip"

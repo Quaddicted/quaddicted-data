@@ -1,37 +1,41 @@
 {
+ "authors": [
+  "Ben Watson"
+ ],
  "bytes": 539886,
  "description": "Small level, a fort and a castle with abstract blue interiors in a canyon. Low ammo balance.",
- "files": {
-  "Shoradar.bsp": {
+ "files": [
+  {
    "bytes": 1233280,
+   "path": "Shoradar.bsp",
    "sha256": "e5b244f949393167f1be2e6cd2e501d3f06b83f03b4209482b154b9ef3f1aa7a",
    "timestamp": "1998-03-08T19:16:32.000Z"
   },
-  "Shoradar.txt": {
+  {
    "bytes": 2275,
+   "path": "Shoradar.txt",
    "sha256": "b42e157a6ccc45e90d5fdd41df1ce9282515114d77b6623904efc13d52cd3233",
    "timestamp": "1998-03-08T19:36:10.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1998-03-08",
  "sha256": "697e90d6cbaa504deaa86f61cd12c8ec3867617c7ce0f46a8c2ecb1417621bec",
  "tags": [
-  "author=Ben Watson",
   "filename=shoradar.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[erc's Underdog](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=279)",
   "map_size=small",
-  "release_date=1998-03-08",
   "theme=base",
   "theme=castle",
-  "title=Shoradar",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Shoradar",
  "urls": [
   "https://www.quaddicted.com/filebase/shoradar.zip",
   "https://www.quaddicted.com/files/by-sha256/69/697e90d6cbaa504deaa86f61cd12c8ec3867617c7ce0f46a8c2ecb1417621bec/shoradar.zip"

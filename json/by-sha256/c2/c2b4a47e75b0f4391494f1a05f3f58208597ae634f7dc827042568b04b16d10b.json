@@ -1,35 +1,38 @@
 {
+ "authors": [
+  "John Harley"
+ ],
  "bytes": 821733,
  "description": "Medium-sized cramped mixed-texture dungeon with an ice hockey arena.",
- "files": {
-  "GOSTOWN7.BSP": {
+ "files": [
+  {
    "bytes": 2010740,
+   "path": "GOSTOWN7.BSP",
    "sha256": "19b48d7fa9ff116ba3d7937c73ca174e144af4f710d621cad6cf41a8d72afcb7",
    "timestamp": "1998-01-08T01:41:12.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "Also available as part of <a href=\"76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6\">jhhub6</a>."
  ],
+ "release_date": "1998-01-08",
  "sha256": "c2b4a47e75b0f4391494f1a05f3f58208597ae634f7dc827042568b04b16d10b",
  "tags": [
-  "author=John Harley",
   "filename=gostown7.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
-  "release_date=1998-01-08",
   "theme=base",
   "theme=mixtex",
   "theme=traps",
-  "title=The Hockey Arena",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Hockey Arena",
  "urls": [
   "https://www.quaddicted.com/filebase/gostown7.zip",
   "https://www.quaddicted.com/files/by-sha256/c2/c2b4a47e75b0f4391494f1a05f3f58208597ae634f7dc827042568b04b16d10b/gostown7.zip"

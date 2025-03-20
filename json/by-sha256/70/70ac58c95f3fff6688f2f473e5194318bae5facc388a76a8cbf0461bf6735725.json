@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Matt Sefton"
+ ],
  "bytes": 890491,
  "description": "Medium sized medieval map.",
- "files": {
-  "lostwrld.bsp": {
+ "files": [
+  {
    "bytes": 2030384,
+   "path": "lostwrld.bsp",
    "sha256": "301691c656488825d6a025d44bffe22248a251eda615264b434746c4952a5845",
    "timestamp": "1997-03-28T21:22:16.000Z"
   },
-  "lostwrld.txt": {
+  {
    "bytes": 4911,
+   "path": "lostwrld.txt",
    "sha256": "a16a710e095b1f3d76d85eb6c98058cc8047d80483be568820c90589834ba4d1",
    "timestamp": "1997-03-28T22:11:14.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-03-28",
  "sha256": "70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725",
  "tags": [
-  "author=Matt Sefton",
   "filename=lostwrld.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -30,12 +35,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-03-28",
   "theme=medieval",
-  "title=The Lost World",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Lost World",
  "urls": [
   "https://www.quaddicted.com/filebase/lostwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725/lostwrld.zip"

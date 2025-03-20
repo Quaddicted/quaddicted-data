@@ -1,26 +1,35 @@
 {
+ "authors": [
+  "Howard \"GlassMan\" Shaw"
+ ],
  "bytes": 2334685,
+ "current_main_group_package": true,
  "description": "This is the \"transparent water\" version of <a href=\"dc2f8cbe52212669c7ac09cd92aecba8b2f6daca1f7532135868bc73a962c8b2\">gmsp3</a>.",
- "files": {
-  "gmsp3tw.bsp": {
+ "files": [
+  {
    "bytes": 5610160,
+   "path": "gmsp3tw.bsp",
    "sha256": "dfb49ce30627f69ef54a71aebdc4b00964f6e95eab5494b85532e1df031772d0",
    "timestamp": "2004-06-01T08:32:56.000Z"
   },
-  "gmsp3tw.txt": {
+  {
    "bytes": 5220,
+   "path": "gmsp3tw.txt",
    "sha256": "d6541d3e6e68b4de2ce8a1be736971585a18dc7420a9e037726a773719867be8",
    "timestamp": "2004-06-01T22:04:00.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "provides": [
+  "gmsp3=2.0"
+ ],
+ "release_date": "2004-06-01",
+ "release_group": "gmsp3",
  "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",
  "tags": [
-  "author=Howard \"GlassMan\" Shaw",
-  "current_main_group_package=yes",
   "filename=gmsp3tw.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,18 +41,15 @@
   "nonspecific_tag=glquake",
   "nonspecific_tag=hard",
   "nonspecific_tag=textures",
-  "provides='gmsp3=2.0'",
-  "release_date=2004-06-01",
-  "release_group=gmsp3",
   "theme=castle",
   "theme=medieval",
-  "title=Day of the Lords [transparent water]",
   "type=map",
-  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Day of the Lords [transparent water]",
  "urls": [
   "https://www.quaddicted.com/filebase/gmsp3tw.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469/gmsp3tw.zip"
- ]
+ ],
+ "version": "2.0"
 }

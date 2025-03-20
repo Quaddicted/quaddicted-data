@@ -1,41 +1,45 @@
 {
+ "authors": [
+  "Malcolm Sailor (aka hayduke)"
+ ],
  "bytes": 495012,
  "description": "Small Metal level.",
- "files": {
-  "HAYDUKE1.BSP": {
+ "files": [
+  {
    "bytes": 1168948,
+   "path": "HAYDUKE1.BSP",
    "sha256": "d4fa34607a1c1fb77717cbb449f3f7e16f8bc0eb839001d0b905e81f20879c78",
    "timestamp": "1997-07-29T16:05:18.000Z"
   },
-  "HAYDUKE1.TXT": {
+  {
    "bytes": 3109,
+   "path": "HAYDUKE1.TXT",
    "sha256": "91dbe4db11f4ac845d2977c400c857f733083b9d5b071a75bd8788fde536eee0",
    "timestamp": "1997-07-31T18:02:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "There is no gold key, the intended way over the GK bars is a rocket jump."
  ],
+ "release_date": "1997-07-31",
  "sha256": "9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f",
  "tags": [
-  "author=Malcolm Sailor (aka hayduke)",
   "filename=hayduke1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsh.htm)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
-  "release_date=1997-07-31",
   "theme=metal",
   "theme=runic",
-  "title=Ephermerality",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Ephermerality",
  "urls": [
   "https://www.quaddicted.com/filebase/hayduke1.zip",
   "https://www.quaddicted.com/files/by-sha256/99/9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f/hayduke1.zip"

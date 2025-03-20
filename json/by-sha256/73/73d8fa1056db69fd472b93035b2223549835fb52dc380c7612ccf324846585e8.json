@@ -1,36 +1,40 @@
 {
+ "authors": [
+  "Jarkko Heilio"
+ ],
  "bytes": 548017,
  "description": "This is the second version of <a href=\"724acc0a88f1718f9613dca4e78fa9710eb49a3d3b0360b3eec8d5d016821f73\">Mountain Base</a>, ostensibly being quite different in terms of gameplay.",
- "files": {
-  "mountbase2.bsp": {
+ "files": [
+  {
    "bytes": 1260444,
+   "path": "mountbase2.bsp",
    "sha256": "b9bc381199c2134c3f2aa88bb39f80db18e9dbfbfcac9df1adac73b252d4f12b",
    "timestamp": "1997-11-09T19:24:56.000Z"
   },
-  "mountbase2.txt": {
+  {
    "bytes": 3015,
+   "path": "mountbase2.txt",
    "sha256": "a2b1088d1f2749261620bc8583e27cb979480fb6e6229f75a446691225e91a11",
    "timestamp": "1997-11-10T17:10:14.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-11-10",
  "sha256": "73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8",
  "tags": [
-  "author=Jarkko Heilio",
   "filename=mountbase2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
-  "release_date=1997-11-10",
   "theme=base",
   "theme=plain",
-  "title=Mountain Base 2",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Mountain Base 2",
  "urls": [
   "https://www.quaddicted.com/filebase/mountbase2.zip",
   "https://www.quaddicted.com/files/by-sha256/73/73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8/mountbase2.zip"

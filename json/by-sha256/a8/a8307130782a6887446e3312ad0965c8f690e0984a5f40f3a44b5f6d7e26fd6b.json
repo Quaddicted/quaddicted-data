@@ -1,28 +1,33 @@
 {
+ "authors": [
+  "Brian Hess a.k.a. Wendigo"
+ ],
  "bytes": 418614,
  "description": "Small moon base with custom textures. A deathmatch level with monsters.",
- "files": {
-  "lunar2.bsp": {
+ "files": [
+  {
    "bytes": 1261056,
+   "path": "lunar2.bsp",
    "sha256": "3889beb38371e298367ce044bf9912482cbf5b1402e30dd3e55ee27c49a55257",
    "timestamp": "1997-03-31T03:29:58.000Z"
   },
-  "lunar2.txt": {
+  {
    "bytes": 3232,
+   "path": "lunar2.txt",
    "sha256": "664ee53f9c07ee0501e06278719c5d492276b7e8e2e8a741a2942acc19005326",
    "timestamp": "1997-03-31T09:36:14.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This level does not have an exit. A hotfix that adds one is available <a href=\"http://quaketastic.com/files/single_player/maps/lunar2_spfix.zip\">here</a>."
  ],
+ "release_date": "1997-03-31",
  "sha256": "a8307130782a6887446e3312ad0965c8f690e0984a5f40f3a44b5f6d7e26fd6b",
  "tags": [
-  "author=Brian Hess a.k.a. Wendigo",
   "filename=lunar2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -30,15 +35,14 @@
   "map_size=small",
   "nonspecific_tag=moon",
   "nonspecific_tag=textures",
-  "release_date=1997-03-31",
   "theme=base",
   "theme=doom",
   "theme=realism",
   "theme=space",
-  "title=Lunar Base 2",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Lunar Base 2",
  "urls": [
   "https://www.quaddicted.com/filebase/lunar2.zip",
   "https://www.quaddicted.com/files/by-sha256/a8/a8307130782a6887446e3312ad0965c8f690e0984a5f40f3a44b5f6d7e26fd6b/lunar2.zip"

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "marty"
+ ],
  "bytes": 653578,
  "description": "Small detailed Base map with a lava cavern bit.",
- "files": {
-  "prey2.bsp": {
+ "files": [
+  {
    "bytes": 1451204,
+   "path": "prey2.bsp",
    "sha256": "553926b7164e29b6f2d81073916cfa20ec6fc46aa7c3149d00bdb65b722f8569",
    "timestamp": "1997-06-05T22:10:26.000Z"
   },
-  "prey2.txt": {
+  {
    "bytes": 3496,
+   "path": "prey2.txt",
    "sha256": "b83fe9e8221b2a9456f3c45a4c273cc4d023e5116df3e4937d8966a01c34fff2",
    "timestamp": "1997-06-04T23:07:00.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-06-05",
  "sha256": "ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc",
  "tags": [
-  "author=marty",
   "filename=prey2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -29,13 +34,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
   "nonspecific_tag=coop",
-  "release_date=1997-06-05",
   "theme=base",
   "theme=realism",
-  "title=Prey2",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Prey2",
  "urls": [
   "https://www.quaddicted.com/filebase/prey2.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc/prey2.zip"

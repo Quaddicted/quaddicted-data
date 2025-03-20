@@ -1,33 +1,40 @@
 {
+ "authors": [
+  "Greenwood",
+  "czg"
+ ],
  "bytes": 2870171,
+ "depends": [
+  "ad>=1.71"
+ ],
  "description": "Large DOOM-style UAC base, using Lun3DM3 textures, made from two unfinished maps by czg.",
- "files": {
-  "aerovit.bsp": {
+ "files": [
+  {
    "bytes": 6604920,
+   "path": "aerovit.bsp",
    "sha256": "f62c5a79a1357378b1a0eef03cf86669300e99a86e310739d78ecad62d9c1573",
    "timestamp": "2020-05-04T17:42:06.000Z"
   },
-  "aerovit.txt": {
+  {
    "bytes": 1691,
+   "path": "aerovit.txt",
    "sha256": "4c12f8f05de230fd994634652513b6da65a40cceeab2d66a9eef43287280585f",
    "timestamp": "2020-05-03T10:59:20.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.7</a> and a source port with increased limits."
  ],
+ "release_date": "2020-05-04",
  "sha256": "2cb9d143e27a8173c4d8f69be8a47434f65cb955f9b5e81c416813ba0febc75b",
  "tags": [
-  "author=Greenwood",
-  "author=czg",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
-  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=aerovit.zip",
   "game=quake",
@@ -37,14 +44,13 @@
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
   "nonspecific_tag=textures",
-  "release_date=2020-05-04",
   "theme=arcane dimensions",
   "theme=base",
   "theme=doom",
-  "title=Aerospace Vitriol",
   "type=map",
   "zipbasedir=ad/maps/"
  ],
+ "title": "Aerospace Vitriol",
  "urls": [
   "https://www.quaddicted.com/filebase/aerovit.zip",
   "https://www.quaddicted.com/files/by-sha256/2c/2cb9d143e27a8173c4d8f69be8a47434f65cb955f9b5e81c416813ba0febc75b/aerovit.zip"

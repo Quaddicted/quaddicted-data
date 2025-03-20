@@ -1,27 +1,30 @@
 {
+ "authors": [
+  "FrikaC"
+ ],
  "bytes": 1297908,
  "description": "some Speedmap by frikac",
- "files": {
-  "sm83_frik.qwd": {
+ "files": [
+  {
    "bytes": 4805711,
+   "path": "sm83_frik.qwd",
    "sha256": "4f91d2a05993a444c51a492954512fc2ab16ab0ed9abecd544b510730edcf526",
    "timestamp": "2004-03-02T19:30:28.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2005-08-06",
  "sha256": "d54d6397eb5629256f9cfa9087d46f70c9c6ca41dffd2ecd419024d09d9f309b",
  "tags": [
-  "author=FrikaC",
   "filename=sm83_frik_qwd.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "release_date=2005-08-06",
-  "title=Title",
   "type=speedmap"
  ],
+ "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_frik_qwd.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d54d6397eb5629256f9cfa9087d46f70c9c6ca41dffd2ecd419024d09d9f309b/sm83_frik_qwd.zip"

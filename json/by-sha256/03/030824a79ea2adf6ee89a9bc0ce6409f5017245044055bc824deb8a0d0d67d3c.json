@@ -1,58 +1,66 @@
 {
+ "authors": [
+  "sock"
+ ],
  "bytes": 2270884,
+ "current_main_group_package": true,
  "description": "Medium-sized metal dungeon in E3M6 mashup style with a built-in skill selection room. It also features custom item boxes. The map source is included.",
- "files": {
-  "mstalk.bsp": {
+ "files": [
+  {
    "bytes": 2970188,
+   "path": "mstalk.bsp",
    "sha256": "d1deb420037f22f23a7669ddc5a0fe359f930faaab49b245fc9eeefa976d635f",
    "timestamp": "2013-05-11T19:21:54.000Z"
   },
-  "mstalk.lit": {
+  {
    "bytes": 1230638,
+   "path": "mstalk.lit",
    "sha256": "786f0fdb4e4f648048f21e5ee26e154b50f5abefbb36ca43b7ac30ade10ae160",
    "timestamp": "2013-05-11T19:21:54.000Z"
   },
-  "mstalk.map": {
+  {
    "bytes": 2430459,
+   "path": "mstalk.map",
    "sha256": "085a7593bd6f1e82817a6ac560e132c2f28937f4a41f05ff387b5486d8344c07",
    "timestamp": "2013-05-11T18:53:32.000Z"
   },
-  "mstalk1d_readme.txt": {
+  {
    "bytes": 6291,
+   "path": "mstalk1d_readme.txt",
    "sha256": "51c0e45fe9639029800ed32c9cb24c03fec14d06dda328ca7171a4bd78050fb1",
    "timestamp": "2013-05-11T19:27:56.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This is an optimized, stand-alone version of the level which stays within the vanilla Quake limits and does not require any special engine port. It does not include the custom item boxes from the <a href=\"528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393\">previous version</a>."
  ],
+ "provides": [
+  "mstalk=2.0"
+ ],
+ "release_date": "2013-05-11",
+ "release_group": "mstalk",
  "sha256": "030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c",
  "tags": [
-  "author=sock",
-  "current_main_group_package=yes",
   "filename=mstalk1d.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.simonoc.com",
   "map_size=medium",
-  "provides='mstalk=2.0'",
-  "release_date=2013-05-11",
-  "release_group=mstalk",
   "source=included",
   "startmap=mstalk",
   "theme=metal",
   "theme=runic",
-  "title=Midnight Stalker (v.2)",
   "type=map",
-  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Midnight Stalker (v.2)",
  "urls": [
   "https://www.quaddicted.com/filebase/mstalk1d.zip",
   "https://www.quaddicted.com/files/by-sha256/03/030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c/mstalk1d.zip"
- ]
+ ],
+ "version": "2.0"
 }

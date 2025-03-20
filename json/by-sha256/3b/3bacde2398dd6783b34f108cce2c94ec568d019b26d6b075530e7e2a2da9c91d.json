@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "XeNoN"
+ ],
  "bytes": 487159,
  "description": "Medium sized Egypt-style temple in a canyon.",
- "files": {
-  "percept.bsp": {
+ "files": [
+  {
    "bytes": 1253348,
+   "path": "percept.bsp",
    "sha256": "b15837763612d183ab2cba0940a8d105bcf85b1d358a90b1c36e0f175bac773a",
    "timestamp": "2001-06-22T18:09:14.000Z"
   },
-  "percept.txt": {
+  {
    "bytes": 5835,
+   "path": "percept.txt",
    "sha256": "13961eb09a97ad3cfb50938f0c5d9b9711fca8a936c5854f44914f10199639e5",
    "timestamp": "2001-06-22T19:24:18.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-06-22",
  "sha256": "3bacde2398dd6783b34f108cce2c94ec568d019b26d6b075530e7e2a2da9c91d",
  "tags": [
-  "author=XeNoN",
   "filename=percept.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,13 +36,12 @@
   "map_size=medium",
   "nonspecific_tag=caves",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=2001-06-22",
   "theme=egyptian",
   "theme=temple",
-  "title=Perception",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Perception",
  "urls": [
   "https://www.quaddicted.com/filebase/percept.zip",
   "https://www.quaddicted.com/files/by-sha256/3b/3bacde2398dd6783b34f108cce2c94ec568d019b26d6b075530e7e2a2da9c91d/percept.zip"

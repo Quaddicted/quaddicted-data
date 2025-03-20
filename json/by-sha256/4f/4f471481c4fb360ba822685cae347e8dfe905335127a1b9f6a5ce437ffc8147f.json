@@ -1,48 +1,54 @@
 {
+ "authors": [
+  "Haikids"
+ ],
  "bytes": 1882516,
  "description": "Medieval themed map set in a monastery.",
- "files": {
-  "therequiem.bsp": {
+ "files": [
+  {
    "bytes": 4070828,
+   "path": "therequiem.bsp",
    "sha256": "9aeb6a2330c9cf8765ffc7b7c1b3b4abec1a4ee66415773e78f35be18f3665a7",
    "timestamp": "2024-04-26T00:35:34.000Z"
   },
-  "therequiem.map": {
+  {
    "bytes": 1444110,
+   "path": "therequiem.map",
    "sha256": "af35655b127df298a83599b1f700201c0308dac64d3e9ea2299d3271aa623c2c",
    "timestamp": "2024-04-26T00:35:34.000Z"
   },
-  "therequiem.pts": {
+  {
    "bytes": 62939,
+   "path": "therequiem.pts",
    "sha256": "f7a2aa39f6f1ae8c4ee1e7261b87c98f36aa52f186c01e4f3601e3a17aa97548",
    "timestamp": "2024-04-26T00:35:34.000Z"
   },
-  "therequiem.txt": {
+  {
    "bytes": 342,
+   "path": "therequiem.txt",
    "sha256": "75af66a095c442f4c70c39ec66a96fa8fcac9e3812e6f79170fc7a427902c559",
    "timestamp": "2024-05-16T23:06:06.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
+ "release_date": "2024-04-25",
  "sha256": "4f471481c4fb360ba822685cae347e8dfe905335127a1b9f6a5ce437ffc8147f",
  "tags": [
-  "author=Haikids",
   "filename=the_requiem.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/the-requiem.353/)",
-  "release_date=2024-04-25",
   "startmap=therequiem",
-  "title=The Requiem",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Requiem",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/4f/4f471481c4fb360ba822685cae347e8dfe905335127a1b9f6a5ce437ffc8147f/the_requiem.zip",
   "https://x901.net/quaddictedfiles/the_requiem.zip"

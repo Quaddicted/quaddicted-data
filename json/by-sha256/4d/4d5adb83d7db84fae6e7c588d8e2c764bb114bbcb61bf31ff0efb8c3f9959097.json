@@ -1,38 +1,45 @@
 {
+ "authors": [
+  "sodalimonada176"
+ ],
  "bytes": 2795539,
  "description": "A small classic-style medieval castle map. The author's first release.",
- "files": {
-  "castle100.bsp": {
+ "files": [
+  {
    "bytes": 690384,
+   "path": "castle100.bsp",
    "sha256": "ec415b44e42cdd736d25cbc96e7176ee06e7a287b4bf0503838e98246a312cc2",
    "timestamp": "2022-06-06T13:08:50.000Z"
   },
-  "castle100.txt": {
+  {
    "bytes": 626,
+   "path": "castle100.txt",
    "sha256": "841d2ad6881166726518d45c24d51476608d840c661b4c93b3226e9b3fe47f8c",
    "timestamp": "2022-06-06T13:15:58.000Z"
   },
-  "music/": {
+  {
    "bytes": 0,
+   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-06-06T13:17:28.000Z"
   },
-  "music/track12.ogg": {
+  {
    "bytes": 2558999,
+   "path": "music/track12.ogg",
    "sha256": "8b3a4e3ca2075e809940b6084c17e4bdbc2ad3586aa4bd809ab36aa5e1e89c73",
    "timestamp": "2022-06-01T20:21:26.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "Custom music is included, but unfortunately it is packaged in the wrong folder relative to the map files and requires manually moving files to the correct place after unzipping. Thus, the custom music won't work if installed via Quake Injector."
  ],
+ "release_date": "2022-06-06",
  "sha256": "4d5adb83d7db84fae6e7c588d8e2c764bb114bbcb61bf31ff0efb8c3f9959097",
  "tags": [
-  "author=sodalimonada176",
   "filename=castle100.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,17 +47,16 @@
   "map_size=small",
   "music=custom",
   "nonspecific_tag=debut",
-  "release_date=2022-06-06",
   "startmap=castle100",
   "theme=castle",
   "theme=classic",
   "theme=id1",
   "theme=medieval",
   "theme=wizard",
-  "title=The Beastial Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Beastial Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/castle100.zip",
   "https://www.quaddicted.com/files/by-sha256/4d/4d5adb83d7db84fae6e7c588d8e2c764bb114bbcb61bf31ff0efb8c3f9959097/castle100.zip"

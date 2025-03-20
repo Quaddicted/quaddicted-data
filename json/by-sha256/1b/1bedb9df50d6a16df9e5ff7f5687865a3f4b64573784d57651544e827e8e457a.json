@@ -1,48 +1,57 @@
 {
+ "authors": [
+  "Gotshun"
+ ],
  "bytes": 9644317,
  "description": "Singleplayer campaign featuring four large levels as well as a start map. It appears to be a very close tribute/remix of <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a>, following the same theme of tall brick structures, and corresponding design/layout traits. Additionally, there is a rebuilt version of Quake's E1M5.",
- "files": {
-  "Requiem.txt": {
+ "files": [
+  {
    "bytes": 3110,
+   "path": "Requiem.txt",
    "sha256": "33887121343cff26ce079b7d110c6e4097e6e133ecbc3af705411854b820d3de",
    "timestamp": "2016-08-27T23:49:28.000Z"
   },
-  "pdsp1.bsp": {
+  {
    "bytes": 3331584,
+   "path": "pdsp1.bsp",
    "sha256": "e67ced6b64c1c82dfdc9ddc5359a0663b4b047e666f707955a159440f0fcef3f",
    "timestamp": "2014-03-27T03:08:24.000Z"
   },
-  "pdsp2.bsp": {
+  {
    "bytes": 8791848,
+   "path": "pdsp2.bsp",
    "sha256": "0517e739a8321f1fbee3c54cf0d9ea4aea9c7050051413c5ab253f804221f3c8",
    "timestamp": "2014-11-13T15:01:28.000Z"
   },
-  "pdsp3.bsp": {
+  {
    "bytes": 9383976,
+   "path": "pdsp3.bsp",
    "sha256": "7b739cb0d2eb4fd66dee74c9535cce57d2d015f2bc72d6c250d455c08d56d01b",
    "timestamp": "2014-11-25T06:27:42.000Z"
   },
-  "pdsp4.bsp": {
+  {
    "bytes": 1782528,
+   "path": "pdsp4.bsp",
    "sha256": "7e769049dba3298c9585fd621aa0b20dee93eea9fd459b7e2b4546519db2fc0c",
    "timestamp": "2014-04-09T11:44:14.000Z"
   },
-  "pdspstart.bsp": {
+  {
    "bytes": 2092640,
+   "path": "pdspstart.bsp",
    "sha256": "c0e60017b8fc2e37501bcf057c66b18563ac9f96c4440ec9c35930b59fc05594",
    "timestamp": "2014-09-30T05:51:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "These maps require an engine port with increased limits."
  ],
+ "release_date": "2016-08-30",
  "sha256": "1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a",
  "tags": [
-  "author=Gotshun",
   "filename=requiem.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -51,7 +60,6 @@
   "nonspecific_tag=honey",
   "nonspecific_tag=pit",
   "nonspecific_tag=start",
-  "release_date=2016-08-30",
   "startmap=pdsp1",
   "startmap=pdsp2",
   "startmap=pdsp3",
@@ -60,11 +68,11 @@
   "theme=bricks",
   "theme=medieval",
   "theme=remix",
-  "title=Requiem",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Requiem",
  "urls": [
   "https://www.quaddicted.com/filebase/requiem.zip",
   "https://www.quaddicted.com/files/by-sha256/1b/1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a/requiem.zip"

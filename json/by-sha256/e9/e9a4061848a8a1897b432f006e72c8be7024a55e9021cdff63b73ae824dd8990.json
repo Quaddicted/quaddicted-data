@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Jason Ng"
+ ],
  "bytes": 130802,
  "description": "Very small, leaked, custom textured house with a basement but no exit.",
- "files": {
-  "BATTLE.BSP": {
+ "files": [
+  {
    "bytes": 314360,
+   "path": "BATTLE.BSP",
    "sha256": "96cf5e2ffa4dcc915d666390cf37b7085c1883eed7991ddf0b8bc10c2075a9a5",
    "timestamp": "1996-11-25T15:54:32.000Z"
   },
-  "BATTLE.TXT": {
+  {
    "bytes": 2021,
+   "path": "BATTLE.TXT",
    "sha256": "f37cd633b7ec1d5871b4c9630b842fadd8b00d96e18a322a5f3a273bc6bfda5b",
    "timestamp": "1996-10-18T15:43:18.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-11-25",
  "sha256": "e9a4061848a8a1897b432f006e72c8be7024a55e9021cdff63b73ae824dd8990",
  "tags": [
-  "author=Jason Ng",
   "filename=battle.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -27,13 +32,12 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=small",
-  "release_date=1996-11-25",
   "theme=house",
   "theme=no exit",
-  "title=Battle at Home",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Battle at Home",
  "urls": [
   "https://www.quaddicted.com/filebase/battle.zip",
   "https://www.quaddicted.com/files/by-sha256/e9/e9a4061848a8a1897b432f006e72c8be7024a55e9021cdff63b73ae824dd8990/battle.zip"

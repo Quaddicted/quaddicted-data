@@ -1,26 +1,31 @@
 {
+ "authors": [
+  "Mike Woodham",
+  "Sloppy Jaloppy"
+ ],
  "bytes": 1159319,
  "description": "Mike Woodham fixed and improved an old map by Sloppy Jaloppy. Yellow brick (like dm1) medieval.",
- "files": {
-  "fmb5.bsp": {
+ "files": [
+  {
    "bytes": 2557892,
+   "path": "fmb5.bsp",
    "sha256": "be5162b4ed549a97e88011c396cb86ed1552a2974d7bc719e0a9c323d3fec8fb",
    "timestamp": "1999-05-18T02:21:30.000Z"
   },
-  "fmb5.txt": {
+  {
    "bytes": 6040,
+   "path": "fmb5.txt",
    "sha256": "d4463a73fe5d0191ab7653be6d774ba7eec1d34655d7639561274ccbc52624e4",
    "timestamp": "1999-05-16T18:50:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-05-18",
  "sha256": "5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392",
  "tags": [
-  "author=Mike Woodham",
-  "author=Sloppy Jaloppy",
   "filename=fmb5.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,12 +34,11 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=fmb5)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
-  "release_date=1999-05-18",
   "theme=medieval",
-  "title=For My Babies 5",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "For My Babies 5",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb5.zip",
   "https://www.quaddicted.com/files/by-sha256/58/5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392/fmb5.zip"

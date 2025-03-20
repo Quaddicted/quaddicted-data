@@ -1,30 +1,33 @@
 {
+ "authors": [
+  "Dmitry 'Manslay' Dementjev"
+ ],
  "bytes": 480926,
  "description": "Small Wizard style castle with an emphasis on speedrunning.",
- "files": {
-  "msacro.bsp": {
+ "files": [
+  {
    "bytes": 1090280,
+   "path": "msacro.bsp",
    "sha256": "996a8ae2ebe889d6099282f4e8b80d7cd23c39ef2384a2fbbc583485228beff2",
    "timestamp": "2009-02-07T22:04:30.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2009-02-07",
  "sha256": "ff2ae2266fd583113f3255fb196b7495e1a8c060f92b46e00214909a0523949f",
  "tags": [
-  "author=Dmitry 'Manslay' Dementjev",
   "filename=msacro.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
-  "release_date=2009-02-07",
   "theme=wizard",
-  "title=Manslay's Acrobatics",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Manslay's Acrobatics",
  "urls": [
   "https://www.quaddicted.com/filebase/msacro.zip",
   "https://www.quaddicted.com/files/by-sha256/ff/ff2ae2266fd583113f3255fb196b7495e1a8c060f92b46e00214909a0523949f/msacro.zip"

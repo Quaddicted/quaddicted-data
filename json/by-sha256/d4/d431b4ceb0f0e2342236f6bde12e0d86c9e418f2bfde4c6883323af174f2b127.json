@@ -1,42 +1,51 @@
 {
+ "authors": [
+  "DragonsForLunch"
+ ],
  "bytes": 7239583,
+ "depends": [
+  "ad>=1.80"
+ ],
  "description": "Small castle surrounded by mountains, using custom textures by Makkon. The map source is included.",
- "files": {
-  "dfl_evilwizard/Readme.txt": {
+ "files": [
+  {
    "bytes": 1940,
+   "path": "dfl_evilwizard/Readme.txt",
    "sha256": "ce0023600b224ea42557e4f4c7cf007298198632336634d20aa9cc6cc25ea614",
    "timestamp": "2020-12-18T18:27:32.000Z"
   },
-  "dfl_evilwizard/dfl_evilwizard.bsp": {
+  {
    "bytes": 18000668,
+   "path": "dfl_evilwizard/dfl_evilwizard.bsp",
    "sha256": "165bf7476b741cfd74808771aeb8b7fef23d093f0f4f3cc7a21912309235f459",
    "timestamp": "2020-12-19T00:33:50.000Z"
   },
-  "dfl_evilwizard/dfl_evilwizard.lit": {
+  {
    "bytes": 880148,
+   "path": "dfl_evilwizard/dfl_evilwizard.lit",
    "sha256": "9c719df4c50a50f18fcb6bb9e08ae3a34b04018031a08c8a90a69e4d3984e946",
    "timestamp": "2020-12-19T00:33:50.000Z"
   },
-  "dfl_evilwizard/dfl_evilwizard.map": {
+  {
    "bytes": 946723,
+   "path": "dfl_evilwizard/dfl_evilwizard.map",
    "sha256": "0301f47dc19038f21f436f3fd43a1c9208ca2aff0a50b3d9394b439725687147",
    "timestamp": "2020-12-18T23:34:34.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> and thus a source port with increased limits.",
   "Cannot be run through the Quake Injector."
  ],
+ "release_date": "2020-12-19",
  "sha256": "d431b4ceb0f0e2342236f6bde12e0d86c9e418f2bfde4c6883323af174f2b127",
  "tags": [
-  "author=DragonsForLunch",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
-  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=dfl_evilwizard.zip",
   "game=quake",
@@ -47,17 +56,16 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=makkon",
   "nonspecific_tag=rocks",
-  "release_date=2020-12-19",
   "source=included",
   "startmap=dfl_evilwizard/dfl_evilwizard",
   "theme=arcane dimensions",
   "theme=canyon",
   "theme=castle",
   "theme=medieval",
-  "title=Evil Wizard",
   "type=map",
   "zipbasedir=ad/maps/"
  ],
+ "title": "Evil Wizard",
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_evilwizard.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d431b4ceb0f0e2342236f6bde12e0d86c9e418f2bfde4c6883323af174f2b127/dfl_evilwizard.zip"

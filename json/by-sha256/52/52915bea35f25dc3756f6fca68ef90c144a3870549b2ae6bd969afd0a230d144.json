@@ -1,719 +1,354 @@
 {
+ "authors": [
+  "4LT",
+  "CommonCold",
+  "Lobotomy Lobster",
+  "Milestone",
+  "Mizuki",
+  "ZetaByt",
+  "iYago",
+  "mrtaufner",
+  "zigi"
+ ],
  "bytes": 43548968,
  "description": "Short map-jam (effectively a speedmap session) of 9 maps made with one rule: maps must combine two different colors, themes or motifs. A start map is included.",
- "files": {
-  "ttj/copper_v1_30.txt": {
+ "files": [
+  {
    "bytes": 104962,
+   "path": "ttj/copper_v1_30.txt",
    "sha256": "abdcaff19cb781d377877fb5638a513ccb4605b96d9659e84d856c5b1650dbe5",
    "timestamp": "2023-10-31T11:25:24.000Z"
   },
-  "ttj/csprogs.dat": {
+  {
    "bytes": 65382,
+   "path": "ttj/csprogs.dat",
    "sha256": "ab01bd807131a56a23b7ddf6153caa6f14979591193147fe6a14b5dd5086cab7",
    "timestamp": "2023-10-31T11:30:28.000Z"
   },
-  "ttj/doc/readme_ttj_lob.txt": {
+  {
    "bytes": 2150,
+   "path": "ttj/doc/readme_ttj_lob.txt",
    "sha256": "f79e74085920e77a696ebd4fe81ee0fc9f2c6ac44160b91bd24543eaddb03929",
    "timestamp": "2024-06-17T02:13:06.000Z"
   },
-  "ttj/doc/ttj_cc.txt": {
+  {
    "bytes": 1405,
+   "path": "ttj/doc/ttj_cc.txt",
    "sha256": "e1e5fc72a0d5a4e71a730cc2a6b4bb06f9dc688d61d718602d08d56ac3ef0d4b",
    "timestamp": "2024-06-16T19:26:42.000Z"
   },
-  "ttj/doc/ttj_iyago.txt": {
+  {
    "bytes": 2909,
+   "path": "ttj/doc/ttj_iyago.txt",
    "sha256": "5c51e911a8c830ddaca54887c3a2225e091e187d8ee9bd05d5224cb7fa2a3185",
    "timestamp": "2024-06-16T20:59:42.000Z"
   },
-  "ttj/doc/ttj_milestone.txt": {
+  {
    "bytes": 1116,
+   "path": "ttj/doc/ttj_milestone.txt",
    "sha256": "a8ae974528ae497967e7f0b1711297dc700d860ef5e5dd38efcddf2d6abca21f",
    "timestamp": "2024-06-17T06:13:30.000Z"
   },
-  "ttj/doc/ttj_mrtaufner.txt": {
+  {
    "bytes": 2078,
+   "path": "ttj/doc/ttj_mrtaufner.txt",
    "sha256": "457853154ee7a0a631a3cb4d033ac6401d1f8dc9693bb761220924b94bc5c418",
    "timestamp": "2024-06-16T21:24:22.000Z"
   },
-  "ttj/doc/ttj_zetabyt (readme).txt": {
+  {
    "bytes": 7085,
+   "path": "ttj/doc/ttj_zetabyt (readme).txt",
    "sha256": "2d626c2c0860e19a554f2b3bdcad19870754e861cb069fb907d851691f60ab51",
    "timestamp": "2024-06-15T17:12:04.000Z"
   },
-  "ttj/gfx/env/gsintheclouds_bk.tga": {
+  {
    "bytes": 786476,
+   "path": "ttj/gfx/env/gsintheclouds_bk.tga",
    "sha256": "b6de9c80610a17b9f6c57c0f9638bebb5255019fe480ff36e194ff172e167b98",
    "timestamp": "2024-06-16T23:55:26.000Z"
   },
-  "ttj/gfx/env/gsintheclouds_dn.tga": {
+  {
    "bytes": 786476,
+   "path": "ttj/gfx/env/gsintheclouds_dn.tga",
    "sha256": "12e43336a59dc1f3eea21051a0d55d81b83ac3fd21463f524a77c1918825f66c",
    "timestamp": "2024-06-16T23:55:28.000Z"
   },
-  "ttj/gfx/env/gsintheclouds_ft.tga": {
+  {
    "bytes": 786476,
+   "path": "ttj/gfx/env/gsintheclouds_ft.tga",
    "sha256": "89cced231c1db9628aa6ed7f5af7eb4d83602d90de6ef184d4de7448fd4f085d",
    "timestamp": "2024-06-16T23:55:30.000Z"
   },
-  "ttj/gfx/env/gsintheclouds_lf.tga": {
+  {
    "bytes": 786476,
+   "path": "ttj/gfx/env/gsintheclouds_lf.tga",
    "sha256": "8ee6da9840954453d21a5a79779e9ae64cd1b2f5200ef68139f4d2877f7a6cc4",
    "timestamp": "2024-06-16T23:55:22.000Z"
   },
-  "ttj/gfx/env/gsintheclouds_rt.tga": {
+  {
    "bytes": 786476,
+   "path": "ttj/gfx/env/gsintheclouds_rt.tga",
    "sha256": "83c78d47b04c12933f40cd3a20d57934e7fed7640022a992b0761d7b27b1beb5",
    "timestamp": "2024-06-16T23:55:24.000Z"
   },
-  "ttj/gfx/env/gsintheclouds_up.tga": {
+  {
    "bytes": 786476,
+   "path": "ttj/gfx/env/gsintheclouds_up.tga",
    "sha256": "4d0a25c293ec438b8d51ba3b208abbdb1456b2c2279290d8cfc6dba47e215238",
    "timestamp": "2024-06-16T23:55:26.000Z"
   },
-  "ttj/maps/start.bsp": {
+  {
    "bytes": 946692,
+   "path": "ttj/maps/start.bsp",
    "sha256": "dccf7e2440d548a6a3a0d7b294a9bdba25f8dc07ab75d67d2cf07b31dca9c189",
    "timestamp": "2024-06-18T20:11:08.000Z"
   },
-  "ttj/maps/ttj_4lt.bsp": {
+  {
    "bytes": 2239428,
+   "path": "ttj/maps/ttj_4lt.bsp",
    "sha256": "93f88d98682cd3dcb995b4b57c38369eac0b7d016100cf1ac9d00ac56a5fa1bd",
    "timestamp": "2024-06-17T16:04:52.000Z"
   },
-  "ttj/maps/ttj_4lt.lit": {
+  {
    "bytes": 1464164,
+   "path": "ttj/maps/ttj_4lt.lit",
    "sha256": "23979526d1ef61152ae1978b13626da58b076b715f6980a9b1cd28bc0a69f786",
    "timestamp": "2024-06-17T16:04:52.000Z"
   },
-  "ttj/maps/ttj_Mizuki.bsp": {
+  {
    "bytes": 1676748,
+   "path": "ttj/maps/ttj_Mizuki.bsp",
    "sha256": "6aa95d984f8b3b4cc4ff2b9b09ee153946a1a7860bf36a2ea34f75232d7c209b",
    "timestamp": "2024-06-18T19:21:04.000Z"
   },
-  "ttj/maps/ttj_Mizuki.lit": {
+  {
    "bytes": 1224716,
+   "path": "ttj/maps/ttj_Mizuki.lit",
    "sha256": "81483f292c509c539d51be0a5f57fefae78102146c5827ea5c5b8799768ed4d8",
    "timestamp": "2024-06-18T19:21:12.000Z"
   },
-  "ttj/maps/ttj_cc.bsp": {
+  {
    "bytes": 2235964,
+   "path": "ttj/maps/ttj_cc.bsp",
    "sha256": "a866fe7122d350ef51bf8e0bf7cd3f0c7809694d88a1a4b2192d8a93884868c5",
    "timestamp": "2024-06-16T19:34:20.000Z"
   },
-  "ttj/maps/ttj_cc.lit": {
+  {
    "bytes": 849548,
+   "path": "ttj/maps/ttj_cc.lit",
    "sha256": "14c869287bed9f3418262608d899c3cd0ec6338f829d1c2a8593adcfb571f128",
    "timestamp": "2024-06-16T19:34:20.000Z"
   },
-  "ttj/maps/ttj_iyago.bsp": {
+  {
    "bytes": 1477748,
+   "path": "ttj/maps/ttj_iyago.bsp",
    "sha256": "c2e55b20d32bfaa5bf72c6b00b6b4e78d68ea17c675a5b03227ec3366c6c519e",
    "timestamp": "2024-06-16T20:56:40.000Z"
   },
-  "ttj/maps/ttj_iyago.lit": {
+  {
    "bytes": 837164,
+   "path": "ttj/maps/ttj_iyago.lit",
    "sha256": "69d6facfc84cd349938cf77f03f61ca55d6379a99830c15a9af1307c2c60b4f0",
    "timestamp": "2024-06-16T20:56:40.000Z"
   },
-  "ttj/maps/ttj_lob.bsp": {
+  {
    "bytes": 1944912,
+   "path": "ttj/maps/ttj_lob.bsp",
    "sha256": "6e639c6ef05265800ca81fa2bf0ca64b48373a41ac4d8f19956eb6d36c2dfad9",
    "timestamp": "2024-06-17T02:06:52.000Z"
   },
-  "ttj/maps/ttj_lob.lit": {
+  {
    "bytes": 801449,
+   "path": "ttj/maps/ttj_lob.lit",
    "sha256": "f9dc8155e54f384c33269e4f62155627ea86224cdfb95b9a999ee8a9f4d13a94",
    "timestamp": "2024-06-17T02:06:52.000Z"
   },
-  "ttj/maps/ttj_milestone.bsp": {
+  {
    "bytes": 13966816,
+   "path": "ttj/maps/ttj_milestone.bsp",
    "sha256": "cfaa625fcd69abd7d1ea3d517678d2054ef6b10ec7141dfb86d47effd4302ccf",
    "timestamp": "2024-06-18T13:25:46.000Z"
   },
-  "ttj/maps/ttj_milestone.lit": {
+  {
    "bytes": 2039984,
+   "path": "ttj/maps/ttj_milestone.lit",
    "sha256": "31f2025d5a9a4d450ec0f8224d541af8cfc9c86f02392621e9f1a2686078ca5e",
    "timestamp": "2024-06-18T13:25:46.000Z"
   },
-  "ttj/maps/ttj_mrtaufner.bsp": {
+  {
    "bytes": 5863700,
+   "path": "ttj/maps/ttj_mrtaufner.bsp",
    "sha256": "948736b72392228b46fcefef03e359cc69e41a44b710d6e13c86271588e98c84",
    "timestamp": "2024-06-16T21:11:16.000Z"
   },
-  "ttj/maps/ttj_mrtaufner.lit": {
+  {
    "bytes": 552752,
+   "path": "ttj/maps/ttj_mrtaufner.lit",
    "sha256": "2cbdb06ca69bf1bc1c4ad1edb635b23dd0678944f566c9259b9a33d3d5adb269",
    "timestamp": "2024-06-16T21:11:16.000Z"
   },
-  "ttj/maps/ttj_zetabyt.bsp": {
+  {
    "bytes": 3451448,
+   "path": "ttj/maps/ttj_zetabyt.bsp",
    "sha256": "106623fddf795daa2cdf4665f9ded8b1d6aeee2df541a1205b1e0518a3daa1f6",
    "timestamp": "2024-06-16T18:34:54.000Z"
   },
-  "ttj/maps/ttj_zetabyt.lit": {
+  {
    "bytes": 5643260,
+   "path": "ttj/maps/ttj_zetabyt.lit",
    "sha256": "d59f263c3372a1863b8035c259d8afcfc0431065a5670a1a89efb8cf23822cbf",
    "timestamp": "2024-06-16T18:34:54.000Z"
   },
-  "ttj/maps/ttj_zigi.bsp": {
+  {
    "bytes": 4141604,
+   "path": "ttj/maps/ttj_zigi.bsp",
    "sha256": "578120e083f0bf58b7a6e7ab99b501cff0b38740dd68b05545a8248e4a5a6336",
    "timestamp": "2024-06-17T17:49:14.000Z"
   },
-  "ttj/mapsrc/ttj_cc.map": {
+  {
    "bytes": 919371,
+   "path": "ttj/mapsrc/ttj_cc.map",
    "sha256": "2e225fa73f3ff80589b5bb361b526761c5c3346341869fbe7c60f605fca37303",
    "timestamp": "2024-06-16T19:33:24.000Z"
   },
-  "ttj/mapsrc/ttj_iyago.map": {
+  {
    "bytes": 860515,
+   "path": "ttj/mapsrc/ttj_iyago.map",
    "sha256": "3c6f2138fb515cc73fd7cf04bf22b3c039a42bf11fb65b3ea0d469e90d0345b5",
    "timestamp": "2024-06-16T20:52:36.000Z"
   },
-  "ttj/mapsrc/ttj_lob.map": {
+  {
    "bytes": 1704054,
+   "path": "ttj/mapsrc/ttj_lob.map",
    "sha256": "1ab1d4c63138ae3f725496cc73c9591f0c1f38026cdfd6bfa824aa6dc19eed65",
    "timestamp": "2024-06-17T02:06:22.000Z"
   },
-  "ttj/mapsrc/ttj_milestone.map": {
+  {
    "bytes": 1014730,
+   "path": "ttj/mapsrc/ttj_milestone.map",
    "sha256": "3851ec88afa5dae0f66e618e2ca90d86f23847b4490e62cd4c2accaaf4acfc4e",
    "timestamp": "2024-06-18T13:25:06.000Z"
   },
-  "ttj/mapsrc/ttj_mrtaufner.map": {
+  {
    "bytes": 792632,
+   "path": "ttj/mapsrc/ttj_mrtaufner.map",
    "sha256": "7b966595a6b05cb4c895fcfb1527840483da30b9059f17d73d5387faa6fcc5ce",
    "timestamp": "2024-06-16T20:59:32.000Z"
   },
-  "ttj/mapsrc/ttj_zetabyt.map": {
+  {
    "bytes": 884489,
+   "path": "ttj/mapsrc/ttj_zetabyt.map",
    "sha256": "fb8c7d8043c88ba1a2c2672d8b13a9f8921cbb7f985eb7669748b63adf01a007",
    "timestamp": "2024-06-16T18:34:34.000Z"
   },
-  "ttj/music/track41.ogg": {
+  {
    "bytes": 7554017,
+   "path": "ttj/music/track41.ogg",
    "sha256": "4477653dc32fa998316c652f38bcfb168ada4cf35abc5744a5960c30a803e940",
    "timestamp": "2024-06-17T08:01:34.000Z"
   },
-  "ttj/music/track84.ogg": {
+  {
    "bytes": 8649186,
+   "path": "ttj/music/track84.ogg",
    "sha256": "dbf81dcf468bfb1c7ff543ac8b0aff8138293cc193a99ca0311570b6e61339f6",
    "timestamp": "2023-12-09T20:06:38.000Z"
   },
-  "ttj/pak0.pak": {
+  {
    "bytes": 11231782,
-   "files": {
-    "demo_c1.dem": {
-     "bytes": 1854820,
-     "sha256": "8b93e0384ac1505dde19d24a2e337686c065a43da8c8a476bfdadbfdc621928a"
-    },
-    "demo_c2.dem": {
-     "bytes": 2445116,
-     "sha256": "4e4ab2f099e5746565cd19e5695a35cc1252c24d8817b5c8670c1792c187097f"
-    },
-    "demo_c3.dem": {
-     "bytes": 1808204,
-     "sha256": "71476830e6d475ff8bb66fc8f07da76c89f407160ac26ad1ccfced0d6e7e80e2"
-    },
-    "gfx.wad": {
-     "bytes": 152468,
-     "sha256": "50d94651f3e0b0b6a29e0110ce9ff260c9f3114060b08b6d1ae19054b8024335"
-    },
-    "gfx/complete.lmp": {
-     "bytes": 4712,
-     "sha256": "4d751e2308e5d7a78a3d011c66677ae66f5df06b19a52c2fe4412b783da97035"
-    },
-    "gfx/conback.lmp": {
-     "bytes": 64008,
-     "sha256": "92458c800796c9c7a460bdd4a387dd6271e8fb3865a390d0c91862ad5fe307b0"
-    },
-    "gfx/finale.lmp": {
-     "bytes": 6920,
-     "sha256": "8e1160429fbb7be0aa5c5e5be84156ce9b74e3fcbc5a8c23ff54a51ab0f68224"
-    },
-    "gfx/help0.lmp": {
-     "bytes": 64008,
-     "sha256": "31c4858fe496187dc1bac21c02aff8cf83cbc51e0b4ee5738d6118c328b299d2"
-    },
-    "gfx/help1.lmp": {
-     "bytes": 64008,
-     "sha256": "ed0f79285d93d0ef35644ecaf9ab36f3b2c6ffd223c577b25fff2ea17f90080d"
-    },
-    "gfx/help2.lmp": {
-     "bytes": 64008,
-     "sha256": "e9c210ab88f6e98965cd2f8470f084e32ef15b3ad3912cb1e9eb0363c6204eb7"
-    },
-    "gfx/help3.lmp": {
-     "bytes": 64008,
-     "sha256": "b56880e2f720a89dcd055f5278abb21a21514322d4a31b77b46c8b509b9f3be3"
-    },
-    "gfx/help4.lmp": {
-     "bytes": 64008,
-     "sha256": "89c3ac6fd91cdcf15c20b0d15b4c01c153e0a820c660f9222b5c8f63d43af5b2"
-    },
-    "gfx/help5.lmp": {
-     "bytes": 64008,
-     "sha256": "8b83ffaf6b5309d371f0107ebb1340a8a09cd1a52c6a5581b7c9c4a7afcefa77"
-    },
-    "gfx/loading.lmp": {
-     "bytes": 3464,
-     "sha256": "4d2891882cdba6782c02fda1e0d49a1c802a0734e35ca88a622dcbe4c334991e"
-    },
-    "gfx/mainmenu.lmp": {
-     "bytes": 26888,
-     "sha256": "e41486d3a09da5fd4aed2d208d75e24fbf41d97d9342da9ed666d26a72483224"
-    },
-    "gfx/menumods.lmp": {
-     "bytes": 1688,
-     "sha256": "f08579557ace0d3b64aff6cb1bb37ec10ed0e8f050306f1634937c001ea9ccdf"
-    },
-    "gfx/p_load.lmp": {
-     "bytes": 4424,
-     "sha256": "ee84f65a4e9ad4eb166c1790da9fd586fa1237f5400adc08b7656fe568304404"
-    },
-    "gfx/p_multi.lmp": {
-     "bytes": 5096,
-     "sha256": "89477de79105b07d6a1dadc9dd422cbbecbdd220454bd441cf11f5fe192da1b0"
-    },
-    "gfx/p_option.lmp": {
-     "bytes": 3560,
-     "sha256": "65fd24aed5bf14ab961166cae2d00884583d624b926a46fdef83df3131fcf856"
-    },
-    "gfx/p_save.lmp": {
-     "bytes": 4136,
-     "sha256": "ba9faaa1c655cdabbb784cbb3381ffe28f30c601d3020de2e5cf6cfa9c49be6f"
-    },
-    "gfx/pause.lmp": {
-     "bytes": 3176,
-     "sha256": "0aa8e7c90081b1ba9809ec2cd30e7d90c99935fba6695ecc6016930c812e1cb5"
-    },
-    "gfx/qplaque.lmp": {
-     "bytes": 4616,
-     "sha256": "59bf5a3808277804b94785434ef43eadf20ab9283109fb43bb2c873223029da5"
-    },
-    "gfx/ranking.lmp": {
-     "bytes": 3944,
-     "sha256": "e5c4ae88295fc0fa9f383889a1982d23c3c466475a8d67bf422d20a470d25fe5"
-    },
-    "gfx/ttl_cstm.lmp": {
-     "bytes": 4328,
-     "sha256": "b2b6ca588b19f79bc58b41c2acf5c66e23e5c8d6fa347a2f272ad1962bed0ca9"
-    },
-    "gfx/ttl_main.lmp": {
-     "bytes": 4136,
-     "sha256": "a2810c03c5f1f80dfdcf2d575d479d699f8f756d9a2b5ec63694026b3ac85cc7"
-    },
-    "gfx/ttl_sgl.lmp": {
-     "bytes": 2984,
-     "sha256": "8362ba05650ecb9ae971f76d7d40815b563c0d67baad80f05d29c282a58989de"
-    },
-    "gfx/vidmodes.lmp": {
-     "bytes": 5096,
-     "sha256": "f62b7e48be71999d6ae8dc675529a30161524f3288c80e96a6c98b2536acee46"
-    },
-    "maps/b_batt0.bsp": {
-     "bytes": 6074,
-     "sha256": "ed9f5c7ea499924e02196aa9b68725d0de17c10dc2194956525397d95c6b0d19"
-    },
-    "maps/b_batt1.bsp": {
-     "bytes": 6074,
-     "sha256": "80a4dc9ca61773cf48e71a9971e0f6fdf006a35fef652d3506dbc4e90fd3e370"
-    },
-    "maps/b_bh10.bsp": {
-     "bytes": 6096,
-     "sha256": "e1e0409af59b435c1483b73c5b5e20018ac66c5ea49902b4643c6a98def8c95a"
-    },
-    "maps/b_bh100.bsp": {
-     "bytes": 14948,
-     "sha256": "b35da01b7f3c123321e643d80988f0dc907e2659a594a990f09a77eeda14ce9e"
-    },
-    "maps/b_bh25.bsp": {
-     "bytes": 10316,
-     "sha256": "cc59af1abfe2938e90f72ae6689c22f7bec2e4328e7e383be3c676a0a4d4746c"
-    },
-    "maps/b_nail0.bsp": {
-     "bytes": 6074,
-     "sha256": "4c78fc9bfa06b04f4498c23676f4aba6d566e7f020d68045a8cc050e3bbb6b4c"
-    },
-    "maps/b_nail1.bsp": {
-     "bytes": 6114,
-     "sha256": "2a33d438a9e6203b5405fa7b8369b7dfd6578f373390a29f508e6ffe1b9c6480"
-    },
-    "maps/b_rock0.bsp": {
-     "bytes": 8794,
-     "sha256": "6a53f0e3ddb5e0a2da0b3f2362fef221526048263b14666276bb7e15f528d88b"
-    },
-    "maps/b_rock1.bsp": {
-     "bytes": 8794,
-     "sha256": "317f412b80232110cab77c3618287ccc5639c38d67fa1932849560fbe1a0832a"
-    },
-    "maps/b_shell0.bsp": {
-     "bytes": 6074,
-     "sha256": "9d146681e71d20bde0e988fec2852fac0cc9ad008eb9269f1be5082bea82d2a2"
-    },
-    "maps/b_shell1.bsp": {
-     "bytes": 6074,
-     "sha256": "8a73f7a255b397defb49ef3f75ae8878674099320d23b15611c07fb55712f354"
-    },
-    "progs/backpack.mdl": {
-     "bytes": 72688,
-     "sha256": "b4695368a9d346714630a3b2d51d2fbe2ac1725d80786b94054e896acd6e712d"
-    },
-    "progs/bolt.mdl": {
-     "bytes": 11860,
-     "sha256": "53f30fa59ab0b943d850851a05ed3bf7c8209ac74136ec1016a1ffd0c9305e47"
-    },
-    "progs/candle1.mdl": {
-     "bytes": 38652,
-     "sha256": "031b4a2e2dc636190b3c21baf3e273fd61363ba9d1722189ecb34b01ae8f4f5a"
-    },
-    "progs/candle2.mdl": {
-     "bytes": 34764,
-     "sha256": "e888cd4c3bc3dc2d73262715df5a1ae95f5802dca17ecb92cee8954cf47685b9"
-    },
-    "progs/candle3.mdl": {
-     "bytes": 30876,
-     "sha256": "629a661b9ccce457fa31ed2c6a2c085386324846f8b36fa16196bc108405a236"
-    },
-    "progs/debris1.mdl": {
-     "bytes": 33768,
-     "sha256": "3498dffa0c3522b011a76ada880dfae64de3ca1583c94474e1e07adbc220d981"
-    },
-    "progs/debris2.mdl": {
-     "bytes": 33944,
-     "sha256": "d6d535173bb4a3a2d469be9c63bf36a01b1e2b80dd6a71636d20178d813e443c"
-    },
-    "progs/debris3.mdl": {
-     "bytes": 34136,
-     "sha256": "d6b0a2b6353c4462196d2af116652b47d464a7bc1f161509aa8ee5dbe859f98b"
-    },
-    "progs/fish.mdl": {
-     "bytes": 81900,
-     "sha256": "f07ff4b29e37e23633243a4eaab71746f9ce0032253902c3df5bb01e122fe2b6"
-    },
-    "progs/g_axe.mdl": {
-     "bytes": 17812,
-     "sha256": "74cd41d8d5a67570cdaca34a08e9868f3476d8c4ac4a645cfaf9e91cf778c793"
-    },
-    "progs/g_shotgn.mdl": {
-     "bytes": 24580,
-     "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1"
-    },
-    "progs/h_knight.mdl": {
-     "bytes": 22624,
-     "sha256": "bd30397e619d63f4affb8a2705db1585fa71b9fe78cbdab5d10864fad8e8067a"
-    },
-    "progs/h_zombie.mdl": {
-     "bytes": 7656,
-     "sha256": "4f5ca2553db07d5cc93987b11e9f9ff054d51b96488e2bcc35c9f03ed3040d42"
-    },
-    "progs/h_zombnm.mdl": {
-     "bytes": 3220,
-     "sha256": "45d9dfe5683264edf6f6eb7b8e8d794f84caeb8701e65e8ebe9add2192bbb6fc"
-    },
-    "progs/invis.mdl": {
-     "bytes": 8356,
-     "sha256": "b00951cd72bb5fb03c19a1d60943162652fe149b9ee60fd2e630a076d52956fb"
-    },
-    "progs/invul.mdl": {
-     "bytes": 24052,
-     "sha256": "74f2afc22dc19b76bb2f880f53e589074e17cdc57bfbc71fba83745e50906cb3"
-    },
-    "progs/k_spike2.mdl": {
-     "bytes": 17716,
-     "sha256": "e456eb93934dab43a83305988db82ab1954e66491c256fad3ef1451d0ecf97c2"
-    },
-    "progs/knight.mdl": {
-     "bytes": 248832,
-     "sha256": "44cbab80ebc90ca4002e557eba242c8a79b4a602b87495755080b34610c40c8c"
-    },
-    "progs/lavaball.mdl": {
-     "bytes": 17312,
-     "sha256": "e210fd2f442b52446e3ed97dca82b74e99fb82b5e8e27021f227a9823af3ac8b"
-    },
-    "progs/m_cells1.mdl": {
-     "bytes": 3252,
-     "sha256": "78360ff39323844dbe5466352285c25caa3d8280330bd7b4896cf5d9c3acd1f0"
-    },
-    "progs/m_cells2.mdl": {
-     "bytes": 4532,
-     "sha256": "2f4df619cf3c3e55551d62caf70afd2130799cb8961a5523e4cda62de9ec0a0f"
-    },
-    "progs/m_h100.mdl": {
-     "bytes": 17992,
-     "sha256": "b4c84d42ad06a5e86b197aeeac636443724012fa2fe2db273ee5f7dadf05e2f4"
-    },
-    "progs/m_h15.mdl": {
-     "bytes": 3252,
-     "sha256": "9bc4debe9c585ced842bf0486c912f45dbca3175b74980f7039c6413d2756b8d"
-    },
-    "progs/m_h25.mdl": {
-     "bytes": 14792,
-     "sha256": "013237ff349a81f05dd84da92ef2f3cc5b7535e50bf004d8bf55f0254c461b03"
-    },
-    "progs/m_key.mdl": {
-     "bytes": 36496,
-     "sha256": "a001c379917628354adfb62b698856b33f4eea5f22e7d8e232e640faf15d8465"
-    },
-    "progs/m_nails1.mdl": {
-     "bytes": 3252,
-     "sha256": "ae9a34463a8ec078b834751903807b7756b08fab9b57d7a7267b2c6686090508"
-    },
-    "progs/m_nails2.mdl": {
-     "bytes": 4532,
-     "sha256": "818e721ccad82186459530b0390c29e9a78084b578997586dc3c93cc788a8f68"
-    },
-    "progs/m_rock1.mdl": {
-     "bytes": 3252,
-     "sha256": "23d073419f924f063073342414d62b7047d7ecccb86e2e1406e924d514b9394c"
-    },
-    "progs/m_rock2.mdl": {
-     "bytes": 4532,
-     "sha256": "7b4c5c14815e505ac8add0eb013aa98afd5de896fb3119883a411203910f2c7c"
-    },
-    "progs/m_shell1.mdl": {
-     "bytes": 3252,
-     "sha256": "a69c6351bdfbdc30aff19de93e9a006dd358671902bcc86053927d30fb284949"
-    },
-    "progs/m_shell2.mdl": {
-     "bytes": 4532,
-     "sha256": "ada62e18c957c319cd377dcb1c9586235b790ff8af2d22c580ea9b5c419f2868"
-    },
-    "progs/quaddama.mdl": {
-     "bytes": 9364,
-     "sha256": "f3b7e52f31bbf51ceca2c594af5392b90a5b414171309a0cc11599a93dc5b7a2"
-    },
-    "progs/r_key.mdl": {
-     "bytes": 133936,
-     "sha256": "e2d6b9de9b879327f72d97ef3c07e0b7e35cf844747208f6e615015be84157e5"
-    },
-    "progs/s_explo2.spr": {
-     "bytes": 13980,
-     "sha256": "f414f3fd07b0278bd59dd90954770f81a5ffad7f46af5f5d0abee124905dcc17"
-    },
-    "progs/spike.mdl": {
-     "bytes": 4572,
-     "sha256": "993afdf2aaa055ee7c49cc9066a6a8d09d5d309c2694ac46911386f159b63316"
-    },
-    "progs/v_axe2.mdl": {
-     "bytes": 70932,
-     "sha256": "feef26c08c17e6e9bce22bbe8187d345b2956b81f6a7754e389c0fa53d5b4bb6"
-    },
-    "progs/w_spike2.mdl": {
-     "bytes": 5816,
-     "sha256": "b07808c532059133c31be2ed2bc4e9bb9b01b75d5d23401768058cacc3192068"
-    },
-    "progs/wizard.mdl": {
-     "bytes": 74976,
-     "sha256": "545d70abb8d44be8e12da24a3d09fb56f87ff960c41963148682fbbd9d47e417"
-    },
-    "progs/zombie.mdl": {
-     "bytes": 218680,
-     "sha256": "6782603eadacc7cb4bd09c11d3b6326e0d2e69205f724fe2f6e533ee398f5a16"
-    },
-    "progs/zombienm.mdl": {
-     "bytes": 224900,
-     "sha256": "f4d1ce9667ebb36088bfb59a12c9a8d93c1aefa36515b51f388cffec5132f5b2"
-    },
-    "sound/ambience/deep.wav": {
-     "bytes": 401112,
-     "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce"
-    },
-    "sound/ambience/lava1.wav": {
-     "bytes": 837582,
-     "sha256": "dbaa7dfb1b05df1eef0961b629d8f886899b8499bf595ea001953b10606c66cd"
-    },
-    "sound/ambience/machlp2.wav": {
-     "bytes": 70696,
-     "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d"
-    },
-    "sound/ambience/underw1.wav": {
-     "bytes": 208538,
-     "sha256": "f8672e5e772aeac9bbc1030aea58088daf1b10ff0a580346ca4208b58861139e"
-    },
-    "sound/ambience/wdribble.wav": {
-     "bytes": 40960,
-     "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2"
-    },
-    "sound/ambience/wpool.wav": {
-     "bytes": 301220,
-     "sha256": "51a27a6489c5e016a90405e7fe295b495d56c4129010b428ee297cd4f34fdd89"
-    },
-    "sound/blob/idle.wav": {
-     "bytes": 64986,
-     "sha256": "1849fdbfd0a68b07c52d6c21b8f97737577d99270a2eba61a9cccba071239f35"
-    },
-    "sound/boss2/sight.wav": {
-     "bytes": 144484,
-     "sha256": "197e2d357ffe1a4c885b67af9335982fc7795e07ad6052d966d328ae5848c37f"
-    },
-    "sound/doors/locked4.wav": {
-     "bytes": 15048,
-     "sha256": "c34d9d74599f077e7578e57f6a3cabc474df533067f90ba74c6ac6d8925b0d5b"
-    },
-    "sound/doors/locked5.wav": {
-     "bytes": 88280,
-     "sha256": "53c39154bd15246b0dba8f901c79d525a84d45dcccc26e59e23450f2c5c0ed20"
-    },
-    "sound/items/pack.wav": {
-     "bytes": 17740,
-     "sha256": "4f1df82518beee326068e407b6713c32c4b40fe4a99ac94b9be0ca46c107810f"
-    },
-    "sound/items/patch.wav": {
-     "bytes": 19934,
-     "sha256": "4ed1112921417e18e4ceb2cb29b8f0702c945c2bc2e37403fefca19b069d8f17"
-    },
-    "sound/misc/null.wav": {
-     "bytes": 2322,
-     "sha256": "7883f17ce0a86489a7abfc3319b434a60b911bfea999287aec290747952e61ec"
-    },
-    "sound/misc/sav.wav": {
-     "bytes": 16616,
-     "sha256": "2a9f86b5f5497822ce5379a05a51ca1816d2471b463ed57635c57dc5702f0eca"
-    },
-    "sound/misc/w_under.wav": {
-     "bytes": 39884,
-     "sha256": "e441a7c33602470db85979142cf0b90166ddeb9f51949a33fbab3998ee1e31e5"
-    },
-    "sound/misc/w_under2.wav": {
-     "bytes": 72616,
-     "sha256": "46d386334de7dc588df6a1f21fc946d8cd39823355b1c59be9eec88183c5b03a"
-    },
-    "sound/player/q3fall.wav": {
-     "bytes": 180380,
-     "sha256": "78ba213bc4972ab6c3f4780690831a6c1da52ca0af444be8ecfc798f45d1f347"
-    },
-    "sound/player/splat1.wav": {
-     "bytes": 36960,
-     "sha256": "49cd19d55a52c31eafe58bf89fde593a6291183ed6e989078b6299c9bb0071ea"
-    },
-    "sound/weapons/axhit1.wav": {
-     "bytes": 15252,
-     "sha256": "2edf0f7c93f380d1dc9e7dd75618894419379ad1da984121f031859cf24ec30d"
-    },
-    "sound/weapons/axhit2.wav": {
-     "bytes": 12450,
-     "sha256": "c54f233c09f429da884256d72e19759eb28bf38818f6a2ca8192c634b04a8b9f"
-    },
-    "sound/weapons/lavabal1.wav": {
-     "bytes": 26504,
-     "sha256": "a78d8242c12c89304b3a95ea17a9a5743de893e20d7f82b1a75bc08aba045abc"
-    },
-    "sound/weapons/lavabal2.wav": {
-     "bytes": 26504,
-     "sha256": "5c9ed5f64d2d830f1345509ec3081d80f88dcb9e675259e6cd75cb06bc4a8984"
-    },
-    "sound/weapons/lavabal3.wav": {
-     "bytes": 26504,
-     "sha256": "f879dbe8f2e3ac5efe02e8f785c7dea5d8625f96b1a0f5f68e30d0e5a6e61bb6"
-    },
-    "sound/weapons/lavabal4.wav": {
-     "bytes": 26504,
-     "sha256": "96c334d39b9faacf611bf069e724564ee31bfaa4e2db007baf3b024aa4f3a675"
-    },
-    "sound/zombie/z_res.wav": {
-     "bytes": 23266,
-     "sha256": "10b2962ce2817fa8a250811313307cf0dfa93ad5257a669452fe3fc834ced976"
-    }
-   },
+   "path": "ttj/pak0.pak",
    "sha256": "14a746abb95d03032dcf07202d9470cbc450c69a2a713d3a80bcdaeabe4262af",
    "timestamp": "2023-10-31T11:50:00.000Z"
   },
-  "ttj/pak1.pak": {
+  {
    "bytes": 256084,
-   "files": {
-    "gfx/conback.lmp": {
-     "bytes": 256008,
-     "sha256": "5e49c426d2a2db91c72525d68acf9c7c195bb8eb637237726c9cbd8cb9f5d13a"
-    }
-   },
+   "path": "ttj/pak1.pak",
    "sha256": "34f8c10619a369592e0034a460256133be10d6d9cde4e5572a1d258099ae6c50",
    "timestamp": "2024-06-17T14:59:00.000Z"
   },
-  "ttj/progs.dat": {
+  {
    "bytes": 591990,
+   "path": "ttj/progs.dat",
    "sha256": "56055d61bac438c227f88b89a03e81401fdd52b10f6d3def0a3d9d261d223e9c",
    "timestamp": "2023-10-31T11:30:26.000Z"
   },
-  "ttj/quake.rc": {
+  {
    "bytes": 1136,
+   "path": "ttj/quake.rc",
    "sha256": "b74da0eb0d4b5844c5931a557a2094e68f5239d20e72af142d4a75b54e7e5c6e",
    "timestamp": "2024-06-17T15:04:58.000Z"
   },
-  "ttj/sound/milestone/1.wav": {
+  {
    "bytes": 143368,
+   "path": "ttj/sound/milestone/1.wav",
    "sha256": "9b8b54b6cece3f77a058455574e775af52f6e13438108fcc2c362cb8824360d7",
    "timestamp": "2024-06-16T22:59:30.000Z"
   },
-  "ttj/sound/milestone/2.wav": {
+  {
    "bytes": 143368,
+   "path": "ttj/sound/milestone/2.wav",
    "sha256": "9399450bf07e1107fd31ef776bf221bc8a3503012d7f8ba411798ab38b9ab7ca",
    "timestamp": "2024-06-16T22:59:20.000Z"
   },
-  "ttj/sound/milestone/3.wav": {
+  {
    "bytes": 143368,
+   "path": "ttj/sound/milestone/3.wav",
    "sha256": "031e57552970fb1a583f8688bdebaec90d4c555e7e232259ac5251093db41971",
    "timestamp": "2024-06-16T22:59:02.000Z"
   },
-  "ttj/sound/milestone/stn.wav": {
+  {
    "bytes": 26448,
+   "path": "ttj/sound/milestone/stn.wav",
    "sha256": "2e623c8196e7d580393ed23e64a1f4e8a06ba61820a99b0704e8669d9ee3d4da",
    "timestamp": "2024-06-17T00:44:04.000Z"
   },
-  "ttj/sound/milestone/stn3.wav": {
+  {
    "bytes": 133356,
+   "path": "ttj/sound/milestone/stn3.wav",
    "sha256": "bf1038e7163241710925d44b518513e6e33aa3eee5008fd83d7bdd8782bb65e7",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  "ttj/sound/milestone/stn4.wav": {
+  {
    "bytes": 177006,
+   "path": "ttj/sound/milestone/stn4.wav",
    "sha256": "0d5611cce8aa6409e4019edfb6082d23011e9f6c44a4ce72468bce64265b9bd7",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  "ttj/sound/milestone/stn6.wav": {
+  {
    "bytes": 265896,
+   "path": "ttj/sound/milestone/stn6.wav",
    "sha256": "b07ccba110cc0be827b8d3e50a7ea7e0680860fe1e5c474f4c00b2170db3b5ab",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  "ttj/sound/milestone/stnstp.wav": {
+  {
    "bytes": 38358,
+   "path": "ttj/sound/milestone/stnstp.wav",
    "sha256": "3609a15f109a74cda7ad71680e11f8bdf80f183522a22341802c531cf5bcd450",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  "ttj/ttj_README.txt": {
+  {
    "bytes": 892,
+   "path": "ttj/ttj_README.txt",
    "sha256": "4bcf8bbcab876ac1d9938552250c8bba476cedc15a3de3fccacd3b5eef40eb9b",
    "timestamp": "2024-06-18T20:19:32.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2024-06-17",
  "sha256": "52915bea35f25dc3756f6fca68ef90c144a3870549b2ae6bd969afd0a230d144",
  "tags": [
-  "author=4LT",
-  "author=CommonCold",
-  "author=Lobotomy Lobster",
-  "author=Milestone",
-  "author=Mizuki",
-  "author=ZetaByt",
-  "author=iYago",
-  "author=mrtaufner",
-  "author=zigi",
   "commandline=-game ttj",
   "filename=two_tone_jam.v2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/two-tone-jam.362/)",
-  "release_date=2024-06-17",
   "startmap=start",
-  "title=Two Tone Jam",
   "type=mapjam",
   "type=mod"
  ],
+ "title": "Two Tone Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/52/52915bea35f25dc3756f6fca68ef90c144a3870549b2ae6bd969afd0a230d144/two_tone_jam.v2.zip",
   "https://x901.net/quaddictedfiles/two_tone_jam.v2.zip"

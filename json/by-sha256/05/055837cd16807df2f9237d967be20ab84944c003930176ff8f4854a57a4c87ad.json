@@ -1,30 +1,36 @@
 {
+ "authors": [
+  "Jim Lowell"
+ ],
  "bytes": 504026,
  "description": "About medium sized Metal map. Map source is included (Thred format).",
- "files": {
-  "CRITTERS.3DT": {
+ "files": [
+  {
    "bytes": 867902,
+   "path": "CRITTERS.3DT",
    "sha256": "9a326ce5da730b19c67dcac2eb4a0efc9584e9e2e1179ab57a7298f49c720903",
    "timestamp": "1996-11-17T23:33:36.000Z"
   },
-  "CRITTERS.BSP": {
+  {
    "bytes": 1066124,
+   "path": "CRITTERS.BSP",
    "sha256": "2a8f0a6bf85a33f9c61594b3ead9a62d1f215fd493a279ac5de52a47b01e0947",
    "timestamp": "1996-11-17T23:32:00.000Z"
   },
-  "CRITTERS.TXT": {
+  {
    "bytes": 2535,
+   "path": "CRITTERS.TXT",
    "sha256": "043647c926815ea841b5c1b5743fa198eb409d6d690c2f3f9261379fbfa12224",
    "timestamp": "1996-11-17T23:43:38.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-11-17",
  "sha256": "055837cd16807df2f9237d967be20ab84944c003930176ff8f4854a57a4c87ad",
  "tags": [
-  "author=Jim Lowell",
   "filename=critters.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,13 +38,12 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
   "map_size=medium",
-  "release_date=1996-11-17",
   "source=included",
   "theme=metal",
-  "title=Critters",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Critters",
  "urls": [
   "https://www.quaddicted.com/filebase/critters.zip",
   "https://www.quaddicted.com/files/by-sha256/05/055837cd16807df2f9237d967be20ab84944c003930176ff8f4854a57a4c87ad/critters.zip"

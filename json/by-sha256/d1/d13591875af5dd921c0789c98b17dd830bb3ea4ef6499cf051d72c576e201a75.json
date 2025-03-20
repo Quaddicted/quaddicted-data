@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Geoff Barry"
+ ],
  "bytes": 647947,
  "description": "Medium sized Wizard map with some sort of temple, and tight and clippy underground water caverns.",
- "files": {
-  "Earthbound.txt": {
+ "files": [
+  {
    "bytes": 2319,
+   "path": "Earthbound.txt",
    "sha256": "23ae8374571083e75c3b9bd477b92f1f7874634530ff64bbbab890d1abd88b37",
    "timestamp": "1997-04-07T23:32:30.000Z"
   },
-  "earthbnd.bsp": {
+  {
    "bytes": 1425180,
+   "path": "earthbnd.bsp",
    "sha256": "30cf30ac09840155b2a464cb77e8f46bc4ba107beb7b4bac927cf6ced2057d97",
    "timestamp": "1997-03-30T22:40:56.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-04-07",
  "sha256": "d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75",
  "tags": [
-  "author=Geoff Barry",
   "filename=earthbnd.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -27,14 +32,13 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelse.htm#earthbnd)",
   "map_layout=non-linear",
   "map_size=medium",
-  "release_date=1997-04-07",
   "theme=caverns",
   "theme=realism",
   "theme=wizard",
-  "title=Earthbound",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Earthbound",
  "urls": [
   "https://www.quaddicted.com/filebase/earthbnd.zip",
   "https://www.quaddicted.com/files/by-sha256/d1/d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75/earthbnd.zip"

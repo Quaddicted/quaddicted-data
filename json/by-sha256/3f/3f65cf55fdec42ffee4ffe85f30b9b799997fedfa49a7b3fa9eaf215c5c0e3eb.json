@@ -1,53 +1,60 @@
 {
+ "authors": [
+  "Tonhao"
+ ],
  "bytes": 2059161,
+ "depends": [
+  "ad>=1.80"
+ ],
  "description": "Large base-themed map in a factory setting.",
- "files": {
-  "ad_tonslr.bsp": {
+ "files": [
+  {
    "bytes": 3762756,
+   "path": "ad_tonslr.bsp",
    "sha256": "24f521063796c747e86e55b61df83d6ccca9be60beb665d7fc5afdcfc04713a2",
    "timestamp": "2022-04-20T16:26:16.000Z"
   },
-  "ad_tonslr.lit": {
+  {
    "bytes": 1313027,
+   "path": "ad_tonslr.lit",
    "sha256": "d2c2f93aa7f253498165bfe9f8969697c80373e5dc4c58014546b2de4b048956",
    "timestamp": "2022-04-20T16:26:16.000Z"
   },
-  "smells like rust read-me.txt": {
+  {
    "bytes": 1503,
+   "path": "smells like rust read-me.txt",
    "sha256": "9ccd3be766c602360607a7288a0203259e17cc94feb446e90afb6cfc9adf28b5",
    "timestamp": "2022-04-20T23:36:12.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "Requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81</a> or later (NOT included) and a modern engine / source port with increased limits."
  ],
+ "release_date": "2022-04-20",
  "sha256": "3f65cf55fdec42ffee4ffe85f30b9b799997fedfa49a7b3fa9eaf215c5c0e3eb",
  "tags": [
-  "author=Tonhao",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
-  "depends=('ad>=1.80')",
   "filename=ad_tonslrsp2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=large",
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
-  "release_date=2022-04-20",
   "startmap=ad_tonslr",
   "theme=arcane dimensions",
   "theme=base",
   "theme=cave",
   "theme=lava",
   "theme=temple",
-  "title=Smells Like Rust",
   "type=map",
   "zipbasedir=ad/maps/"
  ],
+ "title": "Smells Like Rust",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_tonslrsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/3f/3f65cf55fdec42ffee4ffe85f30b9b799997fedfa49a7b3fa9eaf215c5c0e3eb/ad_tonslrsp2.zip"

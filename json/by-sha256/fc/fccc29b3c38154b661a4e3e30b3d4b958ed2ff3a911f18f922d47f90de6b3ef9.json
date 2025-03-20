@@ -1,33 +1,39 @@
 {
+ "authors": [
+  "Peter Bisseker (tiddles)"
+ ],
  "bytes": 284994,
  "description": "Small gritty industrial map.",
- "files": {
-  "steel valour.txt": {
+ "files": [
+  {
    "bytes": 2245,
+   "path": "steel valour.txt",
    "sha256": "fb99e7a6a4bd005a450e18549a60eda71ea66bd25cca4bb6ee5df31bd2a66e0a",
    "timestamp": "1999-07-24T21:30:34.000Z"
   },
-  "valour.bsp": {
+  {
    "bytes": 695688,
+   "path": "valour.bsp",
    "sha256": "f258a9b12489c5af6cce5b0dc3616e179e84d3bc96e6be1f50daf1c7383ae2f1",
    "timestamp": "1999-07-24T21:01:38.000Z"
   },
-  "valour_quaddictedrepack.txt": {
+  {
    "bytes": 319,
+   "path": "valour_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
+ "release_date": "1999-07-24",
  "sha256": "fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9",
  "tags": [
-  "author=Peter Bisseker (tiddles)",
   "filename=valour.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,12 +42,11 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=small",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1999-07-24",
   "theme=industrial",
-  "title=Steel Valour",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Steel Valour",
  "urls": [
   "https://www.quaddicted.com/filebase/valour.zip",
   "https://www.quaddicted.com/files/by-sha256/fc/fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9/valour.zip"

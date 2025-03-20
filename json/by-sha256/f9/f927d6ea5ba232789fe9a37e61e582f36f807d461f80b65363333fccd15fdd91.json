@@ -1,20 +1,24 @@
 {
+ "authors": [
+  "Tiddles"
+ ],
  "bytes": 490955,
  "description": "Small rusty base map.",
- "files": {
-  "fatal-error.bsp": {
+ "files": [
+  {
    "bytes": 1142988,
+   "path": "fatal-error.bsp",
    "sha256": "d091430d2a2205051546343bc183cc02f11d5469bab4a469fed101402ce65af2",
    "timestamp": "2001-04-19T07:03:10.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-04-19",
  "sha256": "f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91",
  "tags": [
-  "author=Tiddles",
   "filename=fatal-error.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -23,13 +27,12 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=fatale)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=small",
-  "release_date=2001-04-19",
   "theme=base",
   "theme=industrial",
-  "title=Fatal Error",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Fatal Error",
  "urls": [
   "https://www.quaddicted.com/filebase/fatal-error.zip",
   "https://www.quaddicted.com/files/by-sha256/f9/f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91/fatal-error.zip"

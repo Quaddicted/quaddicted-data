@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Wright Bagwell (Paul_Bunyan)"
+ ],
  "bytes": 1051448,
  "description": "Large Medieval map.",
- "files": {
-  "pb2.bsp": {
+ "files": [
+  {
    "bytes": 2279648,
+   "path": "pb2.bsp",
    "sha256": "75b945a3821d646e549832524a01935cb34be2de8e70fae77b98fd0375c35b7e",
    "timestamp": "1997-04-12T01:30:54.000Z"
   },
-  "pb2.txt": {
+  {
    "bytes": 2387,
+   "path": "pb2.txt",
    "sha256": "56c6104c16b47c97d1f5282734ffe33ee4d1233678276f6a68505d11e3b3673f",
    "timestamp": "1997-04-12T01:52:26.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-04-12",
  "sha256": "d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59",
  "tags": [
-  "author=Wright Bagwell (Paul_Bunyan)",
   "filename=pb2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -29,16 +34,15 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=large",
-  "release_date=1997-04-12",
   "theme=bricks",
   "theme=medieval",
   "theme=terracotta",
   "theme=traps",
   "theme=wizard",
-  "title=The Soul Grinder",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Soul Grinder",
  "urls": [
   "https://www.quaddicted.com/filebase/pb2.zip",
   "https://www.quaddicted.com/files/by-sha256/d7/d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59/pb2.zip"

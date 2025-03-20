@@ -1,28 +1,31 @@
 {
+ "authors": [
+  "Megazoid"
+ ],
  "bytes": 197628,
  "description": "Megazoid's late entry to <a href=\"987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c\">SM65</a>.",
- "files": {
-  "sm65_megazoid.bsp": {
+ "files": [
+  {
    "bytes": 539120,
+   "path": "sm65_megazoid.bsp",
    "sha256": "a64f9e494c73f57586cf82debe4a49c5401cbebad01ba2648dc79cc0f096687c",
    "timestamp": "2004-02-01T04:27:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2004-02-01",
  "sha256": "ae00b18a0a6a76ea9da1d0728ec0345b13dd09eba7435c1e4fcca4c298cd8fa4",
  "tags": [
-  "author=Megazoid",
   "filename=sm65_megazoid.zip",
   "game=quake",
   "game_mode=singleplayer",
-  "release_date=2004-02-01",
-  "title=Title",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_megazoid.zip",
   "https://www.quaddicted.com/files/by-sha256/ae/ae00b18a0a6a76ea9da1d0728ec0345b13dd09eba7435c1e4fcca4c298cd8fa4/sm65_megazoid.zip"

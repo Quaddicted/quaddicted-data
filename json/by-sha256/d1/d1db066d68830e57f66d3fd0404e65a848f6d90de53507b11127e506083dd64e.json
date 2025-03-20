@@ -1,39 +1,43 @@
 {
+ "authors": [
+  "Dabbler (Jan Buchholz)"
+ ],
  "bytes": 724217,
  "description": "Medium-sized Q2base level with a sewer system. Buttons are often hidden in shadows.",
- "files": {
-  "ps43a.bsp": {
+ "files": [
+  {
    "bytes": 1971992,
+   "path": "ps43a.bsp",
    "sha256": "ec592c5c1ad226ee14d1ef4c0dd752d74dcdf93bdbd38abbc87b4e862a0b29eb",
    "timestamp": "1998-01-06T01:27:30.000Z"
   },
-  "ps43a.txt": {
+  {
    "bytes": 2796,
+   "path": "ps43a.txt",
    "sha256": "894cbe6d6898db0ac5dbddba2a0f29f7e10f4344f891475c77a8f5e0df10c445",
    "timestamp": "1998-01-08T22:21:16.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1998-01-08",
  "sha256": "d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e",
  "tags": [
-  "author=Dabbler (Jan Buchholz)",
   "filename=ps43a.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
   "nonspecific_tag=dark",
   "nonspecific_tag=q2base",
-  "release_date=1998-01-08",
   "theme=base",
   "theme=quake 2",
   "theme=sewer",
-  "title=Pumping station 43/A",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Pumping station 43/A",
  "urls": [
   "https://www.quaddicted.com/filebase/ps43a.zip",
   "https://www.quaddicted.com/files/by-sha256/d1/d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e/ps43a.zip"

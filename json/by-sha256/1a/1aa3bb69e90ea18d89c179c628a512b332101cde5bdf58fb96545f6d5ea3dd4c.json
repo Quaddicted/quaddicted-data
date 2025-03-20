@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Matt Sefton"
+ ],
  "bytes": 538577,
  "description": "Medium sized Metal level with a pyramid.",
- "files": {
-  "evilwrld.bsp": {
+ "files": [
+  {
    "bytes": 1247732,
+   "path": "evilwrld.bsp",
    "sha256": "46e2e478ceba0b61d742830762277dc3d5d0f102f676274e5d3e9bb4db06a3b9",
    "timestamp": "1996-11-17T05:52:06.000Z"
   },
-  "evilwrld.txt": {
+  {
    "bytes": 3094,
+   "path": "evilwrld.txt",
    "sha256": "8c35b06d0c1b284efde12e4a9665ea7ed8c09144dd900192a665e8885f1aedd8",
    "timestamp": "1996-11-17T11:49:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-11-17",
  "sha256": "1aa3bb69e90ea18d89c179c628a512b332101cde5bdf58fb96545f6d5ea3dd4c",
  "tags": [
-  "author=Matt Sefton",
   "filename=evilwrld.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,15 +36,14 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
-  "release_date=1996-11-17",
   "theme=metal",
   "theme=pyramid",
   "theme=runic",
   "theme=traps",
-  "title=EvilWorld 1",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "EvilWorld 1",
  "urls": [
   "https://www.quaddicted.com/filebase/evilwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/1a/1aa3bb69e90ea18d89c179c628a512b332101cde5bdf58fb96545f6d5ea3dd4c/evilwrld.zip"

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Chris Williams"
+ ],
  "bytes": 422128,
  "description": "Small Base map with a Medieval bit at the beginning.",
- "files": {
-  "Info.txt": {
+ "files": [
+  {
    "bytes": 2949,
+   "path": "Info.txt",
    "sha256": "4b447cb22cc269790f0531af393edfc10fa40a390cae87fbac6d661ada80cd05",
    "timestamp": "1997-03-13T21:44:00.000Z"
   },
-  "disgrace.bsp": {
+  {
    "bytes": 985396,
+   "path": "disgrace.bsp",
    "sha256": "3bc144acb3a5bbfe96eab2c1469cca68e60283d5c305a0e75c87f8f5c210017e",
    "timestamp": "1997-03-13T20:50:12.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-03-13",
  "sha256": "345b9911ed6ed13e36b78485853eeae95022ae240d1e513941185346132cfe87",
  "tags": [
-  "author=Chris Williams",
   "filename=disgrace.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -27,13 +32,12 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsd1.htm#disgrace)",
   "map_size=small",
   "nonspecific_tag=disbalanced",
-  "release_date=1997-03-13",
   "theme=base",
   "theme=medieval",
-  "title=Base of disgrace",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Base of disgrace",
  "urls": [
   "https://www.quaddicted.com/filebase/disgrace.zip",
   "https://www.quaddicted.com/files/by-sha256/34/345b9911ed6ed13e36b78485853eeae95022ae240d1e513941185346132cfe87/disgrace.zip"

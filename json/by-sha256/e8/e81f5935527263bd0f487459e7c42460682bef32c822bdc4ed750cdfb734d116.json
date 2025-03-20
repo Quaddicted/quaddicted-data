@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "J.F.Gustafsson"
+ ],
  "bytes": 655881,
  "description": "Medium sized Wizard with a small cavern bit.",
- "files": {
-  "Real.bsp": {
+ "files": [
+  {
    "bytes": 1495564,
+   "path": "Real.bsp",
    "sha256": "bf23d19cc13aa6616f943b32de6ba8010a2dc4cf8549dfd45405ec2e683c0d5c",
    "timestamp": "1997-10-05T21:07:32.000Z"
   },
-  "Real.txt": {
+  {
    "bytes": 1620,
+   "path": "Real.txt",
    "sha256": "65e638a096df0688d7c2af4dcc0ebd8f9db1d3e438d9fd1e0b36411d5ba086d1",
    "timestamp": "1997-10-05T21:57:38.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-10-05",
  "sha256": "e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116",
  "tags": [
-  "author=J.F.Gustafsson",
   "filename=real.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,13 +34,12 @@
   "map_size=small",
   "nonspecific_tag=flags",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-10-05",
   "theme=cavern",
   "theme=wizard",
-  "title=Far beyond reality",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Far beyond reality",
  "urls": [
   "https://www.quaddicted.com/filebase/real.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116/real.zip"

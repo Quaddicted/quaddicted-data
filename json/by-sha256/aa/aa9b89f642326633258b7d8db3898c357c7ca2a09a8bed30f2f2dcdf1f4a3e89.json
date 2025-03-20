@@ -1,38 +1,42 @@
 {
+ "authors": [
+  "Trace Stuart"
+ ],
  "bytes": 721342,
  "description": "Small base/prison, created for the Escape For Quake conversion.",
- "files": {
-  "ARENA.BSP": {
+ "files": [
+  {
    "bytes": 1724404,
+   "path": "ARENA.BSP",
    "sha256": "0019a635d44f5ab388ed164ae1d272dd930a5e8debc07e7bf9d8b4c1bbcec3ec",
    "timestamp": "1997-12-23T00:36:18.000Z"
   },
-  "ARENA.TXT": {
+  {
    "bytes": 1983,
+   "path": "ARENA.TXT",
    "sha256": "d537099c870da9f6132ff28fe69a522b755fe4298720d9655b892ba957625759",
    "timestamp": "1997-12-23T01:15:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-12-23",
  "sha256": "aa9b89f642326633258b7d8db3898c357c7ca2a09a8bed30f2f2dcdf1f4a3e89",
  "tags": [
-  "author=Trace Stuart",
   "filename=3sarena.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[erc's Underdog](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=279)",
   "map_size=small",
-  "release_date=1997-12-23",
   "startmap=arena",
   "theme=prison",
   "theme=realism",
-  "title=Three's Arena",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Three's Arena",
  "urls": [
   "https://www.quaddicted.com/filebase/3sarena.zip",
   "https://www.quaddicted.com/files/by-sha256/aa/aa9b89f642326633258b7d8db3898c357c7ca2a09a8bed30f2f2dcdf1f4a3e89/3sarena.zip"

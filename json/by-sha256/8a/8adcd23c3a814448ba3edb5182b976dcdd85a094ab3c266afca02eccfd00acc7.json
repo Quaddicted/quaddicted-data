@@ -1,58 +1,67 @@
 {
+ "authors": [
+  "velcrosasquach"
+ ],
  "bytes": 4285806,
+ "depends": [
+  "ad>=1.80"
+ ],
  "description": "Base map for Arcane Dimensions featuring a mixture of texture themes and some old-school influences.",
- "files": {
-  "ad/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "ad/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-15T15:31:12.000Z"
   },
-  "ad/maps/": {
+  {
    "bytes": 0,
+   "path": "ad/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-15T16:59:42.000Z"
   },
-  "ad/maps/found.bsp": {
+  {
    "bytes": 9165092,
+   "path": "ad/maps/found.bsp",
    "sha256": "9bf617fb87974ded0efefda61b1cc1974df253fb59d1a726106adad96149ecfb",
    "timestamp": "2024-02-18T10:49:16.000Z"
   },
-  "ad/maps/found.lit": {
+  {
    "bytes": 2344676,
+   "path": "ad/maps/found.lit",
    "sha256": "54ffd5f8970053f44717a0fe6eb4a40837b0d9bac18467245f6a759473fd8d03",
    "timestamp": "2024-02-18T10:49:16.000Z"
   },
-  "ad/maps/found.map": {
+  {
    "bytes": 4467906,
+   "path": "ad/maps/found.map",
    "sha256": "996653f5d480dca373f1665906d208d941057855b89097f37075899454091af2",
    "timestamp": "2024-02-18T10:45:06.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2024-02-15",
  "sha256": "8adcd23c3a814448ba3edb5182b976dcdd85a094ab3c266afca02eccfd00acc7",
  "tags": [
-  "author=velcrosasquach",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
-  "depends=('ad>=1.80')",
   "exceedslimits=exceeds_quake_limits",
   "filename=lostandfoundry1.1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/lost-and-foundry.322/)",
   "mod=ad",
-  "release_date=2024-02-15",
   "startmap=found",
-  "title=Lost and Foundry",
   "type=map"
  ],
+ "title": "Lost and Foundry",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/8a/8adcd23c3a814448ba3edb5182b976dcdd85a094ab3c266afca02eccfd00acc7/lostandfoundry1.1.zip",
   "https://x901.net/quaddictedfiles/lostandfoundry1.1.zip"

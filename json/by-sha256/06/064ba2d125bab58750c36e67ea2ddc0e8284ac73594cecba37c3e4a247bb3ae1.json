@@ -1,25 +1,34 @@
 {
+ "authors": [
+  "Rcktrob"
+ ],
  "bytes": 1121820,
  "description": "A large, detailed Medieval fortress.",
- "files": {
-  "RRSP1.bsp": {
+ "files": [
+  {
    "bytes": 2685424,
+   "path": "RRSP1.bsp",
    "sha256": "d72381be3a8d17701db6de23f9af021004ebaf42882f01a3a2a636e9f09d60e6",
    "timestamp": "2002-03-19T08:10:06.000Z"
   },
-  "Rune Keep .txt": {
+  {
    "bytes": 6221,
+   "path": "Rune Keep .txt",
    "sha256": "35c35da91946cdd3730e2655913508a2c717839e7360d86797d62d5ce05b0117",
    "timestamp": "2002-03-19T08:40:06.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "provides": [
+  "runekeep=1.0"
+ ],
+ "release_date": "2002-03-19",
+ "release_group": "runekeep",
  "sha256": "064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1",
  "tags": [
-  "author=Rcktrob",
   "filename=runekeep.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,19 +38,16 @@
   "map_size=large",
   "nonspecific_tag=chthon",
   "nonspecific_tag=swimming",
-  "provides='runekeep=1.0'",
-  "release_date=2002-03-19",
-  "release_group=runekeep",
   "startmap=rrsp1",
   "theme=lava",
   "theme=medieval",
-  "title=Rune Keep",
   "type=map",
-  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Rune Keep",
  "urls": [
   "https://www.quaddicted.com/filebase/runekeep.zip",
   "https://www.quaddicted.com/files/by-sha256/06/064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1/runekeep.zip"
- ]
+ ],
+ "version": "1.0"
 }

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Michael Cullum"
+ ],
  "bytes": 633568,
  "description": "Medium sized, interconnected canal/water complex with a small medieval temple.",
- "files": {
-  "CANAL3.BSP": {
+ "files": [
+  {
    "bytes": 1386088,
+   "path": "CANAL3.BSP",
    "sha256": "5b1b7cf4005a5087a07346acb6fea77bfbc15abe731b465c5020720e7b1d7210",
    "timestamp": "1997-10-31T10:24:00.000Z"
   },
-  "CANAL3.TXT": {
+  {
    "bytes": 2509,
+   "path": "CANAL3.TXT",
    "sha256": "e4834db8f3d40cc539cc29615d78f67179afaa91dfbef14ca096f9e60c0146eb",
    "timestamp": "1997-11-05T22:21:14.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-11-05",
  "sha256": "dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831",
  "tags": [
-  "author=Michael Cullum",
   "filename=canal3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,14 +32,13 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=medium",
   "nonspecific_tag=canal",
-  "release_date=1997-11-05",
   "theme=medieval",
   "theme=temple",
   "theme=water",
-  "title=The FloodGate",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The FloodGate",
  "urls": [
   "https://www.quaddicted.com/filebase/canal3.zip",
   "https://www.quaddicted.com/files/by-sha256/dc/dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831/canal3.zip"

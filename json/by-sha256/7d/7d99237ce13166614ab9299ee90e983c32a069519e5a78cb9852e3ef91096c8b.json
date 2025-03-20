@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "czg"
+ ],
  "bytes": 113340,
  "description": "Small plain tower. A nostalgia remake of czg's very first map (in Thred!).",
- "files": {
-  "czg00.bsp": {
+ "files": [
+  {
    "bytes": 283820,
+   "path": "czg00.bsp",
    "sha256": "e0dc9026d8efc0c685c34d440abf56ac732c835de6eae885eb1177c3c4702392",
    "timestamp": "1999-12-22T19:14:16.000Z"
   },
-  "czg00.txt": {
+  {
    "bytes": 2855,
+   "path": "czg00.txt",
    "sha256": "486cb31723935b3ba2e3be78968d5816d09d1d702f205ccf494ed1db90c0d314",
    "timestamp": "1999-12-22T19:38:04.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-12-22",
  "sha256": "7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b",
  "tags": [
-  "author=czg",
   "filename=czg00.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -28,12 +33,11 @@
   "nonspecific_tag=333",
   "nonspecific_tag=oldskool",
   "nonspecific_tag=thred3d",
-  "release_date=1999-12-22",
   "theme=tower",
-  "title=Tower of Obscurity",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Tower of Obscurity",
  "urls": [
   "https://www.quaddicted.com/filebase/czg00.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b/czg00.zip"

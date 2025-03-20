@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Leafface"
+ ],
  "bytes": 200162,
  "description": "Simple skill selection map of the LFSP series. It is supposed to link to <a href=\"421212a45754a532cc239aed0c885e2e2f9f3275d341312900fb6ed3e4165d7a\">lfsp1</a>, however the target map filename is wrong.",
- "files": {
-  "lfstart.bsp": {
+ "files": [
+  {
    "bytes": 471436,
+   "path": "lfstart.bsp",
    "sha256": "5ca503684d830f219bad84e11dafb6705ab59dbbbe0ee30bd51fe5888723457c",
    "timestamp": "1999-07-16T13:51:06.000Z"
   },
-  "lfstart.txt": {
+  {
    "bytes": 1135,
+   "path": "lfstart.txt",
    "sha256": "ce7f7a967bc44df21352475c732032b42468e6ce85cca06ef5d21cd0451d3afd",
    "timestamp": "2000-01-01T20:13:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2000-01-01",
  "sha256": "30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e",
  "tags": [
-  "author=Leafface",
   "filename=lfstart.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,14 +32,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
   "map_size=small",
   "nonspecific_tag=start map",
-  "release_date=2000-01-01",
   "theme=traps",
   "theme=wizard",
-  "title=LFSP Start",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "LFSP Start",
  "urls": [
   "https://www.quaddicted.com/filebase/lfstart.zip",
   "https://www.quaddicted.com/files/by-sha256/30/30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e/lfstart.zip"

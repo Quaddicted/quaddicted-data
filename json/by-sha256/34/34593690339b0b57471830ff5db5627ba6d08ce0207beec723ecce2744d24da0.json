@@ -1,87 +1,105 @@
 {
+ "authors": [
+  "Pritchard"
+ ],
  "bytes": 14148792,
+ "depends": [
+  "ad>=1.80"
+ ],
  "description": "Industrial-themed 1024\u00b3 level with a lava-flooded foundry, a humid cave system and an icy outside area; originally started for the <a href=\"007c1cf0bc552e656e852a902a89f0867ca87e4b7c93341b335ae90a04816716\">Xmas Jam 2019</a>. It uses custom textures from various sources and comes with a new skybox. The map source is included.",
- "files": {
-  "biome-pritchard.txt": {
+ "files": [
+  {
    "bytes": 2705,
+   "path": "biome-pritchard.txt",
    "sha256": "d768d637072295c3a4c154836b52c68ebcc4fc309be86172eb2d1bc2f3deb517",
    "timestamp": "2021-01-28T22:24:10.000Z"
   },
-  "gfx/env/": {
+  {
    "bytes": 0,
+   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-28T22:24:18.000Z"
   },
-  "gfx/env/pritchard/": {
+  {
    "bytes": 0,
+   "path": "gfx/env/pritchard/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-28T22:24:18.000Z"
   },
-  "gfx/env/pritchard/biome_bk.tga": {
+  {
    "bytes": 1922055,
+   "path": "gfx/env/pritchard/biome_bk.tga",
    "sha256": "504cd8a36fa8a4bdb95176544f4beb8947b56f9688665045d9dc64bb92e75c38",
    "timestamp": "2019-11-20T23:53:34.000Z"
   },
-  "gfx/env/pritchard/biome_dn.tga": {
+  {
    "bytes": 971496,
+   "path": "gfx/env/pritchard/biome_dn.tga",
    "sha256": "2a78ca0d675919623d85f5d37fadc50e84028e769fd5479014d245678aeffe94",
    "timestamp": "2019-11-20T23:48:26.000Z"
   },
-  "gfx/env/pritchard/biome_ft.tga": {
+  {
    "bytes": 1894704,
+   "path": "gfx/env/pritchard/biome_ft.tga",
    "sha256": "dd23ea35abf896020f9a92322acc74c69d8e16efbc0c30fd99bc8f85d2546f56",
    "timestamp": "2019-11-25T21:42:10.000Z"
   },
-  "gfx/env/pritchard/biome_lf.tga": {
+  {
    "bytes": 1826216,
+   "path": "gfx/env/pritchard/biome_lf.tga",
    "sha256": "981a6e0e763bc0f5fd60cb33ec4eca51a64850f1eb1128ed35171cd830cdc8f8",
    "timestamp": "2019-11-20T23:51:10.000Z"
   },
-  "gfx/env/pritchard/biome_rt.tga": {
+  {
    "bytes": 1810580,
+   "path": "gfx/env/pritchard/biome_rt.tga",
    "sha256": "abdbde3d3c777c7e395026b7c1e171b334b490c6760ca725e710b189505eee7e",
    "timestamp": "2019-11-20T23:52:46.000Z"
   },
-  "gfx/env/pritchard/biome_up.tga": {
+  {
    "bytes": 2430018,
+   "path": "gfx/env/pritchard/biome_up.tga",
    "sha256": "de505b8b2408f5f7a6afae3a6ffc1d3062a51a6e8c759577abc5f1ed04d46aa1",
    "timestamp": "2019-11-20T23:47:28.000Z"
   },
-  "maps/biome-pritchard.bsp": {
+  {
    "bytes": 19711944,
+   "path": "maps/biome-pritchard.bsp",
    "sha256": "5d9f44fa3395df786c223499afed2bb5c0324e25c0cd89a6ec3e4945f9907f80",
    "timestamp": "2021-01-28T21:41:16.000Z"
   },
-  "maps/biome-pritchard.lit": {
+  {
    "bytes": 5487764,
+   "path": "maps/biome-pritchard.lit",
    "sha256": "a88288ca20f17a502dce3dfc5593cbaeba9ddd3330d625d74d88c2f53b097e84",
    "timestamp": "2021-01-28T21:41:16.000Z"
   },
-  "maps/biome-pritchard.map": {
+  {
    "bytes": 13034936,
+   "path": "maps/biome-pritchard.map",
    "sha256": "5998793f3645303df2795a0d9a13d18813b2b1f0f476fce8d7788caf1f249708",
    "timestamp": "2021-01-25T15:45:44.000Z"
   },
-  "particles/map_biome_pritchard.cfg": {
+  {
    "bytes": 506,
+   "path": "particles/map_biome_pritchard.cfg",
    "sha256": "1465c7f91ec2dfc66d6741bbc7e770e67f4e60f80c4436e069e200f3e17fd2cc",
    "timestamp": "2021-01-25T15:26:06.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
  ],
+ "release_date": "2021-01-28",
  "sha256": "34593690339b0b57471830ff5db5627ba6d08ce0207beec723ecce2744d24da0",
  "tags": [
-  "author=Pritchard",
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
-  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=biome-pritchard.zip",
   "game=quake",
@@ -95,7 +113,6 @@
   "nonspecific_tag=rtcw",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
-  "release_date=2021-01-28",
   "source=included",
   "theme=arcane dimensions",
   "theme=base",
@@ -103,10 +120,10 @@
   "theme=industrial",
   "theme=lava",
   "theme=snow",
-  "title=Biome (Mr. Self Destruct)",
   "type=map",
   "zipbasedir=ad/"
  ],
+ "title": "Biome (Mr. Self Destruct)",
  "urls": [
   "https://www.quaddicted.com/filebase/biome-pritchard.zip",
   "https://www.quaddicted.com/files/by-sha256/34/34593690339b0b57471830ff5db5627ba6d08ce0207beec723ecce2744d24da0/biome-pritchard.zip"

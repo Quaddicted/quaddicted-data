@@ -1,43 +1,48 @@
 {
+ "authors": [
+  "Viper"
+ ],
  "bytes": 244803,
  "description": "Small WizMetal map made while learning how to use WorldCraft.",
- "files": {
-  "CULT.BSP": {
+ "files": [
+  {
    "bytes": 544916,
+   "path": "CULT.BSP",
    "sha256": "a78048e4ad1ee751a10a7587ef0376325e7ffeddb4fb6f8f81c12597c85503dd",
    "timestamp": "1996-09-24T17:12:08.000Z"
   },
-  "CULT.MAP": {
+  {
    "bytes": 103629,
+   "path": "CULT.MAP",
    "sha256": "e02e78e2437321a2b0e9f1c1b140421c52d307779c7d292cdceab845a93889ce",
    "timestamp": "1996-09-24T17:03:04.000Z"
   },
-  "README.TXT": {
+  {
    "bytes": 1057,
+   "path": "README.TXT",
    "sha256": "094ac16ef2a32ece732fec792af8cd24a799bc52b0bcd8cdcb12286ca9d08085",
    "timestamp": "1996-09-24T17:19:32.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-09-24",
  "sha256": "0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed",
  "tags": [
-  "author=Viper",
   "filename=cult.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsc.htm)",
   "map_size=small",
-  "release_date=1996-09-24",
   "source=included",
   "theme=metal",
   "theme=wizard",
-  "title=The Cult",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Cult",
  "urls": [
   "https://www.quaddicted.com/filebase/cult.zip",
   "https://www.quaddicted.com/files/by-sha256/08/0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed/cult.zip"

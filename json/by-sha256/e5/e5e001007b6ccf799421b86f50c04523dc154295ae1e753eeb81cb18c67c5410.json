@@ -1,33 +1,39 @@
 {
+ "authors": [
+  "Digs"
+ ],
  "bytes": 3492680,
  "description": "Large fortress with four differently-colored/textured areas around a Minecraft-styled courtyard.",
- "files": {
-  "digs08.bsp": {
+ "files": [
+  {
    "bytes": 6661020,
+   "path": "digs08.bsp",
    "sha256": "a68a475a611047473b830a6eda09742ee0832e0a8baddbe406feb6f832861a6d",
    "timestamp": "2016-03-24T11:50:48.000Z"
   },
-  "digs08.lit": {
+  {
    "bytes": 2933579,
+   "path": "digs08.lit",
    "sha256": "ca53d2ba5a058736d5e9cab381d9919161b6c02606f7152fd47d78590608a981",
    "timestamp": "2016-03-24T10:23:54.000Z"
   },
-  "digs08.txt": {
+  {
    "bytes": 1914,
+   "path": "digs08.txt",
    "sha256": "14da1f27bed6593e7ee3d98db7e37cedb8da912f7bfb0ce37d8a58f8166ddea9",
    "timestamp": "2016-03-24T08:27:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires an engine port with increased limits. Support for colored lighting recommended."
  ],
+ "release_date": "2016-03-24",
  "sha256": "e5e001007b6ccf799421b86f50c04523dc154295ae1e753eeb81cb18c67c5410",
  "tags": [
-  "author=Digs",
   "exceeds_quake_limits=yes",
   "filename=digs08.zip",
   "game=quake",
@@ -37,17 +43,16 @@
   "map_size=large",
   "nonspecific_tag=outside",
   "nonspecific_tag=teleporters",
-  "release_date=2016-03-24",
   "theme=bricks",
   "theme=experimental",
   "theme=exploration",
   "theme=fortress",
   "theme=mixtex",
   "theme=puzzles",
-  "title=The Isolation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Isolation",
  "urls": [
   "https://www.quaddicted.com/filebase/digs08.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e5e001007b6ccf799421b86f50c04523dc154295ae1e753eeb81cb18c67c5410/digs08.zip"

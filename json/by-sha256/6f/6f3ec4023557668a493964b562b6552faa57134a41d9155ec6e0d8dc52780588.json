@@ -1,37 +1,45 @@
 {
+ "authors": [
+  "Spiked_"
+ ],
  "bytes": 3877747,
+ "depends": [
+  "copper>=1.19"
+ ],
  "description": "Large medieval library level in a classic id1 style. Map source is included. The author's first public release.",
- "files": {
-  "snklib.bsp": {
+ "files": [
+  {
    "bytes": 8366468,
+   "path": "snklib.bsp",
    "sha256": "b132142f890e8cbcacf489bfd1713148bfa635ed4475e3f7a17c6d756f526444",
    "timestamp": "2022-11-14T09:51:10.000Z"
   },
-  "snklib.map": {
+  {
    "bytes": 5504423,
+   "path": "snklib.map",
    "sha256": "6381da9152c5ab9c4e3b5e579e9709ffdf2643623e650a6df05cb1dfb2478e5c",
    "timestamp": "2022-11-14T09:34:22.000Z"
   },
-  "snklib.txt": {
+  {
    "bytes": 3141,
+   "path": "snklib.txt",
    "sha256": "2ea2313d07a6cfca4bfdbfbb55c0a55ce852b02cc19c2be90b8a8c0d4f50d885",
    "timestamp": "2022-11-14T11:48:38.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "Requires <a href=\"484334d9305c5097b8b735bd1b91d943753c5fd77d65401b519b84b93c00f82c\">Copper v1.19+</a> (NOT included).",
   "Probably requires a modern engine / source port with increased limits."
  ],
+ "release_date": "2022-11-14",
  "sha256": "6f3ec4023557668a493964b562b6552faa57134a41d9155ec6e0d8dc52780588",
  "tags": [
-  "author=Spiked_",
   "commandline=-game copper",
   "dependency=copper_v1_19",
-  "depends=('copper>=1.19')",
   "exceeds_quake_limits=yes",
   "filename=snklib.zip",
   "game=quake",
@@ -41,15 +49,14 @@
   "mod=copper",
   "nonspecific_tag=debut",
   "nonspecific_tag=library",
-  "release_date=2022-11-14",
   "source=included",
   "startmap=snklib",
   "theme=medieval",
   "theme=water",
-  "title=Sunken Library",
   "type=map",
   "zipbasedir=copper/maps/"
  ],
+ "title": "Sunken Library",
  "urls": [
   "https://www.quaddicted.com/filebase/snklib.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6f3ec4023557668a493964b562b6552faa57134a41d9155ec6e0d8dc52780588/snklib.zip"

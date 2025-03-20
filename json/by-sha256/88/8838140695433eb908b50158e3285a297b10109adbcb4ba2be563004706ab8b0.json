@@ -1,28 +1,33 @@
 {
+ "authors": [
+  "Boss300"
+ ],
  "bytes": 4144604,
  "description": "Large abstract level floating in the void, with mixed texture themes and a very large enemy count / horde combat.",
- "files": {
-  "README.txt": {
+ "files": [
+  {
    "bytes": 2284,
+   "path": "README.txt",
    "sha256": "6090a00139b7018ef598be9e205c8970b975afb06542e4c006f17964fdd52c9e",
    "timestamp": "2021-03-16T11:37:38.000Z"
   },
-  "insides.bsp": {
+  {
    "bytes": 14228752,
+   "path": "insides.bsp",
    "sha256": "7cddc1e9de8c165fe8c1ed59d2d044c41efc14ce04954d5df326dcf539c1d16a",
    "timestamp": "2021-03-09T00:58:16.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
+ "release_date": "2021-03-16",
  "sha256": "8838140695433eb908b50158e3285a297b10109adbcb4ba2be563004706ab8b0",
  "tags": [
-  "author=Boss300",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=insides.zip",
@@ -31,15 +36,14 @@
   "map_size=large",
   "nonspecific_tag=boxed",
   "playstyle=horde",
-  "release_date=2021-03-16",
   "theme=abstract",
   "theme=mixtex",
   "theme=space",
   "theme=void",
-  "title=Insides-Out",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Insides-Out",
  "urls": [
   "https://www.quaddicted.com/filebase/insides.zip",
   "https://www.quaddicted.com/files/by-sha256/88/8838140695433eb908b50158e3285a297b10109adbcb4ba2be563004706ab8b0/insides.zip"

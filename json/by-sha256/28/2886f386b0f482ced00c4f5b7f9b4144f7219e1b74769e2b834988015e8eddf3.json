@@ -1,31 +1,42 @@
 {
+ "authors": [
+  "RickyT23"
+ ],
  "bytes": 1425173,
+ "depends": [
+  "quoth>=2.0"
+ ],
  "description": "Medium sized base map.",
- "files": {
-  "quarantine.bsp": {
+ "files": [
+  {
    "bytes": 3554240,
+   "path": "quarantine.bsp",
    "sha256": "93065c2bde0c61a8ddf784db5bedcbf55cec0769d4a659621084b1c0b8925351",
    "timestamp": "2013-04-08T18:12:10.000Z"
   },
-  "quarantine.txt": {
+  {
    "bytes": 2213,
+   "path": "quarantine.txt",
    "sha256": "f18114d538ed45081d62b4cd7afdc5213136795bd37b9233046fbdd09444ff1c",
    "timestamp": "2013-04-08T18:08:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>. A bug-fixed version (some monsters are missing) is available as <a href=\"1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef\">quarantine02.zip</a>."
  ],
+ "provides": [
+  "quarantine=1.0"
+ ],
+ "release_date": "2013-04-08",
+ "release_group": "quarantine",
  "sha256": "2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3",
  "tags": [
-  "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
-  "depends=('quoth>=2.0')",
   "filename=quarantine.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,18 +45,15 @@
   "map_size=medium",
   "mod=quoth",
   "nonspecific_tag=glass",
-  "provides='quarantine=1.0'",
-  "release_date=2013-04-08",
-  "release_group=quarantine",
   "theme=base",
   "theme=quoth",
-  "title=Quarantine",
   "type=map",
-  "version=1.0",
   "zipbasedir=quoth/maps/"
  ],
+ "title": "Quarantine",
  "urls": [
   "https://www.quaddicted.com/filebase/quarantine.zip",
   "https://www.quaddicted.com/files/by-sha256/28/2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3/quarantine.zip"
- ]
+ ],
+ "version": "1.0"
 }

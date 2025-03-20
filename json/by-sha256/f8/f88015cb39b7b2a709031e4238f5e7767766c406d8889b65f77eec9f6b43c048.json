@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Marcus Dromowicz"
+ ],
  "bytes": 580057,
  "description": "Medium sized plain Medieval map with a tower and a dungeon area.",
- "files": {
-  "MEXX7.BSP": {
+ "files": [
+  {
    "bytes": 1403592,
+   "path": "MEXX7.BSP",
    "sha256": "7bb3dfa17898112017a504e12828e6be5b346aa40d5a417d8b359a13375655c4",
    "timestamp": "1997-02-13T23:56:36.000Z"
   },
-  "MEXX7.TXT": {
+  {
    "bytes": 6367,
+   "path": "MEXX7.TXT",
    "sha256": "3657a1d3e59552f9084dd4f051e48a20a50f3d2eea5433d772ac4daa45ed749a",
    "timestamp": "1997-02-14T00:36:42.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-02-14",
  "sha256": "f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048",
  "tags": [
-  "author=Marcus Dromowicz",
   "filename=mexx7.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -30,14 +35,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-02-14",
   "theme=bricks",
   "theme=medieval",
   "theme=terracotta",
-  "title=A Bishop's Bane (Domina Domino)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "A Bishop's Bane (Domina Domino)",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx7.zip",
   "https://www.quaddicted.com/files/by-sha256/f8/f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048/mexx7.zip"

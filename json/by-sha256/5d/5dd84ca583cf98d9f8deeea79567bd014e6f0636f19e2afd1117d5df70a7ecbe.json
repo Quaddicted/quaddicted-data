@@ -1,109 +1,127 @@
 {
+ "authors": [
+  "wedge_one"
+ ],
  "bytes": 9881964,
  "description": "Small map in the knave theme based on a previously created blockout. Essentially a (very) late entry to <a href=\"1d1d02dd41e96e83af9b9f0258a2a33defadd198b598d8e334b64c955e17c4f5\">QBB1</a>",
- "files": {
-  "gfx/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-11T22:43:48.000Z"
   },
-  "gfx/env/": {
+  {
    "bytes": 0,
+   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-11T22:43:48.000Z"
   },
-  "gfx/env/moonrise_bk.tga": {
+  {
    "bytes": 3145772,
+   "path": "gfx/env/moonrise_bk.tga",
    "sha256": "3b4e85116e3999d5cded25ca0a5d6fb9c297b3d69749a63daf5af6c37fe21959",
    "timestamp": "2015-05-13T14:04:28.000Z"
   },
-  "gfx/env/moonrise_dn.tga": {
+  {
    "bytes": 3145772,
+   "path": "gfx/env/moonrise_dn.tga",
    "sha256": "a7be41496d25bc9e505b959b08a950c1bb61acc6c8c44ec4e1dd428faeac4ccd",
    "timestamp": "2015-05-13T14:04:28.000Z"
   },
-  "gfx/env/moonrise_ft.tga": {
+  {
    "bytes": 3145772,
+   "path": "gfx/env/moonrise_ft.tga",
    "sha256": "7381c46aa4f5c916f3bc8f82a442a4582834563c0bb0127580053bb274609180",
    "timestamp": "2015-05-13T14:04:28.000Z"
   },
-  "gfx/env/moonrise_lf.tga": {
+  {
    "bytes": 3145772,
+   "path": "gfx/env/moonrise_lf.tga",
    "sha256": "871df5eed200970b8c3246ca10a039f5915c95e8f48bf0692fc22f2f7e5450cd",
    "timestamp": "2015-05-13T14:04:28.000Z"
   },
-  "gfx/env/moonrise_rt.tga": {
+  {
    "bytes": 3145772,
+   "path": "gfx/env/moonrise_rt.tga",
    "sha256": "2cc00bb935ee2f4019f4d99170d38ef3f51c72ff80150cd74911b1038a0cb269",
    "timestamp": "2015-05-13T14:04:28.000Z"
   },
-  "gfx/env/moonrise_up.tga": {
+  {
    "bytes": 3145772,
+   "path": "gfx/env/moonrise_up.tga",
    "sha256": "0296084074d726170fdc85d2c1176ee64845b6805c174c08aaa63f514fd9cb65",
    "timestamp": "2015-05-13T14:04:28.000Z"
   },
-  "maps/": {
+  {
    "bytes": 0,
+   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-12T00:44:26.000Z"
   },
-  "maps/wdg_qbblock1.bsp": {
+  {
    "bytes": 3895420,
+   "path": "maps/wdg_qbblock1.bsp",
    "sha256": "86a1948566f8ba4b6519dd98c0e19fd657e4b2f8919440dd3b8676630f6c2039",
    "timestamp": "2024-06-30T21:35:50.000Z"
   },
-  "maps/wdg_qbblock1.lit": {
+  {
    "bytes": 1402631,
+   "path": "maps/wdg_qbblock1.lit",
    "sha256": "736c52e4e960dd8edae3d12dc263622bf7a23e3247503a61992a120b13df07f2",
    "timestamp": "2024-06-30T21:35:50.000Z"
   },
-  "maps/wdg_qbblock1readme.txt": {
+  {
    "bytes": 423,
+   "path": "maps/wdg_qbblock1readme.txt",
    "sha256": "b985a8ba9a96b184f0a253d4c43a56dd1c8d7538ff3ad3d30da5f52faf2cc01c",
    "timestamp": "2024-06-30T22:19:32.000Z"
   },
-  "src/": {
+  {
    "bytes": 0,
+   "path": "src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-12T00:44:26.000Z"
   },
-  "src/qbblock1.map": {
+  {
    "bytes": 335972,
+   "path": "src/qbblock1.map",
    "sha256": "7e64449cf59ae3c473cee7e3199029d7267d793a5ed5d94630c18aacd78a7b54",
    "timestamp": "2020-05-04T21:14:44.000Z"
   },
-  "src/qbblock1readme.txt": {
+  {
    "bytes": 1068,
+   "path": "src/qbblock1readme.txt",
    "sha256": "15e875fc508aa713d87f67a5b4dbb912e281702db1b6966f918970b603e517da",
    "timestamp": "2020-05-04T18:44:38.000Z"
   },
-  "src/wdg_qbblock1.map": {
+  {
    "bytes": 3957705,
+   "path": "src/wdg_qbblock1.map",
    "sha256": "dec577954402b2c258ba00ca8d723fc307ef6048cbf35ef1a05198083c1ec2b6",
    "timestamp": "2024-06-30T22:02:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
+ "release_date": "2024-07-03",
  "sha256": "5dd84ca583cf98d9f8deeea79567bd014e6f0636f19e2afd1117d5df70a7ecbe",
  "tags": [
-  "author=wedge_one",
   "filename=wdg_qbblock1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/missing-coordinates.369/)",
-  "release_date=2024-07-03",
   "startmap=wdg_qbblock1",
-  "title=Missing Coordinates",
   "type=map",
   "type=mod",
   "zipbasedir=id1/"
  ],
+ "title": "Missing Coordinates",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/5d/5dd84ca583cf98d9f8deeea79567bd014e6f0636f19e2afd1117d5df70a7ecbe/wdg_qbblock1.zip",
   "https://x901.net/quaddictedfiles/wdg_qbblock1.zip"

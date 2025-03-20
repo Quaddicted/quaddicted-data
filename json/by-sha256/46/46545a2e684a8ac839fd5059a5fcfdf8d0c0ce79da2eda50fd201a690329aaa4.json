@@ -1,43 +1,49 @@
 {
+ "authors": [
+  "Nihilism Unlimited"
+ ],
  "bytes": 274130,
  "description": "<a href=\"e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797\">Zerst\u00f6rer</a> patch: progs.dat / qwprogs.dat <b>version 1.1</b>.",
- "files": {
-  "progs.dat": {
+ "files": [
+  {
    "bytes": 588276,
+   "path": "progs.dat",
    "sha256": "3080c1651eec8d5fa2917d3604e9b8cf7a7e7a371bfda95b3a59d4828b34ade3",
    "timestamp": "1997-10-11T23:43:50.000Z"
   },
-  "qwprogs.dat": {
+  {
    "bytes": 269292,
+   "path": "qwprogs.dat",
    "sha256": "90c5f7d67dbdfcfb0f5840e5040572c561d851bf7c4c275e1f0feaa5904c9761",
    "timestamp": "1997-10-23T15:15:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/zer/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "provides": [
+  "zer=1.1"
+ ],
+ "release_date": "1997-10-23",
+ "release_group": "zer",
  "sha256": "46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4",
  "tags": [
-  "author=Nihilism Unlimited",
   "commandline=-game zer",
   "filename=zer11.zip",
   "game=quake",
   "game_mode=singleplayer",
   "nonspecific_tag=patch",
   "patch=yes",
-  "provides=''zer=1.1'",
-  "release_date=1997-10-23",
-  "release_group=zer",
   "startmap=start",
   "theme=zerst\u00f6rer",
-  "title=Zerst\u00f6rer v1.1",
   "type=mod",
-  "version=1.1",
   "zipbasedir=zer/"
  ],
+ "title": "Zerst\u00f6rer v1.1",
  "urls": [
   "https://www.quaddicted.com/filebase/zer11.zip",
   "https://www.quaddicted.com/files/by-sha256/46/46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4/zer11.zip"
- ]
+ ],
+ "version": "1.1"
 }

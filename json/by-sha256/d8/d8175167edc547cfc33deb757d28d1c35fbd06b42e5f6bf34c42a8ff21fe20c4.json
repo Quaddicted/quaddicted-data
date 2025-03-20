@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Killjoy"
+ ],
  "bytes": 1477317,
  "description": "Unique Taj-Mahal inspired map featuring new white version of the IKBlue texture set and lots of exploration.",
- "files": {
-  "kjsp1.bsp": {
+ "files": [
+  {
    "bytes": 3348084,
+   "path": "kjsp1.bsp",
    "sha256": "83d7f6557d1d2ff3c1cd9a50ee3759061d39192235efbe258d46dab8d589464a",
    "timestamp": "2001-10-13T15:08:20.000Z"
   },
-  "kjsp1.txt": {
+  {
    "bytes": 6228,
+   "path": "kjsp1.txt",
    "sha256": "a67b2b9e6a54f1c403e65c4ecdb782560a1e16c093582decfa21f4118a11c5e7",
    "timestamp": "2001-10-13T15:42:22.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-10-13",
  "sha256": "d8175167edc547cfc33deb757d28d1c35fbd06b42e5f6bf34c42a8ff21fe20c4",
  "tags": [
-  "author=Killjoy",
   "filename=kjsp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,12 +39,11 @@
   "nonspecific_tag=bright",
   "nonspecific_tag=palace",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=2001-10-13",
   "theme=ikwhite",
-  "title=Avanipaala Praasaada (Palace of the Great Warriors)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Avanipaala Praasaada (Palace of the Great Warriors)",
  "urls": [
   "https://www.quaddicted.com/filebase/kjsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d8175167edc547cfc33deb757d28d1c35fbd06b42e5f6bf34c42a8ff21fe20c4/kjsp1.zip"

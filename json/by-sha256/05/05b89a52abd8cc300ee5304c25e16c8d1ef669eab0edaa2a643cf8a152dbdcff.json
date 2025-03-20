@@ -1,34 +1,40 @@
 {
+ "authors": [
+  "Chris Burgess"
+ ],
  "bytes": 706493,
  "description": "Small to medium Base map.",
- "files": {
-  "RIT.BSP": {
+ "files": [
+  {
    "bytes": 1642760,
+   "path": "RIT.BSP",
    "sha256": "b246039a66d12b8effff25f33efc769e3e8d364dbbf2c9c77d13e1404169f9fc",
    "timestamp": "1996-08-18T16:08:50.000Z"
   },
-  "RIT.TXT": {
+  {
    "bytes": 1740,
+   "path": "RIT.TXT",
    "sha256": "6526c7098f85de27b28a8b7125ca00f3626dbbef39eaddad27e05fd1e34e420c",
    "timestamp": "1996-08-18T16:26:48.000Z"
   },
-  "rit_quaddictedrepack.txt": {
+  {
    "bytes": 319,
+   "path": "rit_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "While the timestamps in the zip say 1996, Crash's dating of 1997-09-17 is much more realistic.",
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
+ "release_date": "1997-09-17",
  "sha256": "05b89a52abd8cc300ee5304c25e16c8d1ef669eab0edaa2a643cf8a152dbdcff",
  "tags": [
-  "author=Chris Burgess",
   "filename=rit.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,13 +42,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "map_size=small",
-  "release_date=1997-09-17",
   "theme=base",
   "theme=water",
-  "title=Escape the Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Escape the Base",
  "urls": [
   "https://www.quaddicted.com/filebase/rit.zip",
   "https://www.quaddicted.com/files/by-sha256/05/05b89a52abd8cc300ee5304c25e16c8d1ef669eab0edaa2a643cf8a152dbdcff/rit.zip"

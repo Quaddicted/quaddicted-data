@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Biff Debris"
+ ],
  "bytes": 832185,
  "description": "Medium metal map with intricate visuals.",
- "files": {
-  "IMP1SP2.bsp": {
+ "files": [
+  {
    "bytes": 2077384,
+   "path": "IMP1SP2.bsp",
    "sha256": "74512c99f21d305810bcf184c12dc93035d08903d51a4b2013fac47ceb2e04ca",
    "timestamp": "2001-07-23T17:10:54.000Z"
   },
-  "imp1sp2.txt": {
+  {
    "bytes": 2282,
+   "path": "imp1sp2.txt",
    "sha256": "c9df2951cb95fc6d03310b46281691ae7d6aa97e7673e13c5b058adc3c687590",
    "timestamp": "2001-07-23T20:10:46.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-07-23",
  "sha256": "bbffe13437f710e4c83ac41eedfe7c5484019462229e85bee4a18e1d2f6665ed",
  "tags": [
-  "author=Biff Debris",
   "filename=imp1sp2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,12 +34,11 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=imp1sp2)",
   "link:review=[Tronyn's Top 10: Runic](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a3.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "release_date=2001-07-23",
   "theme=metal",
-  "title=House of Spikes",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "House of Spikes",
  "urls": [
   "https://www.quaddicted.com/filebase/imp1sp2.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bbffe13437f710e4c83ac41eedfe7c5484019462229e85bee4a18e1d2f6665ed/imp1sp2.zip"

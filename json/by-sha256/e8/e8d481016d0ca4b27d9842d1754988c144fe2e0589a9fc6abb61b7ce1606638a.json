@@ -1,20 +1,24 @@
 {
+ "authors": [
+  "Here"
+ ],
  "bytes": 1567962,
  "description": "Large white Indian temple-ish map with all new textures.",
- "files": {
-  "heresp4.bsp": {
+ "files": [
+  {
    "bytes": 3544524,
+   "path": "heresp4.bsp",
    "sha256": "b863534df8639cb8abd3e3c3a547b73696136abccaff85a072a6669a3bfd318c",
    "timestamp": "2005-07-27T11:19:32.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2005-07-27",
  "sha256": "e8d481016d0ca4b27d9842d1754988c144fe2e0589a9fc6abb61b7ce1606638a",
  "tags": [
-  "author=Here",
   "filename=heresp4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -25,12 +29,11 @@
   "map_size=large",
   "nonspecific_tag=textures",
   "nonspecific_tag=white",
-  "release_date=2005-07-27",
   "theme=temple",
-  "title=Beyond the Black Sun",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Beyond the Black Sun",
  "urls": [
   "https://www.quaddicted.com/filebase/heresp4.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e8d481016d0ca4b27d9842d1754988c144fe2e0589a9fc6abb61b7ce1606638a/heresp4.zip"

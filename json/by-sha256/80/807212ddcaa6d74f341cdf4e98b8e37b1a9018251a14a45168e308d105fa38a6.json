@@ -1,28 +1,33 @@
 {
+ "authors": [
+  "Chris Burgess"
+ ],
  "bytes": 603636,
  "description": "Small to medium Metal map.",
- "files": {
-  "RIT2.BSP": {
+ "files": [
+  {
    "bytes": 1361616,
+   "path": "RIT2.BSP",
    "sha256": "584c145d57f84c3979f6580392579b7ff3388173aa96043634f000d44d121927",
    "timestamp": "1996-09-22T00:57:58.000Z"
   },
-  "RIT2.TXT": {
+  {
    "bytes": 1714,
+   "path": "RIT2.TXT",
    "sha256": "4a4c7d053a085f32fe3f227a47aea74f03d2cfa66ba01dc654b289f1aa09fa40",
    "timestamp": "1996-09-22T04:32:52.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "While the timestamps in the zip say 1996, Crash's dating of 1997-09-25 is much more realistic."
  ],
+ "release_date": "1997-09-25",
  "sha256": "807212ddcaa6d74f341cdf4e98b8e37b1a9018251a14a45168e308d105fa38a6",
  "tags": [
-  "author=Chris Burgess",
   "filename=rit2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -30,12 +35,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "map_size=small",
-  "release_date=1997-09-25",
   "theme=metal",
-  "title=Escape the Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Escape the Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/rit2.zip",
   "https://www.quaddicted.com/files/by-sha256/80/807212ddcaa6d74f341cdf4e98b8e37b1a9018251a14a45168e308d105fa38a6/rit2.zip"

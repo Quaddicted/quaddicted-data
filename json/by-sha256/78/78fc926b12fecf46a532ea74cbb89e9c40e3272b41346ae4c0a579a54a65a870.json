@@ -1,61 +1,72 @@
 {
+ "authors": [
+  "American McGee",
+  "Connor Fitzgerald feat. Preacher",
+  "Ghandi",
+  "John Romero",
+  "Pingu",
+  "Yataze",
+  "ZTN"
+ ],
  "bytes": 2178487,
  "description": "Episode consisting of seven classic deathmatch maps converted for single player (with speedrunning in mind):<br><br>dmc1m1 : basewalk (basewalk) by Preacher<br>dmc1m2 : Acrophobia (dm7) by (maybe) American McGee<br>dmc1m3 : Bloodrun (ztndm3) by ZTN<br>dmc1m4 : DeutschMaschine (cmt3) by Gandhi<br>dmc1m5 : Domination (p3a) by Pingu<br>dmc1m6 : #endif (endif) by Yataze<br>dmc1m7 : Lost Entrance to the Dismal Oubliette (e2m10) by John Romero<br>",
- "files": {
-  "dmc1.txt": {
+ "files": [
+  {
    "bytes": 3035,
+   "path": "dmc1.txt",
    "sha256": "1a4a93b113c437ecddb00c7dd3517c823823dea98036e986a4b86dcdecb8eaa7",
    "timestamp": "2003-12-18T09:28:48.000Z"
   },
-  "dmc1m1.bsp": {
+  {
    "bytes": 610400,
+   "path": "dmc1m1.bsp",
    "sha256": "c9b9ffaafd96e2e52b15e97b87bddd4e0baa776702e014a04ff7be75ab2e8a0c",
    "timestamp": "2003-12-07T12:44:36.000Z"
   },
-  "dmc1m2.bsp": {
+  {
    "bytes": 681244,
+   "path": "dmc1m2.bsp",
    "sha256": "41afaaab13bd132db48660ce68e7d9c29c934829d4aa38b9dbf19ac2ca29f68a",
    "timestamp": "2003-12-07T13:06:38.000Z"
   },
-  "dmc1m3.bsp": {
+  {
    "bytes": 489192,
+   "path": "dmc1m3.bsp",
    "sha256": "be85ffe1bc02dda74ae6707b6c25420ca9fb310dfbffb4750895be0ed3a2803c",
    "timestamp": "2003-12-07T13:12:52.000Z"
   },
-  "dmc1m4.bsp": {
+  {
    "bytes": 1589936,
+   "path": "dmc1m4.bsp",
    "sha256": "7b8d970f9024b007695c4ae22190f48c00af779ce83952e81859d747a2cdd002",
    "timestamp": "2003-12-14T20:31:56.000Z"
   },
-  "dmc1m5.bsp": {
+  {
    "bytes": 656184,
+   "path": "dmc1m5.bsp",
    "sha256": "50e4326ab43f25d76f7ddbf809c2d5998e21089106b7be2123697da8a7375350",
    "timestamp": "2003-12-11T10:56:24.000Z"
   },
-  "dmc1m6.bsp": {
+  {
    "bytes": 359744,
+   "path": "dmc1m6.bsp",
    "sha256": "dbd914283c5a8ad297d7688f81d0b0b52204dde05c5cf062060a48f4556dccdc",
    "timestamp": "2003-12-11T11:27:00.000Z"
   },
-  "dmc1m7.bsp": {
+  {
    "bytes": 625844,
+   "path": "dmc1m7.bsp",
    "sha256": "08b2739adf0b58d77c75c1cc206877f93d922366a846dc298807d1e4d4582459",
    "timestamp": "2003-12-11T11:31:24.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2003-12-18",
  "sha256": "78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870",
  "tags": [
-  "author=American McGee",
-  "author=Connor Fitzgerald feat. Preacher",
-  "author=Ghandi",
-  "author=John Romero",
-  "author=Pingu",
-  "author=Yataze",
-  "author=ZTN",
   "filename=dmc1.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -64,7 +75,6 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=sda",
-  "release_date=2003-12-18",
   "startmap=dmc1m1",
   "startmap=dmc1m2",
   "startmap=dmc1m3",
@@ -75,11 +85,11 @@
   "theme=base",
   "theme=medieval",
   "theme=metal",
-  "title=Deathmatch Classics Vol. 1",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Deathmatch Classics Vol. 1",
  "urls": [
   "https://www.quaddicted.com/filebase/dmc1.zip",
   "https://www.quaddicted.com/files/by-sha256/78/78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870/dmc1.zip"

@@ -1,27 +1,34 @@
 {
+ "authors": [
+  "Iikka \"Fingers\" Ker\u00e4nen"
+ ],
  "bytes": 284005,
+ "depends": [
+  "af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b"
+ ],
  "description": "Start map of the IKSPQ series.",
- "files": {
-  "IKSTART.BSP": {
+ "files": [
+  {
    "bytes": 669516,
+   "path": "IKSTART.BSP",
    "sha256": "461f634707244acbcea6d0a82b88f7e4d80cee0e02aca9bb191853d9e93b05ee",
    "timestamp": "1997-04-18T07:59:42.000Z"
   },
-  "IKSTART.TXT": {
+  {
    "bytes": 4258,
+   "path": "IKSTART.TXT",
    "sha256": "02e18a60ef48977aef3a09ec3576380ba7b630acea1873db19872cc421cd50ee",
    "timestamp": "1997-04-24T12:40:48.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-04-24",
  "sha256": "f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693",
  "tags": [
-  "author=Iikka \"Fingers\" Ker\u00e4nen",
   "dependency=ikspq1",
-  "depends=af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b",
   "filename=ikstart.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -35,12 +42,11 @@
   "nonspecific_tag=series",
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
-  "release_date=1997-04-24",
   "theme=wizard",
-  "title=Welcome to IKSPQ",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Welcome to IKSPQ",
  "urls": [
   "https://www.quaddicted.com/filebase/ikstart.zip",
   "https://www.quaddicted.com/files/by-sha256/f0/f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693/ikstart.zip"
