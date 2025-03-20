@@ -31,6 +31,7 @@
  "release_date": "2001-03-25",
  "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [
+  "author=Vondur",
   "commandline=-game koohoo",
   "filename=koohoo.zip",
   "game=quake",
@@ -45,6 +46,7 @@
   "map_size=huge",
   "nonspecific_tag=aztec",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2001-03-25",
   "startmap=start",
   "theme=boss",
   "theme=green",
@@ -52,6 +54,7 @@
   "theme=swamp",
   "theme=temple",
   "theme=underground",
+  "title=The Castle of Koohoo",
   "type=mod"
  ],
  "title": "The Castle of Koohoo",

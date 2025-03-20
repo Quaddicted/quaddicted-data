@@ -34,6 +34,7 @@
  "release_date": "2013-09-28",
  "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "tags": [
+  "author=sock",
   "commandline=-game ivory",
   "exceeds_quake_limits=yes",
   "filename=ivory1b.zip",
@@ -43,11 +44,13 @@
   "map_size=medium",
   "nonspecific_tag=mines",
   "nonspecific_tag=rocks",
+  "release_date=2013-09-28",
   "source=included",
   "startmap=ivory",
   "theme=castle",
   "theme=medieval",
   "theme=tower",
+  "title=The Ivory Tower",
   "type=mod",
   "zipbasedir=ivory/"
  ],

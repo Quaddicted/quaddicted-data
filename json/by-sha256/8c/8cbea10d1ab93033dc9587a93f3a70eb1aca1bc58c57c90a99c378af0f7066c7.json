@@ -37,14 +37,17 @@
  "release_date": "2009-01-29",
  "sha256": "8cbea10d1ab93033dc9587a93f3a70eb1aca1bc58c57c90a99c378af0f7066c7",
  "tags": [
+  "author=goldenboy",
   "filename=gb_palace.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2009-01-29",
   "source=included",
   "theme=brick",
   "theme=castle",
   "theme=industrial",
+  "title=Palace Revolution",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

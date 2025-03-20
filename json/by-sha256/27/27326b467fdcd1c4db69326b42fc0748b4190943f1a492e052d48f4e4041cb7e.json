@@ -31,14 +31,17 @@
  "release_date": "1996-08-06",
  "sha256": "27326b467fdcd1c4db69326b42fc0748b4190943f1a492e052d48f4e4041cb7e",
  "tags": [
+  "author=phillipt",
   "filename=thisistx.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1996-08-06",
   "source=included",
   "startmap=thisiste",
   "theme=base",
+  "title=This Is The End",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

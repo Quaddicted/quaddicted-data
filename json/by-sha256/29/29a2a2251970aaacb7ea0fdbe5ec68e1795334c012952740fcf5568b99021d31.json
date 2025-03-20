@@ -37,13 +37,16 @@
  "release_date": "1997-12-07",
  "sha256": "29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31",
  "tags": [
+  "author=David Minor",
   "filename=dm_crypt.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
+  "release_date=1997-12-07",
   "startmap=intro",
   "theme=blue",
   "theme=wizard",
+  "title=The Crypt",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

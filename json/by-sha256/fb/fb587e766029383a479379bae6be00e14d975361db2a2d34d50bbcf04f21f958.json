@@ -25,6 +25,7 @@
  "release_date": "2003-05-07",
  "sha256": "fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958",
  "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game add2",
   "filename=add2.zip",
   "game=quake",
@@ -37,9 +38,11 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "nonspecific_tag=monsters",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2003-05-07",
   "theme=desert",
   "theme=scourge of armagon",
   "theme=temple",
+  "title=ADD2: Scorpion Garrison",
   "type=mod",
   "zipbasedir=add2/"
  ],

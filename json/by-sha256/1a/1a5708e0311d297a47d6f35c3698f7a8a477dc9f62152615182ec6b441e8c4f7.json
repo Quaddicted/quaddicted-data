@@ -39,12 +39,17 @@
  "release_date": "2004-05-08",
  "sha256": "1a5708e0311d297a47d6f35c3698f7a8a477dc9f62152615182ec6b441e8c4f7",
  "tags": [
+  "author=Scampie",
+  "author=Windlash",
+  "author=Zwiffle",
   "filename=sm78_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2004-05-08",
   "startmap=sm78_evan",
   "startmap=sm78_scampie",
   "startmap=sm78_zwiffle",
+  "title=Speedmapping pack 78 - Arena",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

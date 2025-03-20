@@ -610,6 +610,7 @@
  "release_date": "2020-11-11",
  "sha256": "464a00ea079de97aa23f120fca7dd980924be6a7e72c717637e8e2d93ef18721",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "commandline=-game jpqm8",
   "exceeds_quake_limits=yes",
@@ -625,12 +626,14 @@
   "nonspecific_tag=models",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
+  "release_date=2020-11-11",
   "source=included",
   "theme=industrial",
   "theme=metal",
   "theme=runic",
   "theme=space",
   "theme=void",
+  "title=The Edge of Sanity",
   "type=mod",
   "zipbasedir=/"
  ],

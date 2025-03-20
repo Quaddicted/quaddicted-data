@@ -103,13 +103,16 @@
  "release_date": "2025-01-10",
  "sha256": "17a4d2ecb95d070d65c433ed592c39784244b4b3d3ca2769e45b1ed6fc9573e0",
  "tags": [
+  "author=Vanisch",
   "commandline=-game vanisch01",
   "filename=vanisch013.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer](https://www.slipseer.com/index.php?resources/november-schlacht.425/)",
+  "release_date=2025-01-10",
   "size=small",
   "startmap=vanisch01",
+  "title=November-Schlacht",
   "type=map",
   "zipbasedir={base}"
  ],

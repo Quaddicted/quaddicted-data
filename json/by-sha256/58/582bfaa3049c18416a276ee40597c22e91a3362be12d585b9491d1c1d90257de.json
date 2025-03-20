@@ -25,6 +25,7 @@
  "release_date": "2011-06-22",
  "sha256": "582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de",
  "tags": [
+  "author=necros",
   "commandline=-zone 2048 -heapsize 192000 +max_edicts 8192 -game ne_ruins",
   "filename=ne_ruins.zip",
   "game=quake",
@@ -41,10 +42,12 @@
   "nonspecific_tag=textures",
   "nonspecific_tag=unique",
   "nonspecific_tag=weapons",
+  "release_date=2011-06-22",
   "startmap=start",
   "theme=boss",
   "theme=snow",
   "theme=temple",
+  "title=The Altar of Storms",
   "type=episode",
   "type=mod",
   "zipbasedir=ne_ruins/"

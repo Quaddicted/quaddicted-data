@@ -37,6 +37,7 @@
  "release_date": "2020-07-16",
  "sha256": "18c5b49996bd573ea5ccf9aa7c86fbe781a007aa3eb82609a1a69b1c9913c46f",
  "tags": [
+  "author=Fairweather",
   "filename=fwsm1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,9 +45,11 @@
   "map_size=small",
   "nonspecific_tag=768",
   "nonspecific_tag=elder",
+  "release_date=2020-07-16",
   "source=included",
   "theme=bricks",
   "theme=wizard",
+  "title=A Quick Trip to the Old World",
   "type=map",
   "type=speedmap",
   "zipbasedir=id1/maps/"

@@ -472,6 +472,7 @@
  "release_date": "2022-11-18",
  "sha256": "bb1ced62053a83634cff6fe5bba864d133277472ff2b682bed85c29f2bba766f",
  "tags": [
+  "author=imi74",
   "commandline=-game tdt100",
   "exceeds_quake_limits=yes",
   "filename=tdt100.zip",
@@ -484,6 +485,7 @@
   "music=custom",
   "nonspecific_tag=monsters",
   "nonspecific_tag=weapons",
+  "release_date=2022-11-18",
   "source=included",
   "startmap=dt_citadel",
   "startmap=dt_lodge",
@@ -492,6 +494,7 @@
   "theme=castle",
   "theme=doom",
   "theme=runic",
+  "title=The Dark Triad v1.0",
   "type=episode",
   "type=mod"
  ],

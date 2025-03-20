@@ -85,8 +85,10 @@
  "release_date": "2013-05-23",
  "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
  "tags": [
+  "author=mfx",
   "commandline=-game quoth -hipnotic +r_novis 1 +r_wateralpha 0.3",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=mfxsp6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -97,6 +99,7 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=skybox",
   "nonspecific_tag=sym",
+  "release_date=2013-05-23",
   "theme=base",
   "theme=fog",
   "theme=quoth",
@@ -104,6 +107,7 @@
   "theme=remix",
   "theme=slime",
   "theme=water",
+  "title=Termination Mental",
   "type=map",
   "zipbasedir=quoth/"
  ],

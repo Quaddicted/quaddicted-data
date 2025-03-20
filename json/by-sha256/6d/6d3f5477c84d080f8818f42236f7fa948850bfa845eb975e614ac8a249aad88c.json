@@ -37,6 +37,7 @@
  "release_date": "2006-07-19",
  "sha256": "6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c",
  "tags": [
+  "author=Andrew 'than' Palmer",
   "filename=dm3rmx.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -45,10 +46,12 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2006-07-19",
   "source=included",
   "theme=base",
   "theme=idbase",
   "theme=remake",
+  "title=The Occupied Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

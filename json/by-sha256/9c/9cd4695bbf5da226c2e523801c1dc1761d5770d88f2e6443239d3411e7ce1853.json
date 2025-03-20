@@ -31,6 +31,7 @@
  "release_date": "1997-03-10",
  "sha256": "9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853",
  "tags": [
+  "author=Neil Manke",
   "filename=siluette.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -41,11 +42,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=textures",
+  "release_date=1997-03-10",
   "theme=exploration",
   "theme=medieval",
   "theme=realism",
   "theme=secrets",
   "theme=village",
+  "title=Silhouette of Darkness",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

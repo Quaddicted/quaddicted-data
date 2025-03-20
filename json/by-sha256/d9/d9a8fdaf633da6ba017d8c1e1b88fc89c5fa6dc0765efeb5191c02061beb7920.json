@@ -25,6 +25,7 @@
  "release_date": "1997-01-13",
  "sha256": "d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920",
  "tags": [
+  "author=Reichert",
   "filename=darkfst.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,10 +37,12 @@
   "nonspecific_tag=forest",
   "nonspecific_tag=textures",
   "nonspecific_tag=trees",
+  "release_date=1997-01-13",
   "theme=castle",
   "theme=outdoor",
   "theme=swamp",
   "theme=traps",
+  "title=Dark Forest",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

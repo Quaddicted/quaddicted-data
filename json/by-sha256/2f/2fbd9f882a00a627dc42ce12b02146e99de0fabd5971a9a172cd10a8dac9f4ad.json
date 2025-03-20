@@ -25,6 +25,7 @@
  "release_date": "1997-03-11",
  "sha256": "2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad",
  "tags": [
+  "author=GatorMan",
   "filename=gatordiv.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,8 +33,10 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsg.htm#gatordiv)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=medium",
+  "release_date=1997-03-11",
   "theme=medieval",
   "theme=terracotta",
+  "title=GatorMan's Diversion",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "2001-07-03",
  "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "tags": [
+  "author=Tim Elek",
   "filename=precipice_continuum.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,12 +39,14 @@
   "nonspecific_tag=greek",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=ruin",
+  "release_date=2001-07-03",
   "startmap=precon",
   "theme=canyon",
   "theme=dkt",
   "theme=medieval",
   "theme=outdoor",
   "theme=temple",
+  "title=Precipice Continuum",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

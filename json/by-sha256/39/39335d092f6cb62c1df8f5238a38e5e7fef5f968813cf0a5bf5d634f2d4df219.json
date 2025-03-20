@@ -25,15 +25,18 @@
  "release_date": "1997-02-28",
  "sha256": "39335d092f6cb62c1df8f5238a38e5e7fef5f968813cf0a5bf5d634f2d4df219",
  "tags": [
+  "author=Gary Marshall (Zedek)",
   "filename=navybase.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsn.htm#navybase)",
   "map_size=small",
   "nonspecific_tag=ship",
+  "release_date=1997-02-28",
   "theme=base",
   "theme=realism",
   "theme=underground",
+  "title=The Navy Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

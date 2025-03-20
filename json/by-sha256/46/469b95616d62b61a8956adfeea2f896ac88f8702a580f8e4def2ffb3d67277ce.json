@@ -69,8 +69,10 @@
  "release_date": "2023-11-09",
  "sha256": "469b95616d62b61a8956adfeea2f896ac88f8702a580f8e4def2ffb3d67277ce",
  "tags": [
+  "author=apterous",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=apterous_pale_peril.zip",
   "game=quake",
@@ -78,7 +80,9 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/pale-peril.283/)",
   "map_size=large",
   "mod=copper",
+  "release_date=2023-11-09",
   "startmap=apterous_pale_peril",
+  "title=Pale Peril",
   "type=map"
  ],
  "title": "Pale Peril",

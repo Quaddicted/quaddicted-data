@@ -34,6 +34,7 @@
  "release_date": "2020-02-16",
  "sha256": "247c9aa4469bf4155c965ed9b6a1bd2829afd21b11786a6e49f85183bce3b9cd",
  "tags": [
+  "author=Dennis Katsonis",
   "commandline=-game loc",
   "filename=lordsofchaos.zip",
   "game=quake",
@@ -46,8 +47,10 @@
   "nonspecific_tag=ogro",
   "nonspecific_tag=slaughter",
   "nonspecific_tag=spooky",
+  "release_date=2020-02-16",
   "theme=lava",
   "theme=zerst\u00f6rer",
+  "title=Lords of Chaos",
   "type=mod",
   "zipbasedir=/"
  ],

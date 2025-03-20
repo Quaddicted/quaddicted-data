@@ -85,6 +85,7 @@
  "release_date": "1998-02-25",
  "sha256": "278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa",
  "tags": [
+  "author=Rickard Ed\u00e9n (Nephilim)",
   "commandline=-game vile",
   "filename=vile.zip",
   "game=quake",
@@ -93,9 +94,11 @@
   "nonspecific_tag=hell",
   "nonspecific_tag=skins",
   "nonspecific_tag=textures",
+  "release_date=1998-02-25",
   "theme=dungeon",
   "theme=medieval",
   "theme=traps",
+  "title=Hell",
   "type=mod"
  ],
  "title": "Hell",

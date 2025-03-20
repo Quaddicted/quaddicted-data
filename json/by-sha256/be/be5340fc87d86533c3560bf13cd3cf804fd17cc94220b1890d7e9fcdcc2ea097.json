@@ -44,8 +44,10 @@
  "release_date": "2024-01-01",
  "sha256": "be5340fc87d86533c3560bf13cd3cf804fd17cc94220b1890d7e9fcdcc2ea097",
  "tags": [
+  "author=Mazu",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=itisover2024.zip",
   "game=quake",
@@ -54,7 +56,9 @@
   "map_size=small",
   "mod=copper",
   "playstyle=slaughtermap",
+  "release_date=2024-01-01",
   "startmap=itisover2024",
+  "title=It Is Over 2024",
   "type=map"
  ],
  "title": "It Is Over 2024",

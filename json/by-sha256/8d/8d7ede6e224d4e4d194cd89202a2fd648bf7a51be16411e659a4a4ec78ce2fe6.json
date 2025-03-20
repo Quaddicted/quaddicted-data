@@ -46,6 +46,7 @@
  "release_date": "1998-07-14",
  "sha256": "8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6",
  "tags": [
+  "author=Lethargy Software",
   "commandline=-game dd",
   "dependency=hipnotic",
   "filename=dd.zip",
@@ -56,6 +57,7 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=vastle",
+  "release_date=1998-07-14",
   "startmap=start",
   "theme=base",
   "theme=dissolution of eternity",
@@ -64,6 +66,7 @@
   "theme=scourge of armagon",
   "theme=traps",
   "theme=wizard",
+  "title=Death's Dominion",
   "type=episode",
   "type=mod",
   "zipbasedir=dd/"

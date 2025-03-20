@@ -37,8 +37,10 @@
  "release_date": "1999-06-18",
  "sha256": "9ce540fd323883be24958a2443e19040ae5def6958183edfb5174e871f5833db",
  "tags": [
+  "author=John \"DaMaul\" McCann",
   "commandline=-game zer",
   "dependency=zer",
+  "depends=('zer>=1.0')",
   "filename=damaul6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,9 +49,11 @@
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-06-18",
   "theme=base",
   "theme=industrial",
   "theme=zerst\u00f6rer",
+  "title=Bestial Devastation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

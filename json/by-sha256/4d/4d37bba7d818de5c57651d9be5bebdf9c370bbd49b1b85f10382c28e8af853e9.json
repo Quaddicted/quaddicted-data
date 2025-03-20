@@ -49,15 +49,18 @@
  "release_date": "1996-10-10",
  "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
  "tags": [
+  "author=Kevin Rohling",
   "filename=rohling.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=dark",
+  "release_date=1996-10-10",
   "source=included",
   "startmap=level",
   "theme=lava",
   "theme=mixtex",
+  "title=Hello",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

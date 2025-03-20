@@ -55,6 +55,7 @@
  "release_date": "2018-04-07",
  "sha256": "4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766",
  "tags": [
+  "author=SavageX",
   "commandline=-game dreadbase",
   "filename=dreadbase.zip",
   "game=quake",
@@ -62,10 +63,12 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61560)",
   "map_size=medium",
   "nonspecific_tag=textures",
+  "release_date=2018-04-07",
   "source=included",
   "startmap=dreadbase_fix1",
   "theme=base",
   "theme=doom",
+  "title=The Dreaded Dreadbase of Dread",
   "type=mod",
   "zipbasedir=/"
  ],

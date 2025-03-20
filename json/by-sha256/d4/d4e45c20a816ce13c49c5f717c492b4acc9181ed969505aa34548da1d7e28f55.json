@@ -239,6 +239,7 @@
  "release_date": "2024-01-10",
  "sha256": "d4e45c20a816ce13c49c5f717c492b4acc9181ed969505aa34548da1d7e28f55",
  "tags": [
+  "author=Chuma",
   "commandline=-game lamothe",
   "exceedslimits=exceeds_quake_limits",
   "filename=lamothe-1.0.zip",
@@ -246,7 +247,9 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/lamothe.306/)",
   "map_size=large",
+  "release_date=2024-01-10",
   "startmap=lamothe",
+  "title=Lamothe",
   "type=map",
   "type=mod"
  ],

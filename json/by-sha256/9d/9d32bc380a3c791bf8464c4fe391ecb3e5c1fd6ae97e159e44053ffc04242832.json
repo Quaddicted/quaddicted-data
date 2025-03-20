@@ -73,6 +73,7 @@
  "release_date": "2012-11-06",
  "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
  "tags": [
+  "author=Tronyn",
   "commandline=-game arcextra",
   "filename=arcextra.zip",
   "game=quake",
@@ -84,12 +85,14 @@
   "nonspecific_tag=heretic",
   "nonspecific_tag=monsters",
   "nonspecific_tag=textures",
+  "release_date=2012-11-06",
   "startmap=arcextra1",
   "startmap=arcextra2",
   "theme=fantasy",
   "theme=industrial",
   "theme=medieval",
   "theme=wizard",
+  "title=Arcanum Bonus Maps",
   "type=mod",
   "zipbasedir=arcextra/"
  ],

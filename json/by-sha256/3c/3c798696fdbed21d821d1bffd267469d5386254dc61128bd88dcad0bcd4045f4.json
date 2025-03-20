@@ -32,11 +32,15 @@
  "release_date": "2005-06-19",
  "sha256": "3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4",
  "tags": [
+  "author=Tr0n",
+  "author=Zwiffle",
   "filename=sm96_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-06-19",
   "startmap=sm96_tron",
   "startmap=sm96_zwiffle",
+  "title=Speedmapping pack 96 - The Room",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

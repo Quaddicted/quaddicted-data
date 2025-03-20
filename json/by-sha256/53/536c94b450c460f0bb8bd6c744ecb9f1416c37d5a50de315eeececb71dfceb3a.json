@@ -31,15 +31,18 @@
  "release_date": "1996-12-22",
  "sha256": "536c94b450c460f0bb8bd6c744ecb9f1416c37d5a50de315eeececb71dfceb3a",
  "tags": [
+  "author=Chris",
   "filename=sham.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelss.htm#sham)",
   "map_size=tiny",
+  "release_date=1996-12-22",
   "source=included",
   "theme=brick",
   "theme=metal",
   "theme=wizard",
+  "title=Sham",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -562,6 +562,7 @@
  "release_date": "2020-10-08",
  "sha256": "76c2b29abc926063e1f7a2add64f792b834892576965061769c6cc567524d357",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "commandline=-game jpqm6",
   "exceeds_quake_limits=yes",
@@ -573,11 +574,13 @@
   "map_size=medium",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=skybox",
+  "release_date=2020-10-08",
   "source=included",
   "theme=bricks",
   "theme=castle",
   "theme=medieval",
   "theme=terracotta",
+  "title=Brick Red",
   "type=mod",
   "zipbasedir=/"
  ],

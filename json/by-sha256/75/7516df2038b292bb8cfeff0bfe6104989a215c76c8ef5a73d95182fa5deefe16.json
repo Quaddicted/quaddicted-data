@@ -100,6 +100,7 @@
  "release_date": "2001-01-16",
  "sha256": "7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16",
  "tags": [
+  "author=The Lieutenant",
   "commandline=-game lthsp3",
   "filename=lthsp3.zip",
   "game=quake",
@@ -108,7 +109,9 @@
   "link:review=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/16-feb-2001/lthsp3.php)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev010119.html)",
   "nonspecific_tag=series",
+  "release_date=2001-01-16",
   "theme=medieval",
+  "title=Cruel Intentions",
   "type=mod",
   "zipbasedir=lthsp3/"
  ],

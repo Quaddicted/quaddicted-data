@@ -37,8 +37,10 @@
  "release_date": "2016-09-19",
  "sha256": "50105e2a0c4ffa3d035a39c705b76d1791716db9e70fe25062e106037a2317f0",
  "tags": [
+  "author=Lane Powell",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=lpqsp1.zip",
   "game=quake",
@@ -46,6 +48,7 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61353)",
   "map_size=large",
   "mod=quoth",
+  "release_date=2016-09-19",
   "startmap=lpqsp1",
   "theme=blood",
   "theme=blue",
@@ -53,6 +56,7 @@
   "theme=quoth",
   "theme=secrets",
   "theme=void",
+  "title=The Bonehoard",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

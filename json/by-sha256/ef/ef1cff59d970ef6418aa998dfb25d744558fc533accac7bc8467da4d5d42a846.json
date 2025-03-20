@@ -43,15 +43,18 @@
  "release_date": "2010-11-25",
  "sha256": "ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846",
  "tags": [
+  "author=Perro Seco",
   "filename=c2000.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2010-11-25",
   "startmap=c2000a",
   "startmap=c2000b",
   "startmap=c2000c",
   "theme=city",
   "theme=realism",
+  "title=City 2000",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

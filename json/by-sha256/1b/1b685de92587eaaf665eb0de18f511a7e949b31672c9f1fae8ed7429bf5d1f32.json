@@ -25,6 +25,7 @@
  "release_date": "1997-05-03",
  "sha256": "1b685de92587eaaf665eb0de18f511a7e949b31672c9f1fae8ed7429bf5d1f32",
  "tags": [
+  "author=Conrad Johnson",
   "filename=con1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,8 +33,10 @@
   "map_size=small",
   "nonspecific_tag=butt",
   "nonspecific_tag=dog",
+  "release_date=1997-05-03",
   "theme=canyon",
   "theme=rock",
+  "title=Con1",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -37,14 +37,17 @@
  "release_date": "2019-05-26",
  "sha256": "8859891d710f88801d7ef3d1451d5fb6a0b0f408c9be7b47c57ea6c3a3a08c7f",
  "tags": [
+  "author=skacky",
   "filename=azathoth.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61728)",
   "map_size=medium",
+  "release_date=2019-05-26",
   "source=included",
   "theme=fortress",
   "theme=knave",
+  "title=A Quick One Before Azathoth Devours Fodrian",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

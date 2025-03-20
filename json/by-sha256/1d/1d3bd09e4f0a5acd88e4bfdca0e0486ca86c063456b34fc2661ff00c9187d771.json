@@ -344,8 +344,10 @@
  "release_date": "2024-01-11",
  "sha256": "1d3bd09e4f0a5acd88e4bfdca0e0486ca86c063456b34fc2661ff00c9187d771",
  "tags": [
+  "author=rj",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceedslimits=exceeds_quake_limits",
   "filename=ad_rje2m6.zip",
   "game=quake",
@@ -353,7 +355,9 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-dismal-silhouette.308/)",
   "map_size=large",
   "mod=arcanedimensions",
+  "release_date=2024-01-11",
   "startmap=ad_rje2m6",
+  "title=The Dismal Silhouette",
   "type=map"
  ],
  "title": "The Dismal Silhouette",

@@ -31,6 +31,7 @@
  "release_date": "2012-02-05",
  "sha256": "70fc2496d9d48a6476ecf7fbd28aa7335fbb51ffa7c5d88d8d70eccd9c891404",
  "tags": [
+  "author=negke",
   "filename=dm456sp.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,6 +40,7 @@
   "nonspecific_tag=dm5",
   "nonspecific_tag=dm6",
   "nonspecific_tag=gpl",
+  "release_date=2012-02-05",
   "source=included",
   "theme=brick",
   "theme=brown",
@@ -46,6 +48,7 @@
   "theme=dm4",
   "theme=remix",
   "theme=water",
+  "title=Bad Dark Cistern",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

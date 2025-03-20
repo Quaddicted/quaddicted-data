@@ -45,12 +45,17 @@
  "release_date": "2007-09-17",
  "sha256": "5326aa8cf15b97b66882f9c4a9114fcc5f103ecf1e19281451fba42f1bceb366",
  "tags": [
+  "author=Ankh",
+  "author=generic",
+  "author=lurker",
   "filename=sm135_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2007-09-17",
   "startmap=sm135_ankh",
   "startmap=sm135_generic",
   "startmap=sm135_lurker",
+  "title=Speedmapping pack 135 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

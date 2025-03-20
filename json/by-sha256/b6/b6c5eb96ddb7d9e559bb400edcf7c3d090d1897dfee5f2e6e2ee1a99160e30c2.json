@@ -28,6 +28,7 @@
  "release_date": "2001-12-30",
  "sha256": "b6c5eb96ddb7d9e559bb400edcf7c3d090d1897dfee5f2e6e2ee1a99160e30c2",
  "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game goblin",
   "filename=goblin.zip",
   "game=quake",
@@ -37,12 +38,14 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=textures",
   "playstyle=jumping",
+  "release_date=2001-12-30",
   "startmap=gc",
   "theme=castle",
   "theme=city",
   "theme=medieval",
   "theme=ruins",
   "theme=village",
+  "title=The Goblin City",
   "type=mod",
   "zipbasedir=goblin/"
  ],

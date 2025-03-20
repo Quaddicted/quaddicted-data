@@ -25,6 +25,7 @@
  "release_date": "1997-12-30",
  "sha256": "e5959ff6b5d58c3fdad1ad8e253448549aa23268919ac3040e4a9b8b928bac89",
  "tags": [
+  "author=Bario",
   "commandline=-game bario3",
   "filename=bario3.zip",
   "game=quake",
@@ -33,8 +34,10 @@
   "link:review=[erc's Underdog](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=279)",
   "nonspecific_tag=skinds",
   "nonspecific_tag=textures",
+  "release_date=1997-12-30",
   "startmap=bario1",
   "theme=base",
+  "title=Bario3",
   "type=episode",
   "type=mod",
   "zipbasedir=bario3/"

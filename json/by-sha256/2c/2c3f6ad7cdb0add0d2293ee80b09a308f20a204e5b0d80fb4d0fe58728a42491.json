@@ -46,6 +46,7 @@
  "release_date": "2012-09-02",
  "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
  "tags": [
+  "author=Madfox",
   "commandline=-game torro",
   "filename=torment.zip",
   "game=quake",
@@ -55,10 +56,12 @@
   "nonspecific_tag=machines",
   "nonspecific_tag=models",
   "nonspecific_tag=pipes",
+  "release_date=2012-09-02",
   "startmap=tormentarium",
   "theme=industrial",
   "theme=metal",
   "theme=sewer",
+  "title=Tormentarium",
   "type=mod",
   "zipbasedir=/"
  ],

@@ -37,6 +37,7 @@
  "release_date": "1997-03-28",
  "sha256": "5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924",
  "tags": [
+  "author=Zdim",
   "filename=rathole2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -44,8 +45,10 @@
   "map_layout=vertical",
   "map_size=small",
   "map_size=tiny",
+  "release_date=1997-03-28",
   "startmap=rathole2",
   "theme=metal",
+  "title=Son of The Rat Hole",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

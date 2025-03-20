@@ -28,6 +28,7 @@
  "release_date": "2023-05-04",
  "sha256": "ffc58e47d9475ba9896988c33c3ab0bb0dc352a2513deed51922fba544a8da78",
  "tags": [
+  "author=rj",
   "commandline=-game ttb",
   "filename=ttb101.zip",
   "game=quake",
@@ -36,11 +37,13 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/time-to-belong.216/)",
   "map_size=medium",
   "nonspecific_tag=elder",
+  "release_date=2023-05-04",
   "startmap=start",
   "theme=base",
   "theme=runic",
   "theme=wizard",
   "theme=zerst\u00f6rer",
+  "title=Time to Belong",
   "type=episode",
   "type=mod"
  ],

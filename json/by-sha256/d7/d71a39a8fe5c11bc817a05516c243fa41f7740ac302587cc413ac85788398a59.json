@@ -25,6 +25,7 @@
  "release_date": "1997-04-12",
  "sha256": "d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59",
  "tags": [
+  "author=Wright Bagwell (Paul_Bunyan)",
   "filename=pb2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -34,11 +35,13 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=large",
+  "release_date=1997-04-12",
   "theme=bricks",
   "theme=medieval",
   "theme=terracotta",
   "theme=traps",
   "theme=wizard",
+  "title=The Soul Grinder",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

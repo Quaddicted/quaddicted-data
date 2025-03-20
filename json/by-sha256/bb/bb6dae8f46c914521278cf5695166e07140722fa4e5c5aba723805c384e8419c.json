@@ -115,15 +115,18 @@
  "release_date": "2022-05-26",
  "sha256": "bb6dae8f46c914521278cf5695166e07140722fa4e5c5aba723805c384e8419c",
  "tags": [
+  "author=Paul Keefner",
   "filename=castle_attack.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
+  "release_date=2022-05-26",
   "source=included",
   "startmap=castle_attack",
   "theme=castle",
   "theme=medieval",
   "theme=water",
+  "title=Castle Attack",
   "type=map",
   "zipbasedir=id1/"
  ],

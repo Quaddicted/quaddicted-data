@@ -28,6 +28,7 @@
  "release_date": "2011-07-01",
  "sha256": "df2dee29f37b0da7c55d29951a7d14c03cbc364a0f6f6c84d189bacf8a907f1f",
  "tags": [
+  "author=Digs",
   "commandline=-heapsize 64000 +max_edicts 2048 +r_wateralpha 0.3",
   "exceeds_quake_limits=yes",
   "filename=digs06.zip",
@@ -38,6 +39,7 @@
   "map_layout=non-linear",
   "map_size=large",
   "nonspecific_tag=chthon",
+  "release_date=2011-07-01",
   "theme=abstract",
   "theme=boss",
   "theme=bricks",
@@ -47,6 +49,7 @@
   "theme=puzzles",
   "theme=water",
   "theme=wizard",
+  "title=The Anomaly 2: Water",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

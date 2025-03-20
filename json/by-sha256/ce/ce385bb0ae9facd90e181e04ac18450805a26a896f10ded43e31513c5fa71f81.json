@@ -40,14 +40,17 @@
  "release_date": "2020-12-11",
  "sha256": "ce385bb0ae9facd90e181e04ac18450805a26a896f10ded43e31513c5fa71f81",
  "tags": [
+  "author=Bonn",
   "exceeds_quake_limits=yes",
   "filename=nightshift.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=large",
+  "release_date=2020-12-11",
   "source=included",
   "theme=base",
   "theme=crates",
+  "title=Nightshift",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

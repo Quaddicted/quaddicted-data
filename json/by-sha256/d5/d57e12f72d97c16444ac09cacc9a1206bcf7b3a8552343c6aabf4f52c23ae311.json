@@ -73,6 +73,7 @@
  "release_date": "2018-07-20",
  "sha256": "d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311",
  "tags": [
+  "author=Shambler",
   "filename=shamsp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -80,8 +81,10 @@
   "map_size=small",
   "nonspecific_tag=skybox",
   "nonspecific_tag=terrain",
+  "release_date=2018-07-20",
   "theme=canyon",
   "theme=castle",
+  "title=Crown Of Thorns",
   "type=map",
   "zipbasedir=id1/"
  ],

@@ -67,8 +67,10 @@
  "release_date": "2020-01-24",
  "sha256": "dbe5ff4ccbb8bdd74781b824726b2af4cf3c611bba9ca529b65445630127c4af",
  "tags": [
+  "author=mukor",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "filename=ad_muksp3_fix.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -77,6 +79,7 @@
   "map_size=small",
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
+  "release_date=2020-01-24",
   "source=included",
   "startmap=ad_muksp3",
   "theme=arcane dimensions",
@@ -85,6 +88,7 @@
   "theme=secrets",
   "theme=tower",
   "theme=wizard",
+  "title=Duel, In Towers",
   "type=map",
   "zipbasedir=ad/"
  ],

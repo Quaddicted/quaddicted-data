@@ -102,6 +102,7 @@
  "release_date": "2023-01-13",
  "sha256": "adbc6ba67298bbbc8564d7e0f7301acfcade57743d84c690ae61f482a09fdec0",
  "tags": [
+  "author=Addy / TheADrain",
   "commandline=-protocol 999",
   "exceeds_quake_limits=yes",
   "filename=coldlight_1_2.zip",
@@ -110,6 +111,7 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/cold-light.170/)",
   "map_size=large",
   "nonspecific_tag=vanilla",
+  "release_date=2023-01-13",
   "source=included",
   "startmap=addy_cl_m1",
   "startmap=addy_cl_m2",
@@ -122,6 +124,7 @@
   "theme=medieval",
   "theme=runic",
   "theme=wizard",
+  "title=Cold Light v1.2",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

@@ -31,6 +31,7 @@
  "release_date": "1997-07-05",
  "sha256": "08449d5b2f09d2b6f63b04908228d4462f767be119b706255bf36d1d9df2133c",
  "tags": [
+  "author=David White (NiX)",
   "filename=rings2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -39,8 +40,10 @@
   "map_size=small",
   "map_size=tiny",
   "nonspecific_tag=ads",
+  "release_date=1997-07-05",
   "source=included",
   "theme=medieval",
+  "title=Rings2",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

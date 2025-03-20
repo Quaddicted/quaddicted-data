@@ -28,15 +28,18 @@
  "release_date": "2022-01-16",
  "sha256": "de3ca3f62491ef4bc07080616f89c22a27cd7cd2d18441c532bd71634b5b9e54",
  "tags": [
+  "author=c0j",
   "filename=pum1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2022-01-16",
   "startmap=pum1",
   "theme=bricks",
   "theme=castle",
   "theme=cave",
   "theme=cavern",
+  "title=Lost Pantera",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

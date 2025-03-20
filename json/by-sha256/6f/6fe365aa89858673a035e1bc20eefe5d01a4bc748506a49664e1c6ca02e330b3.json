@@ -25,6 +25,7 @@
  "release_date": "1997-10-10",
  "sha256": "6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3",
  "tags": [
+  "author=Mark Turner",
   "filename=colony2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990125.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-10-10",
   "theme=base",
+  "title=The Culling Station",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -28,6 +28,7 @@
  "release_date": "1997-04-11",
  "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "tags": [
+  "author=Chris Williams",
   "commandline=-hipnotic",
   "filename=offspring.zip",
   "game=quake",
@@ -35,11 +36,13 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelso.htm)",
   "map_size=small",
   "nonspecific_tag=textures",
+  "release_date=1997-04-11",
   "startmap=off",
   "theme=boss",
   "theme=dissolution of eternity",
   "theme=scourge of armagon",
   "theme=traps",
+  "title=Offspring",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

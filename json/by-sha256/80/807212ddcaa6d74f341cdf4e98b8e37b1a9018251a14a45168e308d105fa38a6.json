@@ -28,6 +28,7 @@
  "release_date": "1997-09-25",
  "sha256": "807212ddcaa6d74f341cdf4e98b8e37b1a9018251a14a45168e308d105fa38a6",
  "tags": [
+  "author=Chris Burgess",
   "filename=rit2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -35,7 +36,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "map_size=small",
+  "release_date=1997-09-25",
   "theme=metal",
+  "title=Escape the Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

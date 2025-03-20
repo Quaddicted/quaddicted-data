@@ -376,6 +376,7 @@
  "release_date": "2023-01-08",
  "sha256": "3b7ae78fc8ad4464650e9c5b3faed79fadec78008e81c37ad22f5c99091d8377",
  "tags": [
+  "author=Aesopolis",
   "commandline=-game smp",
   "filename=aes_lrod.zip",
   "game=quake",
@@ -386,10 +387,12 @@
   "nonspecific_tag=cr8",
   "nonspecific_tag=skybox",
   "nonspecific_tag=smp",
+  "release_date=2023-01-08",
   "source=included",
   "startmap=aes_lrod",
   "theme=base",
   "theme=industrial",
+  "title=Lightning Rod +",
   "type=mod"
  ],
  "title": "Lightning Rod +",

@@ -2163,15 +2163,22 @@
  "release_group": "tombofthunder",
  "sha256": "9755bf7150f47e3ae285d3a9c188d3b3800d14c416bed99f1296cecea612e012",
  "tags": [
+  "author=aDaya",
   "commandline=-game tombofthunder",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=TOMBOFTHUNDER_MOD_2024.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/tomb-of-thunder.357/)",
+  "provides='tombofthunder=1032b'",
+  "release_date=2024-07-24",
+  "release_group=tombofthunder",
   "startmap=start",
+  "title=Tomb of Thunder",
   "type=episode",
-  "type=mod"
+  "type=mod",
+  "version=1032b"
  ],
  "title": "Tomb of Thunder",
  "urls": [

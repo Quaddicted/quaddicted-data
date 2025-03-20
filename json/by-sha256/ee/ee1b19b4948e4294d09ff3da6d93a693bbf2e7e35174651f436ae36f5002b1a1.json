@@ -34,8 +34,10 @@
  "release_date": "2007-09-13",
  "sha256": "ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1",
  "tags": [
+  "author=Hrimfaxi",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=hrim_sp3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -45,10 +47,12 @@
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "map_size=large",
   "mod=quoth",
+  "release_date=2007-09-13",
   "startmap=breakstart",
   "theme=castle",
   "theme=knave",
   "theme=quoth",
+  "title=Breakfast at twilight",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

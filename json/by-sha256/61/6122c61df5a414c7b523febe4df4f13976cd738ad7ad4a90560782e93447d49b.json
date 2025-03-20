@@ -25,6 +25,7 @@
  "release_date": "1997-06-11",
  "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
  "tags": [
+  "author=David Ottvall",
   "filename=chess.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "map_size=small",
   "map_size=tiny",
   "nonspecific_tag=chess",
+  "release_date=1997-06-11",
   "theme=medieval",
   "theme=no exit",
   "theme=terracotta",
+  "title=Chess",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

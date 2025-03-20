@@ -31,6 +31,7 @@
  "release_date": "2006-03-24",
  "sha256": "61a29f2506e4193b08999fcbac39c05e7c80d81d8496a74be9cbcb0330ae6db7",
  "tags": [
+  "author=Ankh",
   "filename=hdn.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,9 +41,11 @@
   "map_size=medium",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2006-03-24",
   "theme=blue",
   "theme=castle",
   "theme=medieval",
+  "title=Hangover Devastation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

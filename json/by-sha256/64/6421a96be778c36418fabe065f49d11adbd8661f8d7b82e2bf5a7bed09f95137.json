@@ -78,6 +78,12 @@
  "release_date": "2003-08-13",
  "sha256": "6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137",
  "tags": [
+  "author=Chainer",
+  "author=Pushplay",
+  "author=Tyrann",
+  "author=[anon]",
+  "author=distrans",
+  "author=necros",
   "commandline=-game coagulacontest2",
   "filename=coagulacontest2.zip",
   "game=quake",
@@ -85,6 +91,7 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030814.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=small",
+  "release_date=2003-08-13",
   "startmap=chain3",
   "startmap=discoag02",
   "startmap=jesus",
@@ -95,6 +102,7 @@
   "theme=coagula",
   "theme=space",
   "theme=void",
+  "title=The Coagula Contest 2",
   "type=contest",
   "type=mod",
   "zipbasedir=coagulacontest2/"

@@ -34,6 +34,7 @@
  "release_date": "2001-02-17",
  "sha256": "5eaa0422c6d0caf5b7f8ccfc8967513db5088a3f3ca7f9a6b1148532c4596b2c",
  "tags": [
+  "author=Tim Elek",
   "filename=coagula2_flesh.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,10 +44,12 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=coagula2)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "map_size=small",
+  "release_date=2001-02-17",
   "startmap=coagula2",
   "theme=metal",
   "theme=space",
   "theme=void",
+  "title=Coagula2: Flesh",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

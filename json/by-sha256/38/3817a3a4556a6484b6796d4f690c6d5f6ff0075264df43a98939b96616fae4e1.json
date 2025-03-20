@@ -185,6 +185,7 @@
  "release_date": "1998-05-10",
  "sha256": "3817a3a4556a6484b6796d4f690c6d5f6ff0075264df43a98939b96616fae4e1",
  "tags": [
+  "author=Impel Productions",
   "commandline=-game impel",
   "filename=aopv105.zip",
   "game=quake",
@@ -200,7 +201,9 @@
   "nonspecific_tag=start map",
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
+  "release_date=1998-05-10",
   "startmap=start",
+  "title=Abyss of Pandemonium",
   "type=episode",
   "type=mod"
  ],

@@ -73,8 +73,10 @@
  "release_date": "2012-10-30",
  "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
  "tags": [
+  "author=Andrew 'than' Palmer",
   "commandline=-quoth -game apsp3",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=apsp3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -83,6 +85,7 @@
   "nonspecific_tag=interconnectivity",
   "nonspecific_tag=library",
   "nonspecific_tag=runes",
+  "release_date=2012-10-30",
   "source=included",
   "theme=blood",
   "theme=cave",
@@ -92,6 +95,7 @@
   "theme=ruins",
   "theme=secrets",
   "theme=underground",
+  "title=Subterranean Library",
   "type=map"
  ],
  "title": "Subterranean Library",

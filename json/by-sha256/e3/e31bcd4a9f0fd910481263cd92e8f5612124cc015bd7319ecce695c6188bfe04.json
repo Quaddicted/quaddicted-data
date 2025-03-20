@@ -39,13 +39,18 @@
  "release_date": "2007-11-04",
  "sha256": "e31bcd4a9f0fd910481263cd92e8f5612124cc015bd7319ecce695c6188bfe04",
  "tags": [
+  "author=Speedy",
+  "author=Spirit",
+  "author=negke",
   "filename=sm139_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2007-11-04",
   "startmap=sm139_neg!ke",
   "startmap=sm139_spd",
   "startmap=sm139_spirit",
   "theme=spd",
+  "title=Speedmapping pack 139 - Include your nick",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

@@ -793,6 +793,7 @@
  "release_date": "2007-03-05",
  "sha256": "aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369",
  "tags": [
+  "author=Mike Woodham",
   "commandline=-game FMB_bdg",
   "filename=fmb_bdg.zip",
   "game=quake",
@@ -806,6 +807,7 @@
   "nonspecific_tag=not",
   "nonspecific_tag=obsolete",
   "nonspecific_tag=stronghold",
+  "release_date=2007-03-05",
   "startmap=fmb_bdg1",
   "theme=castle",
   "theme=cave",
@@ -813,6 +815,7 @@
   "theme=dungeon",
   "theme=medieval",
   "theme=underground",
+  "title=This Onion",
   "type=mod"
  ],
  "title": "This Onion",

@@ -28,6 +28,7 @@
  "release_date": "2022-05-31",
  "sha256": "4bdf85cf07062af20e7afbba027f183a9129c6f9c56248c943a57eb2331ba46d",
  "tags": [
+  "author=Asl",
   "exceeds_quake_limits=yes",
   "filename=asl_2.zip",
   "game=quake",
@@ -36,12 +37,14 @@
   "link=[Download via Archive.org](https://archive.org/details/asl_2)",
   "link=[More screenshots](https://archive.org/details/spasm0001)",
   "map_size=large",
+  "release_date=2022-05-31",
   "startmap=asl_2",
   "theme=castle",
   "theme=classic",
   "theme=lava",
   "theme=medieval",
   "theme=tomb",
+  "title=Io. Brimstoneburg.",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

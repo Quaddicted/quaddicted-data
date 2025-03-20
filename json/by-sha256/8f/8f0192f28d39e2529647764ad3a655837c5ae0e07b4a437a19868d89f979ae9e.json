@@ -37,13 +37,16 @@
  "release_date": "1997-01-19",
  "sha256": "8f0192f28d39e2529647764ad3a655837c5ae0e07b4a437a19868d89f979ae9e",
  "tags": [
+  "author=Daniel Svensson",
   "filename=themix.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm)",
   "map_size=small",
+  "release_date=1997-01-19",
   "theme=wizard",
+  "title=Themix",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

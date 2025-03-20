@@ -32,14 +32,18 @@
  "release_date": "2008-12-02",
  "sha256": "6b8fdbc0885c4985414cd7c56b3a4d517157c8836ce239ec547f7be17665c440",
  "tags": [
+  "author=Drew",
+  "author=Hrimfaxi",
   "filename=sm149_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
   "mod=quoth",
+  "release_date=2008-12-02",
   "startmap=sm149_drew",
   "startmap=sm149_hrim",
   "theme=quake 2",
   "theme=quoth",
+  "title=Speedmapping pack 149 - Finish some scrap",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

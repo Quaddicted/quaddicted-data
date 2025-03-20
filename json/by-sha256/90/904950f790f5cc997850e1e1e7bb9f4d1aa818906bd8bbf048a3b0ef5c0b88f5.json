@@ -31,6 +31,7 @@
  "release_date": "2016-09-20",
  "sha256": "904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5",
  "tags": [
+  "author=ubiquitous",
   "filename=infernal_v14.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,8 +39,10 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61352)",
   "map_layout=vertical",
   "map_size=small",
+  "release_date=2016-09-20",
   "startmap=infernal",
   "theme=mixtex",
+  "title=Infernal Ascent",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

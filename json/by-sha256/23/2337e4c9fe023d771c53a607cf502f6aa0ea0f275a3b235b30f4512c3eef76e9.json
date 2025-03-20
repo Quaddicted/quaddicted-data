@@ -32,13 +32,17 @@
  "release_date": "2013-05-20",
  "sha256": "2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9",
  "tags": [
+  "author=digs",
+  "author=scampie",
   "filename=sm170_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
   "mod=rubicon",
+  "release_date=2013-05-20",
   "startmap=sm170_digs",
   "startmap=sm170_scampie",
   "theme=rubicon",
+  "title=Speedmapping pack 170 - Islands",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

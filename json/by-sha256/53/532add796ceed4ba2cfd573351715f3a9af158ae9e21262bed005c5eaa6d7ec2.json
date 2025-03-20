@@ -34,6 +34,7 @@
  "release_date": "2017-06-12",
  "sha256": "532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2",
  "tags": [
+  "author=xlarve",
   "exceeds_quake_limits=yes",
   "filename=xld.zip",
   "game=quake",
@@ -42,9 +43,11 @@
   "map_layout=arena",
   "map_size=large",
   "nonspecific_tag=ambush",
+  "release_date=2017-06-12",
   "theme=metal",
   "theme=mixtex",
   "theme=secrets",
+  "title=xlarve's dream",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

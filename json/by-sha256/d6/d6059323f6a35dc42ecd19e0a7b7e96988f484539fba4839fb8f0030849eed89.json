@@ -31,6 +31,7 @@
  "release_date": "2020-05-28",
  "sha256": "d6059323f6a35dc42ecd19e0a7b7e96988f484539fba4839fb8f0030849eed89",
  "tags": [
+  "author=Stylaphone",
   "filename=efq.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,11 +39,13 @@
   "map_size=small",
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
+  "release_date=2020-05-28",
   "startmap=efq",
   "startmap=efq_start",
   "theme=base",
   "theme=prison",
   "theme=realism",
+  "title=Escape from Quakertraz",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "1996-12-04",
  "sha256": "cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153",
  "tags": [
+  "author=Travis Pease",
   "filename=altus2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_layout=vertical",
   "map_size=small",
+  "release_date=1996-12-04",
   "theme=mixtex",
+  "title=Altus Mors",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

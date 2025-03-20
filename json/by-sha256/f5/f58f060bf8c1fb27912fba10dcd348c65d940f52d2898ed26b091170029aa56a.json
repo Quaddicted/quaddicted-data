@@ -43,6 +43,7 @@
  "release_date": "1996-12-02",
  "sha256": "f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a",
  "tags": [
+  "author=T.H. Johansen (TJ)",
   "commandline=-game tefdbl",
   "filename=tefdbl.zip",
   "game=quake",
@@ -51,9 +52,11 @@
   "map_size=medium",
   "nonspecific_tag=mod",
   "nonspecific_tag=weird monsters",
+  "release_date=1996-12-02",
   "startmap=tef_sc",
   "theme=brick",
   "theme=wizard",
+  "title=Spawn City / Water World",
   "type=mod",
   "zipbasedir=tefdbl/"
  ],

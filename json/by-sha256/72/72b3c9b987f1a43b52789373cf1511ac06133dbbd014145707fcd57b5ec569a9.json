@@ -30,6 +30,9 @@
  "release_date": "2014-09-14",
  "sha256": "72b3c9b987f1a43b52789373cf1511ac06133dbbd014145707fcd57b5ec569a9",
  "tags": [
+  "author=Hrimfaxi",
+  "author=ijed",
+  "author=mfx",
   "bsp_format=bsp2",
   "commandline=-heapsize 256000 -zone 4096 -game rrp",
   "filename=rrp.zip",
@@ -47,6 +50,7 @@
   "nonspecific_tag=multiple exits",
   "nonspecific_tag=trenchbroom",
   "playstyle=stealth",
+  "release_date=2014-09-14",
   "startmap=locust",
   "startmap=mfxsp19",
   "startmap=mfxsp20",
@@ -55,6 +59,7 @@
   "theme=base",
   "theme=industrial",
   "theme=rubicon",
+  "title=Rubicon Rumble Pack",
   "type=mod",
   "zipbasedir=rrp/"
  ],

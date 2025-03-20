@@ -49,6 +49,7 @@
  "release_date": "1997-09-27",
  "sha256": "c53a92180f58d643cc4cdb06d81f2006575e92891fde19a3bfcf8f1f6d570777",
  "tags": [
+  "author=TDK Team",
   "commandline=-game tdk",
   "filename=tdk11.zip",
   "game=quake",
@@ -58,9 +59,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990317.html)",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=tdk)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "release_date=1997-09-27",
   "startmap=start",
   "theme=fantasy",
   "theme=medieval",
+  "title=The Demon King",
   "type=mod",
   "zipbasedir=tdk/"
  ],

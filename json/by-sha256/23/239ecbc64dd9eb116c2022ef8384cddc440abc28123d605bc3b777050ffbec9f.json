@@ -49,6 +49,7 @@
  "release_date": "1998-01-01",
  "sha256": "239ecbc64dd9eb116c2022ef8384cddc440abc28123d605bc3b777050ffbec9f",
  "tags": [
+  "author=Tigger-On",
   "filename=tig00.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -56,9 +57,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990124.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1998-01-01",
   "startmap=tig00",
   "theme=doom",
   "theme=quake 2",
+  "title=Crap from Tigger",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

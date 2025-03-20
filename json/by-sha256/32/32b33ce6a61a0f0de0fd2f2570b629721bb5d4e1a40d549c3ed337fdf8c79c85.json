@@ -35,6 +35,7 @@
  "release_group": "houstrps",
  "sha256": "32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85",
  "tags": [
+  "author=Scott McNutt",
   "filename=houstrps.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,10 +44,15 @@
   "map_size=small",
   "nonspecific_tag=old version",
   "nonspecific_tag=start",
+  "provides='houstrps=1.0'",
+  "release_date=1996-10-22",
+  "release_group=houstrps",
   "startmap=enterhot",
   "theme=traps",
   "theme=wizard",
+  "title=House of Traps",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "House of Traps",

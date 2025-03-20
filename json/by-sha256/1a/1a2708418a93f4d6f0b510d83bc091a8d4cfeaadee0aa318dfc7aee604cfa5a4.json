@@ -55,6 +55,7 @@
  "release_date": "1996-12-30",
  "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
  "tags": [
+  "author=Inforatt (?)",
   "filename=series1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -63,9 +64,11 @@
   "map_layout=vertical",
   "map_size=medium",
   "playstyle=tricks",
+  "release_date=1996-12-30",
   "startmap=s1l1",
   "theme=mixtex",
   "theme=traps",
+  "title=Series 1",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

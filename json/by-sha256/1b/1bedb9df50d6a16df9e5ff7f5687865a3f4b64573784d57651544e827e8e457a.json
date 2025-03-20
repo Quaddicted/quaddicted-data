@@ -52,6 +52,7 @@
  "release_date": "2016-08-30",
  "sha256": "1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a",
  "tags": [
+  "author=Gotshun",
   "filename=requiem.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -60,6 +61,7 @@
   "nonspecific_tag=honey",
   "nonspecific_tag=pit",
   "nonspecific_tag=start",
+  "release_date=2016-08-30",
   "startmap=pdsp1",
   "startmap=pdsp2",
   "startmap=pdsp3",
@@ -68,6 +70,7 @@
   "theme=bricks",
   "theme=medieval",
   "theme=remix",
+  "title=Requiem",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

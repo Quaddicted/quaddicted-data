@@ -67,6 +67,7 @@
  "release_date": "2008-08-16",
  "sha256": "5fbb5cae02a3616932c61f17351f886d345039822ff75e0f4a14d506ba48eb16",
  "tags": [
+  "author=Impel Development Team",
   "commandline=-game aopfm_v2",
   "filename=aopfm_v2.zip",
   "game=quake",
@@ -77,8 +78,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "nonspecific_tag=monsters",
   "nonspecific_tag=weapons",
+  "release_date=2008-08-16",
   "startmap=start",
   "theme=boss",
+  "title=Abyss Of Pandemonium - The Final Mission v2.0",
   "type=episode",
   "type=mod"
  ],

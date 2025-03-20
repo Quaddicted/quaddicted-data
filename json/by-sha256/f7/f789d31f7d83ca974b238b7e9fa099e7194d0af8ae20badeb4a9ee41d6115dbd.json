@@ -25,6 +25,7 @@
  "release_date": "1997-01-28",
  "sha256": "f789d31f7d83ca974b238b7e9fa099e7194d0af8ae20badeb4a9ee41d6115dbd",
  "tags": [
+  "author=Fraggler.Heat",
   "filename=pumpstat.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,10 +33,12 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsp2.htm)",
   "map_size=medium",
   "nonspecific_tag=coop",
+  "release_date=1997-01-28",
   "theme=exploration",
   "theme=metal",
   "theme=no exit",
   "theme=wizard",
+  "title=The Pump Station",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

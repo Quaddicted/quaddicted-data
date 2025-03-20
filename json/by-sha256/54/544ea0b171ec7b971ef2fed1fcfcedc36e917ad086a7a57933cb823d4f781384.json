@@ -1204,6 +1204,7 @@
  "release_date": "2022-09-09",
  "sha256": "544ea0b171ec7b971ef2fed1fcfcedc36e917ad086a7a57933cb823d4f781384",
  "tags": [
+  "author=Shadesmaster",
   "commandline=-game sac",
   "exceeds_quake_limits=yes",
   "filename=sac.zip",
@@ -1213,11 +1214,13 @@
   "map_size=medium",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-09-09",
   "startmap=start",
   "theme=base",
   "theme=lava",
   "theme=medieval",
   "theme=runic",
+  "title=Sacrilege (Demo)",
   "type=demo",
   "type=episode",
   "type=mod"

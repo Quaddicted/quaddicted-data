@@ -25,12 +25,15 @@
  "release_date": "2007-03-17",
  "sha256": "ec032ce0305a6e9a5cf6031876483e1937e3c64c82eec35cb4f41b3921bfa749",
  "tags": [
+  "author=Unknown",
   "filename=level.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
+  "release_date=2007-03-17",
   "startmap=LEVEL",
   "theme=mixtex",
+  "title=Hello",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

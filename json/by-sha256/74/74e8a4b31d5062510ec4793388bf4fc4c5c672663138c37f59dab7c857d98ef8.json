@@ -25,6 +25,7 @@
  "release_date": "1998-03-08",
  "sha256": "74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8",
  "tags": [
+  "author=Rodrigo HernandeZ B.",
   "commandline=-game ruliano",
   "filename=ruliano.zip",
   "game=quake",
@@ -38,7 +39,9 @@
   "nonspecific_tag=spanish",
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
+  "release_date=1998-03-08",
   "theme=stone",
+  "title=Ruliano",
   "type=mod",
   "zipbasedir=ruliano/"
  ],

@@ -25,15 +25,18 @@
  "release_date": "1997-03-11",
  "sha256": "253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb",
  "tags": [
+  "author=Dan Edwards",
   "filename=crypt2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsc.htm#crypt2)",
   "map_size=small",
   "map_size=tiny",
+  "release_date=1997-03-11",
   "source=included",
   "startmap=crypt",
   "theme=metal",
+  "title=Crypt",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

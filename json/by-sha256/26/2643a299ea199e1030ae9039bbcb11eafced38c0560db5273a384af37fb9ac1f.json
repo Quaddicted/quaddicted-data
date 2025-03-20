@@ -52,14 +52,17 @@
  "release_date": "2006-05-16",
  "sha256": "2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f",
  "tags": [
+  "author=Jaromir Bergmann",
   "filename=in_ovo.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev060723.html)",
   "map_size=large",
+  "release_date=2006-05-16",
   "startmap=sg13",
   "theme=base",
   "theme=metal",
+  "title=In Ovo",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

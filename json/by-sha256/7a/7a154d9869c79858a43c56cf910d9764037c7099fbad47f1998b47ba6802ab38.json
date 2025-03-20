@@ -73,6 +73,7 @@
  "release_date": "1997-12-04",
  "sha256": "7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38",
  "tags": [
+  "author=Scott McNutt",
   "commandline=-game hrdtrgt2",
   "filename=hrdtrgt2.zip",
   "game=quake",
@@ -81,7 +82,9 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=monsters",
+  "release_date=1997-12-04",
   "theme=base",
+  "title=Hard Target 2",
   "type=mod",
   "zipbasedir=hrdtrgt2/"
  ],

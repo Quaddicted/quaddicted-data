@@ -82,6 +82,7 @@
  "release_date": "2018-08-30",
  "sha256": "92fa1bcdfa251d4447e2b6f4ebd12ff5fa1803a4cf6ee351d21edbcdd12443a4",
  "tags": [
+  "author=Poorchop",
   "bsp_format=bsp2",
   "commandline=-game mahagony",
   "exceeds_quake_limits=yes",
@@ -94,10 +95,12 @@
   "nonspecific_tag=mountain",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2018-08-30",
   "startmap=mahagony",
   "theme=canyon",
   "theme=castle",
   "theme=knave",
+  "title=Rich Mahogany and Human Leather-Bound Books",
   "type=mod",
   "zipbasedir=mahagony/"
  ],

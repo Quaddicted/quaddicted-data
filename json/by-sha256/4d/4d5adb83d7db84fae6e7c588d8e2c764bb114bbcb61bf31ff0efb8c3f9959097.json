@@ -40,6 +40,7 @@
  "release_date": "2022-06-06",
  "sha256": "4d5adb83d7db84fae6e7c588d8e2c764bb114bbcb61bf31ff0efb8c3f9959097",
  "tags": [
+  "author=sodalimonada176",
   "filename=castle100.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,12 +48,14 @@
   "map_size=small",
   "music=custom",
   "nonspecific_tag=debut",
+  "release_date=2022-06-06",
   "startmap=castle100",
   "theme=castle",
   "theme=classic",
   "theme=id1",
   "theme=medieval",
   "theme=wizard",
+  "title=The Beastial Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

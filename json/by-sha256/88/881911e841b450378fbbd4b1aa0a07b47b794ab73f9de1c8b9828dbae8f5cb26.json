@@ -892,6 +892,7 @@
  "release_date": "2023-03-07",
  "sha256": "881911e841b450378fbbd4b1aa0a07b47b794ab73f9de1c8b9828dbae8f5cb26",
  "tags": [
+  "author=CreamyMCcheese",
   "commandline=-game cheese",
   "filename=cheesebase01.zip",
   "game=quake",
@@ -900,11 +901,13 @@
   "map_size=small",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2023-03-07",
   "source=included",
   "startmap=Cheesebase01",
   "theme=base",
   "theme=classic",
   "theme=id1",
+  "title=Cheesebase01",
   "type=mod"
  ],
  "title": "Cheesebase01",

@@ -59,6 +59,7 @@
  "release_date": "2024-06-18",
  "sha256": "bfc0900ab7e079e256ff7307f40df2f48cd6f40a9095e630b037ff9b246ade5e",
  "tags": [
+  "author=Chuma",
   "commandline=-game copper",
   "dependency=copper_v1_30",
   "filename=dungeonechoparadox-1.0.zip",
@@ -66,7 +67,9 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/dungeon-echo-paradox.363/)",
   "mod=copper",
+  "release_date=2024-06-18",
   "startmap=dungeonechoparadox",
+  "title=Dungeon Echo Paradox",
   "type=map",
   "zipbasedir=copper/"
  ],

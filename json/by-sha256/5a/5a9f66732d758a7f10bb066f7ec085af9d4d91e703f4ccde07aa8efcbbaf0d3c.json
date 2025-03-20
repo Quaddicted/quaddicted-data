@@ -250,6 +250,7 @@
  "release_date": "2000-08-17",
  "sha256": "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
  "tags": [
+  "author=Nehahra Team",
   "commandline=-nehahra -game nehahra",
   "filename=nehahra.zip",
   "game=quake",
@@ -268,8 +269,10 @@
   "nonspecific_tag=decon",
   "nonspecific_tag=epic",
   "nonspecific_tag=mustplay",
+  "release_date=2000-08-17",
   "startmap=nehstart",
   "theme=rubicon",
+  "title=Nehahra",
   "type=episode",
   "type=mod"
  ],

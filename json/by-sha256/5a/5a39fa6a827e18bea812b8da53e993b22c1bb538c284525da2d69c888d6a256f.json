@@ -31,6 +31,7 @@
  "release_date": "1997-04-06",
  "sha256": "5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f",
  "tags": [
+  "author=Gyro Gearloose",
   "commandline=-game corporal",
   "filename=corporal.zip",
   "game=quake",
@@ -44,9 +45,11 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
+  "release_date=1997-04-06",
   "startmap=gstart",
   "theme=base",
   "theme=metal",
+  "title=Corporal Punishment",
   "type=mod",
   "zipbasedir=corporal/"
  ],

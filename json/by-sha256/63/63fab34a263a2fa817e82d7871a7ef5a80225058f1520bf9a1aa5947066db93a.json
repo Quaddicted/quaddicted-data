@@ -45,12 +45,17 @@
  "release_date": "2003-08-31",
  "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "tags": [
+  "author=Necros",
+  "author=Scampie",
+  "author=Starbuck",
   "filename=sm47_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2003-08-31",
   "startmap=sm47_necros",
   "startmap=sm47_scampie",
   "startmap=sm47_starbuck",
+  "title=Speedmapping pack 47 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

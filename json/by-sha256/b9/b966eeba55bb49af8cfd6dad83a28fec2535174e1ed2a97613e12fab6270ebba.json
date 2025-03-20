@@ -109,6 +109,7 @@
  "release_date": "2018-12-02",
  "sha256": "b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba",
  "tags": [
+  "author=GunSgtHighway",
   "filename=gsh_tod.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -116,11 +117,13 @@
   "map_size=medium",
   "music=custom",
   "nonspecific_tag=skybox",
+  "release_date=2018-12-02",
   "source=included",
   "theme=cave",
   "theme=cavern",
   "theme=underground",
   "theme=wizard",
+  "title=Temple of doom",
   "type=map"
  ],
  "title": "Temple of doom",

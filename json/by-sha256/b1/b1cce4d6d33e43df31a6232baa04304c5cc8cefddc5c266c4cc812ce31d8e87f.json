@@ -37,9 +37,11 @@
  "release_date": "2021-05-21",
  "sha256": "b1cce4d6d33e43df31a6232baa04304c5cc8cefddc5c266c4cc812ce31d8e87f",
  "tags": [
+  "author=Calluna Vulgaris",
   "bsp_format=bsp2",
   "commandline=-game rubicon2",
   "dependency=rubicon2",
+  "depends=349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
   "exceeds_quake_limits=yes",
   "filename=acidworship_cv.zip",
   "game=quake",
@@ -49,6 +51,7 @@
   "mod=rubicon",
   "nonspecific_tag=acid",
   "nonspecific_tag=hard",
+  "release_date=2021-05-21",
   "theme=base",
   "theme=cave",
   "theme=industrial",
@@ -56,6 +59,7 @@
   "theme=rubicon",
   "theme=slime",
   "theme=underground",
+  "title=Acid Worship",
   "type=map",
   "zipbasedir=rubicon2/maps/"
  ],

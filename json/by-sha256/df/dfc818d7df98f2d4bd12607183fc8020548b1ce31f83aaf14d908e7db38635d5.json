@@ -49,11 +49,13 @@
  "release_date": "2000-11-16",
  "sha256": "dfc818d7df98f2d4bd12607183fc8020548b1ce31f83aaf14d908e7db38635d5",
  "tags": [
+  "author=Leo Slayer",
   "filename=tevo.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=ice",
+  "release_date=2000-11-16",
   "startmap=tevo1",
   "startmap=tevo2",
   "startmap=tevo3",
@@ -63,6 +65,7 @@
   "theme=cave",
   "theme=cavern",
   "theme=snow",
+  "title=The Evolution",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

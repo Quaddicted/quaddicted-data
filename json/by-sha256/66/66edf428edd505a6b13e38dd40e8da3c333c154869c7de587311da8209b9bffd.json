@@ -31,6 +31,7 @@
  "release_date": "2002-02-16",
  "sha256": "66edf428edd505a6b13e38dd40e8da3c333c154869c7de587311da8209b9bffd",
  "tags": [
+  "author=necros",
   "commandline=-game ne_sp06",
   "filename=ne_sp06.zip",
   "game=quake",
@@ -41,10 +42,12 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "nonspecific_tag=monsters",
   "nonspecific_tag=q3 gothic",
+  "release_date=2002-02-16",
   "theme=blood",
   "theme=boss",
   "theme=dragon",
   "theme=medieval",
+  "title=Once Upon Atrocity",
   "type=mod",
   "zipbasedir=ne_sp06/"
  ],

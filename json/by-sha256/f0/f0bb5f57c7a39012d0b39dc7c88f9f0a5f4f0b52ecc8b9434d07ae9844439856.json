@@ -25,6 +25,7 @@
  "release_date": "1996-11-12",
  "sha256": "f0bb5f57c7a39012d0b39dc7c88f9f0a5f4f0b52ecc8b9434d07ae9844439856",
  "tags": [
+  "author=Phil Hammond",
   "filename=themill.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "map_size=small",
   "nonspecific_tag=bland",
   "nonspecific_tag=dark",
+  "release_date=1996-11-12",
   "theme=blue",
   "theme=plain",
   "theme=wizard",
+  "title=Welcome To The Mill",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

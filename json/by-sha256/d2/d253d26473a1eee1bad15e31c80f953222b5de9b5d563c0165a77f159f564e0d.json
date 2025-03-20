@@ -28,8 +28,10 @@
  "release_date": "2008-09-24",
  "sha256": "d253d26473a1eee1bad15e31c80f953222b5de9b5d563c0165a77f159f564e0d",
  "tags": [
+  "author=necros",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=chapter_necros2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,10 +45,12 @@
   "nonspecific_tag=flesh",
   "nonspecific_tag=hard",
   "nonspecific_tag=warp",
+  "release_date=2008-09-24",
   "theme=horror",
   "theme=knave",
   "theme=lava",
   "theme=quoth",
+  "title=Are you yet Living?",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

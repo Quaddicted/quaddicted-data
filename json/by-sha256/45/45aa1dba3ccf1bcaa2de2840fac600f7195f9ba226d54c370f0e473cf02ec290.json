@@ -112,6 +112,7 @@
  "release_date": "2019-07-15",
  "sha256": "45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290",
  "tags": [
+  "author=Kayne",
   "commandline=-game woa_kayne",
   "filename=woa_kayne.zip",
   "game=quake",
@@ -123,11 +124,13 @@
   "nonspecific_tag=soundtrack",
   "nonspecific_tag=textures",
   "nonspecific_tag=vanilla",
+  "release_date=2019-07-15",
   "startmap=wrath_of_ahnki",
   "theme=egyptian",
   "theme=puzzle",
   "theme=sand",
   "theme=tomb",
+  "title=Wrath of Ahnkii",
   "type=mod",
   "zipbasedir=/"
  ],

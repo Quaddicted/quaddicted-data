@@ -29,6 +29,7 @@
  "release_group": "frcastle",
  "sha256": "be747ef75bce8076acffa72172beee964ab26869d7e666c67ba0f08efdf3363e",
  "tags": [
+  "author=Robert Carter",
   "filename=frcastle.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -37,9 +38,14 @@
   "map_size=small",
   "nonspecific_tag=dark",
   "nonspecific_tag=old version",
+  "provides='frcastle=1.0'",
+  "release_date=1996-10-24",
+  "release_group=frcastle",
   "theme=castle",
   "theme=wizard",
+  "title=Fear Castle",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "Fear Castle",

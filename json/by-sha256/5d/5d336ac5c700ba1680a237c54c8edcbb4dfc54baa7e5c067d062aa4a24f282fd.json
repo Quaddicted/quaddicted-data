@@ -25,6 +25,7 @@
  "release_date": "2001-01-29",
  "sha256": "5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd",
  "tags": [
+  "author=Biff Debris",
   "filename=imp1sp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,7 +38,9 @@
   "map_size=small",
   "nonspecific_tag=glass",
   "nonspecific_tag=textures",
+  "release_date=2001-01-29",
   "theme=base",
+  "title=The Corral",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -35,12 +35,15 @@
  "release_date": "1999-12-05",
  "sha256": "a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa",
  "tags": [
+  "author=George Grotans",
   "filename=bridges_2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1999-12-05",
   "startmap=bridges",
   "theme=lava",
+  "title=Bridges",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -37,6 +37,7 @@
  "release_date": "1998-02-20",
  "sha256": "a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016",
  "tags": [
+  "author=Rain Rannu (Spacegod)",
   "filename=sgodrune.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,12 +48,14 @@
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=surprises",
   "nonspecific_tag=unique",
+  "release_date=1998-02-20",
   "startmap=sgodrune",
   "theme=abstract",
   "theme=blue",
   "theme=red",
   "theme=story",
   "theme=traps",
+  "title=Tale of Abbot's Rune",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

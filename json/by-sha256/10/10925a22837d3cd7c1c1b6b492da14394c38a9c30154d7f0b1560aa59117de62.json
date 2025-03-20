@@ -44,8 +44,10 @@
  "release_date": "2024-01-08",
  "sha256": "10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62",
  "tags": [
+  "author=Sodium Chloride",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=fotac_1_0.zip",
   "game=quake",
@@ -53,7 +55,9 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/fortress-of-the-arcane-conduit.305/)",
   "map_size=large",
   "mod=copper",
+  "release_date=2024-01-08",
   "startmap=fotac_1_0",
+  "title=Fortress of the Arcane Conduit",
   "type=map"
  ],
  "title": "Fortress of the Arcane Conduit",

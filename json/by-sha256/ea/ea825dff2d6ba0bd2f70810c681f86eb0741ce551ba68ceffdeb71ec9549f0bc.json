@@ -25,6 +25,7 @@
  "release_date": "2003-02-20",
  "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "tags": [
+  "author=PuLSaR",
   "filename=hellbridge.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,10 +33,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030311.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=large",
+  "release_date=2003-02-20",
   "startmap=hellbrid",
   "theme=blue",
   "theme=brick",
   "theme=metal",
+  "title=The HELLbridge",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

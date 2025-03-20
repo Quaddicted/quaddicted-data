@@ -31,6 +31,7 @@
  "release_date": "1997-12-10",
  "sha256": "657a821187708ab5252fdee681f330f6bcfe5fe540f21608976f8a8f87a1e678",
  "tags": [
+  "author=ATF Team",
   "commandline=-game atf",
   "filename=atf.zip",
   "game=quake",
@@ -39,9 +40,11 @@
   "link:review=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=atf)",
   "nonspecific_tag=tc",
+  "release_date=1997-12-10",
   "startmap=start",
   "theme=base",
   "theme=realism",
+  "title=After The Fall",
   "type=episode",
   "type=mod",
   "zipbasedir=atf/"

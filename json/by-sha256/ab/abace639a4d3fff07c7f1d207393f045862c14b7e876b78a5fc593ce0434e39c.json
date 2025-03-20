@@ -827,6 +827,7 @@
  "release_date": "2022-01-29",
  "sha256": "abace639a4d3fff07c7f1d207393f045862c14b7e876b78a5fc593ce0434e39c",
  "tags": [
+  "author=Spoot",
   "commandline=-game wroth",
   "filename=wroth.zip",
   "game=quake",
@@ -837,8 +838,10 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-01-29",
   "startmap=wroth",
   "theme=base",
+  "title=Wroth",
   "type=mod"
  ],
  "title": "Wroth",

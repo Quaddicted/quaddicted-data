@@ -757,6 +757,7 @@
  "release_date": "2021-10-16",
  "sha256": "b700be7d6973f517d66bb39da3c6d411251f9be0c2518ea4d19369f586a990f4",
  "tags": [
+  "author=DragonsForLunch",
   "commandline=-game dfl_weight",
   "filename=dfl_weight.zip",
   "game=quake",
@@ -765,9 +766,11 @@
   "nonspecific_tag=models",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
+  "release_date=2021-10-16",
   "theme=brick",
   "theme=slime",
   "theme=wizard",
+  "title=Weight For It",
   "type=mod",
   "zipbasedir=/"
  ],

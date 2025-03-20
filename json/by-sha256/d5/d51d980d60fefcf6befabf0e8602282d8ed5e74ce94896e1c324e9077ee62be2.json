@@ -474,6 +474,7 @@
  "release_date": "2022-06-01",
  "sha256": "d51d980d60fefcf6befabf0e8602282d8ed5e74ce94896e1c324e9077ee62be2",
  "tags": [
+  "author=Colossus",
   "commandline=-game forsaken",
   "filename=forsaken_v2.zip",
   "game=quake",
@@ -488,10 +489,12 @@
   "nonspecific_tag=debut",
   "nonspecific_tag=hard",
   "nonspecific_tag=slaughter",
+  "release_date=2022-06-01",
   "startmap=forsaken",
   "theme=lava",
   "theme=metal",
   "theme=runic",
+  "title=Forsaken",
   "type=mod"
  ],
  "title": "Forsaken",

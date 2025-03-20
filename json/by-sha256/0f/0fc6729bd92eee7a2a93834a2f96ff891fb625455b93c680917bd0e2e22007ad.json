@@ -34,6 +34,7 @@
  "release_date": "2016-03-06",
  "sha256": "0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad",
  "tags": [
+  "author=Madfox",
   "commandline=-game fourfeather0",
   "filename=fourfeather0.zip",
   "game=quake",
@@ -41,9 +42,11 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61298)",
   "nonspecific_tag=monsters",
   "nonspecific_tag=skybox",
+  "release_date=2016-03-06",
   "startmap=fourfeather.bsp",
   "theme=castle",
   "theme=mixtex",
+  "title=FourFeather",
   "type=mod",
   "zipbasedir=fourfeather0/"
  ],

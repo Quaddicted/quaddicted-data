@@ -73,14 +73,18 @@
  "release_date": "2024-04-11",
  "sha256": "16c3107c413b9cef531b6ef3866ddaa539b1e84b6027fab50c17611b9f4a30f7",
  "tags": [
+  "author=Exabyt",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper=1.30')",
   "filename=ferric_oxide_v1.01.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/ferric-oxide.351/)",
   "mod=copper",
+  "release_date=2024-04-11",
   "startmap=ferric_oxide",
+  "title=Ferric Oxide",
   "type=map",
   "zipbasedir=copper/"
  ],

@@ -246,6 +246,9 @@
  "release_date": "2020-10-19",
  "sha256": "8d87948bc267cb7cc2adaf03fb4651fa350b6536892bed310d7e3ef48076abea",
  "tags": [
+  "author=OG",
+  "author=Yoder",
+  "author=czg",
   "bsp_format=bsp2",
   "commandline=-game du2",
   "exceeds_quake_limits=yes",
@@ -261,6 +264,7 @@
   "nonspecific_tag=pumpkins",
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
+  "release_date=2020-10-19",
   "source=included",
   "startmap=du2_grawert",
   "startmap=du2_infinite",
@@ -272,6 +276,7 @@
   "theme=realism",
   "theme=snow",
   "theme=winter",
+  "title=Disconcerting Unease 2",
   "type=mod",
   "zipbasedir=du2/"
  ],

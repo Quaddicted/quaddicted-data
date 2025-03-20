@@ -59,6 +59,7 @@
  "release_date": "2022-11-22",
  "sha256": "af2326cad6e910e311a8f6f46096cc51c49100dc1626688c0e5f32057bdd5951",
  "tags": [
+  "author=ZetaByt",
   "commandline=-game cinburron",
   "exceeds_quake_limits=yes",
   "filename=cinburron.zip",
@@ -70,11 +71,13 @@
   "nonspecific_tag=impel",
   "nonspecific_tag=rogue",
   "playstyle=horde",
+  "release_date=2022-11-22",
   "source=included",
   "startmap=cinburron",
   "theme=castle",
   "theme=id1",
   "theme=medieval",
+  "title=The Monastery of Mount Cinburron v1.0.1",
   "type=map"
  ],
  "title": "The Monastery of Mount Cinburron v1.0.1",

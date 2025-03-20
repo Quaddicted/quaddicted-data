@@ -67,13 +67,16 @@
  "release_date": "2010-11-04",
  "sha256": "c600c5d81628bff2ad6b9e03e5378477e29e61b36144a56fa3a4c5bf141be813",
  "tags": [
+  "author=Vondur",
   "filename=eels.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.vondur.net",
+  "release_date=2010-11-04",
   "theme=classic",
   "theme=medieval",
   "theme=oldschool",
+  "title=Elements",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

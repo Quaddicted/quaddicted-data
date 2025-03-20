@@ -25,6 +25,7 @@
  "release_date": "1997-07-20",
  "sha256": "fccb9df7926073c5dc28c5e0d359484650d862aaf297be2a5e185318ec5e66eb",
  "tags": [
+  "author=Jean-Marc Gruninger",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=mars1.zip",
@@ -40,9 +41,11 @@
   "nonspecific_tag=rocket",
   "nonspecific_tag=shuttle",
   "nonspecific_tag=spaceship",
+  "release_date=1997-07-20",
   "theme=base",
   "theme=dissolution of eternity",
   "theme=scourge of armagon",
+  "title=Mars 1",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

@@ -755,13 +755,16 @@
  "release_date": "2023-11-04",
  "sha256": "a6c8789e985b110718aa249a9f53565c507ff57831498def218ea9939324d5f1",
  "tags": [
+  "author=spootnik",
   "commandline=-game bv",
   "exceedslimits=exceeds_quake_limits",
   "filename=bv.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-brutalist-volumes.281/)",
+  "release_date=2023-11-04",
   "startmap=start",
+  "title=The Brutalist Volumes",
   "type=episode",
   "type=mod"
  ],

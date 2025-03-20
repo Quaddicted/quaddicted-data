@@ -31,6 +31,7 @@
  "release_date": "2021-09-29",
  "sha256": "26d85207f2abdbd55cb0cdee6551b294983ef149a7f8f98e036cafca88fa8900",
  "tags": [
+  "author=MetzMan",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=metzman_roots.zip",
@@ -40,6 +41,7 @@
   "nonspecific_tag=courtyard",
   "nonspecific_tag=excarvation",
   "nonspecific_tag=trees",
+  "release_date=2021-09-29",
   "source=included",
   "theme=base",
   "theme=castle",
@@ -48,6 +50,7 @@
   "theme=mixtex",
   "theme=pyramid",
   "theme=runic",
+  "title=Roots",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

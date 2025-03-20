@@ -768,6 +768,7 @@
  "release_date": "2022-03-01",
  "sha256": "02f951e263ff7695e93b7022a2449ae1a0c313a61c5d36383bebad66a2277f91",
  "tags": [
+  "author=Brendy Caldwell",
   "commandline=-game stoneblanket",
   "filename=stoneblanket.zip",
   "game=quake",
@@ -781,11 +782,13 @@
   "nonspecific_tag=makkon",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-03-01",
   "source=included",
   "startmap=brendy3",
   "theme=brick",
   "theme=stone",
   "theme=tomb",
+  "title=Under A Stone Blanket",
   "type=mod"
  ],
  "title": "Under A Stone Blanket",

@@ -1589,6 +1589,7 @@
  "release_date": "2019-01-29",
  "sha256": "cfa6bbe3b7291f98b7041f200c8dba32c873f64efd740e39e5cd0ec55508b72f",
  "tags": [
+  "author=Qmaster",
   "commandline=-game egyptoagula_final/keep",
   "filename=egyptoagula_final.zip",
   "game=quake",
@@ -1596,9 +1597,11 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61683)",
   "map_size=large",
   "nonspecific_tag=keep mod",
+  "release_date=2019-01-29",
   "startmap=egyptoagula",
   "theme=coagula",
   "theme=egyptian",
+  "title=Egyptoagula",
   "type=mod",
   "zipbasedir=/"
  ],

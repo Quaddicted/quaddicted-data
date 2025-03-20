@@ -46,11 +46,15 @@
  "release_date": "2023-05-05",
  "sha256": "4c6e674d6ee457074e13151d8ecc07cfd8f8fcdca95bdb6f21687e55bca6612d",
  "tags": [
+  "author=Avix",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "filename=avix_qcastle.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2023-05-05",
+  "title=Quad Lake Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

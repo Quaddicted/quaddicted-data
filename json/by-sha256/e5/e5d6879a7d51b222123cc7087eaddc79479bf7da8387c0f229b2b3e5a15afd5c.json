@@ -94,6 +94,7 @@
  "release_date": "2019-09-23",
  "sha256": "e5d6879a7d51b222123cc7087eaddc79479bf7da8387c0f229b2b3e5a15afd5c",
  "tags": [
+  "author=Heresy",
   "exceeds_quake_limits=yes",
   "filename=heresp5_rev.zip",
   "game=quake",
@@ -104,10 +105,12 @@
   "nonspecific_tag=mars",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2019-09-23",
   "source=included",
   "startmap=heresp5",
   "theme=desert",
   "theme=industrial",
+  "title=Dismal Signal",
   "type=map",
   "zipbasedir=id1/"
  ],

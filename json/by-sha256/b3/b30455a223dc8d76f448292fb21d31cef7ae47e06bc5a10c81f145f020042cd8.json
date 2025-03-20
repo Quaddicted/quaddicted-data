@@ -731,6 +731,7 @@
  "release_date": "2021-05-01",
  "sha256": "b30455a223dc8d76f448292fb21d31cef7ae47e06bc5a10c81f145f020042cd8",
  "tags": [
+  "author=Inky",
   "bsp_format=bsp2",
   "commandline=-game unholy",
   "exceeds_quake_limits=yes",
@@ -745,6 +746,7 @@
   "nonspecific_tag=fte",
   "nonspecific_tag=models",
   "nonspecific_tag=sounds",
+  "release_date=2021-05-01",
   "source=included",
   "startmap=briefing",
   "startmap=unholy",
@@ -754,6 +756,7 @@
   "theme=medieval",
   "theme=puzzles",
   "theme=wizard",
+  "title=Church Of The Unholy",
   "type=mod",
   "zipbasedir=/"
  ],

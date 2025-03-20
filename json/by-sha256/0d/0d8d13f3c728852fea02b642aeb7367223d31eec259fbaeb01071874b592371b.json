@@ -244,6 +244,7 @@
  "release_date": "2021-06-30",
  "sha256": "0d8d13f3c728852fea02b642aeb7367223d31eec259fbaeb01071874b592371b",
  "tags": [
+  "author=Markie",
   "commandline=-game reliq",
   "exceeds_quake_limits=yes",
   "filename=reliqv1.zip",
@@ -258,6 +259,7 @@
   "nonspecific_tag=sewage",
   "nonspecific_tag=sounds",
   "nonspecific_tag=weapons",
+  "release_date=2021-06-30",
   "source=included",
   "startmap=reliq_miasma",
   "startmap=reliq_otseg",
@@ -270,6 +272,7 @@
   "theme=sewer",
   "theme=slime",
   "theme=speedbase",
+  "title=Reliquary",
   "type=mod",
   "zipbasedir=/"
  ],

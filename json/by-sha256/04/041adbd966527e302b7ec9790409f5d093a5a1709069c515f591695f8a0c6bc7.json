@@ -37,6 +37,7 @@
  "release_date": "1997-10-01",
  "sha256": "041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7",
  "tags": [
+  "author=Erik Robson",
   "commandline=-game lighthse",
   "filename=lighthse1.zip",
   "game=quake",
@@ -44,12 +45,14 @@
   "map_size=medium",
   "nonspecific_tag=mod",
   "nonspecific_tag=monsters",
+  "release_date=1997-10-01",
   "startmap=_mapfort",
   "startmap=_maplhse",
   "startmap=_mapstge",
   "startmap=lighthse",
   "theme=plain",
   "theme=wizard",
+  "title=Lighthouse Assult",
   "type=mod",
   "zipbasedir=lighthse/"
  ],

@@ -31,6 +31,7 @@
  "release_date": "2007-03-21",
  "sha256": "cdf9ed3596217ff0158222c41999ccbe5861092b8fe53d680e11c916f46a17da",
  "tags": [
+  "author=Digs",
   "filename=digs03.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,9 +39,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev070804b.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
+  "release_date=2007-03-21",
   "theme=e3m5",
   "theme=metal",
   "theme=windtunnel",
+  "title=Digs03",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -34,6 +34,7 @@
  "release_date": "2008-05-18",
  "sha256": "2721c47394f26106472b9678b4c23f8d4428af0f828992960c55f01d6c1025c5",
  "tags": [
+  "author=ORL",
   "exceeds_quake_limits=yes",
   "filename=omlabx.zip",
   "game=quake",
@@ -43,9 +44,11 @@
   "map_size=large",
   "nonspecific_tag=hard",
   "nonspecific_tag=textures",
+  "release_date=2008-05-18",
   "theme=base",
   "theme=green",
   "theme=traps",
+  "title=Laboratory X",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

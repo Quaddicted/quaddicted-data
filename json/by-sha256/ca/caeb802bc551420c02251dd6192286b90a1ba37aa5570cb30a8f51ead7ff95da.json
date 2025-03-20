@@ -34,8 +34,10 @@
  "release_date": "2013-08-04",
  "sha256": "caeb802bc551420c02251dd6192286b90a1ba37aa5570cb30a8f51ead7ff95da",
  "tags": [
+  "author=Matthias Worch",
   "commandline=-game bbelief",
   "dependency=bbelief",
+  "depends=0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
   "filename=bbelief2008.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,6 +46,7 @@
   "map_size=medium",
   "nonspecific_tag=chthon",
   "nonspecific_tag=rocks",
+  "release_date=2013-08-04",
   "source=included",
   "theme=boss",
   "theme=castle",
@@ -51,6 +54,7 @@
   "theme=church",
   "theme=lava",
   "theme=medieval",
+  "title=A Past and Future Secret",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

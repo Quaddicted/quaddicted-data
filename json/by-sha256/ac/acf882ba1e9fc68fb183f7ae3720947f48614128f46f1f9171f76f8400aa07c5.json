@@ -502,6 +502,7 @@
  "release_date": "2023-04-21",
  "sha256": "acf882ba1e9fc68fb183f7ae3720947f48614128f46f1f9171f76f8400aa07c5",
  "tags": [
+  "author=SleepyAdam",
   "commandline=-game copper",
   "filename=savetheworld.zip",
   "game=quake",
@@ -513,12 +514,14 @@
   "nonspecific_tag=debut",
   "nonspecific_tag=lab",
   "nonspecific_tag=sci-fi",
+  "release_date=2023-04-21",
   "startmap=savetheworld",
   "startmap=start",
   "theme=base",
   "theme=lava",
   "theme=tech",
   "theme=underground",
+  "title=Save The World",
   "type=mod"
  ],
  "title": "Save The World",

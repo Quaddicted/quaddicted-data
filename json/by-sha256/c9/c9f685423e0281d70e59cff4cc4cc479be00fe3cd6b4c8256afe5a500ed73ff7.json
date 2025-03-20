@@ -37,6 +37,7 @@
  "release_date": "2000-03-23",
  "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "tags": [
+  "author=Mike Wilberforce (Hellscrag)",
   "commandline=-game descent",
   "filename=descent.zip",
   "game=quake",
@@ -52,12 +53,14 @@
   "map_size=medium",
   "nonspecific_tag=monsters",
   "nonspecific_tag=qwtid",
+  "release_date=2000-03-23",
   "startmap=start",
   "theme=base",
   "theme=castle",
   "theme=cavern",
   "theme=metal",
   "theme=wizard",
+  "title=(The Final) Descent",
   "type=mod",
   "zipbasedir=descent/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "1997-01-11",
  "sha256": "a69d7f5239df0b9695636b9ada4433944e4598413ebfb28627f847170b647a9a",
  "tags": [
+  "author=Matt Sefton",
   "filename=undrwrld.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -34,9 +35,11 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/s_u.htm)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
+  "release_date=1997-01-11",
   "theme=base",
   "theme=outdoor",
   "theme=traps",
+  "title=The Underworld",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

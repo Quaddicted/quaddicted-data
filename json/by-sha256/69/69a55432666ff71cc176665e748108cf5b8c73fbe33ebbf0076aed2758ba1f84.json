@@ -25,12 +25,14 @@
  "release_date": "1997-04-11",
  "sha256": "69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84",
  "tags": [
+  "author=Brian Morgan (Duley)",
   "filename=stone.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelss.htm#stone)",
   "map_size=medium",
+  "release_date=1997-04-11",
   "theme=castle",
   "theme=exploration",
   "theme=medieval",
@@ -38,6 +40,7 @@
   "theme=runic",
   "theme=terracotta",
   "theme=wizard",
+  "title=The Stone of Tear",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -31,6 +31,7 @@
  "release_date": "2014-11-29",
  "sha256": "21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b",
  "tags": [
+  "author=sock",
   "commandline=-game fallen1c",
   "filename=fallen1c.zip",
   "game=quake",
@@ -40,9 +41,11 @@
   "nonspecific_tag=retro jam",
   "nonspecific_tag=retrojam",
   "nonspecific_tag=skybox",
+  "release_date=2014-11-29",
   "startmap=fallen",
   "theme=medieval",
   "theme=traps",
+  "title=Fallen from Grace (the castle)",
   "type=mod",
   "zipbasedir=fallen1c/"
  ],

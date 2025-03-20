@@ -568,13 +568,16 @@
  "release_date": "2023-09-30",
  "sha256": "4e7a4ebe590974771d066c54bc7196e4205e3a783de7254f5b165de992a402c1",
  "tags": [
+  "author=Balgorg",
   "commandline=-game peril3.0",
   "exceeds_quake_limits=yes",
   "filename=peril3.0c.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[ModDB page](https://www.moddb.com/mods/peril/downloads/peril3-0c)",
+  "release_date=2023-09-30",
   "startmap=start",
+  "title=Peril",
   "type=episode",
   "type=mod"
  ],

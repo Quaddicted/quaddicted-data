@@ -85,6 +85,7 @@
  "release_date": "2014-11-14",
  "sha256": "d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d",
  "tags": [
+  "author=WarrenM",
   "commandline=-game thtc",
   "exceeds_quake_limits=yes",
   "filename=thtc.zip",
@@ -94,10 +95,12 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61104)",
   "map_size=medium",
   "nonspecific_tag=monsters",
+  "release_date=2014-11-14",
   "startmap=TheHellThatsComing",
   "theme=castle",
   "theme=cave",
   "theme=medieval",
+  "title=The Hell That's Coming",
   "type=mod",
   "zipbasedir=thtc/"
  ],

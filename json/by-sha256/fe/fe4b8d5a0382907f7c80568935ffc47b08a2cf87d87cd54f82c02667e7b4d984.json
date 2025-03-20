@@ -43,8 +43,10 @@
  "release_date": "2021-02-02",
  "sha256": "fe4b8d5a0382907f7c80568935ffc47b08a2cf87d87cd54f82c02667e7b4d984",
  "tags": [
+  "author=DeeDoubleU",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=dwabd.zip",
   "game=quake",
@@ -54,6 +56,7 @@
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
   "nonspecific_tag=chapel",
+  "release_date=2021-02-02",
   "source=included",
   "theme=arcane dimensions",
   "theme=bricks",
@@ -62,6 +65,7 @@
   "theme=secrets",
   "theme=swamp",
   "theme=wizard",
+  "title=ArcanBroomada Doctrina",
   "type=map",
   "zipbasedir=ad/maps/"
  ],

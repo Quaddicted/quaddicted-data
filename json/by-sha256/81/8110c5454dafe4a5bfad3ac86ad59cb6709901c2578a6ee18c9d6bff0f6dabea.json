@@ -25,11 +25,14 @@
  "release_date": "2000-01-13",
  "sha256": "8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea",
  "tags": [
+  "author=DAV",
   "filename=qkstore.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.planetquake.com/davlevels/",
+  "release_date=2000-01-13",
   "theme=base",
+  "title=Store",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

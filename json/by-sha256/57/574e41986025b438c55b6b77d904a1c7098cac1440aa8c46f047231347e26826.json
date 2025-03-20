@@ -81,8 +81,10 @@
  "release_date": "2023-12-17",
  "sha256": "574e41986025b438c55b6b77d904a1c7098cac1440aa8c46f047231347e26826",
  "tags": [
+  "author=mtsch",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=mtsch001.zip",
   "game=quake",
@@ -90,7 +92,9 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-slime-sanctuary.296/)",
   "map_size=medium",
   "mod=copper",
+  "release_date=2023-12-17",
   "startmap=mstch001",
+  "title=The Slime Sanctuary",
   "type=map"
  ],
  "title": "The Slime Sanctuary",

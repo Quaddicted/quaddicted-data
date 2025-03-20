@@ -25,6 +25,7 @@
  "release_date": "1997-05-03",
  "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "tags": [
+  "author=Dario Casali",
   "commandline=-game pse",
   "filename=prodigy_se.zip",
   "game=quake",
@@ -43,10 +44,12 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=textures",
+  "release_date=1997-05-03",
   "startmap=start",
   "theme=base",
   "theme=medieval",
   "theme=metal",
+  "title=Prodigy Special Edition",
   "type=episode",
   "type=mod",
   "zipbasedir=pse/"

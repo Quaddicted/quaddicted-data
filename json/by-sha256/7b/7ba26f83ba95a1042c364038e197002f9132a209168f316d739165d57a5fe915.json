@@ -35,6 +35,7 @@
  "release_date": "2020-05-18",
  "sha256": "7ba26f83ba95a1042c364038e197002f9132a209168f316d739165d57a5fe915",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=jpqm3.zip",
@@ -43,12 +44,14 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61893)",
   "link=[Version 2](http://www.quaketastic.com/files/single_player/maps/jpqm3v2.zip)",
   "map_size=large",
+  "release_date=2020-05-18",
   "source=included",
   "theme=bricks",
   "theme=castle",
   "theme=fortress",
   "theme=medieval",
   "theme=wizard",
+  "title=Forgotten Fortress",
   "type=map",
   "zipbasedir=/"
  ],

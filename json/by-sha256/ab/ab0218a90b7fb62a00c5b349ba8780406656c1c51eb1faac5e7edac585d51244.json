@@ -557,6 +557,7 @@
  "release_date": "2023-05-14",
  "sha256": "ab0218a90b7fb62a00c5b349ba8780406656c1c51eb1faac5e7edac585d51244",
  "tags": [
+  "author=ComfyByTheFire",
   "bsp_format=bsp2",
   "commandline=-game fear",
   "filename=fear_v1_6.zip",
@@ -574,9 +575,11 @@
   "nonspecific_tag=slaughtermap",
   "nonspecific_tag=trickjump",
   "playstyle=hordes",
+  "release_date=2023-05-14",
   "startmap=fear",
   "theme=exploration",
   "theme=secrets",
+  "title=I No Longer Fear The Ranger Guarding My Heel (1.6)",
   "type=mod",
   "zipbasedir=/"
  ],

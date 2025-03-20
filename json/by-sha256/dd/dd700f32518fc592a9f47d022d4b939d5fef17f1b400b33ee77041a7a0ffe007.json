@@ -28,6 +28,7 @@
  "release_date": "2022-07-30",
  "sha256": "dd700f32518fc592a9f47d022d4b939d5fef17f1b400b33ee77041a7a0ffe007",
  "tags": [
+  "author=Madfox",
   "commandline=-game q1gorge",
   "exceeds_quake_limits=yes",
   "filename=q1gorge.zip",
@@ -38,9 +39,11 @@
   "link=[More screenshots](https://home.kpn.nl/lo2kf8/quake/gorge/the_gorge.html)",
   "map_size=large",
   "nonspecific_tag=sin",
+  "release_date=2022-07-30",
   "startmap=q1gorge",
   "theme=base",
   "theme=cave",
+  "title=The Gorge",
   "type=mod",
   "zipbasedir=q1gorge/"
  ],

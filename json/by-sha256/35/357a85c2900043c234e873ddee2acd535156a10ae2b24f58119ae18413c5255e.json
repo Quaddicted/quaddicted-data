@@ -47,6 +47,7 @@
  "release_date": "2021-07-27",
  "sha256": "357a85c2900043c234e873ddee2acd535156a10ae2b24f58119ae18413c5255e",
  "tags": [
+  "author=BassLexa",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=plowing_through.zip",
@@ -56,10 +57,12 @@
   "nonspecific_tag=basedebris",
   "nonspecific_tag=machine",
   "nonspecific_tag=pipes",
+  "release_date=2021-07-27",
   "source=included",
   "startmap=plow_bass",
   "theme=base",
   "theme=industrial",
+  "title=Plowing Through",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

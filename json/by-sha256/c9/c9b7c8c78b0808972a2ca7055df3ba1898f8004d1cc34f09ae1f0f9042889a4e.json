@@ -52,6 +52,10 @@
  "release_date": "2011-05-12",
  "sha256": "c9b7c8c78b0808972a2ca7055df3ba1898f8004d1cc34f09ae1f0f9042889a4e",
  "tags": [
+  "author=Connor Fitzgerald feat. Biff Debris",
+  "author=Evan Wagner",
+  "author=Kell",
+  "author=inertia",
   "filename=dmc2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -60,6 +64,7 @@
   "map_size=small",
   "mod=rubicon",
   "nonspecific_tag=sda",
+  "release_date=2011-05-12",
   "startmap=dmc2m1",
   "startmap=dmc2m2",
   "startmap=dmc2m3",
@@ -68,6 +73,7 @@
   "theme=base",
   "theme=metal",
   "theme=rubicon",
+  "title=Deathmatch Classics Vol. 2",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

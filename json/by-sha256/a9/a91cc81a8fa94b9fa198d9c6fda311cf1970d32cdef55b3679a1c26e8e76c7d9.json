@@ -38,6 +38,7 @@
  "release_group": "digs07",
  "sha256": "a91cc81a8fa94b9fa198d9c6fda311cf1970d32cdef55b3679a1c26e8e76c7d9",
  "tags": [
+  "author=Digs",
   "exceeds_quake_limits=yes",
   "filename=digs07.zip",
   "game=quake",
@@ -50,10 +51,15 @@
   "nonspecific_tag=rocketjump",
   "nonspecific_tag=unique",
   "playstyle=tricks",
+  "provides='digs07=1.0'",
+  "release_date=2014-02-18",
+  "release_group=digs07",
   "theme=base",
   "theme=puzzles",
   "theme=slime",
+  "title=RJ Zone",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "RJ Zone",

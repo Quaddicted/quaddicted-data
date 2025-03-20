@@ -151,8 +151,10 @@
  "release_date": "2013-10-22",
  "sha256": "c9ae2284e804c35fa576050022f9f71e96cc9af8ff1d4ed7849c4a167dfae645",
  "tags": [
+  "author=mfx",
   "commandline=-game quoth -hipnotic",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=mfxsp17.zip",
   "game=quake",
@@ -164,6 +166,7 @@
   "nonspecific_tag=skybox",
   "nonspecific_tag=techno",
   "nonspecific_tag=thantech",
+  "release_date=2013-10-22",
   "source=included",
   "theme=base",
   "theme=cave",
@@ -171,6 +174,7 @@
   "theme=lava",
   "theme=quoth",
   "theme=tech",
+  "title=Mainframe Mayhem",
   "type=map",
   "zipbasedir=quoth/"
  ],

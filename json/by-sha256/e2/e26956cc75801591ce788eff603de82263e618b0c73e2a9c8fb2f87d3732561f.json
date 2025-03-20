@@ -55,6 +55,7 @@
  "release_date": "2003-11-13",
  "sha256": "e26956cc75801591ce788eff603de82263e618b0c73e2a9c8fb2f87d3732561f",
  "tags": [
+  "author=Basil de Vries",
   "filename=dm1-6sp.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -65,8 +66,10 @@
   "nonspecific_tag=dm5",
   "nonspecific_tag=dm6",
   "nonspecific_tag=dmsp",
+  "release_date=2003-11-13",
   "startmap=dm1sp",
   "theme=dm4",
+  "title=DMxSP - The Deathmatch Experience",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

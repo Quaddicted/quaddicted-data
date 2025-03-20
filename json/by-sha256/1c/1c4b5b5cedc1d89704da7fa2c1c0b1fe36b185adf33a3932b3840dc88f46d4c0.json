@@ -31,6 +31,7 @@
  "release_date": "1997-07-28",
  "sha256": "1c4b5b5cedc1d89704da7fa2c1c0b1fe36b185adf33a3932b3840dc88f46d4c0",
  "tags": [
+  "author=Kid",
   "filename=beach1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,10 +41,12 @@
   "nonspecific_tag=dire",
   "nonspecific_tag=fullbright",
   "nonspecific_tag=trap",
+  "release_date=1997-07-28",
   "source=included",
   "startmap=beach",
   "theme=lava",
   "theme=wizard",
+  "title=The Beaches Of Hell",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -616,6 +616,7 @@
  "release_date": "2023-07-08",
  "sha256": "aff4eab971e06a5f6800e277d72bdbfec36e3ba40c08fedba2dffb5161e9b0a8",
  "tags": [
+  "author=DragonsForLunch",
   "commandline=-game tainted",
   "exceedslimits=exceeds_quake_limits",
   "filename=taintedv1_2.zip",
@@ -623,7 +624,9 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/tainted.249/)",
   "map_size=medium",
+  "release_date=2023-07-08",
   "startmap=start",
+  "title=Tainted",
   "type=episode",
   "type=mod"
  ],

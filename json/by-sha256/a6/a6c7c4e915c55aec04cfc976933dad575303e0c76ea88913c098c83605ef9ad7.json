@@ -34,6 +34,7 @@
  "release_date": "2022-02-18",
  "sha256": "a6c7c4e915c55aec04cfc976933dad575303e0c76ea88913c098c83605ef9ad7",
  "tags": [
+  "author=Suzanne 'Trashbang' Will",
   "exceeds_quake_limits=yes",
   "filename=suzy1024.zip",
   "game=quake",
@@ -42,10 +43,12 @@
   "map_size=small",
   "nonspecific_tag=1024",
   "nonspecific_tag=debut",
+  "release_date=2022-02-18",
   "source=included",
   "startmap=suzy1024",
   "theme=runic",
   "theme=wizard",
+  "title=The Stars We Lost To Grief",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

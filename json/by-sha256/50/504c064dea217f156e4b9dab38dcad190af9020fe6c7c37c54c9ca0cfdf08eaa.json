@@ -133,8 +133,10 @@
  "release_date": "2010-11-10",
  "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
  "tags": [
+  "author=JPL",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=gth.zip",
   "game=quake",
@@ -147,10 +149,12 @@
   "nonspecific_tag=hell",
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
+  "release_date=2010-11-10",
   "startmap=gatetohell",
   "theme=dkt",
   "theme=doom 3",
   "theme=quoth",
+  "title=The Gateway to Hell",
   "type=map",
   "zipbasedir=quoth/"
  ],

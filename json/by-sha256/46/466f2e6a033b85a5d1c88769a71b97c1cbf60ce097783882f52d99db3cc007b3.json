@@ -2776,13 +2776,16 @@
  "release_date": "2024-06-17",
  "sha256": "466f2e6a033b85a5d1c88769a71b97c1cbf60ce097783882f52d99db3cc007b3",
  "tags": [
+  "author=Euclidius",
   "commandline=-game euclidius",
   "exceeds_quake_limits=yes",
   "filename=euclidius_v1.5.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/euclids-nightmare.218/)",
+  "release_date=2024-06-17",
   "startmap=start",
+  "title=Euclid's Nightmare",
   "type=episode",
   "type=mod"
  ],

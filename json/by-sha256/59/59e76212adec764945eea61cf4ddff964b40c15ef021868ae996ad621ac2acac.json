@@ -115,8 +115,10 @@
  "release_date": "2023-04-17",
  "sha256": "59e76212adec764945eea61cf4ddff964b40c15ef021868ae996ad621ac2acac",
  "tags": [
+  "author=Chris \"1600frogs\" Brady",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "exceeds_quake_limits=yes",
   "filename=frogscrack_v1p1.zip",
   "game=quake",
@@ -126,6 +128,7 @@
   "mod=copper",
   "music=custom",
   "nonspecific_tag=makkon",
+  "release_date=2023-04-17",
   "source=included",
   "startmap=frogscrack",
   "theme=castle",
@@ -134,6 +137,7 @@
   "theme=stone",
   "theme=tomb",
   "theme=void",
+  "title=Crack in the Sky v1.0p1",
   "type=map"
  ],
  "title": "Crack in the Sky v1.0p1",

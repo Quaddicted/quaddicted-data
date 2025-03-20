@@ -37,6 +37,7 @@
  "release_date": "1997-07-08",
  "sha256": "ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb",
  "tags": [
+  "author=J.F.Gustafsson",
   "filename=ktl.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -45,10 +46,12 @@
   "map_size=medium",
   "nonspecific_tag=jail",
   "nonspecific_tag=zombies",
+  "release_date=1997-07-08",
   "theme=crampy",
   "theme=prison",
   "theme=traps",
   "theme=wizard",
+  "title=Keys to liberty",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

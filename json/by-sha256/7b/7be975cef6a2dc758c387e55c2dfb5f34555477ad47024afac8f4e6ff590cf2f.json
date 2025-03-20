@@ -19,6 +19,7 @@
  "release_date": "1997-03-25",
  "sha256": "7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f",
  "tags": [
+  "author=Chris Mayers",
   "filename=ins4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -26,11 +27,13 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-03-25",
   "startmap=res",
   "theme=metal",
   "theme=mixtex",
   "theme=traps",
   "theme=wizard",
+  "title=The Insurrection, part IV - The Resolution",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

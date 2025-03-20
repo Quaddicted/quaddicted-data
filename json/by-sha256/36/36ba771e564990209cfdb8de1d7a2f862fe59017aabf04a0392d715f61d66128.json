@@ -25,6 +25,7 @@
  "release_date": "1997-07-20",
  "sha256": "36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128",
  "tags": [
+  "author=Matt Sefton",
   "filename=jawbreak.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,8 +37,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-07-20",
   "theme=base",
   "theme=doom",
+  "title=Jawbreak",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

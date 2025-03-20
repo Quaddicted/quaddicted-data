@@ -25,14 +25,17 @@
  "release_date": "1999-07-15",
  "sha256": "b1dd7757bb3a014a9cacef1d8e704abe4f90d670719681cd27356894403b89fd",
  "tags": [
+  "author=Peter Bisseker (tiddles)",
   "filename=strong-hold.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990717.html)",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=strong)",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-07-15",
   "theme=base",
   "theme=industrial",
+  "title=The Last Strong Hold",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

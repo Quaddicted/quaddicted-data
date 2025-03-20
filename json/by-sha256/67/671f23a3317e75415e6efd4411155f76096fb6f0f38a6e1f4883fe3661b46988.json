@@ -31,6 +31,7 @@
  "release_date": "1997-09-07",
  "sha256": "671f23a3317e75415e6efd4411155f76096fb6f0f38a6e1f4883fe3661b46988",
  "tags": [
+  "author=DD",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=qmine.zip",
@@ -38,11 +39,13 @@
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=hourse",
+  "release_date=1997-09-07",
   "source=included",
   "theme=blue",
   "theme=dissolution of eternity",
   "theme=mine",
   "theme=scourge of armagon",
+  "title=Qmine",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

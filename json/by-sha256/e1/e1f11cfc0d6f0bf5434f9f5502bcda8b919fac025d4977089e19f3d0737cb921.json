@@ -19,6 +19,7 @@
  "release_date": "2007-02-21",
  "sha256": "e1f11cfc0d6f0bf5434f9f5502bcda8b919fac025d4977089e19f3d0737cb921",
  "tags": [
+  "author=Unknown",
   "filename=supermaze.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -26,7 +27,9 @@
   "nonspecific_tag=dark",
   "nonspecific_tag=stupid",
   "nonspecific_tag=ugly",
+  "release_date=2007-02-21",
   "startmap=supermaze",
+  "title=Maze of torture",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -31,14 +31,17 @@
  "release_date": "1996-09-02",
  "sha256": "6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa",
  "tags": [
+  "author=Mike Melzer",
   "filename=pagan3.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsp1.htm)",
   "map_size=small",
+  "release_date=1996-09-02",
   "source=included",
   "startmap=pagan",
   "theme=metal",
+  "title=The Pagan Temple",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

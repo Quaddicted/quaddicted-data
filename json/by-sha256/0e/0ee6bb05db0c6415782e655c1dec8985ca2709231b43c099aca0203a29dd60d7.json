@@ -38,11 +38,15 @@
  "release_date": "2009-06-29",
  "sha256": "0ee6bb05db0c6415782e655c1dec8985ca2709231b43c099aca0203a29dd60d7",
  "tags": [
+  "author=Drew",
+  "author=gb",
   "filename=sm154_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2009-06-29",
   "startmap=sm154_drew",
   "startmap=sm154_gb",
+  "title=Speedmapping pack 154 - Improve safety",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

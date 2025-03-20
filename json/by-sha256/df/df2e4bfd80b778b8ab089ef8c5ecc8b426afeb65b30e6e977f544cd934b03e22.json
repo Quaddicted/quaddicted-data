@@ -25,6 +25,7 @@
  "release_date": "1997-08-21",
  "sha256": "df2e4bfd80b778b8ab089ef8c5ecc8b426afeb65b30e6e977f544cd934b03e22",
  "tags": [
+  "author=J.F.Gustafsson",
   "filename=out1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,10 +33,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990131.html)",
   "map_size=medium",
   "nonspecific_tag=teleporter",
+  "release_date=1997-08-21",
   "theme=base",
   "theme=traps",
   "theme=underwater",
   "theme=wizard",
+  "title=Out of time",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

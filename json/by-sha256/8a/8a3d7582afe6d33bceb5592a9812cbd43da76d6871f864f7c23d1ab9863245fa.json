@@ -118,6 +118,7 @@
  "release_date": "2016-11-13",
  "sha256": "8a3d7582afe6d33bceb5592a9812cbd43da76d6871f864f7c23d1ab9863245fa",
  "tags": [
+  "author=Gotshun",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=gotshun-never-released_levels.zip",
@@ -126,6 +127,7 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61373)",
   "map_size=medium",
   "map_size=small",
+  "release_date=2016-11-13",
   "startmap=q1map1",
   "theme=base",
   "theme=dissolution of eternity",
@@ -134,6 +136,7 @@
   "theme=oldschool",
   "theme=runic",
   "theme=scourge of armagon",
+  "title=The 'lost' levels",
   "type=episode",
   "type=map",
   "zipbasedir=hipnotic/maps/"

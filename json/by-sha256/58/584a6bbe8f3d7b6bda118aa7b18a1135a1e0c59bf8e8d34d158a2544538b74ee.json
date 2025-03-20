@@ -31,6 +31,7 @@
  "release_date": "2010-01-17",
  "sha256": "584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee",
  "tags": [
+  "author=Samuel 'Kaiser' Villarreal",
   "commandline=-game kaiser",
   "filename=kq.zip",
   "game=quake",
@@ -40,10 +41,12 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=60573)",
   "nonspecific_tag=monsters",
   "nonspecific_tag=ogro",
+  "release_date=2010-01-17",
   "startmap=start",
   "theme=base",
   "theme=traps",
   "theme=zerst\u00f6rer",
+  "title=Quake: Harvester of Chaos (Demo)",
   "type=episode",
   "type=mod",
   "type=unfinished"

@@ -25,13 +25,16 @@
  "release_date": "1996-12-17",
  "sha256": "abb0318538199d65eb0364f1071297f0d6d59b2aeb38d9887958062b443e264c",
  "tags": [
+  "author=Roger Staines",
   "filename=hellbase.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsh.htm#hellbase)",
   "map_size=medium",
+  "release_date=1996-12-17",
   "theme=base",
   "theme=wizard",
+  "title=Hellbase",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

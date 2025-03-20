@@ -112,6 +112,7 @@
  "release_date": "1998-06-23",
  "sha256": "6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be",
  "tags": [
+  "author=Michael Casaday",
   "commandline=-game casspq1",
   "filename=casspq1.zip",
   "game=quake",
@@ -121,11 +122,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=unique",
+  "release_date=1998-06-23",
   "startmap=start",
   "theme=base",
   "theme=horror",
   "theme=ikbase",
   "theme=space",
+  "title=Hell in a Can",
   "type=mod",
   "zipbasedir=casspq1/"
  ],

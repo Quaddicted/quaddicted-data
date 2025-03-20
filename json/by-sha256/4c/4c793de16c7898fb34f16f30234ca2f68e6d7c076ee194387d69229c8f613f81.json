@@ -115,9 +115,11 @@
  "release_date": "2020-01-13",
  "sha256": "4c793de16c7898fb34f16f30234ca2f68e6d7c076ee194387d69229c8f613f81",
  "tags": [
+  "author=Comrade Beep",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=ad_beep1m1.zip",
   "game=quake",
@@ -129,9 +131,11 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=bsp",
   "nonspecific_tag=skybox",
+  "release_date=2020-01-13",
   "theme=arcane dimensions",
   "theme=base",
   "theme=speedbase",
+  "title=Deep Research",
   "type=map",
   "zipbasedir=ad/"
  ],

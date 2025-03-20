@@ -25,13 +25,17 @@
  "release_date": "1998-05-01",
  "sha256": "2cfc09ba89ad5d66154919cebf5d4c122d174a9296b7d09e68cd58014df6cc22",
  "tags": [
+  "author=Auhsan",
   "dependency=badpak",
+  "depends=168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
   "filename=auhe1m15.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=badpak",
+  "release_date=1998-05-01",
   "theme=base",
+  "title=Firestarter",
   "type=map",
   "zipbasedir=bad/maps/"
  ],

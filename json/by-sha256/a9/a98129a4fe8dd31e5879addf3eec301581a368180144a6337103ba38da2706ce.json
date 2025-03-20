@@ -37,14 +37,17 @@
  "release_date": "2016-12-10",
  "sha256": "a98129a4fe8dd31e5879addf3eec301581a368180144a6337103ba38da2706ce",
  "tags": [
+  "author=Nicolas 'hexcalk' Maeder",
   "filename=hc0.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://hexcalk.blogspot.com",
   "map_size=small",
+  "release_date=2016-12-10",
   "source=included",
   "theme=base",
   "theme=mixtex",
+  "title=Peripheral Fundament",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "1997-11-16",
  "sha256": "999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce",
  "tags": [
+  "author=Jonas N.P. Lindstrom",
   "filename=sadlark8.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,8 +35,10 @@
   "map_size=large",
   "nonspecific_tag=mythic",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-11-16",
   "theme=egypt",
   "theme=traps",
+  "title=Temple of Amon-Sadlark",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

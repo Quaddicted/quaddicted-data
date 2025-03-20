@@ -229,6 +229,7 @@
  "release_date": "2019-07-17",
  "sha256": "a01123ccb4c7b9fddcddfb9dc5af8b1f9e7f0d2b8ceea04fd90826c81c169c13",
  "tags": [
+  "author=Fimbul K",
   "commandline=-game trainstation",
   "filename=trainstation.zip",
   "game=quake",
@@ -238,10 +239,12 @@
   "nonspecific_tag=oblivion",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
+  "release_date=2019-07-17",
   "source=included",
   "theme=base",
   "theme=quake 2",
   "theme=realism",
+  "title=Train Station",
   "type=mod",
   "zipbasedir=/"
  ],

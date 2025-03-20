@@ -40,6 +40,7 @@
  "release_date": "1996-12-30",
  "sha256": "8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b",
  "tags": [
+  "author=Steve Rescoe",
   "filename=village.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -53,10 +54,12 @@
   "nonspecific_tag=models",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=textures",
+  "release_date=1996-12-30",
   "theme=medieval",
   "theme=realism",
   "theme=town",
   "theme=village",
+  "title=Village of Dread",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

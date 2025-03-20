@@ -25,6 +25,7 @@
  "release_date": "1997-04-07",
  "sha256": "d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75",
  "tags": [
+  "author=Geoff Barry",
   "filename=earthbnd.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelse.htm#earthbnd)",
   "map_layout=non-linear",
   "map_size=medium",
+  "release_date=1997-04-07",
   "theme=caverns",
   "theme=realism",
   "theme=wizard",
+  "title=Earthbound",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

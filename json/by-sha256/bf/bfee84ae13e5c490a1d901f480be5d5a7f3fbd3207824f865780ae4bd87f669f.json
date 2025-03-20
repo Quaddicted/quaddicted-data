@@ -28,7 +28,9 @@
  "release_date": "1997-05-18",
  "sha256": "bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f",
  "tags": [
+  "author=Iikka \"Fingers\" Ker\u00e4nen",
   "dependency=ikspq4",
+  "depends=b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
   "filename=ikspq3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,9 +45,11 @@
   "nonspecific_tag=mustplay",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=series",
+  "release_date=1997-05-18",
   "theme=blue",
   "theme=ikblue",
   "theme=temple",
+  "title=Halls of the Shambler God",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

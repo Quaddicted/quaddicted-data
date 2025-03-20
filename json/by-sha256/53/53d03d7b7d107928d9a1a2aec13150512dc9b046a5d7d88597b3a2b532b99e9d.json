@@ -28,6 +28,7 @@
  "release_date": "1997-09-09",
  "sha256": "53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d",
  "tags": [
+  "author=Noel Weer",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=horrid.zip",
@@ -37,8 +38,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "release_date=1997-09-09",
   "theme=dissolution of eternity",
   "theme=metal",
+  "title=Horripalatia",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

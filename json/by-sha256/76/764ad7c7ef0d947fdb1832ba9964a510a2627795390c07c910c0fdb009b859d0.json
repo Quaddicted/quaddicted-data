@@ -34,8 +34,10 @@
  "release_date": "2005-11-05",
  "sha256": "764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0",
  "tags": [
+  "author=necros",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=ne_marb.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -48,10 +50,12 @@
   "nonspecific_tag=external textures",
   "nonspecific_tag=marble",
   "nonspecific_tag=unique",
+  "release_date=2005-11-05",
   "startmap=ne_marb",
   "theme=doom",
   "theme=medieval",
   "theme=quoth",
+  "title=Crescendo Of Dreams + Surmounting Terror",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

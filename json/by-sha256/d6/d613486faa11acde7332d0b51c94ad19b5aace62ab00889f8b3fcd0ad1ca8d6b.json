@@ -49,8 +49,10 @@
  "release_date": "2017-01-11",
  "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "tags": [
+  "author=sock",
   "commandline=-heapsize 128000 -game ad",
   "dependency=ad_v1_50final",
+  "depends=('ad>=1.50')",
   "exceeds_quake_limits=yes",
   "filename=ad_scastle1d.zip",
   "game=quake",
@@ -61,6 +63,7 @@
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
   "nonspecific_tag=waterfall",
+  "release_date=2017-01-11",
   "source=included",
   "startmap=ad_scastle",
   "theme=arcane dimensions",
@@ -71,6 +74,7 @@
   "theme=secrets",
   "theme=temple",
   "theme=tomb",
+  "title=Nyarlathotep's Sand Castle",
   "type=map",
   "zipbasedir=ad/"
  ],

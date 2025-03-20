@@ -25,6 +25,7 @@
  "release_date": "1997-03-09",
  "sha256": "be78ded15ab69539aaed77e9fa481531b88d5f36f7a37aad35e8d69ff337ff30",
  "tags": [
+  "author=Mark Wheeler",
   "filename=drasticv.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "map_size=small",
   "nonspecific_tag=mansion",
   "nonspecific_tag=textures",
+  "release_date=1997-03-09",
   "theme=no exit",
+  "title=Drastic Lodge",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

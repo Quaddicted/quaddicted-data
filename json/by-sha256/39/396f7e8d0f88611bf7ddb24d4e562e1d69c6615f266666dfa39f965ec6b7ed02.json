@@ -28,6 +28,10 @@
  "release_date": "2001-09-15",
  "sha256": "396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02",
  "tags": [
+  "author=Gibbie",
+  "author=Nightbringer",
+  "author=RPG",
+  "author=Than",
   "filename=sm32_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,7 +41,9 @@
   "nonspecific_tag=koohoo",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=textures",
+  "release_date=2001-09-15",
   "startmap=sm32",
+  "title=Shut Up, RPG!",
   "type=chainmap",
   "type=map",
   "zipbasedir=id1/maps/"

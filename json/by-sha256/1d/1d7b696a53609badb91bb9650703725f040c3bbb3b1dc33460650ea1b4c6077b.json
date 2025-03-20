@@ -40,12 +40,14 @@
  "release_date": "2017-05-20",
  "sha256": "1d7b696a53609badb91bb9650703725f040c3bbb3b1dc33460650ea1b4c6077b",
  "tags": [
+  "author=Esrael",
   "filename=tofquake_v2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Version 3](http://www.quaketastic.com/files/single_player/tofquake_v3.zip)",
   "map_size=medium",
   "map_size=small",
+  "release_date=2017-05-20",
   "source=included",
   "startmap=TofQuake_v2",
   "theme=cave",
@@ -57,6 +59,7 @@
   "theme=secrets",
   "theme=temple",
   "theme=traps",
+  "title=Temple of Quake",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -37,8 +37,10 @@
  "release_date": "2020-01-12",
  "sha256": "70ecb1f8167d713da0465dab724ffe5f0d2309b9a4222f7a72e0db17549e52e6",
  "tags": [
+  "author=mukor",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "filename=ad_muksp2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,6 +49,7 @@
   "map_size=small",
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
+  "release_date=2020-01-12",
   "theme=arcane dimensions",
   "theme=bricks",
   "theme=exploration",
@@ -54,6 +57,7 @@
   "theme=space",
   "theme=void",
   "theme=wizard",
+  "title=Diminutive Abyss",
   "type=map",
   "zipbasedir=ad/maps/"
  ],

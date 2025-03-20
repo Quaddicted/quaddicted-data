@@ -26,6 +26,8 @@
  "release_date": "2000-12-02",
  "sha256": "db002144a727be2c9a4b309d59e821038d2bb3e2fb0436503a08913131a4315b",
  "tags": [
+  "author=Mike Woodham",
+  "author=Tronyn",
   "filename=fmb8.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,8 +38,10 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "map_size=large",
+  "release_date=2000-12-02",
   "theme=egyptian",
   "theme=temple",
+  "title=For My Babies 8",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

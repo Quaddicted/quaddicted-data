@@ -25,14 +25,17 @@
  "release_date": "2000-01-01",
  "sha256": "b74fb456eaa4487ad2c11b89cbaa3720fbc080e66300fa378e458664937313c8",
  "tags": [
+  "author=Leafface",
   "filename=lfspplus.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://hosted.planetquake.gamespy.com/bsa",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
   "map_size=large",
+  "release_date=2000-01-01",
   "theme=metal",
   "theme=traps",
+  "title=The Purgatory",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

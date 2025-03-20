@@ -25,6 +25,7 @@
  "release_date": "1999-06-21",
  "sha256": "6ee78d595470561ad573c60f5d9fc8c9f6faa5770f45fb526d6fc272abd08772",
  "tags": [
+  "author=czg",
   "filename=czg01.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,7 +34,9 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=large",
   "map_size=medium",
+  "release_date=1999-06-21",
   "theme=base",
+  "title=Research facility",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

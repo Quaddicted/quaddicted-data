@@ -7688,6 +7688,10 @@
  "release_date": "2016-10-16",
  "sha256": "923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee",
  "tags": [
+  "author=NewHouse",
+  "author=Pritchard",
+  "author=Shamblernaut",
+  "author=ionous",
   "commandline=-game jam8",
   "exceeds_quake_limits=yes",
   "filename=jam8_rezipped.zip",
@@ -7708,6 +7712,7 @@
   "nonspecific_tag=unorthodox",
   "nonspecific_tag=urban",
   "nonspecific_tag=white",
+  "release_date=2016-10-16",
   "source=included",
   "startmap=jam8_ionous",
   "startmap=jam8_newhouse",
@@ -7717,6 +7722,7 @@
   "theme=arcane dimensions",
   "theme=city",
   "theme=experimental",
+  "title=Func Map Jam 8 - Film Noir theme",
   "type=mod",
   "zipbasedir=/"
  ],

@@ -62,6 +62,8 @@
  "release_date": "2001-09-19",
  "sha256": "4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902",
  "tags": [
+  "author=Tronyn",
+  "author=[Kona]",
   "commandline=-game rapture",
   "filename=rapture.zip",
   "game=quake",
@@ -80,11 +82,13 @@
   "nonspecific_tag=philosophical",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=thought",
+  "release_date=2001-09-19",
   "startmap=start",
   "theme=medieval",
   "theme=nehahra",
   "theme=scourge of armagon",
   "theme=story",
+  "title=Rapture",
   "type=episode",
   "type=mod"
  ],

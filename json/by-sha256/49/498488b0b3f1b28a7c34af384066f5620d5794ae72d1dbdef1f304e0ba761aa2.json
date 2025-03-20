@@ -25,15 +25,18 @@
  "release_date": "1996-10-17",
  "sha256": "498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2",
  "tags": [
+  "author=Mike Melzer",
   "filename=catacomb.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsc.htm)",
   "map_size=small",
   "nonspecific_tag=catacombs",
+  "release_date=1996-10-17",
   "theme=mandatory secret",
   "theme=mine",
   "theme=mixtex",
+  "title=The Catacombs",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

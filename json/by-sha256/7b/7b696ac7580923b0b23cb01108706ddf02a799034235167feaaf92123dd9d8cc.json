@@ -25,6 +25,7 @@
  "release_date": "2005-10-22",
  "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "tags": [
+  "author=JPL",
   "commandline=-game cda",
   "filename=cda.zip",
   "game=quake",
@@ -34,9 +35,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev051101b.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=huge",
+  "release_date=2005-10-22",
   "theme=castle",
   "theme=dkt",
   "theme=gothic",
+  "title=Castle of The Dark Ages",
   "type=mod",
   "zipbasedir=cda/"
  ],

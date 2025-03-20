@@ -25,6 +25,7 @@
  "release_date": "1999-01-03",
  "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "tags": [
+  "author=Mr Ed",
   "filename=temple_e1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=hexen2",
+  "release_date=1999-01-03",
   "startmap=e1",
   "theme=maya",
   "theme=temple",
+  "title=The Temple",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

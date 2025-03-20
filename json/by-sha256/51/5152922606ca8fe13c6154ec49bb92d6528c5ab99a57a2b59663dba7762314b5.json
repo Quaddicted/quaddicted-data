@@ -25,6 +25,7 @@
  "release_date": "2004-01-25",
  "sha256": "5152922606ca8fe13c6154ec49bb92d6528c5ab99a57a2b59663dba7762314b5",
  "tags": [
+  "author=necros",
   "filename=nesp16.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,9 +34,11 @@
   "map_size=small",
   "nonspecific_tag=geocomp",
   "nonspecific_tag=hard",
+  "release_date=2004-01-25",
   "theme=abstract",
   "theme=experimental",
   "theme=metal",
+  "title=R_speeds be damned!",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

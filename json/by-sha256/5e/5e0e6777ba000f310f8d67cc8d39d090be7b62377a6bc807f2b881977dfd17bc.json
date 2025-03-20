@@ -25,6 +25,7 @@
  "release_date": "1997-09-08",
  "sha256": "5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc",
  "tags": [
+  "author=J.F.Gustafsson",
   "filename=edom.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "release_date=1997-09-08",
   "theme=wizard",
+  "title=Empedokles Domain",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

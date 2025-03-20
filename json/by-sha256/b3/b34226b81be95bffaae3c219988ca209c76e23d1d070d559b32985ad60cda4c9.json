@@ -25,6 +25,7 @@
  "release_date": "2008-05-02",
  "sha256": "b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9",
  "tags": [
+  "author=spy",
   "commandline=-game bod",
   "filename=bod.zip",
   "game=quake",
@@ -35,8 +36,10 @@
   "nonspecific_tag=q3 gothic",
   "playstyle=horde",
   "playstyle=hordes",
+  "release_date=2008-05-02",
   "theme=castle",
   "theme=remake",
+  "title=Tower Of Dal Gurak",
   "type=mod",
   "zipbasedir=bod/"
  ],

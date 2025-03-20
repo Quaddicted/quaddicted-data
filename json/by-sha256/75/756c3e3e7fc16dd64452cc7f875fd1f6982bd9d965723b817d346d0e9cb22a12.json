@@ -34,6 +34,7 @@
  "release_date": "1997-02-16",
  "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
  "tags": [
+  "author=James Garrett",
   "filename=jdungeon.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -41,8 +42,10 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsj.htm#jdungeon)",
   "map_size=small",
   "map_size=tiny",
+  "release_date=1997-02-16",
   "startmap=dungeon",
   "theme=wizard",
+  "title=Jim's Dungeon",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

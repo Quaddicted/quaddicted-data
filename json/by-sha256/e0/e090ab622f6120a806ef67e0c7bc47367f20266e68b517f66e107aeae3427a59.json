@@ -43,6 +43,7 @@
  "release_date": "2021-12-09",
  "sha256": "e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59",
  "tags": [
+  "author=c0j",
   "commandline=-game pam1",
   "filename=pam1_qmap.zip",
   "game=quake",
@@ -50,12 +51,14 @@
   "map_size=medium",
   "nonspecific_tag=shub",
   "nonspecific_tag=smp",
+  "release_date=2021-12-09",
   "source=included",
   "startmap=pam1",
   "theme=bricks",
   "theme=cave",
   "theme=cavern",
   "theme=wizard",
+  "title=Mayhem Pantera",
   "type=mod",
   "zipbasedir=pam1/"
  ],

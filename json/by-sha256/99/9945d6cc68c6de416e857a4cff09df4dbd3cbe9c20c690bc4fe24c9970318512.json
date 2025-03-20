@@ -37,6 +37,7 @@
  "release_date": "2000-02-10",
  "sha256": "9945d6cc68c6de416e857a4cff09df4dbd3cbe9c20c690bc4fe24c9970318512",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "commandline=-game alk05",
   "filename=alk05.zip",
   "game=quake",
@@ -49,9 +50,11 @@
   "map_size=medium",
   "nonspecific_tag=monsters",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-02-10",
   "theme=base",
   "theme=orange",
   "theme=quake 2",
+  "title=The Savage Sanguine",
   "type=mod"
  ],
  "title": "The Savage Sanguine",

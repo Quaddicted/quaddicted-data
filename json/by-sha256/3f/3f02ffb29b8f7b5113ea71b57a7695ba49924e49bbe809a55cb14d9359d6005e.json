@@ -35,6 +35,7 @@
  "release_date": "2009-11-06",
  "sha256": "3f02ffb29b8f7b5113ea71b57a7695ba49924e49bbe809a55cb14d9359d6005e",
  "tags": [
+  "author=negke",
   "filename=coag3_negke.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -45,12 +46,14 @@
   "nonspecific_tag=dmsp",
   "nonspecific_tag=hard",
   "nonspecific_tag=progs hacks",
+  "release_date=2009-11-06",
   "theme=classic",
   "theme=experimental",
   "theme=exploration",
   "theme=space",
   "theme=void",
   "theme=wizard",
+  "title=Lower Forecourt",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

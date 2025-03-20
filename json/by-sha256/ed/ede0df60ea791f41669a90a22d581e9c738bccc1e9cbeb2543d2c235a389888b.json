@@ -25,6 +25,7 @@
  "release_date": "2001-07-23",
  "sha256": "ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b",
  "tags": [
+  "author=Tim Elek",
   "filename=coagula3_bone.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,10 +35,12 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=coagula3)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=small",
+  "release_date=2001-07-23",
   "startmap=coagula3",
   "theme=blue",
   "theme=dkt",
   "theme=space",
+  "title=Coagula3: Bone",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

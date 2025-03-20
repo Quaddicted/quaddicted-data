@@ -57,10 +57,14 @@
  "release_date": "2004-01-13",
  "sha256": "dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d",
  "tags": [
+  "author=Hrimfaxi",
+  "author=Leviathan",
+  "author=Zwiffle",
   "filename=q1tm3.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[erc's SM Pick](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=278)",
+  "release_date=2004-01-13",
   "startmap=q1tm3_hrimfaxi",
   "startmap=q1tm3_hrimfaxi2",
   "startmap=q1tm3_lev",
@@ -69,6 +73,7 @@
   "theme=cave",
   "theme=classic",
   "theme=tech",
+  "title=Quake Turtlemap 3",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

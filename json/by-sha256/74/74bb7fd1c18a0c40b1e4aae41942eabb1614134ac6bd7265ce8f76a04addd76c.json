@@ -25,6 +25,7 @@
  "release_date": "1996-12-28",
  "sha256": "74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c",
  "tags": [
+  "author=Juha Koiste",
   "filename=darkages.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,7 +34,9 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=thred",
+  "release_date=1996-12-28",
   "theme=medieval",
+  "title=Dark Ages",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

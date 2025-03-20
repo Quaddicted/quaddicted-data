@@ -151,6 +151,7 @@
  "release_date": "1997-11-09",
  "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "tags": [
+  "author=Scott McNutt",
   "commandline=-game smlevel",
   "filename=smlevel.zip",
   "game=quake",
@@ -160,7 +161,9 @@
   "nonspecific_tag=skins",
   "nonspecific_tag=sounds",
   "nonspecific_tag=weapons",
+  "release_date=1997-11-09",
   "startmap=start",
+  "title=SM Levels Pack for QUAKE",
   "type=episode",
   "type=mod",
   "zipbasedir=smlevel/"

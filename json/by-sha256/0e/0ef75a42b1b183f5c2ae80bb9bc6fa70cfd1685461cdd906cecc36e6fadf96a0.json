@@ -51,12 +51,17 @@
  "release_date": "2011-04-04",
  "sha256": "0ef75a42b1b183f5c2ae80bb9bc6fa70cfd1685461cdd906cecc36e6fadf96a0",
  "tags": [
+  "author=Zwiffle",
+  "author=gb",
+  "author=negke",
   "filename=sm162_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2011-04-04",
   "startmap=sm162_gb",
   "startmap=sm162_negke",
   "startmap=sm162_zwiffle",
+  "title=Speedmapping pack 162 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

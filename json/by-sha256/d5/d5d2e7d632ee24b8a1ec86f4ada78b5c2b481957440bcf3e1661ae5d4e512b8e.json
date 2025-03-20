@@ -79,8 +79,10 @@
  "release_date": "2018-10-16",
  "sha256": "d5d2e7d632ee24b8a1ec86f4ada78b5c2b481957440bcf3e1661ae5d4e512b8e",
  "tags": [
+  "author=Shambler",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=ad_dm2rmx_sham.zip",
   "game=quake",
@@ -92,9 +94,11 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=dm2",
   "nonspecific_tag=skybox",
+  "release_date=2018-10-16",
   "theme=arcane dimensions",
   "theme=metal",
   "theme=remix",
+  "title=Acidophilus",
   "type=map",
   "zipbasedir=ad/maps/"
  ],

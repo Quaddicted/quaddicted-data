@@ -47,6 +47,7 @@
  "release_date": "2021-08-25",
  "sha256": "da7d0ad93a52c7123f93388e9242a96c207a2890a9f44855b39f10f3c9fbc5b0",
  "tags": [
+  "author=BassLexa",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=war_church.zip",
@@ -54,11 +55,13 @@
   "game_mode=singleplayer",
   "map_size=large",
   "nonspecific_tag=turrets",
+  "release_date=2021-08-25",
   "source=included",
   "startmap=\"War Church\\war_church\"",
   "theme=base",
   "theme=industrial",
   "theme=realism",
+  "title=War Church",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -452,8 +452,10 @@
  "release_date": "2022-10-16",
  "sha256": "19bf28fe152162d7b03465efa11dcbe4bc1b25e1e4c3a74d6d86f675c7fcf33f",
  "tags": [
+  "author=GW_X9",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=dnq.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -464,10 +466,12 @@
   "nonspecific_tag=cinema",
   "nonspecific_tag=textures",
   "nonspecific_tag=urban",
+  "release_date=2022-10-16",
   "startmap=e1l1",
   "startmap=startduke",
   "theme=city",
   "theme=remake",
+  "title=Duke Nukem Quake",
   "type=mod",
   "zipbasedir=ad/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "2000-01-01",
  "sha256": "d5f75f2aedfbcbecc001369b026e4c1fb723acea197b1122421c78d4b6705432",
  "tags": [
+  "author=Leafface",
   "filename=lfsp3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -35,12 +36,14 @@
   "nonspecific_tag=ring",
   "playstyle=jumping",
   "playstyle=stealth",
+  "release_date=2000-01-01",
   "theme=boss",
   "theme=medieval",
   "theme=metal",
   "theme=puzzle",
   "theme=traps",
   "theme=wizard",
+  "title=Toxic paradise",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

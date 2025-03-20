@@ -539,6 +539,8 @@
  "release_date": "2023-04-06",
  "sha256": "1b79c362d3f33e61762142cf9ffdb56fd3b1ec16e540a8384e6d466a785a976a",
  "tags": [
+  "author=Newhouse",
+  "author=zigi",
   "commandline=-game spiritworld",
   "exceeds_quake_limits=yes",
   "filename=spiritworld_v1.1.zip",
@@ -552,6 +554,7 @@
   "music=custom",
   "nonspecific_tag=coop",
   "nonspecific_tag=elder",
+  "release_date=2023-04-06",
   "source=included",
   "startmap=elders1",
   "startmap=elders2",
@@ -572,6 +575,7 @@
   "theme=graveyard",
   "theme=id1",
   "theme=lava",
+  "title=The Spiritworld v1.1",
   "type=episode",
   "type=mod"
  ],

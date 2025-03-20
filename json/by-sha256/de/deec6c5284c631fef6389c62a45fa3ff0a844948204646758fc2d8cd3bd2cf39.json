@@ -46,6 +46,7 @@
  "release_date": "2022-10-20",
  "sha256": "deec6c5284c631fef6389c62a45fa3ff0a844948204646758fc2d8cd3bd2cf39",
  "tags": [
+  "author=K\u00e4ty Olup",
   "filename=clockofdeath.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -53,12 +54,14 @@
   "map_size=small",
   "nonspecific_tag=debut",
   "nonspecific_tag=vanilla",
+  "release_date=2022-10-20",
   "source=included",
   "startmap=211491Level",
   "theme=castle",
   "theme=classic",
   "theme=id1",
   "theme=medieval",
+  "title=Clock of Death",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

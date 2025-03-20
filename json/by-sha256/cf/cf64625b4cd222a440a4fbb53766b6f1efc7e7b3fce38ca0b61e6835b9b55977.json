@@ -11662,6 +11662,7 @@
  "release_date": "2020-10-04",
  "sha256": "cf64625b4cd222a440a4fbb53766b6f1efc7e7b3fce38ca0b61e6835b9b55977",
  "tags": [
+  "author=Redfield",
   "bsp_format=bsp2",
   "commandline=-game ravenkeep +sv_protocol 999",
   "exceeds_quake_limits=yes",
@@ -11682,6 +11683,7 @@
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
+  "release_date=2020-10-04",
   "source=included",
   "startmap=church",
   "startmap=ravenkeep",
@@ -11695,6 +11697,7 @@
   "theme=medieval",
   "theme=secrets",
   "theme=void",
+  "title=Raven Keep",
   "type=mod",
   "zipbasedir=/"
  ],

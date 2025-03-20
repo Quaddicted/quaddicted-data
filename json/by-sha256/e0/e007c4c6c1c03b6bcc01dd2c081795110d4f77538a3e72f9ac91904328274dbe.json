@@ -132,7 +132,9 @@
  "release_date": "2022-12-27",
  "sha256": "e007c4c6c1c03b6bcc01dd2c081795110d4f77538a3e72f9ac91904328274dbe",
  "tags": [
+  "author=Justin Fleck",
   "commandline=-game rd1m4rmx",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=rd1m4rmx.zip",
   "game=quake",
@@ -143,11 +145,13 @@
   "nonspecific_tag=alk",
   "nonspecific_tag=alkaline",
   "nonspecific_tag=cr8",
+  "release_date=2022-12-27",
   "source=included",
   "startmap=rd1m4rmx",
   "theme=base",
   "theme=industrial",
   "theme=remix",
+  "title=Tempus is the Ignis",
   "type=mod"
  ],
  "title": "Tempus is the Ignis",

@@ -37,6 +37,7 @@
  "release_date": "1997-09-12",
  "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "tags": [
+  "author=Tobias Person aka Tobey",
   "commandline=-game dknight",
   "filename=dknite11.zip",
   "game=quake",
@@ -46,9 +47,11 @@
   "map_size=medium",
   "nonspecific_tag=skins",
   "nonspecific_tag=textures",
+  "release_date=1997-09-12",
   "startmap=dknight",
   "theme=castle",
   "theme=medieval",
+  "title=Fortress of the Dark Knight",
   "type=mod",
   "zipbasedir=/"
  ],

@@ -31,8 +31,10 @@
  "release_date": "2008-01-01",
  "sha256": "ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773",
  "tags": [
+  "author=Kell",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=kellmet1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -41,10 +43,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev080106b.html#2ndreview)",
   "map_size=medium",
   "mod=quoth",
+  "release_date=2008-01-01",
   "theme=lava",
   "theme=metal",
   "theme=quoth",
   "theme=runic",
+  "title=I Pity Thee Not",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

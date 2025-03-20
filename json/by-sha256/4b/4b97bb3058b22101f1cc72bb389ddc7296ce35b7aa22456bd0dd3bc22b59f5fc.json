@@ -26,6 +26,8 @@
  "release_date": "1997-06-25",
  "sha256": "4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc",
  "tags": [
+  "author=Einar Saukas (QC)",
+  "author=Neil Manke",
   "commandline=-game alba01",
   "filename=alba01.zip",
   "game=quake",
@@ -44,9 +46,11 @@
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=skin",
   "nonspecific_tag=textures",
+  "release_date=1997-06-25",
   "theme=canyon",
   "theme=medieval",
   "theme=story",
+  "title=Road to Inverurie",
   "type=mod",
   "zipbasedir=alba01/"
  ],

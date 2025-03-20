@@ -43,6 +43,7 @@
  "release_date": "2000-05-25",
  "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
  "tags": [
+  "author=czg",
   "commandline=-game czg07",
   "filename=czg07.zip",
   "game=quake",
@@ -64,6 +65,7 @@
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=start map",
   "nonspecific_tag=yellow",
+  "release_date=2000-05-25",
   "theme=base",
   "theme=blood",
   "theme=cave",
@@ -71,6 +73,7 @@
   "theme=gothic",
   "theme=industrial",
   "theme=quake 2",
+  "title=Insomnia",
   "type=episode",
   "type=mod",
   "zipbasedir=czg07/"

@@ -41,15 +41,18 @@
  "release_date": "2020-05-01",
  "sha256": "08e059325c1b00e167aabde3e5e77394724022e032d93f88e9775117e3b12f7c",
  "tags": [
+  "author=xLarve",
   "exceeds_quake_limits=yes",
   "filename=xl4.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61880)",
   "map_size=large",
+  "release_date=2020-05-01",
   "startmap=xl4/xl4",
   "theme=base",
   "theme=idbase",
+  "title=The Sector Four",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

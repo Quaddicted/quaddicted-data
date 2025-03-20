@@ -25,15 +25,18 @@
  "release_date": "1997-01-10",
  "sha256": "1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0",
  "tags": [
+  "author=Chris Williams",
   "filename=butcher.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
   "map_size=medium",
+  "release_date=1997-01-10",
   "theme=base",
   "theme=mixtex",
   "theme=traps",
   "theme=wizard",
+  "title=Butcher Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

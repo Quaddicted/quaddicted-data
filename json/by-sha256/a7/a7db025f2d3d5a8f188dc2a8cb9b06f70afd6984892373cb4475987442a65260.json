@@ -40,6 +40,7 @@
  "release_date": "2018-10-08",
  "sha256": "a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260",
  "tags": [
+  "author=than",
   "exceeds_quake_limits=yes",
   "filename=dm6rmx.zip",
   "game=quake",
@@ -48,11 +49,13 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61638)",
   "map_size=large",
   "nonspecific_tag=dm6",
+  "release_date=2018-10-08",
   "source=included",
   "theme=base",
   "theme=industrial",
   "theme=remake",
   "theme=remix",
+  "title=The Dark Portal",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

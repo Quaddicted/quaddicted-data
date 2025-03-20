@@ -34,6 +34,7 @@
  "release_date": "2019-09-06",
  "sha256": "3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22",
  "tags": [
+  "author=scar3crow",
   "exceeds_quake_limits=yes",
   "filename=scar3sp01.zip",
   "game=quake",
@@ -42,9 +43,11 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61770)",
   "map_size=medium",
   "nonspecific_tag=ebon",
+  "release_date=2019-09-06",
   "source=included",
   "theme=blue",
   "theme=metal",
+  "title=The Ensnared Horizon",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

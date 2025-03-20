@@ -19,6 +19,7 @@
  "release_date": "1996-11-06",
  "sha256": "260a36737504aed8d7a3b9b0e7a4d202b503488abdda1727aaeaaa9df3a34816",
  "tags": [
+  "author=Unknown",
   "filename=satanden.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -26,11 +27,13 @@
   "map_size=medium",
   "nonspecific_tag=bland",
   "nonspecific_tag=dark",
+  "release_date=1996-11-06",
   "theme=metal",
   "theme=plain",
   "theme=slime",
   "theme=water",
   "theme=wizard",
+  "title=Satanden",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

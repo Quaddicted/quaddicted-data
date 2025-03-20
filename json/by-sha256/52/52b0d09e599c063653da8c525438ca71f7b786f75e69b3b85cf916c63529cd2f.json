@@ -25,12 +25,15 @@
  "release_date": "2000-01-13",
  "sha256": "52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f",
  "tags": [
+  "author=DAV",
   "filename=qkmetro.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.planetquake.com/davlevels/",
+  "release_date=2000-01-13",
   "theme=city",
   "theme=realism",
+  "title=Subway (Metro)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

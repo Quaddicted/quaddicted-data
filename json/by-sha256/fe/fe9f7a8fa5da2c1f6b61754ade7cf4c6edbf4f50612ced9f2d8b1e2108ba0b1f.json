@@ -25,6 +25,7 @@
  "release_date": "1996-11-11",
  "sha256": "fe9f7a8fa5da2c1f6b61754ade7cf4c6edbf4f50612ced9f2d8b1e2108ba0b1f",
  "tags": [
+  "author=Marcus Dromowicz",
   "filename=mexx3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,7 +35,9 @@
   "map_size=medium",
   "nonspecific_tag=dark",
   "nonspecific_tag=oldskool",
+  "release_date=1996-11-11",
   "theme=medieval",
+  "title=Chthon's Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -31,6 +31,7 @@
  "release_date": "1999-10-08",
  "sha256": "cc614914fc11e452e048301325f520a3cb3da6e530b6789f666f0f070fb45034",
  "tags": [
+  "author=Tuomo \"Morpheus\" Tomperi",
   "commandline=-game mospq1",
   "filename=mospq1.zip",
   "game=quake",
@@ -38,10 +39,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev991010.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=large",
+  "release_date=1999-10-08",
   "theme=boss",
   "theme=castle",
   "theme=dragon",
   "theme=wizard",
+  "title=The Castle of Morpheus",
   "type=mod",
   "zipbasedir=mospq1/"
  ],

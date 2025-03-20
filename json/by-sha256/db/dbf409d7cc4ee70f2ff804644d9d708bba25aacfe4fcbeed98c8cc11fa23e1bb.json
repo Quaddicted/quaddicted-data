@@ -1320,6 +1320,8 @@
  "release_date": "2017-06-17",
  "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
  "tags": [
+  "author=Giftmacher",
+  "author=Sock",
   "commandline=-game ad",
   "exceeds_quake_limits=yes",
   "filename=ad_sepulcher.zip",
@@ -1334,11 +1336,13 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=necropolis",
   "nonspecific_tag=quake_awards_2018_winner",
+  "release_date=2017-06-17",
   "source=included",
   "theme=exploration",
   "theme=medieval",
   "theme=remix",
   "theme=swamp",
+  "title=The Forgotten Sepulcher",
   "type=mod",
   "zipbasedir=ad/"
  ],

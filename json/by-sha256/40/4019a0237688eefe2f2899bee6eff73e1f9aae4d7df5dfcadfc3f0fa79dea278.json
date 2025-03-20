@@ -31,6 +31,7 @@
  "release_date": "1997-10-25",
  "sha256": "4019a0237688eefe2f2899bee6eff73e1f9aae4d7df5dfcadfc3f0fa79dea278",
  "tags": [
+  "author=Phil Daniels",
   "commandline=-game asylum",
   "filename=asylum.zip",
   "game=quake",
@@ -38,6 +39,8 @@
   "map_size=medium",
   "nonspecific_tag=monsters",
   "nonspecific_tag=textures",
+  "release_date=1997-10-25",
+  "title=Trinity Asylum",
   "type=mod",
   "zipbasedir=asylum/"
  ],

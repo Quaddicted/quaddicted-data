@@ -56,8 +56,10 @@
  "release_date": "2016-04-09",
  "sha256": "7d29d7636620d1c9da6b13e767b20053afaaede0edc5877edaae18557d3b5d85",
  "tags": [
+  "author=Giftmacher",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=ad_e1m3.zip",
   "game=quake",
@@ -65,10 +67,12 @@
   "link=[Func_Msgboard post (2016)](https://celephais.net/board/view_thread.php?id=3&start=13508&end=13508#13508)",
   "nonspecific_tag=ad",
   "nonspecific_tag=e1m3",
+  "release_date=2016-04-09",
   "startmap=ad_e1m3",
   "theme=brick",
   "theme=medieval",
   "theme=remix",
+  "title=Forgotten Sepulcher - Beta",
   "type=map",
   "zipbasedir=ad/"
  ],

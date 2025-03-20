@@ -25,6 +25,7 @@
  "release_date": "1996-11-09",
  "sha256": "7e06ff08b888752b99dd2af83a132a8384e7c1dde5e04a255bbc7387de8a9891",
  "tags": [
+  "author=Phil Hammond",
   "filename=funrun.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,11 +33,13 @@
   "map_size=small",
   "nonspecific_tag=buttons",
   "nonspecific_tag=hard",
+  "release_date=1996-11-09",
   "theme=base",
   "theme=exploration",
   "theme=lava",
   "theme=puzzle",
   "theme=weird",
+  "title=FunRun",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

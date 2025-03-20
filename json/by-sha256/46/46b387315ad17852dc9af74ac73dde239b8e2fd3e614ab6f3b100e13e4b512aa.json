@@ -37,6 +37,7 @@
  "release_date": "2020-05-04",
  "sha256": "46b387315ad17852dc9af74ac73dde239b8e2fd3e614ab6f3b100e13e4b512aa",
  "tags": [
+  "author=Chris Holden",
   "filename=sincinch.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,9 +45,11 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61883)",
   "map_size=medium",
   "nonspecific_tag=textures",
+  "release_date=2020-05-04",
   "source=included",
   "theme=blood",
   "theme=cistern",
+  "title=Sinister Cistern",
   "type=map",
   "type=speedmap",
   "zipbasedir=id1/maps/"

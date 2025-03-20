@@ -39,12 +39,17 @@
  "release_date": "2004-01-24",
  "sha256": "268fa9c0e31e7065e46afc988469cece15bc403462d3d2c06356274742ee75de",
  "tags": [
+  "author=Moz",
+  "author=Scampie",
+  "author=Zwiffle",
   "filename=sm64_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2004-01-24",
   "startmap=sm64_moz",
   "startmap=sm64_scampie",
   "startmap=sm64_zwiffle",
+  "title=Speedmapping pack 64 - Skyward maps",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

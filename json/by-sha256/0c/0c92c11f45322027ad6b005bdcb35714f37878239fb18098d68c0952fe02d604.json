@@ -25,6 +25,7 @@
  "release_date": "1997-09-17",
  "sha256": "0c92c11f45322027ad6b005bdcb35714f37878239fb18098d68c0952fe02d604",
  "tags": [
+  "author=Rick Troppman",
   "filename=commctr.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,9 +35,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=e1m1",
+  "release_date=1997-09-17",
   "theme=base",
   "theme=exploration",
   "theme=outdoor",
+  "title=The Comm Center",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

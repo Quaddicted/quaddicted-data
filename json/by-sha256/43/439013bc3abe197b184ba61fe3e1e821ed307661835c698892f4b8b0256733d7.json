@@ -31,6 +31,7 @@
  "release_date": "2005-08-06",
  "sha256": "439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "filename=alk08.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -41,8 +42,10 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=alk08)",
   "map_size=small",
   "playstyle=horde",
+  "release_date=2005-08-06",
   "startmap=alk08sp",
   "theme=metal",
+  "title=Charmhood",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

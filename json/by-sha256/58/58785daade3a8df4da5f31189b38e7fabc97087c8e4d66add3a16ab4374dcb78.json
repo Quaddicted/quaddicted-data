@@ -55,13 +55,16 @@
  "release_date": "1998-02-11",
  "sha256": "58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78",
  "tags": [
+  "author=Mike Biggerstaff (Miko)",
   "filename=thepit.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1998-02-11",
   "source=included",
   "theme=mixtex",
   "theme=tower",
+  "title=ThePit",
   "type=demo",
   "type=map",
   "zipbasedir=id1/maps/"

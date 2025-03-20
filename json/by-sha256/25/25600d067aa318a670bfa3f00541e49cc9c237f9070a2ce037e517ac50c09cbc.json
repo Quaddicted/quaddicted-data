@@ -216,6 +216,12 @@
  "release_date": "2021-01-04",
  "sha256": "25600d067aa318a670bfa3f00541e49cc9c237f9070a2ce037e517ac50c09cbc",
  "tags": [
+  "author=Fairweather",
+  "author=Greenwood",
+  "author=Markie Music",
+  "author=Mazu",
+  "author=Shamblernaut",
+  "author=Voidforce",
   "commandline=-game bored",
   "filename=bored.zip",
   "game=quake",
@@ -223,6 +229,7 @@
   "link=[Func_Msgbored](https://celephais.net/board/view_thread.php?id=62001)",
   "map_size=small",
   "mod=copper",
+  "release_date=2021-01-04",
   "startmap=bored1_snaut",
   "startmap=bored2_mazu",
   "startmap=bored3_void",
@@ -230,6 +237,7 @@
   "startmap=bored5_markie",
   "startmap=bored6_fw",
   "startmap=start",
+  "title=We got bored lol",
   "type=episode",
   "type=speedmap",
   "zipbasedir=/"

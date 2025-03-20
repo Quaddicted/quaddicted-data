@@ -37,6 +37,7 @@
  "release_date": "2018-05-04",
  "sha256": "4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77",
  "tags": [
+  "author=Andrew Yoder",
   "filename=simplex.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,6 +45,7 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61571)",
   "map_size=large",
   "nonspecific_tag=jungle",
+  "release_date=2018-05-04",
   "source=included",
   "theme=brick",
   "theme=green",
@@ -52,6 +54,7 @@
   "theme=swamp",
   "theme=temple",
   "theme=wizard",
+  "title=Simplex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

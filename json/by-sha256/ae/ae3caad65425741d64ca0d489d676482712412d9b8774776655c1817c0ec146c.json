@@ -51,6 +51,9 @@
  "release_date": "2014-12-04",
  "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
  "tags": [
+  "author=RickyT23",
+  "author=Skacky",
+  "author=sock",
   "commandline=-game retrojam2",
   "filename=retrojam2.zip",
   "game=quake",
@@ -61,6 +64,7 @@
   "nonspecific_tag=sky",
   "nonspecific_tag=skybox",
   "nonspecific_tag=yellow",
+  "release_date=2014-12-04",
   "startmap=retrojam2_rickyt23",
   "startmap=retrojam2_skacky",
   "startmap=retrojam2_sock",
@@ -70,6 +74,7 @@
   "theme=metal",
   "theme=void",
   "theme=wind tunnels",
+  "title=Retro Jam 2 - Fantasy Brick Cities in the Skies Theme",
   "type=mapjam",
   "type=mod",
   "zipbasedir=retrojam2/"

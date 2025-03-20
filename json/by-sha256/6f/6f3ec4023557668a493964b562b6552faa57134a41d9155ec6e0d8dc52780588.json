@@ -38,8 +38,10 @@
  "release_date": "2022-11-14",
  "sha256": "6f3ec4023557668a493964b562b6552faa57134a41d9155ec6e0d8dc52780588",
  "tags": [
+  "author=Spiked_",
   "commandline=-game copper",
   "dependency=copper_v1_19",
+  "depends=('copper>=1.19')",
   "exceeds_quake_limits=yes",
   "filename=snklib.zip",
   "game=quake",
@@ -49,10 +51,12 @@
   "mod=copper",
   "nonspecific_tag=debut",
   "nonspecific_tag=library",
+  "release_date=2022-11-14",
   "source=included",
   "startmap=snklib",
   "theme=medieval",
   "theme=water",
+  "title=Sunken Library",
   "type=map",
   "zipbasedir=copper/maps/"
  ],

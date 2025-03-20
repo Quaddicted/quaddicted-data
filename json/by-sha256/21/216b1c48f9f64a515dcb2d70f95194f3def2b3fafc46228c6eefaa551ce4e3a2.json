@@ -25,6 +25,7 @@
  "release_date": "1997-07-08",
  "sha256": "216b1c48f9f64a515dcb2d70f95194f3def2b3fafc46228c6eefaa551ce4e3a2",
  "tags": [
+  "author=JAR",
   "filename=mdkt1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "map_size=small",
   "map_size=tiny",
   "nonspecific_tag=textures",
+  "release_date=1997-07-08",
   "startmap=mdkt",
   "theme=base",
   "theme=canyon",
+  "title=MidKnight1",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

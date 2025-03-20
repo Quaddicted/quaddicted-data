@@ -32,6 +32,8 @@
  "release_date": "2011-02-26",
  "sha256": "6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c",
  "tags": [
+  "author=Tyrann",
+  "author=negke",
   "filename=ritualsp.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -41,11 +43,13 @@
   "map_size=medium",
   "nonspecific_tag=decon",
   "nonspecific_tag=ogro",
+  "release_date=2011-02-26",
   "source=included",
   "theme=base",
   "theme=boss",
   "theme=industrial",
   "theme=traps",
+  "title=Dark Ritual (single player version)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

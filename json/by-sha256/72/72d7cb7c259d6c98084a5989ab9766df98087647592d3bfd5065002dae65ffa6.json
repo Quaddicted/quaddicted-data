@@ -166,6 +166,7 @@
  "release_group": "toneodspmp3",
  "sha256": "72d7cb7c259d6c98084a5989ab9766df98087647592d3bfd5065002dae65ffa6",
  "tags": [
+  "author=Tonhao",
   "exceeds_quake_limits=yes",
   "filename=toneodspmp3_2_2.zip",
   "game=quake",
@@ -175,6 +176,9 @@
   "map_size=small",
   "mod=copper",
   "nonspecific_tag=coop",
+  "provides='toneodspmp3=2.2'",
+  "release_date=2022-09-18",
+  "release_group=toneodspmp3",
   "startmap=eod_intro",
   "theme=base",
   "theme=brick",
@@ -185,8 +189,10 @@
   "theme=medieval",
   "theme=metal",
   "theme=runic",
+  "title=Empire of Disorder v2.2",
   "type=episode",
   "type=map",
+  "version=2.2",
   "zipbasedir=id1/"
  ],
  "title": "Empire of Disorder v2.2",

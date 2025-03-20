@@ -34,12 +34,14 @@
  "release_date": "2017-07-13",
  "sha256": "2285af46d290b3e856f343ae16af666912c974542a6bcde92a3b720d971e8916",
  "tags": [
+  "author=megaman",
   "exceeds_quake_limits=yes",
   "filename=megad2lvl3.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61477)",
   "map_size=large",
+  "release_date=2017-07-13",
   "theme=bricks",
   "theme=cavern",
   "theme=exploration",
@@ -47,6 +49,7 @@
   "theme=remake",
   "theme=runic",
   "theme=secrets",
+  "title=Wenl Mine",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

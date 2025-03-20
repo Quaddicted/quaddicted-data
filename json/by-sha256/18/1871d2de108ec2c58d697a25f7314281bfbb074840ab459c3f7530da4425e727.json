@@ -31,6 +31,7 @@
  "release_date": "2004-05-13",
  "sha256": "1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727",
  "tags": [
+  "author=JPL",
   "filename=hellchepsout.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,8 +39,10 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev040518.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=small",
+  "release_date=2004-05-13",
   "theme=egyptian",
   "theme=temple",
+  "title=Hatchepsout: The Hell Temple",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

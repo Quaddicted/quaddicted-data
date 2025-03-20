@@ -123,8 +123,10 @@
  "release_date": "2023-01-09",
  "sha256": "8165e1ed36ea7d5b9ca408970c002a73f9cd07f238d282527c4853dbb67b94aa",
  "tags": [
+  "author=alexUnder Ros",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=tcj_alexunder.zip",
   "game=quake",
@@ -136,6 +138,7 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=makkon",
   "nonspecific_tag=xmas",
+  "release_date=2023-01-09",
   "source=included",
   "startmap=tcj_alexunder",
   "theme=arcane dimensions",
@@ -145,6 +148,7 @@
   "theme=snow",
   "theme=winter",
   "theme=wizard",
+  "title=Thirteen Tombs of the Brilliant Dynasty v1.04",
   "type=mod"
  ],
  "title": "Thirteen Tombs of the Brilliant Dynasty v1.04",

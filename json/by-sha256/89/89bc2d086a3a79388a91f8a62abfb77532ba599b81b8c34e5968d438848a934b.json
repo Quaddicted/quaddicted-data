@@ -859,6 +859,7 @@
  "release_date": "1998-09-05",
  "sha256": "89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b",
  "tags": [
+  "author=Alkado",
   "commandline=-game Alkado",
   "filename=alkado.zip",
   "game=quake",
@@ -867,8 +868,10 @@
   "nonspecific_tag=custom textures",
   "nonspecific_tag=skins",
   "nonspecific_tag=weapons",
+  "release_date=1998-09-05",
   "startmap=spider",
   "theme=base",
+  "title=The Alkado Adventure",
   "type=episode",
   "type=mod"
  ],

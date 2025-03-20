@@ -43,14 +43,17 @@
  "release_date": "2001-07-15",
  "sha256": "130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983",
  "tags": [
+  "author=Drew",
   "filename=sm23_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2001-07-15",
   "startmap=sm23_jay1",
   "startmap=sm23_jay2",
   "startmap=sm23_jay3",
   "startmap=sm23_jay4",
   "theme=doom",
+  "title=Speedmapping pack 23",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

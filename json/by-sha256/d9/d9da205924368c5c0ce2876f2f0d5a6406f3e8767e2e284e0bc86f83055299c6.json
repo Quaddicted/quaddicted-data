@@ -305,6 +305,8 @@
  "release_date": "2021-03-15",
  "sha256": "d9da205924368c5c0ce2876f2f0d5a6406f3e8767e2e284e0bc86f83055299c6",
  "tags": [
+  "author=Fairweather",
+  "author=Juzley",
   "bsp_format=bsp2",
   "commandline=-game pun",
   "exceeds_quake_limits=yes",
@@ -322,6 +324,7 @@
   "music=custom",
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
+  "release_date=2021-03-15",
   "source=included",
   "startmap=pun1",
   "startmap=pun2",
@@ -332,6 +335,7 @@
   "theme=base",
   "theme=bricks",
   "theme=medieval",
+  "title=The Punishment Due",
   "type=episode",
   "type=mod",
   "zipbasedir=pun/"

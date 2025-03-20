@@ -35,6 +35,7 @@
  "release_group": "rdefull",
  "sha256": "78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591",
  "tags": [
+  "author=Jesse van Dijk",
   "commandline=-game rde",
   "filename=rdefull.zip",
   "game=quake",
@@ -47,8 +48,13 @@
   "nonspecific_tag=dinosaurs",
   "patch=no",
   "playstyle=speedrunning",
+  "provides='rdefull=1.0'",
+  "release_date=1999-08-13",
+  "release_group=rdefull",
   "startmap=rdstart",
+  "title=Runner's Delight",
   "type=mod",
+  "version=1.0",
   "zipbasedir=rde/"
  ],
  "title": "Runner's Delight",

@@ -79,14 +79,17 @@
  "release_date": "2006-07-14",
  "sha256": "18bcb3fcd545b0f5c35c759572640733e3852f7137efb124061d8fc772a08740",
  "tags": [
+  "author=ORL",
   "filename=orlmaps.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://orl.fvfonline.com",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev060723b.html)",
+  "release_date=2006-07-14",
   "startmap=orlmap4",
   "theme=medieval",
   "theme=terracotta",
+  "title=Orlmap episode",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

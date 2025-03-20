@@ -31,6 +31,7 @@
  "release_date": "2003-06-10",
  "sha256": "c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "commandline=-game guncotton",
   "filename=guncotton.zip",
   "game=quake",
@@ -41,9 +42,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030615.html)",
   "nonspecific_tag=custom",
   "nonspecific_tag=textures",
+  "release_date=2003-06-10",
   "startmap=start",
   "theme=base",
   "theme=quake 2",
+  "title=Guncotton",
   "type=mod"
  ],
  "title": "Guncotton",

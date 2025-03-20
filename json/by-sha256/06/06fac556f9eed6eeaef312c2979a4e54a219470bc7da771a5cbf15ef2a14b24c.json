@@ -31,6 +31,7 @@
  "release_date": "2006-07-28",
  "sha256": "06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c",
  "tags": [
+  "author=MadFox",
   "filename=grunt.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,11 +39,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev060727.html)",
   "map_size=huge",
   "map_size=large",
+  "release_date=2006-07-28",
   "startmap=grent368",
   "theme=base",
   "theme=medieval",
   "theme=mixtex",
   "theme=orange",
+  "title=Grunt Grenadin",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

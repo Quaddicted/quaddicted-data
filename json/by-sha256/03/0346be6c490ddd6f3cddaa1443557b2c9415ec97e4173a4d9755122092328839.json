@@ -43,6 +43,7 @@
  "release_date": "2007-01-11",
  "sha256": "0346be6c490ddd6f3cddaa1443557b2c9415ec97e4173a4d9755122092328839",
  "tags": [
+  "author=MadFox",
   "commandline=-game abandon",
   "filename=abandon.zip",
   "game=quake",
@@ -50,10 +51,12 @@
   "link:homepage=http://members.home.nl/gimli/gimli20.htm",
   "map_size=huge",
   "nonspecific_tag=monsters",
+  "release_date=2007-01-11",
   "startmap=start",
   "theme=abstract",
   "theme=exploration",
   "theme=weird",
+  "title=Abandon",
   "type=episode",
   "type=mod",
   "zipbasedir=abandon/"

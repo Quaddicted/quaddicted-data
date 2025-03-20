@@ -37,15 +37,18 @@
  "release_date": "1997-02-18",
  "sha256": "dac718c22fb4dba452874f309a978f1e3b94a3a444b2a7156453149d7e7cb413",
  "tags": [
+  "author=Marc Roussel",
   "filename=the_gate.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm#thegate)",
   "map_size=small",
+  "release_date=1997-02-18",
   "theme=lava",
   "theme=metal",
   "theme=mixtex",
   "theme=traps",
+  "title=The Gate",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "1996-11-25",
  "sha256": "e9a4061848a8a1897b432f006e72c8be7024a55e9021cdff63b73ae824dd8990",
  "tags": [
+  "author=Jason Ng",
   "filename=battle.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,8 +33,10 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=small",
+  "release_date=1996-11-25",
   "theme=house",
   "theme=no exit",
+  "title=Battle at Home",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

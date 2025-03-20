@@ -196,6 +196,7 @@
  "release_date": "2021-07-17",
  "sha256": "1f8fea232486934ae343d6ba6c0a7fde814400f0fbe8274eff9a71c51948e52f",
  "tags": [
+  "author=Squeezit",
   "commandline=-game squire",
   "exceeds_quake_limits=yes",
   "filename=squireot.zip",
@@ -207,6 +208,7 @@
   "music=custom",
   "nonspecific_tag=end",
   "nonspecific_tag=start",
+  "release_date=2021-07-17",
   "source=included",
   "startmap=sq1",
   "startmap=sq2",
@@ -222,6 +224,7 @@
   "theme=metal",
   "theme=runic",
   "theme=wizard",
+  "title=Squire of Time",
   "type=episode",
   "type=mod",
   "zipbasedir=/"

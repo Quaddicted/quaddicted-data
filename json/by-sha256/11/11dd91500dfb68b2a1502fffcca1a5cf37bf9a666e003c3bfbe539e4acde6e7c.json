@@ -19,6 +19,7 @@
  "release_date": "1997-03-03",
  "sha256": "11dd91500dfb68b2a1502fffcca1a5cf37bf9a666e003c3bfbe539e4acde6e7c",
  "tags": [
+  "author=Marc Laidlaw",
   "filename=shoggoth.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,12 +32,14 @@
   "nonspecific_tag=chapel",
   "nonspecific_tag=dark",
   "nonspecific_tag=interconnected",
+  "release_date=1997-03-03",
   "theme=brick",
   "theme=brown",
   "theme=caverns",
   "theme=graveyard",
   "theme=green",
   "theme=underground",
+  "title=Chapel Shoggoth",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -77,6 +77,7 @@
  "release_date": "2020-11-15",
  "sha256": "27e3bd6f30cf5d21165f9fdf1f5810afb45ab781ace5dff8ab454229e22311fc",
  "tags": [
+  "author=remi",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=primo_1.1.0.zip",
@@ -85,9 +86,11 @@
   "map_size=medium",
   "nonspecific_tag=honey",
   "nonspecific_tag=skybox",
+  "release_date=2020-11-15",
   "startmap=primo",
   "theme=bricks",
   "theme=sewer",
+  "title=Primo",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

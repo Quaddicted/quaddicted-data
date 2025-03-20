@@ -19,6 +19,7 @@
  "release_date": "2005-07-17",
  "sha256": "155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905",
  "tags": [
+  "author=Here",
   "filename=heresp3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,7 +28,9 @@
   "map_size=small",
   "nonspecific_tag=catacombs",
   "nonspecific_tag=textures",
+  "release_date=2005-07-17",
   "theme=medieval",
+  "title=The Castle of Pain",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

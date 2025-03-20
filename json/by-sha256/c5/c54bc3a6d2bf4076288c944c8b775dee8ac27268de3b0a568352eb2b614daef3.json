@@ -104,8 +104,10 @@
  "release_date": "2020-12-31",
  "sha256": "c54bc3a6d2bf4076288c944c8b775dee8ac27268de3b0a568352eb2b614daef3",
  "tags": [
+  "author=quasiotter",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=quasiotter_cmrsfm.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -127,10 +129,12 @@
   "nonspecific_tag=walking",
   "nonspecific_tag=walkingsim",
   "playstyle=nomonsters",
+  "release_date=2020-12-31",
   "source=included",
   "theme=abstract",
   "theme=arcane dimensions",
   "theme=experimental",
+  "title=Calm Mood Rain Sounds Forest Mushrooms",
   "type=map",
   "zipbasedir=ad/"
  ],

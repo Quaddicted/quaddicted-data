@@ -40,6 +40,7 @@
  "release_date": "2022-10-20",
  "sha256": "dfe5e376f3db0ea4741ad34ce384678aa4a203c2f29fda996f2ff1029e64580a",
  "tags": [
+  "author=Vaskully",
   "filename=fortressofsecrets.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,9 +48,11 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=vanilla",
+  "release_date=2022-10-20",
   "theme=castle",
   "theme=medieval",
   "theme=wizard",
+  "title=Fortress of Secrets",
   "type=map"
  ],
  "title": "Fortress of Secrets",

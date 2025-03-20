@@ -31,6 +31,7 @@
  "release_date": "1997-05-08",
  "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
  "tags": [
+  "author=Tigger-On",
   "commandline=-game strom",
   "filename=strom.zip",
   "game=quake",
@@ -38,9 +39,11 @@
   "game_mode=singleplayer",
   "nonspecific_tag=chthon",
   "nonspecific_tag=skins",
+  "release_date=1997-05-08",
   "startmap=start",
   "theme=boss",
   "theme=traps",
+  "title=Strom",
   "type=episode",
   "type=mod"
  ],

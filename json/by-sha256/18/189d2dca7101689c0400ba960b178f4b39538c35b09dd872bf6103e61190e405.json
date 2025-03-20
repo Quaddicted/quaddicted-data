@@ -97,8 +97,10 @@
  "release_date": "2022-02-22",
  "sha256": "189d2dca7101689c0400ba960b178f4b39538c35b09dd872bf6103e61190e405",
  "tags": [
+  "author=Paul Lawitzki",
   "commandline=-game copper",
   "dependency=copper_v1_17",
+  "depends=('copper>=1.17')",
   "exceeds_quake_limits=yes",
   "filename=plaw02.zip",
   "game=quake",
@@ -112,9 +114,11 @@
   "nonspecific_tag=foliage",
   "nonspecific_tag=forest",
   "nonspecific_tag=woods",
+  "release_date=2022-02-22",
   "source=included",
   "startmap=plaw02",
   "theme=base",
+  "title=Waldsterben",
   "type=map"
  ],
  "title": "Waldsterben",

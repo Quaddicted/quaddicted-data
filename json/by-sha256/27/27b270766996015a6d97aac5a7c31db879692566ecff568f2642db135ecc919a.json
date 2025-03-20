@@ -109,6 +109,7 @@
  "release_date": "2019-01-30",
  "sha256": "27b270766996015a6d97aac5a7c31db879692566ecff568f2642db135ecc919a",
  "tags": [
+  "author=MortalMaxx",
   "commandline=-game maxx",
   "filename=maxx2.zip",
   "game=quake",
@@ -117,8 +118,10 @@
   "map_size=medium",
   "music=custom",
   "nonspecific_tag=victorian",
+  "release_date=2019-01-30",
   "theme=knave",
   "theme=medieval",
+  "title=East Ardougne",
   "type=mod",
   "zipbasedir=/"
  ],

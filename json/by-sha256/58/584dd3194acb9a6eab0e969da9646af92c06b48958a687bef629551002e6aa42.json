@@ -25,6 +25,7 @@
  "release_date": "1997-04-02",
  "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [
+  "author=Magicman",
   "commandline=-game anaconda",
   "filename=anaconda.zip",
   "game=quake",
@@ -34,12 +35,14 @@
   "nonspecific_tag=monster",
   "nonspecific_tag=monsters",
   "nonspecific_tag=snake",
+  "release_date=1997-04-02",
   "startmap=start",
   "theme=boss",
   "theme=cave",
   "theme=underground",
   "theme=water",
   "theme=wizard",
+  "title=Anaconda",
   "type=mod",
   "zipbasedir=anaconda/"
  ],

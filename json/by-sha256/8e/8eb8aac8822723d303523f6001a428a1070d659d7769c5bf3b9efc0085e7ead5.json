@@ -79,6 +79,7 @@
  "release_date": "1999-10-17",
  "sha256": "8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5",
  "tags": [
+  "author=The Harb!ngeR of Fish",
   "commandline=-game escape",
   "filename=escape.zip",
   "game=quake",
@@ -87,11 +88,13 @@
   "map_size=small",
   "nonspecific_tag=fish",
   "nonspecific_tag=rats",
+  "release_date=1999-10-17",
   "startmap=harbstar",
   "theme=base",
   "theme=boss",
   "theme=ikbase",
   "theme=prison",
+  "title=Escape",
   "type=episode",
   "type=mod",
   "zipbasedir=escape/"

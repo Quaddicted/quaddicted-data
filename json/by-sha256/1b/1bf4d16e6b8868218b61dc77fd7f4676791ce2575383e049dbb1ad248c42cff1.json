@@ -52,13 +52,16 @@
  "release_date": "2021-03-22",
  "sha256": "1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1",
  "tags": [
+  "author=Lilith/raven33",
   "filename=firstcoolmaprelease.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2021-03-22",
   "source=included",
   "startmap=FirstCoolMapRelease/fcm",
   "theme=base",
+  "title=FirstCoolMap",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

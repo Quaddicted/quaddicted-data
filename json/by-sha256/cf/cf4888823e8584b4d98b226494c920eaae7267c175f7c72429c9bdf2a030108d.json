@@ -43,6 +43,7 @@
  "release_date": "1997-07-02",
  "sha256": "cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d",
  "tags": [
+  "author=Richard Neff",
   "filename=horrors.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -50,11 +51,13 @@
   "link:homepage=http://www.net-tech-group.com/quake2/quake1.htm",
   "map_size=small",
   "nonspecific_tag=textures",
+  "release_date=1997-07-02",
   "startmap=horrors",
   "startmap=setskill",
   "theme=castle",
   "theme=graveyard",
   "theme=medieval",
+  "title=Halls of Horrors",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

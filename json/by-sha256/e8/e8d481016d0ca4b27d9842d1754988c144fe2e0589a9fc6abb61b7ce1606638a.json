@@ -19,6 +19,7 @@
  "release_date": "2005-07-27",
  "sha256": "e8d481016d0ca4b27d9842d1754988c144fe2e0589a9fc6abb61b7ce1606638a",
  "tags": [
+  "author=Here",
   "filename=heresp4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,7 +30,9 @@
   "map_size=large",
   "nonspecific_tag=textures",
   "nonspecific_tag=white",
+  "release_date=2005-07-27",
   "theme=temple",
+  "title=Beyond the Black Sun",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

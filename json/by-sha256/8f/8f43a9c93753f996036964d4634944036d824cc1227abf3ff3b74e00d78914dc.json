@@ -25,6 +25,7 @@
  "release_date": "1997-03-27",
  "sha256": "8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc",
  "tags": [
+  "author=Darren (Rex_Noctu) Johnson",
   "filename=supply.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -33,9 +34,11 @@
   "map_layout=maze",
   "map_size=medium",
   "nonspecific_tag=dark",
+  "release_date=1997-03-27",
   "theme=base",
   "theme=crates",
   "theme=outdoor",
+  "title=Supply Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

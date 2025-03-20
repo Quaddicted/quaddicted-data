@@ -142,11 +142,15 @@
  "release_date": "2007-10-12",
  "sha256": "9c95dfab7540d8bd21d407d02a6f60badcc42a78f0aa3357b4a56f8e8067246c",
  "tags": [
+  "author=aguirRe",
   "dependency=travail",
+  "depends=c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
   "filename=travail_skins.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.quakeone.com/travail",
+  "release_date=2007-10-12",
+  "title=Travail: Reworked Monster Skins",
   "type=map",
   "zipbasedir=travail/textures/monsters/"
  ],

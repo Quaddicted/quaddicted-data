@@ -71,6 +71,7 @@
  "release_date": "1997-01-29",
  "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "tags": [
+  "author=Tekno Tom",
   "commandline=-game chthon",
   "filename=boss.zip",
   "game=quake",
@@ -80,9 +81,11 @@
   "nonspecific_tag=chthon",
   "nonspecific_tag=crap",
   "nonspecific_tag=progs",
+  "release_date=1997-01-29",
   "startmap=boss",
   "theme=boss",
   "theme=mixtex",
+  "title=The Boss",
   "type=mod"
  ],
  "title": "The Boss",

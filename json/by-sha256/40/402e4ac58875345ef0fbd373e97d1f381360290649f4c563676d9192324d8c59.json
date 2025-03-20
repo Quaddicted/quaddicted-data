@@ -85,8 +85,10 @@
  "release_date": "2007-10-26",
  "sha256": "402e4ac58875345ef0fbd373e97d1f381360290649f4c563676d9192324d8c59",
  "tags": [
+  "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=sickbase.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -94,10 +96,12 @@
   "map_size=huge",
   "mod=quoth",
   "nonspecific_tag=hard",
+  "release_date=2007-10-26",
   "theme=base",
   "theme=exploration",
   "theme=idbase",
   "theme=quoth",
+  "title=Three Towers And A Sick Base",
   "type=map",
   "zipbasedir=quoth/"
  ],

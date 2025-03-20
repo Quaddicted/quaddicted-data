@@ -61,12 +61,14 @@
  "release_date": "2005-01-16",
  "sha256": "62a4d436e2198d0c9f956c82f5732ab955ad7444b88436f342e61dbd03628352",
  "tags": [
+  "author=czg",
   "filename=terra.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=28720)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev050206.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "release_date=2005-01-16",
   "startmap=terra1",
   "startmap=terra2",
   "startmap=terra3",
@@ -79,6 +81,7 @@
   "theme=metal",
   "theme=oldschool",
   "theme=wizard",
+  "title=Terra",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

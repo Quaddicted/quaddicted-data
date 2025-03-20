@@ -64,6 +64,7 @@
  "release_date": "2020-08-16",
  "sha256": "6165726da0d276d595f9d370b6cd464f21ed0d46d19802ef13f2e77ac89c2c94",
  "tags": [
+  "author=Guilherme Nemeth",
   "commandline=-game nmth_machinery",
   "exceeds_quake_limits=yes",
   "filename=nmth_machinery_fix.zip",
@@ -72,10 +73,12 @@
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61933)",
   "map_size=large",
   "music=custom",
+  "release_date=2020-08-16",
   "source=included",
   "theme=base",
   "theme=ikbase",
   "theme=industrial",
+  "title=The Machinery",
   "type=map",
   "zipbasedir=nmth_machinery/"
  ],

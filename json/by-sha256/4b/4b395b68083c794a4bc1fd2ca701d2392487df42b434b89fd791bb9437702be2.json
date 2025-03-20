@@ -59,6 +59,7 @@
  "release_date": "2021-03-19",
  "sha256": "4b395b68083c794a4bc1fd2ca701d2392487df42b434b89fd791bb9437702be2",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "commandline=-game jpqm9",
   "exceeds_quake_limits=yes",
@@ -81,11 +82,13 @@
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
   "nonspecific_tag=trees",
+  "release_date=2021-03-19",
   "source=included",
   "theme=bricks",
   "theme=castle",
   "theme=fortress",
   "theme=medieval",
+  "title=Greymoor",
   "type=mod",
   "zipbasedir=/"
  ],

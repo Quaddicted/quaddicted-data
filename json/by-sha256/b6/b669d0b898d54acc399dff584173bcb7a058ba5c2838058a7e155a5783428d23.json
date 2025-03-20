@@ -230,10 +230,12 @@
  "release_date": "2020-05-03",
  "sha256": "b669d0b898d54acc399dff584173bcb7a058ba5c2838058a7e155a5783428d23",
  "tags": [
+  "author=Heresy",
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=ad_heresp1.zip",
   "game=quake",
@@ -249,6 +251,7 @@
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
+  "release_date=2020-05-03",
   "source=included",
   "theme=arcane dimensions",
   "theme=canyon",
@@ -256,6 +259,7 @@
   "theme=fortress",
   "theme=lava",
   "theme=secrets",
+  "title=Oxyblack Fortress",
   "type=map",
   "zipbasedir=ad/"
  ],

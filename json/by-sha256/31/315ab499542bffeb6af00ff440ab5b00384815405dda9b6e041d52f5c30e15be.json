@@ -25,6 +25,7 @@
  "release_date": "1997-12-18",
  "sha256": "315ab499542bffeb6af00ff440ab5b00384815405dda9b6e041d52f5c30e15be",
  "tags": [
+  "author=Ben Watson",
   "filename=avatar.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,7 +34,9 @@
   "map_size=medium",
   "nonspecific_tag=mediun",
   "nonspecific_tag=textures",
+  "release_date=1997-12-18",
   "theme=bricks",
+  "title=Avatar",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

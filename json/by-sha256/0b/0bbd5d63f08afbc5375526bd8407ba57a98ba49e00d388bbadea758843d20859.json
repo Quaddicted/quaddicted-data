@@ -122,6 +122,7 @@
  "release_group": "ter_shibboleth",
  "sha256": "0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859",
  "tags": [
+  "author=KenChennar alias Orl",
   "bsp_format=bsp2",
   "commandline=-heapsize 256000 +sv_protocol 999 +gl_farclip 256000",
   "exceeds_quake_limits=yes",
@@ -136,6 +137,9 @@
   "nonspecific_tag=textures",
   "nonspecific_tag=vista",
   "nonspecific_tag=western",
+  "provides='ter_shibboleth=1.0'",
+  "release_date=2017-09-01",
+  "release_group=ter_shibboleth",
   "source=included",
   "startmap=shib1",
   "startmap=shib2",
@@ -151,8 +155,10 @@
   "theme=realism",
   "theme=temple",
   "theme=town",
+  "title=Ter Shibboleth",
   "type=episode",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "Ter Shibboleth",

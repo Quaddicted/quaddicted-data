@@ -28,6 +28,7 @@
  "release_date": "2021-03-16",
  "sha256": "8838140695433eb908b50158e3285a297b10109adbcb4ba2be563004706ab8b0",
  "tags": [
+  "author=Boss300",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=insides.zip",
@@ -36,10 +37,12 @@
   "map_size=large",
   "nonspecific_tag=boxed",
   "playstyle=horde",
+  "release_date=2021-03-16",
   "theme=abstract",
   "theme=mixtex",
   "theme=space",
   "theme=void",
+  "title=Insides-Out",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

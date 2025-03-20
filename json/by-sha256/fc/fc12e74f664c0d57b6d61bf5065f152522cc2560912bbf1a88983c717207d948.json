@@ -347,12 +347,18 @@
  "release_group": "nsoe",
  "sha256": "fc12e74f664c0d57b6d61bf5065f152522cc2560912bbf1a88983c717207d948",
  "tags": [
+  "author=aguirRe",
   "filename=soeskins_dp.zip",
   "game=quake",
   "game_mode=singleplayer",
   "nonspecific_tag=dp",
   "nonspecific_tag=skins",
-  "nonspecific_tag=soe"
+  "nonspecific_tag=soe",
+  "provides='nsoe=2.0'",
+  "release_date=2008-05-27",
+  "release_group=nsoe",
+  "title=Soul of Evil: Indian Summer (Skins for DP)",
+  "version=2.0"
  ],
  "title": "Soul of Evil: Indian Summer (Skins for DP)",
  "urls": [

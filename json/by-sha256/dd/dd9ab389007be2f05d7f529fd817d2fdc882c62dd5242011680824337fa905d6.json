@@ -183,11 +183,15 @@
  "release_date": "2019-10-03",
  "sha256": "dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6",
  "tags": [
+  "author=Cocerello",
+  "author=Greenwood",
+  "author=ionous",
   "filename=sm202.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61777)",
+  "release_date=2019-10-03",
   "startmap=Upright",
   "startmap=sm202_coce1v1",
   "startmap=sm202_coce1v2",
@@ -197,6 +201,7 @@
   "startmap=sm202_greenwood",
   "startmap=sm202_ionous",
   "startmap=sm202_ionous_og",
+  "title=Speedmapping pack 202 - Recycled Garbage",
   "type=speedmap",
   "zipbasedir=id1/"
  ],

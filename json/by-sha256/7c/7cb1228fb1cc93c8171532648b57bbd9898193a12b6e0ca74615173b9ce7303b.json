@@ -45,12 +45,17 @@
  "release_date": "2005-10-02",
  "sha256": "7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b",
  "tags": [
+  "author=Pulsar",
+  "author=TextFish",
+  "author=generic",
   "filename=sm106_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-10-02",
   "startmap=SM106_TextFish",
   "startmap=sm106_generic",
   "startmap=sm106_pulsar",
+  "title=Speedmapping pack 106 - Partially submerged",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

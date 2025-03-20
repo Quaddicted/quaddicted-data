@@ -37,15 +37,18 @@
  "release_date": "2015-11-25",
  "sha256": "5579c7b1b53c7e1a7829998e06c7dab264b87e4fa2a3832f8403e9134b03b5e8",
  "tags": [
+  "author=DeeDoubleU",
   "filename=retrojam4dlc_dw.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.dimwalker.com",
   "map_size=medium",
+  "release_date=2015-11-25",
   "source=included",
   "theme=castle",
   "theme=lava",
   "theme=medieval",
+  "title=Ascension",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

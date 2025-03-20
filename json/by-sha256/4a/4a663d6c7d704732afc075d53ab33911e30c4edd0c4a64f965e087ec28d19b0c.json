@@ -39,12 +39,17 @@
  "release_date": "2007-04-11",
  "sha256": "4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c",
  "tags": [
+  "author=Spirit",
+  "author=efdat",
+  "author=negke",
   "filename=sm133_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2007-04-11",
   "startmap=sm133_efdat",
   "startmap=sm133_neg!ke",
   "startmap=sm133_spirit",
+  "title=Speedmapping pack 133 - Machinery",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

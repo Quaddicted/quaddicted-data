@@ -25,6 +25,7 @@
  "release_date": "1997-06-05",
  "sha256": "ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc",
  "tags": [
+  "author=marty",
   "filename=prey2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -34,8 +35,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
   "nonspecific_tag=coop",
+  "release_date=1997-06-05",
   "theme=base",
   "theme=realism",
+  "title=Prey2",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

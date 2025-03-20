@@ -25,6 +25,7 @@
  "release_date": "1997-03-20",
  "sha256": "6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5",
  "tags": [
+  "author=Levelord",
   "filename=hipside.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "link:homepage=http://www.levelord.com",
   "map_size=small",
   "nonspecific_tag=orion",
+  "release_date=1997-03-20",
   "source=included",
   "theme=base",
   "theme=orange",
+  "title=Hipside",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -32,6 +32,8 @@
  "release_date": "2006-11-20",
  "sha256": "849aeb90455a10199d9475c02651f1a6757821edddb0e9bec7078e13bf16ac50",
  "tags": [
+  "author=Ankh",
+  "author=id Software",
   "commandline=-game ogitrev",
   "filename=ogitrev.zip",
   "game=quake",
@@ -41,10 +43,12 @@
   "nonspecific_tag=gravity",
   "nonspecific_tag=sda",
   "playstyle=speedrunning",
+  "release_date=2006-11-20",
   "source=included",
   "startmap=e1m8",
   "theme=metal",
   "theme=remix",
+  "title=ogitreV taruggiZ",
   "type=mod",
   "zipbasedir=ogitrev/"
  ],

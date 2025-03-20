@@ -31,6 +31,7 @@
  "release_date": "2022-10-23",
  "sha256": "e361aea4d763395e4f264e87f60355c9357e5f733386ec85a1e9eace42641595",
  "tags": [
+  "author=xlarve",
   "filename=xl7.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,12 +39,14 @@
   "link=[YouTube video by Greenwood](https://www.youtube.com/watch?v=Jom3LGvHlMQ&t=298s)",
   "map_size=small",
   "nonspecific_tag=vanilla",
+  "release_date=2022-10-23",
   "source=included",
   "startmap=xl7",
   "theme=castle",
   "theme=classic",
   "theme=id1",
   "theme=medieval",
+  "title=Seven",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

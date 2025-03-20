@@ -31,6 +31,7 @@
  "release_date": "1996-10-06",
  "sha256": "f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de",
  "tags": [
+  "author=DaveDemon",
   "filename=localh.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,7 +39,9 @@
   "nonspecific_tag=joke",
   "nonspecific_tag=pointless",
   "nonspecific_tag=room",
+  "release_date=1996-10-06",
   "source=included",
+  "title=LoCaLH",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -112,6 +112,7 @@
  "release_date": "2020-03-30",
  "sha256": "4e27a112205d885bea718444987e5ee48b712f0c96f6fb9eac95d87b38c0c900",
  "tags": [
+  "author=Rhoq",
   "commandline=-game rhoq_mbei",
   "exceeds_quake_limits=yes",
   "filename=rhoqdoom_mbei.zip",
@@ -122,9 +123,11 @@
   "music=custom",
   "nonspecific_tag=marble",
   "nonspecific_tag=skybox",
+  "release_date=2020-03-30",
   "theme=base",
   "theme=doom",
   "theme=remake",
+  "title=Mars Base Excavation Incident",
   "type=mod",
   "zipbasedir=rhoq_mbei/"
  ],

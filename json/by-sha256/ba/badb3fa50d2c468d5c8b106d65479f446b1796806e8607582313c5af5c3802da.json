@@ -43,6 +43,7 @@
  "release_date": "1997-09-03",
  "sha256": "badb3fa50d2c468d5c8b106d65479f446b1796806e8607582313c5af5c3802da",
  "tags": [
+  "author=Steve Wilson",
   "filename=redrum.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -50,7 +51,9 @@
   "map_size=small",
   "nonspecific_tag=textures",
   "nonspecific_tag=wiard",
+  "release_date=1997-09-03",
   "theme=wizard",
+  "title=The Red Room",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -97,6 +97,7 @@
  "release_date": "2022-11-30",
  "sha256": "747c4fe31eec77b2fa8200b0a75108c092121834a3f6ffbf67b925b94a16d33f",
  "tags": [
+  "author=Nodding",
   "filename=shipnod.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -107,9 +108,11 @@
   "nonspecific_tag=ocean",
   "nonspecific_tag=ship",
   "nonspecific_tag=vanilla",
+  "release_date=2022-11-30",
   "source=included",
   "startmap=shipnod",
   "theme=water",
+  "title=Ship Showdown",
   "type=mod",
   "zipbasedir=id1/"
  ],

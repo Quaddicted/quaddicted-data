@@ -58,6 +58,7 @@
  "release_date": "2003-07-09",
  "sha256": "e6ee551a480f5752503510dfef78d1bcf607b17aeab688a5112d085bc8f99ca7",
  "tags": [
+  "author=necros",
   "commandline=-game nesp09",
   "exceeds_quake_limits=yes",
   "filename=nesp09.zip",
@@ -74,8 +75,10 @@
   "nonspecific_tag=dragons",
   "nonspecific_tag=monsters",
   "nonspecific_tag=shub",
+  "release_date=2003-07-09",
   "theme=metal",
   "theme=runic",
+  "title=Dawn of Eternity",
   "type=mod"
  ],
  "title": "Dawn of Eternity",

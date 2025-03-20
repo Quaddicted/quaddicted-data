@@ -31,6 +31,7 @@
  "release_date": "2004-11-20",
  "sha256": "fba24bd9bd3c63313ac1d7a3ff664cb984f366d98f900bf45c9700b706e8b6e2",
  "tags": [
+  "author=JPL",
   "filename=cmc.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,9 +40,11 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
   "nonspecific_tag=textures",
+  "release_date=2004-11-20",
   "theme=base",
   "theme=industrial",
   "theme=underground",
+  "title=Cheyenne Mountain Complex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

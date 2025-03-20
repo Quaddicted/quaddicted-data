@@ -979,6 +979,7 @@
  "release_date": "2021-04-01",
  "sha256": "88918166872571092162ce9b1e7a00b40f18a4c0d22153c7f8f45aa14240a538",
  "tags": [
+  "author=Lord Asaki",
   "commandline=-game bsqmsafe",
   "filename=bsqmsafe.zip",
   "game=quake",
@@ -993,6 +994,7 @@
   "nonspecific_tag=ranger",
   "nonspecific_tag=sounds",
   "nonspecific_tag=weapons",
+  "release_date=2021-04-01",
   "source=included",
   "startmap=heylow01",
   "startmap=heylow02",
@@ -1000,6 +1002,7 @@
   "theme=base",
   "theme=bricks",
   "theme=mixtex",
+  "title=BSQM Safe",
   "type=mod",
   "zipbasedir=bsqmsafe/"
  ],

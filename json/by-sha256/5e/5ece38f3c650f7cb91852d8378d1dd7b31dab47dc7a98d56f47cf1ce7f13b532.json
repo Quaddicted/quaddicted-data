@@ -35,6 +35,7 @@
  "release_date": "2017-12-11",
  "sha256": "5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532",
  "tags": [
+  "author=Shamblernaut",
   "exceeds_quake_limits=yes",
   "filename=snaut-acidtrip_rezipped.zip",
   "game=quake",
@@ -43,11 +44,13 @@
   "map_size=medium",
   "nonspecific_tag=cr8",
   "nonspecific_tag=multiple exits",
+  "release_date=2017-12-11",
   "startmap=snaut-acidtrip",
   "theme=base",
   "theme=industrial",
   "theme=sewer",
   "theme=slime",
+  "title=Organic Dissociation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

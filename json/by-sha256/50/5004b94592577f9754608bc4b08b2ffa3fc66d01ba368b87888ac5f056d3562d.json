@@ -25,6 +25,7 @@
  "release_date": "1997-03-26",
  "sha256": "5004b94592577f9754608bc4b08b2ffa3fc66d01ba368b87888ac5f056d3562d",
  "tags": [
+  "author=Anthony Hillman",
   "filename=cool1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,10 +33,12 @@
   "map_layout=maze",
   "map_size=small",
   "nonspecific_tag=textures",
+  "release_date=1997-03-26",
   "theme=medieval",
   "theme=mixtex",
   "theme=no exit",
   "theme=pyramid",
+  "title=Level by Tony Hillman",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

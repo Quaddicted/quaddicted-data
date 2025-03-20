@@ -172,12 +172,15 @@
  "release_date": "1999-12-02",
  "sha256": "3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08",
  "tags": [
+  "author=George Grotans",
   "commandline=-game vr",
   "filename=vr.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://innergroove33.8m.com",
   "playstyle=stealth",
+  "release_date=1999-12-02",
+  "title=Virtual Reality Quake",
   "type=mod"
  ],
  "title": "Virtual Reality Quake",

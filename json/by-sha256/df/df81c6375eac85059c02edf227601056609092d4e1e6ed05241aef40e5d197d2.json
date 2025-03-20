@@ -391,6 +391,7 @@
  "release_date": "2021-01-31",
  "sha256": "df81c6375eac85059c02edf227601056609092d4e1e6ed05241aef40e5d197d2",
  "tags": [
+  "author=Nolcoz",
   "commandline=-game ca_show",
   "filename=ca_show.zip",
   "game=quake",
@@ -403,9 +404,11 @@
   "nonspecific_tag=models",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
+  "release_date=2021-01-31",
   "source=included",
   "theme=city",
   "theme=realism",
+  "title=Cutscene Test Map",
   "type=mod",
   "zipbasedir=ca_show/"
  ],

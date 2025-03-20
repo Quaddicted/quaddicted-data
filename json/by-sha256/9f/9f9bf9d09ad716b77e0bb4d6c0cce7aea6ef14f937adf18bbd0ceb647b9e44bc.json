@@ -73,6 +73,7 @@
  "release_date": "2004-06-22",
  "sha256": "9f9bf9d09ad716b77e0bb4d6c0cce7aea6ef14f937adf18bbd0ceb647b9e44bc",
  "tags": [
+  "author=Robert \"Fat Controller\" Cruickshank",
   "commandline=-game fc1",
   "filename=fc1.zip",
   "game=quake",
@@ -82,12 +83,14 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=ship",
   "nonspecific_tag=textures",
+  "release_date=2004-06-22",
   "theme=caverns",
   "theme=fantasy",
   "theme=medieval",
   "theme=temple",
   "theme=town",
   "theme=village",
+  "title=Ontranto",
   "type=episode",
   "type=mod",
   "zipbasedir=fc1/"

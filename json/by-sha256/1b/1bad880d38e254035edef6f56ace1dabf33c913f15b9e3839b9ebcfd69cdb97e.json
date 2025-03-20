@@ -47,6 +47,7 @@
  "release_date": "2017-03-19",
  "sha256": "1bad880d38e254035edef6f56ace1dabf33c913f15b9e3839b9ebcfd69cdb97e",
  "tags": [
+  "author=Naitelveni",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=curseofthegoldenskullkey_repack.zip",
@@ -54,8 +55,10 @@
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61436)",
   "map_size=large",
+  "release_date=2017-03-19",
   "startmap=goldenskull",
   "theme=wizard",
+  "title=Curse of the Golden Skull Key",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

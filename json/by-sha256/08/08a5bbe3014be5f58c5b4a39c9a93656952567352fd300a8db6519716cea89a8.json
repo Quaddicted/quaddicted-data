@@ -1169,13 +1169,16 @@
  "release_date": "2024-03-30",
  "sha256": "08a5bbe3014be5f58c5b4a39c9a93656952567352fd300a8db6519716cea89a8",
  "tags": [
+  "author=Inectha",
   "commandline=-game tob",
   "exceedslimits=exceeds_quake_limits",
   "filename=tobv1.2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/throne-of-belial.342/)",
+  "release_date=2024-03-30",
   "startmap=therotedcastle",
+  "title=Throne of Belial",
   "type=map",
   "type=mod"
  ],

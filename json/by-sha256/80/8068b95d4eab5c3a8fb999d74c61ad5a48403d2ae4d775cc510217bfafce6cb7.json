@@ -25,6 +25,7 @@
  "release_date": "1997-02-09",
  "sha256": "8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7",
  "tags": [
+  "author=Paul Roberts",
   "filename=mekbase.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsm1.htm#mekbase)",
   "map_size=small",
   "nonspecific_tag=coop",
+  "release_date=1997-02-09",
   "theme=metal",
   "theme=traps",
   "theme=wizard",
+  "title=MekBase",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

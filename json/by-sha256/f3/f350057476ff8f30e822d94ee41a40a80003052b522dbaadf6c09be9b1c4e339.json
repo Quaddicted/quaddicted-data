@@ -25,6 +25,7 @@
  "release_date": "2016-02-27",
  "sha256": "f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339",
  "tags": [
+  "author=super",
   "filename=runfear.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61293)",
   "map_size=small",
   "nonspecific_tag=oldskool",
+  "release_date=2016-02-27",
   "theme=metal",
   "theme=runic",
   "theme=secrets",
+  "title=Runic Fear",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

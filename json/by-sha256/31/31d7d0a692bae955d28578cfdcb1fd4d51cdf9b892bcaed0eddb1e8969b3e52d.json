@@ -59,6 +59,7 @@
  "release_date": "2016-01-21",
  "sha256": "31d7d0a692bae955d28578cfdcb1fd4d51cdf9b892bcaed0eddb1e8969b3e52d",
  "tags": [
+  "author=ORL",
   "commandline=+sv_protocol 999",
   "exceeds_quake_limits=yes",
   "filename=oms3.zip",
@@ -69,12 +70,14 @@
   "map_size=large",
   "nonspecific_tag=giger",
   "nonspecific_tag=unique",
+  "release_date=2016-01-21",
   "source=included",
   "startmap=oms3",
   "startmap=oms3_2",
   "theme=abstract",
   "theme=base",
   "theme=traps",
+  "title=Cataractnacon / Zeangala",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -25,13 +25,16 @@
  "release_date": "1996-10-06",
  "sha256": "42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87",
  "tags": [
+  "author=Gunnar Saethre",
   "filename=thepsyco.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1996-10-06",
   "startmap=psycho",
   "theme=wizard",
+  "title=The Psychotic Installation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

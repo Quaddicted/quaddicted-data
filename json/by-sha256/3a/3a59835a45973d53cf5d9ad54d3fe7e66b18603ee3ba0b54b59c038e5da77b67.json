@@ -58,6 +58,7 @@
  "release_date": "2023-02-28",
  "sha256": "3a59835a45973d53cf5d9ad54d3fe7e66b18603ee3ba0b54b59c038e5da77b67",
  "tags": [
+  "author=toadicux",
   "commandline=-game baxter",
   "exceeds_quake_limits=yes",
   "filename=baxter3.zip",
@@ -71,9 +72,11 @@
   "nonspecific_tag=museum",
   "nonspecific_tag=textures",
   "playstyle=nomonsters",
+  "release_date=2023-02-28",
   "source=included",
   "startmap=baxter",
   "theme=experimental",
+  "title=Baxter Hall v3",
   "type=map"
  ],
  "title": "Baxter Hall v3",

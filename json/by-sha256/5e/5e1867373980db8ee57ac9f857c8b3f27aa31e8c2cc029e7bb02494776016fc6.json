@@ -25,6 +25,7 @@
  "release_date": "1997-11-30",
  "sha256": "5e1867373980db8ee57ac9f857c8b3f27aa31e8c2cc029e7bb02494776016fc6",
  "tags": [
+  "author=Bryan L. aka Mungo",
   "filename=m_palace.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,9 +34,11 @@
   "map_size=small",
   "nonspecific_tag=gold",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-11-30",
   "theme=blue",
   "theme=metal",
   "theme=temple",
+  "title=The Cobalt Palace",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -868,6 +868,7 @@
  "release_date": "2022-11-02",
  "sha256": "5d3220cf974809761a2d1e365962ab5f4ae829b79701b9e2e4d5aacd0f960582",
  "tags": [
+  "author=Justin Fleck",
   "commandline=-game flecksp1rmx",
   "exceeds_quake_limits=yes",
   "filename=flecksp1rmx_1_3.zip",
@@ -878,6 +879,7 @@
   "music=custom",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-11-02",
   "source=included",
   "startmap=flecksp1rmx",
   "theme=classic",
@@ -885,6 +887,7 @@
   "theme=metal",
   "theme=remix",
   "theme=runic",
+  "title=Azure Be Gone v1.3",
   "type=mod"
  ],
  "title": "Azure Be Gone v1.3",

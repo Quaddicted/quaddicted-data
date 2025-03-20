@@ -91,8 +91,10 @@
  "release_date": "2018-05-03",
  "sha256": "7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c",
  "tags": [
+  "author=ionous",
   "commandline=-quoth -game quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "filename=ion02.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -102,9 +104,11 @@
   "nonspecific_tag=heretic2",
   "nonspecific_tag=hexen",
   "nonspecific_tag=koohoo",
+  "release_date=2018-05-03",
   "theme=100b",
   "theme=canyon",
   "theme=quoth",
+  "title=Luna in Silver Shards",
   "type=map",
   "zipbasedir=quoth/"
  ],

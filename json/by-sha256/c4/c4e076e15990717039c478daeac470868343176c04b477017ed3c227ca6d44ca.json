@@ -145,6 +145,7 @@
  "release_date": "2020-04-16",
  "sha256": "c4e076e15990717039c478daeac470868343176c04b477017ed3c227ca6d44ca",
  "tags": [
+  "author=Guilherme Nemeth",
   "commandline=-game keeper",
   "filename=keeper.zip",
   "game=quake",
@@ -154,10 +155,12 @@
   "nonspecific_tag=models",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
+  "release_date=2020-04-16",
   "source=included",
   "theme=lava",
   "theme=metal",
   "theme=runic",
+  "title=Keeper Of The Hell Gate",
   "type=mod",
   "zipbasedir=/"
  ],

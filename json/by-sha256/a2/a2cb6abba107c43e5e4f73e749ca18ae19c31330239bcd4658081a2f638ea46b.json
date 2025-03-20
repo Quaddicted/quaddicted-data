@@ -241,9 +241,11 @@
  "release_date": "2021-02-02",
  "sha256": "a2cb6abba107c43e5e4f73e749ca18ae19c31330239bcd4658081a2f638ea46b",
  "tags": [
+  "author=Heresy",
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=ad_heresp2.zip",
   "game=quake",
@@ -261,6 +263,7 @@
   "nonspecific_tag=sock",
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
+  "release_date=2021-02-02",
   "source=included",
   "theme=arcane dimensions",
   "theme=desert",
@@ -269,6 +272,7 @@
   "theme=pyramid",
   "theme=tech",
   "theme=temple",
+  "title=Imhotep's Legacy",
   "type=map",
   "zipbasedir=ad/"
  ],

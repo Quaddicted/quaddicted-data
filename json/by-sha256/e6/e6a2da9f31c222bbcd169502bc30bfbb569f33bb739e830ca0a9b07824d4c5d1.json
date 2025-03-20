@@ -41,6 +41,7 @@
  "release_date": "2014-07-03",
  "sha256": "e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1",
  "tags": [
+  "author=KillPixel",
   "commandline=-game kpcn2014",
   "exceeds_quake_limits=yes",
   "filename=kpcn2014.zip",
@@ -49,10 +50,12 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61047&start=29)",
   "map_size=large",
   "nonspecific_tag=corridors",
+  "release_date=2014-07-03",
   "source=included",
   "startmap=kpcn",
   "theme=base",
   "theme=horror",
+  "title=Cartographer's Nightmare",
   "type=mod",
   "type=unfinished"
  ],

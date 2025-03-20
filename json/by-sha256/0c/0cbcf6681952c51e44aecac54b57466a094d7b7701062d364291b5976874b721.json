@@ -46,6 +46,7 @@
  "release_date": "1997-05-15",
  "sha256": "0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
  "tags": [
+  "author=Matthias Worch",
   "commandline=-game bbelief",
   "filename=bbelief.zip",
   "game=quake",
@@ -66,6 +67,7 @@
   "nonspecific_tag=chthon",
   "nonspecific_tag=mustplay",
   "nonspecific_tag=progs",
+  "release_date=1997-05-15",
   "startmap=bbstart",
   "theme=base",
   "theme=boss",
@@ -74,6 +76,7 @@
   "theme=quake the way id did",
   "theme=traps",
   "theme=wizard",
+  "title=Beyond Belief",
   "type=episode",
   "type=mod",
   "zipbasedir=bbelief/"

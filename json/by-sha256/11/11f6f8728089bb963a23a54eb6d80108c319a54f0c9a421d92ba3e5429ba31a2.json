@@ -112,6 +112,7 @@
  "release_date": "2020-09-01",
  "sha256": "11f6f8728089bb963a23a54eb6d80108c319a54f0c9a421d92ba3e5429ba31a2",
  "tags": [
+  "author=zigi",
   "bsp_format=bsp2",
   "commandline=-game zigisp1",
   "exceeds_quake_limits=yes",
@@ -124,6 +125,7 @@
   "nonspecific_tag=coop",
   "nonspecific_tag=e1m3",
   "nonspecific_tag=skybox",
+  "release_date=2020-09-01",
   "source=included",
   "theme=bricks",
   "theme=fortress",
@@ -131,6 +133,7 @@
   "theme=secrets",
   "theme=swamp",
   "theme=water",
+  "title=A Verdant Dawn",
   "type=mod",
   "zipbasedir=/"
  ],

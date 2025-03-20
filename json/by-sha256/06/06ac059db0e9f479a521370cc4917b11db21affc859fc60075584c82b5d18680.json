@@ -31,8 +31,10 @@
  "release_date": "2005-08-18",
  "sha256": "06ac059db0e9f479a521370cc4917b11db21affc859fc60075584c82b5d18680",
  "tags": [
+  "author=Hrimfaxi",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=hrim_sp2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,8 +42,10 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev050902b.html)",
   "map_size=medium",
   "nonspecific_tag=chapters",
+  "release_date=2005-08-18",
   "startmap=tris",
   "theme=knave",
+  "title=The Rest Is Silence",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

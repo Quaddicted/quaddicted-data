@@ -43,8 +43,10 @@
  "release_date": "2021-09-10",
  "sha256": "c8c6924d30605e6171b489b491b2674809a956d0493858cf5395e5b3baab1670",
  "tags": [
+  "author=The Solipsist",
   "commandline=-game copper",
   "dependency=copper_v1_16",
+  "depends=('copper>=1.16')",
   "exceeds_quake_limits=yes",
   "filename=sbtf_cop16.zip",
   "game=quake",
@@ -54,9 +56,11 @@
   "nonspecific_tag=coop",
   "nonspecific_tag=dark",
   "nonspecific_tag=spacehulk",
+  "release_date=2021-09-10",
   "source=included",
   "theme=base",
   "theme=exploration",
+  "title=Swarm Breach Torrent Fight",
   "type=map",
   "zipbasedir=copper/maps/"
  ],

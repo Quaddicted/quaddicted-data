@@ -30,13 +30,18 @@
  "release_date": "2024-01-16",
  "sha256": "45ddd187e07af6b3d43a5f9f5597172e43aae7cebe73cdd2a5057ad6a36f570e",
  "tags": [
+  "author=Greenwood",
+  "author=Mazu",
+  "author=bmFbr",
   "commandline=-game enyo",
   "exceedslimits=exceeds_quake_limits",
   "filename=enyo_hd_20240115.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Website](https://poppyworks.itch.io/episode-enyo)",
+  "release_date=2024-01-16",
   "startmap=start",
+  "title=Episode Enyo",
   "type=episode",
   "type=mod"
  ],

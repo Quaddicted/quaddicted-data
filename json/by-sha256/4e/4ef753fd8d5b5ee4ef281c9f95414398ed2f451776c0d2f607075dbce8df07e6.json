@@ -40,6 +40,7 @@
  "release_date": "2007-03-07",
  "sha256": "4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6",
  "tags": [
+  "author=MadFox",
   "filename=orbit.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,10 +48,12 @@
   "nonspecific_tag=base1",
   "nonspecific_tag=outer base",
   "nonspecific_tag=strogg",
+  "release_date=2007-03-07",
   "startmap=test195",
   "theme=base",
   "theme=quake 2",
   "theme=remake",
+  "title=Orb's Betrayal",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

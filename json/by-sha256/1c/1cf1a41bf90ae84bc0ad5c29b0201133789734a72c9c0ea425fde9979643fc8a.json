@@ -25,6 +25,7 @@
  "release_date": "2000-05-13",
  "sha256": "1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a",
  "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
   "filename=pg2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,9 +34,11 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=pg2)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "nonspecific_tag=monsters",
+  "release_date=2000-05-13",
   "startmap=pgstart",
   "theme=medieval",
   "theme=wizard",
+  "title=Phantasmal Garrison (v2)",
   "type=episode",
   "type=mod",
   "zipbasedir=pg2/"

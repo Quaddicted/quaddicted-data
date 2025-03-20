@@ -59,6 +59,7 @@
  "release_date": "2022-10-03",
  "sha256": "5e28e1bf5bbeffe5cfaf6429f163dded2f5c2780d9561c696033139eb1afa816",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "commandline=-game jpqm12",
   "exceeds_quake_limits=yes",
@@ -72,11 +73,13 @@
   "music=custom",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-10-03",
   "source=included",
   "startmap=jpqm12",
   "theme=base",
   "theme=runic",
   "theme=void",
+  "title=The Rust Forge",
   "type=mod"
  ],
  "title": "The Rust Forge",

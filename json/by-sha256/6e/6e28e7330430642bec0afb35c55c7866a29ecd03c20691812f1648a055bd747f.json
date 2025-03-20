@@ -1036,6 +1036,7 @@
  "release_date": "2019-11-15",
  "sha256": "6e28e7330430642bec0afb35c55c7866a29ecd03c20691812f1648a055bd747f",
  "tags": [
+  "author=JCR",
   "commandline=-game jumpmod",
   "filename=jumpmod2+td_complete.zip",
   "game=quake",
@@ -1046,6 +1047,7 @@
   "nonspecific_tag=koohoo",
   "nonspecific_tag=mod",
   "nonspecific_tag=movement",
+  "release_date=2019-11-15",
   "startmap=jcr_jbdemo1",
   "startmap=jcr_jbdemo2",
   "startmap=jcr_triune1",
@@ -1056,6 +1058,7 @@
   "theme=exploration",
   "theme=maya",
   "theme=rubicon",
+  "title=Jumpmod 2 + Triune Discovery",
   "type=mod",
   "zipbasedir=/"
  ],

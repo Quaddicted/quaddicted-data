@@ -25,14 +25,17 @@
  "release_date": "1998-05-01",
  "sha256": "ac3ddf44268c79ce8de8cf765eeb69e7ab2f5c06627e6f27a2d416b1e207d7b9",
  "tags": [
+  "author=Peter Bisseker (tiddles)",
   "filename=cross_2.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1998-05-01",
   "startmap=cross",
   "theme=no exit",
   "theme=wizard",
+  "title=Crossfire",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

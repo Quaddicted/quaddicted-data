@@ -37,6 +37,7 @@
  "release_date": "2000-05-06",
  "sha256": "ce1123c1009f5596f0e998b46a4dd263d33cd3ef5d601ad0fb8ef37a5be3e639",
  "tags": [
+  "author=Scragbait",
   "filename=sbe.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,7 +45,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev000510.html)",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=sbe)",
   "map_layout=maze",
+  "release_date=2000-05-06",
   "startmap=sbe_strt",
+  "title=Scragbait's Estate",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -37,6 +37,7 @@
  "release_date": "2008-05-15",
  "sha256": "b54bacebf3ce44e4bf983982bdc3480f4c5abe13c45d19b40fbc4548bfa8071a",
  "tags": [
+  "author=Trinca",
   "filename=fbase.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,9 +45,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev080524.html#2ndreview)",
   "map_size=large",
   "nonspecific_tag=hard",
+  "release_date=2008-05-15",
   "source=included",
   "theme=base",
   "theme=idbase",
+  "title=Freaky base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

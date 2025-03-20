@@ -25,6 +25,7 @@
  "release_date": "2003-12-19",
  "sha256": "d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc",
  "tags": [
+  "author=Evan Wagner",
   "filename=evspq1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,9 +35,11 @@
   "nonspecific_tag=crypt",
   "nonspecific_tag=easy",
   "nonspecific_tag=simple",
+  "release_date=2003-12-19",
   "theme=gothic",
   "theme=metal",
   "theme=outdoors",
+  "title=A Subtle Dagger",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

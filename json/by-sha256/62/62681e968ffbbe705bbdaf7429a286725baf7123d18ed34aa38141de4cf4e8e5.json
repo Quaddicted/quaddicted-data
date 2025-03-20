@@ -28,6 +28,7 @@
  "release_date": "1997-02-23",
  "sha256": "62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5",
  "tags": [
+  "author=Brian Hess a.k.a. Wendigo",
   "filename=lunar.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -35,10 +36,12 @@
   "map_size=small",
   "nonspecific_tag=moon",
   "nonspecific_tag=textures",
+  "release_date=1997-02-23",
   "theme=base",
   "theme=doom",
   "theme=realism",
   "theme=space",
+  "title=Lunar Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

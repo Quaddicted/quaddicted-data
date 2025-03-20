@@ -493,6 +493,7 @@
  "release_date": "2000-07-09",
  "sha256": "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
  "tags": [
+  "author=Ironhammer",
   "commandline=-game bad",
   "filename=badpak.zip",
   "game=quake",
@@ -503,6 +504,7 @@
   "map_size=medium",
   "nonspecific_tag=hard",
   "nonspecific_tag=monsters",
+  "release_date=2000-07-09",
   "startmap=ih1m1",
   "startmap=ih1m2",
   "startmap=ih1m3",
@@ -510,6 +512,7 @@
   "theme=base",
   "theme=metal",
   "theme=wizard",
+  "title=Badpak",
   "type=episode",
   "type=mod"
  ],

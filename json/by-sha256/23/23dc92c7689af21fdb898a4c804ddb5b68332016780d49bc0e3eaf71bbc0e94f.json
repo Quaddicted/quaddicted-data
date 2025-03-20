@@ -37,6 +37,7 @@
  "release_date": "1999-12-19",
  "sha256": "23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f",
  "tags": [
+  "author=Quake Map Designer",
   "filename=chqmd.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,7 +45,9 @@
   "nonspecific_tag=horrible",
   "nonspecific_tag=hospital",
   "nonspecific_tag=textures",
+  "release_date=1999-12-19",
   "theme=realism",
+  "title=Hospital Center Quake Map Designer",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

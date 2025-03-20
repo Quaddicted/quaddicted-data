@@ -31,9 +31,11 @@
  "release_date": "2014-05-27",
  "sha256": "59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b",
  "tags": [
+  "author=sock",
   "bsp_format=bsp2",
   "commandline=-quoth -game metmon",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=metmon1d.zip",
   "game=quake",
@@ -43,6 +45,7 @@
   "link=[ModDB](http://www.moddb.com/members/simonoc/addons/metal-monstrosity)",
   "map_size=medium",
   "mod=quoth",
+  "release_date=2014-05-27",
   "source=included",
   "startmap=metmon",
   "theme=base",
@@ -52,6 +55,7 @@
   "theme=quoth",
   "theme=runic",
   "theme=space",
+  "title=Metal Monstrosity",
   "type=mod",
   "zipbasedir=metmon/"
  ],

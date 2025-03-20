@@ -25,14 +25,17 @@
  "release_date": "1997-09-18",
  "sha256": "72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b",
  "tags": [
+  "author=Sascha Otterbein (mne[MON]ik)",
   "filename=tmc.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990112.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_layout=non-linear",
+  "release_date=1997-09-18",
   "theme=base",
   "theme=exploration",
+  "title=The Monolith Complex",
   "type=map",
   "type=unfinished",
   "zipbasedir=id1/maps/"

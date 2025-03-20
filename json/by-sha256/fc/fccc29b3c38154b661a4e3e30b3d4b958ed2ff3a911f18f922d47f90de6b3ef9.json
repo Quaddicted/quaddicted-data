@@ -34,6 +34,7 @@
  "release_date": "1999-07-24",
  "sha256": "fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9",
  "tags": [
+  "author=Peter Bisseker (tiddles)",
   "filename=valour.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -42,7 +43,9 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=small",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-07-24",
   "theme=industrial",
+  "title=Steel Valour",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

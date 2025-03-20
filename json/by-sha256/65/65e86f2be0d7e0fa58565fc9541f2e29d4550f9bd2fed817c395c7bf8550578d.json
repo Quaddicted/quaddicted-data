@@ -31,13 +31,16 @@
  "release_date": "2002-01-01",
  "sha256": "65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d",
  "tags": [
+  "author=The Void (tim)",
   "filename=celscape.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2002-01-01",
   "theme=base",
   "theme=brick",
   "theme=prison",
+  "title=Cell Escape",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

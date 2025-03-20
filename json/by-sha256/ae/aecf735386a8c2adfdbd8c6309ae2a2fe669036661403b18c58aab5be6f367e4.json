@@ -25,6 +25,7 @@
  "release_date": "1996-12-20",
  "sha256": "aecf735386a8c2adfdbd8c6309ae2a2fe669036661403b18c58aab5be6f367e4",
  "tags": [
+  "author=Marcus Dromowicz",
   "filename=mexx6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,7 +35,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_layout=arena",
   "map_size=medium",
+  "release_date=1996-12-20",
   "theme=base",
+  "title=Suicide Staccato",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

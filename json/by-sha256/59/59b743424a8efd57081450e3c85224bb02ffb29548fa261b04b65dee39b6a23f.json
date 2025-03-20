@@ -863,6 +863,7 @@
  "release_date": "2022-11-28",
  "sha256": "59b743424a8efd57081450e3c85224bb02ffb29548fa261b04b65dee39b6a23f",
  "tags": [
+  "author=Justin Fleck",
   "commandline=-game rd1m2rmx",
   "exceeds_quake_limits=yes",
   "filename=rd1m2rmx_1_2.zip",
@@ -873,12 +874,14 @@
   "map_size=medium",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-11-28",
   "source=included",
   "startmap=rd1m2rmx",
   "theme=lava",
   "theme=metal",
   "theme=remix",
   "theme=runic",
+  "title=Third Iteration",
   "type=mod"
  ],
  "title": "Third Iteration",

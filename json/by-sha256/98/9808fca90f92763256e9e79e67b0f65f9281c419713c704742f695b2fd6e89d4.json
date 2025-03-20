@@ -505,8 +505,10 @@
  "release_date": "2018-03-14",
  "sha256": "9808fca90f92763256e9e79e67b0f65f9281c419713c704742f695b2fd6e89d4",
  "tags": [
+  "author=mukor",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=de_dust.zip",
   "game=quake",
@@ -524,9 +526,11 @@
   "nonspecific_tag=textures",
   "nonspecific_tag=tribute",
   "playstyle=horde",
+  "release_date=2018-03-14",
   "source=included",
   "theme=arcane dimensions",
   "theme=desert",
+  "title=Disengage the Simulator",
   "type=map",
   "zipbasedir=ad/"
  ],

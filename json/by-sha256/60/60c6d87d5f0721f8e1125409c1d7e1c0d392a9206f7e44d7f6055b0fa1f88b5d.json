@@ -38,6 +38,8 @@
  "release_date": "2004-04-26",
  "sha256": "60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d",
  "tags": [
+  "author=Vondur",
+  "author=czg",
   "filename=e1m1rmx.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -46,10 +48,12 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2004-04-26",
   "source=included",
   "theme=base",
   "theme=idbase",
   "theme=remix",
+  "title=The Slipgate Duplex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

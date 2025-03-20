@@ -43,12 +43,15 @@
  "release_date": "1996-11-16",
  "sha256": "adecfe8b455acb4aaed62675e2b94393f9bf5b5cb3cef4707e08a927a95cfde4",
  "tags": [
+  "author=Marc Roussel",
   "filename=drunk.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1996-11-16",
   "source=included",
+  "title=Enter the bloodfest DRUNK",
   "type=demo",
   "type=map",
   "zipbasedir=id1/maps/"

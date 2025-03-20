@@ -31,6 +31,7 @@
  "release_date": "2023-04-01",
  "sha256": "ea4c4f09746f5a9360f86f948056e34d58b8fcb92dfcdac428bf3118d7362ede",
  "tags": [
+  "author=Jimmy / James Paddock",
   "filename=outpost91_b1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,10 +40,12 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=debut",
+  "release_date=2023-04-01",
   "startmap=outpost91",
   "theme=base",
   "theme=classic",
   "theme=id1",
+  "title=Outpost 91",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

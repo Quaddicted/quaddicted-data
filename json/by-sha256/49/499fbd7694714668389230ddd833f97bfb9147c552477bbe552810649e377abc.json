@@ -46,14 +46,17 @@
  "release_date": "2020-08-21",
  "sha256": "499fbd7694714668389230ddd833f97bfb9147c552477bbe552810649e377abc",
  "tags": [
+  "author=Fairweather",
   "exceeds_quake_limits=yes",
   "filename=dbdreaming.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61937)",
   "map_size=large",
+  "release_date=2020-08-21",
   "source=included",
   "theme=knave",
+  "title=Dead But Dreaming",
   "type=demo",
   "type=map",
   "zipbasedir=id1/maps/"

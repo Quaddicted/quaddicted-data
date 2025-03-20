@@ -49,12 +49,15 @@
  "release_date": "2002-05-13",
  "sha256": "42d0cd0512756eff796c07add8fc8cf8bfaf6116eec17a8c0ce968afd3ed2c55",
  "tags": [
+  "author=Repus",
   "filename=building.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=bldg)",
   "map_size=large",
+  "release_date=2002-05-13",
   "theme=bricks",
+  "title=Building",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

@@ -34,6 +34,7 @@
  "release_date": "2017-10-18",
  "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "tags": [
+  "author=YukiRaven",
   "exceeds_quake_limits=yes",
   "filename=tofaz.zip",
   "game=quake",
@@ -43,12 +44,14 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61521)",
   "map_size=medium",
   "nonspecific_tag=lit",
+  "release_date=2017-10-18",
   "startmap=tofaz",
   "theme=fog",
   "theme=metal",
   "theme=red",
   "theme=runic",
   "theme=temple",
+  "title=Temple of Azathoth",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

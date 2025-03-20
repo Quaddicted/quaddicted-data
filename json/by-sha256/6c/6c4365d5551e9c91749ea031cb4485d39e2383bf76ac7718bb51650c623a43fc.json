@@ -25,6 +25,7 @@
  "release_date": "1997-10-10",
  "sha256": "6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc",
  "tags": [
+  "author=Jonas N.P. Lindstrom",
   "filename=sadlark7.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,8 +34,10 @@
   "map_layout=non-linear",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-10-10",
   "theme=metal",
   "theme=traps",
+  "title=Dig me no grave",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

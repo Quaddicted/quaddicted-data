@@ -26,6 +26,8 @@
  "release_date": "1997-07-11",
  "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "tags": [
+  "author=Einar Saukas (QC)",
+  "author=Neil Manke",
   "commandline=-game alba02",
   "filename=alba02.zip",
   "game=quake",
@@ -43,10 +45,12 @@
   "nonspecific_tag=dark",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=skins",
+  "release_date=1997-07-11",
   "theme=medieval",
   "theme=story",
   "theme=town",
   "theme=village",
+  "title=Inverurie",
   "type=mod",
   "zipbasedir=alba02/"
  ],

@@ -31,6 +31,7 @@
  "release_date": "1997-04-01",
  "sha256": "d0c7c70d846a83e3ede93cd6dd26b0f9103d7e6780d7099e389fe71157721333",
  "tags": [
+  "author=Chris Mayers",
   "filename=ins1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,9 +40,11 @@
   "map_layout=non-linear",
   "map_size=small",
   "nonspecific_tag=start map",
+  "release_date=1997-04-01",
   "startmap=gate",
   "theme=traps",
   "theme=wizard",
+  "title=The Insurrection, part I - The Overlord's Legacy",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

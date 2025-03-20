@@ -31,6 +31,7 @@
  "release_date": "2021-11-01",
  "sha256": "8eb9091a9066b8c8b61b96526cedc5d8dafa7d29e2e1e747f3f795a77fc69469",
  "tags": [
+  "author=The_Pirate",
   "filename=baddec.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,11 +40,13 @@
   "nonspecific_tag=factory",
   "nonspecific_tag=machines",
   "nonspecific_tag=office",
+  "release_date=2021-11-01",
   "source=included",
   "theme=base",
   "theme=crates",
   "theme=industrial",
   "theme=realism",
+  "title=Bad Decision",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

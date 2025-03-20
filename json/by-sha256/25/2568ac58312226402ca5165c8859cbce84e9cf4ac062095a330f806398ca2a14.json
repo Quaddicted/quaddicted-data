@@ -25,6 +25,7 @@
  "release_date": "1997-03-27",
  "sha256": "2568ac58312226402ca5165c8859cbce84e9cf4ac062095a330f806398ca2a14",
  "tags": [
+  "author=Bruce W. Krueger",
   "filename=slipcomp.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,8 +33,10 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelss.htm)",
   "map_size=medium",
   "nonspecific_tag=dark",
+  "release_date=1997-03-27",
   "theme=base",
   "theme=puzzle",
+  "title=Slipgate research complex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

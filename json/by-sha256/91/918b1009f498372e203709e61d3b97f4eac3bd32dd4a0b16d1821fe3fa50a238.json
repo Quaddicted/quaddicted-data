@@ -61,8 +61,10 @@
  "release_date": "2020-01-09",
  "sha256": "918b1009f498372e203709e61d3b97f4eac3bd32dd4a0b16d1821fe3fa50a238",
  "tags": [
+  "author=nolcoz",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "filename=cgl_q.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -72,10 +74,12 @@
   "music=custom",
   "nonspecific_tag=birds",
   "nonspecific_tag=joke",
+  "release_date=2020-01-09",
   "source=included",
   "startmap=cgl_q",
   "startmap=its_in_bois",
   "theme=quoth",
+  "title=The C.G.L Project",
   "type=map",
   "zipbasedir=quoth/"
  ],

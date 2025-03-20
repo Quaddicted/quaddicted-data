@@ -526,6 +526,7 @@
  "release_date": "2024-01-19",
  "sha256": "7cc783ecf6332fd1c8b0d14862f1e7e3d23e81c240bf09a0dceaa4d8d284154a",
  "tags": [
+  "author=zigi",
   "commandline=-game utotp",
   "exceedslimits=exceeds_quake_limits",
   "filename=utotp.zip",
@@ -533,7 +534,9 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/undiscovered-technology-of-the-pharaohs.311/)",
   "map_size=large",
+  "release_date=2024-01-19",
   "startmap=start",
+  "title=Undiscovered Technology of the Pharaohs",
   "type=map",
   "type=mod"
  ],

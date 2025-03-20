@@ -439,6 +439,7 @@
  "release_date": "2008-01-19",
  "sha256": "72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3",
  "tags": [
+  "author=LTH",
   "commandline=-game back2forwards",
   "filename=back2forwards.zip",
   "game=quake",
@@ -449,10 +450,12 @@
   "map_layout=non-linear",
   "map_size=large",
   "mod=rubicon",
+  "release_date=2008-01-19",
   "source=included",
   "theme=base",
   "theme=rubicon",
   "theme=space",
+  "title=Forwards Compatible",
   "type=mod",
   "zipbasedir=back2forwards/"
  ],

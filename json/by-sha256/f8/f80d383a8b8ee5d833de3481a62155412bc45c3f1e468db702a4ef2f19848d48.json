@@ -25,6 +25,7 @@
  "release_date": "1997-05-07",
  "sha256": "f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48",
  "tags": [
+  "author=Mike Ruete / 'Gripp'",
   "filename=grc4beta.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -36,10 +37,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-05-07",
   "theme=e3m5",
   "theme=metal",
   "theme=traps",
   "theme=windtunnel",
+  "title=Rust in Peace",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
