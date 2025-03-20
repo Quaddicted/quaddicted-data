@@ -62,9 +62,9 @@
  "notes": [
   "Additional files: <a href=\"http://www.quaddicted.com/reviews/zer11.html\">patch 1.1</a>, <a href=\"http://www.quaddicted.com/filebase/zerend_fix.zip\">zerend hotfix</a>, <a href=\"http://www.quaddicted.com/reviews/zerdem.html\">teaser demo</a>."
  ],
- "provides": [
-  "zer=1.0"
- ],
+ "provides": {
+  "zer": "1.0"
+ },
  "release_date": "1997-09-27",
  "release_group": "zer",
  "sha256": "e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797",

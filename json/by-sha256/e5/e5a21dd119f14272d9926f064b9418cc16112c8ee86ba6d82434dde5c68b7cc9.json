@@ -57,9 +57,9 @@
   "UPDATE, 8 March 2023: <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">version 1.2</a> is available and recommended.",
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "provides": [
-  "alkaline=1.10"
- ],
+ "provides": {
+  "alkaline": "1.10"
+ },
  "release_date": "2021-11-23",
  "release_group": "alkaline",
  "sha256": "e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9",

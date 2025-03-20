@@ -11707,9 +11707,9 @@
   "These maps (and likely all subsequent maps based on AD) require a source port with increased limits as well as support for BSP2 and transparent textures. Quakespasm 0.93+ is strongly recommended.",
   "An additional bug-fix <b>patch</b> is available: <a href=\"https://www.quaddicted.com/filebase/ad_v1_70patch1.zip\">here</a>"
  ],
- "provides": [
-  "ad=1.70"
- ],
+ "provides": {
+  "ad": "1.70"
+ },
  "release_date": "2017-12-31",
  "release_group": "ad",
  "sha256": "5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999",

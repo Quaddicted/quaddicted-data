@@ -1458,9 +1458,9 @@
   "This is version 1.2, which fixes major bugs in the progs and maps.",
   "Requires a modern engine / source port with increased limits."
  ],
- "provides": [
-  "ctsj2=1.2"
- ],
+ "provides": {
+  "ctsj2": "1.2"
+ },
  "release_date": "2022-08-11",
  "release_group": "ctsj2",
  "sha256": "848b3d9f71de828890839ced4c5c2799ec25a07e111b61c5787b9a401740b95c",

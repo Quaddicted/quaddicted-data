@@ -454,9 +454,9 @@
   "extract": "{base}//"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "copper=1.17"
- ],
+ "provides": {
+  "copper": "1.17"
+ },
  "release_date": "2021-08-25",
  "release_group": "copper",
  "sha256": "7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a",

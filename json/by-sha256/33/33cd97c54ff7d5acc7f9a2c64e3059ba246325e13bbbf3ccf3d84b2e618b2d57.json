@@ -94,9 +94,9 @@
   "This might not work when installed with the Quake Injector on a case-sensitive filesystem (Linux) because the pak file is named \"Pak0.pak\". You can manually rename the file to lowercase \"pak0.pak\".",
   "A modern engine / source port with increased limits is required."
  ],
- "provides": [
-  "remobilize=1.1"
- ],
+ "provides": {
+  "remobilize": "1.1"
+ },
  "release_date": "2023-07-16",
  "release_group": "remobilize",
  "sha256": "33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57",

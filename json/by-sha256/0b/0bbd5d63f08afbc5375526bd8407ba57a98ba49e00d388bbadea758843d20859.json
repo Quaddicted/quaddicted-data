@@ -115,9 +115,9 @@
  "notes": [
   "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher."
  ],
- "provides": [
-  "ter_shibboleth=1.0"
- ],
+ "provides": {
+  "ter_shibboleth": "1.0"
+ },
  "release_date": "2017-09-01",
  "release_group": "ter_shibboleth",
  "sha256": "0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859",

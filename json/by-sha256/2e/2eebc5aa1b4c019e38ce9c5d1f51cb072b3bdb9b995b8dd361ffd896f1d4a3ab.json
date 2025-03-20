@@ -22,9 +22,9 @@
   "extract": "{base}/shadow/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "shadow=1.0"
- ],
+ "provides": {
+  "shadow": "1.0"
+ },
  "release_date": "1997-03-06",
  "release_group": "shadow",
  "sha256": "2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab",

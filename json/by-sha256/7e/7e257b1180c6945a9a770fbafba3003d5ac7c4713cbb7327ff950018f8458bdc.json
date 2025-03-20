@@ -80,9 +80,9 @@
  "notes": [
   "May require a modern engine / source port with increased limits."
  ],
- "provides": [
-  "wlb=1.2"
- ],
+ "provides": {
+  "wlb": "1.2"
+ },
  "release_date": "2023-01-27",
  "release_group": "wlb",
  "sha256": "7e257b1180c6945a9a770fbafba3003d5ac7c4713cbb7327ff950018f8458bdc",

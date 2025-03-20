@@ -5000,9 +5000,9 @@
  "notes": [
   "Previously only available in the Quaddicted filebase, but added to the main archive during the 2024 rebuild for dependency purposes."
  ],
- "provides": [
-  "drake=2.0"
- ],
+ "provides": {
+  "drake": "2.0"
+ },
  "release_date": "2021-09-04",
  "release_group": "drake",
  "sha256": "76ec31782bf5c8cf9a372c59bfd20b5e38f7d76c94aa1190078cfb72ecb41cd3",

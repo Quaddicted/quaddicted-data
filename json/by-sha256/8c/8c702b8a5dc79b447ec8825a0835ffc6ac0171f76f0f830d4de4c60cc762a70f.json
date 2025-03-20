@@ -439,9 +439,9 @@
  "notes": [
   "The mod is accompanied by a seperate custom episode: <a href=\"74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62\">Underdark Overbright</a> An updated version (1.17) is available <a href=\"7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a\">here</a>."
  ],
- "provides": [
-  "copper=1.00"
- ],
+ "provides": {
+  "copper": "1.00"
+ },
  "release_date": "2019-06-21",
  "release_group": "copper",
  "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",

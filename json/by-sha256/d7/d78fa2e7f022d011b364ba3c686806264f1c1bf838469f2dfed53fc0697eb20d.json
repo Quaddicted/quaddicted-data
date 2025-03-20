@@ -11028,9 +11028,9 @@
   "A patch for 1.5 is available <a href=\"https://www.quaddicted.com/filebase/ad_v1_50patch1.zip\">here</a>",
   "These maps require an engine port with increased limits as well as support for BSP2 and transparent textures. They are mainly designed to be played with <a href=\"http://quakespasm.sourceforge.net\">QuakeSpasm 0.92.0</a> or later."
  ],
- "provides": [
-  "ad=1.50"
- ],
+ "provides": {
+  "ad": "1.50"
+ },
  "release_date": "2016-12-03",
  "release_group": "ad",
  "sha256": "d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d",

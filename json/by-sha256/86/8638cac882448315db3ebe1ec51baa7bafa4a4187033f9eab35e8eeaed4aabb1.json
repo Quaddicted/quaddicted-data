@@ -50,9 +50,9 @@
  "notes": [
   "This is version 2.1 - a patch to version 2.2 is available <a href=\"https://www.quaddicted.com/filebase/quoth2pt2patch_2.zip\">here</a> and version 2.2 (full) is available <a href=\"https://www.quaddicted.com/filebase/quoth2pt2full_2.zip\">here</a>."
  ],
- "provides": [
-  "quoth=2.1"
- ],
+ "provides": {
+  "quoth": "2.1"
+ },
  "release_date": "2008-03-09",
  "release_group": "quoth",
  "sha256": "8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1",

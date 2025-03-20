@@ -340,9 +340,9 @@
   "extract": "{base}/"
  },
  "json_version": "2025.03.20",
- "provides": [
-  "nsoe=2.0"
- ],
+ "provides": {
+  "nsoe": "2.0"
+ },
  "release_date": "2008-05-27",
  "release_group": "nsoe",
  "sha256": "fc12e74f664c0d57b6d61bf5065f152522cc2560912bbf1a88983c717207d948",

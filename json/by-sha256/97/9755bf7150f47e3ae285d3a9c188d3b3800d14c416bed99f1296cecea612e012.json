@@ -2156,9 +2156,9 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "provides": [
-  "tombofthunder=1032b"
- ],
+ "provides": {
+  "tombofthunder": "1032b"
+ },
  "release_date": "2024-07-24",
  "release_group": "tombofthunder",
  "sha256": "9755bf7150f47e3ae285d3a9c188d3b3800d14c416bed99f1296cecea612e012",

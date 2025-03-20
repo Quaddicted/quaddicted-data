@@ -159,9 +159,9 @@
   "After installing, start the episode via console command: \"map eod_intro\"",
   "May require a modern engine / source port with increased limits."
  ],
- "provides": [
-  "toneodspmp3=2.2"
- ],
+ "provides": {
+  "toneodspmp3": "2.2"
+ },
  "release_date": "2022-09-18",
  "release_group": "toneodspmp3",
  "sha256": "72d7cb7c259d6c98084a5989ab9766df98087647592d3bfd5065002dae65ffa6",
