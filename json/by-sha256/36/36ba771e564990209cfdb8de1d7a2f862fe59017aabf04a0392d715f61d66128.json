@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Matt Sefton"
+ ],
  "bytes": 958042,
  "description": "Fairly large idbase map with a lot of button pressing.",
- "files": {
-  "jawbreak.bsp": {
+ "files": [
+  {
    "bytes": 2247276,
+   "path": "jawbreak.bsp",
    "sha256": "2c3c68b1a2d684a29136101983deff0233ec757cad57cd75a10016df2ba5aa15",
    "timestamp": "1997-07-20T02:38:16.000Z"
   },
-  "jawbreak.txt": {
+  {
    "bytes": 5915,
+   "path": "jawbreak.txt",
    "sha256": "bbc0505fa73c636af98037075ab3b32b7c70579e42581c9be69a7cf7bdd20176",
    "timestamp": "1997-07-20T10:03:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-07-20",
  "sha256": "36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128",
  "tags": [
-  "author=Matt Sefton",
   "filename=jawbreak.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,13 +36,12 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-07-20",
   "theme=base",
   "theme=doom",
-  "title=Jawbreak",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Jawbreak",
  "urls": [
   "https://www.quaddicted.com/filebase/jawbreak.zip",
   "https://www.quaddicted.com/files/by-sha256/36/36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128/jawbreak.zip"

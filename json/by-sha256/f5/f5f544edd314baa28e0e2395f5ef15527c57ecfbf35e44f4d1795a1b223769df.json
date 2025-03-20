@@ -1,53 +1,61 @@
 {
+ "authors": [
+  "Spootnik"
+ ],
  "bytes": 809861,
+ "depends": [
+  "copper>=1.30"
+ ],
  "description": "Small map created with protoype textures, consisting of various experimental 'challenges' in place of conventional gameplay.",
- "files": {
-  "dope1.bsp": {
+ "files": [
+  {
    "bytes": 1098280,
+   "path": "dope1.bsp",
    "sha256": "6d1b0a100533729e7fdd9b6372cdbcf08356f9152c2158af61d4462fa6e125f7",
    "timestamp": "2024-01-11T21:40:10.000Z"
   },
-  "dope1.lit": {
+  {
    "bytes": 789152,
+   "path": "dope1.lit",
    "sha256": "f0115e86f8da10d7787e8f7c0aaffaca6b584cd84d3fc8b7aef08c8bbc75e221",
    "timestamp": "2024-01-11T21:40:10.000Z"
   },
-  "dope1.map": {
+  {
    "bytes": 696295,
+   "path": "dope1.map",
    "sha256": "d518b76f40bbcdcf3ccc1d0df2005f1eeb17198f7186aaef6efcced901b02ef3",
    "timestamp": "2024-01-11T21:39:42.000Z"
   },
-  "dope1.txt": {
+  {
    "bytes": 313,
+   "path": "dope1.txt",
    "sha256": "d1c41f0ebc78927fae248b7d02744eb22fe4f4d4d7ab464829d59fdb5262e5a0",
    "timestamp": "2024-01-25T20:54:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility."
  ],
+ "release_date": "2024-01-11",
  "sha256": "f5f544edd314baa28e0e2395f5ef15527c57ecfbf35e44f4d1795a1b223769df",
  "tags": [
-  "author=Spootnik",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "depends=('copper>=1.30')",
   "filename=dope1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/info-player-start-a-dope-challenge-map.307/)",
   "map_size=small",
   "mod=copper",
-  "release_date=2024-01-11",
   "startmap=dope1",
-  "title=Info Player Start: A Dope (Challenge) Map",
   "type=map"
  ],
+ "title": "Info Player Start: A Dope (Challenge) Map",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/f5/f5f544edd314baa28e0e2395f5ef15527c57ecfbf35e44f4d1795a1b223769df/dope1.zip",
   "https://x901.net/quaddictedfiles/dope1.zip"

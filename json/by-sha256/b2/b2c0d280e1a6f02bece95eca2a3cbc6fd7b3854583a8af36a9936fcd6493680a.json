@@ -1,83 +1,100 @@
 {
+ "authors": [
+  "Comrade Beep"
+ ],
  "bytes": 23214840,
+ "depends": [
+  "ad>=1.71"
+ ],
  "description": "Medium-sized industrial facility using cr8 and Doom 3 textures. It comes with a custom skybox and a music track.",
- "files": {
-  "ad_beep1m2.txt": {
+ "files": [
+  {
    "bytes": 2580,
+   "path": "ad_beep1m2.txt",
    "sha256": "39d0591fde451c19291d5fd081ca57845676538c927c19c406b58602bd0c5710",
    "timestamp": "2020-03-25T09:39:04.000Z"
   },
-  "gfx/env/beep/d4sky03y_bk.tga": {
+  {
    "bytes": 3485571,
+   "path": "gfx/env/beep/d4sky03y_bk.tga",
    "sha256": "5ae8da3471a4b4c8c48ba39bdacabecb2ce2ab53546a26021c1cf2dd63504e6d",
    "timestamp": "2020-02-22T09:46:40.000Z"
   },
-  "gfx/env/beep/d4sky03y_dn.tga": {
+  {
    "bytes": 3942005,
+   "path": "gfx/env/beep/d4sky03y_dn.tga",
    "sha256": "0f488783a23e680d9dc6aa049a285e71d8cdc1c823486771ede79976cfe8054a",
    "timestamp": "2020-02-22T09:46:40.000Z"
   },
-  "gfx/env/beep/d4sky03y_ft.tga": {
+  {
    "bytes": 3455774,
+   "path": "gfx/env/beep/d4sky03y_ft.tga",
    "sha256": "260a0ee0cd27e41cec364a2fbe6152b31cf0e92c79a8c934897fcf31102998d1",
    "timestamp": "2020-02-22T09:46:40.000Z"
   },
-  "gfx/env/beep/d4sky03y_lf.tga": {
+  {
    "bytes": 3473655,
+   "path": "gfx/env/beep/d4sky03y_lf.tga",
    "sha256": "bf4b1205102b939709e28f6bd164331cbf8790dc4496a2d573f606764810cb8a",
    "timestamp": "2020-02-22T09:46:40.000Z"
   },
-  "gfx/env/beep/d4sky03y_rt.tga": {
+  {
    "bytes": 3631018,
+   "path": "gfx/env/beep/d4sky03y_rt.tga",
    "sha256": "43b780d13f980539a90041c84ac868af1270052838370f795b09c0cb849b96b8",
    "timestamp": "2020-02-22T10:11:18.000Z"
   },
-  "gfx/env/beep/d4sky03y_up.tga": {
+  {
    "bytes": 3497982,
+   "path": "gfx/env/beep/d4sky03y_up.tga",
    "sha256": "cc354e7e2d169026df6dddd483592a26fada23fcec39041d6db17bfe2c2531b8",
    "timestamp": "2020-02-22T10:11:18.000Z"
   },
-  "maps/ad_beep1m2.bsp": {
+  {
    "bytes": 7320728,
+   "path": "maps/ad_beep1m2.bsp",
    "sha256": "370782898b60ff0bd0536f1233590fe3a4774778da26f16c2166f5c0d89ba60a",
    "timestamp": "2020-03-25T09:23:54.000Z"
   },
-  "maps/ad_beep1m2.lit": {
+  {
    "bytes": 1542122,
+   "path": "maps/ad_beep1m2.lit",
    "sha256": "404af680abfccbc917384a20e618855057ba95193a80e17857496694909ea7e8",
    "timestamp": "2020-03-25T09:23:36.000Z"
   },
-  "music/track203.ogg": {
+  {
    "bytes": 9443828,
+   "path": "music/track203.ogg",
    "sha256": "d1a8f82600c6dff9ea18cafeab80b0f3eb38af27f3407c5a311400072c49873e",
    "timestamp": "2020-03-18T10:42:30.000Z"
   },
-  "sound/ambience/": {
+  {
    "bytes": 0,
+   "path": "sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-03-18T20:16:36.000Z"
   },
-  "sound/ambience/tornadosiren.wav": {
+  {
    "bytes": 409132,
+   "path": "sound/ambience/tornadosiren.wav",
    "sha256": "793bb573cfa13890fed938c1e8259b2218480f2e4769c56e9060010d5d5c4270",
    "timestamp": "2020-03-18T18:27:58.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
  ],
+ "release_date": "2020-02-19",
  "sha256": "b2c0d280e1a6f02bece95eca2a3cbc6fd7b3854583a8af36a9936fcd6493680a",
  "tags": [
-  "author=Comrade Beep",
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
-  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=ad_beep1m2.zip",
   "game=quake",
@@ -90,16 +107,15 @@
   "nonspecific_tag=cr8",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
-  "release_date=2020-02-19",
   "theme=arcane dimensions",
   "theme=base",
   "theme=doom 3",
   "theme=industrial",
   "theme=secrets",
-  "title=The Lima Project",
   "type=map",
   "zipbasedir=ad/"
  ],
+ "title": "The Lima Project",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_beep1m2.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2c0d280e1a6f02bece95eca2a3cbc6fd7b3854583a8af36a9936fcd6493680a/ad_beep1m2.zip"

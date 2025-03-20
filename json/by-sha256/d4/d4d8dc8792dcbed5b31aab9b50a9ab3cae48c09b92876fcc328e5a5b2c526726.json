@@ -1,33 +1,44 @@
 {
+ "authors": [
+  "JPL"
+ ],
  "bytes": 5638123,
+ "current_main_group_package": true,
+ "depends": [
+  "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2"
+ ],
  "description": "Updated (fully vised) version of <a href=\"e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2\">Fort Driant</a> which improves the rendering performance.",
- "files": {
-  "fort_driant-fullvis.bsp": {
+ "files": [
+  {
    "bytes": 12392900,
+   "path": "fort_driant-fullvis.bsp",
    "sha256": "bacde8e00ac94866f08c1f3f221ededfd69f073ab459ab47a20b2135b38ddad3",
    "timestamp": "2009-03-05T16:52:08.000Z"
   },
-  "fort_driant-fullvis.lit": {
+  {
    "bytes": 2998721,
+   "path": "fort_driant-fullvis.lit",
    "sha256": "07e1364bdd9f8a3c2987139a3ef484be8a4e76b33e27f0f473042ce73a43d17d",
    "timestamp": "2009-03-05T16:52:08.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>, the <a href=\"e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2\">original release</a> and a source port with increased limits."
  ],
+ "provides": [
+  "fort_driant=2.0"
+ ],
+ "release_date": "2009-03-06",
+ "release_group": "fort_driant",
  "sha256": "d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726",
  "tags": [
-  "author=JPL",
   "commandline=-hipnotic -game quoth",
-  "current_main_group_package=yes",
   "dependency=fort_driant",
   "dependency=quoth",
-  "depends=e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2",
   "filename=fort_driant-fullvis.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -35,19 +46,16 @@
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=60310)",
   "map_size=large",
   "mod=quoth",
-  "provides='fort_driant=2.0'",
-  "release_date=2009-03-06",
-  "release_group=fort_driant",
   "startmap=fort_driant-fullvis",
   "theme=base",
   "theme=quoth",
-  "title=Fort Driant",
   "type=map",
-  "version=2.0",
   "zipbasedir=quoth/maps/"
  ],
+ "title": "Fort Driant",
  "urls": [
   "https://www.quaddicted.com/filebase/fort_driant-fullvis.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726/fort_driant-fullvis.zip"
- ]
+ ],
+ "version": "2.0"
 }

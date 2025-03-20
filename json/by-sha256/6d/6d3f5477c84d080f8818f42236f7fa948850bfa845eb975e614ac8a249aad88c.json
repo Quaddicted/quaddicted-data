@@ -1,35 +1,42 @@
 {
+ "authors": [
+  "Andrew 'than' Palmer"
+ ],
  "bytes": 2443317,
  "description": "SP remake of Quake's original deathmatch map DM3. Highly detailed and many expanded areas yet still maintaining the original layout in deathmatch mode. Map source is included.",
- "files": {
-  "dm3rmx.bsp": {
+ "files": [
+  {
    "bytes": 3989396,
+   "path": "dm3rmx.bsp",
    "sha256": "3a87ca3c030fa46843babae35bafae2129caaf1043e7f564ed1d336fb19daa31",
    "timestamp": "2006-07-15T23:30:04.000Z"
   },
-  "dm3rmx.map": {
+  {
    "bytes": 3243417,
+   "path": "dm3rmx.map",
    "sha256": "4138cd13f8f90e91e7bc25b822736c3ba92f4d2d392735e097b618eba0e5e7a6",
    "timestamp": "2006-07-15T23:04:46.000Z"
   },
-  "dm3rmx.rmf": {
+  {
    "bytes": 14078662,
+   "path": "dm3rmx.rmf",
    "sha256": "a832e70199e20c74b232662dbfb74a4b0861915c29e4f4ed509a3a7a17b06275",
    "timestamp": "2006-07-15T23:04:56.000Z"
   },
-  "dm3rmx.txt": {
+  {
    "bytes": 14130,
+   "path": "dm3rmx.txt",
    "sha256": "5f85ef911b8dfc3cfe0009fa32563e23e92523ccbfa6a3b33f7d8302c292127b",
    "timestamp": "2006-07-19T13:14:42.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2006-07-19",
  "sha256": "6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c",
  "tags": [
-  "author=Andrew 'than' Palmer",
   "filename=dm3rmx.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,15 +45,14 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=2006-07-19",
   "source=included",
   "theme=base",
   "theme=idbase",
   "theme=remake",
-  "title=The Occupied Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Occupied Base",
  "urls": [
   "https://www.quaddicted.com/filebase/dm3rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/6d/6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c/dm3rmx.zip"

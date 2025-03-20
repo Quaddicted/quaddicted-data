@@ -1,42 +1,46 @@
 {
+ "authors": [
+  "Dustin \"Tronyn\" Geeraert"
+ ],
  "bytes": 634222,
  "description": "Small terracotta-colored Coagula-style space map. Also featured in the first Coagula mapping contest pack.",
- "files": {
-  "terror.bsp": {
+ "files": [
+  {
    "bytes": 2009572,
+   "path": "terror.bsp",
    "sha256": "04283256bb024ba6a09204c0b818592180b1ca0876b134c2d23355b6e739b006",
    "timestamp": "2003-03-30T22:31:32.000Z"
   },
-  "terror.txt": {
+  {
    "bytes": 888,
+   "path": "terror.txt",
    "sha256": "6b79b55bfdc2d58b6420c7c9d7448d2d89279511c21418cc93bee22fa5b1605d",
    "timestamp": "2003-05-07T20:16:28.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2003-05-07",
  "sha256": "915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae",
  "tags": [
-  "author=Dustin \"Tronyn\" Geeraert",
   "filename=terror.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://tronyn.planetquake.gamespy.com",
   "link:review=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=131)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "release_date=2003-05-07",
   "theme=abstract",
   "theme=castle",
   "theme=coagula",
   "theme=medieval",
   "theme=space",
   "theme=terracotta",
-  "title=The Terracotta Terror",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Terracotta Terror",
  "urls": [
   "https://www.quaddicted.com/filebase/terror.zip",
   "https://www.quaddicted.com/files/by-sha256/91/915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae/terror.zip"

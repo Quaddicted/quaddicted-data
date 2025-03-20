@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Jonas N.P. Lindstrom"
+ ],
  "bytes": 1014247,
  "description": "A city courtyard / temple type map with terracotta and metal tectures, narrow rooms and well-executed traps.",
- "files": {
-  "sadlark5.bsp": {
+ "files": [
+  {
    "bytes": 2288564,
+   "path": "sadlark5.bsp",
    "sha256": "b47553f3316f07bb6b3b67b96bcc8d3dcbf475c1169d8f7ce812de4d53088c6b",
    "timestamp": "1997-08-19T16:34:26.000Z"
   },
-  "sadlark5.txt": {
+  {
    "bytes": 2157,
+   "path": "sadlark5.txt",
    "sha256": "c042db16adb9b3a840cfa6def239a9d4c84de6a2caa52337e7570b7dfe049d6f",
    "timestamp": "1997-09-01T18:41:08.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-09-01",
  "sha256": "c84734838e68fe3388466ead21c35c05bf31a116e97e3600b4e2c9646307c67c",
  "tags": [
-  "author=Jonas N.P. Lindstrom",
   "filename=sadlark5.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,16 +34,15 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-09-01",
   "theme=medieval",
   "theme=metal",
   "theme=temple",
   "theme=terracotta",
   "theme=traps",
-  "title=The House Of Sadlark",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The House Of Sadlark",
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark5.zip",
   "https://www.quaddicted.com/files/by-sha256/c8/c84734838e68fe3388466ead21c35c05bf31a116e97e3600b4e2c9646307c67c/sadlark5.zip"

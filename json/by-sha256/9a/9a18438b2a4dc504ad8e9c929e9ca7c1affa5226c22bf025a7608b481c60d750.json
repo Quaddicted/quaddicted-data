@@ -1,38 +1,50 @@
 {
+ "authors": [
+  "Arttis"
+ ],
  "bytes": 14332341,
+ "current_main_group_package": true,
+ "depends": [
+  "copper>=1.19"
+ ],
  "description": "Medium sized castle / medieval sewers map with Makkon textures. The author's first release. Version 1.2 fixes a bug with the silver key.",
- "files": {
-  "arttis01.txt": {
+ "files": [
+  {
    "bytes": 1784,
+   "path": "arttis01.txt",
    "sha256": "67b1661ee6ac356eaa2f510082b823fe7434af9916c7426c1d272ad9b8fe2bc1",
    "timestamp": "2022-10-05T15:40:10.000Z"
   },
-  "maps/arttis01.bsp": {
+  {
    "bytes": 31923304,
+   "path": "maps/arttis01.bsp",
    "sha256": "125070404839be08ee452e24e5f220ffd3e4a550c0a102fa8e05812acc7a41ef",
    "timestamp": "2022-10-05T15:29:58.000Z"
   },
-  "maps/arttis01.lit": {
+  {
    "bytes": 1279316,
+   "path": "maps/arttis01.lit",
    "sha256": "5c8d3f9a383da4e557f39518ebbccfffd2b67e62c1de6bf3d6578cbb5be83f0b",
    "timestamp": "2022-10-05T15:29:58.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "Requires Copper v1.19+ (NOT included).",
   "Probably requires a modern engine / source port with increased limits."
  ],
+ "provides": [
+  "arttis01=1.2"
+ ],
+ "release_date": "2022-10-05",
+ "release_group": "arttis01",
  "sha256": "9a18438b2a4dc504ad8e9c929e9ca7c1affa5226c22bf025a7608b481c60d750",
  "tags": [
-  "author=Arttis",
   "commandline=-game copper",
-  "current_main_group_package=yes",
   "dependency=copper_v1_19",
-  "depends=('copper>=1.19')",
   "filename=arttis01_02.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,21 +52,18 @@
   "mod=copper",
   "nonspecific_tag=debut",
   "nonspecific_tag=makkon",
-  "provides='arttis01=1.2'",
-  "release_date=2022-10-05",
-  "release_group=arttis01",
   "startmap=arttis01",
   "theme=castle",
   "theme=knave",
   "theme=medieval",
   "theme=sewer",
-  "title=Feindlich Sewers v1.2",
   "type=map",
-  "version=1.2",
   "zipbasedir=copper/"
  ],
+ "title": "Feindlich Sewers v1.2",
  "urls": [
   "https://www.quaddicted.com/filebase/arttis01_02.zip",
   "https://www.quaddicted.com/files/by-sha256/9a/9a18438b2a4dc504ad8e9c929e9ca7c1affa5226c22bf025a7608b481c60d750/arttis01_02.zip"
- ]
+ ],
+ "version": "1.2"
 }

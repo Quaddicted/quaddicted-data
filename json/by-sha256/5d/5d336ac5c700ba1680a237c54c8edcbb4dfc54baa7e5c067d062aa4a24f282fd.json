@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Biff Debris"
+ ],
  "bytes": 585828,
  "description": "Well-polished Idbase map.",
- "files": {
-  "IMP1SP1.bsp": {
+ "files": [
+  {
    "bytes": 1530444,
+   "path": "IMP1SP1.bsp",
    "sha256": "76bba6eba5860e2157f56698981f796a1694b9c2a335660c7999a48c94a4e716",
    "timestamp": "2001-01-28T18:10:24.000Z"
   },
-  "imp1sp1.txt": {
+  {
    "bytes": 1271,
+   "path": "imp1sp1.txt",
    "sha256": "67d77ea949feda099e209c72f1a1e5e80c063267ab63f576f95780a15d3d093c",
    "timestamp": "2001-01-29T19:33:00.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-01-29",
  "sha256": "5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd",
  "tags": [
-  "author=Biff Debris",
   "filename=imp1sp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,12 +37,11 @@
   "map_size=small",
   "nonspecific_tag=glass",
   "nonspecific_tag=textures",
-  "release_date=2001-01-29",
   "theme=base",
-  "title=The Corral",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Corral",
  "urls": [
   "https://www.quaddicted.com/filebase/imp1sp1.zip",
   "https://www.quaddicted.com/files/by-sha256/5d/5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd/imp1sp1.zip"

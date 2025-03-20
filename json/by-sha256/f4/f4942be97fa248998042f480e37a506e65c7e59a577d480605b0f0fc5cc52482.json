@@ -1,49 +1,56 @@
 {
+ "authors": [
+  "Null"
+ ],
  "bytes": 5899065,
  "description": "Small map in wizard/medieval style with some cave sections, created in a week.",
- "files": {
-  "cataclysm/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "cataclysm/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-19T15:17:40.000Z"
   },
-  "cataclysm/maps/": {
+  {
    "bytes": 0,
+   "path": "cataclysm/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-19T15:33:16.000Z"
   },
-  "cataclysm/maps/dn_cataclysm.bsp": {
+  {
    "bytes": 1355308,
+   "path": "cataclysm/maps/dn_cataclysm.bsp",
    "sha256": "913d35f7aced33e6a4f602ed602c36256943871f99ce283ac8ce90ddab05e06a",
    "timestamp": "2024-06-20T13:26:12.000Z"
   },
-  "cataclysm/music/": {
+  {
    "bytes": 0,
+   "path": "cataclysm/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-20T13:29:10.000Z"
   },
-  "cataclysm/music/track50.ogg": {
+  {
    "bytes": 5431111,
+   "path": "cataclysm/music/track50.ogg",
    "sha256": "36df3df61c239769d73f56cfe3053449fc163915b46d1a81ae83437bc4075b39",
    "timestamp": "2024-06-19T15:17:00.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2024-06-19",
  "sha256": "f4942be97fa248998042f480e37a506e65c7e59a577d480605b0f0fc5cc52482",
  "tags": [
-  "author=Null",
   "filename=cataclysm_v1.1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/cataclysm.364/)",
-  "release_date=2024-06-19",
   "startmap=dn_cataclysm",
-  "title=Cataclysm",
   "type=map"
  ],
+ "title": "Cataclysm",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/f4/f4942be97fa248998042f480e37a506e65c7e59a577d480605b0f0fc5cc52482/cataclysm_v1.1.zip",
   "https://x901.net/quaddictedfiles/cataclysm_v1.1.zip"

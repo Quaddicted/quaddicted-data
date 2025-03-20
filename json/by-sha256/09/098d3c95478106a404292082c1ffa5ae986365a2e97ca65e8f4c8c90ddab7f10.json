@@ -1,159 +1,188 @@
 {
+ "authors": [
+  "ExaByt"
+ ],
  "bytes": 15623856,
+ "depends": [
+  "copper=1.30"
+ ],
  "description": "Large, open map in an egyptian theme, with huge outdoor sections and horde battles leading to a very high monster counts. Inspired by Serious Sam.",
- "files": {
-  "gfx/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-16T22:20:06.000Z"
   },
-  "gfx/env/": {
+  {
    "bytes": 0,
+   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-16T22:20:06.000Z"
   },
-  "gfx/env/brightblue_bk.tga": {
+  {
    "bytes": 540890,
+   "path": "gfx/env/brightblue_bk.tga",
    "sha256": "d48929548ee88e106a7c6c7d92a12eed9feff830a95de1cf429857ac96937e9f",
    "timestamp": "2002-08-22T13:04:00.000Z"
   },
-  "gfx/env/brightblue_dn.tga": {
+  {
    "bytes": 781195,
+   "path": "gfx/env/brightblue_dn.tga",
    "sha256": "72651fd62cda00374817234793efb2dcd7d2c6711f6aba8530a6e5773d460bee",
    "timestamp": "2002-08-22T13:03:50.000Z"
   },
-  "gfx/env/brightblue_ft.tga": {
+  {
    "bytes": 537939,
+   "path": "gfx/env/brightblue_ft.tga",
    "sha256": "9031b389c7b1a2c91f3bf7c83063173c7fc7c8b7d10e92eb99d8b4e9a60d9cdd",
    "timestamp": "2002-08-22T13:04:20.000Z"
   },
-  "gfx/env/brightblue_lf.tga": {
+  {
    "bytes": 542431,
+   "path": "gfx/env/brightblue_lf.tga",
    "sha256": "45f1117935e07603beeb77cde6cea4f7f341609e781ba74f4c0a67a430de3423",
    "timestamp": "2002-08-22T13:04:08.000Z"
   },
-  "gfx/env/brightblue_rt.tga": {
+  {
    "bytes": 570972,
+   "path": "gfx/env/brightblue_rt.tga",
    "sha256": "a76fb6123ce147bb59fc43d37028a03553d095d911d75ff622da21b0e1961187",
    "timestamp": "2002-08-22T13:03:42.000Z"
   },
-  "gfx/env/brightblue_up.tga": {
+  {
    "bytes": 282168,
+   "path": "gfx/env/brightblue_up.tga",
    "sha256": "9fd1f9b64a7febc5222060e1cffc2a2a53de38bcd0431aa979217c9bc152db3e",
    "timestamp": "2002-08-22T13:03:22.000Z"
   },
-  "maps/": {
+  {
    "bytes": 0,
+   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-26T21:05:14.000Z"
   },
-  "maps/amarna.bsp": {
+  {
    "bytes": 14386764,
+   "path": "maps/amarna.bsp",
    "sha256": "6f4a505be082ea01a85e2a2e7b201100ebf98dd545894b5d8f4de0707e579634",
    "timestamp": "2024-03-26T20:41:34.000Z"
   },
-  "maps/amarna.lit": {
+  {
    "bytes": 6301094,
+   "path": "maps/amarna.lit",
    "sha256": "e9c747d01b5b35a042138e8f68d70cb01f858e68a1cdda3275948991ec22a721",
    "timestamp": "2024-03-26T20:41:34.000Z"
   },
-  "mapsrc/": {
+  {
    "bytes": 0,
+   "path": "mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-26T21:05:16.000Z"
   },
-  "mapsrc/amarna.map": {
+  {
    "bytes": 8567902,
+   "path": "mapsrc/amarna.map",
    "sha256": "afbad34a2a17a050f05c72ba38ba4c96ebc093ce4c7ed94eb4cb4378e49fb61f",
    "timestamp": "2024-03-26T20:19:04.000Z"
   },
-  "music/": {
+  {
    "bytes": 0,
+   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-16T22:21:20.000Z"
   },
-  "music/track50.mp3": {
+  {
    "bytes": 5335282,
+   "path": "music/track50.mp3",
    "sha256": "b638e85edc22edad409ae90abcd675fb20dbf5fe689f19eb3da8ac715f3e41f9",
    "timestamp": "2023-06-16T22:21:12.000Z"
   },
-  "sound/": {
+  {
    "bytes": 0,
+   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-16T22:20:06.000Z"
   },
-  "sound/trigger/": {
+  {
    "bytes": 0,
+   "path": "sound/trigger/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-24T19:09:48.000Z"
   },
-  "sound/trigger/extra_life.wav": {
+  {
    "bytes": 205734,
+   "path": "sound/trigger/extra_life.wav",
    "sha256": "016a486653feb079ade7334c8a048d53c2f8e8f6280d50ab2e6fba4e812d16a8",
    "timestamp": "2005-09-05T21:10:46.000Z"
   },
-  "sound/trigger/gnaar_idle.wav": {
+  {
    "bytes": 35204,
+   "path": "sound/trigger/gnaar_idle.wav",
    "sha256": "248a8efc0ba775aee8b8d15cdaeeefe85553d774f6023bb571321e29b329044b",
    "timestamp": "2018-10-31T23:43:30.000Z"
   },
-  "sound/trigger/kami_idle.wav": {
+  {
    "bytes": 42084,
+   "path": "sound/trigger/kami_idle.wav",
    "sha256": "ee4513d65c26abc5f24fb780f4f6097c1f42930e78a74c1065beaf0a05b3331f",
    "timestamp": "2018-10-30T03:09:28.000Z"
   },
-  "sound/trigger/kleer_idle.wav": {
+  {
    "bytes": 45114,
+   "path": "sound/trigger/kleer_idle.wav",
    "sha256": "b2f395c461607a24d6eda0b1d421b9a0cf95cfbd3cedfce4778cce9ed2db3fe1",
    "timestamp": "2018-10-31T23:45:12.000Z"
   },
-  "sound/trigger/lava_idle.wav": {
+  {
    "bytes": 181318,
+   "path": "sound/trigger/lava_idle.wav",
    "sha256": "243a82420d66031aaf8d0c0fc594c1e894fc3c2262c78b22b777ff0b19a3d66c",
    "timestamp": "2018-10-31T23:50:52.000Z"
   },
-  "sound/trigger/scorp_idle.wav": {
+  {
    "bytes": 99772,
+   "path": "sound/trigger/scorp_idle.wav",
    "sha256": "adfb1ce50984c71b8b5a0ca9e3bcbd11c594f06d014106db7f1631033f387d73",
    "timestamp": "2018-10-30T03:09:04.000Z"
   },
-  "txt/": {
+  {
    "bytes": 0,
+   "path": "txt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-05T21:27:26.000Z"
   },
-  "txt/High Noon In Akhetaten (amarna) - Readme.txt": {
+  {
    "bytes": 31540,
+   "path": "txt/High Noon In Akhetaten (amarna) - Readme.txt",
    "sha256": "2e362b268a65468ee528936b77c3e180ca8ecdcb4f761508620e9935666cda06",
    "timestamp": "2024-03-27T08:05:38.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2023-06-17",
  "sha256": "098d3c95478106a404292082c1ffa5ae986365a2e97ca65e8f4c8c90ddab7f10",
  "tags": [
-  "author=ExaByt",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "depends=('copper=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=amarna_v1.2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/high-noon-in-akhetaten.240/)",
   "mod=copper",
-  "release_date=2023-06-17",
   "startmap=amarna",
-  "title=High Noon In Akhetaten",
   "type=map",
   "zipbasedir=copper/"
  ],
+ "title": "High Noon In Akhetaten",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/09/098d3c95478106a404292082c1ffa5ae986365a2e97ca65e8f4c8c90ddab7f10/amarna_v1.2.zip",
   "https://x901.net/quaddictedfiles/amarna_v1.2.zip"

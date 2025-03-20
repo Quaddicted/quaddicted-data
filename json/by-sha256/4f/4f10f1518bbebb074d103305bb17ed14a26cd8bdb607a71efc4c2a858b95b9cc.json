@@ -1,48 +1,54 @@
 {
+ "authors": [
+  "Daivuk"
+ ],
  "bytes": 3346685,
  "description": "Medium-sized map combining brutalisim and gothic influences, with creative use of stock textures resulting in unique looks.",
- "files": {
-  "dkbrutic.bsp": {
+ "files": [
+  {
    "bytes": 3656000,
+   "path": "dkbrutic.bsp",
    "sha256": "98ee9f5ea890c1697b7718aedab5f8bb4089e5230ec404b5a5b34679326a4001",
    "timestamp": "2023-12-09T14:52:58.000Z"
   },
-  "dkbrutic.lit": {
+  {
    "bytes": 1230380,
+   "path": "dkbrutic.lit",
    "sha256": "7530de7410c9eb438288124220cc10a5acba463314a43e143acd47939318b9de",
    "timestamp": "2023-12-09T14:52:58.000Z"
   },
-  "dkbrutic.map": {
+  {
    "bytes": 8720817,
+   "path": "dkbrutic.map",
    "sha256": "0b0b5cbe606de1811d7e32c400d6166d890db47d30ccb39e640bc262dffef0f7",
    "timestamp": "2023-12-09T14:50:10.000Z"
   },
-  "dkbrutic.txt": {
+  {
    "bytes": 995,
+   "path": "dkbrutic.txt",
    "sha256": "6576187a0aa200f01e88622aaf5b74d75ec9b6add35a3f1da24675deae7547fa",
    "timestamp": "2023-12-09T15:44:58.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2023-12-10",
  "sha256": "4f10f1518bbebb074d103305bb17ed14a26cd8bdb607a71efc4c2a858b95b9cc",
  "tags": [
-  "author=Daivuk",
   "exceedslimits=exceeds_quake_limits",
   "filename=dkbrutic.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/brutic.293/)",
-  "release_date=2023-12-10",
   "startmap=dkbrutic",
-  "title=Brutic",
   "type=map"
  ],
+ "title": "Brutic",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/4f/4f10f1518bbebb074d103305bb17ed14a26cd8bdb607a71efc4c2a858b95b9cc/dkbrutic.zip",
   "https://x901.net/quaddictedfiles/dkbrutic.zip"

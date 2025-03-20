@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Marcus Dromowicz"
+ ],
  "bytes": 500950,
  "description": "Medium sized plain Metal level with many monsters/non-stop action.",
- "files": {
-  "MEXX4.BSP": {
+ "files": [
+  {
    "bytes": 1186712,
+   "path": "MEXX4.BSP",
    "sha256": "59a4af0e646e4e63d1769099dd6c1607e69cac59a2c02bb2b3842905c29db519",
    "timestamp": "1996-11-15T15:40:14.000Z"
   },
-  "MEXX4.TXT": {
+  {
    "bytes": 2695,
+   "path": "MEXX4.TXT",
    "sha256": "c66808dd239b810094374c3b004ae90fba55782d668434c5cdeeef8351385dd0",
    "timestamp": "1996-11-15T15:40:00.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-11-15",
  "sha256": "61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be",
  "tags": [
-  "author=Marcus Dromowicz",
   "filename=mexx4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,13 +32,12 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
-  "release_date=1996-11-15",
   "theme=medieval",
   "theme=traps",
-  "title=Nurgle's Vault",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Nurgle's Vault",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx4.zip",
   "https://www.quaddicted.com/files/by-sha256/61/61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be/mexx4.zip"

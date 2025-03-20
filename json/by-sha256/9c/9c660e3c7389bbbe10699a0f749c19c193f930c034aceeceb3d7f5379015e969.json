@@ -1,42 +1,55 @@
 {
+ "authors": [
+  "Spipper"
+ ],
  "bytes": 4187235,
+ "current_main_group_package": true,
+ "depends": [
+  "quoth>=2.2"
+ ],
  "description": "Medium-sized Knave-style level with button-operated movable \"planes\". This is an updated version of the level. The map source is included.",
- "files": {
-  "movplan2.bsp": {
+ "files": [
+  {
    "bytes": 7903452,
+   "path": "movplan2.bsp",
    "sha256": "a731538af977e9f0f6dbbbee9f2e9cdb7cd7637db7a6ad73c38711fdefa5e671",
    "timestamp": "2018-01-28T14:39:14.000Z"
   },
-  "movplan2.lit": {
+  {
    "bytes": 2996255,
+   "path": "movplan2.lit",
    "sha256": "b79176452537482fd68a31d967701feaeb7da43e254e0f72f9521acf505acec9",
    "timestamp": "2018-01-28T14:39:12.000Z"
   },
-  "movplan2.map": {
+  {
    "bytes": 3724858,
+   "path": "movplan2.map",
    "sha256": "dc24f5938d3879d83f3e68c491ce186738efd1237e3b6677f452875f2bb76844",
    "timestamp": "2018-01-28T14:32:32.000Z"
   },
-  "movplan2.txt": {
+  {
    "bytes": 5747,
+   "path": "movplan2.txt",
    "sha256": "c1aaeee930835ce577f19e50bc7d1f11508781cf2d490c4d0d6ddee2d5514a4f",
    "timestamp": "2018-01-28T16:41:04.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and a source port with increased limits."
  ],
+ "provides": [
+  "movplan=2.0"
+ ],
+ "release_date": "2018-01-28",
+ "release_group": "movplan",
  "sha256": "9c660e3c7389bbbe10699a0f749c19c193f930c034aceeceb3d7f5379015e969",
  "tags": [
-  "author=Spipper",
   "commandline=-game quoth",
-  "current_main_group_package=yes",
   "dependency=quoth2pt2full_2",
-  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=movplan2.zip",
   "game=quake",
@@ -44,18 +57,15 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61537)",
   "map_size=medium",
   "mod=quoth",
-  "provides='movplan=2.0'",
-  "release_date=2018-01-28",
-  "release_group=movplan",
   "theme=knave",
   "theme=quoth",
-  "title=Shifting Planes of Existence (version 2)",
   "type=map",
-  "version=2.0",
   "zipbasedir=quoth/maps/"
  ],
+ "title": "Shifting Planes of Existence (version 2)",
  "urls": [
   "https://www.quaddicted.com/filebase/movplan2.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9c660e3c7389bbbe10699a0f749c19c193f930c034aceeceb3d7f5379015e969/movplan2.zip"
- ]
+ ],
+ "version": "2.0"
 }

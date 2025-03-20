@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Pingu"
+ ],
  "bytes": 607308,
  "description": "Fairly small temple map consisting of two deathmatch maps by Pingu, spliced together and converted to SP by Mike Woodham.",
- "files": {
-  "a2d2.bsp": {
+ "files": [
+  {
    "bytes": 1407704,
+   "path": "a2d2.bsp",
    "sha256": "237759e677c4fc6980be46b62326b0f0ffcea4967a86e2dad8c5f78ca8f83593",
    "timestamp": "2000-07-01T18:27:54.000Z"
   },
-  "a2d2.txt": {
+  {
    "bytes": 4440,
+   "path": "a2d2.txt",
    "sha256": "2b3ef9e4e4557446b4941e3337edee4aa044ff21accd803f8f4d7885bb2afc72",
    "timestamp": "2000-07-01T20:54:12.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2000-07-01",
  "sha256": "796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f",
  "tags": [
-  "author=Pingu",
   "filename=a2d2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,12 +37,11 @@
   "nonspecific_tag=curves",
   "nonspecific_tag=mike-woodham",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=2000-07-01",
   "theme=egypt",
-  "title=A2D2 - Ambush Keen Pilgrims",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "A2D2 - Ambush Keen Pilgrims",
  "urls": [
   "https://www.quaddicted.com/filebase/a2d2.zip",
   "https://www.quaddicted.com/files/by-sha256/79/796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f/a2d2.zip"

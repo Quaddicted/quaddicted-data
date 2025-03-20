@@ -1,50 +1,57 @@
 {
+ "authors": [
+  "RecycledOJ"
+ ],
  "bytes": 10514981,
+ "depends": [
+  "ad>=1.80"
+ ],
  "description": "Medium sized map for Arcane Dimenions, decked in Makkon stone textures and featuring extensive use of the jump-boots powerup. Originally created for <a href=\"504984de0206082e0bd15ad5d136ca99ea9fb9bf2f8733569c2fddc909cd8ec7\">Rotting Jam</a> but extended and released standalone.",
- "files": {
-  "ad_roj1.bsp": {
+ "files": [
+  {
    "bytes": 20965152,
+   "path": "ad_roj1.bsp",
    "sha256": "c913d92d34d60307e517e108cfde1f57bb7d31a842587a7ce69e266d581cb719",
    "timestamp": "2024-04-05T03:05:50.000Z"
   },
-  "ad_roj1.lit": {
+  {
    "bytes": 4280186,
+   "path": "ad_roj1.lit",
    "sha256": "99d53f552c7f1192294fdbae994f80dd3f9fba1e507aa713264de3f4e8ae5a76",
    "timestamp": "2024-04-05T03:05:50.000Z"
   },
-  "ad_roj1.txt": {
+  {
    "bytes": 1744,
+   "path": "ad_roj1.txt",
    "sha256": "304b7870cc8bdbf3d289f602d854c564401fe8f24e22a3a7c8920a67a7211344",
    "timestamp": "2024-05-16T22:24:04.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2024-03-31",
  "sha256": "a75f04317459e69961acfcded5e43c6fdc5d44d7775730f741daf71ebfbb7042",
  "tags": [
-  "author=RecycledOJ",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
-  "depends=('ad>=1.80')",
   "exceedslimits=exceeds_quake_limits",
   "filename=ad_roj1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/grit-under-the-eyelid.344/)",
   "mod=ad",
-  "release_date=2024-03-31",
   "startmap=ad_roj1",
-  "title=Grit Under the Eyelid",
   "type=map",
   "zipbasedir=ad/maps/"
  ],
+ "title": "Grit Under the Eyelid",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/a7/a75f04317459e69961acfcded5e43c6fdc5d44d7775730f741daf71ebfbb7042/ad_roj1.zip",
   "https://x901.net/quaddictedfiles/ad_roj1.zip"

@@ -1,27 +1,34 @@
 {
+ "authors": [
+  "Iikka \"Fingers\" Ker\u00e4nen"
+ ],
  "bytes": 458689,
+ "depends": [
+  "b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6"
+ ],
  "description": "Third map of the IKSPQ series: a medium sized blue temple map.",
- "files": {
-  "IKSPQ3.BSP": {
+ "files": [
+  {
    "bytes": 1197460,
+   "path": "IKSPQ3.BSP",
    "sha256": "0dbd62dc0a2d34bd26cdf2923ba2b3730b1c57baa7f776c48cabf2a4a0186f7f",
    "timestamp": "1997-05-17T21:39:12.000Z"
   },
-  "IKSPQ3.TXT": {
+  {
    "bytes": 6508,
+   "path": "IKSPQ3.TXT",
    "sha256": "5fde206e4d604fee2a35c706dc8481ba646ccf23d134196bd9dad6e99e16152c",
    "timestamp": "1997-05-18T00:26:58.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-05-18",
  "sha256": "bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f",
  "tags": [
-  "author=Iikka \"Fingers\" Ker\u00e4nen",
   "dependency=ikspq4",
-  "depends=b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
   "filename=ikspq3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,14 +43,13 @@
   "nonspecific_tag=mustplay",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=series",
-  "release_date=1997-05-18",
   "theme=blue",
   "theme=ikblue",
   "theme=temple",
-  "title=Halls of the Shambler God",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Halls of the Shambler God",
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq3.zip",
   "https://www.quaddicted.com/files/by-sha256/bf/bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f/ikspq3.zip"

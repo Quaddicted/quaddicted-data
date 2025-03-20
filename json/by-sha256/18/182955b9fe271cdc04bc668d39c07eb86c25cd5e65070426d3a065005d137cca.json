@@ -1,42 +1,47 @@
 {
+ "authors": [
+  "The Void (Tim Fairchild)"
+ ],
  "bytes": 495463,
  "description": "Small Wizard hub map with Base elements.",
- "files": {
-  "kathedral.txt": {
+ "files": [
+  {
    "bytes": 2227,
+   "path": "kathedral.txt",
    "sha256": "53c02c8d529f7646d30eebfa031d33b51fc7eed37d25881c2745dc81a939507c",
    "timestamp": "2002-01-26T22:47:00.000Z"
   },
-  "kathedral.unix": {
+  {
    "bytes": 2158,
+   "path": "kathedral.unix",
    "sha256": "70ff4f2e140b031c5a2d3b00cd5b710f0d0aad9d5fd68d9a4de0c02dfb0e3ea4",
    "timestamp": "2002-01-26T20:17:34.000Z"
   },
-  "kthdrl.bsp": {
+  {
    "bytes": 1194692,
+   "path": "kthdrl.bsp",
    "sha256": "e492e6e9e8214fd1aaadf022f2b2118e5afe1980be4335dbe201123016e47aed",
    "timestamp": "2002-01-26T19:35:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2002-01-26",
  "sha256": "182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca",
  "tags": [
-  "author=The Void (Tim Fairchild)",
   "filename=kthdrl.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://bcs4me.com/void/",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=kath)",
   "map_size=small",
-  "release_date=2002-01-26",
   "theme=wizard",
-  "title=Kathedral",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Kathedral",
  "urls": [
   "https://www.quaddicted.com/filebase/kthdrl.zip",
   "https://www.quaddicted.com/files/by-sha256/18/182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca/kthdrl.zip"

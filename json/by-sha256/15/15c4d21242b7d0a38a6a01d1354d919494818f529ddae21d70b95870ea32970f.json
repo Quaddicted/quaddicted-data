@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Taskmaster"
+ ],
  "bytes": 1754495,
  "description": "A well-designed medieval map.",
- "files": {
-  "rettear.bsp": {
+ "files": [
+  {
    "bytes": 1752064,
+   "path": "rettear.bsp",
    "sha256": "1e02566c4b4738a7bcb6d875efcf810312593d2533fcebb55901fa6a3491953b",
    "timestamp": "1997-05-25T18:08:14.000Z"
   },
-  "rettear.txt": {
+  {
    "bytes": 2213,
+   "path": "rettear.txt",
    "sha256": "4b140e6726276758759f926ee4a56b95d3618de1a747b080eb97810cd6edd3a6",
    "timestamp": "1997-05-25T18:25:38.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-05-25",
  "sha256": "15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f",
  "tags": [
-  "author=Taskmaster",
   "filename=rettear.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -29,15 +34,14 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "nonspecific_tag=teleporters",
-  "release_date=1997-05-25",
   "theme=brown",
   "theme=exploration",
   "theme=quake the way id did",
   "theme=wizard",
-  "title=Retinal Tear",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Retinal Tear",
  "urls": [
   "https://www.quaddicted.com/filebase/rettear.zip",
   "https://www.quaddicted.com/files/by-sha256/15/15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f/rettear.zip"

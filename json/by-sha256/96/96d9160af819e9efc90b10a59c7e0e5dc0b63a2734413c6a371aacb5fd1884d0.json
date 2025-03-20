@@ -1,31 +1,38 @@
 {
+ "authors": [
+  "ijed"
+ ],
  "bytes": 793740,
+ "depends": [
+  "quoth>=2.0"
+ ],
  "description": "A dark turtlemap remake of e4m4.",
- "files": {
-  "tpof.bsp": {
+ "files": [
+  {
    "bytes": 2383488,
+   "path": "tpof.bsp",
    "sha256": "a4178fea5ce2433a1ad5894bf852b77ed6a070a425cfbd67610f4e8b7b0ef9db",
    "timestamp": "2007-03-10T11:25:14.000Z"
   },
-  "tpof_readme.txt": {
+  {
    "bytes": 214,
+   "path": "tpof_readme.txt",
    "sha256": "c01b563fdca9d7089941abb4c026170b16747887a964bebb253d6ec5ac9cca29",
    "timestamp": "2007-03-10T11:30:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> to be installed."
  ],
+ "release_date": "2007-03-10",
  "sha256": "96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0",
  "tags": [
-  "author=ijed",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
-  "depends=('quoth>=2.0')",
   "filename=tpof.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,14 +43,13 @@
   "mod=quoth",
   "nonspecific_tag=e4m4",
   "nonspecific_tag=turtlemap",
-  "release_date=2007-03-10",
   "theme=quoth",
   "theme=remake",
   "theme=terracotta",
-  "title=The Palace of Fear",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
+ "title": "The Palace of Fear",
  "urls": [
   "https://www.quaddicted.com/filebase/tpof.zip",
   "https://www.quaddicted.com/files/by-sha256/96/96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0/tpof.zip"

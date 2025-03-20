@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Peter Bisseker (tiddles)"
+ ],
  "bytes": 245730,
  "description": "Small, linear, rusty Base map.",
- "files": {
-  "outpost-alpha.bsp": {
+ "files": [
+  {
    "bytes": 626952,
+   "path": "outpost-alpha.bsp",
    "sha256": "637af48febad2a230ecebdb1090e0722fe6f36a94535d911f634b41b162e8c6b",
    "timestamp": "1999-07-13T01:17:24.000Z"
   },
-  "outpost-alpha.txt": {
+  {
    "bytes": 2254,
+   "path": "outpost-alpha.txt",
    "sha256": "f2417b6fa5bc8227c7dc80a52665657c91b875b6090ade85c2372272668c1813",
    "timestamp": "1999-07-13T01:44:56.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-07-13",
  "sha256": "1433b377fcfceb815b0579a3c72c7055b67ee5da0500a0862840436c756e8523",
  "tags": [
-  "author=Peter Bisseker (tiddles)",
   "filename=outpost-alpha.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -28,12 +33,11 @@
   "map_size=small",
   "nonspecific_tag=base rust",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1999-07-13",
   "theme=quake 2",
-  "title=Outpost alpha",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Outpost alpha",
  "urls": [
   "https://www.quaddicted.com/filebase/outpost-alpha.zip",
   "https://www.quaddicted.com/files/by-sha256/14/1433b377fcfceb815b0579a3c72c7055b67ee5da0500a0862840436c756e8523/outpost-alpha.zip"

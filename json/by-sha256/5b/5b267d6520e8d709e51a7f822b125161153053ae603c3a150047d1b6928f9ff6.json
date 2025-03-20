@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Vidar Ermesjo (aka Saboteur/Nagel)"
+ ],
  "bytes": 262033,
  "description": "Very small, leaked Base map. One room with crates, three monsters.",
- "files": {
-  "evilarmy.bsp": {
+ "files": [
+  {
    "bytes": 619892,
+   "path": "evilarmy.bsp",
    "sha256": "3f2fd8d94d58fe771908ff4ce10dda4227363065f1b91e5143d9a97bc8519998",
    "timestamp": "1997-03-26T16:43:32.000Z"
   },
-  "evilarmy.txt": {
+  {
    "bytes": 2082,
+   "path": "evilarmy.txt",
    "sha256": "7126dffd3cacc7e9b37a765536de5ed10f0c739bbe01bfc4bf7844d28d739658",
    "timestamp": "1997-03-26T18:16:48.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-03-26",
  "sha256": "5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6",
  "tags": [
-  "author=Vidar Ermesjo (aka Saboteur/Nagel)",
   "filename=evilarmy.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,13 +32,12 @@
   "map_size=small",
   "map_size=tiny",
   "nonspecific_tag=room",
-  "release_date=1997-03-26",
   "theme=base",
   "theme=puzzle",
-  "title=Evil Army",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Evil Army",
  "urls": [
   "https://www.quaddicted.com/filebase/evilarmy.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6/evilarmy.zip"

@@ -1,20 +1,24 @@
 {
+ "authors": [
+  "Chris Mayers"
+ ],
  "bytes": 799457,
  "description": "Medium sized Metal map.",
- "files": {
-  "Res.bsp": {
+ "files": [
+  {
    "bytes": 1850092,
+   "path": "Res.bsp",
    "sha256": "583eb6501a485e2058c104dd3b3148f57c6178a845c494eb14824fceb8a03751",
    "timestamp": "1997-03-25T15:30:52.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-03-25",
  "sha256": "7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f",
  "tags": [
-  "author=Chris Mayers",
   "filename=ins4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -22,16 +26,15 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-03-25",
   "startmap=res",
   "theme=metal",
   "theme=mixtex",
   "theme=traps",
   "theme=wizard",
-  "title=The Insurrection, part IV - The Resolution",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Insurrection, part IV - The Resolution",
  "urls": [
   "https://www.quaddicted.com/filebase/ins4.zip",
   "https://www.quaddicted.com/files/by-sha256/7b/7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f/ins4.zip"

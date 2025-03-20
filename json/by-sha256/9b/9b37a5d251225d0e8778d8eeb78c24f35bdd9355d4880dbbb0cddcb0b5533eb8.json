@@ -1,71 +1,82 @@
 {
+ "authors": [
+  "zigi"
+ ],
  "bytes": 9787715,
  "description": "Quake's E1M1 reimagined in the style of Sandy Peterson. Also contains a start map.",
- "files": {
-  "zafp/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "zafp/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-01T11:06:30.000Z"
   },
-  "zafp/maps/": {
+  {
    "bytes": 0,
+   "path": "zafp/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-01T11:02:10.000Z"
   },
-  "zafp/maps/e1m666.bsp": {
+  {
    "bytes": 1381772,
+   "path": "zafp/maps/e1m666.bsp",
    "sha256": "e48cda9d4ce1f79a429e1f17d29f1552b4496dea9f8ca59fb246365215d88f33",
    "timestamp": "2024-03-31T20:28:48.000Z"
   },
-  "zafp/maps/start.bsp": {
+  {
    "bytes": 900240,
+   "path": "zafp/maps/start.bsp",
    "sha256": "deaaa64c05b54b6efe5cd681021b413326917edb4b1aae68caac1340b4c694da",
    "timestamp": "2024-04-01T11:01:06.000Z"
   },
-  "zafp/music/": {
+  {
    "bytes": 0,
+   "path": "zafp/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-31T20:39:56.000Z"
   },
-  "zafp/music/track41.ogg": {
+  {
    "bytes": 5395130,
+   "path": "zafp/music/track41.ogg",
    "sha256": "baea5170cc5801e225c65ee9ee4f2542303cd2e6c1d8ab1bd6ef1b91930070c2",
    "timestamp": "2017-08-15T01:43:06.000Z"
   },
-  "zafp/music/track52.ogg": {
+  {
    "bytes": 3150914,
+   "path": "zafp/music/track52.ogg",
    "sha256": "210f74026d0891691f9a7bd183f93f1b2a90fc46ddc7267c50b82e7bae179c16",
    "timestamp": "2022-08-26T18:31:18.000Z"
   },
-  "zafp/zafp_poster.jpg": {
+  {
    "bytes": 404650,
+   "path": "zafp/zafp_poster.jpg",
    "sha256": "a7df0ccbd43dec591a338f27b7feed75a307878a0aa8e4dadf6560e95676c570",
    "timestamp": "2024-03-31T22:10:42.000Z"
   },
-  "zafp/zafp_readme.txt": {
+  {
    "bytes": 1515,
+   "path": "zafp/zafp_readme.txt",
    "sha256": "66edad01f039476413e2b72bf1cf2d42065c8091df4ea03db0f62e0ab1471df2",
    "timestamp": "2024-03-31T22:22:34.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2024-04-01",
  "sha256": "9b37a5d251225d0e8778d8eeb78c24f35bdd9355d4880dbbb0cddcb0b5533eb8",
  "tags": [
-  "author=zigi",
   "commandline=-game zafp",
   "filename=zafp.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/zigis-april-fools-pack.346/)",
-  "release_date=2024-04-01",
   "startmap=start",
-  "title=zigi's April Fool's pack",
   "type=map",
   "type=mod"
  ],
+ "title": "zigi's April Fool's pack",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/9b/9b37a5d251225d0e8778d8eeb78c24f35bdd9355d4880dbbb0cddcb0b5533eb8/zafp.zip",
   "https://x901.net/quaddictedfiles/zafp.zip"

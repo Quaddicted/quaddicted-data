@@ -1,20 +1,24 @@
 {
+ "authors": [
+  "Unknown"
+ ],
  "bytes": 808363,
  "description": "Small blue brick map with a lava pool in the center.",
- "files": {
-  "PABC8.bsp": {
+ "files": [
+  {
    "bytes": 1945564,
+   "path": "PABC8.bsp",
    "sha256": "020c5ca236c09f0c77e6ed827e3aaf6a7316cf26d94562dd6240b752f8f67a39",
    "timestamp": "1999-01-14T02:57:44.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-01-14",
  "sha256": "034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999",
  "tags": [
-  "author=Unknown",
   "filename=pabc8.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -22,16 +26,15 @@
   "nonspecific_tag=azure",
   "nonspecific_tag=map17",
   "nonspecific_tag=simple",
-  "release_date=1999-01-14",
   "theme=bricks",
   "theme=doom",
   "theme=lava",
   "theme=outdoors",
   "theme=traps",
-  "title=Portal Endurance",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Portal Endurance",
  "urls": [
   "https://www.quaddicted.com/filebase/pabc8.zip",
   "https://www.quaddicted.com/files/by-sha256/03/034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999/pabc8.zip"

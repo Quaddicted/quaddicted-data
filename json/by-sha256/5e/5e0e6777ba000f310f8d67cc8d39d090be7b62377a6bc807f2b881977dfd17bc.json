@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "J.F.Gustafsson"
+ ],
  "bytes": 738784,
  "description": "Medium sized Wizard level.",
- "files": {
-  "Edom.bsp": {
+ "files": [
+  {
    "bytes": 1644012,
+   "path": "Edom.bsp",
    "sha256": "7253d0f0ee4d8d1408c09e21b8c8fb3bd971a4a9dee52dc169f057e378fe94aa",
    "timestamp": "1997-09-08T00:37:42.000Z"
   },
-  "edom.txt": {
+  {
    "bytes": 1626,
+   "path": "edom.txt",
    "sha256": "448b0efa140f07b3bc2d73af20951bb7157453c95a5aa21e993ec6254a2a85c9",
    "timestamp": "1997-09-08T01:43:26.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-09-08",
  "sha256": "5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc",
  "tags": [
-  "author=J.F.Gustafsson",
   "filename=edom.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,12 +32,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
-  "release_date=1997-09-08",
   "theme=wizard",
-  "title=Empedokles Domain",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Empedokles Domain",
  "urls": [
   "https://www.quaddicted.com/filebase/edom.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc/edom.zip"

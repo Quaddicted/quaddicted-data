@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Dave Kelvin (Kevlar)"
+ ],
  "bytes": 638404,
  "description": "Medium sized Metal map.",
- "files": {
-  "networld.bsp": {
+ "files": [
+  {
    "bytes": 1486120,
+   "path": "networld.bsp",
    "sha256": "0fd03c019cb15608aa2f3ff9b8cd8d5401b02ac76f10fc0d6f175e22af12f9e9",
    "timestamp": "1997-07-24T11:36:04.000Z"
   },
-  "networld.txt": {
+  {
    "bytes": 3146,
+   "path": "networld.txt",
    "sha256": "c6f24aed72fbab4f1ef37852e2ac4f9199274e198a5909ef345dc1541f54df2d",
    "timestamp": "1997-07-24T09:05:04.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-07-24",
  "sha256": "85ae898d5e49323dd61d82601e91f11114f3a139ff8c5a86ff8da018829c9198",
  "tags": [
-  "author=Dave Kelvin (Kevlar)",
   "filename=networld.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -30,15 +35,14 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=machinery",
-  "release_date=1997-07-24",
   "theme=metal",
   "theme=oldschool",
   "theme=runic",
   "theme=traps",
-  "title=The NetherWorld",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The NetherWorld",
  "urls": [
   "https://www.quaddicted.com/filebase/networld.zip",
   "https://www.quaddicted.com/files/by-sha256/85/85ae898d5e49323dd61d82601e91f11114f3a139ff8c5a86ff8da018829c9198/networld.zip"

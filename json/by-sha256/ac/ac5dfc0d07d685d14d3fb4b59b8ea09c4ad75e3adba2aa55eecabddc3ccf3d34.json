@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Ankh"
+ ],
  "bytes": 1239355,
  "description": "Medium to large oldschool Wizard dungeon.",
- "files": {
-  "coma.bsp": {
+ "files": [
+  {
    "bytes": 3007492,
+   "path": "coma.bsp",
    "sha256": "ad940c2d0d164152f70da8114b0273676366064fe29620608bc6b625cd656b36",
    "timestamp": "2004-12-29T21:02:02.000Z"
   },
-  "coma.txt": {
+  {
    "bytes": 1013,
+   "path": "coma.txt",
    "sha256": "8aad5a86d9f60a66d79ce7654c94258bd64a959e2045728f67d516966d972003",
    "timestamp": "2004-12-30T11:15:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2004-12-30",
  "sha256": "ac5dfc0d07d685d14d3fb4b59b8ea09c4ad75e3adba2aa55eecabddc3ccf3d34",
  "tags": [
-  "author=Ankh",
   "filename=coma.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,14 +34,13 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
   "nonspecific_tag=surprise",
-  "release_date=2004-12-30",
   "theme=metal",
   "theme=traps",
   "theme=wizard",
-  "title=Coma",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Coma",
  "urls": [
   "https://www.quaddicted.com/filebase/coma.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/ac5dfc0d07d685d14d3fb4b59b8ea09c4ad75e3adba2aa55eecabddc3ccf3d34/coma.zip"

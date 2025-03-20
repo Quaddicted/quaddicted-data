@@ -1,146 +1,58 @@
 {
+ "authors": [
+  "Greenwood",
+  "Newhouse",
+  "Spootnik",
+  "VuRkka",
+  "alexUnder",
+  "bmFbr",
+  "zigi"
+ ],
  "bytes": 77121790,
  "description": "Episode of eight maps (plus start + secret) by various authors, made using ID and mission pack textures, keeping to original Quake entity limits.",
- "files": {
-  "seiven/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "seiven/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-08-16T19:53:28.000Z"
   },
-  "seiven/pak0.pak": {
+  {
    "bytes": 91890020,
-   "files": {
-    "gfx/conback.lmp": {
-     "bytes": 64008,
-     "sha256": "ab4774e93eb7711c384d0dbe8e2afb81e233eafefdd103b770f09920587427be"
-    },
-    "maps/start.bsp": {
-     "bytes": 1313312,
-     "sha256": "a3ac3a6f0aec16270dfaf6a4f8058a15f95c33f88ebd627ebf2b4650f3e23595"
-    },
-    "maps/vm1.bsp": {
-     "bytes": 2426976,
-     "sha256": "b7db4e573a669cb33cc2103c6806ab66214fc73d829346ffbe501942b01811e0"
-    },
-    "maps/vm2.bsp": {
-     "bytes": 4512112,
-     "sha256": "1a4c0cc5a30861ce44be99e1a876dd38c4a6f1a9b78510d53fa821e61f818e84"
-    },
-    "maps/vm3.bsp": {
-     "bytes": 1707884,
-     "sha256": "2f390fe9b7e0f15fbf20acf95891be4efd511a7c42d58e5604d7b928fcac9a86"
-    },
-    "maps/vm4.bsp": {
-     "bytes": 2715984,
-     "sha256": "6d7a0a76128870c7214fc4f0c442541bcd06fc8c2f55e669462701d150323e3f"
-    },
-    "maps/vm5.bsp": {
-     "bytes": 2357984,
-     "sha256": "dc0374b1e05ab061a692f5aa6ce7a7e642bb7547ba9fb6aef8ab0c4a2b4b4498"
-    },
-    "maps/vm6.bsp": {
-     "bytes": 1911844,
-     "sha256": "6ed0385437ae93439d01dc514398224a7bc25b5f5e9cb71138b2731cd4f4f791"
-    },
-    "maps/vm7.bsp": {
-     "bytes": 1763828,
-     "sha256": "9858c7155e15dde22b87156caf18adc2efa7e787385e2e7ed7d3b602670741d8"
-    },
-    "maps/vm8.bsp": {
-     "bytes": 7906200,
-     "sha256": "f737d928dacb45d05cc95dee9b9f97a34bf66e08f9cbabf8c34202752523a2e1"
-    },
-    "maps/vm9.bsp": {
-     "bytes": 2482068,
-     "sha256": "a5a2db85c4e1739f8a96b3d5afb25205693af9a15e7b25d6c92872da7efbfa27"
-    },
-    "music/track03.ogg": {
-     "bytes": 4659994,
-     "sha256": "49a94c28e3c9eabbcb6679c547d194bb903cd848112f1cefde3c43e1ea9fa641"
-    },
-    "music/track20.ogg": {
-     "bytes": 5776436,
-     "sha256": "77850fdb471f254f63a2649c1d22ccd76103ddd249166cc82302c69169bfc8f2"
-    },
-    "music/track21.ogg": {
-     "bytes": 4920753,
-     "sha256": "15a4741f95641cf42d5de9ccd6f32da57d20efcd527fa39203379ee07d1d7a07"
-    },
-    "music/track22.ogg": {
-     "bytes": 5882227,
-     "sha256": "8b90f90960c834fdacd087a1f9865360c0f654814812020770dc20543b03c0a8"
-    },
-    "music/track23.ogg": {
-     "bytes": 4302730,
-     "sha256": "11fbd9432fbc0a0cc0446b790e44042a6b4b8389861a8392fd7000cfaf859180"
-    },
-    "music/track24.ogg": {
-     "bytes": 5768767,
-     "sha256": "159800ef5eb99546a73b582981c3afbb471690d2250912ea70322bb234d62143"
-    },
-    "music/track25.ogg": {
-     "bytes": 6901132,
-     "sha256": "c8cef6680974357499feaf3823bf2c3a08b65be90a31cedeeee7d171f3faaa7e"
-    },
-    "music/track26.ogg": {
-     "bytes": 8920144,
-     "sha256": "49bd3e4c609c4decbfc1110aa5de6a950d27b3202b3fcab595378a11a111901c"
-    },
-    "music/track27.ogg": {
-     "bytes": 4708835,
-     "sha256": "38fb73aa155c8cea018252b4f27bd450353805844ee9e4c92bfbadd28610e3fc"
-    },
-    "music/track28.ogg": {
-     "bytes": 6008196,
-     "sha256": "de42c280d3281a40a123bb7b357d3042b1702bf7ca3eaa1f399d4acf70b6ccd0"
-    },
-    "music/track29.ogg": {
-     "bytes": 4546696,
-     "sha256": "d550d111d4c26d25c9d24780dd93b1e22e8dccddcaa6a70df10520352580284e"
-    },
-    "progs.dat": {
-     "bytes": 330426,
-     "sha256": "d009e79f43e89896888d5b0478ea8f55192acfcefd432e0a0ba3eeb8602d263a"
-    }
-   },
+   "path": "seiven/pak0.pak",
    "sha256": "6e2b420de1a96ac2e3eeb582e8f2571433f0ed772a2b6f3cc64970e8b2fa9368",
    "timestamp": "2024-08-16T19:53:08.000Z"
   },
-  "seiven/seiven.txt": {
+  {
    "bytes": 1687,
+   "path": "seiven/seiven.txt",
    "sha256": "e087d2e327267eaf80fe809798c976bca9ace45926c6cc52483ec54521101435",
    "timestamp": "2024-08-07T19:23:34.000Z"
   },
-  "seiven/seiven_jullari.png": {
+  {
    "bytes": 2407793,
+   "path": "seiven/seiven_jullari.png",
    "sha256": "013e6eca2d0dfc92c267d4e77efd264b34e923df64d9cde36c096d59f6d525d4",
    "timestamp": "2024-08-05T11:28:24.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2024-08-16",
  "sha256": "f4c2cb39caa3d50a1c8378dd4da8eb413219d45ca8979ca9b594599c990e8073",
  "tags": [
-  "author=Greenwood",
-  "author=Newhouse",
-  "author=Spootnik",
-  "author=VuRkka",
-  "author=alexUnder",
-  "author=bmFbr",
-  "author=zigi",
   "commandline=-game seiven",
   "filename=seiven.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/seismic-ventures.384/)",
-  "release_date=2024-08-16",
   "startmap=start",
-  "title=Seismic Ventures",
   "type=episode",
   "type=mod"
  ],
+ "title": "Seismic Ventures",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/f4/f4c2cb39caa3d50a1c8378dd4da8eb413219d45ca8979ca9b594599c990e8073/seiven.zip",
   "https://x901.net/quaddictedfiles/seiven.zip"

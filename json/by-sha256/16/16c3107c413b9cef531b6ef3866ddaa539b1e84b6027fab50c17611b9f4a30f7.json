@@ -1,77 +1,90 @@
 {
+ "authors": [
+  "Exabyt"
+ ],
  "bytes": 13695593,
+ "depends": [
+  "copper=1.30"
+ ],
  "description": "Large metal map with many light fixtures and various traps and setpieces involving moving parts.",
- "files": {
-  "maps/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-14T14:19:54.000Z"
   },
-  "maps/ferric_oxide.bsp": {
+  {
    "bytes": 5941544,
+   "path": "maps/ferric_oxide.bsp",
    "sha256": "7873738cadcbdefb7ab90fbfc507b44cdfd6d5eeb8d134606182e3258a17d784",
    "timestamp": "2024-04-14T14:16:26.000Z"
   },
-  "maps/ferric_oxide.lit": {
+  {
    "bytes": 2420552,
+   "path": "maps/ferric_oxide.lit",
    "sha256": "70623904fb81ecbed2f13c1c7a1b9afb7a81ba4456753f77694de5b059f553d9",
    "timestamp": "2024-04-14T14:16:26.000Z"
   },
-  "mapsrc/": {
+  {
    "bytes": 0,
+   "path": "mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-14T14:19:56.000Z"
   },
-  "mapsrc/ferric_oxide.map": {
+  {
    "bytes": 10190346,
+   "path": "mapsrc/ferric_oxide.map",
    "sha256": "1cf613a984b74b8ebeca15bfe7f2a0e3143d9175f948ba817417506fe72e0301",
    "timestamp": "2024-04-14T14:15:34.000Z"
   },
-  "music/": {
+  {
    "bytes": 0,
+   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-30T10:36:34.000Z"
   },
-  "music/track23.ogg": {
+  {
    "bytes": 9384982,
+   "path": "music/track23.ogg",
    "sha256": "b187fa32dd0729fc8aa56405fc4566162ab2acd3618d97724418930afe6c1411",
    "timestamp": "2023-12-09T20:07:08.000Z"
   },
-  "txt/": {
+  {
    "bytes": 0,
+   "path": "txt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-24T12:15:42.000Z"
   },
-  "txt/Ferric Oxide (Readme).txt": {
+  {
    "bytes": 29007,
+   "path": "txt/Ferric Oxide (Readme).txt",
    "sha256": "a2b9c00fdcfed8f0caa3d7377b81d860f0b3833e673647d55e1ce03a025ff290",
    "timestamp": "2024-04-14T14:22:44.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
  ],
+ "release_date": "2024-04-11",
  "sha256": "16c3107c413b9cef531b6ef3866ddaa539b1e84b6027fab50c17611b9f4a30f7",
  "tags": [
-  "author=Exabyt",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "depends=('copper=1.30')",
   "filename=ferric_oxide_v1.01.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/ferric-oxide.351/)",
   "mod=copper",
-  "release_date=2024-04-11",
   "startmap=ferric_oxide",
-  "title=Ferric Oxide",
   "type=map",
   "zipbasedir=copper/"
  ],
+ "title": "Ferric Oxide",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/16/16c3107c413b9cef531b6ef3866ddaa539b1e84b6027fab50c17611b9f4a30f7/ferric_oxide_v1.01.zip",
   "https://x901.net/quaddictedfiles/ferric_oxide_v1.01.zip"

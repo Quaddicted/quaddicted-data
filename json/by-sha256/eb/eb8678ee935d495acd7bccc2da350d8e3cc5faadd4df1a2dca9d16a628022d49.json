@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Vigil"
+ ],
  "bytes": 491742,
  "description": "Short, simple map set in brown brickwork and metal trims.",
- "files": {
-  "JJSPQ1.bsp": {
+ "files": [
+  {
    "bytes": 1147928,
+   "path": "JJSPQ1.bsp",
    "sha256": "e47b1f284c6a45b0344b685069ea954780147bcf0e9be004d3c02c6d25b0302a",
    "timestamp": "1999-08-30T00:17:04.000Z"
   },
-  "jjspq1.txt": {
+  {
    "bytes": 6663,
+   "path": "jjspq1.txt",
    "sha256": "7dbd166e68fa119e2701df247998bbcc81b4f3f8a733c35c214c7a8448789417",
    "timestamp": "1999-08-30T07:29:22.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-08-30",
  "sha256": "eb8678ee935d495acd7bccc2da350d8e3cc5faadd4df1a2dca9d16a628022d49",
  "tags": [
-  "author=Vigil",
   "filename=jjspq1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -30,12 +35,11 @@
   "map_size=small",
   "nonspecific_tag=buggy",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1999-08-30",
   "theme=wizard",
-  "title=Vigil of the Night",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Vigil of the Night",
  "urls": [
   "https://www.quaddicted.com/filebase/jjspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/eb/eb8678ee935d495acd7bccc2da350d8e3cc5faadd4df1a2dca9d16a628022d49/jjspq1.zip"

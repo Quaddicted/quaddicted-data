@@ -1,20 +1,24 @@
 {
+ "authors": [
+  "tiddles"
+ ],
  "bytes": 578417,
  "description": "Medium sized industrial base map.",
- "files": {
-  "jackboot.bsp": {
+ "files": [
+  {
    "bytes": 1435468,
+   "path": "jackboot.bsp",
    "sha256": "b1888fe6bd9f4b24a9d123608e402aacb2c0584645eb4528571d3566e992fbb5",
    "timestamp": "2001-09-12T16:00:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-09-12",
  "sha256": "8078f39b8b1094ff4b971636bd2b07f63e6680d293f7fa914c546c02d9833f38",
  "tags": [
-  "author=tiddles",
   "filename=jackboot.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -24,14 +28,13 @@
   "map_size=small",
   "nonspecific_tag=bunker",
   "playstyle=horde",
-  "release_date=2001-09-12",
   "theme=base",
   "theme=industrial",
   "theme=metal",
-  "title=Jackboot Hero",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Jackboot Hero",
  "urls": [
   "https://www.quaddicted.com/filebase/jackboot.zip",
   "https://www.quaddicted.com/files/by-sha256/80/8078f39b8b1094ff4b971636bd2b07f63e6680d293f7fa914c546c02d9833f38/jackboot.zip"

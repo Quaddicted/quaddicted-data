@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Chris \"Apollo\" Houston"
+ ],
  "bytes": 781723,
  "description": "Medium sized green industrial map with Ogro and Jackboot textures.",
- "files": {
-  "ch1sp1.bsp": {
+ "files": [
+  {
    "bytes": 1820044,
+   "path": "ch1sp1.bsp",
    "sha256": "e5888a0c9dd7826912df577dc902648d86a55475095342fd698ec582e81308fd",
    "timestamp": "2001-08-06T20:30:06.000Z"
   },
-  "ch1sp1.txt": {
+  {
    "bytes": 5278,
+   "path": "ch1sp1.txt",
    "sha256": "0b0a022a329a5858945c6fc33f77990cc45228c36e04c74eb5fe334c4bfa582d",
    "timestamp": "2001-08-06T12:42:18.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2001-08-06",
  "sha256": "ab0f68420e37c97b0036ff9f2fe1fdcd1e71b83021c89e0dbc509575cf1c6d08",
  "tags": [
-  "author=Chris \"Apollo\" Houston",
   "filename=ch1sp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,12 +34,11 @@
   "map_size=medium",
   "nonspecific_tag=jackboot",
   "nonspecific_tag=ogro",
-  "release_date=2001-08-06",
   "theme=industrial",
-  "title=Higher-Synth",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Higher-Synth",
  "urls": [
   "https://www.quaddicted.com/filebase/ch1sp1.zip",
   "https://www.quaddicted.com/files/by-sha256/ab/ab0f68420e37c97b0036ff9f2fe1fdcd1e71b83021c89e0dbc509575cf1c6d08/ch1sp1.zip"

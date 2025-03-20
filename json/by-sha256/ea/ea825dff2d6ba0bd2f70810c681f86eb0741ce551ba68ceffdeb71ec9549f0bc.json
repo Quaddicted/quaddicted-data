@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "PuLSaR"
+ ],
  "bytes": 1047688,
  "description": "Large blue metal/brick map.",
- "files": {
-  "hellbrid.bsp": {
+ "files": [
+  {
    "bytes": 2325756,
+   "path": "hellbrid.bsp",
    "sha256": "f06b7134e2132609c382413bc90dac7c695370423d2520cfa34195ebb0a95e4f",
    "timestamp": "1992-02-07T01:53:16.000Z"
   },
-  "hellbridge.TXT": {
+  {
    "bytes": 1221,
+   "path": "hellbridge.TXT",
    "sha256": "c9b34f92aa1b47667092be38776884363bf3b6db9c6e61172d2a50543e4b383e",
    "timestamp": "1997-05-10T08:30:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2003-02-20",
  "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "tags": [
-  "author=PuLSaR",
   "filename=hellbridge.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,15 +32,14 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030311.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=large",
-  "release_date=2003-02-20",
   "startmap=hellbrid",
   "theme=blue",
   "theme=brick",
   "theme=metal",
-  "title=The HELLbridge",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The HELLbridge",
  "urls": [
   "https://www.quaddicted.com/filebase/hellbridge.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc/hellbridge.zip"

@@ -1,33 +1,39 @@
 {
+ "authors": [
+  "Dan Koppel"
+ ],
  "bytes": 1534363,
  "description": "Two large levels in Medieval/Metal/Wizard/Hipchurch style.",
- "files": {
-  "Cryo.txt": {
+ "files": [
+  {
    "bytes": 2488,
+   "path": "Cryo.txt",
    "sha256": "f979f7c4059ea2da01e159ba4d95a69cc19692b44639b50b696cc2fb5c42bc9d",
    "timestamp": "1997-05-15T23:33:04.000Z"
   },
-  "Cryo1.bsp": {
+  {
    "bytes": 1706864,
+   "path": "Cryo1.bsp",
    "sha256": "92588a9bc5cc4b098eeb8bcedea9f8b63611c454458e44640a1d2f8200c19171",
    "timestamp": "1997-05-15T13:36:30.000Z"
   },
-  "Cryo2.bsp": {
+  {
    "bytes": 1791464,
+   "path": "Cryo2.bsp",
    "sha256": "36ba182fa05b39f83fdab3c321747902370c8c79ea13e37ebe3ba7a42cfecec0",
    "timestamp": "1997-05-15T22:59:42.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "These maps require Scourge of Armagon."
  ],
+ "release_date": "1997-05-15",
  "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "tags": [
-  "author=Dan Koppel",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=cryo.zip",
@@ -38,16 +44,15 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=large",
-  "release_date=1997-05-15",
   "startmap=cryo1",
   "theme=dissolution of eternity",
   "theme=runic",
   "theme=scourge of armagon",
   "theme=wizard",
-  "title=Daredevil's Descent & Cryogenic Crypt",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
+ "title": "Daredevil's Descent & Cryogenic Crypt",
  "urls": [
   "https://www.quaddicted.com/filebase/cryo.zip",
   "https://www.quaddicted.com/files/by-sha256/47/47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd/cryo.zip"

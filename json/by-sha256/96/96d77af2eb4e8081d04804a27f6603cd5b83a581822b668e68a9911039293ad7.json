@@ -1,33 +1,39 @@
 {
+ "authors": [
+  "human[rus]"
+ ],
  "bytes": 1101318,
  "description": "Medium to large spacious medieval level with long corridors. The map source is included.",
- "files": {
-  "human1320.bsp": {
+ "files": [
+  {
    "bytes": 2025116,
+   "path": "human1320.bsp",
    "sha256": "34cba3265555d0816797fc1cb1d435639d5b49f8c02050eece5352949b8ef7b2",
    "timestamp": "2020-03-09T15:54:30.000Z"
   },
-  "human1320.map": {
+  {
    "bytes": 2881318,
+   "path": "human1320.map",
    "sha256": "0c7c28a0bbb2a035a12b1eebe953d3dc55eb0cd5e7d76fd89c23a4c2b42d5a96",
    "timestamp": "2020-03-09T15:54:16.000Z"
   },
-  "human1320.txt": {
+  {
    "bytes": 797,
+   "path": "human1320.txt",
    "sha256": "ab7ec68d46d5ad154ca4f99d607e20b19bdb0ac0a2fff3d4727ca67b658706b7",
    "timestamp": "2020-03-09T16:05:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires TF or MTF coop. Since there are no weapons/supplies, it cannot be played without."
  ],
+ "release_date": "2020-03-09",
  "sha256": "96d77af2eb4e8081d04804a27f6603cd5b83a581822b668e68a9911039293ad7",
  "tags": [
-  "author=human[rus]",
   "filename=human1320.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,13 +43,12 @@
   "nonspecific_tag=medeval",
   "nonspecific_tag=mtf",
   "nonspecific_tag=tf",
-  "release_date=2020-03-09",
   "source=included",
   "theme=castle",
-  "title=Human1320",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Human1320",
  "urls": [
   "https://www.quaddicted.com/filebase/human1320.zip",
   "https://www.quaddicted.com/files/by-sha256/96/96d77af2eb4e8081d04804a27f6603cd5b83a581822b668e68a9911039293ad7/human1320.zip"

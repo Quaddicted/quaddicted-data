@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Reichert"
+ ],
  "bytes": 1180527,
  "description": "Medium sized dark forest with some castle bits.",
- "files": {
-  "DARKFST.BSP": {
+ "files": [
+  {
    "bytes": 2829548,
+   "path": "DARKFST.BSP",
    "sha256": "1444909aef2faa90a3ec3c08b3749ded5adb58e7c7aeff8e6f7e0566930883b4",
    "timestamp": "1996-12-17T10:18:44.000Z"
   },
-  "DARKFST.TXT": {
+  {
    "bytes": 2584,
+   "path": "DARKFST.TXT",
    "sha256": "1d94b19c8354b11242f56a0fc4b140f0282ed094b7102c39eb371ed87ca44e71",
    "timestamp": "1997-01-13T20:58:06.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-01-13",
  "sha256": "d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920",
  "tags": [
-  "author=Reichert",
   "filename=darkfst.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,15 +36,14 @@
   "nonspecific_tag=forest",
   "nonspecific_tag=textures",
   "nonspecific_tag=trees",
-  "release_date=1997-01-13",
   "theme=castle",
   "theme=outdoor",
   "theme=swamp",
   "theme=traps",
-  "title=Dark Forest",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Dark Forest",
  "urls": [
   "https://www.quaddicted.com/filebase/darkfst.zip",
   "https://www.quaddicted.com/files/by-sha256/d9/d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920/darkfst.zip"

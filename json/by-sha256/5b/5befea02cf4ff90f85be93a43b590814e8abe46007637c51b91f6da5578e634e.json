@@ -1,40 +1,45 @@
 {
+ "authors": [
+  "oldspider"
+ ],
  "bytes": 2190650,
  "description": "Town-themed map inspired by Thief, with non-linear gameplay designed with replayability in mind.",
- "files": {
-  "twilight_town_readme.txt": {
+ "files": [
+  {
    "bytes": 956,
+   "path": "twilight_town_readme.txt",
    "sha256": "4a86bdfd9a5c015fc405526677de1e7106a21ce17a414f302d8cce43fc31d94d",
    "timestamp": "2024-05-09T17:03:32.000Z"
   },
-  "twitown.bsp": {
+  {
    "bytes": 4311948,
+   "path": "twitown.bsp",
    "sha256": "85082ae30707b7e57dfe79cf41910656aeb0c4db4ca2365232f99a4d37502ae7",
    "timestamp": "2024-05-09T16:58:52.000Z"
   },
-  "twitown.lit": {
+  {
    "bytes": 2517041,
+   "path": "twitown.lit",
    "sha256": "32f377d822a54e1eed6ee3aaa0c27adc0c9627bd21f54e6983672f488eb6d611",
    "timestamp": "2024-05-09T16:58:52.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2024-03-05",
  "sha256": "5befea02cf4ff90f85be93a43b590814e8abe46007637c51b91f6da5578e634e",
  "tags": [
-  "author=oldspider",
   "filename=twitown-v2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/twilight-town.333/)",
-  "release_date=2024-03-05",
   "startmap=belialv1dot2",
-  "title=Twilight Town",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Twilight Town",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/5b/5befea02cf4ff90f85be93a43b590814e8abe46007637c51b91f6da5578e634e/twitown-v2.zip",
   "https://x901.net/quaddictedfiles/twitown-v2.zip"

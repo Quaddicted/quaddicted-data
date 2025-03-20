@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Obi-Wan"
+ ],
  "bytes": 1138146,
  "description": "Medium sized Metal map in a canyon, with a Base bit at the beginning.",
- "files": {
-  "ObiWan2.bsp": {
+ "files": [
+  {
    "bytes": 2584612,
+   "path": "ObiWan2.bsp",
    "sha256": "50bd467eb777a803381a199d46c9cbfcd62a3abc8499eb22112d96f141b3b98f",
    "timestamp": "1997-01-23T18:23:00.000Z"
   },
-  "ObiWan2.txt": {
+  {
    "bytes": 2818,
+   "path": "ObiWan2.txt",
    "sha256": "309865eaa2d55a2b5446db36db6bc20fa20f682c4b6e46535ad043128f4bb087",
    "timestamp": "1997-03-02T15:17:28.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-03-02",
  "sha256": "b4639b5a26df294e4443029ecf1a66626dbd60cfe740bdc2fb77e09e10fb3345",
  "tags": [
-  "author=Obi-Wan",
   "filename=obiwan2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -28,13 +33,12 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/m_o.htm)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
-  "release_date=1997-03-02",
   "theme=canyon",
   "theme=metal",
-  "title=Office of the dead",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Office of the dead",
  "urls": [
   "https://www.quaddicted.com/filebase/obiwan2.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b4639b5a26df294e4443029ecf1a66626dbd60cfe740bdc2fb77e09e10fb3345/obiwan2.zip"

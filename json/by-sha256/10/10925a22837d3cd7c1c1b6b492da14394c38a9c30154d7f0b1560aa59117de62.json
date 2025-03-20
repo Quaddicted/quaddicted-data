@@ -1,42 +1,51 @@
 {
+ "authors": [
+  "Sodium Chloride"
+ ],
  "bytes": 7699736,
+ "depends": [
+  "copper>=1.30"
+ ],
  "description": "Large, non-linear map using Wizard textures with some custom additions. The objective is to collect multiple keys throughout the map to escape. The author's first map for Quake.",
- "files": {
-  "fotac_1_0.bsp": {
+ "files": [
+  {
    "bytes": 11569824,
+   "path": "fotac_1_0.bsp",
    "sha256": "16b245f1d7f48869a558e631e88e5481adb059abc563002511c9a3d7ef710b21",
    "timestamp": "2024-01-07T22:42:32.000Z"
   },
-  "fotac_1_0.lit": {
+  {
    "bytes": 8116184,
+   "path": "fotac_1_0.lit",
    "sha256": "aa22efa013b8c1e6d15d4232d3b053329c6d763bf8b0ce699abfcc8d70e20f0a",
    "timestamp": "2024-01-07T22:42:32.000Z"
   },
-  "fotac_1_0.map": {
+  {
    "bytes": 6582299,
+   "path": "fotac_1_0.map",
    "sha256": "be0f728075d42dd81896573c1b723586627a61eca173870fcbd5956b6bfc43ad",
    "timestamp": "2024-01-07T22:26:54.000Z"
   },
-  "fotac_readme.txt": {
+  {
    "bytes": 1358,
+   "path": "fotac_readme.txt",
    "sha256": "7ea00c7f5cc2a018f466140b333b99bcdcfe091d17b46937758870216bfbea8c",
    "timestamp": "2024-01-07T23:34:22.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2024-01-08",
  "sha256": "10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62",
  "tags": [
-  "author=Sodium Chloride",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=fotac_1_0.zip",
   "game=quake",
@@ -44,11 +53,10 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/fortress-of-the-arcane-conduit.305/)",
   "map_size=large",
   "mod=copper",
-  "release_date=2024-01-08",
   "startmap=fotac_1_0",
-  "title=Fortress of the Arcane Conduit",
   "type=map"
  ],
+ "title": "Fortress of the Arcane Conduit",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/10/10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62/fotac_1_0.zip",
   "https://x901.net/quaddictedfiles/fotac_1_0.zip"

@@ -1,41 +1,50 @@
 {
+ "authors": [
+  "Andrew 'than' Palmer"
+ ],
  "bytes": 3181951,
+ "depends": [
+  "quoth>=2.0"
+ ],
  "description": "A large, detailed submerged base with exploratory gameplay.",
- "files": {
-  "apsp2.bsp": {
+ "files": [
+  {
    "bytes": 5253292,
+   "path": "apsp2.bsp",
    "sha256": "1bad34c314e8fc37eab26253cda88643fb52c13253233ede7c1e08608f52221b",
    "timestamp": "2009-01-14T01:13:00.000Z"
   },
-  "apsp2.map": {
+  {
    "bytes": 4618310,
+   "path": "apsp2.map",
    "sha256": "f6fd40184f57074fcaf3c70f6027173b4ab4551e635f1d63059a228f637f22dc",
    "timestamp": "2009-01-14T01:18:06.000Z"
   },
-  "apsp2.rmf": {
+  {
    "bytes": 19710476,
+   "path": "apsp2.rmf",
    "sha256": "610a78a592e0c57782efca285c94b15ec1703789c1cdbed91c1f78ed345621ee",
    "timestamp": "2009-01-14T01:17:26.000Z"
   },
-  "apsp2.txt": {
+  {
    "bytes": 15447,
+   "path": "apsp2.txt",
    "sha256": "9730d76311d547efcb964728205d383b58e2c5b95797e51bc5135329aa66185d",
    "timestamp": "2009-01-14T01:20:00.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
  ],
+ "release_date": "2009-01-14",
  "sha256": "026e5fb92afaac446df1f4b77629fa8ed917359c4a8b23faf998b814d67a70d8",
  "tags": [
-  "author=Andrew 'than' Palmer",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
-  "depends=('quoth>=2.0')",
   "filename=apsp2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -45,15 +54,14 @@
   "map_size=large",
   "mod=quoth",
   "nonspecific_tag=detailed",
-  "release_date=2009-01-14",
   "theme=base",
   "theme=exploration",
   "theme=quoth",
   "theme=water",
-  "title=Plumbers Don't Wear Ties (But They Do Carry Shotguns)",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
+ "title": "Plumbers Don't Wear Ties (But They Do Carry Shotguns)",
  "urls": [
   "https://www.quaddicted.com/filebase/apsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/02/026e5fb92afaac446df1f4b77629fa8ed917359c4a8b23faf998b814d67a70d8/apsp2.zip"

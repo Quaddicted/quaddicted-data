@@ -1,38 +1,42 @@
 {
+ "authors": [
+  "Chris Mayers"
+ ],
  "bytes": 889017,
  "description": "Medium sized Wizard map. Third part of the Insurrection series - connected to <a href=\"d0c7c70d846a83e3ede93cd6dd26b0f9103d7e6780d7099e389fe71157721333\">ins1</a>, <a href=\"d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6\">ins3</a> and <a href=\"7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f\">ins4</a>.",
- "files": {
-  "SANCT.BSP": {
+ "files": [
+  {
    "bytes": 1974948,
+   "path": "SANCT.BSP",
    "sha256": "682bc74deede4116730e9281aa42b16fbdf513bfb66fa523954acb8b2e3dd6d3",
    "timestamp": "1997-02-03T19:05:42.000Z"
   },
-  "sanct.txt": {
+  {
    "bytes": 2600,
+   "path": "sanct.txt",
    "sha256": "bf26ddbc48e8be103d91aa451f2527b08f64cc055685982d5ca1cc7308de4735",
    "timestamp": "1997-04-01T07:52:52.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-04-01",
  "sha256": "8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e",
  "tags": [
-  "author=Chris Mayers",
   "filename=ins3.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelss.htm#sanct)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
-  "release_date=1997-04-01",
   "startmap=sanct",
   "theme=wizard",
-  "title=The Insurrection, part III - The Sanctuary",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Insurrection, part III - The Sanctuary",
  "urls": [
   "https://www.quaddicted.com/filebase/ins3.zip",
   "https://www.quaddicted.com/files/by-sha256/8f/8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e/ins3.zip"

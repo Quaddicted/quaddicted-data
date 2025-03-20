@@ -1,50 +1,57 @@
 {
+ "authors": [
+  "The Solipsist"
+ ],
  "bytes": 1246975,
+ "depends": [
+  "copper>=1.16"
+ ],
  "description": "Around medium-sized base map. Extended version of the same map from the <a href=\"9cc7dbee0c4133830f8045206457dc21fd0dd67524f956e9cdc4eb6f22adf2d9\">Q25 Limits Jam</a>. The map source is included.",
- "files": {
-  "lc_cop16.bsp": {
+ "files": [
+  {
    "bytes": 2478020,
+   "path": "lc_cop16.bsp",
    "sha256": "1479140c5add92c6665b0a44243bac9c114d3a91e1d303ef3de169d588513ef8",
    "timestamp": "2021-07-28T12:52:18.000Z"
   },
-  "lc_cop16.map": {
+  {
    "bytes": 1954629,
+   "path": "lc_cop16.map",
    "sha256": "794da8f0ee394e45e8f784ffb2623796f89a692047e21f4230cb6df16faa1a3e",
    "timestamp": "2021-07-28T12:55:54.000Z"
   },
-  "lc_cop16.txt": {
+  {
    "bytes": 3761,
+   "path": "lc_cop16.txt",
    "sha256": "61550c24445739480abc803c61f6f0b5db8faca808fd103769879e5304f50a78",
    "timestamp": "2021-07-28T14:08:34.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"b58c9a10f70e05ff8a1e8486f94228a3b8834fce34215052737295ae7509a790\">Copper 1.16</a> and a source port with increased limits."
  ],
+ "release_date": "2021-07-25",
  "sha256": "1fb3c3aeab1f9b1b8155f75f34dbfd052ecf710db3092f3a9bc776da0ab130da",
  "tags": [
-  "author=The Solipsist",
   "commandline=-game copper",
   "dependency=copper_v1_16",
-  "depends=('copper>=1.16')",
   "exceeds_quake_limits=yes",
   "filename=lc_cop16.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
   "mod=copper",
-  "release_date=2021-07-25",
   "source=included",
   "theme=base",
   "theme=crates",
-  "title=Logistics Central",
   "type=map",
   "zipbasedir=copper/maps/"
  ],
+ "title": "Logistics Central",
  "urls": [
   "https://www.quaddicted.com/filebase/lc_cop16.zip",
   "https://www.quaddicted.com/files/by-sha256/1f/1fb3c3aeab1f9b1b8155f75f34dbfd052ecf710db3092f3a9bc776da0ab130da/lc_cop16.zip"

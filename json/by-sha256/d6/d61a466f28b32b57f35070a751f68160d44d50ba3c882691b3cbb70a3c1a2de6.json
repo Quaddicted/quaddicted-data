@@ -1,47 +1,52 @@
 {
+ "authors": [
+  "Speedy",
+  "Vondur",
+  "czg"
+ ],
  "bytes": 1726012,
  "description": "Harder version of <a href=\"60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d\">e1m1rmx</a> with additional monsters, route and gameplay changes.",
- "files": {
-  "e1m1rmx.txt": {
+ "files": [
+  {
    "bytes": 8474,
+   "path": "e1m1rmx.txt",
    "sha256": "73916264371954f0c3c4fd2ccbb9b5305e81f6eb0ec71775e669cd76c83134c7",
    "timestamp": "2004-04-29T22:19:32.000Z"
   },
-  "e1m1rmx_hard.bsp": {
+  {
    "bytes": 3839816,
+   "path": "e1m1rmx_hard.bsp",
    "sha256": "86448e35255d4ffbe3b1711b558629ea463171a5b03b59ea296062d9225a3bc8",
    "timestamp": "2004-04-29T22:13:56.000Z"
   },
-  "e1m1rmx_hard.map": {
+  {
    "bytes": 2029711,
+   "path": "e1m1rmx_hard.map",
    "sha256": "88d1a807a75ef60b8aa7c99b802d2d8ef65d7ea292614f71e8d4f5b5f6a7490c",
    "timestamp": "2004-04-29T21:09:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2004-04-29",
  "sha256": "d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6",
  "tags": [
-  "author=Speedy",
-  "author=Vondur",
-  "author=czg",
   "filename=e1m1rmx_hard.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.vondur.net",
   "map_size=medium",
-  "release_date=2004-04-29",
   "source=included",
   "theme=base",
   "theme=idbase",
   "theme=remake",
   "theme=spd",
-  "title=The Slipgate Duplex HARDCORE",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Slipgate Duplex HARDCORE",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1rmx_hard.zip",
   "https://www.quaddicted.com/files/by-sha256/d6/d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6/e1m1rmx_hard.zip"

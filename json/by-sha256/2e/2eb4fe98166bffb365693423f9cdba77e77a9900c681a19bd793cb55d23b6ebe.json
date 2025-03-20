@@ -1,36 +1,40 @@
 {
+ "authors": [
+  "Ben Watson"
+ ],
  "bytes": 276533,
  "description": "Small map with a mixture of textures with a Star Wars shuttle prefab at the end.",
- "files": {
-  "Storm.bsp": {
+ "files": [
+  {
    "bytes": 643756,
+   "path": "Storm.bsp",
    "sha256": "d123ed4f1a63ed88f79d1c102d45093dc93586823cb98fbdd50f9c278d7b933d",
    "timestamp": "1997-09-21T03:30:38.000Z"
   },
-  "readme.txt": {
+  {
    "bytes": 2167,
+   "path": "readme.txt",
    "sha256": "55c733633536406b548fcbf12775444e04fd3cd997706bb5e076323fc562fae2",
    "timestamp": "1997-09-21T04:31:20.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-09-21",
  "sha256": "2eb4fe98166bffb365693423f9cdba77e77a9900c681a19bd793cb55d23b6ebe",
  "tags": [
-  "author=Ben Watson",
   "filename=storm.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=star wars",
-  "release_date=1997-09-21",
   "theme=base",
-  "title=Stormswift",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Stormswift",
  "urls": [
   "https://www.quaddicted.com/filebase/storm.zip",
   "https://www.quaddicted.com/files/by-sha256/2e/2eb4fe98166bffb365693423f9cdba77e77a9900c681a19bd793cb55d23b6ebe/storm.zip"

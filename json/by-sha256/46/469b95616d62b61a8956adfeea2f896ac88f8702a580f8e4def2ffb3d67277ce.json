@@ -1,63 +1,76 @@
 {
+ "authors": [
+  "apterous"
+ ],
  "bytes": 19805445,
+ "depends": [
+  "copper>=1.30"
+ ],
  "description": "Large brutalist/concrete map in the spirit of <a href=\"c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10\">QBJ</a> and <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a>. Easy skill has no monsters for those just wishing to explore and take in the visuals, whereas normal and hard have hundreds of enemies.",
- "files": {
-  "copper/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-25T21:51:54.000Z"
   },
-  "copper/maps/": {
+  {
    "bytes": 0,
+   "path": "copper/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-09T15:37:16.000Z"
   },
-  "copper/maps/apterous_pale_peril.bsp": {
+  {
    "bytes": 18754756,
+   "path": "copper/maps/apterous_pale_peril.bsp",
    "sha256": "b266b0e2f986623542deaf4c801386b5c5b4d3f9ab724a792c75cfaeabec4e00",
    "timestamp": "2023-11-09T17:28:38.000Z"
   },
-  "copper/maps/apterous_pale_peril.lit": {
+  {
    "bytes": 12306083,
+   "path": "copper/maps/apterous_pale_peril.lit",
    "sha256": "daf74663982601e42b3bd1b5e0d472589ecc2f5daf91f0e4b8a23d5f92f07106",
    "timestamp": "2023-11-09T17:28:38.000Z"
   },
-  "copper/maps/apterous_pale_peril.map": {
+  {
    "bytes": 4816705,
+   "path": "copper/maps/apterous_pale_peril.map",
    "sha256": "74e6e2d296eb62b400e454bc9ac6b67192efa8aeccf614694ca0bd04c4f3c4d5",
    "timestamp": "2023-11-09T17:31:08.000Z"
   },
-  "copper/music/": {
+  {
    "bytes": 0,
+   "path": "copper/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-10-31T07:05:10.000Z"
   },
-  "copper/music/track51.mp3": {
+  {
    "bytes": 11003248,
+   "path": "copper/music/track51.mp3",
    "sha256": "f9bf93d2958ea50761a2b71739a69e7bb70222c5244c32a2dace05712c740242",
    "timestamp": "2023-10-31T05:31:14.000Z"
   },
-  "copper/pale_peril_readme.txt": {
+  {
    "bytes": 243,
+   "path": "copper/pale_peril_readme.txt",
    "sha256": "6eaab96ce35a17b7f46e59c1ccdc351e956aee8b60712e16d9c1625dcca3a0a6",
    "timestamp": "2023-11-09T17:51:10.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2023-11-09",
  "sha256": "469b95616d62b61a8956adfeea2f896ac88f8702a580f8e4def2ffb3d67277ce",
  "tags": [
-  "author=apterous",
   "commandline=-game copper",
   "dependency=copper_v1_30",
-  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=apterous_pale_peril.zip",
   "game=quake",
@@ -65,11 +78,10 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/pale-peril.283/)",
   "map_size=large",
   "mod=copper",
-  "release_date=2023-11-09",
   "startmap=apterous_pale_peril",
-  "title=Pale Peril",
   "type=map"
  ],
+ "title": "Pale Peril",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/46/469b95616d62b61a8956adfeea2f896ac88f8702a580f8e4def2ffb3d67277ce/apterous_pale_peril.zip",
   "https://x901.net/quaddictedfiles/apterous_pale_peril.zip"

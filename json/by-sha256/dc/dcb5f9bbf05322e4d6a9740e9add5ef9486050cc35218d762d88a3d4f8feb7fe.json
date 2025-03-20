@@ -1,151 +1,177 @@
 {
+ "authors": [
+  "ChadQuad",
+  "CommonCold",
+  "Grue",
+  "Melbo",
+  "Shamblernaut"
+ ],
  "bytes": 8337038,
  "description": "Six maps of varying style created by five authors over a period of five weeks, each with a focus on speedrunning but also suitable for casual play. Each map comes with its own par time.",
- "files": {
-  "srj1/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "srj1/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-19T04:46:14.000Z"
   },
-  "srj1/gfx/": {
+  {
    "bytes": 0,
+   "path": "srj1/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-19T01:26:12.000Z"
   },
-  "srj1/gfx/conback.lmp": {
+  {
    "bytes": 64008,
+   "path": "srj1/gfx/conback.lmp",
    "sha256": "c2cbcd33b2b960719ab57feefeaead5f9c3e14a828e32ad33fa79b224659f823",
    "timestamp": "2023-06-19T01:32:28.000Z"
   },
-  "srj1/maps/": {
+  {
    "bytes": 0,
+   "path": "srj1/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-06-19T04:45:56.000Z"
   },
-  "srj1/maps/srj1_cc.bsp": {
+  {
    "bytes": 3197328,
+   "path": "srj1/maps/srj1_cc.bsp",
    "sha256": "298a05b1ad81f34a3724ef2c88b1bb7aabea5d315d570633ca3a826e1ea940c0",
    "timestamp": "2023-06-11T06:20:54.000Z"
   },
-  "srj1/maps/srj1_cc.lit": {
+  {
    "bytes": 735839,
+   "path": "srj1/maps/srj1_cc.lit",
    "sha256": "ff80c895cb86661dac21a7eb84b7ff9bb10192900516e170b242688b0eeb936d",
    "timestamp": "2023-06-11T06:20:54.000Z"
   },
-  "srj1/maps/srj1_cc.map": {
+  {
    "bytes": 930589,
+   "path": "srj1/maps/srj1_cc.map",
    "sha256": "aa3387182524efb2b31fd4d6326ba8ce28166caef785ceac13f619778b17df94",
    "timestamp": "2023-06-17T09:24:18.000Z"
   },
-  "srj1/maps/srj1_chadquad.bsp": {
+  {
    "bytes": 2163836,
+   "path": "srj1/maps/srj1_chadquad.bsp",
    "sha256": "ba1d9f7cf6d992deb5a91a7e39e583f969b052aa5c25e309b7a1dd7ba54cbfbf",
    "timestamp": "2023-06-18T00:48:46.000Z"
   },
-  "srj1/maps/srj1_chadquad.map": {
+  {
    "bytes": 1587778,
+   "path": "srj1/maps/srj1_chadquad.map",
    "sha256": "581aad9403b57772e104cfcf12a488986538cec95e997797f62f2cec145b7d77",
    "timestamp": "2023-06-18T00:58:06.000Z"
   },
-  "srj1/maps/srj1_grue.bsp": {
+  {
    "bytes": 4473168,
+   "path": "srj1/maps/srj1_grue.bsp",
    "sha256": "70921c37c91d2228a54f0cd30c20984afe1f682cc7fe54f5cecd5c39ea2d9e78",
    "timestamp": "2023-06-19T00:51:50.000Z"
   },
-  "srj1/maps/srj1_grue.lit": {
+  {
    "bytes": 2960768,
+   "path": "srj1/maps/srj1_grue.lit",
    "sha256": "a82bae019237f6c1d8ce5109d4bbe3d1b3d510dd195e587a40b87c874313a671",
    "timestamp": "2023-06-19T00:51:46.000Z"
   },
-  "srj1/maps/srj1_grue.map": {
+  {
    "bytes": 2725035,
+   "path": "srj1/maps/srj1_grue.map",
    "sha256": "126c0c638748fd4339a3c1e3c38bfd94c4166c81833c3053b0be458699f09342",
    "timestamp": "2023-06-19T00:51:38.000Z"
   },
-  "srj1/maps/srj1_melbo.bsp": {
+  {
    "bytes": 1156736,
+   "path": "srj1/maps/srj1_melbo.bsp",
    "sha256": "557fcbd70c9742eb8e85d9556bdc13ed5f912eb22702d1d22368c4bf41ef19a2",
    "timestamp": "2023-06-19T00:09:00.000Z"
   },
-  "srj1/maps/srj1_melbo.map": {
+  {
    "bytes": 653948,
+   "path": "srj1/maps/srj1_melbo.map",
    "sha256": "19cddc6c881c7c0802f2d6203308a7cc55b8cf974816ba2543364835a17b61bd",
    "timestamp": "2023-06-19T00:09:06.000Z"
   },
-  "srj1/maps/srj1_melbo2.bsp": {
+  {
    "bytes": 345796,
+   "path": "srj1/maps/srj1_melbo2.bsp",
    "sha256": "dee34eff2822967f3f672d8039c60493a7c76ad37def5687296d605535a9fe2e",
    "timestamp": "2023-06-19T00:09:08.000Z"
   },
-  "srj1/maps/srj1_melbo2.map": {
+  {
    "bytes": 88290,
+   "path": "srj1/maps/srj1_melbo2.map",
    "sha256": "6d8b4f8a91c829fee41b276e450944b8d5819d17feba73dca8d3ce997d13da54",
    "timestamp": "2023-06-19T00:09:10.000Z"
   },
-  "srj1/maps/srj1_shamblernaut.bsp": {
+  {
    "bytes": 1690728,
+   "path": "srj1/maps/srj1_shamblernaut.bsp",
    "sha256": "eae4612bd69e90f09c3ffd267ac03936ff5839438a7d19b6a5ffef0dc848495d",
    "timestamp": "2023-06-19T00:46:14.000Z"
   },
-  "srj1/maps/srj1_shamblernaut.lit": {
+  {
    "bytes": 968024,
+   "path": "srj1/maps/srj1_shamblernaut.lit",
    "sha256": "bddcf23c001f742a77f16184b0b868e5c5dbee63dd89242bfa6fbb836921da99",
    "timestamp": "2023-06-19T00:46:14.000Z"
   },
-  "srj1/maps/srj1_shamblernaut.map": {
+  {
    "bytes": 1077653,
+   "path": "srj1/maps/srj1_shamblernaut.map",
    "sha256": "c8008b3b7feebaa7b820e2dd5af1c76378e49c2df61fbe8640c23ad6a887aabe",
    "timestamp": "2023-06-19T00:27:00.000Z"
   },
-  "srj1/maps/start.bsp": {
+  {
    "bytes": 1252892,
+   "path": "srj1/maps/start.bsp",
    "sha256": "f1a4fe9802022bed48b23d3a0cdb3de7bf0f90b8c83d09b4389e14d27745fabe",
    "timestamp": "2023-06-19T04:43:42.000Z"
   },
-  "srj1/maps/start.map": {
+  {
    "bytes": 387323,
+   "path": "srj1/maps/start.map",
    "sha256": "4ccc2305dceaf6393692a7c597ff2ccac553c31aac6695640e8cdb8fbefec091",
    "timestamp": "2023-06-19T04:43:40.000Z"
   },
-  "srj1/progs.dat": {
+  {
    "bytes": 453248,
+   "path": "srj1/progs.dat",
    "sha256": "8ffc55acc48bc1f834b859ab5e76b6e73555279a709292423a90b64f590f1483",
    "timestamp": "2021-01-28T03:32:48.000Z"
   },
-  "srj1/quake.rc": {
+  {
    "bytes": 209,
+   "path": "srj1/quake.rc",
    "sha256": "98a32a86c555a8b9e9ab9fc71a8b60a9c0af462ec637ebe860f1a74dd9883f41",
    "timestamp": "2023-06-19T01:34:08.000Z"
   },
-  "srj1/readme.txt": {
+  {
    "bytes": 1440,
+   "path": "srj1/readme.txt",
    "sha256": "73dc750ef5cd0500e6e9ccfffd0b71ab59a6b07772373cbac5839319d9827b4b",
    "timestamp": "2023-06-19T01:54:04.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2023-06-19",
  "sha256": "dcb5f9bbf05322e4d6a9740e9add5ef9486050cc35218d762d88a3d4f8feb7fe",
  "tags": [
-  "author=ChadQuad",
-  "author=CommonCold",
-  "author=Grue",
-  "author=Melbo",
-  "author=Shamblernaut",
   "commandline=-game srj1",
   "filename=srj1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/speedrunner-map-jam.241/)",
   "playstyle=speedrunning",
-  "release_date=2023-06-19",
   "startmap=start",
-  "title=Speedrunner Map Jam",
   "type=mapjam",
   "type=mod"
  ],
+ "title": "Speedrunner Map Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/dc/dcb5f9bbf05322e4d6a9740e9add5ef9486050cc35218d762d88a3d4f8feb7fe/srj1.zip",
   "https://x901.net/quaddictedfiles/srj1.zip"

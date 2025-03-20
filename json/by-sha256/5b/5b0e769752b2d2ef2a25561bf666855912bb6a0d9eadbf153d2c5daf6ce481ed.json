@@ -1,23 +1,27 @@
 {
+ "authors": [
+  "Timothy R. Jervis"
+ ],
  "bytes": 660232,
  "description": "Base map with shootable buttons and a rocket to launch.",
- "files": {
-  "icbm.bsp": {
+ "files": [
+  {
    "bytes": 1533840,
+   "path": "icbm.bsp",
    "sha256": "b4aaca751c6d1a8ee72cf857778cad52f0a681863cc55618ec592551864672e7",
    "timestamp": "1997-05-25T15:48:10.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "The original zip did not include a txt file. It is available separately in <a href=\"http://www.gamers.org/pub/idgames2/levels/g-i/icbm.txt\">/idgames/levels/g-i/icbm.txt</a> though."
  ],
+ "release_date": "1997-05-25",
  "sha256": "5b0e769752b2d2ef2a25561bf666855912bb6a0d9eadbf153d2c5daf6ce481ed",
  "tags": [
-  "author=Timothy R. Jervis",
   "filename=icbm.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -27,13 +31,12 @@
   "map_size=small",
   "nonspecific_tag=coop",
   "nonspecific_tag=rocket",
-  "release_date=1997-05-25",
   "theme=base",
   "theme=realism",
-  "title=The Abandoned Silo",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Abandoned Silo",
  "urls": [
   "https://www.quaddicted.com/filebase/icbm.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5b0e769752b2d2ef2a25561bf666855912bb6a0d9eadbf153d2c5daf6ce481ed/icbm.zip"

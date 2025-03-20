@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Rick Lipsey"
+ ],
  "bytes": 1139984,
  "description": "Large interconnected Metal castle with a sense of exploration.",
- "files": {
-  "oblivion.bsp": {
+ "files": [
+  {
    "bytes": 2551836,
+   "path": "oblivion.bsp",
    "sha256": "02c4e67a6cead79780d2b9393131969b4a7852c4410e175a7f99d355a1d15fa7",
    "timestamp": "2000-07-04T23:52:08.000Z"
   },
-  "oblivion.txt": {
+  {
    "bytes": 7855,
+   "path": "oblivion.txt",
    "sha256": "7aea45daf64e3bf74772393a8e0dcc1c0831a30d1811e4054e2cf251c3a03568",
    "timestamp": "2000-07-04T23:59:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2000-07-04",
  "sha256": "e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c",
  "tags": [
-  "author=Rick Lipsey",
   "filename=oblivion.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -31,14 +36,13 @@
   "nonspecific_tag=etal",
   "nonspecific_tag=interconnected",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=2000-07-04",
   "theme=blue",
   "theme=castle",
   "theme=metal",
-  "title=Castle of Oblivion",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Castle of Oblivion",
  "urls": [
   "https://www.quaddicted.com/filebase/oblivion.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c/oblivion.zip"

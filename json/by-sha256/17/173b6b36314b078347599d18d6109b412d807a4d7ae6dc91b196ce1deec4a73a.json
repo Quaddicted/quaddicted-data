@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Tony Boyer"
+ ],
  "bytes": 374859,
  "description": "Very small, plain Metal map.",
- "files": {
-  "blister.bsp": {
+ "files": [
+  {
    "bytes": 843092,
+   "path": "blister.bsp",
    "sha256": "445b50f01274d60182e37df7f169b36e9a838efeffb0780d7adeff4eabc8007c",
    "timestamp": "1997-05-24T00:05:42.000Z"
   },
-  "blister.txt": {
+  {
    "bytes": 5044,
+   "path": "blister.txt",
    "sha256": "36ea5bdbc85c2c6e6c1e36637328becfb52e7259ccd41e82d6448b994a3428ea",
    "timestamp": "1997-05-24T00:14:50.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-05-24",
  "sha256": "173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a",
  "tags": [
-  "author=Tony Boyer",
   "filename=blister.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -27,12 +32,11 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=small",
-  "release_date=1997-05-24",
   "theme=metal",
-  "title=Blister",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Blister",
  "urls": [
   "https://www.quaddicted.com/filebase/blister.zip",
   "https://www.quaddicted.com/files/by-sha256/17/173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a/blister.zip"

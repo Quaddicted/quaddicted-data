@@ -1,20 +1,24 @@
 {
+ "authors": [
+  "Marc Laidlaw"
+ ],
  "bytes": 771910,
  "description": "Small to medium chapel with a graveyard and caverns beneath. Lots of back and forth running between the rooms.",
- "files": {
-  "shoggoth.bsp": {
+ "files": [
+  {
    "bytes": 1748348,
+   "path": "shoggoth.bsp",
    "sha256": "d627bcf04a6a2f4b043fbfcf78fbc8959f91fbf51ff2822472b467f25e2a7927",
    "timestamp": "1997-03-03T22:07:44.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-03-03",
  "sha256": "11dd91500dfb68b2a1502fffcca1a5cf37bf9a666e003c3bfbe539e4acde6e7c",
  "tags": [
-  "author=Marc Laidlaw",
   "filename=shoggoth.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,17 +31,16 @@
   "nonspecific_tag=chapel",
   "nonspecific_tag=dark",
   "nonspecific_tag=interconnected",
-  "release_date=1997-03-03",
   "theme=brick",
   "theme=brown",
   "theme=caverns",
   "theme=graveyard",
   "theme=green",
   "theme=underground",
-  "title=Chapel Shoggoth",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Chapel Shoggoth",
  "urls": [
   "https://www.quaddicted.com/filebase/shoggoth.zip",
   "https://www.quaddicted.com/files/by-sha256/11/11dd91500dfb68b2a1502fffcca1a5cf37bf9a666e003c3bfbe539e4acde6e7c/shoggoth.zip"

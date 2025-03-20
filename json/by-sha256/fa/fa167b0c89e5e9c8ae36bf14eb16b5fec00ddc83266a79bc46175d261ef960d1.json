@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Anders \"Backspace\" Persson"
+ ],
  "bytes": 666054,
  "description": "Large Metal windtunnel map.",
- "files": {
-  "tfl2.bsp": {
+ "files": [
+  {
    "bytes": 1522512,
+   "path": "tfl2.bsp",
    "sha256": "22198cab9edb3825c6ed071a459d39d44e8f344eb7bbab4b1df4272a2ad82219",
    "timestamp": "1997-06-04T08:16:38.000Z"
   },
-  "tfl2.txt": {
+  {
    "bytes": 2070,
+   "path": "tfl2.txt",
    "sha256": "e7219baf25796da762c41ce23468e970a2d7c15b8b97c7cb3bff4e43a36d0c39",
    "timestamp": "1997-06-04T09:16:24.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-06-04",
  "sha256": "fa167b0c89e5e9c8ae36bf14eb16b5fec00ddc83266a79bc46175d261ef960d1",
  "tags": [
-  "author=Anders \"Backspace\" Persson",
   "filename=tfl2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,13 +32,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
-  "release_date=1997-06-04",
   "theme=metal",
   "theme=windtunnel",
-  "title=The Fierce Livid",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Fierce Livid",
  "urls": [
   "https://www.quaddicted.com/filebase/tfl2.zip",
   "https://www.quaddicted.com/files/by-sha256/fa/fa167b0c89e5e9c8ae36bf14eb16b5fec00ddc83266a79bc46175d261ef960d1/tfl2.zip"

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Andrew Smith"
+ ],
  "bytes": 577817,
  "description": "Medium sized Metal map.",
- "files": {
-  "CARNAGE.BSP": {
+ "files": [
+  {
    "bytes": 1425704,
+   "path": "CARNAGE.BSP",
    "sha256": "8d85253de0f4295868baa0e9c3f93d44a79b2f8c8e614c889f94cd1647ae9a8b",
    "timestamp": "1997-10-09T11:44:18.000Z"
   },
-  "CARNAGE.TXT": {
+  {
    "bytes": 3684,
+   "path": "CARNAGE.TXT",
    "sha256": "799a372135e4561c787cc5879f5de312c237de2e8adf2ba506bcaa7cde957260",
    "timestamp": "1997-10-09T22:16:04.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-10-09",
  "sha256": "8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c",
  "tags": [
-  "author=Andrew Smith",
   "filename=carnage.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,13 +34,12 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-10-09",
   "theme=metal",
   "theme=runic",
-  "title=Carnage",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Carnage",
  "urls": [
   "https://www.quaddicted.com/filebase/carnage.zip",
   "https://www.quaddicted.com/files/by-sha256/87/8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c/carnage.zip"

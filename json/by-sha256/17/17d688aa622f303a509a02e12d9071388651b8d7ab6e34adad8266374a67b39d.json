@@ -1,30 +1,36 @@
 {
+ "authors": [
+  "Kevin Gwartney (GunnerMan)"
+ ],
  "bytes": 1077206,
  "description": "About medium sized, cramped blue brick/ Wizard zombie dungeon. Comes with a start map.",
- "files": {
-  "graveset.bsp": {
+ "files": [
+  {
    "bytes": 761612,
+   "path": "graveset.bsp",
    "sha256": "1810f1aa1e29684c694a51ec3d94f5146d17fa2d95a2d10645c95940870fad8d",
    "timestamp": "1998-09-13T13:32:36.000Z"
   },
-  "gunman02.txt": {
+  {
    "bytes": 2290,
+   "path": "gunman02.txt",
    "sha256": "77caee018c3d8df9fb2013fe158e660ce759a3ad4af6b395afe510b5c5967be0",
    "timestamp": "1998-11-03T00:42:24.000Z"
   },
-  "undrgrvs.bsp": {
+  {
    "bytes": 1844028,
+   "path": "undrgrvs.bsp",
    "sha256": "0a28849e362e42f596e5f1d82e50b265020cf3dda640a1340cac6e43fbae5e7d",
    "timestamp": "1998-11-03T01:50:58.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1998-11-03",
  "sha256": "17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d",
  "tags": [
-  "author=Kevin Gwartney (GunnerMan)",
   "filename=gunman02.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,16 +40,15 @@
   "nonspecific_tag=dark",
   "nonspecific_tag=start",
   "nonspecific_tag=zombies",
-  "release_date=1998-11-03",
   "startmap=graveset",
   "theme=brick",
   "theme=crampy",
   "theme=puzzle",
   "theme=wizard",
-  "title=Undergraves",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Undergraves",
  "urls": [
   "https://www.quaddicted.com/filebase/gunman02.zip",
   "https://www.quaddicted.com/files/by-sha256/17/17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d/gunman02.zip"

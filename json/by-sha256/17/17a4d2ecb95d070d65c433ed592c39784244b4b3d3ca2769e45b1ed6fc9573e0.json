@@ -1,102 +1,119 @@
 {
+ "authors": [
+  "Vanisch"
+ ],
  "bytes": 6246638,
  "description": "Small medieval map using a variety of texture themes, tested for both vanilla progs and Copper (not required). The author's first map.",
- "files": {
-  "vanisch01/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "vanisch01/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2025-01-10T11:16:22.000Z"
   },
-  "vanisch01/gfx/": {
+  {
    "bytes": 0,
+   "path": "vanisch01/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2025-01-10T05:29:58.000Z"
   },
-  "vanisch01/gfx/env/": {
+  {
    "bytes": 0,
+   "path": "vanisch01/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2025-01-10T05:30:10.000Z"
   },
-  "vanisch01/gfx/env/dragonvale_bk.tga": {
+  {
    "bytes": 691681,
+   "path": "vanisch01/gfx/env/dragonvale_bk.tga",
    "sha256": "1979b0357f935cff993f9683a30bb1f6567644445cd35db82c668cecc71c17d7",
    "timestamp": "2002-10-07T02:44:36.000Z"
   },
-  "vanisch01/gfx/env/dragonvale_dn.tga": {
+  {
    "bytes": 787857,
+   "path": "vanisch01/gfx/env/dragonvale_dn.tga",
    "sha256": "5cc49979901330fd9764020946f48918f45f1742475e9324b08682a9ee622b4c",
    "timestamp": "2002-10-07T02:45:02.000Z"
   },
-  "vanisch01/gfx/env/dragonvale_ft.tga": {
+  {
    "bytes": 720310,
+   "path": "vanisch01/gfx/env/dragonvale_ft.tga",
    "sha256": "a3ac7edf330313ed7fb274d3d4380c02602cba95c46878701a25660f0d972500",
    "timestamp": "2002-10-07T02:43:42.000Z"
   },
-  "vanisch01/gfx/env/dragonvale_lf.tga": {
+  {
    "bytes": 687811,
+   "path": "vanisch01/gfx/env/dragonvale_lf.tga",
    "sha256": "c65817e661d39000e0b6de39efae5d9c8f807346d3ce60faabc15572f5049c62",
    "timestamp": "2002-10-07T02:44:26.000Z"
   },
-  "vanisch01/gfx/env/dragonvale_rt.tga": {
+  {
    "bytes": 689780,
+   "path": "vanisch01/gfx/env/dragonvale_rt.tga",
    "sha256": "d20593d0ecf6a23594f95e8042ef8a612659a43c0b8f3631256c517e346484c9",
    "timestamp": "2002-10-07T02:44:46.000Z"
   },
-  "vanisch01/gfx/env/dragonvale_up.tga": {
+  {
    "bytes": 284432,
+   "path": "vanisch01/gfx/env/dragonvale_up.tga",
    "sha256": "7241bb4821581d2317cbd45138b53d7dd41a633331f8e54bf33e5e81f55a6703",
    "timestamp": "2002-10-07T12:13:04.000Z"
   },
-  "vanisch01/maps/": {
+  {
    "bytes": 0,
+   "path": "vanisch01/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2025-01-10T11:16:00.000Z"
   },
-  "vanisch01/maps/vanisch01.bsp": {
+  {
    "bytes": 6341740,
+   "path": "vanisch01/maps/vanisch01.bsp",
    "sha256": "9b005557537eb6e042e2a2129ddea4ef7d503f97801d915f55459972b362cdc5",
    "timestamp": "2025-01-11T10:37:24.000Z"
   },
-  "vanisch01/maps/vanisch01.lit": {
+  {
    "bytes": 961412,
+   "path": "vanisch01/maps/vanisch01.lit",
    "sha256": "681283a9d77788992e3a61cc1bdc3eac44d3bef9fa7d3e3f8bb0c9df7d612aeb",
    "timestamp": "2025-01-11T10:37:24.000Z"
   },
-  "vanisch01/source/": {
+  {
    "bytes": 0,
+   "path": "vanisch01/source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2025-01-10T11:15:52.000Z"
   },
-  "vanisch01/source/vanisch01.map": {
+  {
    "bytes": 4526672,
+   "path": "vanisch01/source/vanisch01.map",
    "sha256": "d56fd61e929c00e54adcc15c618ba7ba82e75ad3b9f75b8c304b8909f75bdaba",
    "timestamp": "2025-01-18T00:30:00.000Z"
   },
-  "vanisch01/vanisch01.txt": {
+  {
    "bytes": 3680,
+   "path": "vanisch01/vanisch01.txt",
    "sha256": "8fa744f4fa8d06e303446b78b2fc4e3fba520a9ad08c742bbfceed53d5d881f5",
    "timestamp": "2025-01-11T06:00:30.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2025-01-10",
  "sha256": "17a4d2ecb95d070d65c433ed592c39784244b4b3d3ca2769e45b1ed6fc9573e0",
  "tags": [
-  "author=Vanisch",
   "commandline=-game vanisch01",
   "filename=vanisch013.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer](https://www.slipseer.com/index.php?resources/november-schlacht.425/)",
-  "release_date=2025-01-10",
   "size=small",
   "startmap=vanisch01",
-  "title=November-Schlacht",
   "type=map",
   "zipbasedir={base}"
  ],
+ "title": "November-Schlacht",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/17/17a4d2ecb95d070d65c433ed592c39784244b4b3d3ca2769e45b1ed6fc9573e0/vanisch013.zip",
   "https://www.quaketastic.com/files/single_player/maps/vanisch013.zip"

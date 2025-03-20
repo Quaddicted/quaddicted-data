@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "J.F.Gustafsson"
+ ],
  "bytes": 533908,
  "description": "Medium wizard level in E1M2 style.",
- "files": {
-  "Hostile.bsp": {
+ "files": [
+  {
    "bytes": 1188688,
+   "path": "Hostile.bsp",
    "sha256": "4f42d2e10202be00bdbf4ffd55643609cfc08a9a739f5da82eff380c44983487",
    "timestamp": "1997-10-19T10:41:44.000Z"
   },
-  "Hostile.txt": {
+  {
    "bytes": 1849,
+   "path": "Hostile.txt",
    "sha256": "602c6c078232f03133d385ffba48e305439f96c8fdd0df9f7a03e6df276e9267",
    "timestamp": "1997-10-19T13:37:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-10-19",
  "sha256": "ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3",
  "tags": [
-  "author=J.F.Gustafsson",
   "filename=hostile.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,13 +32,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
-  "release_date=1997-10-19",
   "theme=traps",
   "theme=wizard",
-  "title=F**king hostile",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "F**king hostile",
  "urls": [
   "https://www.quaddicted.com/filebase/hostile.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3/hostile.zip"

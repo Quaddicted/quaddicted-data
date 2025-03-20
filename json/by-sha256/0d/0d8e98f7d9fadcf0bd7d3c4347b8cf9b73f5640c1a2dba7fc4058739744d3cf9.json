@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Robert \"Fat Controller\" Cruickshank"
+ ],
  "bytes": 903817,
  "description": "Medium sized IKbase map.",
- "files": {
-  "rc1.bsp": {
+ "files": [
+  {
    "bytes": 2139372,
+   "path": "rc1.bsp",
    "sha256": "66cc374e0a2d34568b2d5afc58738fc5e7dd1291cbf9039731018ef534b4c9f5",
    "timestamp": "1998-06-12T12:25:20.000Z"
   },
-  "rc1.txt": {
+  {
    "bytes": 6036,
+   "path": "rc1.txt",
    "sha256": "dff5e870338926704d65206fba5e8ba63b5ef09fcb0e2502c006d6b69c19359d",
    "timestamp": "1998-06-12T12:45:18.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1998-06-12",
  "sha256": "0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9",
  "tags": [
-  "author=Robert \"Fat Controller\" Cruickshank",
   "filename=rc1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -30,13 +35,12 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "nonspecific_tag=ik",
-  "release_date=1998-06-12",
   "theme=base",
   "theme=ikbase",
-  "title=The Frater Fracas",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Frater Fracas",
  "urls": [
   "https://www.quaddicted.com/filebase/rc1.zip",
   "https://www.quaddicted.com/files/by-sha256/0d/0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9/rc1.zip"

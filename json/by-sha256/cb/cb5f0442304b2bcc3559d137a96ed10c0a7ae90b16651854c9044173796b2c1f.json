@@ -1,35 +1,42 @@
 {
+ "authors": [
+  "Tim Elek"
+ ],
  "bytes": 2069928,
  "description": "Two (3) small, story-driven maps with medieval villages, temples and tombs, using Hexen2 textures.",
- "files": {
-  "CURSE1.bsp": {
+ "files": [
+  {
    "bytes": 2201920,
+   "path": "CURSE1.bsp",
    "sha256": "750b2f327940f3a9e70ee3d0a7a3901e2faff35c152e225b6c142c3df8484de6",
    "timestamp": "1999-10-17T15:21:56.000Z"
   },
-  "CURSE2.bsp": {
+  {
    "bytes": 2125700,
+   "path": "CURSE2.bsp",
    "sha256": "fbc3b478ab32978968eb30e842fc3d8943dbc4368d9ede9739c93a2bd12dfb0a",
    "timestamp": "1999-10-17T19:02:12.000Z"
   },
-  "CURSE_ST.bsp": {
+  {
    "bytes": 648220,
+   "path": "CURSE_ST.bsp",
    "sha256": "f489646bce43e0f6d64712f730770680767aeeee97c6ccc7c27fa07bc41f7bc1",
    "timestamp": "1999-10-18T02:14:38.000Z"
   },
-  "occursed.txt": {
+  {
    "bytes": 2881,
+   "path": "occursed.txt",
    "sha256": "cbfd586aa650c52f12815a9fe5c777150ed25cc086429ba8b83da7c17ad9290f",
    "timestamp": "1999-10-17T15:22:30.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-10-18",
  "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "tags": [
-  "author=Tim Elek",
   "filename=cursed.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,17 +50,16 @@
   "nonspecific_tag=dark",
   "nonspecific_tag=hexen",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1999-10-18",
   "startmap=curse_st",
   "theme=medieval",
   "theme=story",
   "theme=temple",
   "theme=tomb",
   "theme=village",
-  "title=The Occursed",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Occursed",
  "urls": [
   "https://www.quaddicted.com/filebase/cursed.zip",
   "https://www.quaddicted.com/files/by-sha256/cb/cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f/cursed.zip"

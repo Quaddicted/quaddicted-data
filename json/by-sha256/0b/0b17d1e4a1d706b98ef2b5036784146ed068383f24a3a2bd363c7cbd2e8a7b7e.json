@@ -1,36 +1,40 @@
 {
+ "authors": [
+  "Brainstorm"
+ ],
  "bytes": 85557,
  "description": "Very tiny SP/DM map in the shape of a Quake rune.",
- "files": {
-  "STUPID.BSP": {
+ "files": [
+  {
    "bytes": 241316,
+   "path": "STUPID.BSP",
    "sha256": "570134bd232a23241edd68752d7a3845dea701b9cda49d5a221f938c80edca6d",
    "timestamp": "2000-01-01T22:45:40.000Z"
   },
-  "stupid.txt": {
+  {
    "bytes": 1247,
+   "path": "stupid.txt",
    "sha256": "827f4e2b964a4de03e530cf31311a78fa55edc629686514a3c2fd7658264dd24",
    "timestamp": "2000-01-01T00:36:08.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2000-01-01",
  "sha256": "0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e",
  "tags": [
-  "author=Brainstorm",
   "filename=stupid.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
-  "release_date=2000-01-01",
   "theme=experimental",
   "theme=metal",
-  "title=Dis'z stupid!",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Dis'z stupid!",
  "urls": [
   "https://www.quaddicted.com/filebase/stupid.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e/stupid.zip"

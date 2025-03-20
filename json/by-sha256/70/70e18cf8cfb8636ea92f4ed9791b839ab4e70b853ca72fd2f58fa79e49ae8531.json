@@ -1,30 +1,36 @@
 {
+ "authors": [
+  "Tyler McNamee"
+ ],
  "bytes": 904170,
  "description": "Large Wizard map with three linear 'arms' around a kind of hub. Comes with a simple skill selection map.",
- "files": {
-  "cgstart.bsp": {
+ "files": [
+  {
    "bytes": 219076,
+   "path": "cgstart.bsp",
    "sha256": "39b60d375d92b4ba89013a5465143227b1396f1bf908976541a2b5d4cb060e00",
    "timestamp": "1997-05-04T17:58:06.000Z"
   },
-  "cha-gh.bsp": {
+  {
    "bytes": 1736592,
+   "path": "cha-gh.bsp",
    "sha256": "4a5ff9d95f0d19a254a1eb119f87f823efbea48ecfb28ab1bef20e73ae5d4724",
    "timestamp": "1997-05-04T16:30:24.000Z"
   },
-  "cha-gh.txt": {
+  {
    "bytes": 1981,
+   "path": "cha-gh.txt",
    "sha256": "9df717f007ccbfd50cf28858e7a1be4909684e032a1151a01391b388b1c8dab5",
    "timestamp": "1997-05-04T18:33:28.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-05-04",
  "sha256": "70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531",
  "tags": [
-  "author=Tyler McNamee",
   "filename=cha-gh.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -34,16 +40,15 @@
   "map_size=medium",
   "nonspecific_tag=hub",
   "nonspecific_tag=start",
-  "release_date=1997-05-04",
   "startmap=cgstart",
   "theme=metal",
   "theme=puzzle",
   "theme=traps",
   "theme=wizard",
-  "title=Cha Gheill",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Cha Gheill",
  "urls": [
   "https://www.quaddicted.com/filebase/cha-gh.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531/cha-gh.zip"

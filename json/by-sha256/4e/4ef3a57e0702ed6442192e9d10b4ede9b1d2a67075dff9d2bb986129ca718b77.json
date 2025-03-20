@@ -1,35 +1,42 @@
 {
+ "authors": [
+  "Andrew Yoder"
+ ],
  "bytes": 2046838,
  "description": "Large green jungle temple with some puzzles involving ancient machinery. Sort of a sequel to <a href=\"0d0e69d78ef341bfc53343bf5f32c95e3fa49e9e66eb0f83fc1079cba4029fd6\">Ruins of Mazotac</a>. The map source is included.",
- "files": {
-  "simplex.bsp": {
+ "files": [
+  {
    "bytes": 2584060,
+   "path": "simplex.bsp",
    "sha256": "de2259e9d8a0563a200093e6ad9d70474190debef824715fda30ba9da1cb2707",
    "timestamp": "2018-05-04T00:03:28.000Z"
   },
-  "simplex.lit": {
+  {
    "bytes": 1109261,
+   "path": "simplex.lit",
    "sha256": "c6b81c1d1f6c23df59d6b30bbb6bea2121cd5956c7225597138ddf157b74ff0c",
    "timestamp": "2018-05-04T00:03:28.000Z"
   },
-  "simplex.map": {
+  {
    "bytes": 1667376,
+   "path": "simplex.map",
    "sha256": "0f9843a4190dbc24bee1704eef5d66de12baf92b8ffcd13692a355325a08c01a",
    "timestamp": "2018-05-04T00:02:04.000Z"
   },
-  "simplex_readme.txt": {
+  {
    "bytes": 1948,
+   "path": "simplex_readme.txt",
    "sha256": "42cb15f055d34bfb02c58f7f360b4e55deb3bac5f2e72ca2a4536677fee44e6d",
    "timestamp": "2018-05-04T00:29:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2018-05-04",
  "sha256": "4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77",
  "tags": [
-  "author=Andrew Yoder",
   "filename=simplex.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,7 +44,6 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61571)",
   "map_size=large",
   "nonspecific_tag=jungle",
-  "release_date=2018-05-04",
   "source=included",
   "theme=brick",
   "theme=green",
@@ -46,10 +52,10 @@
   "theme=swamp",
   "theme=temple",
   "theme=wizard",
-  "title=Simplex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Simplex",
  "urls": [
   "https://www.quaddicted.com/filebase/simplex.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77/simplex.zip"

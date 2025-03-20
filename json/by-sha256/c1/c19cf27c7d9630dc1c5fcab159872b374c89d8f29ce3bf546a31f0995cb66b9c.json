@@ -1,50 +1,56 @@
 {
+ "authors": [
+  "Dann Thombs"
+ ],
  "bytes": 282799,
  "description": "Small, leaked white inside of a pyramid.",
- "files": {
-  "MAPS/PYRAMID.BSP": {
+ "files": [
+  {
    "bytes": 612264,
+   "path": "MAPS/PYRAMID.BSP",
    "sha256": "af2d77d047e30b1ee61bc1e7c84da792726b91084ee38c048c5d68b6c96deb9c",
    "timestamp": "1997-02-28T17:55:30.000Z"
   },
-  "SOUND/AMBIENCE/DRONE6.WAV": {
+  {
    "bytes": 57954,
+   "path": "SOUND/AMBIENCE/DRONE6.WAV",
    "sha256": "3a5e790a1849c0f08cd31c7d7cac75b46da7343189eedc69e87e405c991debad",
    "timestamp": "1997-02-25T20:31:34.000Z"
   },
-  "pyramid.txt": {
+  {
    "bytes": 2934,
+   "path": "pyramid.txt",
    "sha256": "c317011806c7c388da7dc1bf46f89a7becc3e1734e1bfa27abfb6fd8b975dc72",
    "timestamp": "1997-02-28T18:14:16.000Z"
   },
-  "thepyram_quaddictedrepack.txt": {
+  {
    "bytes": 319,
+   "path": "thepyram_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
+ "release_date": "1997-02-28",
  "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "tags": [
-  "author=Dann Thombs",
   "filename=thepyram.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm#thepyram)",
   "map_size=small",
-  "release_date=1997-02-28",
   "startmap=pyramid",
   "theme=pyramid",
-  "title=The Pyramid",
   "type=map",
   "zipbasedir=id1/"
  ],
+ "title": "The Pyramid",
  "urls": [
   "https://www.quaddicted.com/filebase/thepyram.zip",
   "https://www.quaddicted.com/files/by-sha256/c1/c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c/thepyram.zip"

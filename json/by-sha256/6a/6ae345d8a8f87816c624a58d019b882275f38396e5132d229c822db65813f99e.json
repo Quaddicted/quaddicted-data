@@ -1,34 +1,38 @@
 {
+ "authors": [
+  "Darren Stabler"
+ ],
  "bytes": 544856,
  "description": "Small, boxed map.",
- "files": {
-  "pop.bsp": {
+ "files": [
+  {
    "bytes": 1228051,
+   "path": "pop.bsp",
    "sha256": "f750212875190a858d34c51dd183308596ac7d59341bb06d47085deab95f17c2",
    "timestamp": "1996-07-28T22:49:20.000Z"
   },
-  "potpourri.txt": {
+  {
    "bytes": 2844,
+   "path": "potpourri.txt",
    "sha256": "6f7f21618a2a0b5d90905a81a357743d08a2b92977e93de53a41cc72f1440b1a",
    "timestamp": "1996-07-28T23:21:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1996-07-28",
  "sha256": "6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e",
  "tags": [
-  "author=Darren Stabler",
   "filename=pop.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
-  "release_date=1996-07-28",
-  "title=Potpourri",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Potpourri",
  "urls": [
   "https://www.quaddicted.com/filebase/pop.zip",
   "https://www.quaddicted.com/files/by-sha256/6a/6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e/pop.zip"

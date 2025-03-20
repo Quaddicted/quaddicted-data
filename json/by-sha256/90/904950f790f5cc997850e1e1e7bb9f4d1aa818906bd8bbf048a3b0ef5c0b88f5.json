@@ -1,30 +1,36 @@
 {
+ "authors": [
+  "ubiquitous"
+ ],
  "bytes": 1780755,
  "description": "Small to medium-sized vertical mixed-texture 90s style map. The underlying \"story\" is that you are in some kind of base environment built in such a way that you must climb through three increasingly macabre gauntlets in order to escape.",
- "files": {
-  "infernal.bsp": {
+ "files": [
+  {
    "bytes": 3610012,
+   "path": "infernal.bsp",
    "sha256": "9a1b4fb17f225d235bf12c630377b322595f9c7e22290adc2263ff53004c8669",
    "timestamp": "2016-09-20T08:08:42.000Z"
   },
-  "infernal.lit": {
+  {
    "bytes": 1035290,
+   "path": "infernal.lit",
    "sha256": "9cfcae6bbc5fe10e51a489a1cdfe60c414991eedae82d7ad88753841ca85ce61",
    "timestamp": "2016-09-20T08:08:42.000Z"
   },
-  "infernal.txt": {
+  {
    "bytes": 2237,
+   "path": "infernal.txt",
    "sha256": "e448e162740b083fa4262ae277d2037f867f8936905b17efbd065f8e7232deac",
    "timestamp": "2016-09-20T08:10:30.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2016-09-20",
  "sha256": "904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5",
  "tags": [
-  "author=ubiquitous",
   "filename=infernal_v14.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,13 +38,12 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61352)",
   "map_layout=vertical",
   "map_size=small",
-  "release_date=2016-09-20",
   "startmap=infernal",
   "theme=mixtex",
-  "title=Infernal Ascent",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Infernal Ascent",
  "urls": [
   "https://www.quaddicted.com/filebase/infernal_v14.zip",
   "https://www.quaddicted.com/files/by-sha256/90/904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5/infernal_v14.zip"

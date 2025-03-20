@@ -1,2330 +1,2792 @@
 {
+ "authors": [
+  "Euclidius"
+ ],
  "bytes": 190519173,
  "description": "Two-episode campaign containing 20+ maps in various 1997-era styles, with large rooms, abstract designs and some tough combat.",
- "files": {
-  "euclidius/": {
+ "files": [
+  {
    "bytes": 0,
+   "path": "euclidius/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-13T23:37:36.000Z"
   },
-  "euclidius/READMEFIRST.txt": {
+  {
    "bytes": 2763,
+   "path": "euclidius/READMEFIRST.txt",
    "sha256": "3877c523a8a2949edee4ce368d1fbc17bf38746a9527d6755b0d098f53821303",
    "timestamp": "2023-05-12T18:21:40.000Z"
   },
-  "euclidius/demo1.dem": {
+  {
    "bytes": 12935296,
+   "path": "euclidius/demo1.dem",
    "sha256": "5288f5a8afa31627150c0e67b6ed17b98cfffc7e6c1b5122d8c86fc75156a88e",
    "timestamp": "2024-06-13T23:24:58.000Z"
   },
-  "euclidius/gfx/": {
+  {
    "bytes": 0,
+   "path": "euclidius/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:56.000Z"
   },
-  "euclidius/gfx/env/": {
+  {
    "bytes": 0,
+   "path": "euclidius/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:56.000Z"
   },
-  "euclidius/gfx/env/mak_tealsky1_bk.tga": {
+  {
    "bytes": 3145772,
+   "path": "euclidius/gfx/env/mak_tealsky1_bk.tga",
    "sha256": "3355741f419cc227c84aa357000b70fc07c2d103291154a4a73f8ad066e5972b",
    "timestamp": "2023-06-25T18:55:48.000Z"
   },
-  "euclidius/gfx/env/mak_tealsky1_dn.tga": {
+  {
    "bytes": 3145772,
+   "path": "euclidius/gfx/env/mak_tealsky1_dn.tga",
    "sha256": "b884f1ab08369a1fea178f48ddaed8ae21eb788ae096c22f4aa48160b4c2a152",
    "timestamp": "2023-06-25T18:55:48.000Z"
   },
-  "euclidius/gfx/env/mak_tealsky1_ft.tga": {
+  {
    "bytes": 3145772,
+   "path": "euclidius/gfx/env/mak_tealsky1_ft.tga",
    "sha256": "04d2b3f34adc584a8478a5056b3a889f44630c9b5662ad0d732af329c9650177",
    "timestamp": "2023-06-25T18:55:48.000Z"
   },
-  "euclidius/gfx/env/mak_tealsky1_lf.tga": {
+  {
    "bytes": 3145772,
+   "path": "euclidius/gfx/env/mak_tealsky1_lf.tga",
    "sha256": "a6d7d09bad42d78767310266b3806ab3047068dd14c127ebe5fc3f69bd49495e",
    "timestamp": "2023-06-25T18:55:48.000Z"
   },
-  "euclidius/gfx/env/mak_tealsky1_rt.tga": {
+  {
    "bytes": 3145772,
+   "path": "euclidius/gfx/env/mak_tealsky1_rt.tga",
    "sha256": "f9dbf14dd430f0598b3117b6f93b8c7f6745d824c7d7c14ac672a081847e401e",
    "timestamp": "2023-06-25T18:55:48.000Z"
   },
-  "euclidius/gfx/env/mak_tealsky1_up.tga": {
+  {
    "bytes": 3145772,
+   "path": "euclidius/gfx/env/mak_tealsky1_up.tga",
    "sha256": "a001fab1b8263805a8d6abb184696da33f59b05650d3ec117d255fd69405cf86",
    "timestamp": "2023-06-25T18:55:48.000Z"
   },
-  "euclidius/maps/": {
+  {
    "bytes": 0,
+   "path": "euclidius/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-13T23:17:08.000Z"
   },
-  "euclidius/maps/autosave/": {
+  {
    "bytes": 0,
+   "path": "euclidius/maps/autosave/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-13T22:56:46.000Z"
   },
-  "euclidius/maps/autosave/a_warm_place.1.map": {
+  {
    "bytes": 915544,
+   "path": "euclidius/maps/autosave/a_warm_place.1.map",
    "sha256": "8291ba8486f6bdc8a6fe8377a42c74313b746dec53297b8d721289936ac9cd49",
    "timestamp": "2024-06-06T02:53:42.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.1.map": {
+  {
    "bytes": 66390,
+   "path": "euclidius/maps/autosave/awarmplace.1.map",
    "sha256": "29b45db61d6de4fba1916df5af34306a5af54ca98f06ddfc045eee607d1eac85",
    "timestamp": "2023-05-12T18:21:58.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.10.map": {
+  {
    "bytes": 823721,
+   "path": "euclidius/maps/autosave/awarmplace.10.map",
    "sha256": "56767c06d11d075cc0f8b011e10f3fb68a17632984289e64903befd9652ac356",
    "timestamp": "2023-05-12T18:21:58.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.11.map": {
+  {
    "bytes": 869843,
+   "path": "euclidius/maps/autosave/awarmplace.11.map",
    "sha256": "69e7d270cca36f960a1976a90cc475cc3efb19a9a7d413b741719facc590297e",
    "timestamp": "2023-05-12T18:22:00.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.12.map": {
+  {
    "bytes": 875300,
+   "path": "euclidius/maps/autosave/awarmplace.12.map",
    "sha256": "c650ec083da0a79bfd212d66ef86f8ad9c361ebf85ee6fa2d5d0e97f556fab2f",
    "timestamp": "2023-05-12T18:22:00.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.13.map": {
+  {
    "bytes": 885625,
+   "path": "euclidius/maps/autosave/awarmplace.13.map",
    "sha256": "d6dd6c40bacd1504dc22268da3ed3432d3ccfd0ac43b16392bef6f923c1d41ce",
    "timestamp": "2023-05-12T18:22:00.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.14.map": {
+  {
    "bytes": 891244,
+   "path": "euclidius/maps/autosave/awarmplace.14.map",
    "sha256": "313e80718edc13dfd79e806ff896296dcbd9fe52aead822faa22ed77fe9a1cb6",
    "timestamp": "2023-05-12T18:22:00.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.15.map": {
+  {
    "bytes": 895522,
+   "path": "euclidius/maps/autosave/awarmplace.15.map",
    "sha256": "fe4d5d4f8585b8be0eb1bd16419d0268fc7d206ad96158275e92f688f906c19d",
    "timestamp": "2023-05-12T18:22:00.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.16.map": {
+  {
    "bytes": 908481,
+   "path": "euclidius/maps/autosave/awarmplace.16.map",
    "sha256": "d58902d9790fa58814d418fd4f3a235a00fc1cf29a6e3d7e1bf379fb09dda624",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.2.map": {
+  {
    "bytes": 180435,
+   "path": "euclidius/maps/autosave/awarmplace.2.map",
    "sha256": "28d118b646d49ff1e0092b420d9563838b7679d75e30122c7a69e635f29482ef",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.3.map": {
+  {
    "bytes": 298988,
+   "path": "euclidius/maps/autosave/awarmplace.3.map",
    "sha256": "a22167aad84c56c7e9676e67437fc62b09bd4981246be2a0ba9a6b0a4db318d5",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.4.map": {
+  {
    "bytes": 371759,
+   "path": "euclidius/maps/autosave/awarmplace.4.map",
    "sha256": "78eaa2bf3806e3de22e93fd9caacac6bad8b9b9bb22da1fe3c90de7b96f18024",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.5.map": {
+  {
    "bytes": 422209,
+   "path": "euclidius/maps/autosave/awarmplace.5.map",
    "sha256": "74204ee286135ce64b616a9f7e479d8eda19965dde7f88e1c7df30c8d17f9122",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.6.map": {
+  {
    "bytes": 448941,
+   "path": "euclidius/maps/autosave/awarmplace.6.map",
    "sha256": "c106ee98dbd68ee46b4f80ed6f6dc56d313445924486a172272b26226c4f0efe",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.7.map": {
+  {
    "bytes": 479063,
+   "path": "euclidius/maps/autosave/awarmplace.7.map",
    "sha256": "fbeac900bf529241f818a7f8c234c747a47b0e67976c90ab9d039654943edcb0",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.8.map": {
+  {
    "bytes": 700392,
+   "path": "euclidius/maps/autosave/awarmplace.8.map",
    "sha256": "638328d5bcf974b85a31ac753aaeef850ae673cc621b90007ca687fdddf8e273",
    "timestamp": "2023-05-12T18:22:02.000Z"
   },
-  "euclidius/maps/autosave/awarmplace.9.map": {
+  {
    "bytes": 734536,
+   "path": "euclidius/maps/autosave/awarmplace.9.map",
    "sha256": "266907f076e47db100997b3a69c79bed1f8e4906c16b39f6f3a20600b8bcb86b",
    "timestamp": "2023-05-12T18:22:04.000Z"
   },
-  "euclidius/maps/autosave/chasmofsuffering.1.map": {
+  {
    "bytes": 1004316,
+   "path": "euclidius/maps/autosave/chasmofsuffering.1.map",
    "sha256": "33d3a5c2ba7abc47f679d591be9f919c728683e02159bd5144419ee193681808",
    "timestamp": "2023-07-20T20:27:44.000Z"
   },
-  "euclidius/maps/autosave/chasmofsuffering.2.map": {
+  {
    "bytes": 1009290,
+   "path": "euclidius/maps/autosave/chasmofsuffering.2.map",
    "sha256": "4995adba7c7b1e1aa51ea201c425e3e047d6504e826a7291193b38b92cf3d690",
    "timestamp": "2023-09-15T19:58:32.000Z"
   },
-  "euclidius/maps/autosave/chasmofsuffering.3.map": {
+  {
    "bytes": 1028693,
+   "path": "euclidius/maps/autosave/chasmofsuffering.3.map",
    "sha256": "e58c3ba7b9816d520690089c977212686629605ad875d51b190cfc169d1bf7b8",
    "timestamp": "2024-06-06T01:08:20.000Z"
   },
-  "euclidius/maps/autosave/chasmofsuffering.4.map": {
+  {
    "bytes": 1049079,
+   "path": "euclidius/maps/autosave/chasmofsuffering.4.map",
    "sha256": "ff5db606c247c99e534b56ea19937ffbaa25167135a0db6e925cf4a70c8394bb",
    "timestamp": "2024-06-06T01:30:48.000Z"
   },
-  "euclidius/maps/autosave/clockworks.1.map": {
+  {
    "bytes": 1845461,
+   "path": "euclidius/maps/autosave/clockworks.1.map",
    "sha256": "166d471f584ccb97a2b0437c2c41ac08d4a8d2646fcf6cc649307db5e5450032",
    "timestamp": "2023-09-15T19:31:26.000Z"
   },
-  "euclidius/maps/autosave/clockworks.2.map": {
+  {
    "bytes": 1621313,
+   "path": "euclidius/maps/autosave/clockworks.2.map",
    "sha256": "5cde4497aab938e8b301aa84135daafce0b7feea52882975beebd27b2202f7ac",
    "timestamp": "2024-06-05T03:29:36.000Z"
   },
-  "euclidius/maps/autosave/closer.1.map": {
+  {
    "bytes": 1242063,
+   "path": "euclidius/maps/autosave/closer.1.map",
    "sha256": "203d370467a34b9f33903516e676452f44d6e1f9db934ab4bf2ac1161b6f51bc",
    "timestamp": "2023-05-12T18:22:04.000Z"
   },
-  "euclidius/maps/autosave/die_six.1.map": {
+  {
    "bytes": 2929024,
+   "path": "euclidius/maps/autosave/die_six.1.map",
    "sha256": "e3d5bf663b949ba3a7f0f5a33e083be332e548e7eac9ab0676f46dbaa71af9e9",
    "timestamp": "2023-09-25T00:16:58.000Z"
   },
-  "euclidius/maps/autosave/e1m5.1.map": {
+  {
    "bytes": 1187078,
+   "path": "euclidius/maps/autosave/e1m5.1.map",
    "sha256": "86a67fb498cd4266e1d2d02335da7729bcbba7f92145e793e4fe0fa446cf3809",
    "timestamp": "2024-06-13T22:56:46.000Z"
   },
-  "euclidius/maps/autosave/eraser.1.map": {
+  {
    "bytes": 1385031,
+   "path": "euclidius/maps/autosave/eraser.1.map",
    "sha256": "6551df3438bccd77c926b7e87e5c76412fb796a30a78d9c92a32782c862919f5",
    "timestamp": "2023-05-12T18:22:04.000Z"
   },
-  "euclidius/maps/autosave/eraser.2.map": {
+  {
    "bytes": 1387309,
+   "path": "euclidius/maps/autosave/eraser.2.map",
    "sha256": "a28ccf05e31b8e1e414a9f9e15454a206a12cf362df6decfbd2ecb996cce9f87",
    "timestamp": "2024-06-13T22:35:18.000Z"
   },
-  "euclidius/maps/autosave/heresy.1.map": {
+  {
    "bytes": 862933,
+   "path": "euclidius/maps/autosave/heresy.1.map",
    "sha256": "07f22a1a3372d8cbed2d58726d2a68f475bf40dc04c799ccf10e8217735eee69",
    "timestamp": "2023-05-12T18:22:04.000Z"
   },
-  "euclidius/maps/autosave/heresy.2.map": {
+  {
    "bytes": 864725,
+   "path": "euclidius/maps/autosave/heresy.2.map",
    "sha256": "c83dfe345001f47be89510c533bab4dccf5b14781941cbc7e6e2219211026cff",
    "timestamp": "2023-09-15T20:31:00.000Z"
   },
-  "euclidius/maps/autosave/heresy.3.map": {
+  {
    "bytes": 877090,
+   "path": "euclidius/maps/autosave/heresy.3.map",
    "sha256": "4a76ac1e184e26880e58470cb596a762235b097cf3951d91bbfa41b2a2b3d444",
    "timestamp": "2023-10-11T21:46:02.000Z"
   },
-  "euclidius/maps/autosave/heresy.4.map": {
+  {
    "bytes": 847073,
+   "path": "euclidius/maps/autosave/heresy.4.map",
    "sha256": "42b1863318087f031d8eb869bf0933c21e7063309a113fc8898b4797d33fc321",
    "timestamp": "2024-06-06T02:21:48.000Z"
   },
-  "euclidius/maps/autosave/heresy.5.map": {
+  {
    "bytes": 849689,
+   "path": "euclidius/maps/autosave/heresy.5.map",
    "sha256": "1f32ce5c0496c6bfb31d2699537786da835d9485dc03c082047e5ca7385620e6",
    "timestamp": "2024-06-12T14:42:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.1.map": {
+  {
    "bytes": 39382,
+   "path": "euclidius/maps/autosave/hurt.1.map",
    "sha256": "e78bcae7371c96b0e29391b085b86b8d578b32dcee680f873adb152f1fe90920",
    "timestamp": "2023-05-12T18:22:04.000Z"
   },
-  "euclidius/maps/autosave/hurt.10.map": {
+  {
    "bytes": 376853,
+   "path": "euclidius/maps/autosave/hurt.10.map",
    "sha256": "95a5859c7cead75a645c8bc2a39b787f81222f6f7175ea6bc3cc06139070785c",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.11.map": {
+  {
    "bytes": 384352,
+   "path": "euclidius/maps/autosave/hurt.11.map",
    "sha256": "769517b9b4a212931bb49cedb452234d42c1895132bbf2b70fad357768b791c3",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.12.map": {
+  {
    "bytes": 438305,
+   "path": "euclidius/maps/autosave/hurt.12.map",
    "sha256": "3c877d643d8dea75b10d3b80a89b930b654b9fda960962313972e4499a0b5dd8",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.13.map": {
+  {
    "bytes": 472364,
+   "path": "euclidius/maps/autosave/hurt.13.map",
    "sha256": "d504bd8f7da3e80857e0e6b27af880a263b9844d23af79835d59dbb7e5abac12",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.14.map": {
+  {
    "bytes": 513909,
+   "path": "euclidius/maps/autosave/hurt.14.map",
    "sha256": "d6a7b43a8a15913c983cb8a756a21fef84441f45fa116d300a4385ca6062c4b2",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.15.map": {
+  {
    "bytes": 611591,
+   "path": "euclidius/maps/autosave/hurt.15.map",
    "sha256": "facc6a2d76056a64192ea1f66e147cf18a35605541068d0ea098a524e2e6f552",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.16.map": {
+  {
    "bytes": 623163,
+   "path": "euclidius/maps/autosave/hurt.16.map",
    "sha256": "02883f2d5b5ff1a605ce368703d5d86a6dac71549aa06eaec37ea0bcde6489d7",
    "timestamp": "2023-05-12T18:22:06.000Z"
   },
-  "euclidius/maps/autosave/hurt.17.map": {
+  {
    "bytes": 663587,
+   "path": "euclidius/maps/autosave/hurt.17.map",
    "sha256": "811692a5e4f9c2fcf94c91c74f856c7ce650e170bef015a6912ed6c5a9ddcb24",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.18.map": {
+  {
    "bytes": 682318,
+   "path": "euclidius/maps/autosave/hurt.18.map",
    "sha256": "d96b3707d42537e75ff2bc513ee4a624d0577d938e3af3c77df935a679c2c69e",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.19.map": {
+  {
    "bytes": 647643,
+   "path": "euclidius/maps/autosave/hurt.19.map",
    "sha256": "60da98ea37112154798f2d061b0d006d902c804c90aa190fb1a2dd253cb2e038",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.2.map": {
+  {
    "bytes": 59909,
+   "path": "euclidius/maps/autosave/hurt.2.map",
    "sha256": "908aa776c78a8a53329da4db5927fa9dc2517154e0ec53c10c94aef86c9cb189",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.20.map": {
+  {
    "bytes": 662508,
+   "path": "euclidius/maps/autosave/hurt.20.map",
    "sha256": "db01ac171e003b3f7a7549498c8c252ea6621f403a18e6649e8ea7655876dc27",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.21.map": {
+  {
    "bytes": 678828,
+   "path": "euclidius/maps/autosave/hurt.21.map",
    "sha256": "5674cdb9aabbfa617647c74fb0ca05043d8f0282393ca7ff6010539da97bbb3e",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.22.map": {
+  {
    "bytes": 704717,
+   "path": "euclidius/maps/autosave/hurt.22.map",
    "sha256": "060103d89b610581a1042b6b8ffccaaee383f3c9d3d2c89c3ccc050304165466",
    "timestamp": "2023-05-12T18:22:08.000Z"
   },
-  "euclidius/maps/autosave/hurt.23.map": {
+  {
    "bytes": 710020,
+   "path": "euclidius/maps/autosave/hurt.23.map",
    "sha256": "18f1f91ff441e7aedf5dbf5214721bc8f9074b91229f3ddfbe354af3f127b410",
    "timestamp": "2023-05-12T18:22:10.000Z"
   },
-  "euclidius/maps/autosave/hurt.24.map": {
+  {
    "bytes": 721999,
+   "path": "euclidius/maps/autosave/hurt.24.map",
    "sha256": "efaf1ced19f83182da054aeaa04a74b44bb20f83ab35efdbea3c45e106136d0f",
    "timestamp": "2023-05-12T18:22:10.000Z"
   },
-  "euclidius/maps/autosave/hurt.25.map": {
+  {
    "bytes": 738185,
+   "path": "euclidius/maps/autosave/hurt.25.map",
    "sha256": "22bf11eb3f4e9f60b5c9e1c31584cde2193fafcbd64e3faede0d0c1aa70d5ad4",
    "timestamp": "2023-05-12T18:22:10.000Z"
   },
-  "euclidius/maps/autosave/hurt.26.map": {
+  {
    "bytes": 742034,
+   "path": "euclidius/maps/autosave/hurt.26.map",
    "sha256": "25ebb069b6a18255a52b9cdb0e52074ac0a09160ec493d6ff6aeb75dfb3eb8cd",
    "timestamp": "2023-05-12T18:22:10.000Z"
   },
-  "euclidius/maps/autosave/hurt.27.map": {
+  {
    "bytes": 761894,
+   "path": "euclidius/maps/autosave/hurt.27.map",
    "sha256": "a1f46d56f051ddcb226e2210ca0daeff0098056b15d17227325e736025a29b92",
    "timestamp": "2023-05-12T18:22:10.000Z"
   },
-  "euclidius/maps/autosave/hurt.28.map": {
+  {
    "bytes": 765269,
+   "path": "euclidius/maps/autosave/hurt.28.map",
    "sha256": "cac28d42d5159d25ee525333e29c96c1ddbfe7e2ee27af36fcb576ceb5e22506",
    "timestamp": "2023-05-12T18:22:10.000Z"
   },
-  "euclidius/maps/autosave/hurt.29.map": {
+  {
    "bytes": 766511,
+   "path": "euclidius/maps/autosave/hurt.29.map",
    "sha256": "f8041efa56569bdce53bee2d16b45624fabdb16f9453983cb2e66dfded3503db",
    "timestamp": "2023-05-12T18:22:12.000Z"
   },
-  "euclidius/maps/autosave/hurt.3.map": {
+  {
    "bytes": 59883,
+   "path": "euclidius/maps/autosave/hurt.3.map",
    "sha256": "2928e8f6e8838c394c4d2290a50cc6e8d5eeb91c4fbf614c4da371c9b2cdea7a",
    "timestamp": "2023-05-12T18:22:12.000Z"
   },
-  "euclidius/maps/autosave/hurt.30.map": {
+  {
    "bytes": 778183,
+   "path": "euclidius/maps/autosave/hurt.30.map",
    "sha256": "26d8b553249a2f10811058651b3424e3857ee0682ca23ef055c9f5e75c40882c",
    "timestamp": "2023-05-12T18:22:12.000Z"
   },
-  "euclidius/maps/autosave/hurt.31.map": {
+  {
    "bytes": 785606,
+   "path": "euclidius/maps/autosave/hurt.31.map",
    "sha256": "1319a724f895516e41bbea2c0d11f7fde71aae9bd73188ee8eb5ad5606918cc9",
    "timestamp": "2023-05-12T18:22:12.000Z"
   },
-  "euclidius/maps/autosave/hurt.32.map": {
+  {
    "bytes": 800920,
+   "path": "euclidius/maps/autosave/hurt.32.map",
    "sha256": "995bbfa2ee4343615372ad62c40d6d03e9b43f1b6cae8941d670bf2ba9c41178",
    "timestamp": "2023-05-12T18:22:12.000Z"
   },
-  "euclidius/maps/autosave/hurt.33.map": {
+  {
    "bytes": 1074610,
+   "path": "euclidius/maps/autosave/hurt.33.map",
    "sha256": "c00dafdbdff5c1c4076b0ca123e802cdbab90329f6aa3ea3484c72d3b2adc69d",
    "timestamp": "2023-05-12T18:22:14.000Z"
   },
-  "euclidius/maps/autosave/hurt.34.map": {
+  {
    "bytes": 1123168,
+   "path": "euclidius/maps/autosave/hurt.34.map",
    "sha256": "2544c026f8aabdc2e4c2b5aa445dfe7f95ee7f74236b3d960985e3c16ecebe6e",
    "timestamp": "2023-05-12T18:22:14.000Z"
   },
-  "euclidius/maps/autosave/hurt.35.map": {
+  {
    "bytes": 1190027,
+   "path": "euclidius/maps/autosave/hurt.35.map",
    "sha256": "23dc2fbae19d93de9ee4c7238ae306f0cc8a695705d1fbe86641999664db0a2a",
    "timestamp": "2023-05-12T18:22:14.000Z"
   },
-  "euclidius/maps/autosave/hurt.36.map": {
+  {
    "bytes": 1261517,
+   "path": "euclidius/maps/autosave/hurt.36.map",
    "sha256": "593eb2b61df9d058382fb69047798760bccb7dcffef4bdb7fff1a2c37be133b3",
    "timestamp": "2023-05-12T18:22:14.000Z"
   },
-  "euclidius/maps/autosave/hurt.37.map": {
+  {
    "bytes": 1252258,
+   "path": "euclidius/maps/autosave/hurt.37.map",
    "sha256": "8eaab5a9ae5f246c049faa6f49d5c06ffae2790e3e964d351d1a8b3ac899fbd0",
    "timestamp": "2023-05-12T18:22:16.000Z"
   },
-  "euclidius/maps/autosave/hurt.38.map": {
+  {
    "bytes": 1255887,
+   "path": "euclidius/maps/autosave/hurt.38.map",
    "sha256": "da2b1f23f80977192e4935816086a86f09c86dcebb881ab55c98b9d64d96b35b",
    "timestamp": "2023-05-12T18:22:16.000Z"
   },
-  "euclidius/maps/autosave/hurt.39.map": {
+  {
    "bytes": 1285937,
+   "path": "euclidius/maps/autosave/hurt.39.map",
    "sha256": "b29eb3245d2d515a0163addb8a5d11cc7cb68075ce60a93e754968a23502347a",
    "timestamp": "2023-05-12T18:22:16.000Z"
   },
-  "euclidius/maps/autosave/hurt.4.map": {
+  {
    "bytes": 137412,
+   "path": "euclidius/maps/autosave/hurt.4.map",
    "sha256": "f5b6ade2d7afcdcc154049d96bdc1bfa36a2ceb8e623b7b27bfa5734e906ef33",
    "timestamp": "2023-05-12T18:22:16.000Z"
   },
-  "euclidius/maps/autosave/hurt.40.map": {
+  {
    "bytes": 1293494,
+   "path": "euclidius/maps/autosave/hurt.40.map",
    "sha256": "b3cba545cd43ccbc735c0fbdc54976cb3ed1f70683b887ce3f9dc4f1698ba8f8",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/hurt.5.map": {
+  {
    "bytes": 166467,
+   "path": "euclidius/maps/autosave/hurt.5.map",
    "sha256": "a96911504afba1e636a03ced6eed94e8b651e612e1c5fca7f1c96cb54b28c14e",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/hurt.6.map": {
+  {
    "bytes": 206372,
+   "path": "euclidius/maps/autosave/hurt.6.map",
    "sha256": "68f0b4cf416b28c9b6f61d73c7de81f800324379cf8ef7d1ec28222ae6acf349",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/hurt.7.map": {
+  {
    "bytes": 220305,
+   "path": "euclidius/maps/autosave/hurt.7.map",
    "sha256": "72af63600ed888bccf18d7402571aec8b1a7ca129d30c93f2676f1d67473436a",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/hurt.8.map": {
+  {
    "bytes": 277780,
+   "path": "euclidius/maps/autosave/hurt.8.map",
    "sha256": "4a8c1a7469cb44829f2b1081e119bd4e6567f3e00f07f9f612951cba5f53e63c",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/hurt.9.map": {
+  {
    "bytes": 334968,
+   "path": "euclidius/maps/autosave/hurt.9.map",
    "sha256": "1aaf8bc4a3b05bae2ca70dc3f9053a5772d348c08fd8cb94544d0aa0de791e54",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.1.map": {
+  {
    "bytes": 1306,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.1.map",
    "sha256": "ccd946e638d850e87053d4a006d6a81cd81607a486a0af540bd4b8eea98976dd",
    "timestamp": "2024-06-06T03:05:52.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.10.map": {
+  {
    "bytes": 583146,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.10.map",
    "sha256": "b7d9485629c2d5c69a3e5557f85b530037307f09c38ac68c7e642dd5b5d82b0a",
    "timestamp": "2024-06-09T02:46:24.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.11.map": {
+  {
    "bytes": 620615,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.11.map",
    "sha256": "7f3eb1f71cf5ca9e8cc4ec511c6f2a8d55c4edf0abb1ea3fb1c0c71f525a80ae",
    "timestamp": "2024-06-09T02:59:56.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.12.map": {
+  {
    "bytes": 706669,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.12.map",
    "sha256": "00d421531b5e5c89cba808965e8a3d4abe8070cb834235458b719fdcc5cc0d14",
    "timestamp": "2024-06-09T03:10:20.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.13.map": {
+  {
    "bytes": 717985,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.13.map",
    "sha256": "b5e596fe341a72f2d47d8fdc060ae63a18c81b381e4caf568b6ca02dfb92217f",
    "timestamp": "2024-06-09T03:23:04.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.14.map": {
+  {
    "bytes": 796266,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.14.map",
    "sha256": "10084ebfdec9e6a0b9fc7fe4a3cdcf9c44b58a1fc9532706e804031d0f20fd5d",
    "timestamp": "2024-06-09T13:38:28.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.15.map": {
+  {
    "bytes": 925936,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.15.map",
    "sha256": "7e1c748a37893fff1689373ea2f7ddbd74a241d5c82029b452592e22b5ce719b",
    "timestamp": "2024-06-09T13:51:30.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.16.map": {
+  {
    "bytes": 996893,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.16.map",
    "sha256": "a4e305c79e65d8b95a93e41f2c71b8ccf81cce56f186baf8ce57e4adf201920c",
    "timestamp": "2024-06-10T02:26:46.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.17.map": {
+  {
    "bytes": 1145370,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.17.map",
    "sha256": "63712fa03bd79f36b97548516f33a12844589b7f6b8ad45308ce943361f7f4ef",
    "timestamp": "2024-06-10T03:01:56.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.18.map": {
+  {
    "bytes": 1148886,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.18.map",
    "sha256": "26141250ac525d7e8ea8aefce5a8aba8ddeead367e062b89227e6a2f858c5055",
    "timestamp": "2024-06-10T03:12:06.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.19.map": {
+  {
    "bytes": 1157010,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.19.map",
    "sha256": "752cd183c916aed598f8b62e4b7d77e54915d912a8ef9a505a4b343c1ab54d8d",
    "timestamp": "2024-06-10T03:23:32.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.2.map": {
+  {
    "bytes": 50457,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.2.map",
    "sha256": "532da1f5f749b7058c9ae527b74253be0ceb054c9f9e74185e2895c31e712b3f",
    "timestamp": "2024-06-06T03:16:02.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.20.map": {
+  {
    "bytes": 1323175,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.20.map",
    "sha256": "cad37ba8844108e9b48baada7a7617e76f3eefe69a9d3ed4f75782b9306e32a0",
    "timestamp": "2024-06-10T03:50:22.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.21.map": {
+  {
    "bytes": 1406727,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.21.map",
    "sha256": "f5eb37f27be49b553c163f8a7a00399ef40fb18408c83e3f0f9294c805f5cf73",
    "timestamp": "2024-06-10T18:23:22.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.22.map": {
+  {
    "bytes": 1425303,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.22.map",
    "sha256": "d2152bf14f7b2ec00b727f39a94aa05bc8d0bf2d0edd1c310ad2460b926799e9",
    "timestamp": "2024-06-10T18:35:30.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.23.map": {
+  {
    "bytes": 1472951,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.23.map",
    "sha256": "789d8c4a93d6ffaee984532980954ecfa916481060ab3f0df640f28d311bfed7",
    "timestamp": "2024-06-10T18:53:28.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.24.map": {
+  {
    "bytes": 1569174,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.24.map",
    "sha256": "f70061d0df67eda1087849835c2c68e6dbd77beea7e6674cb303a269a1948740",
    "timestamp": "2024-06-10T19:03:58.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.25.map": {
+  {
    "bytes": 1641782,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.25.map",
    "sha256": "ffc1082f22530e29900c6b04f99cddd91a96d1190cf799882aac6ffd1db06663",
    "timestamp": "2024-06-12T04:23:50.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.26.map": {
+  {
    "bytes": 1755789,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.26.map",
    "sha256": "3a2cf444af857be57f44934f9d3f5ee3dac0c1f4adbcd923562b36e550f365e9",
    "timestamp": "2024-06-12T04:41:46.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.27.map": {
+  {
    "bytes": 1800025,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.27.map",
    "sha256": "cf5340806058d52921300b45acbf26fbc09ac51bad382f11e72e48568526d3fe",
    "timestamp": "2024-06-12T04:55:40.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.28.map": {
+  {
    "bytes": 1842137,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.28.map",
    "sha256": "6e8335d05e1ffd1e0cf5411b7a555a7ae87f9fb3a01fc16613012ab7fe90248b",
    "timestamp": "2024-06-12T05:06:10.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.29.map": {
+  {
    "bytes": 1844805,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.29.map",
    "sha256": "18b7dc1feb462f61f6eced3ad78e6655c3add86e3056019aac22c02a76ead8dc",
    "timestamp": "2024-06-12T05:16:38.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.3.map": {
+  {
    "bytes": 127420,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.3.map",
    "sha256": "c792f435e59c9db67819296c0c1f20bd222a42c1c4baaaf0725cfdc1360c24bb",
    "timestamp": "2024-06-06T23:30:36.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.30.map": {
+  {
    "bytes": 1847936,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.30.map",
    "sha256": "0854fed649353ba763684254f512b5914d0f3b9b1d5e2f0541787668826b5716",
    "timestamp": "2024-06-12T05:30:28.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.4.map": {
+  {
    "bytes": 205225,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.4.map",
    "sha256": "2f06e34682fb308a621d30d83f8c6010fb8ca0f6ab24a51ca374fb1bba4a20a9",
    "timestamp": "2024-06-06T23:47:42.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.5.map": {
+  {
    "bytes": 384766,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.5.map",
    "sha256": "644774d1ed51321edb5c60c815617ce5e4c17376b9f66c3240b5e95f76997a97",
    "timestamp": "2024-06-07T22:07:12.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.6.map": {
+  {
    "bytes": 422587,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.6.map",
    "sha256": "e9c161fe05453fb545deb37f60d222acd13a673b79fc53f57488fc8c0b20adcb",
    "timestamp": "2024-06-07T22:22:00.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.7.map": {
+  {
    "bytes": 507811,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.7.map",
    "sha256": "1bbf590a493a037c4348ce432ecac2199cdebe380f6822be27383c3b0d6ee06e",
    "timestamp": "2024-06-09T02:13:40.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.8.map": {
+  {
    "bytes": 520052,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.8.map",
    "sha256": "3c251ed91b95fc660e832d1071706f78de866c92ad06465d1087cfb61a5b4f74",
    "timestamp": "2024-06-09T02:23:40.000Z"
   },
-  "euclidius/maps/autosave/i_do_not_want_this.9.map": {
+  {
    "bytes": 539303,
+   "path": "euclidius/maps/autosave/i_do_not_want_this.9.map",
    "sha256": "cc3ac875871ede1514b95952a4e5f72012ee3e92069cda53f6618cb1f63cd29f",
    "timestamp": "2024-06-09T02:36:12.000Z"
   },
-  "euclidius/maps/autosave/kavoran.1.map": {
+  {
    "bytes": 393693,
+   "path": "euclidius/maps/autosave/kavoran.1.map",
    "sha256": "a9f631a6a16d47b2c6230e365feb1f2c63790f5cbe3f656a270472f25258640c",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/kavoran.2.map": {
+  {
    "bytes": 431965,
+   "path": "euclidius/maps/autosave/kavoran.2.map",
    "sha256": "89b28ddea2fbda61353fa29c7fb48008ec4a746266abf9a6ea3d4bc357691abf",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/kavoran.3.map": {
+  {
    "bytes": 469790,
+   "path": "euclidius/maps/autosave/kavoran.3.map",
    "sha256": "c8ccace7b69cb26d7c576d0f99252e58db7f7ad9d49f415863dc455422b25354",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/kavoran.4.map": {
+  {
    "bytes": 549777,
+   "path": "euclidius/maps/autosave/kavoran.4.map",
    "sha256": "f0662f390fef05a94520524266841a907e655e2ba920e7201a76c8767e24b7f0",
    "timestamp": "2023-05-12T18:22:18.000Z"
   },
-  "euclidius/maps/autosave/kavoran.5.map": {
+  {
    "bytes": 627505,
+   "path": "euclidius/maps/autosave/kavoran.5.map",
    "sha256": "d3cf146acf469edc858de0b1809681b8d6d520e9fff84b91e56994c364feba26",
    "timestamp": "2023-05-12T18:22:20.000Z"
   },
-  "euclidius/maps/autosave/kavoran.6.map": {
+  {
    "bytes": 638482,
+   "path": "euclidius/maps/autosave/kavoran.6.map",
    "sha256": "ddde4c63428e7a0077efebfd05b331ed4ac853ace4805d1231d656e7a1c7a6ab",
    "timestamp": "2023-05-12T18:22:20.000Z"
   },
-  "euclidius/maps/autosave/kavoran.7.map": {
+  {
    "bytes": 720896,
+   "path": "euclidius/maps/autosave/kavoran.7.map",
    "sha256": "e51264855df737ebe2177f2652019bffe46a2aa75d8c0a59e3576e24d8847c86",
    "timestamp": "2023-05-12T18:22:20.000Z"
   },
-  "euclidius/maps/autosave/march_of_the_pigs.1.map": {
+  {
    "bytes": 1037419,
+   "path": "euclidius/maps/autosave/march_of_the_pigs.1.map",
    "sha256": "bc6fdcfff9b1c0ed1e816fa1bef5fd6db9e81bc8c2a9c5bebc5b92dac5f6c2ef",
    "timestamp": "2024-06-06T02:32:02.000Z"
   },
-  "euclidius/maps/autosave/march_of_the_pigs.2.map": {
+  {
    "bytes": 1041605,
+   "path": "euclidius/maps/autosave/march_of_the_pigs.2.map",
    "sha256": "8a474d385ab3a270449b9717fff2117c4efce8934ce8be7536e79e98c9a528de",
    "timestamp": "2024-06-12T14:52:12.000Z"
   },
-  "euclidius/maps/autosave/mr_self_destruct.1.map": {
+  {
    "bytes": 536363,
+   "path": "euclidius/maps/autosave/mr_self_destruct.1.map",
    "sha256": "3fea0956eb6f383320a8e69cfc7accf3231833766a1c4bb29bdea28b9c5a297e",
    "timestamp": "2024-06-06T02:09:08.000Z"
   },
-  "euclidius/maps/autosave/mrselfdestruct.1.map": {
+  {
    "bytes": 543799,
+   "path": "euclidius/maps/autosave/mrselfdestruct.1.map",
    "sha256": "31740db2ce2ab97cd6d813be42ee5e2bc75c1802bead9d831ec462321a372f3d",
    "timestamp": "2023-05-12T18:22:20.000Z"
   },
-  "euclidius/maps/autosave/mrselfdestruct.2.map": {
+  {
    "bytes": 534814,
+   "path": "euclidius/maps/autosave/mrselfdestruct.2.map",
    "sha256": "9a5c5bf3b7491c2fda165f2e7366b47aa4a55002dba1ded4d7d852b232e6aa36",
    "timestamp": "2023-05-12T18:22:20.000Z"
   },
-  "euclidius/maps/autosave/naturon_temple.1.map": {
+  {
    "bytes": 1372162,
+   "path": "euclidius/maps/autosave/naturon_temple.1.map",
    "sha256": "bac59b352c041628250486d5d47ed0e59ad12af6e6a56be401c6499630bed00a",
    "timestamp": "2023-05-12T18:22:20.000Z"
   },
-  "euclidius/maps/autosave/naturon_temple.2.map": {
+  {
    "bytes": 1251067,
+   "path": "euclidius/maps/autosave/naturon_temple.2.map",
    "sha256": "cb09eea81b6da75158c1995466486f0342ffe87f7855ec0ea2742638c9599f78",
    "timestamp": "2023-07-11T00:07:30.000Z"
   },
-  "euclidius/maps/autosave/naturon_temple.3.map": {
+  {
    "bytes": 1234781,
+   "path": "euclidius/maps/autosave/naturon_temple.3.map",
    "sha256": "6854b6604ad65f9725c5e7326abf49a32f974a2060e889c2a55ac1c82b3654ba",
    "timestamp": "2024-06-05T03:03:00.000Z"
   },
-  "euclidius/maps/autosave/needles.1.map": {
+  {
    "bytes": 1179647,
+   "path": "euclidius/maps/autosave/needles.1.map",
    "sha256": "1fb6c21daaf10661a9fea17fe604e6a0fe13319d09fdc8508718d5e78714827f",
    "timestamp": "2023-07-10T22:51:28.000Z"
   },
-  "euclidius/maps/autosave/needles.2.map": {
+  {
    "bytes": 1228207,
+   "path": "euclidius/maps/autosave/needles.2.map",
    "sha256": "f5f43f936760e6f2e1fd3ecbefb0e5b310b6f078c7d7b85597c7209870f23f0b",
    "timestamp": "2023-07-10T23:12:46.000Z"
   },
-  "euclidius/maps/autosave/needles.3.map": {
+  {
    "bytes": 1230902,
+   "path": "euclidius/maps/autosave/needles.3.map",
    "sha256": "3b14b44314c86f521ff7a3852c2ca0a5438d54e2855dbdad26a5724a4cd0d396",
    "timestamp": "2023-07-10T23:30:18.000Z"
   },
-  "euclidius/maps/autosave/needles.4.map": {
+  {
    "bytes": 1224700,
+   "path": "euclidius/maps/autosave/needles.4.map",
    "sha256": "ff8d0636ebccb87a74fbeaf458d7a61ec98157e5d316d5e8ae72d282f2b93599",
    "timestamp": "2023-07-10T23:53:40.000Z"
   },
-  "euclidius/maps/autosave/needles.5.map": {
+  {
    "bytes": 1272571,
+   "path": "euclidius/maps/autosave/needles.5.map",
    "sha256": "94b4c46671955097afa844b840bccb1fc97959b3504cb54713a78469436e1b00",
    "timestamp": "2024-06-05T01:54:36.000Z"
   },
-  "euclidius/maps/autosave/needles.6.map": {
+  {
    "bytes": 1272624,
+   "path": "euclidius/maps/autosave/needles.6.map",
    "sha256": "f444bc5f5f728fec186a028c6633282f4790eb231fc0bfef336cc67a0ddf956b",
    "timestamp": "2024-06-13T22:46:46.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.1.map": {
+  {
    "bytes": 1693975,
+   "path": "euclidius/maps/autosave/nowheretorun.1.map",
    "sha256": "5a95866a3798bb26b1a5f95984525718f1be822dc96db193e7c91df289e79fca",
    "timestamp": "2023-05-12T18:22:22.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.2.map": {
+  {
    "bytes": 1708380,
+   "path": "euclidius/maps/autosave/nowheretorun.2.map",
    "sha256": "28482670edd2f37e2e1c30c8d4b9ce4f3d447d98bf7b67f08917aa0ea107b80e",
    "timestamp": "2023-07-11T15:22:36.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.3.map": {
+  {
    "bytes": 1706643,
+   "path": "euclidius/maps/autosave/nowheretorun.3.map",
    "sha256": "3836a21f2e8f06acb6f29aabf32fab4f585fc912632b65dc37c1096a149f6c18",
    "timestamp": "2023-07-11T15:32:36.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.4.map": {
+  {
    "bytes": 1707230,
+   "path": "euclidius/maps/autosave/nowheretorun.4.map",
    "sha256": "fdefb63df3b1b5b13c5f6e0a112b05fc0a5029a8a5cdeebf0b785dcc246c8da9",
    "timestamp": "2023-07-11T15:45:30.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.5.map": {
+  {
    "bytes": 1718631,
+   "path": "euclidius/maps/autosave/nowheretorun.5.map",
    "sha256": "291e791c7a1c966871b7f31a8bd7f198b6ff0ea3f43a469f6c1479855d5a8d95",
    "timestamp": "2023-07-11T15:56:20.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.6.map": {
+  {
    "bytes": 1722593,
+   "path": "euclidius/maps/autosave/nowheretorun.6.map",
    "sha256": "4db0e8ae1bf57b135de4305cf3a2899d95518991073218c32b647a6d85e67587",
    "timestamp": "2023-07-11T16:11:58.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.7.map": {
+  {
    "bytes": 1724584,
+   "path": "euclidius/maps/autosave/nowheretorun.7.map",
    "sha256": "0618c5d0aa3d1b85e86c17ceac6fa97fd5f98e5fda523ff328626b6b766d3236",
    "timestamp": "2023-07-11T21:36:00.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.8.map": {
+  {
    "bytes": 1753046,
+   "path": "euclidius/maps/autosave/nowheretorun.8.map",
    "sha256": "2236b6d83b9212c88f562a00518d79f26897ddc3153733372bb315e4810109e7",
    "timestamp": "2023-07-11T21:48:08.000Z"
   },
-  "euclidius/maps/autosave/nowheretorun.9.map": {
+  {
    "bytes": 1772595,
+   "path": "euclidius/maps/autosave/nowheretorun.9.map",
    "sha256": "046b975a268fc09cb85f0b763e478cc1df9a3602a53336e59cda089ff8783111",
    "timestamp": "2023-09-16T13:40:16.000Z"
   },
-  "euclidius/maps/autosave/piggy.1.map": {
+  {
    "bytes": 435016,
+   "path": "euclidius/maps/autosave/piggy.1.map",
    "sha256": "df28b858b446b2ce257f4eeb00eaaa6ff35d5a5d7cc56f593d770b40bd9dd806",
    "timestamp": "2023-10-11T21:22:26.000Z"
   },
-  "euclidius/maps/autosave/reptile.1.map": {
+  {
    "bytes": 58498,
+   "path": "euclidius/maps/autosave/reptile.1.map",
    "sha256": "56d0026f5eab94fec0afa645854c67e909af3403929bee7d10ae8bffb6ccc943",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.10.map": {
+  {
    "bytes": 630815,
+   "path": "euclidius/maps/autosave/reptile.10.map",
    "sha256": "246fb8c8c4d5a6718937966a0c577de0311a0a0418568c8f602a0b221c8f3c6c",
    "timestamp": "2023-05-12T18:22:22.000Z"
   },
-  "euclidius/maps/autosave/reptile.11.map": {
+  {
    "bytes": 651934,
+   "path": "euclidius/maps/autosave/reptile.11.map",
    "sha256": "0fe6720b7910ed548e45aa929c6b0c23265e1fab3d5ce87539dc19969a3f44fa",
    "timestamp": "2023-05-12T18:22:22.000Z"
   },
-  "euclidius/maps/autosave/reptile.12.map": {
+  {
    "bytes": 670844,
+   "path": "euclidius/maps/autosave/reptile.12.map",
    "sha256": "896897bdd0411263e22f610ba4cf0e0e2fc87e7261f9e772d603fdccad6d64a1",
    "timestamp": "2023-05-12T18:22:22.000Z"
   },
-  "euclidius/maps/autosave/reptile.13.map": {
+  {
    "bytes": 670314,
+   "path": "euclidius/maps/autosave/reptile.13.map",
    "sha256": "d7d6c8e04671a1d3ed340aa5838f4fcede6bc3ec770b5d849073db00fbefc5f8",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.14.map": {
+  {
    "bytes": 690916,
+   "path": "euclidius/maps/autosave/reptile.14.map",
    "sha256": "8740b98ffb677ee2fdb3593b9f8d90a4fbf82a4150eb6335362132b27e910c6a",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.15.map": {
+  {
    "bytes": 710547,
+   "path": "euclidius/maps/autosave/reptile.15.map",
    "sha256": "9131c286c7a8f4243dd0d74be396519f0a6a5f577fa625f2b1835efa992f094b",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.16.map": {
+  {
    "bytes": 1005180,
+   "path": "euclidius/maps/autosave/reptile.16.map",
    "sha256": "37f794f532c92c42c4461e058b4541f274e3e29b6ea6788c6a8f2b3daf4a21f5",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.17.map": {
+  {
    "bytes": 1016870,
+   "path": "euclidius/maps/autosave/reptile.17.map",
    "sha256": "36999c2b2bc584f470ee7f3352a6dd28533b3ebb640c77571e31fd2e918e8e61",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.18.map": {
+  {
    "bytes": 1041245,
+   "path": "euclidius/maps/autosave/reptile.18.map",
    "sha256": "3b9d3beb6c272b9ea45d5a82a385dd70eab7f2d5588c58609e46f3d9f842fe43",
    "timestamp": "2023-05-12T18:22:24.000Z"
   },
-  "euclidius/maps/autosave/reptile.19.map": {
+  {
    "bytes": 1130834,
+   "path": "euclidius/maps/autosave/reptile.19.map",
    "sha256": "781a1c127ad4593c229535e10d4f184a3e5e9452ae6fc534a1f09ebc4a0d2f01",
    "timestamp": "2023-05-12T18:22:26.000Z"
   },
-  "euclidius/maps/autosave/reptile.2.map": {
+  {
    "bytes": 204096,
+   "path": "euclidius/maps/autosave/reptile.2.map",
    "sha256": "8871de21121ae330f5ba607ebb05c55ba85911201f36cc77c659adb91b3b2d0f",
    "timestamp": "2023-05-12T18:22:30.000Z"
   },
-  "euclidius/maps/autosave/reptile.20.map": {
+  {
    "bytes": 1183721,
+   "path": "euclidius/maps/autosave/reptile.20.map",
    "sha256": "f10575cc44339bca364f59de4ba152de3fc2c001454b9c68a64e3de15e74af99",
    "timestamp": "2023-05-12T18:22:26.000Z"
   },
-  "euclidius/maps/autosave/reptile.21.map": {
+  {
    "bytes": 1211999,
+   "path": "euclidius/maps/autosave/reptile.21.map",
    "sha256": "cc5b76f4987636b1f16af74e6e6368443fb6dd6fa9f03f0b1410f0df3a382d12",
    "timestamp": "2023-05-12T18:22:26.000Z"
   },
-  "euclidius/maps/autosave/reptile.22.map": {
+  {
    "bytes": 1228444,
+   "path": "euclidius/maps/autosave/reptile.22.map",
    "sha256": "ad774c475525a040957501ec77a66bab78ef2be10c886ab0dbc6ec1c77a93d12",
    "timestamp": "2023-05-12T18:22:26.000Z"
   },
-  "euclidius/maps/autosave/reptile.23.map": {
+  {
    "bytes": 1279311,
+   "path": "euclidius/maps/autosave/reptile.23.map",
    "sha256": "3f035a1117fd325b714ab8882e8b5742d3fc1937d3d8537c20d8bc91ca0bc36a",
    "timestamp": "2023-05-12T18:22:28.000Z"
   },
-  "euclidius/maps/autosave/reptile.24.map": {
+  {
    "bytes": 1377375,
+   "path": "euclidius/maps/autosave/reptile.24.map",
    "sha256": "7a28f26092e188e93a49f3e85eb6695b2fb5d88c0ef42ad8148f98275d4b4a93",
    "timestamp": "2023-05-12T18:22:28.000Z"
   },
-  "euclidius/maps/autosave/reptile.25.map": {
+  {
    "bytes": 1418266,
+   "path": "euclidius/maps/autosave/reptile.25.map",
    "sha256": "88b40d0a1fd568a70fc42255d13e5c59264886d890704025f2ce84fc25138bfb",
    "timestamp": "2023-05-12T18:22:28.000Z"
   },
-  "euclidius/maps/autosave/reptile.26.map": {
+  {
    "bytes": 1466512,
+   "path": "euclidius/maps/autosave/reptile.26.map",
    "sha256": "536dc62ce2b92c9c09b5154703c501939782aa49ad794f16c974ac514ddf967e",
    "timestamp": "2023-05-12T18:22:28.000Z"
   },
-  "euclidius/maps/autosave/reptile.27.map": {
+  {
    "bytes": 1502322,
+   "path": "euclidius/maps/autosave/reptile.27.map",
    "sha256": "1932dc1247d23869739e8e879434527579db7cd6ac5a985092eb12843e9b12b3",
    "timestamp": "2023-05-12T18:22:30.000Z"
   },
-  "euclidius/maps/autosave/reptile.28.map": {
+  {
    "bytes": 1545248,
+   "path": "euclidius/maps/autosave/reptile.28.map",
    "sha256": "7f3f1ad3fb200338ab06c77741ab5b1d0060ba718be0fc8ab54a0b669330bd0f",
    "timestamp": "2023-05-12T18:22:30.000Z"
   },
-  "euclidius/maps/autosave/reptile.29.map": {
+  {
    "bytes": 1570261,
+   "path": "euclidius/maps/autosave/reptile.29.map",
    "sha256": "66d72660d438efdc9bfaafac4178c3e601ba46406a02feb2c03ec774258ed72b",
    "timestamp": "2023-05-12T18:22:30.000Z"
   },
-  "euclidius/maps/autosave/reptile.3.map": {
+  {
    "bytes": 289723,
+   "path": "euclidius/maps/autosave/reptile.3.map",
    "sha256": "7616736d514248fa9cecaff0a8effc8ae866526072f6d6a20aeaa585037a3e9f",
    "timestamp": "2023-05-12T18:22:36.000Z"
   },
-  "euclidius/maps/autosave/reptile.30.map": {
+  {
    "bytes": 1574062,
+   "path": "euclidius/maps/autosave/reptile.30.map",
    "sha256": "fde13d46a14e49af40b628480b5e0d660270873ea47568022547229a6ace37b2",
    "timestamp": "2023-05-12T18:22:32.000Z"
   },
-  "euclidius/maps/autosave/reptile.31.map": {
+  {
    "bytes": 1601448,
+   "path": "euclidius/maps/autosave/reptile.31.map",
    "sha256": "c02346c80f686a968466b680d6925435e82fb5189808aad6839b115b937ab5c9",
    "timestamp": "2023-05-12T18:22:32.000Z"
   },
-  "euclidius/maps/autosave/reptile.32.map": {
+  {
    "bytes": 1715481,
+   "path": "euclidius/maps/autosave/reptile.32.map",
    "sha256": "ff4921b0b28c55543eb75f6eda1b1d46f767bba4321ae09a5f164a813929b325",
    "timestamp": "2023-05-12T18:22:32.000Z"
   },
-  "euclidius/maps/autosave/reptile.33.map": {
+  {
    "bytes": 1770652,
+   "path": "euclidius/maps/autosave/reptile.33.map",
    "sha256": "5f91c6da9ffc26f04b97c5efa2a5d15a12979e92ae9dbb61baeb87c5daf39d1e",
    "timestamp": "2023-05-12T18:22:34.000Z"
   },
-  "euclidius/maps/autosave/reptile.34.map": {
+  {
    "bytes": 1783603,
+   "path": "euclidius/maps/autosave/reptile.34.map",
    "sha256": "70ba02001a1d01a332b134ad38f07b63bb59c76781917983c6aad1d82ca1cec6",
    "timestamp": "2023-05-12T18:22:34.000Z"
   },
-  "euclidius/maps/autosave/reptile.35.map": {
+  {
    "bytes": 1805397,
+   "path": "euclidius/maps/autosave/reptile.35.map",
    "sha256": "c12ac85de58c9b74efa7b6945ce8ddb89c5348310e50cd5f26afe46f000f049f",
    "timestamp": "2023-05-12T18:22:34.000Z"
   },
-  "euclidius/maps/autosave/reptile.36.map": {
+  {
    "bytes": 1828190,
+   "path": "euclidius/maps/autosave/reptile.36.map",
    "sha256": "0265638505f5135fd9c1ef4a0020e637ef90d60c74fe7fdc63ba3dbd2b791265",
    "timestamp": "2023-05-12T18:22:36.000Z"
   },
-  "euclidius/maps/autosave/reptile.37.map": {
+  {
    "bytes": 1907685,
+   "path": "euclidius/maps/autosave/reptile.37.map",
    "sha256": "bc3bd784f17e7fd4e3bc0bdd98ea0d575d135142d96b72eb3af2506234100c8e",
    "timestamp": "2023-05-12T18:22:36.000Z"
   },
-  "euclidius/maps/autosave/reptile.38.map": {
+  {
    "bytes": 1917843,
+   "path": "euclidius/maps/autosave/reptile.38.map",
    "sha256": "bf89e2d61ee2b40467c3270fb57efc665554670a752099f5b09ef07f102ed64b",
    "timestamp": "2023-05-12T18:22:36.000Z"
   },
-  "euclidius/maps/autosave/reptile.39.map": {
+  {
    "bytes": 1935804,
+   "path": "euclidius/maps/autosave/reptile.39.map",
    "sha256": "2707f02084380db449cb4d53302c4bd8ef0a4ee67f9ab558787c0b8ea37efe73",
    "timestamp": "2023-05-12T18:22:38.000Z"
   },
-  "euclidius/maps/autosave/reptile.4.map": {
+  {
    "bytes": 295326,
+   "path": "euclidius/maps/autosave/reptile.4.map",
    "sha256": "a1fcf3870089b069945b5b6ab5680f855ae33ee3d4f2caee6de37b5d1736dd1b",
    "timestamp": "2023-05-12T18:22:44.000Z"
   },
-  "euclidius/maps/autosave/reptile.40.map": {
+  {
    "bytes": 1966684,
+   "path": "euclidius/maps/autosave/reptile.40.map",
    "sha256": "58b764b455148380056716b81ca000758a04c83c626b856ddff8cc7cf8321051",
    "timestamp": "2023-05-12T18:22:38.000Z"
   },
-  "euclidius/maps/autosave/reptile.41.map": {
+  {
    "bytes": 2010575,
+   "path": "euclidius/maps/autosave/reptile.41.map",
    "sha256": "1c049ed7b02e4dd45ae5327549790de01109fe77838ddb5eed95844530974998",
    "timestamp": "2023-05-12T18:22:38.000Z"
   },
-  "euclidius/maps/autosave/reptile.42.map": {
+  {
    "bytes": 2036377,
+   "path": "euclidius/maps/autosave/reptile.42.map",
    "sha256": "2b18e8dad8b37e6ebc2e6dbb301836ffbf1d73918c16833636b2a2a7839f34fe",
    "timestamp": "2023-05-12T18:22:40.000Z"
   },
-  "euclidius/maps/autosave/reptile.43.map": {
+  {
    "bytes": 2068409,
+   "path": "euclidius/maps/autosave/reptile.43.map",
    "sha256": "b21623bca78bcb3c4c1fd919c24672ecb7ae9978c16e6addc3e3ef4479f7a994",
    "timestamp": "2023-05-12T18:22:40.000Z"
   },
-  "euclidius/maps/autosave/reptile.44.map": {
+  {
    "bytes": 2115920,
+   "path": "euclidius/maps/autosave/reptile.44.map",
    "sha256": "61fc2283c5aee1b086e6ee304cb4d38a8f5e0142742d2b05c82daa6091913508",
    "timestamp": "2023-05-12T18:22:42.000Z"
   },
-  "euclidius/maps/autosave/reptile.45.map": {
+  {
    "bytes": 2132025,
+   "path": "euclidius/maps/autosave/reptile.45.map",
    "sha256": "ac9c6a9f1cf1d171b00ea66eee2eecda17a433f1cd94ecf8ce0b0f619596db07",
    "timestamp": "2023-05-12T18:22:42.000Z"
   },
-  "euclidius/maps/autosave/reptile.46.map": {
+  {
    "bytes": 2155713,
+   "path": "euclidius/maps/autosave/reptile.46.map",
    "sha256": "7588b766ff8c9f7eb8d6eddbbd8feb558e88072945c97de85c6417f2c1727c77",
    "timestamp": "2023-05-12T18:22:42.000Z"
   },
-  "euclidius/maps/autosave/reptile.47.map": {
+  {
    "bytes": 2162396,
+   "path": "euclidius/maps/autosave/reptile.47.map",
    "sha256": "23b96bf0caa893eb30c872c1d46cedc0c7e0ceba1b132f0a42da3a61ea02e14a",
    "timestamp": "2023-05-12T18:22:44.000Z"
   },
-  "euclidius/maps/autosave/reptile.48.map": {
+  {
    "bytes": 2165458,
+   "path": "euclidius/maps/autosave/reptile.48.map",
    "sha256": "5a5c668c1f98cd011d5234abf6013605137caec6b4553e58ebc8de0293e175a9",
    "timestamp": "2023-05-12T18:22:44.000Z"
   },
-  "euclidius/maps/autosave/reptile.49.map": {
+  {
    "bytes": 2166472,
+   "path": "euclidius/maps/autosave/reptile.49.map",
    "sha256": "c14bc5a1194cbe8a594c734160ae9c6f3db086538195a2c5a9432985b8267096",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/reptile.5.map": {
+  {
    "bytes": 294923,
+   "path": "euclidius/maps/autosave/reptile.5.map",
    "sha256": "93be6f8d2c9f166059a8f9546f23591dfddab9e00dd4e90bf4d212d87524bf3c",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/reptile.50.map": {
+  {
    "bytes": 2170047,
+   "path": "euclidius/maps/autosave/reptile.50.map",
    "sha256": "77d6ccca13acdca41e1a2cb0f960c6c14a55bba5c53cc32e7f5ed521e349a2b2",
    "timestamp": "2023-09-14T23:17:58.000Z"
   },
-  "euclidius/maps/autosave/reptile.6.map": {
+  {
    "bytes": 351901,
+   "path": "euclidius/maps/autosave/reptile.6.map",
    "sha256": "2d029cae5307a780b9cfff960c6ecf131974f864eff4eb9891045eb01b9c21f4",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/reptile.7.map": {
+  {
    "bytes": 383129,
+   "path": "euclidius/maps/autosave/reptile.7.map",
    "sha256": "c65fbee6ba77035c12cb87522a341fdb32a6c8e14b0537189617cd8e299724be",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/reptile.8.map": {
+  {
    "bytes": 549054,
+   "path": "euclidius/maps/autosave/reptile.8.map",
    "sha256": "7db424715a6d855b193d8418172de5e3e81a63d02fd1267796daad361aecb25b",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/reptile.9.map": {
+  {
    "bytes": 590953,
+   "path": "euclidius/maps/autosave/reptile.9.map",
    "sha256": "81a3a55cc3e2d86d6e52752d792f1b3a91d418fd58591876d122b917de073c93",
    "timestamp": "2023-05-12T18:22:22.000Z"
   },
-  "euclidius/maps/autosave/salrathsdemense.1.map": {
+  {
    "bytes": 837652,
+   "path": "euclidius/maps/autosave/salrathsdemense.1.map",
    "sha256": "f36bfd9297beabecb22a048e0045fb8368822402d1fcaca292fdbe7a93fd9927",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/salrathsdemense.2.map": {
+  {
    "bytes": 838016,
+   "path": "euclidius/maps/autosave/salrathsdemense.2.map",
    "sha256": "1e9860a90db8b68f15d7b26ad676a1f4ede5fcbcd53bdffa057cfc31033ced05",
    "timestamp": "2023-09-16T00:08:46.000Z"
   },
-  "euclidius/maps/autosave/salrathsdemense.3.map": {
+  {
    "bytes": 837009,
+   "path": "euclidius/maps/autosave/salrathsdemense.3.map",
    "sha256": "4c8986381ae00f18cf49bc61a550f698b78af99821f52e5bd901be36d1bb94bd",
    "timestamp": "2024-06-06T01:20:08.000Z"
   },
-  "euclidius/maps/autosave/slaughter2me.1.map": {
+  {
    "bytes": 379981,
+   "path": "euclidius/maps/autosave/slaughter2me.1.map",
    "sha256": "e32e6edce08b69bd188d8bb5d41844e6c6523735c1344e5c582b6385e47b226c",
    "timestamp": "2023-09-25T00:03:40.000Z"
   },
-  "euclidius/maps/autosave/start.1.map": {
+  {
    "bytes": 355506,
+   "path": "euclidius/maps/autosave/start.1.map",
    "sha256": "36f15f761c2c2f8eb3d5fe4983a8f48d0502981b9384b0dc62d4961f94789a73",
    "timestamp": "2023-05-12T18:22:46.000Z"
   },
-  "euclidius/maps/autosave/supertrain.1.map": {
+  {
    "bytes": 235644,
+   "path": "euclidius/maps/autosave/supertrain.1.map",
    "sha256": "2b54011b9769bc972e86d50d6a56d3818c104294589eb229aa0029c303c7672a",
    "timestamp": "2023-07-13T18:01:38.000Z"
   },
-  "euclidius/maps/autosave/supertrain.10.map": {
+  {
    "bytes": 1923845,
+   "path": "euclidius/maps/autosave/supertrain.10.map",
    "sha256": "d77c37f8094b6e13933f75b304b4effcb8da1f678a2f450187539fde5b74104e",
    "timestamp": "2023-07-13T22:07:08.000Z"
   },
-  "euclidius/maps/autosave/supertrain.11.map": {
+  {
    "bytes": 1963005,
+   "path": "euclidius/maps/autosave/supertrain.11.map",
    "sha256": "59af3a28e18cc870fd0296fa98a35cab00a63d4e389fbae407a158a3caf5aeaf",
    "timestamp": "2023-07-13T22:22:02.000Z"
   },
-  "euclidius/maps/autosave/supertrain.12.map": {
+  {
    "bytes": 1978383,
+   "path": "euclidius/maps/autosave/supertrain.12.map",
    "sha256": "6b9c32c81581dda917e1bb6c0eaad019ca796af2b948f89e63d936f892470dab",
    "timestamp": "2023-07-13T22:32:04.000Z"
   },
-  "euclidius/maps/autosave/supertrain.13.map": {
+  {
    "bytes": 2305076,
+   "path": "euclidius/maps/autosave/supertrain.13.map",
    "sha256": "94e06a6615176e066c89368334559ff22ab3d008e02c92bba8a5031ad7d908eb",
    "timestamp": "2023-07-13T22:42:14.000Z"
   },
-  "euclidius/maps/autosave/supertrain.14.map": {
+  {
    "bytes": 2309164,
+   "path": "euclidius/maps/autosave/supertrain.14.map",
    "sha256": "6ea1e7342a1ccd880a25e5eafc524d1a0e90595fdef57cd06f2361754a1b1cab",
    "timestamp": "2023-07-13T22:53:34.000Z"
   },
-  "euclidius/maps/autosave/supertrain.15.map": {
+  {
    "bytes": 2399694,
+   "path": "euclidius/maps/autosave/supertrain.15.map",
    "sha256": "5d4fc2889d771a93221279ce1ad51bccdc8d6cdb62501f1ce5ec320ede813852",
    "timestamp": "2023-07-13T23:13:48.000Z"
   },
-  "euclidius/maps/autosave/supertrain.16.map": {
+  {
    "bytes": 2740673,
+   "path": "euclidius/maps/autosave/supertrain.16.map",
    "sha256": "b221ff12a418ea6714078ee72aaaba360a826e4e09093e1a311dd161f5599e0b",
    "timestamp": "2023-07-13T23:29:08.000Z"
   },
-  "euclidius/maps/autosave/supertrain.17.map": {
+  {
    "bytes": 2928759,
+   "path": "euclidius/maps/autosave/supertrain.17.map",
    "sha256": "dbf972d25201efeb8053f229972ccc7a8d0940085bb8781e9e6e79cf89cae983",
    "timestamp": "2023-07-13T23:40:48.000Z"
   },
-  "euclidius/maps/autosave/supertrain.18.map": {
+  {
    "bytes": 3167168,
+   "path": "euclidius/maps/autosave/supertrain.18.map",
    "sha256": "b9c6e20b50aaee22390e1c8a49a716b592110fa539077409846d262ff6f75054",
    "timestamp": "2023-07-15T13:09:26.000Z"
   },
-  "euclidius/maps/autosave/supertrain.2.map": {
+  {
    "bytes": 204651,
+   "path": "euclidius/maps/autosave/supertrain.2.map",
    "sha256": "3c415a7bb1eaf125587efc3c52a73f7034467f16d743f8464d0b1248e352790b",
    "timestamp": "2023-07-13T18:15:44.000Z"
   },
-  "euclidius/maps/autosave/supertrain.3.map": {
+  {
    "bytes": 2034395,
+   "path": "euclidius/maps/autosave/supertrain.3.map",
    "sha256": "cea9e529dfa7811fe352913daae4bf1519a885e2acd7a3d7683bb3793b6d46e8",
    "timestamp": "2023-07-13T18:45:30.000Z"
   },
-  "euclidius/maps/autosave/supertrain.4.map": {
+  {
    "bytes": 1344163,
+   "path": "euclidius/maps/autosave/supertrain.4.map",
    "sha256": "d51970b1fd17d9fd8908765bf339e435cff45607424ce4f669b4ff7426ba25a7",
    "timestamp": "2023-07-13T18:56:56.000Z"
   },
-  "euclidius/maps/autosave/supertrain.5.map": {
+  {
    "bytes": 1401745,
+   "path": "euclidius/maps/autosave/supertrain.5.map",
    "sha256": "a9a6c3a8e707c101694b0eb164ac24e42b6af6c8685c19dc5494b238aaa87db3",
    "timestamp": "2023-07-13T19:06:58.000Z"
   },
-  "euclidius/maps/autosave/supertrain.6.map": {
+  {
    "bytes": 1626166,
+   "path": "euclidius/maps/autosave/supertrain.6.map",
    "sha256": "4c2f85fa689e0b3ad8e102cafebff32d15e189c982215e7a32fee86a80fa7355",
    "timestamp": "2023-07-13T19:17:40.000Z"
   },
-  "euclidius/maps/autosave/supertrain.7.map": {
+  {
    "bytes": 1647454,
+   "path": "euclidius/maps/autosave/supertrain.7.map",
    "sha256": "82ade2acd9ae7974d13bd040eed5e486afa70e7770c80319033dfd4d9014d903",
    "timestamp": "2023-07-13T21:28:42.000Z"
   },
-  "euclidius/maps/autosave/supertrain.8.map": {
+  {
    "bytes": 1660863,
+   "path": "euclidius/maps/autosave/supertrain.8.map",
    "sha256": "4802a6b62b96cc9774ad3bfe7806ff33af3f758ce403cbe5cc856dfaf6faf5b4",
    "timestamp": "2023-07-13T21:38:48.000Z"
   },
-  "euclidius/maps/autosave/supertrain.9.map": {
+  {
    "bytes": 1698268,
+   "path": "euclidius/maps/autosave/supertrain.9.map",
    "sha256": "80c13e711eedf7e13e580f7affad174a1fb108d1d1ba0dff20a7f89037d73cbd",
    "timestamp": "2023-07-13T21:49:32.000Z"
   },
-  "euclidius/maps/autosave/the_squid_base.1.map": {
+  {
    "bytes": 4439547,
+   "path": "euclidius/maps/autosave/the_squid_base.1.map",
    "sha256": "7c7af7462594fe609d1dde52726f086b7cd76b5e07b238e63122f4cc02887502",
    "timestamp": "2023-05-12T18:22:48.000Z"
   },
-  "euclidius/maps/autosave/the_squid_base.2.map": {
+  {
    "bytes": 4438329,
+   "path": "euclidius/maps/autosave/the_squid_base.2.map",
    "sha256": "9dc4f26ee578838f135166c32c77d18139a9d045f4b83c2889608f2ea6241e66",
    "timestamp": "2023-05-24T20:10:34.000Z"
   },
-  "euclidius/maps/autosave/the_squid_base.3.map": {
+  {
    "bytes": 4438946,
+   "path": "euclidius/maps/autosave/the_squid_base.3.map",
    "sha256": "f1938aaac57082739df456527f5242491d596c68fdb25c48eb753276e6359a2c",
    "timestamp": "2023-09-15T22:03:42.000Z"
   },
-  "euclidius/maps/autosave/thebecoming.1.map": {
+  {
    "bytes": 759840,
+   "path": "euclidius/maps/autosave/thebecoming.1.map",
    "sha256": "237f407b6292be71d7a831010c704812ec5500d5fd3976f45d6fb2173996baf9",
    "timestamp": "2023-09-15T20:09:12.000Z"
   },
-  "euclidius/maps/autosave/thebecoming.2.map": {
+  {
    "bytes": 759395,
+   "path": "euclidius/maps/autosave/thebecoming.2.map",
    "sha256": "6b744ae494c9ec2461173dbe592b623b73d781e59d81b09cef2cd675207d9479",
    "timestamp": "2024-06-06T02:42:52.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.1.map": {
+  {
    "bytes": 1535731,
+   "path": "euclidius/maps/autosave/thedownwardspiral.1.map",
    "sha256": "c1c6f092232d2b2941a1c55efad99d228774e52312ef8663f7987ac8d9f1973d",
    "timestamp": "2023-05-12T18:22:48.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.10.map": {
+  {
    "bytes": 2064935,
+   "path": "euclidius/maps/autosave/thedownwardspiral.10.map",
    "sha256": "baeee682bada9ab222326433d9f323720a3797c3a94b5c7ca5647e6ef132b33c",
    "timestamp": "2023-05-12T18:22:50.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.11.map": {
+  {
    "bytes": 2110441,
+   "path": "euclidius/maps/autosave/thedownwardspiral.11.map",
    "sha256": "4a0d49b3d7a231e0a75c5d915c8b38b63f2b68569639dc562698bec710f5de14",
    "timestamp": "2023-05-12T18:22:50.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.12.map": {
+  {
    "bytes": 2140737,
+   "path": "euclidius/maps/autosave/thedownwardspiral.12.map",
    "sha256": "95cfc92270d6230a3a3da554dba593b226e72ea80ec36008c4d6118340ed6933",
    "timestamp": "2023-05-12T18:22:52.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.13.map": {
+  {
    "bytes": 2164758,
+   "path": "euclidius/maps/autosave/thedownwardspiral.13.map",
    "sha256": "388feb533669989ee38c860e67610ca49f2861cbaa0d73908f9ac2d5454c3c83",
    "timestamp": "2023-05-12T18:22:52.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.14.map": {
+  {
    "bytes": 2231456,
+   "path": "euclidius/maps/autosave/thedownwardspiral.14.map",
    "sha256": "4bf7f647255cdffa6400bfef0041cadb6a192ab897715b6ddaa78134f393c685",
    "timestamp": "2023-05-12T18:22:54.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.15.map": {
+  {
    "bytes": 2246261,
+   "path": "euclidius/maps/autosave/thedownwardspiral.15.map",
    "sha256": "47d801a970df99e06bc847c432cc0989d78cca61a39beb2c585f6d0ba4308725",
    "timestamp": "2023-05-12T18:22:54.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.16.map": {
+  {
    "bytes": 2271991,
+   "path": "euclidius/maps/autosave/thedownwardspiral.16.map",
    "sha256": "c913c81e01f912aa84401e9cef430472269b255f59e5d953f32f6075220d5c79",
    "timestamp": "2023-05-12T18:22:56.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.17.map": {
+  {
    "bytes": 2289826,
+   "path": "euclidius/maps/autosave/thedownwardspiral.17.map",
    "sha256": "0d6bca2703e3c29f88c747694b61e6d2000a4e8c34ab9fb670d776f9df488aa5",
    "timestamp": "2023-05-12T18:22:56.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.18.map": {
+  {
    "bytes": 2293456,
+   "path": "euclidius/maps/autosave/thedownwardspiral.18.map",
    "sha256": "927b8162fcd8f78f46ff57628c2b6624e40e600af846072faabf419cf17a52c5",
    "timestamp": "2023-05-12T18:22:58.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.19.map": {
+  {
    "bytes": 2297584,
+   "path": "euclidius/maps/autosave/thedownwardspiral.19.map",
    "sha256": "d1837f4fd5e64312aea1d826e3ca6f641844b0ee39a5f4259cb74627c84dd864",
    "timestamp": "2023-05-12T18:22:58.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.2.map": {
+  {
    "bytes": 1580385,
+   "path": "euclidius/maps/autosave/thedownwardspiral.2.map",
    "sha256": "28e5134a3b7b1ba06daa843005d0ed386ef2e896f8f9f8b41250d4cfd139e844",
    "timestamp": "2023-05-12T18:23:00.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.20.map": {
+  {
    "bytes": 2389719,
+   "path": "euclidius/maps/autosave/thedownwardspiral.20.map",
    "sha256": "434131925c05b4f2060929d53a89cc680a9cf66949c119b9e04e9ccf1d86f40d",
    "timestamp": "2023-05-12T18:23:00.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.21.map": {
+  {
    "bytes": 2561399,
+   "path": "euclidius/maps/autosave/thedownwardspiral.21.map",
    "sha256": "977845e62c254e27f009a289bd9a1e60ba3e97215e40c4b6304c6734be0cf753",
    "timestamp": "2023-05-12T18:23:02.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.22.map": {
+  {
    "bytes": 2728202,
+   "path": "euclidius/maps/autosave/thedownwardspiral.22.map",
    "sha256": "670176feeaad563e266bd6b5fdce78a10a1e65d9f17cd631df1ee82649b66c1a",
    "timestamp": "2023-05-12T18:23:02.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.23.map": {
+  {
    "bytes": 2950963,
+   "path": "euclidius/maps/autosave/thedownwardspiral.23.map",
    "sha256": "1bd9dc5e9d270fa65940d07df624ec03a92b12de8795056c9006170e65f53260",
    "timestamp": "2023-05-12T18:23:04.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.24.map": {
+  {
    "bytes": 3020301,
+   "path": "euclidius/maps/autosave/thedownwardspiral.24.map",
    "sha256": "5eb4e223cfeff78ccc433a0699d486b5d2901a4954cf7550776c1364aea31f6c",
    "timestamp": "2023-05-12T18:23:04.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.25.map": {
+  {
    "bytes": 3021622,
+   "path": "euclidius/maps/autosave/thedownwardspiral.25.map",
    "sha256": "690a8e79bfd5fca4fec926e8d70429162d6eff44703565b0dee389bb009f61b2",
    "timestamp": "2023-05-12T18:23:06.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.26.map": {
+  {
    "bytes": 3030994,
+   "path": "euclidius/maps/autosave/thedownwardspiral.26.map",
    "sha256": "72ac0789f3f0cca6a5e690a7e6573e42d186bce1971f2396816de1a6004c10c3",
    "timestamp": "2023-05-12T18:23:08.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.27.map": {
+  {
    "bytes": 3038058,
+   "path": "euclidius/maps/autosave/thedownwardspiral.27.map",
    "sha256": "a46499a962fdb283495e73107a4eda800a30243769738400fd540e9dbe2ce74b",
    "timestamp": "2023-05-12T18:23:08.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.28.map": {
+  {
    "bytes": 3041217,
+   "path": "euclidius/maps/autosave/thedownwardspiral.28.map",
    "sha256": "e6255606d13b0f29f808d490055a24f4edb589801f2e279f78a2767c8e243d30",
    "timestamp": "2023-05-12T18:23:10.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.29.map": {
+  {
    "bytes": 3049640,
+   "path": "euclidius/maps/autosave/thedownwardspiral.29.map",
    "sha256": "31cf864d6cc96b19ab4e4fc0245e989d2bdfa3f7622bf81bce5f5dade68d5e17",
    "timestamp": "2023-05-12T18:23:12.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.3.map": {
+  {
    "bytes": 1656884,
+   "path": "euclidius/maps/autosave/thedownwardspiral.3.map",
    "sha256": "80dd684aede3b77e6ddbaf7cd4a7cbdeefaa756c8fc636689b39fec9e4ac4999",
    "timestamp": "2023-05-12T18:23:12.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.30.map": {
+  {
    "bytes": 3056856,
+   "path": "euclidius/maps/autosave/thedownwardspiral.30.map",
    "sha256": "0d1786fb8c746c576c1f5fd20102809df78e64cb2712dcf18aac5354d759e6b3",
    "timestamp": "2023-05-12T18:23:14.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.31.map": {
+  {
    "bytes": 3062134,
+   "path": "euclidius/maps/autosave/thedownwardspiral.31.map",
    "sha256": "6d292c2b521851bab49bd234a197bbba7fc90a4687726a2400f9156ed7e83849",
    "timestamp": "2023-05-12T18:23:14.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.32.map": {
+  {
    "bytes": 3064462,
+   "path": "euclidius/maps/autosave/thedownwardspiral.32.map",
    "sha256": "2398d2d7d12846500d8baa77fba6673f44024bfe086c49990b49fa8919075526",
    "timestamp": "2023-05-12T18:23:16.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.33.map": {
+  {
    "bytes": 3064602,
+   "path": "euclidius/maps/autosave/thedownwardspiral.33.map",
    "sha256": "09afd5d5eabec00f4cd8a4b4e0d15f56c5b08e577d7d1802db8bcbdf7b39e7f2",
    "timestamp": "2023-05-12T18:23:16.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.34.map": {
+  {
    "bytes": 3068343,
+   "path": "euclidius/maps/autosave/thedownwardspiral.34.map",
    "sha256": "0f04363663bc21c13292b13e242a05004cff867ef77dd570b750417536f72047",
    "timestamp": "2023-05-12T18:23:18.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.35.map": {
+  {
    "bytes": 3073044,
+   "path": "euclidius/maps/autosave/thedownwardspiral.35.map",
    "sha256": "5a1a0cd8e0381004dd91bea1afbc5312388dd45da4c9c373bb088dc1c74a8f95",
    "timestamp": "2023-05-12T18:23:20.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.36.map": {
+  {
    "bytes": 3068348,
+   "path": "euclidius/maps/autosave/thedownwardspiral.36.map",
    "sha256": "f050142224d19887070537f8ba207005f7ea69966c03df27dc557ccdfd14f829",
    "timestamp": "2023-05-12T18:23:20.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.4.map": {
+  {
    "bytes": 1693460,
+   "path": "euclidius/maps/autosave/thedownwardspiral.4.map",
    "sha256": "4065c46356222d51899cb1b1dfe06eb878917e68c9ffe419ac24406e64d6937d",
    "timestamp": "2023-05-12T18:23:22.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.5.map": {
+  {
    "bytes": 1721556,
+   "path": "euclidius/maps/autosave/thedownwardspiral.5.map",
    "sha256": "c2b0a6b97b8df4f97b38ba2bedf9a5183145092f9bcededadc5d6d84582413b1",
    "timestamp": "2023-05-12T18:23:22.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.6.map": {
+  {
    "bytes": 1763628,
+   "path": "euclidius/maps/autosave/thedownwardspiral.6.map",
    "sha256": "7d99720516e955e88eeb5d4ce05fce3084ce34e158fcf7eccbeec3c52194db6d",
    "timestamp": "2023-05-12T18:23:24.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.7.map": {
+  {
    "bytes": 1825242,
+   "path": "euclidius/maps/autosave/thedownwardspiral.7.map",
    "sha256": "bf7f5914d302ca467bca7f2d4efedcfdc312db346cd395fbe48ff6b403baba09",
    "timestamp": "2023-05-12T18:23:24.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.8.map": {
+  {
    "bytes": 1895790,
+   "path": "euclidius/maps/autosave/thedownwardspiral.8.map",
    "sha256": "a8a0d0e0bf2ea090e1f0a28ffa30203a3bc256d67188de9d985d675d2c12b1cb",
    "timestamp": "2023-05-12T18:23:24.000Z"
   },
-  "euclidius/maps/autosave/thedownwardspiral.9.map": {
+  {
    "bytes": 2002483,
+   "path": "euclidius/maps/autosave/thedownwardspiral.9.map",
    "sha256": "bd47d93a948663d1bc905a7e5e83b543cedd43825130940180ccf9555179ec1f",
    "timestamp": "2023-05-12T18:23:26.000Z"
   },
-  "euclidius/maps/autosave/theoctopus.1.map": {
+  {
    "bytes": 2030568,
+   "path": "euclidius/maps/autosave/theoctopus.1.map",
    "sha256": "eafeb625d51dc8dca2a7d6ac573c6741e3f8fe5f39cf3ca0b5f71f21d16daad6",
    "timestamp": "2023-05-24T19:58:28.000Z"
   },
-  "euclidius/maps/autosave/theoctopus.2.map": {
+  {
    "bytes": 2024104,
+   "path": "euclidius/maps/autosave/theoctopus.2.map",
    "sha256": "a2b18460b9a95ade256aae2740093a0100d90cf4aa16d57a81be70ac7e24ab0f",
    "timestamp": "2023-09-14T22:55:50.000Z"
   },
-  "euclidius/maps/autosave/theoctopus.3.map": {
+  {
    "bytes": 2031742,
+   "path": "euclidius/maps/autosave/theoctopus.3.map",
    "sha256": "10286abb2e13b9aef949142c921c8d8df6f6625b3cf2400932f5add7f69f6f15",
    "timestamp": "2023-09-14T23:07:32.000Z"
   },
-  "euclidius/maps/autosave/theoctopus.4.map": {
+  {
    "bytes": 2031902,
+   "path": "euclidius/maps/autosave/theoctopus.4.map",
    "sha256": "0b1a70d9935848f4d0406ccd4def8975e954f837375be697c89fec71d9afb450",
    "timestamp": "2023-09-15T21:10:48.000Z"
   },
-  "euclidius/maps/autosave/theoctopus.5.map": {
+  {
    "bytes": 2041733,
+   "path": "euclidius/maps/autosave/theoctopus.5.map",
    "sha256": "7a7312c28e660cc16442afd2cae5f511f75fb1ae81a301082d83c50e50388665",
    "timestamp": "2023-09-15T21:20:52.000Z"
   },
-  "euclidius/maps/autosave/theoctopus.6.map": {
+  {
    "bytes": 2062244,
+   "path": "euclidius/maps/autosave/theoctopus.6.map",
    "sha256": "dc41837ae14efadc18f2033030f8781386554cfe75c846ae15fcaf260a4414f3",
    "timestamp": "2023-09-15T21:33:20.000Z"
   },
-  "euclidius/maps/debris/": {
+  {
    "bytes": 0,
+   "path": "euclidius/maps/debris/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:56.000Z"
   },
-  "euclidius/maps/debris/brick01.bsp": {
+  {
    "bytes": 7912,
+   "path": "euclidius/maps/debris/brick01.bsp",
    "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
    "timestamp": "2023-05-12T18:23:26.000Z"
   },
-  "euclidius/maps/debris/wood1.bsp": {
+  {
    "bytes": 7584,
+   "path": "euclidius/maps/debris/wood1.bsp",
    "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
    "timestamp": "2023-05-12T18:23:26.000Z"
   },
-  "euclidius/maps/e1m1.bsp": {
+  {
    "bytes": 2483852,
+   "path": "euclidius/maps/e1m1.bsp",
    "sha256": "af06951758069430df8a7a780159ec3074939ff4cb4962643b538bcc3fe29ffb",
    "timestamp": "2024-06-13T22:51:28.000Z"
   },
-  "euclidius/maps/e1m1.map": {
+  {
    "bytes": 1272614,
+   "path": "euclidius/maps/e1m1.map",
    "sha256": "a6b29321b3e23e589d5cad281b5c59bdfef8fefa4e2c675603366d1f911c5d30",
    "timestamp": "2024-06-13T22:47:06.000Z"
   },
-  "euclidius/maps/e1m2.bsp": {
+  {
    "bytes": 5674372,
+   "path": "euclidius/maps/e1m2.bsp",
    "sha256": "02a248c1894eca12a537957d96616c9342d4f2af0da000f7d00126e75b487a9e",
    "timestamp": "2024-06-13T22:51:40.000Z"
   },
-  "euclidius/maps/e1m2.map": {
+  {
    "bytes": 1772672,
+   "path": "euclidius/maps/e1m2.map",
    "sha256": "547edf5d0ec14ddaacfb2d0970dc5b6bb102015b701fe78c8afa3989ff45bde4",
    "timestamp": "2024-06-13T22:47:42.000Z"
   },
-  "euclidius/maps/e1m20.bsp": {
+  {
    "bytes": 1070812,
+   "path": "euclidius/maps/e1m20.bsp",
    "sha256": "9219c0f9b161722b10298e14c95960cc19837d82423887a95ba0c0549995f17b",
    "timestamp": "2024-06-13T23:16:48.000Z"
   },
-  "euclidius/maps/e1m20.map": {
+  {
    "bytes": 379968,
+   "path": "euclidius/maps/e1m20.map",
    "sha256": "c433efecaec35176b40fdab75c986c37857c36d64a7a68274ce968b80e160362",
    "timestamp": "2024-06-13T23:16:38.000Z"
   },
-  "euclidius/maps/e1m3.bsp": {
+  {
    "bytes": 2973964,
+   "path": "euclidius/maps/e1m3.bsp",
    "sha256": "8329f2c8bbc3bc9b3088fb24599448513f43ae30bbcdbf086e44e70f8e055e08",
    "timestamp": "2024-06-13T22:51:50.000Z"
   },
-  "euclidius/maps/e1m3.map": {
+  {
    "bytes": 1195099,
+   "path": "euclidius/maps/e1m3.map",
    "sha256": "2425bda753b06b03421c03fe6c5736be2a503ca9e1ce46398ea21ce87dc035fb",
    "timestamp": "2024-06-13T22:48:18.000Z"
   },
-  "euclidius/maps/e1m4.bsp": {
+  {
    "bytes": 4095552,
+   "path": "euclidius/maps/e1m4.bsp",
    "sha256": "3c313b2ea81263d246e6c086784e7a3b3d0a8689ff185035cdea767c17ea368c",
    "timestamp": "2024-06-16T18:26:00.000Z"
   },
-  "euclidius/maps/e1m4.map": {
+  {
    "bytes": 1679249,
+   "path": "euclidius/maps/e1m4.map",
    "sha256": "05a95965c71013e2b0cac689434cc909648e419c813b617c6b6071e94a640e1a",
    "timestamp": "2024-06-16T18:25:48.000Z"
   },
-  "euclidius/maps/e1m5.bsp": {
+  {
    "bytes": 2508832,
+   "path": "euclidius/maps/e1m5.bsp",
    "sha256": "61b15b64eea909e65b0d5be6395abf3a82f60a0369db0b8212c789d1321060a2",
    "timestamp": "2024-06-16T18:27:18.000Z"
   },
-  "euclidius/maps/e1m5.map": {
+  {
    "bytes": 1187076,
+   "path": "euclidius/maps/e1m5.map",
    "sha256": "ca73542ad53fcb33f004bc397615202a22a293d45897030074732f0ee7fc03b9",
    "timestamp": "2024-06-16T18:26:32.000Z"
   },
-  "euclidius/maps/e1m6.bsp": {
+  {
    "bytes": 2281236,
+   "path": "euclidius/maps/e1m6.bsp",
    "sha256": "b05d6881921cae2406128103f25f3edce5b8aed8b64964a0b38f5ba1040cd9e3",
    "timestamp": "2024-06-13T23:12:58.000Z"
   },
-  "euclidius/maps/e1m6.map": {
+  {
    "bytes": 829854,
+   "path": "euclidius/maps/e1m6.map",
    "sha256": "aec16a87e8f7169601569aebc81b7dadbf1f049aac0cad651cacb04cca0feec4",
    "timestamp": "2024-06-13T23:12:50.000Z"
   },
-  "euclidius/maps/e1m7.bsp": {
+  {
    "bytes": 5272716,
+   "path": "euclidius/maps/e1m7.bsp",
    "sha256": "52797a4ca29f0463411c77d67ebbfe5205e01bdd5ba27b2baf849aa99a1769e3",
    "timestamp": "2024-06-13T22:56:22.000Z"
   },
-  "euclidius/maps/e1m7.map": {
+  {
    "bytes": 2929122,
+   "path": "euclidius/maps/e1m7.map",
    "sha256": "72861863691dd4374730eefa2a87b9a3ec6a40a67083c96a043e2a53af3dc5a0",
    "timestamp": "2024-06-13T22:53:12.000Z"
   },
-  "euclidius/maps/e2m1.bsp": {
+  {
    "bytes": 1856920,
+   "path": "euclidius/maps/e2m1.bsp",
    "sha256": "4b139c689b58e59637e5213b68f38d29045ef3b037c6213419a72faf4e6792ce",
    "timestamp": "2024-06-13T22:38:42.000Z"
   },
-  "euclidius/maps/e2m1.map": {
+  {
    "bytes": 537943,
+   "path": "euclidius/maps/e2m1.map",
    "sha256": "1825317e05b68f1dd3ba686c2d2db31e402f9d8e5468de1fe6a1ff445b2e0c7e",
    "timestamp": "2024-06-13T22:31:02.000Z"
   },
-  "euclidius/maps/e2m10.bsp": {
+  {
    "bytes": 3228188,
+   "path": "euclidius/maps/e2m10.bsp",
    "sha256": "fdb3d17f312aa1384e3494bee53a4797dca159e2c759de782ebb6808c90b7696",
    "timestamp": "2024-06-13T22:40:36.000Z"
   },
-  "euclidius/maps/e2m10.map": {
+  {
    "bytes": 1387309,
+   "path": "euclidius/maps/e2m10.map",
    "sha256": "a28ccf05e31b8e1e414a9f9e15454a206a12cf362df6decfbd2ecb996cce9f87",
    "timestamp": "2024-06-13T22:35:20.000Z"
   },
-  "euclidius/maps/e2m11.bsp": {
+  {
    "bytes": 5279644,
+   "path": "euclidius/maps/e2m11.bsp",
    "sha256": "0d51e4187b8f4eae3bbe326287ae32ed6d861d1bf6120264ffa633413144aaa8",
    "timestamp": "2024-06-13T22:41:36.000Z"
   },
-  "euclidius/maps/e2m11.map": {
+  {
    "bytes": 2177989,
+   "path": "euclidius/maps/e2m11.map",
    "sha256": "d8e2d74051b2d6e6fd2a278b0bba67900f6c36da74b8f66454c90805a5cbadc0",
    "timestamp": "2024-06-13T22:36:08.000Z"
   },
-  "euclidius/maps/e2m12.bsp": {
+  {
    "bytes": 6983100,
+   "path": "euclidius/maps/e2m12.bsp",
    "sha256": "e1bb0284e7f53384e4c723b5bae49a0dff3268f108491f49ee4d433b07f71d9e",
    "timestamp": "2024-06-13T22:43:00.000Z"
   },
-  "euclidius/maps/e2m12.map": {
+  {
    "bytes": 3069102,
+   "path": "euclidius/maps/e2m12.map",
    "sha256": "7dbb0703f54f2e9191ae7e72dda44ba7d89cfbbf3ab60c143483e2f986c6a551",
    "timestamp": "2024-06-13T22:42:46.000Z"
   },
-  "euclidius/maps/e2m13.bsp": {
+  {
    "bytes": 4617100,
+   "path": "euclidius/maps/e2m13.bsp",
    "sha256": "bc3014c842336637c0877510005214543f7335e42d9adcd64f97cc06c8e4bfe2",
    "timestamp": "2024-06-13T22:43:12.000Z"
   },
-  "euclidius/maps/e2m13.map": {
+  {
    "bytes": 1293611,
+   "path": "euclidius/maps/e2m13.map",
    "sha256": "60edf442b535056a19839ab09a3e6bc175d27143158a7bdb9c186b3d563ca28e",
    "timestamp": "2024-06-13T22:37:06.000Z"
   },
-  "euclidius/maps/e2m2.bsp": {
+  {
    "bytes": 1281804,
+   "path": "euclidius/maps/e2m2.bsp",
    "sha256": "9efaf7466ca2b88eb4cef01b5b05b74e127debc00d46f84ec55dde168fd94edd",
    "timestamp": "2024-06-13T22:39:08.000Z"
   },
-  "euclidius/maps/e2m2.map": {
+  {
    "bytes": 437516,
+   "path": "euclidius/maps/e2m2.map",
    "sha256": "2def4c5689b492d0b4281877568e55d18f9c7ffd6ccdfb008f3b970d9a0a0a14",
    "timestamp": "2024-06-13T22:31:26.000Z"
   },
-  "euclidius/maps/e2m3.bsp": {
+  {
    "bytes": 2016440,
+   "path": "euclidius/maps/e2m3.bsp",
    "sha256": "aa4b816cadc91f3f2950a37387c34ba8a79a6714104e79db8d5b060777cfcd4f",
    "timestamp": "2024-06-13T22:39:20.000Z"
   },
-  "euclidius/maps/e2m3.map": {
+  {
    "bytes": 854798,
+   "path": "euclidius/maps/e2m3.map",
    "sha256": "7e22ca250318ce5cf2c1c14621b40ecd613349c81e644c565cad502e8cc12f97",
    "timestamp": "2024-06-13T22:31:42.000Z"
   },
-  "euclidius/maps/e2m4.bsp": {
+  {
    "bytes": 3165016,
+   "path": "euclidius/maps/e2m4.bsp",
    "sha256": "56d9e3f6421732c45bb5a7f11ba9e9f5bc83f5c6543a561479cb12cf68d413f0",
    "timestamp": "2024-06-13T22:39:32.000Z"
   },
-  "euclidius/maps/e2m4.map": {
+  {
    "bytes": 1049094,
+   "path": "euclidius/maps/e2m4.map",
    "sha256": "1338388baae6bae4f69275a1b0701d6073eb95d340c752a630b9e6f218d2303e",
    "timestamp": "2024-06-13T22:32:00.000Z"
   },
-  "euclidius/maps/e2m5.bsp": {
+  {
    "bytes": 2513752,
+   "path": "euclidius/maps/e2m5.bsp",
    "sha256": "4e3e621eb3f4f9e690aa7afa450033896e67e9fd21b7eb5a8813194be1945de3",
    "timestamp": "2024-06-13T22:39:42.000Z"
   },
-  "euclidius/maps/e2m5.map": {
+  {
    "bytes": 1196705,
+   "path": "euclidius/maps/e2m5.map",
    "sha256": "0105012f49d2ec1627b19caa0f837e4dee5dc44846de3f7311efdcb430a2a829",
    "timestamp": "2024-06-13T22:32:58.000Z"
   },
-  "euclidius/maps/e2m6.bsp": {
+  {
    "bytes": 3443492,
+   "path": "euclidius/maps/e2m6.bsp",
    "sha256": "be9e42fd5005131ab3d86130d90d19c26f8957c7b0833c9f99e2b1ec1597d993",
    "timestamp": "2024-06-14T22:42:12.000Z"
   },
-  "euclidius/maps/e2m6.map": {
+  {
    "bytes": 877101,
+   "path": "euclidius/maps/e2m6.map",
    "sha256": "b68fa38e93a91d67af31145dfc22c1163c019d641277b0911674078fb7f1d2dc",
    "timestamp": "2024-06-14T22:41:58.000Z"
   },
-  "euclidius/maps/e2m7.bsp": {
+  {
    "bytes": 1807892,
+   "path": "euclidius/maps/e2m7.bsp",
    "sha256": "ec7ac18ec535b05862ddcd6a0967b5c57734c0b62fc7dc6b63061bde19150e53",
    "timestamp": "2024-06-13T22:40:04.000Z"
   },
-  "euclidius/maps/e2m7.map": {
+  {
    "bytes": 765794,
+   "path": "euclidius/maps/e2m7.map",
    "sha256": "14c2add676eaef7a1942c8d9f18a6597dc4ce318012cd66b870f9884813a5bc5",
    "timestamp": "2024-06-13T22:33:42.000Z"
   },
-  "euclidius/maps/e2m8.bsp": {
+  {
    "bytes": 2522532,
+   "path": "euclidius/maps/e2m8.bsp",
    "sha256": "c48436a8e02d2f9bba6b873f0ada5fd39559d06c9517191413799cae9030e4f5",
    "timestamp": "2024-06-13T22:43:50.000Z"
   },
-  "euclidius/maps/e2m8.map": {
+  {
    "bytes": 1857487,
+   "path": "euclidius/maps/e2m8.map",
    "sha256": "e2ead91cf103134f77a4a990a5d4bd77fad35dc781eada675c86a785cda242e1",
    "timestamp": "2024-06-13T22:43:44.000Z"
   },
-  "euclidius/maps/e2m9.bsp": {
+  {
    "bytes": 2178824,
+   "path": "euclidius/maps/e2m9.bsp",
    "sha256": "a1af9366738c362fcd79fbc4b25e3f4748acf3e8971a9331b53c14b9accc9ff9",
    "timestamp": "2024-06-13T22:41:20.000Z"
   },
-  "euclidius/maps/e2m9.map": {
+  {
    "bytes": 915700,
+   "path": "euclidius/maps/e2m9.map",
    "sha256": "9fe3dcc82e5da47d2d5bfecc3f6d75aa1a32143e199692a72b550f320de4a70b",
    "timestamp": "2024-06-13T22:41:14.000Z"
   },
-  "euclidius/maps/kavoran.map": {
+  {
    "bytes": 730638,
+   "path": "euclidius/maps/kavoran.map",
    "sha256": "5e20c182c00cef7bc19af011691cc50c09cd327393c9c0ffd4b74a2ecdf3ab5a",
    "timestamp": "2023-05-12T18:21:48.000Z"
   },
-  "euclidius/maps/start.bsp": {
+  {
    "bytes": 751412,
+   "path": "euclidius/maps/start.bsp",
    "sha256": "9f52c0a88a19ad5da428fd95d8eba3b96610d2063d1d46068b54dcc01cf4e6e9",
    "timestamp": "2024-06-13T22:45:38.000Z"
   },
-  "euclidius/maps/start.map": {
+  {
    "bytes": 298182,
+   "path": "euclidius/maps/start.map",
    "sha256": "cb03155729bb795d628867f935579812f7d0373ac55e5872f4069d571d2eb653",
    "timestamp": "2024-06-13T22:45:30.000Z"
   },
-  "euclidius/maps/unused/": {
+  {
    "bytes": 0,
+   "path": "euclidius/maps/unused/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-13T23:11:02.000Z"
   },
-  "euclidius/music/": {
+  {
    "bytes": 0,
+   "path": "euclidius/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-13T23:14:48.000Z"
   },
-  "euclidius/music/track15.mp3": {
+  {
    "bytes": 8242296,
+   "path": "euclidius/music/track15.mp3",
    "sha256": "07ae9feed17235ea62aacd5b5d509bd88271a9084f96f501148c7cbf8ee0c62c",
    "timestamp": "2023-05-11T19:53:38.000Z"
   },
-  "euclidius/music/track19.ogg": {
+  {
    "bytes": 2329744,
+   "path": "euclidius/music/track19.ogg",
    "sha256": "36158343e0465c4adfb44a7d1ce0865b51201b9063275dac0e8efd8e8a2c8332",
    "timestamp": "2023-05-12T18:23:30.000Z"
   },
-  "euclidius/music/track20.ogg": {
+  {
    "bytes": 11949169,
+   "path": "euclidius/music/track20.ogg",
    "sha256": "e0b28d9e337ac523191fe58217ba9ffe444ce63261f560e744480555d72d485e",
    "timestamp": "2023-05-12T18:23:30.000Z"
   },
-  "euclidius/music/track21.ogg": {
+  {
    "bytes": 11498843,
+   "path": "euclidius/music/track21.ogg",
    "sha256": "bfbab94f59fe7f578ce2b2d9bc2efff85bd05c6ebca2a7f0c38402a9b75a10ce",
    "timestamp": "2023-05-12T18:23:32.000Z"
   },
-  "euclidius/music/track22.ogg": {
+  {
    "bytes": 9326898,
+   "path": "euclidius/music/track22.ogg",
    "sha256": "03f781d3b7d772282f99cd0a3c13dfca60eceb44f7f35889fe636503d8c15186",
    "timestamp": "2023-05-12T18:23:32.000Z"
   },
-  "euclidius/music/track23.ogg": {
+  {
    "bytes": 8844115,
+   "path": "euclidius/music/track23.ogg",
    "sha256": "d71f7d61403424d42e0ec353fcdea0bfb587308f5ece8759fc0393b3e3bab6cd",
    "timestamp": "2023-05-12T18:23:32.000Z"
   },
-  "euclidius/music/track24.ogg": {
+  {
    "bytes": 12188863,
+   "path": "euclidius/music/track24.ogg",
    "sha256": "8185ad122783e66d1dcad2b0e3d9d2bbe42fb66af314986b04c4c4af8704e489",
    "timestamp": "2023-05-12T18:23:32.000Z"
   },
-  "euclidius/music/track25.ogg": {
+  {
    "bytes": 13047827,
+   "path": "euclidius/music/track25.ogg",
    "sha256": "805c7b30431b847cf05c784ffd66bdcc60f0c2ee6c79ae856686704806789df5",
    "timestamp": "2023-05-12T18:23:32.000Z"
   },
-  "euclidius/music/track26.mp3": {
+  {
    "bytes": 9314485,
+   "path": "euclidius/music/track26.mp3",
    "sha256": "05845c736dd12b7f970eac6222b6b6aedd75aa32ad312d67dd7423c687a1c9b9",
    "timestamp": "2023-12-05T21:38:26.000Z"
   },
-  "euclidius/music/track27.ogg": {
+  {
    "bytes": 11474836,
+   "path": "euclidius/music/track27.ogg",
    "sha256": "06a3b487386c1103370f2e25b2881c7eaddcf5c7c36f6569ed1b87f9dff51410",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/music/track28.ogg": {
+  {
    "bytes": 11655666,
+   "path": "euclidius/music/track28.ogg",
    "sha256": "4ab00e92f4ac1f9af0ce0c7281da3ba4ca76c5a836e282778a9f9c0f2f3f5fee",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/music/track30.ogg": {
+  {
    "bytes": 2716712,
+   "path": "euclidius/music/track30.ogg",
    "sha256": "acd9405846d8aaedae057216978bdbb374264ebba082f78ddd75fb59145b334e",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/music/track35.ogg": {
+  {
    "bytes": 2508989,
+   "path": "euclidius/music/track35.ogg",
    "sha256": "16a5302b78073d6799902c44b78de2c86e45eb6eba8ff9364f609cb24fc289b8",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs.dat": {
+  {
    "bytes": 749842,
+   "path": "euclidius/progs.dat",
    "sha256": "cf5045e62b6668ef38eece435e868c67dcc3051212d1fab442c2413a71e57f41",
    "timestamp": "2023-05-12T18:21:40.000Z"
   },
-  "euclidius/progs/": {
+  {
    "bytes": 0,
+   "path": "euclidius/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/progs/a_mdls/": {
+  {
    "bytes": 0,
+   "path": "euclidius/progs/a_mdls/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/progs/a_mdls/m_cells1.mdl": {
+  {
    "bytes": 3252,
+   "path": "euclidius/progs/a_mdls/m_cells1.mdl",
    "sha256": "1cdfc2b54dd883efe9215499603e341bfa72e800740a2e874e9bcf3b0afc68ba",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_cells2.mdl": {
+  {
    "bytes": 4532,
+   "path": "euclidius/progs/a_mdls/m_cells2.mdl",
    "sha256": "8cb54159eeaa410b98478e9190bd2d33340d3a2e98a61d32ce1afaf4e99031a0",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_nails1.mdl": {
+  {
    "bytes": 3252,
+   "path": "euclidius/progs/a_mdls/m_nails1.mdl",
    "sha256": "ac361970fb1cbbb87ad4593afecd6d8973a65ea4f14e5f7b565c8f38c181fa9d",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_nails2.mdl": {
+  {
    "bytes": 4532,
+   "path": "euclidius/progs/a_mdls/m_nails2.mdl",
    "sha256": "0870b633f95bda895074e8d423631ee8805c3923f36a1c7f09938710783e8f99",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_rock1.mdl": {
+  {
    "bytes": 3252,
+   "path": "euclidius/progs/a_mdls/m_rock1.mdl",
    "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_rock2.mdl": {
+  {
    "bytes": 4532,
+   "path": "euclidius/progs/a_mdls/m_rock2.mdl",
    "sha256": "59988afc3603b83ccfadf0a9af423a113bf15ed969d4a62db9073e3061bc0fdc",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_shell1.mdl": {
+  {
    "bytes": 3252,
+   "path": "euclidius/progs/a_mdls/m_shell1.mdl",
    "sha256": "696594c11dd6dbd2e60ac6923d82a55f8f5b16e93b93f7914abe5fd4df74299f",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/a_mdls/m_shell2.mdl": {
+  {
    "bytes": 4532,
+   "path": "euclidius/progs/a_mdls/m_shell2.mdl",
    "sha256": "b558ee2dfd0078c7e3075079fb40368f53e7dfb162aaefcd20e53f562e405b1b",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/armshr.mdl": {
+  {
    "bytes": 20012,
+   "path": "euclidius/progs/armshr.mdl",
    "sha256": "1873523424395b404ffafeb447383185e033826e33bf0a001efc34604ece95da",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/candle.mdl": {
+  {
    "bytes": 24135,
+   "path": "euclidius/progs/candle.mdl",
    "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/debris.mdl": {
+  {
    "bytes": 263072,
+   "path": "euclidius/progs/debris.mdl",
    "sha256": "2b60cba9cbb454e3524d174edc0e1a540f2b2e91fa0b35fc2ab20ccb7fabd8d1",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/enforcer.mdl": {
+  {
    "bytes": 472208,
+   "path": "euclidius/progs/enforcer.mdl",
    "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/g_shotgu.mdl": {
+  {
    "bytes": 29076,
+   "path": "euclidius/progs/g_shotgu.mdl",
    "sha256": "4a8866ab410a93522a3d3221e0f3b45889a488b54c0551329f09493273e09840",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/h_boss.mdl": {
+  {
    "bytes": 24028,
+   "path": "euclidius/progs/h_boss.mdl",
    "sha256": "b41e2302e15d7cb47bf1eb4ee1df29e7e8d773a3dfc6059f5b1f8ce18685bba6",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/h_mdls/": {
+  {
    "bytes": 0,
+   "path": "euclidius/progs/h_mdls/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/progs/h_mdls/m_h100.mdl": {
+  {
    "bytes": 17992,
+   "path": "euclidius/progs/h_mdls/m_h100.mdl",
    "sha256": "2e7fac7418838a721d80e80370000f3e400b21248b22c8d3555588d4f8437a5b",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/h_mdls/m_h15.mdl": {
+  {
    "bytes": 3252,
+   "path": "euclidius/progs/h_mdls/m_h15.mdl",
    "sha256": "1f4b0791be3156763c15521fbf2e747744ce3355d90d630b01c2227770314771",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/h_mdls/m_h25.mdl": {
+  {
    "bytes": 14792,
+   "path": "euclidius/progs/h_mdls/m_h25.mdl",
    "sha256": "6f792b9a80f34e31bceb4258e1d2c8f22d405a7ae1198b31bb285f502c720cfe",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/h_mdls/pd_vial.mdl": {
+  {
    "bytes": 8292,
+   "path": "euclidius/progs/h_mdls/pd_vial.mdl",
    "sha256": "035673048c98991e790abe484c2403b56dfe5ea1f5fb185c1b7a657d918668e8",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/h_ogre.mdl": {
+  {
    "bytes": 42048,
+   "path": "euclidius/progs/h_ogre.mdl",
    "sha256": "52760ce1f6e8f657e782846571baf9fde80859f5342d07a684fa8218f96f68db",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/k_spike2.mdl": {
+  {
    "bytes": 444704,
+   "path": "euclidius/progs/k_spike2.mdl",
    "sha256": "e466e7afa95868ec1a3b3bfc770573d93dc20c2d881a73d2b9b0e35f1dfa6d9b",
    "timestamp": "2023-05-12T18:23:34.000Z"
   },
-  "euclidius/progs/lspike.mdl": {
+  {
    "bytes": 1684,
+   "path": "euclidius/progs/lspike.mdl",
    "sha256": "59264317258f19955b967177f0dbc5be1733e4ca07c4c7b3cc333bb88bc0c46e",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/mervup.mdl": {
+  {
    "bytes": 32948,
+   "path": "euclidius/progs/mervup.mdl",
    "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/ogre.mdl": {
+  {
    "bytes": 366916,
+   "path": "euclidius/progs/ogre.mdl",
    "sha256": "29fa9866dd4862b99ebb9944ddb0bf24a6d0bb4bf00e26a94d3622cead9b6315",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/pd_b_key.mdl": {
+  {
    "bytes": 128440,
+   "path": "euclidius/progs/pd_b_key.mdl",
    "sha256": "c5aff23b766037ab550636516d7fe0235dacf566ddb966541d640092bcb62349",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/pd_bpack.mdl": {
+  {
    "bytes": 216724,
+   "path": "euclidius/progs/pd_bpack.mdl",
    "sha256": "1839c92899197344935eca44d7b4c70e903af84ab633259786f8c12c39905149",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/pd_r_key.mdl": {
+  {
    "bytes": 269528,
+   "path": "euclidius/progs/pd_r_key.mdl",
    "sha256": "7ef6894b955c4ca34bf3e2ebdc6288f55cc3b1285478444a81ca769866e1a119",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/pd_w_key.mdl": {
+  {
    "bytes": 170680,
+   "path": "euclidius/progs/pd_w_key.mdl",
    "sha256": "73f06fc10a53c93db25d67f20bad7672bc5f4e14bf3a6b5115d68f00696b536a",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/s_flame.spr": {
+  {
    "bytes": 47856,
+   "path": "euclidius/progs/s_flame.spr",
    "sha256": "99fc3f91856aa6df2f25494a945e17b64b59ddc3faed424a6fcd73062a677fcc",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/s_null.spr": {
+  {
    "bytes": 1080,
+   "path": "euclidius/progs/s_null.spr",
    "sha256": "e306ec0fbf0f5e4306c6683f7c7b87674bb0a168ef32a2b1118dcffb083deeff",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/soldier.mdl": {
+  {
    "bytes": 320900,
+   "path": "euclidius/progs/soldier.mdl",
    "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/spark.mdl": {
+  {
    "bytes": 2544,
+   "path": "euclidius/progs/spark.mdl",
    "sha256": "77d081c51af9bd6c82d2d51dcb955a2fca5189cda4eb09a138bfa2e2b521fb05",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/spike.mdl": {
+  {
    "bytes": 4416,
+   "path": "euclidius/progs/spike.mdl",
    "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/teleport.mdl": {
+  {
    "bytes": 1058800,
+   "path": "euclidius/progs/teleport.mdl",
    "sha256": "98eeb63a1ded2d7a1d3788562478aff891af1be4ef1c552bcdb913cb338387b6",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/v_spike.mdl": {
+  {
    "bytes": 1058816,
+   "path": "euclidius/progs/v_spike.mdl",
    "sha256": "ac4d47130af263cb6fd861d70ac09ebf758ab1a76da0b697e268382c65ae1a16",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs/w_spike.mdl": {
+  {
    "bytes": 311493,
+   "path": "euclidius/progs/w_spike.mdl",
    "sha256": "add013a5a6686ffd76ec0f2b2b3413757432ba4a8564ffd81aeb7eb2c5a98398",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/progs_dump-devkit-readme.txt": {
+  {
    "bytes": 9360,
+   "path": "euclidius/progs_dump-devkit-readme.txt",
    "sha256": "c8eb11121c42e133e391a016cae91abbd3766508d4108bf5a74ce61e6d8f2723",
    "timestamp": "2023-05-12T18:21:40.000Z"
   },
-  "euclidius/quake.rc": {
+  {
    "bytes": 469,
+   "path": "euclidius/quake.rc",
    "sha256": "490877c3d81446c26fd36f25b358a0e0e109e6b3566f23a6a2d41c8319849750",
    "timestamp": "2023-05-12T18:21:40.000Z"
   },
-  "euclidius/quakec src/": {
+  {
    "bytes": 0,
+   "path": "euclidius/quakec src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/quakec src/LICENSE": {
+  {
    "bytes": 18431,
+   "path": "euclidius/quakec src/LICENSE",
    "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/ai.qc": {
+  {
    "bytes": 18597,
+   "path": "euclidius/quakec src/ai.qc",
    "sha256": "bcd2d7de7ce600d39bbc9b189a2d9a6bde75cdcd0800e46bb14994424b287b26",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/quakec src/boss.qc": {
+  {
    "bytes": 13803,
+   "path": "euclidius/quakec src/boss.qc",
    "sha256": "41ca279d62544cdb718df7bc2905e7bb5df06706c54ef348d2d478470a4d5515",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/quakec src/boss2.qc": {
+  {
    "bytes": 16431,
+   "path": "euclidius/quakec src/boss2.qc",
    "sha256": "d495677614d54635fe5f12d0f0d3fd88b88486d42ff2cc1cb467111390e79a84",
    "timestamp": "2023-05-12T18:23:36.000Z"
   },
-  "euclidius/quakec src/buttons.qc": {
+  {
    "bytes": 4446,
+   "path": "euclidius/quakec src/buttons.qc",
    "sha256": "58ff5453eac2d012d5514d6c10babe85187744e1bd293720b2c1bda1109ebe04",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/changelog.txt": {
+  {
    "bytes": 14317,
+   "path": "euclidius/quakec src/changelog.txt",
    "sha256": "392ca6557e6c056f260904e815143403d98ecb8b6dde96d34cd98fc5504995fb",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/client.qc": {
+  {
    "bytes": 35005,
+   "path": "euclidius/quakec src/client.qc",
    "sha256": "84ad056d736b796c3ca4000c41c5dc9cd487489bc4fd35eb2914c3c65f19c63b",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/combat.qc": {
+  {
    "bytes": 9118,
+   "path": "euclidius/quakec src/combat.qc",
    "sha256": "287c8d9d90a5dae838f6e2ced580bd306e545f255484a94308331a20d1c01d9b",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/cshift.qc": {
+  {
    "bytes": 1747,
+   "path": "euclidius/quakec src/cshift.qc",
    "sha256": "b3442a5eb8b04cfdcd2020dcc0099883e22f04153560308f793d0fcad8b3efbb",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/custom_mdls.qc": {
+  {
    "bytes": 2275,
+   "path": "euclidius/quakec src/custom_mdls.qc",
    "sha256": "74f7e0e8bb25b8a70d54f1168ee90c773ee1bd909b15e045128f61e018716cc4",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/customsounds.qc": {
+  {
    "bytes": 5564,
+   "path": "euclidius/quakec src/customsounds.qc",
    "sha256": "26bce1b876f3a8a709a2b61298d1f65de5f568f24ac66db713e8585afc694f5d",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/cutscene.qc": {
+  {
    "bytes": 30738,
+   "path": "euclidius/quakec src/cutscene.qc",
    "sha256": "7b4d2fd6a7ffd2c2da115447e9f348a552d20c59728a072c7ced6308d31c0130",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/defs.qc": {
+  {
    "bytes": 28880,
+   "path": "euclidius/quakec src/defs.qc",
    "sha256": "7cabf435fd377fcdce5895ee1d0a27e91c46a002a4b1689df712dc8b06546a57",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/demon.qc": {
+  {
    "bytes": 15607,
+   "path": "euclidius/quakec src/demon.qc",
    "sha256": "14a99a3a771dfb5c0ddc4393a3cb520994a98fd16573f8ac6d6056a5b336f4f6",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/doelightning.qc": {
+  {
    "bytes": 4955,
+   "path": "euclidius/quakec src/doelightning.qc",
    "sha256": "4b6233156f3792d7529d714de7f992c066a927d5f9109d9947caa2a7a2341c57",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/doeplats.qc": {
+  {
    "bytes": 15495,
+   "path": "euclidius/quakec src/doeplats.qc",
    "sha256": "754e13c54f3d8ffc76ba80a1a7fbb3825ad5b300d9ff7f48195a7c6773036e80",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/dog.qc": {
+  {
    "bytes": 15129,
+   "path": "euclidius/quakec src/dog.qc",
    "sha256": "3434cfe57a78759e0295ba717cafee2514ac01ae737732be046b7708e23da988",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/doors.qc": {
+  {
    "bytes": 21714,
+   "path": "euclidius/quakec src/doors.qc",
    "sha256": "123edcc73083fd893140f1f4e5c337ca5925b923aa8f46862d1029ea1142afbe",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/dtmisc.qc": {
+  {
    "bytes": 30024,
+   "path": "euclidius/quakec src/dtmisc.qc",
    "sha256": "f383fb5017b305923ddbe5a71868e20567128c1fd4b66d5a9a761d7e3ee1e510",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/dtquake.qc": {
+  {
    "bytes": 2654,
+   "path": "euclidius/quakec src/dtquake.qc",
    "sha256": "170b5464e0092f6a2f261910108381fd93fdb7fb5dd7bc047863f7bcc462dd9a",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/elevatr.qc": {
+  {
    "bytes": 3624,
+   "path": "euclidius/quakec src/elevatr.qc",
    "sha256": "eb6a260d53ca8f7b69f20a8cc42341c597d5e06ea18bca86e6aabff71bbc892b",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/enforcer.qc": {
+  {
    "bytes": 32786,
+   "path": "euclidius/quakec src/enforcer.qc",
    "sha256": "42de3a45a987bf7cf1921cc27d1d2a94129a43a4f8bb8b1de361e68968983ed7",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/fight.qc": {
+  {
    "bytes": 9867,
+   "path": "euclidius/quakec src/fight.qc",
    "sha256": "0c2b4e3afe48260206e086c9742bf99c34f4c83993a368c0cfca764a84813add",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/fish.qc": {
+  {
    "bytes": 11993,
+   "path": "euclidius/quakec src/fish.qc",
    "sha256": "d360b27d2e57192c2ebbaacd8532cdf7cd0330d63592032671c3b2efe5e41276",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/fog.qc": {
+  {
    "bytes": 15746,
+   "path": "euclidius/quakec src/fog.qc",
    "sha256": "8e89fb2fa6a035620617bf155a531cff3261c60711a5c8237283970383ab2727",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/func_bob.qc": {
+  {
    "bytes": 5676,
+   "path": "euclidius/quakec src/func_bob.qc",
    "sha256": "5fe11638fd89f509759c83748c519b98dc5fe5856b09fab1f6247518b9836143",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/func_brush.qc": {
+  {
    "bytes": 1471,
+   "path": "euclidius/quakec src/func_brush.qc",
    "sha256": "cec99401fbecf0b4b07c81d79f13f3ea05a0f13296e75ddc3fcab4fff0dbd1f8",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/func_fall2.qc": {
+  {
    "bytes": 8668,
+   "path": "euclidius/quakec src/func_fall2.qc",
    "sha256": "eed5a376c5bc5a9262d2a6d08d46c67b3cae39a89830912a37d015e02e52d692",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/hipcount.qc": {
+  {
    "bytes": 5217,
+   "path": "euclidius/quakec src/hipcount.qc",
    "sha256": "da5c096495966fa9ef5315ba00b315987349a817c889b974d8a91f506e6aee1d",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/hippart.qc": {
+  {
    "bytes": 7983,
+   "path": "euclidius/quakec src/hippart.qc",
    "sha256": "730ed584b4de9dd49283502419a8bcafb99e2f1a3d146e05afee0ab2547751c3",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/hiptrig.qc": {
+  {
    "bytes": 6589,
+   "path": "euclidius/quakec src/hiptrig.qc",
    "sha256": "4a5b1c58309c0a2c2d44d6d1a455263decba46bd965d71dd4e600aebb07c47e9",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/hknight.qc": {
+  {
    "bytes": 30265,
+   "path": "euclidius/quakec src/hknight.qc",
    "sha256": "1588171c8243cb9b71676cc35bb26cbfebe05e6577ea7a38c4cab8b7107ff3d0",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/intermission.qc": {
+  {
    "bytes": 11029,
+   "path": "euclidius/quakec src/intermission.qc",
    "sha256": "a3f031f373dffa837a1988445fffd7d9b979af9a675d2cba7f4e2bccc8f0a486",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/items.qc": {
+  {
    "bytes": 66714,
+   "path": "euclidius/quakec src/items.qc",
    "sha256": "85e2b7e7afcf5b0dab8db0f88187c5858c5790bffd98c44abd4269799e813c3d",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/keydata.qc": {
+  {
    "bytes": 5639,
+   "path": "euclidius/quakec src/keydata.qc",
    "sha256": "5902993c9755a2851ef424e48572a9806d20d3aae67a8f9d01446c4aad09a91a",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/keylock.qc": {
+  {
    "bytes": 5884,
+   "path": "euclidius/quakec src/keylock.qc",
    "sha256": "26751c63554a6e73da84138ee45871f501d3bb5250cbfa137a524087bc204e39",
    "timestamp": "2023-05-12T18:23:38.000Z"
   },
-  "euclidius/quakec src/knight.qc": {
+  {
    "bytes": 14999,
+   "path": "euclidius/quakec src/knight.qc",
    "sha256": "b03ffc882929eece408722163dd9c5d25f34d8096417c3288c276c5e6778dde9",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/lights.qc": {
+  {
    "bytes": 16031,
+   "path": "euclidius/quakec src/lights.qc",
    "sha256": "5dc78d48aaafe3abdc220c3db75be4828bfba85fc25bbd62e799a29f4532a173",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/math.qc": {
+  {
    "bytes": 4317,
+   "path": "euclidius/quakec src/math.qc",
    "sha256": "961dd24bcc4b1941fc249a6d148e2a562e24fda4efc9e47e1040b516f8d86c2f",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/misc.qc": {
+  {
    "bytes": 55326,
+   "path": "euclidius/quakec src/misc.qc",
    "sha256": "68871a011e43233445b6753cbceff302be8e570b8fb9049eeab2c032f1204681",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/misc_model.qc": {
+  {
    "bytes": 5082,
+   "path": "euclidius/quakec src/misc_model.qc",
    "sha256": "9b7e616256997b563c1e5ab44918cd4b936606e2d26d2cb79f7e3b270623546c",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/mobot.qc": {
+  {
    "bytes": 14723,
+   "path": "euclidius/quakec src/mobot.qc",
    "sha256": "4d60beb5060a27a82d33ad6bcb5977e116bb9b93d9311aa7a30f925283b29be8",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/monsters.qc": {
+  {
    "bytes": 12877,
+   "path": "euclidius/quakec src/monsters.qc",
    "sha256": "4f5e2c7356a11bbd1465e1148b554fd732c249360c68f32efd6baa3bec0a1114",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/newflags.qc": {
+  {
    "bytes": 5870,
+   "path": "euclidius/quakec src/newflags.qc",
    "sha256": "192bf31eb0f13e6e55342801a42608caf797bfdfbdf27750c78ae67b1c1c5568",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/ogre.qc": {
+  {
    "bytes": 48366,
+   "path": "euclidius/quakec src/ogre.qc",
    "sha256": "ac649ea8a41b1d4b4246f2e9c14bbc1cb7439381eba1b588c57545980f161930",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/oldone.qc": {
+  {
    "bytes": 10467,
+   "path": "euclidius/quakec src/oldone.qc",
    "sha256": "33ce6342a7c06ab06af995f235ab8170917db359a956d6fd96d00709c54a08c6",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/oldone2.qc": {
+  {
    "bytes": 15136,
+   "path": "euclidius/quakec src/oldone2.qc",
    "sha256": "bad10c7974544972a4cdf8821eb745ea32a61de8bfa26c31b445ff1f619557c1",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/plats.qc": {
+  {
    "bytes": 22678,
+   "path": "euclidius/quakec src/plats.qc",
    "sha256": "6ce695f58b859c09c7d79ae741b31246ca49a322515bbad54898dc19e0a5e448",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/player.qc": {
+  {
    "bytes": 21779,
+   "path": "euclidius/quakec src/player.qc",
    "sha256": "4c3935e710456c022c681ccf312109337616157bdebb7a72152f2ba37ec4cdce",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/progs.src": {
+  {
    "bytes": 2033,
+   "path": "euclidius/quakec src/progs.src",
    "sha256": "539b2dd5c36d69491e26a508c772d2f751529753f44465f48c52ce73cd8402d0",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/rotate.qc": {
+  {
    "bytes": 31520,
+   "path": "euclidius/quakec src/rotate.qc",
    "sha256": "ad5eee063eafd078f60ed3d247c19be9fc88887fd4c5aa307953c72089b53c6a",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/rubicon2.qc": {
+  {
    "bytes": 29182,
+   "path": "euclidius/quakec src/rubicon2.qc",
    "sha256": "aef0904a68af683fb3002effa918306ddfbe4230a18fd3470af107bd34105357",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/shalrath.qc": {
+  {
    "bytes": 15839,
+   "path": "euclidius/quakec src/shalrath.qc",
    "sha256": "032b2f1eae78332de56603af833af57d78fa47ac29bf6eaf0a72c588b9e5c5df",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/shambler.qc": {
+  {
    "bytes": 26084,
+   "path": "euclidius/quakec src/shambler.qc",
    "sha256": "782cdf07726bb5c9b63fe93d880b39b9a6657463d4b145b53d26fb21290e8453",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/soldier.qc": {
+  {
    "bytes": 21847,
+   "path": "euclidius/quakec src/soldier.qc",
    "sha256": "28e94fd02188befb535bd16512cd6e7f4af3bdb5ef4a4cd6431965d8caf82474",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/spawn.qc": {
+  {
    "bytes": 10642,
+   "path": "euclidius/quakec src/spawn.qc",
    "sha256": "51571dd7851c2daf9d657b19350e05f5d10f85a212afcdd06757e1a27df7ef83",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/subs.qc": {
+  {
    "bytes": 18016,
+   "path": "euclidius/quakec src/subs.qc",
    "sha256": "a7636b244cf1b7b8646feff48300c0ba8dd2d4e4169e18f14971de6904169880",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/triggers.qc": {
+  {
    "bytes": 51080,
+   "path": "euclidius/quakec src/triggers.qc",
    "sha256": "0fa737b126deb2e312b3f42bbd7f82281fbcf1f35df6faf4f19d6a0259f07bf5",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/utility.qc": {
+  {
    "bytes": 4842,
+   "path": "euclidius/quakec src/utility.qc",
    "sha256": "a29fb47736072ad009a77ac4e063f9f7f4f854327b6c829a8e0403f4756c9994",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/weapons.qc": {
+  {
    "bytes": 41766,
+   "path": "euclidius/quakec src/weapons.qc",
    "sha256": "faceddfc37e7b414656a4660b9f951d2eb90424a01599ec02c9f7e912cc693a8",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/wizard.qc": {
+  {
    "bytes": 16699,
+   "path": "euclidius/quakec src/wizard.qc",
    "sha256": "02e4dfd2e264fd5901aaa3bb0a0ceb6381fc67027ddbba795c3702056a83cda2",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/world.qc": {
+  {
    "bytes": 21577,
+   "path": "euclidius/quakec src/world.qc",
    "sha256": "37578572550ac480bf0ace9d44b0082768115490950dee14731782dfc41cde16",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/quakec src/zombie.qc": {
+  {
    "bytes": 39679,
+   "path": "euclidius/quakec src/zombie.qc",
    "sha256": "f2f4e0d2328c396087f9c4a06823861e5095f1c1ed7ec7a4163c8de350126fa4",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/screenshots/": {
+  {
    "bytes": 0,
+   "path": "euclidius/screenshots/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-14T00:26:16.000Z"
   },
-  "euclidius/screenshots/chasmofsuffering_2024-06-06_01-16-53.png": {
+  {
    "bytes": 2287126,
+   "path": "euclidius/screenshots/chasmofsuffering_2024-06-06_01-16-53.png",
    "sha256": "688daeb9f6b35df101334e9becdd502f352b76b48ab1423ddc4d6145208b216f",
    "timestamp": "2024-06-06T01:16:54.000Z"
   },
-  "euclidius/screenshots/chasmofsuffering_2024-06-06_01-36-32.png": {
+  {
    "bytes": 2495269,
+   "path": "euclidius/screenshots/chasmofsuffering_2024-06-06_01-36-32.png",
    "sha256": "170a8eda2155e4d88eb106011dd61f96d18a2d25f3ce69111ddf9b6b92caab76",
    "timestamp": "2024-06-06T01:36:34.000Z"
   },
-  "euclidius/screenshots/chasmofsuffering_2024-06-06_01-36-36.png": {
+  {
    "bytes": 2493391,
+   "path": "euclidius/screenshots/chasmofsuffering_2024-06-06_01-36-36.png",
    "sha256": "af61693f2696630fb32b37cf1e63c2c1428f7cdd6c04965223bf4e6a66b1da0b",
    "timestamp": "2024-06-06T01:36:38.000Z"
   },
-  "euclidius/screenshots/e1m2_2024-06-14_00-26-14.png": {
+  {
    "bytes": 1729806,
+   "path": "euclidius/screenshots/e1m2_2024-06-14_00-26-14.png",
    "sha256": "7d2922a81c321856d2342c5c087dce3cc6107295b2bbd8816cf2c687486b8856",
    "timestamp": "2024-06-14T00:26:16.000Z"
   },
-  "euclidius/screenshots/i_do_not_want_this_2024-06-06_23-45-54.png": {
+  {
    "bytes": 1848418,
+   "path": "euclidius/screenshots/i_do_not_want_this_2024-06-06_23-45-54.png",
    "sha256": "0ea6c8a8aec9ac21d6dbb0a96927d64e3632931294df37ac828b712d077a1476",
    "timestamp": "2024-06-06T23:45:56.000Z"
   },
-  "euclidius/screenshots/i_do_not_want_this_2024-06-12_05-44-56.png": {
+  {
    "bytes": 2110723,
+   "path": "euclidius/screenshots/i_do_not_want_this_2024-06-12_05-44-56.png",
    "sha256": "753251821b5720dfdab7c611c0aaa967e41aebbd1b5fd14167833947acb0606c",
    "timestamp": "2024-06-12T05:44:58.000Z"
   },
-  "euclidius/screenshots/menu_2024-06-13_23-17-36.png": {
+  {
    "bytes": 1182356,
+   "path": "euclidius/screenshots/menu_2024-06-13_23-17-36.png",
    "sha256": "bb8a3aba5f989ed99ff279881a075c1796f743b44916720fd49e2db4faf44610",
    "timestamp": "2024-06-13T23:17:38.000Z"
   },
-  "euclidius/screenshots/salrathsdemense_2024-06-06_01-22-32.png": {
+  {
    "bytes": 2187893,
+   "path": "euclidius/screenshots/salrathsdemense_2024-06-06_01-22-32.png",
    "sha256": "d38d8c10439cbbf8920a9bca791722f779aea9f60ee9401ca6b9a74226d4722e",
    "timestamp": "2024-06-06T01:22:34.000Z"
   },
-  "euclidius/sound/": {
+  {
    "bytes": 0,
+   "path": "euclidius/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/sound/break/": {
+  {
    "bytes": 0,
+   "path": "euclidius/sound/break/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/sound/break/bricks1.wav": {
+  {
    "bytes": 49956,
+   "path": "euclidius/sound/break/bricks1.wav",
    "sha256": "302547c290609bc311098f9f63643199bee0164e907edf0e2b9289ccbce2a4e2",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/sound/break/metal1.wav": {
+  {
    "bytes": 70054,
+   "path": "euclidius/sound/break/metal1.wav",
    "sha256": "c178f8f52631b1ff353fbeb3557e04e8bd574646ed47f78a3003350b67540979",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/sound/break/metal2.wav": {
+  {
    "bytes": 65948,
+   "path": "euclidius/sound/break/metal2.wav",
    "sha256": "7438b112d81fb92c285a507ebfbde5b15dbddcd90a85f51ecaae2df3ef83480c",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/sound/break/stones1.wav": {
+  {
    "bytes": 69380,
+   "path": "euclidius/sound/break/stones1.wav",
    "sha256": "1b58b722e55c4e2d25f65e820e279699a7b236a02685fbc6a41a40e573df1928",
    "timestamp": "2023-05-12T18:23:40.000Z"
   },
-  "euclidius/sound/break/wood1.wav": {
+  {
    "bytes": 53720,
+   "path": "euclidius/sound/break/wood1.wav",
    "sha256": "026e35d7108347603453765f66311fec99097ff9f82e2d2703f69b7d80ae07c9",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/break/wood2.wav": {
+  {
    "bytes": 59252,
+   "path": "euclidius/sound/break/wood2.wav",
    "sha256": "4488c91dc44e526beb95d33ad200e07e484a6f2fea59578784f3417a00df81f7",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/dump/": {
+  {
    "bytes": 0,
+   "path": "euclidius/sound/dump/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/sound/dump/armsh1.wav": {
+  {
    "bytes": 22610,
+   "path": "euclidius/sound/dump/armsh1.wav",
    "sha256": "46801976a87d548c2cb7b1548f12dfd0b3f1d246aa9d86944574fa3216c6d6d1",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/dump/elec22k.wav": {
+  {
    "bytes": 178736,
+   "path": "euclidius/sound/dump/elec22k.wav",
    "sha256": "d56ff98d1d41511833c35b5a8b5311f00b7e13932591eee53f9e2adf788569e1",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/dump/magic_01.wav": {
+  {
    "bytes": 125944,
+   "path": "euclidius/sound/dump/magic_01.wav",
    "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/dump/pd_water.wav": {
+  {
    "bytes": 92708,
+   "path": "euclidius/sound/dump/pd_water.wav",
    "sha256": "0402b1fb2501dafb33bd43fa9c49c0f6a3fff615a200693cb7953852305c49f4",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/dump/rumble.wav": {
+  {
    "bytes": 53068,
+   "path": "euclidius/sound/dump/rumble.wav",
    "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
    "timestamp": "2023-05-12T18:23:42.000Z"
   },
-  "euclidius/sound/oldone2/": {
+  {
    "bytes": 0,
+   "path": "euclidius/sound/oldone2/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-20T01:24:58.000Z"
   },
-  "euclidius/sound/oldone2/pd_pop2.wav": {
+  {
    "bytes": 42108,
+   "path": "euclidius/sound/oldone2/pd_pop2.wav",
    "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
    "timestamp": "2023-05-12T18:23:42.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
+ "release_date": "2024-06-17",
  "sha256": "466f2e6a033b85a5d1c88769a71b97c1cbf60ce097783882f52d99db3cc007b3",
  "tags": [
-  "author=Euclidius",
   "commandline=-game euclidius",
   "exceeds_quake_limits=yes",
   "filename=euclidius_v1.5.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/euclids-nightmare.218/)",
-  "release_date=2024-06-17",
   "startmap=start",
-  "title=Euclid's Nightmare",
   "type=episode",
   "type=mod"
  ],
+ "title": "Euclid's Nightmare",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/46/466f2e6a033b85a5d1c88769a71b97c1cbf60ce097783882f52d99db3cc007b3/euclidius_v1.5.zip",
   "https://x901.net/quaddictedfiles/euclidius_v1.5.zip"

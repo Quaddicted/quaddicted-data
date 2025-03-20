@@ -1,35 +1,42 @@
 {
+ "authors": [
+  "DaZ"
+ ],
  "bytes": 1192965,
  "description": "Large Egyptian-themed night-time map, split into three parts.",
- "files": {
-  "DAZSP2.bsp": {
+ "files": [
+  {
    "bytes": 1195276,
+   "path": "DAZSP2.bsp",
    "sha256": "225231c89e75968fdbe075b06003fd89dd0259cd299115ac2bada01546e89786",
    "timestamp": "2000-06-20T20:07:30.000Z"
   },
-  "DAZSP2B.bsp": {
+  {
    "bytes": 1225428,
+   "path": "DAZSP2B.bsp",
    "sha256": "df2c3e1fba876d450f6209d0a82fdc82d62d59d79b832589ab2c47f25ebb89b4",
    "timestamp": "2000-06-25T19:01:26.000Z"
   },
-  "dazsp2.txt": {
+  {
    "bytes": 1787,
+   "path": "dazsp2.txt",
    "sha256": "dfcd96955eab49dc2a2a0206ffd00928054d644d0603c729006718a7179dd3f7",
    "timestamp": "2000-06-25T19:42:46.000Z"
   },
-  "dazsp2c.bsp": {
+  {
    "bytes": 450956,
+   "path": "dazsp2c.bsp",
    "sha256": "0c2413e794fce4d4311bbc2cd73e63cda2794f02803092bded1e674a603b8481",
    "timestamp": "2000-06-25T18:47:34.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2000-06-25",
  "sha256": "027b20700ae10f531ab3447e2d562d5e96349720450421e849ae9b08b9ab9464",
  "tags": [
-  "author=DaZ",
   "filename=dazsp2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,14 +47,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=2000-06-25",
   "theme=egyptian",
   "theme=sand",
   "theme=temple",
-  "title=Arabian Nights",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Arabian Nights",
  "urls": [
   "https://www.quaddicted.com/filebase/dazsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/02/027b20700ae10f531ab3447e2d562d5e96349720450421e849ae9b08b9ab9464/dazsp2.zip"

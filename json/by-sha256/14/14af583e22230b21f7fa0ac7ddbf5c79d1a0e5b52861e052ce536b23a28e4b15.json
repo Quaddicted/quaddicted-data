@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Andrew Smith"
+ ],
  "bytes": 766595,
  "description": "Large Wizard map with caverns and a Base bit.",
- "files": {
-  "EPOCH.BSP": {
+ "files": [
+  {
    "bytes": 1732040,
+   "path": "EPOCH.BSP",
    "sha256": "8db40805e40d86598c874b560c2f7f28523039343f06e811fa12fe5ce765fb72",
    "timestamp": "1997-02-27T15:14:08.000Z"
   },
-  "EPOCH.TXT": {
+  {
    "bytes": 3490,
+   "path": "EPOCH.TXT",
    "sha256": "d033e7b7af664db0a36eb590639d52957414c519cef5bd2226cf5b2cde69f3c4",
    "timestamp": "1997-02-27T15:52:20.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-02-27",
  "sha256": "14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15",
  "tags": [
-  "author=Andrew Smith",
   "filename=epoch.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -33,15 +38,14 @@
   "map_size=large",
   "nonspecific_tag=necropolis",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-02-27",
   "theme=base",
   "theme=caverns",
   "theme=medieval",
   "theme=wizard",
-  "title=The Epoch Turning",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Epoch Turning",
  "urls": [
   "https://www.quaddicted.com/filebase/epoch.zip",
   "https://www.quaddicted.com/files/by-sha256/14/14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15/epoch.zip"

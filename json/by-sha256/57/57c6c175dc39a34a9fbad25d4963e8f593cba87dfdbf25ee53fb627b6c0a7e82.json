@@ -1,37 +1,41 @@
 {
+ "authors": [
+  "Eblan Bush"
+ ],
  "bytes": 245373,
  "description": "Small to medium-sized plain beginner's map using mixed texture themes.",
- "files": {
-  "hor1.bsp": {
+ "files": [
+  {
    "bytes": 558500,
+   "path": "hor1.bsp",
    "sha256": "55970bb0c5dc1a7d7ea0d0b1a60cb21fc748ec8ab70a42207c7703cf5bbacdaa",
    "timestamp": "2021-12-18T16:07:00.000Z"
   },
-  "readme.txt": {
+  {
    "bytes": 1574,
+   "path": "readme.txt",
    "sha256": "ed639938a64742cf286e543491315067cdf15f2979da09751e8fb7cdc01b9797",
    "timestamp": "2021-12-18T16:40:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2021-12-18",
  "sha256": "57c6c175dc39a34a9fbad25d4963e8f593cba87dfdbf25ee53fb627b6c0a7e82",
  "tags": [
-  "author=Eblan Bush",
   "filename=hor1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
-  "release_date=2021-12-18",
   "theme=bricks",
   "theme=medieval",
   "theme=wizard",
-  "title=Horror Wonderful",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Horror Wonderful",
  "urls": [
   "https://www.quaddicted.com/filebase/hor1.zip",
   "https://www.quaddicted.com/files/by-sha256/57/57c6c175dc39a34a9fbad25d4963e8f593cba87dfdbf25ee53fb627b6c0a7e82/hor1.zip"

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "ChAiNeR"
+ ],
  "bytes": 267237,
  "description": "Small Base warehouse. OK, but unnecessarily dark.",
- "files": {
-  "chain1.bsp": {
+ "files": [
+  {
    "bytes": 684264,
+   "path": "chain1.bsp",
    "sha256": "e4e408c3df9e21bd5c853b4df98d65d5d63468ea83d7f1adb6825de3aa91d417",
    "timestamp": "2003-05-29T18:37:10.000Z"
   },
-  "chain1.txt": {
+  {
    "bytes": 1955,
+   "path": "chain1.txt",
    "sha256": "a57cd4fca5f9c23f273ae22ee25529cccdeec06b4757c54449221f6441b1169e",
    "timestamp": "2003-05-29T18:56:16.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2003-05-29",
  "sha256": "d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08",
  "tags": [
-  "author=ChAiNeR",
   "filename=chain1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,12 +32,11 @@
   "map_size=small",
   "nonspecific_tag=dark",
   "nonspecific_tag=warehouse",
-  "release_date=2003-05-29",
   "theme=base",
-  "title=Dead Cell",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Dead Cell",
  "urls": [
   "https://www.quaddicted.com/filebase/chain1.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08/chain1.zip"

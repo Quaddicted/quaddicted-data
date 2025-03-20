@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Matt Sefton"
+ ],
  "bytes": 799748,
  "description": "Medium sized Metal/runic level.",
- "files": {
-  "arcane.bsp": {
+ "files": [
+  {
    "bytes": 1849308,
+   "path": "arcane.bsp",
    "sha256": "c4221508cc87f80f327ebe7b2b9ca94496ec7ee891e262647e206af975434f63",
    "timestamp": "1997-09-14T14:46:14.000Z"
   },
-  "arcane.txt": {
+  {
    "bytes": 6751,
+   "path": "arcane.txt",
    "sha256": "6ea19e248fd1ec37602963520026d7ad55e32a640e8a223d4f821b2f8d531c53",
    "timestamp": "1997-09-14T17:30:16.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-09-14",
  "sha256": "94d46b1b418eedff8e968b21caae6140eefddb02d4a373da2f5aaea28f986eae",
  "tags": [
-  "author=Matt Sefton",
   "filename=arcane.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,16 +38,15 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1997-09-14",
   "theme=classic",
   "theme=metal",
   "theme=oldschool",
   "theme=quake the way id did",
   "theme=runic",
-  "title=Arcane",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Arcane",
  "urls": [
   "https://www.quaddicted.com/filebase/arcane.zip",
   "https://www.quaddicted.com/files/by-sha256/94/94d46b1b418eedff8e968b21caae6140eefddb02d4a373da2f5aaea28f986eae/arcane.zip"

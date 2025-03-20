@@ -1,28 +1,33 @@
 {
+ "authors": [
+  "Noel Weer"
+ ],
  "bytes": 781103,
  "description": "Copper/metal level that kind of feels like a DOOM map.",
- "files": {
-  "horrid.bsp": {
+ "files": [
+  {
    "bytes": 1862888,
+   "path": "horrid.bsp",
    "sha256": "efcc2cc5316f4f18fb727c2fd66de0e42a61225814b1122b079a069122084b4a",
    "timestamp": "1997-09-09T16:44:00.000Z"
   },
-  "horrid.txt": {
+  {
    "bytes": 3337,
+   "path": "horrid.txt",
    "sha256": "e89afe435e1fe6ad3f240fb5b968151db4e7ee96c455e9ca458cd5d82ae45fcb",
    "timestamp": "1997-09-09T17:12:34.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires Scourge of Armagon."
  ],
+ "release_date": "1997-09-09",
  "sha256": "53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d",
  "tags": [
-  "author=Noel Weer",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=horrid.zip",
@@ -32,13 +37,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
-  "release_date=1997-09-09",
   "theme=dissolution of eternity",
   "theme=metal",
-  "title=Horripalatia",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
+ "title": "Horripalatia",
  "urls": [
   "https://www.quaddicted.com/filebase/horrid.zip",
   "https://www.quaddicted.com/files/by-sha256/53/53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d/horrid.zip"

@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Swen Klemund"
+ ],
  "bytes": 578038,
  "description": "Doom2 - Map08 converted for Quake with original textures.",
- "files": {
-  "08.BSP": {
+ "files": [
+  {
    "bytes": 1896536,
+   "path": "08.BSP",
    "sha256": "8d1ebd388da5c896224d2c214492f8c545852265ab1307d70ebd7643e8925206",
    "timestamp": "1997-04-19T23:08:40.000Z"
   },
-  "DOOM2_08.TXT": {
+  {
    "bytes": 1667,
+   "path": "DOOM2_08.TXT",
    "sha256": "65364ff4a6fbf7c3ad86f39e22ff7f01587ad48aa9a65376bb52ef6ca81dd6c0",
    "timestamp": "1997-04-19T23:42:36.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-04-19",
  "sha256": "5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7",
  "tags": [
-  "author=Swen Klemund",
   "filename=doom2_08.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -27,14 +32,13 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=small",
   "nonspecific_tag=textures",
-  "release_date=1997-04-19",
   "startmap=08",
   "theme=conversion",
   "theme=doom 2",
-  "title=Tricks and Traps  (Doom2-Map08)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Tricks and Traps  (Doom2-Map08)",
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_08.zip",
   "https://www.quaddicted.com/files/by-sha256/5c/5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7/doom2_08.zip"

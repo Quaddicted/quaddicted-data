@@ -1,33 +1,39 @@
 {
+ "authors": [
+  "scar3crow"
+ ],
  "bytes": 2458829,
  "description": "Medium-sized Ebon fortress/metal-themed level. The map source is included.",
- "files": {
-  "scar3sp01.bsp": {
+ "files": [
+  {
    "bytes": 5054240,
+   "path": "scar3sp01.bsp",
    "sha256": "4885310136e1c215bcc8adc4e1cbfd713d4fc46b84c370c9b589d82f1a5c608f",
    "timestamp": "2019-09-06T13:50:50.000Z"
   },
-  "scar3sp01.map": {
+  {
    "bytes": 2357793,
+   "path": "scar3sp01.map",
    "sha256": "64bc05986a38a574631afd971962cffeeec274dec8705adb0f989bcb0b45d2d2",
    "timestamp": "2019-09-06T13:18:58.000Z"
   },
-  "scar3sp01.txt": {
+  {
    "bytes": 1989,
+   "path": "scar3sp01.txt",
    "sha256": "453deef31f972ccb716889193c7364f86675e717ed97c95948fb3eb3a76c5b97",
    "timestamp": "2019-09-06T14:45:44.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
  "notes": [
   "This map requires a source port with increased limits."
  ],
+ "release_date": "2019-09-06",
  "sha256": "3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22",
  "tags": [
-  "author=scar3crow",
   "exceeds_quake_limits=yes",
   "filename=scar3sp01.zip",
   "game=quake",
@@ -36,14 +42,13 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61770)",
   "map_size=medium",
   "nonspecific_tag=ebon",
-  "release_date=2019-09-06",
   "source=included",
   "theme=blue",
   "theme=metal",
-  "title=The Ensnared Horizon",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "The Ensnared Horizon",
  "urls": [
   "https://www.quaddicted.com/filebase/scar3sp01.zip",
   "https://www.quaddicted.com/files/by-sha256/3e/3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22/scar3sp01.zip"

@@ -1,31 +1,34 @@
 {
+ "authors": [
+  "Unknown"
+ ],
  "bytes": 581754,
  "description": "Medium sized greyish fortress with some water bits.",
- "files": {
-  "PABC5.bsp": {
+ "files": [
+  {
    "bytes": 1400420,
+   "path": "PABC5.bsp",
    "sha256": "a18bb6c40a575dd08ec3bcc8c4f4eb373b7129be24df96b914f4c21ae187295a",
    "timestamp": "1998-09-06T21:17:54.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1998-09-06",
  "sha256": "2a36f481d3112c283c0bedd16d2bb385ed647f8259b13dbd58cd2e5f295f9844",
  "tags": [
-  "author=Unknown",
   "filename=pabc5.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
-  "release_date=1998-09-06",
   "theme=puzzle",
   "theme=wizard",
-  "title=Fortress Filbert",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Fortress Filbert",
  "urls": [
   "https://www.quaddicted.com/filebase/pabc5.zip",
   "https://www.quaddicted.com/files/by-sha256/2a/2a36f481d3112c283c0bedd16d2bb385ed647f8259b13dbd58cd2e5f295f9844/pabc5.zip"

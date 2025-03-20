@@ -1,30 +1,36 @@
 {
+ "authors": [
+  "John \"DaMaul\" McCann"
+ ],
  "bytes": 929744,
  "description": "Medium sized brown fortress level with a small Wizard end battle map.",
- "files": {
-  "DaMaul3.bsp": {
+ "files": [
+  {
    "bytes": 1398948,
+   "path": "DaMaul3.bsp",
    "sha256": "2916b827f85edab446fafa54e062b5af040937a303cedbc13906fb0db35deadc",
    "timestamp": "1999-02-06T00:09:14.000Z"
   },
-  "DaMaul3.txt": {
+  {
    "bytes": 3998,
+   "path": "DaMaul3.txt",
    "sha256": "08873147b4bedcb7a253b0f90dbc4ab57464e38fbc3657e255765d3229f4084f",
    "timestamp": "1999-02-10T07:20:40.000Z"
   },
-  "DaMaul3b.bsp": {
+  {
    "bytes": 810488,
+   "path": "DaMaul3b.bsp",
    "sha256": "1741ded1a127faa365a42424bbbdf40b8dfc31f794620e3211ffdbc440522f63",
    "timestamp": "1999-02-06T11:35:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1999-02-10",
  "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "tags": [
-  "author=John \"DaMaul\" McCann",
   "filename=damaul3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,13 +39,12 @@
   "map_size=medium",
   "nonspecific_tag=castle fortress",
   "nonspecific_tag=planetquake-map-of-the-week",
-  "release_date=1999-02-10",
   "theme=boss",
   "theme=wizard",
-  "title=Suicide Nation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Suicide Nation",
  "urls": [
   "https://www.quaddicted.com/filebase/damaul3.zip",
   "https://www.quaddicted.com/files/by-sha256/fd/fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125/damaul3.zip"

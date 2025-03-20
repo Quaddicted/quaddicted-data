@@ -1,25 +1,30 @@
 {
+ "authors": [
+  "Rob Marton"
+ ],
  "bytes": 504326,
  "description": "Medium sized blue metal base map with a unique theme.",
- "files": {
-  "anonca1.bsp": {
+ "files": [
+  {
    "bytes": 1179868,
+   "path": "anonca1.bsp",
    "sha256": "6df340cbd8f7dad6219b605e19a2ee760324799eaca8f94feba267819c7c4797",
    "timestamp": "1997-02-06T15:27:04.000Z"
   },
-  "anonca1.txt": {
+  {
    "bytes": 1412,
+   "path": "anonca1.txt",
    "sha256": "62e27922b884866926ccb8934cd49cc8e9bd4ecf51bb8fc2116e2167c65bf483",
    "timestamp": "1997-02-06T21:46:48.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "1997-02-06",
  "sha256": "3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9",
  "tags": [
-  "author=Rob Marton",
   "filename=anonca1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,13 +34,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=dark",
-  "release_date=1997-02-06",
   "theme=abstract",
   "theme=blue",
-  "title=Anonca base: The shamblin",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Anonca base: The shamblin",
  "urls": [
   "https://www.quaddicted.com/filebase/anonca1.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9/anonca1.zip"

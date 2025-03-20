@@ -1,35 +1,39 @@
 {
+ "authors": [
+  "Jon \"Starbuck\" Miles"
+ ],
  "bytes": 446844,
  "description": "Small egyptian style turtle map.",
- "files": {
-  "whisper.bsp": {
+ "files": [
+  {
    "bytes": 1118100,
+   "path": "whisper.bsp",
    "sha256": "8c7fe6dae211108619b6c56d8e2191cc87d70d7450a470c9e300fa409378b89a",
    "timestamp": "2002-12-27T00:02:28.000Z"
   },
-  "whisper.txt": {
+  {
    "bytes": 1503,
+   "path": "whisper.txt",
    "sha256": "2d7bf5f85cda5ec70c3ee8915379f964a8c63cb2e8b77ccb0011e6f3c2c5dee5",
    "timestamp": "2002-12-27T00:20:40.000Z"
   }
- },
+ ],
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2023.11.06-23.20",
+ "json_version": "2025.03.20",
+ "release_date": "2002-12-27",
  "sha256": "c471aeb497c29b9c8ccdde89c45dc65735ce3f8ade48198adef8da9e64562f63",
  "tags": [
-  "author=Jon \"Starbuck\" Miles",
   "filename=whisper.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030104.html)",
   "nonspecific_tag=turtlemap",
-  "release_date=2002-12-27",
-  "title=Whisperer In Shadows",
   "type=map",
   "zipbasedir=id1/maps/"
  ],
+ "title": "Whisperer In Shadows",
  "urls": [
   "https://www.quaddicted.com/filebase/whisper.zip",
   "https://www.quaddicted.com/files/by-sha256/c4/c471aeb497c29b9c8ccdde89c45dc65735ce3f8ade48198adef8da9e64562f63/whisper.zip"
