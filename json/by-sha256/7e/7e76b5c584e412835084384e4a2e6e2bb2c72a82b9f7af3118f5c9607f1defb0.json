@@ -85,6 +85,7 @@
  "release_date": "1997-03-22",
  "sha256": "7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0",
  "tags": [
+  "author=Tom Cleghorn aka Murgatroyd",
   "commandline=-game wishwell",
   "filename=wishwell.zip",
   "game=quake",
@@ -95,9 +96,11 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=rectangular",
   "nonspecific_tag=textures",
+  "release_date=1997-03-22",
   "startmap=ff",
   "theme=mixtex",
   "theme=wizard",
+  "title=The Wishing Well",
   "type=mod",
   "zipbasedir=wishwell/"
  ],

@@ -839,6 +839,7 @@
  "release_date": "2022-11-12",
  "sha256": "5328a013218d9ba99e56bed4d9691583ac7082c0dd5120524108cc74d1ccefbc",
  "tags": [
+  "author=Spoot",
   "commandline=-game parallax",
   "exceeds_quake_limits=yes",
   "filename=parallax.zip",
@@ -849,11 +850,13 @@
   "nonspecific_tag=koohoo",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-11-12",
   "source=included",
   "startmap=parallax",
   "theme=castle",
   "theme=lava",
   "theme=temple",
+  "title=Parallax",
   "type=mod"
  ],
  "title": "Parallax",

@@ -25,15 +25,18 @@
  "release_date": "1997-03-14",
  "sha256": "b85b204098bbf7b6b2420d7d7aec77c3cdbc276b9372b0144a3a99a45e6ab917",
  "tags": [
+  "author=Shamus Young",
   "filename=madhouse.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsm1.htm#madhouse)",
+  "release_date=1997-03-14",
   "theme=house",
   "theme=no exit",
   "theme=plain",
   "theme=realism",
+  "title=MadHouse",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

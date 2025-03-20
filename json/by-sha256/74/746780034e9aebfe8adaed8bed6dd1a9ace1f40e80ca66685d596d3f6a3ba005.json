@@ -39,12 +39,17 @@
  "release_date": "2006-11-13",
  "sha256": "746780034e9aebfe8adaed8bed6dd1a9ace1f40e80ca66685d596d3f6a3ba005",
  "tags": [
+  "author=Omus",
+  "author=efdat",
+  "author=negke",
   "filename=sm129_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2006-11-13",
   "startmap=sm129_efdat",
   "startmap=sm129_neg!ke",
   "startmap=sm129_omus",
+  "title=Speedmapping pack 129 - Traps",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

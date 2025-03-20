@@ -130,6 +130,7 @@
  "release_date": "2022-09-04",
  "sha256": "13d8a9a1a8807e81a556bb955510296ef8fa3f694225b9423e6939b43c088119",
  "tags": [
+  "author=GrazzasOnlyFan",
   "exceeds_quake_limits=yes",
   "filename=prisonofhope.zip",
   "game=quake",
@@ -145,12 +146,14 @@
   "nonspecific_tag=sci-fi",
   "nonspecific_tag=souls",
   "nonspecific_tag=vanilla",
+  "release_date=2022-09-04",
   "source=included",
   "startmap=prisonofhope",
   "theme=base",
   "theme=cave",
   "theme=classic",
   "theme=prison",
+  "title=Prison of Hope",
   "type=map"
  ],
  "title": "Prison of Hope",

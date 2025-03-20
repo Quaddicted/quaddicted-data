@@ -43,14 +43,17 @@
  "release_date": "1998-01-05",
  "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
  "tags": [
+  "author=\u00c9tienne (Blood Man) B\u00e9gin",
   "commandline=-game shoot",
   "filename=shoot.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=tiny",
+  "release_date=1998-01-05",
   "source=included",
   "startmap=start",
   "theme=medieval",
+  "title=Shoot",
   "type=mod"
  ],
  "title": "Shoot",

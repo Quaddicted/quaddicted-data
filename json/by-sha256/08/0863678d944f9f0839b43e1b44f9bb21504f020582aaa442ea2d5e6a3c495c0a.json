@@ -91,8 +91,10 @@
  "release_date": "2014-11-29",
  "sha256": "0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a",
  "tags": [
+  "author=mfx",
   "commandline=-game retrojam1",
   "dependency=retrojam1",
+  "depends=ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
   "filename=retro_mfx_fix.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -100,9 +102,11 @@
   "link=[QuakeOne](http://quakeone.com/news/site-news/11263-map-jam-4-retro-jam-1-a.html)",
   "nonspecific_tag=retro jam",
   "nonspecific_tag=retrojam",
+  "release_date=2014-11-29",
   "startmap=retro_mfx",
   "theme=medieval",
   "theme=traps",
+  "title=Arlyeh Center for Heart Diseases",
   "type=map",
   "zipbasedir=retrojam1/"
  ],

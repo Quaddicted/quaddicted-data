@@ -25,6 +25,7 @@
  "release_date": "1998-01-24",
  "sha256": "1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647",
  "tags": [
+  "author=Tyrann",
   "filename=actaltrz.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -35,8 +36,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1998-01-24",
   "theme=base",
   "theme=prison",
+  "title=Escape from Actaltraz",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

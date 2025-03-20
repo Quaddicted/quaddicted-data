@@ -25,6 +25,7 @@
  "release_date": "2004-01-04",
  "sha256": "c27757e5da2ee1af686bfd3f26c1e7ef3c08da20bd49feb0e4d0b66bf597f0a3",
  "tags": [
+  "author=Leafface",
   "filename=lfsp7.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,10 +33,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
   "map_size=large",
   "playstyle=jumping",
+  "release_date=2004-01-04",
   "theme=metal",
   "theme=puzzle",
   "theme=runic",
   "theme=traps",
+  "title=The Huntdown",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

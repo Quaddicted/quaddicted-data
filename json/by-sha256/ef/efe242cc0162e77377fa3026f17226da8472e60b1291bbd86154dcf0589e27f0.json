@@ -38,8 +38,10 @@
  "release_date": "2023-12-19",
  "sha256": "efe242cc0162e77377fa3026f17226da8472e60b1291bbd86154dcf0589e27f0",
  "tags": [
+  "author=digs",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceedslimits=exceeds_quake_limits",
   "filename=ad_digs10.zip",
   "game=quake",
@@ -47,7 +49,9 @@
   "link=[Func_Msgboard news post](https://celephais.net/board/view_thread.php?id=62290)",
   "map_size=large",
   "mod=arcanedimensions",
+  "release_date=2023-12-19",
   "startmap=ad_digs10",
+  "title=The Anomaly 3: Tower",
   "type=map"
  ],
  "title": "The Anomaly 3: Tower",

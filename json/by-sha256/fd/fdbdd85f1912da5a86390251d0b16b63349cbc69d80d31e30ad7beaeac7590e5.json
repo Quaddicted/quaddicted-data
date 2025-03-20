@@ -31,6 +31,7 @@
  "release_date": "1997-11-07",
  "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "tags": [
+  "author=Rob Marton (nn6)",
   "commandline=-game eltemple",
   "filename=eltemple.zip",
   "game=quake",
@@ -40,11 +41,13 @@
   "nonspecific_tag=chthon",
   "nonspecific_tag=monsters",
   "nonspecific_tag=skins",
+  "release_date=1997-11-07",
   "startmap=temple",
   "theme=boss",
   "theme=metal",
   "theme=plain",
   "theme=weird",
+  "title=El temple del sol",
   "type=mod",
   "zipbasedir=eltemple/"
  ],

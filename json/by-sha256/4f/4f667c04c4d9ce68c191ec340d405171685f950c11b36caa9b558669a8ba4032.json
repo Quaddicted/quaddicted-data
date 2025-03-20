@@ -55,6 +55,7 @@
  "release_date": "1997-09-27",
  "sha256": "4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032",
  "tags": [
+  "author=Zied Rieke",
   "filename=rstart11.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -62,9 +63,11 @@
   "map_layout=non-linear",
   "map_size=medium",
   "nonspecific_tag=start map",
+  "release_date=1997-09-27",
   "startmap=rstart",
   "theme=idbase",
   "theme=traps",
+  "title=Reload",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

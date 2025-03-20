@@ -464,6 +464,7 @@
  "release_group": "copper",
  "sha256": "f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8",
  "tags": [
+  "author=Lunaran",
   "commandline=-game copper",
   "filename=copper_v1_20.zip",
   "game=quake",
@@ -474,9 +475,14 @@
   "mod=copper",
   "nonspecific_tag=devkit",
   "nonspecific_tag=qc",
+  "provides='copper=1.20'",
+  "release_date=2022-11-27",
+  "release_group=copper",
   "startmap=start",
   "theme=base",
-  "type=mod"
+  "title=Copper - Version 1.20",
+  "type=mod",
+  "version=1.20"
  ],
  "title": "Copper - Version 1.20",
  "urls": [

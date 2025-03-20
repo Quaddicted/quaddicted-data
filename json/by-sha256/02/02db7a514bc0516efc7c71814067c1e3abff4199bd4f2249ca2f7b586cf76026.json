@@ -83,13 +83,17 @@
  "release_date": "2023-12-24",
  "sha256": "02db7a514bc0516efc7c71814067c1e3abff4199bd4f2249ca2f7b586cf76026",
  "tags": [
+  "author=Greenwood",
+  "author=The Lieutenant",
   "commandline=-game lth",
   "filename=lth1.1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/realm-of-the-lieutenant.299/)",
   "map_size=medium",
+  "release_date=2023-12-24",
   "startmap=start",
+  "title=Realm of The Lieutenant",
   "type=episode",
   "type=mod"
  ],

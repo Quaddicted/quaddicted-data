@@ -31,6 +31,7 @@
  "release_date": "1999-02-10",
  "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "tags": [
+  "author=John \"DaMaul\" McCann",
   "filename=damaul3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,8 +40,10 @@
   "map_size=medium",
   "nonspecific_tag=castle fortress",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-02-10",
   "theme=boss",
   "theme=wizard",
+  "title=Suicide Nation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

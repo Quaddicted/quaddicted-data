@@ -95,6 +95,7 @@
  "release_date": "2022-02-20",
  "sha256": "c9c46871f7ee5eebaad2bda9196351ee8c556471fa0ae94f8806ce83356d76ed",
  "tags": [
+  "author=CommonCold",
   "exceeds_quake_limits=yes",
   "filename=cchorde1.zip",
   "game=quake",
@@ -105,10 +106,12 @@
   "nonspecific_tag=mg1",
   "nonspecific_tag=turok",
   "playstyle=horde",
+  "release_date=2022-02-20",
   "source=included",
   "startmap=cchorde1",
   "theme=base",
   "theme=space",
+  "title=Adon's Quota",
   "type=map",
   "zipbasedir=mg1/"
  ],

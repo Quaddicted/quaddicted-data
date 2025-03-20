@@ -31,6 +31,7 @@
  "release_date": "1998-11-03",
  "sha256": "17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d",
  "tags": [
+  "author=Kevin Gwartney (GunnerMan)",
   "filename=gunman02.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,11 +41,13 @@
   "nonspecific_tag=dark",
   "nonspecific_tag=start",
   "nonspecific_tag=zombies",
+  "release_date=1998-11-03",
   "startmap=graveset",
   "theme=brick",
   "theme=crampy",
   "theme=puzzle",
   "theme=wizard",
+  "title=Undergraves",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

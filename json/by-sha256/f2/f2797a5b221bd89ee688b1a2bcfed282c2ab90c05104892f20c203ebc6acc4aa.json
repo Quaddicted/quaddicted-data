@@ -598,6 +598,7 @@
  "release_date": "2020-10-13",
  "sha256": "f2797a5b221bd89ee688b1a2bcfed282c2ab90c05104892f20c203ebc6acc4aa",
  "tags": [
+  "author=Mars",
   "bsp_format=bsp2",
   "commandline=-game mars_e0m1",
   "exceeds_quake_limits=yes",
@@ -615,6 +616,7 @@
   "nonspecific_tag=slaughter",
   "nonspecific_tag=sounds",
   "playstyle=hordes",
+  "release_date=2020-10-13",
   "source=included",
   "theme=cave",
   "theme=cavern",
@@ -622,6 +624,7 @@
   "theme=medieval",
   "theme=ruins",
   "theme=wizard",
+  "title=The Forgotten Nightmare",
   "type=mod",
   "zipbasedir=/"
  ],

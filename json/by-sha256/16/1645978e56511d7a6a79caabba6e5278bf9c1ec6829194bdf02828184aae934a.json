@@ -115,8 +115,10 @@
  "release_date": "2012-11-23",
  "sha256": "1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a",
  "tags": [
+  "author=Fern (aka Fr3n)",
   "commandline=-quoth -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=dom3m1.zip",
   "game=quake",
@@ -125,10 +127,12 @@
   "mod=quoth",
   "nonspecific_tag=persian",
   "nonspecific_tag=textures",
+  "release_date=2012-11-23",
   "theme=caverns",
   "theme=quoth",
   "theme=temple",
   "theme=underground",
+  "title=10,000 Feet Below",
   "type=map",
   "zipbasedir=quoth/"
  ],

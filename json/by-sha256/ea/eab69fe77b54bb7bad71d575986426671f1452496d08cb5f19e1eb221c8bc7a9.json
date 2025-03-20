@@ -89,9 +89,15 @@
  "release_date": "2008-06-02",
  "sha256": "eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9",
  "tags": [
+  "author=Speedy",
+  "author=Spirit",
+  "author=Zwiffle",
+  "author=bambuz",
+  "author=negke",
   "filename=sm142_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2008-06-02",
   "startmap=sm142_bam",
   "startmap=sm142_bam2",
   "startmap=sm142_negke",
@@ -100,6 +106,7 @@
   "startmap=sm142_spirit",
   "startmap=sm142_zwiffle",
   "theme=spd",
+  "title=Speedmapping pack 142 - Netherworld assembly line",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

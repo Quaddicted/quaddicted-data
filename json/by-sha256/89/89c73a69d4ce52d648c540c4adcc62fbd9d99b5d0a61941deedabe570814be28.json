@@ -218,8 +218,10 @@
  "release_date": "2022-11-05",
  "sha256": "89c73a69d4ce52d648c540c4adcc62fbd9d99b5d0a61941deedabe570814be28",
  "tags": [
+  "author=HanDuo",
   "commandline=-game handuo_stepwell",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=handuo_stepwell.zip",
   "game=quake",
@@ -228,10 +230,12 @@
   "map_size=small",
   "nonspecific_tag=ad",
   "nonspecific_tag=debut",
+  "release_date=2022-11-05",
   "source=included",
   "startmap=handuo_stepwell",
   "theme=temple",
   "theme=water",
+  "title=The Stepwell",
   "type=map"
  ],
  "title": "The Stepwell",

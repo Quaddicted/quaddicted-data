@@ -25,6 +25,7 @@
  "release_date": "1997-09-13",
  "sha256": "eac94ee1d542ec3ea63d805b071d8eccc29f7e8198e4d5cd7707b44af9edb52b",
  "tags": [
+  "author=The Omnimancer",
   "filename=office.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,8 +33,10 @@
   "map_layout=arena",
   "map_size=small",
   "playstyle=hordes",
+  "release_date=1997-09-13",
   "theme=metal",
   "theme=no exit",
+  "title=Corporate Takeover",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

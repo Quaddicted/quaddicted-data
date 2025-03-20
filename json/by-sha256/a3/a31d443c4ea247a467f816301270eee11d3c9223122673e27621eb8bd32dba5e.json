@@ -31,6 +31,7 @@
  "release_date": "2004-07-15",
  "sha256": "a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e",
  "tags": [
+  "author=PuLSaR",
   "filename=menk.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,10 +45,12 @@
   "nonspecific_tag=platforming",
   "nonspecific_tag=sock",
   "nonspecific_tag=textures",
+  "release_date=2004-07-15",
   "startmap=menkstart",
   "theme=egypt",
   "theme=puzzle",
   "theme=temple",
+  "title=Menkalinan",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -85,13 +85,17 @@
  "release_date": "2010-04-12",
  "sha256": "49c2c0b9c13b8ffad7581414cfadd033c5d7591e14ce206c6163b5bb12114ea6",
  "tags": [
+  "author=distrans",
   "commandline=-game travail",
   "dependency=travail",
+  "depends=c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
   "filename=qt_pre02.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2010-04-12",
   "theme=base",
   "theme=metal",
+  "title=Grendel's Keep",
   "type=map",
   "zipbasedir=travail/"
  ],

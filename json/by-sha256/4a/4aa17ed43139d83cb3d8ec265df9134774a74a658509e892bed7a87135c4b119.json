@@ -25,6 +25,7 @@
  "release_date": "1996-12-17",
  "sha256": "4aa17ed43139d83cb3d8ec265df9134774a74a658509e892bed7a87135c4b119",
  "tags": [
+  "author=PME",
   "filename=pmecage.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "map_size=medium",
   "nonspecific_tag=cage",
   "nonspecific_tag=hard",
+  "release_date=1996-12-17",
   "theme=metal",
   "theme=traps",
   "theme=wizard",
+  "title=The Cage",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

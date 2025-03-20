@@ -25,13 +25,16 @@
  "release_date": "1997-05-10",
  "sha256": "891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc",
  "tags": [
+  "author=Andrew M@N",
   "filename=labirint.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_layout=maze",
   "map_size=small",
+  "release_date=1997-05-10",
   "theme=traps",
   "theme=wizard",
+  "title=The Labyrinth of Death",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

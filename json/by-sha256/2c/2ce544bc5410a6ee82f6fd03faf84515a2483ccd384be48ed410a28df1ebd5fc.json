@@ -25,6 +25,7 @@
  "release_date": "2000-07-14",
  "sha256": "2ce544bc5410a6ee82f6fd03faf84515a2483ccd384be48ed410a28df1ebd5fc",
  "tags": [
+  "author=digs",
   "filename=mutant.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,10 +33,12 @@
   "map_size=small",
   "nonspecific_tag=entryway",
   "nonspecific_tag=map01",
+  "release_date=2000-07-14",
   "startmap=mutant",
   "theme=doom 2",
   "theme=mixtex",
   "theme=remix",
+  "title=Mutant",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

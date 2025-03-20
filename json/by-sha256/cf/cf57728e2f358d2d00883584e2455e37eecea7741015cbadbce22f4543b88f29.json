@@ -40,6 +40,7 @@
  "release_date": "2020-08-25",
  "sha256": "cf57728e2f358d2d00883584e2455e37eecea7741015cbadbce22f4543b88f29",
  "tags": [
+  "author=bmFbr",
   "exceeds_quake_limits=yes",
   "filename=bmfbrsp1.zip",
   "game=quake",
@@ -47,10 +48,12 @@
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61939)",
   "map_size=medium",
   "nonspecific_tag=cathedral",
+  "release_date=2020-08-25",
   "source=included",
   "theme=base",
   "theme=lava",
   "theme=wizard",
+  "title=The Doomed Cathedral",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

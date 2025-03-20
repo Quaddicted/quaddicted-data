@@ -38,11 +38,17 @@
  "release_group": "intrusion",
  "sha256": "e1ddc26080779bb56d197e19241e6452f95045eda511efff92e525f0d784a5ec",
  "tags": [
+  "author=mafon2",
   "filename=intrusion.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61580)",
+  "provides='intrusion=1.0'",
+  "release_date=2018-06-28",
+  "release_group=intrusion",
+  "title=Intrusion",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "Intrusion",

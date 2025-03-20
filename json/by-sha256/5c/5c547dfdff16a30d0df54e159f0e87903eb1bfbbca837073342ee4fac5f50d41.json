@@ -37,12 +37,14 @@
  "release_date": "2012-05-07",
  "sha256": "5c547dfdff16a30d0df54e159f0e87903eb1bfbbca837073342ee4fac5f50d41",
  "tags": [
+  "author=Andrew 'than' Palmer",
   "filename=dm7rmx.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://than.quaddicted.com",
   "map_size=medium",
   "nonspecific_tag=dm7",
+  "release_date=2012-05-07",
   "source=included",
   "theme=canyon",
   "theme=castle",
@@ -51,6 +53,7 @@
   "theme=red",
   "theme=remix",
   "theme=terracotta",
+  "title=Geophobia",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

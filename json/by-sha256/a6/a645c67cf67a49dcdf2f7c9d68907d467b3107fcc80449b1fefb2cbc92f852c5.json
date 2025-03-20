@@ -43,6 +43,7 @@
  "release_date": "2022-04-02",
  "sha256": "a645c67cf67a49dcdf2f7c9d68907d467b3107fcc80449b1fefb2cbc92f852c5",
  "tags": [
+  "author=Cocerello",
   "exceeds_quake_limits=yes",
   "filename=rj7_cocerello.zip",
   "game=quake",
@@ -59,12 +60,14 @@
   "nonspecific_tag=retrojam",
   "nonspecific_tag=textures",
   "nonspecific_tag=turtlemap",
+  "release_date=2022-04-02",
   "source=included",
   "startmap=rj7_coce",
   "theme=exploration",
   "theme=medieval",
   "theme=realism",
   "theme=underwater",
+  "title=Work is a Nightmare",
   "type=map",
   "type=mapjam",
   "zipbasedir=id1/maps/"

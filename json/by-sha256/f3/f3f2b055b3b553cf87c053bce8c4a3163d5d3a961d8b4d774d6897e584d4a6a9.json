@@ -43,6 +43,7 @@
  "release_date": "2001-05-06",
  "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
  "tags": [
+  "author=Andy \"ajay\" Simpson",
   "commandline=-game raptors",
   "filename=rapv20.zip",
   "game=quake",
@@ -53,8 +54,10 @@
   "nonspecific_tag=dinosaurs",
   "nonspecific_tag=monsters",
   "nonspecific_tag=weapons",
+  "release_date=2001-05-06",
   "startmap=start",
   "theme=realism",
+  "title=Raptors!",
   "type=episode",
   "type=mod",
   "zipbasedir=raptors/"

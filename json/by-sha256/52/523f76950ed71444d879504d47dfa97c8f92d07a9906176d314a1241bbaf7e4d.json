@@ -59,6 +59,7 @@
  "release_date": "2010-01-01",
  "sha256": "523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d",
  "tags": [
+  "author=Hrimfaxi",
   "commandline=-game hrim_sp4",
   "filename=hrim_sp4.zip",
   "game=quake",
@@ -69,6 +70,7 @@
   "nonspecific_tag=keep",
   "nonspecific_tag=start",
   "nonspecific_tag=stronghold",
+  "release_date=2010-01-01",
   "startmap=brownie",
   "startmap=loveevil",
   "startmap=start",
@@ -78,6 +80,7 @@
   "theme=runic",
   "theme=space",
   "theme=traps",
+  "title=For Love of Evil",
   "type=mod"
  ],
  "title": "For Love of Evil",

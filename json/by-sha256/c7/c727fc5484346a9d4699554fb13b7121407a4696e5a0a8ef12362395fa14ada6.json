@@ -67,8 +67,10 @@
  "release_date": "2019-02-07",
  "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
  "tags": [
+  "author=nolcoz",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "filename=fv.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -79,10 +81,12 @@
   "nonspecific_tag=mayan",
   "nonspecific_tag=textures",
   "nonspecific_tag=turok",
+  "release_date=2019-02-07",
   "startmap=fv",
   "startmap=lostv",
   "theme=outdoor",
   "theme=quoth",
+  "title=Forgotten Valley",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

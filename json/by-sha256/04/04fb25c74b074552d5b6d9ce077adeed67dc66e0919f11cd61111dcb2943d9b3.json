@@ -43,12 +43,14 @@
  "release_date": "2001-07-22",
  "sha256": "04fb25c74b074552d5b6d9ce077adeed67dc66e0919f11cd61111dcb2943d9b3",
  "tags": [
+  "author=XeNoN",
   "filename=rte.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.planetquake.com/xenon",
   "map_layout=maze",
   "map_layout=non-linear",
+  "release_date=2001-07-22",
   "startmap=blood",
   "startmap=fate",
   "startmap=temple",
@@ -56,6 +58,7 @@
   "theme=base",
   "theme=mixtex",
   "theme=temple",
+  "title=Return to Earth",
   "type=episode",
   "type=map",
   "zipbasedir=id1/"

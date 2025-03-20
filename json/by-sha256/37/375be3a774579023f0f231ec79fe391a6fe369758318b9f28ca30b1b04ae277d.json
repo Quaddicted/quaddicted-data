@@ -37,15 +37,18 @@
  "release_date": "1997-02-19",
  "sha256": "375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d",
  "tags": [
+  "author=Yvon Lariviere",
   "filename=keyquest.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsk.htm)",
   "map_size=small",
+  "release_date=1997-02-19",
   "source=included",
   "startmap=yvon5",
   "theme=wizard",
+  "title=KeyQuest",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

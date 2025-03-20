@@ -139,6 +139,7 @@
  "release_date": "2004-06-06",
  "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "tags": [
+  "author=Ben Horsley",
   "commandline=-game sgq",
   "filename=sgq.zip",
   "game=quake",
@@ -147,8 +148,10 @@
   "map_size=small",
   "nonspecific_tag=halflife",
   "nonspecific_tag=sounds",
+  "release_date=2004-06-06",
   "startmap=intro",
   "startmap=sg0503",
+  "title=Star Gate Quest",
   "type=mod"
  ],
  "title": "Star Gate Quest",

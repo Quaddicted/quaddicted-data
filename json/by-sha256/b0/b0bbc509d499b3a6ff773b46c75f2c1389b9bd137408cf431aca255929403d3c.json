@@ -25,6 +25,7 @@
  "release_date": "1997-08-10",
  "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "tags": [
+  "author=Juha Koiste",
   "filename=jtkmap6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,11 +34,13 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "nonspecific_tag=mix",
+  "release_date=1997-08-10",
   "startmap=area51",
   "theme=base",
   "theme=canyon",
   "theme=metal",
   "theme=temple",
+  "title=Area 51",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

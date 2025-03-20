@@ -367,6 +367,7 @@
  "release_date": "2000-07-28",
  "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "tags": [
+  "author=Iain Bruce",
   "commandline=-game dig",
   "filename=dig.zip",
   "game=quake",
@@ -379,9 +380,11 @@
   "nonspecific_tag=epic",
   "nonspecific_tag=monsters",
   "nonspecific_tag=q3 gothic",
+  "release_date=2000-07-28",
   "startmap=dig",
   "theme=base",
   "theme=mine",
+  "title=The Dig",
   "type=mod",
   "zipbasedir=dig/"
  ],

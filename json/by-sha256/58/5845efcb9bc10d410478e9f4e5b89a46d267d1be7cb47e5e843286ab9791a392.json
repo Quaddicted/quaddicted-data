@@ -26,6 +26,8 @@
  "release_date": "1999-05-18",
  "sha256": "5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392",
  "tags": [
+  "author=Mike Woodham",
+  "author=Sloppy Jaloppy",
   "filename=fmb5.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,7 +36,9 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=fmb5)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "release_date=1999-05-18",
   "theme=medieval",
+  "title=For My Babies 5",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

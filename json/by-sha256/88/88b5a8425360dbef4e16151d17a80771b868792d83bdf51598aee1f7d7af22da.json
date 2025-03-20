@@ -63,8 +63,10 @@
  "release_date": "2023-03-17",
  "sha256": "88b5a8425360dbef4e16151d17a80771b868792d83bdf51598aee1f7d7af22da",
  "tags": [
+  "author=spootnik",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=warden.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -74,6 +76,7 @@
   "music=custom",
   "nonspecific_tag=ad",
   "nonspecific_tag=honey",
+  "release_date=2023-03-17",
   "startmap=warden",
   "theme=arcane dimensions",
   "theme=brick",
@@ -81,6 +84,7 @@
   "theme=cistern",
   "theme=medieval",
   "theme=tomb",
+  "title=The Warden",
   "type=map"
  ],
  "title": "The Warden",

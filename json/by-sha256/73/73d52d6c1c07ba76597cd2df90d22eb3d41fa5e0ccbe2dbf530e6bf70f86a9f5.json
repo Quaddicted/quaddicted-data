@@ -31,6 +31,7 @@
  "release_date": "2014-06-10",
  "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
  "tags": [
+  "author=sock",
   "commandline=-game kaahoo +r_wateralpha 0.65",
   "filename=kaahoo1a.zip",
   "game=quake",
@@ -40,8 +41,10 @@
   "map_size=medium",
   "nonspecific_tag=heretic",
   "nonspecific_tag=koohoo",
+  "release_date=2014-06-10",
   "startmap=kaahoo",
   "theme=green",
+  "title=Castle Kaahoo (SM175)",
   "type=mod",
   "type=speedmap",
   "zipbasedir=kaahoo/"

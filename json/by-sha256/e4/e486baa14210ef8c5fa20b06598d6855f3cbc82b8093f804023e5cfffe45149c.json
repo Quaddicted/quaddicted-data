@@ -55,6 +55,7 @@
  "release_date": "1997-01-14",
  "sha256": "e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c",
  "tags": [
+  "author=Martin Fuchsr",
   "commandline=-game foxyzoo",
   "filename=foxyzoo.zip",
   "game=quake",
@@ -64,7 +65,9 @@
   "map_size=small",
   "nonspecific_tag=monsters",
   "nonspecific_tag=showcase",
+  "release_date=1997-01-14",
   "theme=no exit",
+  "title=Foxyzoo",
   "type=mod",
   "zipbasedir=foxyzoo/"
  ],

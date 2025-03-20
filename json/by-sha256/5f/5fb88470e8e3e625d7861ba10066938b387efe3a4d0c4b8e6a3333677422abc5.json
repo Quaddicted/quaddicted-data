@@ -40,6 +40,7 @@
  "release_date": "2000-08-30",
  "sha256": "5fb88470e8e3e625d7861ba10066938b387efe3a4d0c4b8e6a3333677422abc5",
  "tags": [
+  "author=Andrew 'than' Palmer",
   "commandline=-game apsp1",
   "filename=apsp1.zip",
   "game=quake",
@@ -53,8 +54,10 @@
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "nonspecific_tag=hard",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-08-30",
   "theme=base",
   "theme=ikbase",
+  "title=The Final Threat",
   "type=mod",
   "zipbasedir=apsp1/"
  ],

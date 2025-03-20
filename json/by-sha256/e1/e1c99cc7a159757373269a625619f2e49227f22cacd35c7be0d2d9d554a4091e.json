@@ -31,8 +31,10 @@
  "release_date": "2005-11-05",
  "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "tags": [
+  "author=Kell",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=red777.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,9 +46,11 @@
   "map_size=medium",
   "mod=quoth",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2005-11-05",
   "theme=knave",
   "theme=quoth",
   "theme=secrets",
+  "title=Red 777",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

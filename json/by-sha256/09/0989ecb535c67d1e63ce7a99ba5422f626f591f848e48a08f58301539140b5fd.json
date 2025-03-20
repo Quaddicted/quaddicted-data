@@ -25,15 +25,18 @@
  "release_date": "1996-10-22",
  "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "tags": [
+  "author=E.T. [Etienne Rheaume]",
   "filename=etworld.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelse.htm)",
   "map_size=small",
   "playstyle=tricks",
+  "release_date=1996-10-22",
   "startmap=hall",
   "theme=traps",
   "theme=wizard",
+  "title=E.T.'s World",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

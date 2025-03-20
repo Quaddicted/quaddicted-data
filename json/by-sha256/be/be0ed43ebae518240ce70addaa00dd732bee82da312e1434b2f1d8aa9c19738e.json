@@ -19,14 +19,17 @@
  "release_date": "2000-04-02",
  "sha256": "be0ed43ebae518240ce70addaa00dd732bee82da312e1434b2f1d8aa9c19738e",
  "tags": [
+  "author=DMK",
   "filename=titan.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2000-04-02",
   "startmap=ID_1",
   "theme=base",
   "theme=puzzles",
   "theme=traps",
+  "title=Titan",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

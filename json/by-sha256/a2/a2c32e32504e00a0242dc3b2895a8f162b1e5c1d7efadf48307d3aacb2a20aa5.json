@@ -25,6 +25,7 @@
  "release_date": "1997-04-15",
  "sha256": "a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5",
  "tags": [
+  "author=Richard Dale Carlson",
   "filename=pand01a.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -33,8 +34,10 @@
   "map_layout=non-linear",
   "map_size=small",
   "nonspecific_tag=hard",
+  "release_date=1997-04-15",
   "theme=metal",
   "theme=wizard",
+  "title=Pandemonium",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

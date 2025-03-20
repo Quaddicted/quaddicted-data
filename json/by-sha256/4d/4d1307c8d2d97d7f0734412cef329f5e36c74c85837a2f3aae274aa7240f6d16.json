@@ -79,8 +79,10 @@
  "release_date": "2020-08-30",
  "sha256": "4d1307c8d2d97d7f0734412cef329f5e36c74c85837a2f3aae274aa7240f6d16",
  "tags": [
+  "author=Mista Heita",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "depends=('quoth>=2.2')",
   "exceeds_quake_limits=yes",
   "filename=mhsp01.zip",
   "game=quake",
@@ -90,10 +92,12 @@
   "mod=quoth",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2020-08-30",
   "source=included",
   "theme=base",
   "theme=orange",
   "theme=quoth",
+  "title=Blood Colored Rust",
   "type=map",
   "zipbasedir=quoth/"
  ],

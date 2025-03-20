@@ -598,7 +598,9 @@
  "release_group": "teuthis",
  "sha256": "786a9dc4c48d44a1a34f89e235b0cfd90b67148e23503458fdc54c757ee9df2a",
  "tags": [
+  "author=zbidou72",
   "commandline=-game teuthis",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=teuthisv3.zip",
   "game=quake",
@@ -608,6 +610,9 @@
   "nonspecific_tag=extras_r5",
   "nonspecific_tag=makkon",
   "nonspecific_tag=submarine",
+  "provides='teuthis=3.0'",
+  "release_date=2023-01-11",
+  "release_group=teuthis",
   "source=included",
   "startmap=teuthis",
   "theme=base",
@@ -615,7 +620,9 @@
   "theme=temple",
   "theme=underwater",
   "theme=water",
-  "type=mod"
+  "title=Temple of Teuthis v3",
+  "type=mod",
+  "version=3.0"
  ],
  "title": "Temple of Teuthis v3",
  "urls": [

@@ -25,6 +25,7 @@
  "release_date": "1997-09-10",
  "sha256": "16eb0535906162df08b0e8549283e365a89cdbb98cf45ebc1e0b99489f9deafb",
  "tags": [
+  "author=Benson \"El-Magoo\" Russell",
   "filename=outpost2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,9 +34,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
+  "release_date=1997-09-10",
   "startmap=outpost",
   "theme=castle",
   "theme=medieval",
+  "title=The Keldjoran Outpost",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

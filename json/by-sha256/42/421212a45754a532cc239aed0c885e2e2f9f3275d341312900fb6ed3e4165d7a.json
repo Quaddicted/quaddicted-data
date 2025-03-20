@@ -25,14 +25,17 @@
  "release_date": "2000-01-01",
  "sha256": "421212a45754a532cc239aed0c885e2e2f9f3275d341312900fb6ed3e4165d7a",
  "tags": [
+  "author=Leafface",
   "filename=lfsp1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://hosted.planetquake.gamespy.com/bsa",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
   "map_size=medium",
+  "release_date=2000-01-01",
   "theme=puzzle",
   "theme=wizard",
+  "title=The nowhere",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

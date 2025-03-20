@@ -25,12 +25,15 @@
  "release_date": "2008-02-29",
  "sha256": "fcda614f7d287b4288e6b9cbd0e7fd89436129d79fa9008d4b426f6d2e7671e9",
  "tags": [
+  "author=Rutger Baks",
   "filename=r_church.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://ditte.deds.nl",
   "map_size=small",
+  "release_date=2008-02-29",
   "theme=church",
+  "title=r_church",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

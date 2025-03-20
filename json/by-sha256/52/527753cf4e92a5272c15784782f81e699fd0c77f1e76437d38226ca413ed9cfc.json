@@ -25,6 +25,7 @@
  "release_date": "2000-12-06",
  "sha256": "527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc",
  "tags": [
+  "author=The Lieutenant",
   "commandline=-game lthsp1",
   "filename=lthsp1.zip",
   "game=quake",
@@ -32,8 +33,10 @@
   "link:homepage=http://www.random-productions.co.uk/quake/",
   "link:review=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/15-jan-2001/lthsp1.php)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev001208.html)",
+  "release_date=2000-12-06",
   "theme=base",
   "theme=ikbase",
+  "title=Ad Infinitum",
   "type=mod",
   "zipbasedir=lthsp1/"
  ],

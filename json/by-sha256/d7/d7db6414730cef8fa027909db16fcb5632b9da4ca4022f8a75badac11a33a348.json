@@ -31,14 +31,17 @@
  "release_date": "2021-02-12",
  "sha256": "d7db6414730cef8fa027909db16fcb5632b9da4ca4022f8a75badac11a33a348",
  "tags": [
+  "author=IcarusAvery",
   "filename=ia01q1sp.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2021-02-12",
   "source=included",
   "theme=base",
   "theme=bricks",
   "theme=mixtex",
+  "title=Lab Infiltration",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

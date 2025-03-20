@@ -25,6 +25,7 @@
  "release_date": "1996-11-17",
  "sha256": "1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798",
  "tags": [
+  "author=Andrew Smith",
   "commandline=-game guard",
   "filename=guard.zip",
   "game=quake",
@@ -36,12 +37,14 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=start",
+  "release_date=1996-11-17",
   "startmap=epoch",
   "theme=cave",
   "theme=cavern",
   "theme=metal",
   "theme=runic",
   "theme=traps",
+  "title=The Guardhouse",
   "type=mod",
   "zipbasedir=guard/"
  ],

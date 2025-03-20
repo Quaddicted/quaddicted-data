@@ -25,6 +25,7 @@
  "release_date": "1997-05-05",
  "sha256": "04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427",
  "tags": [
+  "author=Neil Manke",
   "filename=slaughtr.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,9 +35,11 @@
   "map_size=medium",
   "nonspecific_tag=realistic",
   "nonspecific_tag=textures",
+  "release_date=1997-05-05",
   "theme=puzzles",
   "theme=realism",
   "theme=traps",
+  "title=The Slaughterhouse",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

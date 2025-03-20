@@ -61,15 +61,18 @@
  "release_date": "1999-02-14",
  "sha256": "b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46",
  "tags": [
+  "author=Cyberelic (Ben Johns)",
   "filename=cyberelic1.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=broken_injector",
+  "release_date=1999-02-14",
   "startmap=cr1",
   "startmap=crdm1",
   "theme=medieval",
+  "title=Cyberelic",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

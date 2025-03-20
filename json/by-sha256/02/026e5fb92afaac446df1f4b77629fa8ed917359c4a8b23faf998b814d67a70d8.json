@@ -43,8 +43,10 @@
  "release_date": "2009-01-14",
  "sha256": "026e5fb92afaac446df1f4b77629fa8ed917359c4a8b23faf998b814d67a70d8",
  "tags": [
+  "author=Andrew 'than' Palmer",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=apsp2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -54,10 +56,12 @@
   "map_size=large",
   "mod=quoth",
   "nonspecific_tag=detailed",
+  "release_date=2009-01-14",
   "theme=base",
   "theme=exploration",
   "theme=quoth",
   "theme=water",
+  "title=Plumbers Don't Wear Ties (But They Do Carry Shotguns)",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

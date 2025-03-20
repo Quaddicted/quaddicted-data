@@ -43,13 +43,16 @@
  "release_date": "1997-07-01",
  "sha256": "93636eb12d793410272dac73556dd2656164391abcb6314a30cb9ba50cb56d20",
  "tags": [
+  "author=J.F.Gustafsson",
   "filename=dirt!.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1997-07-01",
   "theme=traps",
   "theme=wizard",
+  "title=Dirt!",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

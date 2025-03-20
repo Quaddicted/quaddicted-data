@@ -26,6 +26,8 @@
  "release_date": "1998-01-29",
  "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "tags": [
+  "author=Michele (miccar) Cardinale",
+  "author=Simone (Simon2) Filosto",
   "commandline=-game lisland",
   "filename=lisland.zip",
   "game=quake",
@@ -34,11 +36,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=start",
+  "release_date=1998-01-29",
   "startmap=start",
   "theme=boss",
   "theme=dragon",
   "theme=egyptian",
   "theme=temple",
+  "title=Lost Island: The Island of the death",
   "type=mod",
   "zipbasedir=lisland/"
  ],

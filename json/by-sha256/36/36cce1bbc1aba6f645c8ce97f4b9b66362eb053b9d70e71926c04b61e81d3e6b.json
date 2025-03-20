@@ -121,6 +121,7 @@
  "release_date": "2001-02-22",
  "sha256": "36cce1bbc1aba6f645c8ce97f4b9b66362eb053b9d70e71926c04b61e81d3e6b",
  "tags": [
+  "author=The Lieutenant",
   "commandline=-game lthsp4",
   "filename=lthsp4.zip",
   "game=quake",
@@ -128,7 +129,9 @@
   "link:homepage=http://www.random-productions.co.uk/quake/",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev010223.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
+  "release_date=2001-02-22",
   "startmap=lthstart",
+  "title=Dark Days",
   "type=mod",
   "zipbasedir=lthsp4/"
  ],

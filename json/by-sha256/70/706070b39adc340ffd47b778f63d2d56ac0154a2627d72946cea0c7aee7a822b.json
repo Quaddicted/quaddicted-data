@@ -31,15 +31,18 @@
  "release_date": "1996-09-05",
  "sha256": "706070b39adc340ffd47b778f63d2d56ac0154a2627d72946cea0c7aee7a822b",
  "tags": [
+  "author=Denis Moeller (panza)",
   "filename=mini.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsm2.htm#mini)",
   "map_size=small",
   "map_size=tiny",
+  "release_date=1996-09-05",
   "theme=base",
   "theme=plain",
   "theme=traps",
+  "title=Mini",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -31,15 +31,18 @@
  "release_date": "2021-09-28",
  "sha256": "fb88e7aadc950efc736cfed41877cf78673c60ac275cbdff9a2d5040497c9569",
  "tags": [
+  "author=c0j",
   "filename=iredent_qmap.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=mountain",
+  "release_date=2021-09-28",
   "source=included",
   "startmap=Iredent",
   "theme=canyon",
   "theme=medieval",
+  "title=Iredent",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

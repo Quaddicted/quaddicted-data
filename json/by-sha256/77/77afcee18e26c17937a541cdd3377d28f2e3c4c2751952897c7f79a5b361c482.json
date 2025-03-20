@@ -34,6 +34,7 @@
  "release_date": "1996-11-10",
  "sha256": "77afcee18e26c17937a541cdd3377d28f2e3c4c2751952897c7f79a5b361c482",
  "tags": [
+  "author=TexGamer",
   "filename=dm17.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -42,8 +43,10 @@
   "map_size=small",
   "nonspecific_tag=dark",
   "nonspecific_tag=textures",
+  "release_date=1996-11-10",
   "theme=mandatory secret",
   "theme=wizard",
+  "title=Warmup",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

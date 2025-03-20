@@ -25,15 +25,18 @@
  "release_date": "2000-01-01",
  "sha256": "496482a733088399cc835d28ec9ff9b3267177d67065ab99fd0d1aa8225a2455",
  "tags": [
+  "author=Leafface",
   "filename=lfsp5.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://hosted.planetquake.com/bsa",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
   "map_size=large",
+  "release_date=2000-01-01",
   "theme=base",
   "theme=idbase",
   "theme=traps",
+  "title=Operation Central",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

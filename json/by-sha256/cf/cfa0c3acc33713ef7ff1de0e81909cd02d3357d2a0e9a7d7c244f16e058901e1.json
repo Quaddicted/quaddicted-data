@@ -25,6 +25,7 @@
  "release_date": "1997-02-07",
  "sha256": "cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1",
  "tags": [
+  "author=Juha Koiste",
   "filename=frbdbase.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -33,8 +34,10 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/d_f.htm)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
+  "release_date=1997-02-07",
   "startmap=base",
   "theme=base",
+  "title=The Forbidden Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -34,6 +34,7 @@
  "release_date": "1997-05-15",
  "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "tags": [
+  "author=Dan Koppel",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=cryo.zip",
@@ -44,11 +45,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=large",
+  "release_date=1997-05-15",
   "startmap=cryo1",
   "theme=dissolution of eternity",
   "theme=runic",
   "theme=scourge of armagon",
   "theme=wizard",
+  "title=Daredevil's Descent & Cryogenic Crypt",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

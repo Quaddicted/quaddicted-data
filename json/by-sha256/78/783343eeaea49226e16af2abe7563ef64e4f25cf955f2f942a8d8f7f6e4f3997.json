@@ -314,6 +314,11 @@
  "release_date": "2017-01-09",
  "sha256": "783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997",
  "tags": [
+  "author=Bloughsburgh",
+  "author=Naitelveni",
+  "author=NewHouse",
+  "author=PuLSaR",
+  "author=topher",
   "commandline=-game explorejam2",
   "exceeds_quake_limits=yes",
   "filename=explorejam2.zip",
@@ -326,6 +331,7 @@
   "nonspecific_tag=no monsters",
   "nonspecific_tag=platforming",
   "nonspecific_tag=skybox",
+  "release_date=2017-01-09",
   "source=included",
   "startmap=explorejam2_bloughsburgh",
   "startmap=explorejam2_naitelveni",
@@ -342,6 +348,7 @@
   "theme=space",
   "theme=swamp",
   "theme=traps",
+  "title=Explore Jam 2",
   "type=mod",
   "zipbasedir=explorejam2/"
  ],

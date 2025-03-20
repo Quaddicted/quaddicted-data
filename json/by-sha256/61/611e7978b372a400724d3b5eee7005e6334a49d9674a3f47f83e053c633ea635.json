@@ -31,6 +31,7 @@
  "release_date": "1997-03-01",
  "sha256": "611e7978b372a400724d3b5eee7005e6334a49d9674a3f47f83e053c633ea635",
  "tags": [
+  "author=Ace",
   "filename=combat.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,11 +40,13 @@
   "map_layout=arena",
   "map_size=small",
   "nonspecific_tag=roger-staines",
+  "release_date=1997-03-01",
   "startmap=qcs",
   "theme=base",
   "theme=metal",
   "theme=mixtex",
   "theme=wizard",
+  "title=Quake Combat School",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

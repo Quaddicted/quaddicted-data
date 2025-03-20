@@ -74,6 +74,8 @@
  "release_date": "2008-09-12",
  "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
  "tags": [
+  "author=Lardarse (czg",
+  "author=Vondur)",
   "commandline=-game e1m1red",
   "filename=e1m1red.zip",
   "game=quake",
@@ -81,10 +83,12 @@
   "map_layout=non-linear",
   "map_size=medium",
   "nonspecific_tag=unique",
+  "release_date=2008-09-12",
   "source=included",
   "theme=base",
   "theme=exploration",
   "theme=puzzles",
+  "title=Bloody Slipgates",
   "type=mod",
   "zipbasedir=e1m1red/"
  ],

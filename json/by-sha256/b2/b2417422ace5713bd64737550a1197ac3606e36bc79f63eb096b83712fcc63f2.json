@@ -40,6 +40,7 @@
  "release_date": "2013-03-23",
  "sha256": "b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2",
  "tags": [
+  "author=mfx",
   "commandline=+r_wateralpha 0.3 +r_waterwarp 0",
   "filename=mfxsp8.zip",
   "game=quake",
@@ -49,9 +50,11 @@
   "nonspecific_tag=cramped",
   "nonspecific_tag=glass",
   "nonspecific_tag=pipes",
+  "release_date=2013-03-23",
   "source=included",
   "theme=base",
   "theme=industrial",
+  "title=Clean Cut",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

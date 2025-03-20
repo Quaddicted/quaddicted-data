@@ -139,6 +139,10 @@
  "release_date": "2012-12-19",
  "sha256": "1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d",
  "tags": [
+  "author=PM",
+  "author=Tronyn",
+  "author=Tyrann",
+  "author=necros",
   "bsp_format=bsp2",
   "commandline=-game wicked",
   "exceeds_quake_limits=yes",
@@ -158,6 +162,7 @@
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
   "nonspecific_tag=waterfall",
+  "release_date=2012-12-19",
   "startmap=wicked",
   "startmap=wickedend",
   "startmap=wickedstart",
@@ -170,6 +175,7 @@
   "theme=knave",
   "theme=medieval",
   "theme=secrets",
+  "title=Something Wicked This Way Comes",
   "type=mod",
   "zipbasedir=wicked/"
  ],

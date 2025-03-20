@@ -25,6 +25,7 @@
  "release_date": "1997-07-28",
  "sha256": "ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0",
  "tags": [
+  "author=Ozric",
   "filename=warpgate.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,8 +33,10 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/v_z.htm)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
+  "release_date=1997-07-28",
   "theme=oldschool",
   "theme=wizard",
+  "title=The Warpgate",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

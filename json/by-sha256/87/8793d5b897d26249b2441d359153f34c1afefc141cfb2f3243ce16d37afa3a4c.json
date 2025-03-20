@@ -25,6 +25,7 @@
  "release_date": "1997-10-09",
  "sha256": "8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c",
  "tags": [
+  "author=Andrew Smith",
   "filename=carnage.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,8 +35,10 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-10-09",
   "theme=metal",
   "theme=runic",
+  "title=Carnage",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

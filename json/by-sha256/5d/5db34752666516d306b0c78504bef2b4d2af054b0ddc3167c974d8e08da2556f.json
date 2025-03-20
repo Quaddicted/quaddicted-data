@@ -65,16 +65,25 @@
  "release_group": "remobilize",
  "sha256": "5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f",
  "tags": [
+  "author=Chuma",
+  "author=EmeraldTiger",
+  "author=Shadesmaster",
+  "author=alexUnder",
   "commandline=-game rmj1",
   "exceedslimits=exceeds_quake_limits",
   "filename=rmj1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/re-mobilize-jam-1-re-collections.275/)",
+  "provides='remobilize=1.1J'",
+  "release_date=2023-10-08",
+  "release_group=remobilize",
   "startmap=start",
+  "title=Re:Mobilize Jam 1: Re:Collections",
   "type=episode",
   "type=mapjam",
-  "type=mod"
+  "type=mod",
+  "version=1.1J"
  ],
  "title": "Re:Mobilize Jam 1: Re:Collections",
  "urls": [

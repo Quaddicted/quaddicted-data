@@ -25,15 +25,18 @@
  "release_date": "1996-07-20",
  "sha256": "019b6c491a33bd9e822f64ce46beb774af5169a9926fac868ea3dde8e0ee75fb",
  "tags": [
+  "author=Darren Stabler",
   "filename=bc.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
   "map_size=small",
   "nonspecific_tag=broken",
+  "release_date=1996-07-20",
   "theme=castle",
   "theme=mixtex",
   "theme=outdoor",
+  "title=Basic Castle",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

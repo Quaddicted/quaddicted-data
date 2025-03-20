@@ -67,6 +67,7 @@
  "release_date": "2002-08-12",
  "sha256": "6a494eaf1d1d2d153bb79a94cd4069a5011ce4c601fa31929f1a6aedbd85c734",
  "tags": [
+  "author=Qubix",
   "commandline=-game simmer",
   "filename=simmer2.zip",
   "game=quake",
@@ -75,9 +76,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev021228.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "nonspecific_tag=skins",
+  "release_date=2002-08-12",
   "startmap=simmer2",
   "theme=base",
   "theme=industrial",
+  "title=SIMMER2",
   "type=mod"
  ],
  "title": "SIMMER2",

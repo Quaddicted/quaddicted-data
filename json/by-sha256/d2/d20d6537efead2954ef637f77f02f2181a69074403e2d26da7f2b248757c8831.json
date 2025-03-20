@@ -58,6 +58,7 @@
  "release_date": "2021-05-01",
  "sha256": "d20d6537efead2954ef637f77f02f2181a69074403e2d26da7f2b248757c8831",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "commandline=-game jpqm7",
   "exceeds_quake_limits=yes",
@@ -69,10 +70,12 @@
   "music=custom",
   "nonspecific_tag=cathedral",
   "nonspecific_tag=progs_dump",
+  "release_date=2021-05-01",
   "source=included",
   "theme=metal",
   "theme=space",
   "theme=void",
+  "title=Halls of the Void",
   "type=mod",
   "zipbasedir=/"
  ],

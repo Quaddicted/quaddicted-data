@@ -39,12 +39,17 @@
  "release_date": "2005-12-20",
  "sha256": "c5371643c56e4f6f13a38ebad05c6210bdb17dbf5840e1dfce482f70a40d2634",
  "tags": [
+  "author=bambuz",
+  "author=generic",
+  "author=negke",
   "filename=sm115_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-12-20",
   "startmap=sm115_bam",
   "startmap=sm115_generic",
   "startmap=sm115_neg!ke",
+  "title=Speedmapping pack 115 - Ziggurat",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

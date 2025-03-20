@@ -34,6 +34,7 @@
  "release_date": "1999-03-24",
  "sha256": "3a7c7e849cd175363d2d274f1af872e511eec612107cba1a2c5684645122d449",
  "tags": [
+  "author=Tim Elek",
   "filename=darkness.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,8 +44,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990415.html)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-03-24",
   "startmap=q1",
   "theme=medieval",
+  "title=The Darkness Within",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -22,6 +22,7 @@
  "release_date": "1997-05-25",
  "sha256": "5b0e769752b2d2ef2a25561bf666855912bb6a0d9eadbf153d2c5daf6ce481ed",
  "tags": [
+  "author=Timothy R. Jervis",
   "filename=icbm.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -31,8 +32,10 @@
   "map_size=small",
   "nonspecific_tag=coop",
   "nonspecific_tag=rocket",
+  "release_date=1997-05-25",
   "theme=base",
   "theme=realism",
+  "title=The Abandoned Silo",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -111,8 +111,10 @@
  "release_date": "2024-01-04",
  "sha256": "152db76fa2af981c5e4dbd823681f0431c9635df5156171e0e9ed5efea8e4b4f",
  "tags": [
+  "author=Paul Lawitzki",
   "commandline=-game copper",
   "dependency=copper_v1_30",
+  "depends=('copper>=1.30')",
   "exceedslimits=exceeds_quake_limits",
   "filename=plaw03.zip",
   "game=quake",
@@ -120,7 +122,9 @@
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-tricksters-domain.304/)",
   "map_size=large",
   "mod=copper",
+  "release_date=2024-01-04",
   "startmap=plaw03",
+  "title=The Trickster's Domain",
   "type=map"
  ],
  "title": "The Trickster's Domain",

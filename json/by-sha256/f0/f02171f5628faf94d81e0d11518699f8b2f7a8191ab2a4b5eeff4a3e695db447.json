@@ -76,6 +76,7 @@
  "release_date": "2020-10-11",
  "sha256": "f02171f5628faf94d81e0d11518699f8b2f7a8191ab2a4b5eeff4a3e695db447",
  "tags": [
+  "author=Bruno Fabbri (zbidou72)",
   "exceeds_quake_limits=yes",
   "filename=nullbear.zip",
   "game=quake",
@@ -88,8 +89,10 @@
   "nonspecific_tag=ship",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2020-10-11",
   "source=included",
   "theme=realism",
+  "title=Null Bearing",
   "type=map",
   "zipbasedir=id1/"
  ],

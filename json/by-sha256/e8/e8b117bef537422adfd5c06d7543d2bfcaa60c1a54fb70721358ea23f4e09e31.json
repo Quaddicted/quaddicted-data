@@ -151,6 +151,10 @@
  "release_date": "2021-12-05",
  "sha256": "e8b117bef537422adfd5c06d7543d2bfcaa60c1a54fb70721358ea23f4e09e31",
  "tags": [
+  "author=Anonymous users",
+  "author=Coffee Achiever",
+  "author=DiamondBlack",
+  "author=Streaky",
   "bsp_format=bsp2",
   "commandline=-game vr",
   "exceeds_quake_limits=yes",
@@ -179,6 +183,7 @@
   "nonspecific_tag=start",
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
+  "release_date=2021-12-05",
   "startmap=beho",
   "startmap=ct",
   "startmap=impco",
@@ -201,6 +206,7 @@
   "theme=quoth",
   "theme=realism",
   "theme=void",
+  "title=Violent Rumble 1.00",
   "type=episode",
   "type=mod",
   "zipbasedir=/"

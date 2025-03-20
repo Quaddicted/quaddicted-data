@@ -37,8 +37,10 @@
  "release_date": "2018-09-08",
  "sha256": "e9b3856f29d5a76f6c185de1d16e8d2e183ddf556913a1ba952d52db52b3ce4c",
  "tags": [
+  "author=mukor",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=ad_muksp1.zip",
   "game=quake",
@@ -48,8 +50,10 @@
   "mod=arcanedimensions",
   "nonspecific_tag=ad",
   "nonspecific_tag=koohoo",
+  "release_date=2018-09-08",
   "theme=arcane dimensions",
   "theme=maya",
+  "title=Trench Foot",
   "type=map",
   "zipbasedir=ad/maps/"
  ],

@@ -31,6 +31,7 @@
  "release_date": "1997-06-22",
  "sha256": "ad5e54ab570020cc9f1f1e6acea54b250c3497a6fa5859bf6974811ce5bec0b7",
  "tags": [
+  "author=Steve Clarke",
   "filename=sgc8.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,9 +44,11 @@
   "map_layout=non-linear",
   "map_size=medium",
   "nonspecific_tag=hub",
+  "release_date=1997-06-22",
   "theme=base",
   "theme=puzzles",
   "theme=traps",
+  "title=Notlob's Moonshot",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

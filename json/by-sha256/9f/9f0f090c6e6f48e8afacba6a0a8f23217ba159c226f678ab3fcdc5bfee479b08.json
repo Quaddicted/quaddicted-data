@@ -31,6 +31,7 @@
  "release_date": "2010-08-30",
  "sha256": "9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08",
  "tags": [
+  "author=MadFox",
   "commandline=-game veni",
   "filename=veni05a.zip",
   "game=quake",
@@ -40,10 +41,12 @@
   "nonspecific_tag=greek",
   "nonspecific_tag=monsters",
   "nonspecific_tag=unique",
+  "release_date=2010-08-30",
   "startmap=sparcus10",
   "theme=caverns",
   "theme=city",
   "theme=medieval",
+  "title=VeniVidiFutzi",
   "type=mod",
   "zipbasedir=veni/"
  ],

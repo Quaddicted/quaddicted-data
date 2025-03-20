@@ -44,13 +44,17 @@
  "release_date": "2005-08-06",
  "sha256": "218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07",
  "tags": [
+  "author=Mike Woodham",
+  "author=Zwiffle",
   "filename=sm40contest.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-08-06",
   "startmap=fmb_sm40",
   "startmap=sm40zwei",
   "theme=base",
   "theme=dkt",
+  "title=SM40 contest",
   "type=chainmap",
   "type=speedmap",
   "zipbasedir=id1/maps/"

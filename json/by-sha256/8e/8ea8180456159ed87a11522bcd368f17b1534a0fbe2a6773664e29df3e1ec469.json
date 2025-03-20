@@ -30,6 +30,8 @@
  "release_group": "gmsp3",
  "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",
  "tags": [
+  "author=Howard \"GlassMan\" Shaw",
+  "current_main_group_package=yes",
   "filename=gmsp3tw.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -41,9 +43,14 @@
   "nonspecific_tag=glquake",
   "nonspecific_tag=hard",
   "nonspecific_tag=textures",
+  "provides='gmsp3=2.0'",
+  "release_date=2004-06-01",
+  "release_group=gmsp3",
   "theme=castle",
   "theme=medieval",
+  "title=Day of the Lords [transparent water]",
   "type=map",
+  "version=2.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "Day of the Lords [transparent water]",

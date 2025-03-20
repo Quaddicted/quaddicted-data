@@ -31,6 +31,7 @@
  "release_date": "2012-10-13",
  "sha256": "56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920",
  "tags": [
+  "author=ORL",
   "filename=oms_unmentionables.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -39,12 +40,14 @@
   "map_size=medium",
   "nonspecific_tag=hard",
   "nonspecific_tag=textures",
+  "release_date=2012-10-13",
   "startmap=oms24",
   "startmap=oms25",
   "theme=base",
   "theme=canyon",
   "theme=medieval",
   "theme=outdoor",
+  "title=Laboratory X & Neighboring Alcazar's",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

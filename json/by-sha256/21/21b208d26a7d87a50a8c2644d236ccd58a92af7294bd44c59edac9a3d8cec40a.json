@@ -43,6 +43,7 @@
  "release_date": "2001-08-23",
  "sha256": "21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "commandline=-game alk13",
   "filename=alk13.zip",
   "game=quake",
@@ -60,9 +61,11 @@
   "nonspecific_tag=labyrinth",
   "nonspecific_tag=monsters",
   "nonspecific_tag=textures",
+  "release_date=2001-08-23",
   "startmap=alk13",
   "theme=egyptian",
   "theme=stone",
+  "title=The Looming Madness",
   "type=mod"
  ],
  "title": "The Looming Madness",

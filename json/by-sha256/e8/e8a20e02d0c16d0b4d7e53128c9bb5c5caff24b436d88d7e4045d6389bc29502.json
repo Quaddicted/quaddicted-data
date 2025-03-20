@@ -26,13 +26,17 @@
  "release_date": "2005-07-31",
  "sha256": "e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502",
  "tags": [
+  "author=Starbuck",
+  "author=Zwiffle",
   "filename=sm101_pack.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "nonspecific_tag=simple",
+  "release_date=2005-07-31",
   "startmap=sm101_starbuck",
   "startmap=sm101_zwiffle",
+  "title=Speedmapping pack 101 - The Basics",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

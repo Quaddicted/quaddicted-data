@@ -73,6 +73,7 @@
  "release_date": "1998-05-14",
  "sha256": "b7fcd229cb05e4bda5e2cbffbedb02a6bad43684cbc8596d596cde2342d96697",
  "tags": [
+  "author=Jason Zukowski",
   "commandline=-game jzspq2",
   "filename=jzspq3.zip",
   "game=quake",
@@ -82,8 +83,10 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "map_size=small",
   "nonspecific_tag=chthon",
+  "release_date=1998-05-14",
   "startmap=start",
   "theme=ikblue",
+  "title=Blue Hell",
   "type=episode",
   "type=mod"
  ],

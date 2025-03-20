@@ -31,6 +31,7 @@
  "release_date": "2006-05-22",
  "sha256": "ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276",
  "tags": [
+  "author=Digs",
   "commandline=-game digs01",
   "filename=digs01.zip",
   "game=quake",
@@ -40,6 +41,7 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=medium",
   "map_size=small",
+  "release_date=2006-05-22",
   "startmap=d1",
   "startmap=d2",
   "startmap=d3",
@@ -52,6 +54,7 @@
   "theme=castle",
   "theme=medieval",
   "theme=oldschool",
+  "title=Digs01",
   "type=episode",
   "type=mod",
   "zipbasedir=digs01/"

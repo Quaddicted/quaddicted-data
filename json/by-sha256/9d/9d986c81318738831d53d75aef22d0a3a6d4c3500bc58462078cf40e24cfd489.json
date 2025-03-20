@@ -38,11 +38,15 @@
  "release_date": "2010-06-08",
  "sha256": "9d986c81318738831d53d75aef22d0a3a6d4c3500bc58462078cf40e24cfd489",
  "tags": [
+  "author=Drew",
+  "author=generic",
   "filename=sm152_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2010-06-08",
   "startmap=sm152_drew",
   "startmap=sm152_generic",
+  "title=Speedmapping pack 152 - Otherworldly color",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

@@ -411,8 +411,11 @@
  "release_date": "2021-06-21",
  "sha256": "cf7cead3291fac81196b9b9fa772afa8a460f4f4f9a8677bc3c8407d432e2ca6",
  "tags": [
+  "author=Lunaran",
+  "author=Scampie",
   "commandline=-game copper",
   "dependency=copper_v1_16",
+  "depends=('copper>=1.16')",
   "exceeds_quake_limits=yes",
   "filename=udob_v1_1.zip",
   "game=quake",
@@ -427,6 +430,7 @@
   "nonspecific_tag=q3dm3",
   "nonspecific_tag=q3dm6",
   "nonspecific_tag=start",
+  "release_date=2021-06-21",
   "source=included",
   "startmap=udob1",
   "startmap=udob2",
@@ -442,6 +446,7 @@
   "theme=remix",
   "theme=runic",
   "theme=wizard",
+  "title=Underdark Overbright - Version 1.1",
   "type=episode",
   "type=mod",
   "zipbasedir=copper/"

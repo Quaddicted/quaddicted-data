@@ -31,6 +31,7 @@
  "release_date": "1997-08-27",
  "sha256": "46cf4ed6cf8a36ecd4feb09141874431ad3e9e776df49a899d0b4bf22a214d3b",
  "tags": [
+  "author=Neil Manke",
   "filename=monastry.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -41,10 +42,12 @@
   "link=[quakis](http://taw.duke4.net/2011/02/quake/monastry/)",
   "map_layout=non-linear",
   "map_size=medium",
+  "release_date=1997-08-27",
   "theme=exploration",
   "theme=medieval",
   "theme=town",
   "theme=traps",
+  "title=Monastry",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

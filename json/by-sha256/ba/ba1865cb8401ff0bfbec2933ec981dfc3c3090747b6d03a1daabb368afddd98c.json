@@ -37,6 +37,7 @@
  "release_date": "2004-05-20",
  "sha256": "ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c",
  "tags": [
+  "author=Kinn",
   "commandline=-game bastion",
   "filename=kinn_bastion.zip",
   "game=quake",
@@ -61,6 +62,7 @@
   "nonspecific_tag=textures",
   "playstyle=horde",
   "playstyle=hordes",
+  "release_date=2004-05-20",
   "startmap=bastion",
   "theme=castle",
   "theme=fortress",
@@ -68,6 +70,7 @@
   "theme=quake 2",
   "theme=quake 3",
   "theme=stone",
+  "title=Bastion of the Underworld",
   "type=mod"
  ],
  "title": "Bastion of the Underworld",

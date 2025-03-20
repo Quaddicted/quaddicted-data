@@ -31,6 +31,7 @@
  "release_date": "1997-10-20",
  "sha256": "9644adcc4b040f12a185cd82b61c42f87ffbc0e93c9184737a64e5002504b573",
  "tags": [
+  "author=Steve Rescoe",
   "filename=evildead.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,9 +39,11 @@
   "map_size=small",
   "nonspecific_tag=forest",
   "nonspecific_tag=wood",
+  "release_date=1997-10-20",
   "source=included",
   "theme=house",
   "theme=realism",
+  "title=EvilDead cabin",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

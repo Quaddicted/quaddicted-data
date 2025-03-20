@@ -25,6 +25,7 @@
  "release_date": "1997-11-03",
  "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "tags": [
+  "author=Jean-Marc Gruninger",
   "commandline=-game middle",
   "filename=middle.zip",
   "game=quake",
@@ -41,9 +42,11 @@
   "nonspecific_tag=realistic",
   "nonspecific_tag=textures",
   "playstyle=stealth",
+  "release_date=1997-11-03",
   "startmap=med",
   "theme=classic",
   "theme=medieval",
+  "title=The Middle Evil",
   "type=mod",
   "zipbasedir=middle/"
  ],

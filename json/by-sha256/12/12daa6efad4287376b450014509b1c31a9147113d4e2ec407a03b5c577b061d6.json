@@ -40,6 +40,7 @@
  "release_date": "2013-12-18",
  "sha256": "12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6",
  "tags": [
+  "author=sock",
   "commandline=-game zendar",
   "exceeds_quake_limits=yes",
   "filename=zendar1d.zip",
@@ -54,6 +55,7 @@
   "nonspecific_tag=must play",
   "nonspecific_tag=mustplay",
   "nonspecific_tag=rocks",
+  "release_date=2013-12-18",
   "source=included",
   "startmap=zendar",
   "theme=brown",
@@ -62,6 +64,7 @@
   "theme=classic",
   "theme=medieval",
   "theme=oldschool",
+  "title=The Horde of Zendar",
   "type=mod",
   "zipbasedir=zendar/"
  ],

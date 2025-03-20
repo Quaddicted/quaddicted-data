@@ -25,6 +25,7 @@
  "release_date": "1996-10-19",
  "sha256": "d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22",
  "tags": [
+  "author=Gyro Gearloose",
   "filename=torture.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,10 +34,12 @@
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/s_u.htm)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=small",
+  "release_date=1996-10-19",
   "theme=castle",
   "theme=medieval",
   "theme=mixtex",
   "theme=oldschool",
+  "title=Torture",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

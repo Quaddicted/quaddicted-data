@@ -31,13 +31,16 @@
  "release_date": "2006-10-29",
  "sha256": "259eb255ef525d7ec25f96ec4f4214d09a9d733ca7d21b06a0764500c4ca814c",
  "tags": [
+  "author=Omus",
   "filename=pypain.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_layout=maze",
   "map_size=small",
+  "release_date=2006-10-29",
   "theme=pyramid",
   "theme=traps",
+  "title=Pyramid of Pain",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

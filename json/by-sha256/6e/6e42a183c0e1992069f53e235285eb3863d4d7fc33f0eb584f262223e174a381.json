@@ -37,6 +37,7 @@
  "release_date": "2016-06-24",
  "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "tags": [
+  "author=J.F.Gustafsson",
   "commandline=-game dopa",
   "filename=dopa.zip",
   "game=quake",
@@ -46,6 +47,7 @@
   "map_size=medium",
   "nonspecific_tag=official",
   "nonspecific_tag=start",
+  "release_date=2016-06-24",
   "startmap=e5dm",
   "startmap=e5end",
   "startmap=e5m1",
@@ -63,6 +65,7 @@
   "theme=metal",
   "theme=runic",
   "theme=traps",
+  "title=Episode 5: Dimension of the Past",
   "type=demo",
   "type=episode",
   "type=mod",

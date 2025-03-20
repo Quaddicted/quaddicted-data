@@ -25,6 +25,7 @@
  "release_date": "1997-04-19",
  "sha256": "5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7",
  "tags": [
+  "author=Swen Klemund",
   "filename=doom2_08.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=small",
   "nonspecific_tag=textures",
+  "release_date=1997-04-19",
   "startmap=08",
   "theme=conversion",
   "theme=doom 2",
+  "title=Tricks and Traps  (Doom2-Map08)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

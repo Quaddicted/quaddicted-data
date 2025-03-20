@@ -38,6 +38,8 @@
  "release_date": "2020-12-31",
  "sha256": "0161969e5faceebf7da95e3aec2c8570c76cf0df6b09ba02e87eea23e38b59f2",
  "tags": [
+  "author=Rhoq",
+  "author=negke",
   "filename=rhoqtdm1sp.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -47,10 +49,12 @@
   "nonspecific_tag=garden",
   "nonspecific_tag=plants",
   "nonspecific_tag=white",
+  "release_date=2020-12-31",
   "source=included",
   "theme=bricks",
   "theme=lava",
   "theme=wizard",
+  "title=Court of Fools (single player version)",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

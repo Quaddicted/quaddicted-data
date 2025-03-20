@@ -40,6 +40,7 @@
  "release_date": "2018-09-08",
  "sha256": "64cb7e71278cd125b56bdd15808c5dafd82ada006365d5e344c8e1b6d1f42ade",
  "tags": [
+  "author=Sergey Rupasov",
   "exceeds_quake_limits=yes",
   "filename=pillars.zip",
   "game=quake",
@@ -47,12 +48,14 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61626)",
   "map_size=medium",
   "nonspecific_tag=imits",
+  "release_date=2018-09-08",
   "source=included",
   "theme=puzzle",
   "theme=runic",
   "theme=temple",
   "theme=traps",
   "theme=water",
+  "title=The Pillars of the Damned",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

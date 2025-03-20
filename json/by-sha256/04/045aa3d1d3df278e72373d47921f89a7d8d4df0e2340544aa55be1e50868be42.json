@@ -25,6 +25,7 @@
  "release_date": "2003-10-02",
  "sha256": "045aa3d1d3df278e72373d47921f89a7d8d4df0e2340544aa55be1e50868be42",
  "tags": [
+  "author=Vondur",
   "filename=nastrond.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,8 +34,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=large",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2003-10-02",
   "theme=knave",
   "theme=lava",
+  "title=Nastrond",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

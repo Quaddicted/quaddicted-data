@@ -25,6 +25,7 @@
  "release_date": "1997-06-27",
  "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "tags": [
+  "author=Zied Rieke",
   "commandline=-game 3oc",
   "filename=3oc.zip",
   "game=quake",
@@ -36,9 +37,11 @@
   "map_size=small",
   "nonspecific_tag=coop",
   "nonspecific_tag=monsters",
+  "release_date=1997-06-27",
   "startmap=3oc",
   "theme=base",
   "theme=idbase",
+  "title=Three of Clubs",
   "type=mod",
   "zipbasedir=3oc/"
  ],

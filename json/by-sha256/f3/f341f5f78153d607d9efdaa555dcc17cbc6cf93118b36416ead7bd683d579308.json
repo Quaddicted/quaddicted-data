@@ -25,14 +25,17 @@
  "release_date": "2000-01-31",
  "sha256": "f341f5f78153d607d9efdaa555dcc17cbc6cf93118b36416ead7bd683d579308",
  "tags": [
+  "author=Tom Cleghorn",
   "filename=gwynt.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev000510.html)",
   "map_size=medium",
+  "release_date=2000-01-31",
   "theme=castle",
   "theme=medieval",
   "theme=oldschool",
+  "title=Castell Y Gwynt",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

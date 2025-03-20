@@ -37,6 +37,7 @@
  "release_date": "1997-12-06",
  "sha256": "c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9",
  "tags": [
+  "author=Anders Gustavsson",
   "filename=area51.2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -46,9 +47,11 @@
   "nonspecific_tag=campaign",
   "nonspecific_tag=grey",
   "nonspecific_tag=textures",
+  "release_date=1997-12-06",
   "startmap=level_1",
   "theme=base",
   "theme=exploration",
+  "title=Area 51",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

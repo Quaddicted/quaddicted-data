@@ -712,6 +712,7 @@
  "release_date": "2023-12-21",
  "sha256": "f56997aa143e503e08a20b840563851075da39f583a42ae42eab9f35a9782a4f",
  "tags": [
+  "author=ComfyByTheFire",
   "commandline=-game starslave",
   "exceedslimits=exceeds_quake_limits",
   "filename=starslave_v1_3.zip",
@@ -719,7 +720,9 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/starslave.298/)",
   "map_size=large",
+  "release_date=2023-12-21",
   "startmap=starslave",
+  "title=Starslave",
   "type=map",
   "type=mod"
  ],

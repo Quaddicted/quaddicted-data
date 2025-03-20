@@ -586,6 +586,7 @@
  "release_date": "2020-11-29",
  "sha256": "8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f",
  "tags": [
+  "author=bmFbr",
   "commandline=-game bmfbr",
   "exceeds_quake_limits=yes",
   "filename=bmfbrsp2_v1.2.zip",
@@ -599,6 +600,7 @@
   "nonspecific_tag=models",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=skybox",
+  "release_date=2020-11-29",
   "source=included",
   "startmap=bmfbrsp2",
   "theme=base",
@@ -607,6 +609,7 @@
   "theme=metal",
   "theme=runic",
   "theme=traps",
+  "title=The Mountains of Insanity",
   "type=mod",
   "zipbasedir=/"
  ],

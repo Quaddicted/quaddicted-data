@@ -25,6 +25,7 @@
  "release_date": "1997-08-01",
  "sha256": "ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1",
  "tags": [
+  "author=Zied Rieke",
   "commandline=-game v6",
   "filename=v6.zip",
   "game=quake",
@@ -34,7 +35,9 @@
   "map_layout=non-linear",
   "map_size=large",
   "nonspecific_tag=monsters",
+  "release_date=1997-08-01",
   "theme=base",
+  "title=Vivisect Six",
   "type=mod",
   "zipbasedir=v6/"
  ],

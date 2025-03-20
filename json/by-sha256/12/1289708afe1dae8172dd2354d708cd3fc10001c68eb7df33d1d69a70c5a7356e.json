@@ -31,6 +31,7 @@
  "release_date": "2001-12-17",
  "sha256": "1289708afe1dae8172dd2354d708cd3fc10001c68eb7df33d1d69a70c5a7356e",
  "tags": [
+  "author=XeNoN",
   "filename=xnq1002.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -40,11 +41,13 @@
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "map_size=large",
   "nonspecific_tag=textures",
+  "release_date=2001-12-17",
   "source=included",
   "theme=100b",
   "theme=base",
   "theme=canyon",
   "theme=quake 2",
+  "title=Centurion",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -850,6 +850,7 @@
  "release_date": "2021-07-09",
  "sha256": "90ff5c700593d979b92864de8c773869c22a07ae8820e7b73bb62ce3175a93c9",
  "tags": [
+  "author=GunSgtHighway",
   "bsp_format=bsp2",
   "commandline=-heapsize 512000 -game gsh_jungle",
   "exceeds_quake_limits=yes",
@@ -867,9 +868,11 @@
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
   "nonspecific_tag=vegetation",
+  "release_date=2021-07-09",
   "source=included",
   "startmap=start",
   "theme=realism",
+  "title=GSH Jungle mod",
   "type=mod",
   "zipbasedir=/"
  ],

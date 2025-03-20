@@ -25,6 +25,7 @@
  "release_date": "2003-04-11",
  "sha256": "4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978",
  "tags": [
+  "author=Hrimfaxi",
   "commandline=-game hrim_sp1",
   "filename=hrim_sp1.zip",
   "game=quake",
@@ -34,10 +35,12 @@
   "map_size=large",
   "nonspecific_tag=monsters",
   "nonspecific_tag=multiple exits",
+  "release_date=2003-04-11",
   "theme=dragon",
   "theme=metal",
   "theme=runic",
   "theme=super secret",
+  "title=Frying obstacles",
   "type=mod",
   "zipbasedir=hrim_sp1/"
  ],

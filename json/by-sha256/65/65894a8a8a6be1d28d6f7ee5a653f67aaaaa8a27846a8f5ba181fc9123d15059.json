@@ -2153,13 +2153,16 @@
  "release_date": "2024-07-08",
  "sha256": "65894a8a8a6be1d28d6f7ee5a653f67aaaaa8a27846a8f5ba181fc9123d15059",
  "tags": [
+  "author=aDaya",
   "commandline=-game tombofthunder",
   "exceeds_quake_limits=yes",
   "filename=tombofthunder_mod_2024_v1032a.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/tomb-of-thunder.357/)",
+  "release_date=2024-07-08",
   "startmap=start",
+  "title=Tomb of Thunder",
   "type=episode",
   "type=mod"
  ],

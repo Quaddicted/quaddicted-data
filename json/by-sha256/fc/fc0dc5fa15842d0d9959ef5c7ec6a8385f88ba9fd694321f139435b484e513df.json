@@ -947,6 +947,7 @@
  "release_date": "2022-07-16",
  "sha256": "fc0dc5fa15842d0d9959ef5c7ec6a8385f88ba9fd694321f139435b484e513df",
  "tags": [
+  "author=zigi",
   "commandline=-game zigisp2",
   "filename=zigisp2.zip",
   "game=quake",
@@ -959,12 +960,14 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=skybox",
   "nonspecific_tag=smej",
+  "release_date=2022-07-16",
   "source=included",
   "startmap=zigisp2",
   "theme=base",
   "theme=boss",
   "theme=doom",
   "theme=lava",
+  "title=Disposal Of Otherworldly Monsters",
   "type=mod"
  ],
  "title": "Disposal Of Otherworldly Monsters",

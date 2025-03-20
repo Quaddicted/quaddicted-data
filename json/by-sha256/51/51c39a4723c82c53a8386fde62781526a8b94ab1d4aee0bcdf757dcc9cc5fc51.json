@@ -48,6 +48,9 @@
  "release_date": "2005-09-30",
  "sha256": "51c39a4723c82c53a8386fde62781526a8b94ab1d4aee0bcdf757dcc9cc5fc51",
  "tags": [
+  "author=Daz",
+  "author=Tronyn",
+  "author=aguirRe",
   "commandline=-rogue -game nightjourney",
   "dependency=rogue",
   "filename=nightjourney_v2.zip",
@@ -57,10 +60,12 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev051101c.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "nonspecific_tag=start",
+  "release_date=2005-09-30",
   "startmap=njstart",
   "theme=dissolution of eternity",
   "theme=egyptian",
   "theme=temple",
+  "title=The Night Journey",
   "type=episode",
   "type=mod",
   "type=unfinished"

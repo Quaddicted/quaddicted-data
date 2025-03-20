@@ -51,12 +51,17 @@
  "release_date": "2004-01-18",
  "sha256": "64ecf6fd7fe340cad9a20da4e05e8ca8fea729146d3368239aa6c7bc5c825d94",
  "tags": [
+  "author=Fat Controller",
+  "author=Zwiffle",
+  "author=necros",
   "filename=sm63_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2004-01-18",
   "startmap=SM63_FAT",
   "startmap=sm63_necros",
   "startmap=sm63_zwiffle",
+  "title=Speedmapping pack 63 - No monsters (optional theme)",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

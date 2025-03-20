@@ -166,8 +166,10 @@
  "release_date": "2007-07-30",
  "sha256": "b074451982d1c8f860fcde4b2371af387fe237fec287681849087a3af602ff99",
  "tags": [
+  "author=JPL",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=5rivers.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -177,10 +179,12 @@
   "mod=quoth",
   "nonspecific_tag=hell",
   "nonspecific_tag=unique",
+  "release_date=2007-07-30",
   "startmap=5rivers_e1",
   "theme=doom",
   "theme=doom 3",
   "theme=quoth",
+  "title=The Five Rivers Land",
   "type=map",
   "zipbasedir=quoth/"
  ],

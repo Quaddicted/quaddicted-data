@@ -31,6 +31,7 @@
  "release_date": "2004-03-04",
  "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "tags": [
+  "author=Vondur",
   "filename=ac.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,6 +45,7 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=multi-theme",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2004-03-04",
   "startmap=ac",
   "startmap=acstart",
   "theme=bricks",
@@ -52,6 +54,7 @@
   "theme=stone",
   "theme=super secret",
   "theme=underground",
+  "title=Adamantine Cruelty",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -161,6 +161,11 @@
  "release_date": "2004-12-19",
  "sha256": "2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4",
  "tags": [
+  "author=Blitz",
+  "author=Headthump",
+  "author=Hrimfaxi",
+  "author=Jago",
+  "author=Zwiffle",
   "commandline=-game dkt1000",
   "filename=dkt1000.zip",
   "game=quake",
@@ -170,6 +175,7 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev050114a.html)",
   "map_size=medium",
   "nonspecific_tag=1000b",
+  "release_date=2004-12-19",
   "source=included",
   "startmap=1000zwei",
   "startmap=blitz1000",
@@ -179,6 +185,7 @@
   "startmap=zooloo",
   "theme=snow",
   "theme=winter",
+  "title=1000 Brush/Winter map pack",
   "type=contest",
   "type=mod",
   "zipbasedir=/"

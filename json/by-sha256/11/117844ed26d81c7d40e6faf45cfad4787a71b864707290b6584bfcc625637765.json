@@ -25,15 +25,18 @@
  "release_date": "1997-10-21",
  "sha256": "117844ed26d81c7d40e6faf45cfad4787a71b864707290b6584bfcc625637765",
  "tags": [
+  "author=Fredrik 'PeyloW' Olsson",
   "commandline=-game temple",
   "filename=temple2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=1997-10-21",
   "startmap=start",
   "theme=dungeon",
   "theme=traps",
   "theme=wizard",
+  "title=Temple of Tourment",
   "type=mod",
   "zipbasedir=temple/"
  ],

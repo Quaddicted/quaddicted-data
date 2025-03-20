@@ -40,6 +40,7 @@
  "release_date": "2018-07-27",
  "sha256": "ec0193f569dd41815ed760ac8e755a7122b870d5212bef23d9d232cce10a8bde",
  "tags": [
+  "author=Esrael",
   "exceeds_quake_limits=yes",
   "filename=amphitoa.zip",
   "game=quake",
@@ -51,10 +52,12 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=routes",
   "playstyle=tricks",
+  "release_date=2018-07-27",
   "source=included",
   "theme=bricks",
   "theme=medieval",
   "theme=wizard",
+  "title=Amphitheater Of Abaddon",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

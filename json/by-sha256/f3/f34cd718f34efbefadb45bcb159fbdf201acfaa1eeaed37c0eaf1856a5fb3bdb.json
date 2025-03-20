@@ -43,6 +43,7 @@
  "release_date": "2002-08-25",
  "sha256": "f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "commandline=-game alk12",
   "filename=alk12.zip",
   "game=quake",
@@ -52,9 +53,11 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=alk12)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev021102r2.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "release_date=2002-08-25",
   "theme=castle",
   "theme=fantasy",
   "theme=industrial",
+  "title=Fearcraft",
   "type=mod"
  ],
  "title": "Fearcraft",

@@ -211,8 +211,10 @@
  "release_date": "2008-08-18",
  "sha256": "39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3",
  "tags": [
+  "author=necros",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=ne_lend_doom.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -224,6 +226,7 @@
   "nonspecific_tag=rtgnosis",
   "nonspecific_tag=textures",
   "nonspecific_tag=unreal",
+  "release_date=2008-08-18",
   "startmap=ne_doom",
   "startmap=ne_lend",
   "theme=base",
@@ -231,6 +234,7 @@
   "theme=ikbase",
   "theme=quoth",
   "theme=space",
+  "title=The Living End & Elder World Waystation",
   "type=map",
   "zipbasedir=quoth/"
  ],

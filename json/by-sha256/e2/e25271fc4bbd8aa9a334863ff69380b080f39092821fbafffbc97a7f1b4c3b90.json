@@ -25,14 +25,17 @@
  "release_date": "1996-10-11",
  "sha256": "e25271fc4bbd8aa9a334863ff69380b080f39092821fbafffbc97a7f1b4c3b90",
  "tags": [
+  "author=Darin McNeil",
   "filename=alsc.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "nonspecific_tag=marble",
+  "release_date=1996-10-11",
   "theme=medieval",
   "theme=no exit",
   "theme=traps",
+  "title=ALSC Deathtrap",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

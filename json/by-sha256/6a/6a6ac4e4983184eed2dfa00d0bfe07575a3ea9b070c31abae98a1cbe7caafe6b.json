@@ -821,6 +821,11 @@
  "release_date": "2023-04-01",
  "sha256": "6a6ac4e4983184eed2dfa00d0bfe07575a3ea9b070c31abae98a1cbe7caafe6b",
  "tags": [
+  "author=4LT",
+  "author=Mazu",
+  "author=Pinchy",
+  "author=riktoi",
+  "author=zigi",
   "commandline=-game jokejam2",
   "filename=jokejam2.zip",
   "game=quake",
@@ -833,9 +838,11 @@
   "nonspecific_tag=pack",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2023-04-01",
   "source=included",
   "startmap=start",
   "theme=id1",
+  "title=Joke Jam 2 - Quake April Fools Mega Jokemap Extravaganza Incorporated 2",
   "type=mapjam",
   "type=mod"
  ],

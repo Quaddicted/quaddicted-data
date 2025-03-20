@@ -25,6 +25,7 @@
  "release_date": "1997-03-13",
  "sha256": "345b9911ed6ed13e36b78485853eeae95022ae240d1e513941185346132cfe87",
  "tags": [
+  "author=Chris Williams",
   "filename=disgrace.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,8 +33,10 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsd1.htm#disgrace)",
   "map_size=small",
   "nonspecific_tag=disbalanced",
+  "release_date=1997-03-13",
   "theme=base",
   "theme=medieval",
+  "title=Base of disgrace",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

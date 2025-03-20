@@ -41,6 +41,7 @@
  "release_group": "4fiffy2",
  "sha256": "d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd",
  "tags": [
+  "author=George J. Fiffy II",
   "filename=4fiffy2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -49,10 +50,15 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levels0-9.htm#fortress)",
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=medium",
+  "provides='4fiffy2=1.0'",
+  "release_date=1997-02-24",
+  "release_group=4fiffy2",
   "startmap=fiffy2",
   "theme=metal",
   "theme=wizard",
+  "title=REoL TOUGH: Fortress!",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "REoL TOUGH: Fortress!",

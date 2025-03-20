@@ -151,6 +151,7 @@
  "release_date": "2022-01-23",
  "sha256": "a3e636fadb0ee89d0661afd565d320f86a7bfb2fbe0e54c7a02da4683049bcaa",
  "tags": [
+  "author=Brendy Caldwell",
   "commandline=-game brendy2",
   "filename=brendy2.zip",
   "game=quake",
@@ -163,9 +164,11 @@
   "nonspecific_tag=makkon",
   "nonspecific_tag=playground",
   "nonspecific_tag=sci-fi",
+  "release_date=2022-01-23",
   "source=included",
   "startmap=brendy2",
   "theme=base",
+  "title=Hard Driven",
   "type=mod"
  ],
  "title": "Hard Driven",

@@ -19,6 +19,7 @@
  "release_date": "1999-01-14",
  "sha256": "034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999",
  "tags": [
+  "author=Unknown",
   "filename=pabc8.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -26,11 +27,13 @@
   "nonspecific_tag=azure",
   "nonspecific_tag=map17",
   "nonspecific_tag=simple",
+  "release_date=1999-01-14",
   "theme=bricks",
   "theme=doom",
   "theme=lava",
   "theme=outdoors",
   "theme=traps",
+  "title=Portal Endurance",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

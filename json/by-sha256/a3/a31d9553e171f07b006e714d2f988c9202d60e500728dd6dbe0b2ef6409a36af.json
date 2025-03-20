@@ -25,15 +25,18 @@
  "release_date": "1997-08-05",
  "sha256": "a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af",
  "tags": [
+  "author=Mike Woodham",
   "filename=fmb1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.mikewoodham.com",
   "map_size=medium",
+  "release_date=1997-08-05",
   "startmap=fmb",
   "theme=metal",
   "theme=traps",
   "theme=wizard",
+  "title=For My Babies",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

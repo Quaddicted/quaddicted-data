@@ -41,6 +41,8 @@
  "release_date": "2021-01-13",
  "sha256": "1d7f3016b23b486b1a8c2ccb96cbfdb2c961ac89c9d6aad7c1b1e8236eaa6a56",
  "tags": [
+  "author=Bal",
+  "author=Greenwood",
   "commandline=-game circulation",
   "exceeds_quake_limits=yes",
   "filename=circulation.zip",
@@ -59,6 +61,7 @@
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
+  "release_date=2021-01-13",
   "startmap=circshad",
   "startmap=start",
   "theme=base",
@@ -66,6 +69,7 @@
   "theme=industrial",
   "theme=rubicon",
   "theme=underground",
+  "title=The Circulation of Shadows",
   "type=mod",
   "zipbasedir=/"
  ],

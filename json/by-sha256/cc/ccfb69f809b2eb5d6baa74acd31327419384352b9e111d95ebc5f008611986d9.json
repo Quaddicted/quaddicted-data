@@ -32,11 +32,15 @@
  "release_date": "2006-10-17",
  "sha256": "ccfb69f809b2eb5d6baa74acd31327419384352b9e111d95ebc5f008611986d9",
  "tags": [
+  "author=bambuz",
+  "author=negke",
   "filename=sm128_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2006-10-17",
   "startmap=sm128_generic",
   "startmap=sm128_neg!ke",
+  "title=Speedmapping pack 128 - Building on a strange animal",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

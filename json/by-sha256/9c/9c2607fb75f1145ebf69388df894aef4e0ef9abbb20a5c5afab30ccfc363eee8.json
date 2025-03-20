@@ -55,8 +55,10 @@
  "release_date": "2021-05-04",
  "sha256": "9c2607fb75f1145ebf69388df894aef4e0ef9abbb20a5c5afab30ccfc363eee8",
  "tags": [
+  "author=sock",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "filename=test_chaos1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -70,8 +72,10 @@
   "nonspecific_tag=prototype",
   "nonspecific_tag=textures",
   "nonspecific_tag=wad",
+  "release_date=2021-05-04",
   "source=included",
   "theme=arcane dimensions",
+  "title=Chaotic Trinity",
   "type=map",
   "zipbasedir=ad/"
  ],

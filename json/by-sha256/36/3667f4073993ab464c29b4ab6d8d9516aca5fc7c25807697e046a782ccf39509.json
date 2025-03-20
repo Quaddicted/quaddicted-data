@@ -25,6 +25,7 @@
  "release_date": "2015-12-10",
  "sha256": "3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509",
  "tags": [
+  "author=kukkye",
   "filename=hellhole.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "nonspecific_tag=platforming",
   "nonspecific_tag=rj",
   "nonspecific_tag=trickjump",
+  "release_date=2015-12-10",
   "theme=base",
+  "title=Hellhole",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

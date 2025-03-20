@@ -43,6 +43,7 @@
  "release_date": "2015-09-02",
  "sha256": "5b7c0b004bdfea7d1fceb9a70e71eaccdb8f14399679986206779a61a28e2012",
  "tags": [
+  "author=Adib Murad",
   "filename=signati.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -51,6 +52,7 @@
   "nonspecific_tag=cliff",
   "nonspecific_tag=debut",
   "nonspecific_tag=vanilla",
+  "release_date=2015-09-02",
   "source=included",
   "startmap=signati",
   "theme=cave",
@@ -58,6 +60,7 @@
   "theme=puzzle",
   "theme=rock",
   "theme=temple",
+  "title=Signati",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

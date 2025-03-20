@@ -25,6 +25,7 @@
  "release_date": "2005-09-02",
  "sha256": "1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9",
  "tags": [
+  "author=John \"metlslime\" Fitzgibbons",
   "filename=ant.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,11 +34,13 @@
   "link:review=[Tronyn's Top 10: Runic](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a3.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev050905.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "release_date=2005-09-02",
   "theme=classic",
   "theme=e3m5",
   "theme=metal",
   "theme=quake the way id did",
   "theme=wind tunnels",
+  "title=Antediluvian",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -86,6 +86,11 @@
  "release_date": "2014-11-23",
  "sha256": "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
  "tags": [
+  "author=Scampie",
+  "author=Skacky",
+  "author=ericw",
+  "author=mfx",
+  "author=sock",
   "commandline=-game retrojam1",
   "filename=retrojam1.zip",
   "game=quake",
@@ -94,6 +99,7 @@
   "link=[QuakeOne](http://quakeone.com/news/site-news/11263-map-jam-4-retro-jam-1-a.html)",
   "map_size=small",
   "nonspecific_tag=skybox",
+  "release_date=2014-11-23",
   "source=included",
   "startmap=retrojam1_ericw",
   "startmap=retrojam1_mfx",
@@ -104,6 +110,7 @@
   "theme=fog",
   "theme=medieval",
   "theme=traps",
+  "title=Retro Jam 1 - Medieval/Castle Theme",
   "type=mapjam",
   "type=mod",
   "zipbasedir=retrojam1/"

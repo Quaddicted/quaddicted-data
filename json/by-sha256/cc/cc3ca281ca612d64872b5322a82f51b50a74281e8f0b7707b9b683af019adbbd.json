@@ -59,6 +59,7 @@
  "release_date": "2022-10-31",
  "sha256": "cc3ca281ca612d64872b5322a82f51b50a74281e8f0b7707b9b683af019adbbd",
  "tags": [
+  "author=JPal",
   "bsp_format=bsp2",
   "commandline=-game jpqm13",
   "exceeds_quake_limits=yes",
@@ -74,10 +75,12 @@
   "music=custom",
   "nonspecific_tag=pd",
   "nonspecific_tag=progs_dump",
+  "release_date=2022-10-31",
   "source=included",
   "startmap=jpqm13",
   "theme=base",
   "theme=lava",
+  "title=Concrete Meltdown",
   "type=mod"
  ],
  "title": "Concrete Meltdown",

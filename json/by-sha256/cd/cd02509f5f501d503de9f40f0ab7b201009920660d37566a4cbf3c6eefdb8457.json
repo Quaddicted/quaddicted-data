@@ -31,13 +31,16 @@
  "release_date": "2022-03-03",
  "sha256": "cd02509f5f501d503de9f40f0ab7b201009920660d37566a4cbf3c6eefdb8457",
  "tags": [
+  "author=Luigiman2020",
   "filename=quakedvm.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=school",
+  "release_date=2022-03-03",
   "startmap=quakedvm",
   "theme=realism",
+  "title=Quake DVM",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

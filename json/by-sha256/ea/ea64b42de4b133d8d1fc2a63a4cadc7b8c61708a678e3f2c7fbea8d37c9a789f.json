@@ -34,6 +34,7 @@
  "release_date": "1998-07-01",
  "sha256": "ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f",
  "tags": [
+  "author=Charles Daniel",
   "filename=asylum_2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -41,7 +42,9 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=asylum)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "release_date=1998-07-01",
   "startmap=asylum",
+  "title=The Asylum",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

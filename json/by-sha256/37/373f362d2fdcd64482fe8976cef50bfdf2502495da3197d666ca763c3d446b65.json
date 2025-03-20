@@ -1048,13 +1048,16 @@
  "release_date": "2023-11-06",
  "sha256": "373f362d2fdcd64482fe8976cef50bfdf2502495da3197d666ca763c3d446b65",
  "tags": [
+  "author=GunSgtHighway",
   "commandline=-game gsh_castleod",
   "exceedslimits=exceeds_quake_limits",
   "filename=gsh_castleod.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/castle-of-doom.282/)",
+  "release_date=2023-11-06",
   "startmap=start",
+  "title=Castle of Doom",
   "type=episode",
   "type=mod"
  ],

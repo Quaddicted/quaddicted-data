@@ -25,6 +25,7 @@
  "release_date": "2007-09-22",
  "sha256": "c42c5dc26e774e59ea9dfcbc628d0477a6357ef6fa4d6e06f7cc3e405f0f6ca5",
  "tags": [
+  "author=Mikko Sandt",
   "filename=distractions.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev080106.html#2ndreview)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "map_size=medium",
+  "release_date=2007-09-22",
   "startmap=distract",
   "theme=base",
   "theme=ikbase",
+  "title=MSQ1: Distractions",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

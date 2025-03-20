@@ -35,6 +35,8 @@
  "release_date": "2015-04-29",
  "sha256": "7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818",
  "tags": [
+  "author=FifthElephant",
+  "author=skacky",
   "commandline=-game retrojam3",
   "filename=retrojam3.zip",
   "game=quake",
@@ -44,11 +46,13 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=skybox",
+  "release_date=2015-04-29",
   "source=included",
   "startmap=retrojam3_fifth",
   "startmap=retrojam3_skacky",
   "theme=metal",
   "theme=runic",
+  "title=Retro Jam 3 - Vertical Metal/Runic Theme",
   "type=mapjam",
   "type=mod",
   "zipbasedir=retrojam3/"

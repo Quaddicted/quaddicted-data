@@ -67,6 +67,7 @@
  "release_date": "2005-06-27",
  "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "tags": [
+  "author=Matt \"Lunaran\"  Breit",
   "commandline=-game lunsp1",
   "filename=lunsp1.zip",
   "game=quake",
@@ -81,9 +82,11 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=strogg",
   "nonspecific_tag=textures",
+  "release_date=2005-06-27",
   "theme=base",
   "theme=boss",
   "theme=quake 2",
+  "title=Concentric Devastation",
   "type=mod",
   "zipbasedir=lunsp1/"
  ],

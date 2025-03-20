@@ -766,6 +766,7 @@
  "release_date": "2021-02-24",
  "sha256": "7eb5ad28389039e362fea730b59cdd7ae2e624ffaddd9b618615bdbef9583054",
  "tags": [
+  "author=DragonsForLunch",
   "commandline=-game dfl_godfreys",
   "exceeds_quake_limits=yes",
   "filename=dfl_godfreys.zip",
@@ -780,10 +781,12 @@
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
+  "release_date=2021-02-24",
   "source=included",
   "theme=bricks",
   "theme=castle",
   "theme=medieval",
+  "title=Godfreys Demesne",
   "type=mod",
   "zipbasedir=/"
  ],

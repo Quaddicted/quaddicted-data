@@ -37,6 +37,7 @@
  "release_date": "1999-08-13",
  "sha256": "70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae",
  "tags": [
+  "author=Tim Elek",
   "filename=golgotha.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -46,9 +47,11 @@
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=start",
+  "release_date=1999-08-13",
   "startmap=gol_st",
   "theme=medieval",
   "theme=wizard",
+  "title=Castle Golgotha",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

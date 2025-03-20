@@ -43,6 +43,7 @@
  "release_date": "2012-07-25",
  "sha256": "2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16",
  "tags": [
+  "author=digs",
   "filename=sm168_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -50,9 +51,11 @@
   "map_layout=maze",
   "mod=rubicon",
   "nonspecific_tag=cr8",
+  "release_date=2012-07-25",
   "startmap=sm168_digs",
   "startmap=sm168_digs2",
   "theme=rubicon",
+  "title=Speedmapping Pack 168 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

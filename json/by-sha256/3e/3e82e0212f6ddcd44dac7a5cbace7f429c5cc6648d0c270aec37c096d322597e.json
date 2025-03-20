@@ -39,12 +39,17 @@
  "release_date": "2001-09-18",
  "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "tags": [
+  "author=Apollo",
+  "author=Starbuck",
+  "author=than",
   "filename=sm33_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2001-09-18",
   "startmap=sm33_ap",
   "startmap=sm33_sb",
   "startmap=sm33_than",
+  "title=Speedmapping pack 33 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

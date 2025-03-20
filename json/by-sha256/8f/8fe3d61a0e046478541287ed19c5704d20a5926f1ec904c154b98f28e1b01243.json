@@ -58,6 +58,7 @@
  "release_date": "2018-05-02",
  "sha256": "8fe3d61a0e046478541287ed19c5704d20a5926f1ec904c154b98f28e1b01243",
  "tags": [
+  "author=Esrael",
   "commandline=-game sthangar",
   "exceeds_quake_limits=yes",
   "filename=sthangar.zip",
@@ -70,10 +71,12 @@
   "nonspecific_tag=models",
   "nonspecific_tag=multiple exits",
   "nonspecific_tag=routes",
+  "release_date=2018-05-02",
   "source=included",
   "theme=base",
   "theme=realism",
   "theme=slime",
+  "title=The Subterrestrial Hangar",
   "type=mod",
   "zipbasedir=/"
  ],

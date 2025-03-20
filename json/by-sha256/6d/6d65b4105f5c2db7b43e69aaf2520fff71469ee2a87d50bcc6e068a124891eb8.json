@@ -25,6 +25,7 @@
  "release_date": "1997-06-18",
  "sha256": "6d65b4105f5c2db7b43e69aaf2520fff71469ee2a87d50bcc6e068a124891eb8",
  "tags": [
+  "author=Chris Mayers",
   "filename=hive.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,8 +34,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "release_date=1997-06-18",
   "theme=base",
   "theme=wizard",
+  "title=Hive, part I",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

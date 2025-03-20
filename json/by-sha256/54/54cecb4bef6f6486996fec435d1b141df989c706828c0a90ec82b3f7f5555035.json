@@ -25,15 +25,18 @@
  "release_date": "1997-10-04",
  "sha256": "54cecb4bef6f6486996fec435d1b141df989c706828c0a90ec82b3f7f5555035",
  "tags": [
+  "author=Dennis Katsonis",
   "filename=medlab.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
+  "release_date=1997-10-04",
   "theme=base",
   "theme=brick",
   "theme=crampy",
   "theme=metal",
   "theme=mixtex",
+  "title=Med Labs",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

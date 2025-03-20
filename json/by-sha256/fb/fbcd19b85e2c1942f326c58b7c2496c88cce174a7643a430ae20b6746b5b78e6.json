@@ -79,8 +79,10 @@
  "release_date": "2007-05-10",
  "sha256": "fbcd19b85e2c1942f326c58b7c2496c88cce174a7643a430ae20b6746b5b78e6",
  "tags": [
+  "author=ijed",
   "commandline=-heapsize 64000 -quoth -game warp +max_edicts 2048",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=warpspasm.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -95,6 +97,7 @@
   "nonspecific_tag=epic",
   "nonspecific_tag=evil",
   "nonspecific_tag=exhausting",
+  "release_date=2007-05-10",
   "startmap=start",
   "theme=base",
   "theme=horror",
@@ -104,6 +107,7 @@
   "theme=medieval",
   "theme=quoth",
   "theme=rubicon",
+  "title=Warp Spasm",
   "type=episode",
   "type=mod"
  ],

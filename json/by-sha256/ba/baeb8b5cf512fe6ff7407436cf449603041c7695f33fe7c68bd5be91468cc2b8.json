@@ -34,6 +34,7 @@
  "release_date": "2022-07-04",
  "sha256": "baeb8b5cf512fe6ff7407436cf449603041c7695f33fe7c68bd5be91468cc2b8",
  "tags": [
+  "author=Suzanne 'Trashbang' Will",
   "exceeds_quake_limits=yes",
   "filename=suzyhrt.zip",
   "game=quake",
@@ -41,9 +42,11 @@
   "link:homepage=http://binarypartitioned.space/",
   "map_size=small",
   "nonspecific_tag=makkon",
+  "release_date=2022-07-04",
   "source=included",
   "startmap=suzyhrt",
   "theme=base",
+  "title=Head Reattachment Trauma",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

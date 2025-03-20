@@ -103,14 +103,17 @@
  "release_date": "2015-08-30",
  "sha256": "7bbf4ec8c6c2599bfbc22e8b88636781bb3e8c095ff23b8e5e509d88558c2a25",
  "tags": [
+  "author=Ruin",
   "commandline=-game cradle",
   "filename=cradle.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[QuakeOne](http://quakeone.com/news/site-news/11741-new-sp-quake-map-cradle-grave-available-now.html)",
+  "release_date=2015-08-30",
   "startmap=cradle",
   "theme=blood",
   "theme=remake",
+  "title=Cradle to the Grave",
   "type=mod"
  ],
  "title": "Cradle to the Grave",

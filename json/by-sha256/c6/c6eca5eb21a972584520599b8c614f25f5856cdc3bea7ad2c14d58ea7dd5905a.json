@@ -25,6 +25,7 @@
  "release_date": "1996-10-11",
  "sha256": "c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a",
  "tags": [
+  "author=Psycho",
   "filename=marsbase.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelsm1.htm)",
   "nonspecific_tag=broken",
   "nonspecific_tag=hub",
+  "release_date=1996-10-11",
   "theme=base",
   "theme=no exit",
   "theme=weird",
+  "title=Marsbase",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

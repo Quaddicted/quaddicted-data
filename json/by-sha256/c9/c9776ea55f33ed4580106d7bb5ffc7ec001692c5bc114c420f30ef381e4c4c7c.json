@@ -43,8 +43,10 @@
  "release_date": "2008-06-29",
  "sha256": "c9776ea55f33ed4580106d7bb5ffc7ec001692c5bc114c420f30ef381e4c4c7c",
  "tags": [
+  "author=ijed",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=hulk256.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -58,9 +60,11 @@
   "nonspecific_tag=scary",
   "nonspecific_tag=spacehulk",
   "nonspecific_tag=warhammer",
+  "release_date=2008-06-29",
   "theme=horror",
   "theme=ikbase",
   "theme=quoth",
+  "title=Data Download",
   "type=contest",
   "type=map",
   "zipbasedir=quoth/maps/"

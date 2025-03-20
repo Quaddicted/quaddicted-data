@@ -939,15 +939,22 @@
  "release_group": "immortal",
  "sha256": "a04aee22a146df6dd97db37932c7c96028307dab4f6f96e15944bd0e5006bd5b",
  "tags": [
+  "author=ComfyByTheFire",
   "commandline=-game immortal",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
   "filename=immortal_v1_9.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/the-immortal-lock.371/)",
+  "provides='immortal=1.9'",
+  "release_date=2024-08-04",
+  "release_group=immortal",
   "startmap=start",
+  "title=The Immortal Lock",
   "type=map",
-  "type=mod"
+  "type=mod",
+  "version=1.9"
  ],
  "title": "The Immortal Lock",
  "urls": [

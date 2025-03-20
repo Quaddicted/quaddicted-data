@@ -55,6 +55,9 @@
  "release_group": "quoth",
  "sha256": "b822648bbac7a2a46e091d0ca38698d190252d814fd4ddb207fe823be1520399",
  "tags": [
+  "author=Kell",
+  "author=Preach",
+  "author=necros",
   "commandline=-game quoth -quoth",
   "filename=quoth2pt2full.zip",
   "game=quake",
@@ -63,7 +66,12 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
   "nuked=yes",
   "patch=no",
+  "provides='quoth=2.2'",
+  "release_date=2014-05-04",
+  "release_group=quoth",
+  "title=[NUKED]",
   "type=mod",
+  "version=2.2",
   "zipbasedir=quoth/"
  ],
  "title": "[NUKED]",

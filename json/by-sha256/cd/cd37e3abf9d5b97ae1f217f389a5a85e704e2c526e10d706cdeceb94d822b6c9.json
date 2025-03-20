@@ -133,6 +133,7 @@
  "release_date": "1997-04-01",
  "sha256": "cd37e3abf9d5b97ae1f217f389a5a85e704e2c526e10d706cdeceb94d822b6c9",
  "tags": [
+  "author=Virtus",
   "commandline=-game virtus",
   "filename=virtus.zip",
   "game=quake",
@@ -145,6 +146,7 @@
   "nonspecific_tag=subway",
   "nonspecific_tag=texture mess",
   "nonspecific_tag=textures",
+  "release_date=1997-04-01",
   "startmap=ve1m1",
   "startmap=ve1m2",
   "startmap=ve1m3",
@@ -162,6 +164,7 @@
   "theme=prison",
   "theme=realism",
   "theme=weird",
+  "title=Deathmatch Maker Demo Episode",
   "type=episode",
   "type=mod"
  ],

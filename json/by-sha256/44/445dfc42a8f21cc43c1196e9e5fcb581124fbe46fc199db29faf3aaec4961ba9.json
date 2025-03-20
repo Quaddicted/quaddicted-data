@@ -34,8 +34,10 @@
  "release_date": "2013-04-23",
  "sha256": "445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9",
  "tags": [
+  "author=mfx",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=mfxsp10.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,6 +46,7 @@
   "mod=quoth",
   "nonspecific_tag=interconnectivity",
   "nonspecific_tag=than",
+  "release_date=2013-04-23",
   "source=included",
   "theme=boss",
   "theme=caverns",
@@ -51,6 +54,7 @@
   "theme=quoth",
   "theme=ruins",
   "theme=underground",
+  "title=Pain in the Arch",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

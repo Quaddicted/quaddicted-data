@@ -49,6 +49,7 @@
  "release_date": "1997-01-09",
  "sha256": "ff956657ac3632cdedc153f19a1f0cd828db391d75846b20260d9604a49e92be",
  "tags": [
+  "author=Bad Ash",
   "filename=arenaq.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -58,10 +59,12 @@
   "map_size=large",
   "nonspecific_tag=crap",
   "nonspecific_tag=room",
+  "release_date=1997-01-09",
   "source=included",
   "startmap=arena3",
   "theme=base",
   "theme=no exit",
+  "title=Arenaq",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

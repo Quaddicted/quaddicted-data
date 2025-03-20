@@ -37,6 +37,7 @@
  "release_date": "1997-04-21",
  "sha256": "d68bdf601f525049b1537fe2a0095408b129dd76cf5ea61bf0983fab34ef9570",
  "tags": [
+  "author=Dr. Gomez Inigo Bombay",
   "filename=agx.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -45,8 +46,10 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "map_size=medium",
   "nonspecific_tag=textures",
+  "release_date=1997-04-21",
   "theme=base",
   "theme=mixtex",
+  "title=House of Bombay",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "2006-04-15",
  "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "tags": [
+  "author=Hrimfaxi",
   "filename=sewage.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,12 +33,14 @@
   "link=[Func_msgboard](http://www.celephais.net/board/view_thread.php?id=44919)",
   "nonspecific_tag=difficult",
   "nonspecific_tag=hard",
+  "release_date=2006-04-15",
   "theme=medieval",
   "theme=metal",
   "theme=sewer",
   "theme=swamp",
   "theme=traps",
   "theme=wizard",
+  "title=Sewage devastation",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

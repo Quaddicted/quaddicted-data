@@ -31,6 +31,7 @@
  "release_date": "1997-10-28",
  "sha256": "cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c",
  "tags": [
+  "author=Timothy R. Jervis (Kew)",
   "filename=kewsampl.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -39,11 +40,13 @@
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=rise of the phoenix",
+  "release_date=1997-10-28",
   "startmap=kewmap1",
   "theme=outdoor",
   "theme=snow",
   "theme=village",
   "theme=wizard",
+  "title=Illhaven Winter & The Bastion of Skull",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

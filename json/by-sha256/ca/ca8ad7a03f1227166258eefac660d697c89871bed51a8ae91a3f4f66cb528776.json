@@ -59,9 +59,15 @@
  "release_date": "2001-08-14",
  "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "tags": [
+  "author=Notorious Ray",
+  "author=Scampie",
+  "author=Speedy",
+  "author=Starbuck",
+  "author=than",
   "filename=sm30_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2001-08-14",
   "startmap=sm30_ray",
   "startmap=sm30_sb1",
   "startmap=sm30_sb2",
@@ -69,6 +75,7 @@
   "startmap=sm30_speedy",
   "startmap=sm30_than",
   "theme=spd",
+  "title=Speedmapping pack 30 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

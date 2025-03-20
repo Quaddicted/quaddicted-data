@@ -34,6 +34,7 @@
  "release_date": "2013-07-06",
  "sha256": "f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48",
  "tags": [
+  "author=sock",
   "commandline=-game backstein",
   "exceeds_quake_limits=yes",
   "filename=backstein1e.zip",
@@ -44,12 +45,14 @@
   "map_size=large",
   "nonspecific_tag=items",
   "nonspecific_tag=start map",
+  "release_date=2013-07-06",
   "source=included",
   "startmap=backstein",
   "theme=bricks",
   "theme=medieval",
   "theme=secrets",
   "theme=wind tunnels",
+  "title=Backsteingotik",
   "type=mod",
   "zipbasedir=backstein/"
  ],

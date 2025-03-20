@@ -28,7 +28,9 @@
  "release_date": "1997-06-24",
  "sha256": "b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
  "tags": [
+  "author=Iikka \"Fingers\" Ker\u00e4nen",
   "dependency=ikspq5",
+  "depends=f60aa159e22e7c0e5a1df78a73185610c84b01b9e1a91c5a90c7955e3b622466",
   "filename=ikspq4.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,9 +45,11 @@
   "nonspecific_tag=mustplay",
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=series",
+  "release_date=1997-06-24",
   "theme=blue",
   "theme=ikblue",
   "theme=temple",
+  "title=Homecoming",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

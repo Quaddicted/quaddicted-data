@@ -34,6 +34,7 @@
  "release_date": "2013-02-22",
  "sha256": "53cb70901c7e10d72a05a427dea8b3c07c07d659294cf5f47ea4796422d4026a",
  "tags": [
+  "author=negke",
   "filename=mce.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -45,6 +46,7 @@
   "nonspecific_tag=hacks",
   "nonspecific_tag=rax",
   "nonspecific_tag=unique",
+  "release_date=2013-02-22",
   "source=included",
   "theme=experimental",
   "theme=exploration",
@@ -52,6 +54,7 @@
   "theme=medieval",
   "theme=puzzles",
   "theme=realism",
+  "title=Ascending & Descending",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

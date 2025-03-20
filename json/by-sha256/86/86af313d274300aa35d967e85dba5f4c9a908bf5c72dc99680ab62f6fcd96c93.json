@@ -46,6 +46,7 @@
  "release_date": "2021-08-02",
  "sha256": "86af313d274300aa35d967e85dba5f4c9a908bf5c72dc99680ab62f6fcd96c93",
  "tags": [
+  "author=Bonn",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=putrid.zip",
@@ -55,11 +56,13 @@
   "map_size=large",
   "nonspecific_tag=pipes",
   "nonspecific_tag=unvised",
+  "release_date=2021-08-02",
   "source=included",
   "theme=industrial",
   "theme=metal",
   "theme=runic",
   "theme=slime",
+  "title=The Putrid Pumps",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -37,6 +37,7 @@
  "release_date": "1998-01-20",
  "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [
+  "author=J.F.Gustafsson",
   "commandline=-game lastgame",
   "filename=lastgame.zip",
   "game=quake",
@@ -44,8 +45,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990131.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1998-01-20",
   "startmap=start",
   "theme=traps",
+  "title=The last game",
   "type=mod",
   "zipbasedir=lastgame/"
  ],

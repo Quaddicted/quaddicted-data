@@ -73,13 +73,16 @@
  "release_date": "1997-11-10",
  "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "tags": [
+  "author=Noel Weer",
   "commandline=-game schist",
   "filename=schist.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev981225.html)",
   "nonspecific_tag=ice",
+  "release_date=1997-11-10",
   "startmap=start",
+  "title=Schist",
   "type=episode",
   "type=mod",
   "zipbasedir=schist/"

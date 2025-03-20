@@ -25,6 +25,7 @@
  "release_date": "1999-07-13",
  "sha256": "1433b377fcfceb815b0579a3c72c7055b67ee5da0500a0862840436c756e8523",
  "tags": [
+  "author=Peter Bisseker (tiddles)",
   "filename=outpost-alpha.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,7 +34,9 @@
   "map_size=small",
   "nonspecific_tag=base rust",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-07-13",
   "theme=quake 2",
+  "title=Outpost alpha",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

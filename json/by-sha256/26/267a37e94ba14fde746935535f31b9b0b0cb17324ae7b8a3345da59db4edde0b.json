@@ -138,6 +138,7 @@
  "release_date": "2022-04-23",
  "sha256": "267a37e94ba14fde746935535f31b9b0b0cb17324ae7b8a3345da59db4edde0b",
  "tags": [
+  "author=Peter Bisseker (Tiddles)",
   "commandline=-game tiddles",
   "filename=tiddles.zip",
   "game=quake",
@@ -146,6 +147,7 @@
   "map_size=small",
   "nonspecific_tag=coop",
   "nonspecific_tag=wizmet",
+  "release_date=2022-04-23",
   "startmap=garrison",
   "startmap=outpost-alpha",
   "startmap=rift",
@@ -158,6 +160,7 @@
   "theme=lava",
   "theme=medieval",
   "theme=water",
+  "title=Realm of Tiddles",
   "type=episode",
   "type=mod"
  ],

@@ -25,11 +25,13 @@
  "release_date": "2017-04-29",
  "sha256": "1e4b57cb16874d53e57393e7a7a1cd0a1ec0bd936b966ec8f8ac6583394874b8",
  "tags": [
+  "author=Redfield",
   "filename=redfield1.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61451)",
   "map_size=medium",
+  "release_date=2017-04-29",
   "theme=caverns",
   "theme=church",
   "theme=classic",
@@ -38,6 +40,7 @@
   "theme=oldschool",
   "theme=rock",
   "theme=terracotta",
+  "title=Unknown Kadath",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

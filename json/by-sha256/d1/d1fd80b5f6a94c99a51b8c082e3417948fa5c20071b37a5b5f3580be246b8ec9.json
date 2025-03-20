@@ -31,9 +31,11 @@
  "release_date": "2013-12-11",
  "sha256": "d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9",
  "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
   "bsp_format=bsp2",
   "commandline=-game drake",
   "dependency=drake290111",
+  "depends=('drake>=1.0')",
   "exceeds_quake_limits=yes",
   "filename=nyarlathotep.zip",
   "game=quake",
@@ -45,6 +47,7 @@
   "nonspecific_tag=gravity",
   "nonspecific_tag=hard",
   "nonspecific_tag=unique",
+  "release_date=2013-12-11",
   "startmap=nyar",
   "startmap=nyar2",
   "theme=blood",
@@ -52,6 +55,7 @@
   "theme=experimental",
   "theme=knave",
   "theme=temple",
+  "title=Nyarlathotep",
   "type=mod",
   "zipbasedir=wicked/"
  ],

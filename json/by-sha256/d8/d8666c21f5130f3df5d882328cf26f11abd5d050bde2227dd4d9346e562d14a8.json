@@ -25,12 +25,15 @@
  "release_date": "1997-12-12",
  "sha256": "d8666c21f5130f3df5d882328cf26f11abd5d050bde2227dd4d9346e562d14a8",
  "tags": [
+  "author=Daryl Deep",
   "commandline=-game seaview",
   "filename=seaview.zip",
   "game=quake",
   "game_mode=singleplayer",
   "nonspecific_tag=submarine",
+  "release_date=1997-12-12",
   "theme=base",
+  "title=Seaview",
   "type=mod",
   "zipbasedir=seaview/"
  ],

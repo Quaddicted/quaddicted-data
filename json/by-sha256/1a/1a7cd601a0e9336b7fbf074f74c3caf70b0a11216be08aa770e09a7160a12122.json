@@ -25,6 +25,7 @@
  "release_date": "1999-10-29",
  "sha256": "1a7cd601a0e9336b7fbf074f74c3caf70b0a11216be08aa770e09a7160a12122",
  "tags": [
+  "author=Ilkka Kurkela",
   "filename=mcomplex.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,7 +35,9 @@
   "map_size=small",
   "nonspecific_tag=planetquake-map-of-the-week",
   "playstyle=speedrunning",
+  "release_date=1999-10-29",
   "theme=base",
+  "title=The Mining Complex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

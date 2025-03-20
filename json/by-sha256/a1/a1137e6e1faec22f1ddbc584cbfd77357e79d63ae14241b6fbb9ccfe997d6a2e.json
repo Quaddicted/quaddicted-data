@@ -227,6 +227,8 @@
  "release_date": "2011-06-26",
  "sha256": "a1137e6e1faec22f1ddbc584cbfd77357e79d63ae14241b6fbb9ccfe997d6a2e",
  "tags": [
+  "author=PM",
+  "author=Tronyn",
   "commandline=-game unforgiven -heapsize 64000 +max_edicts 2048",
   "exceeds_quake_limits=yes",
   "filename=unforgiven.zip",
@@ -244,6 +246,7 @@
   "nonspecific_tag=textures",
   "nonspecific_tag=weapons",
   "playstyle=horde",
+  "release_date=2011-06-26",
   "startmap=unfstart",
   "theme=boss",
   "theme=castle",
@@ -251,6 +254,7 @@
   "theme=fantasy",
   "theme=medieval",
   "theme=tower",
+  "title=Unforgiven",
   "type=episode",
   "type=mod",
   "zipbasedir=unforgiven/"

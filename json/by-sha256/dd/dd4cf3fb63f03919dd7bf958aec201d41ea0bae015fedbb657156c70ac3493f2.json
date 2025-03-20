@@ -88,8 +88,10 @@
  "release_date": "2009-01-21",
  "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
  "tags": [
+  "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "exceeds_quake_limits=yes",
   "filename=starkmon.zip",
   "game=quake",
@@ -97,9 +99,11 @@
   "map_size=huge",
   "map_size=large",
   "mod=quoth",
+  "release_date=2009-01-21",
   "theme=base",
   "theme=idbase",
   "theme=quoth",
+  "title=Stark Monstrosity",
   "type=map",
   "zipbasedir=quoth/"
  ],

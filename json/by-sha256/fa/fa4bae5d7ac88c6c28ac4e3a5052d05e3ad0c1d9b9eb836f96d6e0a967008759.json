@@ -112,6 +112,7 @@
  "release_date": "2017-07-08",
  "sha256": "fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759",
  "tags": [
+  "author=Serge Jaeken",
   "commandline=-game contract",
   "exceeds_quake_limits=yes",
   "filename=contract_2.zip",
@@ -123,12 +124,14 @@
   "nonspecific_tag=cathedral",
   "nonspecific_tag=crypt",
   "nonspecific_tag=skybox",
+  "release_date=2017-07-08",
   "startmap=contract",
   "startmap=intro",
   "theme=church",
   "theme=knave",
   "theme=space",
   "theme=tomb",
+  "title=The Contract",
   "type=mod",
   "zipbasedir=/"
  ],

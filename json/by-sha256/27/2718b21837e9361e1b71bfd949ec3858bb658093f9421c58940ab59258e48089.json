@@ -34,6 +34,7 @@
  "release_date": "2022-10-05",
  "sha256": "2718b21837e9361e1b71bfd949ec3858bb658093f9421c58940ab59258e48089",
  "tags": [
+  "author=wind_f",
   "exceeds_quake_limits=yes",
   "filename=windfsp1.zip",
   "game=quake",
@@ -42,12 +43,14 @@
   "nonspecific_tag=debut",
   "nonspecific_tag=elder",
   "nonspecific_tag=vanilla",
+  "release_date=2022-10-05",
   "source=included",
   "startmap=windfsp1",
   "theme=classic",
   "theme=id1",
   "theme=medieval",
   "theme=wizard",
+  "title=The Temple of Nightmares",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

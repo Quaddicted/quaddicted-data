@@ -40,6 +40,7 @@
  "release_date": "2021-02-04",
  "sha256": "9cad975af31272bc7c3ea1d8733c1435e475fa388367b691c857c88ff984f018",
  "tags": [
+  "author=ShockedHorizon5",
   "exceeds_quake_limits=yes",
   "filename=cotcg.zip",
   "game=quake",
@@ -49,11 +50,13 @@
   "nonspecific_tag=ebon",
   "nonspecific_tag=mountain",
   "nonspecific_tag=rocks",
+  "release_date=2021-02-04",
   "source=included",
   "startmap=CotCG",
   "theme=castle",
   "theme=medieval",
   "theme=mixtex",
+  "title=Court of the Chaos God",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

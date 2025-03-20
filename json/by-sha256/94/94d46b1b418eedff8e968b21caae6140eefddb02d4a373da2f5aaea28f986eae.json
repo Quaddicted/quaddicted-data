@@ -25,6 +25,7 @@
  "release_date": "1997-09-14",
  "sha256": "94d46b1b418eedff8e968b21caae6140eefddb02d4a373da2f5aaea28f986eae",
  "tags": [
+  "author=Matt Sefton",
   "filename=arcane.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,11 +39,13 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-09-14",
   "theme=classic",
   "theme=metal",
   "theme=oldschool",
   "theme=quake the way id did",
   "theme=runic",
+  "title=Arcane",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

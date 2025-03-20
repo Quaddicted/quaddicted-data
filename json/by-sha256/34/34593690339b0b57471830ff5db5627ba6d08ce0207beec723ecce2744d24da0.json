@@ -97,9 +97,11 @@
  "release_date": "2021-01-28",
  "sha256": "34593690339b0b57471830ff5db5627ba6d08ce0207beec723ecce2744d24da0",
  "tags": [
+  "author=Pritchard",
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.80')",
   "exceeds_quake_limits=yes",
   "filename=biome-pritchard.zip",
   "game=quake",
@@ -113,6 +115,7 @@
   "nonspecific_tag=rtcw",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2021-01-28",
   "source=included",
   "theme=arcane dimensions",
   "theme=base",
@@ -120,6 +123,7 @@
   "theme=industrial",
   "theme=lava",
   "theme=snow",
+  "title=Biome (Mr. Self Destruct)",
   "type=map",
   "zipbasedir=ad/"
  ],

@@ -25,6 +25,7 @@
  "release_date": "1998-02-25",
  "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [
+  "author=John \"metlslime\" Fitzgibbons",
   "commandline=-game rubicon",
   "filename=rubicon.zip",
   "game=quake",
@@ -37,12 +38,14 @@
   "map_size=large",
   "mod=rubicon",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1998-02-25",
   "startmap=eagle",
   "startmap=rubicon",
   "startmap=start",
   "theme=base",
   "theme=industrial",
   "theme=rubicon",
+  "title=Rubicon",
   "type=mod",
   "zipbasedir=rubicon/"
  ],

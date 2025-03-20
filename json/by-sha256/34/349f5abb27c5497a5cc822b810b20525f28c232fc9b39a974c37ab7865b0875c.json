@@ -26,6 +26,8 @@
  "release_date": "2011-02-11",
  "sha256": "349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
  "tags": [
+  "author=czg",
+  "author=metlslime",
   "commandline=-game rubicon2",
   "filename=rubicon2.zip",
   "game=quake",
@@ -38,6 +40,7 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=mustplay",
   "nonspecific_tag=textures",
+  "release_date=2011-02-11",
   "startmap=rub2m1",
   "startmap=rub2m2",
   "startmap=rub2m3",
@@ -45,6 +48,7 @@
   "theme=base",
   "theme=industrial",
   "theme=rubicon",
+  "title=Rubicon 2",
   "type=episode",
   "type=mod",
   "zipbasedir=rubicon2/"

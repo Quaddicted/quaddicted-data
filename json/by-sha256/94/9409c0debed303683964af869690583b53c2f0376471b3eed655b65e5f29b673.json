@@ -49,6 +49,7 @@
  "release_date": "2002-04-01",
  "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
   "commandline=-game soe",
   "filename=soe_full.zip",
   "game=quake",
@@ -61,9 +62,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/hofsoulofevil.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
   "nonspecific_tag=monsters",
+  "release_date=2002-04-01",
   "startmap=start",
   "theme=dragon",
   "theme=medieval",
+  "title=Soul of Evil",
   "type=episode",
   "type=mod",
   "zipbasedir=soe/"

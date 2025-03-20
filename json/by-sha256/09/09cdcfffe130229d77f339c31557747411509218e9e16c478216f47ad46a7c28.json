@@ -25,6 +25,7 @@
  "release_date": "1997-10-31",
  "sha256": "09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28",
  "tags": [
+  "author=T.H. Johansen (TJ)",
   "commandline=-game tefdbl3",
   "filename=tefdbl3.zip",
   "game=quake",
@@ -34,10 +35,12 @@
   "map_size=medium",
   "nonspecific_tag=bosses",
   "nonspecific_tag=monsters",
+  "release_date=1997-10-31",
   "startmap=tefhoa",
   "theme=dissolution of eternity",
   "theme=lava",
   "theme=metal",
+  "title=Halls of Artemis / Apollo's Domain",
   "type=mod",
   "zipbasedir=tefdbl3/"
  ],

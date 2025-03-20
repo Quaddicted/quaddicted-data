@@ -76,6 +76,7 @@
  "release_date": "2018-08-24",
  "sha256": "0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a",
  "tags": [
+  "author=Shambler",
   "exceeds_quake_limits=yes",
   "filename=shamsp2.zip",
   "game=quake",
@@ -84,7 +85,9 @@
   "map_size=medium",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2018-08-24",
   "theme=egypt",
+  "title=Warmth Of A Dying Sun",
   "type=map",
   "zipbasedir=id1/"
  ],

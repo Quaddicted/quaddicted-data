@@ -760,13 +760,16 @@
  "release_date": "2024-02-25",
  "sha256": "389a0ece381bb3a3bf899286ffff30344087d4e6156f3892096eadf7e8a5c691",
  "tags": [
+  "author=Xeryn",
   "commandline=-game pain",
   "exceedslimits=exceeds_quake_limits",
   "filename=pain.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/blessed-agony.325/)",
+  "release_date=2024-02-25",
   "startmap=xeryn_ba",
+  "title=Blessed Agony",
   "type=map",
   "type=mod"
  ],

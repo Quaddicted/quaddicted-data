@@ -64,6 +64,7 @@
  "release_date": "2018-10-29",
  "sha256": "4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e",
  "tags": [
+  "author=aDaya",
   "exceeds_quake_limits=yes",
   "filename=glorious.zip",
   "game=quake",
@@ -73,9 +74,11 @@
   "map_size=large",
   "nonspecific_tag=greek",
   "nonspecific_tag=textures",
+  "release_date=2018-10-29",
   "source=included",
   "theme=egypt",
   "theme=temple",
+  "title=A Once Glorious City",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

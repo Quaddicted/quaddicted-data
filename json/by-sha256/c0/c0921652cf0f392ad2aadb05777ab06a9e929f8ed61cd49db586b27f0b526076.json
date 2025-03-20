@@ -33,6 +33,12 @@
  "release_date": "2007-07-09",
  "sha256": "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
  "tags": [
+  "author=Asaki",
+  "author=Preach",
+  "author=Scragbait",
+  "author=aguirRe",
+  "author=distrans",
+  "author=negke",
   "commandline=-game travail",
   "filename=travail.zip",
   "game=quake",
@@ -52,6 +58,7 @@
   "nonspecific_tag=oblivion",
   "nonspecific_tag=ogro",
   "nonspecific_tag=textures",
+  "release_date=2007-07-09",
   "startmap=qte1m1",
   "startmap=qte1m2",
   "startmap=qte1m3",
@@ -75,6 +82,7 @@
   "theme=metal",
   "theme=space",
   "theme=wizard",
+  "title=Travail - A Quake Journey",
   "type=episode",
   "type=mod",
   "zipbasedir=travail/"

@@ -31,6 +31,7 @@
  "release_date": "2022-05-31",
  "sha256": "c95e5fe20108d34c90d657e68e874b9d1ffd02e7c99a8f78d73e09590100698d",
  "tags": [
+  "author=eber150",
   "filename=eber1_final.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,10 +39,12 @@
   "map_size=small",
   "nonspecific_tag=debut",
   "nonspecific_tag=vanilla",
+  "release_date=2022-05-31",
   "source=included",
   "startmap=eber1",
   "theme=base",
   "theme=classic",
+  "title=Slipgate to a Lost Dimension",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

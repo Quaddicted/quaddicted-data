@@ -25,6 +25,7 @@
  "release_date": "1997-12-13",
  "sha256": "1be5226303c19b80ed977745b89ebe2640fa41c4d72a8439380b877960fef8e3",
  "tags": [
+  "author=Ozzy Farinas",
   "filename=canabode.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,11 +33,13 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
   "nonspecific_tag=dark",
+  "release_date=1997-12-13",
   "theme=canyon",
   "theme=cave",
   "theme=medieval",
   "theme=outdoor",
   "theme=traps",
+  "title=Canyon's Abode",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -109,6 +109,7 @@
  "release_date": "2021-11-17",
  "sha256": "a2c823e0ad90d089eb5effb270918fd9e7668e75fad0bdff7fcc89d5b74c5003",
  "tags": [
+  "author=Tonhao",
   "commandline=-game tonswsp1",
   "filename=tonswsp1.zip",
   "game=quake",
@@ -117,6 +118,7 @@
   "nonspecific_tag=ebon",
   "nonspecific_tag=end",
   "nonspecific_tag=start",
+  "release_date=2021-11-17",
   "startmap=t_end",
   "startmap=t_map01",
   "startmap=t_map02",
@@ -132,6 +134,7 @@
   "theme=runic",
   "theme=space",
   "theme=void",
+  "title=Somewhere",
   "type=episode",
   "type=mod",
   "zipbasedir=tonswsp1/"

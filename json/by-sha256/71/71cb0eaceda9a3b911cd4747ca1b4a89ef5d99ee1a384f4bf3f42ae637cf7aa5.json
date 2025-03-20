@@ -25,6 +25,7 @@
  "release_date": "1997-08-02",
  "sha256": "71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5",
  "tags": [
+  "author=Noel Weer",
   "filename=azurette.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=medium",
   "nonspecific_tag=azure",
+  "release_date=1997-08-02",
   "theme=blue",
+  "title=Azurette",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

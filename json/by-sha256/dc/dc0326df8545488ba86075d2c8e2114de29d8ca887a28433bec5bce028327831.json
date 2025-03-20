@@ -25,6 +25,7 @@
  "release_date": "1997-11-05",
  "sha256": "dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831",
  "tags": [
+  "author=Michael Cullum",
   "filename=canal3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=medium",
   "nonspecific_tag=canal",
+  "release_date=1997-11-05",
   "theme=medieval",
   "theme=temple",
   "theme=water",
+  "title=The FloodGate",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

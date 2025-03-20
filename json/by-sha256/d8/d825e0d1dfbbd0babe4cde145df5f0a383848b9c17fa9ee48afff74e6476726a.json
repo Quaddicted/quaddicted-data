@@ -25,6 +25,7 @@
  "release_date": "1996-12-31",
  "sha256": "d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a",
  "tags": [
+  "author=Ted Stahl",
   "filename=pyramid.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "map_size=small",
   "nonspecific_tag=terracota",
   "nonspecific_tag=textures",
+  "release_date=1996-12-31",
   "theme=egyptian",
   "theme=outdoor",
   "theme=pyramid",
+  "title=The Great Pyramid of Seth",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

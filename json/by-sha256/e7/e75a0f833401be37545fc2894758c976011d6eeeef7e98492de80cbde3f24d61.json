@@ -25,6 +25,7 @@
  "release_date": "1996-12-20",
  "sha256": "e75a0f833401be37545fc2894758c976011d6eeeef7e98492de80cbde3f24d61",
  "tags": [
+  "author=Jim Strider",
   "filename=empire.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelse.htm)",
   "map_layout=maze",
   "map_size=large",
+  "release_date=1996-12-20",
   "theme=bricks",
   "theme=mandatory secret",
   "theme=orange",
+  "title=Empire",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

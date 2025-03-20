@@ -353,11 +353,17 @@
  "release_group": "nsoe",
  "sha256": "1504014504e147fe88e2187dcf529058d2cbee956a595e91ddb3d9743dee02b3",
  "tags": [
+  "author=aguirRe",
   "filename=soeskins_glquake.zip",
   "game=quake",
   "game_mode=singleplayer",
   "nonspecific_tag=skins",
-  "nonspecific_tag=soe"
+  "nonspecific_tag=soe",
+  "provides='nsoe=2.0'",
+  "release_date=2008-05-27",
+  "release_group=nsoe",
+  "title=Soul of Evil: Indian Summer (Skins, glquake)",
+  "version=2.0"
  ],
  "title": "Soul of Evil: Indian Summer (Skins, glquake)",
  "urls": [

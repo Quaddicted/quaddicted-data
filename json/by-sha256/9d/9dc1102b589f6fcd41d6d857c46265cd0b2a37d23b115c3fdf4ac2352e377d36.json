@@ -31,6 +31,7 @@
  "release_date": "2022-12-11",
  "sha256": "9dc1102b589f6fcd41d6d857c46265cd0b2a37d23b115c3fdf4ac2352e377d36",
  "tags": [
+  "author=Daniel Remar",
   "filename=rgcastle_v3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,6 +39,7 @@
   "map_size=small",
   "nonspecific_tag=vanilla",
   "playstyle=nomonsters",
+  "release_date=2022-12-11",
   "source=included",
   "startmap=rgcastle",
   "theme=castle",
@@ -46,6 +48,7 @@
   "theme=medieval",
   "theme=puzzle",
   "theme=wizard",
+  "title=Castle Puzzlefort v3",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

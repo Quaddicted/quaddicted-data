@@ -39,12 +39,17 @@
  "release_date": "2005-05-29",
  "sha256": "b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3",
  "tags": [
+  "author=Headthump",
+  "author=Hrimfaxi",
+  "author=Zwiffle",
   "filename=sm93_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-05-29",
   "startmap=sm93_headthump",
   "startmap=sm93_hrimfaxi",
   "startmap=sm93_zwiffle",
+  "title=Speedmapping pack 93 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

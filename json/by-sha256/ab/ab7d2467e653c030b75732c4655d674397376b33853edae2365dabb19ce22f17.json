@@ -25,6 +25,7 @@
  "release_date": "2000-11-25",
  "sha256": "ab7d2467e653c030b75732c4655d674397376b33853edae2365dabb19ce22f17",
  "tags": [
+  "author=DaZ",
   "filename=dazsp3.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,8 +35,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev001125.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=large",
+  "release_date=2000-11-25",
   "theme=base",
   "theme=ikbase",
+  "title=Ground Zero",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

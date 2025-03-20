@@ -25,12 +25,15 @@
  "release_date": "2000-01-01",
  "sha256": "0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e",
  "tags": [
+  "author=Brainstorm",
   "filename=stupid.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2000-01-01",
   "theme=experimental",
   "theme=metal",
+  "title=Dis'z stupid!",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

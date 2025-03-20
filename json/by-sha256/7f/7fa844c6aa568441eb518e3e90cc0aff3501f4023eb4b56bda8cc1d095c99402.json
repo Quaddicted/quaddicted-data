@@ -26,6 +26,8 @@
  "release_date": "1997-04-13",
  "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "tags": [
+  "author=Marco van Schriek",
+  "author=Tim van Hal",
   "filename=martim6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -34,8 +36,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
   "map_size=large",
   "nonspecific_tag=hub",
+  "release_date=1997-04-13",
   "theme=traps",
   "theme=wizard",
+  "title=Lucifer's Path",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

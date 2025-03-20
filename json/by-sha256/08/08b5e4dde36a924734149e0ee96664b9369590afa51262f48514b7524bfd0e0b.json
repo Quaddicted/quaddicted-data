@@ -37,6 +37,7 @@
  "release_date": "2001-05-29",
  "sha256": "08b5e4dde36a924734149e0ee96664b9369590afa51262f48514b7524bfd0e0b",
  "tags": [
+  "author=Adam Foster",
   "commandline=-game fracture",
   "filename=qfract-beta1.zip",
   "game=quake",
@@ -44,8 +45,10 @@
   "link:review=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/08-may-2000/segfault.php)",
   "map_size=small",
   "nonspecific_tag=start map",
+  "release_date=2001-05-29",
   "startmap=start",
   "theme=idbase",
+  "title=Fracture",
   "type=mod"
  ],
  "title": "Fracture",

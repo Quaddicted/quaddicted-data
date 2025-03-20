@@ -165,6 +165,11 @@
  "release_date": "2008-08-28",
  "sha256": "6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54",
  "tags": [
+  "author=RickyT23",
+  "author=Speedy",
+  "author=Spirit",
+  "author=Willem",
+  "author=Zwiffle",
   "commandline=-game rmx-pack",
   "filename=rmx-pack.zip",
   "game=quake",
@@ -176,6 +181,7 @@
   "nonspecific_tag=e4m1",
   "nonspecific_tag=e4m7",
   "nonspecific_tag=speedbaze",
+  "release_date=2008-08-28",
   "source=included",
   "startmap=e2m1rmx",
   "startmap=e3m4rmx",
@@ -186,6 +192,7 @@
   "theme=e3m5",
   "theme=remix",
   "theme=wind tunnels",
+  "title=Remix Map Pack",
   "type=contest",
   "type=mod"
  ],

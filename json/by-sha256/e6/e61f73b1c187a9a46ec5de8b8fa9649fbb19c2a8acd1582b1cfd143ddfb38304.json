@@ -79,6 +79,7 @@
  "release_date": "2020-01-18",
  "sha256": "e61f73b1c187a9a46ec5de8b8fa9649fbb19c2a8acd1582b1cfd143ddfb38304",
  "tags": [
+  "author=Chris Holden",
   "filename=ghspch01.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -87,9 +88,11 @@
   "map_size=small",
   "nonspecific_tag=skybox",
   "nonspecific_tag=textures",
+  "release_date=2020-01-18",
   "source=included",
   "theme=green",
   "theme=temple",
+  "title=Green Hale",
   "type=map",
   "zipbasedir=id1/"
  ],

@@ -38,12 +38,16 @@
  "release_date": "2006-01-10",
  "sha256": "add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a",
  "tags": [
+  "author=adamllis",
+  "author=negke",
   "filename=sm116_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2006-01-10",
   "startmap=sm116_adamllis",
   "startmap=sm116_adamllis2",
   "startmap=sm116_neg!ke",
+  "title=Speedmapping pack 116 - Tricking maps",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

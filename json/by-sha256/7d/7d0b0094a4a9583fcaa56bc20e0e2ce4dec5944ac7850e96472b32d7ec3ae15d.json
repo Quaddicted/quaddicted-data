@@ -25,12 +25,15 @@
  "release_date": "1997-09-01",
  "sha256": "7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d",
  "tags": [
+  "author=Jean-Pierre Raumer",
   "filename=burrow.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
+  "release_date=1997-09-01",
   "theme=caverns",
   "theme=wizard",
+  "title=Burrow",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

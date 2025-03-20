@@ -88,8 +88,10 @@
  "release_date": "2008-03-28",
  "sha256": "bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db",
  "tags": [
+  "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=slave.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -99,10 +101,12 @@
   "map_size=huge",
   "mod=quoth",
   "nonspecific_tag=halflife",
+  "release_date=2008-03-28",
   "theme=base",
   "theme=dkt",
   "theme=doom 3",
   "theme=quoth",
+  "title=Slave to a Machine",
   "type=map",
   "zipbasedir=quoth/"
  ],

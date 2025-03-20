@@ -25,15 +25,18 @@
  "release_date": "2000-01-13",
  "sha256": "e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1",
  "tags": [
+  "author=DAV",
   "filename=qkwall.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.planetquake.com/davlevels/",
   "map_size=medium",
+  "release_date=2000-01-13",
   "theme=castle",
   "theme=outdoor",
   "theme=realism",
   "theme=wizard",
+  "title=Wall Fortress",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

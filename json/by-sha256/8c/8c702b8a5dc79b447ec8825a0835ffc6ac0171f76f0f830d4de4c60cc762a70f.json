@@ -446,6 +446,7 @@
  "release_group": "copper",
  "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",
  "tags": [
+  "author=Lunaran",
   "commandline=-game copper",
   "filename=copper.zip",
   "game=quake",
@@ -457,7 +458,12 @@
   "link=[Version 1.15](https://www.quaddicted.com/filebase/copper_v1_15.zip)",
   "link=[Version 1.16](https://www.quaddicted.com/filebase/copper_v1_16.zip)",
   "link=[Version 1.17](https://www.quaddicted.com/filebase/copper_v1_17.zip)",
+  "provides='copper=1.00'",
+  "release_date=2019-06-21",
+  "release_group=copper",
+  "title=Copper Quake",
   "type=mod",
+  "version=1.00",
   "zipbasedir=/"
  ],
  "title": "Copper Quake",

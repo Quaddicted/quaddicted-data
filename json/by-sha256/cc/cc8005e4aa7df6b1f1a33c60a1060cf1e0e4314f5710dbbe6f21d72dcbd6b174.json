@@ -55,6 +55,7 @@
  "release_date": "2005-01-09",
  "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "tags": [
+  "author=Kinn",
   "commandline=-game marcher",
   "filename=kinn_marcher.zip",
   "game=quake",
@@ -68,9 +69,11 @@
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=q3 gothic",
   "playstyle=hordes",
+  "release_date=2005-01-09",
   "startmap=marcher",
   "theme=castle",
   "theme=classic",
+  "title=The Marcher Fortress",
   "type=mod"
  ],
  "title": "The Marcher Fortress",

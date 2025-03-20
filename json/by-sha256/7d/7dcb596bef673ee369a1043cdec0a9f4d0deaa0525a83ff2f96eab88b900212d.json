@@ -394,6 +394,7 @@
  "release_date": "1997-01-17",
  "sha256": "7dcb596bef673ee369a1043cdec0a9f4d0deaa0525a83ff2f96eab88b900212d",
  "tags": [
+  "author=Mark Wheeler",
   "commandline=-game drastic",
   "filename=drastic.zip",
   "game=quake",
@@ -404,9 +405,11 @@
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
   "nonspecific_tag=waterfall",
+  "release_date=1997-01-17",
   "theme=outdoors",
   "theme=puzzles",
   "theme=traps",
+  "title=Drastic Falls",
   "type=mod"
  ],
  "title": "Drastic Falls",

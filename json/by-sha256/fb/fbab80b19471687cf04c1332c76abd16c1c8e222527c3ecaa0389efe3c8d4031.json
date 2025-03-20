@@ -79,8 +79,10 @@
  "release_date": "2022-06-16",
  "sha256": "fbab80b19471687cf04c1332c76abd16c1c8e222527c3ecaa0389efe3c8d4031",
  "tags": [
+  "author=eber150",
   "commandline=-game copper",
   "dependency=copper_v1_17",
+  "depends=('copper>=1.17')",
   "filename=ttd.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -88,10 +90,12 @@
   "link=[More screenshots](https://imgur.com/a/XohaqBi)",
   "map_size=medium",
   "mod=copper",
+  "release_date=2022-06-16",
   "source=included",
   "startmap=ttd",
   "theme=metal",
   "theme=runic",
+  "title=Ten Thousand Days In The Fire",
   "type=map",
   "zipbasedir=copper/maps/"
  ],

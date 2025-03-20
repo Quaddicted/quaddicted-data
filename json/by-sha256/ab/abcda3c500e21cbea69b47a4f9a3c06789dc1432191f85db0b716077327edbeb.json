@@ -25,6 +25,7 @@
  "release_date": "2000-05-11",
  "sha256": "abcda3c500e21cbea69b47a4f9a3c06789dc1432191f85db0b716077327edbeb",
  "tags": [
+  "author=Daz",
   "filename=dazsp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,8 +33,10 @@
   "link:review=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/08-may-2000/dazsp1.php)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev000512.html)",
   "map_size=large",
+  "release_date=2000-05-11",
   "theme=metal",
   "theme=runic",
+  "title=Death's Cold Touch",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

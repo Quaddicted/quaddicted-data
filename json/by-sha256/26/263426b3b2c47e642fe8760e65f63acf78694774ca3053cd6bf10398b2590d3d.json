@@ -31,15 +31,18 @@
  "release_date": "1998-04-19",
  "sha256": "263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d",
  "tags": [
+  "author=Peter Bisseker (tiddles)",
   "filename=mymap.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev981205.html)",
   "map_size=medium",
+  "release_date=1998-04-19",
   "startmap=garrison",
   "startmap=mymap",
   "theme=metal",
   "theme=traps",
+  "title=Mymap & Garrison",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

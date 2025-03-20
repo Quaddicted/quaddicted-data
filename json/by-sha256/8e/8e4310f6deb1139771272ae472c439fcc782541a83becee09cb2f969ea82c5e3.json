@@ -49,12 +49,14 @@
  "release_date": "2022-11-30",
  "sha256": "8e4310f6deb1139771272ae472c439fcc782541a83becee09cb2f969ea82c5e3",
  "tags": [
+  "author=Paul Keefner",
   "filename=short_fight.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=medium",
   "map_size=small",
   "nonspecific_tag=vanilla",
+  "release_date=2022-11-30",
   "source=included",
   "startmap=Short_Fight",
   "theme=base",
@@ -62,6 +64,7 @@
   "theme=industrial",
   "theme=lava",
   "theme=medieval",
+  "title=Short Fight",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

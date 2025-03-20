@@ -31,8 +31,10 @@
  "release_date": "2007-03-10",
  "sha256": "96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0",
  "tags": [
+  "author=ijed",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=tpof.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -43,9 +45,11 @@
   "mod=quoth",
   "nonspecific_tag=e4m4",
   "nonspecific_tag=turtlemap",
+  "release_date=2007-03-10",
   "theme=quoth",
   "theme=remake",
   "theme=terracotta",
+  "title=The Palace of Fear",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

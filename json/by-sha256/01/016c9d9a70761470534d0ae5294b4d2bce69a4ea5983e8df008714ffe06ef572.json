@@ -141,6 +141,12 @@
  "release_date": "2011-06-21",
  "sha256": "016c9d9a70761470534d0ae5294b4d2bce69a4ea5983e8df008714ffe06ef572",
  "tags": [
+  "author=R.P.G.",
+  "author=ShadoW",
+  "author=Tyrann",
+  "author=Vondur",
+  "author=negke feat. Lunaran",
+  "author=spirit",
   "filename=dmc3.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -150,6 +156,7 @@
   "map_size=small",
   "nonspecific_tag=cr8",
   "nonspecific_tag=start",
+  "release_date=2011-06-21",
   "source=included",
   "startmap=dmc3",
   "startmap=dmc3m1",
@@ -165,6 +172,7 @@
   "theme=metal",
   "theme=mixtex",
   "theme=wizard",
+  "title=Deathmatch Classics Vol. 3",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

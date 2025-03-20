@@ -31,6 +31,7 @@
  "release_date": "1996-10-20",
  "sha256": "64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a",
  "tags": [
+  "author=Matthias Worch",
   "filename=arma2.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -40,9 +41,11 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
+  "release_date=1996-10-20",
   "theme=metal",
   "theme=oldschool",
   "theme=runic",
+  "title=Armageddon 2",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

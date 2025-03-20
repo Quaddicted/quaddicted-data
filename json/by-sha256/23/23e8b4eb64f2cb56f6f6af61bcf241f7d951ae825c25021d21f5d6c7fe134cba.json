@@ -31,15 +31,18 @@
  "release_date": "2003-12-31",
  "sha256": "23e8b4eb64f2cb56f6f6af61bcf241f7d951ae825c25021d21f5d6c7fe134cba",
  "tags": [
+  "author=Jacek Gordinier",
   "filename=kabsp2.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev040210.html#2ndreview)",
   "map_size=small",
+  "release_date=2003-12-31",
   "startmap=kabsp2",
   "theme=base",
   "theme=idbase",
   "theme=speedbase",
+  "title=Iron Decay",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

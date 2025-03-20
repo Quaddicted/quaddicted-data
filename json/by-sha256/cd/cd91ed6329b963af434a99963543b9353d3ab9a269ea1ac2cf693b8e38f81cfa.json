@@ -48,6 +48,12 @@
  "release_date": "2005-05-29",
  "sha256": "cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa",
  "tags": [
+  "author=Eric",
+  "author=Kell",
+  "author=Vondur",
+  "author=Zwiffle",
+  "author=ionous",
+  "author=necros",
   "commandline=-hipnotic -game chapters",
   "filename=chapters.zip",
   "game=quake",
@@ -58,6 +64,7 @@
   "mod=quoth",
   "nonspecific_tag=hard",
   "nonspecific_tag=kell",
+  "release_date=2005-05-29",
   "startmap=chapter_esw",
   "startmap=chapter_finale",
   "startmap=chapter_ionous",
@@ -68,6 +75,7 @@
   "startmap=start",
   "theme=knave",
   "theme=quoth",
+  "title=Contract Revoked: The Lost Chapters",
   "type=episode",
   "type=mod"
  ],

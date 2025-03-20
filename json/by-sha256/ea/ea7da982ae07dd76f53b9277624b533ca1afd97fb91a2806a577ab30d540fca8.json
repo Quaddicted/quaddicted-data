@@ -37,6 +37,7 @@
  "release_date": "1997-10-01",
  "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "tags": [
+  "author=Pete Burrows",
   "commandline=-game fromhell",
   "filename=fromhell.zip",
   "game=quake",
@@ -46,9 +47,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "map_size=medium",
   "nonspecific_tag=victorian",
+  "release_date=1997-10-01",
   "theme=city",
   "theme=horror",
   "theme=realism",
+  "title=From Hell",
   "type=mod",
   "zipbasedir=fromhell/"
  ],

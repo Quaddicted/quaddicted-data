@@ -28,6 +28,10 @@
  "release_date": "2001-07-26",
  "sha256": "7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f",
  "tags": [
+  "author=Apollo",
+  "author=FatController",
+  "author=Tronyn",
+  "author=Tyrann",
   "commandline=-game oum",
   "filename=oum.zip",
   "game=quake",
@@ -44,9 +48,11 @@
   "nonspecific_tag=oblivion",
   "nonspecific_tag=obtex",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2001-07-26",
   "startmap=start",
   "theme=ikbase",
   "theme=temple",
+  "title=Operation: Urth Majik",
   "type=episode",
   "type=mod",
   "zipbasedir=oum/"

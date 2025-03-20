@@ -37,13 +37,16 @@
  "release_date": "2019-01-18",
  "sha256": "42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1",
  "tags": [
+  "author=Sonnenblume",
   "filename=soulcomplex.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=large",
+  "release_date=2019-01-18",
   "source=included",
   "theme=base",
   "theme=idbase",
+  "title=Soul Complex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

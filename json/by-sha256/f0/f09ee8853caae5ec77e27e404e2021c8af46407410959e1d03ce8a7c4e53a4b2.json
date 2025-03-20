@@ -37,9 +37,11 @@
  "release_date": "2021-12-08",
  "sha256": "f09ee8853caae5ec77e27e404e2021c8af46407410959e1d03ce8a7c4e53a4b2",
  "tags": [
+  "author=Dataram57",
   "bsp_format=bsp2",
   "commandline=-game shadows",
   "dependency=its_demo_v1_1",
+  "depends=('its_demo>=1.1')",
   "filename=dr57-itsd2-deufel.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -47,9 +49,11 @@
   "nonspecific_tag=intheshadows",
   "nonspecific_tag=its",
   "playstyle=stealth",
+  "release_date=2021-12-08",
   "source=included",
   "theme=castle",
   "theme=medieval",
+  "title=Deufel's Barracks",
   "type=map",
   "zipbasedir=shadows/"
  ],

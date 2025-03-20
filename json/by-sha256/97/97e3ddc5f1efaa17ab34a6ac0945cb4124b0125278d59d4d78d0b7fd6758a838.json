@@ -85,6 +85,7 @@
  "release_date": "2008-06-14",
  "sha256": "97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838",
  "tags": [
+  "author=Speedy",
   "filename=xplore.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -98,10 +99,12 @@
   "nonspecific_tag=pipes",
   "nonspecific_tag=skybox",
   "nonspecific_tag=unique",
+  "release_date=2008-06-14",
   "theme=base",
   "theme=exploration",
   "theme=industrial",
   "theme=spd",
+  "title=Explore or Die",
   "type=map",
   "zipbasedir=id1/"
  ],

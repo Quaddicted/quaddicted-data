@@ -59,6 +59,7 @@
  "release_date": "2017-12-01",
  "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
  "tags": [
+  "author=xlarve",
   "exceeds_quake_limits=yes",
   "filename=xl2.zip",
   "game=quake",
@@ -67,12 +68,14 @@
   "map_size=large",
   "nonspecific_tag=citadel",
   "nonspecific_tag=start",
+  "release_date=2017-12-01",
   "startmap=xl2",
   "startmap=xl2m1",
   "theme=fortress",
   "theme=medieval",
   "theme=metal",
   "theme=mixtex",
+  "title=The Citadel of Sinners",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

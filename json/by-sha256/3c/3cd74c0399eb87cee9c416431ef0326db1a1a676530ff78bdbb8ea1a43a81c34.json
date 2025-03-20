@@ -25,6 +25,7 @@
  "release_date": "2003-10-30",
  "sha256": "3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34",
  "tags": [
+  "author=Speedy",
   "filename=spd2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,9 +33,11 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev031025.html)",
   "nonspecific_tag=oblivion",
   "nonspecific_tag=speedy",
+  "release_date=2003-10-30",
   "startmap=spd_v2",
   "theme=base",
   "theme=doom 2",
+  "title=SPD",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

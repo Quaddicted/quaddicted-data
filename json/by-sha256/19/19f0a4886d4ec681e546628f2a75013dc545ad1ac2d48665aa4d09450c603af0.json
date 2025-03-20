@@ -2050,6 +2050,7 @@
  "release_date": "2024-01-01",
  "sha256": "19f0a4886d4ec681e546628f2a75013dc545ad1ac2d48665aa4d09450c603af0",
  "tags": [
+  "author=Shadesmaster",
   "commandline=-game grinch",
   "exceedslimits=exceeds_quake_limits",
   "filename=grinch.zip",
@@ -2057,7 +2058,9 @@
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/enter-the-grinch.301/)",
   "map_size=small",
+  "release_date=2024-01-01",
   "startmap=start",
+  "title=Enter - The Grinch",
   "type=map",
   "type=mod"
  ],

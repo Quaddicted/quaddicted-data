@@ -199,6 +199,7 @@
  "release_date": "2012-03-31",
  "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "tags": [
+  "author=czg",
   "commandline=-game honey",
   "filename=honey.zip",
   "game=quake",
@@ -213,6 +214,7 @@
   "nonspecific_tag=mustplay",
   "nonspecific_tag=narrative",
   "nonspecific_tag=victorian",
+  "release_date=2012-03-31",
   "source=included",
   "startmap=honey",
   "startmap=saint",
@@ -222,6 +224,7 @@
   "theme=fog",
   "theme=medieval",
   "theme=sewer",
+  "title=Honey",
   "type=mod"
  ],
  "title": "Honey",

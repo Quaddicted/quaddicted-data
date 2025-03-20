@@ -118,6 +118,7 @@
  "release_date": "2021-04-01",
  "sha256": "99804f1812be1056f2b6067c43055944b730a5fdec17e00f2e5c80a5969ebc0f",
  "tags": [
+  "author=mariteaux",
   "commandline=-game arrogant",
   "exceeds_quake_limits=yes",
   "filename=arrogant.zip",
@@ -132,6 +133,7 @@
   "map_size=medium",
   "music=custom",
   "nonspecific_tag=start",
+  "release_date=2021-04-01",
   "source=included",
   "startmap=arrogant",
   "startmap=kuras",
@@ -141,6 +143,7 @@
   "theme=ikblue",
   "theme=remix",
   "theme=underwater",
+  "title=Arrogant Erratum & The Kuras Stronghold",
   "type=mod",
   "zipbasedir=/"
  ],

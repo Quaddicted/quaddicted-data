@@ -40,6 +40,7 @@
  "release_date": "2021-09-07",
  "sha256": "8e118c53125bf3cf500ae83fc825166a0c59641e9738218b840afb1ef22159a7",
  "tags": [
+  "author=ZQ",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=tob.zip",
@@ -48,12 +49,14 @@
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62101)",
   "map_size=large",
   "nonspecific_tag=textures",
+  "release_date=2021-09-07",
   "source=included",
   "startmap=ToB",
   "theme=blood",
   "theme=bricks",
   "theme=medieval",
   "theme=temple",
+  "title=The Temple of BLOOOOOOD",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

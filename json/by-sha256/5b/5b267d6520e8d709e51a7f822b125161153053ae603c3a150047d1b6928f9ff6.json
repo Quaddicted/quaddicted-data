@@ -25,6 +25,7 @@
  "release_date": "1997-03-26",
  "sha256": "5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6",
  "tags": [
+  "author=Vidar Ermesjo (aka Saboteur/Nagel)",
   "filename=evilarmy.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,8 +33,10 @@
   "map_size=small",
   "map_size=tiny",
   "nonspecific_tag=room",
+  "release_date=1997-03-26",
   "theme=base",
   "theme=puzzle",
+  "title=Evil Army",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

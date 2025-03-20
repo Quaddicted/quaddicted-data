@@ -46,6 +46,7 @@
  "release_date": "2017-10-09",
  "sha256": "57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5",
  "tags": [
+  "author=dumptruck_ds",
   "commandline=+r_wateralpha 0.65",
   "exceeds_quake_limits=yes",
   "filename=endofsolace.zip",
@@ -54,10 +55,12 @@
   "link:homepage=https://secretlevelsite.wordpress.com",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61517)",
   "map_size=large",
+  "release_date=2017-10-09",
   "source=included",
   "theme=blood",
   "theme=bricks",
   "theme=medieval",
+  "title=The End of Solace",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

@@ -1601,6 +1601,8 @@
  "release_date": "2006-10-10",
  "sha256": "74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9",
  "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
+  "author=Murderous Martin",
   "commandline=-game anevil",
   "filename=anevilnew.zip",
   "game=quake",
@@ -1610,6 +1612,7 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=monsters",
   "nonspecific_tag=weapons",
+  "release_date=2006-10-10",
   "startmap=cavern1",
   "startmap=coven1",
   "startmap=ep2m2",
@@ -1617,6 +1620,7 @@
   "startmap=prison",
   "startmap=station2",
   "theme=medieval",
+  "title=An Old, Old Evil",
   "type=episode",
   "type=mod"
  ],

@@ -74,8 +74,10 @@
  "release_date": "2023-08-10",
  "sha256": "65f3fe0c5324076ac09fa28a9a5c2865e179c7b85b6ed3e9546594e0a85616d4",
  "tags": [
+  "author=Chris \"1600frogs\" Brady",
   "commandline=-game copper",
   "dependency=copper",
+  "depends=('copper>=1.00')",
   "filename=frogsbog_v1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -85,7 +87,9 @@
   "nonspecific_tag=map",
   "nonspecific_tag=mg1",
   "nonspecific_tag=singleplayer",
+  "release_date=2023-08-10",
   "startmap=frogsbog",
+  "title=Bog Man Has Had Enough",
   "type=map",
   "zipbasedir=/"
  ],

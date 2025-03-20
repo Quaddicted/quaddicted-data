@@ -31,6 +31,7 @@
  "release_date": "1996-11-17",
  "sha256": "055837cd16807df2f9237d967be20ab84944c003930176ff8f4854a57a4c87ad",
  "tags": [
+  "author=Jim Lowell",
   "filename=critters.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,8 +39,10 @@
   "link:review=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
   "map_size=medium",
+  "release_date=1996-11-17",
   "source=included",
   "theme=metal",
+  "title=Critters",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

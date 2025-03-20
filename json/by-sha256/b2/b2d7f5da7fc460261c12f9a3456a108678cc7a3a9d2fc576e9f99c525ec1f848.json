@@ -73,12 +73,14 @@
  "release_date": "2011-06-12",
  "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
  "tags": [
+  "author=vIE888",
   "commandline=-game TheMyths",
   "filename=themyths.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=monsters",
+  "release_date=2011-06-12",
   "startmap=myth1",
   "theme=base",
   "theme=boss",
@@ -91,6 +93,7 @@
   "theme=scourge of armagon",
   "theme=traps",
   "theme=wizard",
+  "title=The Myths",
   "type=episode",
   "type=mod",
   "zipbasedir=/"

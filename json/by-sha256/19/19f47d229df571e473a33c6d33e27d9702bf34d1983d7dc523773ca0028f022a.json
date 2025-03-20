@@ -50,6 +50,8 @@
  "release_date": "2009-12-25",
  "sha256": "19f47d229df571e473a33c6d33e27d9702bf34d1983d7dc523773ca0028f022a",
  "tags": [
+  "author=PM",
+  "author=Tronyn",
   "commandline=-game arwop",
   "filename=arwop.zip",
   "game=quake",
@@ -61,11 +63,13 @@
   "nonspecific_tag=epic",
   "nonspecific_tag=hard",
   "nonspecific_tag=hell",
+  "release_date=2009-12-25",
   "startmap=start",
   "theme=blood",
   "theme=egyptian",
   "theme=metal",
   "theme=temple",
+  "title=A Roman Wilderness Of Pain",
   "type=episode",
   "type=mod",
   "zipbasedir=arwop/"

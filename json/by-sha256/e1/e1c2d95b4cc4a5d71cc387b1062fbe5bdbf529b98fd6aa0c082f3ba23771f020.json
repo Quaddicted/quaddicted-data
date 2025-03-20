@@ -25,6 +25,7 @@
  "release_date": "1997-04-01",
  "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
  "tags": [
+  "author=Utah",
   "filename=utah.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,6 +37,7 @@
   "nonspecific_tag=difficult",
   "nonspecific_tag=hard",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-04-01",
   "startmap=death",
   "theme=castle",
   "theme=classic",
@@ -45,6 +47,7 @@
   "theme=secrets",
   "theme=super secret",
   "theme=wizard",
+  "title=Death's Taste",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

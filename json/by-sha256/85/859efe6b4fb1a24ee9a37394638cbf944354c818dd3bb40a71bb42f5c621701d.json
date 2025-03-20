@@ -49,8 +49,10 @@
  "release_date": "2008-08-03",
  "sha256": "859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d",
  "tags": [
+  "author=Sidhe",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=shesp1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -58,10 +60,12 @@
   "map_size=medium",
   "mod=quoth",
   "nonspecific_tag=white",
+  "release_date=2008-08-03",
   "theme=boss",
   "theme=ikwhite",
   "theme=quoth",
   "theme=temple",
+  "title=Dorghael Arhlannen",
   "type=map",
   "zipbasedir=quoth/maps/"
  ],

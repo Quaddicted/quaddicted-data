@@ -586,6 +586,7 @@
  "release_date": "2020-10-05",
  "sha256": "eecd943dbc2183cfb19b803f5c7710f4668e0d196169b13bc923c39f90f9def9",
  "tags": [
+  "author=Nebiont",
   "commandline=-game nebsp1",
   "exceeds_quake_limits=yes",
   "filename=nebsp1.zip",
@@ -595,10 +596,12 @@
   "map_size=medium",
   "nonspecific_tag=progs_dump",
   "nonspecific_tag=sounds",
+  "release_date=2020-10-05",
   "source=included",
   "theme=base",
   "theme=bricks",
   "theme=metal",
+  "title=Another Base",
   "type=mod",
   "zipbasedir=/"
  ],

@@ -40,13 +40,16 @@
  "release_date": "1997-02-28",
  "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "tags": [
+  "author=Dann Thombs",
   "filename=thepyram.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm#thepyram)",
   "map_size=small",
+  "release_date=1997-02-28",
   "startmap=pyramid",
   "theme=pyramid",
+  "title=The Pyramid",
   "type=map",
   "zipbasedir=id1/"
  ],

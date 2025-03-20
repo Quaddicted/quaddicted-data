@@ -19,6 +19,7 @@
  "release_date": "1997-01-18",
  "sha256": "b106fbc5de7946f5911db961a5addb2c4059bf98a82f7095d91ec390a35dfeec",
  "tags": [
+  "author=Neil Manke",
   "filename=darknite.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -29,11 +30,13 @@
   "map_size=small",
   "nonspecific_tag=chapel",
   "nonspecific_tag=dark",
+  "release_date=1997-01-18",
   "theme=castle",
   "theme=medieval",
   "theme=puzzles",
   "theme=realism",
   "theme=wizard",
+  "title=darknite",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

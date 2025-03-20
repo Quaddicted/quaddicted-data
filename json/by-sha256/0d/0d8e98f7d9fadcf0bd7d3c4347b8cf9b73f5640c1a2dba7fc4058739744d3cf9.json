@@ -25,6 +25,7 @@
  "release_date": "1998-06-12",
  "sha256": "0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9",
  "tags": [
+  "author=Robert \"Fat Controller\" Cruickshank",
   "filename=rc1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -35,8 +36,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "nonspecific_tag=ik",
+  "release_date=1998-06-12",
   "theme=base",
   "theme=ikbase",
+  "title=The Frater Fracas",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

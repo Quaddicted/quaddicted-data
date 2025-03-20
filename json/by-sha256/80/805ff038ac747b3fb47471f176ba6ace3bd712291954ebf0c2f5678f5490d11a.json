@@ -157,8 +157,10 @@
  "release_date": "2007-09-27",
  "sha256": "805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a",
  "tags": [
+  "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=dejavu10.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -166,9 +168,11 @@
   "map_size=small",
   "mod=quoth",
   "nonspecific_tag=orlms",
+  "release_date=2007-09-27",
   "startmap=dvstart",
   "theme=base",
   "theme=quoth",
+  "title=Deja - Vu !",
   "type=episode",
   "type=map",
   "zipbasedir=quoth/"

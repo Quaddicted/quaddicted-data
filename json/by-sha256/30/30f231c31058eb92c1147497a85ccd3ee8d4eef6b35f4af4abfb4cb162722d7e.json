@@ -25,6 +25,7 @@
  "release_date": "2000-01-01",
  "sha256": "30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e",
  "tags": [
+  "author=Leafface",
   "filename=lfstart.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,8 +33,10 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
   "map_size=small",
   "nonspecific_tag=start map",
+  "release_date=2000-01-01",
   "theme=traps",
   "theme=wizard",
+  "title=LFSP Start",
   "type=episode",
   "type=map",
   "zipbasedir=id1/maps/"

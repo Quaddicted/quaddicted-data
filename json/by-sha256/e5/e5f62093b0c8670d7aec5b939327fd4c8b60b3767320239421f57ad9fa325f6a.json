@@ -52,6 +52,7 @@
  "release_date": "2008-11-10",
  "sha256": "e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a",
  "tags": [
+  "author=Willem (Warren Marshall)",
   "commandline=-game whiteroom",
   "filename=whiteroom.zip",
   "game=quake",
@@ -64,8 +65,10 @@
   "nonspecific_tag=textures",
   "nonspecific_tag=unique",
   "nonspecific_tag=white",
+  "release_date=2008-11-10",
   "theme=abstract",
   "theme=base",
+  "title=White Room",
   "type=mod"
  ],
  "title": "White Room",

@@ -35,11 +35,14 @@
  "release_date": "2024-06-22",
  "sha256": "8f5282bcbee8d013afc6101847f795a07cc6b76b62f0ca0c4c401314eb97be0a",
  "tags": [
+  "author=SoulRunner",
   "filename=soulrunnerquakemaps.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/soul-runners-quake-maps.366/)",
+  "release_date=2024-06-22",
   "startmap=soulrunner_map01",
+  "title=Soul Runner's Quake Maps",
   "type=map",
   "type=mod",
   "zipbasedir=id1/maps/"

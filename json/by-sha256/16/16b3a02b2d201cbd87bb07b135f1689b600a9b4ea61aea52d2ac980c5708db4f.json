@@ -31,6 +31,7 @@
  "release_date": "2003-07-01",
  "sha256": "16b3a02b2d201cbd87bb07b135f1689b600a9b4ea61aea52d2ac980c5708db4f",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "commandline=-game flesh",
   "filename=flesh.zip",
   "game=quake",
@@ -43,8 +44,10 @@
   "map_size=medium",
   "nonspecific_tag=q3 gothic",
   "nonspecific_tag=weapons",
+  "release_date=2003-07-01",
   "theme=castle",
   "theme=quake 3",
+  "title=Carved in Flesh",
   "type=episode",
   "type=mod"
  ],

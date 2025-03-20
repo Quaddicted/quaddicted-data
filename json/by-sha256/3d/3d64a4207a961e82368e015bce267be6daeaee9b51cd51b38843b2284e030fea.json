@@ -94,6 +94,7 @@
  "release_date": "2020-04-23",
  "sha256": "3d64a4207a961e82368e015bce267be6daeaee9b51cd51b38843b2284e030fea",
  "tags": [
+  "author=JPal",
   "exceeds_quake_limits=yes",
   "filename=jp1m2.zip",
   "game=quake",
@@ -101,10 +102,12 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61873)",
   "map_size=large",
   "nonspecific_tag=skybox",
+  "release_date=2020-04-23",
   "source=included",
   "theme=bricks",
   "theme=castle",
   "theme=medieval",
+  "title=The Underkeep",
   "type=map",
   "zipbasedir=/"
  ],

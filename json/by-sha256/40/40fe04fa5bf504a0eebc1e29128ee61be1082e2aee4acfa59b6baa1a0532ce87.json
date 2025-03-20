@@ -217,10 +217,12 @@
  "release_date": "2020-04-08",
  "sha256": "40fe04fa5bf504a0eebc1e29128ee61be1082e2aee4acfa59b6baa1a0532ce87",
  "tags": [
+  "author=MortalMaxx",
   "bsp_format=bsp2",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=sp_maxx.zip",
   "game=quake",
@@ -237,6 +239,7 @@
   "nonspecific_tag=skybox",
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
+  "release_date=2020-04-08",
   "source=included",
   "theme=arcane dimensions",
   "theme=castle",
@@ -245,6 +248,7 @@
   "theme=medieval",
   "theme=realism",
   "theme=town",
+  "title=Secrets of the Keep",
   "type=map",
   "zipbasedir=ad/"
  ],

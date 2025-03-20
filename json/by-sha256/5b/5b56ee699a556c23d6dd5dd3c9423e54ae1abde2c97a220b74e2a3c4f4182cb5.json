@@ -35,6 +35,7 @@
  "release_date": "2016-11-25",
  "sha256": "5b56ee699a556c23d6dd5dd3c9423e54ae1abde2c97a220b74e2a3c4f4182cb5",
  "tags": [
+  "author=Gotshun",
   "exceeds_quake_limits=yes",
   "filename=jump.zip",
   "game=quake",
@@ -42,11 +43,13 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61378)",
   "map_size=large",
   "nonspecific_tag=honey",
+  "release_date=2016-11-25",
   "source=included",
   "startmap=petes1",
   "theme=bricks",
   "theme=fog",
   "theme=medieval",
+  "title=Jump",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

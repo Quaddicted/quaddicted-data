@@ -25,6 +25,7 @@
  "release_date": "1997-03-07",
  "sha256": "b98f3493485a18ce880eeb7ea50397c0b516b59da58cd318662d58ebf12e51e2",
  "tags": [
+  "author=Stuart Presley",
   "filename=thoth96.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -32,9 +33,11 @@
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm#thoth96)",
   "map_size=small",
   "nonspecific_tag=simple",
+  "release_date=1997-03-07",
   "theme=mandatory secret",
   "theme=medieval",
   "theme=terracotta",
+  "title=The Hall of Trilogy",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

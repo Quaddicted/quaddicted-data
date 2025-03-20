@@ -25,6 +25,7 @@
  "release_date": "1997-08-01",
  "sha256": "b2f9c859027cc3fb026d087699bc949be6425f37e39cc7898732832c6cbadbaf",
  "tags": [
+  "author=Stuart Maine",
   "filename=themines.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,7 +33,9 @@
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=lvmines)",
   "link:review=[erc's Underdog](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=279)",
   "map_size=medium",
+  "release_date=1997-08-01",
   "theme=wizard",
+  "title=The Lava Mines",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

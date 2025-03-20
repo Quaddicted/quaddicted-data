@@ -37,13 +37,16 @@
  "release_date": "2007-02-16",
  "sha256": "29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db",
  "tags": [
+  "author=Cristian Martinez",
   "filename=bellesh.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2007-02-16",
   "startmap=bellesh",
   "startmap=ebellesh",
   "theme=base",
+  "title=The Bellesh Base",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

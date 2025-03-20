@@ -25,6 +25,7 @@
  "release_date": "1996-09-05",
  "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "tags": [
+  "author=Derek 'Lombard' Barr",
   "commandline=-game lmed1",
   "filename=lmed1.zip",
   "game=quake",
@@ -34,10 +35,12 @@
   "map_size=medium",
   "nonspecific_tag=start map",
   "nonspecific_tag=textures",
+  "release_date=1996-09-05",
   "startmap=med1",
   "startmap=start",
   "theme=castle",
   "theme=wizard",
+  "title=The Ancient Fortress",
   "type=mod",
   "zipbasedir=lmed1/"
  ],

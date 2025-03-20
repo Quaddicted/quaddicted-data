@@ -52,6 +52,7 @@
  "release_date": "2013-05-12",
  "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
  "tags": [
+  "author=Qmaster",
   "commandline=-game terracity",
   "exceeds_quake_limits=yes",
   "filename=terracity.zip",
@@ -60,6 +61,7 @@
   "map_size=large",
   "nonspecific_tag=coop",
   "playstyle=horde",
+  "release_date=2013-05-12",
   "source=included",
   "startmap=terracity",
   "theme=city",
@@ -68,6 +70,7 @@
   "theme=oldschool",
   "theme=red",
   "theme=terracotta",
+  "title=Terracity",
   "type=mod"
  ],
  "title": "Terracity",

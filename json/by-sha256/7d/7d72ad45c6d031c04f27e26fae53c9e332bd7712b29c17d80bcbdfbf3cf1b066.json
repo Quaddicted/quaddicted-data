@@ -25,6 +25,7 @@
  "release_date": "1997-08-28",
  "sha256": "7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066",
  "tags": [
+  "author=Neil Manke",
   "commandline=-game space",
   "filename=starship.zip",
   "game=quake",
@@ -42,6 +43,8 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=spaceship",
   "nonspecific_tag=textures",
+  "release_date=1997-08-28",
+  "title=Starship",
   "type=mod",
   "zipbasedir=space/"
  ],

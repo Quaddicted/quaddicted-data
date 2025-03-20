@@ -165,8 +165,12 @@
  "release_date": "2011-05-06",
  "sha256": "3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7",
  "tags": [
+  "author=PM",
+  "author=PulSaR",
+  "author=Tronyn",
   "commandline=-heapsize 64000 -game drake",
   "dependency=drake290111",
+  "depends=('drake>=1.0')",
   "filename=arcanum.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -177,6 +181,7 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=monsters",
   "nonspecific_tag=weapons",
+  "release_date=2011-05-06",
   "startmap=arcanum1",
   "startmap=arcanum2",
   "startmap=arcanum3",
@@ -186,6 +191,7 @@
   "theme=ikblue",
   "theme=knave",
   "theme=medieval",
+  "title=Arcanum",
   "type=episode",
   "type=mod",
   "zipbasedir=wicked/"

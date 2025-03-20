@@ -166,6 +166,7 @@
  "release_date": "2022-06-25",
  "sha256": "0b84f7b7bdcfdef60afbd9838200230791acf46c16369c19f3679eb2471a0ceb",
  "tags": [
+  "author=raven33 / Lilybug33",
   "commandline=-game lb_fall",
   "filename=lb_fall.zip",
   "game=quake",
@@ -175,6 +176,7 @@
   "nonspecific_tag=chapel",
   "nonspecific_tag=mg1",
   "nonspecific_tag=skybox",
+  "release_date=2022-06-25",
   "source=included",
   "startmap=lb_fall01",
   "startmap=lb_fall02",
@@ -183,6 +185,7 @@
   "theme=id1",
   "theme=medieval",
   "theme=water",
+  "title=Dare to Dream",
   "type=mod"
  ],
  "title": "Dare to Dream",

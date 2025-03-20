@@ -25,15 +25,18 @@
  "release_date": "1998-09-29",
  "sha256": "ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2",
  "tags": [
+  "author=Mark Turner",
   "filename=colony.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsc.htm#colony)",
   "link:review=[SPQ Level Heaven](https://www.quaddicted.com/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
   "map_size=small",
+  "release_date=1998-09-29",
   "theme=base",
   "theme=cave",
   "theme=swamp",
+  "title=Colony",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

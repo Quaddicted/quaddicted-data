@@ -31,14 +31,17 @@
  "release_date": "2021-06-18",
  "sha256": "75d9d6938d21b75eab68280d84aa608a04fefecaa0a8a79984a940a60966f3a3",
  "tags": [
+  "author=c0j",
   "filename=dark_oddyssey_qmap.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
+  "release_date=2021-06-18",
   "source=included",
   "startmap=do1",
   "theme=bricks",
   "theme=medieval",
+  "title=Dark Oddyssey",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

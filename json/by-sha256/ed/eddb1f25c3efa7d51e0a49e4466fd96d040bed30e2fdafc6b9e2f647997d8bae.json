@@ -26,6 +26,8 @@
  "release_date": "1998-08-01",
  "sha256": "eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae",
  "tags": [
+  "author=AxeMan",
+  "author=Dust",
   "commandline=-game e-5",
   "filename=e-5.zip",
   "game=quake",
@@ -34,7 +36,9 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev990428.html)",
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "nonspecific_tag=plagiarism",
+  "release_date=1998-08-01",
   "startmap=start1",
+  "title=Pak 5",
   "type=mod",
   "zipbasedir=e-5/"
  ],

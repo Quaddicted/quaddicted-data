@@ -25,6 +25,7 @@
  "release_date": "1997-04-25",
  "sha256": "bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611",
  "tags": [
+  "author=Marcus Dromowicz",
   "commandline=-game mexx8",
   "filename=mexx8.zip",
   "game=quake",
@@ -38,11 +39,13 @@
   "nonspecific_tag=cutscenes",
   "nonspecific_tag=monsters",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-04-25",
   "theme=boss",
   "theme=exploration",
   "theme=medieval",
   "theme=metal",
   "theme=wizard",
+  "title=Prelude to Apocalypse & Mordrigor's Demise",
   "type=mod",
   "zipbasedir=mexx8/"
  ],

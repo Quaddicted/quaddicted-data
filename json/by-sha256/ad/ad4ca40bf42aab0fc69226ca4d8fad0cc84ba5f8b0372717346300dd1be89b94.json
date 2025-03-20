@@ -110,12 +110,16 @@
  "release_date": "2025-01-05",
  "sha256": "ad4ca40bf42aab0fc69226ca4d8fad0cc84ba5f8b0372717346300dd1be89b94",
  "tags": [
+  "author=Sock",
+  "author=Zothique",
   "commandline=-game ritual",
   "filename=ritual_v0_96.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Youtube trailer](https://www.youtube.com/watch?v=CCfRqpIObtw)",
+  "release_date=2025-01-05",
   "startmap=start",
+  "title=Ritual",
   "type=episode",
   "zipbasedir=ritual"
  ],

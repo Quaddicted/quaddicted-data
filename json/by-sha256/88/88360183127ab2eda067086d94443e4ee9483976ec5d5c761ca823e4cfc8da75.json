@@ -25,6 +25,7 @@
  "release_date": "1997-04-03",
  "sha256": "88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75",
  "tags": [
+  "author=Dean Scott",
   "filename=pyro4.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -33,9 +34,11 @@
   "map_size=medium",
   "nonspecific_tag=chthon",
   "nonspecific_tag=unmarked secrets",
+  "release_date=1997-04-03",
   "theme=boss",
   "theme=lava",
   "theme=metal",
+  "title=Pyro4 - The Awakening",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

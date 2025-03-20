@@ -31,6 +31,7 @@
  "release_date": "1997-07-01",
  "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "tags": [
+  "author=T.H. Johansen (TJ)",
   "commandline=-hipnotic -game tefdb2a",
   "dependency=hipnotic",
   "filename=tefdbl2a.zip",
@@ -42,9 +43,11 @@
   "nonspecific_tag=coop",
   "nonspecific_tag=dinosaurs",
   "nonspecific_tag=monsters",
+  "release_date=1997-07-01",
   "startmap=tef_io",
   "theme=dissolution of eternity",
   "theme=scourge of armagon",
+  "title=Into Oblivion/Nostalgia",
   "type=episode",
   "type=mod",
   "zipbasedir=tefdb2a/"

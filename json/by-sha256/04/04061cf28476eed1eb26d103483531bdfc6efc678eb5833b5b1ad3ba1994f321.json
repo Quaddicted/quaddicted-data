@@ -25,6 +25,7 @@
  "release_date": "2003-07-07",
  "sha256": "04061cf28476eed1eb26d103483531bdfc6efc678eb5833b5b1ad3ba1994f321",
  "tags": [
+  "author=Hrimfaxi",
   "commandline=-game hrimturt",
   "filename=hrimturt.zip",
   "game=quake",
@@ -36,9 +37,11 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=monsters",
   "nonspecific_tag=turtle",
+  "release_date=2003-07-07",
   "startmap=let",
   "theme=base",
   "theme=rubicon",
+  "title=Hrimturt",
   "type=mod",
   "zipbasedir=hrimturt/"
  ],

@@ -29,6 +29,11 @@
  "release_date": "2002-01-22",
  "sha256": "206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73",
  "tags": [
+  "author=Dilvish",
+  "author=Fat Controller",
+  "author=Tim Elek",
+  "author=Tronyn",
+  "author=necros",
   "commandline=-game coagulacontest",
   "filename=coagulacontest.zip",
   "game=quake",
@@ -39,6 +44,7 @@
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "map_size=small",
+  "release_date=2002-01-22",
   "startmap=cogstart",
   "startmap=dilcoa",
   "startmap=fc_coag",
@@ -48,6 +54,7 @@
   "theme=coagula",
   "theme=space",
   "theme=void",
+  "title=The Coagula Contest",
   "type=contest",
   "type=mod",
   "zipbasedir=coagulacontest/"

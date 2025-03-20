@@ -25,6 +25,7 @@
  "release_date": "1997-04-19",
  "sha256": "9ae88bf51db0c7a06fb01f224edb95b4427e222ec3f2cf845ba45200933dc17c",
  "tags": [
+  "author=Richard Dale Carlson",
   "filename=fane11.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,11 +33,13 @@
   "link:review=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=86)",
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "map_size=small",
+  "release_date=1997-04-19",
   "theme=canyon",
   "theme=outdoor",
   "theme=puzzle",
   "theme=traps",
   "theme=wizard",
+  "title=Fane of the Diabolist",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

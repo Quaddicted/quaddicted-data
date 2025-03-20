@@ -70,6 +70,7 @@
  "release_date": "2020-03-18",
  "sha256": "8330a06bffa55ad1ca4a3798a00311c3ec1f939d65c74f0b2c20637e567f8104",
  "tags": [
+  "author=Greenwood",
   "commandline=-game zanthu",
   "exceeds_quake_limits=yes",
   "filename=zanthu.zip",
@@ -78,10 +79,12 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61854)",
   "map_size=medium",
   "nonspecific_tag=skybox",
+  "release_date=2020-03-18",
   "startmap=castlez",
   "theme=castle",
   "theme=dkt",
   "theme=lava",
+  "title=Castle Zanthu",
   "type=mod",
   "zipbasedir=zanthu/"
  ],

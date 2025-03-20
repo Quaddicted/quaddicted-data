@@ -29,6 +29,7 @@
  "release_group": "runekeep",
  "sha256": "064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1",
  "tags": [
+  "author=Rcktrob",
   "filename=runekeep.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -38,10 +39,15 @@
   "map_size=large",
   "nonspecific_tag=chthon",
   "nonspecific_tag=swimming",
+  "provides='runekeep=1.0'",
+  "release_date=2002-03-19",
+  "release_group=runekeep",
   "startmap=rrsp1",
   "theme=lava",
   "theme=medieval",
+  "title=Rune Keep",
   "type=map",
+  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "title": "Rune Keep",

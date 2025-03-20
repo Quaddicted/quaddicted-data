@@ -38,12 +38,16 @@
  "release_date": "2004-03-27",
  "sha256": "063e577ee8adbd747829b22a357f38765d338843e1d7d6759d13bbe2f6f9e130",
  "tags": [
+  "author=Zwiffle",
+  "author=nane",
   "filename=sm73_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2004-03-27",
   "startmap=sm73_nane",
   "startmap=sm73_zwiffle",
   "startmap=sm73_zwiffle2",
+  "title=Speedmapping pack 73 - Agenda/Dead map textures (A Tribute to Headshot #4)",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

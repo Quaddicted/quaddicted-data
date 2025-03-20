@@ -104,13 +104,17 @@
  "release_date": "2009-10-31",
  "sha256": "a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768",
  "tags": [
+  "author=PM",
+  "author=Tronyn",
   "commandline=-game arcdemo",
   "filename=arcdemo.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2009-10-31",
   "startmap=arcanum1",
   "theme=fantasy",
   "theme=medieval",
+  "title=Arcanum Demo",
   "type=mod",
   "zipbasedir=arcdemo/"
  ],

@@ -205,6 +205,7 @@
  "release_date": "2001-12-15",
  "sha256": "4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3",
  "tags": [
+  "author=Tim Elek",
   "commandline=-game techphob",
   "filename=techphob.zip",
   "game=quake",
@@ -214,11 +215,13 @@
   "nonspecific_tag=skins",
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
+  "release_date=2001-12-15",
   "startmap=tcphob",
   "startmap=tphob2",
   "theme=base",
   "theme=industrial",
   "theme=space",
+  "title=Technophobia: Unfinished maps",
   "type=mod",
   "type=unfinished",
   "zipbasedir=techphob/"

@@ -31,6 +31,7 @@
  "release_date": "1999-07-06",
  "sha256": "61d810b90fe75f82c5441861a494d0c57dd682a5c28fcf3299034041a4d8069f",
  "tags": [
+  "author=Vondur",
   "filename=solarfall.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -44,9 +45,11 @@
   "nonspecific_tag=planetquake-map-of-the-week",
   "nonspecific_tag=start",
   "nonspecific_tag=wet",
+  "release_date=1999-07-06",
   "startmap=solstart",
   "theme=blue",
   "theme=wizard",
+  "title=Solarfall",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

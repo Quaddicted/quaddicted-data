@@ -113,6 +113,7 @@
  "release_date": "1998-06-04",
  "sha256": "84a262cd840e957add537853551d4fdf565ebba7584cc23a94634f2616cafea9",
  "tags": [
+  "author=Simitar",
   "commandline=-game tsoa",
   "filename=tsoa.zip",
   "game=quake",
@@ -123,7 +124,9 @@
   "nonspecific_tag=robots",
   "nonspecific_tag=tc",
   "nonspecific_tag=textures",
+  "release_date=1998-06-04",
   "startmap=start",
+  "title=The Sword of Ares",
   "type=episode",
   "type=mod"
  ],

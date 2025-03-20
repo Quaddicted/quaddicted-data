@@ -88,6 +88,7 @@
  "release_date": "2019-06-10",
  "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "tags": [
+  "author=Albert van Zyl",
   "bsp_format=bsp2",
   "exceeds_quake_limits=yes",
   "filename=bindingtower2.zip",
@@ -99,12 +100,14 @@
   "nonspecific_tag=nature",
   "nonspecific_tag=skybox",
   "nonspecific_tag=trees",
+  "release_date=2019-06-10",
   "startmap=bindingtower",
   "theme=castle",
   "theme=medieval",
   "theme=outdoor",
   "theme=tower",
   "theme=wizard",
+  "title=Binding Tower",
   "type=map",
   "zipbasedir=id1/"
  ],

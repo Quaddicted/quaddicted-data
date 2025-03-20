@@ -25,6 +25,7 @@
  "release_date": "1996-10-14",
  "sha256": "0c869130550aaf5825496c7871e21cbfbd95e8fb20875b7afc19483ea5065dc4",
  "tags": [
+  "author=Obi-Wan",
   "filename=obiwan.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,8 +34,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "map_size=small",
+  "release_date=1996-10-14",
   "theme=oldschool",
   "theme=wizard",
+  "title=Prepare for HELL",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

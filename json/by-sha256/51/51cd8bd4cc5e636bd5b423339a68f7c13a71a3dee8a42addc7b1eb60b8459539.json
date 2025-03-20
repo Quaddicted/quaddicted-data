@@ -112,6 +112,7 @@
  "release_date": "2022-11-18",
  "sha256": "51cd8bd4cc5e636bd5b423339a68f7c13a71a3dee8a42addc7b1eb60b8459539",
  "tags": [
+  "author=Justin Fleck",
   "commandline=-game rd1m1rmx",
   "filename=rd1m1rmx.zip",
   "game=quake",
@@ -120,12 +121,14 @@
   "map_size=medium",
   "mod=rubicon",
   "nonspecific_tag=alkaline",
+  "release_date=2022-11-18",
   "source=included",
   "startmap=rd1m1rmx",
   "theme=base",
   "theme=classic",
   "theme=remix",
   "theme=rubicon",
+  "title=Quadrant 7",
   "type=mod"
  ],
  "title": "Quadrant 7",

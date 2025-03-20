@@ -539,6 +539,7 @@
  "release_group": "teuthis",
  "sha256": "c8ab0db09c1e22f9f05b9f4923ab9ee1dac0dc513c592fedbd46556509be3c16",
  "tags": [
+  "author=zbidou72",
   "commandline=-heapsize 512000 -game teuthis",
   "exceeds_quake_limits=yes",
   "filename=teuthis.zip",
@@ -550,6 +551,9 @@
   "nonspecific_tag=extras_r5",
   "nonspecific_tag=makkon",
   "nonspecific_tag=submarine",
+  "provides='teuthis=1.0'",
+  "release_date=2022-04-13",
+  "release_group=teuthis",
   "source=included",
   "startmap=teuthis",
   "theme=base",
@@ -557,7 +561,9 @@
   "theme=temple",
   "theme=underwater",
   "theme=water",
-  "type=mod"
+  "title=Temple of Teuthis v1",
+  "type=mod",
+  "version=1.0"
  ],
  "title": "Temple of Teuthis v1",
  "urls": [

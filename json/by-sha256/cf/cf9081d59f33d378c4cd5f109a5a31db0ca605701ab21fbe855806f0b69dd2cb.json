@@ -25,6 +25,7 @@
  "release_date": "1997-06-03",
  "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
  "tags": [
+  "author=John Parr",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=tol.zip",
@@ -32,9 +33,11 @@
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm)",
   "map_size=small",
+  "release_date=1997-06-03",
   "theme=dissolution of eternity",
   "theme=scourge of armagon",
   "theme=stone",
+  "title=Temple of Lightning",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

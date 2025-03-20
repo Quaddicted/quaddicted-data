@@ -52,6 +52,7 @@
  "release_date": "2017-08-27",
  "sha256": "70886bcd1362d5ecf7ccf6fb95bd20c2696a34a5cc12e9b8aa069c7284bdec2a",
  "tags": [
+  "author=negke",
   "exceeds_quake_limits=yes",
   "filename=retrojam6_negke.zip",
   "game=quake",
@@ -69,6 +70,7 @@
   "nonspecific_tag=labyrinth",
   "nonspecific_tag=moody",
   "nonspecific_tag=obscure",
+  "release_date=2017-08-27",
   "source=included",
   "theme=desert",
   "theme=dungeon",
@@ -80,6 +82,7 @@
   "theme=secrets",
   "theme=tomb",
   "theme=traps",
+  "title=Egyptgington",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

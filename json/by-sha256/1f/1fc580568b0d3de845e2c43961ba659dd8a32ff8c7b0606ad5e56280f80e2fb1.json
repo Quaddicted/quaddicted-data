@@ -37,6 +37,7 @@
  "release_date": "2008-07-01",
  "sha256": "1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1",
  "tags": [
+  "author=rj",
   "commandline=-game e2m5rmx",
   "filename=e2m5rmx.zip",
   "game=quake",
@@ -46,8 +47,10 @@
   "nonspecific_tag=e2m5",
   "nonspecific_tag=q3 gothic",
   "nonspecific_tag=skybox",
+  "release_date=2008-07-01",
   "theme=blood",
   "theme=remix",
+  "title=The Lizard's Trance",
   "type=mod",
   "zipbasedir=e2m5rmx/"
  ],

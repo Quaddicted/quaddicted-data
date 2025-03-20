@@ -25,6 +25,7 @@
  "release_date": "1997-09-12",
  "sha256": "e2448380850a83e95aea1b248997bd0c4870bf50cb180ff73a88ba2ce5167343",
  "tags": [
+  "author=Marcus Dromowicz",
   "commandline=-game mexx9",
   "filename=mexx9.zip",
   "game=quake",
@@ -36,10 +37,12 @@
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "nonspecific_tag=chthon",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-09-12",
   "theme=boss",
   "theme=classic",
   "theme=oldschool",
   "theme=wizard",
+  "title=Penumbra of Domination",
   "type=episode",
   "type=mod",
   "zipbasedir=mexx9/"

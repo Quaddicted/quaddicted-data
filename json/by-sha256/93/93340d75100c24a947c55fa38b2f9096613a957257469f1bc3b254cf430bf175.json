@@ -67,6 +67,7 @@
  "release_date": "2023-03-15",
  "sha256": "93340d75100c24a947c55fa38b2f9096613a957257469f1bc3b254cf430bf175",
  "tags": [
+  "author=Luis 'Chuma' Fernandez",
   "commandline=-game Urantia",
   "filename=urantia.zip",
   "game=quake",
@@ -77,10 +78,12 @@
   "nonspecific_tag=debut",
   "nonspecific_tag=makkon",
   "nonspecific_tag=vanilla",
+  "release_date=2023-03-15",
   "startmap=urantia",
   "theme=castle",
   "theme=id1",
   "theme=sewer",
+  "title=Urantia",
   "type=map"
  ],
  "title": "Urantia",

@@ -37,14 +37,17 @@
  "release_date": "1997-03-12",
  "sha256": "fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7",
  "tags": [
+  "author=Ludovic Texier",
   "filename=tww.zip",
   "game=quake",
   "game_mode=deathmatch",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelst.htm#tww)",
   "map_size=small",
+  "release_date=1997-03-12",
   "source=included",
   "theme=base",
+  "title=The Warfare Warehouse",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

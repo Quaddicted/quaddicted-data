@@ -121,6 +121,7 @@
  "release_date": "2022-10-19",
  "sha256": "7772824d469744cd8154075a69e99b1bf97975b75379d512994560cab2707ce6",
  "tags": [
+  "author=J\u00e9nilson Martins Da Silva",
   "commandline=-game idcsp1.6",
   "filename=idcsp1.6.zip",
   "game=quake",
@@ -131,10 +132,12 @@
   "nonspecific_tag=castlevania",
   "nonspecific_tag=debut",
   "nonspecific_tag=vanilla",
+  "release_date=2022-10-19",
   "source=included",
   "startmap=idcsp1",
   "theme=gothic",
   "theme=medieval",
+  "title=Interdimensional Castle",
   "type=mod"
  ],
  "title": "Interdimensional Castle",

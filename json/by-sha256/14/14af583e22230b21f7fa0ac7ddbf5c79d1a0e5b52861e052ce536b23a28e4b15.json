@@ -25,6 +25,7 @@
  "release_date": "1997-02-27",
  "sha256": "14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15",
  "tags": [
+  "author=Andrew Smith",
   "filename=epoch.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -38,10 +39,12 @@
   "map_size=large",
   "nonspecific_tag=necropolis",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-02-27",
   "theme=base",
   "theme=caverns",
   "theme=medieval",
   "theme=wizard",
+  "title=The Epoch Turning",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

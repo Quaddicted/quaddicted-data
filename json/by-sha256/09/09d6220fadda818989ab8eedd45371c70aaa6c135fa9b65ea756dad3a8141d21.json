@@ -166,6 +166,7 @@
  "release_date": "2021-06-12",
  "sha256": "09d6220fadda818989ab8eedd45371c70aaa6c135fa9b65ea756dad3a8141d21",
  "tags": [
+  "author=Zothique",
   "bsp_format=bsp2",
   "commandline=-game purifier",
   "exceeds_quake_limits=yes",
@@ -177,10 +178,12 @@
   "map_size=large",
   "mod=copper",
   "nonspecific_tag=sewers",
+  "release_date=2021-06-12",
   "theme=blood",
   "theme=bricks",
   "theme=traps",
   "theme=wizard",
+  "title=The Purifier",
   "type=mod",
   "zipbasedir=/"
  ],

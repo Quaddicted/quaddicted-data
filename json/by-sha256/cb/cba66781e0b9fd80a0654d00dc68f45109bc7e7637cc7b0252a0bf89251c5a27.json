@@ -25,6 +25,7 @@
  "release_date": "1997-02-25",
  "sha256": "cba66781e0b9fd80a0654d00dc68f45109bc7e7637cc7b0252a0bf89251c5a27",
  "tags": [
+  "author=Michael Reed",
   "filename=well.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -34,9 +35,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "release_date=1997-02-25",
   "theme=metal",
   "theme=traps",
   "theme=wizard",
+  "title=The Well of Lost Souls",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

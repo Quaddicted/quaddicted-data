@@ -25,6 +25,7 @@
  "release_date": "1996-11-17",
  "sha256": "1aa3bb69e90ea18d89c179c628a512b332101cde5bdf58fb96545f6d5ea3dd4c",
  "tags": [
+  "author=Matt Sefton",
   "filename=evilwrld.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,10 +37,12 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "map_size=medium",
+  "release_date=1996-11-17",
   "theme=metal",
   "theme=pyramid",
   "theme=runic",
   "theme=traps",
+  "title=EvilWorld 1",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

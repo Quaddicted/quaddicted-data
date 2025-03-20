@@ -1627,12 +1627,15 @@
  "release_date": "2024-09-06",
  "sha256": "ff5c3a9b6b98bd547ed2f2dba776f3ec0a7b221fb393a9ba5675d0f110b8bfb9",
  "tags": [
+  "author=Eternal_Summer",
   "commandline=-game old_town",
   "filename=old_town.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/old-town.394/)",
+  "release_date=2024-09-06",
   "startmap=prehevil_alone",
+  "title=Old Town",
   "type=map",
   "type=mod",
   "zipbasedir=old_town/"

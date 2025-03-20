@@ -25,6 +25,7 @@
  "release_date": "1997-07-22",
  "sha256": "b0e4c813c12d979da605cc8b61f71223e461468a5da8ff4453a8aea06fc3159c",
  "tags": [
+  "author=Jussi Tuononen",
   "filename=ra.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -32,10 +33,12 @@
   "map_layout=non-linear",
   "map_size=medium",
   "nonspecific_tag=underwarer",
+  "release_date=1997-07-22",
   "theme=base",
   "theme=cave",
   "theme=exploration",
   "theme=underwater",
+  "title=Ra",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

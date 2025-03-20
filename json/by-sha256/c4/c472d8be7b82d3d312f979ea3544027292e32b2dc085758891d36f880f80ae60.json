@@ -243,6 +243,12 @@
  "release_date": "2022-02-23",
  "sha256": "c472d8be7b82d3d312f979ea3544027292e32b2dc085758891d36f880f80ae60",
  "tags": [
+  "author=4LT",
+  "author=Chris Holden",
+  "author=Cocerello",
+  "author=Newhouse",
+  "author=ZungryWare",
+  "author=ish",
   "commandline=-game sm216",
   "exceeds_quake_limits=yes",
   "filename=sm216_v2.zip",
@@ -252,6 +258,7 @@
   "link=[SMP (Speedmapping Progs) devkit](https://github.com/quake-mapping-community/smp)",
   "nonspecific_tag=smp",
   "nonspecific_tag=textures",
+  "release_date=2022-02-23",
   "source=included",
   "startmap=sm216_4lt",
   "startmap=sm216_chrisholden",
@@ -260,6 +267,7 @@
   "startmap=sm216_newhouse",
   "startmap=sm216_zungryware",
   "startmap=start",
+  "title=Speedmapping pack 216 - Communal Paint Bucket",
   "type=mapjam",
   "type=mod",
   "type=speedmap"

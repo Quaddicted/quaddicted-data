@@ -44,8 +44,10 @@
  "release_date": "2023-03-29",
  "sha256": "4a2fbeda7cf8d185652e4659da6ed79f124836255098aff9b99b85371cd74c1e",
  "tags": [
+  "author=Spiked_",
   "commandline=-game copper",
   "dependency=copper_v1_20",
+  "depends=('copper>=1.20')",
   "exceeds_quake_limits=yes",
   "filename=runemech.zip",
   "game=quake",
@@ -55,6 +57,7 @@
   "mod=copper",
   "nonspecific_tag=factory",
   "nonspecific_tag=makkon",
+  "release_date=2023-03-29",
   "source=included",
   "startmap=runemech",
   "theme=cave",
@@ -63,6 +66,7 @@
   "theme=runic",
   "theme=tomb",
   "theme=underground",
+  "title=Runic Mechanism",
   "type=map",
   "zipbasedir=copper/maps/"
  ],

@@ -112,6 +112,7 @@
  "release_date": "2001-01-10",
  "sha256": "c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e",
  "tags": [
+  "author=The Lieutenant",
   "commandline=-game lthsp2",
   "filename=lthsp2.zip",
   "game=quake",
@@ -121,9 +122,11 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev010111.html)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "mod=rubicon",
+  "release_date=2001-01-10",
   "startmap=lthsp1",
   "theme=ikbase",
   "theme=rubicon",
+  "title=Backwards Compatible",
   "type=mod",
   "zipbasedir=lthsp2/"
  ],

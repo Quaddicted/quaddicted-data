@@ -25,14 +25,17 @@
  "release_date": "1997-07-10",
  "sha256": "0cf96610e8afb524b0c7bba7de9225c8604daf1be7f0373f9cad5c2c6ce55ff1",
  "tags": [
+  "author=Benjamin S. Clower",
   "filename=watertor.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsv-z.htm)",
   "map_size=small",
+  "release_date=1997-07-10",
   "theme=brick",
   "theme=water",
   "theme=wizard",
+  "title=Water Torture",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

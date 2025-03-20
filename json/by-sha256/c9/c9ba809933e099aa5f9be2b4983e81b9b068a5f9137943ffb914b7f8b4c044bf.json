@@ -31,6 +31,7 @@
  "release_date": "1997-02-23",
  "sha256": "c9ba809933e099aa5f9be2b4983e81b9b068a5f9137943ffb914b7f8b4c044bf",
  "tags": [
+  "author=Fred Hite,Jr (DEVIANT)",
   "filename=gibplex.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -39,8 +40,10 @@
   "map_size=medium",
   "nonspecific_tag=mandatory secrets",
   "nonspecific_tag=textures",
+  "release_date=1997-02-23",
   "theme=medieval",
   "theme=wizard",
+  "title=The Gibplex",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

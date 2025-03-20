@@ -25,14 +25,17 @@
  "release_date": "2000-09-25",
  "sha256": "4727cc7fbdecec4bf2d085fd38503660831b804a429629631817055911cbc44e",
  "tags": [
+  "author=digs",
   "filename=supmut.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://digspt.ru/quake/",
   "map_layout=arena",
   "map_size=small",
+  "release_date=2000-09-25",
   "theme=bricks",
   "theme=mixtex",
+  "title=Supmut",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

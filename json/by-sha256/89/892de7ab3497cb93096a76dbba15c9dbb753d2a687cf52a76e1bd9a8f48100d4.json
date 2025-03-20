@@ -25,14 +25,18 @@
  "release_date": "1999-07-23",
  "sha256": "892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4",
  "tags": [
+  "author=Ironhammer",
   "commandline=-game badpak",
   "dependency=badpak",
+  "depends=168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
   "filename=ih1m5.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=small",
   "nonspecific_tag=badpak",
+  "release_date=1999-07-23",
   "theme=base",
+  "title=Ih1m5",
   "type=map",
   "zipbasedir=badpak/maps/"
  ],

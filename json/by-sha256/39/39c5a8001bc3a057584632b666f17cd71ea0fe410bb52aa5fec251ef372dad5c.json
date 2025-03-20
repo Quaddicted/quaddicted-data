@@ -91,8 +91,10 @@
  "release_date": "2007-12-16",
  "sha256": "39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c",
  "tags": [
+  "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=thehand.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -100,9 +102,11 @@
   "link:review=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
   "map_size=huge",
   "mod=quoth",
+  "release_date=2007-12-16",
   "theme=base",
   "theme=idbase",
   "theme=quoth",
+  "title=The Hand That Feeds You",
   "type=map",
   "zipbasedir=quoth/"
  ],

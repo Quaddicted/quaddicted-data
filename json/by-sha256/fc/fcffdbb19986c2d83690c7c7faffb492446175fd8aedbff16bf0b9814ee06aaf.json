@@ -37,6 +37,7 @@
  "release_date": "1997-12-26",
  "sha256": "fcffdbb19986c2d83690c7c7faffb492446175fd8aedbff16bf0b9814ee06aaf",
  "tags": [
+  "author=Jason Zukowski",
   "commandline=-game jzspq",
   "filename=jzspq.zip",
   "game=quake",
@@ -45,9 +46,11 @@
   "map_size=small",
   "nonspecific_tag=start",
   "nonspecific_tag=wolfenstein",
+  "release_date=1997-12-26",
   "startmap=start",
   "theme=conversion",
   "theme=doom 2",
+  "title=Wolfenstein/Doom version 1.1",
   "type=episode",
   "type=mod"
  ],

@@ -98,8 +98,10 @@
  "release_date": "2022-03-08",
  "sha256": "ab8d689c1c705116ada62b6fcb469127aaea566dc4d6a1990fb2a29e645608b2",
  "tags": [
+  "author=Mememind",
   "commandline=-game alk1.1",
   "dependency=alkaline1.1",
+  "depends=('alkaline>=1.10')",
   "filename=hydromadnessv3.2.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -107,10 +109,12 @@
   "link=[Quaketastic mirror](https://www.quaketastic.com/files/HydromadnessV3.2.zip)",
   "map_size=medium",
   "nonspecific_tag=alkaline",
+  "release_date=2022-03-08",
   "source=included",
   "startmap=hydromadness",
   "theme=base",
   "theme=tech",
+  "title=Hydro Madness",
   "type=map",
   "zipbasedir=alk1.1/"
  ],

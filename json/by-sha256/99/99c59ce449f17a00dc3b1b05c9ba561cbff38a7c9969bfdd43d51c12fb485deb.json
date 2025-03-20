@@ -61,9 +61,11 @@
  "release_date": "2018-05-28",
  "sha256": "99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb",
  "tags": [
+  "author=sock",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "depends=('ad>=1.71')",
   "exceeds_quake_limits=yes",
   "filename=ad_grendel1h.zip",
   "game=quake",
@@ -75,6 +77,7 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=hub",
   "nonspecific_tag=runes",
+  "release_date=2018-05-28",
   "startmap=ad_grendel",
   "theme=arcane dimensions",
   "theme=dm4",
@@ -83,6 +86,7 @@
   "theme=runic",
   "theme=secrets",
   "theme=super secret",
+  "title=Grendel's Blade",
   "type=map",
   "zipbasedir=ad/"
  ],

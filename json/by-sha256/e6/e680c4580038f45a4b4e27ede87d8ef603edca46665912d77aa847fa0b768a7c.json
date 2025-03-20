@@ -25,6 +25,7 @@
  "release_date": "2000-07-04",
  "sha256": "e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c",
  "tags": [
+  "author=Rick Lipsey",
   "filename=oblivion.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,9 +37,11 @@
   "nonspecific_tag=etal",
   "nonspecific_tag=interconnected",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-07-04",
   "theme=blue",
   "theme=castle",
   "theme=metal",
+  "title=Castle of Oblivion",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

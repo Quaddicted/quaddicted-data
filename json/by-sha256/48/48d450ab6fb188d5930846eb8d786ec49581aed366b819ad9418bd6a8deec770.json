@@ -25,6 +25,7 @@
  "release_date": "2006-03-31",
  "sha256": "48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770",
  "tags": [
+  "author=JPL",
   "commandline=-game event",
   "filename=event.zip",
   "game=quake",
@@ -36,10 +37,12 @@
   "nonspecific_tag=cyberdemon",
   "nonspecific_tag=daikatana",
   "nonspecific_tag=monsters",
+  "release_date=2006-03-31",
   "theme=base",
   "theme=dkt",
   "theme=space",
   "theme=traps",
+  "title=Event Horizon",
   "type=mod",
   "zipbasedir=event/"
  ],

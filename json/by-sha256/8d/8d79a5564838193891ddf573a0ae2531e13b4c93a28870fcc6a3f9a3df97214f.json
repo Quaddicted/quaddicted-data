@@ -25,6 +25,7 @@
  "release_date": "1997-10-10",
  "sha256": "8d79a5564838193891ddf573a0ae2531e13b4c93a28870fcc6a3f9a3df97214f",
  "tags": [
+  "author=John Watson (Shoggoth)",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=cloning.zip",
@@ -35,9 +36,11 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_layout=non-linear",
   "map_size=large",
+  "release_date=1997-10-10",
   "theme=base",
   "theme=dissolution of eternity",
   "theme=scourge of armagon",
+  "title=The Cloning Facility",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

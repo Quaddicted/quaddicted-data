@@ -67,12 +67,15 @@
  "release_date": "2024-04-01",
  "sha256": "9b37a5d251225d0e8778d8eeb78c24f35bdd9355d4880dbbb0cddcb0b5533eb8",
  "tags": [
+  "author=zigi",
   "commandline=-game zafp",
   "filename=zafp.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer link](https://www.slipseer.com/index.php?resources/zigis-april-fools-pack.346/)",
+  "release_date=2024-04-01",
   "startmap=start",
+  "title=zigi's April Fool's pack",
   "type=map",
   "type=mod"
  ],

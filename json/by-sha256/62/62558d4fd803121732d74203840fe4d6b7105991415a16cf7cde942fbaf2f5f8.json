@@ -37,15 +37,18 @@
  "release_date": "1996-11-09",
  "sha256": "62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8",
  "tags": [
+  "author=Matthias Worch",
   "filename=map01.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:homepage=http://www.worch.com",
   "map_size=small",
+  "release_date=1996-11-09",
   "source=included",
   "theme=base",
   "theme=doom 2",
   "theme=remake",
+  "title=DooM II Map01",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

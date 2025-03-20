@@ -269,6 +269,7 @@
  "release_date": "2020-02-22",
  "sha256": "af034a72e34995d4079ea3855edcfaeabd96de1da81aa6d9cb521b1fc47dca9a",
  "tags": [
+  "author=Kayne",
   "bsp_format=bsp2",
   "commandline=-game malice",
   "dependency=malice",
@@ -284,10 +285,12 @@
   "nonspecific_tag=malice",
   "nonspecific_tag=nightclub",
   "nonspecific_tag=tc",
+  "release_date=2020-02-22",
   "source=included",
   "startmap=partyhard",
   "startmap=start2",
   "theme=realism",
+  "title=Murder at the Disco",
   "type=map",
   "zipbasedir=malice/"
  ],

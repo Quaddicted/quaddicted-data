@@ -26,11 +26,15 @@
  "release_date": "2005-10-30",
  "sha256": "fc11a6c33cfe28f229c3cd4aa89774da95f84ae2e9058846653ce411c7641a0c",
  "tags": [
+  "author=HeadThump",
+  "author=generic",
   "filename=sm107_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-10-30",
   "startmap=sm107_generic",
   "startmap=sm107_ht",
+  "title=Speedmapping pack 107",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

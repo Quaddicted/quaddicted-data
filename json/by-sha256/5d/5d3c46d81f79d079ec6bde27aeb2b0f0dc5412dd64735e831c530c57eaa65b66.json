@@ -340,6 +340,12 @@
  "release_date": "2014-10-31",
  "sha256": "5d3c46d81f79d079ec6bde27aeb2b0f0dc5412dd64735e831c530c57eaa65b66",
  "tags": [
+  "author=DaZ",
+  "author=Tronyn",
+  "author=ericw",
+  "author=ionous",
+  "author=mfx",
+  "author=scar3crow",
   "commandline=-heapsize 64000 -game jam3 +max_edicts 2048",
   "filename=func_mapjam3.zip",
   "game=quake",
@@ -351,6 +357,7 @@
   "nonspecific_tag=monsters",
   "nonspecific_tag=skybox",
   "nonspecific_tag=terrain",
+  "release_date=2014-10-31",
   "source=included",
   "startmap=jam3_daz",
   "startmap=jam3_ericw",
@@ -368,6 +375,7 @@
   "theme=traps",
   "theme=wizard",
   "theme=zerst\u00f6rer",
+  "title=Func Map Jam 3 - Zerst\u00f6rer theme",
   "type=mapjam",
   "type=mod",
   "zipbasedir=jam3/"

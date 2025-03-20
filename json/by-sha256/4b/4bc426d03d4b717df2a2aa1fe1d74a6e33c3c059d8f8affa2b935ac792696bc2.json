@@ -37,8 +37,10 @@
  "release_date": "2020-12-01",
  "sha256": "4bc426d03d4b717df2a2aa1fe1d74a6e33c3c059d8f8affa2b935ac792696bc2",
  "tags": [
+  "author=AlekswithaK",
   "commandline=-game copper",
   "dependency=copper_v1_15",
+  "depends=('copper>=1.15')",
   "filename=akm1.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -46,8 +48,10 @@
   "map_size=medium",
   "map_size=small",
   "mod=copper",
+  "release_date=2020-12-01",
   "theme=bricks",
   "theme=medieval",
+  "title=Cradle",
   "type=map",
   "zipbasedir=copper/maps/"
  ],

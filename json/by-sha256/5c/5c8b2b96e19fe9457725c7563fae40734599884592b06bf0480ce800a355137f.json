@@ -49,8 +49,10 @@
  "release_date": "2001-08-10",
  "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
  "tags": [
+  "author=Shaun [Kona] Ross",
   "commandline=-nehahra -game alk10",
   "dependency=nehahra",
+  "depends=5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
   "filename=alk10.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -61,9 +63,11 @@
   "map_size=medium",
   "nonspecific_tag=neharah",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2001-08-10",
   "startmap=alk10a",
   "theme=metal",
   "theme=nehahra",
+  "title=Permutations of the Rotten",
   "type=episode",
   "type=mod"
  ],

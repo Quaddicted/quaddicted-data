@@ -28,6 +28,7 @@
  "release_date": "1997-07-23",
  "sha256": "d8959d3f3d3dd3043b0a784884549213e8dbe3f7626a586b21964883eb3b1581",
  "tags": [
+  "author=Brian Kline (Larry)",
   "commandline=-hipnotic",
   "dependency=hipnotic",
   "filename=sewer12.zip",
@@ -35,10 +36,12 @@
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelss.htm)",
   "link:review=[erc's Underdog](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=279)",
+  "release_date=1997-07-23",
   "theme=base",
   "theme=dissolution of eternity",
   "theme=scourge of armagon",
   "theme=sewer",
+  "title=Seweage Playground",
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],

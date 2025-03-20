@@ -1006,6 +1006,7 @@
  "release_date": "2020-12-17",
  "sha256": "e2efb10efeb36af3d4b6b9e1ddeac537c8bb9b4773f701a1c1e8317785cad419",
  "tags": [
+  "author=GunSgtHighway",
   "bsp_format=bsp2",
   "commandline=-heapsize 512000 -game gsh_adoria",
   "exceeds_quake_limits=yes",
@@ -1028,6 +1029,7 @@
   "nonspecific_tag=spaceship",
   "nonspecific_tag=textures",
   "nonspecific_tag=uac",
+  "release_date=2020-12-17",
   "source=included",
   "startmap=adoria_pt1",
   "startmap=start",
@@ -1035,6 +1037,7 @@
   "theme=doom",
   "theme=realism",
   "theme=space",
+  "title=Adoria",
   "type=mod",
   "zipbasedir=/"
  ],

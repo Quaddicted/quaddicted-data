@@ -25,6 +25,7 @@
  "release_date": "1997-08-26",
  "sha256": "b4ef9f01c8b723be7f9fbb6b5b5e89ecaba940ab1053ab85c5c5b91deed39b77",
  "tags": [
+  "author=Jim Hendrickson",
   "filename=bnt.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -36,7 +37,9 @@
   "map_layout=non-linear",
   "map_size=medium",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-08-26",
   "theme=metal",
+  "title=Bridges & Towers",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

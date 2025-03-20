@@ -31,14 +31,17 @@
  "release_date": "1996-12-22",
  "sha256": "670b8f1b09fa757cfb6dc94ddadd66904287bcef729d9efff6ebde9e2637c0f0",
  "tags": [
+  "author=Chris",
   "filename=kuro.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link:review=[Crash's](http://www.quake2.com/crash/levelsk.htm)",
   "map_size=small",
+  "release_date=1996-12-22",
   "source=included",
   "theme=metal",
   "theme=wizard",
+  "title=Kuro",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

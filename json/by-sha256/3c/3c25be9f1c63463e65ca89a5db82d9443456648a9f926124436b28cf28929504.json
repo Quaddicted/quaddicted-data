@@ -44,11 +44,15 @@
  "release_date": "2007-11-13",
  "sha256": "3c25be9f1c63463e65ca89a5db82d9443456648a9f926124436b28cf28929504",
  "tags": [
+  "author=efdat",
+  "author=ijed",
   "filename=sm140_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2007-11-13",
   "startmap=sm140_efdat",
   "startmap=sm140_ijed",
+  "title=Speedmapping pack 140 - Unthemed",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

@@ -67,10 +67,13 @@
  "release_date": "2023-07-02",
  "sha256": "f6956a179fc248aca8a4d91dc79dc302d848fe63522b1fd3e7a8fb49e3dc3bc5",
  "tags": [
+  "author=Paul Keefner",
   "filename=rrr.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2023-07-02",
   "startmap=RRR",
+  "title=rest room run",
   "type=map",
   "zipbasedir=id1/"
  ],

@@ -486,13 +486,20 @@
  "release_group": "copper",
  "sha256": "2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8",
  "tags": [
+  "author=Lunaran",
   "commandline=-game copper",
+  "current_main_group_package=yes",
   "filename=copper_v1_30.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Copper homepage](http://lunaran.com/copper/download/)",
+  "provides='copper=1.30'",
+  "release_date=2023-10-31",
+  "release_group=copper",
   "startmap=start",
-  "type=mod"
+  "title=Copper v1.30",
+  "type=mod",
+  "version=1.30"
  ],
  "title": "Copper v1.30",
  "urls": [

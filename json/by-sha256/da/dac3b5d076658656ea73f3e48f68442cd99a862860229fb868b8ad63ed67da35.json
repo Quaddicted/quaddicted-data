@@ -25,6 +25,7 @@
  "release_date": "1997-08-18",
  "sha256": "dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35",
  "tags": [
+  "author=Roger Staines",
   "filename=ghost.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -37,7 +38,9 @@
   "nonspecific_tag=modes",
   "nonspecific_tag=western",
   "nonspecific_tag=wood",
+  "release_date=1997-08-18",
   "theme=town",
+  "title=Ghost Town",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

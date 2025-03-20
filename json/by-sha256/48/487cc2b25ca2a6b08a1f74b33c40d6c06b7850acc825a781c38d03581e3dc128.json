@@ -25,6 +25,7 @@
  "release_date": "1997-11-18",
  "sha256": "487cc2b25ca2a6b08a1f74b33c40d6c06b7850acc825a781c38d03581e3dc128",
  "tags": [
+  "author=Massimo Ciano",
   "filename=fatalpla.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -33,8 +34,10 @@
   "link:review=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
   "map_size=medium",
   "nonspecific_tag=buttons",
+  "release_date=1997-11-18",
   "theme=castle",
   "theme=metal",
+  "title=The Fatal Place",
   "type=map",
   "zipbasedir=id1/maps/"
  ],

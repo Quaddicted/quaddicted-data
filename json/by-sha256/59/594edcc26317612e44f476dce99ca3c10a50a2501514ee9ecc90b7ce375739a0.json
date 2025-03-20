@@ -223,9 +223,11 @@
  "release_date": "2017-09-23",
  "sha256": "594edcc26317612e44f476dce99ca3c10a50a2501514ee9ecc90b7ce375739a0",
  "tags": [
+  "author=Redfield",
   "commandline=-game ad",
   "dependency=ad_sepulcher",
   "dependency=ad_v1_50final",
+  "depends=('ad>=1.70')",
   "filename=ad_paradise.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -236,6 +238,7 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=sounds",
   "nonspecific_tag=sphynx",
+  "release_date=2017-09-23",
   "source=included",
   "theme=arcane dimensions",
   "theme=base",
@@ -245,6 +248,7 @@
   "theme=pyramid",
   "theme=secrets",
   "theme=tomb",
+  "title=Paradise Sickness",
   "type=map",
   "zipbasedir=ad/"
  ],

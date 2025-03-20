@@ -31,6 +31,7 @@
  "release_date": "2002-09-28",
  "sha256": "7b1c71a43edbc9b0d05d50890b220caabda20685590f928d6233a808b8e92bfc",
  "tags": [
+  "author=Ray \"NotoriousRAY\" O'Neill",
   "commandline=-game pbrsp1",
   "filename=pbrsp1.zip",
   "game=quake",
@@ -41,7 +42,9 @@
   "map_size=large",
   "nonspecific_tag=monsters",
   "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2002-09-28",
   "theme=base",
+  "title=Hexameron: Phase One",
   "type=mod",
   "zipbasedir=pbrsp1/"
  ],

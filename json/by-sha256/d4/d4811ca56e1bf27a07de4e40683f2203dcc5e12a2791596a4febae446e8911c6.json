@@ -55,8 +55,10 @@
  "release_date": "2018-03-19",
  "sha256": "d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6",
  "tags": [
+  "author=Doug Wheeler aka Bullseye8841",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
+  "depends=('ad>=1.70')",
   "exceeds_quake_limits=yes",
   "filename=ad_dwoffice.zip",
   "game=quake",
@@ -67,9 +69,11 @@
   "nonspecific_tag=ad",
   "nonspecific_tag=cars",
   "nonspecific_tag=kingpin",
+  "release_date=2018-03-19",
   "theme=arcane dimensions",
   "theme=realism",
   "theme=secrets",
+  "title=Office Offense",
   "type=map",
   "zipbasedir=ad/maps/"
  ],

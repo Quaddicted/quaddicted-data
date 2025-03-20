@@ -31,13 +31,16 @@
  "release_date": "1997-11-19",
  "sha256": "f40017500e54a222a99ef81abed5d70597ea5e134a44c46b2076cec237836d7a",
  "tags": [
+  "author=Erik Robson",
   "commandline=-game electric",
   "filename=electric.zip",
   "game=quake",
   "game_mode=singleplayer",
   "map_size=large",
   "nonspecific_tag=monsters",
+  "release_date=1997-11-19",
   "theme=realism",
+  "title=Electric Company",
   "type=mod",
   "zipbasedir=electric/"
  ],

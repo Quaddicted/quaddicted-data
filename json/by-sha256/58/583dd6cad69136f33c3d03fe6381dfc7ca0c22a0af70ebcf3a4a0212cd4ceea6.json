@@ -229,8 +229,10 @@
  "release_date": "2008-05-19",
  "sha256": "583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6",
  "tags": [
+  "author=distrans",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "depends=('quoth>=2.0')",
   "filename=dis_sp6.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -242,10 +244,12 @@
   "nonspecific_tag=details",
   "nonspecific_tag=hard",
   "nonspecific_tag=sounds",
+  "release_date=2008-05-19",
   "theme=base",
   "theme=doom 3",
   "theme=metal",
   "theme=quoth",
+  "title=Ruined Nation",
   "type=map",
   "zipbasedir=quoth/"
  ],

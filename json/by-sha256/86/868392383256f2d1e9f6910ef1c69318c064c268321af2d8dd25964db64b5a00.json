@@ -25,6 +25,7 @@
  "release_date": "1996-11-22",
  "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "tags": [
+  "author=Ed Cope",
   "commandline=-game M&M",
   "filename=mines.zip",
   "game=quake",
@@ -34,9 +35,11 @@
   "nonspecific_tag=broken_injector",
   "nonspecific_tag=mines",
   "nonspecific_tag=monsters",
+  "release_date=1996-11-22",
   "startmap=m&m",
   "theme=bricks",
   "theme=canyon",
+  "title=Mines & Mayhem",
   "type=mod"
  ],
  "title": "Mines & Mayhem",

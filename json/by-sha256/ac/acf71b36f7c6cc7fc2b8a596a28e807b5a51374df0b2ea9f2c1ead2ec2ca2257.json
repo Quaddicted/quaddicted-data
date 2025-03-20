@@ -79,6 +79,7 @@
  "release_date": "2001-04-12",
  "sha256": "acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257",
  "tags": [
+  "author=The Lieutenant",
   "commandline=-game lthsp5",
   "filename=lthsp5.zip",
   "game=quake",
@@ -88,8 +89,10 @@
   "link:review=[TEAMShambler](https://www.quaddicted.com/webarchive/teamshambler.planetquake.gamespy.com/rev010429.html)",
   "link:review=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=lthso5)",
   "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "release_date=2001-04-12",
   "theme=blue",
   "theme=metal",
+  "title=Exodus",
   "type=mod",
   "zipbasedir=lthsp5/"
  ],

@@ -45,12 +45,17 @@
  "release_date": "2005-06-05",
  "sha256": "87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74",
  "tags": [
+  "author=Tr0n",
+  "author=Zwiffle",
+  "author=bambuz",
   "filename=sm94_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2005-06-05",
   "startmap=SM94_Tron",
   "startmap=sm94_bam",
   "startmap=sm94_zwiffle",
+  "title=Speedmapping pack 94 - The Rabbit Hole",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],

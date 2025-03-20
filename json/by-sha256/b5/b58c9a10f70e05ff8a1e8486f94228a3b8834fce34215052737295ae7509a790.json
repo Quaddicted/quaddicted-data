@@ -455,6 +455,7 @@
  "release_group": "copper",
  "sha256": "b58c9a10f70e05ff8a1e8486f94228a3b8834fce34215052737295ae7509a790",
  "tags": [
+  "author=Lunaran",
   "commandline=-game copper",
   "filename=copper_v1_16.zip",
   "game=quake",
@@ -462,8 +463,13 @@
   "link:homepage=http://lunaran.com/copper/",
   "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61746)",
   "link=[List of changes](http://lunaran.com/copper/changes.html)",
+  "provides='copper=1.16'",
+  "release_date=2021-06-21",
+  "release_group=copper",
   "startmap=start",
+  "title=Copper - Version 1.16",
   "type=mod",
+  "version=1.16",
   "zipbasedir=/"
  ],
  "title": "Copper - Version 1.16",

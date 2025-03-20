@@ -32,11 +32,15 @@
  "release_date": "2007-01-29",
  "sha256": "3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2",
  "tags": [
+  "author=Omus",
+  "author=generic",
   "filename=sm132_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
+  "release_date=2007-01-29",
   "startmap=sm132_generic",
   "startmap=sm132_omus",
+  "title=Speedmapping pack 132 - Inverted Castle",
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
