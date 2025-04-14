@@ -1,0 +1,61 @@
+{
+ "authors": [
+  "Sock"
+ ],
+ "bytes": 3496319,
+ "description": "Medium grey brick map floating in thick green fog. Based on a Map Center doodle challenge entry.",
+ "files": [
+  {
+   "bytes": 8708,
+   "path": "ad_soltower1e_readme.txt",
+   "sha256": "151ecce7595f8d6be4560eee4837d8ba19f425c42d7d3b51774cf3dad8c02c3e",
+   "timestamp": "2025-04-06T15:52:00.000Z"
+  },
+  {
+   "bytes": 1922340,
+   "path": "mc_doodle2_reference1.png",
+   "sha256": "b182dda90c8252e834a1ceb2c3a8b426b41f480fa3c30a275aabdf9d0c4d9dc5",
+   "timestamp": "2025-04-06T07:55:42.000Z"
+  },
+  {
+   "bytes": 2887912,
+   "path": "maps/ad_soltower1e.bsp",
+   "sha256": "7a9b6bfe2461d33a9a83a2309c4c6371476fe15ea93c6242362512aca4da3fa4",
+   "timestamp": "2025-04-06T13:44:54.000Z"
+  },
+  {
+   "bytes": 2627995,
+   "path": "maps/ad_soltower1e.map",
+   "sha256": "2b7e05ee5c4cc3532993b52f6a705b9c96affe5f0855e72d1127682e27cc19aa",
+   "timestamp": "2025-04-06T13:42:46.000Z"
+  }
+ ],
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2025.03.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
+ "release_date": "2025-04-06",
+ "sha256": "6147391e03cbcde1f8d5c8c105f8957736091984f2e183227cd1da9a620b2ffd",
+ "tags": [
+  "author=Sock",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.81')",
+  "exceeds_quake_limits=yes",
+  "filename=ad_soltower1e.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2025-04-06",
+  "startmap=ad_soltower1e",
+  "title=Solomon's Tower (The Pentagonal Seal)",
+  "type=map"
+ ],
+ "title": "Solomon's Tower (The Pentagonal Seal)",
+ "urls": [
+  "https://www.simonoc.com/files/maps/sp/ad_soltower1e.zip"
+ ]
+}
