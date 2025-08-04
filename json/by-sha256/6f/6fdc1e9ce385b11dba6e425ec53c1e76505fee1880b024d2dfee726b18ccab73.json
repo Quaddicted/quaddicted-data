@@ -1,0 +1,41 @@
+{
+ "authors": [
+  "Mark Turner"
+ ],
+ "bytes": 1269148,
+ "description": "An 'Underearth' style sunken city map for vanilla Quake. Map 4 in the <a href='../?loadjstablefilter=true#%7B\"col_2\"%3A%7B\"flt\"%3A\"Mark%20Turner\"%7D%2C\"col_3\"%3A%7B\"flt\"%3A\"colony\"%7D%7D'>Colony</a> episode.",
+ "files": [
+  {
+   "bytes": 2902560,
+   "path": "colony4.bsp",
+   "sha256": "3742d88bff42f216feba5c32e2d08b27bad8c8bce2c0ab7c50926bb39a76dd3c",
+   "timestamp": "2025-07-20T19:31:24.000Z"
+  },
+  {
+   "bytes": 1305,
+   "path": "colony4.txt",
+   "sha256": "149f4904bec4051cbf4fc79295eed9e31f72414b7d8c141a0f5dce96ebe08fce",
+   "timestamp": "2025-07-20T19:31:36.000Z"
+  }
+ ],
+ "install": {
+  "extract": "{base}/id1/maps"
+ },
+ "json_version": "2025.03.20",
+ "release_date": "2025-07-18",
+ "sha256": "6fdc1e9ce385b11dba6e425ec53c1e76505fee1880b024d2dfee726b18ccab73",
+ "tags": [
+  "author=Mark Turner",
+  "filename=colony4.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2025-07-18",
+  "startmap=colony4",
+  "title=Colony 4 : The Sunken Citadel",
+  "type=map"
+ ],
+ "title": "Colony 4 : The Sunken Citadel",
+ "urls": [
+  "https://www.quaketastic.com/files/colony4.zip"
+ ]
+}
