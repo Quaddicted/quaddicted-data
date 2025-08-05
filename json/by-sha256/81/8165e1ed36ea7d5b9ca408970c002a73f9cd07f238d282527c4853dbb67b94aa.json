@@ -114,22 +114,11 @@
  "install": {
   "extract": "{base}/ad/",
   "extractmapping": {
-   "tcj_alexunder/gfx/env/mak_aurora5_bk.tga": "{base}/ad/gfx/env/mak_aurora5_bk.tga",
-   "tcj_alexunder/gfx/env/mak_aurora5_dn.tga": "{base}/ad/gfx/env/mak_aurora5_dn.tga",
-   "tcj_alexunder/gfx/env/mak_aurora5_ft.tga": "{base}/ad/gfx/env/mak_aurora5_ft.tga",
-   "tcj_alexunder/gfx/env/mak_aurora5_lf.tga": "{base}/ad/gfx/env/mak_aurora5_lf.tga",
-   "tcj_alexunder/gfx/env/mak_aurora5_rt.tga": "{base}/ad/gfx/env/mak_aurora5_rt.tga",
-   "tcj_alexunder/gfx/env/mak_aurora5_up.tga": "{base}/ad/gfx/env/mak_aurora5_up.tga",
-   "tcj_alexunder/maps/tcj_alexunder.bsp": "{base}/ad/maps/tcj_alexunder.bsp",
-   "tcj_alexunder/maps/tcj_alexunder.lit": "{base}/ad/maps/tcj_alexunder.lit",
-   "tcj_alexunder/music/track66.ogg": "{base}/ad/music/track66.ogg",
-   "tcj_alexunder/source/tcj_alexunder.map": "{base}/ad/source/tcj_alexunder.map",
-   "tcj_alexunder/tcj_alexunder.txt": "{base}/ad/tcj_alexunder.txt"
+   "tcj_alexunder/": "{base}/ad/"
   }
  },
  "json_version": "2025.03.20",
  "notes": [
-  "This map won't work in Quake Injector. It must be manually installed (move subfolders into /ad/ mod folder).",
   "Built for <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> (NOT included).",
   "Probably requires a modern engine / source port with increased limits."
  ],
