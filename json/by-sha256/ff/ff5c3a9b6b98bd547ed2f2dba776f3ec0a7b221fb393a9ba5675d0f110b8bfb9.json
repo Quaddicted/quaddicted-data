@@ -1621,7 +1621,7 @@
   }
  ],
  "install": {
-  "extract": "{base}/old_town/"
+  "extract": "{base}/"
  },
  "json_version": "2025.03.20",
  "release_date": "2024-09-06",
@@ -1638,7 +1638,7 @@
   "title=Old Town",
   "type=map",
   "type=mod",
-  "zipbasedir=old_town/"
+  "zipbasedir=/"
  ],
  "title": "Old Town",
  "urls": [
