@@ -29,7 +29,7 @@
   }
  ],
  "install": {
-  "extract": "{base}/copper/"
+  "extract": "{base}/copper/maps/"
  },
  "json_version": "2025.03.20",
  "notes": [
@@ -59,7 +59,7 @@
   "title=Hidden Cursed Crypt",
   "type=map",
   "version=1.2",
-  "zipbasedir=copper/"
+  "zipbasedir=copper/maps/"
  ],
  "title": "Hidden Cursed Crypt",
  "urls": [
