@@ -28,7 +28,7 @@
   }
  ],
  "install": {
-  "extract": "{base}/ad/"
+  "extract": "{base}/ad/maps/"
  },
  "json_version": "2025.03.20",
  "notes": [
@@ -52,7 +52,7 @@
   "startmap=ad_tower",
   "title=Tower of Minak",
   "type=map",
-  "zipbasedir=ad/"
+  "zipbasedir=ad/maps/"
  ],
  "title": "Tower of Minak",
  "urls": [
