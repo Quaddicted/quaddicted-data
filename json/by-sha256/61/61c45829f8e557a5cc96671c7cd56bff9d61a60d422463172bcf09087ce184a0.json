@@ -59,14 +59,14 @@
  "sha256": "61c45829f8e557a5cc96671c7cd56bff9d61a60d422463172bcf09087ce184a0",
  "tags": [
   "author=Dario Casali (Darren Winter)",
-  "commandline=+quit",
   "dependency=prodigy_se",
   "depends=549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
   "filename=pse_gl.zip",
   "game=quake",
   "game_mode=singleplayer",
   "release_date=1997-11-09",
-  "title=Prodigy Special Edition - VIS PATCH"
+  "title=Prodigy Special Edition - VIS PATCH",
+  "zipbasedir=pse/"
  ],
  "title": "Prodigy Special Edition - VIS PATCH",
  "urls": [
