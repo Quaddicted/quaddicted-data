@@ -31,7 +31,7 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/"
+  "extract": "{base}/pyramid/"
  },
  "json_version": "2025.03.20",
  "notes": [
@@ -41,6 +41,7 @@
  "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "tags": [
   "author=Dann Thombs",
+  "commandline=-game pyramid",
   "filename=thepyram.zip",
   "game=quake",
   "game_mode=singleplayer",
@@ -51,7 +52,7 @@
   "theme=pyramid",
   "title=The Pyramid",
   "type=map",
-  "zipbasedir=id1/"
+  "zipbasedir=pyramid/"
  ],
  "title": "The Pyramid",
  "urls": [
