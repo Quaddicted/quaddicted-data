@@ -43,7 +43,11 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "": "hipnotic/maps/",
+   "readme.txt": "hipnotic/maps/wieder_readme.txt"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [

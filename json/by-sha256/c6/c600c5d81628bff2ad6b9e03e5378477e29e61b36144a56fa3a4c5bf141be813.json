@@ -61,7 +61,18 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "eels.bsp": "id1/maps/eels.bsp",
+   "eels.map": "id1/maps/eels.map",
+   "eels.txt": "id1/maps/eels.txt",
+   "moonbk.tga": "id1/gfx/env/moonbk.tga",
+   "moondn.tga": "id1/gfx/env/moondn.tga",
+   "moonft.tga": "id1/gfx/env/moonft.tga",
+   "moonlf.tga": "id1/gfx/env/moonlf.tga",
+   "moonrt.tga": "id1/gfx/env/moonrt.tga",
+   "moonup.tga": "id1/gfx/env/moonup.tga"
+  }
  },
  "json_version": "2025.03.20",
  "release_date": "2010-11-04",
