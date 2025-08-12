@@ -45,7 +45,7 @@
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
-   "": "hipnotic/maps/",
+   "/": "hipnotic/maps/",
    "readme.txt": "hipnotic/maps/wieder_readme.txt"
   }
  },
