@@ -12,12 +12,6 @@
    "timestamp": "2025-08-06T05:58:51.197Z"
   },
   {
-   "bytes": 0,
-   "path": "maps/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-08-06T05:56:59.626Z"
-  },
-  {
    "bytes": 13959976,
    "path": "maps/ad_dhsp1.bsp",
    "sha256": "9f02da13e38a3b0b555866af136ed78cb41d13850591b8a504feb90bcf114491",
@@ -30,28 +24,10 @@
    "timestamp": "2025-08-07T05:38:34.913Z"
   },
   {
-   "bytes": 0,
-   "path": "music/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-07-27T17:01:07.127Z"
-  },
-  {
    "bytes": 7114813,
    "path": "music/track13.mp3",
    "sha256": "56033553d6f01fc659598e958f7b3ef652feb481bcfe8e6629784c6bd745fe58",
    "timestamp": "2025-07-12T12:40:00.099Z"
-  },
-  {
-   "bytes": 0,
-   "path": "progs/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-07-27T17:01:56.615Z"
-  },
-  {
-   "bytes": 0,
-   "path": "screenshots/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-08-02T13:41:44.181Z"
   },
   {
    "bytes": 3035771,
@@ -72,28 +48,10 @@
    "timestamp": "2025-08-02T11:54:21.937Z"
   },
   {
-   "bytes": 0,
-   "path": "source/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-08-02T13:14:02.151Z"
-  },
-  {
    "bytes": 10023849,
    "path": "source/ad_dhsp1.map",
    "sha256": "cb6f8d266dbd5a91f3948197d3944ee9e4be7e5c070d9dede02ec9c2fcffbc88",
    "timestamp": "2025-08-07T05:35:39.480Z"
-  },
-  {
-   "bytes": 0,
-   "path": "maps/ad_brk/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-07-27T16:59:27.762Z"
-  },
-  {
-   "bytes": 0,
-   "path": "maps/bmodels/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-08-02T13:17:32.669Z"
   },
   {
    "bytes": 24000,
@@ -106,12 +64,6 @@
    "path": "maps/bmodels/ring01_rub2.map",
    "sha256": "99217fdbc679ffa5e854921872e36848aa5359b521504b4f21d54f9c62553bce",
    "timestamp": "2025-07-08T15:22:56.033Z"
-  },
-  {
-   "bytes": 0,
-   "path": "progs/rpp/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-07-27T17:01:56.724Z"
   },
   {
    "bytes": 87092,
@@ -292,12 +244,6 @@
    "path": "progs/rpp/vine.mdl",
    "sha256": "5ae41ea778a9ed499e57b95e66b4340709ab64560784c346ea2755fe9cc90a72",
    "timestamp": "2025-07-09T09:21:37.236Z"
-  },
-  {
-   "bytes": 0,
-   "path": "maps/ad_brk/mtl_rub2_brk/",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2025-07-27T17:00:09.589Z"
   },
   {
    "bytes": 29808,
