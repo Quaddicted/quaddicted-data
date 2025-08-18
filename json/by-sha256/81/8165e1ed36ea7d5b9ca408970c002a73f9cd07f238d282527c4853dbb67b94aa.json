@@ -114,7 +114,7 @@
  "install": {
   "extract": "{base}/ad/",
   "extractmapping": {
-   "tcj_alexunder/": "ad/"
+   "/tcj_alexunder/": "/ad/"
   }
  },
  "json_version": "2025.03.20",
