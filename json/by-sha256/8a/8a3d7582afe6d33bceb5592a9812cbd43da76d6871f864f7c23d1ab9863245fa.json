@@ -111,8 +111,8 @@
  "install": {
   "extract": "{base}/hipnotic/maps/",
   "extractmapping": {
-   "/": "hipnotic/maps/",
-   "readme.txt": "hipnotic/maps/gotshun_readme.txt"
+   "/": "/hipnotic/maps/",
+   "/readme.txt": "/hipnotic/maps/gotshun_readme.txt"
   }
  },
  "json_version": "2025.03.20",
