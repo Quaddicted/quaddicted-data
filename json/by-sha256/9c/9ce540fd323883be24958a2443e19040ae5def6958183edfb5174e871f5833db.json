@@ -30,8 +30,8 @@
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
-   "/": "zer/maps/",
-   "README1ST!.txt": "zer/maps/DaMaul6_README1ST!.txt"
+   "/": "/zer/maps/",
+   "/README1ST!.txt": "/zer/maps/DaMaul6_README1ST!.txt"
   }
  },
  "json_version": "2025.03.20",
