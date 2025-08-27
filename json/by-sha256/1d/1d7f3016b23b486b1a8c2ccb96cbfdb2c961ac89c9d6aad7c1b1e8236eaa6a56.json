@@ -32,7 +32,12 @@
   }
  ],
  "install": {
-  "extract": "{base}//"
+  "extract": "{base}//",
+  "extractmapping": {
+   "/": "/",
+   "/for_joequake_markv_users/track13.mp3": "/circulation/music/track13.mp3",
+   "/installation_instructions.txt": "/circulation/installation_instructions.txt"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
@@ -62,7 +67,6 @@
   "nonspecific_tag=sounds",
   "nonspecific_tag=textures",
   "release_date=2021-01-13",
-  "startmap=circshad",
   "startmap=start",
   "theme=base",
   "theme=crates",
