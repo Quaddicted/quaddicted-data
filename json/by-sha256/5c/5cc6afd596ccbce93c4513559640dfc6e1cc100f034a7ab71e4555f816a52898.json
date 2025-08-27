@@ -85,7 +85,20 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/": "/id1/maps/",
+   "/ravenous3.pts": null,
+   "/ravenous3readme.docx": "/id1/maps/ravenous3readme.docx",
+   "/ss_caves1.png": "/id1/maps/ravenous3_ss_caves1.png",
+   "/ss_caves2.png": "/id1/maps/ravenous3_ss_caves2.png",
+   "/ss_mansionfront.png": "/id1/maps/ravenous3_ss_mansionfront.png",
+   "/ss_mansionhall.png": "/id1/maps/ravenous3_ss_mansionhall.png",
+   "/ss_mansionlibrary.png": "/id1/maps/ravenous3_ss_mansionlibrary.png",
+   "/ss_mansionnursery.png": "/id1/maps/ravenous3_ss_mansionnursery.png",
+   "/ss_mansionstudy.png": "/id1/maps/ravenous3_ss_mansionstudy.png",
+   "/track20.ogg": "/id1/music/track20.ogg"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [

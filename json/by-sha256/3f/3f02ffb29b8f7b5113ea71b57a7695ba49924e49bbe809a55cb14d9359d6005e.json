@@ -25,11 +25,15 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/": "/id1/maps/",
+   "/progs.dat": "/coag3_negke/progs.dat"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
-  "The progs.dat is for Darkplaces users only.",
+  "The progs.dat is for Darkplaces users only. If running this map from the QuakeInjector using Darkplaces, type 'game coag3_negke' at the console to load the custom progs.",
   "This map features two different game modes: Skill 0/1: exploration mode (finding keys, pushing buttons, solving puzzles); skill 2: DMSP-like mode (deathmatch against monsters with respawning items)"
  ],
  "release_date": "2009-11-06",
@@ -47,6 +51,7 @@
   "nonspecific_tag=hard",
   "nonspecific_tag=progs hacks",
   "release_date=2009-11-06",
+  "startmap=coag3_negke",
   "theme=classic",
   "theme=experimental",
   "theme=exploration",

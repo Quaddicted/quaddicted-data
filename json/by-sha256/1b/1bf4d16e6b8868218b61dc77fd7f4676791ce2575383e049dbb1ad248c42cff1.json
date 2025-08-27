@@ -43,12 +43,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/FirstCoolMapRelease/": "/id1/maps/",
+   "/FirstCoolMapRelease/README.txt": "/id1/maps/FirstCoolMapRelease/fcm.txt",
+   "/FirstCoolMapRelease/fcm.pts": null
+  }
  },
  "json_version": "2025.03.20",
- "notes": [
-  "Cannot be run through the Quake Injector."
- ],
  "release_date": "2021-03-22",
  "sha256": "1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1",
  "tags": [
@@ -59,7 +61,7 @@
   "map_size=small",
   "release_date=2021-03-22",
   "source=included",
-  "startmap=FirstCoolMapRelease/fcm",
+  "startmap=fcm",
   "theme=base",
   "title=FirstCoolMap",
   "type=map",

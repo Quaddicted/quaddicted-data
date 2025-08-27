@@ -49,12 +49,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/xl2/": "/id1/maps/"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
-  "This map requires a source port with increased limits.",
-  "Does not work with the Quake Injector"
+  "This map requires a source port with increased limits."
  ],
  "release_date": "2017-12-01",
  "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
@@ -70,7 +72,6 @@
   "nonspecific_tag=start",
   "release_date=2017-12-01",
   "startmap=xl2",
-  "startmap=xl2m1",
   "theme=fortress",
   "theme=medieval",
   "theme=metal",
