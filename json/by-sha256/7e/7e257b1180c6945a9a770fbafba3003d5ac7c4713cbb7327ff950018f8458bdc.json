@@ -74,7 +74,13 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/"
+  "extract": "{base}/id1/",
+  "extractmapping": {
+   "/": "/id1/",
+   "/Unfinished sketch.jpg": "/id1/maps/wlb_Unfinished sketch.jpg",
+   "/wlb.map": "/id1/maps/wlb.map",
+   "/wlb.txt": "/id1/maps/wlb.txt"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
