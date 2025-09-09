@@ -43,7 +43,11 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/": "/id1/maps/",
+   "/progs.dat": "/retrojam6_negke/progs.dat"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
@@ -53,6 +57,7 @@
  "sha256": "70886bcd1362d5ecf7ccf6fb95bd20c2696a34a5cc12e9b8aa069c7284bdec2a",
  "tags": [
   "author=negke",
+  "commandline=-game retrojam6_negke",
   "exceeds_quake_limits=yes",
   "filename=retrojam6_negke.zip",
   "game=quake",
@@ -72,6 +77,7 @@
   "nonspecific_tag=obscure",
   "release_date=2017-08-27",
   "source=included",
+  "startmap=retrojam6_negke",
   "theme=desert",
   "theme=dungeon",
   "theme=egypt",
