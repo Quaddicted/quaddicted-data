@@ -4994,7 +4994,10 @@
   }
  ],
  "install": {
-  "extract": "{base}/drake/"
+  "extract": "{base}/drake/",
+  "extractmapping": {
+   "/drakebeta2021/": "/drake/"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
@@ -5017,7 +5020,7 @@
   "provides='drake=2.0'",
   "release_date=2021-09-04",
   "release_group=drake",
-  "startmap=start",
+  "startmap=drake_demo",
   "title=Drake (2021)",
   "type=mod",
   "version=2.0",
