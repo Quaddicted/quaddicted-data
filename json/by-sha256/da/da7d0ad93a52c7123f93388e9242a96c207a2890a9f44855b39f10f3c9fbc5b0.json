@@ -37,12 +37,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/War Church/": "/id1/maps/"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
-  "This map requires a source port with increased limits + BSP2 support.",
-  "Cannot be run through the Quake Injector."
+  "This map requires a source port with increased limits + BSP2 support."
  ],
  "release_date": "2021-08-25",
  "sha256": "da7d0ad93a52c7123f93388e9242a96c207a2890a9f44855b39f10f3c9fbc5b0",
@@ -57,7 +59,7 @@
   "nonspecific_tag=turrets",
   "release_date=2021-08-25",
   "source=included",
-  "startmap=\"War Church\\war_church\"",
+  "startmap=war_church",
   "theme=base",
   "theme=industrial",
   "theme=realism",

@@ -53,12 +53,12 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/sm109/": "/id1/maps/"
+  }
  },
  "json_version": "2025.03.20",
- "notes": [
-  "Cannot be run through the Quake Injector."
- ],
  "release_date": "2005-10-30",
  "sha256": "a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4",
  "tags": [
@@ -71,10 +71,10 @@
   "game=quake",
   "game_mode=singleplayer",
   "release_date=2005-10-30",
-  "startmap=sm109/sm107_generic",
-  "startmap=sm109/sm109_drew",
-  "startmap=sm109/sm109_generic",
-  "startmap=sm109/sm109_ht",
+  "startmap=sm107_generic",
+  "startmap=sm109_drew",
+  "startmap=sm109_generic",
+  "startmap=sm109_ht",
   "startmap=sm109_trinca",
   "startmap=sm109_zwiffle",
   "title=Speedmapping pack 109 - Unthemed",

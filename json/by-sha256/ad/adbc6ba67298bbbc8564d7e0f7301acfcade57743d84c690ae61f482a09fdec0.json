@@ -91,11 +91,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/coldlight_1_2/": "/id1/maps/",
+   "/coldlight_1_2/readme.txt": "/id1/maps/coldlight_1_2/addy_cl.txt"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
-  "<b>(This pack won't work in Quake Injector and must be manually installed.</b> Move all files to the root of id1/maps/)",
   "<b>Warning: there is one known soft-lock bug on map #2 addy_cl_m2:</b> <i>\"do NOT go near the lift wall in the final arena room or you will get teleported back behind a locked door\" -Greenwood</i>",
   "Note: run these levels with \"-protocol 999\" in the command line. You'll need a modern engine / source port with protocol 999 support."
  ],
