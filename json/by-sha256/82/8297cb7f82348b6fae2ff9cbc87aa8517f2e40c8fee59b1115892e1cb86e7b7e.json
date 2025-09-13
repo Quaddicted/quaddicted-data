@@ -1,0 +1,65 @@
+{
+ "authors": [
+  "MadFox"
+ ],
+ "bytes": 4513392,
+ "description": "Large map with a mixture of base and medieval elements. This is a new version released in August 2025 that fixes a previous technical issue, the original can be found <a href=\"https://www.quaddicted.com/db/v2/maps/06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c\">here</a>.",
+ "files": [
+  {
+   "bytes": 3041,
+   "path": "gruntgrenade.txt",
+   "sha256": "13d1fe074f64f5a03f96e79456c2a0b4d0a9b927026c68bff80a337bb81be3e7",
+   "timestamp": "2025-08-06T10:31:54.036Z"
+  },
+  {
+   "bytes": 7296896,
+   "path": "maps/grenedin.bsp",
+   "sha256": "20847c74c7b8132062e7dceab847b0b9a79f76952e747d930302172ab1510ec5",
+   "timestamp": "2025-08-06T10:22:35.792Z"
+  },
+  {
+   "bytes": 2376971,
+   "path": "maps/grenedin.lit",
+   "sha256": "6476502c54b8b33d794c03d2cad6edc8aef1fba00d36d5bcd1acf0ce9a3878d2",
+   "timestamp": "2025-08-06T10:22:35.776Z"
+  },
+  {
+   "bytes": 1517824,
+   "path": "maps/grenedin.map",
+   "sha256": "f1805d5a7b017cc47272c141ffa47efc074d87cba9c6e60f2198bc3dc43e5e26",
+   "timestamp": "2025-08-06T10:19:39.025Z"
+  }
+ ],
+ "install": {
+  "extractmapping": {
+   "/": "/id1/",
+   "/gruntgrenade.txt": "/maps/grenedin.txt"
+  }
+ },
+ "json_version": "2025.03.20",
+ "sha256": "8297cb7f82348b6fae2ff9cbc87aa8517f2e40c8fee59b1115892e1cb86e7b7e",
+ "tags": [
+  "author=MadFox",
+  "current_main_group_package=yes",
+  "filename=grunt_grenadin.zip",
+  "filename=Grunt_Grenadin.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://members.home.nl/gimli/gimli20.htm",
+  "link:review=[Underworldfan's](https://www.quaddicted.com/webarchive/underworld.planetquake.gamespy.com/quakerev060727.html)",
+  "map_size=large",
+  "release_date=2025-08-06",
+  "release_group=grunt_grenadin",
+  "startmap=grenedin",
+  "theme=base",
+  "theme=medieval",
+  "theme=mixtex",
+  "theme=orange",
+  "title=Grunt Grenadin",
+  "type=map",
+  "version=1.1"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/82/8297cb7f82348b6fae2ff9cbc87aa8517f2e40c8fee59b1115892e1cb86e7b7e/Grunt_Grenadin.zip"
+ ]
+}
