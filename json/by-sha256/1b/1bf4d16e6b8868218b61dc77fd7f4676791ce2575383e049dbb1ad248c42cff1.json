@@ -46,7 +46,7 @@
   "extract": "{base}/id1/maps/",
   "extractmapping": {
    "/FirstCoolMapRelease/": "/id1/maps/",
-   "/FirstCoolMapRelease/README.txt": "/id1/maps/FirstCoolMapRelease/fcm.txt",
+   "/FirstCoolMapRelease/README.txt": "/id1/maps/fcm.txt",
    "/FirstCoolMapRelease/fcm.pts": null
   }
  },
