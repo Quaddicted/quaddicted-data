@@ -199,7 +199,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/techphob/"
+  "extract": "{base}/techphob/",
+  "extractmapping": {
+   "/": "/techphob/",
+   "/TPHOB2.bsp": "/techphob/maps/tphob2.bsp",
+   "/gfx/": null,
+   "/glquake/": null,
+   "/tchphob.bsp": "/techphob/maps/tchphob.bsp"
+  }
  },
  "json_version": "2025.03.20",
  "release_date": "2001-12-15",

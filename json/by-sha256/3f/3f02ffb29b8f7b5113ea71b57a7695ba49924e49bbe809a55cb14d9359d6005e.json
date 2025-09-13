@@ -33,7 +33,7 @@
  },
  "json_version": "2025.03.20",
  "notes": [
-  "The progs.dat is for Darkplaces users only. If running this map from the QuakeInjector using Darkplaces, type 'game coag3_negke' at the console to load the custom progs.",
+  "The progs.dat is for Darkplaces users only. If you are running this map from an automated installation tool and use Darkplaces, type 'game coag3_negke' at the console to load the custom progs, then load the map.",
   "This map features two different game modes: Skill 0/1: exploration mode (finding keys, pushing buttons, solving puzzles); skill 2: DMSP-like mode (deathmatch against monsters with respawning items)"
  ],
  "release_date": "2009-11-06",

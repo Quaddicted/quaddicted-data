@@ -55,7 +55,11 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/Quake/Deathmatch Maker/Cyberelic/Uploadable/Zip/": "/id1/maps/",
+   "/Quake/Deathmatch Maker/Cyberelic/Uploadable/Zip/Image.bmp": "/id1/maps/Cyberelic.bmp"
+  }
  },
  "json_version": "2025.03.20",
  "release_date": "1999-02-14",

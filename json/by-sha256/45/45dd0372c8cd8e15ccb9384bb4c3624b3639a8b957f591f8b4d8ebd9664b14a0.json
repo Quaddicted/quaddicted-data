@@ -37,12 +37,16 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/dfl_flood/": "/id1/maps/",
+   "/dfl_flood/ReadMe.txt": "/id1/maps/dfl_flood.txt",
+   "/dfl_flood/combat1.log": null,
+   "/dfl_flood/combat1.map": "/id1/maps/dfl_flood.map",
+   "/dfl_flood/combat1.pts": null
+  }
  },
  "json_version": "2025.03.20",
- "notes": [
-  "Cannot be run through the Quake Injector."
- ],
  "release_date": "2020-10-30",
  "sha256": "45dd0372c8cd8e15ccb9384bb4c3624b3639a8b957f591f8b4d8ebd9664b14a0",
  "tags": [
@@ -54,7 +58,7 @@
   "map_size=small",
   "release_date=2020-10-30",
   "source=included",
-  "startmap=dfl_flood/dfl_flood",
+  "startmap=dfl_flood",
   "theme=bricks",
   "theme=medieval",
   "title=Flooded Ruins",
