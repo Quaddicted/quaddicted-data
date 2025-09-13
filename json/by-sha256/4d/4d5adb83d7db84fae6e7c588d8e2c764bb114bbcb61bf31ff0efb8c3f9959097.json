@@ -34,8 +34,6 @@
   "extract": "{base}/id1/maps/",
   "extractmapping": {
    "/": "/id1/maps/",
-   "/castle100.bsp": "/id1/maps/castle100.bsp",
-   "/castle100.txt": "/id1/maps/castle100.txt",
    "/music/": "/id1/music/"
   }
  },
