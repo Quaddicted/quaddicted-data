@@ -1,0 +1,25 @@
+name: Validate JSON packages
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  validate-jsons:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+        with:
+          name: Quaddicted/quaddicted-data
+          path: ./quaddicted-data
+          ref: refs/heads/release
+
+      - name: Validate JSON packages
+        run: QUADDICTED_DATA=./quaddicted-data python tools/validate_jsons.py
