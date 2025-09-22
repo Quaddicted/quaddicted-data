@@ -14,12 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
         with:
-          name: Quaddicted/quaddicted-data
-          path: ./quaddicted-data
-          ref: refs/heads/release
+          name: Quaddicted/tools
+          path: ./tools
 
       - name: Validate JSON packages
-        run: QUADDICTED_DATA=./quaddicted-data python tools/validate_jsons.py
+        run: QUADDICTED_DATA="${GITHUB_WORKSPACE}" python ./tools/tools/validate_jsons.py
