@@ -14,10 +14,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          name: Quaddicted/tools
-          path: ./tools
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        path: quaddicted-data
 
-      - name: Validate JSON packages
-        run: QUADDICTED_DATA="${GITHUB_WORKSPACE}" python "${GITHUB_WORKSPACE}"/tools/tools/validate_jsons.py
+    - name: Checkout tools repo
+      uses: actions/checkout@v5
+      with:
+        repository: Quaddicted/tools
+        path: tools
+
+    - name: Validate JSON packages
+      run: QUADDICTED_DATA=./quaddicted-data python ./tools/tools/validate_jsons.py
