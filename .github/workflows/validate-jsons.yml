@@ -20,4 +20,4 @@ jobs:
           path: ./tools
 
       - name: Validate JSON packages
-        run: QUADDICTED_DATA="${GITHUB_WORKSPACE}" python ./tools/tools/validate_jsons.py
+        run: QUADDICTED_DATA="${GITHUB_WORKSPACE}" python "${GITHUB_WORKSPACE}"/tools/tools/validate_jsons.py
