@@ -25,5 +25,8 @@ jobs:
         repository: Quaddicted/tools
         path: tools
 
+    - name: Install validation requirements
+      run: pip install -r ./tools/requirements.txt
+
     - name: Validate JSON packages
       run: QUADDICTED_DATA=./quaddicted-data python ./tools/tools/validate_jsons.py
