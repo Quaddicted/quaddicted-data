@@ -46,7 +46,7 @@
   "extract": "{base}/id1/maps/",
   "extractmapping": {
    "/": "/id1/maps/",
-   "/progs.dat": "/retrojam6_negke/progs.dat"
+   "/progs.dat": null
   }
  },
  "json_version": "2025.03.20",
