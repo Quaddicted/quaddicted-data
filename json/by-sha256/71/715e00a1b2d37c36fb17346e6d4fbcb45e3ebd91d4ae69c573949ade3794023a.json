@@ -4,24 +4,22 @@
  ],
  "bytes": 421864,
  "description": "Medium sized, fairly dark Wizmetal map.",
- "files": [
-  {
+ "files": {
+  "chain2.bsp": {
    "bytes": 1117880,
-   "path": "chain2.bsp",
    "sha256": "1141785ea6bd96efd0b9650b1b2217517c5e45096ee0d3eac6b87389b346b433",
    "timestamp": "2003-06-10T22:51:38.000Z"
   },
-  {
+  "chain2.txt": {
    "bytes": 2458,
-   "path": "chain2.txt",
    "sha256": "5f7566d19317e021d7e3395ccd3b372d6337860b8279601a297ac8a7e28f040f",
    "timestamp": "2003-06-10T22:28:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-06-10",
  "sha256": "715e00a1b2d37c36fb17346e6d4fbcb45e3ebd91d4ae69c573949ade3794023a",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 780285,
  "description": "Medium sized Wizard map with a sense of exploration.",
- "files": [
-  {
+ "files": {
+  "warpgate.bsp": {
    "bytes": 1772808,
-   "path": "warpgate.bsp",
    "sha256": "62100e803e3dfc5bdfea33530bc9495be96d9072c13fae876f2e885ed58ec351",
    "timestamp": "1997-07-21T09:38:16.000Z"
   },
-  {
+  "warpgate.txt": {
    "bytes": 3207,
-   "path": "warpgate.txt",
    "sha256": "bdef912ef64dca854997915d0f10d765013a929aa88e7c30212d3657016ab6b3",
    "timestamp": "1997-07-28T01:16:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-28",
  "sha256": "ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0",
  "tags": [

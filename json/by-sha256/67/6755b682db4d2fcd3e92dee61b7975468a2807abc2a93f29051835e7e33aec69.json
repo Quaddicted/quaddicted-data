@@ -24,2238 +24,1867 @@
  ],
  "bytes": 405102847,
  "description": "Annual Christmas mapping event. This pack features 19 small maps in varying styles where all gameplay takes place within a 1024x1024x1024 space. It runs on <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> (included) and comes with some additional content like sounds, models, skyboxes and music tracks. The map sources are included.",
- "files": [
-  {
+ "files": {
+  "_readme/xj2020.txt": {
    "bytes": 2199,
-   "path": "_readme/xj2020.txt",
    "sha256": "1445ac15fa6acfae49fcac15d35e96a936821a71148e1931b524be50dc3e0248",
    "timestamp": "2020-12-20T10:09:44.000Z"
   },
-  {
+  "_readme/xj2020_artistical.txt": {
    "bytes": 3127,
-   "path": "_readme/xj2020_artistical.txt",
    "sha256": "c767f6e9778696cbf6184ee09a5d8a8690332953d4904b51e935d17b4d2f1835",
    "timestamp": "2020-12-17T07:55:46.000Z"
   },
-  {
+  "_readme/xj2020_bal.txt": {
    "bytes": 67977,
-   "path": "_readme/xj2020_bal.txt",
    "sha256": "3838273e93aaff14e8996cc41d062a123bba4837b94684d6ed6c5a0fc34bec50",
    "timestamp": "2020-12-15T11:16:50.000Z"
   },
-  {
+  "_readme/xj2020_chrisholden.txt": {
    "bytes": 1916,
-   "path": "_readme/xj2020_chrisholden.txt",
    "sha256": "271dcc74a0defa69aa071341bc1f8d5a8a484dcf1b131904cead0cf508d627be",
    "timestamp": "2020-12-14T09:52:46.000Z"
   },
-  {
+  "_readme/xj2020_dfl.txt": {
    "bytes": 1416,
-   "path": "_readme/xj2020_dfl.txt",
    "sha256": "3314d1692cdfc70e2b0236d2cbac843482ba2c61290cc919609c083d83765131",
    "timestamp": "2020-12-16T09:41:30.000Z"
   },
-  {
+  "_readme/xj2020_entsoy.txt": {
    "bytes": 1557,
-   "path": "_readme/xj2020_entsoy.txt",
    "sha256": "5ab7063b12485f3f8ed7072b2daea475caf1842db0a70321339b1791f1f563c4",
    "timestamp": "2020-12-13T12:42:30.000Z"
   },
-  {
+  "_readme/xj2020_greenwood.txt": {
    "bytes": 1553,
-   "path": "_readme/xj2020_greenwood.txt",
    "sha256": "98b4588290dda23faee00f9e6c8fde982924afbf5ae54e68e69a637236902a54",
    "timestamp": "2020-12-16T09:39:18.000Z"
   },
-  {
+  "_readme/xj2020_grome.txt": {
    "bytes": 1393,
-   "path": "_readme/xj2020_grome.txt",
    "sha256": "2e72ccdfbb9fb148119827dfed41ce80c10c113a4d12dd59ec87e03ec24d8b63",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "_readme/xj2020_heresy.txt": {
    "bytes": 3348,
-   "path": "_readme/xj2020_heresy.txt",
    "sha256": "ed80e306204832eede47aa00cbf7d0a886d7490b5e596069981b3d752d3b678f",
    "timestamp": "2020-11-29T01:04:34.000Z"
   },
-  {
+  "_readme/xj2020_ionotp.txt": {
    "bytes": 1340,
-   "path": "_readme/xj2020_ionotp.txt",
    "sha256": "7a32e99b7deea0ab07d95db12c63f7b6b43b9add3203ae63cf1e2e9c1acad5c7",
    "timestamp": "2020-12-16T09:43:52.000Z"
   },
-  {
+  "_readme/xj2020_ish.txt": {
    "bytes": 1669,
-   "path": "_readme/xj2020_ish.txt",
    "sha256": "d959db5ff8fabdec23420c2b5d62eb9fc1b75d9944b8f4e55ce008466da23044",
    "timestamp": "2020-12-14T10:04:06.000Z"
   },
-  {
+  "_readme/xj2020_muk.txt": {
    "bytes": 1931,
-   "path": "_readme/xj2020_muk.txt",
    "sha256": "ebf3144f49b83479353cc05476289b210b3b91a58a981365ada04f8c556e26d6",
    "timestamp": "2020-12-14T10:14:36.000Z"
   },
-  {
+  "_readme/xj2020_naitelveni.txt": {
    "bytes": 1697,
-   "path": "_readme/xj2020_naitelveni.txt",
    "sha256": "e35909ce83b64dc401622ce2950ba13bbeb35b9bf698b48c575840c2b64d965e",
    "timestamp": "2020-12-16T09:42:30.000Z"
   },
-  {
+  "_readme/xj2020_pinchy.txt": {
    "bytes": 2717,
-   "path": "_readme/xj2020_pinchy.txt",
    "sha256": "ee8f99145db3c9cb579de5ea7929e470bbe864f771bcb54f4059dfe4541bd8e3",
    "timestamp": "2020-12-15T11:19:38.000Z"
   },
-  {
+  "_readme/xj2020_qalten.txt": {
    "bytes": 1545,
-   "path": "_readme/xj2020_qalten.txt",
    "sha256": "8f4009407b7d4ebe17b72f7844f39d88930b7b84cdca2bc0dbd526c44f46614e",
    "timestamp": "2020-12-14T10:20:36.000Z"
   },
-  {
+  "_readme/xj2020_qmaster.txt": {
    "bytes": 1545,
-   "path": "_readme/xj2020_qmaster.txt",
    "sha256": "4dc813728bb7d11f43e630fd67ee75c005f514969f4a2f591a216f32f98b40c5",
    "timestamp": "2020-12-17T08:14:44.000Z"
   },
-  {
+  "_readme/xj2020_qmaster2.txt": {
    "bytes": 1120,
-   "path": "_readme/xj2020_qmaster2.txt",
    "sha256": "4d6ce690d835f478eeeedc42b073c68d41a89aa286c842ff27aa0483b8c05b4e",
    "timestamp": "2020-12-17T08:17:12.000Z"
   },
-  {
+  "_readme/xj2020_quasiotter.txt": {
    "bytes": 3037,
-   "path": "_readme/xj2020_quasiotter.txt",
    "sha256": "8f0286603be3f25335b9fefe093eea71541e0b1cf8f5fea38e0934876a01034d",
    "timestamp": "2020-12-14T10:29:04.000Z"
   },
-  {
+  "_readme/xj2020_shades.txt": {
    "bytes": 1710,
-   "path": "_readme/xj2020_shades.txt",
    "sha256": "4d9a7ba5662f29074485672d866b55511ba10858d672c9744fef4c71aef083d8",
    "timestamp": "2020-12-16T09:35:32.000Z"
   },
-  {
+  "_readme/xj2020_strideh.txt": {
    "bytes": 1515,
-   "path": "_readme/xj2020_strideh.txt",
    "sha256": "e4edb2c13f5e2c3298c89a6f9ab2cf2f2ca84a8d75cd7797a1492a535b585e99",
    "timestamp": "2020-12-17T02:05:46.000Z"
   },
-  {
+  "_readme/xj2020_vbs.txt": {
    "bytes": 336,
-   "path": "_readme/xj2020_vbs.txt",
    "sha256": "a4a29cb53968356eb3ba5f2cfb7042efc8df26e4509662d52376b9c57e606f1d",
    "timestamp": "2020-12-14T10:35:30.000Z"
   },
-  {
+  "_src/start.map": {
    "bytes": 5264902,
-   "path": "_src/start.map",
    "sha256": "4f87b528d3c85a9fc46aa070aad0228312b9bba62e26e48bf37eba285ca53cbe",
    "timestamp": "2020-12-18T22:02:44.000Z"
   },
-  {
+  "_src/xj2020_chrisholden.map": {
    "bytes": 3415987,
-   "path": "_src/xj2020_chrisholden.map",
    "sha256": "04458de4972139286df01da1c5d9f7c0ca4d5ed8f8c2f124a37ee9b7de25c879",
    "timestamp": "2020-12-14T09:52:46.000Z"
   },
-  {
+  "_src/xj2020_entsoy.map": {
    "bytes": 14257853,
-   "path": "_src/xj2020_entsoy.map",
    "sha256": "ea10cb8f413a527ded9d9a56b93bb5e33e0bb85660c009a64e5cec8c21c9f10b",
    "timestamp": "2020-12-13T12:05:00.000Z"
   },
-  {
+  "_src/xj2020_grome.map": {
    "bytes": 2586656,
-   "path": "_src/xj2020_grome.map",
    "sha256": "361040bfbc9ff6d28969493ada975be2bebb2737d2d0352a86814c3561aa6ef3",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "_src/xj2020_heresy.map": {
    "bytes": 15749732,
-   "path": "_src/xj2020_heresy.map",
    "sha256": "3a4ecf5c94ed954648461ecdc6b198081a67e0821ef81d25c1c8b80c0d365931",
    "timestamp": "2020-12-09T23:55:02.000Z"
   },
-  {
+  "_src/xj2020_ionotp.map": {
    "bytes": 2123505,
-   "path": "_src/xj2020_ionotp.map",
    "sha256": "b88d05eab47fcf04f148587d3dc78a1dd45b3ff5bbe9a5932e54a831fd33054f",
    "timestamp": "2020-12-16T09:32:10.000Z"
   },
-  {
+  "_src/xj2020_ish.map": {
    "bytes": 870098,
-   "path": "_src/xj2020_ish.map",
    "sha256": "d2272fdee12db5bd54ab3fdc1b7ed76eea0d42149e802518401e1a37d632152e",
    "timestamp": "2020-12-14T10:04:08.000Z"
   },
-  {
+  "_src/xj2020_muk.map": {
    "bytes": 2048681,
-   "path": "_src/xj2020_muk.map",
    "sha256": "5530fb252cb012b62be16c6d4f39908e710ad7a03d6b11860643c29d66bdca2e",
    "timestamp": "2020-12-14T10:14:14.000Z"
   },
-  {
+  "_src/xj2020_naitelveni.map": {
    "bytes": 7068969,
-   "path": "_src/xj2020_naitelveni.map",
    "sha256": "8282e7bd67910dace9e6a75829e6b7c3b3b24466502ffd7838ee6fe8f5cb46e0",
    "timestamp": "2020-12-14T10:16:04.000Z"
   },
-  {
+  "_src/xj2020_pinchy.map": {
    "bytes": 915257,
-   "path": "_src/xj2020_pinchy.map",
    "sha256": "4f59fc76635072d135d9a0558a0ba00afbd8d44ebcfb2d5e8ac5b39143b8ba0a",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "_src/xj2020_qalten.map": {
    "bytes": 1982727,
-   "path": "_src/xj2020_qalten.map",
    "sha256": "98e861aef407b0d8f9c1c729111b5a49fbc96e85905898222ea746ce9d36d09c",
    "timestamp": "2020-12-14T10:20:24.000Z"
   },
-  {
+  "_src/xj2020_qmaster1.map": {
    "bytes": 1451507,
-   "path": "_src/xj2020_qmaster1.map",
    "sha256": "30683af66ea62a832495f5a84b6efb8a322211d44e0ac92a5a392e19523cb8dc",
    "timestamp": "2020-12-18T15:46:00.000Z"
   },
-  {
+  "_src/xj2020_qmaster2.map": {
    "bytes": 43831,
-   "path": "_src/xj2020_qmaster2.map",
    "sha256": "754edad9e915d8ed098d93e7d52a8f936d8fdceb7bb5b0dc603590202a02339a",
    "timestamp": "2020-12-18T15:46:00.000Z"
   },
-  {
+  "_src/xj2020_quasiotter.map": {
    "bytes": 459277,
-   "path": "_src/xj2020_quasiotter.map",
    "sha256": "d5f1dc1b90e0e7bcacf24a8cdddb15a8a01b610e0f4cdc916490b982ba92dfac",
    "timestamp": "2020-12-16T09:27:30.000Z"
   },
-  {
+  "_src/xj2020_strideh.map": {
    "bytes": 3214650,
-   "path": "_src/xj2020_strideh.map",
    "sha256": "bfed2e6549fb8756c6aaa6be4398137cea734dc02e58475a438695ef5f0d9a29",
    "timestamp": "2020-12-17T01:45:42.000Z"
   },
-  {
+  "ad_1_8.def": {
    "bytes": 401897,
-   "path": "ad_1_8.def",
    "sha256": "da5fbc6e19b4998787e1893c9c2eb516893aee49517b80471e71e412b854303f",
    "timestamp": "2020-10-12T13:44:44.000Z"
   },
-  {
+  "ad_1_8.fgd": {
    "bytes": 250757,
-   "path": "ad_1_8.fgd",
    "sha256": "2fdaef42f02c37370b36bd973e9ebfe08827f5847e26b4c250dd9b521a6b8431",
    "timestamp": "2020-10-12T13:44:44.000Z"
   },
-  {
+  "ad_changelog.txt": {
    "bytes": 91519,
-   "path": "ad_changelog.txt",
    "sha256": "07da6715e2c1fbba731603c39e5cecedad51a3729b127d0f1d5641184a53fdd0",
    "timestamp": "2020-10-12T13:44:44.000Z"
   },
-  {
+  "ad_v1_80_credits.txt": {
    "bytes": 15585,
-   "path": "ad_v1_80_credits.txt",
    "sha256": "c933fa278cb49c1cf6206cd514f5c43fb59238e13dcae8ac210d1df4d4c3247b",
    "timestamp": "2020-10-12T13:44:26.000Z"
   },
-  {
+  "ad_v1_80_documentation.txt": {
    "bytes": 151516,
-   "path": "ad_v1_80_documentation.txt",
    "sha256": "df1888f36c5df5cb53a90b7827c514b294a8a826587f7296fa457a25896f8b34",
    "timestamp": "2020-10-12T13:44:26.000Z"
   },
-  {
+  "ad_v1_80_readme.txt": {
    "bytes": 8418,
-   "path": "ad_v1_80_readme.txt",
    "sha256": "2423913f6507c392b219d7caee2656d11f1f24744a5cc0e3e513deaec2db9f08",
    "timestamp": "2020-10-12T13:44:26.000Z"
   },
-  {
+  "ad_v1_80p1changelog.txt": {
    "bytes": 92423,
-   "path": "ad_v1_80p1changelog.txt",
    "sha256": "7da4c0da24d6e63c2c42781c7113b6019ce78afc9acd088b59fec24db1efb696",
    "timestamp": "2020-10-14T09:44:00.000Z"
   },
-  {
+  "gfx/conback.lmp": {
    "bytes": 64008,
-   "path": "gfx/conback.lmp",
    "sha256": "4a0ec5e43b2ff4d04ca2df016369bd6d3ae6a21d91b05ee2828e661786a613fe",
    "timestamp": "2020-12-18T14:13:54.000Z"
   },
-  {
+  "gfx/env/balebs2_bk.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/balebs2_bk.tga",
    "sha256": "225623925906841f911eb51218ecdc27ed3095cfafdddc204db9409bf246d1d1",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "gfx/env/balebs2_dn.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/balebs2_dn.tga",
    "sha256": "e3375333742e6ec9d74be35cd53b7524840df3701dd1456df66a00fbdeb75b03",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "gfx/env/balebs2_ft.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/balebs2_ft.tga",
    "sha256": "f66e1b6e9f93e2eb91d8b82378633a9a4fccc46a46e539093e4b2f95f7a3c89e",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "gfx/env/balebs2_lf.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/balebs2_lf.tga",
    "sha256": "cdf5ec7736b856f2cc02938ad67de3f35c86d77817f27281c26497b1acf42588",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "gfx/env/balebs2_rt.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/balebs2_rt.tga",
    "sha256": "b677f44a79539d5925881f888dc23ea9b29b0a54ff67f9e85241640300776166",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "gfx/env/balebs2_up.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/balebs2_up.tga",
    "sha256": "729fc691ca57bc2ff0ab6100028de861770de906b920889488e88be64248794e",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/env/canyonlandsbk.tga": {
    "bytes": 13916353,
-   "path": "gfx/env/canyonlandsbk.tga",
    "sha256": "cddfaec116243487ff111f73571f97729962b7dca3c133ec6f1d0637e05c1ff1",
    "timestamp": "2020-12-18T15:42:16.000Z"
   },
-  {
+  "gfx/env/canyonlandsdn.tga": {
    "bytes": 14747805,
-   "path": "gfx/env/canyonlandsdn.tga",
    "sha256": "b5f7f2f185c23416155bdcddf4d8c38f25cdbafec7e642f7a7a9d5fe96a6e06e",
    "timestamp": "2020-12-18T15:42:16.000Z"
   },
-  {
+  "gfx/env/canyonlandsft.tga": {
    "bytes": 14019989,
-   "path": "gfx/env/canyonlandsft.tga",
    "sha256": "a2a1157a4c3f797cc014c3d3f57b9c5eceb1b435c6e12134c9eea3f5148601b3",
    "timestamp": "2020-12-18T15:42:16.000Z"
   },
-  {
+  "gfx/env/canyonlandslf.tga": {
    "bytes": 14254966,
-   "path": "gfx/env/canyonlandslf.tga",
    "sha256": "2fab22a10ed42e5eeb6471e2104580cb4a61f5ec6b4ee734a99dcd229b4d1ffd",
    "timestamp": "2020-12-18T15:42:18.000Z"
   },
-  {
+  "gfx/env/canyonlandsrt.tga": {
    "bytes": 13997350,
-   "path": "gfx/env/canyonlandsrt.tga",
    "sha256": "af11d1d01a3d8a1d6fa3631dafadd73333c1f920ee2d71b26b1c30b30bd30daa",
    "timestamp": "2020-12-18T15:42:18.000Z"
   },
-  {
+  "gfx/env/canyonlandsup.tga": {
    "bytes": 13286421,
-   "path": "gfx/env/canyonlandsup.tga",
    "sha256": "26cecfd1245aee27e01ad3ab4ebc5e480fcae385b7fee2524a2e4819cad394b5",
    "timestamp": "2020-12-18T15:42:18.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_bk.jpg": {
    "bytes": 650741,
-   "path": "gfx/env/cloudy/graycloud_bk.jpg",
    "sha256": "23628731801c624d80b41f02c1b510c9727dcd1dd5ce9c8d246242f95c2ab8e2",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_bk.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudy/graycloud_bk.tga",
    "sha256": "bb012593fe4efd9bbc8cb4e19bf3b5edd544df854ae652187bfc17134d35fe2e",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_dn.jpg": {
    "bytes": 675040,
-   "path": "gfx/env/cloudy/graycloud_dn.jpg",
    "sha256": "a564999961ea51d21f2114181dd4ddf9b6ef0cc871bbc05e7aabbafd4d5cd61b",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_dn.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudy/graycloud_dn.tga",
    "sha256": "2d6a10f364b47ba0961b162ca7788c2f74874e8c211f2a066028b94cb7256d21",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_ft.jpg": {
    "bytes": 673061,
-   "path": "gfx/env/cloudy/graycloud_ft.jpg",
    "sha256": "c8aa511752e65efafb1c016d55e5f32b63f8b2dd7f64de98b79f7ea1d08c45d5",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_ft.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudy/graycloud_ft.tga",
    "sha256": "177d83276b899b002f8b3d8c37812012975bbcc3d97220bf126e9fef1e9175ef",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_lf.jpg": {
    "bytes": 677890,
-   "path": "gfx/env/cloudy/graycloud_lf.jpg",
    "sha256": "541fe874132e87dec7250b324b7b0d3856f5fc7be375d03325bc7483c581497d",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_lf.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudy/graycloud_lf.tga",
    "sha256": "6e9d4db3360fdcdd8d347fed059ec58211af57c2eb8bbef860203a63c18f4b8b",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_rt.jpg": {
    "bytes": 652835,
-   "path": "gfx/env/cloudy/graycloud_rt.jpg",
    "sha256": "7c02b8bd370a9a3c574bf8d7b1a64e8f3c9b3a7323c5f8b6086e468cc6c341f9",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_rt.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudy/graycloud_rt.tga",
    "sha256": "f15e672208380c5a56b6d6e77edfcab6b1588f59ef3755694c9c6a10494efe18",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_up.jpg": {
    "bytes": 675052,
-   "path": "gfx/env/cloudy/graycloud_up.jpg",
    "sha256": "12522c288255096793a4657b33a3eb0ed697da3e52429801eeed3b6fa6b5fb81",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/graycloud_up.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudy/graycloud_up.tga",
    "sha256": "baa627d50ebcc0eaf317b95a2a7f181fa834cc19ea4fb8d598642f5478a578de",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/cloudy/readme.txt": {
    "bytes": 2654,
-   "path": "gfx/env/cloudy/readme.txt",
    "sha256": "ab194cad08270b57412885d5ee0a935ab05f1d7121b56c049a6b64d5a3e8e431",
    "timestamp": "2020-12-14T10:34:44.000Z"
   },
-  {
+  "gfx/env/d4sky02_bk.tga": {
    "bytes": 3213712,
-   "path": "gfx/env/d4sky02_bk.tga",
    "sha256": "79209e23324b9a134ffaea9bf34f73b75589fd73852310b592dfce048bedbf0d",
    "timestamp": "2020-12-14T10:16:46.000Z"
   },
-  {
+  "gfx/env/d4sky02_dn.tga": {
    "bytes": 2716752,
-   "path": "gfx/env/d4sky02_dn.tga",
    "sha256": "ca62dfae543a66b4a6cdfc0dd7b2c8c6e3020fc0f3b90ecb4e364d9009e80ea6",
    "timestamp": "2020-12-14T10:16:36.000Z"
   },
-  {
+  "gfx/env/d4sky02_ft.tga": {
    "bytes": 3214684,
-   "path": "gfx/env/d4sky02_ft.tga",
    "sha256": "67eaaf0f5db5778a8f7b7e53a48b5d828ec40559ba0385e8dcbd358416f76f74",
    "timestamp": "2020-12-14T10:16:40.000Z"
   },
-  {
+  "gfx/env/d4sky02_lf.tga": {
    "bytes": 3276849,
-   "path": "gfx/env/d4sky02_lf.tga",
    "sha256": "d265bd481a7601420192b72c25bcf963a1ea6f9dcba948f24f9f70ddf5e0079b",
    "timestamp": "2020-12-14T10:16:42.000Z"
   },
-  {
+  "gfx/env/d4sky02_rt.tga": {
    "bytes": 3205862,
-   "path": "gfx/env/d4sky02_rt.tga",
    "sha256": "d5ba8fcde0a0c2f001d9e2bad01eeb287d9cacaf5ae5ed76b0c93d873ef470fa",
    "timestamp": "2020-12-14T10:16:42.000Z"
   },
-  {
+  "gfx/env/d4sky02_up.tga": {
    "bytes": 3065973,
-   "path": "gfx/env/d4sky02_up.tga",
    "sha256": "6103a0e18920d684d502903154d739f714ae0be44fbec18343939ea0368f68ce",
    "timestamp": "2020-12-14T10:16:44.000Z"
   },
-  {
+  "gfx/env/duske_bk.tga": {
    "bytes": 786450,
-   "path": "gfx/env/duske_bk.tga",
    "sha256": "cfefd9fcc1c00bff14638e02495629d03184319175b7b254fdb5a9a8b119c5bd",
    "timestamp": "2020-11-21T07:21:12.000Z"
   },
-  {
+  "gfx/env/duske_dn.tga": {
    "bytes": 786450,
-   "path": "gfx/env/duske_dn.tga",
    "sha256": "85a940a26090aa3bdfdc1a0e45e95180bbed76fd2622134328469493dbe99201",
    "timestamp": "2020-11-21T07:21:12.000Z"
   },
-  {
+  "gfx/env/duske_ft.tga": {
    "bytes": 786450,
-   "path": "gfx/env/duske_ft.tga",
    "sha256": "6938e98a621e3e36b266c6fa5489811490d2da53752cd99e1c85a68f35e73b5c",
    "timestamp": "2020-11-21T07:21:12.000Z"
   },
-  {
+  "gfx/env/duske_lf.tga": {
    "bytes": 786450,
-   "path": "gfx/env/duske_lf.tga",
    "sha256": "77d499bc789d36eb82108c22ab597ff623648bf204a2baaf21fab27b2822511d",
    "timestamp": "2020-11-21T07:21:12.000Z"
   },
-  {
+  "gfx/env/duske_rt.tga": {
    "bytes": 786450,
-   "path": "gfx/env/duske_rt.tga",
    "sha256": "e1658d1b7c04b77af4b5f0353be711af7b815eafd0bb72a0b29b266a70e02edd",
    "timestamp": "2020-11-21T07:21:12.000Z"
   },
-  {
+  "gfx/env/duske_up.tga": {
    "bytes": 786450,
-   "path": "gfx/env/duske_up.tga",
    "sha256": "7b432957b22c6509a51c2f5fbee6974b8f5e66f0e6314969f65412fbb2ef20f9",
    "timestamp": "2020-11-21T07:21:12.000Z"
   },
-  {
+  "gfx/env/grimbk.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/grimbk.tga",
    "sha256": "59be3026e6030ebcb4f301dc27569da94866569bd264990d5b68c0c0470be470",
    "timestamp": "2020-11-26T02:14:32.000Z"
   },
-  {
+  "gfx/env/grimdn.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/grimdn.tga",
    "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
    "timestamp": "2020-11-26T02:14:32.000Z"
   },
-  {
+  "gfx/env/grimft.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/grimft.tga",
    "sha256": "0e1892d4675a0630cde9a1a1453fb936b5fd4f62c97a91fde60778d94bced01f",
    "timestamp": "2020-11-26T02:14:32.000Z"
   },
-  {
+  "gfx/env/grimlf.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/grimlf.tga",
    "sha256": "c69dca07d21151d7ea43527494687f3951715d692ed616af3a059f01481204cc",
    "timestamp": "2020-11-26T02:14:32.000Z"
   },
-  {
+  "gfx/env/grimrt.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/grimrt.tga",
    "sha256": "bf2c9897af366d36efc11de39c051f3345ceeb6d38845be71b712c9403d726e7",
    "timestamp": "2020-11-26T02:14:32.000Z"
   },
-  {
+  "gfx/env/grimup.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/grimup.tga",
    "sha256": "e4e35e286d93770157119d60889ff0d2df08fa13ccafa32ea26884e31a1344bc",
    "timestamp": "2020-11-26T02:14:32.000Z"
   },
-  {
+  "gfx/env/iceflow_bk.tga": {
    "bytes": 714611,
-   "path": "gfx/env/iceflow_bk.tga",
    "sha256": "c14cf31c80755d36ae77f227fce70e0319052c0d9b33c6758b8e4e2635022275",
    "timestamp": "2020-12-14T09:54:18.000Z"
   },
-  {
+  "gfx/env/iceflow_dn.tga": {
    "bytes": 769798,
-   "path": "gfx/env/iceflow_dn.tga",
    "sha256": "c9b999bb283ae0f1030c605c64ba7f4894dd1f16b8543efc89b41704d81c75ca",
    "timestamp": "2020-12-14T09:54:18.000Z"
   },
-  {
+  "gfx/env/iceflow_ft.tga": {
    "bytes": 727856,
-   "path": "gfx/env/iceflow_ft.tga",
    "sha256": "f388a8028c851633332a07e7939f67b1bffd580dbccbadc3a89da9128b0575f5",
    "timestamp": "2020-12-14T09:54:18.000Z"
   },
-  {
+  "gfx/env/iceflow_lf.tga": {
    "bytes": 727555,
-   "path": "gfx/env/iceflow_lf.tga",
    "sha256": "c0d600394c44125e710001d6b88be5fe313747cecf292bc90aaa2710c2900c88",
    "timestamp": "2020-12-14T09:54:18.000Z"
   },
-  {
+  "gfx/env/iceflow_rt.tga": {
    "bytes": 682354,
-   "path": "gfx/env/iceflow_rt.tga",
    "sha256": "45c9dc0e0469608ec238a65f0a688d88a00a5cf6898c93fa5c5b8c12cb3ee2fd",
    "timestamp": "2020-12-14T09:54:18.000Z"
   },
-  {
+  "gfx/env/iceflow_up.tga": {
    "bytes": 543848,
-   "path": "gfx/env/iceflow_up.tga",
    "sha256": "937eccb002fd642626a19e290a22bfac756e63758720af1515a920f9a1ed15a6",
    "timestamp": "2020-12-14T09:54:18.000Z"
   },
-  {
+  "gfx/env/mnight/mnight.shader": {
    "bytes": 345,
-   "path": "gfx/env/mnight/mnight.shader",
    "sha256": "9bbb37cec7da40fd962cca3ff520e11f1298199d69b2ea3978e513214e8529f1",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/mnight_bk.tga": {
    "bytes": 567500,
-   "path": "gfx/env/mnight/mnight_bk.tga",
    "sha256": "41b74e3f0a11cff6e0b025de944eec4828087362dcb283b63f55016b81c44a52",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/mnight_dn.tga": {
    "bytes": 623212,
-   "path": "gfx/env/mnight/mnight_dn.tga",
    "sha256": "3cb01732aa94e86149abe613e718879c89ef60b0d1c11d43ef0135e44e2b1806",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/mnight_ft.tga": {
    "bytes": 528487,
-   "path": "gfx/env/mnight/mnight_ft.tga",
    "sha256": "117a983d91e6a395d9f8adf6f10a2bdf7539484388760df48a05ab80bd832f4c",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/mnight_lf.tga": {
    "bytes": 506062,
-   "path": "gfx/env/mnight/mnight_lf.tga",
    "sha256": "95e968fd3980fc28f28fb6083ac69fed422d92fd017e9d00354ed0da3c19b90c",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/mnight_rt.tga": {
    "bytes": 441086,
-   "path": "gfx/env/mnight/mnight_rt.tga",
    "sha256": "bc609f3ee2666d6c6ebeba8584aca195b158123865d2c5f0cce39430a6d01a32",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/mnight_up.tga": {
    "bytes": 404367,
-   "path": "gfx/env/mnight/mnight_up.tga",
    "sha256": "6f8bd7a529e3f13cec2e5fa5762c2759dc17063054890b0e29127da266ac7a6c",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/mnight/readme.txt": {
    "bytes": 1109,
-   "path": "gfx/env/mnight/readme.txt",
    "sha256": "9bd3b7df1f6f76f81b183f9b1bd88b38ff77134b85b3a4e7cd28630a3fd3b723",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "gfx/env/moonrise_bk.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/moonrise_bk.tga",
    "sha256": "3b4e85116e3999d5cded25ca0a5d6fb9c297b3d69749a63daf5af6c37fe21959",
    "timestamp": "2015-05-13T12:04:28.000Z"
   },
-  {
+  "gfx/env/moonrise_dn.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/moonrise_dn.tga",
    "sha256": "a7be41496d25bc9e505b959b08a950c1bb61acc6c8c44ec4e1dd428faeac4ccd",
    "timestamp": "2015-05-13T12:04:28.000Z"
   },
-  {
+  "gfx/env/moonrise_ft.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/moonrise_ft.tga",
    "sha256": "7381c46aa4f5c916f3bc8f82a442a4582834563c0bb0127580053bb274609180",
    "timestamp": "2015-05-13T12:04:28.000Z"
   },
-  {
+  "gfx/env/moonrise_lf.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/moonrise_lf.tga",
    "sha256": "871df5eed200970b8c3246ca10a039f5915c95e8f48bf0692fc22f2f7e5450cd",
    "timestamp": "2015-05-13T12:04:28.000Z"
   },
-  {
+  "gfx/env/moonrise_rt.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/moonrise_rt.tga",
    "sha256": "2cc00bb935ee2f4019f4d99170d38ef3f51c72ff80150cd74911b1038a0cb269",
    "timestamp": "2015-05-13T12:04:28.000Z"
   },
-  {
+  "gfx/env/moonrise_up.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/moonrise_up.tga",
    "sha256": "0296084074d726170fdc85d2c1176ee64845b6805c174c08aaa63f514fd9cb65",
    "timestamp": "2015-05-13T12:04:28.000Z"
   },
-  {
+  "gfx/env/ozymandias_bk.tga": {
    "bytes": 786971,
-   "path": "gfx/env/ozymandias_bk.tga",
    "sha256": "05b092662bed6b02fc122ca43be907ac87461e7cd9116661f962b8dfac1328c9",
    "timestamp": "2020-12-14T10:21:36.000Z"
   },
-  {
+  "gfx/env/ozymandias_dn.tga": {
    "bytes": 786971,
-   "path": "gfx/env/ozymandias_dn.tga",
    "sha256": "2354852349f537cc4eb1567f1e7c71b8b5891bbfa03d4350708296cab505abc2",
    "timestamp": "2020-12-14T10:21:36.000Z"
   },
-  {
+  "gfx/env/ozymandias_ft.tga": {
    "bytes": 786971,
-   "path": "gfx/env/ozymandias_ft.tga",
    "sha256": "ee011c4f2f619b6a1dd5868608ed79407ead9d6665d219e1020d0c5dd7b070d0",
    "timestamp": "2020-12-14T10:21:36.000Z"
   },
-  {
+  "gfx/env/ozymandias_lf.tga": {
    "bytes": 786971,
-   "path": "gfx/env/ozymandias_lf.tga",
    "sha256": "05af28566a788dbe40fa0a0470fc27fd45477c29be9c5f4ba114cee88f3622fc",
    "timestamp": "2020-12-14T10:21:36.000Z"
   },
-  {
+  "gfx/env/ozymandias_rt.tga": {
    "bytes": 786971,
-   "path": "gfx/env/ozymandias_rt.tga",
    "sha256": "923b4df98f15b40aad478b8b8cf340ca2b33e17053dc134d9ff6cd688ddef956",
    "timestamp": "2020-12-14T10:21:36.000Z"
   },
-  {
+  "gfx/env/ozymandias_up.tga": {
    "bytes": 786971,
-   "path": "gfx/env/ozymandias_up.tga",
    "sha256": "88a59bff68e1ba4cd29e66ff25c88d3cfbbcf2f5089fb82e9addae1edf2c5566",
    "timestamp": "2020-12-14T10:21:36.000Z"
   },
-  {
+  "gfx/env/peaksbk.tga": {
    "bytes": 2597709,
-   "path": "gfx/env/peaksbk.tga",
    "sha256": "e471665e1d5b3f8dacf5dc2808cba554455130f6e4f6ed38753d0da2de3484e5",
    "timestamp": "2020-12-18T15:42:14.000Z"
   },
-  {
+  "gfx/env/peaksdn.tga": {
    "bytes": 227976,
-   "path": "gfx/env/peaksdn.tga",
    "sha256": "a8a63191aca1f836b27398ad8950aabfa7b51ea56da5a523017cbe00df05f17d",
    "timestamp": "2020-12-18T15:42:14.000Z"
   },
-  {
+  "gfx/env/peaksft.tga": {
    "bytes": 2871074,
-   "path": "gfx/env/peaksft.tga",
    "sha256": "29e5c797f2b754a1d30256918f51bbf8dc40f800b2d2a7b89bf7bb1219a14acf",
    "timestamp": "2020-12-18T15:42:14.000Z"
   },
-  {
+  "gfx/env/peakslf.tga": {
    "bytes": 2898532,
-   "path": "gfx/env/peakslf.tga",
    "sha256": "2475e4a8b1a15b233f1252d0f76f9d701becaa962bc28eb1418ee326065e8452",
    "timestamp": "2020-12-18T15:42:14.000Z"
   },
-  {
+  "gfx/env/peaksrt.tga": {
    "bytes": 2767099,
-   "path": "gfx/env/peaksrt.tga",
    "sha256": "a794c6522ee5467aff21c0339e2f4930d7abaef76b900af4964bef5d1027269f",
    "timestamp": "2020-12-18T15:42:14.000Z"
   },
-  {
+  "gfx/env/peaksup.tga": {
    "bytes": 2235084,
-   "path": "gfx/env/peaksup.tga",
    "sha256": "904507dd4d09077354d61d28a80555e731bf599919e0ee5542ec2db1cb10ef56",
    "timestamp": "2020-12-18T15:42:14.000Z"
   },
-  {
+  "gfx/env/techasky_BK.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/techasky_BK.tga",
    "sha256": "47cac00e2b3a5771657fd77d2442fe5a5e29cee7affc476524de0f032ef5dc39",
    "timestamp": "2020-12-14T09:52:42.000Z"
   },
-  {
+  "gfx/env/techasky_DN.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/techasky_DN.tga",
    "sha256": "58bb9e2a2315f4a360102bd9b40563088313983cea7a7bbcfce5f4727c06fc0d",
    "timestamp": "2020-12-14T09:52:42.000Z"
   },
-  {
+  "gfx/env/techasky_FT.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/techasky_FT.tga",
    "sha256": "bb42809e616a3ee20d47c633faec71854ed95aecbdb903fedf85b290b907d51d",
    "timestamp": "2020-12-14T09:52:42.000Z"
   },
-  {
+  "gfx/env/techasky_UP.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/techasky_UP.tga",
    "sha256": "998d56372580d3ef3fb0ca818d8fca906e8654fa86e7f97395d5da5a11f087db",
    "timestamp": "2020-12-14T09:52:42.000Z"
   },
-  {
+  "gfx/env/techasky_lf.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/techasky_lf.tga",
    "sha256": "528179c1a327c5116dd7cadb324e7f87e7d4a008994e2727b00ef18ebe9b0a25",
    "timestamp": "2020-12-14T09:52:42.000Z"
   },
-  {
+  "gfx/env/techasky_rt.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/techasky_rt.tga",
    "sha256": "a975d2361a0f0072b681f97e6a81de8f1ff685a22deff3e7a9ef49bda41921fc",
    "timestamp": "2020-12-14T09:52:42.000Z"
   },
-  {
+  "gfx/env/wakeworld_bk.tga": {
    "bytes": 471399,
-   "path": "gfx/env/wakeworld_bk.tga",
    "sha256": "6e1fee7364f1d02ba513893e23584b17d7d63c66c6cdf2f4fa4a508d5a05bff6",
    "timestamp": "2003-01-08T14:36:06.000Z"
   },
-  {
+  "gfx/env/wakeworld_dn.tga": {
    "bytes": 786423,
-   "path": "gfx/env/wakeworld_dn.tga",
    "sha256": "db568f0e5d32427f9dcd0adef562363dce249f5692502bc0210db151ce527098",
    "timestamp": "2003-01-08T14:36:34.000Z"
   },
-  {
+  "gfx/env/wakeworld_ft.tga": {
    "bytes": 469396,
-   "path": "gfx/env/wakeworld_ft.tga",
    "sha256": "1db1f79d77eb8806018478de292c33b2d4c9bc8fbe3874cec39536002caaa146",
    "timestamp": "2003-01-08T14:35:48.000Z"
   },
-  {
+  "gfx/env/wakeworld_lf.tga": {
    "bytes": 526136,
-   "path": "gfx/env/wakeworld_lf.tga",
    "sha256": "5397d5b5b6c73b2c72b51f90f0b356ad5b6d1645b800906937c8f322db22a06b",
    "timestamp": "2003-01-08T14:35:58.000Z"
   },
-  {
+  "gfx/env/wakeworld_rt.tga": {
    "bytes": 448115,
-   "path": "gfx/env/wakeworld_rt.tga",
    "sha256": "ec88b653107d1fc25b912cdb8965b434685b8f047b6b82fb0b628a222c42ba14",
    "timestamp": "2003-01-08T14:36:14.000Z"
   },
-  {
+  "gfx/env/wakeworld_up.tga": {
    "bytes": 181354,
-   "path": "gfx/env/wakeworld_up.tga",
    "sha256": "6fc7c166020284022fc218096af0a6589dd41be2f7a17b286d3c072db2164ef5",
    "timestamp": "2003-01-08T14:36:22.000Z"
   },
-  {
+  "gfx/env/white_bk.tga": {
    "bytes": 12332,
-   "path": "gfx/env/white_bk.tga",
    "sha256": "50e76ab77bae7deb79272c749bbcf538719d46c0b3501d78fab259566d2ae22f",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/env/white_dn.tga": {
    "bytes": 12332,
-   "path": "gfx/env/white_dn.tga",
    "sha256": "50e76ab77bae7deb79272c749bbcf538719d46c0b3501d78fab259566d2ae22f",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/env/white_ft.tga": {
    "bytes": 12332,
-   "path": "gfx/env/white_ft.tga",
    "sha256": "50e76ab77bae7deb79272c749bbcf538719d46c0b3501d78fab259566d2ae22f",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/env/white_lf.tga": {
    "bytes": 12332,
-   "path": "gfx/env/white_lf.tga",
    "sha256": "50e76ab77bae7deb79272c749bbcf538719d46c0b3501d78fab259566d2ae22f",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/env/white_rt.tga": {
    "bytes": 12332,
-   "path": "gfx/env/white_rt.tga",
    "sha256": "50e76ab77bae7deb79272c749bbcf538719d46c0b3501d78fab259566d2ae22f",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/env/white_up.tga": {
    "bytes": 12332,
-   "path": "gfx/env/white_up.tga",
    "sha256": "50e76ab77bae7deb79272c749bbcf538719d46c0b3501d78fab259566d2ae22f",
    "timestamp": "2020-12-15T11:16:56.000Z"
   },
-  {
+  "gfx/qplaque.lmp": {
    "bytes": 4616,
-   "path": "gfx/qplaque.lmp",
    "sha256": "5759ac81bde273bbe2a7dbb7fbece5f37f48c8fae449f25b715767cb3da351b7",
    "timestamp": "2020-12-18T14:13:52.000Z"
   },
-  {
+  "maps/start.bsp": {
    "bytes": 23191332,
-   "path": "maps/start.bsp",
    "sha256": "872883c95aeb6dd633196736c8e9d409a763c80e267fba18fb8e5ad81e38a341",
    "timestamp": "2020-12-20T10:00:20.000Z"
   },
-  {
+  "maps/start.lit": {
    "bytes": 1078643,
-   "path": "maps/start.lit",
    "sha256": "dfa6e9ce1481edcff060cd31d6bcaca21ef13314ec94e687cc1e0c63fbff5c70",
    "timestamp": "2020-12-20T10:00:20.000Z"
   },
-  {
+  "maps/xj2020_artistical.bsp": {
    "bytes": 11177712,
-   "path": "maps/xj2020_artistical.bsp",
    "sha256": "96e0da2b7406a76848900e800161baa0da834c8530e6cd702ed4cd5e32823d09",
    "timestamp": "2020-12-11T16:01:12.000Z"
   },
-  {
+  "maps/xj2020_artistical.lit": {
    "bytes": 1356737,
-   "path": "maps/xj2020_artistical.lit",
    "sha256": "1afe728b3782ead22fe04457620ee6c5f3c3c193c84f97aae2fc1b8f54a1111e",
    "timestamp": "2020-12-11T16:01:10.000Z"
   },
-  {
+  "maps/xj2020_bal.bsp": {
    "bytes": 20501220,
-   "path": "maps/xj2020_bal.bsp",
    "sha256": "8901c9d80e254e7ab49ede5bc821c932aa6aa8986d06091da356dac45b7dcb98",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "maps/xj2020_bal.lit": {
    "bytes": 6298328,
-   "path": "maps/xj2020_bal.lit",
    "sha256": "b174c80e6b16c18fd9a59eaf0c44f5f754d08cdfa0c5fb5dec094ff879040274",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "maps/xj2020_chrisholden.bsp": {
    "bytes": 5142756,
-   "path": "maps/xj2020_chrisholden.bsp",
    "sha256": "5cef3572daebcd0350a657009c474165eb746dd7f40d9ec7c0b66c0e30ccdb2a",
    "timestamp": "2020-12-14T09:52:44.000Z"
   },
-  {
+  "maps/xj2020_chrisholden.lit": {
    "bytes": 1545455,
-   "path": "maps/xj2020_chrisholden.lit",
    "sha256": "7e4e25c8ddad17afba49131858e0c55d579e049e535a01ad0d665a9448147a64",
    "timestamp": "2020-12-14T09:52:44.000Z"
   },
-  {
+  "maps/xj2020_dfl.bsp": {
    "bytes": 1980244,
-   "path": "maps/xj2020_dfl.bsp",
    "sha256": "b80c3341266732f7bb12d3fc0d3a606ab3b530675fd823499f280153aeccc58d",
    "timestamp": "2020-12-14T09:54:20.000Z"
   },
-  {
+  "maps/xj2020_dfl.lit": {
    "bytes": 335084,
-   "path": "maps/xj2020_dfl.lit",
    "sha256": "8c347e12454df3eb4906a92e765b4827e06aa1338b98769c7b5e4616502f1f80",
    "timestamp": "2020-12-14T09:54:20.000Z"
   },
-  {
+  "maps/xj2020_entsoy.bsp": {
    "bytes": 12406664,
-   "path": "maps/xj2020_entsoy.bsp",
    "sha256": "97b84f76579e97e5ad63b6cbbe7f000b1487ee07baef9d363ec313e01c2c7aea",
    "timestamp": "2020-12-13T12:03:08.000Z"
   },
-  {
+  "maps/xj2020_entsoy.lit": {
    "bytes": 1307447,
-   "path": "maps/xj2020_entsoy.lit",
    "sha256": "db55305042c5c64edbb3b5f6091a5ac4434cbe4d047db23f5faf1ba0434f277a",
    "timestamp": "2020-12-13T12:03:08.000Z"
   },
-  {
+  "maps/xj2020_greenwood.bsp": {
    "bytes": 3462136,
-   "path": "maps/xj2020_greenwood.bsp",
    "sha256": "4f6e0c48070246b3bc18f45dbeb73ac30851649bb5058e03cf46f1996d53f67a",
    "timestamp": "2020-12-19T09:33:30.000Z"
   },
-  {
+  "maps/xj2020_greenwood.lit": {
    "bytes": 1363313,
-   "path": "maps/xj2020_greenwood.lit",
    "sha256": "b035b285f82bbcf27601e3daa445fa1211d79e34e4112f6e6031ce400ef6ffbd",
    "timestamp": "2020-12-19T09:33:30.000Z"
   },
-  {
+  "maps/xj2020_grome.bsp": {
    "bytes": 2798208,
-   "path": "maps/xj2020_grome.bsp",
    "sha256": "a53a51288d7b419a5e22deef278ddd8ad1d81ec5e609e0f647d87e3fcb71a4c6",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "maps/xj2020_grome.lit": {
    "bytes": 763352,
-   "path": "maps/xj2020_grome.lit",
    "sha256": "ae4c263736ade528c964b7a2176c3a3ff8c037c67b84cbabb07dd79a95680aa1",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "maps/xj2020_heresy.bsp": {
    "bytes": 34091720,
-   "path": "maps/xj2020_heresy.bsp",
    "sha256": "6ce845dde97d1d3249b9e87456130995d49688d6ceb9e33d0d6b7022724d61b9",
    "timestamp": "2020-12-10T00:07:46.000Z"
   },
-  {
+  "maps/xj2020_heresy.lit": {
    "bytes": 5667680,
-   "path": "maps/xj2020_heresy.lit",
    "sha256": "594b1a57eed66a14af916d264fb81981f002209df20e5ab7b5eb41db329252dd",
    "timestamp": "2020-12-10T00:07:46.000Z"
   },
-  {
+  "maps/xj2020_ionotp.bsp": {
    "bytes": 2874336,
-   "path": "maps/xj2020_ionotp.bsp",
    "sha256": "554d6b958ccd1f5623df4ff81565e03029d23fe51290eee7d1124c607593bc7c",
    "timestamp": "2020-12-16T09:31:40.000Z"
   },
-  {
+  "maps/xj2020_ionotp.lit": {
    "bytes": 634931,
-   "path": "maps/xj2020_ionotp.lit",
    "sha256": "7ea854858631e8a7dbc728ca04a3417b8bea28928da46d97e6f7313dc6d3c05d",
    "timestamp": "2020-12-16T09:31:12.000Z"
   },
-  {
+  "maps/xj2020_ish.bsp": {
    "bytes": 7511372,
-   "path": "maps/xj2020_ish.bsp",
    "sha256": "7dc46a7d37b71b79d52b04b97475ab33ca5b137f1a018b54584b75f2ca19c049",
    "timestamp": "2020-12-15T11:15:54.000Z"
   },
-  {
+  "maps/xj2020_ish.lit": {
    "bytes": 534110,
-   "path": "maps/xj2020_ish.lit",
    "sha256": "760b6124976643d28b161835665ce404067e2194f605d9d60830506e32d359a1",
    "timestamp": "2020-12-15T11:15:50.000Z"
   },
-  {
+  "maps/xj2020_muk.bsp": {
    "bytes": 4021024,
-   "path": "maps/xj2020_muk.bsp",
    "sha256": "d7a81b4254c572dca9a7f0f3c6fb54998a45988caf4533426abab6366bd5287b",
    "timestamp": "2020-12-14T10:13:40.000Z"
   },
-  {
+  "maps/xj2020_muk.lit": {
    "bytes": 680270,
-   "path": "maps/xj2020_muk.lit",
    "sha256": "3703253676adfdb283f54c81c7f338612f1f77f56edf40166d65c1e1de48e029",
    "timestamp": "2020-12-14T10:13:40.000Z"
   },
-  {
+  "maps/xj2020_naitelveni.bsp": {
    "bytes": 18935396,
-   "path": "maps/xj2020_naitelveni.bsp",
    "sha256": "8bf4b365889f99d4bd10571938807905192cf9ad2ddefdca7698755af19bb19b",
    "timestamp": "2020-12-14T10:15:34.000Z"
   },
-  {
+  "maps/xj2020_naitelveni.lit": {
    "bytes": 2643023,
-   "path": "maps/xj2020_naitelveni.lit",
    "sha256": "ff79f42b9c67b5384dd4831e34ae40782e312c5a83fc855b6a35b24665171a1f",
    "timestamp": "2020-12-14T10:15:30.000Z"
   },
-  {
+  "maps/xj2020_pinchy.bsp": {
    "bytes": 1954712,
-   "path": "maps/xj2020_pinchy.bsp",
    "sha256": "7650465a07af0e144394d38d4bfd27e58e8afc137bd52827996314526ed2ab8a",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "maps/xj2020_pinchy.lit": {
    "bytes": 572459,
-   "path": "maps/xj2020_pinchy.lit",
    "sha256": "1e13f957f081f10987298ca1ac525ac5be405fb203db40dd2aebd8f251d4a66d",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "maps/xj2020_qalten.bsp": {
    "bytes": 9357516,
-   "path": "maps/xj2020_qalten.bsp",
    "sha256": "3fd105ef4a4d667be1558bcc4dd2c320c71e2f05cd3928b29cd130bd26d0890f",
    "timestamp": "2020-12-14T10:20:00.000Z"
   },
-  {
+  "maps/xj2020_qalten.lit": {
    "bytes": 982730,
-   "path": "maps/xj2020_qalten.lit",
    "sha256": "a33c627de4b6a01b11760200f81c9b3de724bc5a0dbf85b60039de95e7559507",
    "timestamp": "2020-12-14T10:19:58.000Z"
   },
-  {
+  "maps/xj2020_qmaster1.bsp": {
    "bytes": 2861236,
-   "path": "maps/xj2020_qmaster1.bsp",
    "sha256": "8a628b9bcd4378019629c627d30f58cb16240fa530ccd549cec7b5857aca9ff2",
    "timestamp": "2020-12-14T10:25:22.000Z"
   },
-  {
+  "maps/xj2020_qmaster1.lit": {
    "bytes": 1061600,
-   "path": "maps/xj2020_qmaster1.lit",
    "sha256": "1abeba2b2a00a7b2433c8a15a6ec1e8535d8bf41931525e07775da5746b30c23",
    "timestamp": "2020-12-14T10:25:22.000Z"
   },
-  {
+  "maps/xj2020_qmaster2.bsp": {
    "bytes": 538212,
-   "path": "maps/xj2020_qmaster2.bsp",
    "sha256": "6c3a1ef9005126e234318971f20a42e22e9ba2ee3c6605a0e670b86ffb87d6ec",
    "timestamp": "2020-12-19T09:32:28.000Z"
   },
-  {
+  "maps/xj2020_qmaster2.lit": {
    "bytes": 41297,
-   "path": "maps/xj2020_qmaster2.lit",
    "sha256": "0f59968cbb14b5711842546008c5e70981803be14eab8c5519e45d14faea6644",
    "timestamp": "2020-12-19T09:32:30.000Z"
   },
-  {
+  "maps/xj2020_quasiotter.bsp": {
    "bytes": 1827776,
-   "path": "maps/xj2020_quasiotter.bsp",
    "sha256": "ad1da96b696f797b93d8bb5d2fec12c908f1daa535b1e97ac12175ef75688941",
    "timestamp": "2020-12-16T09:27:14.000Z"
   },
-  {
+  "maps/xj2020_quasiotter.lit": {
    "bytes": 419180,
-   "path": "maps/xj2020_quasiotter.lit",
    "sha256": "60da8e0ad9d42b4ecffb40fb9bdc99716094f4c5a455ac1eb5cffbc6114191e5",
    "timestamp": "2020-12-16T09:27:14.000Z"
   },
-  {
+  "maps/xj2020_shades.bsp": {
    "bytes": 16372360,
-   "path": "maps/xj2020_shades.bsp",
    "sha256": "8eee5f347ef51dbe16b8a9dc9938cde2dae1632f71ada263db2e87040be6098d",
    "timestamp": "2020-12-19T19:26:44.000Z"
   },
-  {
+  "maps/xj2020_shades.lit": {
    "bytes": 901424,
-   "path": "maps/xj2020_shades.lit",
    "sha256": "cbde7ffffce1380fc0466b6707f0f7ff6a62e70e1488979503ada43971eeb08c",
    "timestamp": "2020-12-19T19:26:44.000Z"
   },
-  {
+  "maps/xj2020_strideh.bsp": {
    "bytes": 4432908,
-   "path": "maps/xj2020_strideh.bsp",
    "sha256": "80736818c121955df2781d4df2159f635d6ed89c44e3c8efc2a9f957294bc52d",
    "timestamp": "2020-12-19T18:55:50.000Z"
   },
-  {
+  "maps/xj2020_strideh.lit": {
    "bytes": 1106123,
-   "path": "maps/xj2020_strideh.lit",
    "sha256": "c489e4323a0fef14cb569e0ffa6afdfefc15f5b4a982faf68d585a6685a7c10e",
    "timestamp": "2020-12-19T18:55:50.000Z"
   },
-  {
+  "maps/xj2020_vbs.bsp": {
    "bytes": 15450500,
-   "path": "maps/xj2020_vbs.bsp",
    "sha256": "17bb8a755043b43dfba763b2d6763e98730b32be3d80534fcbb4da12d2980d73",
    "timestamp": "2020-12-16T09:35:18.000Z"
   },
-  {
+  "maps/xj2020_vbs.lit": {
    "bytes": 747944,
-   "path": "maps/xj2020_vbs.lit",
    "sha256": "bd17bd5bd40212d90a33b739f655669642d42709db5b8b14f4bf0d0b00775434",
    "timestamp": "2020-12-16T09:35:18.000Z"
   },
-  {
+  "music/AQM_poster.png": {
    "bytes": 666823,
-   "path": "music/AQM_poster.png",
    "sha256": "00abfde3bc632e5b3281ac715434f4761779b376a1d0d5a8e4532d570080e881",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "music/AQM_tracks.txt": {
    "bytes": 705,
-   "path": "music/AQM_tracks.txt",
    "sha256": "e89f123d704834a9bd6a8c2acd1ffd54b53812a0cf6cf74e2c5d82bacf140195",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "music/track110.ogg": {
    "bytes": 8137511,
-   "path": "music/track110.ogg",
    "sha256": "f46fd02f760a5fc2857d09d354c2d694620a6535ff4c14bf6b4f9cd862e80ccf",
    "timestamp": "2020-12-14T10:21:54.000Z"
   },
-  {
+  "music/track111.ogg": {
    "bytes": 7082109,
-   "path": "music/track111.ogg",
    "sha256": "169db586b250c3f60b548ab34f3f326ac6cf1f5f9eca6491fa456e7b8c2781bf",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "music/track15.mp3": {
    "bytes": 8694927,
-   "path": "music/track15.mp3",
    "sha256": "aa62802b5b59c13a8021c77c4713585415555d887e4e456e4442b5d8289dcc2c",
    "timestamp": "2020-11-28T23:42:54.000Z"
   },
-  {
+  "music/track187.ogg": {
    "bytes": 5855269,
-   "path": "music/track187.ogg",
    "sha256": "00408015fec927e95668a9829d020008c137b144a08840a3e869f71559ebcac5",
    "timestamp": "2020-11-22T10:14:10.000Z"
   },
-  {
+  "music/track188.ogg": {
    "bytes": 48796,
-   "path": "music/track188.ogg",
    "sha256": "3352f7a68c25c8ac8064096fc74920fa624b63b64e6a9f839487ce89e30da709",
    "timestamp": "2020-12-14T10:29:22.000Z"
   },
-  {
+  "music/track198.mp3": {
    "bytes": 3096913,
-   "path": "music/track198.mp3",
    "sha256": "b136325631d5165195b5075bbeedfb38cf9402e9384d5d514a38f02108028ba5",
    "timestamp": "2019-12-01T04:04:10.000Z"
   },
-  {
+  "music/track217.mp3": {
    "bytes": 4695264,
-   "path": "music/track217.mp3",
    "sha256": "05901b6eacb6c0ea55b12c677dd53f159a01b5680360003b91c341300ed4ea68",
    "timestamp": "2020-12-14T09:52:46.000Z"
   },
-  {
+  "music/track45.mp3": {
    "bytes": 3399139,
-   "path": "music/track45.mp3",
    "sha256": "87fa24ea670c8edcd627bebc8023dc4ec658aa8b550bba2050b1a027130a5365",
    "timestamp": "2020-12-14T10:25:24.000Z"
   },
-  {
+  "music/track46.mp3": {
    "bytes": 3826371,
-   "path": "music/track46.mp3",
    "sha256": "1ca9d59305cbf7d376389e52ea7d264e0d43d58b54eeb6770550063ca1c56793",
    "timestamp": "2020-12-14T10:25:24.000Z"
   },
-  {
+  "music/track57.ogg": {
    "bytes": 1300133,
-   "path": "music/track57.ogg",
    "sha256": "d0b334da805937c212f3db13708effe99bd40d6aca168c05aea94acb7b976dda",
    "timestamp": "2020-12-16T09:40:34.000Z"
   },
-  {
+  "music/track66.mp3": {
    "bytes": 1166112,
-   "path": "music/track66.mp3",
    "sha256": "4eb998ab94eca70f764791dd0cf20aafe0c18c8046694ccc668db0225adbf3df",
    "timestamp": "2020-12-13T11:05:00.000Z"
   },
-  {
+  "music/track69.mp3": {
    "bytes": 9662818,
-   "path": "music/track69.mp3",
    "sha256": "af91bc43b8a5abf93a6505eee695674ba8573c65037b010e9660c281ce223e1b",
    "timestamp": "2020-12-14T10:04:06.000Z"
   },
-  {
+  "music/track95.ogg": {
    "bytes": 3101110,
-   "path": "music/track95.ogg",
    "sha256": "7dc4de5209a811ee06ea5c982011cc27bbc3accb3c42b91bcbbc6ea65ecb5daa",
    "timestamp": "2020-12-02T22:47:06.000Z"
   },
-  {
+  "music/track99.mp3": {
    "bytes": 5713919,
-   "path": "music/track99.mp3",
    "sha256": "79ff0d1dd4fc57a3a00230b72c6ba4b4e3de6b6b48de55b5d8ce7690930a32c3",
    "timestamp": "2020-11-27T06:57:58.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 270031400,
-   "path": "pak0.pak",
    "sha256": "facc0b4bd5c0f9b030c1949239001b573a77ce7daad9d63c4a92c2a6e73af98b",
    "timestamp": "2020-12-18T14:33:02.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 5468494,
-   "path": "pak1.pak",
    "sha256": "6ca3099935998e8678b388cd5bb1e1c601f1035da378141b6e800303b8737f02",
    "timestamp": "2020-11-22T11:34:38.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 13867395,
-   "path": "pak2.pak",
    "sha256": "49bb1a23ffda3e24edba1f4094ab4e031f570e8dccba7ca363b7096bbf0b84c1",
    "timestamp": "2020-11-22T11:35:34.000Z"
   },
-  {
+  "progs/PineTree_Models.txt": {
    "bytes": 2189,
-   "path": "progs/PineTree_Models.txt",
    "sha256": "8e7bb3da0e91550648b369ce53d491096c28d2813c0aaeacff4fd9424db558db",
    "timestamp": "2019-07-07T02:44:48.000Z"
   },
-  {
+  "progs/balxj_tree_a.mdl": {
    "bytes": 479516,
-   "path": "progs/balxj_tree_a.mdl",
    "sha256": "59a89b398caa908ff6dd777cb42d0d7dfde930ac5569fdab4bc4f10dd8137584",
    "timestamp": "2019-12-16T21:34:54.000Z"
   },
-  {
+  "progs/balxj_tree_b.mdl": {
    "bytes": 479516,
-   "path": "progs/balxj_tree_b.mdl",
    "sha256": "59a89b398caa908ff6dd777cb42d0d7dfde930ac5569fdab4bc4f10dd8137584",
    "timestamp": "2020-12-15T11:17:36.000Z"
   },
-  {
+  "progs/goldring.mdl": {
    "bytes": 7092,
-   "path": "progs/goldring.mdl",
    "sha256": "6d3f63236419eb81040705f2a070a9ed0561f7a81b006e377b0daf69254c3536",
    "timestamp": "2020-12-14T10:22:18.000Z"
   },
-  {
+  "progs/gw/banner.mdl": {
    "bytes": 253218,
-   "path": "progs/gw/banner.mdl",
    "sha256": "a5a751f2c44cdb92f81573d98c54062a8021f6fe379c90fbd914b3c4a60d8c6a",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/bottled.mdl": {
    "bytes": 44125,
-   "path": "progs/gw/bottled.mdl",
    "sha256": "e9731c400e8645afdbf97dd75ca3e08bdce16bca42e1e156fbbe78d47c754bc9",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/chair.mdl": {
    "bytes": 9364,
-   "path": "progs/gw/chair.mdl",
    "sha256": "ef2e4cc1c31f169782502119e62236b64aafcf2451211fb51db70bda6eed6ba7",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/chest1.mdl": {
    "bytes": 19352,
-   "path": "progs/gw/chest1.mdl",
    "sha256": "41c0eb4dcf1ad9ec78b7969005b5fc02a5a2083d28d134cfd1a361fdfa4d6446",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/chest4.mdl": {
    "bytes": 13164,
-   "path": "progs/gw/chest4.mdl",
    "sha256": "4f64cd7772380bd96fff0e8ddc748dc9aa48d98f7fb67d676d30d1363aea2e53",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/coin.mdl": {
    "bytes": 44036,
-   "path": "progs/gw/coin.mdl",
    "sha256": "c3d65aac43713c9102f8924ef7ed1cf90297ff17cfe8aface7936e9579b4ec57",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/empathy.mdl": {
    "bytes": 43800,
-   "path": "progs/gw/empathy.mdl",
    "sha256": "5708f7c334f26e08a382735b830339b2505af1eee16ee5e519e7b683dc7e9fdc",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/g_saw.mdl": {
    "bytes": 161064,
-   "path": "progs/gw/g_saw.mdl",
    "sha256": "b182cf8e7915d1860f37634a610905359c7a325f4ac13f1ef5b6fc2393efe182",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/gib_elfcane.mdl": {
    "bytes": 61596,
-   "path": "progs/gw/gib_elfcane.mdl",
    "sha256": "34cc9f073275e6032b28ed285fed98b59c0ff35531b76f5b2f0f9b4811b23f72",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/h_santa.mdl": {
    "bytes": 50660,
-   "path": "progs/gw/h_santa.mdl",
    "sha256": "99c5d21cf9acbceb0248543ee1dc9878afe70300e44add3af5436e964035842b",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/keg1.mdl": {
    "bytes": 49988,
-   "path": "progs/gw/keg1.mdl",
    "sha256": "7e9204af6086530f465333a5129e6f8aef21ca632b691afcfa94511df8f65bbf",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/misc_skull.mdl": {
    "bytes": 59892,
-   "path": "progs/gw/misc_skull.mdl",
    "sha256": "94600327093fe22acc113b8e89c8863a5548b170c9c9897bd2af8a4ff63beb5a",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/skell.mdl": {
    "bytes": 75284,
-   "path": "progs/gw/skell.mdl",
    "sha256": "693b524d36c355b53e0b3136b1593263e0d1d441825101fbafc3a678574ad7ad",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/skelly2.mdl": {
    "bytes": 201212,
-   "path": "progs/gw/skelly2.mdl",
    "sha256": "850e74cefbd6451dce9fa8183fab9ae03ccdab9061ab08d2bb50025e044c5f5f",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/stool.mdl": {
    "bytes": 7196,
-   "path": "progs/gw/stool.mdl",
    "sha256": "ddce6076cd5121799d018e652ed39b8c283a595afb9e19d9bfba8219b77c6553",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/sword.mdl": {
    "bytes": 86248,
-   "path": "progs/gw/sword.mdl",
    "sha256": "1d92530739e612b6eca8878765adc2f9b3fd73c54f9ab11e6f126e24a81a185a",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/sword_shield.mdl": {
    "bytes": 72876,
-   "path": "progs/gw/sword_shield.mdl",
    "sha256": "3c37ffdc7a5f59086710a5b4b9f6ec205a9b9166afdf89c80b552d16e42ec399",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/table1.mdl": {
    "bytes": 117762,
-   "path": "progs/gw/table1.mdl",
    "sha256": "21a9ce468214102e0f912ee043c741198f65a70a244f0c5ad4b2abc0b434e8ac",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/gw/wpn_rack.mdl": {
    "bytes": 22388,
-   "path": "progs/gw/wpn_rack.mdl",
    "sha256": "e940e11dfdd2b6773a2d422170be2d250bccd7e4bca447e63570fb6d41495855",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "progs/maxx/chair.mdl": {
    "bytes": 9364,
-   "path": "progs/maxx/chair.mdl",
    "sha256": "ef2e4cc1c31f169782502119e62236b64aafcf2451211fb51db70bda6eed6ba7",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/dragon.mdl": {
    "bytes": 262688,
-   "path": "progs/maxx/dragon.mdl",
    "sha256": "4535dae159e544b9799c26eaf20c71a8ac844f67309ae05bb837e2d18603b9d5",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/pine_maxx.mdl": {
    "bytes": 322860,
-   "path": "progs/maxx/pine_maxx.mdl",
    "sha256": "b05adcff5a05e5c25cadf1430e200e0c80903d24490186923ca0787c6ff856d9",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/pine_scraggy_maxx.mdl": {
    "bytes": 260660,
-   "path": "progs/maxx/pine_scraggy_maxx.mdl",
    "sha256": "ca65cf71afbaed63eeeffa0cb1903632aa6fe4b5677a689cdcd3c74c024a241d",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/pine_small_maxx.mdl": {
    "bytes": 325844,
-   "path": "progs/maxx/pine_small_maxx.mdl",
    "sha256": "c43182161eefc39d0f2d3aea2737b85eef0c3e7d8e7afe6fbbfbb8de7b8cb6e3",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/pinetree_models.txt": {
    "bytes": 2189,
-   "path": "progs/maxx/pinetree_models.txt",
    "sha256": "8e7bb3da0e91550648b369ce53d491096c28d2813c0aaeacff4fd9424db558db",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/stool.mdl": {
    "bytes": 7196,
-   "path": "progs/maxx/stool.mdl",
    "sha256": "ddce6076cd5121799d018e652ed39b8c283a595afb9e19d9bfba8219b77c6553",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/maxx/wpn_rack.mdl": {
    "bytes": 22388,
-   "path": "progs/maxx/wpn_rack.mdl",
    "sha256": "e940e11dfdd2b6773a2d422170be2d250bccd7e4bca447e63570fb6d41495855",
    "timestamp": "2020-12-14T10:34:42.000Z"
   },
-  {
+  "progs/pine_scraggy.mdl": {
    "bytes": 260660,
-   "path": "progs/pine_scraggy.mdl",
    "sha256": "9245279c73699dbc082456c4c1a38ceac54cc55b7bf559d61b45432b24716513",
    "timestamp": "2020-11-22T18:22:04.000Z"
   },
-  {
+  "progs/pinetree.mdl": {
    "bytes": 322860,
-   "path": "progs/pinetree.mdl",
    "sha256": "c6bc9dd906a7a14e5bbe275386a4f38d2ebca673ab15f34f0c109430b76353e5",
    "timestamp": "2020-11-22T18:22:26.000Z"
   },
-  {
+  "progs/pinetreem.mdl": {
    "bytes": 325844,
-   "path": "progs/pinetreem.mdl",
    "sha256": "f586eae34233f38f65ad6b2d102aae9ac2b80cf6b4b5be30d0ffb93e8773837c",
    "timestamp": "2020-11-22T18:22:50.000Z"
   },
-  {
+  "progs/xmas/barr.mdl": {
    "bytes": 43684,
-   "path": "progs/xmas/barr.mdl",
    "sha256": "8382db232b9a8a6cf6f11009bd8d1806b52ee840c520cea72cfbf5b57c240f26",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/beacon.mdl": {
    "bytes": 43404,
-   "path": "progs/xmas/beacon.mdl",
    "sha256": "e2c7d307b30bcd2342110f446942944455255834b148a8d00db78055680f8633",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/bigflag.mdl": {
    "bytes": 64852,
-   "path": "progs/xmas/bigflag.mdl",
    "sha256": "0ea8d35877463945ad40e9779d50fb7bb4a92c837497e8e71dc270215709fde5",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/bottled.mdl": {
    "bytes": 44125,
-   "path": "progs/xmas/bottled.mdl",
    "sha256": "e9731c400e8645afdbf97dd75ca3e08bdce16bca42e1e156fbbe78d47c754bc9",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/cranea.mdl": {
    "bytes": 92792,
-   "path": "progs/xmas/cranea.mdl",
    "sha256": "1e9709d6f78619482576012f46b6c1a332d7cffed4604dcde22fbe962106f0b4",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/flag.mdl": {
    "bytes": 200400,
-   "path": "progs/xmas/flag.mdl",
    "sha256": "ed03be2f95189e7730a24e4297e2d3f675a9916000ac614f22ef0a5b1a0ed2c7",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gen3.mdl": {
    "bytes": 472728,
-   "path": "progs/xmas/gen3.mdl",
    "sha256": "29032f4dcf60216906ef601d5a6bf20dba71ed5b7ff8260e7f61159b6b8ea1e0",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_elfcane.mdl": {
    "bytes": 61596,
-   "path": "progs/xmas/gib_elfcane.mdl",
    "sha256": "34cc9f073275e6032b28ed285fed98b59c0ff35531b76f5b2f0f9b4811b23f72",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_rdleg1.mdl": {
    "bytes": 24988,
-   "path": "progs/xmas/gib_rdleg1.mdl",
    "sha256": "eda0c8d048e5e96f02408aa6f911516a08f5ada5417a001e1bb3e412673b84b9",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_rdrockpack.mdl": {
    "bytes": 38823,
-   "path": "progs/xmas/gib_rdrockpack.mdl",
    "sha256": "ebe0ddbe504e50aaa1630da3be272f32cc8a78421ec6444e10b3dd199571f4b6",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_santagun.mdl": {
    "bytes": 34904,
-   "path": "progs/xmas/gib_santagun.mdl",
    "sha256": "56e6f368f303380e98f47b78d37724e37e0c00221d7bed49d799fd5c536d4fbe",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_santasack.mdl": {
    "bytes": 33672,
-   "path": "progs/xmas/gib_santasack.mdl",
    "sha256": "5f2ec4b07c62ddb42a5d9cb5db5656c9bef81213363121ee6a02752d12e973ef",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_snowball.mdl": {
    "bytes": 5066,
-   "path": "progs/xmas/gib_snowball.mdl",
    "sha256": "d3961719b7e6ee86acb9a6b0e9a8e93bec625efe80980070f52995fd086e6d72",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_snowclaw.mdl": {
    "bytes": 42380,
-   "path": "progs/xmas/gib_snowclaw.mdl",
    "sha256": "c2e2ef9733dd0b15d842a74d767bb4a12290eb1ca14595ce36afeb733ed66845",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/gib_snowgun.mdl": {
    "bytes": 19048,
-   "path": "progs/xmas/gib_snowgun.mdl",
    "sha256": "939a04b34e3cde0d38ffc145ef14547175a14b8bcc7e227f58342ea5b8c49a49",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/h_elf.mdl": {
    "bytes": 119264,
-   "path": "progs/xmas/h_elf.mdl",
    "sha256": "e24e508fb2eb6647b0c6572a6248de187c3a7a0d2f934dcf1777c9e8c2c5c767",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/h_raindeer.mdl": {
    "bytes": 33484,
-   "path": "progs/xmas/h_raindeer.mdl",
    "sha256": "167f27281e168f05200f12f8af52bc697858193c7ccf444812e86fe2b3c0173f",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/h_santa.mdl": {
    "bytes": 50660,
-   "path": "progs/xmas/h_santa.mdl",
    "sha256": "99c5d21cf9acbceb0248543ee1dc9878afe70300e44add3af5436e964035842b",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/h_snowman.mdl": {
    "bytes": 43400,
-   "path": "progs/xmas/h_snowman.mdl",
    "sha256": "666860da939157d1370c242f9a6888cf482d26b9bec5a00a38aca49a0830ede0",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/hangman.mdl": {
    "bytes": 96500,
-   "path": "progs/xmas/hangman.mdl",
    "sha256": "feb2473a29e56ee278e4cdc9676306fdf3aa609b527ea4aff23bb86e3900a2d3",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/heating.mdl": {
    "bytes": 243876,
-   "path": "progs/xmas/heating.mdl",
    "sha256": "a6ab88ce55f16b670b9ba8e42e96c9ea49acc71f124ce20c0de5fc2c0232e2f0",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/kabels.mdl": {
    "bytes": 433607,
-   "path": "progs/xmas/kabels.mdl",
    "sha256": "03c41af692903bb854cc5c05c0a8a665f312a04955737ecbac1a65a4113f6d50",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/keg1.mdl": {
    "bytes": 49988,
-   "path": "progs/xmas/keg1.mdl",
    "sha256": "7e9204af6086530f465333a5129e6f8aef21ca632b691afcfa94511df8f65bbf",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/levels.mdl": {
    "bytes": 35732,
-   "path": "progs/xmas/levels.mdl",
    "sha256": "7cf9a4c1e556e60dd4e593cad4a2be0b45bea8893d9b5232ecc7febca4bbf5fe",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/misc_cable.mdl": {
    "bytes": 57780,
-   "path": "progs/xmas/misc_cable.mdl",
    "sha256": "bed2cca38ef4cbefa9e645eb5e9ffadffac6ebb4f2ac5f6da4bb8f354de22a48",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/misc_circuit.mdl": {
    "bytes": 6964,
-   "path": "progs/xmas/misc_circuit.mdl",
    "sha256": "3337f2cfe739c22d50edde7bff18c026d4336bceb207dacf8b0284ab0a5366cf",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/misc_oscill.mdl": {
    "bytes": 50660,
-   "path": "progs/xmas/misc_oscill.mdl",
    "sha256": "cdc96265a646f9e9fb4c1717fa90edb13e42130fadc4dc774b60aeb94b89eac4",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/misc_radar96.mdl": {
    "bytes": 19492,
-   "path": "progs/xmas/misc_radar96.mdl",
    "sha256": "6239d117263f49b79a2a66e62f2dbd6a7f0cd15ce412c1939dd69b4a1d8fce78",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/mon_elf.mdl": {
    "bytes": 320344,
-   "path": "progs/xmas/mon_elf.mdl",
    "sha256": "a4207bb664eff6ad9042270a611aa92b33ca0ac537ed7fdbc7176073e7abba46",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/mon_raindeer.mdl": {
    "bytes": 128344,
-   "path": "progs/xmas/mon_raindeer.mdl",
    "sha256": "a72ae2ba846caced3b4e6d5495cc51acde12282e8df833cb9f27220c10451159",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/mon_santa.mdl": {
    "bytes": 297704,
-   "path": "progs/xmas/mon_santa.mdl",
    "sha256": "47521468e8a2c1e8dd6a67dec7c0dd0af5d1cd1d38a6294f7294a3b664c966c9",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/mon_snowman.mdl": {
    "bytes": 59828,
-   "path": "progs/xmas/mon_snowman.mdl",
    "sha256": "4ae6bd4a9e23bc948cde5b7a407916f282eb620fc97677446c127c135839f3e3",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/pallet.mdl": {
    "bytes": 509927,
-   "path": "progs/xmas/pallet.mdl",
    "sha256": "1b9c50111cedb48559424870b46a3d19cb1ac5b43ef3f165fbe928a3f7e90883",
    "timestamp": "2020-12-15T11:16:52.000Z"
   },
-  {
+  "progs/xmas/poster.mdl": {
    "bytes": 176040,
-   "path": "progs/xmas/poster.mdl",
    "sha256": "2fa559bb41b0ee212bde75b887678aae53775190ed260f8958aeb753efd8ad8a",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/proj_elfsnow.mdl": {
    "bytes": 7468,
-   "path": "progs/xmas/proj_elfsnow.mdl",
    "sha256": "16dce170f07377109d1317f1b475838d1b39c45b92a81fa91434a71751f5aaf1",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/proj_rdrocket.mdl": {
    "bytes": 3476,
-   "path": "progs/xmas/proj_rdrocket.mdl",
    "sha256": "58ed6db094b34062e15fbedf583a5557fb2810ee33f2b2b44a11167d3a679c26",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/proj_snowball.mdl": {
    "bytes": 5066,
-   "path": "progs/xmas/proj_snowball.mdl",
    "sha256": "d3961719b7e6ee86acb9a6b0e9a8e93bec625efe80980070f52995fd086e6d72",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/stool.mdl": {
    "bytes": 7196,
-   "path": "progs/xmas/stool.mdl",
    "sha256": "ddce6076cd5121799d018e652ed39b8c283a595afb9e19d9bfba8219b77c6553",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/table1.mdl": {
    "bytes": 117762,
-   "path": "progs/xmas/table1.mdl",
    "sha256": "21a9ce468214102e0f912ee043c741198f65a70a244f0c5ad4b2abc0b434e8ac",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/turret.mdl": {
    "bytes": 218092,
-   "path": "progs/xmas/turret.mdl",
    "sha256": "d68136641c97b0680939bf154dd98d79528f02ecfa27e11a723ee413565c4081",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmas/wanted.mdl": {
    "bytes": 27860,
-   "path": "progs/xmas/wanted.mdl",
    "sha256": "03337a468db14377fcd36842037d2a27dfb97c3d5d5f45fcfe408e79050a5839",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "progs/xmasjam/balxj_tree_a.mdl": {
    "bytes": 479516,
-   "path": "progs/xmasjam/balxj_tree_a.mdl",
    "sha256": "59a89b398caa908ff6dd777cb42d0d7dfde930ac5569fdab4bc4f10dd8137584",
    "timestamp": "2017-12-09T07:53:06.000Z"
   },
-  {
+  "progs/xmasjam/dead_tree.mdl": {
    "bytes": 269220,
-   "path": "progs/xmasjam/dead_tree.mdl",
    "sha256": "823fd2a58eca0a6a085871934081b37dfc487b59527c32cc5d1789d4579d6d90",
    "timestamp": "2019-09-24T17:13:58.000Z"
   },
-  {
+  "progs/xmasjam/pritchard_chair.mdl": {
    "bytes": 81316,
-   "path": "progs/xmasjam/pritchard_chair.mdl",
    "sha256": "3ee0b690213e2508dbd3e7445a9761eea439140e566e7779956be62bdb6a943c",
    "timestamp": "2017-12-07T05:32:40.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 8530,
-   "path": "quake.rc",
    "sha256": "55262ed84506490261c544cfc5078aaaf82981376ee96b5408a753e810ee7228",
    "timestamp": "2020-10-14T09:44:00.000Z"
   },
-  {
+  "sound/Hit_Hurt44.wav": {
    "bytes": 20546,
-   "path": "sound/Hit_Hurt44.wav",
    "sha256": "bca5dd88afcdf3c6b5152c090013580d0d0bb92637875dd86f70968cf611b058",
    "timestamp": "2020-12-16T09:28:06.000Z"
   },
-  {
+  "sound/Randomize21.ogg": {
    "bytes": 30135,
-   "path": "sound/Randomize21.ogg",
    "sha256": "80462fa977377ad8168e875da97cb6e5f7b3c6e5cfee1a3136b75a3229ae5057",
    "timestamp": "2020-12-16T09:28:06.000Z"
   },
-  {
+  "sound/Randomize21.wav": {
    "bytes": 179946,
-   "path": "sound/Randomize21.wav",
    "sha256": "ff7a70519bb10a5f1d50ed8b07d0a5628595c36ada4a70e97c9bf3afbad259b4",
    "timestamp": "2020-12-16T09:28:06.000Z"
   },
-  {
+  "sound/ambience/hh_alarm_hl2.wav": {
    "bytes": 199224,
-   "path": "sound/ambience/hh_alarm_hl2.wav",
    "sha256": "549855be7b0aaa7281815a667d38761f5e4c4d5a354717e26558db04170cf950",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ambience/hh_alarm_hl2_x2.wav": {
    "bytes": 398134,
-   "path": "sound/ambience/hh_alarm_hl2_x2.wav",
    "sha256": "0e72009d7560e92510d1519a9c0cd7864c71d09ab093649f063035f256cacaae",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ambience/hh_default_stop.wav": {
    "bytes": 98794,
-   "path": "sound/ambience/hh_default_stop.wav",
    "sha256": "f80b96dad033bd33e4e2f895eeb577cbf96263ee01f967f906622e109898c74d",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ambience/hh_door_latch1.wav": {
    "bytes": 78206,
-   "path": "sound/ambience/hh_door_latch1.wav",
    "sha256": "918b1b76e8ab7019ea9bd6885acd813394754617dbc33590b9e969a262a0449b",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ambience/hh_mine_charge.wav": {
    "bytes": 162818,
-   "path": "sound/ambience/hh_mine_charge.wav",
    "sha256": "7284f73f0b46e642a8f248d2ed5db659ee2895fd08e23a3bbd1dc0ce8a12badb",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ambience/hh_particle_suck2.wav": {
    "bytes": 48266,
-   "path": "sound/ambience/hh_particle_suck2.wav",
    "sha256": "5506cd4e73aa07af0d5d77e89935d78a62bef861fb0e27a8eee2284478fb1cca",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ambience/hh_sleighbells.wav": {
    "bytes": 110158,
-   "path": "sound/ambience/hh_sleighbells.wav",
    "sha256": "05df69bc4a9d0ee67a679c77512245de3a6671be94beeb70961ad413f4a07b6b",
    "timestamp": "2020-12-14T09:59:18.000Z"
   },
-  {
+  "sound/ish/ropesnap.wav": {
    "bytes": 2609562,
-   "path": "sound/ish/ropesnap.wav",
    "sha256": "55457b2e114368e690b97a9468b2f68270280705f62aaa20dab26f10acfa0ef0",
    "timestamp": "2020-12-14T10:04:06.000Z"
   },
-  {
+  "sound/strider/str_alarm1.wav": {
    "bytes": 264772,
-   "path": "sound/strider/str_alarm1.wav",
    "sha256": "44ca5ca05da680ebc81712bbe52b5f26520ff87c9d1401536a8229ab7da735fa",
    "timestamp": "2020-12-01T00:34:42.000Z"
   },
-  {
+  "sound/strider/str_alarm2.wav": {
    "bytes": 264772,
-   "path": "sound/strider/str_alarm2.wav",
    "sha256": "df0cfcf3cbf4b46818911960a297f4242a32250d962d569c3f086a3233b7551f",
    "timestamp": "2020-11-28T02:41:54.000Z"
   },
-  {
+  "sound/xj20bal/beach.wav": {
    "bytes": 291326,
-   "path": "sound/xj20bal/beach.wav",
    "sha256": "81236d7fcdb3b64888552d0820d4c78578040651b15c42d5dd3d6610e7451534",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "sound/xj20bal/waterocean1.wav": {
    "bytes": 308916,
-   "path": "sound/xj20bal/waterocean1.wav",
    "sha256": "b1cf4f77a54d45db71b17a8daf35cf738c9dbecdcc55ebe569bbfaec60917752",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "sound/xmas/elf/attack1.wav": {
    "bytes": 176492,
-   "path": "sound/xmas/elf/attack1.wav",
    "sha256": "80e3faa699aec6d20015c1070087964de5ba39f83a978388b9fadc184f9fb6c2",
    "timestamp": "2017-11-13T02:31:48.000Z"
   },
-  {
+  "sound/xmas/elf/attack2.wav": {
    "bytes": 88292,
-   "path": "sound/xmas/elf/attack2.wav",
    "sha256": "a364c82cb932bddb438c957e88a7ea67142777dfffd0f553d00e2b04b3af0f9f",
    "timestamp": "2017-11-13T02:36:08.000Z"
   },
-  {
+  "sound/xmas/elf/cane_hit1.wav": {
    "bytes": 4536,
-   "path": "sound/xmas/elf/cane_hit1.wav",
    "sha256": "2686bea9533633cb6c1a5e3e5bcf0016e3fe228cd278b7b1d11a02868cdd5095",
    "timestamp": "2017-11-12T14:41:28.000Z"
   },
-  {
+  "sound/xmas/elf/cane_hit2.wav": {
    "bytes": 5638,
-   "path": "sound/xmas/elf/cane_hit2.wav",
    "sha256": "6e470e241f37fb38ea55adf4bd0d6f1f5a2d5adfee5d5ddac8cb9adc824cb954",
    "timestamp": "2017-11-12T14:42:58.000Z"
   },
-  {
+  "sound/xmas/elf/cane_swipe1.wav": {
    "bytes": 1670,
-   "path": "sound/xmas/elf/cane_swipe1.wav",
    "sha256": "2dbf81b3813376cb8bea2fa916dc0d03f1fbaaa499d4fcdf845de8929f82dc47",
    "timestamp": "2017-11-12T14:38:54.000Z"
   },
-  {
+  "sound/xmas/elf/cane_swipe2.wav": {
    "bytes": 1890,
-   "path": "sound/xmas/elf/cane_swipe2.wav",
    "sha256": "404864c7d5008b79daed226566a2e4e78f2de92de06c64da67b8bf6224ae3e88",
    "timestamp": "2017-11-12T14:40:10.000Z"
   },
-  {
+  "sound/xmas/elf/death1.wav": {
    "bytes": 14284,
-   "path": "sound/xmas/elf/death1.wav",
    "sha256": "d1a7063d4ed39cdb59864a2a6fe6109f844caa9ada54ed4456de0bcd056f0034",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/elf/death2.wav": {
    "bytes": 10888,
-   "path": "sound/xmas/elf/death2.wav",
    "sha256": "4e0344a1bd3fa3d3c4d9e9647203cac0c449d5a5d8e7b1c8319f8402a4b7571c",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/elf/idle.wav": {
    "bytes": 57016,
-   "path": "sound/xmas/elf/idle.wav",
    "sha256": "a824467247797aa1ecc58f1716b18d390629804eebc413f01067646c64cde87e",
    "timestamp": "2017-11-12T14:48:18.000Z"
   },
-  {
+  "sound/xmas/elf/jump1.wav": {
    "bytes": 17766,
-   "path": "sound/xmas/elf/jump1.wav",
    "sha256": "8023110b27a70758166f710e52188b8d03b8bfd81d9c985eb7f7d326acdb05a2",
    "timestamp": "2017-11-13T00:57:16.000Z"
   },
-  {
+  "sound/xmas/elf/jump2.wav": {
    "bytes": 8946,
-   "path": "sound/xmas/elf/jump2.wav",
    "sha256": "a60763886b743d06ffd0c90e70de304ec8002a500947a684646c227d0bbb3c4d",
    "timestamp": "2017-11-13T01:04:38.000Z"
   },
-  {
+  "sound/xmas/elf/magic.wav": {
    "bytes": 15560,
-   "path": "sound/xmas/elf/magic.wav",
    "sha256": "6a270540819dddf140b0387d92c914b4f4b1c88c5f37a05c8fa0efd95901f2ab",
    "timestamp": "2017-11-13T00:57:08.000Z"
   },
-  {
+  "sound/xmas/elf/miss.wav": {
    "bytes": 14582,
-   "path": "sound/xmas/elf/miss.wav",
    "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
    "timestamp": "2015-06-26T06:35:10.000Z"
   },
-  {
+  "sound/xmas/elf/pain.wav": {
    "bytes": 11126,
-   "path": "sound/xmas/elf/pain.wav",
    "sha256": "4e27a8f38e07e9b69db186d5c609740814ab86c5fda57058b1e05c56b85c6fd4",
    "timestamp": "2017-11-12T14:49:34.000Z"
   },
-  {
+  "sound/xmas/elf/sight1.wav": {
    "bytes": 21048,
-   "path": "sound/xmas/elf/sight1.wav",
    "sha256": "c57eb4fec86922cb8a0499d7dae72eba66b067b89f14ff079ce0caf3dc23a23b",
    "timestamp": "2017-11-12T14:46:54.000Z"
   },
-  {
+  "sound/xmas/elf/sight2.wav": {
    "bytes": 30996,
-   "path": "sound/xmas/elf/sight2.wav",
    "sha256": "8cd5eed3b8e098dfd70cbf90081b38e198bf64d8edf1b76bcc98c42e177635f8",
    "timestamp": "2017-11-12T14:46:06.000Z"
   },
-  {
+  "sound/xmas/elf/sight3.wav": {
    "bytes": 10050,
-   "path": "sound/xmas/elf/sight3.wav",
    "sha256": "e88ae556a28352c319bf5500b29008384a5c53c47480defa81795d8891f14ff8",
    "timestamp": "2017-11-13T01:04:50.000Z"
   },
-  {
+  "sound/xmas/elf/sight4.wav": {
    "bytes": 6742,
-   "path": "sound/xmas/elf/sight4.wav",
    "sha256": "7c6120d242cbbbfd2e0cc77b1428e206accd1ab8073885d52177b0fd4c75c7ed",
    "timestamp": "2017-11-13T01:05:00.000Z"
   },
-  {
+  "sound/xmas/raindeer/attack1.wav": {
    "bytes": 5582,
-   "path": "sound/xmas/raindeer/attack1.wav",
    "sha256": "bcf78087eab53e8ed0bdde2f29088a89b321a79c3b104da380dd85bd5bdb6ec1",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/raindeer/attack2.wav": {
    "bytes": 6274,
-   "path": "sound/xmas/raindeer/attack2.wav",
    "sha256": "2ba043cce4a2f22e7743812c0fa40e9f0888d5089362264c768352c347af5089",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/raindeer/death.wav": {
    "bytes": 9672,
-   "path": "sound/xmas/raindeer/death.wav",
    "sha256": "68266e96ec1be80a55f48b76c2bedd6503273245153d96269947c7fc12ae96b3",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/raindeer/hit.wav": {
    "bytes": 5218,
-   "path": "sound/xmas/raindeer/hit.wav",
    "sha256": "72127151c2b05cc22a812fe9e38909c8bdcaae6a369e8756d2be67d392b91223",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/raindeer/idle.wav": {
    "bytes": 7890,
-   "path": "sound/xmas/raindeer/idle.wav",
    "sha256": "d3ef885d0b6163a3046dc9d514b07886c33809fbb6332e7db0514c648787a9bb",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/raindeer/sight.wav": {
    "bytes": 23796,
-   "path": "sound/xmas/raindeer/sight.wav",
    "sha256": "aafabb6fc46c1c72c34af1baea1c59a8ec04803c26faa4310072096481f31a4f",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/santa/death.wav": {
    "bytes": 99352,
-   "path": "sound/xmas/santa/death.wav",
    "sha256": "b63273a2574f7def133aa438926a6def025aa64d8c3c636fc6a5594268e391d7",
    "timestamp": "2017-11-15T12:32:38.000Z"
   },
-  {
+  "sound/xmas/santa/death2.wav": {
    "bytes": 99352,
-   "path": "sound/xmas/santa/death2.wav",
    "sha256": "24fcf23117ec31347f640aa27e6feb4a46a634aa5e1eb48344b1feb7c377f6f1",
    "timestamp": "2017-11-16T06:22:44.000Z"
   },
-  {
+  "sound/xmas/santa/fire.wav": {
    "bytes": 22176,
-   "path": "sound/xmas/santa/fire.wav",
    "sha256": "3a9bb42661b75287a698b6e16033158f20c59c481d37c0f176dc213205d22dcd",
    "timestamp": "2017-11-16T02:04:20.000Z"
   },
-  {
+  "sound/xmas/santa/good_hohoho.wav": {
    "bytes": 55250,
-   "path": "sound/xmas/santa/good_hohoho.wav",
    "sha256": "51f4d5d656032de08b95689fa55a2e7aa26ec99cf4312b0f6153d0fd57fc1fa3",
    "timestamp": "2017-11-17T10:56:48.000Z"
   },
-  {
+  "sound/xmas/santa/good_saved.wav": {
    "bytes": 77302,
-   "path": "sound/xmas/santa/good_saved.wav",
    "sha256": "51e62df5942e2a72fd48311c61ee73b6f51dc4aa3c0cc85af000cdc8d7627d21",
    "timestamp": "2017-11-17T10:57:00.000Z"
   },
-  {
+  "sound/xmas/santa/hohoho.wav": {
    "bytes": 50840,
-   "path": "sound/xmas/santa/hohoho.wav",
    "sha256": "091a28236362cab1ce3b7bd55de25010d105db3bf644825c47b91725d8a613a0",
    "timestamp": "2017-11-15T12:37:16.000Z"
   },
-  {
+  "sound/xmas/santa/laugh1.wav": {
    "bytes": 57374,
-   "path": "sound/xmas/santa/laugh1.wav",
    "sha256": "ac069694d6c41e5e0afab50d9928b8768a19fb647bb249201648874d4150c976",
    "timestamp": "2017-11-15T12:38:44.000Z"
   },
-  {
+  "sound/xmas/santa/laugh2.wav": {
    "bytes": 117440,
-   "path": "sound/xmas/santa/laugh2.wav",
    "sha256": "c726d7d86d2d7cad0a75a2d0b387f4f96218ef232b6c78437e1c83bb96286441",
    "timestamp": "2017-11-15T12:39:30.000Z"
   },
-  {
+  "sound/xmas/santa/laugh3.wav": {
    "bytes": 40256,
-   "path": "sound/xmas/santa/laugh3.wav",
    "sha256": "4dd710eee601ab81c4beb5413d95244dee58b886b8265ab9cec35df06b560591",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/santa/laugh3_com.wav": {
    "bytes": 44226,
-   "path": "sound/xmas/santa/laugh3_com.wav",
    "sha256": "4099895e037cfecb4dc3595b3b18db62ed2f3cf096384f3aa1fe1d96a7b43da2",
    "timestamp": "2017-11-15T12:41:12.000Z"
   },
-  {
+  "sound/xmas/santa/pain1.wav": {
    "bytes": 6825,
-   "path": "sound/xmas/santa/pain1.wav",
    "sha256": "79eed9346e0954fd53a6fdb9aa9708b8c29e8c5c256e9fd7c06f449e9cb6c00d",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/santa/pain2.wav": {
    "bytes": 9259,
-   "path": "sound/xmas/santa/pain2.wav",
    "sha256": "f750328d74f545a658b0b190399595687c3d9b8766b2652ad6c2a34add3cc420",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/santa/sack_hit.wav": {
    "bytes": 13356,
-   "path": "sound/xmas/santa/sack_hit.wav",
    "sha256": "c23a04ed5134f76d1f44d2e61eeb446a569c2bcbccf79f16f472807aae3df53a",
    "timestamp": "2017-11-15T12:04:50.000Z"
   },
-  {
+  "sound/xmas/santa/sack_swing.wav": {
    "bytes": 8940,
-   "path": "sound/xmas/santa/sack_swing.wav",
    "sha256": "96972ba473b6a7d28645cdc621eb3011729a53eb4acb40d1f097768291a70850",
    "timestamp": "2017-11-15T12:04:32.000Z"
   },
-  {
+  "sound/xmas/santa/sight.wav": {
    "bytes": 100144,
-   "path": "sound/xmas/santa/sight.wav",
    "sha256": "e29696370a0d40546a49ef0f39b1e0038d8e067ef2da1dcc5084d7683a25d5d7",
    "timestamp": "2017-11-15T12:27:36.000Z"
   },
-  {
+  "sound/xmas/santa/smack.wav": {
    "bytes": 22176,
-   "path": "sound/xmas/santa/smack.wav",
    "sha256": "606c0a4b634d82a1d9846f654db8a52e7f2438ba28a235f782a23ff2720c767c",
    "timestamp": "2017-11-15T12:01:10.000Z"
   },
-  {
+  "sound/xmas/snowman/claw.wav": {
    "bytes": 8292,
-   "path": "sound/xmas/snowman/claw.wav",
    "sha256": "7857f3526fb39e722a09ebe569f2b76facab765d82f97c0caa7da2ff9b750e9e",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/death1.wav": {
    "bytes": 11267,
-   "path": "sound/xmas/snowman/death1.wav",
    "sha256": "0a09776ed8e45bbfe403f1cdb50302361f5596d9027c476409d6acf5402e763e",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/death2.wav": {
    "bytes": 13613,
-   "path": "sound/xmas/snowman/death2.wav",
    "sha256": "e5e3a9619a153f0c6259abdb0d45f4eb4a547f736e37951556d29c6b715ec8f6",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/icehit.wav": {
    "bytes": 3090,
-   "path": "sound/xmas/snowman/icehit.wav",
    "sha256": "e03f61550bafc53ab47acdc23bcd481c35e75e6eccdad5e61e6dd7b372ba07c0",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/icemiss.wav": {
    "bytes": 3074,
-   "path": "sound/xmas/snowman/icemiss.wav",
    "sha256": "f8b86f83d9adaaee1c84e1ac2acbcf652204842f2bf6f351ec1443a998574058",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/idle.wav": {
    "bytes": 58582,
-   "path": "sound/xmas/snowman/idle.wav",
    "sha256": "a0d7af1cd6246f08176f24c5591cfb6ec89cff55dc5c18766ef1b16c64429541",
    "timestamp": "2017-11-15T01:03:56.000Z"
   },
-  {
+  "sound/xmas/snowman/nail_fire.wav": {
    "bytes": 26504,
-   "path": "sound/xmas/snowman/nail_fire.wav",
    "sha256": "80263cd2de86b9dcfd054782aab6eb4d939f60e6fe5a881c8ef5800b0f76ad66",
    "timestamp": "2017-11-15T02:22:06.000Z"
   },
-  {
+  "sound/xmas/snowman/pain1.wav": {
    "bytes": 7685,
-   "path": "sound/xmas/snowman/pain1.wav",
    "sha256": "7f829300a30cb6cb4d17f8c8327bd62ae5b5dacc892d28a956d6ecd2acf5f1c2",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/pain2.wav": {
    "bytes": 7661,
-   "path": "sound/xmas/snowman/pain2.wav",
    "sha256": "3747d77583aa4edb3509e89ea651ea41a8e8a92cd96c34d4e00257e7371fb0e6",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/shotg_fire.wav": {
    "bytes": 6572,
-   "path": "sound/xmas/snowman/shotg_fire.wav",
    "sha256": "3d54870c0f643b1e7ee5307641bb3fc4a94efdaffc2e4ecd196556b930167ef2",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/sight1.wav": {
    "bytes": 10042,
-   "path": "sound/xmas/snowman/sight1.wav",
    "sha256": "ce1cddbb6e85fad23231ac1fc4c04c19ec7276acb2aa86e023c117db4b8edd68",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "sound/xmas/snowman/sight2.wav": {
    "bytes": 15418,
-   "path": "sound/xmas/snowman/sight2.wav",
    "sha256": "5d4e994c30a7c3f2e1f1a5cde9a56115bcb32c350e4a0ad8e339a1a46ed19707",
    "timestamp": "2017-09-17T12:29:30.000Z"
   },
-  {
+  "textures/#rainbowgradien.tga": {
    "bytes": 12332,
-   "path": "textures/#rainbowgradien.tga",
    "sha256": "589cf6b6211a320100797fcccac16ff719a73f2dead86709f9b59e9b12bf429b",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/ace.tga": {
    "bytes": 16402,
-   "path": "textures/ace.tga",
    "sha256": "d0928a7c5c5c40f2504aa4bd2d29fa4f056bc8b3c3e547d4f9c446d5a657570c",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/agender.tga": {
    "bytes": 16402,
-   "path": "textures/agender.tga",
    "sha256": "1307d27a7b0d555738cd2ed295d8a98907ce9caffba12c30c813f4a4f1f53b74",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/bear.tga": {
    "bytes": 16402,
-   "path": "textures/bear.tga",
    "sha256": "31ff5f4d21f818015132c03dd152934dc281227ae369fc919866bcaf8118eb55",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/bi.tga": {
    "bytes": 16402,
-   "path": "textures/bi.tga",
    "sha256": "1a6e0d770b8e215df6c3038024281cc8417d279ec6943c4ae10c2da848f40482",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/gq.tga": {
    "bytes": 16402,
-   "path": "textures/gq.tga",
    "sha256": "3473722f69d191c7f4ee1df95bceb98316faace250f42f1445883c51263a5379",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/nb.tga": {
    "bytes": 16402,
-   "path": "textures/nb.tga",
    "sha256": "0ceb9e361b8528f8d6852206fef748c19eba0c6f8f58b1014e030f3fb034319f",
    "timestamp": "2020-12-16T09:30:18.000Z"
   },
-  {
+  "textures/p_adv.tga": {
    "bytes": 786476,
-   "path": "textures/p_adv.tga",
    "sha256": "b894c798f2670f52df40a4260aff899e79dfd6f2e82feaf3037f7c0e60abe13d",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_ash.tga": {
    "bytes": 675884,
-   "path": "textures/p_ash.tga",
    "sha256": "5789f7a55e6e610aa0a649a96546ec32bc15352c3ee25fe20a95bc5959abcd2d",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_atp.tga": {
    "bytes": 110636,
-   "path": "textures/p_atp.tga",
    "sha256": "db580cb3564385ed11664d6d8484a3797672870ea94a10fbe480ad3b513636c7",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_bkb.tga": {
    "bytes": 110636,
-   "path": "textures/p_bkb.tga",
    "sha256": "8313cadbb3f0c08d3a4d8dbcaf37b75fb6d6c3dd553b54a84adbe4e52b887720",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_blm.tga": {
    "bytes": 110636,
-   "path": "textures/p_blm.tga",
    "sha256": "c9837ca238b4823a217792a7dbe628196d8633be1bdf4f51aec13933ccd22815",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_car.tga": {
    "bytes": 675884,
-   "path": "textures/p_car.tga",
    "sha256": "e9af0c77097f502509b59cf3ceb369f31559370b612675031fd57928b05d45ac",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_cube.tga": {
    "bytes": 675884,
-   "path": "textures/p_cube.tga",
    "sha256": "c6d09327208538ec6366ed622cc77540865578a82d15ce52918aa1f2c91e73ca",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_donuts.tga": {
    "bytes": 675884,
-   "path": "textures/p_donuts.tga",
    "sha256": "c17aadc3220304de0f4fac5da8d39ad9bf812d55e2989b7ed44743bd515c7373",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_gator.tga": {
    "bytes": 110636,
-   "path": "textures/p_gator.tga",
    "sha256": "4fe6cbceaf4f6239fa4a5e999e5a9c46f7e15799b7a664165c0a125e38d4b247",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_husbandos.tga": {
    "bytes": 675884,
-   "path": "textures/p_husbandos.tga",
    "sha256": "10440acd7244e0e1e813d61f826d1b05e92cbf1d62a648d5b2c05ceed98a5f73",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_jsr.tga": {
    "bytes": 675884,
-   "path": "textures/p_jsr.tga",
    "sha256": "9e9d2bf41b76354f214440fecb76d81ca662e91219f4c55a15bd2806d91b418a",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_nitw.tga": {
    "bytes": 675884,
-   "path": "textures/p_nitw.tga",
    "sha256": "b3deb79b649fdbe7a3cede2f04cb93b6ad095d67417862650a2a8af1a4d09e06",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_platformer.tga": {
    "bytes": 442412,
-   "path": "textures/p_platformer.tga",
    "sha256": "795ea4845ee1cf8794aa8e13c6709b41f04d381fc4c9ac610677a7eab7f0a47b",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_quake.tga": {
    "bytes": 675884,
-   "path": "textures/p_quake.tga",
    "sha256": "cac8a1cb1e46acacf2e32fbed4d9d5233e6441d4c13946c10c19d01972946de8",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_redistribute.tga": {
    "bytes": 675884,
-   "path": "textures/p_redistribute.tga",
    "sha256": "091b3c35f1c307761685b0308efe8b2c58fedb088c127e24d1ae5b2ca4899746",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/p_vacation.tga": {
    "bytes": 110636,
-   "path": "textures/p_vacation.tga",
    "sha256": "044f8ffef063517f1924a6e0fe17c29b2392ffaa8f9930619691a00ab1a8faad",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/pan.tga": {
    "bytes": 16402,
-   "path": "textures/pan.tga",
    "sha256": "435fdd674422a51985910cca34dad5b9ce3713e0ed6b1d8b10880e65886437de",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/rainbow.tga": {
    "bytes": 16402,
-   "path": "textures/rainbow.tga",
    "sha256": "382a773daceed63a2bbe668ae2b33836218f8010049d7ced1815a7abe8af7ca2",
    "timestamp": "2020-12-16T09:30:20.000Z"
   },
-  {
+  "textures/transbipoc.tga": {
    "bytes": 16402,
-   "path": "textures/transbipoc.tga",
    "sha256": "9cc1e4d7ce73f4c3785b5f85a57338af11398057907a9441767ee5560eec200b",
    "timestamp": "2020-12-16T09:30:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/xmasjam2020/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],

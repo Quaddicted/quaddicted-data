@@ -4,48 +4,42 @@
  ],
  "bytes": 24190783,
  "description": "Huge two-episode campaign featuring 12 medium-to large medieval/wizard/terrain style maps (+ start and end maps) plus many new monsters, sounds, textures and QC features. Also includes seven deathmatch maps that can be played in SP via 'arena mode'.",
- "files": [
-  {
+ "files": {
+  "pak0.PAK": {
    "bytes": 13969201,
-   "path": "pak0.PAK",
    "sha256": "9eafaf425d8e4e13573de2292316b4b97db186aae4a61323374093ca0c0d217d",
    "timestamp": "2002-04-01T15:13:52.000Z"
   },
-  {
+  "pak1.PAK": {
    "bytes": 17282008,
-   "path": "pak1.PAK",
    "sha256": "44a19d56cead0083c7c8c7ced13272741a9d8b4e1b862bff5ac962dc88c6918f",
    "timestamp": "2002-04-01T00:23:54.000Z"
   },
-  {
+  "pak2.PAK": {
    "bytes": 16164328,
-   "path": "pak2.PAK",
    "sha256": "885a40c04534e31e08dedc84ec7c8781c3c3358ad05740bdf4ddfb523e7b966a",
    "timestamp": "2002-04-01T15:37:54.000Z"
   },
-  {
+  "pak3.PAK": {
    "bytes": 8314988,
-   "path": "pak3.PAK",
    "sha256": "f7f553e208b3e68a26a8884b4161b7aee32da76135c893e14690eb96db06d67d",
    "timestamp": "2002-03-31T22:44:36.000Z"
   },
-  {
+  "soe_full.txt": {
    "bytes": 414,
-   "path": "soe_full.txt",
    "sha256": "f2bd3f45c5f7cfb25962bbf64f47a6d65b52945aee318cf7d7559121b2ea293b",
    "timestamp": "2002-04-01T15:41:30.000Z"
   },
-  {
+  "soe_readme.zip": {
    "bytes": 1103605,
-   "path": "soe_readme.zip",
    "sha256": "c7f95eb199569391441c71e33a3b04690ee74e5a3b9715eacac2e1c3fc99e1c0",
    "timestamp": "2002-04-01T00:07:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/soe/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-04-01",
  "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "tags": [

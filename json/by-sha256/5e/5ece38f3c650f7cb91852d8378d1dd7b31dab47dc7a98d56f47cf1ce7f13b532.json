@@ -4,30 +4,27 @@
  ],
  "bytes": 4471104,
  "description": "Medium-sized toxic sewer/industrial base map.",
- "files": [
-  {
+ "files": {
+  "snaut-acidtrip.bsp": {
    "bytes": 13527928,
-   "path": "snaut-acidtrip.bsp",
    "sha256": "1751aa320aa225b8d11935da933355ac6cdf8b529f39f4c22e955c10d5846df1",
    "timestamp": "2017-12-11T03:07:56.000Z"
   },
-  {
+  "snaut-acidtrip.lit": {
    "bytes": 2336273,
-   "path": "snaut-acidtrip.lit",
    "sha256": "286e3d3ae7cc120ffbfcb79f630057ba0ce976df5ba83e4ac066ed590ab9cf05",
    "timestamp": "2017-12-11T03:07:56.000Z"
   },
-  {
+  "snaut-acidtrip.txt": {
    "bytes": 3498,
-   "path": "snaut-acidtrip.txt",
    "sha256": "1d919a83af77700ad141d754744cdc58d0f967a8a4d2d8479e4196fb11297f2a",
    "timestamp": "2017-12-11T03:48:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits.",
   "Rezipped for Quaddicted"

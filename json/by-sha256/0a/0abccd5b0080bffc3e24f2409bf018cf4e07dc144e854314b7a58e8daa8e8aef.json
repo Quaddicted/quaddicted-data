@@ -4,24 +4,22 @@
  ],
  "bytes": 595290,
  "description": "Medium sized plain Metal level with many monsters/non-stop action.",
- "files": [
-  {
+ "files": {
+  "MEXX5.BSP": {
    "bytes": 1440804,
-   "path": "MEXX5.BSP",
    "sha256": "8f63b83ef47cf4830eaa6277bd798611dbf045b0b4614ab519c1756f4a76316a",
    "timestamp": "1997-02-03T19:20:26.000Z"
   },
-  {
+  "MEXX5.TXT": {
    "bytes": 3120,
-   "path": "MEXX5.TXT",
    "sha256": "69b69ca474012d5d0e4557103f8d29626044bf4eac5238d4d8ff77d085ac78d1",
    "timestamp": "1997-02-03T20:19:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-02-03",
  "sha256": "0abccd5b0080bffc3e24f2409bf018cf4e07dc144e854314b7a58e8daa8e8aef",
  "tags": [

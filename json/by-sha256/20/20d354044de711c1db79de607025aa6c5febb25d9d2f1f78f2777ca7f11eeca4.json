@@ -4,30 +4,27 @@
  ],
  "bytes": 151144,
  "description": "Small, boxed, fullbright platform map.",
- "files": [
-  {
+ "files": {
+  "PLATFORM.bsp": {
    "bytes": 455564,
-   "path": "PLATFORM.bsp",
    "sha256": "a1a970506b679f196d506b143c3a95f54a2fc6d1d4ba29d218bcb7401ab35316",
    "timestamp": "1998-03-31T19:03:00.000Z"
   },
-  {
+  "platform.txt": {
    "bytes": 626,
-   "path": "platform.txt",
    "sha256": "3aa4d2765a713775981c23d89a7a3bf9fd3ee1674f412bd05e8ae8693a0857e7",
    "timestamp": "1999-12-05T23:45:14.000Z"
   },
-  {
+  "platform_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "platform_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

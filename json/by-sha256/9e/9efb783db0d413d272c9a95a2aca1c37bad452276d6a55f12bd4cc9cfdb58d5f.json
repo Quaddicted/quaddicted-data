@@ -4,36 +4,32 @@
  ],
  "bytes": 46727961,
  "description": "Four-map episode inspired by classic quake themes, designs and gameplay.",
- "files": [
-  {
+ "files": {
+  "vestige/": {
    "bytes": 0,
-   "path": "vestige/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-07T19:06:38.000Z"
   },
-  {
+  "vestige/DoNOTReadMe.txt": {
    "bytes": 2302,
-   "path": "vestige/DoNOTReadMe.txt",
    "sha256": "b3fc4067707119a7b5c8d645d0d0259f7e9f0e90e2eb5aa189cb00d4735fe63b",
    "timestamp": "2023-11-11T07:22:46.000Z"
   },
-  {
+  "vestige/PAK0.pak": {
    "bytes": 63011548,
-   "path": "vestige/PAK0.pak",
    "sha256": "b6fcfcd84407fefca304afee3caafc926fec9e1774ffa9a8e764e9d345abf154",
    "timestamp": "2023-11-07T19:06:28.000Z"
   },
-  {
+  "vestige/Poster.jpg": {
    "bytes": 2342950,
-   "path": "vestige/Poster.jpg",
    "sha256": "9a86624cdb0fcaa35074147ef40f16e5899120592882ade9f1096ac2eb3d03c6",
    "timestamp": "2023-11-11T07:24:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

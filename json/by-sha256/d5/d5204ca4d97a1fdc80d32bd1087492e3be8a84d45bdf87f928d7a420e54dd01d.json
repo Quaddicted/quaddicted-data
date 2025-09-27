@@ -7,48 +7,42 @@
   "ad>=1.71"
  ],
  "description": "Small base level; a remake of the first map of the game Viscerafest. The map source is included.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-01-30T02:19:54.000Z"
   },
-  {
+  "maps/vfe1m1.bsp": {
    "bytes": 2618644,
-   "path": "maps/vfe1m1.bsp",
    "sha256": "1011b1880a2157138b39dd5d0322cb65aa795db0b1320c3ebd087104eb25b973",
    "timestamp": "2020-01-30T05:46:56.000Z"
   },
-  {
+  "maps/vfe1m1.lit": {
    "bytes": 541886,
-   "path": "maps/vfe1m1.lit",
    "sha256": "e0377208abb77bd0e25cad556549aa31b4e701c113698a48643318dfae441163",
    "timestamp": "2020-01-30T05:46:56.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 1379,
-   "path": "readme.txt",
    "sha256": "66646a435e5b68ad85dd4c51a15242f95ec39b16e11b3acf1d064436044eed55",
    "timestamp": "2020-01-30T02:43:52.000Z"
   },
-  {
+  "src/": {
    "bytes": 0,
-   "path": "src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-01-30T21:52:16.000Z"
   },
-  {
+  "src/vfe1m1.map": {
    "bytes": 1253909,
-   "path": "src/vfe1m1.map",
    "sha256": "3b73eee860143188c074e92f8cc514b55e5586d9ef28d8b13939a443ee9a4a34",
    "timestamp": "2020-01-30T05:55:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.71</a>."
  ],

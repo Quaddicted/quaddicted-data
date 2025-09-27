@@ -4,66 +4,57 @@
  ],
  "bytes": 3331209,
  "description": "Large mountain base with Q2MP1 textures and some custom monsters.",
- "files": [
-  {
+ "files": {
+  "lunsp1.txt": {
    "bytes": 5768,
-   "path": "lunsp1.txt",
    "sha256": "30ead361ec5717d1aa83a49dbe183e12183f2bd8baed19d150c4b5428568ca41",
    "timestamp": "2005-06-27T02:13:00.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 6957786,
-   "path": "pak0.pak",
    "sha256": "efb787f75257996a3fc85ae6bcf6c563c57b2db9f0fb1b5d8d0c8e41cf15ce64",
    "timestamp": "2005-06-27T02:35:26.000Z"
   },
-  {
+  "src/ai.qc": {
    "bytes": 15265,
-   "path": "src/ai.qc",
    "sha256": "997121b71c8d824f877827253f3e8d48610d0966b5c0157ecde5111ed8e89083",
    "timestamp": "2005-06-26T17:11:34.000Z"
   },
-  {
+  "src/axegrunt.qc": {
    "bytes": 8693,
-   "path": "src/axegrunt.qc",
    "sha256": "f108b46dcbec9fb04fb8e2dbe6de4b4659ae461bb17a323fc6139c792ff71f8a",
    "timestamp": "2005-06-24T04:54:00.000Z"
   },
-  {
+  "src/boss.qc": {
    "bytes": 14935,
-   "path": "src/boss.qc",
    "sha256": "9c932ea14d43bebcb565a315dcacbff4f30fea0ee599cd2922b14feb56e32f7d",
    "timestamp": "2005-06-26T02:14:24.000Z"
   },
-  {
+  "src/client.qc": {
    "bytes": 32664,
-   "path": "src/client.qc",
    "sha256": "cc08fe743dc6343ba259c1888b3658004857a55bed1e265c27bb74c83dbfba6c",
    "timestamp": "2005-06-23T02:19:20.000Z"
   },
-  {
+  "src/combat.qc": {
    "bytes": 6780,
-   "path": "src/combat.qc",
    "sha256": "5c41a1205d18f3329cf643411d690f38e04d7ce662b5776d63e1005d94f123f5",
    "timestamp": "2005-06-14T14:19:56.000Z"
   },
-  {
+  "src/enforcer.qc": {
    "bytes": 25196,
-   "path": "src/enforcer.qc",
    "sha256": "625329aa78e37bb79e70e39885386bd5156db1edee69d5113dad72938bd4bca4",
    "timestamp": "2005-06-26T17:11:12.000Z"
   },
-  {
+  "src/items.qc": {
    "bytes": 30451,
-   "path": "src/items.qc",
    "sha256": "48a52e111537c7e3ee59e823fbe91a6e3ee385d55fd4ec94dad581c0eba1e756",
    "timestamp": "2005-06-24T02:26:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lunsp1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-06-27",
  "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "tags": [

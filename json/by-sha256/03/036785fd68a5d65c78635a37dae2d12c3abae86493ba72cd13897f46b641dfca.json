@@ -4,18 +4,17 @@
  ],
  "bytes": 931228,
  "description": "Starting outdoors in a metal theme, it goes into an zombie-infested underwater castle, and finishes in a lava/brick environment.",
- "files": [
-  {
+ "files": {
+  "burns.bsp": {
    "bytes": 2226504,
-   "path": "burns.bsp",
    "sha256": "313c4fdbde6671b5a6bb8a8de0d7281e9f677eaf253594428f6aa97a886feaeb",
    "timestamp": "2002-01-27T23:43:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-01-27",
  "sha256": "036785fd68a5d65c78635a37dae2d12c3abae86493ba72cd13897f46b641dfca",
  "tags": [

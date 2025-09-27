@@ -4,36 +4,32 @@
  ],
  "bytes": 1343295,
  "description": "A showcase map for the \"Director patch\", nicely rotating entities and fun cutscenes. Worth a look and delivering a laugh.",
- "files": [
-  {
+ "files": {
+  "Gadgets.BAT": {
    "bytes": 39,
-   "path": "Gadgets.BAT",
    "sha256": "0af288b13ae2695efc0299019b5b202217c2866bb587ec27f2c7d75a6f1f099e",
    "timestamp": "1997-05-03T00:57:12.000Z"
   },
-  {
+  "file_id.DIZ": {
    "bytes": 231,
-   "path": "file_id.DIZ",
    "sha256": "d8fa34a4ee70831f8c2c57845297617af55b26faba61a9c3d93826a98dc798a0",
    "timestamp": "1997-05-03T01:29:34.000Z"
   },
-  {
+  "gadgets/auximine.txt": {
    "bytes": 4443,
-   "path": "gadgets/auximine.txt",
    "sha256": "919c146b744e4cdc29082a27f21a5d577f23d17f99b34c97366a2a32d7c30df6",
    "timestamp": "1997-05-03T04:02:12.000Z"
   },
-  {
+  "gadgets/pak0.pak": {
    "bytes": 3476336,
-   "path": "gadgets/pak0.pak",
    "sha256": "f0ff4601de6c126cfc3bf3723a9c4bb40679d0bdf0d25c0ac9c6b929b32a0d80",
    "timestamp": "1997-05-03T02:48:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-03",
  "sha256": "444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f",
  "tags": [

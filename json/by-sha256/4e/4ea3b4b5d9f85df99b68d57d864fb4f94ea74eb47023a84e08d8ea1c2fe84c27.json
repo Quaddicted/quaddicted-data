@@ -5,30 +5,27 @@
  ],
  "bytes": 1912364,
  "description": "Retextured version of <a href=\"278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa\">Hell</a> with a bit of colored lighting added and a few missing items fixed.",
- "files": [
-  {
+ "files": {
+  "hellrev.bsp": {
    "bytes": 2800452,
-   "path": "hellrev.bsp",
    "sha256": "e4b459913cbfd11dba1629fc9543dd7a11fbb30eef49f1c2c018ab4f91194ada",
    "timestamp": "2020-04-25T07:01:18.000Z"
   },
-  {
+  "hellrev.lit": {
    "bytes": 1046390,
-   "path": "hellrev.lit",
    "sha256": "609eeeb34ce79248bf7a91e35f869bfcd0c90790199fbc1714ef3314c6124888",
    "timestamp": "2020-04-25T07:03:04.000Z"
   },
-  {
+  "hellrev.txt": {
    "bytes": 4568,
-   "path": "hellrev.txt",
    "sha256": "d1ddc71c191eb75ca825508e97b442710466194ed9929b0ac8256a18b6c0ffc5",
    "timestamp": "2020-04-25T07:42:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2020-04-25",
  "sha256": "4ea3b4b5d9f85df99b68d57d864fb4f94ea74eb47023a84e08d8ea1c2fe84c27",
  "tags": [

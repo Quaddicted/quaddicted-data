@@ -4,42 +4,37 @@
  ],
  "bytes": 2723613,
  "description": "Large interconnected blue/brown Wizard map with several new monsters such as deadlier Ogres, axe knights, improved Hell Knights and the Scourge from SOA; a few new textures and quite tough gameplay.",
- "files": [
-  {
+ "files": {
+  "alk11/": {
    "bytes": 0,
-   "path": "alk11/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-05-26T14:23:06.000Z"
   },
-  {
+  "alk11/alk11.html": {
    "bytes": 12399,
-   "path": "alk11/alk11.html",
    "sha256": "d0f11e1c39befd99a0b209ec469f46a8e0839860c786cf3d5bc7db46723072dc",
    "timestamp": "2001-05-25T20:57:50.000Z"
   },
-  {
+  "alk11/alk11.txt": {
    "bytes": 2273,
-   "path": "alk11/alk11.txt",
    "sha256": "cb70a5c492242fe992998414998e25baaa50331fcd2bbef2cd5454fe7a382f6b",
    "timestamp": "2001-05-25T20:57:18.000Z"
   },
-  {
+  "alk11/alk11a.jpg": {
    "bytes": 26798,
-   "path": "alk11/alk11a.jpg",
    "sha256": "ba1c97661daa411c24c81894adce0e21882c6414d79e5161bd07b437d4c76ce3",
    "timestamp": "2001-05-11T19:46:24.000Z"
   },
-  {
+  "alk11/pak0.pak": {
    "bytes": 5739649,
-   "path": "alk11/pak0.pak",
    "sha256": "fa9cdbccccc1daaab607d60680c35f2876712dfeb9188aad0576163b41d8c69e",
    "timestamp": "2001-05-26T14:06:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-05-26",
  "sha256": "3042f86e1177d2c506fbd415bc8702567a934f9b20c27285ed02b988bfb00bb4",
  "tags": [

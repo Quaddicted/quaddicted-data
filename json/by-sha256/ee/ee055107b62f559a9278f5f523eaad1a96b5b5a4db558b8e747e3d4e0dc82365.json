@@ -4,42 +4,37 @@
  ],
  "bytes": 788333,
  "description": "Short, linear map in E1M5 textures and a garden area.",
- "files": [
-  {
+ "files": {
+  "the_roted_castle_readme.txt": {
    "bytes": 1198,
-   "path": "the_roted_castle_readme.txt",
    "sha256": "c89d5e5bc2b4483210ac4aae1160967da1be7f0ab0f10da427153fa32c31c173",
    "timestamp": "2024-03-16T14:46:24.000Z"
   },
-  {
+  "therotedcastle.bsp": {
    "bytes": 1443556,
-   "path": "therotedcastle.bsp",
    "sha256": "778d5b4e9da10a7dbe23508de670b6ff9ce52b3326015abef3b46bf85ead67fb",
    "timestamp": "2024-03-16T14:40:12.000Z"
   },
-  {
+  "therotedcastle.lit": {
    "bytes": 250415,
-   "path": "therotedcastle.lit",
    "sha256": "64e205cfce23285aab994b9d5ada40bfd2ea0ae9545d0d589b9deb862a0f70e5",
    "timestamp": "2024-03-16T14:40:12.000Z"
   },
-  {
+  "therotedcastle.map": {
    "bytes": 1340663,
-   "path": "therotedcastle.map",
    "sha256": "60b2a3c72ebc56d80d97a7fb8df7d01426ccff98b93c75a960914df904a1f592",
    "timestamp": "2024-03-16T14:39:56.000Z"
   },
-  {
+  "therotedcastle.pts": {
    "bytes": 76883,
-   "path": "therotedcastle.pts",
    "sha256": "194660c6218b112cde7daf7aa2b9075f776d39be8b80334f5c2779dce5688537",
    "timestamp": "2024-03-15T14:23:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 492700,
  "description": "Small to medium-sized wizmetal map with nice looks and non-linear layout. It is meant as the succeeding map to <a href=\"b4ef9f01c8b723be7f9fbb6b5b5e89ecaba940ab1053ab85c5c5b91deed39b77\">bnt</a>.",
- "files": [
-  {
+ "files": {
+  "BNT2.BSP": {
    "bytes": 1201632,
-   "path": "BNT2.BSP",
    "sha256": "5ad33b864cb80428e5d0b7902088d8676835521d4c6d41acbe4ebc340787fc20",
    "timestamp": "1997-09-11T23:16:00.000Z"
   },
-  {
+  "BNT2.TXT": {
    "bytes": 3045,
-   "path": "BNT2.TXT",
    "sha256": "f5511e06b39ec46f1da96197ac87b10c3c37f68e23cb5740a3715832b113ca45",
    "timestamp": "1997-09-11T23:25:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-11",
  "sha256": "df949a44631d03cb44a8634667f0eab57496bc3f5b925b7c07b5239d395eaf07",
  "tags": [

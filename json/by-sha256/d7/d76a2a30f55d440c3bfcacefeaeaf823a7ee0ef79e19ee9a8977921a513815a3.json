@@ -4,24 +4,22 @@
  ],
  "bytes": 915422,
  "description": "Large red brick map.",
- "files": [
-  {
+ "files": {
+  "GODSJT.BSP": {
    "bytes": 2084332,
-   "path": "GODSJT.BSP",
    "sha256": "a10cec67a25c037dac5936b7c3d62e25647247c19cb7f1d9621bc682a6ed78f0",
    "timestamp": "1997-08-20T13:55:52.000Z"
   },
-  {
+  "GODSJT.TXT": {
    "bytes": 1975,
-   "path": "GODSJT.TXT",
    "sha256": "129c0d643569ceffbeb8d6a4aa1e597001d31a303809c6e5d456941cfe2b6ef4",
    "timestamp": "1997-08-20T14:35:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-20",
  "sha256": "d76a2a30f55d440c3bfcacefeaeaf823a7ee0ef79e19ee9a8977921a513815a3",
  "tags": [

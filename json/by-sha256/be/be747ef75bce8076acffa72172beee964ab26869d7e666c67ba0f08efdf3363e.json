@@ -4,24 +4,22 @@
  ],
  "bytes": 329058,
  "description": "Very small, cramped DM/SP castle in Wizard-style.",
- "files": [
-  {
+ "files": {
+  "frcastle.TXT": {
    "bytes": 788,
-   "path": "frcastle.TXT",
    "sha256": "02d628dc529282806e292e04555d1d6a5519f0e61d62067cc5fb8391623f4fd7",
    "timestamp": "1996-10-24T23:17:00.000Z"
   },
-  {
+  "frcastle.bsp": {
    "bytes": 780860,
-   "path": "frcastle.bsp",
    "sha256": "150778a634539cb95bd4493296c9a92d10d98ec472e45cee2e0878a60457b464",
    "timestamp": "1996-10-24T22:57:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "frcastle": "1.0"
  },

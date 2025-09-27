@@ -4,24 +4,22 @@
  ],
  "bytes": 596781,
  "description": "Very nice wizmetal map with nice traps and well made progression, but occasionally repetitive corridors.",
- "files": [
-  {
+ "files": {
+  "opcondor.bsp": {
    "bytes": 1496280,
-   "path": "opcondor.bsp",
    "sha256": "2f82a55ba29c8782cb8ad9794f820deb292b3360c466ed7bec75d469100bfb2d",
    "timestamp": "1997-08-10T13:58:42.000Z"
   },
-  {
+  "opcondor.txt": {
    "bytes": 5824,
-   "path": "opcondor.txt",
    "sha256": "c6e810c44bd93613cb733bcfa6c52462a208f3b82093d7570ebb266bc20d5927",
    "timestamp": "1997-08-10T14:24:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-10",
  "sha256": "6da3c986690d6b6faef38bd3cb534f96af8f4b28e24152cf09e76ef855225452",
  "tags": [

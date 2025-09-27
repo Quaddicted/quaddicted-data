@@ -7,84 +7,72 @@
   "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c"
  ],
  "description": "SP campaign for Nehahra with three small to medium-sized maps: a base, caverns with an ancient temple beneath, and a snowy village floating in the void. It uses modified textures from RTP and comes with four new music tracks.",
- "files": [
-  {
+ "files": {
+  "tsd/": {
    "bytes": 0,
-   "path": "tsd/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2010-06-03T21:22:34.000Z"
   },
-  {
+  "tsd/DP BAT File.rar": {
    "bytes": 299,
-   "path": "tsd/DP BAT File.rar",
    "sha256": "a8ae62cdb5d4756ffca573e3124d0418e79e24c4d151043f58fa646b5350a4b6",
    "timestamp": "2010-05-08T19:49:06.000Z"
   },
-  {
+  "tsd/Neh BAT Files.rar": {
    "bytes": 585,
-   "path": "tsd/Neh BAT Files.rar",
    "sha256": "4fe4f7545b144b82645cb5e888ec4bb1c02de3592c74fc1f7903adbae0fcc503",
    "timestamp": "2010-05-08T19:46:54.000Z"
   },
-  {
+  "tsd/docs/": {
    "bytes": 0,
-   "path": "tsd/docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2010-06-03T21:21:34.000Z"
   },
-  {
+  "tsd/docs/ReadMe First.html": {
    "bytes": 4380,
-   "path": "tsd/docs/ReadMe First.html",
    "sha256": "a4c6d07b8b4a29b3e02f89b71e323cafd5875219a57ce4c6f5dd8a583eb68ef5",
    "timestamp": "2010-05-27T23:40:54.000Z"
   },
-  {
+  "tsd/docs/gfx/": {
    "bytes": 0,
-   "path": "tsd/docs/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2010-05-27T23:37:28.000Z"
   },
-  {
+  "tsd/docs/gfx/Kopia Snowflake.png": {
    "bytes": 9839,
-   "path": "tsd/docs/gfx/Kopia Snowflake.png",
    "sha256": "3e95f9591e631c824b9b5fe1b09c8b4eb616389f5f4662cecfc8a517ebe86820",
    "timestamp": "2005-11-30T21:36:34.000Z"
   },
-  {
+  "tsd/docs/gfx/MainTitleShade.png": {
    "bytes": 351,
-   "path": "tsd/docs/gfx/MainTitleShade.png",
    "sha256": "b9e5284f0f031a4a944b837f6c021bb5eef067ed9a571fe8b0a3f8e2b4623096",
    "timestamp": "2005-11-30T21:36:34.000Z"
   },
-  {
+  "tsd/docs/gfx/Snowflake.png": {
    "bytes": 8750,
-   "path": "tsd/docs/gfx/Snowflake.png",
    "sha256": "968370fb1792b73d80d38fed1c9b1e3921a8407ab7bcb4c2457b667dddabc581",
    "timestamp": "2010-05-27T23:37:48.000Z"
   },
-  {
+  "tsd/docs/index.html": {
    "bytes": 7762,
-   "path": "tsd/docs/index.html",
    "sha256": "71a8ce138efdebc18cbc29419431043e0078959bf468a406d4e98077b94f48c6",
    "timestamp": "2005-12-05T12:20:44.000Z"
   },
-  {
+  "tsd/pak0.pak": {
    "bytes": 13309526,
-   "path": "tsd/pak0.pak",
    "sha256": "d8c99612b5b2eafaadc2244b961b2357ba24b6258f4b891390cdaec7158ba651",
    "timestamp": "2005-11-24T19:08:28.000Z"
   },
-  {
+  "tsd/quake.rc": {
    "bytes": 896,
-   "path": "tsd/quake.rc",
    "sha256": "85c07ba08482d94667eccf1f20a6e225ea5bec88a359f5e84042b0c97260b92a",
    "timestamp": "2010-05-08T20:22:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>."
  ],

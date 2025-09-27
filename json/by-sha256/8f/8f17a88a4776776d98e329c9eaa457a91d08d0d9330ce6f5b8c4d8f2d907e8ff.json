@@ -4,24 +4,22 @@
  ],
  "bytes": 1248703,
  "description": "Smallish hub map, each branch in a different texture style.",
- "files": [
-  {
+ "files": {
+  "sadlark9.bsp": {
    "bytes": 2900668,
-   "path": "sadlark9.bsp",
    "sha256": "fbe337abc3d8f30a6e94c3cf01d4c0a12817ffa4767d58725013fc0d225ccd2a",
    "timestamp": "1998-01-05T17:58:42.000Z"
   },
-  {
+  "sadlark9.txt": {
    "bytes": 2513,
-   "path": "sadlark9.txt",
    "sha256": "eae19ad15d4e7a519e76a25a2382599e79a0311deb22f3ce5eb756d25a03085e",
    "timestamp": "1998-01-07T22:25:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-01-07",
  "sha256": "8f17a88a4776776d98e329c9eaa457a91d08d0d9330ce6f5b8c4d8f2d907e8ff",
  "tags": [

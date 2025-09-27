@@ -4,30 +4,27 @@
  ],
  "bytes": 4489751,
  "description": "Medium-sized red runic style temple.",
- "files": [
-  {
+ "files": {
+  "tofaz/tofaz.bsp": {
    "bytes": 9732768,
-   "path": "tofaz/tofaz.bsp",
    "sha256": "8b6f39e294d9e2889f91331243a099c026a12e66a9ad383b780273bbe4324c11",
    "timestamp": "2017-10-18T12:48:44.000Z"
   },
-  {
+  "tofaz/tofaz.lit": {
    "bytes": 2970236,
-   "path": "tofaz/tofaz.lit",
    "sha256": "35b98c05dda1c26b57e17ba503785b58483469c27d249e85303ea07c58c23e3d",
    "timestamp": "2017-10-18T12:48:44.000Z"
   },
-  {
+  "tofaz/tofaz.txt": {
    "bytes": 3738,
-   "path": "tofaz/tofaz.txt",
    "sha256": "23e207551ebd1018716801a35c83c2153b5d055ad94b8cca3bbe627c8d85e063",
    "timestamp": "2017-10-18T12:49:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

@@ -4,36 +4,32 @@
  ],
  "bytes": 4245199,
  "description": "Large classic-style mountain base map. Map source is included.",
- "files": [
-  {
+ "files": {
+  "fortress_1_1.bsp": {
    "bytes": 6398480,
-   "path": "fortress_1_1.bsp",
    "sha256": "bfcd6fffb569146e3654a30b0b74851c1b20cafb124974a3292e3419fd2e8292",
    "timestamp": "2022-01-09T11:17:32.000Z"
   },
-  {
+  "fortress_1_1.lit": {
    "bytes": 2594792,
-   "path": "fortress_1_1.lit",
    "sha256": "b724cec86d50327548edc8f5d64c2f7c00a6c6482bd82857495d4475bb1aa2db",
    "timestamp": "2022-01-09T11:17:32.000Z"
   },
-  {
+  "fortress_1_1.map": {
    "bytes": 7247804,
-   "path": "fortress_1_1.map",
    "sha256": "a821b875167e6741141fb99c836763febc456819dc8df95db67ca39c9ff782f2",
    "timestamp": "2022-01-09T11:17:02.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 1775,
-   "path": "readme.txt",
    "sha256": "0f08c3fa80209fc37291a37b3a3659c151013bd0dc249426e53b4a47f8a467e6",
    "timestamp": "2022-01-09T11:20:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Probably requires a modern engine / source port with increased limits."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 109459,
  "description": "Very small Medieval level. The author's first map.",
- "files": [
-  {
+ "files": {
+  "brt01q1.bsp": {
    "bytes": 244332,
-   "path": "brt01q1.bsp",
    "sha256": "937094f2b686373b9bc9412223894773c37f33bf39667831d1287e43ee4ae336",
    "timestamp": "1999-02-28T16:48:50.000Z"
   },
-  {
+  "brt01q1.txt": {
    "bytes": 1852,
-   "path": "brt01q1.txt",
    "sha256": "2dbc099357d842d08046e50736261c3ab0db07ec513b4128c74f06af0ff7cbf6",
    "timestamp": "2002-01-22T01:33:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-01-22",
  "sha256": "a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36",
  "tags": [

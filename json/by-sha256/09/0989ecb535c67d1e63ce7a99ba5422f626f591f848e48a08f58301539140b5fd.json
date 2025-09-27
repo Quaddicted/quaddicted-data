@@ -4,24 +4,22 @@
  ],
  "bytes": 594642,
  "description": "Smallish Wizard map.",
- "files": [
-  {
+ "files": {
+  "etworld.txt": {
    "bytes": 1619,
-   "path": "etworld.txt",
    "sha256": "a5e7c229c14ad557660c63812ae5a0ebeb2572447fbf67a2a8b27ea1ee09fb41",
    "timestamp": "1996-10-22T00:33:04.000Z"
   },
-  {
+  "hall.bsp": {
    "bytes": 1339360,
-   "path": "hall.bsp",
    "sha256": "34e2687834cd6a43e8f0d19206f52fa8de89c6b1f0657217444ca4013dd8aebe",
    "timestamp": "1996-10-21T23:02:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-22",
  "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "tags": [

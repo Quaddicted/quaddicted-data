@@ -4,42 +4,37 @@
  ],
  "bytes": 2730463,
  "description": "Large snowy medieval village, using Daikatana and Hexen2 textures and featuring snow-themed monster skins.",
- "files": [
-  {
+ "files": {
+  "alk15/": {
    "bytes": 0,
-   "path": "alk15/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-09-16T18:05:30.000Z"
   },
-  {
+  "alk15/alk15.html": {
    "bytes": 19936,
-   "path": "alk15/alk15.html",
    "sha256": "45888fa67594a54f9fcc5f0ecf765145dc7270076ee8d6dcf454ba0d7cf27f87",
    "timestamp": "2001-09-27T20:25:26.000Z"
   },
-  {
+  "alk15/alk15.txt": {
    "bytes": 3561,
-   "path": "alk15/alk15.txt",
    "sha256": "6e1d35966fba9ef770f96b8f4f63f2ce7bd199d5db3081e7b0210994ed5699f9",
    "timestamp": "2001-09-27T20:29:00.000Z"
   },
-  {
+  "alk15/pak0.pak": {
    "bytes": 4870700,
-   "path": "alk15/pak0.pak",
    "sha256": "d2673f5ae508aecd92f24ae6ece90c5460a5c9639c114879837905f916a32eb1",
    "timestamp": "2001-09-27T21:00:14.000Z"
   },
-  {
+  "alk15/progs.dat": {
    "bytes": 658036,
-   "path": "alk15/progs.dat",
    "sha256": "a79be91c34e0f79c2f6375ebc5a8062e45899ceb1c3c55e09b46481d98388ce5",
    "timestamp": "2001-09-12T10:25:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-09-27",
  "sha256": "a0521809e3fd8e93c3a131a88f7d361958864a83e741f4483834da3fa2e73f75",
  "tags": [

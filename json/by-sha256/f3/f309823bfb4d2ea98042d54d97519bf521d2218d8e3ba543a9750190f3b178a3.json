@@ -4,24 +4,22 @@
  ],
  "bytes": 890707,
  "description": "Doom E1M7 (\"Computer Station\") rebuilt for Quake.",
- "files": [
-  {
+ "files": {
+  "DoomE1M7.txt": {
    "bytes": 2090,
-   "path": "DoomE1M7.txt",
    "sha256": "f9cb81f66f6799b32561f55931cd53bddf3a6eb0c891f0b5e2c91ed2ed701a30",
    "timestamp": "1997-12-19T06:32:54.000Z"
   },
-  {
+  "doome1m7.bsp": {
    "bytes": 2138920,
-   "path": "doome1m7.bsp",
    "sha256": "c579d5987238a15ac3fc94d32983fa8912098047ad3647a70540b8863f7289ae",
    "timestamp": "1997-12-19T05:53:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires Scourge of Armagon."
  ],

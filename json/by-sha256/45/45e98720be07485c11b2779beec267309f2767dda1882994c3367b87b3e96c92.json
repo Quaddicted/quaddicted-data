@@ -4,24 +4,22 @@
  ],
  "bytes": 608470,
  "description": "Small and cramped idbase map. The author's first for Quake.",
- "files": [
-  {
+ "files": {
+  "gubbins.bsp": {
    "bytes": 1672220,
-   "path": "gubbins.bsp",
    "sha256": "63321ac042231d9d1554eaab5f3a7623958b1f1d8bda0c3982defba57705acd7",
    "timestamp": "2024-06-14T17:13:08.000Z"
   },
-  {
+  "gubbins_readme.txt": {
    "bytes": 1783,
-   "path": "gubbins_readme.txt",
    "sha256": "34d9ba65c203160df62a6d4a7f48a44a4d5da5a69cac288221544ae0febb6436",
    "timestamp": "2024-06-14T11:35:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

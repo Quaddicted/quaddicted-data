@@ -4,24 +4,22 @@
  ],
  "bytes": 2973189,
  "description": "Large brick/metal complex where reality is twisted and many optical illusions occur. Nonlinear, explorational gameplay with puzzles and a great number of secret areas. The sequel to <a href=\"be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91\">digs05</a>.",
- "files": [
-  {
+ "files": {
+  "digs06.bsp": {
    "bytes": 7937108,
-   "path": "digs06.bsp",
    "sha256": "03f834c820b3fd407c2ae5148ebeb621953e244b24c0d731eb6427e56f879396",
    "timestamp": "2011-07-02T13:35:34.000Z"
   },
-  {
+  "digs06.txt": {
    "bytes": 2038,
-   "path": "digs06.txt",
    "sha256": "494f27222af0888ddd2664c3fd5d512d6400023d415c9e637da0b85644b6cb33",
    "timestamp": "2011-07-01T08:05:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This level requires an engine port with increased limits, and r_wateralpha to be set to 0.3"
  ],

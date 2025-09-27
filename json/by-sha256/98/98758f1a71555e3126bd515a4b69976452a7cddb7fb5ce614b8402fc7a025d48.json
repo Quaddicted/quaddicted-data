@@ -4,24 +4,22 @@
  ],
  "bytes": 764993,
  "description": "Medium-sized 'abstract' Base map.",
- "files": [
-  {
+ "files": {
+  "area51.bsp": {
    "bytes": 1722800,
-   "path": "area51.bsp",
    "sha256": "fce6c77b0bdb8b63b5959881e4e7dd049f9d88728e01a6f2cdb8df4a66a92b06",
    "timestamp": "1996-12-01T01:49:10.000Z"
   },
-  {
+  "area51.txt": {
    "bytes": 2868,
-   "path": "area51.txt",
    "sha256": "b3405d3e9489cdbc50f60893064712ae0630870e4d6626ca14d5af38606237ed",
    "timestamp": "1996-12-02T17:09:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-02",
  "sha256": "98758f1a71555e3126bd515a4b69976452a7cddb7fb5ce614b8402fc7a025d48",
  "tags": [

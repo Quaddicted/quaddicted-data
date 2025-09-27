@@ -4,24 +4,22 @@
  ],
  "bytes": 4061321,
  "description": "Two turtlemaps in a base theme. The second one features a submarine base.",
- "files": [
-  {
+ "files": {
+  "Hrimturt.txt": {
    "bytes": 5352,
-   "path": "Hrimturt.txt",
    "sha256": "ce4eeab4ee0427dfc44d999bc1a4b7061485f47ea95abc205d401a9b6b730942",
    "timestamp": "2003-07-06T23:16:02.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 11403029,
-   "path": "pak0.pak",
    "sha256": "a28b449a89793b4ace5640d93032034f4613fbe2b63e67a52f4d37e4716fc39b",
    "timestamp": "2003-07-07T20:52:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hrimturt"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-07-07",
  "sha256": "04061cf28476eed1eb26d103483531bdfc6efc678eb5833b5b1ad3ba1994f321",
  "tags": [

@@ -7,36 +7,32 @@
   "ad>=1.80"
  ],
  "description": "Medium sized wizmetal map visually inspired by E2M5 and E3M6, with occasionally chaotic gameplay that encourages infighting.",
- "files": [
-  {
+ "files": {
+  "ad_behop_1d_readme.txt": {
    "bytes": 2476,
-   "path": "ad_behop_1d_readme.txt",
    "sha256": "6a9f22430fd2510afad8d38f37bac20f0a2da3a8a88b46a0932b2fdfd1813069",
    "timestamp": "2024-02-23T22:44:48.000Z"
   },
-  {
+  "maps/ad_behop_1d.bsp": {
    "bytes": 3365796,
-   "path": "maps/ad_behop_1d.bsp",
    "sha256": "e054959fd57db4edef4d405e4635865f05dd113e1e56cfaa29c8c8441d3cf216",
    "timestamp": "2024-02-23T22:26:28.000Z"
   },
-  {
+  "maps/ad_behop_1d.lit": {
    "bytes": 1531832,
-   "path": "maps/ad_behop_1d.lit",
    "sha256": "d691d526b1a52ef9be18eebd442c03aaefae3b598298ef0986c99662ce932bcf",
    "timestamp": "2024-02-23T22:26:28.000Z"
   },
-  {
+  "maps/ad_behop_1d.map": {
    "bytes": 2837584,
-   "path": "maps/ad_behop_1d.map",
    "sha256": "fd5f7d7337a416aa53db0a92ac58908dc6a5b7d2eb36037d6c8d58da0ace8a67",
    "timestamp": "2024-02-23T22:38:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "May require a source port with increased limits / BSP2 support."

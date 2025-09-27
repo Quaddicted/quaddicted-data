@@ -4,24 +4,22 @@
  ],
  "bytes": 362125,
  "description": "Very small temple built around a volcano. A deathmatch level with single player settings, but no exit (only a message).",
- "files": [
-  {
+ "files": {
+  "VOLCANO2.BSP": {
    "bytes": 825704,
-   "path": "VOLCANO2.BSP",
    "sha256": "a66c3144f34f66789639d4128449c98836c3b3ca704dec8cbd4f91bd6f4c4059",
    "timestamp": "1998-03-31T01:39:22.000Z"
   },
-  {
+  "VOLCANO2.TXT": {
    "bytes": 3407,
-   "path": "VOLCANO2.TXT",
    "sha256": "a798f4b4d177700bbe357c5440ae60443fb9314d5715cbe4e6080aab43b356d2",
    "timestamp": "1998-05-20T03:28:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-05-20",
  "sha256": "9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942",
  "tags": [

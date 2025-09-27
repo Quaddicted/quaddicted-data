@@ -5,24 +5,22 @@
  ],
  "bytes": 3818145,
  "description": "Mini-campaign with three small SP levels: a base warehouse, a cathedral and a mine. It also comes with a start map, an additional DM map, and features all new textures as well as a modified palette giving monsters and items a new look.",
- "files": [
-  {
+ "files": {
+  "PAK0.PAK": {
    "bytes": 7328862,
-   "path": "PAK0.PAK",
    "sha256": "9c09049f1472531d6d153aace2db3924a46f73d5bb5d43751923019215903991",
    "timestamp": "1998-02-14T11:05:38.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 1865,
-   "path": "readme.txt",
    "sha256": "131461b783bd5303ea0ce276473c6134f7aab03e6a2d98b8cd4453fa34e6f2d1",
    "timestamp": "1998-02-14T21:24:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lomgoat/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-02-14",
  "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "tags": [

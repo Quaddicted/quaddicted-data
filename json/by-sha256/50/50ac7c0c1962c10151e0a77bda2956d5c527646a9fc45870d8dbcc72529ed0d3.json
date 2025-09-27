@@ -4,24 +4,22 @@
  ],
  "bytes": 123293,
  "description": "A shooting range with bouncing monsters.",
- "files": [
-  {
+ "files": {
+  "skeet.bsp": {
    "bytes": 276436,
-   "path": "skeet.bsp",
    "sha256": "d7557bf9cbb866cb54d7748dac805279f1b9f357a6362b3c7c8d1b456de2ab19",
    "timestamp": "2007-08-18T15:09:26.000Z"
   },
-  {
+  "skeet.txt": {
    "bytes": 2311,
-   "path": "skeet.txt",
    "sha256": "bb7020d80a513e0d813e914f810481e33e1f7daae7f724e886a6bf27bb2e668c",
    "timestamp": "2007-12-04T10:31:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2007-12-04",
  "sha256": "50ac7c0c1962c10151e0a77bda2956d5c527646a9fc45870d8dbcc72529ed0d3",
  "tags": [

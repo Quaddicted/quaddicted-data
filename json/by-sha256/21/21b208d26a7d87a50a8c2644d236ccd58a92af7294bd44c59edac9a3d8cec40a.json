@@ -4,42 +4,37 @@
  ],
  "bytes": 3587847,
  "description": "Large egyptian map with a unique mix of textures. Features a few custom monsters such as the SOA goblin and the Snakeman.",
- "files": [
-  {
+ "files": {
+  "alk13/": {
    "bytes": 0,
-   "path": "alk13/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-08-23T20:54:06.000Z"
   },
-  {
+  "alk13/alk13.html": {
    "bytes": 16715,
-   "path": "alk13/alk13.html",
    "sha256": "cf6b0dc586809c9ec25a9c553b62d3a6924b3fccbb237e318e3e1f0350ccaa8d",
    "timestamp": "2001-08-05T23:02:44.000Z"
   },
-  {
+  "alk13/alk13.jpg": {
    "bytes": 67810,
-   "path": "alk13/alk13.jpg",
    "sha256": "839be92a8da31aa5a46f23e93fd5a8a83fe4ce96898c15f6ca46e1559a0183dc",
    "timestamp": "2001-06-22T20:01:28.000Z"
   },
-  {
+  "alk13/alk13.txt": {
    "bytes": 2749,
-   "path": "alk13/alk13.txt",
    "sha256": "6400a2eb8d6d6b106c120f90d7297ca8ec8ad0ffbfefae739a319bfdc66b3f1b",
    "timestamp": "2001-08-08T23:29:18.000Z"
   },
-  {
+  "alk13/pak0.pak": {
    "bytes": 7225027,
-   "path": "alk13/pak0.pak",
    "sha256": "e7dd8bec306499398c7e806846d37233d047c4be83687d10cb57241f087e9d37",
    "timestamp": "2001-08-07T21:01:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-08-23",
  "sha256": "21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a",
  "tags": [

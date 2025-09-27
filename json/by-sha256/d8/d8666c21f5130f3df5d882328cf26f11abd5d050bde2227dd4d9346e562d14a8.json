@@ -4,24 +4,22 @@
  ],
  "bytes": 3934516,
  "description": "Small submarine base; features some material ripped from other mods, e.g. Scourge of Armagon and Zerst\u00f6rer.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 8112672,
-   "path": "pak0.pak",
    "sha256": "2c2244be8dbdad24314a909a81185baf0b600c62ae007d82ef2f0963d3a6959e",
    "timestamp": "1997-12-12T23:48:02.000Z"
   },
-  {
+  "seaview.txt": {
    "bytes": 1814,
-   "path": "seaview.txt",
    "sha256": "062cae9582d9bc724a2be74f726675a92efb223d3f62896e8de8511afe6f26ad",
    "timestamp": "1997-12-13T00:15:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/seaview/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-12-12",
  "sha256": "d8666c21f5130f3df5d882328cf26f11abd5d050bde2227dd4d9346e562d14a8",
  "tags": [

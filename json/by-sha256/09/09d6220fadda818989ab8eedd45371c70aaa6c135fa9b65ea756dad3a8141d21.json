@@ -4,162 +4,137 @@
  ],
  "bytes": 11090175,
  "description": "Large blood sewers level with traps. It is based on the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod (version 1.15 + an additional fix is included) and comes with a few new ambient sounds.",
- "files": [
-  {
+ "files": {
+  "purifier/": {
    "bytes": 0,
-   "path": "purifier/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T18:08:50.000Z"
   },
-  {
+  "purifier/copper_v1_15.txt": {
    "bytes": 78565,
-   "path": "purifier/copper_v1_15.txt",
    "sha256": "e0a579fafc6c91d7d5f205356bd7b3e0018cd8f5e5a1b58b79ea8614ba2413bf",
    "timestamp": "2020-11-22T02:57:46.000Z"
   },
-  {
+  "purifier/gfx/": {
    "bytes": 0,
-   "path": "purifier/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T08:49:20.000Z"
   },
-  {
+  "purifier/gfx/env/": {
    "bytes": 0,
-   "path": "purifier/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T08:49:20.000Z"
   },
-  {
+  "purifier/gfx/env/hellsky5bk.tga": {
    "bytes": 786450,
-   "path": "purifier/gfx/env/hellsky5bk.tga",
    "sha256": "73fd32d337e782645fd34afecdb2e31ffdc52ee66952a2cb11470e04a221ed02",
    "timestamp": "2008-06-08T11:49:10.000Z"
   },
-  {
+  "purifier/gfx/env/hellsky5dn.tga": {
    "bytes": 786450,
-   "path": "purifier/gfx/env/hellsky5dn.tga",
    "sha256": "4d86789ac951b1019c2fbee01c2ffc9c17cef913373983fefb571be62823998d",
    "timestamp": "2008-06-08T11:49:28.000Z"
   },
-  {
+  "purifier/gfx/env/hellsky5ft.tga": {
    "bytes": 786450,
-   "path": "purifier/gfx/env/hellsky5ft.tga",
    "sha256": "e20e37f9f341b04359018ce26fbc04dc285c11e29a515c5c19668cc859d09c6e",
    "timestamp": "2008-06-08T11:49:44.000Z"
   },
-  {
+  "purifier/gfx/env/hellsky5lf.tga": {
    "bytes": 786450,
-   "path": "purifier/gfx/env/hellsky5lf.tga",
    "sha256": "9321c94054b90c2229b549e30b108faac59f8f0c3358d6ecf30fa7475dbe2684",
    "timestamp": "2008-06-08T11:49:56.000Z"
   },
-  {
+  "purifier/gfx/env/hellsky5rt.tga": {
    "bytes": 786450,
-   "path": "purifier/gfx/env/hellsky5rt.tga",
    "sha256": "b136d1dba1fd5bf1dbb25b7edae9a5c16fb0db89e26cd0f093c638e716d20aaa",
    "timestamp": "2008-06-08T11:50:08.000Z"
   },
-  {
+  "purifier/gfx/env/hellsky5up.tga": {
    "bytes": 786450,
-   "path": "purifier/gfx/env/hellsky5up.tga",
    "sha256": "1f6bf0d77a8fea3db187d1988ec4b24a702aca218d8bd2c2b01fdbffbf72597e",
    "timestamp": "2008-06-08T11:50:22.000Z"
   },
-  {
+  "purifier/maps/": {
    "bytes": 0,
-   "path": "purifier/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T10:19:28.000Z"
   },
-  {
+  "purifier/maps/purifier.bsp": {
    "bytes": 12961496,
-   "path": "purifier/maps/purifier.bsp",
    "sha256": "d1e0a7dc6a4af0f9139f0800eb586cbde2a45393697070e1e5e82eb033556b69",
    "timestamp": "2021-06-11T10:13:00.000Z"
   },
-  {
+  "purifier/maps/purifier.lit": {
    "bytes": 3164480,
-   "path": "purifier/maps/purifier.lit",
    "sha256": "c468df2189650bfae726e96adba9421314f47d67a96e3af050314e3cf1451ebf",
    "timestamp": "2021-06-11T10:13:00.000Z"
   },
-  {
+  "purifier/pak0.pak": {
    "bytes": 4085208,
-   "path": "purifier/pak0.pak",
    "sha256": "7b3838322dc860c3ea5dec5e246e9ecac4b0f75182edeff7b719e16f4f33d874",
    "timestamp": "2020-11-15T08:48:56.000Z"
   },
-  {
+  "purifier/progs.dat": {
    "bytes": 533882,
-   "path": "purifier/progs.dat",
    "sha256": "849c5cd21ddaf96c6725d1c3bee5c82bd499895eaa5fcdea2f7d7ca9df3d1eca",
    "timestamp": "2021-06-08T23:55:40.000Z"
   },
-  {
+  "purifier/progs/": {
    "bytes": 0,
-   "path": "purifier/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T08:49:22.000Z"
   },
-  {
+  "purifier/progs/corpse_flay.mdl": {
    "bytes": 509231,
-   "path": "purifier/progs/corpse_flay.mdl",
    "sha256": "0287c3e7886bd2d6d1cbb504529d9e11038d0f8232ee624528eb0ccb78733c53",
    "timestamp": "2021-06-03T09:38:56.000Z"
   },
-  {
+  "purifier/progs/corpse_lynch.mdl": {
    "bytes": 276420,
-   "path": "purifier/progs/corpse_lynch.mdl",
    "sha256": "41e90f1a84e9779eb12541d923ab0a66e69deef3a9dbc82259ab84cb71b68dcc",
    "timestamp": "2021-06-03T09:38:56.000Z"
   },
-  {
+  "purifier/purifier.txt": {
    "bytes": 3173,
-   "path": "purifier/purifier.txt",
    "sha256": "f27138a599ebc1547a7c1ebcab6a2933ff26d441ade6153a792cdb31ce86fa11",
    "timestamp": "2021-06-11T17:42:46.000Z"
   },
-  {
+  "purifier/quake.rc": {
    "bytes": 1098,
-   "path": "purifier/quake.rc",
    "sha256": "185da72645d8b26360bc1b4c5d33994f4fcadb2646d1d136262fad3bad5f9835",
    "timestamp": "2019-06-18T05:06:22.000Z"
   },
-  {
+  "purifier/sound/": {
    "bytes": 0,
-   "path": "purifier/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T08:49:22.000Z"
   },
-  {
+  "purifier/sound/ambience/": {
    "bytes": 0,
-   "path": "purifier/sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T08:49:22.000Z"
   },
-  {
+  "purifier/sound/ambience/blood.wav": {
    "bytes": 240964,
-   "path": "purifier/sound/ambience/blood.wav",
    "sha256": "197a5b8be8ca0394264a763b13dcb9001818e3af2ea0a920769e697df19bc4ba",
    "timestamp": "2021-04-16T16:06:24.000Z"
   },
-  {
+  "purifier/sound/ambience/owater2.wav": {
    "bytes": 7308,
-   "path": "purifier/sound/ambience/owater2.wav",
    "sha256": "240748df1bd406925877b6f1f04e0523a4365a1ad794fc5ac1308842f0c1dbc1",
    "timestamp": "1999-07-30T22:10:32.000Z"
   },
-  {
+  "purifier/sound/ambience/wat_cave.wav": {
    "bytes": 117614,
-   "path": "purifier/sound/ambience/wat_cave.wav",
    "sha256": "8fd860006e3d2746d6497e95d886e99e62323a38870ee57960eeda430e25e85e",
    "timestamp": "2008-08-17T00:54:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],

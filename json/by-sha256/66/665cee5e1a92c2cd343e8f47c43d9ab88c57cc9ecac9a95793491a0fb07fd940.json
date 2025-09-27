@@ -4,24 +4,22 @@
  ],
  "bytes": 399002,
  "description": "A imaginative but plain Quake version of Doom's first map.",
- "files": [
-  {
+ "files": {
+  "qkdme1m1.bsp": {
    "bytes": 969952,
-   "path": "qkdme1m1.bsp",
    "sha256": "9cf14f5e04cc87c828995ad6c8110acb5b3018dacc0e4b876c15d8a103d224e5",
    "timestamp": "1998-02-27T09:58:08.000Z"
   },
-  {
+  "qkdme1m1.txt": {
    "bytes": 1889,
-   "path": "qkdme1m1.txt",
    "sha256": "4eed6b79e63fa40cb14e63ad67c2d045ddae7f11dd923538837546761cc612f8",
    "timestamp": "2000-01-13T18:48:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-02-27",
  "sha256": "665cee5e1a92c2cd343e8f47c43d9ab88c57cc9ecac9a95793491a0fb07fd940",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 3422130,
  "description": "Large, dark castle level with DKT3 textures.",
- "files": [
-  {
+ "files": {
+  "CDA.txt": {
    "bytes": 4712,
-   "path": "CDA.txt",
    "sha256": "224f5956b39c81b56dc0ff5bd3138c1d3066249354cbf5ae7d6d83ae5c07615a",
    "timestamp": "2005-10-22T18:51:04.000Z"
   },
-  {
+  "PAK0.pak": {
    "bytes": 10131152,
-   "path": "PAK0.pak",
    "sha256": "3fc6d45349e61065724b48aec53c599d8f830ff81c7dd8a824a2ee730d0f1a6b",
    "timestamp": "2005-10-22T09:21:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/cda/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-10-22",
  "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "tags": [

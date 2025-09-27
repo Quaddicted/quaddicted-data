@@ -5,60 +5,52 @@
  ],
  "bytes": 8234542,
  "description": "Nine-map SP episode with Daikatana E3 and Hexen II textures, and monsters from <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>, Scourge of Armagon and <a href=\"ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d\">Coven of Ebony</a>.",
- "files": [
-  {
+ "files": {
+  "rapture/": {
    "bytes": 0,
-   "path": "rapture/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-05-01T22:27:44.000Z"
   },
-  {
+  "rapture/pak0.pak": {
    "bytes": 18510187,
-   "path": "rapture/pak0.pak",
    "sha256": "59acff878e87d8e077ffea3081970e54366cf3c4536305fd384bc6d42deedb41",
    "timestamp": "2001-09-19T17:32:10.000Z"
   },
-  {
+  "rapture/progs.dat": {
    "bytes": 717404,
-   "path": "rapture/progs.dat",
    "sha256": "f026e2593dde2085a48a73eb9b6f968d1ce6c87ed3c9ec63bf18aa78d3b03358",
    "timestamp": "2001-09-19T16:57:26.000Z"
   },
-  {
+  "rapture/rapture.JPG": {
    "bytes": 76017,
-   "path": "rapture/rapture.JPG",
    "sha256": "b3189308723fba0329127a1f2b6d942c2777a1ca143222bf31ccd9c81c961b83",
    "timestamp": "2001-02-28T21:01:44.000Z"
   },
-  {
+  "rapture/rapture.html": {
    "bytes": 15401,
-   "path": "rapture/rapture.html",
    "sha256": "936ea5dafbf9764e307da195e01b016de5a39bc65252b75d1d551278c87250c0",
    "timestamp": "2001-09-14T22:39:56.000Z"
   },
-  {
+  "rapture/rapture.txt": {
    "bytes": 1712,
-   "path": "rapture/rapture.txt",
    "sha256": "d764c3ec4165d3ca20d7b76697ae7dc9ad0de90bd8a66dc9b252132ec684d70c",
    "timestamp": "2001-09-16T17:55:58.000Z"
   },
-  {
+  "rapture/rapture1.jpg": {
    "bytes": 46293,
-   "path": "rapture/rapture1.jpg",
    "sha256": "eb490164a9f2cbd9027a41b8aa4488996b62412148e2a0c797b6b39966b0a254",
    "timestamp": "2001-09-14T22:34:32.000Z"
   },
-  {
+  "rapture/rapture2.jpg": {
    "bytes": 25538,
-   "path": "rapture/rapture2.jpg",
    "sha256": "d148f2e9cac9f8b32f08c632643d274ff602192e98d9d6223f1df95066f83a35",
    "timestamp": "2001-09-14T22:35:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-09-19",
  "sha256": "4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902",
  "tags": [

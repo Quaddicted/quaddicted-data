@@ -4,240 +4,202 @@
  ],
  "bytes": 9813889,
  "description": "First \"alpha\" version of a mod based off of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> with some new and modified weapons, such as a pistol and triple-barrelled shotgun, and more challenging gameplay. It comes with two levels plus a start map: a medium-sized sewage facility and a large medieval castle dungeon. The map sources are included.",
- "files": [
-  {
+ "files": {
+  "reliq/": {
    "bytes": 0,
-   "path": "reliq/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T23:47:38.000Z"
   },
-  {
+  "reliq/gfx/": {
    "bytes": 0,
-   "path": "reliq/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T22:27:06.000Z"
   },
-  {
+  "reliq/gfx/conback.lmp": {
    "bytes": 64008,
-   "path": "reliq/gfx/conback.lmp",
    "sha256": "098cca7d3794e8e556920156e826cdab1425662c65e8affefd6f1398d11519e0",
    "timestamp": "2021-01-17T07:29:04.000Z"
   },
-  {
+  "reliq/gfx/qplaque.lmp": {
    "bytes": 4616,
-   "path": "reliq/gfx/qplaque.lmp",
    "sha256": "396e9ca8e4e84166a453bf39eb081c26769f114cab87a9681ac42fb0dda91230",
    "timestamp": "2021-01-20T13:29:18.000Z"
   },
-  {
+  "reliq/maps/": {
    "bytes": 0,
-   "path": "reliq/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T23:00:28.000Z"
   },
-  {
+  "reliq/maps/reliq_miasma.bsp": {
    "bytes": 4635200,
-   "path": "reliq/maps/reliq_miasma.bsp",
    "sha256": "322a9993e9b9a062c3838395667c49cc1b01d88eeebe7e074ead13a76d883611",
    "timestamp": "2021-06-28T22:03:38.000Z"
   },
-  {
+  "reliq/maps/reliq_miasma.lit": {
    "bytes": 2011370,
-   "path": "reliq/maps/reliq_miasma.lit",
    "sha256": "b4d755956b164e5f9899af9e6ca53b27f254fbe318fca545d5ed1181d3557df4",
    "timestamp": "2021-06-28T22:03:38.000Z"
   },
-  {
+  "reliq/maps/reliq_otsego.bsp": {
    "bytes": 4663596,
-   "path": "reliq/maps/reliq_otsego.bsp",
    "sha256": "8b5b5c572912c83cb9ebd2862cad3f0dc43247877cc30c62029c603987c706c5",
    "timestamp": "2021-06-28T22:04:24.000Z"
   },
-  {
+  "reliq/maps/reliq_otsego.lit": {
    "bytes": 1374116,
-   "path": "reliq/maps/reliq_otsego.lit",
    "sha256": "d0907a9524b8e20c8e375dcdf149abc56a993038fa336da6f9a26e1decee7242",
    "timestamp": "2021-06-28T22:04:24.000Z"
   },
-  {
+  "reliq/maps/src/": {
    "bytes": 0,
-   "path": "reliq/maps/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T22:43:16.000Z"
   },
-  {
+  "reliq/maps/src/reliq_miasma.map": {
    "bytes": 6227709,
-   "path": "reliq/maps/src/reliq_miasma.map",
    "sha256": "41780149c21c815b1b8931d2168115d0fe4506f7a322e660fe7e719aa86d6571",
    "timestamp": "2021-06-28T22:01:48.000Z"
   },
-  {
+  "reliq/maps/src/reliq_otsego.map": {
    "bytes": 5132660,
-   "path": "reliq/maps/src/reliq_otsego.map",
    "sha256": "c533a1502375f6ee778d1935597aebdcf5e56d3e58fb5cf2cc5ecaf43b4bed10",
    "timestamp": "2021-06-28T21:36:34.000Z"
   },
-  {
+  "reliq/maps/src/reliqstart.map": {
    "bytes": 956420,
-   "path": "reliq/maps/src/reliqstart.map",
    "sha256": "4efbf0e246d81c318917573035aef026874a8b08bdb6f5ce8a1c2e0466c9ec48",
    "timestamp": "2021-06-28T22:59:50.000Z"
   },
-  {
+  "reliq/maps/start.bsp": {
    "bytes": 1005548,
-   "path": "reliq/maps/start.bsp",
    "sha256": "ba02f38c4ccc121e6fb8f78cedf42fb5b6873d17583e7cca7ffbfeae3687c406",
    "timestamp": "2021-06-28T22:57:32.000Z"
   },
-  {
+  "reliq/maps/start.lit": {
    "bytes": 225782,
-   "path": "reliq/maps/start.lit",
    "sha256": "f492019bc03a3fe6b714297a3036940d7f134d673501ca85b0a61907f9b5464a",
    "timestamp": "2021-06-28T22:57:32.000Z"
   },
-  {
+  "reliq/pak0.pak": {
    "bytes": 4792452,
-   "path": "reliq/pak0.pak",
    "sha256": "88edf246555f1a2ba3b0aabed28218c36ab63befd6c9b8bae4896b18a4e07bcc",
    "timestamp": "2021-06-28T23:46:10.000Z"
   },
-  {
+  "reliq/progs.dat": {
    "bytes": 532458,
-   "path": "reliq/progs.dat",
    "sha256": "cf296e1b2343419c30dafc68b8e0f3ba873d264fc665cc5cfe32df99d93dafca",
    "timestamp": "2021-01-15T06:13:04.000Z"
   },
-  {
+  "reliq/progs/": {
    "bytes": 0,
-   "path": "reliq/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T22:27:08.000Z"
   },
-  {
+  "reliq/progs/g_shot.mdl": {
    "bytes": 156216,
-   "path": "reliq/progs/g_shot.mdl",
    "sha256": "8a602686e322d7357a102e0c8e91907c8b3975a8b6d36ba19f3c645e450285da",
    "timestamp": "2021-01-10T03:23:14.000Z"
   },
-  {
+  "reliq/progs/m_cells1.mdl": {
    "bytes": 10552,
-   "path": "reliq/progs/m_cells1.mdl",
    "sha256": "06d4f0235faedd3430e57d602ec29a2a91c0b23bdc30debc069212264a0faf54",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_cells2.mdl": {
    "bytes": 10552,
-   "path": "reliq/progs/m_cells2.mdl",
    "sha256": "0cee39ac60c3eda7b5f1d1efde52f8be19c9e4f425972f16ba6d6362d646afb6",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_nails1.mdl": {
    "bytes": 14072,
-   "path": "reliq/progs/m_nails1.mdl",
    "sha256": "1090a9c50a943c2bf04302914f69b835ecf79fbf3013f259a12668ebd57aad5a",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_nails2.mdl": {
    "bytes": 15976,
-   "path": "reliq/progs/m_nails2.mdl",
    "sha256": "8dd339507f4e18953ceefe3922d04ca513728bf2b0745813723873427843213b",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_rock1.mdl": {
    "bytes": 24836,
-   "path": "reliq/progs/m_rock1.mdl",
    "sha256": "9f272b2f1cb52fcf38983f63052db653e8208b2ee1eedf053e99dca6e439c7d8",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_rock2.mdl": {
    "bytes": 27672,
-   "path": "reliq/progs/m_rock2.mdl",
    "sha256": "46d85f10a260cf13d6711420f11a235089536a3725363be0717c2ee3e7e8a18b",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_shell1.mdl": {
    "bytes": 14072,
-   "path": "reliq/progs/m_shell1.mdl",
    "sha256": "053e466f1666314cbfc0cd6f67821850ad39505a6a0bbf37c80b127e6887e5c5",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/m_shell2.mdl": {
    "bytes": 15976,
-   "path": "reliq/progs/m_shell2.mdl",
    "sha256": "6183880b36171b6784cecf74b50aea2e1fdbc17b1b0b304a89125e964d63fd1f",
    "timestamp": "2016-01-09T15:45:12.000Z"
   },
-  {
+  "reliq/progs/v_shot.mdl": {
    "bytes": 72316,
-   "path": "reliq/progs/v_shot.mdl",
    "sha256": "a92d2999b119af00143afaad9ca6e10249e474ca0fa76f3b712823fe55bab1c2",
    "timestamp": "2021-01-27T13:04:24.000Z"
   },
-  {
+  "reliq/progs/v_shot2.mdl": {
    "bytes": 131164,
-   "path": "reliq/progs/v_shot2.mdl",
    "sha256": "fe6439a01a4e1e82668c77a795e7d890806d8015af1cbcdde59cd9b982851939",
    "timestamp": "2021-01-10T05:11:40.000Z"
   },
-  {
+  "reliq/quake.rc": {
    "bytes": 1098,
-   "path": "reliq/quake.rc",
    "sha256": "185da72645d8b26360bc1b4c5d33994f4fcadb2646d1d136262fad3bad5f9835",
    "timestamp": "2019-06-17T20:06:24.000Z"
   },
-  {
+  "reliq/reliqreadme.txt": {
    "bytes": 1233,
-   "path": "reliq/reliqreadme.txt",
    "sha256": "c7f3e9e174930949773a35c780032a9ae18f37552df004d75cbe2826f7fe678c",
    "timestamp": "2021-06-28T23:01:10.000Z"
   },
-  {
+  "reliq/sound/": {
    "bytes": 0,
-   "path": "reliq/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T22:27:08.000Z"
   },
-  {
+  "reliq/sound/markie/": {
    "bytes": 0,
-   "path": "reliq/sound/markie/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T22:27:54.000Z"
   },
-  {
+  "reliq/sound/markie/dangeralarm2.wav": {
    "bytes": 89544,
-   "path": "reliq/sound/markie/dangeralarm2.wav",
    "sha256": "e07177c90b402aba3afb847cea44fe1cd4847e5d7df000990ca40e43d4c44622",
    "timestamp": "2021-01-22T18:41:06.000Z"
   },
-  {
+  "reliq/sound/markie/rumble.wav": {
    "bytes": 105990,
-   "path": "reliq/sound/markie/rumble.wav",
    "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
    "timestamp": "2015-06-30T11:06:20.000Z"
   },
-  {
+  "reliq/sound/weapons/": {
    "bytes": 0,
-   "path": "reliq/sound/weapons/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-28T22:27:08.000Z"
   },
-  {
+  "reliq/sound/weapons/guncock.wav": {
    "bytes": 14375,
-   "path": "reliq/sound/weapons/guncock.wav",
    "sha256": "f8467540383efefc9ae4a37269bd770c0626e951bd14681494d74894a3ea04fd",
    "timestamp": "2021-01-27T13:15:52.000Z"
   },
-  {
+  "reliq/sound/weapons/shotgn2.wav": {
    "bytes": 98592,
-   "path": "reliq/sound/weapons/shotgn2.wav",
    "sha256": "d81e6f9ac69659e032de69cf41520dd5954f0dea73cb20a86c7ef015fad263bd",
    "timestamp": "2021-01-11T03:00:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with increased limits."
  ],

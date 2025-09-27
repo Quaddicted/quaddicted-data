@@ -4,30 +4,27 @@
  ],
  "bytes": 2906926,
  "description": "Two-map industrial-themed pack featuring Q2 waste textures and modified grunts/enforcers.",
- "files": [
-  {
+ "files": {
+  "guncotton/": {
    "bytes": 0,
-   "path": "guncotton/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2003-06-10T19:59:16.000Z"
   },
-  {
+  "guncotton/guncotton.txt": {
    "bytes": 2274,
-   "path": "guncotton/guncotton.txt",
    "sha256": "534416621253d9302255c94809b270d4cd04a071b44db74be40f55a9d0297ed2",
    "timestamp": "2003-06-10T19:59:08.000Z"
   },
-  {
+  "guncotton/pak0.pak": {
    "bytes": 6876462,
-   "path": "guncotton/pak0.pak",
    "sha256": "8085ee848661a8440a908318f23bb29b34cccab9c7f8a3b599b7566a0d245c49",
    "timestamp": "2002-07-17T17:43:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-06-10",
  "sha256": "c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 699855,
  "description": "Small and straightforward base map with lots of crates.",
- "files": [
-  {
+ "files": {
+  "pdq1sp1-scraps.zip": {
    "bytes": 150901,
-   "path": "pdq1sp1-scraps.zip",
    "sha256": "1672509a31aba48072c3844b25bd4116dbbcd741bf2740469898e52cc96db9ba",
    "timestamp": "2003-08-01T04:05:58.000Z"
   },
-  {
+  "pdq1sp1.bsp": {
    "bytes": 1368648,
-   "path": "pdq1sp1.bsp",
    "sha256": "82e3bec7c1c7419ae55f8cdcd3e7d1c551562651a1da92283581083e3dceb470",
    "timestamp": "2003-07-30T21:25:22.000Z"
   },
-  {
+  "pdq1sp1.txt": {
    "bytes": 2574,
-   "path": "pdq1sp1.txt",
    "sha256": "1a8ecec8c5f0c9fb902566340b1070609f915b008caca1c9db94736b848d8e63",
    "timestamp": "2003-08-01T04:29:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is the same as pdq1sp1.zip but with the additional map scraps in the zip archive."
  ],

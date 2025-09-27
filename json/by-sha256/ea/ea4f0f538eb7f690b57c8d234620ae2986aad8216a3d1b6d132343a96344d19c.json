@@ -4,36 +4,32 @@
  ],
  "bytes": 3736007,
  "description": "Short map with simple gameplay, set in a rocky cavern.",
- "files": [
-  {
+ "files": {
+  "potluck_scampie.bsp": {
    "bytes": 5491184,
-   "path": "potluck_scampie.bsp",
    "sha256": "084d4b8fc47c9398b639bac1a3ebcd54617ad4ca1f6bca759aeaccbcae8e8dda",
    "timestamp": "2024-07-30T21:40:48.000Z"
   },
-  {
+  "potluck_scampie.lit": {
    "bytes": 711776,
-   "path": "potluck_scampie.lit",
    "sha256": "76b8f0f9d252bfe88993e22db4b41d33542016a61973c3bd6f45bc12f2573ec8",
    "timestamp": "2024-07-30T21:40:48.000Z"
   },
-  {
+  "potluck_scampie.map": {
    "bytes": 251647,
-   "path": "potluck_scampie.map",
    "sha256": "8fce46c8117d23ab61f7ef639c27ddc259c53732a2b9eb82e3f39932f9709359",
    "timestamp": "2024-07-30T22:02:20.000Z"
   },
-  {
+  "potluck_scampie.txt": {
    "bytes": 537,
-   "path": "potluck_scampie.txt",
    "sha256": "9e0a1d5829bd905f06318a6a7bfecc6e588fb45f3f3ce086020d6e4f2fdb13d0",
    "timestamp": "2024-07-31T17:31:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-07-31",
  "sha256": "ea4f0f538eb7f690b57c8d234620ae2986aad8216a3d1b6d132343a96344d19c",
  "tags": [

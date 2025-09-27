@@ -4,36 +4,32 @@
  ],
  "bytes": 17188369,
  "description": "Mod featuring many new and modified monsters, weapons and other map features, created over the course of many years, primarily for use in releases by <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3DTronyn%22%5D\">Tronyn</a> but used in various other maps too.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 23815404,
-   "path": "pak0.pak",
    "sha256": "94341046b38e03ab52a6e19e5847a9e9476db5c9f17a8c70b8c0ed219462797f",
    "timestamp": "2010-10-29T21:01:14.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 12054535,
-   "path": "pak1.pak",
    "sha256": "98e70207af3e80aec3aa18738ff191bb06d80b5fc27ec69a73840357076c1a12",
    "timestamp": "2010-10-29T21:06:10.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 25496,
-   "path": "pak2.pak",
    "sha256": "dab1123e3fd0a0e38eb916f85d6a2609bb0acf3ecf0666fd742c4fa46c0a576a",
    "timestamp": "2010-10-29T21:27:46.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1623752,
-   "path": "progs.dat",
    "sha256": "76f754d0f66e4e8feb546a754673247184d2faa8ff52ca708c56edbf1b6864e3",
    "timestamp": "2010-10-29T21:00:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/drake/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Previously only available in the Quaddicted filebase, but added to the main archive during the 2024 rebuild for dependency purposes.",
   "A newer version is available <a href=\"76ec31782bf5c8cf9a372c59bfd20b5e38f7d76c94aa1190078cfb72ecb41cd3\">here</a>."

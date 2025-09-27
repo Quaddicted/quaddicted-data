@@ -4,30 +4,27 @@
  ],
  "bytes": 683471,
  "description": "A medium sized medieval map with new textures, gameplay focuses largely on discovering secrets.",
- "files": [
-  {
+ "files": {
+  "Silhints.txt": {
    "bytes": 4928,
-   "path": "Silhints.txt",
    "sha256": "8fc4d6ac6855b50a5ac68bdd31479ab8da2b58e1d56f6cfa68452a0a829b3002",
    "timestamp": "1997-04-06T00:12:18.000Z"
   },
-  {
+  "Siluette.txt": {
    "bytes": 5268,
-   "path": "Siluette.txt",
    "sha256": "b0f824c8969d6f6a1401bb6afad9f61d2ec1e484cfb551a76a99bc7c5630a0f6",
    "timestamp": "1997-04-16T03:12:48.000Z"
   },
-  {
+  "siluette.bsp": {
    "bytes": 1497068,
-   "path": "siluette.bsp",
    "sha256": "a2158dfea4c73a7d66cf40d7207babc3e4d20a65c9737a261fa2707a49b6f153",
    "timestamp": "1997-04-06T01:37:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-10",
  "sha256": "9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853",
  "tags": [

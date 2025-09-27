@@ -6,48 +6,42 @@
  ],
  "bytes": 22318516,
  "description": "Speedy map jam following the theme \"Fantasy brick cities in the skies\": three floating maps by Skacky, Sock and RickyT23. It comes with optional medieval-style item models.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 81899534,
-   "path": "pak0.pak",
    "sha256": "d4f1a15af88ddd47c74ddcbc5c3f04624e48342a0c5f18d5c5e8264a23f92b5b",
    "timestamp": "2014-12-04T19:13:34.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 733727,
-   "path": "pak1.pak",
    "sha256": "3187c1ca1a70b1a57c64d69c6d04237eca38722b8281200bb9cc209b5c77b9b8",
    "timestamp": "2014-11-29T18:38:26.000Z"
   },
-  {
+  "retrojam2_readme.txt": {
    "bytes": 2536,
-   "path": "retrojam2_readme.txt",
    "sha256": "b5f948b29df4f3f364ed2ed8d28d53a13882a762a80fc88f14b0c8453bb88bea",
    "timestamp": "2014-12-04T19:12:30.000Z"
   },
-  {
+  "retrojam2_rickyt23.txt": {
    "bytes": 206,
-   "path": "retrojam2_rickyt23.txt",
    "sha256": "b46dc1515a8fc83129e9fc23d9dcbad2a4d713ff5d5d74f9e6530fc61e1f7893",
    "timestamp": "2014-12-02T03:51:24.000Z"
   },
-  {
+  "retrojam2_skacky.txt": {
    "bytes": 1245,
-   "path": "retrojam2_skacky.txt",
    "sha256": "1de301f6cfc4c59f127d7329790ebfde03adcbd518b342b1defef90da11be2dd",
    "timestamp": "2014-12-01T18:50:48.000Z"
   },
-  {
+  "retrojam2_sock.txt": {
    "bytes": 2733,
-   "path": "retrojam2_sock.txt",
    "sha256": "1a5fce375e5848269c50f86a82875131accdbbe25da197132da2611cd8fc2c3d",
    "timestamp": "2014-12-04T19:21:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//retrojam2"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2014-12-04",
  "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
  "tags": [

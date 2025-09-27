@@ -4,24 +4,22 @@
  ],
  "bytes": 498519,
  "description": "Medium sized industrial base map (second version).",
- "files": [
-  {
+ "files": {
+  "strong hold.txt": {
    "bytes": 2596,
-   "path": "strong hold.txt",
    "sha256": "e7e2ddacea105ccc22e957111f3c62d3be69f5d919fb79363b3c6f82c6d1cef7",
    "timestamp": "1999-07-15T22:16:06.000Z"
   },
-  {
+  "strong-hold.bsp": {
    "bytes": 1271080,
-   "path": "strong-hold.bsp",
    "sha256": "4a77a3ceb0ab0bba3df2c30b2086d1d9aca7dd4db01fcfb94b15c06d8ca887aa",
    "timestamp": "1999-07-15T21:47:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1999-07-15",
  "sha256": "b1dd7757bb3a014a9cacef1d8e704abe4f90d670719681cd27356894403b89fd",
  "tags": [

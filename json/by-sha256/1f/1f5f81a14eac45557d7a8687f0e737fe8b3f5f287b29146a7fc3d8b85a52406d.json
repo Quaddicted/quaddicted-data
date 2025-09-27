@@ -7,132 +7,112 @@
  ],
  "bytes": 38296644,
  "description": "Three-map singleplayer campaign of epic proportions: A huge arcane demon fortress built into a mountain, complete with a canyon start map and a bloody boss arena. The levels are based on the Drake mod (included) which features a plethora of new monsters and items. Many secrets and hard gameplay.",
- "files": [
-  {
+ "files": {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-12-11T13:35:18.000Z"
   },
-  {
+  "gfx/env/deepblue_bk.tga": {
    "bytes": 467895,
-   "path": "gfx/env/deepblue_bk.tga",
    "sha256": "779c94406c20c444aeb931049bd75d3bc24a3f7dd2fdb982fa17e76c929df9d8",
    "timestamp": "2003-03-05T13:00:50.000Z"
   },
-  {
+  "gfx/env/deepblue_dn.tga": {
    "bytes": 781154,
-   "path": "gfx/env/deepblue_dn.tga",
    "sha256": "4c58639453d239d4dbc1916817c0cbbf385491c501ab1ff54092fd3bada65892",
    "timestamp": "2003-03-05T13:01:18.000Z"
   },
-  {
+  "gfx/env/deepblue_ft.tga": {
    "bytes": 435549,
-   "path": "gfx/env/deepblue_ft.tga",
    "sha256": "908c4b9797f7278b408b746031c81ad53a230857e280520637bd8690f9252f01",
    "timestamp": "2003-03-05T13:00:30.000Z"
   },
-  {
+  "gfx/env/deepblue_lf.tga": {
    "bytes": 499563,
-   "path": "gfx/env/deepblue_lf.tga",
    "sha256": "d927f2cbe4dcf25a1b7c163e7a0910fdba730a9f1c95bf8b692ba74dad94add7",
    "timestamp": "2003-03-05T13:00:40.000Z"
   },
-  {
+  "gfx/env/deepblue_rt.tga": {
    "bytes": 436674,
-   "path": "gfx/env/deepblue_rt.tga",
    "sha256": "2b8b8487108a6f43fb260fd4d090f78e3dc630fcfb3bf3ebc0d7ddc1af40e883",
    "timestamp": "2003-03-05T13:01:00.000Z"
   },
-  {
+  "gfx/env/deepblue_up.tga": {
    "bytes": 84377,
-   "path": "gfx/env/deepblue_up.tga",
    "sha256": "9b2b26fe2bbd08a3905032613cb7f982ad0c881ab654561c599f7c7c49d0da70",
    "timestamp": "2003-03-05T13:01:10.000Z"
   },
-  {
+  "maps/wicked.bsp": {
    "bytes": 19212488,
-   "path": "maps/wicked.bsp",
    "sha256": "699eed19fbbd82a56f76764b123f9089cf0c472bf1f83a76d90a6296087dfec3",
    "timestamp": "2012-12-11T12:46:42.000Z"
   },
-  {
+  "maps/wickedend.bsp": {
    "bytes": 3975948,
-   "path": "maps/wickedend.bsp",
    "sha256": "9a58e2b43866355c2e6743fec31dc1f22479591c5ab4d338bbe268e29cc0d1e0",
    "timestamp": "2012-12-18T13:38:48.000Z"
   },
-  {
+  "maps/wickedstart.bsp": {
    "bytes": 6207480,
-   "path": "maps/wickedstart.bsp",
    "sha256": "ba854b2a7ba6b378c760b342da2eed47358b958ed9ab7b80817b7e4a65bebb7b",
    "timestamp": "2012-12-11T13:44:08.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 25051624,
-   "path": "pak0.pak",
    "sha256": "9a229082e446dc3991778b3364ec5aeba9b6767e5905406767f753862997295a",
    "timestamp": "2011-06-12T20:18:08.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 11698993,
-   "path": "pak1.pak",
    "sha256": "22d57e211cdb714ba3df19083c1514b08e5c84650545bc1a4092b383fb72a3f9",
    "timestamp": "2011-06-12T19:56:02.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 4813402,
-   "path": "pak2.pak",
    "sha256": "8bf25c19172e0f7a63ad30fa14b1a93d335e50270bb1d3bd110d63adae53a3b5",
    "timestamp": "2012-12-11T07:04:08.000Z"
   },
-  {
+  "pak3.pak": {
    "bytes": 6506790,
-   "path": "pak3.pak",
    "sha256": "9a58d294e79806fc15293163ba9954f7d842238c3040aa753f497c5fec2e8473",
    "timestamp": "2012-12-11T07:01:28.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1801512,
-   "path": "progs.dat",
    "sha256": "e6d0e49beb603b2bd911f3c0132b91649c4286033cd07f1225c5343c62f09f0d",
    "timestamp": "2012-12-11T07:01:40.000Z"
   },
-  {
+  "something_wicked_readme.txt": {
    "bytes": 4853,
-   "path": "something_wicked_readme.txt",
    "sha256": "b0f9b247b3767375a2cc3cfa2fa28c92aaafbcae239ef87e801558f0e38d53ea",
    "timestamp": "2012-12-12T01:55:50.000Z"
   },
-  {
+  "sound/music/": {
    "bytes": 0,
-   "path": "sound/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-12-11T06:59:16.000Z"
   },
-  {
+  "sound/music/six.wav": {
    "bytes": 2092056,
-   "path": "sound/music/six.wav",
    "sha256": "9f43332b5c7f3a1df6e02d15aa5160283ab3c100fe9f43ca74a480780394e266",
    "timestamp": "2012-12-11T06:59:16.000Z"
   },
-  {
+  "sound/music/smiths.wav": {
    "bytes": 949560,
-   "path": "sound/music/smiths.wav",
    "sha256": "4584f854a7e15bab5907e50bb2313da178f6c98c2b61b0c07f44a6e086c2840f",
    "timestamp": "2012-12-11T06:59:16.000Z"
   },
-  {
+  "sound/music/stone.wav": {
    "bytes": 1015224,
-   "path": "sound/music/stone.wav",
    "sha256": "3a1fc8b3a2a76925c483900daed53477bdbb788690e9b8f28f40f60e4d611911",
    "timestamp": "2012-12-11T06:59:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/wicked/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with BSP2 support as well as increased limits."
  ],

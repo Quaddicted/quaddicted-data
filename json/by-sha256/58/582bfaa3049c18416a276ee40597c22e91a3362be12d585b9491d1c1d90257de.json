@@ -4,24 +4,22 @@
  ],
  "bytes": 48824807,
  "description": "Large ancient temple ruins hidden deep beneath a snowy mountain valley. The theme of the map is inspired by the Ayleid ruins from TES4: Oblivion. The map has all new textures, many modified or new monsters from Hexen 2 including a fearsome boss demon, and a custom quad-barrel shotgun.",
- "files": [
-  {
+ "files": {
+  "ne_ruins.txt": {
    "bytes": 8719,
-   "path": "ne_ruins.txt",
    "sha256": "a6990422bd1562b41e64a794d6540025aacf4faa29cbdbd5c4458b173e00a1fa",
    "timestamp": "2011-06-22T16:05:40.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 93769389,
-   "path": "pak0.pak",
    "sha256": "f53a82d77374775430fd4ad1e589bf979644b9bf7f8035bc8c00749f6560b264",
    "timestamp": "2011-06-22T15:42:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ne_ruins/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2011-06-22",
  "sha256": "582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de",
  "tags": [

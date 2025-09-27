@@ -4,564 +4,472 @@
  ],
  "bytes": 1823919768,
  "description": "Enormous story-driven campaign with over 30 maps spanning a variety of vast and imaginitive locations, from built-up cities and industrial areas to swamplands, oceans and space. Built on Arcane Dimensions (included).",
- "files": [
-  {
+ "files": {
+  "peril3.0/Peril_README.txt": {
    "bytes": 22806,
-   "path": "peril3.0/Peril_README.txt",
    "sha256": "9a6f8342d2ab949f883b943f6a4c250f4974b031a7c3c53e75cbf1fbf721550e",
    "timestamp": "2023-09-28T12:36:18.000Z"
   },
-  {
+  "peril3.0/ad_1_8.def": {
    "bytes": 401897,
-   "path": "peril3.0/ad_1_8.def",
    "sha256": "da5fbc6e19b4998787e1893c9c2eb516893aee49517b80471e71e412b854303f",
    "timestamp": "2021-01-15T19:16:16.000Z"
   },
-  {
+  "peril3.0/ad_1_8.fgd": {
    "bytes": 250757,
-   "path": "peril3.0/ad_1_8.fgd",
    "sha256": "2fdaef42f02c37370b36bd973e9ebfe08827f5847e26b4c250dd9b521a6b8431",
    "timestamp": "2021-01-15T19:16:16.000Z"
   },
-  {
+  "peril3.0/config.cfg": {
    "bytes": 3267,
-   "path": "peril3.0/config.cfg",
    "sha256": "840c7e8eccc3756ab324aaa3d1fdb5fd4795d9df9857dc0e9487a0dd550b0538",
    "timestamp": "2023-07-30T19:08:26.000Z"
   },
-  {
+  "peril3.0/maps/540fathoms.bsp": {
    "bytes": 38098228,
-   "path": "peril3.0/maps/540fathoms.bsp",
    "sha256": "ccbb54d6f14edc657a345904fc527dda05255825f3833975e9ac673f4ca4e233",
    "timestamp": "2023-09-30T12:34:24.000Z"
   },
-  {
+  "peril3.0/maps/540fathoms.lit": {
    "bytes": 12021908,
-   "path": "peril3.0/maps/540fathoms.lit",
    "sha256": "af93743b6eb94cf381646decd8ed812b3eb1ccc50444f21b0f95cb181defebf9",
    "timestamp": "2023-09-30T12:34:24.000Z"
   },
-  {
+  "peril3.0/maps/bickley.bsp": {
    "bytes": 109226172,
-   "path": "peril3.0/maps/bickley.bsp",
    "sha256": "fbf1a74759508017138df85e616790a7738d580659e3fa8d9711befae8986c5f",
    "timestamp": "2023-09-26T11:49:48.000Z"
   },
-  {
+  "peril3.0/maps/bickley.lit": {
    "bytes": 58652732,
-   "path": "peril3.0/maps/bickley.lit",
    "sha256": "debf6d1d332ca2d1dd11733123a366a8834bf4ea8eced97d34311a37a93498c0",
    "timestamp": "2023-09-26T11:49:48.000Z"
   },
-  {
+  "peril3.0/maps/blimp.bsp": {
    "bytes": 73473440,
-   "path": "peril3.0/maps/blimp.bsp",
    "sha256": "88dece4f6264749ff56ec315a81d24e8175ddea84a4d3adc4e61348eb74602cc",
    "timestamp": "2023-09-26T19:12:00.000Z"
   },
-  {
+  "peril3.0/maps/blimp.lit": {
    "bytes": 81881720,
-   "path": "peril3.0/maps/blimp.lit",
    "sha256": "5a8973b9e36d8dcaded33a049b8b2c8fd3a28be5819bcdfbbcabf6a3c87c999c",
    "timestamp": "2023-09-26T19:12:00.000Z"
   },
-  {
+  "peril3.0/maps/cliff.bsp": {
    "bytes": 85602692,
-   "path": "peril3.0/maps/cliff.bsp",
    "sha256": "a7ea175ceece1327c3270940f1e50a722744dcd332e96d37d4e9054bd5e994d9",
    "timestamp": "2023-09-26T12:57:46.000Z"
   },
-  {
+  "peril3.0/maps/cliff.lit": {
    "bytes": 58682588,
-   "path": "peril3.0/maps/cliff.lit",
    "sha256": "236ba027eb404ec46383d9f067549f4cca899496de902fdc8e9892c347f4f3ce",
    "timestamp": "2023-09-26T12:57:46.000Z"
   },
-  {
+  "peril3.0/maps/clovelly.bsp": {
    "bytes": 69705088,
-   "path": "peril3.0/maps/clovelly.bsp",
    "sha256": "6f0a2b9b138d56e47a9ede8d0cbc05083409ec5e7299dbae88d2edf7a9a6d7bf",
    "timestamp": "2023-09-27T18:38:40.000Z"
   },
-  {
+  "peril3.0/maps/clovelly.lit": {
    "bytes": 16809992,
-   "path": "peril3.0/maps/clovelly.lit",
    "sha256": "fb57ca84c678f121ffc6c8664e8363f605cebaed10b10499065aae147c2ff158",
    "timestamp": "2023-09-27T18:38:40.000Z"
   },
-  {
+  "peril3.0/maps/country.bsp": {
    "bytes": 67273296,
-   "path": "peril3.0/maps/country.bsp",
    "sha256": "1ca445d1485ca99d104ee950b66f43f99d5ae022baad29a13e994cb44bf5f99a",
    "timestamp": "2023-09-26T08:57:42.000Z"
   },
-  {
+  "peril3.0/maps/country.lit": {
    "bytes": 29587676,
-   "path": "peril3.0/maps/country.lit",
    "sha256": "f42f551f0a3f0f0711860f9a2aeaa0af0524d716426a85ed371499d597bcd8f5",
    "timestamp": "2023-09-26T08:57:42.000Z"
   },
-  {
+  "peril3.0/maps/cravasse.bsp": {
    "bytes": 90301316,
-   "path": "peril3.0/maps/cravasse.bsp",
    "sha256": "ee08cd0672780cb73af35c14939969fbf7aa41ce04f39c8f433244fc30e07875",
    "timestamp": "2023-09-30T12:33:28.000Z"
   },
-  {
+  "peril3.0/maps/cravasse.lit": {
    "bytes": 40560392,
-   "path": "peril3.0/maps/cravasse.lit",
    "sha256": "105026ac1f0498cd73c6b5c13745f88e287de07eb70850c2e10a879fddff1e49",
    "timestamp": "2023-09-30T12:33:28.000Z"
   },
-  {
+  "peril3.0/maps/crossroad.bsp": {
    "bytes": 90767948,
-   "path": "peril3.0/maps/crossroad.bsp",
    "sha256": "7ea886e5eca1a85fade3e9ae126994425ea2e59c9eacd2280bcdb0fd005f931f",
    "timestamp": "2023-09-27T18:42:20.000Z"
   },
-  {
+  "peril3.0/maps/crossroad.lit": {
    "bytes": 41201540,
-   "path": "peril3.0/maps/crossroad.lit",
    "sha256": "ad2b7125933329820407b598a4829b7860dc65979f28491b399ff79bbc3e183c",
    "timestamp": "2023-09-27T18:42:20.000Z"
   },
-  {
+  "peril3.0/maps/dock.bsp": {
    "bytes": 82895664,
-   "path": "peril3.0/maps/dock.bsp",
    "sha256": "0445ecb7d569db1c7f04749f059e4d8c31b5c8005803e1fe39de14b50ae42f02",
    "timestamp": "2023-09-26T13:46:34.000Z"
   },
-  {
+  "peril3.0/maps/dock.lit": {
    "bytes": 22593044,
-   "path": "peril3.0/maps/dock.lit",
    "sha256": "748c786cd6d4a66e9f6d32c39bb1b1fa2b2fd43d0f0762df3eec0be864eef06d",
    "timestamp": "2023-09-26T13:46:34.000Z"
   },
-  {
+  "peril3.0/maps/fallen.bsp": {
    "bytes": 126781488,
-   "path": "peril3.0/maps/fallen.bsp",
    "sha256": "cbb973977a85b4c31035d355530af006dd65ff2d263d853c7df6b019e7a78424",
    "timestamp": "2023-09-26T19:51:44.000Z"
   },
-  {
+  "peril3.0/maps/fallen.lit": {
    "bytes": 51650996,
-   "path": "peril3.0/maps/fallen.lit",
    "sha256": "6d154f91f6b8a76629f96eea0982b1f7ac8a5139678288bd89a1af06d43485bf",
    "timestamp": "2023-09-26T19:51:44.000Z"
   },
-  {
+  "peril3.0/maps/fire.bsp": {
    "bytes": 70105320,
-   "path": "peril3.0/maps/fire.bsp",
    "sha256": "60ec5d03f8a345554a38db833fefe65a61b6c344e826faa523468f0dbd5c3cb4",
    "timestamp": "2023-09-26T12:34:04.000Z"
   },
-  {
+  "peril3.0/maps/fire.lit": {
    "bytes": 41237144,
-   "path": "peril3.0/maps/fire.lit",
    "sha256": "5e65dc28bf64b2f2fa53ca8a95dd2bd3285d9c7f2f270578292d50b61a7fcfbc",
    "timestamp": "2023-09-26T12:34:04.000Z"
   },
-  {
+  "peril3.0/maps/geochasm.bsp": {
    "bytes": 60904976,
-   "path": "peril3.0/maps/geochasm.bsp",
    "sha256": "ae5349763ffd001b706d18e36b4bb99fac171cfbb7d4da132e8981a915a42553",
    "timestamp": "2023-09-27T17:37:14.000Z"
   },
-  {
+  "peril3.0/maps/geochasm.lit": {
    "bytes": 61256240,
-   "path": "peril3.0/maps/geochasm.lit",
    "sha256": "d66bc44d69f3ce9a5c04c430bb1166ea54d8ea9dbb8ec6cfc50b0a10a71c495b",
    "timestamp": "2023-09-27T17:37:14.000Z"
   },
-  {
+  "peril3.0/maps/gorge.bsp": {
    "bytes": 70532332,
-   "path": "peril3.0/maps/gorge.bsp",
    "sha256": "d715260b95ddaf8bb29fd55a2b3957167f91550c7eb800450c978c055aeebede",
    "timestamp": "2023-09-27T18:58:00.000Z"
   },
-  {
+  "peril3.0/maps/gorge.lit": {
    "bytes": 37731140,
-   "path": "peril3.0/maps/gorge.lit",
    "sha256": "00aa1f7689f6058389c35732ab85a891274e33168632a304de68eb1900be4a60",
    "timestamp": "2023-09-27T18:58:00.000Z"
   },
-  {
+  "peril3.0/maps/hydrodam.bsp": {
    "bytes": 78798512,
-   "path": "peril3.0/maps/hydrodam.bsp",
    "sha256": "42fd187450f991231de37bac060cc17ce92b25e69498645b2bbd43e79c25210b",
    "timestamp": "2023-09-26T13:16:04.000Z"
   },
-  {
+  "peril3.0/maps/hydrodam.lit": {
    "bytes": 30504668,
-   "path": "peril3.0/maps/hydrodam.lit",
    "sha256": "8a8576dafa06a7102300844d9f30ca977bee34608bfcc87f6354c823ca55baaf",
    "timestamp": "2023-09-26T13:16:04.000Z"
   },
-  {
+  "peril3.0/maps/industry.bsp": {
    "bytes": 119806328,
-   "path": "peril3.0/maps/industry.bsp",
    "sha256": "4dfa65e59dd9cf956dff4d34df9362dc0cf18ad65bc262848b013fcada53f284",
    "timestamp": "2023-09-27T13:21:04.000Z"
   },
-  {
+  "peril3.0/maps/industry.lit": {
    "bytes": 49456184,
-   "path": "peril3.0/maps/industry.lit",
    "sha256": "5efd10a37e39804e90d474c3c0b0e936ee4f2ad9e1ad810ff721fe1de099ff0a",
    "timestamp": "2023-09-27T13:21:04.000Z"
   },
-  {
+  "peril3.0/maps/island.bsp": {
    "bytes": 70299616,
-   "path": "peril3.0/maps/island.bsp",
    "sha256": "4bced54e72af6871c569e6974c04fc2af38d7a7490ff5c9ddbacf8d63a2996cf",
    "timestamp": "2023-09-27T18:01:04.000Z"
   },
-  {
+  "peril3.0/maps/island.lit": {
    "bytes": 39866456,
-   "path": "peril3.0/maps/island.lit",
    "sha256": "e47ad746adbe84cec75b50219662a4ca11f142180e5eef84e3edae49c9a3966e",
    "timestamp": "2023-09-27T18:01:04.000Z"
   },
-  {
+  "peril3.0/maps/lava.bsp": {
    "bytes": 89835868,
-   "path": "peril3.0/maps/lava.bsp",
    "sha256": "b7eb51fa21935e9096df56ebcff189eb09c1ead3d988f0730812401e1a07d6bf",
    "timestamp": "2023-09-27T17:58:14.000Z"
   },
-  {
+  "peril3.0/maps/lava.lit": {
    "bytes": 52667828,
-   "path": "peril3.0/maps/lava.lit",
    "sha256": "8c56fc9a1bddb0450ba4170ffb60a9dbf13d21e1fe5c360c6d8cd5e21bc7cb6f",
    "timestamp": "2023-09-27T17:58:14.000Z"
   },
-  {
+  "peril3.0/maps/marsh.bsp": {
    "bytes": 72219264,
-   "path": "peril3.0/maps/marsh.bsp",
    "sha256": "40e6f4e794c0a420f7973e5f3fd07f81b62a786937a8e78f0d3e82d1f58d180b",
    "timestamp": "2023-09-26T14:58:22.000Z"
   },
-  {
+  "peril3.0/maps/marsh.lit": {
    "bytes": 35047184,
-   "path": "peril3.0/maps/marsh.lit",
    "sha256": "fdb0107bd7b5e5d0ed8d6d216fab1d4a2de36b8c460185b5a75762a654b3626b",
    "timestamp": "2023-09-26T14:58:20.000Z"
   },
-  {
+  "peril3.0/maps/mayflower.bsp": {
    "bytes": 64756532,
-   "path": "peril3.0/maps/mayflower.bsp",
    "sha256": "018ddb4d3c3a5230cb99f6f490b5d06fa442508091f5294fc82be26ef488cdce",
    "timestamp": "2023-09-26T13:52:46.000Z"
   },
-  {
+  "peril3.0/maps/mayflower.lit": {
    "bytes": 42707186,
-   "path": "peril3.0/maps/mayflower.lit",
    "sha256": "6dc4e25e687c1ff323f698ef5694a8a73349e143344e25702ddc69941df50061",
    "timestamp": "2023-09-26T13:52:46.000Z"
   },
-  {
+  "peril3.0/maps/maze.bsp": {
    "bytes": 89575788,
-   "path": "peril3.0/maps/maze.bsp",
    "sha256": "9ee7b36eb3974bed89c3913249a0c32f7e6d0001974e748e2069dc560da5259c",
    "timestamp": "2023-09-26T19:22:30.000Z"
   },
-  {
+  "peril3.0/maps/maze.lit": {
    "bytes": 52411628,
-   "path": "peril3.0/maps/maze.lit",
    "sha256": "3be4ad743f3b8b7249365ac91ae9732014a6aed72639e1bbb91b841f803adf17",
    "timestamp": "2023-09-26T19:22:30.000Z"
   },
-  {
+  "peril3.0/maps/mountain.bsp": {
    "bytes": 84906168,
-   "path": "peril3.0/maps/mountain.bsp",
    "sha256": "bf5a290bf3cf3c79358a95aa0ccfed19805799c7e15d99945b8026215073b2d8",
    "timestamp": "2023-09-26T18:47:52.000Z"
   },
-  {
+  "peril3.0/maps/mountain.lit": {
    "bytes": 48296624,
-   "path": "peril3.0/maps/mountain.lit",
    "sha256": "0371461e8f7ab3afb9ab55d9de3c3427247ece2ee258e0645ff9c4c176ce5226",
    "timestamp": "2023-09-26T18:47:52.000Z"
   },
-  {
+  "peril3.0/maps/north.bsp": {
    "bytes": 80149848,
-   "path": "peril3.0/maps/north.bsp",
    "sha256": "26181039e58104200316cb1aa17f39d52b8d176826fbe9253e57989c721dbf55",
    "timestamp": "2023-09-23T19:12:24.000Z"
   },
-  {
+  "peril3.0/maps/north.lit": {
    "bytes": 61026854,
-   "path": "peril3.0/maps/north.lit",
    "sha256": "36746bb9be164f933ed0ca4feeb76b64442440d2ab65b99cf97a5f88706b6caa",
    "timestamp": "2023-09-23T19:12:24.000Z"
   },
-  {
+  "peril3.0/maps/pdm1.bsp": {
    "bytes": 14193204,
-   "path": "peril3.0/maps/pdm1.bsp",
    "sha256": "99b1e1933d0a971065aabb9ed44bf93a89651d520dbb05747312c8af8aa4aebb",
    "timestamp": "2023-09-24T13:34:36.000Z"
   },
-  {
+  "peril3.0/maps/pdm1.lit": {
    "bytes": 3802436,
-   "path": "peril3.0/maps/pdm1.lit",
    "sha256": "c2a2ac3231996e45f9a19fb585fd1c024b1d52afada37a66b61ab80de8e7b236",
    "timestamp": "2023-09-24T13:34:36.000Z"
   },
-  {
+  "peril3.0/maps/pdm2.bsp": {
    "bytes": 13376764,
-   "path": "peril3.0/maps/pdm2.bsp",
    "sha256": "f8ba3e372fca10be9f7940820105de9d51e61ff068ee22833b901b95c6bc578a",
    "timestamp": "2023-09-24T13:41:50.000Z"
   },
-  {
+  "peril3.0/maps/pdm2.lit": {
    "bytes": 3834968,
-   "path": "peril3.0/maps/pdm2.lit",
    "sha256": "781706c117ea377238b0f5b15d8a9e5b8a4b03a002f05cbf6f71f6ff7c1627f7",
    "timestamp": "2023-09-24T13:41:50.000Z"
   },
-  {
+  "peril3.0/maps/pdm3.bsp": {
    "bytes": 40978324,
-   "path": "peril3.0/maps/pdm3.bsp",
    "sha256": "122a41277e388dd0289b260281624e26aa649b3cb50c72cbda5e2004c8c1a3c0",
    "timestamp": "2023-09-24T13:50:26.000Z"
   },
-  {
+  "peril3.0/maps/pdm3.lit": {
    "bytes": 23995052,
-   "path": "peril3.0/maps/pdm3.lit",
    "sha256": "6193b27e8ac4f8a459caf719187cb8820eb55065aeac628d95c86d1bef58372d",
    "timestamp": "2023-09-24T13:50:26.000Z"
   },
-  {
+  "peril3.0/maps/pdm4.bsp": {
    "bytes": 10400716,
-   "path": "peril3.0/maps/pdm4.bsp",
    "sha256": "ecb29b388bcdab34e17c4034ea8e03ab5f3b628e7ed4fbab96dc5a6451a0eeaf",
    "timestamp": "2023-09-24T13:52:54.000Z"
   },
-  {
+  "peril3.0/maps/pdm4.lit": {
    "bytes": 2584484,
-   "path": "peril3.0/maps/pdm4.lit",
    "sha256": "ac8274b707a4840cf067b69249a21027bf8222d32669421a26315f2dd4d7489e",
    "timestamp": "2023-09-24T13:52:54.000Z"
   },
-  {
+  "peril3.0/maps/pdm5.bsp": {
    "bytes": 9640996,
-   "path": "peril3.0/maps/pdm5.bsp",
    "sha256": "27ff46b447ede7bee2dccd179a041b456ae835e6a2002dd98f2006db58de33e7",
    "timestamp": "2023-09-24T13:57:32.000Z"
   },
-  {
+  "peril3.0/maps/pdm5.lit": {
    "bytes": 2031644,
-   "path": "peril3.0/maps/pdm5.lit",
    "sha256": "c5f5860b34fc2fb0728df0ae1c237f77307976b167f6c430664366b1b7cc9b08",
    "timestamp": "2023-09-24T13:57:32.000Z"
   },
-  {
+  "peril3.0/maps/powerplant.bsp": {
    "bytes": 88554876,
-   "path": "peril3.0/maps/powerplant.bsp",
    "sha256": "49b0b41626521a5d7082d8213983ae124ec015d1f0c17e140e106768b79a2cf6",
    "timestamp": "2023-09-27T17:06:38.000Z"
   },
-  {
+  "peril3.0/maps/powerplant.lit": {
    "bytes": 34272536,
-   "path": "peril3.0/maps/powerplant.lit",
    "sha256": "3440dfc9ce02bb383e633a3ee244aa1afa5478967de87824a8c0f9a70367fbcd",
    "timestamp": "2023-09-27T17:06:38.000Z"
   },
-  {
+  "peril3.0/maps/prison.bsp": {
    "bytes": 80254768,
-   "path": "peril3.0/maps/prison.bsp",
    "sha256": "38248392a30ca59e420afe1d7b62c5779ff16b18e627134fda1cee8aaeec8db9",
    "timestamp": "2023-09-27T14:49:44.000Z"
   },
-  {
+  "peril3.0/maps/prison.lit": {
    "bytes": 27790856,
-   "path": "peril3.0/maps/prison.lit",
    "sha256": "a1547cc321978634daed78438f102c40b0462f887f9be190d160570604395817",
    "timestamp": "2023-09-27T14:49:44.000Z"
   },
-  {
+  "peril3.0/maps/qstation.bsp": {
    "bytes": 144028872,
-   "path": "peril3.0/maps/qstation.bsp",
    "sha256": "a660e540ae0db3925a6e29eb93cb3a783e20e4ca53ac8fff6e15de4fd1d188ec",
    "timestamp": "2023-09-26T18:33:16.000Z"
   },
-  {
+  "peril3.0/maps/qstation.lit": {
    "bytes": 94245188,
-   "path": "peril3.0/maps/qstation.lit",
    "sha256": "c3855dd731cd4b59209bed26d3bd0ef2c5a46c5fa8d531a45b711d0f75c355ba",
    "timestamp": "2023-09-26T18:33:16.000Z"
   },
-  {
+  "peril3.0/maps/rubble.bsp": {
    "bytes": 153871208,
-   "path": "peril3.0/maps/rubble.bsp",
    "sha256": "3a0e4810aa8343dd373d9b4dd452febad620ea0f430368151ffa255961a93e8e",
    "timestamp": "2023-09-27T07:55:28.000Z"
   },
-  {
+  "peril3.0/maps/rubble.lit": {
    "bytes": 44442788,
-   "path": "peril3.0/maps/rubble.lit",
    "sha256": "284516421624ab3fb927c7e3b60b4b9be43e6d3e0aba959cd765e656cfb82ed8",
    "timestamp": "2023-09-27T07:55:28.000Z"
   },
-  {
+  "peril3.0/maps/shub.bsp": {
    "bytes": 80298760,
-   "path": "peril3.0/maps/shub.bsp",
    "sha256": "56585418e57ef9b377c5f8b808e3728ef0abdfc835eb0980082d8f62963007a4",
    "timestamp": "2023-09-26T12:19:26.000Z"
   },
-  {
+  "peril3.0/maps/shub.lit": {
    "bytes": 32909300,
-   "path": "peril3.0/maps/shub.lit",
    "sha256": "ac9e905d2b2075598b12af88699c29790a49e546ce9e9091b40f750e9ce5173b",
    "timestamp": "2023-09-26T12:19:26.000Z"
   },
-  {
+  "peril3.0/maps/skycastle.bsp": {
    "bytes": 118876848,
-   "path": "peril3.0/maps/skycastle.bsp",
    "sha256": "03285856689d613e6de0bd4004b9af0c04f8acb624540abe73751b551e94f97e",
    "timestamp": "2023-09-26T19:36:10.000Z"
   },
-  {
+  "peril3.0/maps/skycastle.lit": {
    "bytes": 100477148,
-   "path": "peril3.0/maps/skycastle.lit",
    "sha256": "f2abbead990393ef240aae737b35ed90c8fa627ade25f07bf166e409d4a41587",
    "timestamp": "2023-09-26T19:36:10.000Z"
   },
-  {
+  "peril3.0/maps/space.bsp": {
    "bytes": 57901576,
-   "path": "peril3.0/maps/space.bsp",
    "sha256": "c9ffd8145cbf9e01b8befa0a5f93e4f341cb9b8c4fed664cf425d69155576a75",
    "timestamp": "2023-09-26T15:07:20.000Z"
   },
-  {
+  "peril3.0/maps/space.lit": {
    "bytes": 28430144,
-   "path": "peril3.0/maps/space.lit",
    "sha256": "d5f73af31e2affef1cfcb29d740127e58c8b010d0962fea012f12c0c0c00f270",
    "timestamp": "2023-09-26T15:07:20.000Z"
   },
-  {
+  "peril3.0/maps/start.bsp": {
    "bytes": 142150060,
-   "path": "peril3.0/maps/start.bsp",
    "sha256": "d4f752006d149439ba285c7933006dc9e3e1a11b8941f2676364ee5dd255f75c",
    "timestamp": "2023-09-27T12:52:40.000Z"
   },
-  {
+  "peril3.0/maps/start.lit": {
    "bytes": 58198304,
-   "path": "peril3.0/maps/start.lit",
    "sha256": "5fa6b45bd387b848e521afb89ef5215ebc860df277926920005c42910b4036a7",
    "timestamp": "2023-09-27T12:52:38.000Z"
   },
-  {
+  "peril3.0/maps/subbase.bsp": {
    "bytes": 98326228,
-   "path": "peril3.0/maps/subbase.bsp",
    "sha256": "59ed8499c9ea5410a92daf676dbe0e23de24571749507f72bffe574d54fce1c1",
    "timestamp": "2023-09-27T17:14:54.000Z"
   },
-  {
+  "peril3.0/maps/subbase.lit": {
    "bytes": 53259536,
-   "path": "peril3.0/maps/subbase.lit",
    "sha256": "837288c9433d3b7817463caae17acfaf4392801e8f928da50500fb23258a027c",
    "timestamp": "2023-09-27T17:14:52.000Z"
   },
-  {
+  "peril3.0/maps/swamp.bsp": {
    "bytes": 97878144,
-   "path": "peril3.0/maps/swamp.bsp",
    "sha256": "87c00b42d17bb929e3faf4938b64620d10273e5042f0fe34bdc93fd761d5b9a0",
    "timestamp": "2023-09-26T14:26:12.000Z"
   },
-  {
+  "peril3.0/maps/swamp.lit": {
    "bytes": 67920596,
-   "path": "peril3.0/maps/swamp.lit",
    "sha256": "56672e22bd65af4c47c0b2d62c40d0e5eaa3a9f7571d69ef122f7934c0827976",
    "timestamp": "2023-09-26T14:26:12.000Z"
   },
-  {
+  "peril3.0/maps/tavistock.bsp": {
    "bytes": 155318508,
-   "path": "peril3.0/maps/tavistock.bsp",
    "sha256": "4c90bf228b095f1eab37468f8ff49b1ea26f2ec79f85a604163099ac381b4869",
    "timestamp": "2023-09-26T12:11:32.000Z"
   },
-  {
+  "peril3.0/maps/tavistock.lit": {
    "bytes": 45200648,
-   "path": "peril3.0/maps/tavistock.lit",
    "sha256": "f7e6f3ec5b6e07d1fc3cba962180c35453185ef031ef5d45fc11b2f86763ea1f",
    "timestamp": "2023-09-26T12:11:32.000Z"
   },
-  {
+  "peril3.0/maps/treehouse.bsp": {
    "bytes": 85197252,
-   "path": "peril3.0/maps/treehouse.bsp",
    "sha256": "72b51c1f737f22048cf687a58330ed654944ef2fd963b35cd204a28af6dd101a",
    "timestamp": "2023-09-26T19:07:06.000Z"
   },
-  {
+  "peril3.0/maps/treehouse.lit": {
    "bytes": 42715808,
-   "path": "peril3.0/maps/treehouse.lit",
    "sha256": "21c7f13f79f035fa4b5343767dff608d00b75e4e10d15ca97cef0383fc818a5b",
    "timestamp": "2023-09-26T19:07:06.000Z"
   },
-  {
+  "peril3.0/maps/tunnel.bsp": {
    "bytes": 35944380,
-   "path": "peril3.0/maps/tunnel.bsp",
    "sha256": "c1bbbe018d7075616f19f0672d24f9b9f7878828463c7a1d4d2c7b1b71742ca8",
    "timestamp": "2023-09-26T10:51:14.000Z"
   },
-  {
+  "peril3.0/maps/tunnel.lit": {
    "bytes": 15752195,
-   "path": "peril3.0/maps/tunnel.lit",
    "sha256": "89ae0869d2e5004d065e45895e205fb6c6e0a2e5f06756718594e387e82f8287",
    "timestamp": "2023-09-26T10:51:14.000Z"
   },
-  {
+  "peril3.0/maps/village.bsp": {
    "bytes": 73778036,
-   "path": "peril3.0/maps/village.bsp",
    "sha256": "94d13aa21c2dfe5dbcff56739b6e4214532a5ef9071d7b9d5ebc09fa0598750f",
    "timestamp": "2023-09-26T18:45:30.000Z"
   },
-  {
+  "peril3.0/maps/village.lit": {
    "bytes": 30826148,
-   "path": "peril3.0/maps/village.lit",
    "sha256": "d4657fb32591534b000851efb755aa0d450363ecf7007b51de0f5447a2305a2e",
    "timestamp": "2023-09-26T18:45:30.000Z"
   },
-  {
+  "peril3.0/pak0.pak": {
    "bytes": 377820475,
-   "path": "peril3.0/pak0.pak",
    "sha256": "29d227d8321ad2a734f4a8fcb29ed8f5bfbde26889ad07811af6c9a954aacdfe",
    "timestamp": "2023-07-28T17:35:40.000Z"
   },
-  {
+  "peril3.0/pak1.pak": {
    "bytes": 277933899,
-   "path": "peril3.0/pak1.pak",
    "sha256": "606e34335c080158107fd61e20f435aae5672b0411a5cd497687ec8407024b97",
    "timestamp": "2023-08-05T20:53:56.000Z"
   },
-  {
+  "peril3.0/pak2.pak": {
    "bytes": 138384439,
-   "path": "peril3.0/pak2.pak",
    "sha256": "6e23d147abe9b1dfd2b7bb9399ae69f10e362642b8731df46896694169b5b627",
    "timestamp": "2023-08-05T21:15:50.000Z"
   },
-  {
+  "peril3.0/pak3.pak": {
    "bytes": 47388463,
-   "path": "peril3.0/pak3.pak",
    "sha256": "78d6adf09a44a63c93910348183c795946058c701842b4f3cb434ea0a557f8f2",
    "timestamp": "2023-08-06T12:45:04.000Z"
   },
-  {
+  "peril3.0/quake.rc": {
    "bytes": 8530,
-   "path": "peril3.0/quake.rc",
    "sha256": "55262ed84506490261c544cfc5078aaaf82981376ee96b5408a753e810ee7228",
    "timestamp": "2021-01-15T19:16:16.000Z"
   },
-  {
+  "qss 0.93.2.zip": {
    "bytes": 1793719,
-   "path": "qss 0.93.2.zip",
    "sha256": "4760ef55d35c7d64de73b5bc649dbdbccda8621e9d880b6b75b21e094cd9b787",
    "timestamp": "2023-09-28T11:49:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

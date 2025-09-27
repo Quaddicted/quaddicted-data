@@ -4,30 +4,27 @@
  ],
  "bytes": 1933550,
  "description": "Large blue, somewhat E2M5ish fortress with several outside areas and a dark platforming section. The map source is included.",
- "files": [
-  {
+ "files": {
+  "sr_dark.bsp": {
    "bytes": 4017652,
-   "path": "sr_dark.bsp",
    "sha256": "306a9e57e42ea340f6b1652e2241951ebd76c2ade16a9e2f9b874e7b716ef683",
    "timestamp": "2021-09-16T16:55:00.000Z"
   },
-  {
+  "sr_dark.map": {
    "bytes": 2431810,
-   "path": "sr_dark.map",
    "sha256": "afeae3e1f86fdc60bad107d96d86ce0fd4d3111befd38a086b6c704a48000ae0",
    "timestamp": "2021-09-16T16:54:26.000Z"
   },
-  {
+  "sr_dark.txt": {
    "bytes": 1615,
-   "path": "sr_dark.txt",
    "sha256": "705406478bfb2828d9887c7e4696a31be5ec51afa0a29c4c006662f97b85d2c9",
    "timestamp": "2021-09-16T17:13:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

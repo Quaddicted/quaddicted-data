@@ -4,24 +4,22 @@
  ],
  "bytes": 6587588,
  "description": "Episode with four medium-sized classic id-themed maps + custom start and end map. Mostly vanilla Quake with a few extras, comes with its own progs.dat. Based on previously released speedmaps (details in included readme).",
- "files": [
-  {
+ "files": {
+  "ttb/pak0.pak": {
    "bytes": 15520105,
-   "path": "ttb/pak0.pak",
    "sha256": "4a3175dd9325db8d8b19c8f68c5809b333745cad3337f1dcf669ecad4fc38d48",
    "timestamp": "2023-05-03T22:22:10.000Z"
   },
-  {
+  "ttb/ttb.txt": {
    "bytes": 6215,
-   "path": "ttb/ttb.txt",
    "sha256": "cefe99164abef5415c7646cad224683acdaf713f9540bc759b6139751a63f562",
    "timestamp": "2023-05-03T22:26:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Saving regularly is recommended in the final level ('Stories can Wait') due to the shub teleporter being prone to causing crashes."
  ],

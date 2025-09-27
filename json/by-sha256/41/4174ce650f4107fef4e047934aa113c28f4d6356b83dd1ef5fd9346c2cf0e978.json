@@ -4,24 +4,22 @@
  ],
  "bytes": 3811475,
  "description": "Large Metal fortress with a dragon boss fight and a few other custom progs.",
- "files": [
-  {
+ "files": {
+  "Hrim_sp1.txt": {
    "bytes": 7976,
-   "path": "Hrim_sp1.txt",
    "sha256": "edc435a9720cf838a3b7dd728725c5a673a486f525f9631131e67b1624a569a2",
    "timestamp": "2003-04-10T02:34:08.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 8745383,
-   "path": "pak0.pak",
    "sha256": "077091c20cd11010caeece2c577ed9e1119866f273f5af63a02fdd69d10a5d04",
    "timestamp": "2003-04-11T09:58:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hrim_sp1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-04-11",
  "sha256": "4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978",
  "tags": [

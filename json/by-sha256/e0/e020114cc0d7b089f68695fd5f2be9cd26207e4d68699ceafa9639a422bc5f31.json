@@ -7,30 +7,27 @@
   "quoth>=2.2"
  ],
  "description": "Medium-sized base map.",
- "files": [
-  {
+ "files": {
+  "SLEEPGATE.txt": {
    "bytes": 1647,
-   "path": "SLEEPGATE.txt",
    "sha256": "b54b450c718a26ebff1659bc43793c7329094ae2d07ae949cecc4214b9a3befa",
    "timestamp": "2017-10-01T14:11:30.000Z"
   },
-  {
+  "sleepgate.bsp": {
    "bytes": 7095732,
-   "path": "sleepgate.bsp",
    "sha256": "f6d8a3a3f56d80665f430cebcb350fe1728e9a8d03a8bef1027614ac509644f7",
    "timestamp": "2017-10-01T14:04:28.000Z"
   },
-  {
+  "sleepgate.lit": {
    "bytes": 1809860,
-   "path": "sleepgate.lit",
    "sha256": "4486b4f01ef9bc3c538be157f5b7f35371e2c85ce7949a311744d23a2b13ac1a",
    "timestamp": "2017-10-01T14:04:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>."
  ],

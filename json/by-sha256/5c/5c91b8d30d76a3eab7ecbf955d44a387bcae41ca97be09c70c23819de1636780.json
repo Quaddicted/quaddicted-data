@@ -22,66 +22,57 @@
  "bytes": 402449095,
  "current_main_group_package": true,
  "description": "Very large sci-fi base themed mod + map pack inspired by <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a>. This version 1.2 update has new maps, features, music, and bug fixes.  This download is a complete full package, and you don't need any previous versions. <a href=\"https://www.youtube.com/watch?v=pevTGzPbNQs\">(YouTube trailer)</a>. FGD and devkit are included, see the readme and manual for more info.",
- "files": [
-  {
+ "files": {
+  "alk1.2/Alkaline_Manual.pdf": {
    "bytes": 11126416,
-   "path": "alk1.2/Alkaline_Manual.pdf",
    "sha256": "de130dfdc206e7ce6a87629e4838c5df5e5e2c9167d85a94c3160dc0e030c70a",
    "timestamp": "2023-03-03T09:19:32.000Z"
   },
-  {
+  "alk1.2/alkaline.fgd": {
    "bytes": 127952,
-   "path": "alk1.2/alkaline.fgd",
    "sha256": "b772d059cd970ff427835642c511f134b069cfe9651a5f5552d204e3a18c966e",
    "timestamp": "2023-02-26T16:45:50.000Z"
   },
-  {
+  "alk1.2/devkit_docs/": {
    "bytes": 0,
-   "path": "alk1.2/devkit_docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-03-03T12:10:18.000Z"
   },
-  {
+  "alk1.2/devkit_docs/1.2.txt": {
    "bytes": 782,
-   "path": "alk1.2/devkit_docs/1.2.txt",
    "sha256": "20b5724365a3432e169629614ccf18757a94b25ac04758bc5d75ac3f48939dc7",
    "timestamp": "2023-03-02T12:40:02.000Z"
   },
-  {
+  "alk1.2/devkit_docs/READ_ME_FIRST.txt": {
    "bytes": 4610,
-   "path": "alk1.2/devkit_docs/READ_ME_FIRST.txt",
    "sha256": "ce4636ed412e03313c90be001edebffa4e9c8a231c11b30631413818c4597f0b",
    "timestamp": "2023-03-03T12:12:22.000Z"
   },
-  {
+  "alk1.2/devkit_docs/changelog.txt": {
    "bytes": 9583,
-   "path": "alk1.2/devkit_docs/changelog.txt",
    "sha256": "a757df95bd68c1505063b4ad7770d426f16c8324c6b0766c999f01e012e4328a",
    "timestamp": "2023-03-02T12:39:32.000Z"
   },
-  {
+  "alk1.2/devkit_docs/docs.html": {
    "bytes": 83517,
-   "path": "alk1.2/devkit_docs/docs.html",
    "sha256": "021a4f02e7e219e7e4acb1a449f6ead3d503159c39942f6d5e54c0dcdfe51993",
    "timestamp": "2023-03-02T12:32:48.000Z"
   },
-  {
+  "alk1.2/pak0.pak": {
    "bytes": 33939471,
-   "path": "alk1.2/pak0.pak",
    "sha256": "48c9b9b2d663caf40bf3e402096271fa4000698b4a362b8ea156033edf023513",
    "timestamp": "2023-03-04T18:51:18.000Z"
   },
-  {
+  "alk1.2/pak1.pak": {
    "bytes": 758585407,
-   "path": "alk1.2/pak1.pak",
    "sha256": "a00fce9109795ecc74b65a56b120bd6ca80a61031f89c5b985792cd8825775d5",
    "timestamp": "2023-03-04T19:49:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A modern engine / source port with increased limits is required."
  ],

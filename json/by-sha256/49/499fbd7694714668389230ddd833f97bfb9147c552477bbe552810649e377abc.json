@@ -4,42 +4,37 @@
  ],
  "bytes": 3141436,
  "description": "Large Knave-textured level. Comes with a 100% completion demo (protocol 666). The map source is included.",
- "files": [
-  {
+ "files": {
+  "dbd_secrets.dem": {
    "bytes": 4993270,
-   "path": "dbd_secrets.dem",
    "sha256": "ffe27774412776e3169f31bbeb50800d27c1ae39d4f6ff6280f8a9a70a693bb6",
    "timestamp": "2020-08-21T10:26:00.000Z"
   },
-  {
+  "dbdreaming.bsp": {
    "bytes": 4835048,
-   "path": "dbdreaming.bsp",
    "sha256": "733aad9761379b492d0d2f9a4c5416132f1c3f2af5b6c70af4a7cc84a717d2bd",
    "timestamp": "2020-08-21T09:55:12.000Z"
   },
-  {
+  "dbdreaming.lit": {
    "bytes": 2661242,
-   "path": "dbdreaming.lit",
    "sha256": "458f04eb1ac00f18a014cdfee08ebd2fdcdc0bed7148e9d056b760049fa0b918",
    "timestamp": "2020-08-21T09:55:12.000Z"
   },
-  {
+  "dbdreaming.map": {
    "bytes": 2933428,
-   "path": "dbdreaming.map",
    "sha256": "af0cf512cdb60d2934bfd4bb95562e29e96812d9475561516ac690c7de509808",
    "timestamp": "2020-08-21T09:58:44.000Z"
   },
-  {
+  "dbdreaming_readme.txt": {
    "bytes": 1034,
-   "path": "dbdreaming_readme.txt",
    "sha256": "50bdea9319e35a1a986e0675da1ddae6f9f98c414113e211891061c50edf576b",
    "timestamp": "2020-08-21T10:32:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

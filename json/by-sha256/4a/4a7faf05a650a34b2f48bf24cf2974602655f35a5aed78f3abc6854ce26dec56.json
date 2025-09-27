@@ -4,30 +4,27 @@
  ],
  "bytes": 617791,
  "description": "Small Wizard castle with some custom textures and Whaleboy's rain patch (optional).",
- "files": [
-  {
+ "files": {
+  "doomcasl.bsp": {
    "bytes": 928376,
-   "path": "doomcasl.bsp",
    "sha256": "e5cdf83d4eee44ad3aac18b73792943b91c53603e89f9d5f52147c8b2c1942bb",
    "timestamp": "1997-02-21T18:50:58.000Z"
   },
-  {
+  "doomcasl.txt": {
    "bytes": 2643,
-   "path": "doomcasl.txt",
    "sha256": "c3df9c0bff3a50853cb50ab9dd7d93102593e59490fcada20656190cf126357d",
    "timestamp": "1997-02-22T08:58:40.000Z"
   },
-  {
+  "rain.zip": {
    "bytes": 225358,
-   "path": "rain.zip",
    "sha256": "5f4f4b661dcc4faf7637c718d3b98cd129c7c4aa0f6b7192114c87ac6664a2f3",
    "timestamp": "1997-02-20T15:42:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-02-22",
  "sha256": "4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56",
  "tags": [

@@ -7,90 +7,77 @@
   "ad>=1.80"
  ],
  "description": "Late entry for <a href=\"6755b682db4d2fcd3e92dee61b7975468a2807abc2a93f29051835e7e33aec69\">Xmas Jam 2020</a>: a small Knave-themed level built inside a 1024\u00b3 units space. It comes with a custom sky box. The map source is included.",
- "files": [
-  {
+ "files": {
+  "ad_bmfbr_xm.txt": {
    "bytes": 2276,
-   "path": "ad_bmfbr_xm.txt",
    "sha256": "e0486c2be8a5831400785948682aa03358e659287e2697ce332e0fe313e2cda4",
    "timestamp": "2020-12-26T08:03:38.000Z"
   },
-  {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-12-24T11:56:36.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-12-24T11:56:40.000Z"
   },
-  {
+  "gfx/env/cloudnight_bk.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudnight_bk.tga",
    "sha256": "27ca3660b41f613c58dec9c372fb39ade9c5ec91b70d22cbd41a4a24b7fae4d6",
    "timestamp": "2020-12-24T08:53:40.000Z"
   },
-  {
+  "gfx/env/cloudnight_dn.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudnight_dn.tga",
    "sha256": "624bb4c457cceb321b7cc53112a597f81f46fc984cc6c678e1ae87de96b90118",
    "timestamp": "2020-12-24T08:53:40.000Z"
   },
-  {
+  "gfx/env/cloudnight_ft.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudnight_ft.tga",
    "sha256": "391e5e7501ca352d483c40fcd6b58c54fa0209486cce866f4afd405e1d68f349",
    "timestamp": "2020-12-24T08:53:40.000Z"
   },
-  {
+  "gfx/env/cloudnight_lf.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudnight_lf.tga",
    "sha256": "edea6f0ce017f0eb5f65ec4f98024344d559bcf67de487be13b0160cbba0a0af",
    "timestamp": "2020-12-24T08:53:40.000Z"
   },
-  {
+  "gfx/env/cloudnight_rt.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudnight_rt.tga",
    "sha256": "da8d932e327bca6b6d53d89bd1e1cb22bc867ce2273afba28f75be4b035558ea",
    "timestamp": "2020-12-24T08:53:40.000Z"
   },
-  {
+  "gfx/env/cloudnight_up.tga": {
    "bytes": 3145746,
-   "path": "gfx/env/cloudnight_up.tga",
    "sha256": "f757514ed54df8d7ba9ed525821d7121758cc4e6f182846341580858f16b36a8",
    "timestamp": "2020-12-24T08:53:40.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-12-24T11:56:08.000Z"
   },
-  {
+  "maps/ad_bmfbr_xm.bsp": {
    "bytes": 3691644,
-   "path": "maps/ad_bmfbr_xm.bsp",
    "sha256": "e0fe79bb7f302380915cf14eefed63b92ce3928d64bac5980273ebdef1f69cda",
    "timestamp": "2020-12-26T08:02:58.000Z"
   },
-  {
+  "maps/ad_bmfbr_xm.lit": {
    "bytes": 1015448,
-   "path": "maps/ad_bmfbr_xm.lit",
    "sha256": "87ce6ee382f0c9dede7fcc404943cad7f50cf2d0ba23ee9d0ab36c1637f67924",
    "timestamp": "2020-12-24T18:11:44.000Z"
   },
-  {
+  "maps/ad_bmfbr_xm.map": {
    "bytes": 2433726,
-   "path": "maps/ad_bmfbr_xm.map",
    "sha256": "dfa44cd590adfd7740998ce21edbe2c02e4bdc74db198083870f4bab104716f9",
    "timestamp": "2020-12-26T08:10:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> or <a href=\"6755b682db4d2fcd3e92dee61b7975468a2807abc2a93f29051835e7e33aec69\">Xmas Jam 2020</a>."
  ],

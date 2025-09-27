@@ -4,30 +4,27 @@
  ],
  "bytes": 842415,
  "description": "Small metal map set in a 'space station'.",
- "files": [
-  {
+ "files": {
+  "fbkmor.bsp": {
    "bytes": 1790436,
-   "path": "fbkmor.bsp",
    "sha256": "f51fb22f0d808898388e34a129dd7926daf3a0e8e79105591d58d0532c156641",
    "timestamp": "2024-08-08T14:26:40.000Z"
   },
-  {
+  "fbkmor.pts": {
    "bytes": 192440,
-   "path": "fbkmor.pts",
    "sha256": "3c568430b93e954cdd35c66f87db1c7aee7c9ca755a4c8914ed9fdee7e4c391f",
    "timestamp": "2024-08-08T14:26:40.000Z"
   },
-  {
+  "fbkmor.txt": {
    "bytes": 395,
-   "path": "fbkmor.txt",
    "sha256": "54a739391ed47ab584b1a0f236679b0069a9f42fdd4c46d2066d9e0934f4dd62",
    "timestamp": "2024-08-08T14:29:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-08-08",
  "sha256": "af15a52a05724e7a2885572c37e3b37967a942e03a8a357b7731eeb3da0be773",
  "tags": [

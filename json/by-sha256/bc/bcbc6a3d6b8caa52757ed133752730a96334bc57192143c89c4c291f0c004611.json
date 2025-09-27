@@ -4,24 +4,22 @@
  ],
  "bytes": 1346716,
  "description": "Huge wizmetal medieval map with tense gameplay and cutscenes.",
- "files": [
-  {
+ "files": {
+  "MEXX8.TXT": {
    "bytes": 15084,
-   "path": "MEXX8.TXT",
    "sha256": "43dc128f4002ab4cef874693c83bad925cc3ee3b7d33d579cfc1968a1514eda2",
    "timestamp": "1997-04-25T15:11:02.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 3051350,
-   "path": "PAK0.PAK",
    "sha256": "45babc9860050c25436ebabcabf8c854115f159505aa9582051c799c7eed0d62",
    "timestamp": "1997-04-25T16:24:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/mexx8/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-25",
  "sha256": "bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611",
  "tags": [

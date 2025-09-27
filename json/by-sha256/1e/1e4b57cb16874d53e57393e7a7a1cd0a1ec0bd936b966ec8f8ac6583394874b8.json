@@ -4,24 +4,22 @@
  ],
  "bytes": 1416232,
  "description": "Medium-sized 'classic-style' medieval level with a church and lava-filled caverns beneath.",
- "files": [
-  {
+ "files": {
+  "redfield1.bsp": {
    "bytes": 3223780,
-   "path": "redfield1.bsp",
    "sha256": "bbd03bf66440a7633b0296dd46582354cd7cb2f7668c12627823cefcc06d672a",
    "timestamp": "2017-04-29T13:43:48.000Z"
   },
-  {
+  "redfield1.txt": {
    "bytes": 10108,
-   "path": "redfield1.txt",
    "sha256": "5777478ff34634194fb13f3df431e26fd951ed74b6e8900b8a9a64866d7506dc",
    "timestamp": "2017-04-29T14:45:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2017-04-29",
  "sha256": "1e4b57cb16874d53e57393e7a7a1cd0a1ec0bd936b966ec8f8ac6583394874b8",
  "tags": [

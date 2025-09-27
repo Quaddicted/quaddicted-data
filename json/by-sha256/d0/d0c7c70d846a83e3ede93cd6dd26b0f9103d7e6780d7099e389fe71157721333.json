@@ -4,30 +4,27 @@
  ],
  "bytes": 952609,
  "description": "Small Wizard level and a start map. First part of the Insurrection series - connected to <a href=\"d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6\">ins2</a>, <a href=\"8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e\">ins3</a> and <a href=\"7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f\">ins4</a>.",
- "files": [
-  {
+ "files": {
+  "GATE.BSP": {
    "bytes": 1151448,
-   "path": "GATE.BSP",
    "sha256": "9dbb0376ebec7f299c877abd0ea99fb6b42f38d26b84af02e148229c91610047",
    "timestamp": "1996-11-14T18:53:54.000Z"
   },
-  {
+  "GATE.TXT": {
    "bytes": 3800,
-   "path": "GATE.TXT",
    "sha256": "1a1d268e82a7ed56ff51f55dc533746026d82ed5fd35a105afae248ba595a0d6",
    "timestamp": "1997-04-01T07:51:28.000Z"
   },
-  {
+  "LEGACY.BSP": {
    "bytes": 973864,
-   "path": "LEGACY.BSP",
    "sha256": "c7fb79c307a8df353a53d1b5cfda380b73f0cb4b4d746c592ddd16b17ea65d4c",
    "timestamp": "1996-11-08T21:43:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-01",
  "sha256": "d0c7c70d846a83e3ede93cd6dd26b0f9103d7e6780d7099e389fe71157721333",
  "tags": [

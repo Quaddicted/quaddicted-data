@@ -4,24 +4,22 @@
  ],
  "bytes": 464913,
  "description": "About medium sized Metal castle traversed by water.",
- "files": [
-  {
+ "files": {
+  "discord.bsp": {
    "bytes": 1147328,
-   "path": "discord.bsp",
    "sha256": "2ba4f3c4abe251e430a53fd356acfb6910ddb51e3b1038a858c7869c27d23afb",
    "timestamp": "1997-08-18T21:12:02.000Z"
   },
-  {
+  "discord.txt": {
    "bytes": 1433,
-   "path": "discord.txt",
    "sha256": "db0a7551747124999cdf2824179b6108158a06ead42ae3424d8b2837dcd01b57",
    "timestamp": "1997-08-18T21:30:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-18",
  "sha256": "07e9bb55fbb664e47414cb576ea0213570664838703f9ef978dea456c67ff4ae",
  "tags": [

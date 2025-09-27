@@ -4,24 +4,22 @@
  ],
  "bytes": 714929,
  "description": "Small medieval mansion with new textures.",
- "files": [
-  {
+ "files": {
+  "cdespair.bsp": {
    "bytes": 1661544,
-   "path": "cdespair.bsp",
    "sha256": "058ac2ebd0f0cf4304baa8253c9c17993edc87d0865d54a2ed7205ae87847478",
    "timestamp": "1997-09-11T04:47:22.000Z"
   },
-  {
+  "cdespair.txt": {
    "bytes": 3080,
-   "path": "cdespair.txt",
    "sha256": "832cd57fa7256543d05e8825532ee698e35ba89fed4d1b6ae53ce28923abff5b",
    "timestamp": "1997-09-11T11:17:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-11",
  "sha256": "9d307dfaa90df2a3222425376d4c99c6a55f022eff70245a8a915e6abca24eb7",
  "tags": [

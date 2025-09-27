@@ -4,66 +4,57 @@
  ],
  "bytes": 1631718,
  "description": "Medium sized factory level with a few new textures, monsters (e.g. Drone and Cyberdemon) and weapons.",
- "files": [
-  {
+ "files": {
+  "gibfact/Pak0.pak": {
    "bytes": 3739361,
-   "path": "gibfact/Pak0.pak",
    "sha256": "aab95875c19bd106d16af5bb84ab597671b3727c779458ce1e880eac12b6db68",
    "timestamp": "1997-02-01T22:32:04.000Z"
   },
-  {
+  "gibfact/gibfact.txt": {
    "bytes": 11043,
-   "path": "gibfact/gibfact.txt",
    "sha256": "2e0e914bc1eebe2b4f809424ca8f49ef5c03d3b5314ed230d98cc42ad490dd25",
    "timestamp": "1997-02-01T23:07:12.000Z"
   },
-  {
+  "gibfact/text/BLARG.TXT": {
    "bytes": 2787,
-   "path": "gibfact/text/BLARG.TXT",
    "sha256": "8ce3f6cac70575268de8663f42df48d253bd83d278b344484a94f9f0051e52e8",
    "timestamp": "1997-02-01T20:53:24.000Z"
   },
-  {
+  "gibfact/text/CYBER.TXT": {
    "bytes": 1551,
-   "path": "gibfact/text/CYBER.TXT",
    "sha256": "5ed7e198ea6f777cd5f3b819ed1f13f0daae6020931f0f86b12b8f1570a95bad",
    "timestamp": "1996-12-11T20:46:22.000Z"
   },
-  {
+  "gibfact/text/DRONE.TXT": {
    "bytes": 3326,
-   "path": "gibfact/text/DRONE.TXT",
    "sha256": "3d584637ba86d4c5df2be4792ca5e2133cae703716a10de901625c3f240e8a3e",
    "timestamp": "1996-12-24T22:33:36.000Z"
   },
-  {
+  "gibfact/text/IKPLASMA.TXT": {
    "bytes": 6150,
-   "path": "gibfact/text/IKPLASMA.TXT",
    "sha256": "38a400e8af147dad35ffe143bcc46d9e0268fe0077431b02a6d337c8f05da621",
    "timestamp": "1997-01-07T02:37:08.000Z"
   },
-  {
+  "gibfact/text/airfist.txt": {
    "bytes": 6487,
-   "path": "gibfact/text/airfist.txt",
    "sha256": "3b66ac03520be5167daec3bed6e0ceb1be36e119c71f77a52ffacfadd94e8083",
    "timestamp": "1997-01-22T09:31:58.000Z"
   },
-  {
+  "gibfact/text/manga.txt": {
    "bytes": 2019,
-   "path": "gibfact/text/manga.txt",
    "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
    "timestamp": "1996-11-03T23:57:58.000Z"
   },
-  {
+  "gibfact_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "gibfact_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

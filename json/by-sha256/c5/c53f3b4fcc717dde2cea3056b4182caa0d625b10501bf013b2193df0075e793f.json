@@ -5,24 +5,22 @@
  "bytes": 1126672,
  "current_main_group_package": true,
  "description": "Transparent water version of <a href=\"064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1\">runekeep</a>: a large, detailed Medieval fortress.",
- "files": [
-  {
+ "files": {
+  "RRSP1.bsp": {
    "bytes": 2698772,
-   "path": "RRSP1.bsp",
    "sha256": "4c9535262fe75f3cfae6d7d421def047771596ba2d8222a712e45fd8548650e4",
    "timestamp": "2002-03-26T21:17:56.000Z"
   },
-  {
+  "Rune Keep .txt": {
    "bytes": 6221,
-   "path": "Rune Keep .txt",
    "sha256": "35c35da91946cdd3730e2655913508a2c717839e7360d86797d62d5ce05b0117",
    "timestamp": "2002-03-19T08:40:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "runekeep": "2.0"
  },

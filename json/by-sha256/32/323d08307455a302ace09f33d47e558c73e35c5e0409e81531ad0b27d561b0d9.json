@@ -4,198 +4,167 @@
  ],
  "bytes": 21483687,
  "description": "Two maps with massive scale and thick atmosphere, using an expanded cistern texture set and featuring several gameplay enhancements and surprises. Includes a start/outro map and a bonus credits map. QC and map sources are included.",
- "files": [
-  {
+ "files": {
+  "honey/": {
    "bytes": 0,
-   "path": "honey/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-03-31T13:26:48.000Z"
   },
-  {
+  "honey/honey.txt": {
    "bytes": 3235,
-   "path": "honey/honey.txt",
    "sha256": "2438370a338edcaf5d3f3e59d43e18e5908432f1f3fc871ae1d5c1bf2598f225",
    "timestamp": "2012-03-30T18:48:44.000Z"
   },
-  {
+  "honey/maps/": {
    "bytes": 0,
-   "path": "honey/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-03-31T13:26:48.000Z"
   },
-  {
+  "honey/maps/bm_brkceil.bsp": {
    "bytes": 45316,
-   "path": "honey/maps/bm_brkceil.bsp",
    "sha256": "8aad1b77b7a80497d89b33f325d90ba70334be8e0b85a1fe732e35d903800bdd",
    "timestamp": "2011-09-14T17:45:22.000Z"
   },
-  {
+  "honey/maps/bm_brkceil2.bsp": {
    "bytes": 45292,
-   "path": "honey/maps/bm_brkceil2.bsp",
    "sha256": "a52088134578967c9a232783229c11f40b5a63022629f41e4e54d994073dc67b",
    "timestamp": "2011-09-15T20:55:36.000Z"
   },
-  {
+  "honey/maps/bm_chain.bsp": {
    "bytes": 119976,
-   "path": "honey/maps/bm_chain.bsp",
    "sha256": "c341a11442934a817bf3322926f322596312f40b9ba5e3d5a49947a5d64c21d1",
    "timestamp": "2012-03-06T00:57:46.000Z"
   },
-  {
+  "honey/maps/bm_chain2.bsp": {
    "bytes": 422040,
-   "path": "honey/maps/bm_chain2.bsp",
    "sha256": "1592e36a5a8eb21bc4ded69fa97d0541d79f5e11bb5dabcc1015ca7f3ae54007",
    "timestamp": "2012-03-06T00:57:48.000Z"
   },
-  {
+  "honey/maps/credits.bsp": {
    "bytes": 2076952,
-   "path": "honey/maps/credits.bsp",
    "sha256": "052881300bec24e151162f45bc1a23d3a16d27f25a5da0aedd0e879d63c82c9c",
    "timestamp": "2012-03-20T22:34:42.000Z"
   },
-  {
+  "honey/maps/h_end.bsp": {
    "bytes": 3642008,
-   "path": "honey/maps/h_end.bsp",
    "sha256": "9b7f58f4e83ba311cd3a7021db547ae1252ba182b33563e3bce1c18bc5da5037",
    "timestamp": "2012-03-20T02:36:22.000Z"
   },
-  {
+  "honey/maps/h_hub1.bsp": {
    "bytes": 3148300,
-   "path": "honey/maps/h_hub1.bsp",
    "sha256": "86914e1487a7f2606ebc299bad2561de2a8db1327a6642e423fbef5af0bc03b7",
    "timestamp": "2012-03-15T02:01:20.000Z"
   },
-  {
+  "honey/maps/h_hub2.bsp": {
    "bytes": 2035576,
-   "path": "honey/maps/h_hub2.bsp",
    "sha256": "e5f4694dd428f64851688fa7defdb80bf0f426d9c1c08280cf9e8cd15fcfcfcd",
    "timestamp": "2012-03-15T01:59:18.000Z"
   },
-  {
+  "honey/maps/honey.bsp": {
    "bytes": 6772020,
-   "path": "honey/maps/honey.bsp",
    "sha256": "e109d5a620dbbc29cebb1da8d83dfb3fcdff20b0c8cc23a9671a56640d420685",
    "timestamp": "2012-03-30T09:23:50.000Z"
   },
-  {
+  "honey/maps/saint.bsp": {
    "bytes": 8696000,
-   "path": "honey/maps/saint.bsp",
    "sha256": "e1b549229719bfa6ab1c1383030edee9805af4161637f67bcc517372d0a36eeb",
    "timestamp": "2012-03-30T11:20:36.000Z"
   },
-  {
+  "honey/maps/start.bsp": {
    "bytes": 5254176,
-   "path": "honey/maps/start.bsp",
    "sha256": "39e5d9aacdca1aa31705014fd503e482237fa03c03e678d884b7983f13917462",
    "timestamp": "2012-03-30T05:03:44.000Z"
   },
-  {
+  "honey/progs.dat": {
    "bytes": 530464,
-   "path": "honey/progs.dat",
    "sha256": "f8d3da4b25c95fbd81976e4b56ce3a3f35bc6924da31a0bb675fac16ec478609",
    "timestamp": "2012-03-28T19:22:20.000Z"
   },
-  {
+  "honey/progs/": {
    "bytes": 0,
-   "path": "honey/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-03-31T13:26:48.000Z"
   },
-  {
+  "honey/progs/candle.mdl": {
    "bytes": 24135,
-   "path": "honey/progs/candle.mdl",
    "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
    "timestamp": "2009-03-22T14:53:12.000Z"
   },
-  {
+  "honey/progs/mogre.mdl": {
    "bytes": 223236,
-   "path": "honey/progs/mogre.mdl",
    "sha256": "e62133bcf5441f5158e1274153907233ced8e7af24cb5777fd9f67a85deeed92",
    "timestamp": "2012-03-20T20:50:08.000Z"
   },
-  {
+  "honey/progs/s_light2.spr": {
    "bytes": 1080,
-   "path": "honey/progs/s_light2.spr",
    "sha256": "67944dccc4bc9b757b5c67f34f41892a8b71c6b067bc853c65f5c35fe23594a3",
    "timestamp": "2012-03-26T21:09:58.000Z"
   },
-  {
+  "honey/progs/tree1.mdl": {
    "bytes": 79768,
-   "path": "honey/progs/tree1.mdl",
    "sha256": "43f2a47f4ff2efec1b78ddcab2043b7fc4b3c371d45a3a6d3577a57622b3d728",
    "timestamp": "2012-01-09T18:34:46.000Z"
   },
-  {
+  "honey/sound/": {
    "bytes": 0,
-   "path": "honey/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-03-31T13:26:48.000Z"
   },
-  {
+  "honey/sound/honey/": {
    "bytes": 0,
-   "path": "honey/sound/honey/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-03-31T13:26:48.000Z"
   },
-  {
+  "honey/sound/honey/blaahd.wav": {
    "bytes": 202702,
-   "path": "honey/sound/honey/blaahd.wav",
    "sha256": "a2d55c25afb3f88bfdbc7481622c5eb3045fd01feaefc8718f802e91e0d1d2a2",
    "timestamp": "2012-01-17T16:12:28.000Z"
   },
-  {
+  "honey/sound/honey/machine.wav": {
    "bytes": 598018,
-   "path": "honey/sound/honey/machine.wav",
    "sha256": "4648dc989baed4d35345317c9d8ef0c2dda10dff30c5c25a5cc3e2dbdca66a36",
    "timestamp": "2012-01-17T20:17:18.000Z"
   },
-  {
+  "honey/sound/honey/muzak4.wav": {
    "bytes": 5356206,
-   "path": "honey/sound/honey/muzak4.wav",
    "sha256": "1cd024d20010daa67c79cac74745fcd6004732c02b413133b9eab85f61f2b17e",
    "timestamp": "2008-08-20T00:02:58.000Z"
   },
-  {
+  "honey/sound/honey/q2watr.wav": {
    "bytes": 202850,
-   "path": "honey/sound/honey/q2watr.wav",
    "sha256": "ad44953f1ae8e73bde31ab6d5cdadda4315965a90ccb468dbd8905c561cf8e76",
    "timestamp": "2000-08-20T07:01:42.000Z"
   },
-  {
+  "honey/sound/honey/ting1.wav": {
    "bytes": 169026,
-   "path": "honey/sound/honey/ting1.wav",
    "sha256": "47551160964d61d4614bfa6e18a90c9279f65fdde35335a743106a90757525fc",
    "timestamp": "2012-02-10T00:27:22.000Z"
   },
-  {
+  "honey/sound/honey/ting2.wav": {
    "bytes": 169072,
-   "path": "honey/sound/honey/ting2.wav",
    "sha256": "f912af7700c606f69c811ad44c3ca76ec257aa2843d0b1dcf9b33cb20f739aa9",
    "timestamp": "2012-02-10T00:27:42.000Z"
   },
-  {
+  "honey/sound/honey/ting3.wav": {
    "bytes": 169220,
-   "path": "honey/sound/honey/ting3.wav",
    "sha256": "2ffbd0aa20f125336cd824c7266a0323171334e45006db3cfc73331c6e155efd",
    "timestamp": "2012-02-10T00:28:04.000Z"
   },
-  {
+  "honey/sound/honey/ting4.wav": {
    "bytes": 169576,
-   "path": "honey/sound/honey/ting4.wav",
    "sha256": "c83254976fefb0dfe730b9fa231bbef0cdec8cfa6643724d0a40a450974bc8d0",
    "timestamp": "2012-02-10T00:28:50.000Z"
   },
-  {
+  "honey/src.zip": {
    "bytes": 3489846,
-   "path": "honey/src.zip",
    "sha256": "4c8a3b06c43a0e931bdad87b66c132cb1649f7f07f427f760329f5bdba80825c",
    "timestamp": "2012-03-30T18:48:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2012-03-31",
  "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "tags": [

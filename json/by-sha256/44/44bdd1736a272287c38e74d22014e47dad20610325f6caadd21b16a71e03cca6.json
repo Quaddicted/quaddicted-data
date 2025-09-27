@@ -4,24 +4,22 @@
  ],
  "bytes": 345796,
  "description": "Very small Wizard map with a water area.",
- "files": [
-  {
+ "files": {
+  "SHKEEP.BSP": {
    "bytes": 772708,
-   "path": "SHKEEP.BSP",
    "sha256": "23381a67b9e3c412430423caaf834a79d0fd2b080732defebd136379aa5a9a97",
    "timestamp": "1996-09-18T13:56:00.000Z"
   },
-  {
+  "SHKEEP.TXT": {
    "bytes": 1406,
-   "path": "SHKEEP.TXT",
    "sha256": "c429e876cc8a7c69d36c37e7de6a6f6a59d750ea5358f3344380f104d37f1d11",
    "timestamp": "1996-09-18T16:19:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-09-18",
  "sha256": "44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6",
  "tags": [

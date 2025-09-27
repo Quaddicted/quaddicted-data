@@ -4,24 +4,22 @@
  ],
  "bytes": 774079,
  "description": "Huge green swampy map.",
- "files": [
-  {
+ "files": {
+  "fmb4.bsp": {
    "bytes": 1721852,
-   "path": "fmb4.bsp",
    "sha256": "e08d6eeef1edb6eb3f269d909c4c284ae4d8106dff8546df2ccd78963c7d7d87",
    "timestamp": "1998-10-05T21:08:20.000Z"
   },
-  {
+  "fmb4.txt": {
    "bytes": 3847,
-   "path": "fmb4.txt",
    "sha256": "0940e962a25ebe02699f02577d3421d8bd804887ac42d8837f6bf28182d85d48",
    "timestamp": "1998-10-05T21:44:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-10-05",
  "sha256": "6b5e30f2612cfdc0f45dbe63ce7d967772bba613037b7fcc2cf0ca982d260a69",
  "tags": [

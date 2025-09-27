@@ -4,30 +4,27 @@
  ],
  "bytes": 652811,
  "description": "Medium sized, fairly plain monastry with a semi-explorational gameplay and some new textures.",
- "files": [
-  {
+ "files": {
+  "Monastry.bsp": {
    "bytes": 1534608,
-   "path": "Monastry.bsp",
    "sha256": "178c409b9dc8e50cde30a9dfa09dece5ad1731eb09e90694f6bccebe0fd918de",
    "timestamp": "1997-03-28T03:16:38.000Z"
   },
-  {
+  "Monastry.txt": {
    "bytes": 4042,
-   "path": "Monastry.txt",
    "sha256": "0180a218f222bfc9ab161910d46eda16ef8f627c02b47ef54d1c192bfb37db59",
    "timestamp": "1997-08-27T00:33:34.000Z"
   },
-  {
+  "Monhints.txt": {
    "bytes": 5020,
-   "path": "Monhints.txt",
    "sha256": "ef3dd26c32a66b275c9100119981aa57ba588aea42ce967454aef3e5d4e4b05f",
    "timestamp": "1997-03-30T05:51:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-27",
  "sha256": "46cf4ed6cf8a36ecd4feb09141874431ad3e9e776df49a899d0b4bf22a214d3b",
  "tags": [

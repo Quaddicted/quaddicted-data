@@ -4,30 +4,27 @@
  ],
  "bytes": 504334,
  "description": "Short base-themed map centered around a mysterious structure.",
- "files": [
-  {
+ "files": {
+  "planetside.bsp": {
    "bytes": 1104876,
-   "path": "planetside.bsp",
    "sha256": "2bb8aa1b28b304f65dbc2bef63db84fb4667bd307f571b6b6abd703586922e65",
    "timestamp": "2024-02-18T18:42:26.000Z"
   },
-  {
+  "planetside.map": {
    "bytes": 286292,
-   "path": "planetside.map",
    "sha256": "deaf8263cc5a9abf9bfcc98fc47c38571fcfc2219a50ea5e8c3d045917325898",
    "timestamp": "2024-01-13T14:38:46.000Z"
   },
-  {
+  "planetside_readme.txt": {
    "bytes": 1759,
-   "path": "planetside_readme.txt",
    "sha256": "47ac7c476df05917bbc16233a764d5e88149b1a91bf367a740e60ae1d3816dfa",
    "timestamp": "2024-02-18T18:51:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

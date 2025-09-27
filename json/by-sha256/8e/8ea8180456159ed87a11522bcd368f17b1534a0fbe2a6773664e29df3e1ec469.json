@@ -5,24 +5,22 @@
  "bytes": 2334685,
  "current_main_group_package": true,
  "description": "This is the \"transparent water\" version of <a href=\"dc2f8cbe52212669c7ac09cd92aecba8b2f6daca1f7532135868bc73a962c8b2\">gmsp3</a>.",
- "files": [
-  {
+ "files": {
+  "gmsp3tw.bsp": {
    "bytes": 5610160,
-   "path": "gmsp3tw.bsp",
    "sha256": "dfb49ce30627f69ef54a71aebdc4b00964f6e95eab5494b85532e1df031772d0",
    "timestamp": "2004-06-01T08:32:56.000Z"
   },
-  {
+  "gmsp3tw.txt": {
    "bytes": 5220,
-   "path": "gmsp3tw.txt",
    "sha256": "d6541d3e6e68b4de2ce8a1be736971585a18dc7420a9e037726a773719867be8",
    "timestamp": "2004-06-01T22:04:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "gmsp3": "2.0"
  },

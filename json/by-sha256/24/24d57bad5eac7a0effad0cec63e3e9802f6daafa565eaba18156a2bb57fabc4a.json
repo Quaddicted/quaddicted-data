@@ -4,24 +4,22 @@
  ],
  "bytes": 707566,
  "description": "Sealed version of Zwiffle's entry for the <a href=\"dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d\">q1tm3</a> event: A small to medium Knave map (fixed by aguirRe).",
- "files": [
-  {
+ "files": {
+  "q1tm3_zwiffle.bsp": {
    "bytes": 1774040,
-   "path": "q1tm3_zwiffle.bsp",
    "sha256": "1d0a098b4b8a388acdcc0cf64a2eb5ff18bd299aa3bcd9a6e3b942931b43192e",
    "timestamp": "2004-01-16T12:00:52.000Z"
   },
-  {
+  "q1tm3_zwiffle.txt": {
    "bytes": 256,
-   "path": "q1tm3_zwiffle.txt",
    "sha256": "4687e511f688a276c5473926ef0637f3c90398e5f8b2171ea8d91b8331138626",
    "timestamp": "2004-01-16T11:56:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-01-16",
  "sha256": "24d57bad5eac7a0effad0cec63e3e9802f6daafa565eaba18156a2bb57fabc4a",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 728754,
  "description": "Smallish Wizard castle with a handful of custom textures.",
- "files": [
-  {
+ "files": {
+  "TRR.BSP": {
    "bytes": 1677664,
-   "path": "TRR.BSP",
    "sha256": "4dbe79c26e6fca1f56b537306b0ee81595b0dade2ec3b7be2a261ab41c54f9c0",
    "timestamp": "1997-07-26T10:57:40.000Z"
   },
-  {
+  "TRR.TXT": {
    "bytes": 5888,
-   "path": "TRR.TXT",
    "sha256": "9b0de795835f1071e305a142cb76a76e5caf2f8d3fd72e9f81f25da5f7587721",
    "timestamp": "1997-08-01T00:03:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-01",
  "sha256": "cbd4fcf39e22a446a9e72c1ffd5b067e36dd751839a8c4bcc998a492f01813d7",
  "tags": [

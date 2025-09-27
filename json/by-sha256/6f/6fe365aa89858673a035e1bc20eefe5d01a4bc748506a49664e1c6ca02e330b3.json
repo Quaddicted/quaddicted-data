@@ -4,24 +4,22 @@
  ],
  "bytes": 647757,
  "description": "Medium sized Base map with an outside area and a heavy tech bit.",
- "files": [
-  {
+ "files": {
+  "Colony2.bsp": {
    "bytes": 1491200,
-   "path": "Colony2.bsp",
    "sha256": "b3cd95fcf0212c3aadbe05e2d218079cef6e4c8c02bc4a52b778eb3bca235295",
    "timestamp": "1997-10-09T00:24:40.000Z"
   },
-  {
+  "Colony2.txt": {
    "bytes": 6538,
-   "path": "Colony2.txt",
    "sha256": "92f899fafa96a11ae37595d5ca234f15fd1c5e908afcae124a902eb0a48e1bc7",
    "timestamp": "1997-10-10T01:51:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-10",
  "sha256": "6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3",
  "tags": [

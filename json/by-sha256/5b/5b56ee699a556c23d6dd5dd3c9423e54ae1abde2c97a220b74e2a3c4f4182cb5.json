@@ -4,30 +4,27 @@
  ],
  "bytes": 3542372,
  "description": "Large dark medieval brick map in the vein of <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a> and <a href=\"6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031\">Func Map Jam 1</a>. The map source is included.",
- "files": [
-  {
+ "files": {
+  "petes1.bsp": {
    "bytes": 7565324,
-   "path": "petes1.bsp",
    "sha256": "989a5b2a2678bd708173cfe3716955851ed84e4ee431339f53f0afb2ce9bb4e8",
    "timestamp": "2016-11-24T11:53:56.000Z"
   },
-  {
+  "petes1.map": {
    "bytes": 4669676,
-   "path": "petes1.map",
    "sha256": "73e66f306905a8113c1030815102225d704099a0388999c0233c2cbc911bf24d",
    "timestamp": "2016-11-24T11:25:18.000Z"
   },
-  {
+  "petes1.txt": {
    "bytes": 4347,
-   "path": "petes1.txt",
    "sha256": "360591cace8640eb7ead25f17b7c5ba8c8758828ed88eeccb8fd96f6c1c73eb7",
    "timestamp": "2016-11-25T13:02:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits.",
   "A version with colored lighting is available <a href=\"https://www.quaddicted.com/filebase/jump%20with%20lit.zip\">here</a>."

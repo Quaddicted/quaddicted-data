@@ -4,36 +4,32 @@
  ],
  "bytes": 3545904,
  "description": "Small to medium-sized Wizard-style level. It is the follow-up to <a href=\"8fe3d61a0e046478541287ed19c5704d20a5926f1ec904c154b98f28e1b01243\">The Subterrestrial Hangar</a> and as such again features three distinct route choices. The map source is included.",
- "files": [
-  {
+ "files": {
+  "amphitoa.TXT": {
    "bytes": 9445,
-   "path": "amphitoa.TXT",
    "sha256": "35ffec52965f3207094ba88042c5fe1cc8edee5bd1de8c9c3096c02462c63db1",
    "timestamp": "2018-07-27T19:51:22.000Z"
   },
-  {
+  "amphitoa.bsp": {
    "bytes": 5396240,
-   "path": "amphitoa.bsp",
    "sha256": "e9a2fa02cedac658dda72ea3c06098739016c20cf997c4db1645db7aa830cdd1",
    "timestamp": "2018-07-27T17:21:50.000Z"
   },
-  {
+  "amphitoa.lit": {
    "bytes": 3243788,
-   "path": "amphitoa.lit",
    "sha256": "5b8d29e8561b4ebc951e41e1e5bbaa0a637156be3196e9c982f9563fb2c47785",
    "timestamp": "2018-07-27T17:21:50.000Z"
   },
-  {
+  "amphitoa.map": {
    "bytes": 2965624,
-   "path": "amphitoa.map",
    "sha256": "5197b06a79b7e49e1e5490107d6ead968aa64e5d1c78ffc4d0de1a262d4a954d",
    "timestamp": "2018-07-27T17:07:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

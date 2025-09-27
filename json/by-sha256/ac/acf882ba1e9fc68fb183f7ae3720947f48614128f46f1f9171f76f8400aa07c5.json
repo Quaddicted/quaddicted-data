@@ -4,498 +4,417 @@
  ],
  "bytes": 6462010,
  "description": "Small sci-fi base themed underground research facility. Built on Copper v1.19 (already included but with the default folder name; see install notes). Difficulty settings are not implemented. The author's first release.",
- "files": [
-  {
+ "files": {
+  "savetheworld-package/": {
    "bytes": 0,
-   "path": "savetheworld-package/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-04-20T15:54:28.000Z"
   },
-  {
+  "savetheworld-package/copper/": {
    "bytes": 0,
-   "path": "savetheworld-package/copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-04-20T15:55:06.000Z"
   },
-  {
+  "savetheworld-package/copper/copper.def": {
    "bytes": 100563,
-   "path": "savetheworld-package/copper/copper.def",
    "sha256": "70014219ae79250d4b86605d3eb954986031c7788a7e58ae575dc339035ba38d",
    "timestamp": "2021-08-25T15:04:56.000Z"
   },
-  {
+  "savetheworld-package/copper/copper.fgd": {
    "bytes": 49551,
-   "path": "savetheworld-package/copper/copper.fgd",
    "sha256": "53f8dfd2d238e232c95a2bc45e353aa30de8ec77d0e1e81f7223600ac3334d06",
    "timestamp": "2021-08-25T15:04:56.000Z"
   },
-  {
+  "savetheworld-package/copper/copper_v1_19.txt": {
    "bytes": 87902,
-   "path": "savetheworld-package/copper/copper_v1_19.txt",
    "sha256": "e2213899d8e1f6024e7ee8544e0aec44b191efffa204423ac4cb651217063e74",
    "timestamp": "2022-07-01T19:39:56.000Z"
   },
-  {
+  "savetheworld-package/copper/mapdb.json": {
    "bytes": 1549,
-   "path": "savetheworld-package/copper/mapdb.json",
    "sha256": "204d0ecdb18f91fe2580c74c4ad9eb32dc388cfdf635c32f378933c5671433e5",
    "timestamp": "2021-08-25T15:12:20.000Z"
   },
-  {
+  "savetheworld-package/copper/maps/": {
    "bytes": 0,
-   "path": "savetheworld-package/copper/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-04-20T16:00:26.000Z"
   },
-  {
+  "savetheworld-package/copper/maps/savetheworld.bsp": {
    "bytes": 6333996,
-   "path": "savetheworld-package/copper/maps/savetheworld.bsp",
    "sha256": "10d7b5d6ec90c2c3f92d9ca81245e376bf71dde60d115361f1c0478dd6d7be29",
    "timestamp": "2023-04-04T21:23:30.000Z"
   },
-  {
+  "savetheworld-package/copper/maps/savetheworld.lit": {
    "bytes": 1768448,
-   "path": "savetheworld-package/copper/maps/savetheworld.lit",
    "sha256": "e0503eab3469a6f435265fdb58ec21c1af9bdfdd886718768e0816b6915f5f23",
    "timestamp": "2023-04-04T21:23:30.000Z"
   },
-  {
+  "savetheworld-package/copper/maps/savetheworld.txt": {
    "bytes": 2030,
-   "path": "savetheworld-package/copper/maps/savetheworld.txt",
    "sha256": "3618d77a2cf597bb86d1d30fc70dc126df7ce301249ad3c88eb3b7c1850aec5b",
    "timestamp": "2023-04-20T16:08:14.000Z"
   },
-  {
+  "savetheworld-package/copper/maps/start.bsp": {
    "bytes": 534484,
-   "path": "savetheworld-package/copper/maps/start.bsp",
    "sha256": "8285cec233edf66440a160287388fe32f0affd8902e61caadd582cfba61a30fa",
    "timestamp": "2023-04-20T15:53:28.000Z"
   },
-  {
+  "savetheworld-package/copper/maps/start.lit": {
    "bytes": 39758,
-   "path": "savetheworld-package/copper/maps/start.lit",
    "sha256": "ec5974ad755af57350466272eb77d60d2ee94ea2f74339a477967e5f53a06969",
    "timestamp": "2023-04-20T15:53:28.000Z"
   },
-  {
+  "savetheworld-package/copper/pak0.pak": {
    "bytes": 4227276,
-   "path": "savetheworld-package/copper/pak0.pak",
    "sha256": "9eee444c1db402805bcff09378344c5a048b6c23ff6054edbfff16dd60b76f0d",
    "timestamp": "2021-08-25T15:58:24.000Z"
   },
-  {
+  "savetheworld-package/copper/progs.dat": {
    "bytes": 544170,
-   "path": "savetheworld-package/copper/progs.dat",
    "sha256": "b5a57fe059a0aef1125b792594f3a85580fed20d1491d2ddc3b5c833382bfd8d",
    "timestamp": "2021-08-25T18:23:08.000Z"
   },
-  {
+  "savetheworld-package/copper/quake.rc": {
    "bytes": 1101,
-   "path": "savetheworld-package/copper/quake.rc",
    "sha256": "1c446020b2307115167556cebfce76e1488fcfd30f07a87cc29e3a3e5a7ab269",
    "timestamp": "2021-06-21T14:07:16.000Z"
   },
-  {
+  "savetheworld-package/copper/src/": {
    "bytes": 0,
-   "path": "savetheworld-package/copper/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-12-08T23:38:00.000Z"
   },
-  {
+  "savetheworld-package/copper/src/ai.qc": {
    "bytes": 35458,
-   "path": "savetheworld-package/copper/src/ai.qc",
    "sha256": "03cce3508b67104cba2b14fd954a1c3e70bcaa9a2034e564138e351205f72b22",
    "timestamp": "2021-08-20T01:21:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/buttons.qc": {
    "bytes": 6152,
-   "path": "savetheworld-package/copper/src/buttons.qc",
    "sha256": "f52c5f2622b55e20ef7ff58b1fafd95592e52db4b630e9b8be45b009c42395c9",
    "timestamp": "2021-08-25T13:17:54.000Z"
   },
-  {
+  "savetheworld-package/copper/src/client.qc": {
    "bytes": 47734,
-   "path": "savetheworld-package/copper/src/client.qc",
    "sha256": "0d350595599b918102f4b2089fd71f99d3cc43ddaf2b6c411b0abba61d0e69d0",
    "timestamp": "2021-08-25T14:23:24.000Z"
   },
-  {
+  "savetheworld-package/copper/src/combat.qc": {
    "bytes": 17171,
-   "path": "savetheworld-package/copper/src/combat.qc",
    "sha256": "83151c528065b9bd12430538352b1804e1ba93380b8f6efc674cfc88c97b7af2",
    "timestamp": "2021-08-20T01:21:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/constants.qc": {
    "bytes": 8550,
-   "path": "savetheworld-package/copper/src/constants.qc",
    "sha256": "f94b55816472800d20c8adcab63bd4efccdf692c9ba8469029db70f28a054108",
    "timestamp": "2021-08-20T00:32:30.000Z"
   },
-  {
+  "savetheworld-package/copper/src/defs.qc": {
    "bytes": 17322,
-   "path": "savetheworld-package/copper/src/defs.qc",
    "sha256": "4bcef73d0e54d3dcb608044d46f16096fb4804b10ba7b3b5d8d9e3ad93e98780",
    "timestamp": "2021-08-25T14:37:14.000Z"
   },
-  {
+  "savetheworld-package/copper/src/dev.qc": {
    "bytes": 7067,
-   "path": "savetheworld-package/copper/src/dev.qc",
    "sha256": "615ee36969d33e7e6ea4101df7a8c1953bc4dbdff352024b3a830b935dbdce65",
    "timestamp": "2021-08-20T01:16:30.000Z"
   },
-  {
+  "savetheworld-package/copper/src/doors.qc": {
    "bytes": 30887,
-   "path": "savetheworld-package/copper/src/doors.qc",
    "sha256": "621600584ba8bf4d3db595f93079d0ec413524b438cc05c1854df8f60455717f",
    "timestamp": "2021-08-20T01:33:58.000Z"
   },
-  {
+  "savetheworld-package/copper/src/explobox.qc": {
    "bytes": 6714,
-   "path": "savetheworld-package/copper/src/explobox.qc",
    "sha256": "88b8c683c700463128cf615e33731f98a992138bbc337c23bfa1178b0e01dd76",
    "timestamp": "2021-08-20T01:19:24.000Z"
   },
-  {
+  "savetheworld-package/copper/src/fly.qc": {
    "bytes": 5602,
-   "path": "savetheworld-package/copper/src/fly.qc",
    "sha256": "98dc734bb720c547f1dd04e9ca53c5c79a84555f6f8f0176e4a923d670289c11",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/fog.qc": {
    "bytes": 11156,
-   "path": "savetheworld-package/copper/src/fog.qc",
    "sha256": "acfa0cdc04b9f00e2275682d0fc4f0b8c91d1b26c8c901576c4fddd51c035a1f",
    "timestamp": "2021-08-20T01:17:10.000Z"
   },
-  {
+  "savetheworld-package/copper/src/fx.qc": {
    "bytes": 25482,
-   "path": "savetheworld-package/copper/src/fx.qc",
    "sha256": "e3160a7327f08ae41aeec603831e22cfe2bfd7b792e93834790fdbd23cf3bb9d",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/impulse.qc": {
    "bytes": 5265,
-   "path": "savetheworld-package/copper/src/impulse.qc",
    "sha256": "d4e3ccb32793384c3c4793a796912c76a065eac7e5c36913095af9e532fc67b9",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/item_backpack.qc": {
    "bytes": 8489,
-   "path": "savetheworld-package/copper/src/item_backpack.qc",
    "sha256": "555292ac3bf932628fbcc885e84a9c40bcb01b40ff0761d4ae65f25067d96420",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/item_health_armor.qc": {
    "bytes": 7824,
-   "path": "savetheworld-package/copper/src/item_health_armor.qc",
    "sha256": "85e67ded9043dc3d8a7ad1689be14df0379f48dae89ffe7b0b7e8f6e2af224ff",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/item_keys_runes.qc": {
    "bytes": 9537,
-   "path": "savetheworld-package/copper/src/item_keys_runes.qc",
    "sha256": "d4684b6d4ce33d0234ebdd701210bc7b36ce4ccfc7e7f72bf99a1861fb15ddb4",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/item_powerups.qc": {
    "bytes": 7392,
-   "path": "savetheworld-package/copper/src/item_powerups.qc",
    "sha256": "365cf0b3205db224930377cba1e800815bd3f6e537596963fcffcb4e38593d93",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/item_weap_ammo.qc": {
    "bytes": 13577,
-   "path": "savetheworld-package/copper/src/item_weap_ammo.qc",
    "sha256": "32c42db5512122ead3502d053b621a9cdaa69de19bc83c6c9cabe8739bb289e3",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/items.qc": {
    "bytes": 25685,
-   "path": "savetheworld-package/copper/src/items.qc",
    "sha256": "e50366ac3ab3e9a31ebd9a0bfdd67d86115283dd9ade14b7cd8268d34cc88cab",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/lights.qc": {
    "bytes": 28098,
-   "path": "savetheworld-package/copper/src/lights.qc",
    "sha256": "17aae5129fbf9bca76b3b08c86e3f3d6ea07de09c6e1693abd785931d936a0dc",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_boss.qc": {
    "bytes": 16065,
-   "path": "savetheworld-package/copper/src/m_boss.qc",
    "sha256": "0c81b1d81f480b75b7662534d17125afcc65a617d81e61e4a19906da3500ca55",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_demon.qc": {
    "bytes": 19065,
-   "path": "savetheworld-package/copper/src/m_demon.qc",
    "sha256": "420c5cda60bf5f138a37b8f40e6743a0fd49a617238f98b615d92b0be6980f01",
    "timestamp": "2021-08-20T01:21:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_dog.qc": {
    "bytes": 11732,
-   "path": "savetheworld-package/copper/src/m_dog.qc",
    "sha256": "185aef6161f8ad3cf18449268e5161a733be321c53e6fdec0fbff09f1c5d4ba3",
    "timestamp": "2021-06-20T20:57:12.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_enforcer.qc": {
    "bytes": 12513,
-   "path": "savetheworld-package/copper/src/m_enforcer.qc",
    "sha256": "c147c42e7e43bf98ca2e75ba53b3b20cf8c624e76b5cb18d0fafedf690a44240",
    "timestamp": "2020-12-09T18:48:08.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_fish.qc": {
    "bytes": 10625,
-   "path": "savetheworld-package/copper/src/m_fish.qc",
    "sha256": "a1e5e541a6c73ee3e10d8b8574781e21961e644eeee869b24696be4e1fc5734b",
    "timestamp": "2021-07-05T16:35:28.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_hknight.qc": {
    "bytes": 20114,
-   "path": "savetheworld-package/copper/src/m_hknight.qc",
    "sha256": "903969aabca5646c5843d526f5b74611a05fcb6606424d5a3623cc5a64a610b9",
    "timestamp": "2020-12-09T18:47:46.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_knight.qc": {
    "bytes": 11777,
-   "path": "savetheworld-package/copper/src/m_knight.qc",
    "sha256": "456d855a6f07c7af9138b34fecb4594d3ce2d8fa0d74355fd9dd2c3c5a0e6e06",
    "timestamp": "2021-08-20T01:21:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_ogre.qc": {
    "bytes": 17439,
-   "path": "savetheworld-package/copper/src/m_ogre.qc",
    "sha256": "01a2b5e7a36ecb0f3f723f10f155f8ba9aa6489a9a3f4e4ffe76b70641e51426",
    "timestamp": "2020-10-20T11:08:08.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_oldone.qc": {
    "bytes": 12380,
-   "path": "savetheworld-package/copper/src/m_oldone.qc",
    "sha256": "b68395554336072bdb8e98afd0cf99f3d603e3f666fe93534674284cc9b634d8",
    "timestamp": "2020-10-20T12:59:24.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_shalrath.qc": {
    "bytes": 12609,
-   "path": "savetheworld-package/copper/src/m_shalrath.qc",
    "sha256": "c748868bcbd0d831cf5802f2fd0b2ffd6ecbbde557c76b5490360936d1f05fa8",
    "timestamp": "2020-10-30T23:00:08.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_shambler.qc": {
    "bytes": 16792,
-   "path": "savetheworld-package/copper/src/m_shambler.qc",
    "sha256": "ae54baa616833f270613bc8b20bc447489f906ed2ce850127f932afaa8b5a436",
    "timestamp": "2020-11-14T23:54:18.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_soldier.qc": {
    "bytes": 12632,
-   "path": "savetheworld-package/copper/src/m_soldier.qc",
    "sha256": "4b13de833ba4c2538ad1814534e99b4038b59b6fb331bd9fe32f0f938efc3ec5",
    "timestamp": "2020-12-09T18:46:32.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_tarbaby.qc": {
    "bytes": 11013,
-   "path": "savetheworld-package/copper/src/m_tarbaby.qc",
    "sha256": "c52ab4b746418eb8ec5b23686f3b4604453ebdf8b17d327e4feca876851160fd",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_wizard.qc": {
    "bytes": 11966,
-   "path": "savetheworld-package/copper/src/m_wizard.qc",
    "sha256": "51913fed653baa4236a22f94d8b6e80f651d57d24aaf02eb7865f4905f75b231",
    "timestamp": "2020-12-09T18:46:00.000Z"
   },
-  {
+  "savetheworld-package/copper/src/m_zombie.qc": {
    "bytes": 24805,
-   "path": "savetheworld-package/copper/src/m_zombie.qc",
    "sha256": "fb01d6085124718b0dc22cb5db114d75ec4a41bf67770ecf42ca8ff35dd5efef",
    "timestamp": "2021-07-31T15:40:36.000Z"
   },
-  {
+  "savetheworld-package/copper/src/maths.qc": {
    "bytes": 5909,
-   "path": "savetheworld-package/copper/src/maths.qc",
    "sha256": "4d098463c26f795cfd6b6fec621ffb6716580f85a19f808d2e0e293fccf8702f",
    "timestamp": "2020-11-08T19:12:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/meat.qc": {
    "bytes": 6046,
-   "path": "savetheworld-package/copper/src/meat.qc",
    "sha256": "d2b1ddf8a9b2cc9f49bb01a9d8f900413bc44ac5fa7a8efa24aee17fc5d62f8e",
    "timestamp": "2020-09-13T12:26:38.000Z"
   },
-  {
+  "savetheworld-package/copper/src/misc.qc": {
    "bytes": 19905,
-   "path": "savetheworld-package/copper/src/misc.qc",
    "sha256": "d5ef5718378ae33d346ddd59f13d5bf19972628eb38cb9885bf37b0c238de39b",
    "timestamp": "2021-08-20T01:18:46.000Z"
   },
-  {
+  "savetheworld-package/copper/src/monsters.qc": {
    "bytes": 18565,
-   "path": "savetheworld-package/copper/src/monsters.qc",
    "sha256": "6623dd21fc5be284375fdeca72cf909a64cb4f8afad9be7ba607ca312342a72e",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/plats.qc": {
    "bytes": 27965,
-   "path": "savetheworld-package/copper/src/plats.qc",
    "sha256": "8a5d05effddc54a9541a39cf6123fceef93952d9b9dfa8fa013e668fbf12a3e4",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/player.qc": {
    "bytes": 18812,
-   "path": "savetheworld-package/copper/src/player.qc",
    "sha256": "e7ccb67d19f818fb073b557ae4af347a5297dfd17eb0cd1a398473878a648506",
    "timestamp": "2020-09-22T13:04:26.000Z"
   },
-  {
+  "savetheworld-package/copper/src/progs.src": {
    "bytes": 1041,
-   "path": "savetheworld-package/copper/src/progs.src",
    "sha256": "f3787ad568db550c4f87c2da02fd36c1a8ec93ca00ab6dee2eb24984e0b82d09",
    "timestamp": "2020-09-10T12:09:14.000Z"
   },
-  {
+  "savetheworld-package/copper/src/projectiles.qc": {
    "bytes": 15567,
-   "path": "savetheworld-package/copper/src/projectiles.qc",
    "sha256": "ca6085662fc674d590593f3ac0b213d9409013a48fd34798c5f34ccd857ada3f",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/qc2def.py": {
    "bytes": 1934,
-   "path": "savetheworld-package/copper/src/qc2def.py",
    "sha256": "61971360ee814cbe67e8b838a1a3e469278dc3cbbeedf60a270ae2ecd05b342a",
    "timestamp": "2020-11-17T20:17:40.000Z"
   },
-  {
+  "savetheworld-package/copper/src/qc2fgd.py": {
    "bytes": 2140,
-   "path": "savetheworld-package/copper/src/qc2fgd.py",
    "sha256": "747d3eb05499e117a58d65eb795f348b874b475f086c572b1464c90f585173eb",
    "timestamp": "2020-11-17T20:14:12.000Z"
   },
-  {
+  "savetheworld-package/copper/src/shooters.qc": {
    "bytes": 12918,
-   "path": "savetheworld-package/copper/src/shooters.qc",
    "sha256": "e401ff128d046d027d92a7848ac8447b7680292431dffb37b5728970e7d17c98",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/sound.qc": {
    "bytes": 13461,
-   "path": "savetheworld-package/copper/src/sound.qc",
    "sha256": "8cae48359ba4aca7105058e7ceb6caf09e13f3e1bfc7e607e09e11fa07bfabef",
    "timestamp": "2021-07-31T19:48:06.000Z"
   },
-  {
+  "savetheworld-package/copper/src/subs.qc": {
    "bytes": 2890,
-   "path": "savetheworld-package/copper/src/subs.qc",
    "sha256": "ed3f093a06a9f8318bc465573c02dae7656239f6de33649cad2448a7dac7738e",
    "timestamp": "2021-06-21T15:19:08.000Z"
   },
-  {
+  "savetheworld-package/copper/src/subs_move.qc": {
    "bytes": 4141,
-   "path": "savetheworld-package/copper/src/subs_move.qc",
    "sha256": "1b0ade230265325e64604500f9e86bd8e583a0cb6fd50b50f079da0ded099c8b",
    "timestamp": "2020-10-30T15:22:52.000Z"
   },
-  {
+  "savetheworld-package/copper/src/subs_tgt.qc": {
    "bytes": 12526,
-   "path": "savetheworld-package/copper/src/subs_tgt.qc",
    "sha256": "a3735f71e0a7d2255e20bd041e504f2e3642199b6f296f9422837b92a5bf21f6",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/t_ctrl.qc": {
    "bytes": 16518,
-   "path": "savetheworld-package/copper/src/t_ctrl.qc",
    "sha256": "5d490c6c0729811374e6dc8a0c9cd6342503fa63f699553d221e055a45a8e21f",
    "timestamp": "2021-08-20T01:17:58.000Z"
   },
-  {
+  "savetheworld-package/copper/src/t_level.qc": {
    "bytes": 14359,
-   "path": "savetheworld-package/copper/src/t_level.qc",
    "sha256": "2a05e2c8a33dcab174dd644915da4b5443ae8897927fcd4bc3e8d2f71d894bc8",
    "timestamp": "2021-08-20T01:14:10.000Z"
   },
-  {
+  "savetheworld-package/copper/src/t_tele.qc": {
    "bytes": 18398,
-   "path": "savetheworld-package/copper/src/t_tele.qc",
    "sha256": "de964de5582609179309f90bc296af0ab8c330b320cdf848a5586279c38a9c7a",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/t_void.qc": {
    "bytes": 15395,
-   "path": "savetheworld-package/copper/src/t_void.qc",
    "sha256": "bb241a74b25fde99c186a46cb5c88bbcd5efa62c2545ec4ae92347c3689d9213",
    "timestamp": "2021-08-20T01:21:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/test.qc": {
    "bytes": 329,
-   "path": "savetheworld-package/copper/src/test.qc",
    "sha256": "1db99110de27d9e6fe20330cbfefde0d443455a85a12ae8443d9ea295e66c3f1",
    "timestamp": "2020-09-13T12:26:38.000Z"
   },
-  {
+  "savetheworld-package/copper/src/triggers.qc": {
    "bytes": 34176,
-   "path": "savetheworld-package/copper/src/triggers.qc",
    "sha256": "4f6be00d14b1574e860b53197ffce8808764a1d3f84487db3c380ee3220ae1ac",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/utility.qc": {
    "bytes": 17360,
-   "path": "savetheworld-package/copper/src/utility.qc",
    "sha256": "b7fc9cb7a95f26b8f40c9b5e95d37883c37c7d58006b170a1091044936802956",
    "timestamp": "2021-08-20T01:15:52.000Z"
   },
-  {
+  "savetheworld-package/copper/src/w_axe.qc": {
    "bytes": 3231,
-   "path": "savetheworld-package/copper/src/w_axe.qc",
    "sha256": "5454a865fcda3ed611ec398091f0f4d0a2c5bf065b7b293ac3a589af05186dba",
    "timestamp": "2021-08-20T01:21:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/w_lightning.qc": {
    "bytes": 10127,
-   "path": "savetheworld-package/copper/src/w_lightning.qc",
    "sha256": "e6195aafa9e7b287d43123c88c9d993b3483890c0bdd097f64bec61e1675c2ae",
    "timestamp": "2021-06-28T20:53:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/w_nails.qc": {
    "bytes": 4760,
-   "path": "savetheworld-package/copper/src/w_nails.qc",
    "sha256": "5c0f81a55b5a7821415c80fb743683d12a45b6b06708c4d22a2f8768a335e548",
    "timestamp": "2020-09-22T13:01:42.000Z"
   },
-  {
+  "savetheworld-package/copper/src/w_rockets.qc": {
    "bytes": 3544,
-   "path": "savetheworld-package/copper/src/w_rockets.qc",
    "sha256": "cd16b98cedea06232daee6caf644bffd86e8dcbd7f2070ed98ada3ffa1946eb6",
    "timestamp": "2021-07-05T01:20:00.000Z"
   },
-  {
+  "savetheworld-package/copper/src/w_shotguns.qc": {
    "bytes": 4434,
-   "path": "savetheworld-package/copper/src/w_shotguns.qc",
    "sha256": "b9a8d8481bd203f3a8214b1c465fc1ded23e4f7c2b70ce878808cf8b7180fd73",
    "timestamp": "2021-08-20T00:37:50.000Z"
   },
-  {
+  "savetheworld-package/copper/src/walls.qc": {
    "bytes": 9336,
-   "path": "savetheworld-package/copper/src/walls.qc",
    "sha256": "5e57a5971d66918affd059e9c8993c080b897aea1b4c9b0a59a4a157a82832b3",
    "timestamp": "2021-07-31T17:40:36.000Z"
   },
-  {
+  "savetheworld-package/copper/src/weapons.qc": {
    "bytes": 11395,
-   "path": "savetheworld-package/copper/src/weapons.qc",
    "sha256": "e7c0ab03da344499191c5671eabb5c2936301a032d0405e96385407e99e93a95",
    "timestamp": "2021-08-21T00:46:48.000Z"
   },
-  {
+  "savetheworld-package/copper/src/world.qc": {
    "bytes": 13152,
-   "path": "savetheworld-package/copper/src/world.qc",
    "sha256": "a9a8c7657589006cd2d1a8d8d94c8fb5e7205e5e23db5e40efdaf47dd2988ea8",
    "timestamp": "2021-08-25T14:25:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This won't work in Quake Injector, it must be installed manually. This ZIP includes Copper v1.19 files in a mod folder called \"copper\". To avoid confusion, as well as overwriting an existing Copper install, you may want to rename this ZIP's \"copper\" mod folder to something like \"savetheworld\" before putting it in your Quake folder."
  ],

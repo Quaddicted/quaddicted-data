@@ -4,246 +4,207 @@
  ],
  "bytes": 55108663,
  "description": "Two-episode campaign featuring 17 medium-to-large maps, cutscenes, new monsters, weapons and many other features. Comes with a custom engine.",
- "files": [
-  {
+ "files": {
+  "DPNehahra.exe": {
    "bytes": 577024,
-   "path": "DPNehahra.exe",
    "sha256": "f5d5afa56954253f187bac32c34eb7bb77cd8fadc0ee2b4405bb3f0067426fa3",
    "timestamp": "2000-08-27T02:04:26.000Z"
   },
-  {
+  "FMOD.DLL": {
    "bytes": 117760,
-   "path": "FMOD.DLL",
    "sha256": "747f354f3b9cb8fcc7b91485c764811230264fa3443ab373de49a7d063747d41",
    "timestamp": "2001-02-19T10:29:54.000Z"
   },
-  {
+  "glquake.exe": {
    "bytes": 501248,
-   "path": "glquake.exe",
    "sha256": "18c63c0eb01d9c504de52f64a8361062abb98edc917c99d66ab932c10c408057",
    "timestamp": "2007-08-07T00:28:58.000Z"
   },
-  {
+  "nehahra.exe": {
    "bytes": 656384,
-   "path": "nehahra.exe",
    "sha256": "395938673d484f2969e82b632963465d521b6d13a2bcb34f082b155740cfa441",
    "timestamp": "2000-08-27T02:18:38.000Z"
   },
-  {
+  "nehahra/": {
    "bytes": 0,
-   "path": "nehahra/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2008-03-11T18:12:36.000Z"
   },
-  {
+  "nehahra/devkit/": {
    "bytes": 0,
-   "path": "nehahra/devkit/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2008-03-11T15:48:38.000Z"
   },
-  {
+  "nehahra/devkit/demos.txt": {
    "bytes": 776,
-   "path": "nehahra/devkit/demos.txt",
    "sha256": "8691bda465ae5b5f2efe998cb46f25c2541eca54c8c0458c59d531de371a50f9",
    "timestamp": "2000-08-19T03:32:56.000Z"
   },
-  {
+  "nehahra/devkit/devkit1.txt": {
    "bytes": 116684,
-   "path": "nehahra/devkit/devkit1.txt",
    "sha256": "c523a44bff8e955446f7ef30f954fbd93f78163122b727052ded196bf0eef437",
    "timestamp": "2001-07-22T18:32:08.000Z"
   },
-  {
+  "nehahra/devkit/nehahra.fgd": {
    "bytes": 43045,
-   "path": "nehahra/devkit/nehahra.fgd",
    "sha256": "03904994b002289fe9137020103ef87147225e48e37c606f802c77d62123635b",
    "timestamp": "2000-08-11T20:29:36.000Z"
   },
-  {
+  "nehahra/dpnehahra.txt": {
    "bytes": 2184,
-   "path": "nehahra/dpnehahra.txt",
    "sha256": "c1074c6ce374b08c0571458f86ce8b604112964fdb5c9757b2bd78a791a2de70",
    "timestamp": "2000-08-27T02:27:30.000Z"
   },
-  {
+  "nehahra/help.txt": {
    "bytes": 378,
-   "path": "nehahra/help.txt",
    "sha256": "8b78415248acc0a2f1d68d702d2b246eab4860447bb9d0a24dddfed06e837ce6",
    "timestamp": "2001-05-21T22:26:10.000Z"
   },
-  {
+  "nehahra/mods/": {
    "bytes": 0,
-   "path": "nehahra/mods/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2008-03-11T15:48:42.000Z"
   },
-  {
+  "nehahra/mods/atmos2.xm": {
    "bytes": 444475,
-   "path": "nehahra/mods/atmos2.xm",
    "sha256": "bb831042e325df4fc6839696a4c8adaecd601f399519607208afe6a00f40f503",
    "timestamp": "2000-04-03T17:05:14.000Z"
   },
-  {
+  "nehahra/mods/neh1.xm": {
    "bytes": 368757,
-   "path": "nehahra/mods/neh1.xm",
    "sha256": "4822831e49496e811cf6b0966db3177c6549ef0ea28e6cd4c064c8898ca9e2bf",
    "timestamp": "2000-09-19T10:33:22.000Z"
   },
-  {
+  "nehahra/mods/neh2.xm": {
    "bytes": 332712,
-   "path": "nehahra/mods/neh2.xm",
    "sha256": "7264f66fd40cc0c792cf93ed52789514319072a29c908c98772a3e9391b4c8d2",
    "timestamp": "2000-09-19T10:33:42.000Z"
   },
-  {
+  "nehahra/mods/neh3.xm": {
    "bytes": 764971,
-   "path": "nehahra/mods/neh3.xm",
    "sha256": "dfd33b1d13c657fe7118b8115b8c50e762ca24915b42a7012a479f378508b8c7",
    "timestamp": "2000-09-25T14:13:16.000Z"
   },
-  {
+  "nehahra/mods/neh3m1a.xm": {
    "bytes": 638666,
-   "path": "nehahra/mods/neh3m1a.xm",
    "sha256": "dc281be0a4ba848fb77e5e094d15925f912702cf161d04e46b446c9eb763e64e",
    "timestamp": "2001-02-03T00:42:56.000Z"
   },
-  {
+  "nehahra/mods/neh4.xm": {
    "bytes": 383080,
-   "path": "nehahra/mods/neh4.xm",
    "sha256": "183b9d9a472b927a6e1be021b10f8502ed95cc6fed8d83f63978ee78844df33a",
    "timestamp": "2000-09-19T10:35:08.000Z"
   },
-  {
+  "nehahra/mods/neh5.xm": {
    "bytes": 1795206,
-   "path": "nehahra/mods/neh5.xm",
    "sha256": "0fc0bb976a59a2d5292fd2cfbd93ac60bc698b35597bbea9e53a72a870bd51b0",
    "timestamp": "2000-09-19T10:37:42.000Z"
   },
-  {
+  "nehahra/mods/neh6.xm": {
    "bytes": 429365,
-   "path": "nehahra/mods/neh6.xm",
    "sha256": "5b886d034d6a3da7458acb10912e837d0a299fd72b2c3d74425e8819411061d0",
    "timestamp": "2000-09-19T10:38:16.000Z"
   },
-  {
+  "nehahra/mods/neh7.xm": {
    "bytes": 688737,
-   "path": "nehahra/mods/neh7.xm",
    "sha256": "78dfb8c694e353ff249b8f05d05dc1e2ff33dc358f2c4365faaadfbb678ee997",
    "timestamp": "2000-09-19T10:45:08.000Z"
   },
-  {
+  "nehahra/mods/neh8.xm": {
    "bytes": 535002,
-   "path": "nehahra/mods/neh8.xm",
    "sha256": "64e7769cc979fd1f5b176eda8e835fa3f682e64535d05377bb5f017069425a2e",
    "timestamp": "2000-09-19T10:59:20.000Z"
   },
-  {
+  "nehahra/mods/nehend.s3m": {
    "bytes": 389680,
-   "path": "nehahra/mods/nehend.s3m",
    "sha256": "1dcde863f58377fbc050dd0a52767fbb7577f0a5f3def5dbf02be7a2680ddee8",
    "timestamp": "2001-05-06T01:18:46.000Z"
   },
-  {
+  "nehahra/neh.html": {
    "bytes": 28423,
-   "path": "nehahra/neh.html",
    "sha256": "0c1f66dd5b175eb67e7f408146e609d65870287e54d69773425f68053c3f4358",
    "timestamp": "2000-08-18T14:22:34.000Z"
   },
-  {
+  "nehahra/nehahra.txt": {
    "bytes": 19845,
-   "path": "nehahra/nehahra.txt",
    "sha256": "22a09fa4193ef10171022150c44f02ad133b3c85a7448e02a78384e966c63847",
    "timestamp": "2001-05-22T12:55:04.000Z"
   },
-  {
+  "nehahra/nehexe.txt": {
    "bytes": 367,
-   "path": "nehahra/nehexe.txt",
    "sha256": "fe8831c8f0ae917dd5b59bfd791c8f3aa777db645c52544f034b6d19268048b5",
    "timestamp": "2001-05-22T12:46:04.000Z"
   },
-  {
+  "nehahra/nehmodfix.txt": {
    "bytes": 484,
-   "path": "nehahra/nehmodfix.txt",
    "sha256": "d4d7a90fbe2f9c8ea22b6427db169194085091dd58a572de4b256ffad22e1c3c",
    "timestamp": "2001-02-04T09:25:48.000Z"
   },
-  {
+  "nehahra/nehmulti.txt": {
    "bytes": 3897,
-   "path": "nehahra/nehmulti.txt",
    "sha256": "188cdbf1f9b4d2b5215c3963fdec9ccb87b69aa64fbb360eb804f7a2a115ff02",
    "timestamp": "2000-08-27T02:39:18.000Z"
   },
-  {
+  "nehahra/nehmusic.txt": {
    "bytes": 404,
-   "path": "nehahra/nehmusic.txt",
    "sha256": "95f37bae6ee2f05bbc0def78de2b9a631ada6a49d550d54a8681985bc76dfea0",
    "timestamp": "2001-05-22T15:44:10.000Z"
   },
-  {
+  "nehahra/pak0.pak": {
    "bytes": 116,
-   "path": "nehahra/pak0.pak",
    "sha256": "ecc8da26327e25950161cb8ba21a76512d6ebc2fcdb59b4b67142288584fc8c1",
    "timestamp": "2000-08-17T21:27:10.000Z"
   },
-  {
+  "nehahra/pak1.pak": {
    "bytes": 28584360,
-   "path": "nehahra/pak1.pak",
    "sha256": "fc709e6a650ea279619257fc37e0f4a2df252adb27f059362268a6bf42e92290",
    "timestamp": "2000-08-26T22:10:42.000Z"
   },
-  {
+  "nehahra/pak2.pak": {
    "bytes": 57681524,
-   "path": "nehahra/pak2.pak",
    "sha256": "cbccb374636dfb20825e64f4fb5cb591d7ef6939cca384dff4d1257e2065b42f",
    "timestamp": "2000-08-22T20:04:22.000Z"
   },
-  {
+  "nehahra/pak3.pak": {
    "bytes": 63677372,
-   "path": "nehahra/pak3.pak",
    "sha256": "3e5e26989fe6c623d8a92051c8940a7c4d4aacd3a7a035e56120022a89e2b92a",
    "timestamp": "2000-08-27T01:49:42.000Z"
   },
-  {
+  "nehahra/pak4.pak": {
    "bytes": 1841304,
-   "path": "nehahra/pak4.pak",
    "sha256": "ed8824a1a7d655a4999c9c0d7dee578cd725b50eff2661a121bc39008cd55585",
    "timestamp": "2000-08-27T01:48:12.000Z"
   },
-  {
+  "nehahra/progs.dat": {
    "bytes": 1021636,
-   "path": "nehahra/progs.dat",
    "sha256": "8c59efea896f07fd91e9bd018d66b9edc9a5112bcb1391c123c2c2efe0fac02d",
    "timestamp": "2001-06-05T10:57:52.000Z"
   },
-  {
+  "nehahra/readmeneh.txt": {
    "bytes": 14059,
-   "path": "nehahra/readmeneh.txt",
    "sha256": "c8365fabf8fa62c8e15902145ef3b378416f0b35d2ce84550c846a0421060430",
    "timestamp": "2008-03-11T18:08:18.000Z"
   },
-  {
+  "nehexe.exe": {
    "bytes": 438272,
-   "path": "nehexe.exe",
    "sha256": "d85750702382c91cacf44322523f2684674923667baaf24e2407b59442508ce3",
    "timestamp": "2001-03-08T14:50:28.000Z"
   },
-  {
+  "nehmovie.exe": {
    "bytes": 524288,
-   "path": "nehmovie.exe",
    "sha256": "f3fa7029e19a7b939ac5cedef5078116901bd86352f3a86bdfa1292da8a2d11a",
    "timestamp": "2000-08-06T12:47:50.000Z"
   },
-  {
+  "readme_spirit.txt": {
    "bytes": 770,
-   "path": "readme_spirit.txt",
    "sha256": "83d3b0909458acdc247913c185c1130cbb7dda8767ed9c16dc4447486d2a25e3",
    "timestamp": "2008-03-11T18:11:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "You can turn off the new AI (side-strafing monsters) with <code>nomonsters \"1\"</code>."
  ],

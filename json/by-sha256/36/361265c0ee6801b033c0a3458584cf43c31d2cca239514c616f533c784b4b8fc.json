@@ -4,18 +4,17 @@
  ],
  "bytes": 335264,
  "description": "Very small, plain red brick map.",
- "files": [
-  {
+ "files": {
+  "gloin.bsp": {
    "bytes": 794392,
-   "path": "gloin.bsp",
    "sha256": "6295373d4ce5b7c2ad0fbff00eea82de154a5c280682b2fc963106c9a549e7ed",
    "timestamp": "1997-10-23T19:51:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-23",
  "sha256": "361265c0ee6801b033c0a3458584cf43c31d2cca239514c616f533c784b4b8fc",
  "tags": [

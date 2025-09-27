@@ -4,24 +4,22 @@
  ],
  "bytes": 1208250,
  "description": "Small beginner's level with mixed texture themes.",
- "files": [
-  {
+ "files": {
+  "portal.bsp": {
    "bytes": 3015952,
-   "path": "portal.bsp",
    "sha256": "0a6c2a6bc4c45f01d22cef142c37bc62d78c767e18882a6f98f997c147c2c15f",
    "timestamp": "2021-02-03T19:52:14.000Z"
   },
-  {
+  "portal_readme.txt": {
    "bytes": 1779,
-   "path": "portal_readme.txt",
    "sha256": "7f1336256e3b2f8238b5c41094e813b4ab94097761bda40226591e23de08617e",
    "timestamp": "2021-02-05T18:54:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "An updated version of this map is available <a href=\"https://www.quaddicted.com/filebase/portal_v4.zip\">here</a>."
  ],

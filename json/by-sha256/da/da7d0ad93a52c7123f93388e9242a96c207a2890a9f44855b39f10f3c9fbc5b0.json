@@ -4,45 +4,40 @@
  ],
  "bytes": 15922655,
  "description": "Large, spacious military base/stronghold fortifying an old church. The map source is included.",
- "files": [
-  {
+ "files": {
+  "War Church/": {
    "bytes": 0,
-   "path": "War Church/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-08-25T18:20:46.000Z"
   },
-  {
+  "War Church/war_church.bsp": {
    "bytes": 113775688,
-   "path": "War Church/war_church.bsp",
    "sha256": "41d11d141617eb88c2c1645657d47c1687903b65259380227f6e1057538bc0ad",
    "timestamp": "2021-08-25T17:09:16.000Z"
   },
-  {
+  "War Church/war_church.lit": {
    "bytes": 6345980,
-   "path": "War Church/war_church.lit",
    "sha256": "4d3a87aaecfae538f726c51d480face645d7f79cd7440c25445023c86e688064",
    "timestamp": "2021-08-25T17:09:16.000Z"
   },
-  {
+  "War Church/war_church.map": {
    "bytes": 13331571,
-   "path": "War Church/war_church.map",
    "sha256": "77a9beda7debde6355bb0beb7d1b7fad755cd546555a8363fb0220016e06e626",
    "timestamp": "2021-08-25T17:04:02.000Z"
   },
-  {
+  "War Church/war_church_basslexa.txt": {
    "bytes": 1873,
-   "path": "War Church/war_church_basslexa.txt",
    "sha256": "e3f49dae679fcbdba7ace264c56b5fba9598e737cf6e6f7626310d745f7df45b",
    "timestamp": "2021-08-25T18:20:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
    "/War Church/": "/id1/maps/"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],

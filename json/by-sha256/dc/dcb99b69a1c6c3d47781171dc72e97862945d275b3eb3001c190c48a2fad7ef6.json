@@ -4,24 +4,22 @@
  ],
  "bytes": 598219,
  "description": "Small Metal level.",
- "files": [
-  {
+ "files": {
+  "EROTIQUE.BSP": {
    "bytes": 1395632,
-   "path": "EROTIQUE.BSP",
    "sha256": "c9f1db2162fd983b5c7405be73f2012cd14e11525f742478e15dc75338d693c5",
    "timestamp": "2097-03-04T08:24:32.000Z"
   },
-  {
+  "EROTIQUE.TXT": {
    "bytes": 2201,
-   "path": "EROTIQUE.TXT",
    "sha256": "1621f552811c854ace6937db7991f6e0c29b3aa9c513a109c2ab88ed56f8ce43",
    "timestamp": "2097-03-04T08:51:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-02-11",
  "sha256": "dcb99b69a1c6c3d47781171dc72e97862945d275b3eb3001c190c48a2fad7ef6",
  "tags": [

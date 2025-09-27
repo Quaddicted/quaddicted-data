@@ -4,24 +4,22 @@
  ],
  "bytes": 1962529,
  "description": "Medium-sized terracotta style map with a built-in skill selection room and an additional alternative game mode.",
- "files": [
-  {
+ "files": {
+  "mappi.bsp": {
    "bytes": 5057800,
-   "path": "mappi.bsp",
    "sha256": "4398745ca0f89b415d4c65f860b83b327e3e661dc6aa2807bacde097eb4b4f4b",
    "timestamp": "2010-08-13T12:00:22.000Z"
   },
-  {
+  "mappi.txt": {
    "bytes": 2605,
-   "path": "mappi.txt",
    "sha256": "ec815b9dbbc97ef7a224673f1258bed8b1f81e001993482a5c2c72df1ae17e73",
    "timestamp": "2010-08-13T12:00:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2010-08-13",
  "sha256": "3cce1df2650d97762752922ce94cc825e730727ddba67dab78af7aefacab82c7",
  "tags": [

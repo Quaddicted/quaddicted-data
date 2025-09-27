@@ -4,24 +4,22 @@
  ],
  "bytes": 1329203,
  "description": "Fairly large medieval library with Knave textures. Part 1 of the <a href=\"d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0\">Contract Revoked</a> series.",
- "files": [
-  {
+ "files": {
+  "KSP1.bsp": {
    "bytes": 3566352,
-   "path": "KSP1.bsp",
    "sha256": "b963d0174a6a958b3e340d939f999fcd7b5ac5ddf3a74b0a4f95af756547d9e2",
    "timestamp": "2001-06-11T08:32:22.000Z"
   },
-  {
+  "ksp1.html": {
    "bytes": 6350,
-   "path": "ksp1.html",
    "sha256": "989c6d8b19ca5e382b91f6eec53082e966ef1b0ed2715b636f716dcf738e0032",
    "timestamp": "2001-07-15T20:29:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-07-15",
  "sha256": "5dd15688345a2c204c1350f0aa7250b0c8dcae86f7d9c4dd362cf430e4d1de53",
  "tags": [

@@ -7,36 +7,32 @@
   "ad>=1.80"
  ],
  "description": "Large Knave-textured castle with libraries and a courtyard.",
- "files": [
-  {
+ "files": {
+  "ad_maktsp01.txt": {
    "bytes": 2402,
-   "path": "ad_maktsp01.txt",
    "sha256": "b6354f41597e8523676144c1621ae24d0fdc5bac5df0bb86ffbb9bf624fff6ed",
    "timestamp": "2021-09-18T13:50:54.000Z"
   },
-  {
+  "maps/ad_maktsp01.bsp": {
    "bytes": 20490200,
-   "path": "maps/ad_maktsp01.bsp",
    "sha256": "ada9bdcca929d10546e0838bdeeae4f4f9aa29799c40d583e52d095d6e17afd4",
    "timestamp": "2021-09-18T11:14:20.000Z"
   },
-  {
+  "maps/ad_maktsp01.lit": {
    "bytes": 6416168,
-   "path": "maps/ad_maktsp01.lit",
    "sha256": "722dee30807da47c8731da43f62a5912a3fc91667ecd7fc39e00295aa6f18db5",
    "timestamp": "2021-09-18T11:14:20.000Z"
   },
-  {
+  "maps/ad_maktsp01.map": {
    "bytes": 14230646,
-   "path": "maps/ad_maktsp01.map",
    "sha256": "baadc035a49b4189c0f5a189e63517bcfd0a1c0447d5c85495bae475f61681f8",
    "timestamp": "2021-09-18T11:12:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "The map source is included.This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
  ],

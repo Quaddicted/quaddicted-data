@@ -5,30 +5,27 @@
  "bytes": 1044804,
  "current_main_group_package": true,
  "description": "This is the GLquake version of <a href=\"2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab\">shadow</a> supporting transparent water.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 2265080,
-   "path": "Pak0.pak",
    "sha256": "18a93e8dec18fc72278602a2102a2211aa9aba67daeabe8d3005a457b4ebffcf",
    "timestamp": "2001-09-02T13:10:34.000Z"
   },
-  {
+  "Shadow1.txt": {
    "bytes": 4064,
-   "path": "Shadow1.txt",
    "sha256": "1ec5309e6fc1317d0ac0de5674b7cfdeacb56b7198c216468655f1b1999f7a11",
    "timestamp": "1997-03-06T09:52:56.000Z"
   },
-  {
+  "config.cfg": {
    "bytes": 2202,
-   "path": "config.cfg",
    "sha256": "045fdc8118f2856f04d8f7adbc75d8fea9ce094ed1cc2ebf0b3e10badc701e97",
    "timestamp": "2001-09-02T13:16:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/shadowgl/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "shadow": "2.0"
  },

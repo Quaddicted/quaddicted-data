@@ -5,24 +5,22 @@
  ],
  "bytes": 2098716,
  "description": "An Egyptian temple on an unknown island. Start map, medium temple map and small boss level, many cramped caverns and a dragon battle at the end.",
- "files": [
-  {
+ "files": {
+  "Lisland.txt": {
    "bytes": 1487,
-   "path": "Lisland.txt",
    "sha256": "50c146019490af9c123547493efe73e85097a6a68340b9b2a038aa091a2b122d",
    "timestamp": "1998-01-29T16:26:44.000Z"
   },
-  {
+  "Pak0.PAK": {
    "bytes": 5461674,
-   "path": "Pak0.PAK",
    "sha256": "0a506e76eb3d1296cfd7e1b48903f12e5bf4c7c25a01df8eda1c29bc1573cf57",
    "timestamp": "1998-01-28T09:24:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lisland/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-01-29",
  "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "tags": [

@@ -4,92 +4,78 @@
  ],
  "bytes": 42822818,
  "description": "Four (4) map episode with a variety of medieval / wizard / runic themes in a classic style, made for vanilla Quake. Some levels are rather non-linear and large. Map source is included.",
- "files": [
-  {
+ "files": {
+  "coldlight_1_2/": {
    "bytes": 0,
-   "path": "coldlight_1_2/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-12T11:06:12.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m1.bsp": {
    "bytes": 5581488,
-   "path": "coldlight_1_2/addy_cl_m1.bsp",
    "sha256": "2ecc61b72aba9a85416d3a8217bb869e742f78f353b2d213b4af568ce8b6d250",
    "timestamp": "2022-12-31T10:58:30.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m1.lit": {
    "bytes": 1099508,
-   "path": "coldlight_1_2/addy_cl_m1.lit",
    "sha256": "454d7e7e9c80a6d64da31aef6b4a471463f40fc53eac06d554f42b4f5920c8dd",
    "timestamp": "2022-12-31T10:58:30.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m1.map": {
    "bytes": 2460690,
-   "path": "coldlight_1_2/addy_cl_m1.map",
    "sha256": "6724060d72292d93301a0de7053a7224fd2705bc956a1517e55d6560c22ced8e",
    "timestamp": "2022-12-30T19:51:50.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m2.bsp": {
    "bytes": 7181916,
-   "path": "coldlight_1_2/addy_cl_m2.bsp",
    "sha256": "54940e804905e594604f763987b97644a6e90de02d167fdc8dd0fa180a5d84d7",
    "timestamp": "2022-12-30T19:50:26.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m2.lit": {
    "bytes": 2615165,
-   "path": "coldlight_1_2/addy_cl_m2.lit",
    "sha256": "133e47f6d85fc47b532067600159108dbfa5a0bb82aaeb02714da228cbe54918",
    "timestamp": "2022-12-30T19:50:26.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m2.map": {
    "bytes": 4429174,
-   "path": "coldlight_1_2/addy_cl_m2.map",
    "sha256": "2a43ac62eb29af226074db019fb73fad1d4e97830b37d32fc4225bfacdc4ed55",
    "timestamp": "2022-12-30T19:49:26.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m3.bsp": {
    "bytes": 8763304,
-   "path": "coldlight_1_2/addy_cl_m3.bsp",
    "sha256": "7f9e390bd9f735bddf25acbdc97266ec3f77c0cd428780432eccc832c3b2ef69",
    "timestamp": "2023-01-12T11:03:08.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m3.lit": {
    "bytes": 2106119,
-   "path": "coldlight_1_2/addy_cl_m3.lit",
    "sha256": "37856b9ce5fe6c7e931df5c22781d77d00c8910ae16dac6c030bcfb102e54992",
    "timestamp": "2023-01-12T11:03:08.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m3.map": {
    "bytes": 4985014,
-   "path": "coldlight_1_2/addy_cl_m3.map",
    "sha256": "d795ba88a7b465b6baf1d11faa3536dfdca1aaa19bf6f7e3b020aa15d3e808f0",
    "timestamp": "2022-12-30T12:39:26.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m4.bsp": {
    "bytes": 59263080,
-   "path": "coldlight_1_2/addy_cl_m4.bsp",
    "sha256": "100605f7f9803a6846da1486b7570e7035a8cb63e3916d9b60fba773dd352128",
    "timestamp": "2022-12-30T20:02:54.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m4.lit": {
    "bytes": 17049233,
-   "path": "coldlight_1_2/addy_cl_m4.lit",
    "sha256": "89844ac11000850e24734d69916c3f48d5474988d5f081cda797dc20ca5318e6",
    "timestamp": "2022-12-30T20:02:54.000Z"
   },
-  {
+  "coldlight_1_2/addy_cl_m4.map": {
    "bytes": 67399460,
-   "path": "coldlight_1_2/addy_cl_m4.map",
    "sha256": "1b81be286772ae70e8dbb5331e39c1b2b8a4d912bbc5666988762ffc850e3ff8",
    "timestamp": "2023-01-01T15:37:26.000Z"
   },
-  {
+  "coldlight_1_2/readme.txt": {
    "bytes": 1943,
-   "path": "coldlight_1_2/readme.txt",
    "sha256": "0f4dcc25d9eefdaa64d786ab0abd329177ba50bf637a4ac57e61a46b06e73d69",
    "timestamp": "2023-01-12T11:06:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
@@ -97,7 +83,7 @@
    "/coldlight_1_2/readme.txt": "/id1/maps/addy_cl.txt"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "<b>Warning: there is one known soft-lock bug on map #2 addy_cl_m2:</b> <i>\"do NOT go near the lift wall in the final arena room or you will get teleported back behind a locked door\" -Greenwood</i>",
   "Note: run these levels with \"-protocol 999\" in the command line. You'll need a modern engine / source port with protocol 999 support."

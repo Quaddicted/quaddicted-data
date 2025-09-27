@@ -4,24 +4,22 @@
  ],
  "bytes": 663307,
  "description": "Medium sized blue metal base map with a unique theme.",
- "files": [
-  {
+ "files": {
+  "anonca3.bsp": {
    "bytes": 1623716,
-   "path": "anonca3.bsp",
    "sha256": "acc84bcfe72673fbc9a24ab11c5d0651ed301ee00fdb4bde668fe272ca8d2c64",
    "timestamp": "1997-08-20T01:28:22.000Z"
   },
-  {
+  "anonca3.txt": {
    "bytes": 2196,
-   "path": "anonca3.txt",
    "sha256": "cddbf2e4dc600846304f9e80e564ec3d375d277b82806bd89e915418540de064",
    "timestamp": "1997-06-20T20:55:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-20",
  "sha256": "f5c8ff2b60236b7b3285c6d5f0618bda022f4232b3f18afeacdbc5717b4a184f",
  "tags": [

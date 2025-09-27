@@ -4,60 +4,52 @@
  ],
  "bytes": 24308024,
  "description": "Large dark industrial map using IKbase textures. Comes with a custom music track by the author. The map source is included.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-08-16T19:26:28.000Z"
   },
-  {
+  "maps/nmth_machinery.bsp": {
    "bytes": 3874004,
-   "path": "maps/nmth_machinery.bsp",
    "sha256": "e11f8987c91fe6b9ba3c788ceca98ed73b96e5d4d050c909c600a184faf467e8",
    "timestamp": "2020-08-16T20:09:58.000Z"
   },
-  {
+  "maps/nmth_machinery.lit": {
    "bytes": 2973887,
-   "path": "maps/nmth_machinery.lit",
    "sha256": "3c774bed17f502c079406d721d782861e01aa1ddea2295f9c1eff359a24b726d",
    "timestamp": "2020-08-16T20:09:58.000Z"
   },
-  {
+  "maps/nmth_machinery.map": {
    "bytes": 3155922,
-   "path": "maps/nmth_machinery.map",
    "sha256": "14d6be7a088e1a769807d283063049e77a44aeed395452a2e597b94584f2e653",
    "timestamp": "2020-08-16T20:09:18.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-08-16T19:25:14.000Z"
   },
-  {
+  "music/track49.mp3": {
    "bytes": 12680725,
-   "path": "music/track49.mp3",
    "sha256": "13fce412f0f5f8db246015f067b667a2b2cb27a155213fff737ccae3a45fe393",
    "timestamp": "2020-08-16T19:05:46.000Z"
   },
-  {
+  "music/track49.ogg": {
    "bytes": 9262116,
-   "path": "music/track49.ogg",
    "sha256": "bfc5157779f3ef9be32ebe420232c8724246ab2bd90c6e13e7f7d73f9d112664",
    "timestamp": "2020-08-16T19:01:10.000Z"
   },
-  {
+  "nmth_machinery.txt": {
    "bytes": 6269,
-   "path": "nmth_machinery.txt",
    "sha256": "59dd60f40a9985add976f578d18c6f9f0e7707d4c4f747a73d9b62e4a12a0e82",
    "timestamp": "2020-08-16T19:30:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/nmth_machinery"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

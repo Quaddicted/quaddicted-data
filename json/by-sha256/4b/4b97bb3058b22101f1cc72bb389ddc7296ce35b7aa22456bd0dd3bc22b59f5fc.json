@@ -5,24 +5,22 @@
  ],
  "bytes": 1189137,
  "description": "First map of the Alba TC. Set in 14th century Scotland. A small canyon level.",
- "files": [
-  {
+ "files": {
+  "alba01.txt": {
    "bytes": 10327,
-   "path": "alba01.txt",
    "sha256": "0c9886fcb78ee1fbc0f44f593382b450594cb020457bdd655294152017330d62",
    "timestamp": "1997-06-25T00:56:04.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 2603985,
-   "path": "pak0.pak",
    "sha256": "aeb25233550642fdb8234fdaf590f582d1bfc0ba24d14cc9c25df4fb6a1cded0",
    "timestamp": "1997-06-25T00:18:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/alba01/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-25",
  "sha256": "4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc",
  "tags": [

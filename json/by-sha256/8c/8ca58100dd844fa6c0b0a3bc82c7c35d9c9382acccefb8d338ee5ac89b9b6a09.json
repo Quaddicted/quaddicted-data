@@ -4,30 +4,27 @@
  ],
  "bytes": 317130,
  "description": "Small Metal space floater. Origin of the well-known Coagula style (tight void maps requiring the player to work their way upward).",
- "files": [
-  {
+ "files": {
+  "coagula.bsp": {
    "bytes": 954672,
-   "path": "coagula.bsp",
    "sha256": "59ad07b1e9034faac7f116886a5ac9ec75b4e93ffdfeb5df316705b4afabd01e",
    "timestamp": "2000-05-28T14:26:24.000Z"
   },
-  {
+  "coagula.txt": {
    "bytes": 4346,
-   "path": "coagula.txt",
    "sha256": "6c0fcfa1bea08b780c255cfbec974c67e38d97d4f47b9c52484e592e18c7e4b8",
    "timestamp": "2000-05-28T14:03:08.000Z"
   },
-  {
+  "coagula_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "coagula_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

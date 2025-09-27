@@ -4,42 +4,37 @@
  ],
  "bytes": 601255,
  "description": "Medium-sized moldy brick level inside a cave. It runs on the SMP mod (included). The map source is included.",
- "files": [
-  {
+ "files": {
+  "README.md": {
    "bytes": 1801,
-   "path": "README.md",
    "sha256": "db6f53e698c783c509dd53bf14184e527fcb19a1d4518b4df2d34053b8c8a513",
    "timestamp": "2021-12-05T21:01:40.000Z"
   },
-  {
+  "maps/pam1.bsp": {
    "bytes": 942948,
-   "path": "maps/pam1.bsp",
    "sha256": "72c633067551a97c28db6baa69481525c87f78e128befc76445750578291aec7",
    "timestamp": "2021-12-10T15:46:50.000Z"
   },
-  {
+  "maps/pam1.map": {
    "bytes": 518676,
-   "path": "maps/pam1.map",
    "sha256": "9ba328a83583df1e9ca151c46fd6e063f54f4944f391f0f8696c8a42c0ccd022",
    "timestamp": "2021-12-10T15:47:28.000Z"
   },
-  {
+  "maps/pam1.txt": {
    "bytes": 1692,
-   "path": "maps/pam1.txt",
    "sha256": "1920540ebc7b5e0a5eb0ae2a69be24dfb970dfce0b8900c68f06658d6f403b8c",
    "timestamp": "2021-12-09T23:52:14.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 334130,
-   "path": "progs.dat",
    "sha256": "8d70aac5d32b7585c0a1075a9ca32c4e56a35d685354213b06a882c2d35db9a8",
    "timestamp": "2021-12-05T21:01:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/pam1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-12-09",
  "sha256": "e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59",
  "tags": [

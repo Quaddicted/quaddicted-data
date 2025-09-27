@@ -4,30 +4,27 @@
  ],
  "bytes": 7285375,
  "description": "Six SP/DM maps of varying sizes and themes, designed specifically (but not exclusively) for speed-running. Comes with some custom progs, e.g. rotating objects, and a start map.",
- "files": [
-  {
+ "files": {
+  "info.txt": {
    "bytes": 13175,
-   "path": "info.txt",
    "sha256": "a485e33f00613677d6ea235cb2c99b4230d2eb83d0d87508e7583bf9e6e891e7",
    "timestamp": "1999-08-13T09:53:46.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 17567387,
-   "path": "pak0.pak",
    "sha256": "bcdb3d077a069bcbc1fcdcefec0aa477f6e940d5fa8f777013ec3937101f5913",
    "timestamp": "1999-08-13T22:04:04.000Z"
   },
-  {
+  "rde.txt": {
    "bytes": 7261,
-   "path": "rde.txt",
    "sha256": "5c0769455aa872eb33f0624cb9236a095a9d67e9d6a880a46252ac02c0a6ddfe",
    "timestamp": "1999-08-13T09:49:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/rde/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "rdefull": "1.0"
  },

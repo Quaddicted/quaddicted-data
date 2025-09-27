@@ -4,24 +4,22 @@
  ],
  "bytes": 397467,
  "description": "Small and tight medieval tech map with a polished look.",
- "files": [
-  {
+ "files": {
+  "PERSSP1.BSP": {
    "bytes": 954000,
-   "path": "PERSSP1.BSP",
    "sha256": "adff6ebc45099f93b65dab227977316a072e439053e5879c5586ca3ac7b883f0",
    "timestamp": "2000-10-29T05:58:44.000Z"
   },
-  {
+  "PERSSP1.TXT": {
    "bytes": 1258,
-   "path": "PERSSP1.TXT",
    "sha256": "b66ba82346741c48cd98a1fccf2eba31adc5d73e768de52fd00e640b62c13aa5",
    "timestamp": "2000-10-29T05:37:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-10-29",
  "sha256": "892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3",
  "tags": [

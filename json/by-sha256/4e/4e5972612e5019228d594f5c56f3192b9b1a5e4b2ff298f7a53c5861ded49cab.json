@@ -4,30 +4,27 @@
  ],
  "bytes": 482889,
  "description": "Small Metal map with some water bits.",
- "files": [
-  {
+ "files": {
+  "!!READ!!.BAT": {
    "bytes": 14009,
-   "path": "!!READ!!.BAT",
    "sha256": "2c6b80d203c62723384f92891faf637193fdcc23d1fcad6a1e4db13ec67164b6",
    "timestamp": "1996-12-26T16:58:18.000Z"
   },
-  {
+  "FIFFY.BSP": {
    "bytes": 1179824,
-   "path": "FIFFY.BSP",
    "sha256": "ef2f8eeb3a495574e5047978041b5fc51e279fcb505c2ebad46c084954b066b7",
    "timestamp": "1996-12-26T15:54:30.000Z"
   },
-  {
+  "FILE_ID.DIZ": {
    "bytes": 851,
-   "path": "FILE_ID.DIZ",
    "sha256": "f6905d54f4c610ab089c66ed280a648c7fee7500a62b24f8e0bfcfae00c5c488",
    "timestamp": "1996-12-26T16:32:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "4fiffy1": "1.0"
  },

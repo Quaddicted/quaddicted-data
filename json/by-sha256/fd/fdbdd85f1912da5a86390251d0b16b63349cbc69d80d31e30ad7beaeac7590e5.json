@@ -4,30 +4,27 @@
  ],
  "bytes": 1034501,
  "description": "Large temple with a unique metal theme, some reskinned monsters, an interesting boss fight, and a start map.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 2580068,
-   "path": "Pak0.pak",
    "sha256": "d4f8db1d3c587d0d74b270d45ed67c40e1e7e759e14084fabd047a00f29bd5cd",
    "timestamp": "1997-11-06T23:00:14.000Z"
   },
-  {
+  "temple.bat": {
    "bytes": 26,
-   "path": "temple.bat",
    "sha256": "cbf5dab7bd6d92be2661e49e9fcc98a570633fe1e728ab18cadbe41c1dae1ddf",
    "timestamp": "1997-10-30T19:28:36.000Z"
   },
-  {
+  "temple.txt": {
    "bytes": 2082,
-   "path": "temple.txt",
    "sha256": "fa2f62dee7a16c4be087b49dfecc5ff617b88d77d283dc61fb6e962cbba5c73c",
    "timestamp": "1997-11-07T19:15:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/eltemple/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-07",
  "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "tags": [

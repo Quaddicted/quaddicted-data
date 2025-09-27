@@ -4,24 +4,22 @@
  ],
  "bytes": 1118536,
  "description": "Medium sized map: a Metal temple with a warehouse leading into a Base.",
- "files": [
-  {
+ "files": {
+  "AREA51.BSP": {
    "bytes": 2626312,
-   "path": "AREA51.BSP",
    "sha256": "3fef12b940a8f9969a2991ac8aa0802e76b01d77b36cba49539c84028eb7b528",
    "timestamp": "1997-08-10T19:15:34.000Z"
   },
-  {
+  "AREA51.TXT": {
    "bytes": 10939,
-   "path": "AREA51.TXT",
    "sha256": "0924f58bc44fed113257ab4ecd3531410ac0df6ae54b1a5a21229a92c0ef8dbe",
    "timestamp": "1997-08-10T19:49:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-10",
  "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "tags": [

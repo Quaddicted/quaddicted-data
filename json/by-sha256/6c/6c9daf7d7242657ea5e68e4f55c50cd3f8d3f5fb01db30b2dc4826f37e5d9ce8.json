@@ -4,18 +4,17 @@
  ],
  "bytes": 514179,
  "description": "Spaceship map. Has some hard and awkward puzzles.",
- "files": [
-  {
+ "files": {
+  "space.bsp": {
    "bytes": 1217132,
-   "path": "space.bsp",
    "sha256": "1c6c8498b0d819d9fff8639155f0953fa904ee3c00690c5fb289b1871b2613e2",
    "timestamp": "2000-07-04T15:37:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-07-04",
  "sha256": "6c9daf7d7242657ea5e68e4f55c50cd3f8d3f5fb01db30b2dc4826f37e5d9ce8",
  "tags": [

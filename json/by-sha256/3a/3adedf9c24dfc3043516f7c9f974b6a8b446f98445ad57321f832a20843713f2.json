@@ -4,24 +4,22 @@
  ],
  "bytes": 728691,
  "description": "Medium sized Medieval castle with some blue and gray brick bits.",
- "files": [
-  {
+ "files": {
+  "CASTLE.BSP": {
    "bytes": 1664004,
-   "path": "CASTLE.BSP",
    "sha256": "87af4134283d4a7b2e9dd7bc2cfdc8f76c8800b94f63902eda730d59fa052a05",
    "timestamp": "1997-03-25T20:50:10.000Z"
   },
-  {
+  "CASTLE.TXT": {
    "bytes": 7395,
-   "path": "CASTLE.TXT",
    "sha256": "4774ba28fd0e7b5a259fb09f0567a7790e1cb7092c5b052a231ecc228e6eb397",
    "timestamp": "1997-03-28T09:47:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-28",
  "sha256": "3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 1141690,
  "description": "<i>A marketplace-themed SP map of moderate size</i>.",
- "files": [
-  {
+ "files": {
+  "dw_bizbazfinal.bsp": {
    "bytes": 2766677,
-   "path": "dw_bizbazfinal.bsp",
    "sha256": "a83cf639969274646d4137a5b923c14153c2d12b11f36b741cc37d75af91692a",
    "timestamp": "2017-12-16T01:31:22.000Z"
   },
-  {
+  "dw_bizbazfinal.txt": {
    "bytes": 5043,
-   "path": "dw_bizbazfinal.txt",
    "sha256": "a2b8b31b560922376d06aa4011940da8e296cdcd0b7456df349a702bd234dbec",
    "timestamp": "2017-12-23T21:47:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2017-12-24",
  "sha256": "211232477b4777cb2f7eeb68442833fae50a450b952e04fef36873b1803c96a9",
  "tags": [

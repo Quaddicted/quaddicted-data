@@ -5,126 +5,107 @@
  "bytes": 19630059,
  "current_main_group_package": true,
  "description": "Medium sized industrial Cr8 base map, a remix of rd1m4 from <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">Runner's Delight (1999)</a>. Built on Alkaline 1.2 RC1 devkit (already included). Map source is included too.",
- "files": [
-  {
+ "files": {
+  "rd1m4rmx/": {
    "bytes": 0,
-   "path": "rd1m4rmx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-27T15:26:58.000Z"
   },
-  {
+  "rd1m4rmx/gfx/": {
    "bytes": 0,
-   "path": "rd1m4rmx/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-18T14:57:48.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/": {
    "bytes": 0,
-   "path": "rd1m4rmx/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-27T14:45:08.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/desktop.ini": {
    "bytes": 47,
-   "path": "rd1m4rmx/gfx/env/desktop.ini",
    "sha256": "a1edc277e4762553755e848e57a9b9b1f7ead7433e87b9fdd491f465c0bef87e",
    "timestamp": "2015-08-18T10:12:40.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/mpa99bk.tga": {
    "bytes": 4194322,
-   "path": "rd1m4rmx/gfx/env/mpa99bk.tga",
    "sha256": "408482e724469bedec67767758f29ca7c79979938e5a687e9a1de7f18d0ecd6e",
    "timestamp": "2018-10-31T12:06:54.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/mpa99dn.tga": {
    "bytes": 4194322,
-   "path": "rd1m4rmx/gfx/env/mpa99dn.tga",
    "sha256": "59b4406418303c3935701d6bfadfdf68b99eae6d1144cda42338c1acea629155",
    "timestamp": "2018-10-31T12:07:06.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/mpa99ft.tga": {
    "bytes": 4194322,
-   "path": "rd1m4rmx/gfx/env/mpa99ft.tga",
    "sha256": "8723bc6ee1734fd1798e259f1ae578578292875ba7e5185bb70f9d4013df6c72",
    "timestamp": "2018-10-31T12:07:18.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/mpa99lf.tga": {
    "bytes": 4194322,
-   "path": "rd1m4rmx/gfx/env/mpa99lf.tga",
    "sha256": "8240518e6cb8cf6b839354e9bf1f239f0cb28f3068933993ad3d644df96a76c5",
    "timestamp": "2018-10-31T12:07:28.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/mpa99rt.tga": {
    "bytes": 4194322,
-   "path": "rd1m4rmx/gfx/env/mpa99rt.tga",
    "sha256": "798544ac6a4dd2c85be10fdc298264a3da4eafcd013deb83dbcfe5f67fb580ca",
    "timestamp": "2018-10-31T12:07:40.000Z"
   },
-  {
+  "rd1m4rmx/gfx/env/mpa99up.tga": {
    "bytes": 4194322,
-   "path": "rd1m4rmx/gfx/env/mpa99up.tga",
    "sha256": "37ca034fb2119bb7f87e2dfc324ff7b9b277ab2b63a511886c2e3122329333ce",
    "timestamp": "2018-10-31T12:07:52.000Z"
   },
-  {
+  "rd1m4rmx/maps/": {
    "bytes": 0,
-   "path": "rd1m4rmx/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-27T14:46:22.000Z"
   },
-  {
+  "rd1m4rmx/maps/rd1m4rmx.bsp": {
    "bytes": 2089344,
-   "path": "rd1m4rmx/maps/rd1m4rmx.bsp",
    "sha256": "25517cd52baac2e17ae459fa6959573a0fd9f5d66f70afd347ab7c076cf914af",
    "timestamp": "2022-12-27T14:37:58.000Z"
   },
-  {
+  "rd1m4rmx/maps/rd1m4rmx.lit": {
    "bytes": 916808,
-   "path": "rd1m4rmx/maps/rd1m4rmx.lit",
    "sha256": "99ad6316d62649a0e65ad89f440a7e5b04fbc361ed21291fedfc179d393199e0",
    "timestamp": "2022-12-27T14:37:58.000Z"
   },
-  {
+  "rd1m4rmx/maps/rd1m4rmx.map": {
    "bytes": 2559378,
-   "path": "rd1m4rmx/maps/rd1m4rmx.map",
    "sha256": "f06581eb0879aa49164e774119215dbccee99273c2b596afe0c3d3bf3f503af4",
    "timestamp": "2022-12-27T14:25:08.000Z"
   },
-  {
+  "rd1m4rmx/pak0.pak": {
    "bytes": 33287670,
-   "path": "rd1m4rmx/pak0.pak",
    "sha256": "e5de412650faace357cc258869903e068d95711cf7d57a425e0ec5643b11e188",
    "timestamp": "2022-11-18T17:02:06.000Z"
   },
-  {
+  "rd1m4rmx/rd1m4rmx.txt": {
    "bytes": 1544,
-   "path": "rd1m4rmx/rd1m4rmx.txt",
    "sha256": "6161bae15dd4d5c3f50d2b4b0df5a0e9b0c9065246b6f9d98602ab277c05b991",
    "timestamp": "2022-12-27T15:11:54.000Z"
   },
-  {
+  "rd1m4rmx/sound/": {
    "bytes": 0,
-   "path": "rd1m4rmx/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-27T15:26:58.000Z"
   },
-  {
+  "rd1m4rmx/sound/ambient/": {
    "bytes": 0,
-   "path": "rd1m4rmx/sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-27T15:27:08.000Z"
   },
-  {
+  "rd1m4rmx/sound/ambient/fan1.wav": {
    "bytes": 53404,
-   "path": "rd1m4rmx/sound/ambient/fan1.wav",
    "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
    "timestamp": "2021-02-12T02:00:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This release is packaged as a mod but there's no custom start map; load the level manually via console: \"map rd1m4rmx\"",
   "Probably requires a modern engine / source port with increased limits."

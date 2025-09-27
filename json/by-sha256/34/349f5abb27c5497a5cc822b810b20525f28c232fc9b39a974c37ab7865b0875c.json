@@ -5,24 +5,22 @@
  ],
  "bytes": 9733830,
  "description": "Three-map base/industrial campaign with new textures, three new monsters, and a few other additions.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 24381576,
-   "path": "pak0.pak",
    "sha256": "94e63081e259a3df453963a23f8c1cf833de92108418a1067b461e15a790df02",
    "timestamp": "2011-02-12T01:34:52.000Z"
   },
-  {
+  "rubicon2.txt": {
    "bytes": 4241,
-   "path": "rubicon2.txt",
    "sha256": "ab8213696595a5ca38bed9841a7ca01190c4449897c18c7ef5db04ab77b1ee15",
    "timestamp": "2011-02-12T01:48:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/rubicon2/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2011-02-11",
  "sha256": "349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
  "tags": [

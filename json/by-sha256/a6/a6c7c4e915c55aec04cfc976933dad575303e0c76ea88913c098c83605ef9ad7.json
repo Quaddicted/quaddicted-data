@@ -4,30 +4,27 @@
  ],
  "bytes": 1184275,
  "description": "A small wizard / runic themed map built within a 1024x1024x1024 volume. The author's first release for Quake. Map source is included.",
- "files": [
-  {
+ "files": {
+  "suzy1024.bsp": {
    "bytes": 2054764,
-   "path": "suzy1024.bsp",
    "sha256": "30660003b55cbc591759dd64c53e5115e0012fa613c81890c154679da72973ed",
    "timestamp": "2022-02-18T17:34:16.000Z"
   },
-  {
+  "suzy1024.map": {
    "bytes": 3222513,
-   "path": "suzy1024.map",
    "sha256": "b2b83749743a6adaed7169302281ba8d0078a7ad72f88aa08479d4f4e92d1b92",
    "timestamp": "2022-02-18T17:32:16.000Z"
   },
-  {
+  "suzy1024.txt": {
    "bytes": 2116,
-   "path": "suzy1024.txt",
    "sha256": "3b46872c9c2e19fdbdea61d0ff21b8a61366f4b9a35ac38ccc7c9fc7c04bae2a",
    "timestamp": "2022-02-18T17:54:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a modern engine / source port with increased limits."
  ],

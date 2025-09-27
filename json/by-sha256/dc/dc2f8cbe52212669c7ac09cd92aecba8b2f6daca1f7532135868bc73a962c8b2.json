@@ -4,24 +4,22 @@
  ],
  "bytes": 2319710,
  "description": "Large ancient castle with custom textures, great details and atmosphere.",
- "files": [
-  {
+ "files": {
+  "gmsp3.txt": {
    "bytes": 4950,
-   "path": "gmsp3.txt",
    "sha256": "7bed9382ef4e0ee526a5de853de76fbe8e23957fd422642efef466a3b487d0ca",
    "timestamp": "2003-10-19T16:22:52.000Z"
   },
-  {
+  "gmsp3v2.bsp": {
    "bytes": 5617208,
-   "path": "gmsp3v2.bsp",
    "sha256": "21a59dcebe1a307057431dbdd4b8d2bc21f11e26d305dcc798da3907083623c7",
    "timestamp": "2003-10-12T19:44:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A version compiled for supporting transparent water is available here: <a href=\"8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469\">gmsp3tw</a>."
  ],

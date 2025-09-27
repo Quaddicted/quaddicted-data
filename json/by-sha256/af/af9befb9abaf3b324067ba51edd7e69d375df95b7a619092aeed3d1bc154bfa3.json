@@ -4,24 +4,22 @@
  ],
  "bytes": 863956,
  "description": "Small to medium sized Base level.",
- "files": [
-  {
+ "files": {
+  "endtime.bsp": {
    "bytes": 2012056,
-   "path": "endtime.bsp",
    "sha256": "4ea59be1c89b2a73bc2ee6cdcfb62796459253e559590b33a4edfd4154295f75",
    "timestamp": "1997-07-22T03:47:04.000Z"
   },
-  {
+  "endtime.txt": {
    "bytes": 3424,
-   "path": "endtime.txt",
    "sha256": "06e7d7553a0dc8d2a17f022e8d93e859fa22b33a577796ad0fa043164f1180e0",
    "timestamp": "1997-07-22T06:55:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-22",
  "sha256": "af9befb9abaf3b324067ba51edd7e69d375df95b7a619092aeed3d1bc154bfa3",
  "tags": [

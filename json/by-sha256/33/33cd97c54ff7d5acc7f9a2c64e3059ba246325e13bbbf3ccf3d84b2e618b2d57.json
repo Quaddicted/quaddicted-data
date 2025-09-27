@@ -12,84 +12,72 @@
  ],
  "bytes": 255610484,
  "description": "Mod that introduces several significant new player movement mechanics to Quake, including trampolines, climbable wiremeshes and lighthooks (similar to grapple hooks). Includes 11 new purpose-built maps, by various authors, plus a start map.",
- "files": [
-  {
+ "files": {
+  "rm1.1/Pak0.pak": {
    "bytes": 499723584,
-   "path": "rm1.1/Pak0.pak",
    "sha256": "cfdc64e025ef813b47d5825943abb4489b0851ed5eea79532c24a455f3da689e",
    "timestamp": "2023-07-14T23:28:12.000Z"
   },
-  {
+  "rm1.1/ReMobilize Wiki.url": {
    "bytes": 138,
-   "path": "rm1.1/ReMobilize Wiki.url",
    "sha256": "d08bb65749322f52834f30164eae790f0bcac3ef5e921d063e431b65b57454e4",
    "timestamp": "2023-06-15T22:26:36.000Z"
   },
-  {
+  "rm1.1/map readmes/": {
    "bytes": 0,
-   "path": "rm1.1/map readmes/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-07-16T03:06:20.000Z"
   },
-  {
+  "rm1.1/map readmes/rm_carcosa.txt": {
    "bytes": 5644,
-   "path": "rm1.1/map readmes/rm_carcosa.txt",
    "sha256": "0500531b84e0f0ceb3c7934ba75acf7cbb48e860887f6a434493a3f5d0ff0a19",
    "timestamp": "2023-07-05T15:20:10.000Z"
   },
-  {
+  "rm1.1/map readmes/rm_echoes.txt": {
    "bytes": 2949,
-   "path": "rm1.1/map readmes/rm_echoes.txt",
    "sha256": "cd8072a293828a42ceedc8b08fd76cbfe928eb69dd5d67ac07047a8ad1ca526b",
    "timestamp": "2023-07-13T13:49:44.000Z"
   },
-  {
+  "rm1.1/map readmes/rm_moon readme.txt": {
    "bytes": 1288,
-   "path": "rm1.1/map readmes/rm_moon readme.txt",
    "sha256": "b23521f374238395eab27904e27df34d9056869ce6b17c06ee06746fe76d5cbc",
    "timestamp": "2023-06-22T14:14:04.000Z"
   },
-  {
+  "rm1.1/map readmes/rm_peak readme.txt": {
    "bytes": 1247,
-   "path": "rm1.1/map readmes/rm_peak readme.txt",
    "sha256": "e5419ebd0634414a9c667097a61a5c1b7b62792aa6e65ccd0bdd868f62f539aa",
    "timestamp": "2023-06-22T14:14:20.000Z"
   },
-  {
+  "rm1.1/map readmes/rm_re1m8.txt": {
    "bytes": 2124,
-   "path": "rm1.1/map readmes/rm_re1m8.txt",
    "sha256": "4ca489577f7a01491e89405351f1d0eee9c1879c7beea2ae22ca5639c9e4921a",
    "timestamp": "2023-06-14T23:02:16.000Z"
   },
-  {
+  "rm1.1/progs.dat": {
    "bytes": 814546,
-   "path": "rm1.1/progs.dat",
    "sha256": "b12e6c1aa55abf8d7c97827e57ff566e15a476590c3e92898ceea4fbff387412",
    "timestamp": "2023-07-09T14:47:16.000Z"
   },
-  {
+  "rm1.1/quake.rc": {
    "bytes": 762,
-   "path": "rm1.1/quake.rc",
    "sha256": "a88c4a530c4a6a32d36819a14ac876a1e946868f4ef3fb19e6d64e5d5d2bf451",
    "timestamp": "2023-01-11T01:07:56.000Z"
   },
-  {
+  "rm1.1/remobilize.fgd": {
    "bytes": 175672,
-   "path": "rm1.1/remobilize.fgd",
    "sha256": "b69cfa4351e204fd631b4c713b6896e99e3a600697663f14a76c4de59b865dfd",
    "timestamp": "2023-06-26T18:15:42.000Z"
   },
-  {
+  "rm1.1/rm_mechanics.wad": {
    "bytes": 645460,
-   "path": "rm1.1/rm_mechanics.wad",
    "sha256": "5ffa3b3334135d713f9582ed7238b0a1507d9bd861a6791a7a550286ac9e8773",
    "timestamp": "2022-07-19T19:20:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This might not work when installed with the Quake Injector on a case-sensitive filesystem (Linux) because the pak file is named \"Pak0.pak\". You can manually rename the file to lowercase \"pak0.pak\".",
   "A modern engine / source port with increased limits is required."

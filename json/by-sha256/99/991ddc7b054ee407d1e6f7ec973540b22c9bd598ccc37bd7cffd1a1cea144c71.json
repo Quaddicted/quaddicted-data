@@ -4,24 +4,22 @@
  ],
  "bytes": 562348,
  "description": "czg's second entry for the second 100brush contest: a small industrial map with Quake2 textures.",
- "files": [
-  {
+ "files": {
+  "czgtoxic.bsp": {
    "bytes": 1506144,
-   "path": "czgtoxic.bsp",
    "sha256": "afbe333f56001792a8a38e7bd0ee96e894954e105c2c3a1c6928c1fc602f9245",
    "timestamp": "2001-04-03T01:50:26.000Z"
   },
-  {
+  "czgtoxic.txt": {
    "bytes": 732,
-   "path": "czgtoxic.txt",
    "sha256": "0643b24e6253bc938ed777b4970c336e5cbfeaea25a968ee94eaafcd70ad222f",
    "timestamp": "2001-04-03T02:08:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-04-03",
  "sha256": "991ddc7b054ee407d1e6f7ec973540b22c9bd598ccc37bd7cffd1a1cea144c71",
  "tags": [

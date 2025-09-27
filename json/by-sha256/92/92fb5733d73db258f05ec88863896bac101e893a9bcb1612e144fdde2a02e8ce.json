@@ -4,24 +4,22 @@
  ],
  "bytes": 159538,
  "description": "Very small and plain vertical map with a few ogres.",
- "files": [
-  {
+ "files": {
+  "CLIMB.BSP": {
    "bytes": 388988,
-   "path": "CLIMB.BSP",
    "sha256": "ab019881e335b662194838a5312282e04dc8d058d74616b91fdd4af136e62c38",
    "timestamp": "1996-10-15T22:01:30.000Z"
   },
-  {
+  "CLIMB.TXT": {
    "bytes": 2711,
-   "path": "CLIMB.TXT",
    "sha256": "9936aef8bfaa00257d09a43bc713baad3b2795113839f503008c046ed7155b27",
    "timestamp": "1996-10-16T02:25:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-16",
  "sha256": "92fb5733d73db258f05ec88863896bac101e893a9bcb1612e144fdde2a02e8ce",
  "tags": [

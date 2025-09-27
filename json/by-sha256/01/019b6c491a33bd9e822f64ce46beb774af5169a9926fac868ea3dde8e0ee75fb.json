@@ -4,24 +4,22 @@
  ],
  "bytes": 517836,
  "description": "\"A Huge Level made to sort of resemble a castle\" with the author's own editor (actually a bunch of simple brush editors).",
- "files": [
-  {
+ "files": {
+  "bc.bsp": {
    "bytes": 1462820,
-   "path": "bc.bsp",
    "sha256": "0d6630b2656410929dc5fbe74a3cdf5a3f7bcf27c10a91cfe8e1f067a1cb4cbc",
    "timestamp": "1996-07-20T14:14:18.000Z"
   },
-  {
+  "bc.txt": {
    "bytes": 1897,
-   "path": "bc.txt",
    "sha256": "e5a7dd006ee0ad3489f51b77975eb7c0f2eb0fe2ef2352953a6d2b1db7314f94",
    "timestamp": "1996-07-14T09:57:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-07-20",
  "sha256": "019b6c491a33bd9e822f64ce46beb774af5169a9926fac868ea3dde8e0ee75fb",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 789719,
  "description": "A large Base map with some water areas.",
- "files": [
-  {
+ "files": {
+  "polygon8.bsp": {
    "bytes": 1833244,
-   "path": "polygon8.bsp",
    "sha256": "55966e12bd8a3415c4c0da422d091b503c0ceb562c0c7a18b7c541af58faf879",
    "timestamp": "1997-08-23T11:39:00.000Z"
   },
-  {
+  "polygon8.txt": {
    "bytes": 4037,
-   "path": "polygon8.txt",
    "sha256": "83cd71aebdd5712759a2bd9e03d2b37dae2d076b9b4669b338a62c0e555207a5",
    "timestamp": "1997-08-28T10:36:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "An upgraded version was released as <a href=\"2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a\">polybase</a>."
  ],

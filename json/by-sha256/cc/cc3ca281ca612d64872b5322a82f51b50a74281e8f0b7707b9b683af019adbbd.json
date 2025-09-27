@@ -4,54 +4,47 @@
  ],
  "bytes": 17528563,
  "description": "Medium / large base map with lots of lava. Built on progs_dump 3.0 (already included). Custom music is \"Scratch My Surface\" by Verbum Mentis. Map source is included.",
- "files": [
-  {
+ "files": {
+  "jpqm13/README - jpqm13 - Concrete Meltdown.txt": {
    "bytes": 3249,
-   "path": "jpqm13/README - jpqm13 - Concrete Meltdown.txt",
    "sha256": "088142d67e5f3b7aa5ccc293407257ab70004b4ee7fcb8ef6abaa766bc0a7b62",
    "timestamp": "2022-10-16T21:54:02.000Z"
   },
-  {
+  "jpqm13/map src/": {
    "bytes": 0,
-   "path": "jpqm13/map src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-10-16T21:40:12.000Z"
   },
-  {
+  "jpqm13/map src/jpqm13.map": {
    "bytes": 14757505,
-   "path": "jpqm13/map src/jpqm13.map",
    "sha256": "c6b441dfe59ec0329b9928d107ffa13a7fa3b5c30bf43a41034bd095801677f9",
    "timestamp": "2022-10-16T21:16:08.000Z"
   },
-  {
+  "jpqm13/music/": {
    "bytes": 0,
-   "path": "jpqm13/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-10-16T21:40:12.000Z"
   },
-  {
+  "jpqm13/music/track111.ogg": {
    "bytes": 2290360,
-   "path": "jpqm13/music/track111.ogg",
    "sha256": "11a45a41a65a0dcb60a123e351c3116a1034554cfa10546f1b4d94fa54f28f51",
    "timestamp": "2020-10-31T21:52:58.000Z"
   },
-  {
+  "jpqm13/pak0.pak": {
    "bytes": 32708955,
-   "path": "jpqm13/pak0.pak",
    "sha256": "8b9a8e0ac15f756a1178997fe3b0b0efbd97644ab0d8a1b49f9bb43c211e3ef2",
    "timestamp": "2022-10-16T21:42:14.000Z"
   },
-  {
+  "jpqm13/progs_dump-devkit-readme.txt": {
    "bytes": 9360,
-   "path": "jpqm13/progs_dump-devkit-readme.txt",
    "sha256": "c8eb11121c42e133e391a016cae91abbd3766508d4108bf5a74ce61e6d8f2723",
    "timestamp": "2022-09-26T16:09:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "There is no custom start map, so set your desired difficulty and load the map manually via console: \"map jpqm13\"",
   "Requires a modern engine / source port with increased limits and BSP2 support."

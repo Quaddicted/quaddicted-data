@@ -4,30 +4,27 @@
  ],
  "bytes": 270022,
  "description": "Short map in e1 wizard textures. The player's goal is to escape from a jail cell to a lighthouse they can view from the window. The author's first map.",
- "files": [
-  {
+ "files": {
+  "drmelon-roomview.bsp": {
    "bytes": 590720,
-   "path": "drmelon-roomview.bsp",
    "sha256": "ade15f44f2dc767638e71c6671e5db01b00c72491c8ce30403cfb876a4e6c725",
    "timestamp": "2023-08-24T11:28:42.000Z"
   },
-  {
+  "drmelon-roomview.map": {
    "bytes": 203202,
-   "path": "drmelon-roomview.map",
    "sha256": "ce359ac5aefc12e2b84f2d61c15f0dd433fefe0635962cf024d24fb08a30038c",
    "timestamp": "2023-08-24T11:28:32.000Z"
   },
-  {
+  "drmelon-roomview.txt": {
    "bytes": 370,
-   "path": "drmelon-roomview.txt",
    "sha256": "7b19483d6e5caf296a348c48fdbbb7a060549594c2fdeb17caa1e735c1548557",
    "timestamp": "2024-01-25T20:59:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

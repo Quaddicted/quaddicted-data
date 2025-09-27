@@ -4,30 +4,27 @@
  ],
  "bytes": 476161,
  "description": "About medium sized Metal map with a certain maze feel.",
- "files": [
-  {
+ "files": {
+  "doormat.bsp": {
    "bytes": 1125868,
-   "path": "doormat.bsp",
    "sha256": "798bd39192a154cf4c221680f9f89a2837724084ef31150bcf6d3e5893b8fb53",
    "timestamp": "1997-11-19T00:47:46.000Z"
   },
-  {
+  "doormat.txt": {
    "bytes": 2197,
-   "path": "doormat.txt",
    "sha256": "b9bdff6562498c9842a372d397d89f2f40f7b4d23dc9814b287fbea9a9b099f4",
    "timestamp": "1997-11-19T01:47:54.000Z"
   },
-  {
+  "essay.txt": {
    "bytes": 6846,
-   "path": "essay.txt",
    "sha256": "801c397ec9cda1cb0b51bbacdbc9af04f80b3aae70a016c3a308655a421d192c",
    "timestamp": "1997-11-19T16:49:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-19",
  "sha256": "2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186",
  "tags": [

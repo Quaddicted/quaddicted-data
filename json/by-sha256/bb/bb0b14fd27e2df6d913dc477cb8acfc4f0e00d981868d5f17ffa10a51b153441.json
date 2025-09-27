@@ -4,30 +4,27 @@
  ],
  "bytes": 6017195,
  "description": "Large Medieval/terracotta-themed temple ruin in a canyon. High monstercount, hard gameplay. The texture resource wad is included.",
- "files": [
-  {
+ "files": {
+  "oms2.bsp": {
    "bytes": 13061696,
-   "path": "oms2.bsp",
    "sha256": "d772d18deed6221079d02d5e526cb834f38e445f5cef4dcbf38a5390de273756",
    "timestamp": "2010-08-24T11:55:18.000Z"
   },
-  {
+  "oms2.txt": {
    "bytes": 1538,
-   "path": "oms2.txt",
    "sha256": "8f1ebfffe728e0f0001b81ffa615020e6565018fb4a2c89e59b5850eb1dd58a4",
    "timestamp": "2010-08-24T11:56:16.000Z"
   },
-  {
+  "oms2.wad": {
    "bytes": 1309844,
-   "path": "oms2.wad",
    "sha256": "1e166659d4f3c943c204b51d4d9465f1c3261685393d96c910c554dba095d877",
    "timestamp": "2010-08-23T15:22:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

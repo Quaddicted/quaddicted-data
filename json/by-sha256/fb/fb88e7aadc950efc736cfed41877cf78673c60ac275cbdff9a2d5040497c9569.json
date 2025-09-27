@@ -4,30 +4,27 @@
  ],
  "bytes": 554317,
  "description": "Small level set in a water-filled mountain crevasse. The map source is included.",
- "files": [
-  {
+ "files": {
+  "Iredent.bsp": {
    "bytes": 1041788,
-   "path": "Iredent.bsp",
    "sha256": "a77338788dc9a65143e4359343dab7c3e7e77967a364e8ceff11874705532bd0",
    "timestamp": "2021-09-28T13:51:14.000Z"
   },
-  {
+  "Iredent.map": {
    "bytes": 500632,
-   "path": "Iredent.map",
    "sha256": "d126ecdea6c893219382b7e9b7a93d42bb9988cab992dd24897101f7aa26899e",
    "timestamp": "2021-09-28T13:50:54.000Z"
   },
-  {
+  "iredent.txt": {
    "bytes": 1111,
-   "path": "iredent.txt",
    "sha256": "bcf2821e3f38a040d38833e41bed1fd5edac07fe77327c47f2cc81b65fb6dfe5",
    "timestamp": "2021-09-27T18:35:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-09-28",
  "sha256": "fb88e7aadc950efc736cfed41877cf78673c60ac275cbdff9a2d5040497c9569",
  "tags": [

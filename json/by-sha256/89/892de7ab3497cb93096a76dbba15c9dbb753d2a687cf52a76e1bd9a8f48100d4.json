@@ -7,18 +7,17 @@
   "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5"
  ],
  "description": "Small Base level - fifth map of the <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> episode (though not included).",
- "files": [
-  {
+ "files": {
+  "IH1M5.BSP": {
    "bytes": 1184936,
-   "path": "IH1M5.BSP",
    "sha256": "8ecfcc323604484329b0d3167f008b61e6cf595992ff26efe607985d6b67f3b8",
    "timestamp": "1999-07-23T00:19:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/badpak/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
  ],

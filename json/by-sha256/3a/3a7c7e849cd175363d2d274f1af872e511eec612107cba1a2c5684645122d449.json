@@ -4,30 +4,27 @@
  ],
  "bytes": 652140,
  "description": "Medium-sized medieval fortress with a graveyard.",
- "files": [
-  {
+ "files": {
+  "Q1.bsp": {
    "bytes": 1416920,
-   "path": "Q1.bsp",
    "sha256": "58ef08109634852a117490acca7b5bb5eb0382eb4931c9decf1cc02415050af3",
    "timestamp": "1999-03-24T20:17:52.000Z"
   },
-  {
+  "Readme.txt": {
    "bytes": 1378,
-   "path": "Readme.txt",
    "sha256": "f793a9dc5897f96863b54377f2f197a5cf922a194c0155dce456630602fcdabc",
    "timestamp": "1999-03-24T22:27:06.000Z"
   },
-  {
+  "darkness_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "darkness_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

@@ -4,30 +4,27 @@
  ],
  "bytes": 8275513,
  "description": "Three-map pack created with Fakk2 and Quake3 textures, many new + modified monsters and some new weapons.",
- "files": [
-  {
+ "files": {
+  "flesh/": {
    "bytes": 0,
-   "path": "flesh/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2002-09-16T20:35:58.000Z"
   },
-  {
+  "flesh/flesh.txt": {
    "bytes": 6524,
-   "path": "flesh/flesh.txt",
    "sha256": "0a4ff18b23b26b102af3efebc38c74d22ac467a7e8cf9544c3cfecb5b589b8d6",
    "timestamp": "2003-07-01T21:28:14.000Z"
   },
-  {
+  "flesh/pak0.pak": {
    "bytes": 16435171,
-   "path": "flesh/pak0.pak",
    "sha256": "85470aca5655783e5739bb2fd8f02e806e449e7265388c43b4a5024a07547521",
    "timestamp": "2002-10-17T11:00:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-07-01",
  "sha256": "16b3a02b2d201cbd87bb07b135f1689b600a9b4ea61aea52d2ac980c5708db4f",
  "tags": [

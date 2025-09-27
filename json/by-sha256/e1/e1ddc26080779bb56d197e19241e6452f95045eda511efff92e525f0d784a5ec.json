@@ -4,30 +4,27 @@
  ],
  "bytes": 2573990,
  "description": "Medium-sized, very dark metal fortress.",
- "files": [
-  {
+ "files": {
+  "Intrusion Readme.txt": {
    "bytes": 1372,
-   "path": "Intrusion Readme.txt",
    "sha256": "3557c8fd5e4ae9114df1ea64286970b239c031483733324e25e7dcf7571ceed1",
    "timestamp": "2018-06-28T01:56:06.000Z"
   },
-  {
+  "Intrusion.bsp": {
    "bytes": 6044168,
-   "path": "Intrusion.bsp",
    "sha256": "fd04568193099382b445733d8101907259e0c6f0b20ee48f841601a1ead9c897",
    "timestamp": "2018-06-28T01:50:54.000Z"
   },
-  {
+  "Intrusion.lit": {
    "bytes": 2564432,
-   "path": "Intrusion.lit",
    "sha256": "c84b1d3a8c1456e833545082768bbbb8945680d110f1f69ee1ced181713f3899",
    "timestamp": "2018-06-28T01:50:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

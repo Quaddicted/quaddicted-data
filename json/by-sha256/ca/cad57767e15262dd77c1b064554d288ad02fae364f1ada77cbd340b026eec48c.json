@@ -4,30 +4,27 @@
  ],
  "bytes": 280766,
  "description": "Small metal/runic castle. The map source is included.",
- "files": [
-  {
+ "files": {
+  "crunixpu.bsp": {
    "bytes": 486000,
-   "path": "crunixpu.bsp",
    "sha256": "3e02f13fd62dc0a9203afe914d85f692c85ddd6fa96dc07c598aac2cc00496fb",
    "timestamp": "2021-08-13T18:55:52.000Z"
   },
-  {
+  "crunixpu.map": {
    "bytes": 356709,
-   "path": "crunixpu.map",
    "sha256": "b18fd8f13f6c78b7c8aabe343c35bbcaccd965ba0dc70681a5d370203172544c",
    "timestamp": "2021-08-13T18:55:40.000Z"
   },
-  {
+  "crunixpu.txt": {
    "bytes": 1168,
-   "path": "crunixpu.txt",
    "sha256": "d04657cc185a087a33fba961a7fd48320e6cc05d6aecd02addd985fb351d559c",
    "timestamp": "2021-08-13T19:06:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-08-13",
  "sha256": "cad57767e15262dd77c1b064554d288ad02fae364f1ada77cbd340b026eec48c",
  "tags": [

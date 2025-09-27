@@ -9,42 +9,37 @@
  ],
  "bytes": 15844864,
  "description": "Hub-based pack with 9 medium to large levels (including start and secret maps). Uses Knave textures and features new monsters/powerups.",
- "files": [
-  {
+ "files": {
+  "chapters/": {
    "bytes": 0,
-   "path": "chapters/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2005-05-27T01:58:16.000Z"
   },
-  {
+  "chapters/chapter_vondur.txt": {
    "bytes": 3728,
-   "path": "chapters/chapter_vondur.txt",
    "sha256": "1e9288c93d283dc3952b1f73cfe0a5d5d7629a5a9778166be0a77fecd552d0cc",
    "timestamp": "2005-01-25T00:00:36.000Z"
   },
-  {
+  "chapters/chapters.txt": {
    "bytes": 3495,
-   "path": "chapters/chapters.txt",
    "sha256": "1184c1844cb774dc76e4c584436e675823ec521b3be20874181e4f4484efe1f1",
    "timestamp": "2005-05-29T03:26:50.000Z"
   },
-  {
+  "chapters/chapters_zwei.txt": {
    "bytes": 1104,
-   "path": "chapters/chapters_zwei.txt",
    "sha256": "a02d1ff5789f489dac63c4931f5bcbbd1af73408f1795003c752ad566fdc69fe",
    "timestamp": "2005-02-23T15:13:16.000Z"
   },
-  {
+  "chapters/pak0.pak": {
    "bytes": 41693519,
-   "path": "chapters/pak0.pak",
    "sha256": "c673b81abd1b78bc6518cae1502ddd57f1162000292e7a93f64554cc30397485",
    "timestamp": "2005-05-29T03:15:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-05-29",
  "sha256": "cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa",
  "tags": [

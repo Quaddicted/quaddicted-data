@@ -4,24 +4,22 @@
  ],
  "bytes": 1909364,
  "description": "Large stone map with many custom textures, several new monsters such as agents and cyborgs (?), a few new weapons, and some custom progs like rotation and cutscences. All text messages are in Spanish.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 4068093,
-   "path": "Pak0.pak",
    "sha256": "5e77a1959a97704150328343adeb9baa3c5e2bfe0e7bfdb84fd848fc181d7a58",
    "timestamp": "1998-03-08T13:23:10.000Z"
   },
-  {
+  "ruliano.txt": {
    "bytes": 3659,
-   "path": "ruliano.txt",
    "sha256": "ccbd8b699f3744bbe15d9172e9d4110c597aac5c27f0d7fe6b5977a4e1ece9b4",
    "timestamp": "1998-03-07T16:33:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ruliano/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-03-08",
  "sha256": "74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8",
  "tags": [

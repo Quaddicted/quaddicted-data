@@ -7,36 +7,32 @@
   "copper>=1.30"
  ],
  "description": "Small, runic themed arena map designed to work both in single-player and deathmatch. Contains an excess of monsters on hard skill.",
- "files": [
-  {
+ "files": {
+  "itisover2024.bsp": {
    "bytes": 1367856,
-   "path": "itisover2024.bsp",
    "sha256": "da4e0c6e2734ade4153e57dc3c81674eeb025def1c6510afb33c818d8fb3b3ec",
    "timestamp": "2024-01-01T19:12:10.000Z"
   },
-  {
+  "itisover2024.lit": {
    "bytes": 743186,
-   "path": "itisover2024.lit",
    "sha256": "6b5c27ae28bfe9bd0ba16158a065f07653f5131f6eff2e8ff65053e7dbfe41a9",
    "timestamp": "2024-01-01T19:12:10.000Z"
   },
-  {
+  "itisover2024.map": {
    "bytes": 1154965,
-   "path": "itisover2024.map",
    "sha256": "ff4eedc374a7de2dd7f049a9da3cbbf676d5dbd34066954c0bdd26038189fe93",
    "timestamp": "2024-01-01T18:57:44.000Z"
   },
-  {
+  "itisover2024.txt": {
    "bytes": 2263,
-   "path": "itisover2024.txt",
    "sha256": "6172fe92ac7f07ed4ec1c104c22c3e6cdf991627dfae9e0fd3d27574b8e39dff",
    "timestamp": "2024-01-01T19:09:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."

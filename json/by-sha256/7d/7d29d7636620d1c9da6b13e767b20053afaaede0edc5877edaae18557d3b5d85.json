@@ -7,48 +7,42 @@
   "ad>=1.80"
  ],
  "description": "Old unfinished 2016 beta version of the <a href=\"dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb\">Forgotten Sepulcher level</a> in Arcane Dimensions, before it was significantly changed for final release in 2017. It was arguably a completely different map.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2016-12-18T23:59:40.000Z"
   },
-  {
+  "maps/ad_e1m3.bsp": {
    "bytes": 7400676,
-   "path": "maps/ad_e1m3.bsp",
    "sha256": "f5284bd1cba84a2cf47e3244f2ba1557ef926f458aae9a0627416f4b0d7b8e2d",
    "timestamp": "2016-04-08T22:19:14.000Z"
   },
-  {
+  "maps/ad_e1m3.lit": {
    "bytes": 2250671,
-   "path": "maps/ad_e1m3.lit",
    "sha256": "b4a16d427320af97d4388b5c794bd3bdc8c5980adf4d00c764328394e7200df0",
    "timestamp": "2016-04-08T22:19:14.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2016-04-08T23:35:42.000Z"
   },
-  {
+  "sound/ambience/": {
    "bytes": 0,
-   "path": "sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2016-04-08T23:34:12.000Z"
   },
-  {
+  "sound/ambience/darkchoir.wav": {
    "bytes": 504086,
-   "path": "sound/ambience/darkchoir.wav",
    "sha256": "ba8538b5da6e6ec9b64953c49ee6e04c1cc016439fb36500b842de1189dc185d",
    "timestamp": "2015-04-02T08:49:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map is archived here mostly for academic / historical interest. Keep in mind it is a non-final test version built for an older version of AD, so there will likely be bugs or broken features.",
   "Note: requires Arcane Dimensions v1.5+ (NOT included) as well as a modern engine / source port with increased limits."

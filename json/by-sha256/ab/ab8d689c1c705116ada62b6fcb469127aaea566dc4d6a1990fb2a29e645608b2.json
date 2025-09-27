@@ -7,90 +7,77 @@
   "alkaline>=1.10"
  ],
  "description": "Medium sized base map centered around a dam and water facility. Map source is included.",
- "files": [
-  {
+ "files": {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-02-15T16:23:30.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2004-09-06T16:55:04.000Z"
   },
-  {
+  "gfx/env/labyrinthus_bk.tga": {
    "bytes": 786971,
-   "path": "gfx/env/labyrinthus_bk.tga",
    "sha256": "0a312ef4d69a35200b073025ad8f86a0c7b5710d28bd6db5ed9227ac6f34886d",
    "timestamp": "2002-11-04T22:38:08.000Z"
   },
-  {
+  "gfx/env/labyrinthus_dn.tga": {
    "bytes": 786971,
-   "path": "gfx/env/labyrinthus_dn.tga",
    "sha256": "bf33804794515e3ae1a3410f321d71b56b1703ff80fc85fe4dd933483c7698e4",
    "timestamp": "2002-11-04T22:38:34.000Z"
   },
-  {
+  "gfx/env/labyrinthus_ft.tga": {
    "bytes": 786971,
-   "path": "gfx/env/labyrinthus_ft.tga",
    "sha256": "79ebc59f448939f33b8656d8be75b5b29cef70a2a1d9fbeea03997e762b37de1",
    "timestamp": "2002-11-04T22:37:48.000Z"
   },
-  {
+  "gfx/env/labyrinthus_lf.tga": {
    "bytes": 786971,
-   "path": "gfx/env/labyrinthus_lf.tga",
    "sha256": "d5d9f68c96bde29e0e0e5c08af3111c9f632a8b2b6ed21ed7d491d73d03baa5e",
    "timestamp": "2002-11-04T22:38:00.000Z"
   },
-  {
+  "gfx/env/labyrinthus_rt.tga": {
    "bytes": 786971,
-   "path": "gfx/env/labyrinthus_rt.tga",
    "sha256": "76862fecacdc54e6b4c626137ba9b76667f18070d0a370eab0a5e97e21b58a01",
    "timestamp": "2002-11-04T22:38:18.000Z"
   },
-  {
+  "gfx/env/labyrinthus_up.tga": {
    "bytes": 786971,
-   "path": "gfx/env/labyrinthus_up.tga",
    "sha256": "8cf6b89090889abbf699ac5e91eae421fc434d12e267090c43b03e5524a0f8e4",
    "timestamp": "2002-11-04T22:38:26.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-03-13T15:09:22.000Z"
   },
-  {
+  "maps/hydromadness.bsp": {
    "bytes": 5344504,
-   "path": "maps/hydromadness.bsp",
    "sha256": "0b99b565579a2d73cf07e164f5c1e259bb98082837869ea59b783a3854ab48e2",
    "timestamp": "2022-03-05T13:32:42.000Z"
   },
-  {
+  "maps/hydromadness.lit": {
    "bytes": 1532279,
-   "path": "maps/hydromadness.lit",
    "sha256": "aeda0e1a29b78c23c3b617c799e6fce744ad32feba49220de8ae160ce6522a41",
    "timestamp": "2022-03-05T13:32:42.000Z"
   },
-  {
+  "maps/hydromadness.map": {
    "bytes": 2626692,
-   "path": "maps/hydromadness.map",
    "sha256": "63b2bca55a3d8a504e274b087809dc765025dd6957ac4aee7309a9d1a7e2dc25",
    "timestamp": "2022-03-05T13:29:22.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 2169,
-   "path": "readme.txt",
    "sha256": "157a451ca7c88ca4178cdb7abf8593c0feb6bf59bf34f977a72e5024b5024393",
    "timestamp": "2022-03-05T12:28:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/alk1.1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires  <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline 1.1</a>",
   "This is v3.2, which is identical to v3.0 except with different packaging."

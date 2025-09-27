@@ -7,30 +7,27 @@
   "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c"
  ],
  "description": "Large base-themed level with completely new textures and a thick atmosphere. The mission is to purge a waste purification facility of a parasite infestation.",
- "files": [
-  {
+ "files": {
+  "INVEIN.bsp": {
    "bytes": 3676892,
-   "path": "INVEIN.bsp",
    "sha256": "7367a99a997610832016c8279b774a08a0eceb7e34820ad6bf9e691382299b5d",
    "timestamp": "2001-07-24T08:07:16.000Z"
   },
-  {
+  "invein.lit": {
    "bytes": 3135701,
-   "path": "invein.lit",
    "sha256": "fc0bec7127f3a20a771aa067cf2231081ac3c620f13d964883ad08962e39817c",
    "timestamp": "2001-07-24T08:07:16.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 3102,
-   "path": "readme.txt",
    "sha256": "a1c4056679fe7af0f75286f3446e56c30169b24838d2d8811cc1593e679a4dd5",
    "timestamp": "2001-07-24T08:40:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/nehahra/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This level requires <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 1148316,
  "description": "Medium sized Wizard/Metal/Hiptemple map. Some buttons are hidden in secret areas.",
- "files": [
-  {
+ "files": {
+  "sadlark4.bsp": {
    "bytes": 2531176,
-   "path": "sadlark4.bsp",
    "sha256": "bf46ee2778787f3b4f369f4afefa3a08760bf80ceef5159e32353e054ebc2697",
    "timestamp": "1997-07-04T18:02:56.000Z"
   },
-  {
+  "sadlark4.txt": {
    "bytes": 2146,
-   "path": "sadlark4.txt",
    "sha256": "7359571e2107540347d552ea7121e2ce25462ca0cddf6404615f90552a2b4230",
    "timestamp": "1997-07-30T18:20:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-30",
  "sha256": "839539de67a3b1f82b4d14f52af06bf56541e18e6f9ca27752ad02f3aab094d9",
  "tags": [

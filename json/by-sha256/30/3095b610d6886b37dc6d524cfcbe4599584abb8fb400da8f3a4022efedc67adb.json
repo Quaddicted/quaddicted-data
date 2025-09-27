@@ -4,24 +4,22 @@
  ],
  "bytes": 1416355,
  "description": "Medium-sized puzzle map with Hipnotic/Metal textures. The layout is cramped and fairly nonlinear, the gameplay relies heavily on finding secret areas and hidden buttons.",
- "files": [
-  {
+ "files": {
+  "seraphim.bsp": {
    "bytes": 3195852,
-   "path": "seraphim.bsp",
    "sha256": "305dcb2354dd21cc824ef7f2ba86818dec4a063c82461f1fb48d046d896292fd",
    "timestamp": "1997-11-23T11:12:44.000Z"
   },
-  {
+  "seraphim.txt": {
    "bytes": 6326,
-   "path": "seraphim.txt",
    "sha256": "cd2db61c3c11714fad86460b45cf98f48fe3ee00f55d634b34079a4b8bba3ec3",
    "timestamp": "1997-11-23T14:05:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-23",
  "sha256": "3095b610d6886b37dc6d524cfcbe4599584abb8fb400da8f3a4022efedc67adb",
  "tags": [

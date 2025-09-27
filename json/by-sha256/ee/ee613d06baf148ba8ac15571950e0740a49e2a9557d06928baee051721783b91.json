@@ -7,42 +7,37 @@
   "ad>=1.71"
  ],
  "description": "Small level created in the spirit of the 100b competitions (using not more than 100 world brushes). The map source is included.",
- "files": [
-  {
+ "files": {
+  "ad_b100_sock.txt": {
    "bytes": 3076,
-   "path": "ad_b100_sock.txt",
    "sha256": "02c67e1909d51b080bfd82133ad36c763dd5134aa9c70b95021a670dd3e7228e",
    "timestamp": "2018-02-10T19:14:26.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-02-10T19:10:02.000Z"
   },
-  {
+  "maps/ad_b100_sock.bsp": {
    "bytes": 1497596,
-   "path": "maps/ad_b100_sock.bsp",
    "sha256": "e36a48ebd4b261a4548f85f520953d000dc8a2f274ca32950a40041606ee0826",
    "timestamp": "2018-02-10T19:09:00.000Z"
   },
-  {
+  "maps/ad_b100_sock.lit": {
    "bytes": 293390,
-   "path": "maps/ad_b100_sock.lit",
    "sha256": "d4e8f36de8f064fda04e194ddddcbbc70ae7413751996ff99c3ef303711dbc9f",
    "timestamp": "2018-02-10T19:09:00.000Z"
   },
-  {
+  "maps/ad_b100_sock.map": {
    "bytes": 128811,
-   "path": "maps/ad_b100_sock.map",
    "sha256": "1ab801e1ed15e330f885c5d92d39579410a6c0ca85221b366db2c626fd9dbb68",
    "timestamp": "2018-02-10T19:09:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>."
  ],

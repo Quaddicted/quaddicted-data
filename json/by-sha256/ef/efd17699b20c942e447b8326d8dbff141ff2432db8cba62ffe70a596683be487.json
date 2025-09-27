@@ -4,24 +4,22 @@
  ],
  "bytes": 704880,
  "description": "Small map inspired by some memorable areas in the first episode.",
- "files": [
-  {
+ "files": {
+  "CIVIL.BSP": {
    "bytes": 1641984,
-   "path": "CIVIL.BSP",
    "sha256": "beaf0fde358373ada422ffa4ac0286edfc4498fb87d5e64ed4e08223f688279b",
    "timestamp": "1997-09-25T17:54:00.000Z"
   },
-  {
+  "CIVIL.TXT": {
    "bytes": 1219,
-   "path": "CIVIL.TXT",
    "sha256": "a54c32bf8097678c4972ff31c62e5231c85bc39aea883575f3e084a7395c718f",
    "timestamp": "1997-08-30T12:13:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-25",
  "sha256": "efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487",
  "tags": [

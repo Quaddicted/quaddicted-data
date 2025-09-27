@@ -4,72 +4,62 @@
  ],
  "bytes": 25523569,
  "description": "Two maps originally supposed to be featured as bonus levels in <a href=\"3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7\">Arcanum</a>. The first one is a small mediaval/fantasy cathedral - a remake of Heretic's E1M6, complete with original textures and music. The second one is a medium-sized arcane industrial complex with a similar vibe as Towers of Wrath from Dissolution of Eternity.",
- "files": [
-  {
+ "files": {
+  "arcextra_readme.txt": {
    "bytes": 1918,
-   "path": "arcextra_readme.txt",
    "sha256": "28ddac6516cdd5da4dd6a298bf46caf61ae75c750037660a1d41e1b9f62766d6",
    "timestamp": "2012-11-06T06:45:44.000Z"
   },
-  {
+  "maps/arcextra1.bsp": {
    "bytes": 3960860,
-   "path": "maps/arcextra1.bsp",
    "sha256": "d23104e6e0b45255d2fb863a038153e4aaa806e8ef7a32367dd36bd533255022",
    "timestamp": "2012-11-06T06:22:32.000Z"
   },
-  {
+  "maps/arcextra2.bsp": {
    "bytes": 5390304,
-   "path": "maps/arcextra2.bsp",
    "sha256": "8c925774f826a44b65617d99824224d73544ae903094b1bab79da290f0b39f45",
    "timestamp": "2012-11-06T06:22:50.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 25051624,
-   "path": "pak0.pak",
    "sha256": "9a229082e446dc3991778b3364ec5aeba9b6767e5905406767f753862997295a",
    "timestamp": "2011-06-12T20:18:08.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 11698993,
-   "path": "pak1.pak",
    "sha256": "22d57e211cdb714ba3df19083c1514b08e5c84650545bc1a4092b383fb72a3f9",
    "timestamp": "2011-06-12T19:56:02.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 4748118,
-   "path": "pak2.pak",
    "sha256": "552586d1a880768c17e134cfdf2b21fb05938eff4b67fa02acd6857e69f06801",
    "timestamp": "2011-10-24T16:47:00.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1719704,
-   "path": "progs.dat",
    "sha256": "242e7dac6b5d6a3a38d0b5a1da346b5548a25e6098708ba12781110c619b2d3f",
    "timestamp": "2011-10-24T17:01:00.000Z"
   },
-  {
+  "sound/music/": {
    "bytes": 0,
-   "path": "sound/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-11-06T05:16:48.000Z"
   },
-  {
+  "sound/music/heretic.wav": {
    "bytes": 1233528,
-   "path": "sound/music/heretic.wav",
    "sha256": "2fa65cbdeecaf46778b0a67c2febd811fc901ff0b5e081b5d70a176a12881797",
    "timestamp": "2012-11-06T05:16:46.000Z"
   },
-  {
+  "sound/music/rogue.wav": {
    "bytes": 2116536,
-   "path": "sound/music/rogue.wav",
    "sha256": "54c8f28df33449cb918ae922335d7ac48e42006f1e51fa806dd32ffa2c5db0f9",
    "timestamp": "2012-11-06T05:16:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/arcextra/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2012-11-06",
  "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
  "tags": [

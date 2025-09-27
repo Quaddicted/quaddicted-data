@@ -4,30 +4,27 @@
  ],
  "bytes": 225368,
  "description": "Outdoor lava level, themed like an infernal beach.",
- "files": [
-  {
+ "files": {
+  "beach.bsp": {
    "bytes": 539128,
-   "path": "beach.bsp",
    "sha256": "8b19692ed745cac3d641b6076baa3ff57ae294bcdbe83d68366f74bc8a20e6b8",
    "timestamp": "1997-07-28T09:37:42.000Z"
   },
-  {
+  "beach.map": {
    "bytes": 34259,
-   "path": "beach.map",
    "sha256": "c82d58cd5c0464445f6c779cdae9d4b644adb4717c59832d9dd768899ed111a0",
    "timestamp": "1997-07-28T09:36:06.000Z"
   },
-  {
+  "beach.txt": {
    "bytes": 3434,
-   "path": "beach.txt",
    "sha256": "514e7f76cc635c5532d2429cbf46cde4f7b436656ce6f09a3cefb6b18d5dff07",
    "timestamp": "1997-07-28T09:51:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-28",
  "sha256": "1c4b5b5cedc1d89704da7fa2c1c0b1fe36b185adf33a3932b3840dc88f46d4c0",
  "tags": [

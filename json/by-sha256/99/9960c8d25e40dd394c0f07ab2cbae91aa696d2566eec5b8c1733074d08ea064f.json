@@ -4,24 +4,22 @@
  ],
  "bytes": 495012,
  "description": "Small Metal level.",
- "files": [
-  {
+ "files": {
+  "HAYDUKE1.BSP": {
    "bytes": 1168948,
-   "path": "HAYDUKE1.BSP",
    "sha256": "d4fa34607a1c1fb77717cbb449f3f7e16f8bc0eb839001d0b905e81f20879c78",
    "timestamp": "1997-07-29T16:05:18.000Z"
   },
-  {
+  "HAYDUKE1.TXT": {
    "bytes": 3109,
-   "path": "HAYDUKE1.TXT",
    "sha256": "91dbe4db11f4ac845d2977c400c857f733083b9d5b071a75bd8788fde536eee0",
    "timestamp": "1997-07-31T18:02:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "There is no gold key, the intended way over the GK bars is a rocket jump."
  ],

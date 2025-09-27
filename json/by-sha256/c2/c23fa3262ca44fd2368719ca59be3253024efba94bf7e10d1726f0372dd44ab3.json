@@ -4,24 +4,22 @@
  ],
  "bytes": 786320,
  "description": "Small, linear indsutrial map using the Cr8 texture set.",
- "files": [
-  {
+ "files": {
+  "zsp1.bsp": {
    "bytes": 2133204,
-   "path": "zsp1.bsp",
    "sha256": "d3f53a829739aaef2b1d7e160bb9e57cd170f7b75a06da655cd8ce1e75f471a3",
    "timestamp": "2004-04-25T13:30:36.000Z"
   },
-  {
+  "zsp1.txt": {
    "bytes": 1778,
-   "path": "zsp1.txt",
    "sha256": "bebb0be06a2fa43295f56336bc449387cb10caa4b312c5f0981be78590b0354c",
    "timestamp": "2004-04-25T13:48:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-04-25",
  "sha256": "c23fa3262ca44fd2368719ca59be3253024efba94bf7e10d1726f0372dd44ab3",
  "tags": [

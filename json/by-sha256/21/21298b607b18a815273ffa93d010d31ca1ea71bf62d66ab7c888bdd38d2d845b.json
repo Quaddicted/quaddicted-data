@@ -4,30 +4,27 @@
  ],
  "bytes": 4596407,
  "description": "Small medieval map, set in a courtyard and surrounding buildings. An expanded version of Sock's map from <a href=\"ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587\">Retro Jam 1</a>, featuring bug fixes, a skill selection section, additional areas and gameplay, and more secrets than the original version of the map.",
- "files": [
-  {
+ "files": {
+  "fallen1c_readme.txt": {
    "bytes": 3442,
-   "path": "fallen1c_readme.txt",
    "sha256": "a26847b5e49cfa5aaeec079b7aa34838e7a035ac9a755d9bdcc078f1fa1557ec",
    "timestamp": "2014-11-29T18:54:02.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 26464393,
-   "path": "pak0.pak",
    "sha256": "35bc5a81429b5da1403fb9b6e4007cd17331127fb477f1e2cf3389e10f3e3f3d",
    "timestamp": "2014-11-29T18:57:24.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 733727,
-   "path": "pak1.pak",
    "sha256": "3187c1ca1a70b1a57c64d69c6d04237eca38722b8281200bb9cc209b5c77b9b8",
    "timestamp": "2014-11-29T18:38:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//fallen1c"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2014-11-29",
  "sha256": "21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b",
  "tags": [

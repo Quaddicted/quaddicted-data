@@ -4,36 +4,32 @@
  ],
  "bytes": 494845,
  "description": "Small, weird base map with a few textures from Zerst\u00f6rer (no exit).",
- "files": [
-  {
+ "files": {
+  "logs.zip": {
    "bytes": 1501,
-   "path": "logs.zip",
    "sha256": "15eb33ae1cd7de79711ba124392443304148a7e527f56e9be9a5a0eebac1e557",
    "timestamp": "2002-08-17T11:55:08.000Z"
   },
-  {
+  "lzmlabs.br.txt": {
    "bytes": 2147,
-   "path": "lzmlabs.br.txt",
    "sha256": "ce3a4afe985604947398979b0880032b53c5beb1a3f5b1a178a9180c68486b43",
    "timestamp": "2002-08-17T11:54:24.000Z"
   },
-  {
+  "lzmlabs.bsp": {
    "bytes": 1278720,
-   "path": "lzmlabs.bsp",
    "sha256": "55f533f08f1f52d525750d0b4ba48a79fd506c3dc5daa08bb5784363dbdc7fd2",
    "timestamp": "2002-08-17T10:57:40.000Z"
   },
-  {
+  "lzmlabs.txt": {
    "bytes": 2470,
-   "path": "lzmlabs.txt",
    "sha256": "ee5dcfffb00763a07626e547e9c8ae1cba893da55e84cbfa0722ffb15610ccfa",
    "timestamp": "2002-08-17T11:45:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-08-17",
  "sha256": "6c2b951eaaa5f26334f240332b8a63037cf590fa4523d86552df7c05555acae7",
  "tags": [

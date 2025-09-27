@@ -4,42 +4,37 @@
  ],
  "bytes": 7319919,
  "description": "E1-style SP episode that features 8 small to medium-sized levels as well as a new start map - all of which also support co-op mode and DM - a few new textures, and a modified Chthon boss.",
- "files": [
-  {
+ "files": {
+  "BBELIEF.BAT": {
    "bytes": 38,
-   "path": "BBELIEF.BAT",
    "sha256": "1449acb113bf1335b57177a47ab0ee98349404748a58cb4107f7fc30b64436bc",
    "timestamp": "1997-05-14T15:54:42.000Z"
   },
-  {
+  "BBELIEF.DOC": {
    "bytes": 16167,
-   "path": "BBELIEF.DOC",
    "sha256": "14177267cff10d22825e59d476edeca5e2b40ba8efe128b367e97b445a928458",
    "timestamp": "1997-05-15T13:40:38.000Z"
   },
-  {
+  "BBELIEF.TXT": {
    "bytes": 5006,
-   "path": "BBELIEF.TXT",
    "sha256": "3f99820e7b68c115070f14f98d1b6271f0ad070a6b220364cea1715e775a667a",
    "timestamp": "1997-05-15T13:25:26.000Z"
   },
-  {
+  "BOSSQC.TXT": {
    "bytes": 1341,
-   "path": "BOSSQC.TXT",
    "sha256": "40e339730b4bf46b6a3701886f9c93aa557cdcf674f6682a28c800a1c159325a",
    "timestamp": "1997-01-06T20:14:50.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 17298379,
-   "path": "PAK0.PAK",
    "sha256": "8497ebdb33e0f58c7e8335f4a7bd7d6e9b8c9b7f21e673de3367b35f2bdce4b7",
    "timestamp": "1997-05-15T16:48:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/bbelief/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "There is a glitch in the sixth map that prevents the player from escaping a spike trap in modern engine ports. Here is a <a href=\"http://www.quaddicted.com/filebase/bbelief6_fix.zip\">hotfix</a>."
  ],

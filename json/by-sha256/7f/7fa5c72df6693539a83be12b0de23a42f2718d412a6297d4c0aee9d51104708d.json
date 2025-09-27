@@ -4,24 +4,22 @@
  ],
  "bytes": 443371,
  "description": "Very small hotel-like level with a few new textures, most notably an animated tv screen with a dog.",
- "files": [
-  {
+ "files": {
+  "hotel.bsp": {
    "bytes": 1527948,
-   "path": "hotel.bsp",
    "sha256": "14491c14086caaac01637546e14007a5e9077a7fe3582cbbae553125198bfce9",
    "timestamp": "1997-08-24T19:47:30.000Z"
   },
-  {
+  "hotel.txt": {
    "bytes": 3890,
-   "path": "hotel.txt",
    "sha256": "65f89ae692f91fb2b0494ddccbb12eaeb2bbe46e093977e1b12fe5fc2b15254b",
    "timestamp": "1997-08-24T19:52:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-24",
  "sha256": "7fa5c72df6693539a83be12b0de23a42f2718d412a6297d4c0aee9d51104708d",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 568687,
  "description": "Smallish map with mixed texture themes. Includes a chapel and stairs, and blue bricks.",
- "files": [
-  {
+ "files": {
+  "DECREE.TXT": {
    "bytes": 2664,
-   "path": "DECREE.TXT",
    "sha256": "c378b435d0aafb3bdd29bf4ad1a592b2311d4de654fbdb05ca068db7092590f2",
    "timestamp": "1996-11-10T16:32:28.000Z"
   },
-  {
+  "decree.bsp": {
    "bytes": 1285668,
-   "path": "decree.bsp",
    "sha256": "7766af6b632ea73da5aa1fb35d1ff225271cffe9148373f31072916932829923",
    "timestamp": "1996-11-10T16:22:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-11-10",
  "sha256": "baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a",
  "tags": [

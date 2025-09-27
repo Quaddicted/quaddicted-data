@@ -7,72 +7,62 @@
   "quoth>=2.0"
  ],
  "description": "Episode featuring some huge, expansive maps, very high monster counts and an evil/hostile atmosphere.",
- "files": [
-  {
+ "files": {
+  "FMOD.DLL": {
    "bytes": 117760,
-   "path": "FMOD.DLL",
    "sha256": "747f354f3b9cb8fcc7b91485c764811230264fa3443ab373de49a7d063747d41",
    "timestamp": "2001-02-19T14:29:54.000Z"
   },
-  {
+  "glwarp.exe": {
    "bytes": 425984,
-   "path": "glwarp.exe",
    "sha256": "7caa5f222865d0b50be9601b29b37c7a4359f1f5dceec914f6899bddaad593b2",
    "timestamp": "2007-04-14T12:09:18.000Z"
   },
-  {
+  "nehwarp.exe": {
    "bytes": 500736,
-   "path": "nehwarp.exe",
    "sha256": "51d4aec3679fed15e7a3a80a1fa91f9c2b7c1a023091eb8d5ab8985b9ef325e4",
    "timestamp": "2007-04-20T22:03:24.000Z"
   },
-  {
+  "warp/autoexec.cfg": {
    "bytes": 135,
-   "path": "warp/autoexec.cfg",
    "sha256": "d89a241ae6b3e7eee00c92e657b98350cfa93ecf8e6a5a00cc542178b2be2024",
    "timestamp": "2007-04-30T22:24:26.000Z"
   },
-  {
+  "warp/org8.jpg": {
    "bytes": 20822,
-   "path": "warp/org8.jpg",
    "sha256": "b306f7b3650ee85f65debeea67fa4c2d0d3f3a038a4cb7b83617986adcd82697",
    "timestamp": "2007-05-11T03:00:08.000Z"
   },
-  {
+  "warp/pak0.pak": {
    "bytes": 64411560,
-   "path": "warp/pak0.pak",
    "sha256": "e75cd273313563ec9cf6fb6ab86b89cb676ea3be3940823837a0f6d9a76556c9",
    "timestamp": "2007-05-11T02:59:44.000Z"
   },
-  {
+  "warp/pak1.pak": {
    "bytes": 20950651,
-   "path": "warp/pak1.pak",
    "sha256": "5cfed3c54a43a8bb2d1c712480acb4bb196bf3f84eff9b2caae819a4b5a66471",
    "timestamp": "2007-05-11T02:45:32.000Z"
   },
-  {
+  "warp/pak2.pak": {
    "bytes": 19266,
-   "path": "warp/pak2.pak",
    "sha256": "54db736fce98245a7b491367af22631b1dd06aa0c760d92f3a952515675cdb03",
    "timestamp": "2007-04-20T16:43:30.000Z"
   },
-  {
+  "warp/readme.html": {
    "bytes": 97417,
-   "path": "warp/readme.html",
    "sha256": "c7e6a36b5a483acf5fe85ed5af2be96c4d931036c846dfac21f8af9de0984d30",
    "timestamp": "2007-05-11T03:25:24.000Z"
   },
-  {
+  "winwarp.exe": {
    "bytes": 530432,
-   "path": "winwarp.exe",
    "sha256": "29b44871613979d21ec6901ee01937c5e5c29c9f1081ab1069ef80a1659fd23e",
    "timestamp": "2007-04-14T12:09:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This episode requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with raised limits.  A modified version of GLQuake is included."
  ],

@@ -7,60 +7,52 @@
   "ad>=1.80"
  ],
  "description": "Remake of E1M2 from Quake: a medium-sized medieval castle with many candles. The map was previously released as part of <a href=\"1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a\">Halloween Jam 2</a>. Among other things, this version features even more candles! Comes with a new bat model and some ambient sounds.",
- "files": [
-  {
+ "files": {
+  "ad_candles.txt": {
    "bytes": 3023,
-   "path": "ad_candles.txt",
    "sha256": "ebb5cd9cdd184a1aded2847bd3de84a68fbb9b0c2863eec1cd7180374987c4ad",
    "timestamp": "2020-10-31T10:46:40.000Z"
   },
-  {
+  "maps/ad_candles.bsp": {
    "bytes": 17313768,
-   "path": "maps/ad_candles.bsp",
    "sha256": "7d4a961430290b555c918e5ae69cac0d11472e0ff4e74e1637644b7faf0b4f2c",
    "timestamp": "2020-10-31T10:21:14.000Z"
   },
-  {
+  "maps/ad_candles.lit": {
    "bytes": 2791094,
-   "path": "maps/ad_candles.lit",
    "sha256": "b1995eed93dbfad337eb3558f446f32895c6372e941282462647cd4dfd8c6be7",
    "timestamp": "2020-10-31T10:21:14.000Z"
   },
-  {
+  "progs/bats.mdl": {
    "bytes": 280372,
-   "path": "progs/bats.mdl",
    "sha256": "dd18b3f13ea8aca31406f8aa67dadf69a9b9056eec5f624e41bd8b7116e752f9",
    "timestamp": "2019-10-02T14:35:12.000Z"
   },
-  {
+  "sound/ambience/": {
    "bytes": 0,
-   "path": "sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-10-23T22:55:58.000Z"
   },
-  {
+  "sound/ambience/baby1b_22k.wav": {
    "bytes": 1573824,
-   "path": "sound/ambience/baby1b_22k.wav",
    "sha256": "a7e23bae2b5bb68211f68c792c0ff62aa4abb45a44d6899835e48c5cf753d115",
    "timestamp": "2019-07-14T15:22:10.000Z"
   },
-  {
+  "sound/ambience/baby2a_22k.wav": {
    "bytes": 1134876,
-   "path": "sound/ambience/baby2a_22k.wav",
    "sha256": "9450e3a06134e1bd665650602cf91a797babd3952d9cfa066ee8458d20f05f2e",
    "timestamp": "2019-07-14T15:22:10.000Z"
   },
-  {
+  "sound/ambience/bell.wav": {
    "bytes": 479030,
-   "path": "sound/ambience/bell.wav",
    "sha256": "c0b40d51c986dfe06b997e09f84d382ff148eeb5a4c57101b6236b84f741e252",
    "timestamp": "2019-10-20T22:15:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
  ],

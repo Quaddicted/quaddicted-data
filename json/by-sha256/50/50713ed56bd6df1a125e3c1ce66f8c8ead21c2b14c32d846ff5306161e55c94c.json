@@ -4,24 +4,22 @@
  ],
  "bytes": 1086005,
  "description": "Small Medieval map with focus on arena combat.",
- "files": [
-  {
+ "files": {
+  "PAK0.PAK": {
    "bytes": 2888018,
-   "path": "PAK0.PAK",
    "sha256": "114e06d61c7ed58d1758ae8667fa6a344752cfef5f9c2640aec235d335927e9e",
    "timestamp": "1997-05-16T22:25:18.000Z"
   },
-  {
+  "vigil.txt": {
    "bytes": 4004,
-   "path": "vigil.txt",
    "sha256": "3dcbee3c11b823fcf9497678ebd3d720a251e29e44f07e4ff6448d1e66a335e9",
    "timestamp": "1997-05-16T22:16:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/vigil/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-16",
  "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
  "tags": [

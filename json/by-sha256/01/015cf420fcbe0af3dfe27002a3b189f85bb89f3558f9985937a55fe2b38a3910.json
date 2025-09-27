@@ -4,18 +4,17 @@
  ],
  "bytes": 157644,
  "description": "Babylon / 1 SP map / Zwiffle",
- "files": [
-  {
+ "files": {
+  "sm90_zwiffle.bsp": {
    "bytes": 401236,
-   "path": "sm90_zwiffle.bsp",
    "sha256": "db9f4b26e13582fd8bdf2c5f0537223e1fbe0766df72b0d2afbe5ea79ff11f3e",
    "timestamp": "2004-11-13T17:30:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-08-06",
  "sha256": "015cf420fcbe0af3dfe27002a3b189f85bb89f3558f9985937a55fe2b38a3910",
  "tags": [

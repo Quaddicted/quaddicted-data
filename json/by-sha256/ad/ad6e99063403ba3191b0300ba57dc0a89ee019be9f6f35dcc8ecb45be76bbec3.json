@@ -15,90 +15,77 @@
  ],
  "bytes": 133633408,
  "description": "Community map pack based on the <a href=\"2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5\">Alkaline</a> mod (included), featuring ten base-themed levels in various sizes and texture sets plus a start hub map. Comes with custom skyboxes and music tracks in addition to the new enemies and items from the mod.",
- "files": [
-  {
+ "files": {
+  "alkjam/READ_ME.txt": {
    "bytes": 2487,
-   "path": "alkjam/READ_ME.txt",
    "sha256": "c9168f221299f3891fe5912319c05c1bb93e284189fd6d142636fbc8ad4798d9",
    "timestamp": "2021-09-03T19:18:50.000Z"
   },
-  {
+  "alkjam/docs/": {
    "bytes": 0,
-   "path": "alkjam/docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-09-03T18:58:34.000Z"
   },
-  {
+  "alkjam/docs/alkaline_shades.txt": {
    "bytes": 1547,
-   "path": "alkjam/docs/alkaline_shades.txt",
    "sha256": "b638916dac8cd8210f6a5cfb0012cf6af5d042ab7bded2c80d11638ebf85f1f1",
    "timestamp": "2021-09-02T20:00:14.000Z"
   },
-  {
+  "alkjam/docs/alkjam_alexunder.txt": {
    "bytes": 2216,
-   "path": "alkjam/docs/alkjam_alexunder.txt",
    "sha256": "81d130fe8f484465097352d55da33b794ba4666720b2a5699c0e40fda661e3cc",
    "timestamp": "2021-08-31T23:56:58.000Z"
   },
-  {
+  "alkjam/docs/alkjam_daizenzetsu.txt": {
    "bytes": 1015,
-   "path": "alkjam/docs/alkjam_daizenzetsu.txt",
    "sha256": "acbbdfb4e6379e40560e3b8c0014bf517299f982cc5bdd970dd04134c8b2f062",
    "timestamp": "2021-09-02T13:50:26.000Z"
   },
-  {
+  "alkjam/docs/alkjam_dfl.txt": {
    "bytes": 1646,
-   "path": "alkjam/docs/alkjam_dfl.txt",
    "sha256": "4d5e9f39c19966f6e2b6ab0c92048f73fe79bac0f3cdc1e21cd19426ab3dd107",
    "timestamp": "2021-09-03T18:24:44.000Z"
   },
-  {
+  "alkjam/docs/alkjam_emeraldtiger.txt": {
    "bytes": 1814,
-   "path": "alkjam/docs/alkjam_emeraldtiger.txt",
    "sha256": "870ecac3af60c3f7613ce39e18ff55445ccbd691864807f7c027f8a8b3bd8709",
    "timestamp": "2021-09-02T09:47:50.000Z"
   },
-  {
+  "alkjam/docs/alkjam_greenwood.txt": {
    "bytes": 1407,
-   "path": "alkjam/docs/alkjam_greenwood.txt",
    "sha256": "baf8edfcd9470ca0c274fdac96c2c35316e3a9d0b6a03d41e5d066bdbe006e2e",
    "timestamp": "2021-09-03T18:15:36.000Z"
   },
-  {
+  "alkjam/docs/alkjam_ionous.txt": {
    "bytes": 2263,
-   "path": "alkjam/docs/alkjam_ionous.txt",
    "sha256": "ce9c81b0b8d321d140606b52d21368918808e8abf10c361197325cd9d4445595",
    "timestamp": "2021-09-02T20:58:32.000Z"
   },
-  {
+  "alkjam/docs/alkjam_myki.txt": {
    "bytes": 1717,
-   "path": "alkjam/docs/alkjam_myki.txt",
    "sha256": "1eb79c590a579a6ef6bda5eb1a844ab0c5329b32f045e1e2b8d18a9f3c3b16c0",
    "timestamp": "2021-09-03T18:23:38.000Z"
   },
-  {
+  "alkjam/docs/alkjam_plaw.txt": {
    "bytes": 3218,
-   "path": "alkjam/docs/alkjam_plaw.txt",
    "sha256": "897d0ad259206462f90c9ad9f24be4276db7158483ddd9ce9529eae4d49a2e7d",
    "timestamp": "2021-09-03T18:23:08.000Z"
   },
-  {
+  "alkjam/docs/alkjam_radiatoryang.txt": {
    "bytes": 2100,
-   "path": "alkjam/docs/alkjam_radiatoryang.txt",
    "sha256": "abbbd0d8f90cec23e44540571e43c505d762423e0dfdf97bb215d191bd3c4b6b",
    "timestamp": "2021-09-03T18:21:04.000Z"
   },
-  {
+  "alkjam/pak0.pak": {
    "bytes": 295721033,
-   "path": "alkjam/pak0.pak",
    "sha256": "c296a24aaab343085fc47f4e2f35da7709deb5a68261d365bbb07c7e33cccc00",
    "timestamp": "2021-09-03T19:08:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],

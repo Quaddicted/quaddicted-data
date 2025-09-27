@@ -4,24 +4,22 @@
  ],
  "bytes": 4108406,
  "description": "Big base map in Daikatana textures with objective-based gameplay.",
- "files": [
-  {
+ "files": {
+  "Event.txt": {
    "bytes": 3870,
-   "path": "Event.txt",
    "sha256": "e5e690c101ba5a5b4783e25935ee1090ccce69c323efbd36c22d3f01f26d087d",
    "timestamp": "2006-03-31T21:04:22.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 12046728,
-   "path": "pak0.pak",
    "sha256": "a0f9b719d9e75989d38abc62abcf124c27af709b8392e1231ce65c7f9919aac0",
    "timestamp": "2006-03-28T20:00:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/event/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-03-31",
  "sha256": "48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770",
  "tags": [

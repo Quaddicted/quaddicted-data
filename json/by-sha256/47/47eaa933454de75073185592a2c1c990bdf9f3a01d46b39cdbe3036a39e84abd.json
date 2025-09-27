@@ -4,30 +4,27 @@
  ],
  "bytes": 1534363,
  "description": "Two large levels in Medieval/Metal/Wizard/Hipchurch style.",
- "files": [
-  {
+ "files": {
+  "Cryo.txt": {
    "bytes": 2488,
-   "path": "Cryo.txt",
    "sha256": "f979f7c4059ea2da01e159ba4d95a69cc19692b44639b50b696cc2fb5c42bc9d",
    "timestamp": "1997-05-15T23:33:04.000Z"
   },
-  {
+  "Cryo1.bsp": {
    "bytes": 1706864,
-   "path": "Cryo1.bsp",
    "sha256": "92588a9bc5cc4b098eeb8bcedea9f8b63611c454458e44640a1d2f8200c19171",
    "timestamp": "1997-05-15T13:36:30.000Z"
   },
-  {
+  "Cryo2.bsp": {
    "bytes": 1791464,
-   "path": "Cryo2.bsp",
    "sha256": "36ba182fa05b39f83fdab3c321747902370c8c79ea13e37ebe3ba7a42cfecec0",
    "timestamp": "1997-05-15T22:59:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require Scourge of Armagon."
  ],

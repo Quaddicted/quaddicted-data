@@ -4,24 +4,22 @@
  ],
  "bytes": 132946,
  "description": "A cramped map with a \"chess board\" in the middle.",
- "files": [
-  {
+ "files": {
+  "chess.bsp": {
    "bytes": 303788,
-   "path": "chess.bsp",
    "sha256": "c9fd091eca33bce72a821fc6c19b6dcbe6192b65d8926517240113e2b71dd51b",
    "timestamp": "1997-02-24T00:09:24.000Z"
   },
-  {
+  "chess.txt": {
    "bytes": 1560,
-   "path": "chess.txt",
    "sha256": "ed3916aa76e56f964c7e44c53ccf017f95a1872f64324313f0634bead3997cdd",
    "timestamp": "1997-06-11T12:49:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-11",
  "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
  "tags": [

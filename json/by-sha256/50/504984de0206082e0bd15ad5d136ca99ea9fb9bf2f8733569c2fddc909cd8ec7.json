@@ -11,690 +11,577 @@
  ],
  "bytes": 270143840,
  "description": "A collection of seven maps created over a period of two weeks for Arcane Dimensions (included) with the theme \"Decay and disrepair\".",
- "files": [
-  {
+ "files": {
+  "rotj/Rotting_Jam_README.txt": {
    "bytes": 819,
-   "path": "rotj/Rotting_Jam_README.txt",
    "sha256": "1e1119d8fa587b65477378a9feb88790be48c26ec6621ff50480e056d181f66c",
    "timestamp": "2023-08-07T00:02:36.000Z"
   },
-  {
+  "rotj/ad_1_8.def": {
    "bytes": 401897,
-   "path": "rotj/ad_1_8.def",
    "sha256": "da5fbc6e19b4998787e1893c9c2eb516893aee49517b80471e71e412b854303f",
    "timestamp": "2020-10-11T08:59:36.000Z"
   },
-  {
+  "rotj/ad_1_8.fgd": {
    "bytes": 250757,
-   "path": "rotj/ad_1_8.fgd",
    "sha256": "2fdaef42f02c37370b36bd973e9ebfe08827f5847e26b4c250dd9b521a6b8431",
    "timestamp": "2020-10-11T13:22:14.000Z"
   },
-  {
+  "rotj/ad_v1_80_credits.txt": {
    "bytes": 15585,
-   "path": "rotj/ad_v1_80_credits.txt",
    "sha256": "c933fa278cb49c1cf6206cd514f5c43fb59238e13dcae8ac210d1df4d4c3247b",
    "timestamp": "2020-10-12T13:02:28.000Z"
   },
-  {
+  "rotj/ad_v1_80_documentation.txt": {
    "bytes": 151516,
-   "path": "rotj/ad_v1_80_documentation.txt",
    "sha256": "df1888f36c5df5cb53a90b7827c514b294a8a826587f7296fa457a25896f8b34",
    "timestamp": "2020-10-08T23:10:30.000Z"
   },
-  {
+  "rotj/ad_v1_80_readme.txt": {
    "bytes": 8418,
-   "path": "rotj/ad_v1_80_readme.txt",
    "sha256": "2423913f6507c392b219d7caee2656d11f1f24744a5cc0e3e513deaec2db9f08",
    "timestamp": "2020-10-12T16:03:52.000Z"
   },
-  {
+  "rotj/ad_v1_80changelog.txt": {
    "bytes": 91519,
-   "path": "rotj/ad_v1_80changelog.txt",
    "sha256": "07da6715e2c1fbba731603c39e5cecedad51a3729b127d0f1d5641184a53fdd0",
    "timestamp": "2020-10-12T09:24:40.000Z"
   },
-  {
+  "rotj/ad_v1_80p1changelog.txt": {
    "bytes": 92423,
-   "path": "rotj/ad_v1_80p1changelog.txt",
    "sha256": "7da4c0da24d6e63c2c42781c7113b6019ce78afc9acd088b59fec24db1efb696",
    "timestamp": "2020-10-13T20:21:54.000Z"
   },
-  {
+  "rotj/docs/Rotj_chuma (Salrath's tomb) credits and special thanks.docx": {
    "bytes": 7398,
-   "path": "rotj/docs/Rotj_chuma (Salrath's tomb) credits and special thanks.docx",
    "sha256": "4493f785566d145a3f1fb1ff7a4f48df7586a83ce2ab11170e480352b4b2d282",
    "timestamp": "2023-08-06T21:16:34.000Z"
   },
-  {
+  "rotj/docs/rotj_alexunder.txt": {
    "bytes": 1265,
-   "path": "rotj/docs/rotj_alexunder.txt",
    "sha256": "9269d7e84018fdb5b3b67ffc7f36d81a8d5d17a8afbca6142fd9f385b9d35269",
    "timestamp": "2023-08-06T22:58:32.000Z"
   },
-  {
+  "rotj/docs/rotj_ccREADME.txt": {
    "bytes": 2351,
-   "path": "rotj/docs/rotj_ccREADME.txt",
    "sha256": "bb055c00feac7a92f5e7a1c53419f16c83f61747411404d488d1485324719680",
    "timestamp": "2023-08-06T06:47:52.000Z"
   },
-  {
+  "rotj/docs/rotj_ccTEXTURES.txt": {
    "bytes": 634,
-   "path": "rotj/docs/rotj_ccTEXTURES.txt",
    "sha256": "2a24c5cbb967c01471fbc3529b0f735166e09cc4901b0e834dfa632dbd2630ae",
    "timestamp": "2023-08-02T18:36:06.000Z"
   },
-  {
+  "rotj/docs/rotj_entsoy_readme.txt": {
    "bytes": 1574,
-   "path": "rotj/docs/rotj_entsoy_readme.txt",
    "sha256": "d8d10668e431affd3f4cb50b801389a29842d37278aa70bf894c73327d683efa",
    "timestamp": "2023-08-06T18:53:52.000Z"
   },
-  {
+  "rotj/docs/rotj_nickster.txt": {
    "bytes": 1399,
-   "path": "rotj/docs/rotj_nickster.txt",
    "sha256": "a1fed20060aef68ac04c272861c0c639ad29ce460265607123a59ec96eaa1f89",
    "timestamp": "2023-08-06T21:51:54.000Z"
   },
-  {
+  "rotj/docs/rotj_strideh.txt": {
    "bytes": 1990,
-   "path": "rotj/docs/rotj_strideh.txt",
    "sha256": "a4cef28ff25c8137ca58c16fbf9501137e02ff4258171d3da445c8c9504cc7e8",
    "timestamp": "2023-08-05T04:16:06.000Z"
   },
-  {
+  "rotj/docs/rotj_zetabyt (readme).txt": {
    "bytes": 18525,
-   "path": "rotj/docs/rotj_zetabyt (readme).txt",
    "sha256": "a57425eae0fb7ff3b170870432c48ad53fb1a654591f425126dec6bca27afd6b",
    "timestamp": "2023-08-03T18:49:06.000Z"
   },
-  {
+  "rotj/docs/start.txt": {
    "bytes": 470,
-   "path": "rotj/docs/start.txt",
    "sha256": "637b7452dfe0ccd660ad019460accead77be7d19cd7d5329ddef1e754ea20673",
    "timestamp": "2023-08-06T23:55:58.000Z"
   },
-  {
+  "rotj/gfx/conback.png": {
    "bytes": 76313,
-   "path": "rotj/gfx/conback.png",
    "sha256": "efd421b22e5e55ed7a7e95e8a86eec116a43efc71179053a85e0f13a18878754",
    "timestamp": "2023-08-06T20:47:00.000Z"
   },
-  {
+  "rotj/gfx/env/grimmnight_bk.tga": {
    "bytes": 786971,
-   "path": "rotj/gfx/env/grimmnight_bk.tga",
    "sha256": "069de6ebc9d85589f5019315703deb2c5a023437dffa5cec5be993dc6a5bae1d",
    "timestamp": "2008-12-25T16:00:06.000Z"
   },
-  {
+  "rotj/gfx/env/grimmnight_dn.tga": {
    "bytes": 786971,
-   "path": "rotj/gfx/env/grimmnight_dn.tga",
    "sha256": "f6a789aab2da2d4d8f9d4ce8595951da863be154be6fd09fc276bba1e5637439",
    "timestamp": "2008-12-25T16:00:06.000Z"
   },
-  {
+  "rotj/gfx/env/grimmnight_ft.tga": {
    "bytes": 786971,
-   "path": "rotj/gfx/env/grimmnight_ft.tga",
    "sha256": "cf792a9d525aadbde972041e47e7455f92dcb1d428b9cf7ecd047e36d964896f",
    "timestamp": "2008-12-25T16:00:08.000Z"
   },
-  {
+  "rotj/gfx/env/grimmnight_lf.tga": {
    "bytes": 786971,
-   "path": "rotj/gfx/env/grimmnight_lf.tga",
    "sha256": "fadfae110fef359b53d1bda12df6143dcfe1ecfdf08f3c008cb1df302fd4715f",
    "timestamp": "2008-12-25T16:00:08.000Z"
   },
-  {
+  "rotj/gfx/env/grimmnight_rt.tga": {
    "bytes": 786971,
-   "path": "rotj/gfx/env/grimmnight_rt.tga",
    "sha256": "c82c90878ec91f2e8eb94eed9e98f985d9d9803a7e6107974a2a211492b55496",
    "timestamp": "2008-12-25T16:00:10.000Z"
   },
-  {
+  "rotj/gfx/env/grimmnight_up.tga": {
    "bytes": 786971,
-   "path": "rotj/gfx/env/grimmnight_up.tga",
    "sha256": "217417cff6ca265d3e87be8814ea89cc01b12658545f44d32148c8d6464ce10f",
    "timestamp": "2008-12-25T16:00:04.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky1_bk.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky1_bk.tga",
    "sha256": "19f805a1ea20adf15e7df1ded6d8e8122d1209607da96514fa860cf489e4bb52",
    "timestamp": "2023-04-17T17:54:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky1_dn.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky1_dn.tga",
    "sha256": "5817202f5d64b03d03d777935a32009b3ab3c34a78edeedeaab6a228a6a0ceb7",
    "timestamp": "2023-04-17T17:54:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky1_ft.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky1_ft.tga",
    "sha256": "690cd747dc27ebffa554f2d31741acc72ecba8da072fa618ed9b7096b90abef3",
    "timestamp": "2023-04-17T17:54:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky1_lf.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky1_lf.tga",
    "sha256": "f0ece9c3878c2b6b7c720ce9c364c2c26bee13f6a168608020ccb1e32a5f5763",
    "timestamp": "2023-04-17T17:54:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky1_rt.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky1_rt.tga",
    "sha256": "172b275d5dc39e512ed39aa71f3fae9ecfc9daa5475490ea677af2bd78c8dc3b",
    "timestamp": "2023-04-17T17:54:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky1_up.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky1_up.tga",
    "sha256": "f95c25b33afd3c293b37698c3a5f61498d94f8ef1c0e30d61745dec36c0fafb0",
    "timestamp": "2023-04-17T17:54:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_bk.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky2_bk.tga",
    "sha256": "bc242bd204b40a89bd572ebe2d4d4f4202ccbe4658d534065477414837efb970",
    "timestamp": "2022-10-19T23:10:22.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_dn.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky2_dn.tga",
    "sha256": "35199d0182e22c02c36143f934f8f3f29747625a7609dae40e0f339318645bd5",
    "timestamp": "2022-10-19T23:10:20.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_ft.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky2_ft.tga",
    "sha256": "c42b34347ed48bd1279b1b53fb0ec6cf834ee571d814b7742e8f3365f618dbdb",
    "timestamp": "2022-10-19T23:10:18.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_lf.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky2_lf.tga",
    "sha256": "c3d0be6c7ba64bfc93f0785433c50c11d8c6bc8c54c9954491e36b5fe74f6f6f",
    "timestamp": "2022-10-19T23:10:16.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_rt.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky2_rt.tga",
    "sha256": "03fa680ec85bf5d74faed72e94ebde9a1ada380acee19b37b400162af92fcf34",
    "timestamp": "2022-10-19T23:10:14.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_up.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_bluesky2_up.tga",
    "sha256": "4525860d5a23a25d4a10f4b78d138fa1cd340685c40936fa94961be3acdd2934",
    "timestamp": "2022-10-19T23:10:12.000Z"
   },
-  {
+  "rotj/gfx/env/mak_bluesky2_wind.cfg": {
    "bytes": 50,
-   "path": "rotj/gfx/env/mak_bluesky2_wind.cfg",
    "sha256": "83ba772556466980f7c99201bea04b3652aaced751c7f262350fa7fc1f5e3b58",
    "timestamp": "2023-08-06T16:41:46.000Z"
   },
-  {
+  "rotj/gfx/env/mak_sunset1_bk.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_sunset1_bk.tga",
    "sha256": "f1e65b1d1d0e8fbab1a38c7cc36f93373f6d46cccb8e9a9cb2a2a1b2d52a4c44",
    "timestamp": "2022-10-21T23:09:56.000Z"
   },
-  {
+  "rotj/gfx/env/mak_sunset1_dn.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_sunset1_dn.tga",
    "sha256": "655a3824e434b9a4db0cc600b3f7673b185178dc71bb2b677c0a5876585fb926",
    "timestamp": "2022-10-21T23:09:54.000Z"
   },
-  {
+  "rotj/gfx/env/mak_sunset1_ft.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_sunset1_ft.tga",
    "sha256": "b5bca25ec172eef36b82a1a8970dffae648d7f298fd0720a14e5e7f9d16b349e",
    "timestamp": "2022-10-21T23:09:52.000Z"
   },
-  {
+  "rotj/gfx/env/mak_sunset1_lf.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_sunset1_lf.tga",
    "sha256": "a37058f47d0a53116794aaa481e605db64e89f2c367737ea3adeafaa366c5748",
    "timestamp": "2022-10-21T23:08:44.000Z"
   },
-  {
+  "rotj/gfx/env/mak_sunset1_rt.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_sunset1_rt.tga",
    "sha256": "d2186aa5bcbf9bac1defaf2a60827ee0c144806dd0c6b06046d21f4ee87544ac",
    "timestamp": "2022-10-21T23:09:50.000Z"
   },
-  {
+  "rotj/gfx/env/mak_sunset1_up.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_sunset1_up.tga",
    "sha256": "033a3711b7ef204dce1ab201a478c922e7bbc714101ceed3269eb70828fb99d9",
    "timestamp": "2022-10-21T23:09:48.000Z"
   },
-  {
+  "rotj/gfx/env/mak_tealsky1_bk.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_tealsky1_bk.tga",
    "sha256": "3355741f419cc227c84aa357000b70fc07c2d103291154a4a73f8ad066e5972b",
    "timestamp": "2022-10-20T05:43:22.000Z"
   },
-  {
+  "rotj/gfx/env/mak_tealsky1_dn.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_tealsky1_dn.tga",
    "sha256": "b884f1ab08369a1fea178f48ddaed8ae21eb788ae096c22f4aa48160b4c2a152",
    "timestamp": "2022-10-20T05:43:20.000Z"
   },
-  {
+  "rotj/gfx/env/mak_tealsky1_ft.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_tealsky1_ft.tga",
    "sha256": "04d2b3f34adc584a8478a5056b3a889f44630c9b5662ad0d732af329c9650177",
    "timestamp": "2022-10-20T05:43:18.000Z"
   },
-  {
+  "rotj/gfx/env/mak_tealsky1_lf.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_tealsky1_lf.tga",
    "sha256": "a6d7d09bad42d78767310266b3806ab3047068dd14c127ebe5fc3f69bd49495e",
    "timestamp": "2022-10-20T05:43:16.000Z"
   },
-  {
+  "rotj/gfx/env/mak_tealsky1_rt.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_tealsky1_rt.tga",
    "sha256": "f9dbf14dd430f0598b3117b6f93b8c7f6745d824c7d7c14ac672a081847e401e",
    "timestamp": "2022-10-20T05:43:14.000Z"
   },
-  {
+  "rotj/gfx/env/mak_tealsky1_up.tga": {
    "bytes": 3145772,
-   "path": "rotj/gfx/env/mak_tealsky1_up.tga",
    "sha256": "a001fab1b8263805a8d6abb184696da33f59b05650d3ec117d255fd69405cf86",
    "timestamp": "2022-10-20T05:43:12.000Z"
   },
-  {
+  "rotj/gfx/env/sky_torment_bk.tga": {
    "bytes": 3145746,
-   "path": "rotj/gfx/env/sky_torment_bk.tga",
    "sha256": "79f14899d8d8493d54618315d16b95c7e61b19fefe3788c5d5e5d17d6c7863d2",
    "timestamp": "2023-07-30T11:11:44.000Z"
   },
-  {
+  "rotj/gfx/env/sky_torment_dn.tga": {
    "bytes": 3145746,
-   "path": "rotj/gfx/env/sky_torment_dn.tga",
    "sha256": "82f68bfd77be2dd2ae4cde49d7a69e3e02ac75363e28b9d264ea0eb3a47bcc6d",
    "timestamp": "2023-07-30T11:11:44.000Z"
   },
-  {
+  "rotj/gfx/env/sky_torment_ft.tga": {
    "bytes": 3145746,
-   "path": "rotj/gfx/env/sky_torment_ft.tga",
    "sha256": "1985061c0a073293ea3b5a62507f5b766b82faa9fb8b3440196ff9024a828ff4",
    "timestamp": "2023-07-30T11:11:44.000Z"
   },
-  {
+  "rotj/gfx/env/sky_torment_lf.tga": {
    "bytes": 3145746,
-   "path": "rotj/gfx/env/sky_torment_lf.tga",
    "sha256": "ebf7e30c8fdc23eb1dfd281e01e576e27888c07149086d1f88c5cf245a896ad3",
    "timestamp": "2023-07-30T11:11:44.000Z"
   },
-  {
+  "rotj/gfx/env/sky_torment_rt.tga": {
    "bytes": 3145746,
-   "path": "rotj/gfx/env/sky_torment_rt.tga",
    "sha256": "eda301c746dff71a78a7477ac5d7d561d28847195472ab668ca8687abd8cde1d",
    "timestamp": "2023-07-30T11:11:44.000Z"
   },
-  {
+  "rotj/gfx/env/sky_torment_up.tga": {
    "bytes": 3145746,
-   "path": "rotj/gfx/env/sky_torment_up.tga",
    "sha256": "4b2cc4b1cd55a459cb25d8f94401bd5a8e3a10c2cf1f801218257ca765634ac5",
    "timestamp": "2023-07-30T11:11:44.000Z"
   },
-  {
+  "rotj/maps/rotj_alexunder.bsp": {
    "bytes": 11849772,
-   "path": "rotj/maps/rotj_alexunder.bsp",
    "sha256": "156c0d17485a7d9e3d3216f1a28724b4e2ee6c0bdec58a3f2a0a710036a31362",
    "timestamp": "2023-08-06T23:29:26.000Z"
   },
-  {
+  "rotj/maps/rotj_alexunder.lit": {
    "bytes": 4617380,
-   "path": "rotj/maps/rotj_alexunder.lit",
    "sha256": "6e88d9cca96780bf4b09b5a0b169657a0ca5b73b06b725b91f285dfa5831b70f",
    "timestamp": "2023-08-06T23:29:26.000Z"
   },
-  {
+  "rotj/maps/rotj_cc.bsp": {
    "bytes": 15601780,
-   "path": "rotj/maps/rotj_cc.bsp",
    "sha256": "937d2250fff1522f2cbd9c0121a7374feac8761e1b9185783405ede3fccf50e0",
    "timestamp": "2023-08-06T06:43:56.000Z"
   },
-  {
+  "rotj/maps/rotj_cc.lit": {
    "bytes": 1269809,
-   "path": "rotj/maps/rotj_cc.lit",
    "sha256": "bc2e42ae03fa5eb32e795b334ad1f29b5caedaa2799fb3f7f292d52cec83baee",
    "timestamp": "2023-08-06T06:43:56.000Z"
   },
-  {
+  "rotj/maps/rotj_cc.map": {
    "bytes": 2434855,
-   "path": "rotj/maps/rotj_cc.map",
    "sha256": "ed52e50e422ff267428c2507a6a2c5faab01ff4a864dafaab854bbd78201e880",
    "timestamp": "2023-08-06T06:43:38.000Z"
   },
-  {
+  "rotj/maps/rotj_chuma.bsp": {
    "bytes": 6982128,
-   "path": "rotj/maps/rotj_chuma.bsp",
    "sha256": "53b31b5fb8a168c03fb4ab31e36602652991b3d0e6d82d3b1a1e59cb461ead0c",
    "timestamp": "2023-08-06T20:48:02.000Z"
   },
-  {
+  "rotj/maps/rotj_chuma.lit": {
    "bytes": 3978485,
-   "path": "rotj/maps/rotj_chuma.lit",
    "sha256": "e318e7b8e9fe61cddafd45e0c53b1285c40d3dc6de121886388eddbf5f7791cd",
    "timestamp": "2023-08-06T20:48:02.000Z"
   },
-  {
+  "rotj/maps/rotj_entsoy.bsp": {
    "bytes": 47863496,
-   "path": "rotj/maps/rotj_entsoy.bsp",
    "sha256": "022daf1943e814be7aa4a7d694e5ab5a61d003bddc85273c332c41664a8a9360",
    "timestamp": "2023-08-07T00:34:40.000Z"
   },
-  {
+  "rotj/maps/rotj_entsoy.lit": {
    "bytes": 4421561,
-   "path": "rotj/maps/rotj_entsoy.lit",
    "sha256": "c219b60431577c0468d96b37ec44a6a66b2bd094ca68fd65728b2478a7d1454c",
    "timestamp": "2023-08-07T00:34:40.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster.bsp": {
    "bytes": 33562528,
-   "path": "rotj/maps/rotj_nickster.bsp",
    "sha256": "d4078bf3a614341ac6624d1e739780a0b1447917cc4d8648e67305c088981003",
    "timestamp": "2023-08-06T22:08:18.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster.lit": {
    "bytes": 1744643,
-   "path": "rotj/maps/rotj_nickster.lit",
    "sha256": "a5773d230a66734d62a75c5207f06faf2355d039dbed6809da8c5a34dc059247",
    "timestamp": "2023-08-06T22:08:18.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/apple1.bsp": {
    "bytes": 32208,
-   "path": "rotj/maps/rotj_nickster/apple1.bsp",
    "sha256": "a4791a0f0844318e02707c80240bbe8ee7f30c9f7c3968f1cc065ef2a459dec1",
    "timestamp": "2023-08-03T18:05:20.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/bandage1.bsp": {
    "bytes": 3808,
-   "path": "rotj/maps/rotj_nickster/bandage1.bsp",
    "sha256": "9f1c121bab2524fe798685204847c8e6f84383c98694ecfe504cdd577d48a6fd",
    "timestamp": "2023-08-03T18:05:58.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/beerbottle1.bsp": {
    "bytes": 10080,
-   "path": "rotj/maps/rotj_nickster/beerbottle1.bsp",
    "sha256": "72fde9a46f52cc5a9a55e18d516225377401a4c924b6cf448912a90658f765b6",
    "timestamp": "2023-08-03T18:06:18.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/beerbottle2.bsp": {
    "bytes": 10080,
-   "path": "rotj/maps/rotj_nickster/beerbottle2.bsp",
    "sha256": "82d09d729401b48f68b4ba8f718e4718bd07b43f9894e6160fcbd1f4d168aabd",
    "timestamp": "2023-08-03T18:06:30.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/drum1_red1.bsp": {
    "bytes": 15188,
-   "path": "rotj/maps/rotj_nickster/drum1_red1.bsp",
    "sha256": "c6e7dd567aaf45c3e1d49cd164b200d8e24f0907c83ae1b7a72e42eb182e313f",
    "timestamp": "2023-07-28T17:58:28.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/drum1_red2.bsp": {
    "bytes": 13884,
-   "path": "rotj/maps/rotj_nickster/drum1_red2.bsp",
    "sha256": "9c53a47efcacdbf53e609a0bd8399526be6cac4a8200322f56eb6b98638ccc94",
    "timestamp": "2023-07-28T17:58:46.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/drum1_red3.bsp": {
    "bytes": 14368,
-   "path": "rotj/maps/rotj_nickster/drum1_red3.bsp",
    "sha256": "879027b116aef91e293cf488e4c2151aee6ac6b965843529d33106510e158403",
    "timestamp": "2023-07-28T17:59:36.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/drum1_red4.bsp": {
    "bytes": 18036,
-   "path": "rotj/maps/rotj_nickster/drum1_red4.bsp",
    "sha256": "4144f0096ee57f4b7e9bcee493d24e698ba07f4197398edd4828ee26f778d226",
    "timestamp": "2023-07-28T17:59:52.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/kidney1.bsp": {
    "bytes": 12176,
-   "path": "rotj/maps/rotj_nickster/kidney1.bsp",
    "sha256": "1425bf5373a38e7a7b4638bf52bc023d62a049c2d6562cc7738af9fc98378c2f",
    "timestamp": "2023-08-03T18:06:46.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/nanner1.bsp": {
    "bytes": 20264,
-   "path": "rotj/maps/rotj_nickster/nanner1.bsp",
    "sha256": "0e7771bd04af19630ff8bf3573f5a05875f070ef7a270bbaa9422997791d5f4e",
    "timestamp": "2023-07-24T10:44:26.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/rxbottle1.bsp": {
    "bytes": 7840,
-   "path": "rotj/maps/rotj_nickster/rxbottle1.bsp",
    "sha256": "23581830bc56005981d92e8b4eeb00593a02df82117268f53f11eab87f97a134",
    "timestamp": "2023-08-03T18:07:02.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/soupcan1.bsp": {
    "bytes": 5440,
-   "path": "rotj/maps/rotj_nickster/soupcan1.bsp",
    "sha256": "00e9559a1a1aaed97b3eb98ce42c9869ba4c3bf8a265ef018366901fb2b53ee2",
    "timestamp": "2023-08-03T18:07:14.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/syringe1.bsp": {
    "bytes": 9664,
-   "path": "rotj/maps/rotj_nickster/syringe1.bsp",
    "sha256": "8f4cbe9e6f2542bfba0132ba21658920a373b3937375be88e293bc6dcd15b5cb",
    "timestamp": "2023-08-03T18:08:16.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/takeout1.bsp": {
    "bytes": 5248,
-   "path": "rotj/maps/rotj_nickster/takeout1.bsp",
    "sha256": "a2c7882d75175fc0475aedf06e40a511a4bb750ab9acfddee3cd1df7bf903e7f",
    "timestamp": "2023-07-29T15:00:36.000Z"
   },
-  {
+  "rotj/maps/rotj_nickster/waterbottle1.bsp": {
    "bytes": 8316,
-   "path": "rotj/maps/rotj_nickster/waterbottle1.bsp",
    "sha256": "20e09f64403f24187da86d8788fbf30df41b6d342576a292fcb30b583b6dd2d1",
    "timestamp": "2023-07-29T15:00:50.000Z"
   },
-  {
+  "rotj/maps/rotj_strideh.bsp": {
    "bytes": 18118708,
-   "path": "rotj/maps/rotj_strideh.bsp",
    "sha256": "fa1deba367438d99923ef79e99101baf48d6f418f6bdb964035d7cf8c61a79df",
    "timestamp": "2023-08-05T08:26:00.000Z"
   },
-  {
+  "rotj/maps/rotj_strideh.lit": {
    "bytes": 3927116,
-   "path": "rotj/maps/rotj_strideh.lit",
    "sha256": "5c8c2467bcd6dfb1ef29cc901828972dd8c7a91fb592379c416fc8e188fd39c8",
    "timestamp": "2023-08-05T08:25:58.000Z"
   },
-  {
+  "rotj/maps/rotj_zetabyt.bsp": {
    "bytes": 8587156,
-   "path": "rotj/maps/rotj_zetabyt.bsp",
    "sha256": "4abc7797d26ea798deb50ccf42dd7b0169b6aff8708271d8ed37a64e1b8559d3",
    "timestamp": "2023-08-03T18:48:36.000Z"
   },
-  {
+  "rotj/maps/rotj_zetabyt.lit": {
    "bytes": 1770578,
-   "path": "rotj/maps/rotj_zetabyt.lit",
    "sha256": "c023542bfeb337dd20db7e0ec3347f41ab147b4c22eaab00e69bdec989ce0bac",
    "timestamp": "2023-08-03T18:48:36.000Z"
   },
-  {
+  "rotj/maps/start.bsp": {
    "bytes": 1846056,
-   "path": "rotj/maps/start.bsp",
    "sha256": "c1d70202a98c6a91f4e03669e50d901a49d2a9243f9cebb89a0611f31543a34a",
    "timestamp": "2023-08-07T00:07:58.000Z"
   },
-  {
+  "rotj/maps/start.lit": {
    "bytes": 416828,
-   "path": "rotj/maps/start.lit",
    "sha256": "d57eaddf723f711f59e19001af656253f4190d5d67bb21683a74bc16f6361f4d",
    "timestamp": "2023-08-07T00:07:58.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_alexunder.map": {
    "bytes": 2475017,
-   "path": "rotj/mapsrc/rotj_alexunder.map",
    "sha256": "4aa2e81a30943d2167b37f97bb99ea57a3332c4ee2d11f000bc49c55c7857ed7",
    "timestamp": "2023-08-06T23:26:00.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_chuma.map": {
    "bytes": 2217084,
-   "path": "rotj/mapsrc/rotj_chuma.map",
    "sha256": "dd6dd72a30bb493f2d99956483507079ac3b216e86b568ba3a78eaa7a5bbce17",
    "timestamp": "2023-08-06T20:18:08.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_entsoy.map": {
    "bytes": 5604906,
-   "path": "rotj/mapsrc/rotj_entsoy.map",
    "sha256": "c6fa1b55002968bbb15ea20ed4b7a060eb978f3b066ada3de4925be38031210f",
    "timestamp": "2023-08-07T00:34:06.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_nickster-postproc.map": {
    "bytes": 11777124,
-   "path": "rotj/mapsrc/rotj_nickster-postproc.map",
    "sha256": "e805f752d1d781022600ef1dcb86fed40dc3c6e56a9d0e9c52e409e9d296c4bd",
    "timestamp": "2023-08-06T22:07:30.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_nickster.map": {
    "bytes": 11230089,
-   "path": "rotj/mapsrc/rotj_nickster.map",
    "sha256": "aa4c72fe85745cc693e54532bce3cb8915d3c32ef027ed95b6378a1f001f2adb",
    "timestamp": "2023-08-06T22:07:26.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_strideh.map": {
    "bytes": 17130028,
-   "path": "rotj/mapsrc/rotj_strideh.map",
    "sha256": "1748bcd9342f3fb475ec37fc1c5a0e57311dcadaaeb30f79b51657ed61c8ed41",
    "timestamp": "2023-08-05T02:30:26.000Z"
   },
-  {
+  "rotj/mapsrc/rotj_zetabyt.map": {
    "bytes": 9403777,
-   "path": "rotj/mapsrc/rotj_zetabyt.map",
    "sha256": "1897d64af0abc199142fa604c970c9b9765f068d6c71287e4d2bc82f7909aabd",
    "timestamp": "2023-08-03T18:49:38.000Z"
   },
-  {
+  "rotj/mapsrc/start.map": {
    "bytes": 832962,
-   "path": "rotj/mapsrc/start.map",
    "sha256": "65ca6143867c3ab650be9bd504d43babd4de1813eecbb13da0f00983b31dac71",
    "timestamp": "2023-08-06T23:54:28.000Z"
   },
-  {
+  "rotj/music/track127.ogg": {
    "bytes": 10181079,
-   "path": "rotj/music/track127.ogg",
    "sha256": "05b78437db573a550fb73d91e02f506a5c96dea020edc06185b70eadf51d71e7",
    "timestamp": "2023-08-06T22:18:04.000Z"
   },
-  {
+  "rotj/music/track27.mp3": {
    "bytes": 6625559,
-   "path": "rotj/music/track27.mp3",
    "sha256": "d49623042251acade70a0a4fe19b2396c1814ea997eaf5cf020600086d09815d",
    "timestamp": "2023-07-29T11:37:50.000Z"
   },
-  {
+  "rotj/music/track63.mp3": {
    "bytes": 2037696,
-   "path": "rotj/music/track63.mp3",
    "sha256": "33409720caa7691bedd0adfc3ff68906e64ed8c0b78d7a9b1f07a408e0c41f6a",
    "timestamp": "2023-08-06T16:49:20.000Z"
   },
-  {
+  "rotj/music/track69.ogg": {
    "bytes": 5602355,
-   "path": "rotj/music/track69.ogg",
    "sha256": "7d24e209039e2698d044e0c39796bd670188d7152fa097af28019b361f139a35",
    "timestamp": "2023-08-06T21:32:10.000Z"
   },
-  {
+  "rotj/music/track98.ogg": {
    "bytes": 6203215,
-   "path": "rotj/music/track98.ogg",
    "sha256": "d4bf30e2eb884c48a9fb17ca44c18163b591723cfb29ea0731eb6dc591a4f6e9",
    "timestamp": "2023-07-30T08:21:48.000Z"
   },
-  {
+  "rotj/pak0.pak": {
    "bytes": 270100152,
-   "path": "rotj/pak0.pak",
    "sha256": "117caa759bf9f161599ff693f561c68954519eda9cefb719a97cd5c1cd863ef3",
    "timestamp": "2020-10-12T17:05:06.000Z"
   },
-  {
+  "rotj/pak1.pak": {
    "bytes": 5469052,
-   "path": "rotj/pak1.pak",
    "sha256": "e77927ce2b3aaf7d708de67a7116fbe9319d7d3dfdf1b207945cef66582a17db",
    "timestamp": "2023-07-26T23:02:16.000Z"
   },
-  {
+  "rotj/pak2.pak": {
    "bytes": 9102012,
-   "path": "rotj/pak2.pak",
    "sha256": "fbf21239f4d372e316383753c8bd6535f738972bae7787f365d10b1cf264d952",
    "timestamp": "2023-08-07T04:40:08.000Z"
   },
-  {
+  "rotj/pak3.pak": {
    "bytes": 256084,
-   "path": "rotj/pak3.pak",
    "sha256": "64230797bf8899f747e028451090c5b74a4cea44f2ae07bf8f12311d5ab35557",
    "timestamp": "2023-08-06T20:47:02.000Z"
   },
-  {
+  "rotj/quake.rc": {
    "bytes": 8561,
-   "path": "rotj/quake.rc",
    "sha256": "2d115b3e8ae22d54dbcd814a56cb38fe2996477f4862351cb35ec5abc31f36e3",
    "timestamp": "2023-08-06T15:39:18.000Z"
   },
-  {
+  "rotj/rotj.cfg": {
    "bytes": 46,
-   "path": "rotj/rotj.cfg",
    "sha256": "ad96835bc2d142fc865343714ac0f84e407610825b48dad6e07e27cc19882973",
    "timestamp": "2023-08-06T15:39:58.000Z"
   },
-  {
+  "rotj/sound/rotj_nickster/flies1_11k.wav": {
    "bytes": 132460,
-   "path": "rotj/sound/rotj_nickster/flies1_11k.wav",
    "sha256": "c7cc48740729e03e60c7032256713939c29baeeb5d9a61f6be73d17d4898e7e6",
    "timestamp": "2023-08-06T21:14:46.000Z"
   },
-  {
+  "rotj/sound/strideh/blood_fall.wav": {
    "bytes": 2646150,
-   "path": "rotj/sound/strideh/blood_fall.wav",
    "sha256": "dfe5000999690dfe78fe9dc61c9b545e0ac5798d6e40178160bb22d6ef77211b",
    "timestamp": "2023-07-31T12:53:16.000Z"
   },
-  {
+  "rotj/sound/strideh/leviathan_horn1.wav": {
    "bytes": 882044,
-   "path": "rotj/sound/strideh/leviathan_horn1.wav",
    "sha256": "0ed6f609f9a2c1545aa454c53dc69ebd5ffe827e43283654eb97bf763a7fa6ba",
    "timestamp": "2023-07-31T06:57:30.000Z"
   },
-  {
+  "rotj/sound/strideh/leviathan_horn2.wav": {
    "bytes": 441042,
-   "path": "rotj/sound/strideh/leviathan_horn2.wav",
    "sha256": "326ff291b484d8dbe645b938c68d9ba238abc080173d88595267c9928f56fe7b",
    "timestamp": "2023-07-31T07:00:18.000Z"
   },
-  {
+  "rotj/sound/strideh/leviathan_horn3.wav": {
    "bytes": 441042,
-   "path": "rotj/sound/strideh/leviathan_horn3.wav",
    "sha256": "236b430d9a4cf27b4a5a09bd5a27aa696cbc1354baae51e9182ab3d62d2e7ddc",
    "timestamp": "2023-07-31T07:00:20.000Z"
   },
-  {
+  "rotj/tracks.txt": {
    "bytes": 46,
-   "path": "rotj/tracks.txt",
    "sha256": "11108adb974caabae6f71232e20fbdf5806764efed331f2db79c7c95bc0b3717",
    "timestamp": "2023-08-06T15:07:06.000Z"
   },
-  {
+  "rotj/wads/rotj.wad": {
    "bytes": 196500,
-   "path": "rotj/wads/rotj.wad",
    "sha256": "6f2daca242073aeb40c2dd5d99bcc7556821b980bfd98eb731d4efc1415559f1",
    "timestamp": "2023-08-07T00:03:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a modern engine / source port with increased limits."
  ],

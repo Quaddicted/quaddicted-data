@@ -4,30 +4,27 @@
  ],
  "bytes": 5217963,
  "description": "Oldschool episode with nine small to medium-sized levels including a start map and a secret level. The maps are around id quality in terms of construction, style and gameplay. It also features a new rocket enforcer enemy type.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 11840235,
-   "path": "pak0.pak",
    "sha256": "b148bc25c9e790a02c22e53b823e269324c6a77b2255bde53df9720935555dde",
    "timestamp": "2006-05-22T09:53:46.000Z"
   },
-  {
+  "readme.eng": {
    "bytes": 535,
-   "path": "readme.eng",
    "sha256": "acb06684f64e7d96271ba7d4b48b020ad35e2ad0651cd9b7f7f2d923dbb40b87",
    "timestamp": "2006-05-21T08:10:12.000Z"
   },
-  {
+  "readme.rus": {
    "bytes": 537,
-   "path": "readme.rus",
    "sha256": "c2893c3bea8355d1f6f357cd84140ce5d0291553c47ada91c15543ab133d9243",
    "timestamp": "2006-05-21T08:16:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/digs01/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-05-22",
  "sha256": "ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276",
  "tags": [

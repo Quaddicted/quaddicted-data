@@ -4,30 +4,27 @@
  ],
  "bytes": 3781382,
  "description": "Episode with nine small maps (including a start map, a secret map called penis.bsp and two DM maps), two reskinned monsters and a rain effect.",
- "files": [
-  {
+ "files": {
+  "strom.bat": {
    "bytes": 19,
-   "path": "strom.bat",
    "sha256": "a9f74910a118d9b5cf2de6e61181fbf8cee29e0e3085af94f85832121e7eef9d",
    "timestamp": "1997-04-09T16:02:20.000Z"
   },
-  {
+  "strom/Pak0.pak": {
    "bytes": 8455713,
-   "path": "strom/Pak0.pak",
    "sha256": "012ad5f0be8e757d7a14700475578c3144061e6042ed0f162527f9d36d11c639",
    "timestamp": "1997-04-12T10:27:00.000Z"
   },
-  {
+  "strom/strom.txt": {
    "bytes": 11177,
-   "path": "strom/strom.txt",
    "sha256": "42865849e23e85305def2b2523e25aa2d49058875c725f3e0db1b380ee325b4d",
    "timestamp": "1997-05-08T13:19:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-08",
  "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
  "tags": [

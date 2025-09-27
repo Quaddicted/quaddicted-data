@@ -4,24 +4,22 @@
  ],
  "bytes": 828722,
  "description": "A small base level with lots of monsters and little ammo. Features 'new' flying enforcer enemy.",
- "files": [
-  {
+ "files": {
+  "3oc.txt": {
    "bytes": 4333,
-   "path": "3oc.txt",
    "sha256": "fff7a0028d6768a48a2b7ed633924ebd17df7cbb944db69ab3b284624b186ecc",
    "timestamp": "1997-06-27T08:39:04.000Z"
   },
-  {
+  "Pak0.PAK": {
    "bytes": 1888562,
-   "path": "Pak0.PAK",
    "sha256": "fe0fb04a6ea16feeb5e3d233a7adaa9b8f6ecf380b0b933717ea26729ec6bc43",
    "timestamp": "1997-06-27T13:09:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/3oc/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-27",
  "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "tags": [

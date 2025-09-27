@@ -7,42 +7,37 @@
  ],
  "bytes": 2185467,
  "description": "Dreamscape / 4 SP maps / negke, rudl, TextFish, Zwiffle",
- "files": [
-  {
+ "files": {
+  "smqe08a_negke.bsp": {
    "bytes": 260888,
-   "path": "smqe08a_negke.bsp",
    "sha256": "d41b7925346e83fc522b92275b2b410553c75223da259ba16750e318b4e3cead",
    "timestamp": "2008-08-18T00:19:46.000Z"
   },
-  {
+  "smqe08a_pack.txt": {
    "bytes": 1395,
-   "path": "smqe08a_pack.txt",
    "sha256": "f17560cb2d1b06e077523f37751db11fdde98bd3e3b06a7dd235496ecb7204fb",
    "timestamp": "2008-08-19T03:20:48.000Z"
   },
-  {
+  "smqe08a_rudl.zip": {
    "bytes": 1435486,
-   "path": "smqe08a_rudl.zip",
    "sha256": "24e2f44591e0bdd35e262616c0ad7fb7422d716f057aae469b10156641473ae6",
    "timestamp": "2008-08-16T14:16:36.000Z"
   },
-  {
+  "smqe08a_textfish.bsp": {
    "bytes": 1350372,
-   "path": "smqe08a_textfish.bsp",
    "sha256": "55db583f72fd15eba91cf579493ca30fc96e2c90fff350c3a5632d952ee8862b",
    "timestamp": "2008-08-17T00:17:34.000Z"
   },
-  {
+  "smqe08a_zwiffle.bsp": {
    "bytes": 422652,
-   "path": "smqe08a_zwiffle.bsp",
    "sha256": "1cf9e5a60cf7ede7f1d06bbe936df3c144973eb84592168612fedb70b758e28e",
    "timestamp": "2008-08-19T03:13:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2008-08-19",
  "sha256": "9d59768b7e0c7731161e95b768d82e8e5d09a503546e078ab38379620f4eff59",
  "tags": [

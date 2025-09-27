@@ -4,24 +4,22 @@
  ],
  "bytes": 1121820,
  "description": "A large, detailed Medieval fortress.",
- "files": [
-  {
+ "files": {
+  "RRSP1.bsp": {
    "bytes": 2685424,
-   "path": "RRSP1.bsp",
    "sha256": "d72381be3a8d17701db6de23f9af021004ebaf42882f01a3a2a636e9f09d60e6",
    "timestamp": "2002-03-19T08:10:06.000Z"
   },
-  {
+  "Rune Keep .txt": {
    "bytes": 6221,
-   "path": "Rune Keep .txt",
    "sha256": "35c35da91946cdd3730e2655913508a2c717839e7360d86797d62d5ce05b0117",
    "timestamp": "2002-03-19T08:40:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "runekeep": "1.0"
  },

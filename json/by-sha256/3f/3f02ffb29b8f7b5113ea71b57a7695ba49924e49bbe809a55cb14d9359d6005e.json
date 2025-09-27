@@ -4,26 +4,23 @@
  ],
  "bytes": 2941068,
  "description": "A big, open, twisted, confusing, hard and unconventional coagula map. id texturing and a lot of fresh gameplay ideas.",
- "files": [
-  {
+ "files": {
+  "coag3_negke.bsp": {
    "bytes": 6882312,
-   "path": "coag3_negke.bsp",
    "sha256": "342bd16da15ffaaae5632ee73926dcbe5ad51e85569efe2cc173a38963739138",
    "timestamp": "2009-11-08T12:30:40.000Z"
   },
-  {
+  "coag3_negke.txt": {
    "bytes": 5229,
-   "path": "coag3_negke.txt",
    "sha256": "1e53b785110748a553d7e6436cca7b2d51d0a07fcf5f764105ccca58d94d828d",
    "timestamp": "2009-11-08T12:30:28.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 419564,
-   "path": "progs.dat",
    "sha256": "5212b060d52bd955db94e18be95e2e9e9a0f7b2dd78807fe0cfbb821a7c828b4",
    "timestamp": "2009-11-08T12:30:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
@@ -31,7 +28,7 @@
    "/progs.dat": "/coag3_negke/progs.dat"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "The progs.dat is for Darkplaces users only. If you are running this map from an automated installation tool and use Darkplaces, type 'game coag3_negke' at the console to load the custom progs, then load the map.",
   "This map features two different game modes: Skill 0/1: exploration mode (finding keys, pushing buttons, solving puzzles); skill 2: DMSP-like mode (deathmatch against monsters with respawning items)"

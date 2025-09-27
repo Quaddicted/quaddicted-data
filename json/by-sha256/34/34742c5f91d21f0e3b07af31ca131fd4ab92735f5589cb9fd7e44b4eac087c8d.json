@@ -4,30 +4,27 @@
  ],
  "bytes": 10684100,
  "description": "A small weird experimental map for vanilla Quake, using custom made AI-generated textures with Stable Diffusion. Map source file is included. <i>\"No real monsters.\"</i>",
- "files": [
-  {
+ "files": {
+  "ai-textures.bsp": {
    "bytes": 32670020,
-   "path": "ai-textures.bsp",
    "sha256": "0b32bcae9b73a84abcd2d7f72e178a20f4a556b23982d62a0c10adaa6300bcf2",
    "timestamp": "2022-10-23T17:58:34.000Z"
   },
-  {
+  "ai-textures.map": {
    "bytes": 180021,
-   "path": "ai-textures.map",
    "sha256": "9d67ad9c8f6d075d5613936758ead3f9f5a44266bdf5b8737c42eca9e228b300",
    "timestamp": "2022-10-23T17:58:30.000Z"
   },
-  {
+  "ai-textures.txt": {
    "bytes": 1068,
-   "path": "ai-textures.txt",
    "sha256": "51a0144350741b67ca75d96ae0c50a719a62849f3a9507c20e3a48f01c7d93b1",
    "timestamp": "2022-10-23T17:43:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 453117,
  "description": "Small to medium Metal map.",
- "files": [
-  {
+ "files": {
+  "decon.bsp": {
    "bytes": 1003836,
-   "path": "decon.bsp",
    "sha256": "54029ddf70e8e6522b05adc83e10152e87606e2a3c26476015b0660d6a441c00",
    "timestamp": "1996-12-05T21:25:46.000Z"
   },
-  {
+  "decon.txt": {
    "bytes": 1554,
-   "path": "decon.txt",
    "sha256": "4c578290104b220d0d36d829ba405091d853b57e5c6ddcdd191c7da751937f45",
    "timestamp": "1996-12-07T20:33:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Was upgraded and re-released as <a href=\"bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d\">Bldstone</a>."
  ],

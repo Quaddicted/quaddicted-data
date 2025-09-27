@@ -4,24 +4,22 @@
  ],
  "bytes": 1103713,
  "description": "Medium sized egyptian map featuring a zombie quad massacre.",
- "files": [
-  {
+ "files": {
+  "readme.txt": {
    "bytes": 778,
-   "path": "readme.txt",
    "sha256": "6796720f89f47c6d2b273df3943060882d607dc8ea08596214198f80ba7bc128",
    "timestamp": "2009-04-15T23:55:14.000Z"
   },
-  {
+  "toa.bsp": {
    "bytes": 2476788,
-   "path": "toa.bsp",
    "sha256": "3d8382033e8d39cbccdb1512374cf8d72017fff5a0ab7d84180b3cda022fa1ad",
    "timestamp": "2009-04-15T17:34:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2009-04-15",
  "sha256": "7228e3addff4d4e4b10b96316c6e8921149db83e1627f092296d3646a763e502",
  "tags": [

@@ -5,30 +5,27 @@
  ],
  "bytes": 4296289,
  "description": "Third retro map jam: two \"Vertical metal / runic\"-themed maps by FifthElephant and skacky. The map sources are included in the pak.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 14053002,
-   "path": "pak0.pak",
    "sha256": "f6ee255db3df15b812f1760bbecf8cb4c23f0e260b53a60516ee13d2b6898a43",
    "timestamp": "2015-04-29T17:15:34.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 1319,
-   "path": "quake.rc",
    "sha256": "23d89f55c4aeec778b24e215ce38088b1ad23525c006f09a18ea433d93a03380",
    "timestamp": "2015-04-28T23:24:14.000Z"
   },
-  {
+  "retrojam3_readme.txt": {
    "bytes": 2306,
-   "path": "retrojam3_readme.txt",
    "sha256": "62342dfca493a9aede057aad208ae606f2167fdd9868ab5ded845121ef5febc1",
    "timestamp": "2015-04-29T17:22:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/retrojam3"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A \"DLC\" pack for Retro Jam 3 with three additional maps is available <a href=\"b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc\">here</a>."
  ],

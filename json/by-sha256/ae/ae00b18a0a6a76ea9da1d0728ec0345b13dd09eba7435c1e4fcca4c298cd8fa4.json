@@ -4,18 +4,17 @@
  ],
  "bytes": 197628,
  "description": "Megazoid's late entry to <a href=\"987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c\">SM65</a>.",
- "files": [
-  {
+ "files": {
+  "sm65_megazoid.bsp": {
    "bytes": 539120,
-   "path": "sm65_megazoid.bsp",
    "sha256": "a64f9e494c73f57586cf82debe4a49c5401cbebad01ba2648dc79cc0f096687c",
    "timestamp": "2004-02-01T04:27:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-02-01",
  "sha256": "ae00b18a0a6a76ea9da1d0728ec0345b13dd09eba7435c1e4fcca4c298cd8fa4",
  "tags": [

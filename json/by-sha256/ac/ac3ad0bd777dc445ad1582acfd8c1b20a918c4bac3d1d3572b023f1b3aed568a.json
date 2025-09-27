@@ -7,30 +7,27 @@
   "copper>=1.19"
  ],
  "description": "Medium sized castle / medieval sewers map with Makkon textures. The author's first release.",
- "files": [
-  {
+ "files": {
+  "arttis01.txt": {
    "bytes": 1715,
-   "path": "arttis01.txt",
    "sha256": "40d3fc3fbb13eb49f26a943c71c80d25307987d1771cb2c61969b3870c5ec2f1",
    "timestamp": "2022-09-29T16:21:30.000Z"
   },
-  {
+  "maps/arttis01.bsp": {
    "bytes": 31923540,
-   "path": "maps/arttis01.bsp",
    "sha256": "7121728b254b7928013237ea7ab8ac3993d1825c494b7b5dbcb8966d0800ddf9",
    "timestamp": "2022-09-26T09:37:16.000Z"
   },
-  {
+  "maps/arttis01.lit": {
    "bytes": 1279316,
-   "path": "maps/arttis01.lit",
    "sha256": "e5ae9613f1d8df699c7e46e3880ffdd5599631471bdf559a0d5963f953f50e8d",
    "timestamp": "2022-09-26T09:37:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "UPDATE, 31 October 2022: <a href=\"9a18438b2a4dc504ad8e9c929e9ca7c1affa5226c22bf025a7608b481c60d750\">v1.2</a> fixes a bug with the silver key. v1.0 is obsolete and not recommended.",
   "Probably requires a modern engine / source port with increased limits.",

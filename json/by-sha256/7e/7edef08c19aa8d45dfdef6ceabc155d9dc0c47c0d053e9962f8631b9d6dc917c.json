@@ -4,30 +4,27 @@
  ],
  "bytes": 5162171,
  "description": "Medium-sized medieval towers in a mine canyon with many secret areas that allow for somewhat nonlinear gameplay, a built-in skill selection area, and custom medieval-themed items. The map source is included in the pak.",
- "files": [
-  {
+ "files": {
+  "ivory1b_readme.txt": {
    "bytes": 6497,
-   "path": "ivory1b_readme.txt",
    "sha256": "de21baa8b9eb1ffe155763e9261746c3f2af2b9b2b0f9014037975c054a0f835",
    "timestamp": "2013-09-28T08:38:34.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 14594703,
-   "path": "pak0.pak",
    "sha256": "d617de193bc1397c03f5fdce38b0da2416db2e8d6743d325647164ff3453ac43",
    "timestamp": "2013-09-28T12:46:14.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 194557,
-   "path": "pak1.pak",
    "sha256": "efea04d138e948d9501f770308e65f06dede9aa6cbacfa3c90f569d61e18c4ba",
    "timestamp": "2013-09-28T12:46:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ivory/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

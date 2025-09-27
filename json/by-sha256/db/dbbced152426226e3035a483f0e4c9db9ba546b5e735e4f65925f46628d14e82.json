@@ -4,24 +4,22 @@
  ],
  "bytes": 987456,
  "description": "Large, detailed industrial map using Speedbase textures.",
- "files": [
-  {
+ "files": {
+  "could.bsp": {
    "bytes": 2522384,
-   "path": "could.bsp",
    "sha256": "2c51f8d2bdb3bbfaac13985a743c1baafc492d2cf5cdc56009f28762b0790714",
    "timestamp": "2003-09-02T15:31:18.000Z"
   },
-  {
+  "could.txt": {
    "bytes": 4504,
-   "path": "could.txt",
    "sha256": "e9166d0e8650d37cfc9f7110ba726b4650fb91d09b05e2cea8a2dca3a4e35b74",
    "timestamp": "2003-09-02T15:54:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-09-02",
  "sha256": "dbbced152426226e3035a483f0e4c9db9ba546b5e735e4f65925f46628d14e82",
  "tags": [

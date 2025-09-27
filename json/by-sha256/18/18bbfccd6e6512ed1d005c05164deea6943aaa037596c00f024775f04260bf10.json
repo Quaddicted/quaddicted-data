@@ -4,24 +4,22 @@
  ],
  "bytes": 686632,
  "description": "Large Base map. Part of the LFSP series (unit 2).",
- "files": [
-  {
+ "files": {
+  "lfsp4.bsp": {
    "bytes": 1675204,
-   "path": "lfsp4.bsp",
    "sha256": "d22ecbb7ad6bab5fc75ccdd1249592d2490a7e225e53bda632d1711f115af476",
    "timestamp": "2000-01-01T19:09:52.000Z"
   },
-  {
+  "lfsp4.txt": {
    "bytes": 1182,
-   "path": "lfsp4.txt",
    "sha256": "aa1ac9cb12490553ca0ef646dcde4f67d68d6664b21a45859e3176e7887a3d76",
    "timestamp": "2000-01-01T20:13:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-01-01",
  "sha256": "18bbfccd6e6512ed1d005c05164deea6943aaa037596c00f024775f04260bf10",
  "tags": [

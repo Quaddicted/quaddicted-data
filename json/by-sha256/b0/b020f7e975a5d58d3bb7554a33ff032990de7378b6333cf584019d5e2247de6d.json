@@ -7,24 +7,22 @@
   "quoth>=2.0"
  ],
  "description": "A large tower-like Quoth single player map with an unusual texture theme and independent puzzles/traps routes, originally started for the <a href=\"d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f\">Vertical Competition</a> (=768*768 base with unlimited vertical height, no player teleportation).",
- "files": [
-  {
+ "files": {
+  "768_negke.bsp": {
    "bytes": 7802764,
-   "path": "768_negke.bsp",
    "sha256": "a5492b4e6318729bf2df8b0bc57af5ae53bbb47e17717593fee7fbe9d1db63c3",
    "timestamp": "2008-08-01T13:45:06.000Z"
   },
-  {
+  "768_negke.txt": {
    "bytes": 4357,
-   "path": "768_negke.txt",
    "sha256": "8a9033fe3cadb2bf672164126f42d8d9d5ee17eba7d62c359aa0216dfbb0dcbe",
    "timestamp": "2008-08-01T13:45:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

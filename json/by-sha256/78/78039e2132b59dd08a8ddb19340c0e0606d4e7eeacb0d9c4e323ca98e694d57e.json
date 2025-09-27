@@ -13,30 +13,27 @@
  ],
  "bytes": 95532573,
  "description": "Episode with 10 around medium-sized levels plus small start/end/credits maps in various themes, including bases, temples, citadels, towns and dungeons. The goal was to create an \"unofficial 6th episode\" similar to <a href=\"6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381\">DOPA</a>. The levels are based on the Progs_dump mod (included) and feature some additional content like models, skyboxes and custom music tracks (in OGG format).",
- "files": [
-  {
+ "files": {
+  "eoe/eoe.pdf": {
    "bytes": 116200,
-   "path": "eoe/eoe.pdf",
    "sha256": "5000251c88b6ded95ebf67bcd123a725d272931e968fce7951f4ba3902c0609a",
    "timestamp": "2020-10-21T04:32:26.000Z"
   },
-  {
+  "eoe/eoe.txt": {
    "bytes": 1078,
-   "path": "eoe/eoe.txt",
    "sha256": "76866cd0fa90a1425c39f93ed1cd4615bc0624d2a6d1d04f272fcd68c067b129",
    "timestamp": "2020-10-19T03:41:22.000Z"
   },
-  {
+  "eoe/pak0.pak": {
    "bytes": 232396172,
-   "path": "eoe/pak0.pak",
    "sha256": "44a9771342e4a47e0e016a5e6d9bd2e1046396c796919bcaccd17f23a765d189",
    "timestamp": "2020-10-21T16:26:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A hotfix for a progression stopper on eoe7 (only occurs on easy skill) is available <a href=\"http://www.quaketastic.com/files/single_player/maps/eoem7_fix.zip\">here</a>.",
   "These maps require a source port with increased limits + BSP2 support."

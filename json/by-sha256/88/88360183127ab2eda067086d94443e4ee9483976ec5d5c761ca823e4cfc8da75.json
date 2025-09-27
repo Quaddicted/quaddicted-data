@@ -4,24 +4,22 @@
  ],
  "bytes": 858434,
  "description": "Simple medium sized Metal map with a Chthon boss fight.",
- "files": [
-  {
+ "files": {
+  "PYRO4.BSP": {
    "bytes": 1923240,
-   "path": "PYRO4.BSP",
    "sha256": "f84b34ed083d445fde7755dd60759b41dc1f657c5da9cdc2c875d023a7426314",
    "timestamp": "1997-04-03T04:04:16.000Z"
   },
-  {
+  "PYRO4.TXT": {
    "bytes": 3325,
-   "path": "PYRO4.TXT",
    "sha256": "63116145a3eec52001cb0135e4ba2e693ed94a5bad6e48b06d70e3ca9b6284cf",
    "timestamp": "1997-04-03T08:06:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-03",
  "sha256": "88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75",
  "tags": [

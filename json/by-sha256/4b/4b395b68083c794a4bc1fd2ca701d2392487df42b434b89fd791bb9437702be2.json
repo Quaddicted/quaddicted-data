@@ -4,54 +4,47 @@
  ],
  "bytes": 26744012,
  "description": "Large medieval castle with several nightly courtyards. It runs on the Progs_dump mod (included) and comes with a few custom models, sounds, a skybox and a music track. The map and qc sources are included.",
- "files": [
-  {
+ "files": {
+  "jpqm9/README - jpqm9 - Greymoor.txt": {
    "bytes": 4137,
-   "path": "jpqm9/README - jpqm9 - Greymoor.txt",
    "sha256": "8b64da5bd81d53701cf5cc5e69124130efe7fea181bffb48c2e7d32b6731c677",
    "timestamp": "2021-03-19T10:24:10.000Z"
   },
-  {
+  "jpqm9/map src/": {
    "bytes": 0,
-   "path": "jpqm9/map src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-03-19T10:23:18.000Z"
   },
-  {
+  "jpqm9/map src/jpqm9.map": {
    "bytes": 27104409,
-   "path": "jpqm9/map src/jpqm9.map",
    "sha256": "e6532b32abd6851e86d107dc678ca1eee78838cbf4e02f4195c6fc7d679a87e2",
    "timestamp": "2021-03-19T10:10:34.000Z"
   },
-  {
+  "jpqm9/music/": {
    "bytes": 0,
-   "path": "jpqm9/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-03-19T09:18:10.000Z"
   },
-  {
+  "jpqm9/music/Track102.ogg": {
    "bytes": 3223426,
-   "path": "jpqm9/music/Track102.ogg",
    "sha256": "acea2a2073c88f1bea8f35c90cfe3f68cb52a0a79d940dae89148a64352733d1",
    "timestamp": "2021-03-19T09:18:10.000Z"
   },
-  {
+  "jpqm9/pak0.pak": {
    "bytes": 64185983,
-   "path": "jpqm9/pak0.pak",
    "sha256": "accbe03c75e42a22b8b67d4e8788a002e28184eef5b18ba870a94fd7dac316bd",
    "timestamp": "2021-03-19T10:23:44.000Z"
   },
-  {
+  "jpqm9/progs_dump-devkit-readme.txt": {
    "bytes": 5611,
-   "path": "jpqm9/progs_dump-devkit-readme.txt",
    "sha256": "59be3f7ae9636a369eb991cbb946604fb0d988711de4ebd5426b028a8ae2749b",
    "timestamp": "2021-02-06T13:09:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support",
   "An updated version is available <a href=\"https://www.quaddicted.com/filebase/jpqm9_upd.zip\">here</a>."

@@ -4,30 +4,27 @@
  ],
  "bytes": 754181,
  "description": "Small dark wizard-themed level in a classic id1 style with some puzzle elements, for vanilla Quake. An update of <a href=\"c56bc095cddb401223b30a0fde0abb69903ef16880c79bbe5462a3b8691ed8d2\">Deepest Oblivion (2019)</a>. Map source is included.",
- "files": [
-  {
+ "files": {
+  "rgdeep.bsp": {
    "bytes": 1530560,
-   "path": "rgdeep.bsp",
    "sha256": "fe2bf74d6b5ff767a17b34d0af3fe8aa8db2e594ea43ec6d1c9e1e12c167e680",
    "timestamp": "2022-12-06T22:32:54.000Z"
   },
-  {
+  "rgdeep.map": {
    "bytes": 1092811,
-   "path": "rgdeep.map",
    "sha256": "60cca8dd454b7affc1e351a34729b2f61ab55e1d5e8272a461273c0a51088576",
    "timestamp": "2022-12-06T22:34:26.000Z"
   },
-  {
+  "rgdeep.txt": {
    "bytes": 2617,
-   "path": "rgdeep.txt",
    "sha256": "bc7d61bf28c68bc821a936e382a4ca2492be8ee20f7b664fe5cd1c949dcfac8c",
    "timestamp": "2022-12-11T13:39:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2022-12-11",
  "sha256": "bc1e819702fe80dc80dcb22814cb71b0c5c520b53a91c27c0b3303ccd91e3ddb",
  "tags": [

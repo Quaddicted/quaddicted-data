@@ -4,24 +4,22 @@
  ],
  "bytes": 528163,
  "description": "Small base-y map with a pool, traps and an outside area.",
- "files": [
-  {
+ "files": {
+  "BASE-N.BSP": {
    "bytes": 1378736,
-   "path": "BASE-N.BSP",
    "sha256": "5d4e90782cc01fd3fff9e4a27641a298271ae4197d2067bd1f287c8580044d6c",
    "timestamp": "1997-09-15T21:15:30.000Z"
   },
-  {
+  "BASE-N.TXT": {
    "bytes": 2247,
-   "path": "BASE-N.TXT",
    "sha256": "75f4070da1039b45990fbd3dc0b20ecfb0df0d6a49676fa964fc8c65e2e3f7d4",
    "timestamp": "1997-09-15T21:11:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-14",
  "sha256": "76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056",
  "tags": [

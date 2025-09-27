@@ -4,36 +4,32 @@
  ],
  "bytes": 4697284,
  "description": "Large idbase textured map with a high monster count, plus a tricky platforming section. The author's first map for Quake.",
- "files": [
-  {
+ "files": {
+  "spasp1.bsp": {
    "bytes": 7441960,
-   "path": "spasp1.bsp",
    "sha256": "0fd0f23efead573c27b98450d44da1164ea838738e246c95dc5ec54da59be6aa",
    "timestamp": "2024-04-27T00:37:56.000Z"
   },
-  {
+  "spasp1.lit": {
    "bytes": 2777510,
-   "path": "spasp1.lit",
    "sha256": "88bfc9a584586a772d630c6341637f1a3c2601becf28b8f4034f50f0cc2455bd",
    "timestamp": "2024-04-27T00:37:56.000Z"
   },
-  {
+  "spasp1.map": {
    "bytes": 9256229,
-   "path": "spasp1.map",
    "sha256": "e538918aa2164d5f4e2677ae76d261fc36db1439e8bf34a5444fd6ac375fb3ec",
    "timestamp": "2024-04-27T00:37:20.000Z"
   },
-  {
+  "spasp1_readme.txt": {
    "bytes": 3734,
-   "path": "spasp1_readme.txt",
    "sha256": "bc9218fcdfeae45aa6e16a2802206da0ce0f043e7af09a2223173bb4791e9a7c",
    "timestamp": "2024-04-27T03:48:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires a source port with increased limits / BSP2 support."
  ],

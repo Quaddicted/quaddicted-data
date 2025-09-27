@@ -7,30 +7,27 @@
   "its_demo>=1.1"
  ],
  "description": "Medium-sized medieval level for <a href=\"38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2\">In the Shadows</a>, featuring both stealth and regular gameplay. The map source is included.",
- "files": [
-  {
+ "files": {
+  "maps/dr57-itsd2-deufel.bsp": {
    "bytes": 11176980,
-   "path": "maps/dr57-itsd2-deufel.bsp",
    "sha256": "90a4ea4b36517eb247648c9c99f1de96144bc829ddf5882ce7de1de3409b2906",
    "timestamp": "2021-12-08T07:37:44.000Z"
   },
-  {
+  "maps/dr57-itsd2-deufel.map": {
    "bytes": 5029108,
-   "path": "maps/dr57-itsd2-deufel.map",
    "sha256": "b14396b3d587d5d733a69638d9f7b8d1b8ca5e8716c05abcac7e1a87f976111a",
    "timestamp": "2021-12-08T06:59:26.000Z"
   },
-  {
+  "maps/dr57-itsd2-deufel.txt": {
    "bytes": 2028,
-   "path": "maps/dr57-itsd2-deufel.txt",
    "sha256": "fece053bf96df69028c096b9f4a05b0683d259a1124b02efefa479df69c74c33",
    "timestamp": "2021-12-08T07:29:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/shadows/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2\">In the Shadows</a> and a source port with BSP2 support."
  ],

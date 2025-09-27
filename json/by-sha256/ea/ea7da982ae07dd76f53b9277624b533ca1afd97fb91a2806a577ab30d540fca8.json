@@ -4,36 +4,32 @@
  ],
  "bytes": 1218390,
  "description": "Around medium sized map - an attempt at recreating \"the squalid east end of London of the Victorian era a time of gas lamp shadows alleyways and the worlds first serial killer\" (Jack the Ripper).",
- "files": [
-  {
+ "files": {
+  "deadstuf.zip": {
    "bytes": 233014,
-   "path": "deadstuf.zip",
    "sha256": "5b2199ecfe5f96d316ab930018858b335b784becde34999378dedecb3e567b41",
    "timestamp": "1997-06-02T10:26:10.000Z"
   },
-  {
+  "fromhell.txt": {
    "bytes": 4578,
-   "path": "fromhell.txt",
    "sha256": "2a2b994c9262711f0c4482883149d930b859e4fa141e90437bd69c2202ef98bd",
    "timestamp": "1997-10-01T10:44:32.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 2255108,
-   "path": "pak0.pak",
    "sha256": "0dc24c9fce7911be59ca08890f2b646df5c72c70b5d3a7c772fd57a03b805ada",
    "timestamp": "1997-10-01T10:24:02.000Z"
   },
-  {
+  "sexdroid.zip": {
    "bytes": 90987,
-   "path": "sexdroid.zip",
    "sha256": "30d5d8c1bf1dfdf84ee9e97146bb37752b2b653883f8874c29683e42a99551ce",
    "timestamp": "1997-06-23T13:12:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/fromhell/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-01",
  "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "tags": [

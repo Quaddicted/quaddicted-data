@@ -8,48 +8,42 @@
  ],
  "bytes": 1434686,
  "description": "Unthemed / 5 __ maps / drew, Leviathan, PuLSaR, Scampie, Zwiffle",
- "files": [
-  {
+ "files": {
+  "sm61_PuLSaR.bsp": {
    "bytes": 1308340,
-   "path": "sm61_PuLSaR.bsp",
    "sha256": "021fcd7c5330368d55c226c8b578a78e02f175f81bb3ccc65350bbd9d595ea2a",
    "timestamp": "1997-06-27T11:52:24.000Z"
   },
-  {
+  "sm61_drew.bsp": {
    "bytes": 655968,
-   "path": "sm61_drew.bsp",
    "sha256": "e0ca6e316d2ceb5726dd0057bd84c9a1f536ed1ea487bddba484ce4d93508eac",
    "timestamp": "2003-12-12T03:01:06.000Z"
   },
-  {
+  "sm61_lev.bsp": {
    "bytes": 202880,
-   "path": "sm61_lev.bsp",
    "sha256": "54df979d8c720e489b329dc0f79c723f7d9a1a09907ff6239dfd8bf65d65796d",
    "timestamp": "2003-12-20T18:31:08.000Z"
   },
-  {
+  "sm61_pack.txt": {
    "bytes": 1449,
-   "path": "sm61_pack.txt",
    "sha256": "598868d1f69db5f4372dd0a33994f30a2bdb6800f78fc3bdbd7dcc0b3a293e58",
    "timestamp": "2003-12-21T01:02:26.000Z"
   },
-  {
+  "sm61_scampie.bsp": {
    "bytes": 588408,
-   "path": "sm61_scampie.bsp",
    "sha256": "172f5d68102e0cc0b392d4b028a9a044831c1b67e5bf733dbf572d4c7b7ac4ff",
    "timestamp": "2001-09-03T10:01:28.000Z"
   },
-  {
+  "sm61_zwiffle.bsp": {
    "bytes": 1241556,
-   "path": "sm61_zwiffle.bsp",
    "sha256": "77a001288f2cb03005f86cc55889df119e3c8b69a64e8a5e357120afb2cf2305",
    "timestamp": "2003-12-17T22:15:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-12-21",
  "sha256": "74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc",
  "tags": [

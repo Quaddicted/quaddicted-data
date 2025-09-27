@@ -4,30 +4,27 @@
  ],
  "bytes": 974397,
  "description": "Medium sized Base map with non-linear gameplay. Map source is included.",
- "files": [
-  {
+ "files": {
+  "GENETIX.TXT": {
    "bytes": 3963,
-   "path": "GENETIX.TXT",
    "sha256": "a7790fb7fd0ac3e5dc66034c47fb4be80d3a15ea049b4c5a99bfc2b7ad75b5ee",
    "timestamp": "1997-12-31T23:34:40.000Z"
   },
-  {
+  "Genetix.DMM": {
    "bytes": 265514,
-   "path": "Genetix.DMM",
    "sha256": "96bb918cdbecfa9e4086e48101c8d1d5069bf8f946f0076818493c4a1c7058e8",
    "timestamp": "1997-12-31T13:20:34.000Z"
   },
-  {
+  "genetix.bsp": {
    "bytes": 1789136,
-   "path": "genetix.bsp",
    "sha256": "604c70ad4dc7cc2a31d248652a08d737586314c33774e1201dc110013fe7597a",
    "timestamp": "1997-12-31T23:05:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-12-31",
  "sha256": "abe5926c7e2ea7bc02522865c6edc4eaab6934be9a171554111ccff83fa90f41",
  "tags": [

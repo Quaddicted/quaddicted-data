@@ -4,24 +4,22 @@
  ],
  "bytes": 859996,
  "description": "E1M1 of Wolfenstein 3D, complete with original textures and layout. Uses some SOA entities.",
- "files": [
-  {
+ "files": {
+  "WOLF3D.bsp": {
    "bytes": 2232048,
-   "path": "WOLF3D.bsp",
    "sha256": "6b781619b0179f919b1c28945ec04f72946bfeacc0246c2738a930ef61f382cd",
    "timestamp": "1997-10-12T05:50:56.000Z"
   },
-  {
+  "wolf.txt": {
    "bytes": 2131,
-   "path": "wolf.txt",
    "sha256": "091ef25a40c73bcec1f468652ba63d185022b3cb7a5a3b0d7024e5beadc1dc98",
    "timestamp": "1997-10-12T08:23:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-12",
  "sha256": "b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072",
  "tags": [

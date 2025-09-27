@@ -4,30 +4,27 @@
  ],
  "bytes": 7148510,
  "description": "The demo version of an unfinished Quake episode. Contains three medium to large SP maps and a skill selection map, and features some environmental and monster modifications.",
- "files": [
-  {
+ "files": {
+  "kaiser/": {
    "bytes": 0,
-   "path": "kaiser/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2010-01-17T22:00:30.000Z"
   },
-  {
+  "kaiser/pak0.pak": {
    "bytes": 26667123,
-   "path": "kaiser/pak0.pak",
    "sha256": "2dafe2eb74304290ba7ef6491da1f3bc3ae2a878daf00d252033eee25bb84b7f",
    "timestamp": "2010-01-10T21:39:14.000Z"
   },
-  {
+  "kq_readme.txt": {
    "bytes": 2527,
-   "path": "kq_readme.txt",
    "sha256": "dda1d8472993ee1f458bd69da6ec1ec848dcadeb9d055e53310ba83972e091c8",
    "timestamp": "2010-01-17T22:01:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2010-01-17",
  "sha256": "584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee",
  "tags": [

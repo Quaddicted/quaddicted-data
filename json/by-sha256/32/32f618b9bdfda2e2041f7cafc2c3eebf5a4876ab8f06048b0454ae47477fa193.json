@@ -4,24 +4,22 @@
  ],
  "bytes": 787339,
  "description": "Medium sized Wizard castle.",
- "files": [
-  {
+ "files": {
+  "sgc6.bsp": {
    "bytes": 1823924,
-   "path": "sgc6.bsp",
    "sha256": "b0d4e6319d5287b9a770507e61aedd38fee29e001f3ce410d85b745669e4d322",
    "timestamp": "1997-01-26T19:31:10.000Z"
   },
-  {
+  "sgc6.txt": {
    "bytes": 2024,
-   "path": "sgc6.txt",
    "sha256": "00e627adffb717687082d80d166677fbe587c120fe67f4d45c993f435e0df6cd",
    "timestamp": "1997-01-26T14:28:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-26",
  "sha256": "32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193",
  "tags": [

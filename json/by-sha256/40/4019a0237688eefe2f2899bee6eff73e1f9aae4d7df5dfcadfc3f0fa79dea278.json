@@ -4,30 +4,27 @@
  ],
  "bytes": 3336039,
  "description": "Medium sized mental asylum with new textures, some SOA code/monsters, and a few Duke Nukem remarks.",
- "files": [
-  {
+ "files": {
+  "Asylum.txt": {
    "bytes": 2486,
-   "path": "Asylum.txt",
    "sha256": "164f067ed3b80e23873808710caa379eccf2eea51cebe47ad5a8cc4510c0719c",
    "timestamp": "1997-10-28T10:37:30.000Z"
   },
-  {
+  "Config.cfg": {
    "bytes": 6443,
-   "path": "Config.cfg",
    "sha256": "797aa825e930b8d309ec99e9f6c13fb58fbcda62b821a80eac07c6169aa3d857",
    "timestamp": "1997-11-02T22:12:10.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 6739129,
-   "path": "pak0.pak",
    "sha256": "713c71661968279dd720cedc7f58abc371f289f236d1df0c489458b9c097c964",
    "timestamp": "1997-11-03T14:04:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/asylum/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-25",
  "sha256": "4019a0237688eefe2f2899bee6eff73e1f9aae4d7df5dfcadfc3f0fa79dea278",
  "tags": [

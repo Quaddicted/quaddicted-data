@@ -4,36 +4,32 @@
  ],
  "bytes": 1313072,
  "description": "Three small maps representing one. They are somewhat medieval/metal themed for the most part and have quite a few deadly traps.",
- "files": [
-  {
+ "files": {
+  "Config.cfg": {
    "bytes": 2111,
-   "path": "Config.cfg",
    "sha256": "0bae3a1fb60dc630da7f309a9b2a424e16b05a1b6a405bc38e6939758787792b",
    "timestamp": "1998-01-20T00:24:16.000Z"
   },
-  {
+  "Lastgame.bat": {
    "bytes": 31,
-   "path": "Lastgame.bat",
    "sha256": "2322a1a584bdf11a77621b12cd4fd450b85c64add15e11ee4df1101fbdf53123",
    "timestamp": "1998-01-19T19:25:28.000Z"
   },
-  {
+  "Lastgame.txt": {
    "bytes": 2077,
-   "path": "Lastgame.txt",
    "sha256": "d9c0ae96d1d69a61f61e8dcdab518122b6da1dd3c4ff02e35f89cfd2c38b702e",
    "timestamp": "1998-01-19T07:40:10.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 3202093,
-   "path": "pak0.pak",
    "sha256": "60ea782650f9760c220221367b02c52470f9bc79b3d276e0b0b3a6d8f1e9018d",
    "timestamp": "1998-01-20T00:08:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lastgame/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-01-20",
  "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [

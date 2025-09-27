@@ -7,36 +7,32 @@
   "ad>=1.80"
  ],
  "description": "Medium-sized medieval outpost in a swampy hollow with a caves and a chapel. The map source is included.",
- "files": [
-  {
+ "files": {
+  "dwabd.bsp": {
    "bytes": 6983120,
-   "path": "dwabd.bsp",
    "sha256": "2d62a39dcdb534308dba996036ef28b819544cc6cd5d5edca0e87e636df4988f",
    "timestamp": "2021-02-02T00:10:36.000Z"
   },
-  {
+  "dwabd.lit": {
    "bytes": 3204110,
-   "path": "dwabd.lit",
    "sha256": "9a00400280d13dcb53400a571e7a7d974e1194162dae6cffddfc0d95dcfe4d0e",
    "timestamp": "2021-02-02T00:10:36.000Z"
   },
-  {
+  "dwabd.map": {
    "bytes": 3899983,
-   "path": "dwabd.map",
    "sha256": "324140f3347047e4b6e71425ec087251b839738c2eecb6737885dfa83f0d3ee7",
    "timestamp": "2021-02-02T00:03:18.000Z"
   },
-  {
+  "dwabd_readme.txt": {
    "bytes": 1892,
-   "path": "dwabd_readme.txt",
    "sha256": "7d44410d489454deff7c54055ef41d257bc95f61502952d9eb521cc9f8d335f5",
    "timestamp": "2021-02-02T00:36:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> and a source port with increased limits."
  ],

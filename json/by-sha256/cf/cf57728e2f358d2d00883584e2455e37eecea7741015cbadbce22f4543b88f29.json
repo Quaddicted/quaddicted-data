@@ -4,36 +4,32 @@
  ],
  "bytes": 3359275,
  "description": "Medium-sized cathedral with a base area. The map source is included.",
- "files": [
-  {
+ "files": {
+  "bmfbrsp1.bsp": {
    "bytes": 5425968,
-   "path": "bmfbrsp1.bsp",
    "sha256": "879504c24438376fbfc974f7dcfa95ed174d44face4a8d1bbfe8be605d5151d0",
    "timestamp": "2020-08-25T21:15:10.000Z"
   },
-  {
+  "bmfbrsp1.lit": {
    "bytes": 1412396,
-   "path": "bmfbrsp1.lit",
    "sha256": "7725e745c030cb9d42e30dfe5c452d6942d39b180ad865e2599e0bb5e41d4b2b",
    "timestamp": "2020-08-25T21:15:10.000Z"
   },
-  {
+  "bmfbrsp1.map": {
    "bytes": 2220529,
-   "path": "bmfbrsp1.map",
    "sha256": "8b790aa677f9e219a70034b5aa933fafde38cdc576298bd027cebdca41e130df",
    "timestamp": "2020-08-25T21:25:16.000Z"
   },
-  {
+  "bmfbrsp1.txt": {
    "bytes": 1250,
-   "path": "bmfbrsp1.txt",
    "sha256": "e15fbadd8ad2e687747de06e1881bd63fde99cf5b3aa97e107e3c4f4f7a68c23",
    "timestamp": "2020-08-26T11:21:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

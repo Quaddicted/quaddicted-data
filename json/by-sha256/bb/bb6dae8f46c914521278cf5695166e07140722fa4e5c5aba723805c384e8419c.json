@@ -4,114 +4,97 @@
  ],
  "bytes": 24294384,
  "description": "Medium-sized medieval castle map. Map source and custom skybox is included. Custom music is included too, but the map hasn't been configured to use it.",
- "files": [
-  {
+ "files": {
+  "Castle Attack 1.png": {
    "bytes": 493802,
-   "path": "Castle Attack 1.png",
    "sha256": "34441fb10a403adae11f1f885e56f39c44ca235a24a00045823c42e696453e3a",
    "timestamp": "2022-04-22T21:34:58.000Z"
   },
-  {
+  "Castle Attack 2.png": {
    "bytes": 469313,
-   "path": "Castle Attack 2.png",
    "sha256": "81a74e50742435fce4b1366518a5ec58bd748be9e2fc56c457a6374652c8e7e0",
    "timestamp": "2022-05-09T09:33:04.000Z"
   },
-  {
+  "castle_attack.txt": {
    "bytes": 1721,
-   "path": "castle_attack.txt",
    "sha256": "2056889b8a5cab8579847265673289426b6ded82f79cd7a0a8ed5c66181e2db6",
    "timestamp": "2022-05-26T11:14:06.000Z"
   },
-  {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-04-28T21:22:06.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-05-25T21:19:06.000Z"
   },
-  {
+  "gfx/env/overcast_bk.tga": {
    "bytes": 4827886,
-   "path": "gfx/env/overcast_bk.tga",
    "sha256": "91fbe662fa31a9e9f9bf512de993c5e6a7217c6741d2286e3e3ae0860a154430",
    "timestamp": "2007-08-21T16:24:20.000Z"
   },
-  {
+  "gfx/env/overcast_dn.tga": {
    "bytes": 2193268,
-   "path": "gfx/env/overcast_dn.tga",
    "sha256": "504f1f836be92dfa8b02d7310dfecfa768ae02d54ead4348baf4c5534092d5d8",
    "timestamp": "2007-08-21T16:24:30.000Z"
   },
-  {
+  "gfx/env/overcast_ft.tga": {
    "bytes": 5971972,
-   "path": "gfx/env/overcast_ft.tga",
    "sha256": "37ffcd8af893c19eea843c9abbbb5abdb89f06ee6650544780f800024a11fed7",
    "timestamp": "2007-08-21T16:24:38.000Z"
   },
-  {
+  "gfx/env/overcast_lf.tga": {
    "bytes": 6546623,
-   "path": "gfx/env/overcast_lf.tga",
    "sha256": "c9701cd203713f51716df51f8c1678f2812d1abb33eaa4cdfef638976713ebec",
    "timestamp": "2007-08-21T16:24:52.000Z"
   },
-  {
+  "gfx/env/overcast_rt.tga": {
    "bytes": 4990160,
-   "path": "gfx/env/overcast_rt.tga",
    "sha256": "2e00fa4da23312e1309e7c74afcf315db6c5b217dcf87b445dca5fedddf1561d",
    "timestamp": "2007-08-21T16:24:44.000Z"
   },
-  {
+  "gfx/env/overcast_up.tga": {
    "bytes": 4318074,
-   "path": "gfx/env/overcast_up.tga",
    "sha256": "7736a3f450b5ee91d38ea5d02d953d72ae258b9e15504e0ced3e14b2c8273090",
    "timestamp": "2007-08-21T16:24:58.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-05-25T21:19:34.000Z"
   },
-  {
+  "maps/castle_attack.bsp": {
    "bytes": 4604808,
-   "path": "maps/castle_attack.bsp",
    "sha256": "6e1eff6e486d242bb33b95ca499b9a10ced248788221ef52ea35eafd407fde61",
    "timestamp": "2022-06-13T00:05:36.000Z"
   },
-  {
+  "maps/castle_attack.map": {
    "bytes": 2206225,
-   "path": "maps/castle_attack.map",
    "sha256": "1620b838c001a5ac3612c0ef363c29abbbe95e1d73910f619eed14e9e9cf180b",
    "timestamp": "2022-06-13T00:01:22.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-05-25T21:40:48.000Z"
   },
-  {
+  "music/track76.mp3": {
    "bytes": 5543564,
-   "path": "music/track76.mp3",
    "sha256": "932e164781a591a366107694576624796233b50f667a00fc0bc65bea6ca0a78c",
    "timestamp": "2022-05-26T10:33:14.000Z"
   },
-  {
+  "music/track76.ogg": {
    "bytes": 5323275,
-   "path": "music/track76.ogg",
    "sha256": "d05707527308d7041572172514c400bb4da8ce611a7a877ce2b41b96f90204ce",
    "timestamp": "2022-05-25T22:45:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2022-05-26",
  "sha256": "bb6dae8f46c914521278cf5695166e07140722fa4e5c5aba723805c384e8419c",
  "tags": [

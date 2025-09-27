@@ -5,24 +5,22 @@
  "bytes": 3871715,
  "current_main_group_package": true,
  "description": "Blue medieval episode with 4 levels (+start/end map), some new monsters and fairly tough gameplay.",
- "files": [
-  {
+ "files": {
+  "coe_readme.txt": {
    "bytes": 4784,
-   "path": "coe_readme.txt",
    "sha256": "5b8c97119aab126dc127ecdf5ae8ec0a722d4c1b3709dcacc686f8e3fe8956eb",
    "timestamp": "2000-12-16T11:48:46.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 9660259,
-   "path": "pak0.pak",
    "sha256": "335aa77c31d1833cf158982fde161a49043f8db6a420d8b01bb61857a5bd72bc",
    "timestamp": "2000-12-07T15:15:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/coe/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A patch is available here: <a href=\"8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac\">coe_p</a>."
  ],

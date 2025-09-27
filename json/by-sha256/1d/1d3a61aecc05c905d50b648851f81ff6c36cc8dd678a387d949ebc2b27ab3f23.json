@@ -7,30 +7,27 @@
  ],
  "bytes": 2414882,
  "description": "Chain map consisting of five speedmapped 'sections' by various authors, idbase themed and set underground, with a somewhat vertical layout. The map source is included.",
- "files": [
-  {
+ "files": {
+  "pak0.PAK": {
    "bytes": 4746020,
-   "path": "pak0.PAK",
    "sha256": "d5e967aaa7cd3afec886489a2080b5a9e19bd0cf91b880dda529761266c25ea9",
    "timestamp": "2002-10-08T00:28:32.000Z"
   },
-  {
+  "sm36.txt": {
    "bytes": 11648,
-   "path": "sm36.txt",
    "sha256": "01554b5644bab77306926d00926a67b42bc351804d2937f980932f6bc336d341",
    "timestamp": "2002-10-07T23:41:26.000Z"
   },
-  {
+  "sm36_source.zip": {
    "bytes": 450831,
-   "path": "sm36_source.zip",
    "sha256": "745965a882e6aca5c47deb757f5753142c391d6d87969df211afde1b778a3cd6",
    "timestamp": "2002-10-07T23:45:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/sm36/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-10-08",
  "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "tags": [

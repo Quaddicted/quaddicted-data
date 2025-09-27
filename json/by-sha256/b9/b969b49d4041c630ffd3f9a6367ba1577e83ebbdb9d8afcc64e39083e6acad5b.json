@@ -4,24 +4,22 @@
  ],
  "bytes": 849314,
  "description": "Medium sized Base/mine map with a Medieval temple area.",
- "files": [
-  {
+ "files": {
+  "coopmine.bsp": {
    "bytes": 2048928,
-   "path": "coopmine.bsp",
    "sha256": "78009702b727577b96e158d59ed49b67da5ed5b8a5b9e084bfcb88915fc5c6a0",
    "timestamp": "1997-08-16T14:27:24.000Z"
   },
-  {
+  "coopmine.txt": {
    "bytes": 3580,
-   "path": "coopmine.txt",
    "sha256": "0799beff34bf79e2ae52dbd7814399c2536bc336ed9b0905117fcb49fb92315d",
    "timestamp": "1997-08-16T15:33:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-16",
  "sha256": "b969b49d4041c630ffd3f9a6367ba1577e83ebbdb9d8afcc64e39083e6acad5b",
  "tags": [

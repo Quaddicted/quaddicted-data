@@ -4,132 +4,112 @@
  ],
  "bytes": 5990942,
  "description": "Fixed version of <a href=\"e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af\">sop123</a> by Bengt Jardrup. Mini SP campaign consisting of three medium sized outdoor levels (+ start map) in Wizard/Canyon/Egyptian style. Uses custents and has a few new monsters like improved Grunts/Ogres and Mechs.",
- "files": [
-  {
+ "files": {
+  "Readme1st.txt": {
    "bytes": 5986,
-   "path": "Readme1st.txt",
    "sha256": "1343904673b4cfbd57332eeb11156a422649e35e4133b558533c12f1fd6220e3",
    "timestamp": "2003-05-25T14:06:06.000Z"
   },
-  {
+  "SOPv1.TXT": {
    "bytes": 3960,
-   "path": "SOPv1.TXT",
    "sha256": "689001d84e982beb34fbad7a1f793ad8f5d6bb56067593775e79ddc4ef82fe42",
    "timestamp": "1997-12-17T11:48:18.000Z"
   },
-  {
+  "glquake/": {
    "bytes": 0,
-   "path": "glquake/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2003-06-10T18:18:26.000Z"
   },
-  {
+  "glquake/arrow.ms2": {
    "bytes": 1320,
-   "path": "glquake/arrow.ms2",
    "sha256": "fbe0b39f00a89405898a2fa6d34a0b876578194d31a2ff4e3ab4da2bd62fd31c",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/babysham.ms2": {
    "bytes": 5520,
-   "path": "glquake/babysham.ms2",
    "sha256": "3d3b3d80532b25684b7611fd48e0b54bb727e10b48889ea7025632c5fc88e6ac",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/beam.ms2": {
    "bytes": 728,
-   "path": "glquake/beam.ms2",
    "sha256": "aedf5b76a40dd53dfff0696688e105bacc5fdd18ca6dc594be612188c8d3bac5",
    "timestamp": "2003-06-10T18:18:28.000Z"
   },
-  {
+  "glquake/bs_light.ms2": {
    "bytes": 1084,
-   "path": "glquake/bs_light.ms2",
    "sha256": "33a4667df97f5d8dab3e586d3f307aa1c8043072318ef445c9af9c0c62205668",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/candle.ms2": {
    "bytes": 776,
-   "path": "glquake/candle.ms2",
    "sha256": "37590e22728f42d8b8c42f3171212f899a558111cb8571bed57c42bb15dc2c9f",
    "timestamp": "2003-06-10T18:19:30.000Z"
   },
-  {
+  "glquake/h_bsham.ms2": {
    "bytes": 1244,
-   "path": "glquake/h_bsham.ms2",
    "sha256": "165f62b2033e403d38593f2b21d53c8e70cdd1d947f365b7843024af424f3717",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/h_servo.ms2": {
    "bytes": 1904,
-   "path": "glquake/h_servo.ms2",
    "sha256": "e0b104b45a26746ad6f2b056ca1a8ebbe7599047d07f4b2f8f285b0a3b6eec12",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/rubble2.ms2": {
    "bytes": 1780,
-   "path": "glquake/rubble2.ms2",
    "sha256": "298f9a7db42c449f50a0047991f82ab5a7c19b87272beea39ada96457ca595b8",
    "timestamp": "2003-06-10T18:19:30.000Z"
   },
-  {
+  "glquake/rubble3.ms2": {
    "bytes": 420,
-   "path": "glquake/rubble3.ms2",
    "sha256": "90490816eafc3cd873adcb7a78235cd2cf998cd09db04ad8c936a47e516f7005",
    "timestamp": "2003-06-10T18:19:30.000Z"
   },
-  {
+  "glquake/servobod.ms2": {
    "bytes": 2552,
-   "path": "glquake/servobod.ms2",
    "sha256": "8180af776d9f2c35a9cbbef3ee71db41a4f3afa7bfdf1134f145f76baf286b01",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/servodie.ms2": {
    "bytes": 7508,
-   "path": "glquake/servodie.ms2",
    "sha256": "315cbbeb3c0ed019df28f7641d9614d1f3dfeab2b7a6398da5004f4c26379e3b",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/servoleg.ms2": {
    "bytes": 4968,
-   "path": "glquake/servoleg.ms2",
    "sha256": "ad5f718c7dfa6bb920c79eba1eb827c97ad80e5200a3845be24a28a1cbc3a3c1",
    "timestamp": "2003-06-10T18:56:18.000Z"
   },
-  {
+  "glquake/v_beam.ms2": {
    "bytes": 6756,
-   "path": "glquake/v_beam.ms2",
    "sha256": "b3a1b9d55cdbfd82fb22130956dafc755e13c9cdff51e39342485c74bf348309",
    "timestamp": "2003-06-10T18:18:28.000Z"
   },
-  {
+  "glquake/v_beam2.ms2": {
    "bytes": 6756,
-   "path": "glquake/v_beam2.ms2",
    "sha256": "b3a1b9d55cdbfd82fb22130956dafc755e13c9cdff51e39342485c74bf348309",
    "timestamp": "2003-06-10T18:18:28.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 18049945,
-   "path": "pak0.pak",
    "sha256": "ada57c5fda7148c7f5d976e38e117ccdaa3c2f44c285386d052ae9a5e20f1ff5",
    "timestamp": "2003-05-25T21:42:02.000Z"
   },
-  {
+  "sopv2.txt": {
    "bytes": 11192,
-   "path": "sopv2.txt",
    "sha256": "894d48fabf6e65ab76e34dc4157018aabac7ac2a534aa0d418a295d07126d51c",
    "timestamp": "1999-08-01T16:28:24.000Z"
   },
-  {
+  "sopv3.txt": {
    "bytes": 4575,
-   "path": "sopv3.txt",
    "sha256": "34e43ac50f81d9b0c443b83c83a9f043b1807a14a469afb51baafd51da76caa5",
    "timestamp": "1999-08-01T17:09:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/sop/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "sop_v2": "1.0"
  },

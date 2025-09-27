@@ -7,72 +7,62 @@
   "alkaline>=1.10"
  ],
  "description": "Large sci-fi base map with Makkon textures. Custom music is \"Flow\" by Anna Centauri. This is version 1.1 which adds more details, bug fixes, and encounters.",
- "files": [
-  {
+ "files": {
+  "aesop_power1.1.txt": {
    "bytes": 6146,
-   "path": "aesop_power1.1.txt",
    "sha256": "2c51cfba0bff8691da1e8e6b4ca5a4d34475c41e68d22f70073627ec074a7f95",
    "timestamp": "2022-10-23T14:42:30.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-10-23T10:28:08.000Z"
   },
-  {
+  "gfx/env/sky_day4bk.tga": {
    "bytes": 4194854,
-   "path": "gfx/env/sky_day4bk.tga",
    "sha256": "57698e6a36faa9c8dd6396524cddf30ba1bafcdfdbd06b4733024be1a20c5ca7",
    "timestamp": "2022-05-12T17:16:16.000Z"
   },
-  {
+  "gfx/env/sky_day4ft.tga": {
    "bytes": 4194854,
-   "path": "gfx/env/sky_day4ft.tga",
    "sha256": "b7abd14a640f4af6de47e183bd53284778ac8cdf05cdb44b550a8600a50fdb82",
    "timestamp": "2022-05-12T17:16:22.000Z"
   },
-  {
+  "gfx/env/sky_day4lf.tga": {
    "bytes": 4194854,
-   "path": "gfx/env/sky_day4lf.tga",
    "sha256": "2a91f3d28efcc42e6475d6f8fa5b7d70aa0290b076586871d1fefb2ae6fe10ba",
    "timestamp": "2022-05-12T17:16:24.000Z"
   },
-  {
+  "gfx/env/sky_day4rt.tga": {
    "bytes": 4194854,
-   "path": "gfx/env/sky_day4rt.tga",
    "sha256": "a99454a3c8fbca4fbb07957d259710f7e79dd0595c60f14c850f5d1c83874433",
    "timestamp": "2022-05-12T17:16:26.000Z"
   },
-  {
+  "gfx/env/sky_day4up.tga": {
    "bytes": 4194854,
-   "path": "gfx/env/sky_day4up.tga",
    "sha256": "4d7be60ff3bde403ab983095814c43f8687ad5c7cac830353c1afaf51c6f8945",
    "timestamp": "2022-05-12T17:16:28.000Z"
   },
-  {
+  "maps/aesop_power.bsp": {
    "bytes": 88373056,
-   "path": "maps/aesop_power.bsp",
    "sha256": "dc1184cdab381c39dd0d8018cf094479291630821ac219706bb54209cc51b1b0",
    "timestamp": "2022-10-23T14:05:10.000Z"
   },
-  {
+  "maps/aesop_power.lit": {
    "bytes": 17077616,
-   "path": "maps/aesop_power.lit",
    "sha256": "ece923b0c8f44a2fc865bac0c96de043c539cd6f31a172ab26ca09c7731b0afc",
    "timestamp": "2022-10-23T14:05:10.000Z"
   },
-  {
+  "music/track33.mp3": {
    "bytes": 11313109,
-   "path": "music/track33.mp3",
    "sha256": "8397ec6a2a9627ba0191332e9449345d8fa11eb4cbe776fb5f50910f532e743a",
    "timestamp": "2022-05-20T19:01:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/alk1.1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires  <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline v1.1+</a> (NOT included).",
   "Probably requires a modern engine / source port with increased limits."

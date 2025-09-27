@@ -4,24 +4,22 @@
  ],
  "bytes": 1675511,
  "description": "A big green swampy sewage system.",
- "files": [
-  {
+ "files": {
+  "sewage.bsp": {
    "bytes": 4027504,
-   "path": "sewage.bsp",
    "sha256": "ba09c1092eb75c55f99643f2fbcb20772874b8a9ec73ea8ad2c5c8f45532a569",
    "timestamp": "2006-04-15T18:48:28.000Z"
   },
-  {
+  "sewage.txt": {
    "bytes": 1624,
-   "path": "sewage.txt",
    "sha256": "7df58fd585e8bdc97a7541a3db176f943cbc66e6728d1678e13bf437556fdf64",
    "timestamp": "2006-04-15T18:27:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-04-15",
  "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 1593552,
  "description": "Medium sized Base map with an excarvation site, a library and a secret lab.",
- "files": [
-  {
+ "files": {
+  "EvilExhumed.bsp": {
    "bytes": 4888960,
-   "path": "EvilExhumed.bsp",
    "sha256": "46befa712133cd8d33090fbc1b58fbedae52a05cb6265b21a690f4cc6a69b875",
    "timestamp": "2008-09-21T15:38:50.000Z"
   },
-  {
+  "EvilExhumed.txt": {
    "bytes": 3611,
-   "path": "EvilExhumed.txt",
    "sha256": "d707307a01e80d8aec8b4589fa8c9f5ea24b21279e8f4cd5c4f80de17ea0797c",
    "timestamp": "2008-09-21T16:07:28.000Z"
   },
-  {
+  "evilexhumed_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "evilexhumed_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

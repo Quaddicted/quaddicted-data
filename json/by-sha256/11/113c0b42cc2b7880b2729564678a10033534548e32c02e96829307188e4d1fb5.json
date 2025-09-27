@@ -4,30 +4,27 @@
  ],
  "bytes": 822605,
  "description": "Small / medium-ish medieval cave / tomb level in a classic id1 style for vanilla Quake. Map source is included.",
- "files": [
-  {
+ "files": {
+  "Sodahalls.txt": {
    "bytes": 534,
-   "path": "Sodahalls.txt",
    "sha256": "551ad5a29bc4d113a08e792dc68fe44640ff1ebe197f339dd7cd133aeb44c0da",
    "timestamp": "2023-03-13T17:24:38.000Z"
   },
-  {
+  "sodahalls.bsp": {
    "bytes": 1620800,
-   "path": "sodahalls.bsp",
    "sha256": "7e2d26c23e23737d905297a786a7352c793b04487208e49229a1005bfa0ef7b8",
    "timestamp": "2023-03-13T18:00:52.000Z"
   },
-  {
+  "sodahalls.map": {
    "bytes": 839648,
-   "path": "sodahalls.map",
    "sha256": "5a8660e2e53da27c179539501325eec067d17dbca4c31b6f0816c4a05715b6c0",
    "timestamp": "2023-03-13T18:03:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2023-03-13",
  "sha256": "113c0b42cc2b7880b2729564678a10033534548e32c02e96829307188e4d1fb5",
  "tags": [

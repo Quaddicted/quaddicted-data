@@ -4,24 +4,22 @@
  ],
  "bytes": 531771,
  "description": "Small Wizard map with a Medieval and a Base bit. Ostensibly related to the Resident Evil game series.",
- "files": [
-  {
+ "files": {
+  "R-Evil2.txt": {
    "bytes": 2017,
-   "path": "R-Evil2.txt",
    "sha256": "a1845055489261a19c165e03f79c5b94266b5a7b0321fd499ca19c3951db9c04",
    "timestamp": "1996-06-10T10:38:42.000Z"
   },
-  {
+  "r-evil2.bsp": {
    "bytes": 1160964,
-   "path": "r-evil2.bsp",
    "sha256": "e9f65ae44b8e33383d7da5439454e45fcf4d68c09ba418e3c327f76ee52e38e2",
    "timestamp": "1996-06-10T10:17:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-06-10",
  "sha256": "7d7c23281b0898992adf3dc2519e052a10efab744a970a43e5c0cf9f0d010e2b",
  "tags": [

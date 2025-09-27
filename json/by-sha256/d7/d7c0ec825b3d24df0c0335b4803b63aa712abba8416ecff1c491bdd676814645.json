@@ -4,30 +4,27 @@
  ],
  "bytes": 500823,
  "description": "A map with many red bricks.",
- "files": [
-  {
+ "files": {
+  "pyro1.bsp": {
    "bytes": 1083964,
-   "path": "pyro1.bsp",
    "sha256": "6bb3f414ace197c79da92df1679df0f3d7e97bcf3c7d11882ac3822f63709674",
    "timestamp": "1996-11-16T18:54:52.000Z"
   },
-  {
+  "pyro1.txt": {
    "bytes": 2397,
-   "path": "pyro1.txt",
    "sha256": "c44cc91156f78b72cd0e64bf86f43c5036f01dae16e4a7f29b622df86e0e896a",
    "timestamp": "1996-11-16T19:22:52.000Z"
   },
-  {
+  "pyro1_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "pyro1_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

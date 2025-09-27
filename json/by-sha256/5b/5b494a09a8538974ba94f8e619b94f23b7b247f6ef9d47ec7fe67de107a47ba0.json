@@ -4,24 +4,22 @@
  ],
  "bytes": 788428,
  "description": "Small blue labyrinth filled with monsters.",
- "files": [
-  {
+ "files": {
+  "dumbdim.bsp": {
    "bytes": 2125968,
-   "path": "dumbdim.bsp",
    "sha256": "c77f9f9baa6836d8ae381be5985cdc40a2483ae327f2791cb37f8dab5732da74",
    "timestamp": "2007-11-20T13:31:58.000Z"
   },
-  {
+  "dumbdim.txt": {
    "bytes": 4460,
-   "path": "dumbdim.txt",
    "sha256": "b1dde22edbdfc8577e43a0af3adc268185667a4cc0f36b3ea4a2be9c0cd7b0d1",
    "timestamp": "2007-11-28T11:03:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2007-11-28",
  "sha256": "5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0",
  "tags": [

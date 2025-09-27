@@ -4,36 +4,32 @@
  ],
  "bytes": 350694,
  "description": "Single room with no monsters and escape room puzzle mechanics. Made using only vanilla map hacks (no custom progs).",
- "files": [
-  {
+ "files": {
+  "puzzlebox1.bsp": {
    "bytes": 830244,
-   "path": "puzzlebox1.bsp",
    "sha256": "aab1838379c3c896a663d2f92030a3781e437f2b1eebdb66ba7087530c79ab3a",
    "timestamp": "2023-10-28T17:33:30.000Z"
   },
-  {
+  "puzzlebox1.lit": {
    "bytes": 129863,
-   "path": "puzzlebox1.lit",
    "sha256": "6f27a86f9ee27f4c9a39957a7d7cb04a8dc481c28bcdc02e3ecdd56f57c59ab1",
    "timestamp": "2023-10-28T17:33:30.000Z"
   },
-  {
+  "puzzlebox1.map": {
    "bytes": 1098155,
-   "path": "puzzlebox1.map",
    "sha256": "fad4b2e703487ffda035f619b457477047492aecddb5c26aa7233427001ec2cb",
    "timestamp": "2023-10-28T17:33:22.000Z"
   },
-  {
+  "puzzlebox1_readme.txt": {
    "bytes": 276,
-   "path": "puzzlebox1_readme.txt",
    "sha256": "337f40aa0089bdb0975439ba6fa5041c04a91f413810168bd86b5b77fda8cf81",
    "timestamp": "2023-10-28T17:40:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2023-10-29",
  "sha256": "4d8ac1f91d16e9785d4b4e2250743cc33ac95154c0bd2de0a2542bc591aad9a4",
  "tags": [

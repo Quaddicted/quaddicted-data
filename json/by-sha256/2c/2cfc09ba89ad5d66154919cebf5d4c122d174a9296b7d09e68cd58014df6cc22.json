@@ -7,18 +7,17 @@
   "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5"
  ],
  "description": "Small base map.",
- "files": [
-  {
+ "files": {
+  "AUHE1M15.BSP": {
    "bytes": 1174412,
-   "path": "AUHE1M15.BSP",
    "sha256": "45866b472fa02cf284b53fa4e093f111eafefa223689aa18ee61645e7cff6f80",
    "timestamp": "1998-05-01T12:49:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/bad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
  ],

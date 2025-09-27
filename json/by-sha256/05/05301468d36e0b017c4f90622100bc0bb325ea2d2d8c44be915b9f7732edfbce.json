@@ -7,30 +7,27 @@
   "copper=1.30"
  ],
  "description": "Gothic-themed map set in an overridden chapel. The author's first finished map.",
- "files": [
-  {
+ "files": {
+  "hgs.bsp": {
    "bytes": 16771020,
-   "path": "hgs.bsp",
    "sha256": "73cd953e44610fde78254f7f80078116e2f6c7f3ff4b691d86a37967bfc1f5f3",
    "timestamp": "2024-09-16T20:02:56.000Z"
   },
-  {
+  "hgs.map": {
    "bytes": 3785051,
-   "path": "hgs.map",
    "sha256": "bf0bbcd00e57c293108c5db9166d810c25f27536f668e0d31d22443f853373a6",
    "timestamp": "2024-09-16T20:09:58.000Z"
   },
-  {
+  "hgs.txt": {
    "bytes": 1436,
-   "path": "hgs.txt",
    "sha256": "03bfe2c183a66caa1423f5724f89ba2f7762886d8fae4caa5b72db9e1e40765e",
    "timestamp": "2024-09-16T20:34:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
  ],

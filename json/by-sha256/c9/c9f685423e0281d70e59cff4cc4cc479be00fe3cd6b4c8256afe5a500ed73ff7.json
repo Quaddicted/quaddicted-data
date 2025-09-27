@@ -4,36 +4,32 @@
  ],
  "bytes": 9072033,
  "description": "Episode with 9 medium to large maps (including a secret map) in varying styles - Base/Wizard/Metal - with many caverns and fortesses, and a few new monsters.",
- "files": [
-  {
+ "files": {
+  "Descent.doc": {
    "bytes": 41472,
-   "path": "Descent.doc",
    "sha256": "676e2bf3b2f3244af6f760e7635f9f7573aec87b02e6079aa3e5fe68cb781868",
    "timestamp": "2000-03-23T19:01:34.000Z"
   },
-  {
+  "Readme.txt": {
    "bytes": 2615,
-   "path": "Readme.txt",
    "sha256": "c9c23efcdc0eab6e04f972e52c3f7fb0ef70335b44f2ef98dbcb7777dc24bc7a",
    "timestamp": "2000-03-23T18:52:42.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 5379354,
-   "path": "pak0.pak",
    "sha256": "164f6aa35efc3eb880a8fe98a26571e9372ea0bc71751be805f339331502948e",
    "timestamp": "2000-03-23T18:39:04.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 17149624,
-   "path": "pak1.pak",
    "sha256": "ed2ddc07abcacedc816fd9ef875bd22a86f305364b4a309a37743d725100316d",
    "timestamp": "2000-03-23T18:39:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/descent/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-03-23",
  "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 1813957,
  "description": "Small to medium id-base level with traps. Vanilla Quake version of the <a href=\"http://celephais.net/board/view_thread.php?id=61897\">SM209</a> entry.",
- "files": [
-  {
+ "files": {
+  "malvirta.bsp": {
    "bytes": 3493732,
-   "path": "malvirta.bsp",
    "sha256": "3e918a461c0b537d801e2a381d591df38796ae620411023d460ce585d9f32940",
    "timestamp": "2020-06-04T12:27:30.000Z"
   },
-  {
+  "malvirta.lit": {
    "bytes": 857840,
-   "path": "malvirta.lit",
    "sha256": "088be6b35d7c2be8a49ab7298ca71fd90fdd82a391cad2d75d8cb4836380922b",
    "timestamp": "2020-06-04T12:27:30.000Z"
   },
-  {
+  "malvirta.txt": {
    "bytes": 1591,
-   "path": "malvirta.txt",
    "sha256": "600ecb52fbf6bd3e33d65c72d3cb325534a193571ecc86399812b4bdec8c942e",
    "timestamp": "2020-06-04T03:42:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2020-06-04",
  "sha256": "e97cd0dbc038e37c6adab113370223e699584e66e690f9669eaab69ca9eed8af",
  "tags": [

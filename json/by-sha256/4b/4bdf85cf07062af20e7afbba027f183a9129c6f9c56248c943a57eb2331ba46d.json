@@ -4,24 +4,22 @@
  ],
  "bytes": 7144283,
  "description": "Large lava castle / tomb map for vanilla Quake. Difficulty settings are not implemented and all skill levels will play the same.",
- "files": [
-  {
+ "files": {
+  "asl_2.bsp": {
    "bytes": 22903936,
-   "path": "asl_2.bsp",
    "sha256": "19180d05f1ab053d0b7bc054224db52dc72a89896948f9367db4f8a0c85ae155",
    "timestamp": "2022-05-30T16:09:06.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 933,
-   "path": "readme.txt",
    "sha256": "03b832e3d672d93aad950214dffc989799f4c58bbcaa8182e51b26d3d5f3e56c",
    "timestamp": "2022-05-31T13:45:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Likely requires a modern engine / source port with increased limits."
  ],

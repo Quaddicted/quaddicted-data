@@ -4,24 +4,22 @@
  ],
  "bytes": 528001,
  "description": "Medium sized wizard map with optional exploration bits.",
- "files": [
-  {
+ "files": {
+  "SUL2.BSP": {
    "bytes": 1216940,
-   "path": "SUL2.BSP",
    "sha256": "17cc76bcc4107b32aaa5047c4ee255d42cebfac8710f863e8b2da3de04d13c6b",
    "timestamp": "2096-12-20T03:02:04.000Z"
   },
-  {
+  "SUL2.TXT": {
    "bytes": 2050,
-   "path": "SUL2.TXT",
    "sha256": "b1c28059ab99f87774f6cc3d7b4bf6a0ce88b8c692c8e70858b31e3f2e41306c",
    "timestamp": "1997-01-09T22:21:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-09",
  "sha256": "c3f8f50c4c7764214128a1cb2a12d838f10f9ae09639b5a277fc7077bdf84636",
  "tags": [

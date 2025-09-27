@@ -7,102 +7,87 @@
   "alkaline>=1.20"
  ],
  "description": "Small-to-medium urban themed map with heavy use of scripted messages, plot and NPCs. The author's first map for Quake.",
- "files": [
-  {
+ "files": {
+  "alk1.2/": {
    "bytes": 0,
-   "path": "alk1.2/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-12T21:36:52.000Z"
   },
-  {
+  "alk1.2/blorgsp1.txt": {
    "bytes": 960,
-   "path": "alk1.2/blorgsp1.txt",
    "sha256": "235993b2b3f5c6f289f5c570f2c12ac268e3f7d571ce5d8255275c47f2499e71",
    "timestamp": "2024-01-25T20:40:30.000Z"
   },
-  {
+  "alk1.2/gfx/": {
    "bytes": 0,
-   "path": "alk1.2/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-12T21:35:24.000Z"
   },
-  {
+  "alk1.2/gfx/env/": {
    "bytes": 0,
-   "path": "alk1.2/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-12T21:35:26.000Z"
   },
-  {
+  "alk1.2/gfx/env/mak_sunset2_bk.tga": {
    "bytes": 3145772,
-   "path": "alk1.2/gfx/env/mak_sunset2_bk.tga",
    "sha256": "2b756d209c0bf8857368dbcac360e7beabb1e854887b187450c5dcbe8983d084",
    "timestamp": "2022-10-21T19:45:16.000Z"
   },
-  {
+  "alk1.2/gfx/env/mak_sunset2_dn.tga": {
    "bytes": 3145772,
-   "path": "alk1.2/gfx/env/mak_sunset2_dn.tga",
    "sha256": "50f78e91ce74e89f7f14eaf71773f2f2c4b3338f7a02d86cea063b8f436fc23c",
    "timestamp": "2022-10-21T19:45:18.000Z"
   },
-  {
+  "alk1.2/gfx/env/mak_sunset2_ft.tga": {
    "bytes": 3145772,
-   "path": "alk1.2/gfx/env/mak_sunset2_ft.tga",
    "sha256": "2e0f5c528038bb4415cb1edea4c23cb513d3210cf85d5be540b5f9edd18a5349",
    "timestamp": "2022-10-21T19:45:20.000Z"
   },
-  {
+  "alk1.2/gfx/env/mak_sunset2_lf.tga": {
    "bytes": 3145772,
-   "path": "alk1.2/gfx/env/mak_sunset2_lf.tga",
    "sha256": "584cb5142198faf9941f0a8b30e2067ffb85885a7bd6cc8c39d687390e03e0f6",
    "timestamp": "2022-10-21T19:45:26.000Z"
   },
-  {
+  "alk1.2/gfx/env/mak_sunset2_rt.tga": {
    "bytes": 3145772,
-   "path": "alk1.2/gfx/env/mak_sunset2_rt.tga",
    "sha256": "0c23fe31e3d402b2d049c86e274123f6f624b97f1100b9e653793b48f65df71a",
    "timestamp": "2022-10-21T19:45:22.000Z"
   },
-  {
+  "alk1.2/gfx/env/mak_sunset2_up.tga": {
    "bytes": 3145772,
-   "path": "alk1.2/gfx/env/mak_sunset2_up.tga",
    "sha256": "95c0217ba61a7bbc6890d9db6a25878d1b81e06a21e385511b26c8db0ca8a69f",
    "timestamp": "2022-10-21T19:45:24.000Z"
   },
-  {
+  "alk1.2/maps/": {
    "bytes": 0,
-   "path": "alk1.2/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-12T21:35:10.000Z"
   },
-  {
+  "alk1.2/maps/blorgsp1.bsp": {
    "bytes": 46763344,
-   "path": "alk1.2/maps/blorgsp1.bsp",
    "sha256": "a3410291be9952db8ba7292c9112ddba7a2d11f0b40bf4ae1bfccf3f48473dc9",
    "timestamp": "2023-09-13T15:49:52.000Z"
   },
-  {
+  "alk1.2/maps/blorgsp1.lit": {
    "bytes": 3362996,
-   "path": "alk1.2/maps/blorgsp1.lit",
    "sha256": "1ee32c4d6cad1b84397cd0ac626a5d148d1a9f21549e3e354060c393ca729be2",
    "timestamp": "2023-09-13T15:49:52.000Z"
   },
-  {
+  "alk1.2/textures/": {
    "bytes": 0,
-   "path": "alk1.2/textures/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-12T21:35:24.000Z"
   },
-  {
+  "alk1.2/textures/techlzr_grn_hd.tga": {
    "bytes": 223483,
-   "path": "alk1.2/textures/techlzr_grn_hd.tga",
    "sha256": "40ffef8ce322f9736d0197b0fd8a211f41635ebcec1858ec639fb9a0b8f35f16",
    "timestamp": "2023-05-13T15:24:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a>.",
   "This file was repackaged for Quake Injector compatibility."

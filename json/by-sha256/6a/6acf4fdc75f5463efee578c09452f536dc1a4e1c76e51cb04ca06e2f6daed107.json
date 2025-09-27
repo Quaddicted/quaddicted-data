@@ -5,24 +5,22 @@
  ],
  "bytes": 84043,
  "description": "Small, fullbright pseudo-maze created with the Stoneless editor.",
- "files": [
-  {
+ "files": {
+  "MAZE.bsp": {
    "bytes": 207324,
-   "path": "MAZE.bsp",
    "sha256": "f7f61ce7275e8240bac4fb633b42ff1e80dff06952bdb25bfba886d51bf3b17b",
    "timestamp": "1997-03-14T12:58:58.000Z"
   },
-  {
+  "maze.txt": {
    "bytes": 1478,
-   "path": "maze.txt",
    "sha256": "6adaf59f72536884803789b7feab1eb5cd1002cc8cffcc19f0160a2a52c6d7fc",
    "timestamp": "1997-03-14T13:23:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-14",
  "sha256": "6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107",
  "tags": [

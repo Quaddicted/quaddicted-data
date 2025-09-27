@@ -4,24 +4,22 @@
  ],
  "bytes": 738979,
  "description": "Medium sized Wizard map.",
- "files": [
-  {
+ "files": {
+  "TFL.BSP": {
    "bytes": 1651552,
-   "path": "TFL.BSP",
    "sha256": "e51d04beeba687409b8e2d919a5c17eab2ce31b234a27bfbc11eead2bd734364",
    "timestamp": "1997-04-17T21:12:02.000Z"
   },
-  {
+  "TFL.TXT": {
    "bytes": 2217,
-   "path": "TFL.TXT",
    "sha256": "3ae7b7f500637e0919c5209b36195949e99fc4843709fc40ba1e9551b2f09f7a",
    "timestamp": "1997-04-18T01:53:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-18",
  "sha256": "a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276",
  "tags": [

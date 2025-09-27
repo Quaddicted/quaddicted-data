@@ -5,204 +5,172 @@
  "bytes": 6310625,
  "current_main_group_package": true,
  "description": "Mini SP campaign consisting of three medium sized outdoor levels (+ start map) in Wizard/ Canyon/ Egyptian style. Uses custents and has a few new monsters like improved Grunts/ Ogres and Mechs. The maps are only playable in DOS/ Winquake or a high-limit engine. For regular GL engines, download the fixed version instead: <a href=\"96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c\">sop_v2</a>.",
- "files": [
-  {
+ "files": {
+  "sop/Config.cfg": {
    "bytes": 2159,
-   "path": "sop/Config.cfg",
    "sha256": "9ba7c7890969faed688c573dd5b6ec696c6d6cabd94a6b26d5fc14f917abc548",
    "timestamp": "1999-08-01T17:28:06.000Z"
   },
-  {
+  "sop/IMPORTANT!.txt": {
    "bytes": 985,
-   "path": "sop/IMPORTANT!.txt",
    "sha256": "591811e772693642fa3767da98107f9fd6508224fed20da29b73cf6fcd09aa21",
    "timestamp": "1999-08-01T17:36:44.000Z"
   },
-  {
+  "sop/SOPv1.TXT": {
    "bytes": 3960,
-   "path": "sop/SOPv1.TXT",
    "sha256": "689001d84e982beb34fbad7a1f793ad8f5d6bb56067593775e79ddc4ef82fe42",
    "timestamp": "1997-12-17T10:48:18.000Z"
   },
-  {
+  "sop/pak0.pak": {
    "bytes": 15580537,
-   "path": "sop/pak0.pak",
    "sha256": "1ab9fb99424c00d851720ec99000fc8e094d47b2380d0e40bf60e851aac967ce",
    "timestamp": "1999-08-01T17:22:48.000Z"
   },
-  {
+  "sop/progs.dat": {
    "bytes": 567260,
-   "path": "sop/progs.dat",
    "sha256": "176fa7dabedcd0b22a8922768b8088c1697fc434679849fa27c488448639a04a",
    "timestamp": "1999-08-01T17:08:44.000Z"
   },
-  {
+  "sop/progs/arrow.mdl": {
    "bytes": 12161,
-   "path": "sop/progs/arrow.mdl",
    "sha256": "41339f3222ee6fc0cd85a58a7b2a6c4330e284ea39ecb7002d97927244c5250a",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/babysham.mdl": {
    "bytes": 98556,
-   "path": "sop/progs/babysham.mdl",
    "sha256": "8e86cddcb2f52107ed6d39f7b16ef8c4d9cd90184387e078af2dea8a1f9439d2",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/beam.mdl": {
    "bytes": 10608,
-   "path": "sop/progs/beam.mdl",
    "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/beamhit.spr": {
    "bytes": 5320,
-   "path": "sop/progs/beamhit.spr",
    "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/bs_light.mdl": {
    "bytes": 28707,
-   "path": "sop/progs/bs_light.mdl",
    "sha256": "6c646ab4291d12aecdad5d9af4c44f4d68fc207c730dbf3ac04e07103cdd2c12",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/candle.mdl": {
    "bytes": 21476,
-   "path": "sop/progs/candle.mdl",
    "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/dring.spr": {
    "bytes": 387832,
-   "path": "sop/progs/dring.spr",
    "sha256": "94adc8ada163983eae9ccb924bd4ef4d8ebb2613bd23705d2e8a7bb73e7657d1",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/expl.spr": {
    "bytes": 127672,
-   "path": "sop/progs/expl.spr",
    "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/g_beam.mdl": {
    "bytes": 68996,
-   "path": "sop/progs/g_beam.mdl",
    "sha256": "db2566d26863472c6176c91b2256c12b5fdd28b5e1ba0a3ff2aa9e122ed0cacb",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/h_bsham.mdl": {
    "bytes": 37447,
-   "path": "sop/progs/h_bsham.mdl",
    "sha256": "28f210b7a891c8a430c39932700ae116331cb673f68a9f8963c663932bf583d5",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/h_servo.mdl": {
    "bytes": 159656,
-   "path": "sop/progs/h_servo.mdl",
    "sha256": "f6e00f1d618c3586d96984737a6175688b1b8943f0e5c6a0be4cfb59ccbdca3c",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/player.mdl": {
    "bytes": 191852,
-   "path": "sop/progs/player.mdl",
    "sha256": "10cecfe08d312ff17c63529e280b976c50018f683f541cb03b2048c7a681ebf9",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/rubble1.mdl": {
    "bytes": 69839,
-   "path": "sop/progs/rubble1.mdl",
    "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/rubble2.mdl": {
    "bytes": 200266,
-   "path": "sop/progs/rubble2.mdl",
    "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/rubble3.mdl": {
    "bytes": 303486,
-   "path": "sop/progs/rubble3.mdl",
    "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/s_null.spr": {
    "bytes": 56,
-   "path": "sop/progs/s_null.spr",
    "sha256": "29e9c18546413f0abc9c6f507c61952f33afa6507b52d1c2197b57e3be7870a9",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/servobod.mdl": {
    "bytes": 219324,
-   "path": "sop/progs/servobod.mdl",
    "sha256": "e791ca46d9ea19e870a530e808f6c9d7e472882a4f0fe8103277316de9f09bad",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/servodie.mdl": {
    "bytes": 444399,
-   "path": "sop/progs/servodie.mdl",
    "sha256": "4f1c146002f4efaa3cd064167be022286066344a6106ea7d11c7320267211676",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/servoleg.mdl": {
    "bytes": 178044,
-   "path": "sop/progs/servoleg.mdl",
    "sha256": "27b588b8c7ca9e56fb3d71c62d3886d7aaa0f3e9d9e757f855d2d762dd192efc",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/v_beam.mdl": {
    "bytes": 75588,
-   "path": "sop/progs/v_beam.mdl",
    "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/progs/v_beam2.mdl": {
    "bytes": 75588,
-   "path": "sop/progs/v_beam2.mdl",
    "sha256": "95b3a260450ca784bda0885da994a5a857cf9948581ed1e68c4b202c51dae670",
    "timestamp": "1999-08-01T17:22:16.000Z"
   },
-  {
+  "sop/progs/weather.spr": {
    "bytes": 66164,
-   "path": "sop/progs/weather.spr",
    "sha256": "6364500483ce0b25486611c3fd48c239414a094a1a5ba3fd29acdf85fe8eb419",
    "timestamp": "1999-08-01T17:22:18.000Z"
   },
-  {
+  "sop/sopv2.txt": {
    "bytes": 11192,
-   "path": "sop/sopv2.txt",
    "sha256": "894d48fabf6e65ab76e34dc4157018aabac7ac2a534aa0d418a295d07126d51c",
    "timestamp": "1999-08-01T15:28:24.000Z"
   },
-  {
+  "sop/sopv3.txt": {
    "bytes": 4575,
-   "path": "sop/sopv3.txt",
    "sha256": "34e43ac50f81d9b0c443b83c83a9f043b1807a14a469afb51baafd51da76caa5",
    "timestamp": "1999-08-01T16:09:34.000Z"
   },
-  {
+  "sop/sound/MISC/Shortexp.wav": {
    "bytes": 27562,
-   "path": "sop/sound/MISC/Shortexp.wav",
    "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
    "timestamp": "1996-01-01T21:24:28.000Z"
   },
-  {
+  "sop/sound/MISC/rumble.wav": {
    "bytes": 53068,
-   "path": "sop/sound/MISC/rumble.wav",
    "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
    "timestamp": "1996-01-01T14:53:12.000Z"
   },
-  {
+  "sop123_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "sop123_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

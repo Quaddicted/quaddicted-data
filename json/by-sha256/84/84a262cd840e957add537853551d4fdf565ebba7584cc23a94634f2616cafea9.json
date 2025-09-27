@@ -4,108 +4,92 @@
  ],
  "bytes": 8933718,
  "description": "A robot total conversion with 18 small to medium sized levels (incl. start map), all new textures, monsters, sounds, everything.  It seems to be consistent in quality and theme (which is very 1998-like, think Malice), but also very strange.",
- "files": [
-  {
+ "files": {
+  "tsoa/": {
    "bytes": 0,
-   "path": "tsoa/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-03-28T23:08:50.000Z"
   },
-  {
+  "tsoa/autoexec.cfg": {
    "bytes": 2223,
-   "path": "tsoa/autoexec.cfg",
    "sha256": "33f8a209e71172798e8a810a32c23be0a05aab3e48cd79926ee36980b1ad4aff",
    "timestamp": "1997-11-19T02:19:04.000Z"
   },
-  {
+  "tsoa/camera.txt": {
    "bytes": 812,
-   "path": "tsoa/camera.txt",
    "sha256": "46608138ea923e2ea0518111726f1913339bcd53e0db6285d60563a5e15fa191",
    "timestamp": "1997-07-06T14:14:12.000Z"
   },
-  {
+  "tsoa/config.cfg": {
    "bytes": 5275,
-   "path": "tsoa/config.cfg",
    "sha256": "c52cb4129e03cddcabefdfa46b6676f3caf8e0c220ff10b5fbadba4b8aef4083",
    "timestamp": "2003-05-18T23:56:56.000Z"
   },
-  {
+  "tsoa/generatr.txt": {
    "bytes": 607,
-   "path": "tsoa/generatr.txt",
    "sha256": "505b60404e5e35b9b92a4f696d732f59c97957f8d508ebab2e0bb5ae691f7b8c",
    "timestamp": "1997-06-24T01:20:30.000Z"
   },
-  {
+  "tsoa/orca.txt": {
    "bytes": 1243,
-   "path": "tsoa/orca.txt",
    "sha256": "7b7d9e9121d7285e2fca9d9ed311501992a66386cd7bcc811e6cec80a2e5908d",
    "timestamp": "1997-06-03T11:59:40.000Z"
   },
-  {
+  "tsoa/pak0.pak": {
    "bytes": 820000,
-   "path": "tsoa/pak0.pak",
    "sha256": "c06def148423e79d65e1efaf60dd5eebeb86cd0e02a2edcf97b68426572ef664",
    "timestamp": "1998-01-18T13:35:54.000Z"
   },
-  {
+  "tsoa/pak1.pak": {
    "bytes": 12288698,
-   "path": "tsoa/pak1.pak",
    "sha256": "fbe31664e203114437c6e67c63268f8feaad6e3d5f736efa4229579101f4cb74",
    "timestamp": "1998-01-18T13:29:00.000Z"
   },
-  {
+  "tsoa/pak2.pak": {
    "bytes": 12530804,
-   "path": "tsoa/pak2.pak",
    "sha256": "847b8697aa078458e464f914c8838bb5dd9bc2dc7580d2509a1121f34ad026a8",
    "timestamp": "1998-01-18T13:31:00.000Z"
   },
-  {
+  "tsoa/progs.dat": {
    "bytes": 557484,
-   "path": "tsoa/progs.dat",
    "sha256": "6c0d43e674b91439e90129e710e60d62ece50d38432b0dc4656e44fdbd7e6bd8",
    "timestamp": "1998-01-18T13:12:28.000Z"
   },
-  {
+  "tsoa/ray.txt": {
    "bytes": 710,
-   "path": "tsoa/ray.txt",
    "sha256": "03cc826a1323e42afc5d91330224b9337910c4177f8a7fd022004de8444fd044",
    "timestamp": "1997-06-27T09:48:02.000Z"
   },
-  {
+  "tsoa/sentry.txt": {
    "bytes": 860,
-   "path": "tsoa/sentry.txt",
    "sha256": "f5ca53c9071dc7a4bdd5e4c3b8faee908dabe792dc66edd9358851f7144db35c",
    "timestamp": "1997-06-14T13:46:28.000Z"
   },
-  {
+  "tsoa/tsoa.bat": {
    "bytes": 37,
-   "path": "tsoa/tsoa.bat",
    "sha256": "c4243311a317d401611fcbcf62d3dc0ffe8384b1c96bd312e2aa54eb37c6c038",
    "timestamp": "1998-06-04T14:37:38.000Z"
   },
-  {
+  "tsoa/tsoa.txt": {
    "bytes": 4418,
-   "path": "tsoa/tsoa.txt",
    "sha256": "eb284c2b793cecbc2ab336e4144e3607c611d31c8ab861801bfa75f9f5dfa69d",
    "timestamp": "1998-01-17T12:12:20.000Z"
   },
-  {
+  "tsoa/tv.txt": {
    "bytes": 648,
-   "path": "tsoa/tv.txt",
    "sha256": "63547cced6da4df8810c7b9fa6beae4aed26cf3230199c0dfd728955b770ebb5",
    "timestamp": "1997-08-23T10:01:16.000Z"
   },
-  {
+  "tsoa_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "tsoa_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is the full version (not just the shareware levels, as written in tsoa.txt).",
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"

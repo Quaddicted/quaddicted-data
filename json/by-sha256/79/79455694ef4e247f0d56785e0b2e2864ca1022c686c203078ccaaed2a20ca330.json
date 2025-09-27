@@ -4,24 +4,22 @@
  ],
  "bytes": 411976,
  "description": "Very small Metal-style crypt.",
- "files": [
-  {
+ "files": {
+  "thecrypt.bsp": {
    "bytes": 882312,
-   "path": "thecrypt.bsp",
    "sha256": "c670f187747d6998c2574abdb62377d8f9d7c8788b698e001aada15ac178efc2",
    "timestamp": "1998-03-19T17:38:06.000Z"
   },
-  {
+  "thecrypt.txt": {
    "bytes": 1328,
-   "path": "thecrypt.txt",
    "sha256": "44d1b4416e23fc7d25f0da22476173d5efad995bf23b6b2c4203b3e68e8a0455",
    "timestamp": "1998-03-21T10:49:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-03-21",
  "sha256": "79455694ef4e247f0d56785e0b2e2864ca1022c686c203078ccaaed2a20ca330",
  "tags": [

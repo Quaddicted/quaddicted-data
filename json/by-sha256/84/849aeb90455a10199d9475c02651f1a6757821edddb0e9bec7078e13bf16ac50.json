@@ -5,30 +5,27 @@
  ],
  "bytes": 628149,
  "description": "An upside-down version of Quake's original E1M8, created for an <a href=\"http://www.speeddemosarchive.com/quake\">SDA</a> contest. The GPL map source is included.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 1408456,
-   "path": "pak0.pak",
    "sha256": "78148ca5669d28557b8dabd936f6132a60fb3194f0368e7e31de234105b27817",
    "timestamp": "2006-11-20T17:54:26.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 347,
-   "path": "readme.txt",
    "sha256": "4e1ae461948ee51c60237c29a7f9346b6f47988c7129f985b90eb6c91f7ec7f7",
    "timestamp": "2006-11-20T18:23:34.000Z"
   },
-  {
+  "source.zip": {
    "bytes": 55703,
-   "path": "source.zip",
    "sha256": "1a2fc70103f3b659956f4c1888ee35860b4a11021979bc8d1a961c790f3e5546",
    "timestamp": "2006-11-20T18:15:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ogitrev/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-11-20",
  "sha256": "849aeb90455a10199d9475c02651f1a6757821edddb0e9bec7078e13bf16ac50",
  "tags": [

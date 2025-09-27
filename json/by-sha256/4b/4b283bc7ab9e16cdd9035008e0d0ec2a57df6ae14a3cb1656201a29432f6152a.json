@@ -4,48 +4,42 @@
  ],
  "bytes": 4713110,
  "description": "Small mansion in a dark forest, with complete custom texture set. \"This pak uses Ultimate Weapons combo mod as a base and includes these monsters: Snakeman, Dragon, Raptor, Cyberdemon, Blarg, Spider, Grunts package, Femenforcer.\"",
- "files": [
-  {
+ "files": {
+  "CONFIG.CFG": {
    "bytes": 2990,
-   "path": "CONFIG.CFG",
    "sha256": "56740da8952c8c32b26f35276c8bd133a8799da96e70292afc5d6f75c2060c63",
    "timestamp": "1997-03-09T21:28:26.000Z"
   },
-  {
+  "Quake.rc": {
    "bytes": 94,
-   "path": "Quake.rc",
    "sha256": "4f1955b62707a7775227bccc321d3a33ebdf4ea53759b65eee1e071eb35c3d63",
    "timestamp": "1997-03-09T21:10:22.000Z"
   },
-  {
+  "drastic.bat": {
    "bytes": 48,
-   "path": "drastic.bat",
    "sha256": "e2d7c25c5bb5fed33b83969bfdeba6de29bc8ac251329462aca347845f37d7c7",
    "timestamp": "1997-03-09T21:10:46.000Z"
   },
-  {
+  "drastic.rc": {
    "bytes": 1545,
-   "path": "drastic.rc",
    "sha256": "f0d6ade587c70c02669c2182c921e773c0d195cd3056c176841226d1c2cb9d8f",
    "timestamp": "1997-03-09T21:11:52.000Z"
   },
-  {
+  "drasticl.txt": {
    "bytes": 3721,
-   "path": "drasticl.txt",
    "sha256": "b66fb06b9d71cb7e671e39a811a720657cb155da0fedd361cdeaf4797f933e4f",
    "timestamp": "1997-03-09T21:33:44.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 11231559,
-   "path": "pak0.pak",
    "sha256": "c76a9c4803b7487fa0ed1367fb558e93581ceb815edc486fb2a216b18eeb3ffe",
    "timestamp": "1997-03-09T21:08:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/drastic/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-09",
  "sha256": "4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a",
  "tags": [

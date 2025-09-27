@@ -4,42 +4,37 @@
  ],
  "bytes": 3989662,
  "description": "Five small to medium sized realism maps with new textures. The mission is to infiltrate a 1960's Nike radar and missile base at night in order to obtain classified information. Uses custents.",
- "files": [
-  {
+ "files": {
+  "GLQuake Nike.lnk": {
    "bytes": 397,
-   "path": "GLQuake Nike.lnk",
    "sha256": "729d99e4b88717ab25755f6044b859ec956655259c7766fff57040a19af14ba5",
    "timestamp": "1998-01-22T13:19:28.000Z"
   },
-  {
+  "Nike.ico": {
    "bytes": 2998,
-   "path": "Nike.ico",
    "sha256": "6094cebc825c5977bb1b84f62b37d32f1401a4a25c28221864b13c9a713fd489",
    "timestamp": "1997-12-22T11:24:38.000Z"
   },
-  {
+  "Pak0.pak": {
    "bytes": 10608672,
-   "path": "Pak0.pak",
    "sha256": "51e7d849782456aa880c477982cb269fd1354bd89d5992e84e16194e732ff1a8",
    "timestamp": "1998-01-20T10:40:42.000Z"
   },
-  {
+  "custents.txt": {
    "bytes": 8297,
-   "path": "custents.txt",
    "sha256": "ae71304b46fca49e604286637ff12e92a15449003e8479ed054200c26ecd71d6",
    "timestamp": "1996-01-01T11:16:14.000Z"
   },
-  {
+  "nike.txt": {
    "bytes": 24579,
-   "path": "nike.txt",
    "sha256": "ad2f6aea1d34b0e61ec344b8d6a2a160b63428fef86097c5d3431ead9d153766",
    "timestamp": "1998-01-22T15:01:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/nike/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-01-22",
  "sha256": "ed76f7b4edfbb54e556ecf84f543a4ea7f2faf80f44b396d25155f93d7dff722",
  "tags": [

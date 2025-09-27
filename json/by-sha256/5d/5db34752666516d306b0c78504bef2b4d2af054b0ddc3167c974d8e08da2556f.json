@@ -7,54 +7,47 @@
  ],
  "bytes": 164188510,
  "description": "Pack of four maps in various styles, based on the <a href=\"33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57\">Re:Mobilize</a> mod (included), all taking advantage of new gameplay mechanics.",
- "files": [
-  {
+ "files": {
+  "rmj1/map readmes/": {
    "bytes": 0,
-   "path": "rmj1/map readmes/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-10-06T07:23:44.000Z"
   },
-  {
+  "rmj1/map readmes/rm_respiration.txt": {
    "bytes": 1560,
-   "path": "rmj1/map readmes/rm_respiration.txt",
    "sha256": "02437b19893c545aeebd4adca50827f1c29ca696098b8240c74b51e9340a1325",
    "timestamp": "2023-09-25T11:13:00.000Z"
   },
-  {
+  "rmj1/map readmes/rmj1_chuma.txt": {
    "bytes": 8983,
-   "path": "rmj1/map readmes/rmj1_chuma.txt",
    "sha256": "9bba9aa5af2ddc1e54040f3e3d64687ac308491c9dbceb349c9ca52026f6bb5a",
    "timestamp": "2023-09-28T10:52:54.000Z"
   },
-  {
+  "rmj1/pak0.pak": {
    "bytes": 324011544,
-   "path": "rmj1/pak0.pak",
    "sha256": "e8062423e06ffb0fa0e6478c1c004be984393cee1e56025f2393b163a7ad3b7a",
    "timestamp": "2023-10-07T23:25:30.000Z"
   },
-  {
+  "rmj1/progs.dat": {
    "bytes": 815262,
-   "path": "rmj1/progs.dat",
    "sha256": "1561eaff9c26271a30d58f9e3027f9bfd24f653c51b0cd35f52fb2900f535dba",
    "timestamp": "2023-10-05T01:14:24.000Z"
   },
-  {
+  "rmj1/quake.rc": {
    "bytes": 762,
-   "path": "rmj1/quake.rc",
    "sha256": "a88c4a530c4a6a32d36819a14ac876a1e946868f4ef3fb19e6d64e5d5d2bf451",
    "timestamp": "2023-01-11T02:07:56.000Z"
   },
-  {
+  "rmj1/rmj1_readme.txt": {
    "bytes": 4425,
-   "path": "rmj1/rmj1_readme.txt",
    "sha256": "2dda4858a84b5b21091ab66f3bf54745d601b3c5d8efed6b7f0935c8f3259525",
    "timestamp": "2023-10-08T10:59:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

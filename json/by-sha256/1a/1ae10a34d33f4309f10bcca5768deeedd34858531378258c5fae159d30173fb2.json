@@ -4,36 +4,32 @@
  ],
  "bytes": 625392,
  "description": "Small classic id1 style map for vanilla Quake. The author's first release. Map source is included.",
- "files": [
-  {
+ "files": {
+  "BFM.bsp": {
    "bytes": 1019620,
-   "path": "BFM.bsp",
    "sha256": "b73f51b4e001ecf464ae17659361e45414189160e27f90cfba6b15e79f22db63",
    "timestamp": "2022-11-20T17:24:58.000Z"
   },
-  {
+  "BFM.lit": {
    "bytes": 367109,
-   "path": "BFM.lit",
    "sha256": "6ecc6dd0de556945e402ba9e42d1bde33265f056d4852efe54ca70568b154710",
    "timestamp": "2022-11-20T17:24:58.000Z"
   },
-  {
+  "BFM.map": {
    "bytes": 863089,
-   "path": "BFM.map",
    "sha256": "0c6e801e756cd7f77a4387a894858a18a1f8a0032d091bdb536f01d58eb3b4c8",
    "timestamp": "2022-11-20T17:24:52.000Z"
   },
-  {
+  "BFM.txt": {
    "bytes": 2121,
-   "path": "BFM.txt",
    "sha256": "6e0ba77d65801f7555607212ff365101d6ae3b6b02a11f10baec5acb82b7cd50",
    "timestamp": "2022-11-20T16:42:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Difficulty settings are not implemented."
  ],

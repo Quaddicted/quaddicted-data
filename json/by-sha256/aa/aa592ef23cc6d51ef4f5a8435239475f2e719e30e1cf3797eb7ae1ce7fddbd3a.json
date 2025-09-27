@@ -4,30 +4,27 @@
  ],
  "bytes": 1112573,
  "description": "Small, bright map in a temple/metal style.",
- "files": [
-  {
+ "files": {
+  "dltomb.bsp": {
    "bytes": 2667952,
-   "path": "dltomb.bsp",
    "sha256": "28b1d7d2dfdf4dfe2384be4c4f5686d548ef8c15636e946f41322f85135fbca9",
    "timestamp": "2024-08-26T13:45:48.000Z"
   },
-  {
+  "dltomb.pts": {
    "bytes": 79388,
-   "path": "dltomb.pts",
    "sha256": "78ec7872938caea23d4cafa6c067faacc85442c21611a8fa3bc4ca98a83a222b",
    "timestamp": "2024-08-25T22:00:56.000Z"
   },
-  {
+  "dltomb.txt": {
    "bytes": 400,
-   "path": "dltomb.txt",
    "sha256": "5b07a17eb27b99f5130e91cfca9813e1032036a5231a9ef9333f5cef94b337b3",
    "timestamp": "2024-08-26T13:51:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-08-26",
  "sha256": "aa592ef23cc6d51ef4f5a8435239475f2e719e30e1cf3797eb7ae1ce7fddbd3a",
  "tags": [

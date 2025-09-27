@@ -5,288 +5,242 @@
  "bytes": 223052962,
  "current_main_group_package": true,
  "description": "Redux version of the previously-released Ter Shibboleth <a href=\"0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859\">Part 1</a> and <a href=\"dd6e0601e0d306aaf93a374a5acebdc199d1bb5c49d44aa9662d5a3b826ab239\">Part 2</a>, featuring various changes including a port of the first five maps to Drake. An episode with eight huge, uniquely themed levels: a beach resort under a Golden Gate Bridge, a puzzle map set in an industrial storage facility, an Asian temple, a twisted otherworldly fortress, a desert mining town, a snowy village in the mountains, the city of Paris (complete with Notre Dame and the Eiffel tower), and an ancient Roman city next to a colosseum. Most of the maps use custom textures; the texture wads and the map sources are included.",
- "files": [
-  {
+ "files": {
+  "Tershibboleth/": {
    "bytes": 0,
-   "path": "Tershibboleth/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-10-10T12:15:02.000Z"
   },
-  {
+  "Tershibboleth/TerShib_readme.txt": {
    "bytes": 2160,
-   "path": "Tershibboleth/TerShib_readme.txt",
    "sha256": "de9a2e3b43eb071cd45dd3332d94447fa9c29b6168fcebc61c48b32da53fb599",
    "timestamp": "2020-10-12T13:11:06.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/": {
    "bytes": 0,
-   "path": "Tershibboleth/Tershib_source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-08T18:24:42.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/amphiteater.wad": {
    "bytes": 9234780,
-   "path": "Tershibboleth/Tershib_source/amphiteater.wad",
    "sha256": "2d642a39f777030069278f7e37797d76a17a5afbb1054a6641cfcca311e0f070",
    "timestamp": "2020-01-30T10:57:56.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/beach.wad": {
    "bytes": 2141672,
-   "path": "Tershibboleth/Tershib_source/beach.wad",
    "sha256": "f1978df32ee1e813a946420b667b12352d2be19d11deef3a704fcb1aeda2a327",
    "timestamp": "2020-08-21T21:04:10.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/boreal.wad": {
    "bytes": 5021236,
-   "path": "Tershibboleth/Tershib_source/boreal.wad",
    "sha256": "daa4ecd61e688e7ec53764286f856c6d96898aad6658c06d1a84e33de587cdd3",
    "timestamp": "2020-01-10T18:06:36.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/chamber.wad": {
    "bytes": 1158336,
-   "path": "Tershibboleth/Tershib_source/chamber.wad",
    "sha256": "d626d60f0911f3ad83a7a4b8843ada4b9c5631f0d4434d4c4f00d5203dd15407",
    "timestamp": "2020-08-24T14:11:24.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/desert.wad": {
    "bytes": 2841312,
-   "path": "Tershibboleth/Tershib_source/desert.wad",
    "sha256": "4143671a72cacdb580d56d7d1f996ea57ccd0c3ccfb3a05dc683a3a44a78691c",
    "timestamp": "2020-10-04T21:18:06.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/hypnagogic.wad": {
    "bytes": 7749636,
-   "path": "Tershibboleth/Tershib_source/hypnagogic.wad",
    "sha256": "e58bd657f6ac1e088d58ec81090c165087bf6a66acaa1fda2ad0dfc096f663da",
    "timestamp": "2020-09-15T21:11:40.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/pagoda.wad": {
    "bytes": 5680004,
-   "path": "Tershibboleth/Tershib_source/pagoda.wad",
    "sha256": "85bbae6c1afc2e7c05e107dc762d29aee2c95b98cbed01bf4445b673f185f1aa",
    "timestamp": "2020-08-25T22:38:04.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/paris.wad": {
    "bytes": 9033292,
-   "path": "Tershibboleth/Tershib_source/paris.wad",
    "sha256": "4809edc4bb39b5425e672ed666c233628292d6a131dce83c5968a30660540bf5",
    "timestamp": "2020-10-08T17:28:16.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib1_drake.map": {
    "bytes": 18300146,
-   "path": "Tershibboleth/Tershib_source/shib1_drake.map",
    "sha256": "379da41f3e102f51c05ea1f511b3ab10aaafb0ba7cfe385cf1aa304c309b30a4",
    "timestamp": "2020-10-10T23:42:36.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib2_drake.map": {
    "bytes": 7116756,
-   "path": "Tershibboleth/Tershib_source/shib2_drake.map",
    "sha256": "7cbee12d75a68af866c5d1907e0c1ef0c3dddb02ac9cebfc661ef34dacccd012",
    "timestamp": "2020-10-10T23:32:42.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib3_drake.map": {
    "bytes": 21109492,
-   "path": "Tershibboleth/Tershib_source/shib3_drake.map",
    "sha256": "d5da220c680417787d89a4309a1a5e06834cc25fd64992ab3f4b98d6dbbc2613",
    "timestamp": "2020-09-17T22:19:14.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib4_drake.map": {
    "bytes": 14560054,
-   "path": "Tershibboleth/Tershib_source/shib4_drake.map",
    "sha256": "9a69f3a2720e79ae6021f09c388c93de3854df2c5c70727dab490186ad0b640c",
    "timestamp": "2020-10-11T18:34:58.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib5_drake.map": {
    "bytes": 29234005,
-   "path": "Tershibboleth/Tershib_source/shib5_drake.map",
    "sha256": "2f795accc1de0c5c25cac8f78c340af87340d5f7b7b1c1eb5e944312eb9d140c",
    "timestamp": "2020-10-06T10:21:54.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib6.map": {
    "bytes": 26371153,
-   "path": "Tershibboleth/Tershib_source/shib6.map",
    "sha256": "1a693cb259077ff9eb1f9cb1cb96583013209f521b7e66398f91d6e5a466b13b",
    "timestamp": "2020-10-11T21:19:34.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib7.map": {
    "bytes": 45597933,
-   "path": "Tershibboleth/Tershib_source/shib7.map",
    "sha256": "7bd4065d246f03b34202395f5c6e8933f37695f0c729cc288a5d50493dffe829",
    "timestamp": "2020-10-11T22:59:28.000Z"
   },
-  {
+  "Tershibboleth/Tershib_source/shib8.map": {
    "bytes": 54181344,
-   "path": "Tershibboleth/Tershib_source/shib8.map",
    "sha256": "b93ea0e50427c7473812b8efc567817f70eadf7b8115da4a36aab91b9bedc0f5",
    "timestamp": "2020-10-09T12:58:32.000Z"
   },
-  {
+  "Tershibboleth/maps/": {
    "bytes": 0,
-   "path": "Tershibboleth/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-08T18:25:40.000Z"
   },
-  {
+  "Tershibboleth/maps/shib1_drake.bsp": {
    "bytes": 26275468,
-   "path": "Tershibboleth/maps/shib1_drake.bsp",
    "sha256": "c6fd97ae0e1893f9de7dd0a7560407dd1b38f73188c42c28078112b96abe757c",
    "timestamp": "2020-10-10T23:42:42.000Z"
   },
-  {
+  "Tershibboleth/maps/shib2_drake.bsp": {
    "bytes": 26946244,
-   "path": "Tershibboleth/maps/shib2_drake.bsp",
    "sha256": "0312a692913b4795c00467f9b1785da0b63b7412ee0f265d6bf1bf6eae77942c",
    "timestamp": "2020-10-10T23:33:30.000Z"
   },
-  {
+  "Tershibboleth/maps/shib3_drake.bsp": {
    "bytes": 45003456,
-   "path": "Tershibboleth/maps/shib3_drake.bsp",
    "sha256": "c7e7aa65d2878e6642a450d805ab68d5812cf52f3b152a2e13bce91fc46470bf",
    "timestamp": "2020-09-17T22:21:46.000Z"
   },
-  {
+  "Tershibboleth/maps/shib4_drake.bsp": {
    "bytes": 42626648,
-   "path": "Tershibboleth/maps/shib4_drake.bsp",
    "sha256": "be382e471cf4957ed785d8a2ae0eff8687ad3865c739b5a84457818e043be294",
    "timestamp": "2020-10-11T18:40:36.000Z"
   },
-  {
+  "Tershibboleth/maps/shib5_drake.bsp": {
    "bytes": 55820376,
-   "path": "Tershibboleth/maps/shib5_drake.bsp",
    "sha256": "8b992cbf0a3845f9786fcbb33f510ba068870984bdf4fbdec1f595b63cf52aba",
    "timestamp": "2020-10-06T10:22:46.000Z"
   },
-  {
+  "Tershibboleth/maps/shib6.bsp": {
    "bytes": 61431216,
-   "path": "Tershibboleth/maps/shib6.bsp",
    "sha256": "e517005bbb777978c99b51e28bfb71277e9fad0d6d66bb302ee9c2e499732eb8",
    "timestamp": "2020-10-11T21:20:14.000Z"
   },
-  {
+  "Tershibboleth/maps/shib6.lit": {
    "bytes": 43872500,
-   "path": "Tershibboleth/maps/shib6.lit",
    "sha256": "b375781df9399c9e091714b7b3e4dc44e9d967c2821f89ff7a9579552f93b78f",
    "timestamp": "2020-10-08T13:00:40.000Z"
   },
-  {
+  "Tershibboleth/maps/shib7.bsp": {
    "bytes": 89351152,
-   "path": "Tershibboleth/maps/shib7.bsp",
    "sha256": "c2681b31f3c7c14ebc602c40cf349bc07dc09f0bb459287993a66a363bc9640e",
    "timestamp": "2020-10-11T23:02:36.000Z"
   },
-  {
+  "Tershibboleth/maps/shib8.bsp": {
    "bytes": 129127500,
-   "path": "Tershibboleth/maps/shib8.bsp",
    "sha256": "b74fd8669514108eafd0d22e3e2b761e0a2999ba74822676a4c1a48b93abdeee",
    "timestamp": "2020-10-09T12:59:12.000Z"
   },
-  {
+  "Tershibboleth/maps/start.bsp": {
    "bytes": 124468,
-   "path": "Tershibboleth/maps/start.bsp",
    "sha256": "50a6a3781cddfdcd02d0f7e69d8e2ac89abb15b365a19b51d138e35e820b4833",
    "timestamp": "2020-10-06T16:38:44.000Z"
   },
-  {
+  "Tershibboleth/pak0.pak": {
    "bytes": 25051624,
-   "path": "Tershibboleth/pak0.pak",
    "sha256": "9a229082e446dc3991778b3364ec5aeba9b6767e5905406767f753862997295a",
    "timestamp": "2011-06-12T21:18:08.000Z"
   },
-  {
+  "Tershibboleth/pak1.pak": {
    "bytes": 11698993,
-   "path": "Tershibboleth/pak1.pak",
    "sha256": "22d57e211cdb714ba3df19083c1514b08e5c84650545bc1a4092b383fb72a3f9",
    "timestamp": "2011-06-12T20:56:02.000Z"
   },
-  {
+  "Tershibboleth/pak2.pak": {
    "bytes": 4813402,
-   "path": "Tershibboleth/pak2.pak",
    "sha256": "8bf25c19172e0f7a63ad30fa14b1a93d335e50270bb1d3bd110d63adae53a3b5",
    "timestamp": "2012-12-11T08:04:08.000Z"
   },
-  {
+  "Tershibboleth/pak3.pak": {
    "bytes": 6506790,
-   "path": "Tershibboleth/pak3.pak",
    "sha256": "9a58d294e79806fc15293163ba9954f7d842238c3040aa753f497c5fec2e8473",
    "timestamp": "2012-12-11T08:01:28.000Z"
   },
-  {
+  "Tershibboleth/progs.dat": {
    "bytes": 1801512,
-   "path": "Tershibboleth/progs.dat",
    "sha256": "e6d0e49beb603b2bd911f3c0132b91649c4286033cd07f1225c5343c62f09f0d",
    "timestamp": "2012-12-11T08:01:40.000Z"
   },
-  {
+  "Tershibboleth/quake.rc": {
    "bytes": 475,
-   "path": "Tershibboleth/quake.rc",
    "sha256": "6bb79f502b2cba412945aa2c0122cfbd44cc4354e908aa85e24ca40ca721505b",
    "timestamp": "2020-10-12T13:09:44.000Z"
   },
-  {
+  "Tershibboleth/sound/": {
    "bytes": 0,
-   "path": "Tershibboleth/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-08T18:26:56.000Z"
   },
-  {
+  "Tershibboleth/sound/gong.wav": {
    "bytes": 38120,
-   "path": "Tershibboleth/sound/gong.wav",
    "sha256": "f4cab329ff6b4029fb5d6ffad981e175604b57949ec6b02b0a5d7b21980205dc",
    "timestamp": "2020-08-27T21:09:32.000Z"
   },
-  {
+  "Tershibboleth/sound/shib1amb.wav": {
    "bytes": 1662820,
-   "path": "Tershibboleth/sound/shib1amb.wav",
    "sha256": "92b6e98fcdde8bf5a8509f727bdf3c90db3b54b800f5e0cd2b67ffe938aa2fe6",
    "timestamp": "2020-09-01T21:03:36.000Z"
   },
-  {
+  "Tershibboleth/sound/shib2amb.wav": {
    "bytes": 2099120,
-   "path": "Tershibboleth/sound/shib2amb.wav",
    "sha256": "d6c43b03e37bcc42c49f6613db3dd098beaa90048dd837a057bc8c1359281924",
    "timestamp": "2020-09-01T21:04:20.000Z"
   },
-  {
+  "Tershibboleth/sound/shib3amb.wav": {
    "bytes": 3105462,
-   "path": "Tershibboleth/sound/shib3amb.wav",
    "sha256": "4cdd02b6ea608650c7aab1d92e5e58ba4b6e1746d1aaf3dac1e80bd078f7d16f",
    "timestamp": "2020-09-01T21:34:50.000Z"
   },
-  {
+  "Tershibboleth/sound/shib4amb.wav": {
    "bytes": 1803420,
-   "path": "Tershibboleth/sound/shib4amb.wav",
    "sha256": "c9c91f0ca05d67842a64e236fc9bb726c6960961e9d2cdf68cc4662b09c5de41",
    "timestamp": "2020-09-19T10:39:00.000Z"
   },
-  {
+  "Tershibboleth/sound/shib5amb.wav": {
    "bytes": 3531470,
-   "path": "Tershibboleth/sound/shib5amb.wav",
    "sha256": "93b93d08668ec690fb8f1f061f35d959096e3e84f6c94763490bc480993fe833",
    "timestamp": "2020-09-21T12:35:32.000Z"
   },
-  {
+  "Tershibboleth/sound/shib6amb.wav": {
    "bytes": 1697310,
-   "path": "Tershibboleth/sound/shib6amb.wav",
    "sha256": "1f85b9bcc386d459484b7c6f0d03a7003308272d58479f333c932c9da01949c5",
    "timestamp": "2020-01-12T11:21:00.000Z"
   },
-  {
+  "Tershibboleth/sound/shib7amb.wav": {
    "bytes": 2303032,
-   "path": "Tershibboleth/sound/shib7amb.wav",
    "sha256": "1863be642e71d976838062f5ff6d716fe6cd6a28ab4ef5192681c98a42ab94b4",
    "timestamp": "2019-03-19T14:33:22.000Z"
   },
-  {
+  "Tershibboleth/sound/shib8amb.wav": {
    "bytes": 1323068,
-   "path": "Tershibboleth/sound/shib8amb.wav",
    "sha256": "395e36a86a700f9f079d18489e16f3e599aa34641397a513085fbc595a1aacac",
    "timestamp": "2020-01-14T17:36:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher. The memory heapsize needs to be set to around 1.5 GB!"
  ],

@@ -4,612 +4,512 @@
  ],
  "bytes": 32347755,
  "description": "Episode of 8 medium-to-large maps in varying styles, featuring mostly classic textures but with a modern twist. A lot of focus is put into combat design, with many ambushes and elaborate fight setups.",
- "files": [
-  {
+ "files": {
+  "tainted/copper_v1_20.txt": {
    "bytes": 95723,
-   "path": "tainted/copper_v1_20.txt",
    "sha256": "5bc8b015627c7436473fce64909b75682f9b0d8c4faebd2d654d083e8d444806",
    "timestamp": "2023-07-02T13:02:42.000Z"
   },
-  {
+  "tainted/demo1.dem": {
    "bytes": 4082876,
-   "path": "tainted/demo1.dem",
    "sha256": "01da9ba215dc5f7b33a8adcc1d5d0cc951e6bb66d195c7856d98c23ecad62391",
    "timestamp": "2023-07-08T23:54:10.000Z"
   },
-  {
+  "tainted/gfx/": {
    "bytes": 0,
-   "path": "tainted/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-07-03T20:23:40.000Z"
   },
-  {
+  "tainted/gfx/conback.lmp": {
    "bytes": 360008,
-   "path": "tainted/gfx/conback.lmp",
    "sha256": "bc11b8c9ab2e1c44ef045c3325521f4bade278c2c4461cf7643282e3f2d4339e",
    "timestamp": "2023-07-01T22:34:22.000Z"
   },
-  {
+  "tainted/mapdb.json": {
    "bytes": 1549,
-   "path": "tainted/mapdb.json",
    "sha256": "204d0ecdb18f91fe2580c74c4ad9eb32dc388cfdf635c32f378933c5671433e5",
    "timestamp": "2023-07-02T13:02:42.000Z"
   },
-  {
+  "tainted/maps/": {
    "bytes": 0,
-   "path": "tainted/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-07-11T21:09:50.000Z"
   },
-  {
+  "tainted/maps/start.bsp": {
    "bytes": 5952148,
-   "path": "tainted/maps/start.bsp",
    "sha256": "e79308b9589c17950f7547fcb2d1e44b5da4dc978595bf59e9675ce5a80d0fda",
    "timestamp": "2023-07-11T21:09:14.000Z"
   },
-  {
+  "tainted/maps/start.lit": {
    "bytes": 1614722,
-   "path": "tainted/maps/start.lit",
    "sha256": "b9a04c1d052ea149b7e406548da9da12cd8978ec4264c2efa298afe341a5e8bb",
    "timestamp": "2023-07-11T21:09:14.000Z"
   },
-  {
+  "tainted/maps/tainted1.bsp": {
    "bytes": 3267068,
-   "path": "tainted/maps/tainted1.bsp",
    "sha256": "be828d7d7f795e0e9989f91f1f73f7fd6618c677c73347636c41654920695e32",
    "timestamp": "2023-07-11T21:00:30.000Z"
   },
-  {
+  "tainted/maps/tainted1.lit": {
    "bytes": 1267436,
-   "path": "tainted/maps/tainted1.lit",
    "sha256": "cfa644fd7558f2d9f9fc42b45a14bbd483869a829c4f427352f47643c8e7400d",
    "timestamp": "2023-07-11T21:00:30.000Z"
   },
-  {
+  "tainted/maps/tainted2.bsp": {
    "bytes": 3896336,
-   "path": "tainted/maps/tainted2.bsp",
    "sha256": "96e6f56e7e3611e025d0a5e3bea46e415b029dface8884cee0b9c150c64dae44",
    "timestamp": "2023-07-11T21:01:54.000Z"
   },
-  {
+  "tainted/maps/tainted2.lit": {
    "bytes": 1445648,
-   "path": "tainted/maps/tainted2.lit",
    "sha256": "cad294b647415b33369f519a3f772c222a24bf9b49178c27093cae7b44c20aaf",
    "timestamp": "2023-07-11T21:01:54.000Z"
   },
-  {
+  "tainted/maps/tainted3.bsp": {
    "bytes": 5006432,
-   "path": "tainted/maps/tainted3.bsp",
    "sha256": "ca56267b720d83a17f0af826039bb92ea96b506f9910d5b72048b532dc3265b3",
    "timestamp": "2023-07-11T21:03:14.000Z"
   },
-  {
+  "tainted/maps/tainted3.lit": {
    "bytes": 1821626,
-   "path": "tainted/maps/tainted3.lit",
    "sha256": "10bdd714ea03793cc231364ec472a0b3e5675c6122233f9410727652a212ba34",
    "timestamp": "2023-07-11T21:03:14.000Z"
   },
-  {
+  "tainted/maps/tainted4.bsp": {
    "bytes": 5168492,
-   "path": "tainted/maps/tainted4.bsp",
    "sha256": "84fba4378ad2d6e63bdf3d2dfe5c978e2a0512869d0f510e86d64031936d2282",
    "timestamp": "2023-07-11T21:15:08.000Z"
   },
-  {
+  "tainted/maps/tainted4.lit": {
    "bytes": 2352920,
-   "path": "tainted/maps/tainted4.lit",
    "sha256": "0ea197f8744a73495f5d96747f6d217834fd38b52a0eb124f0f25a086d1856b5",
    "timestamp": "2023-07-11T21:15:08.000Z"
   },
-  {
+  "tainted/maps/tainted5.bsp": {
    "bytes": 6511444,
-   "path": "tainted/maps/tainted5.bsp",
    "sha256": "5ea93a4ee0b67b6b14775a9ffff9f9e8f5f729e1bb57a471ed197c9fab18d1ce",
    "timestamp": "2023-07-11T20:56:18.000Z"
   },
-  {
+  "tainted/maps/tainted5.lit": {
    "bytes": 3855302,
-   "path": "tainted/maps/tainted5.lit",
    "sha256": "e213b4a6726542e40d77934d7c8b135fc1db1744fb65279f946b00093c48d8c2",
    "timestamp": "2023-07-11T20:56:18.000Z"
   },
-  {
+  "tainted/maps/tainted6.bsp": {
    "bytes": 11560300,
-   "path": "tainted/maps/tainted6.bsp",
    "sha256": "d305edf01de034d7e3c36dcb9c8ada766fed580b89e9858c919aeb91ac18e738",
    "timestamp": "2023-07-11T20:58:56.000Z"
   },
-  {
+  "tainted/maps/tainted6.lit": {
    "bytes": 4880576,
-   "path": "tainted/maps/tainted6.lit",
    "sha256": "6a463d83d7a56f41d84c9de0e00a74bd4b059d7baadfc4592ca8103f48d617aa",
    "timestamp": "2023-07-11T20:58:56.000Z"
   },
-  {
+  "tainted/maps/tainted7.bsp": {
    "bytes": 1404636,
-   "path": "tainted/maps/tainted7.bsp",
    "sha256": "87c24b4cfe1dae7149608f78dbc72cfb672d685a431c423248fac9ee64580a0a",
    "timestamp": "2023-07-11T21:07:58.000Z"
   },
-  {
+  "tainted/maps/tainted7.lit": {
    "bytes": 451226,
-   "path": "tainted/maps/tainted7.lit",
    "sha256": "d0c08056333a537e361ca89a1f60847f91a90dadad0a63f1192e80e06ced166d",
    "timestamp": "2023-07-11T21:07:58.000Z"
   },
-  {
+  "tainted/maps/tainted7.pts": {
    "bytes": 46646,
-   "path": "tainted/maps/tainted7.pts",
    "sha256": "084851add3d1694dbf4cc5095c48c75c63ae40a1080dc3b3c6436234e6620438",
    "timestamp": "2023-07-11T21:04:38.000Z"
   },
-  {
+  "tainted/pak0.pak": {
    "bytes": 5025855,
-   "path": "tainted/pak0.pak",
    "sha256": "14c9b7e1eea3672840a58941e8b7e14de30974cb14eeceb4a1acfff38ee8f8ad",
    "timestamp": "2023-07-02T13:22:14.000Z"
   },
-  {
+  "tainted/progs.dat": {
    "bytes": 552818,
-   "path": "tainted/progs.dat",
    "sha256": "465549a622672cf60c4b8d3b6d12b69bf1cb1b90e4ae0e06af7a89bc8cf1077d",
    "timestamp": "2023-07-02T13:02:42.000Z"
   },
-  {
+  "tainted/progs/": {
    "bytes": 0,
-   "path": "tainted/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-07-01T23:23:06.000Z"
   },
-  {
+  "tainted/progs/misc_seaweed.mdl": {
    "bytes": 16100,
-   "path": "tainted/progs/misc_seaweed.mdl",
    "sha256": "dfbd38a439d392870c7c4c7ebea4475827b716004ca47bfa7f13b47daf07d774",
    "timestamp": "2023-06-15T08:12:24.000Z"
   },
-  {
+  "tainted/progs/rune1.mdl": {
    "bytes": 20820,
-   "path": "tainted/progs/rune1.mdl",
    "sha256": "15f7c27268a9ca70e58a65baea998fe8cdcdc722bec715604d4630a44fbbb09d",
    "timestamp": "2023-06-15T08:12:26.000Z"
   },
-  {
+  "tainted/quake.rc": {
    "bytes": 1101,
-   "path": "tainted/quake.rc",
    "sha256": "1c446020b2307115167556cebfce76e1488fcfd30f07a87cc29e3a3e5a7ab269",
    "timestamp": "2023-07-02T13:02:42.000Z"
   },
-  {
+  "tainted/sound/": {
    "bytes": 0,
-   "path": "tainted/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-07-03T22:27:20.000Z"
   },
-  {
+  "tainted/sound/waves-on-the-shore-road.mp3": {
    "bytes": 336127,
-   "path": "tainted/sound/waves-on-the-shore-road.mp3",
    "sha256": "2c06f59c0efddbf80f5236103c3a3f26517cc6f59a5111e9b3b735f48c9962fb",
    "timestamp": "2023-06-30T22:42:54.000Z"
   },
-  {
+  "tainted/sound/waves-on-the-shore-road.wav": {
    "bytes": 441150,
-   "path": "tainted/sound/waves-on-the-shore-road.wav",
    "sha256": "d0d92264f3843b4e721c3a4e1cd10f49031b1be71602ce2ffa7dd4147b2eb267",
    "timestamp": "2023-07-03T22:27:20.000Z"
   },
-  {
+  "tainted/src/": {
    "bytes": 0,
-   "path": "tainted/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-07-02T13:07:28.000Z"
   },
-  {
+  "tainted/src/ai.qc": {
    "bytes": 35970,
-   "path": "tainted/src/ai.qc",
    "sha256": "75465be462ce2dafca8655efda589aac75698b209559e82378cc02380c879c32",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/buttons.qc": {
    "bytes": 6328,
-   "path": "tainted/src/buttons.qc",
    "sha256": "f4720688b02b86ac2a47d1a74e5d3a959f9711b5275052467590a39039985dd6",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/client.qc": {
    "bytes": 48568,
-   "path": "tainted/src/client.qc",
    "sha256": "53fc0a28754e4d4ed4beaa895934dc4ec2eaad78813367e47e4f628ca9e5b7dc",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/combat.qc": {
    "bytes": 17254,
-   "path": "tainted/src/combat.qc",
    "sha256": "b055b120b62cfa9bc25dec705bbf3fe0721a820363ee49d4deca1446e511b4fc",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/constants.qc": {
    "bytes": 9839,
-   "path": "tainted/src/constants.qc",
    "sha256": "11dcb834964c52e1fdc811292f764a732d1e2f0a817bc8d703d9a1e6f3c389ca",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/defs.qc": {
    "bytes": 17867,
-   "path": "tainted/src/defs.qc",
    "sha256": "80b814a9f90494a68b7b159e374b75da5083fc23ae772699e88848c7107c296f",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/dev.qc": {
    "bytes": 6953,
-   "path": "tainted/src/dev.qc",
    "sha256": "3d951b3d0dbffc31e49d91bfe09c88367e0bc05f25c2178b1caf278a397b5490",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/doors.qc": {
    "bytes": 34268,
-   "path": "tainted/src/doors.qc",
    "sha256": "bee8a32dafd6c9b5d88433f033d32ae1ae8f448161390ea505b522204f00c1f4",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/explobox.qc": {
    "bytes": 7452,
-   "path": "tainted/src/explobox.qc",
    "sha256": "0095ec2e8b44e045ad0a0312ad9d1285667bac6bb4c93fd6783065c474606608",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/fly.qc": {
    "bytes": 5602,
-   "path": "tainted/src/fly.qc",
    "sha256": "98dc734bb720c547f1dd04e9ca53c5c79a84555f6f8f0176e4a923d670289c11",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/fog.qc": {
    "bytes": 13713,
-   "path": "tainted/src/fog.qc",
    "sha256": "30ed346354c575db42e90b4e8e10b4142ffb0b85b766a5967564c320f7085b0d",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/fx.qc": {
    "bytes": 27446,
-   "path": "tainted/src/fx.qc",
    "sha256": "4ad5b0d6efa53306c98adcf4e2b54ba64cd0d23da5981487f746cf250d137995",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/impulse.qc": {
    "bytes": 5387,
-   "path": "tainted/src/impulse.qc",
    "sha256": "4352f0f6dad0cdc83f871c81bfb202aa590092401d1e7aa799893352e9c467be",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/item_backpack.qc": {
    "bytes": 8866,
-   "path": "tainted/src/item_backpack.qc",
    "sha256": "04786fd5a93abe2bd2e71dd0a9aacfda1a473c4379fe0cb2ca9ae20f981fea58",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/item_health_armor.qc": {
    "bytes": 9064,
-   "path": "tainted/src/item_health_armor.qc",
    "sha256": "026fe3577d26ff2409d9746dbc614f5ae8dac1ce8119c248f308b9a3335d1326",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/item_keys_runes.qc": {
    "bytes": 10594,
-   "path": "tainted/src/item_keys_runes.qc",
    "sha256": "f202064bdfebe76ea4a40e65fdc64f614d1dadef0d8eaec2f8e41afcc9959de1",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/item_powerups.qc": {
    "bytes": 8234,
-   "path": "tainted/src/item_powerups.qc",
    "sha256": "24da1f5081090a84d790a39818a88f9d2e400628383ceff1d19e756874d33687",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/item_weap_ammo.qc": {
    "bytes": 13756,
-   "path": "tainted/src/item_weap_ammo.qc",
    "sha256": "e8b318a0f5d453f9ecc64eafeaf571a43e253f1556a63337956d8c52a8683769",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/items.qc": {
    "bytes": 26352,
-   "path": "tainted/src/items.qc",
    "sha256": "f729c41532770625de69ea6dd7a23e8130de30c033831bb48f554bfd1dd59161",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/lights.qc": {
    "bytes": 28339,
-   "path": "tainted/src/lights.qc",
    "sha256": "53e7c974eb7b4567af7ae3244d18dbe47971f7fc578010588d44c5dc758f7c04",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_boss.qc": {
    "bytes": 17815,
-   "path": "tainted/src/m_boss.qc",
    "sha256": "b1d20af068cb295cd4481d9337bc9fd13d7715f695f139fb04c87a7cf4145eb3",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_demon.qc": {
    "bytes": 19028,
-   "path": "tainted/src/m_demon.qc",
    "sha256": "dc01ee9e51f114718516bbbe66167d53a4044b952767095c3d7fb158c6337aea",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_dog.qc": {
    "bytes": 11731,
-   "path": "tainted/src/m_dog.qc",
    "sha256": "b8a3f0f1e98e1cc153cbebdce0c537319d5001890decd170ccadaca6025aaa8a",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_enforcer.qc": {
    "bytes": 12510,
-   "path": "tainted/src/m_enforcer.qc",
    "sha256": "526f36abbd64ee6e7806d99db8c46de24be7d831ff4076d5de3a666ea0ccaa81",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_fish.qc": {
    "bytes": 11957,
-   "path": "tainted/src/m_fish.qc",
    "sha256": "6a1a8c05f322d07e98dbcfadb9a864b767f02f30e00f6822c17a95f0e9d4b282",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_hknight.qc": {
    "bytes": 20104,
-   "path": "tainted/src/m_hknight.qc",
    "sha256": "14e73dda7e5c299e2a2dcc2b1facfc8ac3a8aab93ca45d2cbba1a99323b9e3df",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_knight.qc": {
    "bytes": 11489,
-   "path": "tainted/src/m_knight.qc",
    "sha256": "dbeee75856802735bb427f09e10d9539ae925ef8c0f59d5b46c745aef6fe98ab",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_ogre.qc": {
    "bytes": 17435,
-   "path": "tainted/src/m_ogre.qc",
    "sha256": "7e6d13b77f0c65b6b74ceef786eeb4bcbea5521d2ae516c974e4783b17e6a8fb",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_oldone.qc": {
    "bytes": 12564,
-   "path": "tainted/src/m_oldone.qc",
    "sha256": "f6926f614d9490ac35458b1afdbda8cebba28d61e4cb015f9760c4767456b26a",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_shalrath.qc": {
    "bytes": 12310,
-   "path": "tainted/src/m_shalrath.qc",
    "sha256": "4a352617e72b13d252e58fc61d8112d7a5aaa4c195dded83adfad314fe7c93f2",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_shambler.qc": {
    "bytes": 16788,
-   "path": "tainted/src/m_shambler.qc",
    "sha256": "d6732d1cb54721dcdfe7b67da07ce665d23a4821ff20cab08f8160cf28aa31e4",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_soldier.qc": {
    "bytes": 12627,
-   "path": "tainted/src/m_soldier.qc",
    "sha256": "daf3447a6b7f9f92d9d03af5f6f7d07ceeb120dfda717d78cf994f7b2ce9bf46",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_tarbaby.qc": {
    "bytes": 10728,
-   "path": "tainted/src/m_tarbaby.qc",
    "sha256": "a81c517f49cd5b0d167a9a11da126fc5c16a3cd695d87b897b93b7e1cda3c891",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_wizard.qc": {
    "bytes": 11964,
-   "path": "tainted/src/m_wizard.qc",
    "sha256": "d66e7b87e9ea256728ddcd617912700012613cfe5780833db301e5da80ac81e3",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/m_zombie.qc": {
    "bytes": 24853,
-   "path": "tainted/src/m_zombie.qc",
    "sha256": "2fb78c63d457384346d58c05af1ca76d7f815e0cc54dabd751d89a44c7e2dd3c",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/maths.qc": {
    "bytes": 5909,
-   "path": "tainted/src/maths.qc",
    "sha256": "4d098463c26f795cfd6b6fec621ffb6716580f85a19f808d2e0e293fccf8702f",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/meat.qc": {
    "bytes": 6035,
-   "path": "tainted/src/meat.qc",
    "sha256": "80a33e44d7569d5a38966e9b09938fa3942910ff5d312ec75942cb4a487f8554",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/misc.qc": {
    "bytes": 21190,
-   "path": "tainted/src/misc.qc",
    "sha256": "a7fd6d05d337e7220b4b41372376fd2e5cd8e9a9d4cf851a8dc563d8858bdc51",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/monsters.qc": {
    "bytes": 18872,
-   "path": "tainted/src/monsters.qc",
    "sha256": "6e7093f67aada099b11b61f3c6d0c8f31ce125d0ec9518fa6559cec7e203206b",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/plats.qc": {
    "bytes": 36924,
-   "path": "tainted/src/plats.qc",
    "sha256": "974c84885b636a61ee6585593d73167bbff6180feea14fd80eef3e8fbf0d0ff6",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/player.qc": {
    "bytes": 18867,
-   "path": "tainted/src/player.qc",
    "sha256": "aba4d11f1d8ccc780ee88cf2655cf588efcb98bdb98f0a2669f98d81c5820d07",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/progs.src": {
    "bytes": 1041,
-   "path": "tainted/src/progs.src",
    "sha256": "f3787ad568db550c4f87c2da02fd36c1a8ec93ca00ab6dee2eb24984e0b82d09",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/projectiles.qc": {
    "bytes": 15567,
-   "path": "tainted/src/projectiles.qc",
    "sha256": "ca6085662fc674d590593f3ac0b213d9409013a48fd34798c5f34ccd857ada3f",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/qc2def.py": {
    "bytes": 1948,
-   "path": "tainted/src/qc2def.py",
    "sha256": "c34de3f7dec5c7b83afce8f8569b47113eff56ce97dce8aeafd51239d61bc940",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/qc2fgd.py": {
    "bytes": 2140,
-   "path": "tainted/src/qc2fgd.py",
    "sha256": "747d3eb05499e117a58d65eb795f348b874b475f086c572b1464c90f585173eb",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/shooters.qc": {
    "bytes": 13562,
-   "path": "tainted/src/shooters.qc",
    "sha256": "632e4b8742662d13dacf0232ab970a428ce80760f6dba89349e971f069477e3f",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/sound.qc": {
    "bytes": 12540,
-   "path": "tainted/src/sound.qc",
    "sha256": "306effe5a6ea6541e02c746dab8e822311530696974bf6e2367ec28345a344be",
    "timestamp": "2023-07-02T13:02:42.000Z"
   },
-  {
+  "tainted/src/subs.qc": {
    "bytes": 2890,
-   "path": "tainted/src/subs.qc",
    "sha256": "ed3f093a06a9f8318bc465573c02dae7656239f6de33649cad2448a7dac7738e",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/subs_move.qc": {
    "bytes": 4244,
-   "path": "tainted/src/subs_move.qc",
    "sha256": "17f5e74d47f5c1568cadc8f4158b06d387c9adf56e9721af357d2f3c9cbed97b",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/subs_tgt.qc": {
    "bytes": 12551,
-   "path": "tainted/src/subs_tgt.qc",
    "sha256": "13974814d9d557df6c3d33590e23ed3e5c2e33b5161e09a9a64be81cd97abbc7",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/t_ctrl.qc": {
    "bytes": 19617,
-   "path": "tainted/src/t_ctrl.qc",
    "sha256": "c259cdba46f9d1c446b0fa9042e64f87d47ab14e4eea878f87adef5bc06d0246",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/t_level.qc": {
    "bytes": 15121,
-   "path": "tainted/src/t_level.qc",
    "sha256": "6241e54c438850040aad67e4804495fa90e48350c10aac8975f743f0df80e672",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/t_tele.qc": {
    "bytes": 21400,
-   "path": "tainted/src/t_tele.qc",
    "sha256": "c275afb917c5d413f520e94a5c9c81126b02f86002e1296e7b2d425055f2a589",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/t_void.qc": {
    "bytes": 16117,
-   "path": "tainted/src/t_void.qc",
    "sha256": "e40f41a56be585d52544b4b5db48a8acf8f2a35c65f18ef1025e04346fca1080",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/test.qc": {
    "bytes": 329,
-   "path": "tainted/src/test.qc",
    "sha256": "1db99110de27d9e6fe20330cbfefde0d443455a85a12ae8443d9ea295e66c3f1",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/triggers.qc": {
    "bytes": 42482,
-   "path": "tainted/src/triggers.qc",
    "sha256": "c3dca4151a21f8ada5e17934b70ace131b0f827a23dbe31cb100e40d337d2590",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/utility.qc": {
    "bytes": 17360,
-   "path": "tainted/src/utility.qc",
    "sha256": "b7fc9cb7a95f26b8f40c9b5e95d37883c37c7d58006b170a1091044936802956",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/w_axe.qc": {
    "bytes": 3247,
-   "path": "tainted/src/w_axe.qc",
    "sha256": "595034cfc82e1954a5882a7a6a036cb540f287d33088abd4c7461ad3f3ea4dd7",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/w_lightning.qc": {
    "bytes": 10127,
-   "path": "tainted/src/w_lightning.qc",
    "sha256": "e6195aafa9e7b287d43123c88c9d993b3483890c0bdd097f64bec61e1675c2ae",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/w_nails.qc": {
    "bytes": 4799,
-   "path": "tainted/src/w_nails.qc",
    "sha256": "7bdd6a079efa97babae3867e2e697d0ff9a0f424c58a07c5ac65c7c3a137b1e7",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/w_rockets.qc": {
    "bytes": 3680,
-   "path": "tainted/src/w_rockets.qc",
    "sha256": "884b734896df2f189c36d51034d0c020399a90f08f6efc28e694a99beaf55d2b",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/w_shotguns.qc": {
    "bytes": 4434,
-   "path": "tainted/src/w_shotguns.qc",
    "sha256": "b9a8d8481bd203f3a8214b1c465fc1ded23e4f7c2b70ce878808cf8b7180fd73",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/walls.qc": {
    "bytes": 13625,
-   "path": "tainted/src/walls.qc",
    "sha256": "e572d836ff83cc13fe43b67cfb7657c17944e15e43f00ee5700ced1d461647a7",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/weapons.qc": {
    "bytes": 10132,
-   "path": "tainted/src/weapons.qc",
    "sha256": "dc5afce277ebbf31711de9a22bc57d6de7f717ec7335e5d420a5a43fc96d3dad",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/src/world.qc": {
    "bytes": 13238,
-   "path": "tainted/src/world.qc",
    "sha256": "732ba8cedfe5fb686b40081b2c7d707a29192cf98d3e3265a5a9a90488544a1d",
    "timestamp": "2023-07-02T13:02:44.000Z"
   },
-  {
+  "tainted/tainted.png": {
    "bytes": 3593884,
-   "path": "tainted/tainted.png",
    "sha256": "544d0c32aeb24c5bfd298a3fc0fd13c28f3623be95516ec4a28ae78711a3bb2d",
    "timestamp": "2023-07-08T23:15:00.000Z"
   },
-  {
+  "tainted/tainted_v1_2.txt": {
    "bytes": 2337,
-   "path": "tainted/tainted_v1_2.txt",
    "sha256": "f8bb31e04eb7b429f8b03a75a3b97a6e6d7554ff026d222409e732eeb7316a9e",
    "timestamp": "2023-07-11T20:46:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

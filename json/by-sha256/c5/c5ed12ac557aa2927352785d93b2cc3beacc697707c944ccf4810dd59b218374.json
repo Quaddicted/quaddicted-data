@@ -4,24 +4,22 @@
  ],
  "bytes": 637855,
  "description": "Medium sized Wind Tunnels style <i>Metal</i> map with lots of <i>slime</i>.",
- "files": [
-  {
+ "files": {
+  "chaos.bsp": {
    "bytes": 1508316,
-   "path": "chaos.bsp",
    "sha256": "cddd0add7d4d81f0836df757e3e3998a438b40944b5ed034dbc958f127d270d3",
    "timestamp": "1997-12-03T18:14:54.000Z"
   },
-  {
+  "chaos.txt": {
    "bytes": 4553,
-   "path": "chaos.txt",
    "sha256": "3a27a1c9c4d9be8decc52613b67be609f712bb6fb059e5ab3f7f03eea32ae3df",
    "timestamp": "1998-02-19T17:04:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-02-19",
  "sha256": "c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374",
  "tags": [

@@ -7,66 +7,57 @@
   "ad>=1.42"
  ],
  "description": "Remake/remix of stock Quake map E3M2 - The Vaults of Zin. The map source is included.This map requires <a href=\"ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6\">Arcane Dimensions</a>, updated with <a href=\"https://www.quaddicted.com/filebase/ad_v1_42patch2.zip\">v1.4patch2</a> or later.",
- "files": [
-  {
+ "files": {
+  "ad_e3m2.txt": {
    "bytes": 2084,
-   "path": "ad_e3m2.txt",
    "sha256": "72a458463ca1bd56a8bcbb89b507df1f0bd165117056e66a2765db26f5dbbe67",
    "timestamp": "2016-05-20T20:08:28.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2016-05-20T20:28:20.000Z"
   },
-  {
+  "maps/ad_e3m2.bsp": {
    "bytes": 2849592,
-   "path": "maps/ad_e3m2.bsp",
    "sha256": "a88489e811e2b12f9a7deeaae488185bc332f134ccc7031db34416ba657b32a7",
    "timestamp": "2016-05-20T20:23:00.000Z"
   },
-  {
+  "maps/ad_e3m2.lit": {
    "bytes": 972830,
-   "path": "maps/ad_e3m2.lit",
    "sha256": "0ad0f355bafca4f9e2719d76a59e2ccd1f7c8de38ced2768c813991ccdaa1f56",
    "timestamp": "2016-05-20T20:23:00.000Z"
   },
-  {
+  "maps/ad_e3m2.map": {
    "bytes": 1276609,
-   "path": "maps/ad_e3m2.map",
    "sha256": "f21582df56db44c9669d39aafb8dd7a3a88f441b6cba1754b5e5f4b5b7dafdc3",
    "timestamp": "2016-05-20T20:19:34.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2016-05-20T20:48:12.000Z"
   },
-  {
+  "sound/ambience/": {
    "bytes": 0,
-   "path": "sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2016-05-20T20:48:14.000Z"
   },
-  {
+  "sound/ambience/thunder_01.wav": {
    "bytes": 304202,
-   "path": "sound/ambience/thunder_01.wav",
    "sha256": "6499c42d3b29ddd27360aa441e74c37ac21062e1dcca127df9dbe0b84e7a571b",
    "timestamp": "2004-10-10T00:15:28.000Z"
   },
-  {
+  "sound/ambience/thunder_02.wav": {
    "bytes": 492820,
-   "path": "sound/ambience/thunder_02.wav",
    "sha256": "7111bf3a508ca97da01b7054f0fdf23a7f06b0617074ada283f6ca73d6e33ef2",
    "timestamp": "2004-10-10T01:18:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2016-05-20",
  "sha256": "7a854bcf4780eeaf5ef6cc55acf80a71cceee14494ea80e3bf20cfe25749ded5",
  "tags": [

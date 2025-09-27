@@ -5,72 +5,62 @@
  ],
  "bytes": 2085112,
  "description": "<a href=\"60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d\">E1M1rmx</a> with a twist: a certain amount of red keys scattered throughout the map have to be collected in order to proceed, making the gameplay largely non-linear.",
- "files": [
-  {
+ "files": {
+  "GPL.txt": {
    "bytes": 14969,
-   "path": "GPL.txt",
    "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248",
    "timestamp": "1999-12-21T19:01:14.000Z"
   },
-  {
+  "e1m1red-src.zip": {
    "bytes": 343675,
-   "path": "e1m1red-src.zip",
    "sha256": "8a8527857251a5be5f6089d106cb8c613ff9853c15ea48238a57defeaf740d40",
    "timestamp": "2008-09-12T06:38:28.000Z"
   },
-  {
+  "e1m1red.txt": {
    "bytes": 7636,
-   "path": "e1m1red.txt",
    "sha256": "77d419016f814e66cca4e8341e850582abf76c278f414ec78f7f424e8abdb389",
    "timestamp": "2008-09-12T07:44:16.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2008-09-08T05:12:48.000Z"
   },
-  {
+  "maps/e1m1red.bsp": {
    "bytes": 4010420,
-   "path": "maps/e1m1red.bsp",
    "sha256": "27ff6847b8d9b7612f042abd11aa2b78355f522c6778784af9856de10893ded9",
    "timestamp": "2008-09-12T01:21:06.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 395264,
-   "path": "progs.dat",
    "sha256": "d388dbfcafb442650933eca187bac66c302cbf225a53ea29708eec88104a02dc",
    "timestamp": "2008-09-12T03:48:04.000Z"
   },
-  {
+  "progs/": {
    "bytes": 0,
-   "path": "progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2008-09-08T05:12:42.000Z"
   },
-  {
+  "progs/keybase.mdl": {
    "bytes": 15516,
-   "path": "progs/keybase.mdl",
    "sha256": "8b2dad561dfcc63547c7fc6d55c43738e4db8d4996c79a8fff85d51cb89436af",
    "timestamp": "2008-03-06T14:13:38.000Z"
   },
-  {
+  "progs/keymed.mdl": {
    "bytes": 15900,
-   "path": "progs/keymed.mdl",
    "sha256": "d0294a738c01f07c7b0613d0914380c24bd972df1416a258aa712e9b8529331d",
    "timestamp": "2008-08-03T06:16:54.000Z"
   },
-  {
+  "progs/keyrune.mdl": {
    "bytes": 33500,
-   "path": "progs/keyrune.mdl",
    "sha256": "735625f114613963255d036c142e6b229263d34cbf3bf77d98299ae2e7d087e3",
    "timestamp": "2008-08-03T14:05:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/e1m1red/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2008-09-12",
  "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
  "tags": [

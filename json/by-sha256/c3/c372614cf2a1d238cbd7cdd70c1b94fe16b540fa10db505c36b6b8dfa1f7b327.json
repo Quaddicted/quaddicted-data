@@ -4,24 +4,22 @@
  ],
  "bytes": 1357570,
  "description": "Medium sized gothic fortress with Q3A textures.",
- "files": [
-  {
+ "files": {
+  "Cappuccino_V2.txt": {
    "bytes": 2265,
-   "path": "Cappuccino_V2.txt",
    "sha256": "80defb1fc668fa451a40a36e3cfa3a18c4b8caf21d1d740bf154d877aee0d313",
    "timestamp": "2004-12-13T22:46:48.000Z"
   },
-  {
+  "cappuccino_V2.bsp": {
    "bytes": 3627744,
-   "path": "cappuccino_V2.bsp",
    "sha256": "aab77fe8f4904d56d64de61bb35ffd095ab7a1fa3d1d10e61847dbc8b252ba17",
    "timestamp": "2004-12-13T21:09:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-12-13",
  "sha256": "c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327",
  "tags": [

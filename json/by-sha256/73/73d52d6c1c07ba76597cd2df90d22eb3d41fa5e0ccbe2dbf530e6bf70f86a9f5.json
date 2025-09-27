@@ -4,30 +4,27 @@
  ],
  "bytes": 9821947,
  "description": "Small temple map using Kaahoo textures. A touched-up and expanded version of sock's entry from SM175.",
- "files": [
-  {
+ "files": {
+  "kaahoo1a_readme.txt": {
    "bytes": 2937,
-   "path": "kaahoo1a_readme.txt",
    "sha256": "868e04f53b31050df3355a5859b0d8687b071d7dad8f842b9e0c40d3c94de6d7",
    "timestamp": "2014-06-10T21:57:42.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 23284165,
-   "path": "pak0.pak",
    "sha256": "9799e46f1e7de9248589a9d1fb7bc471ee6400f14b96ac3c1e41cf2b3841bc81",
    "timestamp": "2014-06-10T21:59:14.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 164928,
-   "path": "pak1.pak",
    "sha256": "eb3eede078c4529d27d9376b453fb74c8687cf0a975bc994dadb55dd68baf62e",
    "timestamp": "2014-06-10T21:59:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/kaahoo/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2014-06-10",
  "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
  "tags": [

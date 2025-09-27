@@ -4,30 +4,27 @@
  ],
  "bytes": 816690,
  "description": "Two very small maps; one features the head of a dragon.",
- "files": [
-  {
+ "files": {
+  "Drakopf.txt": {
    "bytes": 3212,
-   "path": "Drakopf.txt",
    "sha256": "30710d9e3976db1116dcb39827ebe4fdb53a112ea24c9f0a0c2779910f4cda8b",
    "timestamp": "1996-10-25T12:08:18.000Z"
   },
-  {
+  "drakopf.bsp": {
    "bytes": 448336,
-   "path": "drakopf.bsp",
    "sha256": "30a55d85c2e2fd0a93318253ee77c20d7e3cf8aaefaa75d12238b905f84afb80",
    "timestamp": "1996-10-19T13:13:46.000Z"
   },
-  {
+  "drakopf2.bsp": {
    "bytes": 1403048,
-   "path": "drakopf2.bsp",
    "sha256": "c7906a444b4f4d81edbf6008a16a6281cffec055e0784287d9afba34f0799664",
    "timestamp": "1996-10-25T07:49:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-25",
  "sha256": "08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e",
  "tags": [

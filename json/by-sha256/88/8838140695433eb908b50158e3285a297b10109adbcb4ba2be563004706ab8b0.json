@@ -4,24 +4,22 @@
  ],
  "bytes": 4144604,
  "description": "Large abstract level floating in the void, with mixed texture themes and a very large enemy count / horde combat.",
- "files": [
-  {
+ "files": {
+  "README.txt": {
    "bytes": 2284,
-   "path": "README.txt",
    "sha256": "6090a00139b7018ef598be9e205c8970b975afb06542e4c006f17964fdd52c9e",
    "timestamp": "2021-03-16T11:37:38.000Z"
   },
-  {
+  "insides.bsp": {
    "bytes": 14228752,
-   "path": "insides.bsp",
    "sha256": "7cddc1e9de8c165fe8c1ed59d2d044c41efc14ce04954d5df326dcf539c1d16a",
    "timestamp": "2021-03-09T00:58:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],

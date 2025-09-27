@@ -4,36 +4,32 @@
  ],
  "bytes": 420212,
  "description": "Small 768*768 speedmap. The map source is included.",
- "files": [
-  {
+ "files": {
+  "dont_readme": {
    "bytes": 680,
-   "path": "dont_readme",
    "sha256": "11fd014874a5ca023b6bebe92f0f84773a8651bff8fb9ac125a7cc795c1005f4",
    "timestamp": "2020-07-16T05:23:30.000Z"
   },
-  {
+  "fwsm1.bsp": {
    "bytes": 603212,
-   "path": "fwsm1.bsp",
    "sha256": "b15c0f5486bd15f32a321cebdda440cae4364100f2e971fa0baf71834591f3f2",
    "timestamp": "2020-07-16T05:25:38.000Z"
   },
-  {
+  "fwsm1.lit": {
    "bytes": 392738,
-   "path": "fwsm1.lit",
    "sha256": "d6acb6a0dfbaed8d034d8d5dcb090f9e49ae99d89051550010bc8241794b304e",
    "timestamp": "2020-07-16T05:25:38.000Z"
   },
-  {
+  "fwsm1.map": {
    "bytes": 308784,
-   "path": "fwsm1.map",
    "sha256": "bf5ab9ef41a40c6967e9467baef5c0dfbc7f51d24c46e0bb07be3ffe225874a5",
    "timestamp": "2020-07-16T05:14:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2020-07-16",
  "sha256": "18c5b49996bd573ea5ccf9aa7c86fbe781a007aa3eb82609a1a69b1c9913c46f",
  "tags": [

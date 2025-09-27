@@ -4,108 +4,92 @@
  ],
  "bytes": 2040196,
  "description": "A medium sized cargo spacecraft with Zer and IKBase textures and somewhat unusual gameplay. There are three missions to be completed in which \"<i>you'll face all kinds of problems, from technical difficulties to unruly 'cargo'.</i>\"",
- "files": [
-  {
+ "files": {
+  "Gfx/": {
    "bytes": 0,
-   "path": "Gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:20.000Z"
   },
-  {
+  "Pak0.pak": {
    "bytes": 6654431,
-   "path": "Pak0.pak",
    "sha256": "d49db62ae198a11140c672210a44bf1ae9b578e51a02c248d8b7c91b00b71ce0",
    "timestamp": "1998-06-23T00:59:10.000Z"
   },
-  {
+  "autoexec.cfg": {
    "bytes": 142,
-   "path": "autoexec.cfg",
    "sha256": "824506d8d4539aa289ecbb24e4e137e171507ffef9e3338dfbfe89fc97003c95",
    "timestamp": "1998-06-22T20:41:10.000Z"
   },
-  {
+  "casspq1.txt": {
    "bytes": 9972,
-   "path": "casspq1.txt",
    "sha256": "cfd6acf4849db0ffaffd1fe7542402d15c3dd9a30b6ab330b7aac2d3a5db1b4e",
    "timestamp": "1998-06-22T20:55:12.000Z"
   },
-  {
+  "dosquake.bat": {
    "bytes": 50,
-   "path": "dosquake.bat",
    "sha256": "43ad7a9bfb7d3273161e7524b07be0ba93cf51a4dae33592fef82dcf47efff3d",
    "timestamp": "1998-06-22T20:56:46.000Z"
   },
-  {
+  "glquake.bat": {
    "bytes": 41,
-   "path": "glquake.bat",
    "sha256": "5666a2bb1caefa6e053eccbc227a55359d6731586fc857107168a123183871fc",
    "timestamp": "1998-06-22T20:57:08.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:40.000Z"
   },
-  {
+  "progs/": {
    "bytes": 0,
-   "path": "progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:16.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:18.000Z"
   },
-  {
+  "sound/MISC/": {
    "bytes": 0,
-   "path": "sound/MISC/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:18.000Z"
   },
-  {
+  "sound/ambience/": {
    "bytes": 0,
-   "path": "sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:20.000Z"
   },
-  {
+  "sound/comp/": {
    "bytes": 0,
-   "path": "sound/comp/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:20.000Z"
   },
-  {
+  "sound/hipweap/": {
    "bytes": 0,
-   "path": "sound/hipweap/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:18.000Z"
   },
-  {
+  "sound/steps/": {
    "bytes": 0,
-   "path": "sound/steps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:20.000Z"
   },
-  {
+  "sound/turret/": {
    "bytes": 0,
-   "path": "sound/turret/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "1998-06-23T00:56:18.000Z"
   },
-  {
+  "winquake.bat": {
    "bytes": 42,
-   "path": "winquake.bat",
    "sha256": "57a17d670247c3f635841484f0420c8621dd3608937f23531bd9c76deaff83a0",
    "timestamp": "1998-06-22T20:56:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/casspq1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Make sure the autoexec.cfg is loaded as it contains necessary key aliases (press F1 in game for a description of their functions)."
  ],

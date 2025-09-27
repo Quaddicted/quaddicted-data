@@ -4,30 +4,27 @@
  ],
  "bytes": 681996,
  "description": "<i>\"Did you ever wondered what's it like to be a monster in quake? No? Well, I did. Small simple map which parodies Portal and The Stanley Parable. Save often!\"</i>",
- "files": [
-  {
+ "files": {
+  "dwmtf.bsp": {
    "bytes": 1522342,
-   "path": "dwmtf.bsp",
    "sha256": "1807bc7023465b902809aecdbcefce980f56e2a057bedf0ccaac5028fa75c3c4",
    "timestamp": "2015-12-18T22:41:02.000Z"
   },
-  {
+  "dwmtf.lit": {
    "bytes": 863762,
-   "path": "dwmtf.lit",
    "sha256": "a0d5a0089d403749f825d0810efe66f2149da71f8ccc2abe40ced276cdb2c527",
    "timestamp": "2015-12-18T22:41:02.000Z"
   },
-  {
+  "dwmtf.txt": {
    "bytes": 1465,
-   "path": "dwmtf.txt",
    "sha256": "27139910f31aef1bf6afb5081dd33082bddb9122dbf240ce945d1268038f3b03",
    "timestamp": "2015-12-18T23:21:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2015-12-18",
  "sha256": "0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae",
  "tags": [

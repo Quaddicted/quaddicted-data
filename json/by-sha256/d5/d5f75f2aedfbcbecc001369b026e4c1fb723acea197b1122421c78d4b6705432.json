@@ -4,24 +4,22 @@
  ],
  "bytes": 672463,
  "description": "Large Medieval/ Wizard map. Third map of the LFSP series.",
- "files": [
-  {
+ "files": {
+  "lfsp3.bsp": {
    "bytes": 1575416,
-   "path": "lfsp3.bsp",
    "sha256": "6b2bdaff95724d00f7b2a7299637f3ce1bdcfe186df63bdef0e0dcc2181dc1db",
    "timestamp": "2003-06-23T17:23:38.000Z"
   },
-  {
+  "lfsp3.txt": {
    "bytes": 1217,
-   "path": "lfsp3.txt",
    "sha256": "7624a59b3339b15d67d4caf5ca11fead697969594fd6e0e0c97a3e40c3fad4df",
    "timestamp": "2003-06-21T23:13:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-01-01",
  "sha256": "d5f75f2aedfbcbecc001369b026e4c1fb723acea197b1122421c78d4b6705432",
  "tags": [

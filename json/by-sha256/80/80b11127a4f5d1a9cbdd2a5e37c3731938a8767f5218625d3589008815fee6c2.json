@@ -7,42 +7,37 @@
   "copper>=1.15"
  ],
  "description": "Medium to large terracotta-themed map. The map source is included.",
- "files": [
-  {
+ "files": {
+  "4ltsp01.bsp": {
    "bytes": 1872684,
-   "path": "4ltsp01.bsp",
    "sha256": "656c9600a822026b5730693f0f38913eb3b4772ea61daf65bd700fc685e159b4",
    "timestamp": "2020-12-11T15:21:26.000Z"
   },
-  {
+  "4ltsp01.jpg": {
    "bytes": 1084214,
-   "path": "4ltsp01.jpg",
    "sha256": "6198c2c17599d0f31608271a13067ebd1a7d26c66c9bab15eb92b3225ef1ae72",
    "timestamp": "2020-12-10T20:41:58.000Z"
   },
-  {
+  "4ltsp01.lit": {
    "bytes": 1081364,
-   "path": "4ltsp01.lit",
    "sha256": "fcff741f86726addb7d590047880c4d17274d90ec8f38e1412fadf7dacec6066",
    "timestamp": "2020-12-11T15:21:26.000Z"
   },
-  {
+  "4ltsp01.map": {
    "bytes": 2473677,
-   "path": "4ltsp01.map",
    "sha256": "b09d5d61ada5d2c0a71011d99b2f7994c79c0f22f4888f2ad5bec0996cf83460",
    "timestamp": "2020-12-11T15:21:04.000Z"
   },
-  {
+  "4ltsp01_README.txt": {
    "bytes": 1390,
-   "path": "4ltsp01_README.txt",
    "sha256": "f035e93a1bab277b7913f97adbe8c092de7f983536411d81a47846c7460137d2",
    "timestamp": "2020-12-11T15:23:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a>."
  ],

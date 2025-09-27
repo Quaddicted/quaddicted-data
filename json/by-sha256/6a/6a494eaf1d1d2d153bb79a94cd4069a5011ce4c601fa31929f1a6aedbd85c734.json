@@ -4,66 +4,57 @@
  ],
  "bytes": 1502932,
  "description": "Action-packed Q2 base / metal themed level with many reskinned grunts.",
- "files": [
-  {
+ "files": {
+  "simmer/": {
    "bytes": 0,
-   "path": "simmer/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2002-08-12T15:04:20.000Z"
   },
-  {
+  "simmer/GLsimmer.bat": {
    "bytes": 67,
-   "path": "simmer/GLsimmer.bat",
    "sha256": "7e8804f42b509bcf35ccce99348aeccbb25f47e92458f63169335e2fd35cc0d6",
    "timestamp": "2002-08-11T07:49:20.000Z"
   },
-  {
+  "simmer/Pak0.pak": {
    "bytes": 1500888,
-   "path": "simmer/Pak0.pak",
    "sha256": "25b0142c53b736b16b187c2bc6f4baa296ebd7f6c4914d1e80c61639a98c4a6b",
    "timestamp": "2002-08-11T07:46:28.000Z"
   },
-  {
+  "simmer/maps/": {
    "bytes": 0,
-   "path": "simmer/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2002-08-12T15:04:20.000Z"
   },
-  {
+  "simmer/maps/simmer2.bsp": {
    "bytes": 1563968,
-   "path": "simmer/maps/simmer2.bsp",
    "sha256": "64f1a673500288cc376a3b50cd2b4f9cb97e0732a5207b44455af4aa8f061d53",
    "timestamp": "2002-08-06T02:59:16.000Z"
   },
-  {
+  "simmer/progs.dat": {
    "bytes": 713888,
-   "path": "simmer/progs.dat",
    "sha256": "8e1493714adccb9a1dfd07dafc8a970c4c5769b6a858b4a5622f919fdcae031b",
    "timestamp": "2002-07-17T00:54:50.000Z"
   },
-  {
+  "simmer/readme.htm": {
    "bytes": 2603,
-   "path": "simmer/readme.htm",
    "sha256": "453ae1df2f1c07e3240b5f1788847a3bf5315821d1bf42a7f177f9278de36951",
    "timestamp": "2002-08-06T02:14:48.000Z"
   },
-  {
+  "simmer/simmer.bat": {
    "bytes": 53,
-   "path": "simmer/simmer.bat",
    "sha256": "86891eba640fba2f9373b81e8b52907ab16f44e9383594059f5bcc7ec4e3b7b2",
    "timestamp": "2002-08-06T02:44:56.000Z"
   },
-  {
+  "simmer/simmer2.jpg": {
    "bytes": 48604,
-   "path": "simmer/simmer2.jpg",
    "sha256": "9fac4ffcfd98654526f8a149d8fdc358a44a6e41ccc8edd5f2bee4ed6dc14f2a",
    "timestamp": "2002-06-29T03:40:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-08-12",
  "sha256": "6a494eaf1d1d2d153bb79a94cd4069a5011ce4c601fa31929f1a6aedbd85c734",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 2384037,
  "description": "Large Wizard-/Episode 2-themed fortress.",
- "files": [
-  {
+ "files": {
+  "grim.bsp": {
    "bytes": 5671244,
-   "path": "grim.bsp",
    "sha256": "32ff9878c380452647b4b45d55f636919e7639c7f516f0f547aade9d47c2613e",
    "timestamp": "2018-02-09T01:54:32.000Z"
   },
-  {
+  "grim.jpg": {
    "bytes": 399621,
-   "path": "grim.jpg",
    "sha256": "2963e8cbb259c4a7873d73c9a3f4e89bc1f99df3c4179e3f80ce93d349a934fc",
    "timestamp": "2018-02-09T02:20:16.000Z"
   },
-  {
+  "grim.txt": {
    "bytes": 2444,
-   "path": "grim.txt",
    "sha256": "59fb520c1fcd9d0ee92b622c336f4fb0729b75bde7dc766d5e5dd774d0536010",
    "timestamp": "2018-02-09T02:31:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits and BSP2 support.",
   "Rezipped for Quaddicted"

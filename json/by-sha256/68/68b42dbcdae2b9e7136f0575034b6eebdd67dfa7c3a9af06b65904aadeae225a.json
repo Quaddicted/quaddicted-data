@@ -5,30 +5,27 @@
  "bytes": 1440473,
  "current_main_group_package": true,
  "description": "Small, confined map with an original bright and airy theme and action-packed gameplay. An updated version of <a href=\"e5cb36d0adf69c587523f0f1706c6cd01602cd41e690adfb9c998691966fa0e0\">tc_cemix</a>",
- "files": [
-  {
+ "files": {
+  "tc_cemix.bsp": {
    "bytes": 2361024,
-   "path": "tc_cemix.bsp",
    "sha256": "43d5740eb5b5441ab4dc514f299af1727ce812b66de159d92603aa20c88b4d4b",
    "timestamp": "2024-07-27T02:46:14.000Z"
   },
-  {
+  "tc_cemix.lit": {
    "bytes": 672020,
-   "path": "tc_cemix.lit",
    "sha256": "5a96d5f076c2db48de2403a67cbdfde7b79e9ff20fa4b9b0adb2d57ad243c46c",
    "timestamp": "2024-07-27T02:46:14.000Z"
   },
-  {
+  "tc_cemix.txt": {
    "bytes": 1647,
-   "path": "tc_cemix.txt",
    "sha256": "4f656656dc95053624707f0154f35d5c7f57c416a3509829e9a52c2f7489386e",
    "timestamp": "2024-07-11T15:05:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "tc_cemix": "1.1"
  },

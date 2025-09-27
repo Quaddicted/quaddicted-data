@@ -7,48 +7,42 @@
   "ad>=1.80"
  ],
  "description": "Around medium-sized level using developer textures; a test map for AD's Chaos mode. The map source and the texture wad are included.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-05-04T14:08:16.000Z"
   },
-  {
+  "maps/ad_prototype.wad": {
    "bytes": 625580,
-   "path": "maps/ad_prototype.wad",
    "sha256": "ff6a390b06d1b15b3f0d7a7fedaf441c0ff9d989ec8b97b3bf335ab6424a10ae",
    "timestamp": "2021-05-02T15:57:40.000Z"
   },
-  {
+  "maps/test_chaos1.bsp": {
    "bytes": 1623988,
-   "path": "maps/test_chaos1.bsp",
    "sha256": "ec7d8332691bf0cd1379832a6dbf616f01fa06f71ec9da5c93de45bb26973418",
    "timestamp": "2021-05-02T15:58:50.000Z"
   },
-  {
+  "maps/test_chaos1.lit": {
    "bytes": 895484,
-   "path": "maps/test_chaos1.lit",
    "sha256": "70b2a18627466382e6171bea4ad4eee6e0b4f2c9c8edd4f1a2b9eec1fe676c02",
    "timestamp": "2021-05-02T15:58:50.000Z"
   },
-  {
+  "maps/test_chaos1.map": {
    "bytes": 1387381,
-   "path": "maps/test_chaos1.map",
    "sha256": "95ed5fea074b62121dd4eb2b7d7e7b888358f42775c6318e76ce72aeac1c75c2",
    "timestamp": "2021-05-04T14:07:06.000Z"
   },
-  {
+  "test_chaos1_readme.txt": {
    "bytes": 20452,
-   "path": "test_chaos1_readme.txt",
    "sha256": "1d6402062d68ca07f43c92798247646c66c51c5870e2a8714a697b00e59486ad",
    "timestamp": "2021-05-04T14:46:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.81</a>."
  ],

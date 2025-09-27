@@ -4,24 +4,22 @@
  ],
  "bytes": 896187,
  "description": "A short non-interactive demo setting the tone of the events about to unfold in <a href=\"e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797\">Zerst\u00f6rer - Testament of the Destroyer</a>.",
- "files": [
-  {
+ "files": {
+  "zerdem/pak0.pak": {
    "bytes": 2105521,
-   "path": "zerdem/pak0.pak",
    "sha256": "8b29976efa14dae49852c21b5d2c57b598e12430630e8690ad9c3207d29e4b2f",
    "timestamp": "1997-06-07T14:09:22.000Z"
   },
-  {
+  "zerdem/readme.txt": {
    "bytes": 6853,
-   "path": "zerdem/readme.txt",
    "sha256": "58eb8b76afbf27cf25fcfc85564f4157b52e42ec408c84911fd2156661da8335",
    "timestamp": "1997-06-07T14:18:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-07",
  "sha256": "cebfbab9db68954e505b7775f1769dd107a7ee19e932cc5ef022d7cf1ae5aa70",
  "tags": [

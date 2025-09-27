@@ -7,30 +7,27 @@
   "copper>=1.15"
  ],
  "description": "Around medium-sized blue brick level.",
- "files": [
-  {
+ "files": {
+  "akm1.bsp": {
    "bytes": 1123436,
-   "path": "akm1.bsp",
    "sha256": "66fecfb66f6c1bb3eb7065da8ed6adc714efc8391adb1097648b34910ade2787",
    "timestamp": "2020-12-01T01:40:40.000Z"
   },
-  {
+  "akm1_readme.txt": {
    "bytes": 1340,
-   "path": "akm1_readme.txt",
    "sha256": "abf0b443fdb6277a9409093c0edbc9018c85b1c58137b7c492056918112c3d29",
    "timestamp": "2020-12-01T01:45:34.000Z"
   },
-  {
+  "akm1_screen.png": {
    "bytes": 1416041,
-   "path": "akm1_screen.png",
    "sha256": "604658108a9973cb13681efc85563ac50d66d978340a755252904b49c02584ce",
    "timestamp": "2020-12-01T01:51:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a>."
  ],

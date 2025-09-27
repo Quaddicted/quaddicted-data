@@ -4,30 +4,27 @@
  ],
  "bytes": 2636655,
  "description": "Large and exessively detailed IKbase level using some SOA entities and the Mega-Enforcer.",
- "files": [
-  {
+ "files": {
+  "araivo/": {
    "bytes": 0,
-   "path": "araivo/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2005-01-05T00:18:34.000Z"
   },
-  {
+  "araivo/araivo.txt": {
    "bytes": 1641,
-   "path": "araivo/araivo.txt",
    "sha256": "2a33fc7ffa88979df3c732c3b16aa8da272626d41f4b567592bdb12765bc7264",
    "timestamp": "2005-01-05T00:19:38.000Z"
   },
-  {
+  "araivo/pak0.pak": {
    "bytes": 6081739,
-   "path": "araivo/pak0.pak",
    "sha256": "526082b1553bca4c3d901c17e5f472ebcea4f3511f35a4bcabbaba277465cd73",
    "timestamp": "2005-01-05T00:17:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-01-05",
  "sha256": "d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32",
  "tags": [

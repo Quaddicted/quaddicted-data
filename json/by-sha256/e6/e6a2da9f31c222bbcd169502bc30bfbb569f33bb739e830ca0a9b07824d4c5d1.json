@@ -4,36 +4,32 @@
  ],
  "bytes": 6357500,
  "description": "Large, heavily scripted base map with a horror theme and hard, unforgiving gameplay inspired by Doom3. Many sections remain unfinished but the map is still largely playable.",
- "files": [
-  {
+ "files": {
+  "kpcn2014/": {
    "bytes": 0,
-   "path": "kpcn2014/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2014-07-06T11:49:46.000Z"
   },
-  {
+  "kpcn2014/PAK0.pak": {
    "bytes": 11225224,
-   "path": "kpcn2014/PAK0.pak",
    "sha256": "2e2104107cf7a1357c97f250bb1f06b346ba592169e10b8c4fa638fead456683",
    "timestamp": "2014-07-03T00:44:24.000Z"
   },
-  {
+  "kpcn2014/readmeh.txt": {
    "bytes": 62,
-   "path": "kpcn2014/readmeh.txt",
    "sha256": "37ffbd2f0638b668e504a7121a1af718b2a6b95988d20b6c67dc61e876e6a791",
    "timestamp": "2014-07-02T18:49:16.000Z"
   },
-  {
+  "kpcn2014/src.zip": {
    "bytes": 3074630,
-   "path": "kpcn2014/src.zip",
    "sha256": "2ca09ccf3281edfb1e4d852d80b774d25edfa1f8ee756f84299d895d0a2be958",
    "timestamp": "2014-07-02T18:46:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits. <a href=\"http://icculus.org/twilight/darkplaces/download.html\">DarkPlaces</a> is recommended and texture filtering</a> should be disabled.",
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"

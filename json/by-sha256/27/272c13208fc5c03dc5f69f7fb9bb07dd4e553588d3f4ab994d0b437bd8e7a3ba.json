@@ -4,24 +4,22 @@
  ],
  "bytes": 1720991,
  "description": "Sequel of <a href=\"7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066\">starship</a>: a medium sized, plain map set on an icy planet with low gravity. Features new textures and reskinned/ modified monsters.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 3541423,
-   "path": "pak0.pak",
    "sha256": "b269c0fe74e60c26e008a3388854922658bc66985acfbe48222696cb80bd4f4e",
    "timestamp": "1997-11-22T21:00:40.000Z"
   },
-  {
+  "starshp2.txt": {
    "bytes": 9234,
-   "path": "starshp2.txt",
    "sha256": "660c9bc4bbb737248f551b61f3c6aa4cadceabc1c73c1c652fd0c505d002f8cf",
    "timestamp": "1997-11-22T23:38:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/moon/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-22",
  "sha256": "272c13208fc5c03dc5f69f7fb9bb07dd4e553588d3f4ab994d0b437bd8e7a3ba",
  "tags": [

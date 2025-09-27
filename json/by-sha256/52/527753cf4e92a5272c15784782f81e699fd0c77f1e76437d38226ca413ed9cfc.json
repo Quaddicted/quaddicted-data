@@ -4,24 +4,22 @@
  ],
  "bytes": 807221,
  "description": "Small to medium IKBase-style map featuring modified Hell Knights.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 2050950,
-   "path": "Pak0.pak",
    "sha256": "1e406fdb4a578a0a70dc05830b491ae6d5ea383adf3d59f8e9a5ed4f22f72b11",
    "timestamp": "2000-12-06T17:05:06.000Z"
   },
-  {
+  "lthsp1.txt": {
    "bytes": 2497,
-   "path": "lthsp1.txt",
    "sha256": "73c5481bae05639621991efa9ce00d5241c84c7934e2d3a0398121bf6bdc8a5f",
    "timestamp": "2000-12-05T17:17:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lthsp1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-12-06",
  "sha256": "527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc",
  "tags": [

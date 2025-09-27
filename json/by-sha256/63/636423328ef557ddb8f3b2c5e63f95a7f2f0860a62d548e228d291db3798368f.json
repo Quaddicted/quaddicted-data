@@ -4,42 +4,37 @@
  ],
  "bytes": 4360361,
  "description": "Large Base map with spacious rooms, linear progression, a very high monster count and a few custom enemies. Comes with a start and a boss map. Map sources are included.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 11298992,
-   "path": "pak0.pak",
    "sha256": "c97c05d64d0951cd8ac2369a149d48ff5e46883200cf20a2b6d2773c52ace904",
    "timestamp": "2006-07-15T12:13:20.000Z"
   },
-  {
+  "trsp3.map": {
    "bytes": 2965125,
-   "path": "trsp3.map",
    "sha256": "4e2e5bc043bd9f4ec2ecd5fb2cfbf3cc3fa0e58e70de1d1dfdd0fca8c15dc15f",
    "timestamp": "2006-07-12T14:17:22.000Z"
   },
-  {
+  "trsp3.txt": {
    "bytes": 4026,
-   "path": "trsp3.txt",
    "sha256": "2b4ce5a7bea1aafdc1d8ee72760eddb1ceb9b7f11b44c5907e0e2977871253b8",
    "timestamp": "2006-07-15T12:22:48.000Z"
   },
-  {
+  "trsp3end.map": {
    "bytes": 400194,
-   "path": "trsp3end.map",
    "sha256": "d4e7653b6dc8231cf6f6396252a2415cdf028b1750ed52d0f6e5757b6ad7395d",
    "timestamp": "2006-07-11T15:27:30.000Z"
   },
-  {
+  "trsp3st.map": {
    "bytes": 149166,
-   "path": "trsp3st.map",
    "sha256": "581b8fd7cb057b0c4cd80f2dcb1774f0a26dc5bd19af7c1625729f23dec94ee9",
    "timestamp": "2006-07-10T22:11:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/trsp3/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-07-15",
  "sha256": "636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f",
  "tags": [

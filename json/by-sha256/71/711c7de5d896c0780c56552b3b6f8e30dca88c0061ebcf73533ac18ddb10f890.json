@@ -6,78 +6,67 @@
  ],
  "bytes": 1970253,
  "description": "Results of an impromptu speedmapping/jam session following a \"medieval E1M2 style brickwork and about 20 monsters\" theme. The map sources are included.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-06-08T11:00:14.000Z"
   },
-  {
+  "maps/zjam1_muk.bsp": {
    "bytes": 1429868,
-   "path": "maps/zjam1_muk.bsp",
    "sha256": "4aba696b5236ecae920c4478d86b172184d05baea09313b8cfb4b95dc1265e92",
    "timestamp": "2018-06-08T04:35:34.000Z"
   },
-  {
+  "maps/zjam1_muk.lit": {
    "bytes": 203924,
-   "path": "maps/zjam1_muk.lit",
    "sha256": "5553a66c2531fd816a79a1f41df4b1abee72b1b8129d37ceadd16bf26a6fcecf",
    "timestamp": "2018-06-08T04:35:34.000Z"
   },
-  {
+  "maps/zjam1_muk.map": {
    "bytes": 290345,
-   "path": "maps/zjam1_muk.map",
    "sha256": "0731f4c9c337d43119e54660325c78e32ed355d736396807cc0e2a8df274d755",
    "timestamp": "2018-06-08T04:26:12.000Z"
   },
-  {
+  "maps/zjam1_sock.bsp": {
    "bytes": 1072460,
-   "path": "maps/zjam1_sock.bsp",
    "sha256": "47039e16ac084a17d9b3d5c87c9b1b5a98c4fc66d21bc15eb404ec5333604770",
    "timestamp": "2018-06-08T04:24:10.000Z"
   },
-  {
+  "maps/zjam1_sock.lit": {
    "bytes": 292025,
-   "path": "maps/zjam1_sock.lit",
    "sha256": "e568eec96fb325663de995e45890f44b77c7e06a8da643f9f552b6d01148e648",
    "timestamp": "2018-06-08T04:24:10.000Z"
   },
-  {
+  "maps/zjam1_sock.map": {
    "bytes": 345550,
-   "path": "maps/zjam1_sock.map",
    "sha256": "4477c776babac124e9f0c35ef7311b06e692d7e51b63ef6ce125cfda8d6315a2",
    "timestamp": "2018-06-08T04:24:14.000Z"
   },
-  {
+  "maps/zjam1_zombie.bsp": {
    "bytes": 698548,
-   "path": "maps/zjam1_zombie.bsp",
    "sha256": "3a150647a1242e6eea002270c33ba29601fdd195bbad41a5913bb86e51ee9f6d",
    "timestamp": "2018-06-07T22:58:26.000Z"
   },
-  {
+  "maps/zjam1_zombie.lit": {
    "bytes": 490964,
-   "path": "maps/zjam1_zombie.lit",
    "sha256": "fc0baa37d282346f949c08a181ecf327b44f70266b1dab7f7b901841f11e00f0",
    "timestamp": "2018-06-07T22:58:26.000Z"
   },
-  {
+  "maps/zjam1_zombie.map": {
    "bytes": 240327,
-   "path": "maps/zjam1_zombie.map",
    "sha256": "a2b55f19b48faf71667076aadbb93139d0c6ec013c652cf5a2bf8e10df71eb82",
    "timestamp": "2018-06-08T09:19:28.000Z"
   },
-  {
+  "zjam1_readme.txt": {
    "bytes": 2340,
-   "path": "zjam1_readme.txt",
    "sha256": "dfb6c2ed0c9f052ff70083301d7efdcf2c37a1e90cd8aff11cd5360982e35555",
    "timestamp": "2018-06-10T08:35:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2018-06-08",
  "sha256": "711c7de5d896c0780c56552b3b6f8e30dca88c0061ebcf73533ac18ddb10f890",
  "tags": [

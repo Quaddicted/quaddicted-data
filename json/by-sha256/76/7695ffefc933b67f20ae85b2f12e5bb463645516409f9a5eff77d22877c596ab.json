@@ -4,90 +4,77 @@
  ],
  "bytes": 1879876,
  "description": "Medium sized Q2base map. Comes with a .lit file and a custom skybox.",
- "files": [
-  {
+ "files": {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-04-22T16:59:46.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-04-22T16:59:46.000Z"
   },
-  {
+  "gfx/env/vlcnobk.tga": {
    "bytes": 196944,
-   "path": "gfx/env/vlcnobk.tga",
    "sha256": "efa460f343f847869c07ce9dd10b88a726ee4bcd6cafdde61ed28e8ff0a6405d",
    "timestamp": "1999-06-30T15:06:36.000Z"
   },
-  {
+  "gfx/env/vlcnodn.tga": {
    "bytes": 196944,
-   "path": "gfx/env/vlcnodn.tga",
    "sha256": "ef3bba677bb986a5526a1a0556abae062f7766e4229a2aa007e41eb7abf21528",
    "timestamp": "1999-06-30T15:06:36.000Z"
   },
-  {
+  "gfx/env/vlcnoft.tga": {
    "bytes": 196944,
-   "path": "gfx/env/vlcnoft.tga",
    "sha256": "3d53e28d59b18c502d1de1143b3200c00959c087646f7b9c4a6890ff24e361c0",
    "timestamp": "1999-06-30T15:06:36.000Z"
   },
-  {
+  "gfx/env/vlcnolf.tga": {
    "bytes": 196944,
-   "path": "gfx/env/vlcnolf.tga",
    "sha256": "033623f23ac60dab52a100338614bea458ea29d2488df5db2d26872a55852c73",
    "timestamp": "1999-06-30T15:06:36.000Z"
   },
-  {
+  "gfx/env/vlcnort.tga": {
    "bytes": 196944,
-   "path": "gfx/env/vlcnort.tga",
    "sha256": "a6bfe982312cf804647f53b6acf906f1a2718e734404d72b2b3b561addacca2a",
    "timestamp": "1999-06-30T15:06:36.000Z"
   },
-  {
+  "gfx/env/vlcnoup.tga": {
    "bytes": 196944,
-   "path": "gfx/env/vlcnoup.tga",
    "sha256": "d4591ab405602891f3286a2d97f5641ac6933331990bd554fe3ec26eb6fa6cc1",
    "timestamp": "1999-06-30T15:06:36.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-04-22T16:59:44.000Z"
   },
-  {
+  "maps/matsp2.bsp": {
    "bytes": 3780248,
-   "path": "maps/matsp2.bsp",
    "sha256": "4000ec8ac4825313e450238a3780c770ea67f39024b6e1e7e842b4e78e5b73a7",
    "timestamp": "2003-04-20T22:43:34.000Z"
   },
-  {
+  "maps/matsp2.lit": {
    "bytes": 1894409,
-   "path": "maps/matsp2.lit",
    "sha256": "023909e49bd04b1e9b0859ec9311309a4e919c83984bb77b554052ca11e49c0e",
    "timestamp": "2003-04-20T20:42:58.000Z"
   },
-  {
+  "maps/matsp2.txt": {
    "bytes": 1910,
-   "path": "maps/matsp2.txt",
    "sha256": "b089fa8f36962e15211adb3da4c3bac49673a147d5feda3c51cc54fa4f93daab",
    "timestamp": "2003-04-21T13:59:08.000Z"
   },
-  {
+  "matsp2_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "matsp2_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

@@ -4,132 +4,112 @@
  ],
  "bytes": 2333088,
  "description": "Seven small / medium classic maps made in 1998-2001 by Peter Bisseker, also known as Tiddles. A variety of themes (base, rogue brick, wizmet) in an early yet distinct style. All levels were previously released separately, but were intended to lead into each other. This release is a modern repackaging by historical map appreciator Greenwood, curating all of Tiddles' single player maps together into a convenient episode.",
- "files": [
-  {
+ "files": {
+  "tiddles/": {
    "bytes": 0,
-   "path": "tiddles/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-04-17T01:15:30.000Z"
   },
-  {
+  "tiddles/Read_Me.txt": {
    "bytes": 1392,
-   "path": "tiddles/Read_Me.txt",
    "sha256": "463f3275e07cfbb30835d562b6455bdda5f870b4445a9ee2a351341cb53e3753",
    "timestamp": "2022-04-23T03:49:12.000Z"
   },
-  {
+  "tiddles/docs/": {
    "bytes": 0,
-   "path": "tiddles/docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-04-16T17:26:04.000Z"
   },
-  {
+  "tiddles/docs/base-x2.txt": {
    "bytes": 2306,
-   "path": "tiddles/docs/base-x2.txt",
    "sha256": "43c653bc8b6c3c3a187c9524ee4fb96f2d2db85aad57ad895eb7d3d2d28ada06",
    "timestamp": "2000-02-26T06:19:52.000Z"
   },
-  {
+  "tiddles/docs/garrison.txt": {
    "bytes": 1915,
-   "path": "tiddles/docs/garrison.txt",
    "sha256": "80e22c95b5f74bf72fe57f232803c5013b46382b1ed68bf64df9e7f25f8b7a33",
    "timestamp": "1998-04-19T10:48:22.000Z"
   },
-  {
+  "tiddles/docs/jackboot.txt": {
    "bytes": 489,
-   "path": "tiddles/docs/jackboot.txt",
    "sha256": "8aeb7ee376ea52fa7558d26a88dfa59e78435b407465ecf7e8ab796658b72e75",
    "timestamp": "2022-04-16T18:14:04.000Z"
   },
-  {
+  "tiddles/docs/outpost-alpha.txt": {
    "bytes": 2254,
-   "path": "tiddles/docs/outpost-alpha.txt",
    "sha256": "f2417b6fa5bc8227c7dc80a52665657c91b875b6090ade85c2372272668c1813",
    "timestamp": "1999-07-13T01:44:56.000Z"
   },
-  {
+  "tiddles/docs/steel valour.txt": {
    "bytes": 2245,
-   "path": "tiddles/docs/steel valour.txt",
    "sha256": "fb99e7a6a4bd005a450e18549a60eda71ea66bd25cca4bb6ee5df31bd2a66e0a",
    "timestamp": "1999-07-24T16:30:34.000Z"
   },
-  {
+  "tiddles/docs/strong hold.txt": {
    "bytes": 2596,
-   "path": "tiddles/docs/strong hold.txt",
    "sha256": "e7e2ddacea105ccc22e957111f3c62d3be69f5d919fb79363b3c6f82c6d1cef7",
    "timestamp": "1999-07-15T22:16:06.000Z"
   },
-  {
+  "tiddles/docs/tomb.txt": {
    "bytes": 2117,
-   "path": "tiddles/docs/tomb.txt",
    "sha256": "46c8b2256a5a0329af73fc2744bbe077435a5e4aa67c5b00dcc6ed7caca15215",
    "timestamp": "1989-10-15T18:36:04.000Z"
   },
-  {
+  "tiddles/gfx/": {
    "bytes": 0,
-   "path": "tiddles/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-04-16T06:28:08.000Z"
   },
-  {
+  "tiddles/gfx/conback.lmp": {
    "bytes": 64008,
-   "path": "tiddles/gfx/conback.lmp",
    "sha256": "1fc12fc0ee015006ef6f0bbf88bbe01b24257e5c32ad7c6b7952d7de1591eba8",
    "timestamp": "2022-04-16T06:42:10.000Z"
   },
-  {
+  "tiddles/maps/": {
    "bytes": 0,
-   "path": "tiddles/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-04-16T06:28:52.000Z"
   },
-  {
+  "tiddles/maps/garrison.bsp": {
    "bytes": 902660,
-   "path": "tiddles/maps/garrison.bsp",
    "sha256": "cfebe5a8445f1b43b5ab337fbeee46009919b7642063d1641fa479aa4031695f",
    "timestamp": "1998-02-24T12:25:36.000Z"
   },
-  {
+  "tiddles/maps/outpost-alpha.bsp": {
    "bytes": 626952,
-   "path": "tiddles/maps/outpost-alpha.bsp",
    "sha256": "637af48febad2a230ecebdb1090e0722fe6f36a94535d911f634b41b162e8c6b",
    "timestamp": "1999-07-13T01:17:24.000Z"
   },
-  {
+  "tiddles/maps/rift.bsp": {
    "bytes": 1435468,
-   "path": "tiddles/maps/rift.bsp",
    "sha256": "b1888fe6bd9f4b24a9d123608e402aacb2c0584645eb4528571d3566e992fbb5",
    "timestamp": "2001-09-12T16:00:36.000Z"
   },
-  {
+  "tiddles/maps/start.bsp": {
    "bytes": 830352,
-   "path": "tiddles/maps/start.bsp",
    "sha256": "60c6c398a559e3db8d5b43701173ddc74033adbd1c610765244b37b713db0509",
    "timestamp": "2000-02-26T06:12:00.000Z"
   },
-  {
+  "tiddles/maps/strong-hold.bsp": {
    "bytes": 1271080,
-   "path": "tiddles/maps/strong-hold.bsp",
    "sha256": "4a77a3ceb0ab0bba3df2c30b2086d1d9aca7dd4db01fcfb94b15c06d8ca887aa",
    "timestamp": "1999-07-15T21:47:16.000Z"
   },
-  {
+  "tiddles/maps/tomb.bsp": {
    "bytes": 651844,
-   "path": "tiddles/maps/tomb.bsp",
    "sha256": "60021d9bd15ca878c07e4d4cfe0c7c56fea7fb448f510a742139b484d5f2f062",
    "timestamp": "1998-09-29T10:05:22.000Z"
   },
-  {
+  "tiddles/maps/valour.bsp": {
    "bytes": 695688,
-   "path": "tiddles/maps/valour.bsp",
    "sha256": "f258a9b12489c5af6cce5b0dc3616e179e84d3bc96e6be1f50daf1c7383ae2f1",
    "timestamp": "1999-07-24T16:01:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "<a href=\"4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140\">Base X2</a> has been repurposed as a start map, and does not have built-in difficulty select. Make sure you manually set your skill level via console, e.g. \"skill 0\" is Easy.",
   "The second-to-last map <a href=\"263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d\">Garrison</a> was supposed to lead into a last map called <a href=\"https://www.quaddicted.com/files/maps/multiplayer/rift.zip\">Rift</a> which ended up being a deathmatch map. So instead, Greenwood has swapped in <a href=\"8078f39b8b1094ff4b971636bd2b07f63e6680d293f7fa914c546c02d9833f38\">Jackboot Hero</a> as the last level (renamed it as \"rift.bsp\") which perhaps makes for a better ending anyway.",

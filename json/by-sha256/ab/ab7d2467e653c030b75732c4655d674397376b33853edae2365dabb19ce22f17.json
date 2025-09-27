@@ -4,24 +4,22 @@
  ],
  "bytes": 1222697,
  "description": "A large IKBase styled map.",
- "files": [
-  {
+ "files": {
+  "dazsp3.bsp": {
    "bytes": 2935948,
-   "path": "dazsp3.bsp",
    "sha256": "98702fe1d9b5dea20983ee0babd8864ecce0a8a88a362231d4afd4ba4bfe7555",
    "timestamp": "2000-11-24T23:52:28.000Z"
   },
-  {
+  "dazsp3.txt": {
    "bytes": 1955,
-   "path": "dazsp3.txt",
    "sha256": "d2e7d9a808a49c693df6a8692beb28223a8cca82620e36826040c49301a68488",
    "timestamp": "2000-11-24T23:59:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-11-25",
  "sha256": "ab7d2467e653c030b75732c4655d674397376b33853edae2365dabb19ce22f17",
  "tags": [
