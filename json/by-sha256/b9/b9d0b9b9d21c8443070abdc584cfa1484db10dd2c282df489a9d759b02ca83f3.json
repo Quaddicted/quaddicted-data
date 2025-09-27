@@ -6,36 +6,32 @@
  ],
  "bytes": 1771327,
  "description": "Unthemed / 3 SP maps / Headthump, Hrimfaxi, Zwiffle",
- "files": [
-  {
+ "files": {
+  "sm93_headthump.bsp": {
    "bytes": 2468684,
-   "path": "sm93_headthump.bsp",
    "sha256": "eaaf0fa45b3152e2240c17c5f6b1bba1fa2f8cce3e53c676651c52810c8e1d10",
    "timestamp": "2005-05-28T18:17:22.000Z"
   },
-  {
+  "sm93_hrimfaxi.bsp": {
    "bytes": 1952672,
-   "path": "sm93_hrimfaxi.bsp",
    "sha256": "b98860992362dc5965882bd8eb7fcb5705a0797123e982edd91c5eeda120acb7",
    "timestamp": "2005-05-29T00:39:38.000Z"
   },
-  {
+  "sm93_pack.txt": {
    "bytes": 1226,
-   "path": "sm93_pack.txt",
    "sha256": "4246a0e09846d77f368033b72acc1f876ce55e89d93047816e42b68531341558",
    "timestamp": "2005-05-28T18:01:22.000Z"
   },
-  {
+  "sm93_zwiffle.bsp": {
    "bytes": 310372,
-   "path": "sm93_zwiffle.bsp",
    "sha256": "62d54802286ec8d8bae2b8c8fa961bfb92680dbf25196ff87f87fbd158496c80",
    "timestamp": "2005-05-28T17:53:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-05-29",
  "sha256": "b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3",
  "tags": [

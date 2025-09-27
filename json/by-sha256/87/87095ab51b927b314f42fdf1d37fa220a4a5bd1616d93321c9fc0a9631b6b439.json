@@ -4,30 +4,27 @@
  ],
  "bytes": 50649,
  "description": "A map you only need to play once a year!",
- "files": [
-  {
+ "files": {
+  "FUN!.bsp": {
    "bytes": 125736,
-   "path": "FUN!.bsp",
    "sha256": "a887eaf9835db66af60282bcfabde91c7f3cda5ee10004414275bcf0d02ecaf4",
    "timestamp": "1998-05-24T13:57:30.000Z"
   },
-  {
+  "fun!.txt": {
    "bytes": 629,
-   "path": "fun!.txt",
    "sha256": "d22aad39f51d69a3dcd9198238d7de94011e27f867f54a8f94add3645e82e0a0",
    "timestamp": "1999-12-05T23:25:18.000Z"
   },
-  {
+  "fun!_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "fun!_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

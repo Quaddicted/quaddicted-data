@@ -4,24 +4,22 @@
  ],
  "bytes": 696144,
  "description": "Medium-sized dark city/realism map with backyards, warehouses and sewers.",
- "files": [
-  {
+ "files": {
+  "scity509.bsp": {
    "bytes": 1737080,
-   "path": "scity509.bsp",
    "sha256": "5a22bf2258566e6aa1ef1a3ed84b2ac67550eaec3da59b154e210a0d2893e91e",
    "timestamp": "2011-01-10T11:23:34.000Z"
   },
-  {
+  "scity509.txt": {
    "bytes": 202,
-   "path": "scity509.txt",
    "sha256": "19a65b91a948128ede5188ed045450291a7e869965f6715f80d38617f7522807",
    "timestamp": "2011-01-10T22:16:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2011-01-10",
  "sha256": "89ac3be8eff12882b598af9061e4679a33234e2f6b9ff1a32f97cf440e5e2229",
  "tags": [

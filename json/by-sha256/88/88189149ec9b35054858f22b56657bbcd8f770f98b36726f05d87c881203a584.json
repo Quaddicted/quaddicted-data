@@ -4,24 +4,22 @@
  ],
  "bytes": 799520,
  "description": "A fast and brutal map in  ancient-temple textures.",
- "files": [
-  {
+ "files": {
+  "PERSSP2.BSP": {
    "bytes": 2081952,
-   "path": "PERSSP2.BSP",
    "sha256": "b5577cea9b91435e1345897c748779b06f26577f8941ee4c835669aede7c884b",
    "timestamp": "2001-02-27T12:52:26.000Z"
   },
-  {
+  "PERSSP2.TXT": {
    "bytes": 5665,
-   "path": "PERSSP2.TXT",
    "sha256": "a62d701780adeecd664dd89cbf274964203b063a53cbdb515f6a847c4cd74197",
    "timestamp": "2001-02-27T12:33:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-02-27",
  "sha256": "88189149ec9b35054858f22b56657bbcd8f770f98b36726f05d87c881203a584",
  "tags": [

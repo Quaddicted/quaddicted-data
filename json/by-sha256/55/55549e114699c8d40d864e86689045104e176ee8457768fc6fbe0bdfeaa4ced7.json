@@ -4,24 +4,22 @@
  ],
  "bytes": 1083831,
  "description": "Medium sized map with mixed textures and a Cyberdemon arena fight in the end.",
- "files": [
-  {
+ "files": {
+  "BADASS.TXT": {
    "bytes": 3699,
-   "path": "BADASS.TXT",
    "sha256": "80ef3bfb58f7ce0ff600fe0ffdf29a1f3e5f3f01b97b9a992935e6893b779061",
    "timestamp": "1996-06-13T14:34:52.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 2678541,
-   "path": "PAK0.PAK",
    "sha256": "8e4eef909fe81b5f9b47e2a1dca389ed5d82652f35652bbd8764ddcef50369e5",
    "timestamp": "1996-06-13T14:06:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/badass/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-07",
  "sha256": "55549e114699c8d40d864e86689045104e176ee8457768fc6fbe0bdfeaa4ced7",
  "tags": [

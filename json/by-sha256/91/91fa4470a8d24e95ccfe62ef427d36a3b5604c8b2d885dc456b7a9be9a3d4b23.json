@@ -4,24 +4,22 @@
  ],
  "bytes": 745333,
  "description": "Smallish basic looking Basemetal map featuring somewhat interesting rotation puzzles.",
- "files": [
-  {
+ "files": {
+  "bioforge.bsp": {
    "bytes": 1816444,
-   "path": "bioforge.bsp",
    "sha256": "670074c2a2705332def42ce8d1a9ea8812ff18daac8f13ed5d93e883053d9873",
    "timestamp": "1997-10-25T18:51:44.000Z"
   },
-  {
+  "bioforge.txt": {
    "bytes": 2904,
-   "path": "bioforge.txt",
    "sha256": "3d17e47d926ffedb189e3d7be2215729200b6fabb22bd33e1ad23ba6ca61e409",
    "timestamp": "1998-01-22T07:54:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires Scourge of Armagon."
  ],

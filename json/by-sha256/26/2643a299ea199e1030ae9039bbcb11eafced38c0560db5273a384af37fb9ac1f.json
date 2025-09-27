@@ -4,48 +4,42 @@
  ],
  "bytes": 2704611,
  "description": "Two large oldschool Base and Metal levels and an unfinished Wizard map.",
- "files": [
-  {
+ "files": {
+  "INOVO.txt": {
    "bytes": 4906,
-   "path": "INOVO.txt",
    "sha256": "8779ba0ee1de77b3cfb1c18474c0d25f3547251b0cdca990b1e3f6d21038da19",
    "timestamp": "2006-05-16T09:18:18.000Z"
   },
-  {
+  "ejm2.bsp": {
    "bytes": 1856028,
-   "path": "ejm2.bsp",
    "sha256": "2688cff82ab23168a267e6b492346f22267a3fb6cabbf7a580860b1e77186b4a",
    "timestamp": "2004-08-29T15:48:46.000Z"
   },
-  {
+  "ejm2dm.bsp": {
    "bytes": 1846360,
-   "path": "ejm2dm.bsp",
    "sha256": "09ec9f0cec10d9d490e7a44ff04bb142f85d3d23630c1a31509ae3ca65fa360e",
    "timestamp": "2004-09-18T11:25:34.000Z"
   },
-  {
+  "ejm3.bsp": {
    "bytes": 693412,
-   "path": "ejm3.bsp",
    "sha256": "03c476ee1c3d3f50b4becf5ca069acc4e97a0f00a4338fcf039daf5a118001ef",
    "timestamp": "2004-10-26T17:06:24.000Z"
   },
-  {
+  "in_ovo_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "in_ovo_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   },
-  {
+  "sg13.bsp": {
    "bytes": 1846516,
-   "path": "sg13.bsp",
    "sha256": "1f19115d996fc7f6909f59bf4a0597bbcf80788f1ccfb85efd060011474ab1ea",
    "timestamp": "2003-09-04T16:47:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 1211578,
  "description": "Large maze-like base map.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 3056185,
-   "path": "pak0.pak",
    "sha256": "59fa7273df4000fab1e74b72ab1313173f05a3057f54f205bc7ab57c9c86c97e",
    "timestamp": "1998-05-19T08:42:46.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 2006,
-   "path": "readme.txt",
    "sha256": "904a4ed1680fd274a6905114a8a70d51e6171aff7cecb3b004977d69f4c7af16",
    "timestamp": "1998-05-19T17:18:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/level5/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-05-19",
  "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
  "tags": [

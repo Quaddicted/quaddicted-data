@@ -5,102 +5,87 @@
  ],
  "bytes": 19246082,
  "description": "Small sized palace/catacomb map with a lot of close combat and strong Zerst\u00f6rer vibes. A foretaste of an upcoming the upcoming \"Arcanum\" project.",
- "files": [
-  {
+ "files": {
+  "arcdemo.txt": {
    "bytes": 853,
-   "path": "arcdemo.txt",
    "sha256": "436cd500e1e2a65af62def6573cc1ae12e9288fb33aa70b640b7b2a2abbfaf8b",
    "timestamp": "2009-10-31T17:18:04.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-10-31T15:40:28.000Z"
   },
-  {
+  "gfx/env/floodland_bk.tga": {
    "bytes": 103354,
-   "path": "gfx/env/floodland_bk.tga",
    "sha256": "0373cb3405614102f325e1fc4b373b93211321c077a4819c19e7be7f59f739c0",
    "timestamp": "2002-06-30T00:35:28.000Z"
   },
-  {
+  "gfx/env/floodland_dn.tga": {
    "bytes": 162355,
-   "path": "gfx/env/floodland_dn.tga",
    "sha256": "598319c5158caa6e4a715fad40778431de6b3c3950e285961944d83bfd1e044b",
    "timestamp": "2002-10-30T16:43:20.000Z"
   },
-  {
+  "gfx/env/floodland_ft.tga": {
    "bytes": 402531,
-   "path": "gfx/env/floodland_ft.tga",
    "sha256": "77f07cf545da75cc08548677359dc65fe17b68f78d092c2a96c0d1eb747335a9",
    "timestamp": "2002-06-29T22:38:08.000Z"
   },
-  {
+  "gfx/env/floodland_lf.tga": {
    "bytes": 132172,
-   "path": "gfx/env/floodland_lf.tga",
    "sha256": "4427043aa446d25853c68433641eb39ea8b3ecc07c5284285788cf4d27367537",
    "timestamp": "2002-06-29T23:32:46.000Z"
   },
-  {
+  "gfx/env/floodland_rt.tga": {
    "bytes": 105680,
-   "path": "gfx/env/floodland_rt.tga",
    "sha256": "0fdfd155d1dfb1d0a82630c85fd113683abeab55d93429d2719a0c41a64da66c",
    "timestamp": "2002-06-30T01:37:36.000Z"
   },
-  {
+  "gfx/env/floodland_up.tga": {
    "bytes": 182104,
-   "path": "gfx/env/floodland_up.tga",
    "sha256": "ec6d2cb0d06f91532a183a81af7bd4e206c40306e5c4d3c81cc41cd8abd5d944",
    "timestamp": "2002-10-30T16:43:16.000Z"
   },
-  {
+  "maps/arcanum1.bsp": {
    "bytes": 6343952,
-   "path": "maps/arcanum1.bsp",
    "sha256": "ee0c0eb2862afae56c2390e0b37f29252564c1e2478e3c9a4b4b56c46398b910",
    "timestamp": "2009-03-16T22:31:00.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 21411654,
-   "path": "pak0.pak",
    "sha256": "7eab132e93a20671d78132b667f58fadc099e2a197ad66d453ac01d190280100",
    "timestamp": "2009-09-05T15:10:00.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 11029957,
-   "path": "pak1.pak",
    "sha256": "9441a02102869c233676b53d0b6a415857dc9dc39fe35c6d2ff340658f39d5c8",
    "timestamp": "2009-09-05T14:18:00.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1081880,
-   "path": "progs.dat",
    "sha256": "e9a9e4f22ec643d303cc32f7eb369a81ca11240790e48bb7e31650022e044cba",
    "timestamp": "2009-10-31T16:13:00.000Z"
   },
-  {
+  "progs_dp.dat": {
    "bytes": 1095776,
-   "path": "progs_dp.dat",
    "sha256": "85509dac6444c9bb6229b9ede5b853da2982dd81cbf8c6fd86f42a5935b8923e",
    "timestamp": "2009-10-31T15:14:00.000Z"
   },
-  {
+  "sound/music/": {
    "bytes": 0,
-   "path": "sound/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-10-31T15:42:08.000Z"
   },
-  {
+  "sound/music/earth.wav": {
    "bytes": 794056,
-   "path": "sound/music/earth.wav",
    "sha256": "6cec516162e754962cbce1cff729d7118b1f25e6cfeae1fe2adca4b259d25542",
    "timestamp": "2009-10-31T11:44:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/arcdemo/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2009-10-31",
  "sha256": "a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768",
  "tags": [

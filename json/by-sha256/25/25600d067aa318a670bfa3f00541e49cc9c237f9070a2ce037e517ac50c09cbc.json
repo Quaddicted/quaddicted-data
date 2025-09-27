@@ -9,210 +9,177 @@
  ],
  "bytes": 15670500,
  "description": "Six small ~2-hour speedmaps + a start hub, all following different themes and based on the <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a> mod (included). It comes with a custom music track. The map sources are included.",
- "files": [
-  {
+ "files": {
+  "bored/": {
    "bytes": 0,
-   "path": "bored/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-05T02:41:36.000Z"
   },
-  {
+  "bored/autosave/": {
    "bytes": 0,
-   "path": "bored/autosave/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-05T01:54:06.000Z"
   },
-  {
+  "bored/autosave/boredstart.1.map": {
    "bytes": 51493,
-   "path": "bored/autosave/boredstart.1.map",
    "sha256": "f6f8e2c6269ae25f7ff65bbac7b344593bbd706d0f57e2d3d4024b3a21030dce",
    "timestamp": "2021-01-05T01:28:50.000Z"
   },
-  {
+  "bored/autosave/boredstart.2.map": {
    "bytes": 55432,
-   "path": "bored/autosave/boredstart.2.map",
    "sha256": "dc2c5cbc55c35bfcb1b255e4283528bfa1ff174f940c8b83f1f89371ef6cad74",
    "timestamp": "2021-01-05T01:43:10.000Z"
   },
-  {
+  "bored/autosave/start.1.map": {
    "bytes": 41136,
-   "path": "bored/autosave/start.1.map",
    "sha256": "d05cf6220191629536762b65567d55545d3a5cfbe1f9f81a594df0bcc8ce0958",
    "timestamp": "2021-01-05T01:17:18.000Z"
   },
-  {
+  "bored/maps/": {
    "bytes": 0,
-   "path": "bored/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-05T02:02:24.000Z"
   },
-  {
+  "bored/maps/bored1_snaut.bsp": {
    "bytes": 614580,
-   "path": "bored/maps/bored1_snaut.bsp",
    "sha256": "a35ebb901f0cdaf828733a52de2e1920e74357786aeef71c37866d6d9533b0a6",
    "timestamp": "2021-01-04T23:57:18.000Z"
   },
-  {
+  "bored/maps/bored1_snaut.lit": {
    "bytes": 192284,
-   "path": "bored/maps/bored1_snaut.lit",
    "sha256": "374e5d591ffd8077a7fcf39318a0d38495720bbac0414ba89392af21cfa39f28",
    "timestamp": "2021-01-04T23:57:18.000Z"
   },
-  {
+  "bored/maps/bored2_mazu.bsp": {
    "bytes": 642168,
-   "path": "bored/maps/bored2_mazu.bsp",
    "sha256": "883b02f7a2be320ef889d724efdd12ff6ae790d5efd3a68f2f1c286f58467fc7",
    "timestamp": "2021-01-04T23:56:56.000Z"
   },
-  {
+  "bored/maps/bored2_mazu.lit": {
    "bytes": 260603,
-   "path": "bored/maps/bored2_mazu.lit",
    "sha256": "90e5d9973f7d4542a700cf47ba3ac3fa3722eb88727ad5c8e668a9b8b2ce7474",
    "timestamp": "2021-01-04T23:56:56.000Z"
   },
-  {
+  "bored/maps/bored3_void.bsp": {
    "bytes": 581580,
-   "path": "bored/maps/bored3_void.bsp",
    "sha256": "18976e22d0217dbb37ef4d44fbf8f523046d7ca4477a8a5a950df73e4e4e8250",
    "timestamp": "2021-01-04T23:40:18.000Z"
   },
-  {
+  "bored/maps/bored3_void.lit": {
    "bytes": 345119,
-   "path": "bored/maps/bored3_void.lit",
    "sha256": "09eb47c77cac96b5ddccc2f743f6a63d8f190792988214cfb093aeed540bd911",
    "timestamp": "2021-01-04T23:40:18.000Z"
   },
-  {
+  "bored/maps/bored4_greenwood.bsp": {
    "bytes": 1058572,
-   "path": "bored/maps/bored4_greenwood.bsp",
    "sha256": "42f2177eec5558444d5e2f14af02248f89b3792c1378724d88494aa1d2984c66",
    "timestamp": "2021-01-04T08:20:50.000Z"
   },
-  {
+  "bored/maps/bored4_greenwood.lit": {
    "bytes": 641306,
-   "path": "bored/maps/bored4_greenwood.lit",
    "sha256": "4690c9637ab9a2cb60eeace2e8d27140857d2490e6804e2878cbd755111cddef",
    "timestamp": "2021-01-04T08:20:50.000Z"
   },
-  {
+  "bored/maps/bored5_markie.bsp": {
    "bytes": 630380,
-   "path": "bored/maps/bored5_markie.bsp",
    "sha256": "a9a3a3921434df0b385153b29124280a049999438bd947e870b4fe8ba0071b7c",
    "timestamp": "2021-01-05T02:23:50.000Z"
   },
-  {
+  "bored/maps/bored5_markie.lit": {
    "bytes": 235829,
-   "path": "bored/maps/bored5_markie.lit",
    "sha256": "6368dcd2c50025ba8c63c0c19a5248a93769e69d02749928fccab8c4260b3212",
    "timestamp": "2021-01-05T00:24:48.000Z"
   },
-  {
+  "bored/maps/bored6_fw.bsp": {
    "bytes": 701424,
-   "path": "bored/maps/bored6_fw.bsp",
    "sha256": "0eb113829eb633444e397d933b1d0ef7607f75d6624c14aa5c098a33bfc59d2f",
    "timestamp": "2021-01-05T01:58:04.000Z"
   },
-  {
+  "bored/maps/bored6_fw.lit": {
    "bytes": 273551,
-   "path": "bored/maps/bored6_fw.lit",
    "sha256": "af69e10694a98df46a679c2084cf814c0c1e73dafb88ca5400be4c82f75184c8",
    "timestamp": "2021-01-05T01:58:04.000Z"
   },
-  {
+  "bored/maps/start.bsp": {
    "bytes": 280288,
-   "path": "bored/maps/start.bsp",
    "sha256": "ea3d88e3b15c5de6c6e301e3fb07e21e49d842994ce534798b66d1c3ac12922d",
    "timestamp": "2021-01-05T01:44:48.000Z"
   },
-  {
+  "bored/maps/start.lit": {
    "bytes": 237578,
-   "path": "bored/maps/start.lit",
    "sha256": "96878e02ec7bce3cadd102ce99ae9f1fcff1c1c6bdec2120a2483b13a0e2a20e",
    "timestamp": "2021-01-05T01:44:48.000Z"
   },
-  {
+  "bored/music/": {
    "bytes": 0,
-   "path": "bored/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-05T01:54:06.000Z"
   },
-  {
+  "bored/music/track37.mp3": {
    "bytes": 10254126,
-   "path": "bored/music/track37.mp3",
    "sha256": "f673b6ff11370971031776a70197e72ad4a6a582bef8695371478610a9ddd20a",
    "timestamp": "2021-01-05T01:59:14.000Z"
   },
-  {
+  "bored/pak0.pak": {
    "bytes": 4121856,
-   "path": "bored/pak0.pak",
    "sha256": "921783f3e7fa793f8aaf8ec1de4a927722d70c3f42d3d550abcf53d4f1ee2bae",
    "timestamp": "2021-01-05T02:34:34.000Z"
   },
-  {
+  "bored/progs.dat": {
    "bytes": 532302,
-   "path": "bored/progs.dat",
    "sha256": "86c31535274ace9e199a349af9ce71068c9b98f010ef9e13de439898173568c8",
    "timestamp": "2021-01-05T01:50:50.000Z"
   },
-  {
+  "bored/readme.txt": {
    "bytes": 3439,
-   "path": "bored/readme.txt",
    "sha256": "3908745a4a8d68ee3e2ed7583a207209e040c988bcf2e95d5e4fb6165c1852be",
    "timestamp": "2021-01-05T02:43:14.000Z"
   },
-  {
+  "bored/src/": {
    "bytes": 0,
-   "path": "bored/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-05T01:54:06.000Z"
   },
-  {
+  "bored/src/bored1_snaut.map": {
    "bytes": 143521,
-   "path": "bored/src/bored1_snaut.map",
    "sha256": "1757428aaee2ade592518b710f720eaf2667862576623422b43b2818ec2e7930",
    "timestamp": "2021-01-04T23:57:10.000Z"
   },
-  {
+  "bored/src/bored2_mazu.map": {
    "bytes": 308589,
-   "path": "bored/src/bored2_mazu.map",
    "sha256": "6856eddcd3bf7118dfc3e498c7ca135b8eedcd4251fe39374581df3607c87183",
    "timestamp": "2021-01-04T23:56:38.000Z"
   },
-  {
+  "bored/src/bored2_mazu.txt": {
    "bytes": 1769,
-   "path": "bored/src/bored2_mazu.txt",
    "sha256": "c7eb354288eb35acbe7fdbcf47289d93e5f05452b85d7dcad768ec25de289284",
    "timestamp": "2021-01-04T23:44:50.000Z"
   },
-  {
+  "bored/src/bored6_fw.map": {
    "bytes": 390079,
-   "path": "bored/src/bored6_fw.map",
    "sha256": "8b139663c5c0dc1d9bc8e4d42642357f90167415f08e412c087505a7af95f074",
    "timestamp": "2021-01-05T01:34:42.000Z"
   },
-  {
+  "bored/src/start.map": {
    "bytes": 55446,
-   "path": "bored/src/start.map",
    "sha256": "20021fee456ad15de47d38ed7cf61e4510ab9d5af173c4fe81f86867af473b1a",
    "timestamp": "2021-01-05T01:47:24.000Z"
   },
-  {
+  "bored/textures/": {
    "bytes": 0,
-   "path": "bored/textures/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-01-05T01:54:06.000Z"
   },
-  {
+  "bored/textures/#bmk_water01a.tga": {
    "bytes": 12332,
-   "path": "bored/textures/#bmk_water01a.tga",
    "sha256": "904f50c3a1de65dd5045f128d03ed8cdc86fcbc15cce295d94304b389ca5ed7c",
    "timestamp": "2021-01-03T17:27:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-01-04",
  "sha256": "25600d067aa318a670bfa3f00541e49cc9c237f9070a2ce037e517ac50c09cbc",
  "tags": [

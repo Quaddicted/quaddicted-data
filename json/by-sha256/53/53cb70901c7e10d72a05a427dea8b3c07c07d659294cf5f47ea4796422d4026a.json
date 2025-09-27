@@ -4,30 +4,27 @@
  ],
  "bytes": 2427565,
  "description": "Small medieval puzzle map based on the work of M.C. Escher. Gameplay focuses on finding keys and following hints to discover secret areas. The map source is included.",
- "files": [
-  {
+ "files": {
+  "mce.bsp": {
    "bytes": 5396000,
-   "path": "mce.bsp",
    "sha256": "66c235da615c6b36d0d82183b4f5eca2f5d872e3a220ff38fcf0116c6bf8d51b",
    "timestamp": "2013-02-22T01:10:24.000Z"
   },
-  {
+  "mce.map": {
    "bytes": 3164460,
-   "path": "mce.map",
    "sha256": "d18b951fa5fc5b97920ea7cc6745f0b590ae2529ab8e1800a56d759891f48fc1",
    "timestamp": "2013-02-22T01:10:20.000Z"
   },
-  {
+  "mce.txt": {
    "bytes": 3546,
-   "path": "mce.txt",
    "sha256": "ecd403900b5f01d69a77cc033f4c96236b15392ae502aa72e90fd0649b7bca87",
    "timestamp": "2013-02-22T01:13:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "There are a few compatibility issues with certain engine ports. See mce.txt for more information."
  ],

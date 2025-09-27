@@ -4,24 +4,22 @@
  ],
  "bytes": 2047364,
  "description": "Large medieval town in a thundery night with completely new textures and non-standard gameplay. To proceed, it's often required to find hidden buttons and use certain strategies to defeat the monsters (such as relying on infighting and conserving ammo).",
- "files": [
-  {
+ "files": {
+  "middle.txt": {
    "bytes": 1771,
-   "path": "middle.txt",
    "sha256": "a520d9b8a664acb44326e1af7b9d983b1bde50f246e639ed6f4868835003570d",
    "timestamp": "1997-11-03T17:40:46.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 3999142,
-   "path": "pak0.pak",
    "sha256": "cb8bbea6af8f6d07a2a62516f396db253929126ec11227d1a9b4e055773581bc",
    "timestamp": "1997-11-03T13:54:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/middle/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-03",
  "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "tags": [

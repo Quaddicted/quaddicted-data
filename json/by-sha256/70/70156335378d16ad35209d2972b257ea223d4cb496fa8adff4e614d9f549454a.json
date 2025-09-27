@@ -4,24 +4,22 @@
  ],
  "bytes": 1550063,
  "description": "Medium sized Metal map with some base monsters and a Base generator room.",
- "files": [
-  {
+ "files": {
+  "fmb6.bsp": {
    "bytes": 3462252,
-   "path": "fmb6.bsp",
    "sha256": "3c457755722264d9b566fb7a955781e0eaad0f9d3b4b49e1b5c12eb511b5c192",
    "timestamp": "1999-11-06T10:33:20.000Z"
   },
-  {
+  "fmb6.txt": {
    "bytes": 4694,
-   "path": "fmb6.txt",
    "sha256": "c020ca4bff123b2e10faee28896845426c37e3cee04feaa0bd86285abe7d5a08",
    "timestamp": "1999-11-22T20:35:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1999-11-22",
  "sha256": "70156335378d16ad35209d2972b257ea223d4cb496fa8adff4e614d9f549454a",
  "tags": [

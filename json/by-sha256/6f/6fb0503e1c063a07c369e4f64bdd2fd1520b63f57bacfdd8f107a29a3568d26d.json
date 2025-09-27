@@ -4,30 +4,27 @@
  ],
  "bytes": 1153541,
  "description": "Medium-sized brick/metal dungeon.",
- "files": [
-  {
+ "files": {
+  "tdl.bsp": {
    "bytes": 2309968,
-   "path": "tdl.bsp",
    "sha256": "a0ca313a09c3e5c7e3dcc8b52b40f094c3a4f2d3b0a6f63933bac1cafe65499d",
    "timestamp": "2010-06-18T09:39:32.000Z"
   },
-  {
+  "tdl.qkm": {
    "bytes": 1549521,
-   "path": "tdl.qkm",
    "sha256": "611ce90de26c7576b0a1f0117b611fb7eefacd02ac7b311cd2feff29471e96ed",
    "timestamp": "2010-06-18T09:52:48.000Z"
   },
-  {
+  "tdl.txt": {
    "bytes": 10018,
-   "path": "tdl.txt",
    "sha256": "f041594add1294c6159a373740d4745033a263887e7c60126c2862b80b743869",
    "timestamp": "2010-06-18T10:00:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2010-06-16",
  "sha256": "6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d",
  "tags": [

@@ -7,144 +7,122 @@
  ],
  "bytes": 243394289,
  "description": "Community mapping event organized at 4chan's retro videogame board: 11 large levels including a start map and a secret map, following a variety of styles and texture themes. They run on a custom mod that combines enemies, weapons, items and assets from both official mission packs, <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>, <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>, RMQ and Progs_dump. As such, it comes with many new models, sounds as well as skyboxes and custom music tracks.",
- "files": [
-  {
+ "files": {
+  "vr/": {
    "bytes": 0,
-   "path": "vr/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-12-05T06:31:52.000Z"
   },
-  {
+  "vr/MAP MANIFEST.txt": {
    "bytes": 1627,
-   "path": "vr/MAP MANIFEST.txt",
    "sha256": "3c419127b3fc91331f1994563fbaee4a4dab53351aaae7a9fd16e887b1ed7626",
    "timestamp": "2021-12-04T23:00:40.000Z"
   },
-  {
+  "vr/Violent Rumble Readme.txt": {
    "bytes": 6085,
-   "path": "vr/Violent Rumble Readme.txt",
    "sha256": "17e9c20b8ab9585a427a459d33156a9e91ee338c5f452c1bf73d0a040b144bdb",
    "timestamp": "2021-12-05T06:06:30.000Z"
   },
-  {
+  "vr/map readmes/": {
    "bytes": 0,
-   "path": "vr/map readmes/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-12-01T21:50:08.000Z"
   },
-  {
+  "vr/map readmes/ShubsWagerREADME.txt": {
    "bytes": 914,
-   "path": "vr/map readmes/ShubsWagerREADME.txt",
    "sha256": "cfc70af6cabb25705a92b140c9767cf562be52b0e65a7e9a068f0635aec646b3",
    "timestamp": "2021-12-01T21:48:38.000Z"
   },
-  {
+  "vr/map readmes/ct.txt": {
    "bytes": 461,
-   "path": "vr/map readmes/ct.txt",
    "sha256": "78768ae064adb2f7b1d016a03fcb31d44dbdbed53afca3a897930e9c2ce6b7d6",
    "timestamp": "2021-12-03T13:06:38.000Z"
   },
-  {
+  "vr/map readmes/miasma readme.txt": {
    "bytes": 949,
-   "path": "vr/map readmes/miasma readme.txt",
    "sha256": "d4c1a88c94b5e69a5cf2ee198eaec03d2168d1a14fdf9414d6ce6b18ee298381",
    "timestamp": "2021-10-28T18:01:30.000Z"
   },
-  {
+  "vr/map readmes/nbabs_readme.txt": {
    "bytes": 987,
-   "path": "vr/map readmes/nbabs_readme.txt",
    "sha256": "10383eba9df1886e89b37dbd49aaab6daab029c4c043688af09293c806a77f53",
    "timestamp": "2021-11-05T13:10:48.000Z"
   },
-  {
+  "vr/map readmes/rastr_readme.txt": {
    "bytes": 545,
-   "path": "vr/map readmes/rastr_readme.txt",
    "sha256": "14e97e5b65f200f4db3a1f7d639b1cae4e05ac20b7f709813e48c169177c1f5a",
    "timestamp": "2021-11-02T08:31:42.000Z"
   },
-  {
+  "vr/map readmes/rbbREADME.txt": {
    "bytes": 294,
-   "path": "vr/map readmes/rbbREADME.txt",
    "sha256": "7e7290f8ff367ab94c699aa19a4f93e049d652143f3ae4d0ee947e5771785e22",
    "timestamp": "2021-10-05T23:27:08.000Z"
   },
-  {
+  "vr/map readmes/uc.txt": {
    "bytes": 1890,
-   "path": "vr/map readmes/uc.txt",
    "sha256": "0a1e8ccba78868246b688c89ac72b4143cbd2608571c3a73fc962cdf8fc00d9d",
    "timestamp": "2021-10-19T19:23:06.000Z"
   },
-  {
+  "vr/pak0.pak": {
    "bytes": 418296622,
-   "path": "vr/pak0.pak",
    "sha256": "1dcf714abea9a3f9bdcc8b0c935a8b1296cd89c01617aa2150ba22731e304345",
    "timestamp": "2021-12-05T06:31:44.000Z"
   },
-  {
+  "vr/progs_dump-devkit-readme.txt": {
    "bytes": 5611,
-   "path": "vr/progs_dump-devkit-readme.txt",
    "sha256": "59be3f7ae9636a369eb991cbb946604fb0d988711de4ebd5426b028a8ae2749b",
    "timestamp": "2021-04-21T07:37:02.000Z"
   },
-  {
+  "vr/quake.rc": {
    "bytes": 986,
-   "path": "vr/quake.rc",
    "sha256": "2cf3e0ef46b8a9f89dd6506efac8af55b68db878a29f87f9b4450570117f992f",
    "timestamp": "2021-12-04T21:24:50.000Z"
   },
-  {
+  "vr/textures/": {
    "bytes": 0,
-   "path": "vr/textures/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-12-05T05:40:30.000Z"
   },
-  {
+  "vr/textures/#lava_large.tga": {
    "bytes": 178010,
-   "path": "vr/textures/#lava_large.tga",
    "sha256": "ac8d5b22b9596e6d2f542333d4ef79707d98ae7edec223c9b099d7e87d1d9395",
    "timestamp": "2021-12-05T05:47:40.000Z"
   },
-  {
+  "vr/textures/#lava_large2.tga": {
    "bytes": 163142,
-   "path": "vr/textures/#lava_large2.tga",
    "sha256": "e17c135377d8e600bcbd3dc06d65eeae2cc82061e98fef6c0e330662c1b222cd",
    "timestamp": "2021-12-05T05:47:34.000Z"
   },
-  {
+  "vr/textures/#lava_large3.tga": {
    "bytes": 110758,
-   "path": "vr/textures/#lava_large3.tga",
    "sha256": "126e2a7e7cd6ed95436f3a6d247cda04de5eecdc170f4bb425a1999fd0770f34",
    "timestamp": "2021-12-05T05:47:26.000Z"
   },
-  {
+  "vr/textures/#lava_large4.tga": {
    "bytes": 87578,
-   "path": "vr/textures/#lava_large4.tga",
    "sha256": "04d3d1e3e763fdef0f8ecf222c73857ee45fbc59dd9d054ac7a28b90a73a5135",
    "timestamp": "2021-12-05T05:47:20.000Z"
   },
-  {
+  "vr/textures/rockface_large.tga": {
    "bytes": 186842,
-   "path": "vr/textures/rockface_large.tga",
    "sha256": "df3d673598737b21eb6ad3d584bf233a47ee03578f880b707ffc6a1fa6553c10",
    "timestamp": "2021-12-05T05:47:10.000Z"
   },
-  {
+  "vr/textures/rockside_large.tga": {
    "bytes": 706570,
-   "path": "vr/textures/rockside_large.tga",
    "sha256": "ddc05e956ee16fd6d05bef2d3376d5235eefbfd27eecbaf907001c11d4c3df37",
    "timestamp": "2021-12-05T05:47:04.000Z"
   },
-  {
+  "vr/textures/rocktop_large.tga": {
    "bytes": 667598,
-   "path": "vr/textures/rocktop_large.tga",
    "sha256": "ed9fba268e20d43742354ab080c58eb9b07b3d9076f374ce2c9066f272355f62",
    "timestamp": "2021-12-05T05:46:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],

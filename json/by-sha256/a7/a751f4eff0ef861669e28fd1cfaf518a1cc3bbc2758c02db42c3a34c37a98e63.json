@@ -7,102 +7,87 @@
   "ad>=1.80"
  ],
  "description": "Short map for Arcane Dimensions in Makkon stone textures, featuring a recurring blood motif and boss fight.",
- "files": [
-  {
+ "files": {
+  "freyja.txt": {
    "bytes": 5872,
-   "path": "freyja.txt",
    "sha256": "0348aa7b1a6427f5675c3a9a26f5d8704c7c7f74b0de1bada6ce3c98f132224f",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/mak_bloodmoon1_bk.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/mak_bloodmoon1_bk.tga",
    "sha256": "a0e193d3ea6d203924d2d07e5f6393866d251d7e9ffe3bcc31ccb7e55ca69b26",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/mak_bloodmoon1_dn.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/mak_bloodmoon1_dn.tga",
    "sha256": "03860bdee586ca8a262bec45bff27d060a6670ed793d087d1937634547058793",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/mak_bloodmoon1_ft.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/mak_bloodmoon1_ft.tga",
    "sha256": "d51a536fdba9d15b7a37fe675fe5bb4fc9f4f2cca37bd942e1e21eb177f43f2a",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/mak_bloodmoon1_lf.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/mak_bloodmoon1_lf.tga",
    "sha256": "ff414bffdc82f41196c90834ea727cd08b042ec3918cf10832870a33dccdc3eb",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/mak_bloodmoon1_rt.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/mak_bloodmoon1_rt.tga",
    "sha256": "56148c1c8135ebeb568ebd53276c761a8f442b06e6aba3199c353da0c4e47ac1",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "gfx/env/mak_bloodmoon1_up.tga": {
    "bytes": 3145772,
-   "path": "gfx/env/mak_bloodmoon1_up.tga",
    "sha256": "57f8bf9debe4ba7b5692bcbe8445dc7ad6ba33cd4b843369345254af30107e8a",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "maps/freyja.bsp": {
    "bytes": 22621296,
-   "path": "maps/freyja.bsp",
    "sha256": "c4a4dd3b8ddfb90c04ded601a584c26636f42738a8eb86b4a2e139e954452c1e",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "maps/freyja.lit": {
    "bytes": 2271548,
-   "path": "maps/freyja.lit",
    "sha256": "5240d1d02f1c4dec2fc203d7345d21a904fbdf994afe4cd227fab6b07341352a",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "maps/freyja.map": {
    "bytes": 1617292,
-   "path": "maps/freyja.map",
    "sha256": "7ea4ad1336416474b2b3241acab79166ca77d11bbd5ea2b8f90f35b08ff2abe5",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-28T16:25:36.000Z"
   },
-  {
+  "music/track27.mp3": {
    "bytes": 2666160,
-   "path": "music/track27.mp3",
    "sha256": "86745ff97b85ad878909ebdfb98c768594f58bf38f9ab43fa73bf43883ef7041",
    "timestamp": "2024-02-28T16:25:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "This file was repackaged for Quake Injector compatibility.",

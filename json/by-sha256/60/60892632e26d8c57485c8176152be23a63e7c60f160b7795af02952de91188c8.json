@@ -4,24 +4,22 @@
  ],
  "bytes": 1074827,
  "description": "Medium sized medieval library map using Knave textures - made for the SM100 turtlemap event. This is a newer version than the one included in sm100turtle.zip.",
- "files": [
-  {
+ "files": {
+  "sm100t_neg!ke.bsp": {
    "bytes": 2628980,
-   "path": "sm100t_neg!ke.bsp",
    "sha256": "aa64b97156428710ef95e781ea94d371713dc50e1d50f3bded623d4c6cacf6fc",
    "timestamp": "2005-07-27T12:09:06.000Z"
   },
-  {
+  "sm100t_neg!ke.txt": {
    "bytes": 1944,
-   "path": "sm100t_neg!ke.txt",
    "sha256": "602cacfe063505ab9357644c46fae490da03ce3261c89435f4938c559352b89c",
    "timestamp": "2005-07-27T12:11:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-07-27",
  "sha256": "60892632e26d8c57485c8176152be23a63e7c60f160b7795af02952de91188c8",
  "tags": [

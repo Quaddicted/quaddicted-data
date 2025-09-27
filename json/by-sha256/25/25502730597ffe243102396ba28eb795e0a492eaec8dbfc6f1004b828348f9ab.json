@@ -4,24 +4,22 @@
  ],
  "bytes": 586728,
  "description": "A imaginative but simple fortress. Features a (long and slow) ride on a cable car.",
- "files": [
-  {
+ "files": {
+  "qkfort.bsp": {
    "bytes": 1459044,
-   "path": "qkfort.bsp",
    "sha256": "77d553efd3cdddf7ffc6b0bd0ba23fd60b96493be71719c3e3056066c7f16d06",
    "timestamp": "1998-07-23T12:42:06.000Z"
   },
-  {
+  "qkfort.txt": {
    "bytes": 2046,
-   "path": "qkfort.txt",
    "sha256": "64fbb729682d7e25946e6843992d5e1f43cd46b3cf2805faaa164fac90c516eb",
    "timestamp": "2000-01-13T18:48:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-07-23",
  "sha256": "25502730597ffe243102396ba28eb795e0a492eaec8dbfc6f1004b828348f9ab",
  "tags": [

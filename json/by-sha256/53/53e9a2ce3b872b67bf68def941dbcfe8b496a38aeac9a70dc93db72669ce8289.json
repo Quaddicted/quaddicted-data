@@ -4,18 +4,17 @@
  ],
  "bytes": 406734,
  "description": "About medium sized, leaked Medieval/Metal/mix map.",
- "files": [
-  {
+ "files": {
+  "fist.bsp": {
    "bytes": 943836,
-   "path": "fist.bsp",
    "sha256": "46ce775de72673bed14d222e18c6929bb137ce006595ad9a748cb67a0317438e",
    "timestamp": "1997-07-05T00:45:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-05",
  "sha256": "53e9a2ce3b872b67bf68def941dbcfe8b496a38aeac9a70dc93db72669ce8289",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 326928,
  "description": "Lava with walkways above it and demonfaced-walls.",
- "files": [
-  {
+ "files": {
+  "bridges.bsp": {
    "bytes": 756576,
-   "path": "bridges.bsp",
    "sha256": "aed2b135496ff9a2f71ccb3b1bcc39ccc668f9e7ec6c9be79361de4d729948c2",
    "timestamp": "1998-06-24T10:37:26.000Z"
   },
-  {
+  "bridges.txt": {
    "bytes": 615,
-   "path": "bridges.txt",
    "sha256": "48823c3e89621f880b0ef6a1f7f0e198745289ba15b75fcf79a92fea0d5d1dab",
    "timestamp": "1999-12-05T23:14:22.000Z"
   },
-  {
+  "bridges_2_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "bridges_2_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>",
   "This file was originally called bridges.zip"

@@ -18,102 +18,87 @@
  ],
  "bytes": 11538070,
  "description": "Community mapping event in celebration of Quake's 25th anniversary: 16 small to large oldschool levels in varying classic themes + a start hub map, all keeping within the original game's technical and stylistic restraints. The map sources are included inside the PAK.",
- "files": [
-  {
+ "files": {
+  "q25limit/": {
    "bytes": 0,
-   "path": "q25limit/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-23T08:18:02.000Z"
   },
-  {
+  "q25limit/pak0.pak": {
    "bytes": 38694238,
-   "path": "q25limit/pak0.pak",
    "sha256": "5e0106cd81376f46b10f9c18c7973e393c26ac73f6110121bd07f92113a991d1",
    "timestamp": "2021-06-23T08:18:02.000Z"
   },
-  {
+  "q25limit/q25_limit_install.txt": {
    "bytes": 693,
-   "path": "q25limit/q25_limit_install.txt",
    "sha256": "dbbd30bbaa397f7e7971d7b85da8d84afa2ad31f5838e3f50d43576bd51f5e65",
    "timestamp": "2021-06-22T13:45:50.000Z"
   },
-  {
+  "q25limit/readme/": {
    "bytes": 0,
-   "path": "q25limit/readme/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-22T13:20:46.000Z"
   },
-  {
+  "q25limit/readme/maps_readme.txt": {
    "bytes": 271,
-   "path": "q25limit/readme/maps_readme.txt",
    "sha256": "7cea098c702fa25854d112da485027ff85dbef401d85ce50242f22e945884ca8",
    "timestamp": "2021-06-17T13:01:48.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_4lt.txt": {
    "bytes": 678,
-   "path": "q25limit/readme/q25_limits_4lt.txt",
    "sha256": "bfdef7c244b8994a83b01ee39d414ec0ca5c2fe2d078bbdc3ab4bbd3fac4cad5",
    "timestamp": "2021-05-09T09:31:52.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_dfl.txt": {
    "bytes": 1761,
-   "path": "q25limit/readme/q25_limits_dfl.txt",
    "sha256": "0d92d403b5b13a23480b4aa542bc7992508f723887fa5545755d025df002a80e",
    "timestamp": "2021-06-02T21:51:10.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_greenwood.txt": {
    "bytes": 1245,
-   "path": "q25limit/readme/q25_limits_greenwood.txt",
    "sha256": "22a71d6c5bd89474666af97b82b1fbeed5efd456fd0c04730192d56f9e55412f",
    "timestamp": "2021-06-16T14:32:56.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_grue.txt": {
    "bytes": 1947,
-   "path": "q25limit/readme/q25_limits_grue.txt",
    "sha256": "c509fa40cb943d4af8f3267eaf138d0fca5cb9af70e6ac50029dd2ba5cbbebd2",
    "timestamp": "2021-06-10T17:17:08.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_jcr.txt": {
    "bytes": 2447,
-   "path": "q25limit/readme/q25_limits_jcr.txt",
    "sha256": "9c417502cc3923d9c5d1cbe49d5c17bca15e6d828dc2c78add193e3c6b5549c9",
    "timestamp": "2021-06-16T12:52:10.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_konig.txt": {
    "bytes": 1880,
-   "path": "q25limit/readme/q25_limits_konig.txt",
    "sha256": "5d878242fbf2082675b63807b3e63c1f337dc4ae7a25bb308fa1686b5a753fcf",
    "timestamp": "2021-06-12T01:51:32.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_markie.txt": {
    "bytes": 1215,
-   "path": "q25limit/readme/q25_limits_markie.txt",
    "sha256": "c9dfac39085ccd2237594d6fb9583c3bb2b3bf511612e2b6e6ad3f1e9bd302b7",
    "timestamp": "2021-06-03T12:14:06.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_pieface.txt": {
    "bytes": 1468,
-   "path": "q25limit/readme/q25_limits_pieface.txt",
    "sha256": "a4b6eb372d0e4d33dcf65d097e3d8d2974f68186afc4382e4032efae31780841",
    "timestamp": "2021-06-16T18:47:04.000Z"
   },
-  {
+  "q25limit/readme/q25_limits_spud.txt": {
    "bytes": 3407,
-   "path": "q25limit/readme/q25_limits_spud.txt",
    "sha256": "7fb3b5a859ffb29d2663d053077fc3e1f32587bebb73f1ea2dfc7983ff10b5c2",
    "timestamp": "2021-06-12T23:11:20.000Z"
   },
-  {
+  "q25limit/readme/start.txt": {
    "bytes": 1800,
-   "path": "q25limit/readme/start.txt",
    "sha256": "82429eab4052cbf8cd8ed312863f01f59a2219aac7432cd5aab9408ea1c0fc78",
    "timestamp": "2021-06-22T00:45:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-06-22",
  "sha256": "9cc7dbee0c4133830f8045206457dc21fd0dd67524f956e9cdc4eb6f22adf2d9",
  "tags": [

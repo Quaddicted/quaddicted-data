@@ -5,30 +5,27 @@
  ],
  "bytes": 6029582,
  "description": "This is the 1997 classic Q1SP episode <a href=\"0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721\">Beyond Belief</a> merged into a single level (excluding the start map).",
- "files": [
-  {
+ "files": {
+  "bbin1.bsp": {
    "bytes": 15246708,
-   "path": "bbin1.bsp",
    "sha256": "ad7bcafbfc80b5640c0e53acd80c273ac6c8fafdf03320196840f53559776ab9",
    "timestamp": "2015-01-14T20:23:30.000Z"
   },
-  {
+  "bbin1.map": {
    "bytes": 7983041,
-   "path": "bbin1.map",
    "sha256": "ac9b454ce3bd0c4f2532cdd2e177156b89638360f9814b4d29b709d6f9fea699",
    "timestamp": "2015-01-14T19:25:42.000Z"
   },
-  {
+  "bbin1.txt": {
    "bytes": 2353,
-   "path": "bbin1.txt",
    "sha256": "995eef62f25941d3075dfb95c77578f2884fca0ed52f8c9ce164f51538c5422a",
    "timestamp": "2015-01-14T19:44:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//id1/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits and <u>BSP2 support</u>."
  ],

@@ -4,624 +4,522 @@
  ],
  "bytes": 46493278,
  "description": "Small medieval map with a non-linear layout. Based on the Alkaline devkit (included).",
- "files": [
-  {
+ "files": {
+  "rotus/": {
    "bytes": 0,
-   "path": "rotus/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-05T10:30:42.000Z"
   },
-  {
+  "rotus/alk_tonrotus readme.txt": {
    "bytes": 2065,
-   "path": "rotus/alk_tonrotus readme.txt",
    "sha256": "d690bb1daba3baadce3b0935de9e08c67aa5812aebd0fa10b676fb0e371703d8",
    "timestamp": "2024-03-13T14:08:52.000Z"
   },
-  {
+  "rotus/descript.ion": {
    "bytes": 30,
-   "path": "rotus/descript.ion",
    "sha256": "abffdef74806a8aedfcd77ca731b7770559a45358333bbe608fcffe9e25115f2",
    "timestamp": "2024-03-05T10:51:32.000Z"
   },
-  {
+  "rotus/gfx/": {
    "bytes": 0,
-   "path": "rotus/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-16T12:15:14.000Z"
   },
-  {
+  "rotus/gfx/env/": {
    "bytes": 0,
-   "path": "rotus/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-16T12:15:14.000Z"
   },
-  {
+  "rotus/gfx/env/mak_bluesky2_bk.tga": {
    "bytes": 3145772,
-   "path": "rotus/gfx/env/mak_bluesky2_bk.tga",
    "sha256": "bc242bd204b40a89bd572ebe2d4d4f4202ccbe4658d534065477414837efb970",
    "timestamp": "2022-10-20T03:10:20.000Z"
   },
-  {
+  "rotus/gfx/env/mak_bluesky2_dn.tga": {
    "bytes": 3145772,
-   "path": "rotus/gfx/env/mak_bluesky2_dn.tga",
    "sha256": "35199d0182e22c02c36143f934f8f3f29747625a7609dae40e0f339318645bd5",
    "timestamp": "2022-10-20T03:10:18.000Z"
   },
-  {
+  "rotus/gfx/env/mak_bluesky2_ft.tga": {
    "bytes": 3145772,
-   "path": "rotus/gfx/env/mak_bluesky2_ft.tga",
    "sha256": "c42b34347ed48bd1279b1b53fb0ec6cf834ee571d814b7742e8f3365f618dbdb",
    "timestamp": "2022-10-20T03:10:16.000Z"
   },
-  {
+  "rotus/gfx/env/mak_bluesky2_lf.tga": {
    "bytes": 3145772,
-   "path": "rotus/gfx/env/mak_bluesky2_lf.tga",
    "sha256": "c3d0be6c7ba64bfc93f0785433c50c11d8c6bc8c54c9954491e36b5fe74f6f6f",
    "timestamp": "2022-10-20T03:10:14.000Z"
   },
-  {
+  "rotus/gfx/env/mak_bluesky2_rt.tga": {
    "bytes": 3145772,
-   "path": "rotus/gfx/env/mak_bluesky2_rt.tga",
    "sha256": "03fa680ec85bf5d74faed72e94ebde9a1ada380acee19b37b400162af92fcf34",
    "timestamp": "2022-10-20T03:10:12.000Z"
   },
-  {
+  "rotus/gfx/env/mak_bluesky2_up.tga": {
    "bytes": 3145772,
-   "path": "rotus/gfx/env/mak_bluesky2_up.tga",
    "sha256": "4525860d5a23a25d4a10f4b78d138fa1cd340685c40936fa94961be3acdd2934",
    "timestamp": "2022-10-20T03:10:10.000Z"
   },
-  {
+  "rotus/maps/": {
    "bytes": 0,
-   "path": "rotus/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-05T10:31:40.000Z"
   },
-  {
+  "rotus/maps/alk_tonrotus.bsp": {
    "bytes": 2555360,
-   "path": "rotus/maps/alk_tonrotus.bsp",
    "sha256": "322e536f72166548a91b9fee6b6c416561142816f14cb89f9362766a3d8ba93c",
    "timestamp": "2024-03-13T13:59:56.000Z"
   },
-  {
+  "rotus/maps/alk_tonrotus.lit": {
    "bytes": 1438319,
-   "path": "rotus/maps/alk_tonrotus.lit",
    "sha256": "af55621cc330d15d05a1e9b99b56762cc443d94abdf5a34557cca45179f79c03",
    "timestamp": "2024-03-13T13:59:56.000Z"
   },
-  {
+  "rotus/pak0.pak": {
    "bytes": 36834524,
-   "path": "rotus/pak0.pak",
    "sha256": "5707c6fef6bd126fbf7803736c2014c74fe27611e583dc58af9d1416c8cc7c80",
    "timestamp": "2024-02-03T19:55:56.000Z"
   },
-  {
+  "rotus/progs/": {
    "bytes": 0,
-   "path": "rotus/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-06T13:58:20.000Z"
   },
-  {
+  "rotus/progs/misc_barrel.mdl": {
    "bytes": 43684,
-   "path": "rotus/progs/misc_barrel.mdl",
    "sha256": "8382db232b9a8a6cf6f11009bd8d1806b52ee840c520cea72cfbf5b57c240f26",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_barrel2.mdl": {
    "bytes": 130972,
-   "path": "rotus/progs/misc_barrel2.mdl",
    "sha256": "cc8ebfd0da975358077a6933cdcb4f7ab627ad02c7bd8612f05eb1c873926c23",
    "timestamp": "2016-10-01T15:40:42.000Z"
   },
-  {
+  "rotus/progs/misc_barrelq2.mdl": {
    "bytes": 60380,
-   "path": "rotus/progs/misc_barrelq2.mdl",
    "sha256": "04c87c0210d772c53ffc134a5a2a065394dc32f5b36b30c5f24d927bacc24633",
    "timestamp": "2016-10-04T19:58:02.000Z"
   },
-  {
+  "rotus/progs/misc_bigflag.mdl": {
    "bytes": 64852,
-   "path": "rotus/progs/misc_bigflag.mdl",
    "sha256": "0ea8d35877463945ad40e9779d50fb7bb4a92c837497e8e71dc270215709fde5",
    "timestamp": "2020-09-18T05:00:52.000Z"
   },
-  {
+  "rotus/progs/misc_cable.mdl": {
    "bytes": 57780,
-   "path": "rotus/progs/misc_cable.mdl",
    "sha256": "bed2cca38ef4cbefa9e645eb5e9ffadffac6ebb4f2ac5f6da4bb8f354de22a48",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_cables.mdl": {
    "bytes": 433607,
-   "path": "rotus/progs/misc_cables.mdl",
    "sha256": "03c41af692903bb854cc5c05c0a8a665f312a04955737ecbac1a65a4113f6d50",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_chain.mdl": {
    "bytes": 231184,
-   "path": "rotus/progs/misc_chain.mdl",
    "sha256": "845fc3117f7d9860f2d0aa4a398103a13f327516144a96db508189ae1be5788c",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "rotus/progs/misc_charger.mdl": {
    "bytes": 117672,
-   "path": "rotus/progs/misc_charger.mdl",
    "sha256": "a64a62cd67894222e1b2ed25332db70961c18d0cbdffe32b17f0dbac93bb2ceb",
    "timestamp": "2021-03-28T10:56:54.000Z"
   },
-  {
+  "rotus/progs/misc_corpse_flay.mdl": {
    "bytes": 509231,
-   "path": "rotus/progs/misc_corpse_flay.mdl",
    "sha256": "0287c3e7886bd2d6d1cbb504529d9e11038d0f8232ee624528eb0ccb78733c53",
    "timestamp": "2021-03-27T18:13:34.000Z"
   },
-  {
+  "rotus/progs/misc_corpse_imp.mdl": {
    "bytes": 536924,
-   "path": "rotus/progs/misc_corpse_imp.mdl",
    "sha256": "22f82f29d0a88af204f7b97eef887b963bd940e7277b6f5cef5e6f3610f2ea51",
    "timestamp": "2021-03-27T18:13:34.000Z"
   },
-  {
+  "rotus/progs/misc_corpse_lynch.mdl": {
    "bytes": 276420,
-   "path": "rotus/progs/misc_corpse_lynch.mdl",
    "sha256": "41e90f1a84e9779eb12541d923ab0a66e69deef3a9dbc82259ab84cb71b68dcc",
    "timestamp": "2021-03-27T18:13:34.000Z"
   },
-  {
+  "rotus/progs/misc_deadplayer.mdl": {
    "bytes": 562960,
-   "path": "rotus/progs/misc_deadplayer.mdl",
    "sha256": "83bbcf4cb5858aa9ac03323b461b3e3b09a28f56e212645472219d7d0b0979d8",
    "timestamp": "2017-05-06T13:13:56.000Z"
   },
-  {
+  "rotus/progs/misc_extngshr.mdl": {
    "bytes": 25732,
-   "path": "rotus/progs/misc_extngshr.mdl",
    "sha256": "fc8dec001f22c4666f6c5ca65e8aba18d5b22ed8aabbf0534d03913e821e3120",
    "timestamp": "2021-02-22T04:18:50.000Z"
   },
-  {
+  "rotus/progs/misc_flame_big.mdl": {
    "bytes": 244895,
-   "path": "rotus/progs/misc_flame_big.mdl",
    "sha256": "09adba1308cdf22d2f07e226cb13a35e51f4d54866f84f41e2074dc7a40371d5",
    "timestamp": "2017-11-14T11:41:00.000Z"
   },
-  {
+  "rotus/progs/misc_flame_med.mdl": {
    "bytes": 175400,
-   "path": "rotus/progs/misc_flame_med.mdl",
    "sha256": "31c94bc48e6c6d6bc31bd14b8e257c4e74d45aaec3a4d5d5bf83587a08ac7c00",
    "timestamp": "2018-05-12T16:33:20.000Z"
   },
-  {
+  "rotus/progs/misc_gen1.mdl": {
    "bytes": 256884,
-   "path": "rotus/progs/misc_gen1.mdl",
    "sha256": "7a9124bf7628dfcfc1c43ab6624bd8cef4ac5ecbdd8a00a00e8f957f0d177ec5",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_gen2.mdl": {
    "bytes": 74708,
-   "path": "rotus/progs/misc_gen2.mdl",
    "sha256": "c93a3f7fbda97841c0c9c7c9b2603d9e388390ab30861c4b1553285985f761a2",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_gen3.mdl": {
    "bytes": 472728,
-   "path": "rotus/progs/misc_gen3.mdl",
    "sha256": "29032f4dcf60216906ef601d5a6bf20dba71ed5b7ff8260e7f61159b6b8ea1e0",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_hangman.mdl": {
    "bytes": 96500,
-   "path": "rotus/progs/misc_hangman.mdl",
    "sha256": "feb2473a29e56ee278e4cdc9676306fdf3aa609b527ea4aff23bb86e3900a2d3",
    "timestamp": "2019-08-06T11:54:10.000Z"
   },
-  {
+  "rotus/progs/misc_heating.mdl": {
    "bytes": 243876,
-   "path": "rotus/progs/misc_heating.mdl",
    "sha256": "a6ab88ce55f16b670b9ba8e42e96c9ea49acc71f124ce20c0de5fc2c0232e2f0",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_helijet.mdl": {
    "bytes": 102656,
-   "path": "rotus/progs/misc_helijet.mdl",
    "sha256": "9dc737185928f080758e5a662ea8fd189fcad1aed4fe4547f76d73983bec9c72",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_helijet_pilot.mdl": {
    "bytes": 105556,
-   "path": "rotus/progs/misc_helijet_pilot.mdl",
    "sha256": "8ee41a7ac244289b007921b70fd34f322b4451172f35b0c5b33400064d1c3a2f",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_hummer.mdl": {
    "bytes": 180541,
-   "path": "rotus/progs/misc_hummer.mdl",
    "sha256": "c41208ecff2f7ea0b037f378aad5fa309af5d946eae009ace2478a294aea9b45",
    "timestamp": "2021-04-04T01:20:10.000Z"
   },
-  {
+  "rotus/progs/misc_levels.mdl": {
    "bytes": 35732,
-   "path": "rotus/progs/misc_levels.mdl",
    "sha256": "7cf9a4c1e556e60dd4e593cad4a2be0b45bea8893d9b5232ecc7febca4bbf5fe",
    "timestamp": "2013-08-19T18:44:02.000Z"
   },
-  {
+  "rotus/progs/misc_lightpod.mdl": {
    "bytes": 81780,
-   "path": "rotus/progs/misc_lightpod.mdl",
    "sha256": "e16ac3a669ace065c4cd1806ea0a21a59510d936a3a4c9d74c3ef2ef56e9d4f3",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_lightpost.mdl": {
    "bytes": 44717,
-   "path": "rotus/progs/misc_lightpost.mdl",
    "sha256": "bb226da110f4005ddbfd965ac52e4fa61192831bbbca4ec1f93529978a78e359",
    "timestamp": "2015-08-31T20:48:10.000Z"
   },
-  {
+  "rotus/progs/misc_lighttube.mdl": {
    "bytes": 97042,
-   "path": "rotus/progs/misc_lighttube.mdl",
    "sha256": "27fbc5b7625e6297507778c7e48c4d26303c7e15cb0febf4d7592a844522fc77",
    "timestamp": "2015-08-31T20:48:10.000Z"
   },
-  {
+  "rotus/progs/misc_metal.mdl": {
    "bytes": 246933,
-   "path": "rotus/progs/misc_metal.mdl",
    "sha256": "07c0bb9ff1aa1639a62e5a84fca28d48c0fc738f4d22f8e3d8a5a029790d870e",
    "timestamp": "2021-03-27T18:16:48.000Z"
   },
-  {
+  "rotus/progs/misc_oscill.mdl": {
    "bytes": 50660,
-   "path": "rotus/progs/misc_oscill.mdl",
    "sha256": "cdc96265a646f9e9fb4c1717fa90edb13e42130fadc4dc774b60aeb94b89eac4",
    "timestamp": "2013-08-19T18:47:22.000Z"
   },
-  {
+  "rotus/progs/misc_pallet.mdl": {
    "bytes": 509927,
-   "path": "rotus/progs/misc_pallet.mdl",
    "sha256": "1b9c50111cedb48559424870b46a3d19cb1ac5b43ef3f165fbe928a3f7e90883",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_player_legs.mdl": {
    "bytes": 76918,
-   "path": "rotus/progs/misc_player_legs.mdl",
    "sha256": "8e54ec3002d5b0f70408f17941087e595cb20933a08c40eb934cb25e8804d5a0",
    "timestamp": "2016-03-25T17:34:14.000Z"
   },
-  {
+  "rotus/progs/misc_radar128.mdl": {
    "bytes": 19492,
-   "path": "rotus/progs/misc_radar128.mdl",
    "sha256": "ef004e28e51e3227121a92432375531fca26d1e44894696f3d2a950fa65aef28",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "rotus/progs/misc_radar64.mdl": {
    "bytes": 19492,
-   "path": "rotus/progs/misc_radar64.mdl",
    "sha256": "b9468012707ad484c1292cbe984c54811cb8fa43542e68e18a52ef93cb37d52a",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "rotus/progs/misc_radar96.mdl": {
    "bytes": 19492,
-   "path": "rotus/progs/misc_radar96.mdl",
    "sha256": "6239d117263f49b79a2a66e62f2dbd6a7f0cd15ce412c1939dd69b4a1d8fce78",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "rotus/progs/misc_scientist.mdl": {
    "bytes": 198644,
-   "path": "rotus/progs/misc_scientist.mdl",
    "sha256": "0bbaa667b0e785aab38a90f131985e74fa04cca4c7ae869e612e4f765aa1350c",
    "timestamp": "2021-04-04T01:26:18.000Z"
   },
-  {
+  "rotus/progs/misc_seaweed.mdl": {
    "bytes": 16100,
-   "path": "rotus/progs/misc_seaweed.mdl",
    "sha256": "dfbd38a439d392870c7c4c7ebea4475827b716004ca47bfa7f13b47daf07d774",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "rotus/progs/misc_seaweed2.mdl": {
    "bytes": 95281,
-   "path": "rotus/progs/misc_seaweed2.mdl",
    "sha256": "65773f37e26d41dd72ec1cf9849c663c1475923cb77d0f4c599bc3301368373f",
    "timestamp": "2016-10-04T20:11:36.000Z"
   },
-  {
+  "rotus/progs/misc_smoke.mdl": {
    "bytes": 31792,
-   "path": "rotus/progs/misc_smoke.mdl",
    "sha256": "8d39b97460c9967ee36b33ea1ef1e92e89277fc410b44f054c5e06b8dc8a079c",
    "timestamp": "2015-12-13T09:37:56.000Z"
   },
-  {
+  "rotus/progs/misc_starfield.mdl": {
    "bytes": 23548,
-   "path": "rotus/progs/misc_starfield.mdl",
    "sha256": "5b3563017939382680228e933a2a87d3edb030e75e65c51fe42c4a6889e42e15",
    "timestamp": "2013-08-19T18:48:44.000Z"
   },
-  {
+  "rotus/progs/misc_stool.mdl": {
    "bytes": 85612,
-   "path": "rotus/progs/misc_stool.mdl",
    "sha256": "12914ff8acc41ef1656aef291edef6d3b0975e994808b8e4e921edcc4927e517",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_tape.mdl": {
    "bytes": 9240,
-   "path": "rotus/progs/misc_tape.mdl",
    "sha256": "2b6a08ca3be4dd7a669e5b6d1585276759e1fb0edbe0691dd7ecbc7e41f0b189",
    "timestamp": "2015-10-02T18:21:52.000Z"
   },
-  {
+  "rotus/progs/misc_turbine.mdl": {
    "bytes": 53615,
-   "path": "rotus/progs/misc_turbine.mdl",
    "sha256": "57cf73dbf14b5b22795033f5b597b30b978aeb6ee037e09648d0cebd029f987e",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/progs/misc_victim.mdl": {
    "bytes": 1432944,
-   "path": "rotus/progs/misc_victim.mdl",
    "sha256": "c5d2a99ba39e82bef21cdff5f682b6b80d601f9b54fe0d58d94aae3544b5303b",
    "timestamp": "2020-09-18T05:00:50.000Z"
   },
-  {
+  "rotus/progs/misc_workbench.mdl": {
    "bytes": 87092,
-   "path": "rotus/progs/misc_workbench.mdl",
    "sha256": "89cb978aaabc4372bacc88ce577c9aefa2a5a4597aada45aa499861150bfe07e",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "rotus/screenshots/": {
    "bytes": 0,
-   "path": "rotus/screenshots/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-15T23:02:54.000Z"
   },
-  {
+  "rotus/screenshots/alk_tonrotus_2024-02-15_22-34-12.png": {
    "bytes": 1278806,
-   "path": "rotus/screenshots/alk_tonrotus_2024-02-15_22-34-12.png",
    "sha256": "08b2411961aac3baeb202e122488e701380d3b08b2cb01fc7d231f912424d30b",
    "timestamp": "2024-02-15T22:34:12.000Z"
   },
-  {
+  "rotus/screenshots/alk_tonrotus_2024-02-15_22-34-23.png": {
    "bytes": 1277475,
-   "path": "rotus/screenshots/alk_tonrotus_2024-02-15_22-34-23.png",
    "sha256": "c8de4539ffcb527c3e0a1413fb4844d786a932280371251dece212766dfade18",
    "timestamp": "2024-02-15T22:34:22.000Z"
   },
-  {
+  "rotus/screenshots/alk_tonrotus_2024-02-15_22-34-46.png": {
    "bytes": 1315844,
-   "path": "rotus/screenshots/alk_tonrotus_2024-02-15_22-34-46.png",
    "sha256": "2fe1bf001cffac820c69de45bee2abf6bc9dd0b31e0a34e1c064fc02ab0cae83",
    "timestamp": "2024-02-15T22:34:46.000Z"
   },
-  {
+  "rotus/screenshots/alk_tonrotus_2024-02-15_22-36-08.png": {
    "bytes": 1303640,
-   "path": "rotus/screenshots/alk_tonrotus_2024-02-15_22-36-08.png",
    "sha256": "f5fdf57e3392a36184704f39dbc152f0e45e76f02e70fc290d9aea637c382524",
    "timestamp": "2024-02-15T22:36:08.000Z"
   },
-  {
+  "rotus/screenshots/alk_tonrotus_banner.png": {
    "bytes": 1263304,
-   "path": "rotus/screenshots/alk_tonrotus_banner.png",
    "sha256": "b0b1d594af4595c161896e856f9960e0ac6476e61c405beeca4f3d4e50e98693",
    "timestamp": "2024-02-20T00:37:36.000Z"
   },
-  {
+  "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-09.png": {
    "bytes": 1249037,
-   "path": "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-09.png",
    "sha256": "ebb0433a847e95b4498490030428abb5f097220682fd28079762a7c16078e741",
    "timestamp": "2024-02-06T15:03:10.000Z"
   },
-  {
+  "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-23.png": {
    "bytes": 1267175,
-   "path": "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-23.png",
    "sha256": "b6348f32b55a892bf5761acfc70e5a817691e0492113b5b347fc2238821f4f90",
    "timestamp": "2024-02-06T15:03:22.000Z"
   },
-  {
+  "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-32.png": {
    "bytes": 1311269,
-   "path": "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-32.png",
    "sha256": "b8b428a00fbb3c5134366453c97409c6dc0a8fb59397b4140ae107d7a4bf131b",
    "timestamp": "2024-02-06T15:03:32.000Z"
   },
-  {
+  "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-45.png": {
    "bytes": 1295134,
-   "path": "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-45.png",
    "sha256": "c7d8267981a0ee82f5d2c5913bbcea2d91abe90c85cad6802ed717a57ff2884a",
    "timestamp": "2024-02-06T15:03:44.000Z"
   },
-  {
+  "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-56.png": {
    "bytes": 1362367,
-   "path": "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-03-56.png",
    "sha256": "f698b25c6c5528986c7da4ba7668334c92c3811373e07ed7f9a8bf3b571eec50",
    "timestamp": "2024-02-06T15:03:56.000Z"
   },
-  {
+  "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-04-07.png": {
    "bytes": 1330510,
-   "path": "rotus/screenshots/qbrjam_tonhao_beta_4_2024-02-06_15-04-07.png",
    "sha256": "7310361546977eb8bc645984601823f3071c2e6e79af1ae12045d058b9701fba",
    "timestamp": "2024-02-06T15:04:06.000Z"
   },
-  {
+  "rotus/sound/": {
    "bytes": 0,
-   "path": "rotus/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-12-07T10:27:42.000Z"
   },
-  {
+  "rotus/sound/ambient/": {
    "bytes": 0,
-   "path": "rotus/sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-02-06T13:58:20.000Z"
   },
-  {
+  "rotus/sound/ambient/aramb1.wav": {
    "bytes": 44476,
-   "path": "rotus/sound/ambient/aramb1.wav",
    "sha256": "4c6440672b87575dd8ac5a267621881b9c70e48722cf9a4aa75a4a9b384fea5b",
    "timestamp": "2021-01-29T18:50:54.000Z"
   },
-  {
+  "rotus/sound/ambient/arcohum1.wav": {
    "bytes": 20418,
-   "path": "rotus/sound/ambient/arcohum1.wav",
    "sha256": "3b42cb1b62f62acabdc8ef8612ab4343b71b165c3525552701ef769f90020960",
    "timestamp": "2021-01-29T18:50:54.000Z"
   },
-  {
+  "rotus/sound/ambient/arhum1.wav": {
    "bytes": 20740,
-   "path": "rotus/sound/ambient/arhum1.wav",
    "sha256": "e374f3d90564808e019abe09f4464b704512cf85ff0f3b4bb3c955b4153184e3",
    "timestamp": "2021-01-29T17:50:54.000Z"
   },
-  {
+  "rotus/sound/ambient/arpump1.wav": {
    "bytes": 18262,
-   "path": "rotus/sound/ambient/arpump1.wav",
    "sha256": "11ae2c08c7d5f7f777eade75770a1623386d0e0096a19076fff13e9ddec6318c",
    "timestamp": "2021-07-01T22:08:38.000Z"
   },
-  {
+  "rotus/sound/ambient/arwind.wav": {
    "bytes": 30408,
-   "path": "rotus/sound/ambient/arwind.wav",
    "sha256": "34248569bb7ab66f5e1d874e15c7a91d89fd2b70d27e5521456b2589581fe1e6",
    "timestamp": "2021-01-29T18:50:54.000Z"
   },
-  {
+  "rotus/sound/ambient/chatter.wav": {
    "bytes": 190760,
-   "path": "rotus/sound/ambient/chatter.wav",
    "sha256": "59197f823b479c66c41163d82fed6dc13a715aef429b5e551ba80ca6f7c229fb",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/comp.wav": {
    "bytes": 12164,
-   "path": "rotus/sound/ambient/comp.wav",
    "sha256": "ab8e3b13981bb432cca44ad4b7467734f52d01927018e72c99e7c4d052dc7874",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/conveyor1.wav": {
    "bytes": 348058,
-   "path": "rotus/sound/ambient/conveyor1.wav",
    "sha256": "ca68f9d44a06155fec7a886675c825b247d2b21996e92daeb76d9f47db2cf2a7",
    "timestamp": "2021-07-06T16:29:40.000Z"
   },
-  {
+  "rotus/sound/ambient/crickets.wav": {
    "bytes": 12236,
-   "path": "rotus/sound/ambient/crickets.wav",
    "sha256": "d5cf6e56884a8e43469408d4788ec6e573167901586df259a938cd088c998ef9",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/deep.wav": {
    "bytes": 401112,
-   "path": "rotus/sound/ambient/deep.wav",
    "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "rotus/sound/ambient/drone.wav": {
    "bytes": 30902,
-   "path": "rotus/sound/ambient/drone.wav",
    "sha256": "81993d96ab337f78c2778cecffe4767605fed210e0ac2303a46ac898979eea13",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/dronehum2.wav": {
    "bytes": 183654,
-   "path": "rotus/sound/ambient/dronehum2.wav",
    "sha256": "03545ae0f88b788e69e09c0aae2cccfa727a2609ef224c7d1d3451f0e6172709",
    "timestamp": "2021-05-18T09:54:20.000Z"
   },
-  {
+  "rotus/sound/ambient/dronerumble1.wav": {
    "bytes": 228790,
-   "path": "rotus/sound/ambient/dronerumble1.wav",
    "sha256": "d97972b25a006dbd54c1de9750b838ab52fff7c8aec70fb58115ad831b7efee8",
    "timestamp": "2020-01-17T08:52:02.000Z"
   },
-  {
+  "rotus/sound/ambient/dronesewer1.wav": {
    "bytes": 345280,
-   "path": "rotus/sound/ambient/dronesewer1.wav",
    "sha256": "ee8cd803398a007f2f3b412dd2401098586e1d38f558daa748ea4e86f10267ad",
    "timestamp": "2020-01-18T01:09:32.000Z"
   },
-  {
+  "rotus/sound/ambient/fan1.wav": {
    "bytes": 53404,
-   "path": "rotus/sound/ambient/fan1.wav",
    "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/farambient_l.wav": {
    "bytes": 330958,
-   "path": "rotus/sound/ambient/farambient_l.wav",
    "sha256": "4c65d4dd9c8111a0b13d625a86a30f1a6ff97b0acfb03423009fc57100981547",
    "timestamp": "2021-06-02T16:08:20.000Z"
   },
-  {
+  "rotus/sound/ambient/farambient_r.wav": {
    "bytes": 330890,
-   "path": "rotus/sound/ambient/farambient_r.wav",
    "sha256": "a843e4b6958b198fa7de5f54fc8902040c7257f151df89f23dadae77920da960",
    "timestamp": "2021-06-02T16:08:04.000Z"
   },
-  {
+  "rotus/sound/ambient/hum02.wav": {
    "bytes": 37836,
-   "path": "rotus/sound/ambient/hum02.wav",
    "sha256": "8b2ee1b91fa663b6111de9251011142475831ece70ee091022b800b715f1bfa2",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/industrialbuzz.wav": {
    "bytes": 57112,
-   "path": "rotus/sound/ambient/industrialbuzz.wav",
    "sha256": "ac872a81a917704e4e418d7f83f2b7cdb35d3f35671e11261634727dfb7cfca9",
    "timestamp": "2021-06-01T18:17:56.000Z"
   },
-  {
+  "rotus/sound/ambient/intake.wav": {
    "bytes": 25682,
-   "path": "rotus/sound/ambient/intake.wav",
    "sha256": "e6d13169ce4680dd83903473897fd6e7ce1e51fab00c6df2127ea993321c05b0",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/lava1.wav": {
    "bytes": 926316,
-   "path": "rotus/sound/ambient/lava1.wav",
    "sha256": "41964be60ef167936d0ef74f47fdfa3c2b147f7ec1f5f26fbb312ee71be3a6bd",
    "timestamp": "2021-11-04T15:01:58.000Z"
   },
-  {
+  "rotus/sound/ambient/lonoise.wav": {
    "bytes": 32876,
-   "path": "rotus/sound/ambient/lonoise.wav",
    "sha256": "1e0f99ffadead8460a7a4bed1c6b2c16cddd70050e1524e9cdaf6724a9dc81b5",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/machine_loop1.wav": {
    "bytes": 125104,
-   "path": "rotus/sound/ambient/machine_loop1.wav",
    "sha256": "f0e24bbedef87a9fdabeb9b785af9a5fb3baad755e8770f130f4be64e3ccd1e6",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "rotus/sound/ambient/machine_loop2.wav": {
    "bytes": 70696,
-   "path": "rotus/sound/ambient/machine_loop2.wav",
    "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "rotus/sound/ambient/motor1.wav": {
    "bytes": 52340,
-   "path": "rotus/sound/ambient/motor1.wav",
    "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/motor2.wav": {
    "bytes": 52014,
-   "path": "rotus/sound/ambient/motor2.wav",
    "sha256": "7f36cda5c01aea4e6b356ae4d0b31b68ca15d7606eefd30f4739a64fc4e86e6c",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/rain.wav": {
    "bytes": 40960,
-   "path": "rotus/sound/ambient/rain.wav",
    "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "rotus/sound/ambient/runwater.wav": {
    "bytes": 64764,
-   "path": "rotus/sound/ambient/runwater.wav",
    "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
    "timestamp": "2021-02-12T02:00:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

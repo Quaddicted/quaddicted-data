@@ -15,42 +15,37 @@
  ],
  "bytes": 183314967,
  "description": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
- "files": [
-  {
+ "files": {
+  "alkaline/alkaline_read_me.txt": {
    "bytes": 6235,
-   "path": "alkaline/alkaline_read_me.txt",
    "sha256": "b2880aad277a354474ba9db2fa784a6c2a46ade18c6d954d1cc20d041790757b",
    "timestamp": "2021-06-12T21:57:14.000Z"
   },
-  {
+  "alkaline/docs/": {
    "bytes": 0,
-   "path": "alkaline/docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-11T22:31:02.000Z"
   },
-  {
+  "alkaline/docs/skybox_nebula.txt": {
    "bytes": 1022,
-   "path": "alkaline/docs/skybox_nebula.txt",
    "sha256": "7110363e20cd8b4470e7bacf5fed4306dbfc7d35d671459f87b87fe9559c0647",
    "timestamp": "2021-06-11T17:58:14.000Z"
   },
-  {
+  "alkaline/pak0.pak": {
    "bytes": 369038894,
-   "path": "alkaline/pak0.pak",
    "sha256": "853047f8c2851191f0875c1d926205c337290622ed467185655016ec9b5030f3",
    "timestamp": "2021-06-12T22:39:32.000Z"
   },
-  {
+  "alkaline/progs.dat": {
    "bytes": 822066,
-   "path": "alkaline/progs.dat",
    "sha256": "befe14f141e79ca88e3011f3ea3771136f29decc7d569905d6e9055ef808fa74",
    "timestamp": "2021-06-11T16:31:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],

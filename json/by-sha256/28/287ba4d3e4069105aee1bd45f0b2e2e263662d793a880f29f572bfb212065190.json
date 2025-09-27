@@ -6,30 +6,27 @@
  ],
  "bytes": 627882,
  "description": "Unthemed / 3 SP maps / generic, Pulsar, Zwiffle",
- "files": [
-  {
+ "files": {
+  "sm100_generic.bsp": {
    "bytes": 498776,
-   "path": "sm100_generic.bsp",
    "sha256": "c8800d8a3894bc3cfd7c2e91fbd2d5efedd9ab4260589dba08425a365676de31",
    "timestamp": "2005-07-17T14:11:22.000Z"
   },
-  {
+  "sm100_pulsar.bsp": {
    "bytes": 1105004,
-   "path": "sm100_pulsar.bsp",
    "sha256": "70b77cdd1cd8e5a3198ac743b6543e81bc58993a73e6decc65b311be627a9eea",
    "timestamp": "2005-07-12T23:37:46.000Z"
   },
-  {
+  "sm100_zwiffle.bsp": {
    "bytes": 141964,
-   "path": "sm100_zwiffle.bsp",
    "sha256": "363e0d00f120fb8f653d29cfc04a9764c38d795b24e537da30eea9c721b9ff1f",
    "timestamp": "2005-07-16T15:56:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-07-17",
  "sha256": "287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190",
  "tags": [

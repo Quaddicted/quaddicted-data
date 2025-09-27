@@ -4,18 +4,17 @@
  ],
  "bytes": 771910,
  "description": "Small to medium chapel with a graveyard and caverns beneath. Lots of back and forth running between the rooms.",
- "files": [
-  {
+ "files": {
+  "shoggoth.bsp": {
    "bytes": 1748348,
-   "path": "shoggoth.bsp",
    "sha256": "d627bcf04a6a2f4b043fbfcf78fbc8959f91fbf51ff2822472b467f25e2a7927",
    "timestamp": "1997-03-03T22:07:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-03",
  "sha256": "11dd91500dfb68b2a1502fffcca1a5cf37bf9a666e003c3bfbe539e4acde6e7c",
  "tags": [

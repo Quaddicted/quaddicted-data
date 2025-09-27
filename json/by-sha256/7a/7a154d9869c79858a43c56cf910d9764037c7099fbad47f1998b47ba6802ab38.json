@@ -4,72 +4,62 @@
  ],
  "bytes": 1661018,
  "description": "Medium sized Base map with some very tough custom monsters (SNG and RL grunts, laser drones, Manga Babe and two of her friends) as well as other progs.",
- "files": [
-  {
+ "files": {
+  "Bazooka.txt": {
    "bytes": 4512,
-   "path": "Bazooka.txt",
    "sha256": "ea6ec68b8465524d034f9fbb33919e75c22bbc177300f255d53cb1f87dabec9f",
    "timestamp": "1996-11-26T15:38:38.000Z"
   },
-  {
+  "Drone.txt": {
    "bytes": 3282,
-   "path": "Drone.txt",
    "sha256": "78cc4b700db62b830ac700afc9a12602a941c18ec4ff0e68ad78b6129fb10ad9",
    "timestamp": "1996-12-25T13:50:46.000Z"
   },
-  {
+  "Pak0.pak": {
    "bytes": 4138584,
-   "path": "Pak0.pak",
    "sha256": "f362a910847734257a5b2300f23b1acaa7a78b3148f43cc6e4aa9bb445b01fec",
    "timestamp": "1997-12-04T16:19:06.000Z"
   },
-  {
+  "damage.txt": {
    "bytes": 1546,
-   "path": "damage.txt",
    "sha256": "8684d30ed60b5fb0a843f4308d9b9a7dfcd080689fa73fb28f43fcb9151df72b",
    "timestamp": "1997-11-02T07:21:04.000Z"
   },
-  {
+  "eject.txt": {
    "bytes": 2244,
-   "path": "eject.txt",
    "sha256": "04ff84fb7680f984d5e5cbc9f0eb568c16ec3582fcec0f55abfb079632efc506",
    "timestamp": "1997-10-22T00:23:56.000Z"
   },
-  {
+  "gyrobot.txt": {
    "bytes": 15522,
-   "path": "gyrobot.txt",
    "sha256": "b19185538e9433b690dfaa5175501790d2f4ce8c32220e822069cccd51749817",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "hrdtrgt2.txt": {
    "bytes": 9627,
-   "path": "hrdtrgt2.txt",
    "sha256": "6f3e7a8e1aaf7e56c4b9367049d1daad7bab5054e13b36dd0ece594ec1b1ad52",
    "timestamp": "1997-12-04T16:18:18.000Z"
   },
-  {
+  "manga.txt": {
    "bytes": 2019,
-   "path": "manga.txt",
    "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
    "timestamp": "1996-11-03T23:57:58.000Z"
   },
-  {
+  "nunsgt.txt": {
    "bytes": 1221,
-   "path": "nunsgt.txt",
    "sha256": "3eb0e02156e4c88908b9f7e89ed60f0610dfb0374d863b6f6063f783e1af6ded",
    "timestamp": "1997-06-16T23:41:50.000Z"
   },
-  {
+  "walls01.txt": {
    "bytes": 3093,
-   "path": "walls01.txt",
    "sha256": "d7c7a2b26ca415635abdb06c983eae75319924b7ec91ead6e0751ae174b69c8e",
    "timestamp": "1997-10-22T00:23:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hrdtrgt2/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-12-04",
  "sha256": "7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38",
  "tags": [

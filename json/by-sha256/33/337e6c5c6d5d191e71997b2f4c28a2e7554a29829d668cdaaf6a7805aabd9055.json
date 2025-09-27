@@ -4,84 +4,72 @@
  ],
  "bytes": 961742,
  "description": "Small level featuring a blue underground castle. The map source is included.",
- "files": [
-  {
+ "files": {
+  "tra/": {
    "bytes": 0,
-   "path": "tra/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-16T13:29:02.000Z"
   },
-  {
+  "tra/Readme.txt": {
    "bytes": 285,
-   "path": "tra/Readme.txt",
    "sha256": "55a153a7265d3bb7544cd0345b1f4a45c54465525de0a12be33b9e8230aea84a",
    "timestamp": "2019-02-20T00:41:16.000Z"
   },
-  {
+  "tra/Source/": {
    "bytes": 0,
-   "path": "tra/Source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-20T00:36:12.000Z"
   },
-  {
+  "tra/Source/tra.map": {
    "bytes": 657220,
-   "path": "tra/Source/tra.map",
    "sha256": "cf65c3f96b9c9ce2d067e762491d7034cfb65b6d10fe3eb34dbd06fae0da2c88",
    "timestamp": "2019-02-20T00:34:48.000Z"
   },
-  {
+  "tra/maps/": {
    "bytes": 0,
-   "path": "tra/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-16T13:28:54.000Z"
   },
-  {
+  "tra/maps/tra.bsp": {
    "bytes": 1721808,
-   "path": "tra/maps/tra.bsp",
    "sha256": "cb92d441c051cbbc51134f3d43172857367a6f1e3f7fa61649d4357218d88778",
    "timestamp": "2019-02-20T00:35:54.000Z"
   },
-  {
+  "tra/progs.dat": {
    "bytes": 350286,
-   "path": "tra/progs.dat",
    "sha256": "f412208cc6380044845951862198db084b9b228bb3474add2bbfcceb9df39ee6",
    "timestamp": "2018-09-25T22:32:40.000Z"
   },
-  {
+  "tra/progs/": {
    "bytes": 0,
-   "path": "tra/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-14T15:18:34.000Z"
   },
-  {
+  "tra/progs/s_flame.spr": {
    "bytes": 29224,
-   "path": "tra/progs/s_flame.spr",
    "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
    "timestamp": "2018-08-17T20:00:44.000Z"
   },
-  {
+  "tra/sound/": {
    "bytes": 0,
-   "path": "tra/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-14T15:10:08.000Z"
   },
-  {
+  "tra/sound/dump/": {
    "bytes": 0,
-   "path": "tra/sound/dump/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-14T15:10:08.000Z"
   },
-  {
+  "tra/sound/dump/water_59_02.wav": {
    "bytes": 47588,
-   "path": "tra/sound/dump/water_59_02.wav",
    "sha256": "497d1f4ed49567058da6e2618097a06c947f8131a8205f2c9c09219296780cad",
    "timestamp": "2018-09-17T19:59:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2019-02-20",
  "sha256": "337e6c5c6d5d191e71997b2f4c28a2e7554a29829d668cdaaf6a7805aabd9055",
  "tags": [

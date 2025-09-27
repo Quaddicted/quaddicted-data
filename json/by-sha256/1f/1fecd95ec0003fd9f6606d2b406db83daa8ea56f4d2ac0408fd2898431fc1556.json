@@ -4,30 +4,27 @@
  ],
  "bytes": 1186923,
  "description": "Small vanilla map in a blue episode 2 theme.",
- "files": [
-  {
+ "files": {
+  "5thcer.bsp": {
    "bytes": 2251276,
-   "path": "5thcer.bsp",
    "sha256": "ead0bbd9d7d14bb3c044f5f873972e00a0700e1b7f2dbb141e51a6cf248cea62",
    "timestamp": "2024-11-22T22:26:00.000Z"
   },
-  {
+  "5thcer.map": {
    "bytes": 1802427,
-   "path": "5thcer.map",
    "sha256": "c79a92090c56dfac8de36f2b8830b619d51a3e214b28e302d7a3d61d2208b345",
    "timestamp": "2024-11-22T22:25:52.000Z"
   },
-  {
+  "5thcer.txt": {
    "bytes": 3977,
-   "path": "5thcer.txt",
    "sha256": "ca7b7beb20db39a06f7b1f0c717c799ff563bf77c6e0c2cbc13bc54e65319dca",
    "timestamp": "2024-11-22T22:36:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-11-23",
  "sha256": "1fecd95ec0003fd9f6606d2b406db83daa8ea56f4d2ac0408fd2898431fc1556",
  "tags": [

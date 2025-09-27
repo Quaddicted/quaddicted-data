@@ -4,24 +4,22 @@
  ],
  "bytes": 608871,
  "description": "Medium sized Base/Metal map. Uses some DOOM2 textures and some other custom ones.",
- "files": [
-  {
+ "files": {
+  "Morbid_1.bsp": {
    "bytes": 1427120,
-   "path": "Morbid_1.bsp",
    "sha256": "8b80604c81ffadc18a1c8d9e3a7e67d3925374bcf6f0ab301294348ad671deea",
    "timestamp": "1997-08-09T19:34:46.000Z"
   },
-  {
+  "morbid_1.txt": {
    "bytes": 5401,
-   "path": "morbid_1.txt",
    "sha256": "f55b6bc8099c3fa789a5493ca73a6c3c9116b8a57a25d06d19ea0e30fb7d260c",
    "timestamp": "1997-08-11T15:43:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-11",
  "sha256": "4a707504af6ede52fe2cf2e69f22ca0c8fffe58bd75481a7329c9309d5bbb276",
  "tags": [

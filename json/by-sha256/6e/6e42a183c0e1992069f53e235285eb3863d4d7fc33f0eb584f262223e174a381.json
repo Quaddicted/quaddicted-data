@@ -4,36 +4,32 @@
  ],
  "bytes": 7081283,
  "description": "Episode with nine small to medium-sized levels of various themes including a start map, a secret map, and a deathmatch arena. Also comes with three demos.",
- "files": [
-  {
+ "files": {
+  "dopa.bat": {
    "bytes": 27,
-   "path": "dopa.bat",
    "sha256": "742ae21deb9daa66337732c0e4bce4adba1590195031da7bae4d8cb46a6fbc80",
    "timestamp": "2016-04-02T14:07:20.000Z"
   },
-  {
+  "dopa_readme.txt": {
    "bytes": 1175,
-   "path": "dopa_readme.txt",
    "sha256": "9477c54121ac677b9e843085b6e97b4b7fa9e961a6227d080ffc1e11a2463c5c",
    "timestamp": "2016-06-22T07:47:38.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 18557329,
-   "path": "pak0.pak",
    "sha256": "282d916c396595eaf6c4e6b698bc9c73fe24d2a4ccb72758edd37a253df34057",
    "timestamp": "2016-06-21T20:18:06.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 298,
-   "path": "quake.rc",
    "sha256": "87b60694fe729f0aca34094cee969fa412bc23465f67e3f7cc0fbb6a55678b16",
    "timestamp": "2016-06-22T07:46:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/dopa/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2016-06-24",
  "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "tags": [

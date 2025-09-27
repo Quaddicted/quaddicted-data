@@ -5,24 +5,22 @@
  ],
  "bytes": 7100320,
  "description": "6-map episode (incl. start map) consisting to a large degree of stuff ripped from other people's maps.",
- "files": [
-  {
+ "files": {
+  "Readme.txt": {
    "bytes": 2832,
-   "path": "Readme.txt",
    "sha256": "15095c1357434e8469dc7a034db5a4a010c784517dad1acbf751f524f463f600",
    "timestamp": "1998-08-01T12:59:44.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 16797221,
-   "path": "pak0.pak",
    "sha256": "b7f99dc693f4c7bd781cd69af4dcade6a8a392279b150dc9aa78cfec3a14dff2",
    "timestamp": "1998-08-01T11:20:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/e-5/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-08-01",
  "sha256": "eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae",
  "tags": [

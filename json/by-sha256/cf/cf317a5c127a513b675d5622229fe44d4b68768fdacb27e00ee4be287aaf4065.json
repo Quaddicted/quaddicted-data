@@ -4,30 +4,27 @@
  ],
  "bytes": 2602445,
  "description": "Around medium-sized blue puzzle dungeon made for cooperative play (cannot be completed solo).",
- "files": [
-  {
+ "files": {
+  "vrkcoop1-server.cfg": {
    "bytes": 2147,
-   "path": "vrkcoop1-server.cfg",
    "sha256": "e10b8e68a908f4cb6df1375cc2fa3630101ab9d1d9c034d09008b7968833e9c9",
    "timestamp": "2019-03-06T13:45:06.000Z"
   },
-  {
+  "vrkcoop1.bsp": {
    "bytes": 7912668,
-   "path": "vrkcoop1.bsp",
    "sha256": "063a89185e10e322458a8b47929cbdd0b6134a53f6181b31702564791fe8d9f1",
    "timestamp": "2019-03-06T13:41:06.000Z"
   },
-  {
+  "vrkcoop1.txt": {
    "bytes": 2544,
-   "path": "vrkcoop1.txt",
    "sha256": "b26dafb9c4253e7aba47edf44134c3212c20f44adaacbbbd13a612c3497b4e14",
    "timestamp": "2019-03-06T13:56:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2019-03-06",
  "sha256": "cf317a5c127a513b675d5622229fe44d4b68768fdacb27e00ee4be287aaf4065",
  "tags": [

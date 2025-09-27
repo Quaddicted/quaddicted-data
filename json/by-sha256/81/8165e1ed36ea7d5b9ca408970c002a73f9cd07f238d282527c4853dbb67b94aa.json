@@ -7,117 +7,100 @@
   "ad>=1.80"
  ],
  "description": "Large medieval dark fantasy castle in frozen lands with haunted crypt. A late entry for <a href=\"0fc8f530297f27b1360f05ae59d8facd3a9aedf153ac4d02dc7af882f0b78e1e\">Twisted Christmas Jam 2022</a>. Map source is included. Custom music by BouncyTEM. Textures and skybox by Makkon.",
- "files": [
-  {
+ "files": {
+  "tcj_alexunder/": {
    "bytes": 0,
-   "path": "tcj_alexunder/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-08T22:01:04.000Z"
   },
-  {
+  "tcj_alexunder/gfx/": {
    "bytes": 0,
-   "path": "tcj_alexunder/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-04T00:35:18.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/": {
    "bytes": 0,
-   "path": "tcj_alexunder/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-04T00:35:34.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/mak_aurora5_bk.tga": {
    "bytes": 3145772,
-   "path": "tcj_alexunder/gfx/env/mak_aurora5_bk.tga",
    "sha256": "dff94f3e540df02d22c038a7e7c9886fe51362b98f6d860db2c904e5909000fa",
    "timestamp": "2022-10-22T07:21:16.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/mak_aurora5_dn.tga": {
    "bytes": 3145772,
-   "path": "tcj_alexunder/gfx/env/mak_aurora5_dn.tga",
    "sha256": "6a1bf29cd5714b1dd30453e2d4ae64621468f7ab3b0102aaf923c9bb9a40e8a5",
    "timestamp": "2022-10-22T07:21:18.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/mak_aurora5_ft.tga": {
    "bytes": 3145772,
-   "path": "tcj_alexunder/gfx/env/mak_aurora5_ft.tga",
    "sha256": "619b5998918083597caeeea383b1a9343e6f796f908852d1da24b3a248786783",
    "timestamp": "2022-10-22T07:21:20.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/mak_aurora5_lf.tga": {
    "bytes": 3145772,
-   "path": "tcj_alexunder/gfx/env/mak_aurora5_lf.tga",
    "sha256": "be1e4996d553b98ed6fb700cee14801d5dedefad5bb3fe2e6577d247ec72cf6b",
    "timestamp": "2022-10-22T07:21:22.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/mak_aurora5_rt.tga": {
    "bytes": 3145772,
-   "path": "tcj_alexunder/gfx/env/mak_aurora5_rt.tga",
    "sha256": "88923de17579c8184cfd137434e660432292138d62652d76c2201c6bd1f644ec",
    "timestamp": "2022-10-22T07:21:22.000Z"
   },
-  {
+  "tcj_alexunder/gfx/env/mak_aurora5_up.tga": {
    "bytes": 3145772,
-   "path": "tcj_alexunder/gfx/env/mak_aurora5_up.tga",
    "sha256": "4b29b63c93e364817f4d85c685727392268c061016c1e149552f80d5de76d806",
    "timestamp": "2022-10-22T07:21:24.000Z"
   },
-  {
+  "tcj_alexunder/maps/": {
    "bytes": 0,
-   "path": "tcj_alexunder/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-04T00:35:44.000Z"
   },
-  {
+  "tcj_alexunder/maps/tcj_alexunder.bsp": {
    "bytes": 53452248,
-   "path": "tcj_alexunder/maps/tcj_alexunder.bsp",
    "sha256": "6258f63c68e3dd453067081daed79292231788933b72f2d1e7f6cbe2470ac443",
    "timestamp": "2023-01-08T21:57:48.000Z"
   },
-  {
+  "tcj_alexunder/maps/tcj_alexunder.lit": {
    "bytes": 6948932,
-   "path": "tcj_alexunder/maps/tcj_alexunder.lit",
    "sha256": "d1cb3a12c34a930b88c667f65827624680514bab3a0a5f89ee7f6e46e67de8cb",
    "timestamp": "2023-01-08T21:57:48.000Z"
   },
-  {
+  "tcj_alexunder/music/": {
    "bytes": 0,
-   "path": "tcj_alexunder/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-04T00:35:50.000Z"
   },
-  {
+  "tcj_alexunder/music/track66.ogg": {
    "bytes": 4407200,
-   "path": "tcj_alexunder/music/track66.ogg",
    "sha256": "b77670858c5a573bcb27e77024266accd62a4b9336df9ed3224883769ea8738e",
    "timestamp": "2023-01-03T16:56:54.000Z"
   },
-  {
+  "tcj_alexunder/source/": {
    "bytes": 0,
-   "path": "tcj_alexunder/source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-04T00:37:22.000Z"
   },
-  {
+  "tcj_alexunder/source/tcj_alexunder.map": {
    "bytes": 17206587,
-   "path": "tcj_alexunder/source/tcj_alexunder.map",
    "sha256": "2295459d3d1aaaf440eda29f5bd49987330d7e5dc4880039b1f37b60ab6bd0be",
    "timestamp": "2023-01-08T21:53:58.000Z"
   },
-  {
+  "tcj_alexunder/tcj_alexunder.txt": {
    "bytes": 1527,
-   "path": "tcj_alexunder/tcj_alexunder.txt",
    "sha256": "1091def4edbd95877f45a9a5bf45b9890dc3181ec95beca186de985e08302e5c",
    "timestamp": "2023-01-06T19:31:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/",
   "extractmapping": {
    "/tcj_alexunder/": "/ad/"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Built for <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> (NOT included).",
   "Probably requires a modern engine / source port with increased limits."

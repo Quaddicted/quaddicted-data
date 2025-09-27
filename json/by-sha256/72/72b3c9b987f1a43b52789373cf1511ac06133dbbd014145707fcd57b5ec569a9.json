@@ -6,24 +6,22 @@
  ],
  "bytes": 85407483,
  "description": "Four very large industrial/base maps based on <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a>. Includes a start map and introduces some new gameplay elements.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 223662393,
-   "path": "pak0.pak",
    "sha256": "cc993c453d1a106e21a0b2b316c739cc0a7675b3554241c5de7fb4339353e975",
    "timestamp": "2014-09-13T18:01:22.000Z"
   },
-  {
+  "rrp_readme.txt": {
    "bytes": 1739,
-   "path": "rrp_readme.txt",
    "sha256": "bfcb701752cd933d88ebc8324ba3d009c9bae635bdca6383ae7762a26a57bac7",
    "timestamp": "2014-09-06T16:48:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/rrp/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require an engine port with BSP2 support.<br>A patched version of the map telefragged is available <a href=\"https://www.quaddicted.com/filebase/rrp_patch103.zip\">here</a>."
  ],

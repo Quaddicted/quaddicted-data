@@ -7,48 +7,42 @@
  ],
  "bytes": 1374173,
  "description": "Do stuff based on a really ugly layout drawing Scampie did / 2 SP, 3 DM maps / czg, Scampie, Starbuck, Zwiffle",
- "files": [
-  {
+ "files": {
+  "sm65_czg.bsp": {
    "bytes": 401952,
-   "path": "sm65_czg.bsp",
    "sha256": "998371a78d3d9ba8e63b059d89d7762051a54a1927137600ccc862d00b62a946",
    "timestamp": "2001-09-15T08:13:50.000Z"
   },
-  {
+  "sm65_czg2.bsp": {
    "bytes": 858000,
-   "path": "sm65_czg2.bsp",
    "sha256": "320e4b5d36b5d88cb074afb0eafbb826b1c412f678c97a415e6b9b30b64fb308",
    "timestamp": "2001-09-16T00:10:32.000Z"
   },
-  {
+  "sm65_pack.txt": {
    "bytes": 1580,
-   "path": "sm65_pack.txt",
    "sha256": "aeb43f7b63145e1465f125a7fd7ca860a362a153586e2181e8926a23391c96da",
    "timestamp": "2001-09-16T00:17:24.000Z"
   },
-  {
+  "sm65_scampie.bsp": {
    "bytes": 768792,
-   "path": "sm65_scampie.bsp",
    "sha256": "b35bc36933505233d8d2a4b3739fdd39f62ca89ec70519f79cbf37c3592d6aec",
    "timestamp": "2001-09-15T09:46:08.000Z"
   },
-  {
+  "sm65_starbuck.bsp": {
    "bytes": 931420,
-   "path": "sm65_starbuck.bsp",
    "sha256": "d80b599290dbfa67d293cef000585beeb09c93db5502b71b3fe89eb37a0bd834",
    "timestamp": "2004-02-01T02:17:24.000Z"
   },
-  {
+  "sm65_zwiffle.bsp": {
    "bytes": 399968,
-   "path": "sm65_zwiffle.bsp",
    "sha256": "8d92af4f4c43bc3cc770aad70e5d620b8a13515e69e3f78a320d92847bb5651a",
    "timestamp": "2004-01-31T18:39:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-02-01",
  "sha256": "987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c",
  "tags": [

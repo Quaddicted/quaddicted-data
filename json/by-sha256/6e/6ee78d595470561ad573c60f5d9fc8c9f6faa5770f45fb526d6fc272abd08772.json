@@ -4,24 +4,22 @@
  ],
  "bytes": 1064943,
  "description": "Large idbase map with a derelict underground part and two outdoor areas.",
- "files": [
-  {
+ "files": {
+  "czg01.bsp": {
    "bytes": 2494384,
-   "path": "czg01.bsp",
    "sha256": "ef3983c7da9e73f86273496ef26b19effef52f93d92f0bc9910870a701a02ab1",
    "timestamp": "1999-06-21T19:39:38.000Z"
   },
-  {
+  "czg01.txt": {
    "bytes": 3384,
-   "path": "czg01.txt",
    "sha256": "3050beb2646703fa18f5add14dab155d1777ca9bec4dc6810148bf23254bff16",
    "timestamp": "1999-06-21T22:05:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1999-06-21",
  "sha256": "6ee78d595470561ad573c60f5d9fc8c9f6faa5770f45fb526d6fc272abd08772",
  "tags": [

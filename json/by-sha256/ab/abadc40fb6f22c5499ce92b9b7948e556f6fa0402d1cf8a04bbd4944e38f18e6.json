@@ -4,48 +4,42 @@
  ],
  "bytes": 5164128,
  "description": "Huge underground necropolis in a Medieval/terracotta theme. It features the gremlin from SoA and has special optimizations for coop gameplay. The map source is included.",
- "files": [
-  {
+ "files": {
+  "terracity/": {
    "bytes": 0,
-   "path": "terracity/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2013-05-12T10:56:28.000Z"
   },
-  {
+  "terracity/pak0.pak": {
    "bytes": 9024953,
-   "path": "terracity/pak0.pak",
    "sha256": "a5bc44cc7244f5d016eb87c62e09c0a209f60291c116ebac024b282ca060e26b",
    "timestamp": "2013-05-11T22:29:44.000Z"
   },
-  {
+  "terracity/source/": {
    "bytes": 0,
-   "path": "terracity/source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2013-05-12T10:55:32.000Z"
   },
-  {
+  "terracity/source/terracity.map": {
    "bytes": 4167020,
-   "path": "terracity/source/terracity.map",
    "sha256": "8705b60b698f1d9bc9b8d444072aed0c3ce1daba39564d4070ee66d4f7a0335a",
    "timestamp": "2013-05-11T20:23:32.000Z"
   },
-  {
+  "terracity/source/terracity.rmf": {
    "bytes": 16174474,
-   "path": "terracity/source/terracity.rmf",
    "sha256": "305a25d1e3b2d62a77c81ba3fb267dc4225b46f4a03b6d7b5d4e1c36d5ec0770",
    "timestamp": "2013-05-11T20:23:22.000Z"
   },
-  {
+  "terracity/terracity.txt": {
    "bytes": 4182,
-   "path": "terracity/terracity.txt",
    "sha256": "1327c60da8a289d3d057cec0f56bf46a8968fb7476c7e01f85f935c7c5e1f0d4",
    "timestamp": "2013-05-11T20:33:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

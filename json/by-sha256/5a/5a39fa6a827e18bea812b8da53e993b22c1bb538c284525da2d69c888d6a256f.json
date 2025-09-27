@@ -4,30 +4,27 @@
  ],
  "bytes": 1121462,
  "description": "Strafing, jumping grunts. Lots of them.",
- "files": [
-  {
+ "files": {
+  "CORPORAL.QC": {
    "bytes": 92675,
-   "path": "CORPORAL.QC",
    "sha256": "556f136be52b5c3baf9ee7f09a34fa4cae2c2c2ec0e63eb37f329c15c50e42e3",
    "timestamp": "1997-04-06T17:43:06.000Z"
   },
-  {
+  "CORPORAL.TXT": {
    "bytes": 5031,
-   "path": "CORPORAL.TXT",
    "sha256": "0011e902de65a53bcacc2cc6a05b2b8d303100c2b698a91989c19df5a895e43d",
    "timestamp": "1997-04-06T17:38:58.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 2752896,
-   "path": "PAK0.PAK",
    "sha256": "f3289edbbe2d2d85d234c25a5aabb73842e0901db4b36abc0ff933015625c431",
    "timestamp": "1997-04-06T18:18:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/corporal/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-06",
  "sha256": "5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f",
  "tags": [

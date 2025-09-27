@@ -4,42 +4,37 @@
  ],
  "bytes": 8328390,
  "description": "Large, spacious base map with industrial machinery. The map source is included.",
- "files": [
-  {
+ "files": {
+  "plowing_through/": {
    "bytes": 0,
-   "path": "plowing_through/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-07-27T18:57:46.000Z"
   },
-  {
+  "plowing_through/plow_bass.bsp": {
    "bytes": 33915804,
-   "path": "plowing_through/plow_bass.bsp",
    "sha256": "497725de4ba8824741f0c2b0cecc35266674a229f7d19fc2db9bf47eaf65ad23",
    "timestamp": "2021-07-27T18:33:20.000Z"
   },
-  {
+  "plowing_through/plow_bass.lit": {
    "bytes": 4478048,
-   "path": "plowing_through/plow_bass.lit",
    "sha256": "4d0c2df14e1de582694b4b43062c17355ea0f3da5a868d5437e6508f6ba1d4bf",
    "timestamp": "2021-07-27T18:33:18.000Z"
   },
-  {
+  "plowing_through/plow_bass.map": {
    "bytes": 4755630,
-   "path": "plowing_through/plow_bass.map",
    "sha256": "33cfd8f246a91db4d896db7cb44f049c4d133ff4c3ddd6841e165c3376256426",
    "timestamp": "2021-07-27T18:31:34.000Z"
   },
-  {
+  "plowing_through/plow_bass_basslexa.txt": {
    "bytes": 1852,
-   "path": "plowing_through/plow_bass_basslexa.txt",
    "sha256": "d9b08cd1161c0657ca718d2b10c5242fd2fd830d69df3d4e9eae1a2260471897",
    "timestamp": "2021-07-27T18:56:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support.",
   "Cannot be run through the Quake Injector."

@@ -7,84 +7,72 @@
   "alkaline>=1.10"
  ],
  "description": "Episode consisting of four base maps in various styles (idbase, ikbase and zerbase are all featured) with a short backing story. Intended as part 1 of a wider release. Designed to run on the original Quake limits.",
- "files": [
-  {
+ "files": {
+  "readme.txt": {
    "bytes": 8306,
-   "path": "readme.txt",
    "sha256": "a9545f6df175f7bab40400be049d47b9fa145811dc1ea7d5ae9383fe7043094c",
    "timestamp": "2023-06-26T01:50:04.000Z"
   },
-  {
+  "rt_alk0.bsp": {
    "bytes": 1540264,
-   "path": "rt_alk0.bsp",
    "sha256": "b2188a34b970d77d3a2f66a57d4bf5a6cc9893233026f72aca21a78fed64f074",
    "timestamp": "2023-06-25T01:07:44.000Z"
   },
-  {
+  "rt_alk0.lit": {
    "bytes": 702401,
-   "path": "rt_alk0.lit",
    "sha256": "ca019180d9891dbe87fad3d4bbfb0e33e3834600769a438237589ff1e9095c12",
    "timestamp": "2023-06-25T01:07:44.000Z"
   },
-  {
+  "rt_alk1.bsp": {
    "bytes": 2295896,
-   "path": "rt_alk1.bsp",
    "sha256": "754be22fcc4f13f5001a5512987f27ac9f4b9a8b5e959d1184c0db1e6eed999d",
    "timestamp": "2023-06-26T01:34:28.000Z"
   },
-  {
+  "rt_alk1.lit": {
    "bytes": 1104983,
-   "path": "rt_alk1.lit",
    "sha256": "27e1ee374627546350df03a0562e6af67f3774cefe053f2a1985c0623ab97580",
    "timestamp": "2023-06-26T01:34:28.000Z"
   },
-  {
+  "rt_alk2.bsp": {
    "bytes": 3932348,
-   "path": "rt_alk2.bsp",
    "sha256": "d60a9601eb4e0a79b4e27e89b21dc36ea98fd211c515a4c5b148e1368644dce1",
    "timestamp": "2023-06-22T23:15:14.000Z"
   },
-  {
+  "rt_alk2.lit": {
    "bytes": 1399376,
-   "path": "rt_alk2.lit",
    "sha256": "18be4d2e8d739a99b1d7f1471b8681ae0524ec6d1b3800a5ce641218133bb6d8",
    "timestamp": "2023-06-22T23:15:14.000Z"
   },
-  {
+  "rt_alk3.bsp": {
    "bytes": 4135808,
-   "path": "rt_alk3.bsp",
    "sha256": "7400eb594024b28b96e2889859128871d563945db336ecb99fb972f449f9f53a",
    "timestamp": "2023-06-26T01:36:12.000Z"
   },
-  {
+  "rt_alk3.lit": {
    "bytes": 1450220,
-   "path": "rt_alk3.lit",
    "sha256": "f4cce16a441b55df2793930f5db3c29f760d21b7afa96c58c97f9a414411a3b5",
    "timestamp": "2023-06-26T01:36:12.000Z"
   },
-  {
+  "rt_alk4.bsp": {
    "bytes": 501600,
-   "path": "rt_alk4.bsp",
    "sha256": "a459cf6b25eba55ec0eaaab0220cc16dcd860ea496aaf9b6a806a3d0b801fb8e",
    "timestamp": "2023-06-22T02:21:14.000Z"
   },
-  {
+  "rt_alk4.lit": {
    "bytes": 69413,
-   "path": "rt_alk4.lit",
    "sha256": "1ba1f1832e8eacd9937f46c7e76bb2d872929c6cc67a65d08a8154aeb1ef3893",
    "timestamp": "2023-06-22T02:21:14.000Z"
   },
-  {
+  "src.zip": {
    "bytes": 1289311,
-   "path": "src.zip",
    "sha256": "3e2bebf3be260703425709a1494c8fa70b6867595c5494f38bb1f5c14c9c5422",
    "timestamp": "2023-06-26T01:47:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/alk1.1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This episode requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a> to be installed."
  ],

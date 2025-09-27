@@ -4,54 +4,47 @@
  ],
  "bytes": 3757635,
  "description": "Small idbase level set in a miliary base/hangar. It features three distinct route choices: normal combat, permanent quad damage, and slime maze, and is supposed to be the first map of an episode focusing on these route mechanics. It comes with a few custom models, and the map source is included.",
- "files": [
-  {
+ "files": {
+  "sthangar/": {
    "bytes": 0,
-   "path": "sthangar/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-05-02T14:52:40.000Z"
   },
-  {
+  "sthangar/gnu.txt": {
    "bytes": 14969,
-   "path": "sthangar/gnu.txt",
    "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248",
    "timestamp": "1999-12-21T19:01:14.000Z"
   },
-  {
+  "sthangar/pak0.pak": {
    "bytes": 8389617,
-   "path": "sthangar/pak0.pak",
    "sha256": "8e10e0d322ffad4f9aa492aac516c827752a1aa1406b683c83dc1b4996211eed",
    "timestamp": "2018-05-02T13:40:30.000Z"
   },
-  {
+  "sthangar/quake+miscmodels.fgd": {
    "bytes": 18515,
-   "path": "sthangar/quake+miscmodels.fgd",
    "sha256": "a73f23f110d93dd35adaa625d1cf01deb243b3bc3e891383dbf0e5c1f5d138f2",
    "timestamp": "2017-11-11T15:48:38.000Z"
   },
-  {
+  "sthangar/sthangar.TXT": {
    "bytes": 11408,
-   "path": "sthangar/sthangar.TXT",
    "sha256": "d9d0da6be6ddfdbe79a310968dc8cffad7485fbac69cdad11b21987d1af155f0",
    "timestamp": "2018-05-02T14:27:38.000Z"
   },
-  {
+  "sthangar/sthangar.map": {
    "bytes": 3716039,
-   "path": "sthangar/sthangar.map",
    "sha256": "70a47cc915a6de7ec0e12fba91b7fd07cd8a87655697c1775eca91930f10583c",
    "timestamp": "2018-05-02T13:37:08.000Z"
   },
-  {
+  "sthangar/sthangarqc.zip": {
    "bytes": 107073,
-   "path": "sthangar/sthangarqc.zip",
    "sha256": "f9e9ecd61b7c026f54ca85cb058d3984f7911624fe5949877e44b87a9bc0607e",
    "timestamp": "2018-05-02T14:14:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 515121,
  "description": "A small abstract mixed texture map which partly homages Doom II's map 1 (\"Entryway\").",
- "files": [
-  {
+ "files": {
+  "mutant.bsp": {
    "bytes": 1119800,
-   "path": "mutant.bsp",
    "sha256": "bb972d76bbe5be390eb4f57b21ceaa767e50c03f6300e8661770cdb623f4d273",
    "timestamp": "2000-07-14T13:53:10.000Z"
   },
-  {
+  "mutant.txt": {
    "bytes": 56,
-   "path": "mutant.txt",
    "sha256": "e03c5d62feafe6f60f93ebc465e5420f62c7ac071939680ca6e8a02c96b62072",
    "timestamp": "2012-05-13T18:14:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-07-14",
  "sha256": "2ce544bc5410a6ee82f6fd03faf84515a2483ccd384be48ed410a28df1ebd5fc",
  "tags": [

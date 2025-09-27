@@ -4,24 +4,22 @@
  ],
  "bytes": 781143,
  "description": "A short map where most action happens underwater. Comes with a new dual-uzi snake monster and a big boss snake.",
- "files": [
-  {
+ "files": {
+  "anaconda.txt": {
    "bytes": 437,
-   "path": "anaconda.txt",
    "sha256": "b8d576a002e4c3600f4ce95231788ceedef7deeb97f5bb936c5b575c104132da",
    "timestamp": "1997-04-02T17:31:44.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 1784012,
-   "path": "pak0.pak",
    "sha256": "36dca6c9209ae247b1c9b427f92b1cedd2e9f55eae43fec2c711134e21fce707",
    "timestamp": "1997-04-02T17:24:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/anaconda/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-02",
  "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [

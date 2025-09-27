@@ -9,36 +9,32 @@
   "copper>=1.15"
  ],
  "description": "Modified version of the first level from <a href=\"74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62\">Underdark Overbright</a>, making it partially submerged. The map source is included.",
- "files": [
-  {
+ "files": {
+  "udob1_4.bsp": {
    "bytes": 2064936,
-   "path": "udob1_4.bsp",
    "sha256": "00160223141c66bff9f2e63cf4cda308e69a10e5c08353341cf32148018ab70e",
    "timestamp": "2021-04-04T17:56:12.000Z"
   },
-  {
+  "udob1_4.lit": {
    "bytes": 636149,
-   "path": "udob1_4.lit",
    "sha256": "0d14f57979f9b5c618a7e08114eb5e9ef488b46a8849f981175ae0ba8316fa9d",
    "timestamp": "2021-04-04T17:56:12.000Z"
   },
-  {
+  "udob1_4.map": {
    "bytes": 1219964,
-   "path": "udob1_4.map",
    "sha256": "51f28f68b2f6289488de21fa1196450d7c72ef28ed7b2861c63f8515fdc25208",
    "timestamp": "2021-04-04T17:55:50.000Z"
   },
-  {
+  "udob1_4.txt": {
    "bytes": 4667,
-   "path": "udob1_4.txt",
    "sha256": "46436c4a253e6e26e3515ea3dfcdd117f5e168b92144da3195c6cca4336a4600",
    "timestamp": "2021-04-04T18:18:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a>."
  ],

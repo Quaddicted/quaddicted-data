@@ -5,108 +5,92 @@
  ],
  "bytes": 83722614,
  "description": "An episode with 6+4 levels and start map. The pak is compatible with original quake.exe and winquake. Base and Medieval themes: mostly ID textures with plenty of new edits. Includes a new ambient soundtrack.",
- "files": [
-  {
+ "files": {
+  "music/track02.mp3": {
    "bytes": 1901505,
-   "path": "music/track02.mp3",
    "sha256": "2b3624a64d3cd0a9b33d12add339c1f8675ffa779a7c68302833b93faede2e94",
    "timestamp": "2024-11-05T08:22:08.000Z"
   },
-  {
+  "music/track03.mp3": {
    "bytes": 1909028,
-   "path": "music/track03.mp3",
    "sha256": "614ff49365a0474540dca20ef6ea166d2de173f280d14a564d0f7954d5614ea4",
    "timestamp": "2024-11-05T08:22:08.000Z"
   },
-  {
+  "music/track04.mp3": {
    "bytes": 8867042,
-   "path": "music/track04.mp3",
    "sha256": "92f4010b228aa36ccc622f08a9fab00f049acb1b83c7f28d9e5fbe16c15c33e0",
    "timestamp": "2024-12-27T11:38:36.000Z"
   },
-  {
+  "music/track05.mp3": {
    "bytes": 4901376,
-   "path": "music/track05.mp3",
    "sha256": "80813d4ca24c32de464e9be89da9b984a7100f7e6762207a66d1fd3b87dea336",
    "timestamp": "2024-12-27T10:26:36.000Z"
   },
-  {
+  "music/track06.mp3": {
    "bytes": 4955028,
-   "path": "music/track06.mp3",
    "sha256": "b16e0b723dcb0f6afe66967366915cfe3d117c2b816a508757ce71ca4d0d3354",
    "timestamp": "2024-12-27T10:26:32.000Z"
   },
-  {
+  "music/track07.mp3": {
    "bytes": 4112466,
-   "path": "music/track07.mp3",
    "sha256": "5192cbac428a34609b66f74dfcd1ef5248d3f175e034361c3ccb287aca94a66b",
    "timestamp": "2024-12-27T10:26:28.000Z"
   },
-  {
+  "music/track08.mp3": {
    "bytes": 4313756,
-   "path": "music/track08.mp3",
    "sha256": "91423885a109b0f890db19a1ba5fc6ec71d5fdd137507674dc86afe32ad58154",
    "timestamp": "2024-12-27T10:47:18.000Z"
   },
-  {
+  "music/track09.mp3": {
    "bytes": 4926203,
-   "path": "music/track09.mp3",
    "sha256": "cbc895f9b6eaa3a12a574d887e284a00c4627224748a7fcb78a49b340b1eaa20",
    "timestamp": "2024-12-27T10:49:42.000Z"
   },
-  {
+  "music/track10.mp3": {
    "bytes": 3716255,
-   "path": "music/track10.mp3",
    "sha256": "8115ab51c0e033d544d631d19d47c6397cece0af4662438fffc32733dff9e669",
    "timestamp": "2024-12-27T10:59:00.000Z"
   },
-  {
+  "music/track11.mp3": {
    "bytes": 7269290,
-   "path": "music/track11.mp3",
    "sha256": "4a04c7e347590450521c0bc82f6ef1dbfa4a89d5689e0fa48f51ce2ccbe66177",
    "timestamp": "2024-11-05T08:22:08.000Z"
   },
-  {
+  "music/track12.mp3": {
    "bytes": 4630117,
-   "path": "music/track12.mp3",
    "sha256": "68056067df4cc76cfbf3292aa34e8bf89c2f0e8fd0bb84d60c8ed240761bc28e",
    "timestamp": "2024-12-27T11:30:02.000Z"
   },
-  {
+  "music/track13.mp3": {
    "bytes": 4373809,
-   "path": "music/track13.mp3",
    "sha256": "e85d1d34bdbdd3820968cf9cbdd561a29b4627a1ed02c2191918adb8811f3198",
    "timestamp": "2024-12-27T11:33:32.000Z"
   },
-  {
+  "music/track14.mp3": {
    "bytes": 3503851,
-   "path": "music/track14.mp3",
    "sha256": "9adc4c06f31cb937d32c73389088b60df38882ae58023d5f8e46aef2904c7f80",
    "timestamp": "2024-12-27T11:12:48.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 85593589,
-   "path": "pak0.pak",
    "sha256": "0037ab70d5154612cd54139d14d3cdd66561395b026ad007ac90e5fa2ae2f079",
    "timestamp": "2025-01-04T09:58:40.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 2038,
-   "path": "quake.rc",
    "sha256": "aafcee458178b4aa9e86f3c16e0ba027782f0b358d77ff6e3ac1a9fa2fef3459",
    "timestamp": "2025-01-04T09:29:30.000Z"
   },
-  {
+  "ritual_096_readme.txt": {
    "bytes": 11632,
-   "path": "ritual_096_readme.txt",
    "sha256": "693084d62e27c7d9b6f4c2afc40f1f81f50d2965005d277fa5fed98fc1362185",
    "timestamp": "2025-01-04T11:42:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ritual"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2025-01-05",
  "sha256": "ad4ca40bf42aab0fc69226ca4d8fad0cc84ba5f8b0372717346300dd1be89b94",
  "tags": [

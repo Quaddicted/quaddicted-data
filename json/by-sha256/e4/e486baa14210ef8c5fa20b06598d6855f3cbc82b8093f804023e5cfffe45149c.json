@@ -4,54 +4,47 @@
  ],
  "bytes": 756012,
  "description": "A tiny arena map to showcase four of the author's favorite custom monsters: Willy the spider, the manga babe, the snakeman and the bazooka babe.",
- "files": [
-  {
+ "files": {
+  "bazooka.txt": {
    "bytes": 4512,
-   "path": "bazooka.txt",
    "sha256": "ea6ec68b8465524d034f9fbb33919e75c22bbc177300f255d53cb1f87dabec9f",
    "timestamp": "1996-11-26T15:38:38.000Z"
   },
-  {
+  "foxyzoo.txt": {
    "bytes": 3172,
-   "path": "foxyzoo.txt",
    "sha256": "2208983e629b55ed2306c951d031b3c5775d2062e2cbb48a105aecb975b94078",
    "timestamp": "1997-01-14T02:21:10.000Z"
   },
-  {
+  "manga.txt": {
    "bytes": 2019,
-   "path": "manga.txt",
    "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
    "timestamp": "1996-11-03T23:57:58.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 1706070,
-   "path": "pak0.pak",
    "sha256": "c159a2540f454d8376f4a63288e42e438e0890ad9cb66b77867ebfc6c7b5dbf6",
    "timestamp": "1997-01-14T03:17:22.000Z"
   },
-  {
+  "snakeman.txt": {
    "bytes": 4744,
-   "path": "snakeman.txt",
    "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
    "timestamp": "1996-10-24T12:17:36.000Z"
   },
-  {
+  "spider.txt": {
    "bytes": 2615,
-   "path": "spider.txt",
    "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
    "timestamp": "1996-10-09T05:52:48.000Z"
   },
-  {
+  "src.ZIP": {
    "bytes": 25875,
-   "path": "src.ZIP",
    "sha256": "4cc79089e63e0d21590016a8c06bff8814364716e81aa17861c7799130f79d72",
    "timestamp": "1997-01-14T03:19:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/foxyzoo/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-14",
  "sha256": "e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c",
  "tags": [

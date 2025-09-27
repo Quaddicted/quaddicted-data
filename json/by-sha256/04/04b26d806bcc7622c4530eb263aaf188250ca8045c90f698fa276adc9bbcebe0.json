@@ -4,36 +4,32 @@
  ],
  "bytes": 2278548,
  "description": "Small base/industrial-style map. A reinterpretation of the original DM5 - part of than's ongoing <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3Dthan%22%5D\">DMxRMX</a> series. The map source is included.",
- "files": [
-  {
+ "files": {
+  "dm5rmx.bsp": {
    "bytes": 4381508,
-   "path": "dm5rmx.bsp",
    "sha256": "cd39ad9cc21e35820b61a535a7748c2a31aec3f3f6e81d006750318874de8802",
    "timestamp": "2012-12-10T05:46:18.000Z"
   },
-  {
+  "dm5rmx.map": {
    "bytes": 1907378,
-   "path": "dm5rmx.map",
    "sha256": "07d31c5e7820408e245933368691b1a21b6262f5142cac002b831ecbe8c5e4ef",
    "timestamp": "2012-12-10T00:35:36.000Z"
   },
-  {
+  "dm5rmx.rmf": {
    "bytes": 8257565,
-   "path": "dm5rmx.rmf",
    "sha256": "3295f5dd32de775388e3465a549ef25e14584c311781a489048415d7e85b5e61",
    "timestamp": "2012-12-10T00:35:30.000Z"
   },
-  {
+  "dm5rmx.txt": {
    "bytes": 10231,
-   "path": "dm5rmx.txt",
    "sha256": "3c8cbf49d681776998b3b4176c1b0bed6d8d5cb7dee0ad390f79b2156c6a2f89",
    "timestamp": "2012-12-10T07:56:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2012-12-10",
  "sha256": "04b26d806bcc7622c4530eb263aaf188250ca8045c90f698fa276adc9bbcebe0",
  "tags": [

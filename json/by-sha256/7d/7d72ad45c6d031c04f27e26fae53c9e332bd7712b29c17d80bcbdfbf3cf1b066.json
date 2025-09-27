@@ -4,24 +4,22 @@
  ],
  "bytes": 1615375,
  "description": "Medium sized starship with all new custom textures, slightly tougher and reskinned monsters, and a few extra progs.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 3387829,
-   "path": "pak0.pak",
    "sha256": "de12d74a10590e321225d18e86bc1292d052e7a813af488d0eb0922204798f5e",
    "timestamp": "1997-08-27T04:59:08.000Z"
   },
-  {
+  "starship.txt": {
    "bytes": 6067,
-   "path": "starship.txt",
    "sha256": "86337e950dc3f703fd8589c81584d3614138f0512dc6e13a509a3be0526e7128",
    "timestamp": "1997-08-28T03:33:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/space/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-28",
  "sha256": "7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066",
  "tags": [

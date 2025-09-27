@@ -7,24 +7,22 @@
   "coe=1.0"
  ],
  "description": "<a href=\"ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d\">Coven of Ebony</a> Patch - includes some tweaks to the COE code and a better-looking Necromancer model.",
- "files": [
-  {
+ "files": {
+  "PAK1.PAK": {
    "bytes": 959980,
-   "path": "PAK1.PAK",
    "sha256": "a520abe1577bc06097eab83466f7fa79dbf66b8a8c174ed8356aaa239e63652a",
    "timestamp": "2001-01-08T15:11:22.000Z"
   },
-  {
+  "coe_p_readme.txt": {
    "bytes": 1857,
-   "path": "coe_p_readme.txt",
    "sha256": "f80e71e960338f38f50b0eea9c6c7ab1a177120b5866bc21968d5aaee1e5bb2d",
    "timestamp": "2001-01-08T15:05:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/coe/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "coe": "1.1"
  },

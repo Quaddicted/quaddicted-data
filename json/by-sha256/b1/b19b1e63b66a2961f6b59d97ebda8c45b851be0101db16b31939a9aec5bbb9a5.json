@@ -4,30 +4,27 @@
  ],
  "bytes": 2865940,
  "description": "Two medium sized maps and a small secret map featuring Snakeman, Manga Babe, Willy the Spider and Raptor monsters. Scourge of Amargon is required as well.",
- "files": [
-  {
+ "files": {
+  "monsters.zip": {
    "bytes": 12882,
-   "path": "monsters.zip",
    "sha256": "f499c6af625a76b795f315863f828c49d351d8b42ec4ca71872ac422c2ce8fed",
    "timestamp": "1997-05-15T09:28:28.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 6228196,
-   "path": "pak1.pak",
    "sha256": "20c79f4276a8a98fbe540df505843ecacba94639fc7ff95923cfe84379bf45c9",
    "timestamp": "1997-07-01T10:38:26.000Z"
   },
-  {
+  "tefdbl2.txt": {
    "bytes": 10646,
-   "path": "tefdbl2.txt",
    "sha256": "75c200ddb468ccef88a40f0910543fce0baf17f1d2a35f15375d34035df1d3e7",
    "timestamp": "1997-05-20T00:48:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/tefdb2a/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-01",
  "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "tags": [

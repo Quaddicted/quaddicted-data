@@ -4,24 +4,22 @@
  ],
  "bytes": 1277793,
  "description": "Medium sized, mashup of texture themes with some paintings by H.R. Giger, Boris Vallejo and Olivia.",
- "files": [
-  {
+ "files": {
+  "AFHELL.BSP": {
    "bytes": 2877808,
-   "path": "AFHELL.BSP",
    "sha256": "a469b8fe849b5bf65283c9ab23b3bd3bec0f1488ca5bdd3e3e10f2ecc505a45d",
    "timestamp": "1997-01-27T13:45:30.000Z"
   },
-  {
+  "AFHELL.TXT": {
    "bytes": 4862,
-   "path": "AFHELL.TXT",
    "sha256": "ed1e341caf89e482852ffdf244de0c0f06a2e43d7547ec7e72a85705c575a8de",
    "timestamp": "1997-01-28T07:26:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-28",
  "sha256": "8316b448dd341bb7076801ef93183f0fc4f3242e67a08ed0849d6944fdfcb706",
  "tags": [

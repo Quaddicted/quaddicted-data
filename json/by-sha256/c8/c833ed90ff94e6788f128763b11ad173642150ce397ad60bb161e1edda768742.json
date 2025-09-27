@@ -4,24 +4,22 @@
  ],
  "bytes": 1889818,
  "description": "Medium-sized metal/runic style level with a built-in skill-selection room and an additional alternative game mode.",
- "files": [
-  {
+ "files": {
+  "mappi2.bsp": {
    "bytes": 4898424,
-   "path": "mappi2.bsp",
    "sha256": "5f2ee9d2932c631ad2c930e36bbc584685c7c3aad3b9de29316772eb35c6a59e",
    "timestamp": "2010-12-16T12:30:58.000Z"
   },
-  {
+  "mappi2.txt": {
    "bytes": 2794,
-   "path": "mappi2.txt",
    "sha256": "30579b48194ce9fa9205965bcd2abf6b0181d7ebbc50342d70a7135dae1b428c",
    "timestamp": "2010-12-16T12:30:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2010-12-16",
  "sha256": "c833ed90ff94e6788f128763b11ad173642150ce397ad60bb161e1edda768742",
  "tags": [

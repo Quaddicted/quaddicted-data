@@ -4,54 +4,47 @@
  ],
  "bytes": 22024945,
  "description": "Medium / large runic base map with \"void vibes\", built on progs_dump 3.0 (already included). Some sounds from Arcane Dimensions, custom music \"Yss \u00c9skiuth\" by Immorpher. Map source is included.",
- "files": [
-  {
+ "files": {
+  "jpqm12/README - jpqm12 - The Rust Forge.txt": {
    "bytes": 3133,
-   "path": "jpqm12/README - jpqm12 - The Rust Forge.txt",
    "sha256": "c5d157b435cf73cb2118e24120c8e01122552e2c658762f493ad636614163c48",
    "timestamp": "2022-08-25T08:15:18.000Z"
   },
-  {
+  "jpqm12/map src/": {
    "bytes": 0,
-   "path": "jpqm12/map src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-10-02T00:01:58.000Z"
   },
-  {
+  "jpqm12/map src/jpqm12.map": {
    "bytes": 14824625,
-   "path": "jpqm12/map src/jpqm12.map",
    "sha256": "7790a65881c926c615738c057429222c997fcbbe0bb7d4cbb7ea3d2ece39c2f9",
    "timestamp": "2022-08-26T21:55:32.000Z"
   },
-  {
+  "jpqm12/music/": {
    "bytes": 0,
-   "path": "jpqm12/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-10-02T00:02:10.000Z"
   },
-  {
+  "jpqm12/music/track104.ogg": {
    "bytes": 5395475,
-   "path": "jpqm12/music/track104.ogg",
    "sha256": "40c8c4f3dae65b7e2477d65fc49b607cc85375b951c07365480c7f0f2c2695aa",
    "timestamp": "2020-10-31T21:52:56.000Z"
   },
-  {
+  "jpqm12/pak0.pak": {
    "bytes": 38800184,
-   "path": "jpqm12/pak0.pak",
    "sha256": "88f2e072675019da6b9554fc5879cfe0a900fab5d5b7dab00b52dd8928472aa0",
    "timestamp": "2022-10-02T00:01:28.000Z"
   },
-  {
+  "jpqm12/progs_dump-devkit-readme.txt": {
    "bytes": 9360,
-   "path": "jpqm12/progs_dump-devkit-readme.txt",
    "sha256": "c8eb11121c42e133e391a016cae91abbd3766508d4108bf5a74ce61e6d8f2723",
    "timestamp": "2022-09-26T16:09:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "There's no custom start map. Load via console: \"game jpqm12; map jpqm12\"",
   "Requires a modern engine / source port with increased limits and BSP2 support."

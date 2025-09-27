@@ -4,24 +4,22 @@
  ],
  "bytes": 513351,
  "description": "Medium sized map - a small base bit leading into a dark Wizard/brick dungeon.",
- "files": [
-  {
+ "files": {
+  "colony.bsp": {
    "bytes": 1152096,
-   "path": "colony.bsp",
    "sha256": "2e4a4896a3e34108630927de1c8d1f1d1dad1f84017fa75c8f6e91fa2647a0d4",
    "timestamp": "1998-09-29T01:18:44.000Z"
   },
-  {
+  "colony.txt": {
    "bytes": 1143,
-   "path": "colony.txt",
    "sha256": "1b6b0467aea2614bf0913ff5c2e619f2b2e0df4977619caeab63563029e7f197",
    "timestamp": "1998-09-29T01:27:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-09-29",
  "sha256": "ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2",
  "tags": [

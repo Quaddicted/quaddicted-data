@@ -4,108 +4,92 @@
  ],
  "bytes": 17990821,
  "description": "Medium sized Rubicon base themed map remix based on <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">rd1m1 from Runner's Delight</a>, built on Alkaline 1.2 RC1 (already included). Map source is included.",
- "files": [
-  {
+ "files": {
+  "rd1m1rmx/": {
    "bytes": 0,
-   "path": "rd1m1rmx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-18T14:58:28.000Z"
   },
-  {
+  "rd1m1rmx/gfx/": {
    "bytes": 0,
-   "path": "rd1m1rmx/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-18T14:57:48.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/": {
    "bytes": 0,
-   "path": "rd1m1rmx/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-18T14:57:56.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/captivation-blue_bk.tga": {
    "bytes": 287340,
-   "path": "rd1m1rmx/gfx/env/captivation-blue_bk.tga",
    "sha256": "66388d44641bd20eb7841f3de7a84a6ba46ae791e3915fb911f081d1b95105c0",
    "timestamp": "2003-01-29T13:30:58.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/captivation-blue_dn.tga": {
    "bytes": 130432,
-   "path": "rd1m1rmx/gfx/env/captivation-blue_dn.tga",
    "sha256": "1d32504d07ccfd1f89334ab0a67d58561c9a48aa5f1747a66608f6dc9441a49b",
    "timestamp": "2003-01-29T13:31:24.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/captivation-blue_ft.tga": {
    "bytes": 277718,
-   "path": "rd1m1rmx/gfx/env/captivation-blue_ft.tga",
    "sha256": "436b5ae399cb45374e93af48141094491c2280e56d4868298268064eb52882c4",
    "timestamp": "2003-01-29T13:30:40.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/captivation-blue_lf.tga": {
    "bytes": 314328,
-   "path": "rd1m1rmx/gfx/env/captivation-blue_lf.tga",
    "sha256": "8aa10e1db46e743431b705f34091e9e8738531e7124fbaa1d155b769e2a19f2b",
    "timestamp": "2003-01-29T13:30:50.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/captivation-blue_rt.tga": {
    "bytes": 287035,
-   "path": "rd1m1rmx/gfx/env/captivation-blue_rt.tga",
    "sha256": "4a19b968130b7d49851aed65c5d5a1a53e2a5449d45b7a38559c0d7a31ba7e82",
    "timestamp": "2003-01-29T13:31:08.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/captivation-blue_up.tga": {
    "bytes": 154528,
-   "path": "rd1m1rmx/gfx/env/captivation-blue_up.tga",
    "sha256": "3b3d9bb9d9ed9de69be7368489cbf822d0c05f762e816c4aa47dcea8a35607bd",
    "timestamp": "2003-01-29T13:31:16.000Z"
   },
-  {
+  "rd1m1rmx/gfx/env/desktop.ini": {
    "bytes": 47,
-   "path": "rd1m1rmx/gfx/env/desktop.ini",
    "sha256": "a1edc277e4762553755e848e57a9b9b1f7ead7433e87b9fdd491f465c0bef87e",
    "timestamp": "2015-08-18T10:12:40.000Z"
   },
-  {
+  "rd1m1rmx/maps/": {
    "bytes": 0,
-   "path": "rd1m1rmx/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-18T14:56:38.000Z"
   },
-  {
+  "rd1m1rmx/maps/rd1m1rmx.bsp": {
    "bytes": 2146820,
-   "path": "rd1m1rmx/maps/rd1m1rmx.bsp",
    "sha256": "78419cce53032e25eafa1fe3d584b73e43630ad565dbe6bcf16c617bce5db451",
    "timestamp": "2022-11-18T14:44:52.000Z"
   },
-  {
+  "rd1m1rmx/maps/rd1m1rmx.lit": {
    "bytes": 891776,
-   "path": "rd1m1rmx/maps/rd1m1rmx.lit",
    "sha256": "93a37c67f07ea12b56537927e863affaeef985acfa711f60e6850f69977b1fed",
    "timestamp": "2022-11-18T14:44:52.000Z"
   },
-  {
+  "rd1m1rmx/maps/rd1m1rmx.map": {
    "bytes": 1744079,
-   "path": "rd1m1rmx/maps/rd1m1rmx.map",
    "sha256": "5f972a4538053c56b7e852718c2cf9cf430d194739bbf574f9d8a595ade37633",
    "timestamp": "2022-11-18T14:40:32.000Z"
   },
-  {
+  "rd1m1rmx/pak0.pak": {
    "bytes": 33287670,
-   "path": "rd1m1rmx/pak0.pak",
    "sha256": "e5de412650faace357cc258869903e068d95711cf7d57a425e0ec5643b11e188",
    "timestamp": "2022-11-18T17:02:06.000Z"
   },
-  {
+  "rd1m1rmx/rd1m1rmx.txt": {
    "bytes": 1571,
-   "path": "rd1m1rmx/rd1m1rmx.txt",
    "sha256": "cb0d48939b8734070e14ff2fa70e23d0dccfee19e9c9c5eee11da6fc4de1f4f7",
    "timestamp": "2022-11-18T14:36:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "There is no custom start map, load manually via console: \"map rd1m1rmx\""
  ],

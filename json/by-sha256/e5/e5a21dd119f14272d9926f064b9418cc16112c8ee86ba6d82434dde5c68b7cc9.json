@@ -17,42 +17,37 @@
  ],
  "bytes": 251165515,
  "description": "Version 1.1 update of <a href=\"2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5\">Alkaline</a>, featuring fixes and polish to the original levels as well as several additional maps, enemies and music tracks. Thirteen large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
- "files": [
-  {
+ "files": {
+  "alk1.1/": {
    "bytes": 0,
-   "path": "alk1.1/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-12-03T16:32:16.000Z"
   },
-  {
+  "alk1.1/alkaline1.1_read_me.txt": {
    "bytes": 7792,
-   "path": "alk1.1/alkaline1.1_read_me.txt",
    "sha256": "3455ee35f4f4f4c4d21eb078e8ab0bde8dfefa5be0785331087cdd54d5ef4402",
    "timestamp": "2021-12-03T16:25:52.000Z"
   },
-  {
+  "alk1.1/csprogs.dat": {
    "bytes": 42330,
-   "path": "alk1.1/csprogs.dat",
    "sha256": "94c9e5f647f25fa309860c993af224bd864e84de0711c71f33303f8320eaf167",
    "timestamp": "2021-11-22T07:25:20.000Z"
   },
-  {
+  "alk1.1/pak0.pak": {
    "bytes": 504210543,
-   "path": "alk1.1/pak0.pak",
    "sha256": "c58fa9330dd4af61898c8551a22c9c32cb500a0f89493c886800d12e9fa73d2a",
    "timestamp": "2021-12-03T16:32:16.000Z"
   },
-  {
+  "alk1.1/progs.dat": {
    "bytes": 978098,
-   "path": "alk1.1/progs.dat",
    "sha256": "a5e0774dd8048a3eac63576960b6314c7b67824fa17735236cdc5292f60e9d57",
    "timestamp": "2021-11-22T07:25:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "UPDATE, 8 March 2023: <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">version 1.2</a> is available and recommended.",
   "These maps require a source port with increased limits + BSP2 support."

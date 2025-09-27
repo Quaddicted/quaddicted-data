@@ -4,24 +4,22 @@
  ],
  "bytes": 3149426,
  "description": "Huge and very detailed space colony level with custom textures, new monsters such as Shock Troopers and Battle Mechs, as well as some other additional progs.",
- "files": [
-  {
+ "files": {
+  "gmsp1.txt": {
    "bytes": 4840,
-   "path": "gmsp1.txt",
    "sha256": "74df219f0824ea77612099ddb740064c7d7612a8fbeae2de71dd62eba9e523de",
    "timestamp": "2001-03-26T01:17:20.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 8214581,
-   "path": "pak0.pak",
    "sha256": "ea367d5f8285ae6d135f5b99176a767c71130a275cedd24f0733675d191b2362",
    "timestamp": "2001-03-26T00:55:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/gmsp1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-03-26",
  "sha256": "63ad5a20323f68cab9526efe3b8a265d05227d367b2758183bc6ac5ae3ed3a35",
  "tags": [

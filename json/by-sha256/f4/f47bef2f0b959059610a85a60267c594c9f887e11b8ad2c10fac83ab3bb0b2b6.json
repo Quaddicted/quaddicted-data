@@ -4,24 +4,22 @@
  ],
  "bytes": 1835762,
  "description": "Two spacious, medium sized base maps with a somewhat unusual theme and modified Grunts and Enforcers carrying SSG, NG, SNG, GL and RL.",
- "files": [
-  {
+ "files": {
+  "ovrridn.txt": {
    "bytes": 2217,
-   "path": "ovrridn.txt",
    "sha256": "c5b3c44018b7d8475c4607e4da5e9478ef7405c4474c31cfa8e1bedddce02fb7",
    "timestamp": "1997-05-21T21:52:38.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 4284108,
-   "path": "pak0.pak",
    "sha256": "a4191fd62ee0b1b10a5f5c007d5b04c7472c893506ddbaf5de0a23b0d521bb6e",
    "timestamp": "1997-05-21T21:13:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ovrridn/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-21",
  "sha256": "f47bef2f0b959059610a85a60267c594c9f887e11b8ad2c10fac83ab3bb0b2b6",
  "tags": [

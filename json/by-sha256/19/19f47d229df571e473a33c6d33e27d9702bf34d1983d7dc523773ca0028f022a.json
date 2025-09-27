@@ -5,48 +5,42 @@
  ],
  "bytes": 32931607,
  "description": "Mini-episode consisting of three large levels and a start map. The maps follow an evil metal-egyptian-flesh texture theme and include many modified and new monsters, new items and weapons as well as other custom code (see arwop.txt). The episode also features background music inspired by The Doors (can be turned off with \"impulse 17\") and a hidden fifth difficulty mode. The gameplay is fast and very hard, blending in with the strong 'Doom vibe' it conveys - especially the boss battle is extremely tough.",
- "files": [
-  {
+ "files": {
+  "arwop.txt": {
    "bytes": 9939,
-   "path": "arwop.txt",
    "sha256": "0d77177bca4cad4420ed9b88b29deb60789187858950151d88abfcf115c661fd",
    "timestamp": "2009-12-24T11:40:46.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 22728286,
-   "path": "pak0.pak",
    "sha256": "0a75ac261184e66ce629178062ebe6109425e1a477a568c5774e1f9ddcfbca3e",
    "timestamp": "2009-12-11T21:02:54.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 15442231,
-   "path": "pak1.pak",
    "sha256": "6e2bbb4eeb05e83355ed5b0534ca5336ec93c339e3181f6ee9aa89d4c7eb4912",
    "timestamp": "2009-12-24T09:37:48.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 40121110,
-   "path": "pak2.pak",
    "sha256": "26026c0dfdebe56ba368b4d271e294a172b5b09ea98cb06a4e658b934d9d4d90",
    "timestamp": "2009-12-25T06:44:54.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1616904,
-   "path": "progs.dat",
    "sha256": "6bb846d557cc4bd99a794b79c5570fb441610e57c5d20b7169e184fce9cc1f64",
    "timestamp": "2009-12-24T11:06:58.000Z"
   },
-  {
+  "progs_dp.dat": {
    "bytes": 1629324,
-   "path": "progs_dp.dat",
    "sha256": "086786be4be4c0bfedc9f9061f7ba4b8f99c05f69bd89deae6650c262ef77468",
    "timestamp": "2009-12-24T10:58:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/arwop/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2009-12-25",
  "sha256": "19f47d229df571e473a33c6d33e27d9702bf34d1983d7dc523773ca0028f022a",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 447400,
  "description": "A deathmatch map with some monsters thrown in.",
- "files": [
-  {
+ "files": {
+  "CARGOSHP.BSP": {
    "bytes": 1056524,
-   "path": "CARGOSHP.BSP",
    "sha256": "4e59f35929cfaa38d9f9c005ba9e4af2d5e639665aaf6c74e4db99c33a8b7706",
    "timestamp": "1997-01-10T00:32:02.000Z"
   },
-  {
+  "CARGOSHP.TXT": {
    "bytes": 7825,
-   "path": "CARGOSHP.TXT",
    "sha256": "4b83f0a784a11e24d7e1fcc6d520227c563ab9c315a4f8ddcdfb9f0ba0c3bb4c",
    "timestamp": "1999-08-07T15:45:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1999-08-07",
  "sha256": "0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c",
  "tags": [

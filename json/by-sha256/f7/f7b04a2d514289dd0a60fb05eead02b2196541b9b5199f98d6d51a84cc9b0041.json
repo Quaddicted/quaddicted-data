@@ -4,24 +4,22 @@
  ],
  "bytes": 164655,
  "description": "Very small, plain and dark base map.",
- "files": [
-  {
+ "files": {
+  "Flyer.txt": {
    "bytes": 431,
-   "path": "Flyer.txt",
    "sha256": "e0cf829f2382870eac8c13c9945465de93b7ed3560eda5a0d736b0b83c625aee",
    "timestamp": "1996-11-18T22:02:56.000Z"
   },
-  {
+  "flyer.bsp": {
    "bytes": 386032,
-   "path": "flyer.bsp",
    "sha256": "aa0412ee369e6b524e9750e440035138f1ef3b6b6f0c04e7f2f1ac3b92b5f52d",
    "timestamp": "1996-11-18T21:19:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-11-18",
  "sha256": "f7b04a2d514289dd0a60fb05eead02b2196541b9b5199f98d6d51a84cc9b0041",
  "tags": [

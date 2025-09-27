@@ -4,24 +4,22 @@
  ],
  "bytes": 644807,
  "description": "Small Base map - a weapon factory producing aircrafts, tanks and submarines.",
- "files": [
-  {
+ "files": {
+  "weaponf.bsp": {
    "bytes": 1489612,
-   "path": "weaponf.bsp",
    "sha256": "812b7c017160316e952257742fa58e20f22d7cbb39ddb10eff7a8ea40de35d01",
    "timestamp": "1997-11-17T19:01:46.000Z"
   },
-  {
+  "weaponf.txt": {
    "bytes": 2002,
-   "path": "weaponf.txt",
    "sha256": "c02e2c760ce4c3ddbb67b02782f85c188c0d60fcdabcd4c59626d0f9baf890e7",
    "timestamp": "1997-11-30T22:16:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-30",
  "sha256": "eacd5ba47e4a43db468df58c8ad454cc24e9fb469a1406b813cbbc527765a790",
  "tags": [

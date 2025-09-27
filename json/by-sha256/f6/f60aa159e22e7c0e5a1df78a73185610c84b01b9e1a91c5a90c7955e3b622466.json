@@ -4,24 +4,22 @@
  ],
  "bytes": 878196,
  "description": "Fifth map of the IKSPQ series and first appearance of the well-known IKbase texture set.",
- "files": [
-  {
+ "files": {
+  "IKSPQ5.BSP": {
    "bytes": 2087904,
-   "path": "IKSPQ5.BSP",
    "sha256": "641b2480600ff7d8b2ebb43db6500d1f67bc08088b9212a9e3f8e6c503659ff4",
    "timestamp": "1997-11-21T10:05:24.000Z"
   },
-  {
+  "IKSPQ5.TXT": {
    "bytes": 4989,
-   "path": "IKSPQ5.TXT",
    "sha256": "38945886a47eb01f1b71cf7216a26a028e73f739c0a99f4f7c86ed9f347aebf5",
    "timestamp": "1997-11-21T12:55:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-21",
  "sha256": "f60aa159e22e7c0e5a1df78a73185610c84b01b9e1a91c5a90c7955e3b622466",
  "tags": [

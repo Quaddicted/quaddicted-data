@@ -4,54 +4,47 @@
  ],
  "bytes": 7184734,
  "description": "Large Metal/gothic lava fortress with a bunch of modified and new monsters, as well as a medium sized, hard secret map. Very high monster count in both maps, compensated by slight changes to some weapons and ammo system.",
- "files": [
-  {
+ "files": {
+  "Tyr-Quake_readme.txt": {
    "bytes": 1585,
-   "path": "Tyr-Quake_readme.txt",
    "sha256": "9ff80cdfc3021f5a0e1a980c408407f219be545b70cf567444dfb694ecee5cd0",
    "timestamp": "2003-04-23T23:38:20.000Z"
   },
-  {
+  "Tyrquake-GNU.txt": {
    "bytes": 14882,
-   "path": "Tyrquake-GNU.txt",
    "sha256": "70402dc11b4b91b2e2b4821592ff9cb31ff2f4c6f3dedae15efde5395c7ee170",
    "timestamp": "2003-04-23T22:43:12.000Z"
   },
-  {
+  "nesp09.txt": {
    "bytes": 10033,
-   "path": "nesp09.txt",
    "sha256": "5ca13318ba345642e68d17b3e97f7af50825ffd6dd8910e22112088242bfa560",
    "timestamp": "2003-07-09T15:05:08.000Z"
   },
-  {
+  "nesp09/": {
    "bytes": 0,
-   "path": "nesp09/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2003-07-09T14:55:52.000Z"
   },
-  {
+  "nesp09/pak0.pak": {
    "bytes": 14149494,
-   "path": "nesp09/pak0.pak",
    "sha256": "422456a403b491cd0a8652b527eda9262357b7df1d85c00f179023a6a1ebc420",
    "timestamp": "2003-07-09T14:54:30.000Z"
   },
-  {
+  "tyr-glquake.exe": {
    "bytes": 399872,
-   "path": "tyr-glquake.exe",
    "sha256": "aef6acb9bf9a1d01abf3060f68713df71ca5453d6cf51b004830edc33ddc4801",
    "timestamp": "2003-04-23T23:07:46.000Z"
   },
-  {
+  "tyr-quake.exe": {
    "bytes": 528384,
-   "path": "tyr-quake.exe",
    "sha256": "69336bb33b4b75ca895bd18f497ef03ab20964e676d64f651b48e9138ce9d55c",
    "timestamp": "2003-04-23T23:07:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires an engine with increased limits."
  ],

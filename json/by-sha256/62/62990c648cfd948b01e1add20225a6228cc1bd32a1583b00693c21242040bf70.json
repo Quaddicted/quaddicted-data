@@ -4,30 +4,27 @@
  ],
  "bytes": 1737066,
  "description": "Retro style speedmap about dimension traversal for vanilla Quake, where you jump back and forth between tech base and medieval lovecraft. This is v2, which fixes a softlock in the original version. Map source is included.",
- "files": [
-  {
+ "files": {
+  "markiesm1.bsp": {
    "bytes": 4205448,
-   "path": "markiesm1.bsp",
    "sha256": "389c4ea06a05dda5817267bc35f8db258bf8cb108b73da0e6af59c31b49d221c",
    "timestamp": "2022-04-02T23:01:06.000Z"
   },
-  {
+  "markiesm1.map": {
    "bytes": 2517217,
-   "path": "markiesm1.map",
    "sha256": "32c6eb59986e018f9728cf06a676520792be9486499582e9387f839784b6167e",
    "timestamp": "2022-04-02T23:01:02.000Z"
   },
-  {
+  "markiesm1.txt": {
    "bytes": 1463,
-   "path": "markiesm1.txt",
    "sha256": "819111d1c650fbd9c30be50cb2c5e83fc8031f49499447a339721f44acb36d67",
    "timestamp": "2022-04-02T20:48:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2022-04-02",
  "sha256": "62990c648cfd948b01e1add20225a6228cc1bd32a1583b00693c21242040bf70",
  "tags": [

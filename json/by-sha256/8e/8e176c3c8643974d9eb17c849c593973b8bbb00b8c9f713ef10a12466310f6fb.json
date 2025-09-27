@@ -8,30 +8,27 @@
   "quoth>=2.0"
  ],
  "description": "Basically the same as <a href=\"6083eb1eea7d0bfd259b1f54bd30e6ab5f4c47ea6e6a200be3dc90b93c0f7e9e\">src</a> but using Quoth 2. Slightly different layout and gameplay.",
- "files": [
-  {
+ "files": {
+  "src2.bsp": {
    "bytes": 6975304,
-   "path": "src2.bsp",
    "sha256": "7d4ef5f22960e404f769d05cdb77791cc2ed130e20df1a5fe6614161541d2c79",
    "timestamp": "2006-12-12T19:20:04.000Z"
   },
-  {
+  "src2.lit": {
    "bytes": 1607147,
-   "path": "src2.lit",
    "sha256": "edc079ddd03a2a44d4999b54e29e7657f7b5d5ea9ba3247211aa581febd5ac45",
    "timestamp": "2006-12-12T19:20:04.000Z"
   },
-  {
+  "src2.txt": {
    "bytes": 4385,
-   "path": "src2.txt",
    "sha256": "a7c3f4dba1b2f04c13c45e6ba9c204c4ed3c0aa555f1473b5f68d9d370cf0422",
    "timestamp": "2008-03-10T18:48:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "src": "2.0"
  },

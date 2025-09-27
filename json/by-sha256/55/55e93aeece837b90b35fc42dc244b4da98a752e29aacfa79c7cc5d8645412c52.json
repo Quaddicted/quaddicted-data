@@ -7,108 +7,92 @@
   "copper>=1.30"
  ],
  "description": "Spacious map using a mixture of texture themes.",
- "files": [
-  {
+ "files": {
+  "copper/": {
    "bytes": 0,
-   "path": "copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-25T21:17:42.000Z"
   },
-  {
+  "copper/dungeonascension.txt": {
    "bytes": 3701,
-   "path": "copper/dungeonascension.txt",
    "sha256": "a130de44b59d077d8f738072ee00d5abb2130e025245366be8b34f6fdf9bedf5",
    "timestamp": "2024-01-25T21:17:30.000Z"
   },
-  {
+  "copper/gfx/": {
    "bytes": 0,
-   "path": "copper/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/": {
    "bytes": 0,
-   "path": "copper/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/ozymandias_bk.tga": {
    "bytes": 786971,
-   "path": "copper/gfx/env/ozymandias_bk.tga",
    "sha256": "05b092662bed6b02fc122ca43be907ac87461e7cd9116661f962b8dfac1328c9",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/ozymandias_dn.tga": {
    "bytes": 786971,
-   "path": "copper/gfx/env/ozymandias_dn.tga",
    "sha256": "2354852349f537cc4eb1567f1e7c71b8b5891bbfa03d4350708296cab505abc2",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/ozymandias_ft.tga": {
    "bytes": 786971,
-   "path": "copper/gfx/env/ozymandias_ft.tga",
    "sha256": "ee011c4f2f619b6a1dd5868608ed79407ead9d6665d219e1020d0c5dd7b070d0",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/ozymandias_lf.tga": {
    "bytes": 786971,
-   "path": "copper/gfx/env/ozymandias_lf.tga",
    "sha256": "05af28566a788dbe40fa0a0470fc27fd45477c29be9c5f4ba114cee88f3622fc",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/ozymandias_rt.tga": {
    "bytes": 786971,
-   "path": "copper/gfx/env/ozymandias_rt.tga",
    "sha256": "923b4df98f15b40aad478b8b8cf340ca2b33e17053dc134d9ff6cd688ddef956",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/gfx/env/ozymandias_up.tga": {
    "bytes": 786971,
-   "path": "copper/gfx/env/ozymandias_up.tga",
    "sha256": "88a59bff68e1ba4cd29e66ff25c88d3cfbbcf2f5089fb82e9addae1edf2c5566",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/maps/": {
    "bytes": 0,
-   "path": "copper/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/maps/dungeonascension.bsp": {
    "bytes": 3575868,
-   "path": "copper/maps/dungeonascension.bsp",
    "sha256": "00d93164dcb8978cb471baa4c2bb4a4e59907e839eb2b2190f9d2c571d4fa4c3",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/maps/dungeonascension.lit": {
    "bytes": 981740,
-   "path": "copper/maps/dungeonascension.lit",
    "sha256": "c4c33aa1a52de13323436c861377f4367f156a72ef61505c2c0c315c4e0d7aa5",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/maps/dungeonascension.map": {
    "bytes": 1212092,
-   "path": "copper/maps/dungeonascension.map",
    "sha256": "05370b023a14deb91cf4541ac6609ce4b3fbbf97306165f316a73ff3290af812",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/music/": {
    "bytes": 0,
-   "path": "copper/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-17T22:16:32.000Z"
   },
-  {
+  "copper/music/track20.mp3": {
    "bytes": 7119933,
-   "path": "copper/music/track20.mp3",
    "sha256": "6c0c2cf742c4e7bb90998443f5ee8121a9eb1a31b02b052266e6a1fbcf6311a0",
    "timestamp": "2023-12-17T22:16:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility.",

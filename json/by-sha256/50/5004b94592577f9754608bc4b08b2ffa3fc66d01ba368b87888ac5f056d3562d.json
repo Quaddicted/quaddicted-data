@@ -4,24 +4,22 @@
  ],
  "bytes": 416405,
  "description": "The author's first map: A giant box with unconventional looks and no exit. Requires an engine with increased limits.",
- "files": [
-  {
+ "files": {
+  "cool1.bsp": {
    "bytes": 1285116,
-   "path": "cool1.bsp",
    "sha256": "433b58196924f3ff260cab60f1060c79e183eb58eabecbbce8ff2cf26207a7fb",
    "timestamp": "1997-03-26T20:17:36.000Z"
   },
-  {
+  "cool1.txt": {
    "bytes": 503,
-   "path": "cool1.txt",
    "sha256": "0cfa3aa07398fb9e345db6874e87fb8b5d407cf6544dc88a76e026a379e4f7d4",
    "timestamp": "1997-03-26T20:27:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-26",
  "sha256": "5004b94592577f9754608bc4b08b2ffa3fc66d01ba368b87888ac5f056d3562d",
  "tags": [

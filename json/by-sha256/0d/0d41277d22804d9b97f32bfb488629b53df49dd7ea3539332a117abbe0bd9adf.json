@@ -4,18 +4,17 @@
  ],
  "bytes": 719211,
  "description": "Large 2D-ish map with a mixture of texture themes and architectural ideas. And a Baywatch poster...",
- "files": [
-  {
+ "files": {
+  "Sfest97.bsp": {
    "bytes": 1624204,
-   "path": "Sfest97.bsp",
    "sha256": "843758e7f9fa26474ae72a92d941e4f64203cf4bd184f5ab639c8cb95ebadf31",
    "timestamp": "1997-05-06T02:16:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-06",
  "sha256": "0d41277d22804d9b97f32bfb488629b53df49dd7ea3539332a117abbe0bd9adf",
  "tags": [

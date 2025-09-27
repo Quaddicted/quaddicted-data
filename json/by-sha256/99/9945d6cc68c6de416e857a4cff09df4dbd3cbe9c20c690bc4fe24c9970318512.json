@@ -4,36 +4,32 @@
  ],
  "bytes": 1411261,
  "description": "Industrial/base themed map with orange Q2 textures. Features the Snakeman custom monster.",
- "files": [
-  {
+ "files": {
+  "Alk05.bat": {
    "bytes": 43,
-   "path": "Alk05.bat",
    "sha256": "9103fccb13ba659e8d6787f8743bf76e53c744b0f265a61fc342e6ef2b8f0819",
    "timestamp": "2000-02-07T23:00:32.000Z"
   },
-  {
+  "alk05/": {
    "bytes": 0,
-   "path": "alk05/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2000-02-10T15:12:40.000Z"
   },
-  {
+  "alk05/alk05.txt": {
    "bytes": 5304,
-   "path": "alk05/alk05.txt",
    "sha256": "d39764984dece7c38f3844866de1f65d66ca82ded87572f2ebd065f92f2e0d41",
    "timestamp": "2000-02-10T15:11:50.000Z"
   },
-  {
+  "alk05/pak0.pak": {
    "bytes": 3336236,
-   "path": "alk05/pak0.pak",
    "sha256": "84c21e370d51b118b8a6d5cf7b09dd1c7b89a42d771836c71c59109de6b8d6de",
    "timestamp": "2000-02-10T15:12:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-02-10",
  "sha256": "9945d6cc68c6de416e857a4cff09df4dbd3cbe9c20c690bc4fe24c9970318512",
  "tags": [

@@ -9,24 +9,22 @@
  ],
  "bytes": 41366161,
  "description": "Large-scale Quake mission with 15 SP levels (including a start map and two secret maps), custom textures, a few new monsters and items, as well as some additional deathmatch maps.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 100036539,
-   "path": "pak0.pak",
    "sha256": "545388af6f61f749c25240b818791cec680bebed3fb62c6149224e21ba95adef",
    "timestamp": "2007-07-09T11:13:02.000Z"
   },
-  {
+  "travail.txt": {
    "bytes": 21312,
-   "path": "travail.txt",
    "sha256": "fdf593f0d2a649083ce58fe59a1c0ea082e8da22e0bdd6e4de0d12e8b7d9290e",
    "timestamp": "2007-07-09T10:57:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/travail/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Additional files: soundtrack</a>, reworked skins</a>."
  ],

@@ -4,2148 +4,1792 @@
  ],
  "bytes": 154237368,
  "description": "Episode of five main maps (plus start, end and secret level) ranging from medium-large to huge, with imaginitive designs, expansive non-linear layouts and thick atmosphere, plus several new monsters and weapons.",
- "files": [
-  {
+ "files": {
+  "tombofthunder/": {
    "bytes": 0,
-   "path": "tombofthunder/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-12T00:42:28.000Z"
   },
-  {
+  "tombofthunder/LibreQuake docs.zip": {
    "bytes": 14973,
-   "path": "tombofthunder/LibreQuake docs.zip",
    "sha256": "1c93d84804a35349a2e09f21c3ef2fa5ef732aa10c756b882d3caf18a7f974ae",
    "timestamp": "2024-05-18T23:14:36.000Z"
   },
-  {
+  "tombofthunder/TOMBOFTHUNDER2024_README.txt": {
    "bytes": 12877,
-   "path": "tombofthunder/TOMBOFTHUNDER2024_README.txt",
    "sha256": "e37771b79844ea79fea5d14c3e1b0a1668b804e21bafbc0fb9c9f617faaf6a62",
    "timestamp": "2024-07-08T08:36:24.000Z"
   },
-  {
+  "tombofthunder/Tomb of Thunder - Secrets guide.docx": {
    "bytes": 10513,
-   "path": "tombofthunder/Tomb of Thunder - Secrets guide.docx",
    "sha256": "b6488194509e47ffa2feba1f4e5becc818f641cd3f5ea5cfda309dafe4f31807",
    "timestamp": "2024-07-01T11:26:24.000Z"
   },
-  {
+  "tombofthunder/autoconfig.cfg": {
    "bytes": 7,
-   "path": "tombofthunder/autoconfig.cfg",
    "sha256": "52808d039973d98b4c74d9b20728ae1d4d6a427a3ce72289f7c8943e80a1a0a2",
    "timestamp": "2024-05-15T08:22:00.000Z"
   },
-  {
+  "tombofthunder/demo1.dem": {
    "bytes": 11026362,
-   "path": "tombofthunder/demo1.dem",
    "sha256": "2046f664a8b89e6039d38954091b801930b69153935b37df9f0d8cb0612bf015",
    "timestamp": "2024-05-16T16:57:42.000Z"
   },
-  {
+  "tombofthunder/demo2.dem": {
    "bytes": 9506290,
-   "path": "tombofthunder/demo2.dem",
    "sha256": "c13198472600ab08cc8d90e9036defdedd2a47b9f5dd05bb3f8de19372b628fd",
    "timestamp": "2024-05-16T16:59:38.000Z"
   },
-  {
+  "tombofthunder/demo3.dem": {
    "bytes": 12504719,
-   "path": "tombofthunder/demo3.dem",
    "sha256": "63b76764eb1cff4f3f4cb3b624955ad25ae8caf5c7950f94c5da1d2cc237c887",
    "timestamp": "2024-05-16T17:02:18.000Z"
   },
-  {
+  "tombofthunder/gfx/": {
    "bytes": 0,
-   "path": "tombofthunder/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-10-19T22:00:04.000Z"
   },
-  {
+  "tombofthunder/gfx/conback.lmp": {
    "bytes": 307208,
-   "path": "tombofthunder/gfx/conback.lmp",
    "sha256": "8d3814bcbfa7168685dd1044504d3a422b8619b2ff6d87208203b79cd8f970db",
    "timestamp": "2021-01-27T16:33:50.000Z"
   },
-  {
+  "tombofthunder/gfx/conbackog.lmp": {
    "bytes": 307208,
-   "path": "tombofthunder/gfx/conbackog.lmp",
    "sha256": "799d1ce56f3d54d13f58663325cc687e777cd8c4cb82c63f43c874a5eb793767",
    "timestamp": "2021-01-27T16:05:48.000Z"
   },
-  {
+  "tombofthunder/gfx/env/": {
    "bytes": 0,
-   "path": "tombofthunder/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-21T17:21:18.000Z"
   },
-  {
+  "tombofthunder/gfx/env/atsea_bk.tga": {
    "bytes": 632859,
-   "path": "tombofthunder/gfx/env/atsea_bk.tga",
    "sha256": "0170bac6e1114edec6fd9add7dd474b24dc047d4a1e05518b9bd5eb03444e827",
    "timestamp": "2003-02-09T11:02:52.000Z"
   },
-  {
+  "tombofthunder/gfx/env/atsea_dn.tga": {
    "bytes": 574894,
-   "path": "tombofthunder/gfx/env/atsea_dn.tga",
    "sha256": "0c1498451cd053afe41d6409ba14b156608623d316708d6a7e49383355b93fbd",
    "timestamp": "2003-02-09T11:02:56.000Z"
   },
-  {
+  "tombofthunder/gfx/env/atsea_ft.tga": {
    "bytes": 578784,
-   "path": "tombofthunder/gfx/env/atsea_ft.tga",
    "sha256": "9542abd9f7b51885b945f184e779caf83722f49dcbd1d623aba5424302fc07eb",
    "timestamp": "2003-02-09T11:02:50.000Z"
   },
-  {
+  "tombofthunder/gfx/env/atsea_lf.tga": {
    "bytes": 603631,
-   "path": "tombofthunder/gfx/env/atsea_lf.tga",
    "sha256": "a97250f90147c6633efdfe4a81234cf488a8e4b67f64352e8b009f3542be94e5",
    "timestamp": "2003-02-09T11:02:50.000Z"
   },
-  {
+  "tombofthunder/gfx/env/atsea_rt.tga": {
    "bytes": 661491,
-   "path": "tombofthunder/gfx/env/atsea_rt.tga",
    "sha256": "171aff8c805afccb39a373b4b41263650313082e00d8c1e9b6370b5a7b535e9f",
    "timestamp": "2003-02-09T11:02:54.000Z"
   },
-  {
+  "tombofthunder/gfx/env/atsea_up.tga": {
    "bytes": 634513,
-   "path": "tombofthunder/gfx/env/atsea_up.tga",
    "sha256": "1bad6c1b80666490aefcedbc46821cbecec2c2c766197fb15b90954a0be21b0e",
    "timestamp": "2003-02-09T11:02:58.000Z"
   },
-  {
+  "tombofthunder/gfx/env/ofelas_bk.tga": {
    "bytes": 478922,
-   "path": "tombofthunder/gfx/env/ofelas_bk.tga",
    "sha256": "3f92c428da1353c3d28ef05162cdfcc57c79cbda679196b7f2eb4d9430d4f835",
    "timestamp": "2004-09-06T17:01:36.000Z"
   },
-  {
+  "tombofthunder/gfx/env/ofelas_dn.tga": {
    "bytes": 643000,
-   "path": "tombofthunder/gfx/env/ofelas_dn.tga",
    "sha256": "bee478075b3909db7f7f2b1ef4b4ccc621a9ef587edfe790ecc92f718ca80230",
    "timestamp": "2004-09-06T17:01:36.000Z"
   },
-  {
+  "tombofthunder/gfx/env/ofelas_ft.tga": {
    "bytes": 515988,
-   "path": "tombofthunder/gfx/env/ofelas_ft.tga",
    "sha256": "ac6ee09da7578713d91d261d4667bbe580df55a487c30726f05bb75e89839b5c",
    "timestamp": "2004-09-06T17:01:36.000Z"
   },
-  {
+  "tombofthunder/gfx/env/ofelas_lf.tga": {
    "bytes": 413651,
-   "path": "tombofthunder/gfx/env/ofelas_lf.tga",
    "sha256": "0377e4985a3babcc9baa8a2b1aa4fe755bbea46ec57c50efd2e7f5628cf1a619",
    "timestamp": "2004-09-06T17:01:36.000Z"
   },
-  {
+  "tombofthunder/gfx/env/ofelas_rt.tga": {
    "bytes": 587061,
-   "path": "tombofthunder/gfx/env/ofelas_rt.tga",
    "sha256": "dc0bf02b9ee7a8463546d29eeddcad0e191a5b0d0f8086f522301956b60db51b",
    "timestamp": "2004-09-06T17:01:36.000Z"
   },
-  {
+  "tombofthunder/gfx/env/ofelas_up.tga": {
    "bytes": 22362,
-   "path": "tombofthunder/gfx/env/ofelas_up.tga",
    "sha256": "cd74413cbf0113173ed742802a7c663d348cffe0dee40defd997377b067eb18f",
    "timestamp": "2004-09-06T17:01:36.000Z"
   },
-  {
+  "tombofthunder/gfx/env/shol_bk.tga": {
    "bytes": 286426,
-   "path": "tombofthunder/gfx/env/shol_bk.tga",
    "sha256": "afc656e21fdba58ec0df854cd4f0a8681257a993bec6b5185b24821b9b3e73be",
    "timestamp": "2003-01-22T20:26:38.000Z"
   },
-  {
+  "tombofthunder/gfx/env/shol_dn.tga": {
    "bytes": 139320,
-   "path": "tombofthunder/gfx/env/shol_dn.tga",
    "sha256": "aa4b3cf9005975c47096fbacd3041439ab0492025c0756df7d5098192043d53e",
    "timestamp": "2003-02-20T17:28:00.000Z"
   },
-  {
+  "tombofthunder/gfx/env/shol_ft.tga": {
    "bytes": 280100,
-   "path": "tombofthunder/gfx/env/shol_ft.tga",
    "sha256": "9334cced4dfe72e3be40a86f830c6d39444d4bd4aa1df0f26b4fbf359f369520",
    "timestamp": "2003-01-22T20:26:28.000Z"
   },
-  {
+  "tombofthunder/gfx/env/shol_lf.tga": {
    "bytes": 305263,
-   "path": "tombofthunder/gfx/env/shol_lf.tga",
    "sha256": "84e81f9c3d29722d40b2dc3f9bc934d610a1bc7a05903265546e33d3c201383a",
    "timestamp": "2003-01-22T20:26:34.000Z"
   },
-  {
+  "tombofthunder/gfx/env/shol_rt.tga": {
    "bytes": 303582,
-   "path": "tombofthunder/gfx/env/shol_rt.tga",
    "sha256": "b407a22b61b77bd86e1eecdfbb2a64c25acc004b25020318e67e9a179d07c533",
    "timestamp": "2003-01-22T20:26:42.000Z"
   },
-  {
+  "tombofthunder/gfx/env/shol_up.tga": {
    "bytes": 344881,
-   "path": "tombofthunder/gfx/env/shol_up.tga",
    "sha256": "3eff1076ea76b963355452aefddb7afcee5d75a41a65d1560a375f24f9715660",
    "timestamp": "2004-02-05T17:30:48.000Z"
   },
-  {
+  "tombofthunder/maps/": {
    "bytes": 0,
-   "path": "tombofthunder/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-01T13:48:16.000Z"
   },
-  {
+  "tombofthunder/maps/discipletest.bsp": {
    "bytes": 165112,
-   "path": "tombofthunder/maps/discipletest.bsp",
    "sha256": "f36b372897c0c1df758743869c41d73a3bb9cd4e608ab2f7420dfec78e79a1e6",
    "timestamp": "2023-09-07T12:43:48.000Z"
   },
-  {
+  "tombofthunder/maps/seeyou.bsp": {
    "bytes": 1354236,
-   "path": "tombofthunder/maps/seeyou.bsp",
    "sha256": "f34b0ea88dc175a9ca8f620b4ebead3553bfbaa8841d1f65dd4a559d4e0cc884",
    "timestamp": "2024-06-02T10:12:38.000Z"
   },
-  {
+  "tombofthunder/maps/seeyou.lit": {
    "bytes": 275780,
-   "path": "tombofthunder/maps/seeyou.lit",
    "sha256": "01ff24fee75ef39e0e1e9946e246808381a6ca80afbb3332716017cc5fd0b00e",
    "timestamp": "2024-06-02T10:12:38.000Z"
   },
-  {
+  "tombofthunder/maps/start.bsp": {
    "bytes": 5019516,
-   "path": "tombofthunder/maps/start.bsp",
    "sha256": "9b0037d2ef1cc7fb02b0f7e3122b2c3946ee502db43b2981faa20cbd7bef1064",
    "timestamp": "2024-06-02T10:12:30.000Z"
   },
-  {
+  "tombofthunder/maps/start.lit": {
    "bytes": 1677932,
-   "path": "tombofthunder/maps/start.lit",
    "sha256": "928ec852f4ec279bf76232aba33699638e3b0a6c0970b13e1755507988400116",
    "timestamp": "2024-06-02T10:12:28.000Z"
   },
-  {
+  "tombofthunder/maps/test1.bsp": {
    "bytes": 190776,
-   "path": "tombofthunder/maps/test1.bsp",
    "sha256": "6910d4fd79322fe1061b49e4a7aa329c35883f058516cef7f83e85b88e16f4e1",
    "timestamp": "2020-12-09T17:20:46.000Z"
   },
-  {
+  "tombofthunder/maps/testsham.bsp": {
    "bytes": 105688,
-   "path": "tombofthunder/maps/testsham.bsp",
    "sha256": "e0cb05b1b66a35828dd316844b192ac61a76b7def8b01da9acfa38514574aef8",
    "timestamp": "2021-02-11T11:11:50.000Z"
   },
-  {
+  "tombofthunder/maps/tot1.bsp": {
    "bytes": 13496744,
-   "path": "tombofthunder/maps/tot1.bsp",
    "sha256": "54c94f72293f649846351c08c79b38dc3e509f02971af5bf00b76062f160bab0",
    "timestamp": "2024-06-01T22:12:36.000Z"
   },
-  {
+  "tombofthunder/maps/tot1.lit": {
    "bytes": 4423124,
-   "path": "tombofthunder/maps/tot1.lit",
    "sha256": "bc323e97de6f9cdee09897da47f2b7e971ec6ca0bb1580fe62d4d039e0aa54d7",
    "timestamp": "2024-06-01T22:12:34.000Z"
   },
-  {
+  "tombofthunder/maps/tot2.bsp": {
    "bytes": 20933656,
-   "path": "tombofthunder/maps/tot2.bsp",
    "sha256": "4e2c0db214706a0635f8f21575ff4ffd5187f9096acb02e03b42b37e3e4c14f0",
    "timestamp": "2024-06-01T22:09:04.000Z"
   },
-  {
+  "tombofthunder/maps/tot2.lit": {
    "bytes": 12336176,
-   "path": "tombofthunder/maps/tot2.lit",
    "sha256": "8d814fa01bc7fb7df0270e0934424f8afe6ee5beb18e1d9c72abedf125f6b796",
    "timestamp": "2024-06-01T22:08:52.000Z"
   },
-  {
+  "tombofthunder/maps/tot3.bsp": {
    "bytes": 18941040,
-   "path": "tombofthunder/maps/tot3.bsp",
    "sha256": "7af08969d26f55335d7d5218bece6d57e31b4775bc16fce6cb2c74ff2a1b05e4",
    "timestamp": "2024-07-01T11:27:24.000Z"
   },
-  {
+  "tombofthunder/maps/tot3.lit": {
    "bytes": 6759200,
-   "path": "tombofthunder/maps/tot3.lit",
    "sha256": "a3ee2e2972968bc0dff47214ec7385b453094a2c3fca798bae1c5afe3d3fdfcd",
    "timestamp": "2024-07-01T11:27:18.000Z"
   },
-  {
+  "tombofthunder/maps/tot4a.bsp": {
    "bytes": 21577920,
-   "path": "tombofthunder/maps/tot4a.bsp",
    "sha256": "cf98f6d9f824f0397486855f52aad2c216d7f6ccbaa4d4c519c8bc449fa0df96",
    "timestamp": "2024-07-01T11:39:44.000Z"
   },
-  {
+  "tombofthunder/maps/tot4a.lit": {
    "bytes": 12336056,
-   "path": "tombofthunder/maps/tot4a.lit",
    "sha256": "c02cdbd35ccf2b113ee47c169890ff3b48a3616be105825b8b35346b409a24c4",
    "timestamp": "2024-07-01T11:39:30.000Z"
   },
-  {
+  "tombofthunder/maps/tot4b.bsp": {
    "bytes": 21577920,
-   "path": "tombofthunder/maps/tot4b.bsp",
    "sha256": "c67ea1fdcb5e95b7d509a8707bcd71a85d4f992a2bf8c70c87aff1b5ee70c1ee",
    "timestamp": "2024-07-01T12:13:34.000Z"
   },
-  {
+  "tombofthunder/maps/tot4b.lit": {
    "bytes": 12336056,
-   "path": "tombofthunder/maps/tot4b.lit",
    "sha256": "e8381d1d5fb487f494226745e2b3732eb11809e08e9e2b0de7c902575baa4570",
    "timestamp": "2024-07-01T12:13:18.000Z"
   },
-  {
+  "tombofthunder/maps/tot4c.bsp": {
    "bytes": 21578404,
-   "path": "tombofthunder/maps/tot4c.bsp",
    "sha256": "b6bfb4c99a8635217ba78b65563e69dc583810f923e63858a72fe6dae42ad75a",
    "timestamp": "2024-07-01T12:31:30.000Z"
   },
-  {
+  "tombofthunder/maps/tot4c.lit": {
    "bytes": 12336056,
-   "path": "tombofthunder/maps/tot4c.lit",
    "sha256": "3626f60058a239c2cac30108b038a35909768e09973f5df684085f75e1eb00c6",
    "timestamp": "2024-07-01T12:31:06.000Z"
   },
-  {
+  "tombofthunder/maps/tot5.bsp": {
    "bytes": 23201000,
-   "path": "tombofthunder/maps/tot5.bsp",
    "sha256": "f36b7c776c1d97a78ac5a7816a7479e660a3c04aecb08664aa7e8778331a3be5",
    "timestamp": "2024-07-08T08:28:58.000Z"
   },
-  {
+  "tombofthunder/maps/tot5.lit": {
    "bytes": 9687932,
-   "path": "tombofthunder/maps/tot5.lit",
    "sha256": "53c1436cbe4e99e24ea0d585a06a591b56205bac6ddf8ecce9fb467ba5c904e8",
    "timestamp": "2024-07-08T08:28:44.000Z"
   },
-  {
+  "tombofthunder/maps/tot6.bsp": {
    "bytes": 7983864,
-   "path": "tombofthunder/maps/tot6.bsp",
    "sha256": "f0b974887fb341f0662a94e71ed66f694c8efa6ff4abcfea0c1c95b78c9f2607",
    "timestamp": "2024-05-20T11:42:42.000Z"
   },
-  {
+  "tombofthunder/maps/tot6.lit": {
    "bytes": 3668252,
-   "path": "tombofthunder/maps/tot6.lit",
    "sha256": "2587e3a1f536535e0ce4eda92b6ed89025c26b75325091f8558410d689fed330",
    "timestamp": "2024-05-20T11:42:42.000Z"
   },
-  {
+  "tombofthunder/maps/tot7.bsp": {
    "bytes": 24527588,
-   "path": "tombofthunder/maps/tot7.bsp",
    "sha256": "bdfe21e70e48ad3039c6bf8eec501e749dba7694e15cc114bba3a32f00c45c04",
    "timestamp": "2024-07-01T12:46:54.000Z"
   },
-  {
+  "tombofthunder/maps/tot7.lit": {
    "bytes": 14776928,
-   "path": "tombofthunder/maps/tot7.lit",
    "sha256": "979ff0ffc17d3e0e027764fa525336e9504986d7fac91cd4a79a6de3f82d6d09",
    "timestamp": "2024-07-01T12:46:34.000Z"
   },
-  {
+  "tombofthunder/music/": {
    "bytes": 0,
-   "path": "tombofthunder/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-14T22:55:00.000Z"
   },
-  {
+  "tombofthunder/music/track12.ogg": {
    "bytes": 1750132,
-   "path": "tombofthunder/music/track12.ogg",
    "sha256": "c321c68fcea1a8d9247f7d2f61c6423b75cee37bf7979b14518d36a9c3fb204f",
    "timestamp": "2021-10-07T10:42:38.000Z"
   },
-  {
+  "tombofthunder/music/track13.ogg": {
    "bytes": 5475071,
-   "path": "tombofthunder/music/track13.ogg",
    "sha256": "43cb8ba8e7865ff27cd2c7b21f7cf6825395b670f7ff5015a9bc481cfb7e49f4",
    "timestamp": "2021-10-07T10:52:02.000Z"
   },
-  {
+  "tombofthunder/music/track14.ogg": {
    "bytes": 3849154,
-   "path": "tombofthunder/music/track14.ogg",
    "sha256": "6408f2a9c7ea9c43c98cee348097917cfe91803dd6648167699837d62462522c",
    "timestamp": "2021-10-07T10:55:10.000Z"
   },
-  {
+  "tombofthunder/music/track15.ogg": {
    "bytes": 4628309,
-   "path": "tombofthunder/music/track15.ogg",
    "sha256": "d61e8e5fff53154335dad555b15610e23090d711c9744f30400a3c910e0cf3b5",
    "timestamp": "2021-10-07T10:56:10.000Z"
   },
-  {
+  "tombofthunder/music/track16.ogg": {
    "bytes": 4205436,
-   "path": "tombofthunder/music/track16.ogg",
    "sha256": "49e8500cdf10331c40e2e425cd5b8a45d073bb9c3e706a9a083b7980bf28d40a",
    "timestamp": "2021-10-07T10:57:06.000Z"
   },
-  {
+  "tombofthunder/music/track17.ogg": {
    "bytes": 6337428,
-   "path": "tombofthunder/music/track17.ogg",
    "sha256": "c728ac295b5be0bba7b4bc0a4edb4585eda3d4a8c41db44bf31e964bf1a48d72",
    "timestamp": "2021-10-07T11:00:30.000Z"
   },
-  {
+  "tombofthunder/music/track18.ogg": {
    "bytes": 6958538,
-   "path": "tombofthunder/music/track18.ogg",
    "sha256": "af33e96ed2ae137ade2483228c2cabc7f153202f3a213206318c32ffae8e23c0",
    "timestamp": "2021-10-07T11:03:32.000Z"
   },
-  {
+  "tombofthunder/music/track19.ogg": {
    "bytes": 4543868,
-   "path": "tombofthunder/music/track19.ogg",
    "sha256": "852f0143536a21a19e6d81c639e6523ee07f493b4e5c0a5a319603b364b5b5c0",
    "timestamp": "2023-12-14T22:55:02.000Z"
   },
-  {
+  "tombofthunder/pak0.pak": {
    "bytes": 8014300,
-   "path": "tombofthunder/pak0.pak",
    "sha256": "9397cfeeabcc3f90c92255a84defef7b2cfb4b09841549fd8100b6932819bada",
    "timestamp": "2024-05-17T10:43:02.000Z"
   },
-  {
+  "tombofthunder/progs.dat": {
    "bytes": 719850,
-   "path": "tombofthunder/progs.dat",
    "sha256": "264c422664d5779e5fe55d435c7c4bff16c512afe4b21f8c2454e6c88325f73f",
    "timestamp": "2024-06-10T22:43:04.000Z"
   },
-  {
+  "tombofthunder/progs.lno": {
    "bytes": 217076,
-   "path": "tombofthunder/progs.lno",
    "sha256": "5edee8475391ee9e1407cd92bb45391dc523a315b8e9eb054084787bc572bbdb",
    "timestamp": "2024-06-10T22:43:04.000Z"
   },
-  {
+  "tombofthunder/progs/": {
    "bytes": 0,
-   "path": "tombofthunder/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-07T10:58:56.000Z"
   },
-  {
+  "tombofthunder/progs/armor.mdl": {
    "bytes": 44076,
-   "path": "tombofthunder/progs/armor.mdl",
    "sha256": "b49ad06f36124bfedfaf02c18f81e860100711bc2fd30125600b928c628214cd",
    "timestamp": "2023-04-21T13:52:34.000Z"
   },
-  {
+  "tombofthunder/progs/backpack.mdl": {
    "bytes": 72688,
-   "path": "tombofthunder/progs/backpack.mdl",
    "sha256": "24bede5ea77c90c07b95b14e085b7b9a6c985a2a13dee0e14933a748e895a41c",
    "timestamp": "2023-04-21T13:52:38.000Z"
   },
-  {
+  "tombofthunder/progs/bfgblst.spr": {
    "bytes": 16500,
-   "path": "tombofthunder/progs/bfgblst.spr",
    "sha256": "99fecb098e3061cce071cc7ca377347b8090baeb15bccecfd0016580118c7395",
    "timestamp": "2023-09-02T14:15:40.000Z"
   },
-  {
+  "tombofthunder/progs/bfgexpl.spr": {
    "bytes": 393372,
-   "path": "tombofthunder/progs/bfgexpl.spr",
    "sha256": "38d8cb6ae5722ae601e0359e47aa7ab2550e21ce2be2a2b95cf8bbafc80062e4",
    "timestamp": "2023-04-21T10:34:28.000Z"
   },
-  {
+  "tombofthunder/progs/bfgshot.spr": {
    "bytes": 4684,
-   "path": "tombofthunder/progs/bfgshot.spr",
    "sha256": "27140aa4fb5298977b1bdd7b3356b6b04c375cd9a9734d0e0b2e163dc07bdc93",
    "timestamp": "2016-05-21T15:22:24.000Z"
   },
-  {
+  "tombofthunder/progs/diam2.mdl": {
    "bytes": 2748,
-   "path": "tombofthunder/progs/diam2.mdl",
    "sha256": "b23586b1d570a9f516f6b83ea0af6ec1d8fe5693f8cd1279b251b031ba142d8c",
    "timestamp": "2023-04-21T13:52:40.000Z"
   },
-  {
+  "tombofthunder/progs/disciple.mdl": {
    "bytes": 186068,
-   "path": "tombofthunder/progs/disciple.mdl",
    "sha256": "1aab1bd145ddd75478601fb9a31f15ef1aa2bc907653efd51efafa8368ec3f47",
    "timestamp": "2023-08-22T16:54:20.000Z"
   },
-  {
+  "tombofthunder/progs/dsc_imp.spr": {
    "bytes": 16500,
-   "path": "tombofthunder/progs/dsc_imp.spr",
    "sha256": "026350a7024318e15396089416e72ab388d5e1e9d6fa51853261432d5096f696",
    "timestamp": "2023-09-02T14:16:18.000Z"
   },
-  {
+  "tombofthunder/progs/dsc_proj.spr": {
    "bytes": 8268,
-   "path": "tombofthunder/progs/dsc_proj.spr",
    "sha256": "9d81a7741bd1ed09cf49bf09edb925f1cf3532c3ee7e5ee27d6fecc8c6cb7882",
    "timestamp": "2023-09-02T14:16:12.000Z"
   },
-  {
+  "tombofthunder/progs/dscgib1.mdl": {
    "bytes": 5300,
-   "path": "tombofthunder/progs/dscgib1.mdl",
    "sha256": "be341d54e1fe39bfd9239f1a708bb32548902067c80c5643479da30647087229",
    "timestamp": "2023-08-22T17:38:14.000Z"
   },
-  {
+  "tombofthunder/progs/dscgib2.mdl": {
    "bytes": 6292,
-   "path": "tombofthunder/progs/dscgib2.mdl",
    "sha256": "e0f85f9b51c584f30d27c48134dac9a35d25b7b6eb441df7b4b5c442c2b7e142",
    "timestamp": "2023-08-22T17:38:14.000Z"
   },
-  {
+  "tombofthunder/progs/dscgib3.mdl": {
    "bytes": 2516,
-   "path": "tombofthunder/progs/dscgib3.mdl",
    "sha256": "18550030f73726841d57f557d8791d5f2721bd7d7235e08636a960af3765c4e3",
    "timestamp": "2023-08-22T17:38:14.000Z"
   },
-  {
+  "tombofthunder/progs/g_chain.mdl": {
    "bytes": 144596,
-   "path": "tombofthunder/progs/g_chain.mdl",
    "sha256": "948321d44088f667dc6007ec11fecf4b48c6fdca5c63a9ebdecaef56f07d07f7",
    "timestamp": "2023-04-21T13:52:46.000Z"
   },
-  {
+  "tombofthunder/progs/g_hot.mdl": {
    "bytes": 57156,
-   "path": "tombofthunder/progs/g_hot.mdl",
    "sha256": "61ba4d39a0dbfa184b4fd3b675ea5a44c5ce75a276a8b1ccd71a3ca536b12997",
    "timestamp": "2023-04-21T13:52:48.000Z"
   },
-  {
+  "tombofthunder/progs/g_rail.mdl": {
    "bytes": 168120,
-   "path": "tombofthunder/progs/g_rail.mdl",
    "sha256": "2ab32e3b97f1e59c79d0afa0425adfe9cc18597e36fa2242278a2ee737400e62",
    "timestamp": "2023-04-21T13:52:56.000Z"
   },
-  {
+  "tombofthunder/progs/g_shotcl.mdl": {
    "bytes": 335236,
-   "path": "tombofthunder/progs/g_shotcl.mdl",
    "sha256": "0ef790f704aef08f0febc495bf0c70a6345333fa7b1030217faaf4d4980d520a",
    "timestamp": "2023-04-21T13:53:02.000Z"
   },
-  {
+  "tombofthunder/progs/glad.mdl": {
    "bytes": 504484,
-   "path": "tombofthunder/progs/glad.mdl",
    "sha256": "1226d1a78a123ff5d74695dd73d95bd9a20aad528f4da244e14775950901d824",
    "timestamp": "2024-03-11T16:30:56.000Z"
   },
-  {
+  "tombofthunder/progs/gspawn.mdl": {
    "bytes": 7380,
-   "path": "tombofthunder/progs/gspawn.mdl",
    "sha256": "e34c64cd6391b2da112b4e7d11515c27722e77e5cc52d0601d92472b3bdea085",
    "timestamp": "2023-04-21T13:53:10.000Z"
   },
-  {
+  "tombofthunder/progs/h_glad.mdl": {
    "bytes": 70404,
-   "path": "tombofthunder/progs/h_glad.mdl",
    "sha256": "5b00bd6842e470ceaa910d06d2c403ea1b7ece159c6e65c0e536492e4cc43abd",
    "timestamp": "2024-03-11T10:44:58.000Z"
   },
-  {
+  "tombofthunder/progs/h_nail.mdl": {
    "bytes": 12084,
-   "path": "tombofthunder/progs/h_nail.mdl",
    "sha256": "e1ef22fa39bc48fe386dd027310760884b9a618c9693ab05ca4ae1ae72b599e8",
    "timestamp": "2024-02-05T12:02:10.000Z"
   },
-  {
+  "tombofthunder/progs/h_nail1.mdl": {
    "bytes": 11828,
-   "path": "tombofthunder/progs/h_nail1.mdl",
    "sha256": "6b8222563698bb2a5759322fc1fd03713ce59fb4c62847abedfe5c626c985e4e",
    "timestamp": "2023-01-03T15:07:40.000Z"
   },
-  {
+  "tombofthunder/progs/h_shell.mdl": {
    "bytes": 11828,
-   "path": "tombofthunder/progs/h_shell.mdl",
    "sha256": "15c3f8c45a52d866981ba1ebd3c5ed2797e91d149acc5852dd7642a43d4d7a84",
    "timestamp": "2023-01-03T15:07:40.000Z"
   },
-  {
+  "tombofthunder/progs/hermes.mdl": {
    "bytes": 62276,
-   "path": "tombofthunder/progs/hermes.mdl",
    "sha256": "6677b4b0599558ce7e824a65c1465565784f7028be2165042e0afd99fdf1bf38",
    "timestamp": "2023-04-21T13:53:14.000Z"
   },
-  {
+  "tombofthunder/progs/kronos.mdl": {
    "bytes": 62276,
-   "path": "tombofthunder/progs/kronos.mdl",
    "sha256": "864e24c95a73cccb08d2926a3c39fd0d8e9920632f1fc21d1d2487afe4465eba",
    "timestamp": "2023-04-21T13:53:16.000Z"
   },
-  {
+  "tombofthunder/progs/kronos1.mdl": {
    "bytes": 62276,
-   "path": "tombofthunder/progs/kronos1.mdl",
    "sha256": "cbe39df3b92958bab8495c5459079e789e2fc6019eecb886be7419efef1d282a",
    "timestamp": "2023-04-21T13:53:18.000Z"
   },
-  {
+  "tombofthunder/progs/lavaman.mdl": {
    "bytes": 190588,
-   "path": "tombofthunder/progs/lavaman.mdl",
    "sha256": "cb39ecc86f002c99b48e4d1c673949414b58f142288edfc9f281dbc3567b7368",
    "timestamp": "2023-04-21T13:53:24.000Z"
   },
-  {
+  "tombofthunder/progs/lspike.mdl": {
    "bytes": 1684,
-   "path": "tombofthunder/progs/lspike.mdl",
    "sha256": "4b1a7b7fe9108cf16b2b46c2b595884244b7027bfb002da7cd05689a82e4847f",
    "timestamp": "2023-04-21T13:53:26.000Z"
   },
-  {
+  "tombofthunder/progs/nailinf.mdl": {
    "bytes": 375964,
-   "path": "tombofthunder/progs/nailinf.mdl",
    "sha256": "336c759107ee68ca8e407da0fd76e9362fd862231a60471e03bf50b6d6770d78",
    "timestamp": "2024-02-04T17:18:32.000Z"
   },
-  {
+  "tombofthunder/progs/nailinf1.mdl": {
    "bytes": 160688,
-   "path": "tombofthunder/progs/nailinf1.mdl",
    "sha256": "b1aaf07445f84ff7f4a80d7918f674e1c276372e8302b9b5db68d9facaeff0e8",
    "timestamp": "2023-04-21T15:17:12.000Z"
   },
-  {
+  "tombofthunder/progs/p_light.mdl": {
    "bytes": 11860,
-   "path": "tombofthunder/progs/p_light.mdl",
    "sha256": "c9cebc8d6f4836e7c302d51d0f942fde3da0960dae38733ccc3a851776e71520",
    "timestamp": "2023-01-03T15:07:40.000Z"
   },
-  {
+  "tombofthunder/progs/pshot.spr": {
    "bytes": 4212,
-   "path": "tombofthunder/progs/pshot.spr",
    "sha256": "1a6731351a45c00a52be9c8c2389b1b1b049814dfd2d35aea7d28ea6804c177e",
    "timestamp": "2023-04-21T10:34:32.000Z"
   },
-  {
+  "tombofthunder/progs/shelltrp.mdl": {
    "bytes": 399572,
-   "path": "tombofthunder/progs/shelltrp.mdl",
    "sha256": "bbe121edec66a5796b2854d62f5bd3e7b86bd5e401099c8ad126a9267ca0c817",
    "timestamp": "2023-04-21T13:52:24.000Z"
   },
-  {
+  "tombofthunder/progs/spikmine.mdl": {
    "bytes": 55572,
-   "path": "tombofthunder/progs/spikmine.mdl",
    "sha256": "4f999a45a3d96087facc86283f92129be7c0f0cb212f448f2a0eab5c947a6832",
    "timestamp": "2023-04-21T13:52:26.000Z"
   },
-  {
+  "tombofthunder/progs/test.mdl": {
    "bytes": 18694,
-   "path": "tombofthunder/progs/test.mdl",
    "sha256": "fd078f0c5ecc0adca1e7d8bd3ca9ef64f7d46b0121bae19a37324d79f0bc1c58",
    "timestamp": "2023-04-21T13:52:28.000Z"
   },
-  {
+  "tombofthunder/progs/v_chain.mdl": {
    "bytes": 83380,
-   "path": "tombofthunder/progs/v_chain.mdl",
    "sha256": "7fd4336939e36d79a64732ff68b954484b8355c7a84475c4dedd9080b942c0d4",
    "timestamp": "2023-04-21T13:52:30.000Z"
   },
-  {
+  "tombofthunder/progs/v_hot.mdl": {
    "bytes": 60228,
-   "path": "tombofthunder/progs/v_hot.mdl",
    "sha256": "7d51ecfbd37d7bbc6f9702f8a9a4766261a9a9d537880ac6c0450ad0c4ce054f",
    "timestamp": "2023-01-03T15:07:40.000Z"
   },
-  {
+  "tombofthunder/progs/v_rail.mdl": {
    "bytes": 420536,
-   "path": "tombofthunder/progs/v_rail.mdl",
    "sha256": "f712acc06212e509f9d7f033b505e02e30670408b7b4cc3a51c6a1847fbb454d",
    "timestamp": "2023-01-03T15:07:40.000Z"
   },
-  {
+  "tombofthunder/progs/v_shotcl.mdl": {
    "bytes": 76404,
-   "path": "tombofthunder/progs/v_shotcl.mdl",
    "sha256": "f7287125aa5d5c03fa1d7dca0ccde80b9a537f67c1f1d8a8e805424e6d4fb44c",
    "timestamp": "2023-01-03T15:07:40.000Z"
   },
-  {
+  "tombofthunder/progs/zeus.mdl": {
    "bytes": 335016,
-   "path": "tombofthunder/progs/zeus.mdl",
    "sha256": "7d5a2f1f01c50cff7f630240405241594483928b0f02ef42725c86c804f1d75b",
    "timestamp": "2024-05-07T10:58:30.000Z"
   },
-  {
+  "tombofthunder/sound/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-24T08:24:54.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-15T15:11:16.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/alarm.wav": {
    "bytes": 83564,
-   "path": "tombofthunder/sound/ambience/alarm.wav",
    "sha256": "62025f4871e7433bdff0ba4385a49305a31074bd77e916b7be823ccbdb517fac",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/ancientdrone.wav": {
    "bytes": 296188,
-   "path": "tombofthunder/sound/ambience/ancientdrone.wav",
    "sha256": "d6ad63754b56275da381c81ed17603a41923e9f585097e167a26f69468e08305",
    "timestamp": "2023-01-05T10:34:10.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/choir1.wav": {
    "bytes": 179738,
-   "path": "tombofthunder/sound/ambience/choir1.wav",
    "sha256": "e9d55b682eaf8523dc9b6fb76a690f60288b933d66f84aac7476027a510e8cd8",
    "timestamp": "2023-01-05T10:33:58.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/choir2.wav": {
    "bytes": 240162,
-   "path": "tombofthunder/sound/ambience/choir2.wav",
    "sha256": "6b9c22a2e94a290795d71dd984484f7fded93b633923829a58435f71f53d5270",
    "timestamp": "2023-01-03T14:59:40.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/choirbig.wav": {
    "bytes": 661650,
-   "path": "tombofthunder/sound/ambience/choirbig.wav",
    "sha256": "efe97f0777654c4fc6ac9ae1a555b5eed8926df0bb99abb21c7baab40ecca3cb",
    "timestamp": "2023-01-05T00:40:12.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/comp.wav": {
    "bytes": 12164,
-   "path": "tombofthunder/sound/ambience/comp.wav",
    "sha256": "ab8e3b13981bb432cca44ad4b7467734f52d01927018e72c99e7c4d052dc7874",
    "timestamp": "2019-08-30T01:24:52.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/evil.wav": {
    "bytes": 148502,
-   "path": "tombofthunder/sound/ambience/evil.wav",
    "sha256": "b996f237f6809ac4b5d8ceb8246e6ad26a3ad9ccbaa61cfcb36b97ea1aae2071",
    "timestamp": "2023-01-03T14:58:10.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/forbidden.wav": {
    "bytes": 296198,
-   "path": "tombofthunder/sound/ambience/forbidden.wav",
    "sha256": "864b86ff5db702a3e2f01a923773c8f4f7c76c2f02ff0b673b4ee70f1de77bf1",
    "timestamp": "2023-01-05T10:33:40.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/fusein.wav": {
    "bytes": 54542,
-   "path": "tombofthunder/sound/ambience/fusein.wav",
    "sha256": "0cc8a1c6176c7c26dfbd03631c74bf25a5cfe99c03d402188c9f0a5ff5a4fcac",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/fuseout.wav": {
    "bytes": 61382,
-   "path": "tombofthunder/sound/ambience/fuseout.wav",
    "sha256": "59809909620202a8d10f0495ab314e6f052c8a18479846bc4487b766f593faef",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/greg1.wav": {
    "bytes": 377388,
-   "path": "tombofthunder/sound/ambience/greg1.wav",
    "sha256": "9940ad80076fbc1915868191bdd973a56de4910207f5ecc2907828304ed9d24d",
    "timestamp": "2023-01-03T14:52:38.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/greg2.wav": {
    "bytes": 379302,
-   "path": "tombofthunder/sound/ambience/greg2.wav",
    "sha256": "d7c63195029cb913f68a920fb904fa161626bb7b0ba9999a67a1d9da0ed76479",
    "timestamp": "2023-01-03T14:54:10.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/guts.wav": {
    "bytes": 1631820,
-   "path": "tombofthunder/sound/ambience/guts.wav",
    "sha256": "7ead76a809d2cfaf33f5431322df2d5131a078a7f5538b6291dae36e89b63c5c",
    "timestamp": "2019-06-16T05:44:56.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/humming.wav": {
    "bytes": 7672,
-   "path": "tombofthunder/sound/ambience/humming.wav",
    "sha256": "bd13a2f20d22fd462762d4115b38d250143b5378e8f1cd997aee92a230b0b079",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/klaxon1.wav": {
    "bytes": 97624,
-   "path": "tombofthunder/sound/ambience/klaxon1.wav",
    "sha256": "aba8baa9c677e02d8d08994b33cd24210fa6767d778db779a2e572e64aa076e6",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/klaxon2.wav": {
    "bytes": 53056,
-   "path": "tombofthunder/sound/ambience/klaxon2.wav",
    "sha256": "3ae3bf58b9a45dbf51243555b04d2d6776cd708c4dc8c13ba4e1e2b2daa8f8cf",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/lite_on.wav": {
    "bytes": 92362,
-   "path": "tombofthunder/sound/ambience/lite_on.wav",
    "sha256": "ca329bad63910f68b603c3cd9eea0b8cd9d7428f96ebb27032a066808637e8bc",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/lite_out.wav": {
    "bytes": 80906,
-   "path": "tombofthunder/sound/ambience/lite_out.wav",
    "sha256": "d5e5747ec548eb9118c2190a59b9dcdcbe5335a2987726d7768415eb7e1fe573",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/moans1.wav": {
    "bytes": 521252,
-   "path": "tombofthunder/sound/ambience/moans1.wav",
    "sha256": "ff855990d8045da766b5aba28dcf50086222b47ef175a03439df8f82b0c20dc1",
    "timestamp": "2023-01-03T14:46:48.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/moans2.wav": {
    "bytes": 621316,
-   "path": "tombofthunder/sound/ambience/moans2.wav",
    "sha256": "9fc4fa14f37664d1805a66b4b5bc5b8db52485a18817fcbeaee94b083319be2b",
    "timestamp": "2023-01-03T14:47:14.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/radio.wav": {
    "bytes": 235522,
-   "path": "tombofthunder/sound/ambience/radio.wav",
    "sha256": "fa0c9d92d9705e11d60b5964d67c23853d99904d98e202f361ef6c8d989e4b5f",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/rain00.wav": {
    "bytes": 54948,
-   "path": "tombofthunder/sound/ambience/rain00.wav",
    "sha256": "60d957454e6802d90ed163b20f9729d1cb2455bb8ab9b6f8964105e876b3793b",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/riftpowr.wav": {
    "bytes": 3822,
-   "path": "tombofthunder/sound/ambience/riftpowr.wav",
    "sha256": "60c3ae33de894708a26b5c17891be8225d54909a297efe081d9f22c5ea74e06f",
    "timestamp": "2023-01-03T15:03:26.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/shub.wav": {
    "bytes": 227644,
-   "path": "tombofthunder/sound/ambience/shub.wav",
    "sha256": "ac5c7a89117d397749160442c2f0fca1c89ffa638943dbd1f13aa1b0ee6d56ac",
    "timestamp": "2023-01-06T00:39:06.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/suffer.wav": {
    "bytes": 176790,
-   "path": "tombofthunder/sound/ambience/suffer.wav",
    "sha256": "50ab6b3e9f95e0559bc065beefdda1a5f7272ede840bef0c60f8be314907df53",
    "timestamp": "2023-01-04T00:50:36.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/vent.wav": {
    "bytes": 75816,
-   "path": "tombofthunder/sound/ambience/vent.wav",
    "sha256": "f7092e792f7e9d8f57c3417bacda4f445b4f24cf5076071cb0eb23490b71fb31",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/waterfal.wav": {
    "bytes": 19330,
-   "path": "tombofthunder/sound/ambience/waterfal.wav",
    "sha256": "6dba30c793b844acf1b1f8a7496009b966eef8c89659802302e3432a8e5da601",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/ambience/wind3.wav": {
    "bytes": 120938,
-   "path": "tombofthunder/sound/ambience/wind3.wav",
    "sha256": "e0e3b455179913cf61254a454030fa48f5eb4a4bbedbc29ec4b5d79785f48d43",
    "timestamp": "2023-01-08T18:17:24.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/disciple/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-05T16:57:40.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_atk.wav": {
    "bytes": 30580,
-   "path": "tombofthunder/sound/disciple/d_atk.wav",
    "sha256": "d290d8a6835b57a7cd9fc935fb91c9751456e258cce185788abc38fa30182571",
    "timestamp": "2023-09-07T12:20:36.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_death.wav": {
    "bytes": 40762,
-   "path": "tombofthunder/sound/disciple/d_death.wav",
    "sha256": "baf0a4504cbbe692498b0f587bca844624a4d7092e2e4ab447e85fea0ea58b93",
    "timestamp": "2023-08-22T17:11:54.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_idle1.wav": {
    "bytes": 25142,
-   "path": "tombofthunder/sound/disciple/d_idle1.wav",
    "sha256": "a8f9d3cd872b9132f424c39e57584e185be1621d3a59a8f0dca5deee98cec0b3",
    "timestamp": "2023-08-22T17:16:16.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_idle2.wav": {
    "bytes": 19924,
-   "path": "tombofthunder/sound/disciple/d_idle2.wav",
    "sha256": "95aed8a9189a3aacbd793a978501029a96ce91c11a4184341b79b13c8f27d89e",
    "timestamp": "2023-08-22T17:11:30.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_pain1.wav": {
    "bytes": 20080,
-   "path": "tombofthunder/sound/disciple/d_pain1.wav",
    "sha256": "a61387e3eb4d4d2674f5a68c96e37705bc56b7032f117463398faa51a4e802b2",
    "timestamp": "2023-08-22T17:10:36.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_pain2.wav": {
    "bytes": 17826,
-   "path": "tombofthunder/sound/disciple/d_pain2.wav",
    "sha256": "3a34b98817cfd28f9d7621a81422584f31956821a375046ce895b0cd3d6bfa47",
    "timestamp": "2023-08-22T17:10:54.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_prep.wav": {
    "bytes": 19178,
-   "path": "tombofthunder/sound/disciple/d_prep.wav",
    "sha256": "6f0c8bde2dc435c65627490e01b45a354b975905fd5c84c4201674f8474502aa",
    "timestamp": "2023-09-02T16:28:14.000Z"
   },
-  {
+  "tombofthunder/sound/disciple/d_sight.wav": {
    "bytes": 37234,
-   "path": "tombofthunder/sound/disciple/d_sight.wav",
    "sha256": "ad8fb25658c7c8fc5ebe840efffc9cbaaeb61fa1d5324787bf66bf4e48343932",
    "timestamp": "2023-08-22T17:10:14.000Z"
   },
-  {
+  "tombofthunder/sound/enforcer/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/enforcer/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/enforcer/laserric.wav": {
    "bytes": 13340,
-   "path": "tombofthunder/sound/enforcer/laserric.wav",
    "sha256": "599e01aa9667eedc5554d47bb569d16dc510871f23800a7b8022f4cc1cbc326c",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/glad/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/glad/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-03-11T15:15:36.000Z"
   },
-  {
+  "tombofthunder/sound/glad/flak.wav": {
    "bytes": 19658,
-   "path": "tombofthunder/sound/glad/flak.wav",
    "sha256": "de2bd26b99e767c13e6aece83ff6790b46abe27e91f4bd20b2646b0428786f76",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogdth.wav": {
    "bytes": 12052,
-   "path": "tombofthunder/sound/glad/ogdth.wav",
    "sha256": "0587d14849b0fec40eeea6dc4d61db548a8d760e17cbee07f572e5de081c5a5b",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogidle.wav": {
    "bytes": 61810,
-   "path": "tombofthunder/sound/glad/ogidle.wav",
    "sha256": "40ecc9597a7c2fa5d65f203dd022379bf3b85bfe4a19612181f5dd29f831d1f8",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogidle2.wav": {
    "bytes": 12292,
-   "path": "tombofthunder/sound/glad/ogidle2.wav",
    "sha256": "14d217d02c7a3898d835cda4ee00c80afe722943d0d538a0b7b95e7b3cb8230d",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogpain1.wav": {
    "bytes": 7730,
-   "path": "tombofthunder/sound/glad/ogpain1.wav",
    "sha256": "c8f157894e5651a2f599994d489520c539549dc5cb51d803e0ad60364b0c205a",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogpain2.wav": {
    "bytes": 9108,
-   "path": "tombofthunder/sound/glad/ogpain2.wav",
    "sha256": "77a09d54447b3ce0b3a304545f613da813b29365de2d0c168c07ccdc1d6b04e7",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogpain3.wav": {
    "bytes": 10930,
-   "path": "tombofthunder/sound/glad/ogpain3.wav",
    "sha256": "041d603a4c53633324dc28f937d80e51c70fb3f80fbd18f41a8b160ef7596f2a",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogsawatk.wav": {
    "bytes": 16154,
-   "path": "tombofthunder/sound/glad/ogsawatk.wav",
    "sha256": "f24f86055999053273798d54f646064f3053414dfb14167d611aa1cb6dbbb51b",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/ogwake.wav": {
    "bytes": 8420,
-   "path": "tombofthunder/sound/glad/ogwake.wav",
    "sha256": "fd327b2b1f56656b3573262486b2756494d6812dbf5bf6b1e5bd939da3ed4297",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/glad/trident.wav": {
    "bytes": 10286,
-   "path": "tombofthunder/sound/glad/trident.wav",
    "sha256": "7c9162f454e9736644d249105afae05ff0f8a4efe8dc8f3d1fa4745d1d6275ac",
    "timestamp": "2024-03-11T15:06:20.000Z"
   },
-  {
+  "tombofthunder/sound/hknight/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/hknight/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-09-05T16:57:40.000Z"
   },
-  {
+  "tombofthunder/sound/hknight/attack2.wav": {
    "bytes": 11680,
-   "path": "tombofthunder/sound/hknight/attack2.wav",
    "sha256": "a571287ca30a429a90bd807d67b903f6f837d030527e3c1f2fb8fe45e5bc4aa1",
    "timestamp": "2023-08-29T14:39:26.000Z"
   },
-  {
+  "tombofthunder/sound/hknight/attack2HQ.wav": {
    "bytes": 23290,
-   "path": "tombofthunder/sound/hknight/attack2HQ.wav",
    "sha256": "dd40dd4f7a785e077169acc84a007d843ad03d1d5bc66de9b8cfe348a632a981",
    "timestamp": "2023-08-29T14:37:52.000Z"
   },
-  {
+  "tombofthunder/sound/items/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/items/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-03T15:06:38.000Z"
   },
-  {
+  "tombofthunder/sound/items/armor1.wav": {
    "bytes": 6494,
-   "path": "tombofthunder/sound/items/armor1.wav",
    "sha256": "259c57ed9a96e2794933fb1e5ddabddbdc87069968590d6e3ac69895c18282d3",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/armor2.wav": {
    "bytes": 7704,
-   "path": "tombofthunder/sound/items/armor2.wav",
    "sha256": "081c3f62f9a94969f75947b51c785d40a6d24b16d39f529804b5c85404f7cae6",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/armor3.wav": {
    "bytes": 9252,
-   "path": "tombofthunder/sound/items/armor3.wav",
    "sha256": "c51e305d5a2b42f6b9b9dfd82fc1870e086a0b2ab8c04dbe3c00a1e04784f98f",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/clock1.wav": {
    "bytes": 38168,
-   "path": "tombofthunder/sound/items/clock1.wav",
    "sha256": "ee475af2135a5c9d8b2afab199c2131d95070b9e3a56e3571adf3f00b95c50b9",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/clock2.wav": {
    "bytes": 70976,
-   "path": "tombofthunder/sound/items/clock2.wav",
    "sha256": "8b40b62f88303d16cfc6fef6b7ad1be584c50764c2883075eab77bd220fb155b",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/clock3.wav": {
    "bytes": 130248,
-   "path": "tombofthunder/sound/items/clock3.wav",
    "sha256": "a04c45553280fbb992308fb0aade8ac8e74ec4e4c2ab8400a69de8bad642fc25",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/drop.wav": {
    "bytes": 11888,
-   "path": "tombofthunder/sound/items/drop.wav",
    "sha256": "fc7a1d39fb54ace150dab785d0e9e642f8f710ea3d425c7799daf223542a3b58",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/items/haste1.wav": {
    "bytes": 13420,
-   "path": "tombofthunder/sound/items/haste1.wav",
    "sha256": "267bcedfe84a50bc1f5257d5cc7cd401465bd012682b328546e5af61f8fc29cb",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/haste2.wav": {
    "bytes": 31622,
-   "path": "tombofthunder/sound/items/haste2.wav",
    "sha256": "c8e298dab6c215bffc237cd6681dae38c803250e1c199db9b61f523500ce3e13",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/items/spikmine.wav": {
    "bytes": 15566,
-   "path": "tombofthunder/sound/items/spikmine.wav",
    "sha256": "7ef31a2d349875eca1f1abb538fc2ae305441d4eb957fbc88f5b8ea55120fc8e",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/misc/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/misc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-24T08:24:56.000Z"
   },
-  {
+  "tombofthunder/sound/misc/bigexpl.wav": {
    "bytes": 145132,
-   "path": "tombofthunder/sound/misc/bigexpl.wav",
    "sha256": "06128688eeaefb1c49e91967f53abf49ee9f9967fd6162234876652b57fb798e",
    "timestamp": "2023-01-16T16:48:24.000Z"
   },
-  {
+  "tombofthunder/sound/misc/demwhis.wav": {
    "bytes": 42688,
-   "path": "tombofthunder/sound/misc/demwhis.wav",
    "sha256": "2727d14e5d68da35d0dc3bfed0358e0ce754cec89c809aa3e9e99d37af190c45",
    "timestamp": "2023-06-10T23:04:40.000Z"
   },
-  {
+  "tombofthunder/sound/misc/meat1.wav": {
    "bytes": 50644,
-   "path": "tombofthunder/sound/misc/meat1.wav",
    "sha256": "8b8d18e73e3bb8b6e8a8f59b78778b278b18c3f30636ad13ac7774b5a8e11893",
    "timestamp": "2023-05-11T09:10:40.000Z"
   },
-  {
+  "tombofthunder/sound/misc/meat2.wav": {
    "bytes": 101244,
-   "path": "tombofthunder/sound/misc/meat2.wav",
    "sha256": "74f8bfa1867e3a290546f14049ba992623cff9ea7ce106eee7b62a157d70dcc8",
    "timestamp": "2023-05-19T09:34:38.000Z"
   },
-  {
+  "tombofthunder/sound/misc/meatsplosion.wav": {
    "bytes": 32242,
-   "path": "tombofthunder/sound/misc/meatsplosion.wav",
    "sha256": "182a3c0f20188547af4827f3387020aae6c7377ec45a4de8a55dbab4552e69cf",
    "timestamp": "2023-05-11T09:21:32.000Z"
   },
-  {
+  "tombofthunder/sound/misc/nuke1.wav": {
    "bytes": 203012,
-   "path": "tombofthunder/sound/misc/nuke1.wav",
    "sha256": "d79e18f8f3dec7f83cceeb8d273bad68457690c876069f03c64d4e194dfedc04",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/misc/nuke2.wav": {
    "bytes": 504160,
-   "path": "tombofthunder/sound/misc/nuke2.wav",
    "sha256": "42edcbb094427ec9adaaa6e7a853296abfa35bb5e9fd38081f71c5c72179f755",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/misc/quake.wav": {
    "bytes": 103452,
-   "path": "tombofthunder/sound/misc/quake.wav",
    "sha256": "36da07e95984a68c52df559f13c571f26b77cf51767f9fcebe6015510b4e2976",
    "timestamp": "2023-05-19T10:31:18.000Z"
   },
-  {
+  "tombofthunder/sound/misc/shub.wav": {
    "bytes": 225484,
-   "path": "tombofthunder/sound/misc/shub.wav",
    "sha256": "de2a73c974756bdacd966714ac9fa36a47f8a9840c6c04a8cd84c07030d8cca2",
    "timestamp": "2023-01-09T13:57:32.000Z"
   },
-  {
+  "tombofthunder/sound/misc/tim_hole.wav": {
    "bytes": 110696,
-   "path": "tombofthunder/sound/misc/tim_hole.wav",
    "sha256": "f5ea084bd197925b925f78dca300c3c359f35f3ba5ac855c7d4a6c70205def93",
    "timestamp": "1999-11-21T21:42:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/nailinf/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/death.wav": {
    "bytes": 18898,
-   "path": "tombofthunder/sound/nailinf/death.wav",
    "sha256": "b9bbb261c4f58c7857f368e7482a6706b1a4105b3ad4e41a700d1025d29d38c6",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/idle1.wav": {
    "bytes": 28822,
-   "path": "tombofthunder/sound/nailinf/idle1.wav",
    "sha256": "c5dcd7bf900ad11e204beaf05f3db54d4c9f23f33358c0bb34e063fd41900390",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/nailshrd.wav": {
    "bytes": 19178,
-   "path": "tombofthunder/sound/nailinf/nailshrd.wav",
    "sha256": "3a8fcd83a76416ba8af3957575184805b4f7f0dfea37d07a542eac8935efde2d",
    "timestamp": "2023-08-03T00:53:00.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/pain1.wav": {
    "bytes": 5118,
-   "path": "tombofthunder/sound/nailinf/pain1.wav",
    "sha256": "81038879b6d933fe59d29059b5d0655b6e9bbd96c11f902c5d6fd5e3acb0a333",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/pain2.wav": {
    "bytes": 5680,
-   "path": "tombofthunder/sound/nailinf/pain2.wav",
    "sha256": "a8eba9496de56151703e9a8b93dc9f0ab7e161ae351acd0082feda567959ebb1",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/prepfire.wav": {
    "bytes": 6390,
-   "path": "tombofthunder/sound/nailinf/prepfire.wav",
    "sha256": "eec07407720f84a37e600f22eb0265549d350add8af972dc507ed0306c20a121",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/sight1.wav": {
    "bytes": 18618,
-   "path": "tombofthunder/sound/nailinf/sight1.wav",
    "sha256": "6f6f9f5c2d92b87abae4c2fc78c92b3e96f20a5d9e53eacf9eebb283bd4558da",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/sight2.wav": {
    "bytes": 15670,
-   "path": "tombofthunder/sound/nailinf/sight2.wav",
    "sha256": "42dbf9e02a96ba2e6cd2bee0adf9dae22292c572d9c00bc499a699e6ea4da9cf",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/sight3.wav": {
    "bytes": 14522,
-   "path": "tombofthunder/sound/nailinf/sight3.wav",
    "sha256": "38851d768386b7096548b082235da9921966905678ca84027567e59b6e603bc1",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/nailinf/sight4.wav": {
    "bytes": 19798,
-   "path": "tombofthunder/sound/nailinf/sight4.wav",
    "sha256": "0583212c3dd33bede0fd9e2963a04c8320add72c523305dafc6f3dd3b28cda59",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/player/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/player/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-29T15:51:58.000Z"
   },
-  {
+  "tombofthunder/sound/player/healthgain.wav": {
    "bytes": 46092,
-   "path": "tombofthunder/sound/player/healthgain.wav",
    "sha256": "d9c8cacdc298a4bc367f62b1c3d99cc9be806cb787db3345705355ae98c10b42",
    "timestamp": "2024-04-29T15:51:50.000Z"
   },
-  {
+  "tombofthunder/sound/player/healthrot.wav": {
    "bytes": 22100,
-   "path": "tombofthunder/sound/player/healthrot.wav",
    "sha256": "4f7192c2a1c9969cadc5cbd2c75eed8ce7a95598591f1b8e929dc9ed4c2fa19c",
    "timestamp": "2024-04-24T08:19:48.000Z"
   },
-  {
+  "tombofthunder/sound/voc/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/voc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-16T10:22:58.000Z"
   },
-  {
+  "tombofthunder/sound/voc/1.wav": {
    "bytes": 10200,
-   "path": "tombofthunder/sound/voc/1.wav",
    "sha256": "5c75d090104edcae60e1c93948a8afac2de1768ef912d3b99cb3808659d38947",
    "timestamp": "2023-11-28T23:03:46.000Z"
   },
-  {
+  "tombofthunder/sound/voc/10.wav": {
    "bytes": 9270,
-   "path": "tombofthunder/sound/voc/10.wav",
    "sha256": "d6bedaf81c87cf36917e6ee7fd7823c30082bd0443b2e93e4245878aea6d4b0f",
    "timestamp": "2023-11-28T23:02:06.000Z"
   },
-  {
+  "tombofthunder/sound/voc/2.wav": {
    "bytes": 11310,
-   "path": "tombofthunder/sound/voc/2.wav",
    "sha256": "9047d9f74bee9e1f882c37e1ac2f5eab3df22ec132be3924788472b0d35bab73",
    "timestamp": "2023-11-28T23:03:36.000Z"
   },
-  {
+  "tombofthunder/sound/voc/2min.wav": {
    "bytes": 44090,
-   "path": "tombofthunder/sound/voc/2min.wav",
    "sha256": "c9cc81f01cf34926c44ed6a863c70a2e9c0a683c2256c937e082fc7bb69c7121",
    "timestamp": "2023-11-28T23:01:54.000Z"
   },
-  {
+  "tombofthunder/sound/voc/3.wav": {
    "bytes": 12500,
-   "path": "tombofthunder/sound/voc/3.wav",
    "sha256": "98fc402df492dd9bab8b8200e5064300d8ff7efe3d161400c37917f3d494b8e4",
    "timestamp": "2023-11-28T23:03:26.000Z"
   },
-  {
+  "tombofthunder/sound/voc/30sec.wav": {
    "bytes": 45110,
-   "path": "tombofthunder/sound/voc/30sec.wav",
    "sha256": "1d8418dc8217ca568e7ac27091db1f3b4562f3ae81f824f9fc3825aeb47a3fe8",
    "timestamp": "2023-11-28T23:01:18.000Z"
   },
-  {
+  "tombofthunder/sound/voc/3min.wav": {
    "bytes": 42042,
-   "path": "tombofthunder/sound/voc/3min.wav",
    "sha256": "2de0d56d45beb699c27e00268f1cb49780ad65b7b79fe47c61e7d009369b67b8",
    "timestamp": "2023-11-28T23:01:30.000Z"
   },
-  {
+  "tombofthunder/sound/voc/4.wav": {
    "bytes": 15612,
-   "path": "tombofthunder/sound/voc/4.wav",
    "sha256": "3fe901998135f2dbb086ceabd26c53e05886ea08a94396113f0310e563f0e8e6",
    "timestamp": "2023-11-28T23:03:10.000Z"
   },
-  {
+  "tombofthunder/sound/voc/5.wav": {
    "bytes": 20178,
-   "path": "tombofthunder/sound/voc/5.wav",
    "sha256": "33df34362616f89ce4cebc4efbf62f15158e2ed2c634257d0a6ed033d6712051",
    "timestamp": "2023-11-28T23:02:50.000Z"
   },
-  {
+  "tombofthunder/sound/voc/6.wav": {
    "bytes": 11110,
-   "path": "tombofthunder/sound/voc/6.wav",
    "sha256": "5872872dc470fbabc2c164c0a139603d5ef0be2b86dc16d4a458aa42f3789447",
    "timestamp": "2023-11-28T23:02:42.000Z"
   },
-  {
+  "tombofthunder/sound/voc/60sec.wav": {
    "bytes": 47162,
-   "path": "tombofthunder/sound/voc/60sec.wav",
    "sha256": "dc748b16475aadad2c53074f16c2999b902d73e33d0c64ec8b67ba6ae05b43d5",
    "timestamp": "2023-11-28T23:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/voc/7.wav": {
    "bytes": 12308,
-   "path": "tombofthunder/sound/voc/7.wav",
    "sha256": "26ccfdfc0594906dd2e51667cf313aa771758351e8b9a90f8d9ba1456a0d059f",
    "timestamp": "2023-11-28T23:02:34.000Z"
   },
-  {
+  "tombofthunder/sound/voc/8.wav": {
    "bytes": 11052,
-   "path": "tombofthunder/sound/voc/8.wav",
    "sha256": "b5f7a623955ee01f91fe69b9ddd8b74d5f2ca9f4da9ca4c20f09a765c6b61ce9",
    "timestamp": "2023-11-28T23:02:24.000Z"
   },
-  {
+  "tombofthunder/sound/voc/9.wav": {
    "bytes": 11158,
-   "path": "tombofthunder/sound/voc/9.wav",
    "sha256": "75ae44ff3823daca03082af1ee9cbfd6824ad47b98d915e82853d01bb4d9a44c",
    "timestamp": "2023-11-28T23:02:14.000Z"
   },
-  {
+  "tombofthunder/sound/voc/offline.wav": {
    "bytes": 63370,
-   "path": "tombofthunder/sound/voc/offline.wav",
    "sha256": "26bd65a9a0195b9a77a57cc2a76373850648f9b60e3fd149211db47178b10d86",
    "timestamp": "2023-11-28T23:00:46.000Z"
   },
-  {
+  "tombofthunder/sound/voc/online.wav": {
    "bytes": 39990,
-   "path": "tombofthunder/sound/voc/online.wav",
    "sha256": "7c77ba3878dc484840797a93d5c9a734376126b268f16a5f68bdaedd6d541178",
    "timestamp": "2023-11-28T23:00:32.000Z"
   },
-  {
+  "tombofthunder/sound/voc/warning.wav": {
    "bytes": 14970,
-   "path": "tombofthunder/sound/voc/warning.wav",
    "sha256": "9a059ab991cef0e54f0d7b979955f51194831fc5f91691dadf9aec163b936307",
    "timestamp": "2023-11-28T22:59:38.000Z"
   },
-  {
+  "tombofthunder/sound/voc/welcome.wav": {
    "bytes": 42962,
-   "path": "tombofthunder/sound/voc/welcome.wav",
    "sha256": "6bf5c120f61ae589c8257decda89509e0ca86e1a3bbd0a79c69291a8cbca2583",
    "timestamp": "2023-11-28T22:59:28.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/weapons/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-07T09:12:18.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/acell1.wav": {
    "bytes": 46444,
-   "path": "tombofthunder/sound/weapons/acell1.wav",
    "sha256": "36effe01dee2f868809118ef297e9a210ccdc1ba6b1bafdce31b508b8431a5c2",
    "timestamp": "2024-05-07T09:01:02.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/acell2.wav": {
    "bytes": 49860,
-   "path": "tombofthunder/sound/weapons/acell2.wav",
    "sha256": "12fb19410492c42e0f97ec3c33ebe75c9128b2b5bce29cae1b21c5d110c127cd",
    "timestamp": "2024-05-07T09:01:28.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/anail1.wav": {
    "bytes": 4950,
-   "path": "tombofthunder/sound/weapons/anail1.wav",
    "sha256": "ee61c5455fc13216173e44a58ce13a522ba74d354bbb5707177131daec2376c1",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/anail2.wav": {
    "bytes": 7300,
-   "path": "tombofthunder/sound/weapons/anail2.wav",
    "sha256": "fdb33dade14269d4d5e7de03e30c087b057e00f9635a1411a12fca70b7bc91db",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/arocket1.wav": {
    "bytes": 11626,
-   "path": "tombofthunder/sound/weapons/arocket1.wav",
    "sha256": "094f39f68641a9deea4b101c1cb88beb1ea35b81354daf84aebe9949bf48f36f",
    "timestamp": "2024-05-07T09:20:22.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/arocket2.wav": {
    "bytes": 14462,
-   "path": "tombofthunder/sound/weapons/arocket2.wav",
    "sha256": "6cb040193e0bb7042f119839205b153f2312328602a9b969fa319bc45b521a39",
    "timestamp": "2024-05-07T09:20:28.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/ashell1.wav": {
    "bytes": 4970,
-   "path": "tombofthunder/sound/weapons/ashell1.wav",
    "sha256": "110caa401cbad16cf3fc78b0d60c27c11640d355a425cf4a18dbcb58954c13e3",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/ashell2.wav": {
    "bytes": 8308,
-   "path": "tombofthunder/sound/weapons/ashell2.wav",
    "sha256": "e7f7c5545944f2c8ca518ffbf6af542be4bbb22ff0aa2d039c5f64bef6e83f57",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/chain1.wav": {
    "bytes": 9552,
-   "path": "tombofthunder/sound/weapons/chain1.wav",
    "sha256": "655018e0b1ebd61283db23ff324574948295e3a9ca43337e49c8d49938666210",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/chain2.wav": {
    "bytes": 19022,
-   "path": "tombofthunder/sound/weapons/chain2.wav",
    "sha256": "bbc5dcc50a31fb7c44d8c8f3cfa1c919e0c15875140f9ab3a9768ecfab0ebb8a",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/chain3.wav": {
    "bytes": 2676,
-   "path": "tombofthunder/sound/weapons/chain3.wav",
    "sha256": "61183aad8e0f3c4716f4243a74728fee29fde7db9ca08b522ddc98834c10998a",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/expl.wav": {
    "bytes": 17478,
-   "path": "tombofthunder/sound/weapons/expl.wav",
    "sha256": "52d9ec58596312b7b88b0127226c168aabaaa6f377a1895b5ead7c26c6c03957",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/hot1.wav": {
    "bytes": 3252,
-   "path": "tombofthunder/sound/weapons/hot1.wav",
    "sha256": "2b21217fbc4d5f4f862f69f31a58473dd29f23110d321a1a3afcaf7e504d672a",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/hot2.wav": {
    "bytes": 29170,
-   "path": "tombofthunder/sound/weapons/hot2.wav",
    "sha256": "25cd7092c9b4987f923f534957a312852b920f185af63c73e84b765e7889d3bc",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/hot3.wav": {
    "bytes": 50978,
-   "path": "tombofthunder/sound/weapons/hot3.wav",
    "sha256": "c6b312455b7678b0ebf0f55753cc39b9e07178ec5d5fea2605310eca6e52a915",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/hot4.wav": {
    "bytes": 10698,
-   "path": "tombofthunder/sound/weapons/hot4.wav",
    "sha256": "254ba8798743618faf4d4738ff779cbd686dcda7c0da1a3d639290aa88dd02a0",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/noammo.wav": {
    "bytes": 5410,
-   "path": "tombofthunder/sound/weapons/noammo.wav",
    "sha256": "30f367e95cf5193d4c6d964b642d7b10d49fdaf354afdfb686e4661256c3db56",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup2.wav": {
    "bytes": 10118,
-   "path": "tombofthunder/sound/weapons/pkup2.wav",
    "sha256": "3be3ba31de2818cb915a4a4cf4721b1271a0983f1e9ad3df1142793809dd5570",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup3.wav": {
    "bytes": 9276,
-   "path": "tombofthunder/sound/weapons/pkup3.wav",
    "sha256": "13098a619b250590b51cc0a609e18a396a3fa79576abb3c72742534c9083cfb5",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup4.wav": {
    "bytes": 8090,
-   "path": "tombofthunder/sound/weapons/pkup4.wav",
    "sha256": "5f2e794af6199386e7bbfdd5961a3cb67ecac41b87e5d2336f15f95f09f1b865",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup5.wav": {
    "bytes": 23018,
-   "path": "tombofthunder/sound/weapons/pkup5.wav",
    "sha256": "c3131e35745097fd1ab966e3334544f3af49e2a96c2ca0dd428e960de5562b28",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup6.wav": {
    "bytes": 11140,
-   "path": "tombofthunder/sound/weapons/pkup6.wav",
    "sha256": "a23f96837b00b8ba574d6edfe7421f47e2115b6a6b5dedc9761eea0cece0f823",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup7.wav": {
    "bytes": 9594,
-   "path": "tombofthunder/sound/weapons/pkup7.wav",
    "sha256": "a1b429e7759d70fb68fb90561ebb7a3addb0291628e225c8650bf9a52ff2882c",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup8.wav": {
    "bytes": 15798,
-   "path": "tombofthunder/sound/weapons/pkup8.wav",
    "sha256": "2b8e586ae22b5138b7e2d46d76ed4c47dedd3bda14e0e1a64dd8a6a734fe0745",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup81.wav": {
    "bytes": 10040,
-   "path": "tombofthunder/sound/weapons/pkup81.wav",
    "sha256": "708f7935c4b5d291703697400be66776417a19cd4a6db7871db85875d904e605",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/pkup9.wav": {
    "bytes": 33732,
-   "path": "tombofthunder/sound/weapons/pkup9.wav",
    "sha256": "cc2a7dcc1d16b17a598e2472b69f941c603dec77131853d8884d20a1ccea8046",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/r_exp3.wav": {
    "bytes": 1244,
-   "path": "tombofthunder/sound/weapons/r_exp3.wav",
    "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/rail1.wav": {
    "bytes": 28566,
-   "path": "tombofthunder/sound/weapons/rail1.wav",
    "sha256": "837b5d892f618e74178c0dbf455c3cd24c3d067d28b56d785e4c8e08302251b7",
    "timestamp": "2024-05-07T09:09:18.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/rail2.wav": {
    "bytes": 19078,
-   "path": "tombofthunder/sound/weapons/rail2.wav",
    "sha256": "b2ad37e275ce2857b2ddc52a8d7f537eb02bbf2f7239b857d12d87fcfa5b4793",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/shotcyc1.wav": {
    "bytes": 18242,
-   "path": "tombofthunder/sound/weapons/shotcyc1.wav",
    "sha256": "c069f126338f166129ce9eb8065999dc4348028f92ac5af72075843885b8ff48",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/shotcyc2.wav": {
    "bytes": 3372,
-   "path": "tombofthunder/sound/weapons/shotcyc2.wav",
    "sha256": "8446a93c88c9574d63f3d4c3c395894da50343b55b7a1a97354f93e75eb7a122",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/shotcyc3.wav": {
    "bytes": 6190,
-   "path": "tombofthunder/sound/weapons/shotcyc3.wav",
    "sha256": "8fcfb6080be436f6ffb5b1310ba100d39a184e20aac1588050a6d62001334f68",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/weapons/switch.wav": {
    "bytes": 6238,
-   "path": "tombofthunder/sound/weapons/switch.wav",
    "sha256": "149f95b9a0a2711ff1578419efa367f384ae50311ca0b9e928f12f806501799c",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/": {
    "bytes": 0,
-   "path": "tombofthunder/sound/zeus/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-05-14T14:26:38.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/bfg_expl.wav": {
    "bytes": 36998,
-   "path": "tombofthunder/sound/zeus/bfg_expl.wav",
    "sha256": "4653599f6e0743a559627a7d8fa67768160a89d70bb1cd9709ba905d6dcff663",
    "timestamp": "2023-04-23T15:19:44.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/bfg_fire.wav": {
    "bytes": 16640,
-   "path": "tombofthunder/sound/zeus/bfg_fire.wav",
    "sha256": "04b57be20cafe3b321fa5a99ee9046df78a0011809daba72129aa7ddd333fd21",
    "timestamp": "2023-04-23T15:19:12.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/bfg_fly.wav": {
    "bytes": 44318,
-   "path": "tombofthunder/sound/zeus/bfg_fly.wav",
    "sha256": "9caff5d6db918f21766bbf59de4d4b5577b6980f9d2418c485291a38a8515f52",
    "timestamp": "2023-04-23T15:19:26.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/bigbolt.wav": {
    "bytes": 41304,
-   "path": "tombofthunder/sound/zeus/bigbolt.wav",
    "sha256": "eab617f12c5511793c66fcf65bf306f11ec4f0d9303666e964ce48dfd669edda",
    "timestamp": "2023-03-27T10:24:16.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/bolt1.wav": {
    "bytes": 29170,
-   "path": "tombofthunder/sound/zeus/bolt1.wav",
    "sha256": "25cd7092c9b4987f923f534957a312852b920f185af63c73e84b765e7889d3bc",
    "timestamp": "2023-01-03T15:00:58.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/boltxpl.wav": {
    "bytes": 10698,
-   "path": "tombofthunder/sound/zeus/boltxpl.wav",
    "sha256": "254ba8798743618faf4d4738ff779cbd686dcda7c0da1a3d639290aa88dd02a0",
    "timestamp": "2023-01-03T15:01:00.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/fall.wav": {
    "bytes": 68420,
-   "path": "tombofthunder/sound/zeus/fall.wav",
    "sha256": "c3e026f7cc7568145e3d3aa106237022b2d67785b3c33d0a957f3c460fad1660",
    "timestamp": "2023-05-05T09:24:28.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/fall_phase2.wav": {
    "bytes": 67180,
-   "path": "tombofthunder/sound/zeus/fall_phase2.wav",
    "sha256": "6a9779213bb5cd962415b200bfdd18e53e800f571865fc74142d447b4056f13b",
    "timestamp": "2023-05-09T15:54:18.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/hurt.wav": {
    "bytes": 38338,
-   "path": "tombofthunder/sound/zeus/hurt.wav",
    "sha256": "995af62004dee252071343b11d358f7d363688f66d20fb8e274c738aad8594bd",
    "timestamp": "2023-05-05T09:24:04.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/hurt_phase2.wav": {
    "bytes": 33344,
-   "path": "tombofthunder/sound/zeus/hurt_phase2.wav",
    "sha256": "70cecba23ab4d907213f45976b57433c1d8e801aeb76489a23b3b0106a82816e",
    "timestamp": "2023-05-09T15:52:50.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/hurt_phase3.wav": {
    "bytes": 84278,
-   "path": "tombofthunder/sound/zeus/hurt_phase3.wav",
    "sha256": "3aca8e49def243015217c27aec197eac7112e4e370641b4a9beb11bbb5c82445",
    "timestamp": "2023-05-14T14:26:30.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/lilbolt.wav": {
    "bytes": 56378,
-   "path": "tombofthunder/sound/zeus/lilbolt.wav",
    "sha256": "407e74833048b1d0032fa73d30cd69f4e686867afc780a4a562a49c914f2a408",
    "timestamp": "2023-04-02T14:35:02.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/plasma_expl.wav": {
    "bytes": 13912,
-   "path": "tombofthunder/sound/zeus/plasma_expl.wav",
    "sha256": "ce5c88f2599120793ec9f4985a9d0b9668734fbc9fd60484c3ff348084f8408f",
    "timestamp": "2013-08-07T10:57:38.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/plasma_hit.wav": {
    "bytes": 54406,
-   "path": "tombofthunder/sound/zeus/plasma_hit.wav",
    "sha256": "961fb4304057542e630f7394dfbe5a0682b2eb1398abb7d312a712a178a5c75b",
    "timestamp": "2015-08-28T00:39:36.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/rise.wav": {
    "bytes": 73786,
-   "path": "tombofthunder/sound/zeus/rise.wav",
    "sha256": "37b5f44aabff02b164c7e7f82c0e75047c3b9a6147c5de544f195b224fddf91c",
    "timestamp": "2023-05-05T09:23:38.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/rise_phase2.wav": {
    "bytes": 77868,
-   "path": "tombofthunder/sound/zeus/rise_phase2.wav",
    "sha256": "a539bacfd6c28bccaacae3dbf8c0cb76c015ee0545f0826a7ab04083e22e5008",
    "timestamp": "2023-05-09T15:52:18.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/sattck1.wav": {
    "bytes": 8036,
-   "path": "tombofthunder/sound/zeus/sattck1.wav",
    "sha256": "efa18dec8f6d5066b8d494a232ca9c98c27a4a9130130086a9b0a27ffccb34ed",
    "timestamp": "2023-02-09T10:26:08.000Z"
   },
-  {
+  "tombofthunder/sound/zeus/sboom.wav": {
    "bytes": 11672,
-   "path": "tombofthunder/sound/zeus/sboom.wav",
    "sha256": "6c64dafb52536ae35f9d50cd5f6c5c636f3403b83cac4d1e55e62e913e2ca79b",
    "timestamp": "2023-02-09T10:26:08.000Z"
   },
-  {
+  "tombofthunder/srcGIT/": {
    "bytes": 0,
-   "path": "tombofthunder/srcGIT/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-26T09:14:12.000Z"
   },
-  {
+  "tombofthunder/srcGIT/ai.qc": {
    "bytes": 36111,
-   "path": "tombofthunder/srcGIT/ai.qc",
    "sha256": "b51cf156f62e8469bd59226b181c8a1781877c06ca534b334d368f7b95f38123",
    "timestamp": "2023-09-07T12:23:56.000Z"
   },
-  {
+  "tombofthunder/srcGIT/buttons.qc": {
    "bytes": 6249,
-   "path": "tombofthunder/srcGIT/buttons.qc",
    "sha256": "e3dc154eb3e1b90713c64a6e01860363aea515154136ba22c8c94ac498e9934e",
    "timestamp": "2021-02-05T01:27:00.000Z"
   },
-  {
+  "tombofthunder/srcGIT/client.qc": {
    "bytes": 48287,
-   "path": "tombofthunder/srcGIT/client.qc",
    "sha256": "281ac2eb8d5e860b31fb15853677dfa413cd683fd775beba151bf83ced7fb8c8",
    "timestamp": "2024-06-04T10:01:20.000Z"
   },
-  {
+  "tombofthunder/srcGIT/combat.qc": {
    "bytes": 17174,
-   "path": "tombofthunder/srcGIT/combat.qc",
    "sha256": "1431b532801ace5dc75866758ab1adb00f08a996ac4bac4dbcd6270313fc0e88",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/constants.qc": {
    "bytes": 8405,
-   "path": "tombofthunder/srcGIT/constants.qc",
    "sha256": "484f4e3f1a0eeac3b84421ef3e30258db2462992cf11b4874de31ae0843b7e19",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/defs.qc": {
    "bytes": 17269,
-   "path": "tombofthunder/srcGIT/defs.qc",
    "sha256": "973906e2001d137f1d76bc7f5d1d590a79c1af6f8e8f4da02480d66e9b09a331",
    "timestamp": "2024-06-04T10:19:42.000Z"
   },
-  {
+  "tombofthunder/srcGIT/dev.qc": {
    "bytes": 6685,
-   "path": "tombofthunder/srcGIT/dev.qc",
    "sha256": "4e15c447d4cad247e17e4559f9db93fd233a6f94a5ac9746fe6308e6fded03fb",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/doors.qc": {
    "bytes": 27063,
-   "path": "tombofthunder/srcGIT/doors.qc",
    "sha256": "ab4d5154d7922e4d1a659bbb3493e187a33382eeae7ada6d08241b50f6f2a549",
    "timestamp": "2024-05-17T15:05:36.000Z"
   },
-  {
+  "tombofthunder/srcGIT/explobox.qc": {
    "bytes": 6607,
-   "path": "tombofthunder/srcGIT/explobox.qc",
    "sha256": "0ee22739695a3a349bfb3e61aef3ca4383ccef066c3927b349fe75cce8cfe46f",
    "timestamp": "2022-06-05T21:12:34.000Z"
   },
-  {
+  "tombofthunder/srcGIT/fly.qc": {
    "bytes": 4968,
-   "path": "tombofthunder/srcGIT/fly.qc",
    "sha256": "03a1695d77b67e654d60005594cccd9763c5232880c4e57a969199f912bbfa78",
    "timestamp": "2020-09-02T21:18:28.000Z"
   },
-  {
+  "tombofthunder/srcGIT/fog.qc": {
    "bytes": 10164,
-   "path": "tombofthunder/srcGIT/fog.qc",
    "sha256": "301fc00e06a126960d2da61e866c06f04c1ba1bee49f3d36118b55ebe838f038",
    "timestamp": "2023-06-10T13:15:30.000Z"
   },
-  {
+  "tombofthunder/srcGIT/fx.qc": {
    "bytes": 24526,
-   "path": "tombofthunder/srcGIT/fx.qc",
    "sha256": "fc9d309192646c7987a8bb2c389ec1caf010f1f88f095fa655c36909c6460c56",
    "timestamp": "2022-06-13T00:09:34.000Z"
   },
-  {
+  "tombofthunder/srcGIT/impulse.qc": {
    "bytes": 6025,
-   "path": "tombofthunder/srcGIT/impulse.qc",
    "sha256": "fe8b58fe5fe05356e0cce7b90f916c78e7518e23c44a9428a8525cd7b0416743",
    "timestamp": "2024-04-26T08:32:46.000Z"
   },
-  {
+  "tombofthunder/srcGIT/item_backpack.qc": {
    "bytes": 8857,
-   "path": "tombofthunder/srcGIT/item_backpack.qc",
    "sha256": "7e76703896a514c54853a4dcd0c81e449e369344d8d56fac837112bdab4ee3e8",
    "timestamp": "2024-05-14T13:14:08.000Z"
   },
-  {
+  "tombofthunder/srcGIT/item_health_armor.qc": {
    "bytes": 8272,
-   "path": "tombofthunder/srcGIT/item_health_armor.qc",
    "sha256": "f17cd374907f8d01e1137533102700e4fa362c92df86a2e2e4f3efad54dae311",
    "timestamp": "2021-02-10T23:44:46.000Z"
   },
-  {
+  "tombofthunder/srcGIT/item_keys_runes.qc": {
    "bytes": 10551,
-   "path": "tombofthunder/srcGIT/item_keys_runes.qc",
    "sha256": "04b07d2db7a0f04725d4be32c9a618403902b769b6cbd4253ed1da3e5b2677ad",
    "timestamp": "2024-06-04T10:20:58.000Z"
   },
-  {
+  "tombofthunder/srcGIT/item_powerups.qc": {
    "bytes": 9112,
-   "path": "tombofthunder/srcGIT/item_powerups.qc",
    "sha256": "4483508b2d3ddcc870c033fb44b6d0df4a3b9a8d6fb4ff94e0bfd42d4df5bc0a",
    "timestamp": "2024-05-06T16:29:02.000Z"
   },
-  {
+  "tombofthunder/srcGIT/item_weap_ammo.qc": {
    "bytes": 16108,
-   "path": "tombofthunder/srcGIT/item_weap_ammo.qc",
    "sha256": "1816adedca5c55b52dea79eeda749e41f7347d174e597cc97a652e93cc7f1c12",
    "timestamp": "2021-03-02T09:40:46.000Z"
   },
-  {
+  "tombofthunder/srcGIT/items.qc": {
    "bytes": 26167,
-   "path": "tombofthunder/srcGIT/items.qc",
    "sha256": "bd39ac0ea40efeae3fc4ce8f9257f685d166fb63df2a469f0296a6fae3a928d1",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/lights.qc": {
    "bytes": 25841,
-   "path": "tombofthunder/srcGIT/lights.qc",
    "sha256": "1f902d3957aa60d0c4045bf7dca3af75c37e0b0375ab3105363f48335d218f00",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_boss.qc": {
    "bytes": 19742,
-   "path": "tombofthunder/srcGIT/m_boss.qc",
    "sha256": "1afc14aa8557c5efbd91a305b967d6d09126a89824bff9ec4de7bb8b2f3a2fa1",
    "timestamp": "2023-04-04T14:33:12.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_demon.qc": {
    "bytes": 25389,
-   "path": "tombofthunder/srcGIT/m_demon.qc",
    "sha256": "7fff490c1aadb9475d7608993508e12866e662abe8db7ea4d31ee30b11c83b07",
    "timestamp": "2024-06-01T22:40:50.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_disciple.qc": {
    "bytes": 20974,
-   "path": "tombofthunder/srcGIT/m_disciple.qc",
    "sha256": "21aaa9a6e303ca2e112b999d20443e6f7b4deb20db7e7effeee0bb9d82030c31",
    "timestamp": "2024-05-31T15:25:02.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_dog.qc": {
    "bytes": 14695,
-   "path": "tombofthunder/srcGIT/m_dog.qc",
    "sha256": "0b508110e25c4ecf7ed2ddf0df6135f974174a87c46d5fdbe5faa96cbae4fb8f",
    "timestamp": "2021-02-12T16:44:12.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_enforcer.qc": {
    "bytes": 17471,
-   "path": "tombofthunder/srcGIT/m_enforcer.qc",
    "sha256": "e3699de776f4225589f87605984af17d5b4673df96c0f0afc147e82718bfdccd",
    "timestamp": "2023-08-03T00:57:08.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_fish.qc": {
    "bytes": 14182,
-   "path": "tombofthunder/srcGIT/m_fish.qc",
    "sha256": "d9d486b4df46f0238bb2e66a11afc419f973f29a84e2190722cb5f5c707cd697",
    "timestamp": "2021-02-16T16:32:30.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_glad.qc": {
    "bytes": 22288,
-   "path": "tombofthunder/srcGIT/m_glad.qc",
    "sha256": "0286b6463996d8f2f9de4baede2c2c3b79485627cc68dad8b6574e3793ff0051",
    "timestamp": "2024-04-22T15:06:18.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_hknight.qc": {
    "bytes": 28361,
-   "path": "tombofthunder/srcGIT/m_hknight.qc",
    "sha256": "c4a5ee9da7ddb14fb288a47eb4b353efce9a0b5f3d57f39a5d2461faa3219e0f",
    "timestamp": "2023-08-29T16:35:30.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_knight.qc": {
    "bytes": 16888,
-   "path": "tombofthunder/srcGIT/m_knight.qc",
    "sha256": "2982547d0938f0937028942337ecbac94d4b095ff4405e370c13d1d5ae59acaa",
    "timestamp": "2024-05-12T21:15:02.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_nailinf.qc": {
    "bytes": 18400,
-   "path": "tombofthunder/srcGIT/m_nailinf.qc",
    "sha256": "d300a2b0d7144d9a5097dbc9fcb8e53859f16056c9c7db1bc1ac3d69de0c7982",
    "timestamp": "2024-05-22T21:53:14.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_ogre.qc": {
    "bytes": 22343,
-   "path": "tombofthunder/srcGIT/m_ogre.qc",
    "sha256": "c91c2dca6a2f1f9059eca7d484cca14525117a4329213a979ad1f369ccfa065e",
    "timestamp": "2022-06-05T21:12:58.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_oldone.qc": {
    "bytes": 14371,
-   "path": "tombofthunder/srcGIT/m_oldone.qc",
    "sha256": "9bfe9e9bb32289a8e936658b5f939312f40bb34196e000f508ec65538ac2d646",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_shalrath.qc": {
    "bytes": 17427,
-   "path": "tombofthunder/srcGIT/m_shalrath.qc",
    "sha256": "bfd68b148f45dfd41b0910bad1c3afc9a91db55f5dfac44b787beaaf9a375c64",
    "timestamp": "2023-11-29T11:02:28.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_shambler.qc": {
    "bytes": 24399,
-   "path": "tombofthunder/srcGIT/m_shambler.qc",
    "sha256": "63587d4554a346bb6d0ed3dc7ebd85d54324e4ad808496790ae22eee8c866a67",
    "timestamp": "2022-01-13T00:44:38.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_soldier.qc": {
    "bytes": 17571,
-   "path": "tombofthunder/srcGIT/m_soldier.qc",
    "sha256": "57ba75f5b324df0d949282dce707ae0cfa1dfa7f68216b5692ade165f537830a",
    "timestamp": "2021-02-11T11:11:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_tarbaby.qc": {
    "bytes": 14912,
-   "path": "tombofthunder/srcGIT/m_tarbaby.qc",
    "sha256": "8364fe13fc56ed414ce308af872e0904b6a2c8de29bbc04fdde5c0b1c0755c90",
    "timestamp": "2024-05-10T15:27:38.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_wizard.qc": {
    "bytes": 15956,
-   "path": "tombofthunder/srcGIT/m_wizard.qc",
    "sha256": "0e65d9ee7ee06ea83a4c3152d7dd3e9a819cf7c5f10bd14b3605524a926d1006",
    "timestamp": "2023-09-07T12:38:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_zeus.qc": {
    "bytes": 52662,
-   "path": "tombofthunder/srcGIT/m_zeus.qc",
    "sha256": "b3a9a3d74877a83d27533cdba36f8578e091e88d604817453f79f4191bc2bfa0",
    "timestamp": "2024-05-07T22:04:10.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_zeus1.qc": {
    "bytes": 26727,
-   "path": "tombofthunder/srcGIT/m_zeus1.qc",
    "sha256": "e477aaeea4853fb62cfa3b4d32d2954c6d600b49a5a33b82182b5a71f25c6681",
    "timestamp": "2023-04-19T22:11:16.000Z"
   },
-  {
+  "tombofthunder/srcGIT/m_zombie.qc": {
    "bytes": 31672,
-   "path": "tombofthunder/srcGIT/m_zombie.qc",
    "sha256": "3c67102205b349e70c15cb40423af422ffebc17082a2b2ea599ae5183f884dd3",
    "timestamp": "2021-02-11T16:26:20.000Z"
   },
-  {
+  "tombofthunder/srcGIT/maths.qc": {
    "bytes": 5909,
-   "path": "tombofthunder/srcGIT/maths.qc",
    "sha256": "4d098463c26f795cfd6b6fec621ffb6716580f85a19f808d2e0e293fccf8702f",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/meat.qc": {
    "bytes": 7115,
-   "path": "tombofthunder/srcGIT/meat.qc",
    "sha256": "3a8884572adb434267f1c68e5f6cba826d42ca886362a9db443fe3bf0d4ffbb6",
    "timestamp": "2021-02-05T10:37:54.000Z"
   },
-  {
+  "tombofthunder/srcGIT/misc.qc": {
    "bytes": 18799,
-   "path": "tombofthunder/srcGIT/misc.qc",
    "sha256": "959a70c758b051b4b1f689f9e7ce3b3111bd1d8a367e0300805f7232973272f4",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/monsters.qc": {
    "bytes": 18172,
-   "path": "tombofthunder/srcGIT/monsters.qc",
    "sha256": "cab47815fbf2810ab0648b8ed6e3ad257b43c51afefa7acb76301b29665816ba",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/plats.qc": {
    "bytes": 26730,
-   "path": "tombofthunder/srcGIT/plats.qc",
    "sha256": "976f6b24fa8c64082ebfe4f3a054fa5b20e99074e65682d37464620b01b75502",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/player.qc": {
    "bytes": 25058,
-   "path": "tombofthunder/srcGIT/player.qc",
    "sha256": "b18db6f52ce74dab5e7fc97ec4076693fc5052feb49c4cdab16a6fd345edcdf5",
    "timestamp": "2024-06-10T22:41:50.000Z"
   },
-  {
+  "tombofthunder/srcGIT/progs.dat": {
    "bytes": 644710,
-   "path": "tombofthunder/srcGIT/progs.dat",
    "sha256": "cfbe75e02f7c7bc6b2e6ee46831492d21b1c6981ab03224557e1e5547eedb835",
    "timestamp": "2021-02-11T11:11:28.000Z"
   },
-  {
+  "tombofthunder/srcGIT/progs.src": {
    "bytes": 1190,
-   "path": "tombofthunder/srcGIT/progs.src",
    "sha256": "67889ce46b999fee829e0f3c2c321fd99369fb6e27e2926352d8a0015d7bb640",
    "timestamp": "2024-04-26T09:13:46.000Z"
   },
-  {
+  "tombofthunder/srcGIT/projectiles.qc": {
    "bytes": 19297,
-   "path": "tombofthunder/srcGIT/projectiles.qc",
    "sha256": "0cf3e562f9220db0ed092e86bb3e3e487682dd4b72e845a6e90f9be2724a1942",
    "timestamp": "2024-05-12T21:38:24.000Z"
   },
-  {
+  "tombofthunder/srcGIT/shooters.qc": {
    "bytes": 16519,
-   "path": "tombofthunder/srcGIT/shooters.qc",
    "sha256": "e12b49bb89bd843db51331591b95473cf8914e8c9b89f02831ce993608a842ab",
    "timestamp": "2024-05-12T21:39:52.000Z"
   },
-  {
+  "tombofthunder/srcGIT/sound.qc": {
    "bytes": 11331,
-   "path": "tombofthunder/srcGIT/sound.qc",
    "sha256": "de07adea2bc818cc73859ca2f3fd688bc55a9f6b6e253e0cb5e346d931888f47",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/subs.qc": {
    "bytes": 2671,
-   "path": "tombofthunder/srcGIT/subs.qc",
    "sha256": "496742036a27163cce27f3139c44910067fa8eb3eca37f834c74359253bdac99",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/subs_move.qc": {
    "bytes": 4141,
-   "path": "tombofthunder/srcGIT/subs_move.qc",
    "sha256": "1b0ade230265325e64604500f9e86bd8e583a0cb6fd50b50f079da0ded099c8b",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/subs_tgt.qc": {
    "bytes": 12226,
-   "path": "tombofthunder/srcGIT/subs_tgt.qc",
    "sha256": "82cd975041dbf267f2ed2652b6c08cd00d633f3f8241d741b5d646765e5f9669",
    "timestamp": "2020-09-02T21:18:28.000Z"
   },
-  {
+  "tombofthunder/srcGIT/t_ctrl.qc": {
    "bytes": 15757,
-   "path": "tombofthunder/srcGIT/t_ctrl.qc",
    "sha256": "cc610ae62d11e05a2f4255296a95b17e62e8fd751faa69c33a99acb4f7882ffe",
    "timestamp": "2024-05-17T15:06:24.000Z"
   },
-  {
+  "tombofthunder/srcGIT/t_level.qc": {
    "bytes": 15123,
-   "path": "tombofthunder/srcGIT/t_level.qc",
    "sha256": "c12c2d74459b2f8c5b5006f3ca7edeb798f82d1172386f974627636acbd43a40",
    "timestamp": "2023-06-10T13:14:20.000Z"
   },
-  {
+  "tombofthunder/srcGIT/t_supermonsters.qc": {
    "bytes": 1004,
-   "path": "tombofthunder/srcGIT/t_supermonsters.qc",
    "sha256": "0ed82b517909070df8961710954e291e3cf1b34714839d18e613c01c9a19f682",
    "timestamp": "2024-05-31T16:50:58.000Z"
   },
-  {
+  "tombofthunder/srcGIT/t_tele.qc": {
    "bytes": 18330,
-   "path": "tombofthunder/srcGIT/t_tele.qc",
    "sha256": "10bee91dffc8bbf853e2d86865077671aa26b39f1ed2554cab4f9a62f6a9fc7d",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/t_void.qc": {
    "bytes": 15357,
-   "path": "tombofthunder/srcGIT/t_void.qc",
    "sha256": "31bf6b5fdeba6aa0d2ff14ca0e496c9049805c962070dbe53545ad5e70fcf17e",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/test.qc": {
    "bytes": 329,
-   "path": "tombofthunder/srcGIT/test.qc",
    "sha256": "1db99110de27d9e6fe20330cbfefde0d443455a85a12ae8443d9ea295e66c3f1",
    "timestamp": "2020-09-02T21:18:28.000Z"
   },
-  {
+  "tombofthunder/srcGIT/triggers.qc": {
    "bytes": 34282,
-   "path": "tombofthunder/srcGIT/triggers.qc",
    "sha256": "9d626024d7066692c34ab4e5a083de08b85befb34d9e0579f36ba972b9d88532",
    "timestamp": "2024-04-26T15:14:16.000Z"
   },
-  {
+  "tombofthunder/srcGIT/utility.qc": {
    "bytes": 16599,
-   "path": "tombofthunder/srcGIT/utility.qc",
    "sha256": "d439cd81f20557134a595fdffecd2d9e33c528866a6f701bf6f04b4192cdea8e",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/w_axe.qc": {
    "bytes": 4593,
-   "path": "tombofthunder/srcGIT/w_axe.qc",
    "sha256": "2f43bc92e06c18456b8104c00f6f2327e28c686955fa83ede1bae69ef697a3f8",
    "timestamp": "2024-05-23T16:00:12.000Z"
   },
-  {
+  "tombofthunder/srcGIT/w_lightning.qc": {
    "bytes": 14999,
-   "path": "tombofthunder/srcGIT/w_lightning.qc",
    "sha256": "abd1ad058e495b94575ecd71fc5ff2e06cd52c0549acc1b0d892ba79a4bb58c2",
    "timestamp": "2024-05-18T22:45:50.000Z"
   },
-  {
+  "tombofthunder/srcGIT/w_nails.qc": {
    "bytes": 6945,
-   "path": "tombofthunder/srcGIT/w_nails.qc",
    "sha256": "f154436be6ad4b9f56acca98294a8a11cd4cb7be7852da09f81c22b95eb644e3",
    "timestamp": "2024-06-10T22:42:12.000Z"
   },
-  {
+  "tombofthunder/srcGIT/w_rockets.qc": {
    "bytes": 4462,
-   "path": "tombofthunder/srcGIT/w_rockets.qc",
    "sha256": "e0a78d7ec754d9a67af91f9799d5684eaa6bad6e2de2a1aa871f0663293d7d9b",
    "timestamp": "2023-10-06T15:02:34.000Z"
   },
-  {
+  "tombofthunder/srcGIT/w_shotguns.qc": {
    "bytes": 5012,
-   "path": "tombofthunder/srcGIT/w_shotguns.qc",
    "sha256": "2a724f881e7602f738c3203ae097e68e77b629d7028179ae79994e4528b34a8a",
    "timestamp": "2024-04-23T07:43:10.000Z"
   },
-  {
+  "tombofthunder/srcGIT/walls.qc": {
    "bytes": 8919,
-   "path": "tombofthunder/srcGIT/walls.qc",
    "sha256": "cc39643c82d4607b8300325a3221a75dec828a4f0c47739840a6c2aee30b06d9",
    "timestamp": "2020-11-26T12:54:32.000Z"
   },
-  {
+  "tombofthunder/srcGIT/weapons.qc": {
    "bytes": 12682,
-   "path": "tombofthunder/srcGIT/weapons.qc",
    "sha256": "f349cc1d0b0391867e900ff3dae61cec2348ccea82376c08b1ee40229218e703",
    "timestamp": "2024-06-10T22:41:56.000Z"
   },
-  {
+  "tombofthunder/srcGIT/world.qc": {
    "bytes": 13234,
-   "path": "tombofthunder/srcGIT/world.qc",
    "sha256": "56a28d29b91bb241cc30f39c56780ff9d4e651d4ecfc626649bfab8d5a95c37f",
    "timestamp": "2024-04-24T09:34:36.000Z"
   },
-  {
+  "tombofthunder/srcMAP/": {
    "bytes": 0,
-   "path": "tombofthunder/srcMAP/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-27T11:31:24.000Z"
   },
-  {
+  "tombofthunder/srcMAP/seeyou.map": {
    "bytes": 277131,
-   "path": "tombofthunder/srcMAP/seeyou.map",
    "sha256": "92f8ca09cd9e4843ca6f24aaa2e98f0b9151a3a8d3a7fa071b7bcc4d22aa2c7e",
    "timestamp": "2024-05-31T14:23:54.000Z"
   },
-  {
+  "tombofthunder/srcMAP/start.map": {
    "bytes": 1152784,
-   "path": "tombofthunder/srcMAP/start.map",
    "sha256": "0999a527635945a1135c996a0d729595c4a97f467306c0d88fcf45da5736635f",
    "timestamp": "2024-05-31T13:19:16.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot1.map": {
    "bytes": 6190375,
-   "path": "tombofthunder/srcMAP/tot1.map",
    "sha256": "0198cf4cd9b79e6ad6b6fb06d90ef24b2532b444a9a7e4ab4d015f6fbc22c09d",
    "timestamp": "2024-05-30T08:14:52.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot2.map": {
    "bytes": 6461775,
-   "path": "tombofthunder/srcMAP/tot2.map",
    "sha256": "a8379d494bffcbd90932e19e26d83f066055078ba0c6b01b50b3f78de9898fcd",
    "timestamp": "2024-05-31T08:40:38.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot3.map": {
    "bytes": 6143820,
-   "path": "tombofthunder/srcMAP/tot3.map",
    "sha256": "8f6460c98297c0b2a878a5811e1e796c5126934886700883f50667f8d95b2bfd",
    "timestamp": "2024-07-01T11:20:32.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot4a.map": {
    "bytes": 13120503,
-   "path": "tombofthunder/srcMAP/tot4a.map",
    "sha256": "7d5038a631c8ca822e10a87299bbb663e6159c28833d51294c929c4c37465b2c",
    "timestamp": "2024-07-01T10:58:42.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot4b.map": {
    "bytes": 13120503,
-   "path": "tombofthunder/srcMAP/tot4b.map",
    "sha256": "433e98b96489aaf904f198ac9ac7bc52e387ee458d0917bbf927c3d17b535f84",
    "timestamp": "2024-07-01T11:00:32.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot4c.map": {
    "bytes": 13121095,
-   "path": "tombofthunder/srcMAP/tot4c.map",
    "sha256": "07308bd72bdd86051d8b63d777bb8111b589cbcc8bb2b7df4b28de4b971222f0",
    "timestamp": "2024-07-01T11:00:56.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot5.map": {
    "bytes": 13028554,
-   "path": "tombofthunder/srcMAP/tot5.map",
    "sha256": "af84cfef9c0845844e2b57815a377466cb637fd98657c682706867c4c201614e",
    "timestamp": "2024-07-08T08:15:34.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot6.map": {
    "bytes": 3307526,
-   "path": "tombofthunder/srcMAP/tot6.map",
    "sha256": "fd22d44e5be8054d9c5dd095c2d127d887447b894864259a1980842f8fce073d",
    "timestamp": "2024-05-31T14:19:52.000Z"
   },
-  {
+  "tombofthunder/srcMAP/tot7.map": {
    "bytes": 14852057,
-   "path": "tombofthunder/srcMAP/tot7.map",
    "sha256": "41a781759166421df71a550d966ba6a167c6fe6d57acf3bd1569251837b6242e",
    "timestamp": "2024-07-01T10:53:10.000Z"
   },
-  {
+  "tombofthunder/tombofthunder.fgd": {
    "bytes": 48456,
-   "path": "tombofthunder/tombofthunder.fgd",
    "sha256": "9d38928ca23e9dd38641584a29f0e9c0114ef3913586cc4aa9bd1c9678593ed3",
    "timestamp": "2024-05-16T17:18:46.000Z"
   },
-  {
+  "tombofthunder/tombofthunder_poster.png": {
    "bytes": 1785636,
-   "path": "tombofthunder/tombofthunder_poster.png",
    "sha256": "2d1ca1ffd6d3423097a564260884f479813d5a16676951071fcc9cf1a9fbf6fb",
    "timestamp": "2024-05-16T07:57:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."

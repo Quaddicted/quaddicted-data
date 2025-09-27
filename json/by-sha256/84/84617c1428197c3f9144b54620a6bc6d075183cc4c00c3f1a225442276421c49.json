@@ -4,102 +4,87 @@
  ],
  "bytes": 8699517,
  "description": "Medieval castle with a distinctive blue skybox and atmospheric lighting, with surprises in store. The author's first released map.",
- "files": [
-  {
+ "files": {
+  "coger_README.txt": {
    "bytes": 3066,
-   "path": "coger_README.txt",
    "sha256": "2ac66413ce276b1dff4dbfe2c35933c2bab946d978adc7dd38d610fd7af151d2",
    "timestamp": "2024-03-20T20:07:12.000Z"
   },
-  {
+  "gfx/env/captivation-blue_bk.tga": {
    "bytes": 287340,
-   "path": "gfx/env/captivation-blue_bk.tga",
    "sha256": "66388d44641bd20eb7841f3de7a84a6ba46ae791e3915fb911f081d1b95105c0",
    "timestamp": "2024-02-16T14:57:08.000Z"
   },
-  {
+  "gfx/env/captivation-blue_dn.tga": {
    "bytes": 130432,
-   "path": "gfx/env/captivation-blue_dn.tga",
    "sha256": "1d32504d07ccfd1f89334ab0a67d58561c9a48aa5f1747a66608f6dc9441a49b",
    "timestamp": "2024-02-16T14:57:08.000Z"
   },
-  {
+  "gfx/env/captivation-blue_ft.tga": {
    "bytes": 277718,
-   "path": "gfx/env/captivation-blue_ft.tga",
    "sha256": "436b5ae399cb45374e93af48141094491c2280e56d4868298268064eb52882c4",
    "timestamp": "2024-02-16T14:57:08.000Z"
   },
-  {
+  "gfx/env/captivation-blue_lf.tga": {
    "bytes": 314328,
-   "path": "gfx/env/captivation-blue_lf.tga",
    "sha256": "8aa10e1db46e743431b705f34091e9e8738531e7124fbaa1d155b769e2a19f2b",
    "timestamp": "2024-02-16T14:57:08.000Z"
   },
-  {
+  "gfx/env/captivation-blue_rt.tga": {
    "bytes": 287035,
-   "path": "gfx/env/captivation-blue_rt.tga",
    "sha256": "4a19b968130b7d49851aed65c5d5a1a53e2a5449d45b7a38559c0d7a31ba7e82",
    "timestamp": "2024-02-16T14:57:08.000Z"
   },
-  {
+  "gfx/env/captivation-blue_up.tga": {
    "bytes": 154528,
-   "path": "gfx/env/captivation-blue_up.tga",
    "sha256": "3b3d9bb9d9ed9de69be7368489cbf822d0c05f762e816c4aa47dcea8a35607bd",
    "timestamp": "2024-02-16T14:57:08.000Z"
   },
-  {
+  "maps/coger.bsp": {
    "bytes": 9814760,
-   "path": "maps/coger.bsp",
    "sha256": "12a837404f25f0a00280d0560b575d12111c844c7925c98cb30e177462945db8",
    "timestamp": "2024-03-20T22:46:18.000Z"
   },
-  {
+  "maps/coger.lit": {
    "bytes": 5194676,
-   "path": "maps/coger.lit",
    "sha256": "c226b960078a402b8db7d2495232399a624fbb362b15686658508e843b4fea99",
    "timestamp": "2024-03-20T22:46:18.000Z"
   },
-  {
+  "maps/coger.map": {
    "bytes": 5175135,
-   "path": "maps/coger.map",
    "sha256": "747e9373c193a3c50f5d503f45653ab549c3cc58e5d41e5886f751bc59895548",
    "timestamp": "2024-03-20T22:17:00.000Z"
   },
-  {
+  "wads/ahh.wad": {
    "bytes": 44180,
-   "path": "wads/ahh.wad",
    "sha256": "565ed0464f480a9b34f45a4f56a599ee5ccba2dcc8a2598fa7c81b68a879f421",
    "timestamp": "2024-02-24T13:02:34.000Z"
   },
-  {
+  "wads/base.wad": {
    "bytes": 2874584,
-   "path": "wads/base.wad",
    "sha256": "409fe4adb3f35f6f9ba3f207222cbdfdfcbd2ac2f7bd0227f4867c30026a2d0d",
    "timestamp": "2024-02-25T14:24:54.000Z"
   },
-  {
+  "wads/medieval.wad": {
    "bytes": 3717916,
-   "path": "wads/medieval.wad",
    "sha256": "d2e45a611ed28eadb8210d42abf9bf6efc72bd540932b79d0e876259154643f0",
    "timestamp": "2024-02-11T23:16:32.000Z"
   },
-  {
+  "wads/skips_2018.wad": {
    "bytes": 33084,
-   "path": "wads/skips_2018.wad",
    "sha256": "7b93b32f12878cc640fb339cd586368ff7d7946649d102a003de114a0601736a",
    "timestamp": "2024-02-13T18:58:40.000Z"
   },
-  {
+  "wads/ubiBase_v100.wad": {
    "bytes": 976120,
-   "path": "wads/ubiBase_v100.wad",
    "sha256": "4637a25889ffdd15362790f33c6a9575e18e837930560d70c47a752659610757",
    "timestamp": "2024-02-16T21:40:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-03-21",
  "sha256": "84617c1428197c3f9144b54620a6bc6d075183cc4c00c3f1a225442276421c49",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 559202,
  "description": "Small medieval-style fortress where all items are hidden in countless secrets which have to be discovered in order to survive.",
- "files": [
-  {
+ "files": {
+  "secret.bsp": {
    "bytes": 1157204,
-   "path": "secret.bsp",
    "sha256": "aca8e716d733dd0ac9fae96fe00fce687e406de95da21462f013aaaffdf5b723",
    "timestamp": "2015-11-13T20:20:22.000Z"
   },
-  {
+  "secret.lit": {
    "bytes": 457883,
-   "path": "secret.lit",
    "sha256": "b58afdbb9117636c044107938bca06521eae38acd83c192cc5edd8d41c533a46",
    "timestamp": "2015-11-13T20:20:22.000Z"
   },
-  {
+  "secret.txt": {
    "bytes": 545,
-   "path": "secret.txt",
    "sha256": "2de125ccd02edf32ae686ad7300c4413ddbf4292c7dccfe4a17de872dbe0eec4",
    "timestamp": "2015-11-14T15:41:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2015-11-14",
  "sha256": "eafae3baaeee7004a9614f648dd692016b5968757769756e54c5b59883a816ed",
  "tags": [

@@ -11,66 +11,57 @@
  ],
  "bytes": 1212638,
  "description": "Non-detail textures / 8 SP maps / CZG, DaZ, Necros, Pushplay, NotoriousRay, Scampie, Starbuck, Xen",
- "files": [
-  {
+ "files": {
+  "sm48_crap.bsp": {
    "bytes": 315640,
-   "path": "sm48_crap.bsp",
    "sha256": "c5396eb60cbceb9099951002368e6ae0b5b1a33114fb1a64e8f685ed2c773d9a",
    "timestamp": "2003-09-06T19:36:56.000Z"
   },
-  {
+  "sm48_czg.bsp": {
    "bytes": 275548,
-   "path": "sm48_czg.bsp",
    "sha256": "5a426501abb30417e7265dd40df132add7a250dd083ce5e4ef20bff0263b590d",
    "timestamp": "2003-09-07T02:15:14.000Z"
   },
-  {
+  "sm48_daz.bsp": {
    "bytes": 530896,
-   "path": "sm48_daz.bsp",
    "sha256": "be5690e5257cf9b170f2ec9c1268013656b55b1ee7a93b183d856cfbe2d22f5d",
    "timestamp": "2003-09-07T00:26:00.000Z"
   },
-  {
+  "sm48_pack.txt": {
    "bytes": 2185,
-   "path": "sm48_pack.txt",
    "sha256": "6ce4050550ac29447f7d25b495a069caef101628a737b3e134930242946d1426",
    "timestamp": "2003-09-07T02:14:08.000Z"
   },
-  {
+  "sm48_push.bsp": {
    "bytes": 541356,
-   "path": "sm48_push.bsp",
    "sha256": "82f2dba270961b0cb970d92a30e026e78bd7ba389184f2cd2a222bf33eb6417a",
    "timestamp": "2003-09-06T18:45:20.000Z"
   },
-  {
+  "sm48_ray.bsp": {
    "bytes": 355392,
-   "path": "sm48_ray.bsp",
    "sha256": "e5880c8f06a63f3957a866776e2819f5006d439becc6fd71fe2acb08b6cf2322",
    "timestamp": "2003-09-06T20:51:02.000Z"
   },
-  {
+  "sm48_scampie.bsp": {
    "bytes": 484184,
-   "path": "sm48_scampie.bsp",
    "sha256": "cdfd24b460f4da3728ffaa13fd1ad8003a5f335f854b0e47597a9bd95d207d82",
    "timestamp": "2001-09-06T21:20:26.000Z"
   },
-  {
+  "sm48_starbuck.bsp": {
    "bytes": 413960,
-   "path": "sm48_starbuck.bsp",
    "sha256": "4574a2dba98cef5a0687c750dedcac2e3f871f8b2df3cc6fbf51343e600e77ff",
    "timestamp": "2003-09-07T01:52:18.000Z"
   },
-  {
+  "sm48_xen.bsp": {
    "bytes": 743648,
-   "path": "sm48_xen.bsp",
    "sha256": "2406ab25ecd121f601ce669382139e7311e749361e24c6e663954dd643b30e6b",
    "timestamp": "2003-09-07T01:42:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-09-07",
  "sha256": "170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a",
  "tags": [

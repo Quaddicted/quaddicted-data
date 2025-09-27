@@ -4,54 +4,47 @@
  ],
  "bytes": 18013501,
  "description": "Large Knave-textured underground lava fortress. It is based on the Progs_dump mod (included) and comes with a few new models, sounds, and a custom music track. The map and qc sources are included.",
- "files": [
-  {
+ "files": {
+  "jpqm4/README - jpqm4 - Chthonic Deities.txt": {
    "bytes": 3863,
-   "path": "jpqm4/README - jpqm4 - Chthonic Deities.txt",
    "sha256": "1b444ad36062891b2faf1d5d083e8a3b1a73f18f62318d479f4d8576585cbf9c",
    "timestamp": "2021-07-01T00:54:02.000Z"
   },
-  {
+  "jpqm4/map src/": {
    "bytes": 0,
-   "path": "jpqm4/map src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-07-04T00:41:50.000Z"
   },
-  {
+  "jpqm4/map src/jpqm4.map": {
    "bytes": 15768195,
-   "path": "jpqm4/map src/jpqm4.map",
    "sha256": "f9d230ee2b9e824f2a33bd7013e0f96f8a5414a2e829da9c7512b3cdd2159bc7",
    "timestamp": "2021-07-04T00:40:54.000Z"
   },
-  {
+  "jpqm4/music/": {
    "bytes": 0,
-   "path": "jpqm4/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-06-25T10:17:46.000Z"
   },
-  {
+  "jpqm4/music/track105.ogg": {
    "bytes": 4877264,
-   "path": "jpqm4/music/track105.ogg",
    "sha256": "d012b82c3bb9b3a567038bca72e85ad22bdde857fc7246e4ca2a9258b8615747",
    "timestamp": "2020-10-31T21:52:58.000Z"
   },
-  {
+  "jpqm4/pak0.pak": {
    "bytes": 30375826,
-   "path": "jpqm4/pak0.pak",
    "sha256": "2530b53b7134d160b3c506cb67eafbafa156e17372f119af89c7f7f66be9c463",
    "timestamp": "2021-07-04T00:42:10.000Z"
   },
-  {
+  "jpqm4/progs_dump-devkit-readme.txt": {
    "bytes": 5611,
-   "path": "jpqm4/progs_dump-devkit-readme.txt",
    "sha256": "59be3f7ae9636a369eb991cbb946604fb0d988711de4ebd5426b028a8ae2749b",
    "timestamp": "2021-06-25T10:15:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],

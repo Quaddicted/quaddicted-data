@@ -4,24 +4,22 @@
  ],
  "bytes": 448461,
  "description": "Small base map.",
- "files": [
-  {
+ "files": {
+  "F_Box.bsp": {
    "bytes": 1046032,
-   "path": "F_Box.bsp",
    "sha256": "2d306041124784d1c82ad2292656764c3387ec1b3bdf78a5a504f297785d6186",
    "timestamp": "2014-11-22T16:00:12.000Z"
   },
-  {
+  "F_Box.txt": {
    "bytes": 2351,
-   "path": "F_Box.txt",
    "sha256": "687910eabe3d5f3a06ec95265c24b81a0b7c6c091ed566ab9ca6ac7f750a78bc",
    "timestamp": "2014-11-22T16:43:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2014-11-22",
  "sha256": "78a53eb035e7807c6eb59db7ee0fa44c5edb808f46a7294d4adab498044262c0",
  "tags": [

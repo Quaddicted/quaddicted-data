@@ -4,24 +4,22 @@
  ],
  "bytes": 834575,
  "description": "Medium sized Base map with an original and unique twist: the illusion of walking on multiple plains - nine years before Prey.",
- "files": [
-  {
+ "files": {
+  "thefly.bsp": {
    "bytes": 1979896,
-   "path": "thefly.bsp",
    "sha256": "5b47cf527d248dcecc0ad41c30bb0832d1faacb773de8e6422b607882a7a967d",
    "timestamp": "1997-08-31T21:46:02.000Z"
   },
-  {
+  "thefly.txt": {
    "bytes": 3530,
-   "path": "thefly.txt",
    "sha256": "c560730f2fae48d5018eef2bf12c0b3da44d7a71c353498dfa3344f5f99d508d",
    "timestamp": "1997-08-31T23:57:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-31",
  "sha256": "690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e",
  "tags": [

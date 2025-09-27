@@ -4,24 +4,22 @@
  ],
  "bytes": 1924172,
  "description": "Medium to large base map with a warehouse, a mech hangar and a submarine port. A singleplayer demo is included.",
- "files": [
-  {
+ "files": {
+  "BASE1.dem": {
    "bytes": 2382350,
-   "path": "BASE1.dem",
    "sha256": "388fa9cb95bc52f632b696ea6fa9c5092b4446406a32b875337132a1af9778f7",
    "timestamp": "1998-03-06T20:41:30.000Z"
   },
-  {
+  "base.bsp": {
    "bytes": 3714648,
-   "path": "base.bsp",
    "sha256": "108a86598fafe9c5c36e2848c9747cbbaf93df780d72669138a32260c82d7cfd",
    "timestamp": "1998-03-04T11:01:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Originally named \"my level.zip\", renamed to \"my_level.zip\"."
  ],

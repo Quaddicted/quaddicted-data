@@ -16,1512 +16,1262 @@
  ],
  "bytes": 272292070,
  "description": "13 varied (some rather large) maps + custom start map. This year, there was no 1024^3 space constraint, and jammers used a mix of Halloween and Christmas themes since there was no Halloween jam. Built on Arcane Dimensions v1.81 (already included). Features some some custom monsters and music, and some map source is included. Jam organized by Fairweather.",
- "files": [
-  {
+ "files": {
+  "tcj/": {
    "bytes": 0,
-   "path": "tcj/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-21T16:13:22.000Z"
   },
-  {
+  "tcj/gfx/": {
    "bytes": 0,
-   "path": "tcj/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/gfx/conback.lmp": {
    "bytes": 64008,
-   "path": "tcj/gfx/conback.lmp",
    "sha256": "c5410c0462a4cf349a4a617cafbabdbd4be95a0a502afc53786146a33534c2b3",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/gfx/env/": {
    "bytes": 0,
-   "path": "tcj/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/gfx/env/doom2016_boneyard_bk.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/doom2016_boneyard_bk.tga",
    "sha256": "9ee50a1c9af3f949dbab9c7e7fb0d8f45c1e949814ff74b84fcdaa06918cae43",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/gfx/env/doom2016_boneyard_dn.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/doom2016_boneyard_dn.tga",
    "sha256": "a835eea3289dc3d531f2a9b10d910a2d21b3c2d1defefc761a41acdc9235c5cb",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/gfx/env/doom2016_boneyard_ft.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/doom2016_boneyard_ft.tga",
    "sha256": "816fd0eb3887a7572375a8a7506268d424274796e8375a31441de0f6aa16ec5f",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/gfx/env/doom2016_boneyard_lf.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/doom2016_boneyard_lf.tga",
    "sha256": "8fd1b611b46f59b544ffd46a4b2226490c9229aa210fdc452792c180ec171c4c",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/gfx/env/doom2016_boneyard_rt.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/doom2016_boneyard_rt.tga",
    "sha256": "2f499786d8ce588f38a4c62630dc8d20f7eeba5b357d52c8810395ea5c9dfa54",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/gfx/env/doom2016_boneyard_up.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/doom2016_boneyard_up.tga",
    "sha256": "ac41a247bc045ac07918b8b95acaa91c7c67ed54de6fcf6ff06919aa7aadfb0a",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_nightsky1_bk.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_nightsky1_bk.tga",
    "sha256": "4078d021f89972ed7d11c41a0cdf3b053d7161cd142a8a8946101d86614beead",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_nightsky1_dn.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_nightsky1_dn.tga",
    "sha256": "41e728c4386d5461371933f51bb424a1c40b2882aa496db8f390976d21630f98",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_nightsky1_ft.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_nightsky1_ft.tga",
    "sha256": "544c88434228344c3c5087c13a0f27e06843312695565a48a73f819484db7741",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_nightsky1_lf.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_nightsky1_lf.tga",
    "sha256": "f4e5527e363c0a714300eaced314103208859bb75f74f57adb153114a9ba2051",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_nightsky1_rt.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_nightsky1_rt.tga",
    "sha256": "d3dd339652fdb82370730c5a18765c34858326d49b2cf3b82d1a429fcc9543c5",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_nightsky1_up.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_nightsky1_up.tga",
    "sha256": "17a39daadeed06e143b71808952ba84d7c608eebed78541aa4882367b4a83825",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_purplesky5_bk.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_purplesky5_bk.tga",
    "sha256": "4d1cd8c1db5ea2b883b0997affdff95e9725b4932625dc0f4c48cb0ffe2bef93",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_purplesky5_dn.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_purplesky5_dn.tga",
    "sha256": "72359328c681a3e6bc34d4a1817a0b024d257ca689f1c17d02550f61011ab6c6",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_purplesky5_ft.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_purplesky5_ft.tga",
    "sha256": "2354a52bafd43b18e7e6e3a54cae0d28b6f75ba9ea74467ec467d4a70d918a44",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_purplesky5_lf.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_purplesky5_lf.tga",
    "sha256": "83747ea8626fe08b46de6bdc5cbba5321592eb96c4e50df37f25829d5fe27319",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_purplesky5_rt.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_purplesky5_rt.tga",
    "sha256": "5bd6140c96defaae0d460ef53ad09716b4b9692b187eaa4af4a48b7ead36e76c",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mak_purplesky5_up.tga": {
    "bytes": 3145772,
-   "path": "tcj/gfx/env/mak_purplesky5_up.tga",
    "sha256": "fc6a6e157c5243856c7d94db9e9bbb04eb5aeeaefba41fe321ca31e42f9509c5",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/": {
    "bytes": 0,
-   "path": "tcj/gfx/env/mp_midnight/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/Midnight Silence.txt": {
    "bytes": 5731,
-   "path": "tcj/gfx/env/mp_midnight/Midnight Silence.txt",
    "sha256": "4b2eb19f79f04d113d6b85c6798ab5962e1f22a39971b8adabd4f6375b208fe4",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/license.txt": {
    "bytes": 273,
-   "path": "tcj/gfx/env/mp_midnight/license.txt",
    "sha256": "027a646bf82f8703f866e58d4da45c67851f1d7fc129f722825e5c267b300293",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/midnight-silence_bk.tga": {
    "bytes": 786450,
-   "path": "tcj/gfx/env/mp_midnight/midnight-silence_bk.tga",
    "sha256": "9d5f0e28142cc08f93d7b79f12b65c1f3a1f546e68bef3bf0d0ef2d26be059c6",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/midnight-silence_dn.tga": {
    "bytes": 786450,
-   "path": "tcj/gfx/env/mp_midnight/midnight-silence_dn.tga",
    "sha256": "90dce23e38cc3a9a0f86dbf0d7f0d801e1085522e3d293eaddc8a74ec68ef37d",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/midnight-silence_ft.tga": {
    "bytes": 786450,
-   "path": "tcj/gfx/env/mp_midnight/midnight-silence_ft.tga",
    "sha256": "e966594976e29dfad91d28b4c9603977ef90d2e4a4f1f5c427ab56fb2a0cc2de",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/midnight-silence_lf.tga": {
    "bytes": 786450,
-   "path": "tcj/gfx/env/mp_midnight/midnight-silence_lf.tga",
    "sha256": "29a9192e6cf131868cca7c7e33433f2422f96852d199cf88f7e898c50cc3f8e1",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/midnight-silence_rt.tga": {
    "bytes": 786450,
-   "path": "tcj/gfx/env/mp_midnight/midnight-silence_rt.tga",
    "sha256": "7a3568e069542bd609715217197c3730b731750897009504739d2c47115f2328",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/midnight-silence_up.tga": {
    "bytes": 786450,
-   "path": "tcj/gfx/env/mp_midnight/midnight-silence_up.tga",
    "sha256": "8c7eb3e68f23898b6693650aac35a886ab13fd8cff4a759eefe8ce2961378d28",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/mp_midnight/mp_midnight.shader": {
    "bytes": 307,
-   "path": "tcj/gfx/env/mp_midnight/mp_midnight.shader",
    "sha256": "9b19a5eb4b0b84f6593885ab351e5582c41807505f043517012435195edbc2c6",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/gfx/env/sea_sunsetbk.tga": {
    "bytes": 2707576,
-   "path": "tcj/gfx/env/sea_sunsetbk.tga",
    "sha256": "7dd0c5d580edd0a13d341d456185fed783464e86a8f15fda51e39ca7801936bc",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/sea_sunsetdn.tga": {
    "bytes": 1346917,
-   "path": "tcj/gfx/env/sea_sunsetdn.tga",
    "sha256": "e1e33eb9d7a5c055a4c8adaca55064090cf004b0c8bb85c8c3ca66edeec4432c",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/sea_sunsetft.tga": {
    "bytes": 2533695,
-   "path": "tcj/gfx/env/sea_sunsetft.tga",
    "sha256": "5f3bbf9a6c30962dc0a8c8244627dbbff360bbe88f83e0aabff7b12aef283b11",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/sea_sunsetlf.tga": {
    "bytes": 2576526,
-   "path": "tcj/gfx/env/sea_sunsetlf.tga",
    "sha256": "690181ea266310eb0b71b88e351c544880195fc0b84de140998a0f53c978106f",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/sea_sunsetrt.tga": {
    "bytes": 2642272,
-   "path": "tcj/gfx/env/sea_sunsetrt.tga",
    "sha256": "4c5ad28b7eda5017dbff54f7568289024382b75e57c3074577b143531fdc2a1b",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/sea_sunsetup.tga": {
    "bytes": 2931081,
-   "path": "tcj/gfx/env/sea_sunsetup.tga",
    "sha256": "71b9456aa141de7883423ad26ff6e6093a44b3b3dbfb943e24806a8332d8ad34",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/snowmoon_bk.tga": {
    "bytes": 707878,
-   "path": "tcj/gfx/env/snowmoon_bk.tga",
    "sha256": "f4c61c3a622a2dabfc2aa2748c3bba9ab52bf018c5c24b5aac6bd682b6d938de",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/snowmoon_dn.tga": {
    "bytes": 754863,
-   "path": "tcj/gfx/env/snowmoon_dn.tga",
    "sha256": "a6f29123dc3da6df244c6878d1a355b9ba7c093b9a38b94e8f9253d317de846c",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/snowmoon_ft.tga": {
    "bytes": 630095,
-   "path": "tcj/gfx/env/snowmoon_ft.tga",
    "sha256": "c10f65b43cff087a7044946f8105d24072bbcb33668bb485f501fc0bdcb7e293",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/snowmoon_lf.tga": {
    "bytes": 671066,
-   "path": "tcj/gfx/env/snowmoon_lf.tga",
    "sha256": "8025d6d72582a374583dc4c80d15de546b1ebea3f378cc55b084483778d8f985",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/snowmoon_rt.tga": {
    "bytes": 636559,
-   "path": "tcj/gfx/env/snowmoon_rt.tga",
    "sha256": "339a1a1a36ffafa6bb49ae5bffcb73c81d4304f0f6d40d5fe470654c0db56037",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/snowmoon_up.tga": {
    "bytes": 410341,
-   "path": "tcj/gfx/env/snowmoon_up.tga",
    "sha256": "f08c76ef2c7c2338b64615543ffa1217edab3ca41bc79cb74b20bc42d329e82c",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/whitecrispness_bk.tga": {
    "bytes": 664824,
-   "path": "tcj/gfx/env/whitecrispness_bk.tga",
    "sha256": "5b0e424d555c288521cf56faa9c986b31b61cac18ae71cd8e544e52663c8769c",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/whitecrispness_dn.tga": {
    "bytes": 704048,
-   "path": "tcj/gfx/env/whitecrispness_dn.tga",
    "sha256": "881311a5f32d802424288c1b1a255bbe918d1482b7e5fffeea42f7a9c324ff56",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/whitecrispness_ft.tga": {
    "bytes": 665310,
-   "path": "tcj/gfx/env/whitecrispness_ft.tga",
    "sha256": "5e5b5b7f3d62a47c3577242ae78926d0fa0f52685e3595ea9e8280349a12e52f",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/whitecrispness_lf.tga": {
    "bytes": 638523,
-   "path": "tcj/gfx/env/whitecrispness_lf.tga",
    "sha256": "ab33e960cd64fd6f2918b6aa1cbf24871c1bc434bdcb5d687e46d1254ac78ab3",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/whitecrispness_rt.tga": {
    "bytes": 684613,
-   "path": "tcj/gfx/env/whitecrispness_rt.tga",
    "sha256": "de8f4d5a7faacb98a392c5bc21a91be2c435211636b8ce74dab2063e8242755c",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/env/whitecrispness_up.tga": {
    "bytes": 572383,
-   "path": "tcj/gfx/env/whitecrispness_up.tga",
    "sha256": "112978a21f57bc436dccba216cbf0cdffb782d17e086b5be3cdf48817008825a",
    "timestamp": "2022-12-19T15:15:28.000Z"
   },
-  {
+  "tcj/gfx/qplaque.lmp": {
    "bytes": 4616,
-   "path": "tcj/gfx/qplaque.lmp",
    "sha256": "5759ac81bde273bbe2a7dbb7fbece5f37f48c8fae449f25b715767cb3da351b7",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/maps/": {
    "bytes": 0,
-   "path": "tcj/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-21T16:11:50.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/": {
    "bytes": 0,
-   "path": "tcj/maps/brkpinchy/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice1.bsp": {
    "bytes": 351828,
-   "path": "tcj/maps/brkpinchy/ice1.bsp",
    "sha256": "5d381dba532bac3241a6fb78b8d24de3670d9ab9306b1fa4db6d34c4ff2ec395",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice1.map": {
    "bytes": 875,
-   "path": "tcj/maps/brkpinchy/ice1.map",
    "sha256": "3d653c41f25f12b6752927c03b5fba708f4a92b8de2d937fff909da1d4fb5ed4",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice2.bsp": {
    "bytes": 1397796,
-   "path": "tcj/maps/brkpinchy/ice2.bsp",
    "sha256": "f49bbde895b6684fa09c32c9fda66130f90062435fead98d28f3d6ff880d3e27",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice2.map": {
    "bytes": 1536,
-   "path": "tcj/maps/brkpinchy/ice2.map",
    "sha256": "610754697bf9951aeb8515a89041729520878f85889f8950c4f2e9e4c420a784",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice3.bsp": {
    "bytes": 1396772,
-   "path": "tcj/maps/brkpinchy/ice3.bsp",
    "sha256": "122db9517551103020e55317896c4d89f1bd75843820d43fb4871589d86de196",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice3.map": {
    "bytes": 1006,
-   "path": "tcj/maps/brkpinchy/ice3.map",
    "sha256": "068f6a88fdba8f3b81beddaff912b63de7d3cb73786c9bf738dc9642d0b25212",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice4.bsp": {
    "bytes": 1396596,
-   "path": "tcj/maps/brkpinchy/ice4.bsp",
    "sha256": "279f5cbd871beee53e2cbca484b4c36dfa02bd3a1bd4e7a41ffefab8d9494081",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/ice4.map": {
    "bytes": 945,
-   "path": "tcj/maps/brkpinchy/ice4.map",
    "sha256": "27156b2023ce0df5b8301cfeaec427f561678d92be9d1051d8c34e6ab7bee4ed",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood1.bsp": {
    "bytes": 351112,
-   "path": "tcj/maps/brkpinchy/wood1.bsp",
    "sha256": "285912ee95ec21166ef06e65949ccece10c80c2972c748f9d425156bd7b6750c",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood1.map": {
    "bytes": 822,
-   "path": "tcj/maps/brkpinchy/wood1.map",
    "sha256": "553403bc9181f719a1a4340850c1ee7114fea95db2461afd995780e720d5ee0d",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood2.bsp": {
    "bytes": 351216,
-   "path": "tcj/maps/brkpinchy/wood2.bsp",
    "sha256": "b947a59ac92927182dbabb5944265bb6c30476ac1d048a4b7880eb3a2a937381",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood2.map": {
    "bytes": 827,
-   "path": "tcj/maps/brkpinchy/wood2.map",
    "sha256": "f4f79fc3ccf5c81e86f6e5fcba64835aa92cfdc57a00eb6182e7e3e02b7ee46c",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood3.bsp": {
    "bytes": 351076,
-   "path": "tcj/maps/brkpinchy/wood3.bsp",
    "sha256": "61828e8640bd5a377fc9b8706206a95c494d3bfe45fe5ea5b3e3178de358ec3c",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood3.map": {
    "bytes": 747,
-   "path": "tcj/maps/brkpinchy/wood3.map",
    "sha256": "2b716e9207bccfb5edcc287dec72204cb90a1a88d68cc7472e4af389004983d9",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood4.bsp": {
    "bytes": 351112,
-   "path": "tcj/maps/brkpinchy/wood4.bsp",
    "sha256": "967dbc12a1f294e9aa3c9fb7d030893daedc8754be72b31ff420cdb765f35344",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/brkpinchy/wood4.map": {
    "bytes": 761,
-   "path": "tcj/maps/brkpinchy/wood4.map",
    "sha256": "ed8ba4ee16624b7b571d57dfa3f3f4af724bf4b50f69f5af0eff7cb7709c6b36",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/maps/start.bsp": {
    "bytes": 10733432,
-   "path": "tcj/maps/start.bsp",
    "sha256": "790998a2db62b1b586959766cd68a11616924656f79bcad449f973c64a48c656",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/start.lit": {
    "bytes": 2034560,
-   "path": "tcj/maps/start.lit",
    "sha256": "0e36e796e2118c5eb25a4b5f530f6a8955527ecf9823337127ea16ff2557a3b0",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_bisquit.bsp": {
    "bytes": 20776184,
-   "path": "tcj/maps/tcj_bisquit.bsp",
    "sha256": "1a596d96a304e4ec26097e3cf83a0805698207bf119fd3cb07cb4d3e7fb0e2c6",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_bisquit.lit": {
    "bytes": 2171255,
-   "path": "tcj/maps/tcj_bisquit.lit",
    "sha256": "f145daae90a7fbb2ca6481c388c099641f959de70960530eb6de3dbb0e5bd35f",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_greenwood.bsp": {
    "bytes": 3027352,
-   "path": "tcj/maps/tcj_greenwood.bsp",
    "sha256": "b6750cd81f76375e2029024b4441062d60295f887654d34569c27b63120cc876",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_greenwood.lit": {
    "bytes": 1169969,
-   "path": "tcj/maps/tcj_greenwood.lit",
    "sha256": "cd0774ee9f61aca984a3995062ab54b71f2ca3a20eaf4cc7dd7367e79cd15acc",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_hcm.bsp": {
    "bytes": 4525796,
-   "path": "tcj/maps/tcj_hcm.bsp",
    "sha256": "c93919dae266acd8186d9a849d20af31942f093e9c0ac904174ec376a8d345e3",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_hcm.lit": {
    "bytes": 2761754,
-   "path": "tcj/maps/tcj_hcm.lit",
    "sha256": "1bbdcfef5ae1b9701c97c4c1fe1a51a651d9b327e7e0f792a3901631c7341811",
    "timestamp": "2022-12-19T15:15:30.000Z"
   },
-  {
+  "tcj/maps/tcj_idolon.bsp": {
    "bytes": 45700661,
-   "path": "tcj/maps/tcj_idolon.bsp",
    "sha256": "ff8137dec0757a02c6019be8815d8b0885ed18c59e995fe76ea657d8c989d3d6",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_idolon.lit": {
    "bytes": 2921591,
-   "path": "tcj/maps/tcj_idolon.lit",
    "sha256": "6fe16eaa7920dda4f3c7bffa89f9338731ea07cf7f5bd0ada4d0d16ee93a26d4",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_ish.bsp": {
    "bytes": 1945788,
-   "path": "tcj/maps/tcj_ish.bsp",
    "sha256": "0b58a57e9044dbe1f86d11fdf1ea15722d101be2934c003eca6a8d5db9729feb",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_ish.lit": {
    "bytes": 739811,
-   "path": "tcj/maps/tcj_ish.lit",
    "sha256": "6afb965a6cd3f295a260dc8d92e75fcb41530a15070f1e90e05723bc6a30ab7e",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_iyago.bsp": {
    "bytes": 4753064,
-   "path": "tcj/maps/tcj_iyago.bsp",
    "sha256": "2106fd5ffcf338e183ccfa6644ad8084dcc63506a8659719a4eb627d09b979f3",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_iyago.lit": {
    "bytes": 750137,
-   "path": "tcj/maps/tcj_iyago.lit",
    "sha256": "0b6b1aa3832bad20d1c44ecc5713b368d9e79a58d12c84ba85328ac9ae8c55a3",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_magnetbox.bsp": {
    "bytes": 3643128,
-   "path": "tcj/maps/tcj_magnetbox.bsp",
    "sha256": "90bf7cea859332f4c51c77600e5e5ba9f978a44644087ef83731a2acbf79c2cd",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_magnetbox.lit": {
    "bytes": 646055,
-   "path": "tcj/maps/tcj_magnetbox.lit",
    "sha256": "4e87f7fb6d4b7624f58e968401f4444a6d29558dc79d268f0cd68c4100226765",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_nickster.bsp": {
    "bytes": 32374044,
-   "path": "tcj/maps/tcj_nickster.bsp",
    "sha256": "d270e2c8c64cbfd26c334ef9840ab6bab2c082b45b65da8f486302669f8cbcf0",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_nickster.lit": {
    "bytes": 1359788,
-   "path": "tcj/maps/tcj_nickster.lit",
    "sha256": "b1b23b547995be4f406b9d285f074f7cbc292c81b536bcc8c5da95c34330e2a5",
    "timestamp": "2022-12-19T15:15:32.000Z"
   },
-  {
+  "tcj/maps/tcj_pinchy.bsp": {
    "bytes": 35445892,
-   "path": "tcj/maps/tcj_pinchy.bsp",
    "sha256": "e428a0da6b8bb380a437a95a18e719b304755cc87fd27ece69008a9f1cfdb06f",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/maps/tcj_pinchy.lit": {
    "bytes": 13612763,
-   "path": "tcj/maps/tcj_pinchy.lit",
    "sha256": "4bd669e148d25032242360d0563ea25d1290d9bd0d97b838f26691726e96a582",
    "timestamp": "2022-12-21T16:12:18.000Z"
   },
-  {
+  "tcj/maps/tcj_spoot.bsp": {
    "bytes": 5399952,
-   "path": "tcj/maps/tcj_spoot.bsp",
    "sha256": "c2b222d13bd6206e98481ce4a8616d66aa16fc8ccc0baac1a01dc641b1f22f3d",
    "timestamp": "2022-12-21T16:10:48.000Z"
   },
-  {
+  "tcj/maps/tcj_spoot.lit": {
    "bytes": 2518502,
-   "path": "tcj/maps/tcj_spoot.lit",
    "sha256": "da14a20e4975849e086ed5bca3dd1f30de6aa749a4c43a339db10fe38d51f1e3",
    "timestamp": "2022-12-21T16:10:48.000Z"
   },
-  {
+  "tcj/maps/tcj_strideh.bsp": {
    "bytes": 15840184,
-   "path": "tcj/maps/tcj_strideh.bsp",
    "sha256": "dfb7298f1ceec2102a0515d61f679ef035e06272a8c21afe4a2f6d5bb1eeb0c0",
    "timestamp": "2022-12-19T15:15:34.000Z"
   },
-  {
+  "tcj/maps/tcj_strideh.lit": {
    "bytes": 3144242,
-   "path": "tcj/maps/tcj_strideh.lit",
    "sha256": "b2fbf8cd9af8c79fe0c7eb3b20de9d9f405a887ba0bf1324792da2627113bdc4",
    "timestamp": "2022-12-19T15:15:34.000Z"
   },
-  {
+  "tcj/maps/tcj_sze.bsp": {
    "bytes": 19886916,
-   "path": "tcj/maps/tcj_sze.bsp",
    "sha256": "ec50125665a5b5496ea2aabeff980f6fe04a5ca4f69eac87aef04b0e51bfa036",
    "timestamp": "2022-12-19T15:15:34.000Z"
   },
-  {
+  "tcj/maps/tcj_sze.lit": {
    "bytes": 4927532,
-   "path": "tcj/maps/tcj_sze.lit",
    "sha256": "5ab3b8b30180e4eb5458fc7a286e1142d64b421e29148ac83e404b582be33f59",
    "timestamp": "2022-12-19T15:15:34.000Z"
   },
-  {
+  "tcj/music/": {
    "bytes": 0,
-   "path": "tcj/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/music/Track84.ogg": {
    "bytes": 6149187,
-   "path": "tcj/music/Track84.ogg",
    "sha256": "18e7a7bab2f67b624c43473e949e26852741d09992fc86629ab82e14b642b508",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/music/track111.mp3": {
    "bytes": 17067362,
-   "path": "tcj/music/track111.mp3",
    "sha256": "31ceb3289c3c9abf4f7ddf9d0376ba778734ffae58321da9f4770c130d4304f5",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/music/track117.mp3": {
    "bytes": 2715439,
-   "path": "tcj/music/track117.mp3",
    "sha256": "c5327de49d843b872f3f67f57bd5f5c049267cbf2bf56bc3d1764f3e771c6ef3",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/music/track130.ogg": {
    "bytes": 1894439,
-   "path": "tcj/music/track130.ogg",
    "sha256": "33e8942f39405c2d34d02d8cc520bdc2f8992b5da8f539b16522cc0e7cca5c9d",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/music/track240.ogg": {
    "bytes": 4150115,
-   "path": "tcj/music/track240.ogg",
    "sha256": "ffccfc8db53e281d5c8d08b1523edb17fe30b7a73d45a05b910d93704e33fc60",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/music/track37.mp3": {
    "bytes": 6925500,
-   "path": "tcj/music/track37.mp3",
    "sha256": "5510dab6b4172e55a56b834d8b4682e2719ec97dad92cecf644619e32b2c1853",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/music/track99.mp3": {
    "bytes": 4503370,
-   "path": "tcj/music/track99.mp3",
    "sha256": "4159c76de06b0665c94c89ff0a56b4fd67182f1c3119de50cd26c1143948d08f",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/pak0.pak": {
    "bytes": 254810855,
-   "path": "tcj/pak0.pak",
    "sha256": "a313e68f29bfd2accac58b5ca9d4a886b0555b42e215a9d49e05117c29e674d6",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/pak1.pak": {
    "bytes": 5468494,
-   "path": "tcj/pak1.pak",
    "sha256": "6ca3099935998e8678b388cd5bb1e1c601f1035da378141b6e800303b8737f02",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/pak2.pak": {
    "bytes": 13867395,
-   "path": "tcj/pak2.pak",
    "sha256": "49bb1a23ffda3e24edba1f4094ab4e031f570e8dccba7ca363b7096bbf0b84c1",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/progs/": {
    "bytes": 0,
-   "path": "tcj/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/progs/balxj_tree_b.mdl": {
    "bytes": 479516,
-   "path": "tcj/progs/balxj_tree_b.mdl",
    "sha256": "59a89b398caa908ff6dd777cb42d0d7dfde930ac5569fdab4bc4f10dd8137584",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/chair.mdl": {
    "bytes": 9364,
-   "path": "tcj/progs/chair.mdl",
    "sha256": "ef2e4cc1c31f169782502119e62236b64aafcf2451211fb51db70bda6eed6ba7",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/kebby/": {
    "bytes": 0,
-   "path": "tcj/progs/kebby/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:24.000Z"
   },
-  {
+  "tcj/progs/kebby/balxj_tree_a.mdl": {
    "bytes": 479516,
-   "path": "tcj/progs/kebby/balxj_tree_a.mdl",
    "sha256": "223264fb39b0088026387f36d3186652510f8454d39022017c29a39203a7c112",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/kebby/balxj_tree_baubles.mdl": {
    "bytes": 738748,
-   "path": "tcj/progs/kebby/balxj_tree_baubles.mdl",
    "sha256": "c851ed7555fe06a8052b9076e48822904f7f7d121c9ccd06b2ca516030f91579",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/kebby/kebby_xjgift.mdl": {
    "bytes": 2641204,
-   "path": "tcj/progs/kebby/kebby_xjgift.mdl",
    "sha256": "a8443aea969c190cba374621095ebf42c640d087e15be3a085437cdede521efc",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/kebby/kebby_xjgift_box_open.mdl": {
    "bytes": 2548480,
-   "path": "tcj/progs/kebby/kebby_xjgift_box_open.mdl",
    "sha256": "c6ad2d4632015694ac57912647f5623c2a6cf64aa424d9b907a2a05f1d21e89f",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/kebby/kebby_xjgift_box_open_sideways.mdl": {
    "bytes": 2548480,
-   "path": "tcj/progs/kebby/kebby_xjgift_box_open_sideways.mdl",
    "sha256": "874aad5b71c8ea15d76520f77be34a67613137002da904adcc2a832acccbad50",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/kebby/kebby_xjgift_lid.mdl": {
    "bytes": 2577064,
-   "path": "tcj/progs/kebby/kebby_xjgift_lid.mdl",
    "sha256": "0eec4a77fff51564c18bdb73da9f4ef906d18c7a886d1298fc2ac325639a8a0b",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/pumpkin.mdl": {
    "bytes": 65508,
-   "path": "tcj/progs/pumpkin.mdl",
    "sha256": "8c7e51c46c637e2defe5d3a24f2eaae321c8d03329f4e959abcfa8183a6a79c1",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_cactus1.mdl": {
    "bytes": 192512,
-   "path": "tcj/progs/str_cactus1.mdl",
    "sha256": "8cfc6a87b2ca9589961847bb48be0e665ddc4761cab92d34eb6ab6ca1644cbb5",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_cactus2.mdl": {
    "bytes": 143072,
-   "path": "tcj/progs/str_cactus2.mdl",
    "sha256": "6a71a2ee0447618d4c7901abf4c659c0bbc628fe7aef19898e613229654a650a",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_cactus3.mdl": {
    "bytes": 93632,
-   "path": "tcj/progs/str_cactus3.mdl",
    "sha256": "8eada7ede9d555de6178eb94f56661a696bf3ff3c62317e4624b5ced4802149d",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_cactus4.mdl": {
    "bytes": 58552,
-   "path": "tcj/progs/str_cactus4.mdl",
    "sha256": "fae0cb993d29e3874a7b370d1b6ebd3a960e2b005a28758cb6ce2e08536d3eba",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_lantern.mdl": {
    "bytes": 298032,
-   "path": "tcj/progs/str_lantern.mdl",
    "sha256": "5c1d589224ebf97102d2792f7f11a6b4bd1f28ecd76a80af04961a49930ab2e8",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_spiky1.mdl": {
    "bytes": 117772,
-   "path": "tcj/progs/str_spiky1.mdl",
    "sha256": "22a0dc81711e1a72b46335bc281192d67f3986655582a7be9a1d3082d8e3d5b1",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/str_spiky2.mdl": {
    "bytes": 78356,
-   "path": "tcj/progs/str_spiky2.mdl",
    "sha256": "dea35dbbe80d9307172d50ea49bc7f8cd1f02e81844c4cc259fb1772f41ee06d",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/xmas/": {
    "bytes": 0,
-   "path": "tcj/progs/xmas/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_elfcane.mdl": {
    "bytes": 61596,
-   "path": "tcj/progs/xmas/gib_elfcane.mdl",
    "sha256": "34cc9f073275e6032b28ed285fed98b59c0ff35531b76f5b2f0f9b4811b23f72",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_elfcane2.mdl": {
    "bytes": 62553,
-   "path": "tcj/progs/xmas/gib_elfcane2.mdl",
    "sha256": "088db09ebe0e516c25bfe368e306954daea7eda68d5094c87d5bd887e0aef27a",
    "timestamp": "2022-12-19T15:15:36.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_rdleg1.mdl": {
    "bytes": 24988,
-   "path": "tcj/progs/xmas/gib_rdleg1.mdl",
    "sha256": "eda0c8d048e5e96f02408aa6f911516a08f5ada5417a001e1bb3e412673b84b9",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_rdrockpack.mdl": {
    "bytes": 38823,
-   "path": "tcj/progs/xmas/gib_rdrockpack.mdl",
    "sha256": "ebe0ddbe504e50aaa1630da3be272f32cc8a78421ec6444e10b3dd199571f4b6",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_santagun.mdl": {
    "bytes": 34904,
-   "path": "tcj/progs/xmas/gib_santagun.mdl",
    "sha256": "56e6f368f303380e98f47b78d37724e37e0c00221d7bed49d799fd5c536d4fbe",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_santasack.mdl": {
    "bytes": 33672,
-   "path": "tcj/progs/xmas/gib_santasack.mdl",
    "sha256": "5f2ec4b07c62ddb42a5d9cb5db5656c9bef81213363121ee6a02752d12e973ef",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_snowball.mdl": {
    "bytes": 5066,
-   "path": "tcj/progs/xmas/gib_snowball.mdl",
    "sha256": "d3961719b7e6ee86acb9a6b0e9a8e93bec625efe80980070f52995fd086e6d72",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_snowclaw.mdl": {
    "bytes": 42380,
-   "path": "tcj/progs/xmas/gib_snowclaw.mdl",
    "sha256": "c2e2ef9733dd0b15d842a74d767bb4a12290eb1ca14595ce36afeb733ed66845",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/gib_snowgun.mdl": {
    "bytes": 19048,
-   "path": "tcj/progs/xmas/gib_snowgun.mdl",
    "sha256": "939a04b34e3cde0d38ffc145ef14547175a14b8bcc7e227f58342ea5b8c49a49",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/h_elf.mdl": {
    "bytes": 119264,
-   "path": "tcj/progs/xmas/h_elf.mdl",
    "sha256": "e24e508fb2eb6647b0c6572a6248de187c3a7a0d2f934dcf1777c9e8c2c5c767",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/h_raindeer.mdl": {
    "bytes": 33484,
-   "path": "tcj/progs/xmas/h_raindeer.mdl",
    "sha256": "167f27281e168f05200f12f8af52bc697858193c7ccf444812e86fe2b3c0173f",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/h_santa.mdl": {
    "bytes": 50660,
-   "path": "tcj/progs/xmas/h_santa.mdl",
    "sha256": "99c5d21cf9acbceb0248543ee1dc9878afe70300e44add3af5436e964035842b",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/h_snowman.mdl": {
    "bytes": 43400,
-   "path": "tcj/progs/xmas/h_snowman.mdl",
    "sha256": "666860da939157d1370c242f9a6888cf482d26b9bec5a00a38aca49a0830ede0",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/mon_elf.mdl": {
    "bytes": 320344,
-   "path": "tcj/progs/xmas/mon_elf.mdl",
    "sha256": "a4207bb664eff6ad9042270a611aa92b33ca0ac537ed7fdbc7176073e7abba46",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/mon_raindeer.mdl": {
    "bytes": 128344,
-   "path": "tcj/progs/xmas/mon_raindeer.mdl",
    "sha256": "a72ae2ba846caced3b4e6d5495cc51acde12282e8df833cb9f27220c10451159",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/mon_santa.mdl": {
    "bytes": 297704,
-   "path": "tcj/progs/xmas/mon_santa.mdl",
    "sha256": "47521468e8a2c1e8dd6a67dec7c0dd0af5d1cd1d38a6294f7294a3b664c966c9",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/mon_snowman.mdl": {
    "bytes": 59828,
-   "path": "tcj/progs/xmas/mon_snowman.mdl",
    "sha256": "4ae6bd4a9e23bc948cde5b7a407916f282eb620fc97677446c127c135839f3e3",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/proj_elfsnow.mdl": {
    "bytes": 7468,
-   "path": "tcj/progs/xmas/proj_elfsnow.mdl",
    "sha256": "16dce170f07377109d1317f1b475838d1b39c45b92a81fa91434a71751f5aaf1",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/proj_rdrocket.mdl": {
    "bytes": 3476,
-   "path": "tcj/progs/xmas/proj_rdrocket.mdl",
    "sha256": "58ed6db094b34062e15fbedf583a5557fb2810ee33f2b2b44a11167d3a679c26",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/progs/xmas/proj_snowball.mdl": {
    "bytes": 5066,
-   "path": "tcj/progs/xmas/proj_snowball.mdl",
    "sha256": "d3961719b7e6ee86acb9a6b0e9a8e93bec625efe80980070f52995fd086e6d72",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/quake.rc": {
    "bytes": 8547,
-   "path": "tcj/quake.rc",
    "sha256": "a912814a32c1eeaeb33be43dc41b6af1b80ead06c18c85c6f0149fde2ede4f99",
    "timestamp": "2022-12-19T15:15:26.000Z"
   },
-  {
+  "tcj/sound/": {
    "bytes": 0,
-   "path": "tcj/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/iyago/": {
    "bytes": 0,
-   "path": "tcj/sound/iyago/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/iyago/god.wav": {
    "bytes": 54700,
-   "path": "tcj/sound/iyago/god.wav",
    "sha256": "bcc2d0be51f37e00744a9b69468e367025795a7cf0afae3fd884ecc9e5c78e2a",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/sound/nickster/": {
    "bytes": 0,
-   "path": "tcj/sound/nickster/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/nickster/hondajar_11k_noloop.wav": {
    "bytes": 10824,
-   "path": "tcj/sound/nickster/hondajar_11k_noloop.wav",
    "sha256": "79a78098fd97f27b85ae22a328df4f3bb773072f19bf329ba35b83a158a202fb",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/sound/nickster/tingleamb1a_11k.wav": {
    "bytes": 688288,
-   "path": "tcj/sound/nickster/tingleamb1a_11k.wav",
    "sha256": "fe6004856a8ab45e766e6d1b614ac84503b668afb1c8b8cfad2dcce6c790e95c",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/sound/nickster/tingleamb1b_11k.wav": {
    "bytes": 544928,
-   "path": "tcj/sound/nickster/tingleamb1b_11k.wav",
    "sha256": "c065ceb7a46a745ef536ff78ed0feb0fab7fe51a331136fbc1c1f93c4151732d",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/sound/pinchy/": {
    "bytes": 0,
-   "path": "tcj/sound/pinchy/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/pinchy/saw-powering-up.wav": {
    "bytes": 14644,
-   "path": "tcj/sound/pinchy/saw-powering-up.wav",
    "sha256": "927c9331f88091c8ec08f293d15e77a4aa2ee7bb039f3ada45d2cc2a25ca0a48",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/pinchy/saw-running.wav": {
    "bytes": 60074,
-   "path": "tcj/sound/pinchy/saw-running.wav",
    "sha256": "14af7510441a111ed8d29e9c3b35b6f2cb9365f00eb288d9b40cd1f5ddab3e49",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/": {
    "bytes": 0,
-   "path": "tcj/sound/xmas/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/": {
    "bytes": 0,
-   "path": "tcj/sound/xmas/elf/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/attack1.wav": {
    "bytes": 176492,
-   "path": "tcj/sound/xmas/elf/attack1.wav",
    "sha256": "80e3faa699aec6d20015c1070087964de5ba39f83a978388b9fadc184f9fb6c2",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/attack2.wav": {
    "bytes": 88292,
-   "path": "tcj/sound/xmas/elf/attack2.wav",
    "sha256": "a364c82cb932bddb438c957e88a7ea67142777dfffd0f553d00e2b04b3af0f9f",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/cane_hit1.wav": {
    "bytes": 4536,
-   "path": "tcj/sound/xmas/elf/cane_hit1.wav",
    "sha256": "2686bea9533633cb6c1a5e3e5bcf0016e3fe228cd278b7b1d11a02868cdd5095",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/cane_hit2.wav": {
    "bytes": 5638,
-   "path": "tcj/sound/xmas/elf/cane_hit2.wav",
    "sha256": "6e470e241f37fb38ea55adf4bd0d6f1f5a2d5adfee5d5ddac8cb9adc824cb954",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/cane_swipe1.wav": {
    "bytes": 1670,
-   "path": "tcj/sound/xmas/elf/cane_swipe1.wav",
    "sha256": "2dbf81b3813376cb8bea2fa916dc0d03f1fbaaa499d4fcdf845de8929f82dc47",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/cane_swipe2.wav": {
    "bytes": 1890,
-   "path": "tcj/sound/xmas/elf/cane_swipe2.wav",
    "sha256": "404864c7d5008b79daed226566a2e4e78f2de92de06c64da67b8bf6224ae3e88",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/death1.wav": {
    "bytes": 14284,
-   "path": "tcj/sound/xmas/elf/death1.wav",
    "sha256": "d1a7063d4ed39cdb59864a2a6fe6109f844caa9ada54ed4456de0bcd056f0034",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/death2.wav": {
    "bytes": 10888,
-   "path": "tcj/sound/xmas/elf/death2.wav",
    "sha256": "4e0344a1bd3fa3d3c4d9e9647203cac0c449d5a5d8e7b1c8319f8402a4b7571c",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/idle.wav": {
    "bytes": 57016,
-   "path": "tcj/sound/xmas/elf/idle.wav",
    "sha256": "a824467247797aa1ecc58f1716b18d390629804eebc413f01067646c64cde87e",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/jump1.wav": {
    "bytes": 17766,
-   "path": "tcj/sound/xmas/elf/jump1.wav",
    "sha256": "8023110b27a70758166f710e52188b8d03b8bfd81d9c985eb7f7d326acdb05a2",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/jump2.wav": {
    "bytes": 8946,
-   "path": "tcj/sound/xmas/elf/jump2.wav",
    "sha256": "a60763886b743d06ffd0c90e70de304ec8002a500947a684646c227d0bbb3c4d",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/magic.wav": {
    "bytes": 15560,
-   "path": "tcj/sound/xmas/elf/magic.wav",
    "sha256": "6a270540819dddf140b0387d92c914b4f4b1c88c5f37a05c8fa0efd95901f2ab",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/miss.wav": {
    "bytes": 14582,
-   "path": "tcj/sound/xmas/elf/miss.wav",
    "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/pain.wav": {
    "bytes": 11126,
-   "path": "tcj/sound/xmas/elf/pain.wav",
    "sha256": "4e27a8f38e07e9b69db186d5c609740814ab86c5fda57058b1e05c56b85c6fd4",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/sight1.wav": {
    "bytes": 21048,
-   "path": "tcj/sound/xmas/elf/sight1.wav",
    "sha256": "c57eb4fec86922cb8a0499d7dae72eba66b067b89f14ff079ce0caf3dc23a23b",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/sight2.wav": {
    "bytes": 30996,
-   "path": "tcj/sound/xmas/elf/sight2.wav",
    "sha256": "8cd5eed3b8e098dfd70cbf90081b38e198bf64d8edf1b76bcc98c42e177635f8",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/sight3.wav": {
    "bytes": 10050,
-   "path": "tcj/sound/xmas/elf/sight3.wav",
    "sha256": "e88ae556a28352c319bf5500b29008384a5c53c47480defa81795d8891f14ff8",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/elf/sight4.wav": {
    "bytes": 6742,
-   "path": "tcj/sound/xmas/elf/sight4.wav",
    "sha256": "7c6120d242cbbbfd2e0cc77b1428e206accd1ab8073885d52177b0fd4c75c7ed",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/": {
    "bytes": 0,
-   "path": "tcj/sound/xmas/raindeer/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/attack1.wav": {
    "bytes": 5582,
-   "path": "tcj/sound/xmas/raindeer/attack1.wav",
    "sha256": "bcf78087eab53e8ed0bdde2f29088a89b321a79c3b104da380dd85bd5bdb6ec1",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/attack2.wav": {
    "bytes": 6274,
-   "path": "tcj/sound/xmas/raindeer/attack2.wav",
    "sha256": "2ba043cce4a2f22e7743812c0fa40e9f0888d5089362264c768352c347af5089",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/death.wav": {
    "bytes": 9672,
-   "path": "tcj/sound/xmas/raindeer/death.wav",
    "sha256": "68266e96ec1be80a55f48b76c2bedd6503273245153d96269947c7fc12ae96b3",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/hit.wav": {
    "bytes": 5218,
-   "path": "tcj/sound/xmas/raindeer/hit.wav",
    "sha256": "72127151c2b05cc22a812fe9e38909c8bdcaae6a369e8756d2be67d392b91223",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/idle.wav": {
    "bytes": 7890,
-   "path": "tcj/sound/xmas/raindeer/idle.wav",
    "sha256": "d3ef885d0b6163a3046dc9d514b07886c33809fbb6332e7db0514c648787a9bb",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/raindeer/sight.wav": {
    "bytes": 23796,
-   "path": "tcj/sound/xmas/raindeer/sight.wav",
    "sha256": "aafabb6fc46c1c72c34af1baea1c59a8ec04803c26faa4310072096481f31a4f",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/": {
    "bytes": 0,
-   "path": "tcj/sound/xmas/santa/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/death.wav": {
    "bytes": 99352,
-   "path": "tcj/sound/xmas/santa/death.wav",
    "sha256": "b63273a2574f7def133aa438926a6def025aa64d8c3c636fc6a5594268e391d7",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/death2.wav": {
    "bytes": 99352,
-   "path": "tcj/sound/xmas/santa/death2.wav",
    "sha256": "24fcf23117ec31347f640aa27e6feb4a46a634aa5e1eb48344b1feb7c377f6f1",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/fire.wav": {
    "bytes": 22176,
-   "path": "tcj/sound/xmas/santa/fire.wav",
    "sha256": "3a9bb42661b75287a698b6e16033158f20c59c481d37c0f176dc213205d22dcd",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/good_hohoho.wav": {
    "bytes": 55250,
-   "path": "tcj/sound/xmas/santa/good_hohoho.wav",
    "sha256": "51f4d5d656032de08b95689fa55a2e7aa26ec99cf4312b0f6153d0fd57fc1fa3",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/good_saved.wav": {
    "bytes": 77302,
-   "path": "tcj/sound/xmas/santa/good_saved.wav",
    "sha256": "51e62df5942e2a72fd48311c61ee73b6f51dc4aa3c0cc85af000cdc8d7627d21",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/hohoho.wav": {
    "bytes": 50840,
-   "path": "tcj/sound/xmas/santa/hohoho.wav",
    "sha256": "091a28236362cab1ce3b7bd55de25010d105db3bf644825c47b91725d8a613a0",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/laugh1.wav": {
    "bytes": 57374,
-   "path": "tcj/sound/xmas/santa/laugh1.wav",
    "sha256": "ac069694d6c41e5e0afab50d9928b8768a19fb647bb249201648874d4150c976",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/laugh2.wav": {
    "bytes": 117440,
-   "path": "tcj/sound/xmas/santa/laugh2.wav",
    "sha256": "c726d7d86d2d7cad0a75a2d0b387f4f96218ef232b6c78437e1c83bb96286441",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/laugh3.wav": {
    "bytes": 40256,
-   "path": "tcj/sound/xmas/santa/laugh3.wav",
    "sha256": "4dd710eee601ab81c4beb5413d95244dee58b886b8265ab9cec35df06b560591",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/laugh3_com.wav": {
    "bytes": 44226,
-   "path": "tcj/sound/xmas/santa/laugh3_com.wav",
    "sha256": "4099895e037cfecb4dc3595b3b18db62ed2f3cf096384f3aa1fe1d96a7b43da2",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/pain1.wav": {
    "bytes": 6825,
-   "path": "tcj/sound/xmas/santa/pain1.wav",
    "sha256": "79eed9346e0954fd53a6fdb9aa9708b8c29e8c5c256e9fd7c06f449e9cb6c00d",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/pain2.wav": {
    "bytes": 9259,
-   "path": "tcj/sound/xmas/santa/pain2.wav",
    "sha256": "f750328d74f545a658b0b190399595687c3d9b8766b2652ad6c2a34add3cc420",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/sack_hit.wav": {
    "bytes": 13356,
-   "path": "tcj/sound/xmas/santa/sack_hit.wav",
    "sha256": "c23a04ed5134f76d1f44d2e61eeb446a569c2bcbccf79f16f472807aae3df53a",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/sack_swing.wav": {
    "bytes": 8940,
-   "path": "tcj/sound/xmas/santa/sack_swing.wav",
    "sha256": "96972ba473b6a7d28645cdc621eb3011729a53eb4acb40d1f097768291a70850",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/sight.wav": {
    "bytes": 100144,
-   "path": "tcj/sound/xmas/santa/sight.wav",
    "sha256": "e29696370a0d40546a49ef0f39b1e0038d8e067ef2da1dcc5084d7683a25d5d7",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/santa/smack.wav": {
    "bytes": 22176,
-   "path": "tcj/sound/xmas/santa/smack.wav",
    "sha256": "606c0a4b634d82a1d9846f654db8a52e7f2438ba28a235f782a23ff2720c767c",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/": {
    "bytes": 0,
-   "path": "tcj/sound/xmas/snowman/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/claw.wav": {
    "bytes": 8292,
-   "path": "tcj/sound/xmas/snowman/claw.wav",
    "sha256": "7857f3526fb39e722a09ebe569f2b76facab765d82f97c0caa7da2ff9b750e9e",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/death1.wav": {
    "bytes": 11267,
-   "path": "tcj/sound/xmas/snowman/death1.wav",
    "sha256": "0a09776ed8e45bbfe403f1cdb50302361f5596d9027c476409d6acf5402e763e",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/death2.wav": {
    "bytes": 13613,
-   "path": "tcj/sound/xmas/snowman/death2.wav",
    "sha256": "e5e3a9619a153f0c6259abdb0d45f4eb4a547f736e37951556d29c6b715ec8f6",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/icehit.wav": {
    "bytes": 3090,
-   "path": "tcj/sound/xmas/snowman/icehit.wav",
    "sha256": "e03f61550bafc53ab47acdc23bcd481c35e75e6eccdad5e61e6dd7b372ba07c0",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/icemiss.wav": {
    "bytes": 3074,
-   "path": "tcj/sound/xmas/snowman/icemiss.wav",
    "sha256": "f8b86f83d9adaaee1c84e1ac2acbcf652204842f2bf6f351ec1443a998574058",
    "timestamp": "2022-12-21T16:12:20.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/idle.wav": {
    "bytes": 58582,
-   "path": "tcj/sound/xmas/snowman/idle.wav",
    "sha256": "a0d7af1cd6246f08176f24c5591cfb6ec89cff55dc5c18766ef1b16c64429541",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/nail_fire.wav": {
    "bytes": 26504,
-   "path": "tcj/sound/xmas/snowman/nail_fire.wav",
    "sha256": "80263cd2de86b9dcfd054782aab6eb4d939f60e6fe5a881c8ef5800b0f76ad66",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/pain1.wav": {
    "bytes": 7685,
-   "path": "tcj/sound/xmas/snowman/pain1.wav",
    "sha256": "7f829300a30cb6cb4d17f8c8327bd62ae5b5dacc892d28a956d6ecd2acf5f1c2",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/pain2.wav": {
    "bytes": 7661,
-   "path": "tcj/sound/xmas/snowman/pain2.wav",
    "sha256": "3747d77583aa4edb3509e89ea651ea41a8e8a92cd96c34d4e00257e7371fb0e6",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/shotg_fire.wav": {
    "bytes": 6572,
-   "path": "tcj/sound/xmas/snowman/shotg_fire.wav",
    "sha256": "3d54870c0f643b1e7ee5307641bb3fc4a94efdaffc2e4ecd196556b930167ef2",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/sight1.wav": {
    "bytes": 10042,
-   "path": "tcj/sound/xmas/snowman/sight1.wav",
    "sha256": "ce1cddbb6e85fad23231ac1fc4c04c19ec7276acb2aa86e023c117db4b8edd68",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/sound/xmas/snowman/sight2.wav": {
    "bytes": 15418,
-   "path": "tcj/sound/xmas/snowman/sight2.wav",
    "sha256": "5d4e994c30a7c3f2e1f1a5cde9a56115bcb32c350e4a0ad8e339a1a46ed19707",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/src/": {
    "bytes": 0,
-   "path": "tcj/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-21T16:12:46.000Z"
   },
-  {
+  "tcj/src/ad/": {
    "bytes": 0,
-   "path": "tcj/src/ad/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/src/ad/ad_v1_80_credits.txt": {
    "bytes": 15585,
-   "path": "tcj/src/ad/ad_v1_80_credits.txt",
    "sha256": "c933fa278cb49c1cf6206cd514f5c43fb59238e13dcae8ac210d1df4d4c3247b",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/ad/ad_v1_80_documentation.txt": {
    "bytes": 151516,
-   "path": "tcj/src/ad/ad_v1_80_documentation.txt",
    "sha256": "df1888f36c5df5cb53a90b7827c514b294a8a826587f7296fa457a25896f8b34",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/ad/ad_v1_80_readme.txt": {
    "bytes": 8418,
-   "path": "tcj/src/ad/ad_v1_80_readme.txt",
    "sha256": "2423913f6507c392b219d7caee2656d11f1f24744a5cc0e3e513deaec2db9f08",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/ad/ad_v1_80changelog.txt": {
    "bytes": 91519,
-   "path": "tcj/src/ad/ad_v1_80changelog.txt",
    "sha256": "07da6715e2c1fbba731603c39e5cecedad51a3729b127d0f1d5641184a53fdd0",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/ad/ad_v1_80p1changelog.txt": {
    "bytes": 92423,
-   "path": "tcj/src/ad/ad_v1_80p1changelog.txt",
    "sha256": "7da4c0da24d6e63c2c42781c7113b6019ce78afc9acd088b59fec24db1efb696",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/str_halloween.wad": {
    "bytes": 3704884,
-   "path": "tcj/src/str_halloween.wad",
    "sha256": "27d943ab996030b5004aae7573bff891589393e9c8ce3af2f2fbefc4120a1371",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/src/tcj_hcm.map": {
    "bytes": 3561237,
-   "path": "tcj/src/tcj_hcm.map",
    "sha256": "b59e2ef916c98704e6c177cb743a7f458ff64c491cd52f5aa3d964caa0bed8b9",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/src/tcj_idolon.map": {
    "bytes": 9230739,
-   "path": "tcj/src/tcj_idolon.map",
    "sha256": "1242f88805af0ac4b0113965d7ffde4f62ae8d31ade5b4e7b4e9dad85f2c2ecc",
    "timestamp": "2022-12-19T15:15:38.000Z"
   },
-  {
+  "tcj/src/tcj_iyago.map": {
    "bytes": 1710827,
-   "path": "tcj/src/tcj_iyago.map",
    "sha256": "d3efe2d9a0e60c6670eb17058880973a06dc2f8be32886f6d82ce2e8c324a7f8",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_magnetbox.map": {
    "bytes": 1389258,
-   "path": "tcj/src/tcj_magnetbox.map",
    "sha256": "266392b83210011879e4e5a780f17e0934376e4e37ca9ec9b92a8b165612f6d2",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_nickster.map": {
    "bytes": 4459197,
-   "path": "tcj/src/tcj_nickster.map",
    "sha256": "43d102b30604ffd720c667901cb003a5e4234242e27e82ac00f4489fac02f825",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_pinchy.map": {
    "bytes": 11821093,
-   "path": "tcj/src/tcj_pinchy.map",
    "sha256": "e543be0d1a6b2a8138df92766a2ecb451cd9ff571fffffb6a4343e52323cb5e6",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/src/tcj_spoot.map": {
    "bytes": 6772528,
-   "path": "tcj/src/tcj_spoot.map",
    "sha256": "0a4780914c828885fd1c1c903dea31f9d4ddb9db4b859f4631c5f774aef34778",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_start.map": {
    "bytes": 5892721,
-   "path": "tcj/src/tcj_start.map",
    "sha256": "34c6fa2f7bd952252eb5c66f08393c340436b70347182948b7ab5145789cf5ca",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_strideh.jpg": {
    "bytes": 721676,
-   "path": "tcj/src/tcj_strideh.jpg",
    "sha256": "fad101e543629f42dfc7e45a4999583d1bba18c0ce9e41d72083ed4d848e0989",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_strideh.map": {
    "bytes": 20083896,
-   "path": "tcj/src/tcj_strideh.map",
    "sha256": "60d3d26d7550fce299da46ee568f9724b41eaa4b4e19dffd15182e885a49fd7c",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/src/tcj_sze.map": {
    "bytes": 10028546,
-   "path": "tcj/src/tcj_sze.map",
    "sha256": "da7a41453244fc58ae397b513a9f8afe6090a6c137fccb4bed9e01501fddb94a",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/textures/": {
    "bytes": 0,
-   "path": "tcj/textures/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-19T15:25:26.000Z"
   },
-  {
+  "tcj/textures/#str_aureate.tga": {
    "bytes": 12306,
-   "path": "tcj/textures/#str_aureate.tga",
    "sha256": "280d6ac45e1ba6fc1bc48ab90f5278deca504d12cc0727e5de1be69e3c4d534b",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/textures/#str_blood.tga": {
    "bytes": 12306,
-   "path": "tcj/textures/#str_blood.tga",
    "sha256": "64988f1ddcf268e771fdd01b2b207a7b0db7c76626b70f0acdcc0d6a4ce42b28",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/textures/str_lightstrng1.tga": {
    "bytes": 24594,
-   "path": "tcj/textures/str_lightstrng1.tga",
    "sha256": "a8e3b4b98f24245ad7ad4cbf376f9bcfc8051b3f63cd809cbbbd65f8feabb503",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/textures/str_lightstrng2.tga": {
    "bytes": 24594,
-   "path": "tcj/textures/str_lightstrng2.tga",
    "sha256": "0bd508567cdfda96467798c7dad4ff60ad7e67bec19297cd64bc168f352e8e08",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/textures/str_lightstrng3.tga": {
    "bytes": 24594,
-   "path": "tcj/textures/str_lightstrng3.tga",
    "sha256": "efbe069b00960028eca8703ef20b8537e6380e03f722ee77686726dc74bd2578",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/": {
    "bytes": 0,
-   "path": "tcj/txt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-12-21T16:13:06.000Z"
   },
-  {
+  "tcj/txt/tcj_greenwood.txt": {
    "bytes": 1479,
-   "path": "tcj/txt/tcj_greenwood.txt",
    "sha256": "68fa2e6745da0e64418c6d30f0fc6b107c3b091daa4dc635dd9883d9211f96ed",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_hcm.txt": {
    "bytes": 2179,
-   "path": "tcj/txt/tcj_hcm.txt",
    "sha256": "41d37b46f10e66dbdada1e436177fdb7125faf34a2c84f4668d62fc1c856f3af",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_ish.txt": {
    "bytes": 1770,
-   "path": "tcj/txt/tcj_ish.txt",
    "sha256": "399c7a0582fa6ad0ca94c8daeba2812c3a298d388e6330ff9fe682d4de50bba6",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_iyago.txt": {
    "bytes": 2778,
-   "path": "tcj/txt/tcj_iyago.txt",
    "sha256": "35cde19e6c82d39be3ae9cf8c01ce6a46bbaff807c2f2f75827fda4248f11172",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_magnetbox.txt": {
    "bytes": 3347,
-   "path": "tcj/txt/tcj_magnetbox.txt",
    "sha256": "22140833a7c8b80afa9a5407df05941ca364e77017657a6cbee1aa5ae4906f8f",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_nickster.txt": {
    "bytes": 1443,
-   "path": "tcj/txt/tcj_nickster.txt",
    "sha256": "eebf87d58d811c2a343dbfcbd145f7dbdcdb80bcc764b6ee0ce05c1b158ef39c",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_pinchy.txt": {
    "bytes": 3625,
-   "path": "tcj/txt/tcj_pinchy.txt",
    "sha256": "12769571bdeee3391bcc6d1741ce35e9acf077c3b0cce1b9483fe4fdc55a1940",
    "timestamp": "2022-12-21T16:12:22.000Z"
   },
-  {
+  "tcj/txt/tcj_spoot.txt": {
    "bytes": 2521,
-   "path": "tcj/txt/tcj_spoot.txt",
    "sha256": "d453d9008f1d2c4f7054cf9e7a1f2b3546b0dd186895af9249d30a7129eba4c3",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_strideh.txt": {
    "bytes": 1104,
-   "path": "tcj/txt/tcj_strideh.txt",
    "sha256": "ba1bd84499bf4044ec63aa159459f05061f355beb957bc38063bcfbb01641158",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj/txt/tcj_sze.txt": {
    "bytes": 2640,
-   "path": "tcj/txt/tcj_sze.txt",
    "sha256": "e54f2a53863ad364befc0b8dbe7c2e232043429c13fdcadc451b8b9eddf4749c",
    "timestamp": "2022-12-19T15:15:40.000Z"
   },
-  {
+  "tcj_README_PLS.txt": {
    "bytes": 1729,
-   "path": "tcj_README_PLS.txt",
    "sha256": "2da2eee1fc30ddf1327b65158dfad943f8111d7c638519673f1619fe352edc17",
    "timestamp": "2022-12-21T16:14:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Probably requires a modern engine / source port with increased limits."
  ],

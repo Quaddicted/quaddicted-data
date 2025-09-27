@@ -4,36 +4,32 @@
  ],
  "bytes": 596537,
  "description": "Medium Wizard/Metal map with a Chthon battle.",
- "files": [
-  {
+ "files": {
+  "!!READ!!.BAT": {
    "bytes": 22260,
-   "path": "!!READ!!.BAT",
    "sha256": "1aaf6315169246115aaa887e934302b62e8348979941787735e416622c31a94b",
    "timestamp": "1997-06-17T20:38:06.000Z"
   },
-  {
+  "FIFFY4.BSP": {
    "bytes": 1113408,
-   "path": "FIFFY4.BSP",
    "sha256": "36b3a7b4ec9ebed215906cfb441b6a735f53a1bc1d1ea0e2b8dae4227afe6645",
    "timestamp": "1997-06-16T19:38:48.000Z"
   },
-  {
+  "FIFFY4.DEM": {
    "bytes": 401143,
-   "path": "FIFFY4.DEM",
    "sha256": "534cfe939afdb989878e322b91d67031f135c248e71aca7408d7564b56ebb230",
    "timestamp": "1997-06-16T20:31:12.000Z"
   },
-  {
+  "FILE_ID.DIZ": {
    "bytes": 761,
-   "path": "FILE_ID.DIZ",
    "sha256": "7b02feb688cd80b6196488d7795922f4cfdd38500251b52e1438bf3ca94d496f",
    "timestamp": "1997-06-16T20:46:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "4fiffy4": "1.0"
  },

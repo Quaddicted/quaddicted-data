@@ -5,24 +5,22 @@
  ],
  "bytes": 1159319,
  "description": "Mike Woodham fixed and improved an old map by Sloppy Jaloppy. Yellow brick (like dm1) medieval.",
- "files": [
-  {
+ "files": {
+  "fmb5.bsp": {
    "bytes": 2557892,
-   "path": "fmb5.bsp",
    "sha256": "be5162b4ed549a97e88011c396cb86ed1552a2974d7bc719e0a9c323d3fec8fb",
    "timestamp": "1999-05-18T02:21:30.000Z"
   },
-  {
+  "fmb5.txt": {
    "bytes": 6040,
-   "path": "fmb5.txt",
    "sha256": "d4463a73fe5d0191ab7653be6d774ba7eec1d34655d7639561274ccbc52624e4",
    "timestamp": "1999-05-16T18:50:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1999-05-18",
  "sha256": "5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392",
  "tags": [

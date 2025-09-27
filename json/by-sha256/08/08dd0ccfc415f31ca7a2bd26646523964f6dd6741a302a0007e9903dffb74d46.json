@@ -4,24 +4,22 @@
  ],
  "bytes": 1011247,
  "description": "Medium sized Metal/Base laboratory with a few custom textures such as paintings and blackboards. Loosely based on the movie \"Brain Candy\".",
- "files": [
-  {
+ "files": {
+  "Roritor.txt": {
    "bytes": 2651,
-   "path": "Roritor.txt",
    "sha256": "4b12a5b68c362982b5709584035cb7dabb5ef3c19a91d9544acdaeb650cbb5ed",
    "timestamp": "1997-11-06T21:32:24.000Z"
   },
-  {
+  "roritor.bsp": {
    "bytes": 2574036,
-   "path": "roritor.bsp",
    "sha256": "387807444d881d18e6a7f5a0d73d38d2a2c4c8e6a32b7a3fcf767e4d948f228f",
    "timestamp": "1997-11-06T17:05:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-06",
  "sha256": "08dd0ccfc415f31ca7a2bd26646523964f6dd6741a302a0007e9903dffb74d46",
  "tags": [

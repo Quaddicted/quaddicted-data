@@ -8,24 +8,22 @@
   "quoth>=2.0"
  ],
  "description": "Caught between slipgates / 2 SP maps / Drew (Quoth), Zwiffle",
- "files": [
-  {
+ "files": {
+  "sm153_drew.bsp": {
    "bytes": 1689696,
-   "path": "sm153_drew.bsp",
    "sha256": "8dc4e8bbeb6b6777516cb1487ca402be8595ac61fb1f1660e9c549c319c2cb6c",
    "timestamp": "2009-06-22T18:39:14.000Z"
   },
-  {
+  "sm153_zwiffle.bsp": {
    "bytes": 644532,
-   "path": "sm153_zwiffle.bsp",
    "sha256": "1495ff62fb9e33c0cd05a2f5be430b67826fed655980c4235a598607c026fa8d",
    "timestamp": "2009-06-22T01:17:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2009-06-22",
  "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "tags": [

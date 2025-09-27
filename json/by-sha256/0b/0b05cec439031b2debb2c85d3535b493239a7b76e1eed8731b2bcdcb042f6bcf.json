@@ -5,24 +5,22 @@
  ],
  "bytes": 1089556,
  "description": "Second map of the Alba TC. Set in 14th century Scotland. A dark medium-sized town with several houses, cellars, a chapel and a cemetary.",
- "files": [
-  {
+ "files": {
+  "alba02.txt": {
    "bytes": 5111,
-   "path": "alba02.txt",
    "sha256": "bf50258a7fc8bfe6b2d60ae9d5c7efbfb9980306d68bb46277d0dd0fdb7fb2ce",
    "timestamp": "1997-07-16T23:39:18.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 2524294,
-   "path": "pak0.pak",
    "sha256": "94b37c4e7ed96fd001308874b1dffa7783bdcb22a1517a6d24127cf5a8533e4b",
    "timestamp": "1997-07-16T19:53:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/alba02/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-11",
  "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "tags": [

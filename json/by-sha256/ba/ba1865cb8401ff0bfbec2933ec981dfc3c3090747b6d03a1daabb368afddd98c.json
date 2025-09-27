@@ -4,36 +4,32 @@
  ],
  "bytes": 6715860,
  "description": "Q3stone/metal styled fortress of epic scale, with a few new monsters in lots of horde combat (about 300 monsters in total) and other custom gameplay additions.",
- "files": [
-  {
+ "files": {
+  "bastion/": {
    "bytes": 0,
-   "path": "bastion/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2004-05-20T14:54:50.000Z"
   },
-  {
+  "bastion/Pak0.pak": {
    "bytes": 12131574,
-   "path": "bastion/Pak0.pak",
    "sha256": "2a39f35579bf93017330f6c9c3febb5a92d3fa3c44874f2cf1d5b9b5e77aa141",
    "timestamp": "2004-05-20T14:53:50.000Z"
   },
-  {
+  "bastion/README.txt": {
    "bytes": 4480,
-   "path": "bastion/README.txt",
    "sha256": "34dcb49f7b93427287a838029e869c690dce3cef38b05ffbf8c31ce4f9c1937d",
    "timestamp": "2004-05-19T12:38:08.000Z"
   },
-  {
+  "bastion/autoexec.cfg": {
    "bytes": 190,
-   "path": "bastion/autoexec.cfg",
    "sha256": "56481d459a5e4a0da3709648e341d5579a640e3492c6a9027a4779c6e6655547",
    "timestamp": "2004-05-16T18:54:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-05-20",
  "sha256": "ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c",
  "tags": [

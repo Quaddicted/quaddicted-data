@@ -4,24 +4,22 @@
  ],
  "bytes": 641050,
  "description": "Plain medium-sized castle with an underground cave.",
- "files": [
-  {
+ "files": {
+  "ps.bsp": {
    "bytes": 1408357,
-   "path": "ps.bsp",
    "sha256": "ed7070225977e26cd39eb0c6ec5de307b9caa5cdf4a4d7c607b772d1007992c4",
    "timestamp": "1996-09-02T11:45:16.000Z"
   },
-  {
+  "ps.txt": {
    "bytes": 2231,
-   "path": "ps.txt",
    "sha256": "771d70e274faeaf06898ab4e781151151c8f2ac1ed1e987dcb20a02d2193451d",
    "timestamp": "1996-09-02T16:40:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-09-02",
  "sha256": "855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12",
  "tags": [

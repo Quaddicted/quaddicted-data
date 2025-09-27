@@ -4,48 +4,42 @@
  ],
  "bytes": 1026623,
  "description": "Medium sized base map with a unique concept: \"keep the usual shapes but take away the textures.\" A biohazard outbreak at this facility adds lots of blood to the mostly white textures.",
- "files": [
-  {
+ "files": {
+  "whiteroom/": {
    "bytes": 0,
-   "path": "whiteroom/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-03-28T22:05:12.000Z"
   },
-  {
+  "whiteroom/WhiteRoom.txt": {
    "bytes": 3845,
-   "path": "whiteroom/WhiteRoom.txt",
    "sha256": "bff91382566a25a98a8f2630c2345cd0b175ce7d0f786f7ac4f5abf59a115c54",
    "timestamp": "2008-11-10T12:29:10.000Z"
   },
-  {
+  "whiteroom/maps/": {
    "bytes": 0,
-   "path": "whiteroom/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2009-03-28T22:05:14.000Z"
   },
-  {
+  "whiteroom/maps/WhiteRoom.bsp": {
    "bytes": 3302736,
-   "path": "whiteroom/maps/WhiteRoom.bsp",
    "sha256": "494081f12771cff0735ce8c182d6a24816d8b5d56271cab9731391b9f4986538",
    "timestamp": "2008-11-10T11:52:04.000Z"
   },
-  {
+  "whiteroom/progs.dat": {
    "bytes": 436688,
-   "path": "whiteroom/progs.dat",
    "sha256": "6bb2e1e99ab7643f21c7459c5416b094924826a04c51266447fbf6b5805ca2c6",
    "timestamp": "2008-10-25T18:37:48.000Z"
   },
-  {
+  "whiteroom_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "whiteroom_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

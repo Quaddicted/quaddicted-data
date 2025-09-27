@@ -4,54 +4,47 @@
  ],
  "bytes": 4156677,
  "description": "The latest entry in the author's 'Dungeon' series of maps, featuring spacious, boxy areas and lots of colored light.",
- "files": [
-  {
+ "files": {
+  "dungeonechoparadox-1.0.txt": {
    "bytes": 3067,
-   "path": "dungeonechoparadox-1.0.txt",
    "sha256": "5718e467d9d6343ce43077ec8e5174a18da7e4d9d0521586b8bb6dcbd9f2846a",
    "timestamp": "2024-06-18T18:24:38.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-18T18:24:38.000Z"
   },
-  {
+  "maps/dungeonechoparadox.bsp": {
    "bytes": 3473752,
-   "path": "maps/dungeonechoparadox.bsp",
    "sha256": "6fc7e5546e728fdbcfa47c747560ee0f9d1639d360bf23604f8d9888692aba31",
    "timestamp": "2024-06-18T18:24:38.000Z"
   },
-  {
+  "maps/dungeonechoparadox.lit": {
    "bytes": 1351976,
-   "path": "maps/dungeonechoparadox.lit",
    "sha256": "d358b8ae2942eb2c93bbf6f48504fe018b16a10ddb40d374cf68cd6f18b0c892",
    "timestamp": "2024-06-18T18:24:38.000Z"
   },
-  {
+  "maps/dungeonechoparadox.map": {
    "bytes": 1590601,
-   "path": "maps/dungeonechoparadox.map",
    "sha256": "0bafe63c560c94780fe247ab1fbf600f6db74099d71dd06c96667255badb0fe9",
    "timestamp": "2024-06-18T18:24:38.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-18T18:24:38.000Z"
   },
-  {
+  "music/track26.ogg": {
    "bytes": 1921737,
-   "path": "music/track26.ogg",
    "sha256": "648890364d0ae6bed99447864bb374f269346c5e6451368e00db142f29d465ae",
    "timestamp": "2024-06-18T18:24:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility."

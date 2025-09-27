@@ -4,24 +4,22 @@
  ],
  "bytes": 644348,
  "description": "Small to medium Wizard/Metal map with waterfall canyon leading to a cave with an eddy, a temple and underground caverns.",
- "files": [
-  {
+ "files": {
+  "dspirl11.bsp": {
    "bytes": 1519408,
-   "path": "dspirl11.bsp",
    "sha256": "9668b0573d40246709fae7ab5b9c31c9f40255f52683683e4895f43b0d25b830",
    "timestamp": "1996-12-27T00:16:56.000Z"
   },
-  {
+  "dspirl11.txt": {
    "bytes": 5564,
-   "path": "dspirl11.txt",
    "sha256": "08e54be7c129723de992840a58d86f403f9cda21e33c0cd68e9c0ebec54b1491",
    "timestamp": "1996-12-27T01:33:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-27",
  "sha256": "29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c",
  "tags": [

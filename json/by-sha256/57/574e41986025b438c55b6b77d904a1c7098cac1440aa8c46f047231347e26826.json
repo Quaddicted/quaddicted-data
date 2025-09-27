@@ -7,72 +7,62 @@
   "copper>=1.30"
  ],
  "description": "Small-scale metal map with non-linear gameplay, close-quarters combat and a number of secrets.",
- "files": [
-  {
+ "files": {
+  "copper/": {
    "bytes": 0,
-   "path": "copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-25T18:56:08.000Z"
   },
-  {
+  "copper/maps/": {
    "bytes": 0,
-   "path": "copper/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-20T08:32:58.000Z"
   },
-  {
+  "copper/maps/mtsch001.bsp": {
    "bytes": 5627700,
-   "path": "copper/maps/mtsch001.bsp",
    "sha256": "c3503bf3306eab74b4b9b003dcb8a19616aeaebacf3057f6d6f860a9a0803509",
    "timestamp": "2023-12-20T08:26:20.000Z"
   },
-  {
+  "copper/maps/mtsch001.lit": {
    "bytes": 2397416,
-   "path": "copper/maps/mtsch001.lit",
    "sha256": "168847302ebc5e16ead7141818af89420107f4463625d5c4ca5f469d2672057c",
    "timestamp": "2023-12-20T08:26:20.000Z"
   },
-  {
+  "copper/mtsch001.txt": {
    "bytes": 1724,
-   "path": "copper/mtsch001.txt",
    "sha256": "b342798af55cdcae94b025e8a2e0ed484b3a9959289207d5adff99e2c4c88b3c",
    "timestamp": "2023-12-20T08:34:20.000Z"
   },
-  {
+  "copper/music/": {
    "bytes": 0,
-   "path": "copper/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-15T09:36:00.000Z"
   },
-  {
+  "copper/music/track66.mp3": {
    "bytes": 14253864,
-   "path": "copper/music/track66.mp3",
    "sha256": "70375e15daab444fa7b5d4a9ff5f5314a4ad86d8537b3fb38622d7856e968acd",
    "timestamp": "2023-12-10T10:02:02.000Z"
   },
-  {
+  "copper/music/track66.txt": {
    "bytes": 113,
-   "path": "copper/music/track66.txt",
    "sha256": "1aeb464bf40b5a16c039afa5b554a3d2aeb689940e27368ebde47c9ed8af5eb8",
    "timestamp": "2023-12-15T09:24:46.000Z"
   },
-  {
+  "copper/source/": {
    "bytes": 0,
-   "path": "copper/source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-20T08:33:22.000Z"
   },
-  {
+  "copper/source/mtsch001.map": {
    "bytes": 4969869,
-   "path": "copper/source/mtsch001.map",
    "sha256": "26638ec3cb4c0985620cd2b675ddbab9f778fb570729fccdb35c2fcf5008ec4d",
    "timestamp": "2023-12-20T08:11:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility.",

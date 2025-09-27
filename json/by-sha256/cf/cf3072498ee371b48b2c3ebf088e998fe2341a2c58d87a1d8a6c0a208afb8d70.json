@@ -4,30 +4,27 @@
  ],
  "bytes": 1352756,
  "description": "Medium sized Base map with a few rotating objects. Comes with a SP demo.",
- "files": [
-  {
+ "files": {
+  "MUNGO.BSP": {
    "bytes": 2529420,
-   "path": "MUNGO.BSP",
    "sha256": "4172846f8f8d0de15e6b9f0e46e883cd032314310623d3cefd680c6f63069e80",
    "timestamp": "1997-08-23T15:36:16.000Z"
   },
-  {
+  "MUNGO.DEM": {
    "bytes": 2225672,
-   "path": "MUNGO.DEM",
    "sha256": "1d0d2f712c47817a0d6d4635a4bdbb7b410bace07e9773e75b94acb24a669960",
    "timestamp": "1997-08-23T16:10:10.000Z"
   },
-  {
+  "MUNGO.TXT": {
    "bytes": 1505,
-   "path": "MUNGO.TXT",
    "sha256": "d957db4c27c7a78b23e3e7713ccc85f6b02f7a39d77ad4fd6bdbc1ea4f1c3a5f",
    "timestamp": "1997-08-23T16:22:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map has to be played with Scourge of Armagon."
  ],

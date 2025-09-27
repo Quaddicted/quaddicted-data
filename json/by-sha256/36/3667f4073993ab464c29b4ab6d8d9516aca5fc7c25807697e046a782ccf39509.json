@@ -4,24 +4,22 @@
  ],
  "bytes": 1048882,
  "description": "Small base map that requires rocket/trick jumping to progress.",
- "files": [
-  {
+ "files": {
+  "hellhole.bsp": {
    "bytes": 2698540,
-   "path": "hellhole.bsp",
    "sha256": "019ca5c7d678880449bb45a2d4b9d91c92c9998da2e0717c635d0441d7db7bf6",
    "timestamp": "2015-12-10T17:32:32.000Z"
   },
-  {
+  "hellhole.txt": {
    "bytes": 492,
-   "path": "hellhole.txt",
    "sha256": "8c75d84255cf952354498832c81044f64b8a62899fa25f39ae77287ffed1ed34",
    "timestamp": "2015-12-10T23:57:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2015-12-10",
  "sha256": "3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509",
  "tags": [

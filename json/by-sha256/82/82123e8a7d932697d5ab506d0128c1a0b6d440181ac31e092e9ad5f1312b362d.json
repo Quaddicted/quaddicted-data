@@ -4,30 +4,27 @@
  ],
  "bytes": 2566684,
  "description": "Small Metal/runic level.",
- "files": [
-  {
+ "files": {
+  "vrksp1.bsp": {
    "bytes": 5237292,
-   "path": "vrksp1.bsp",
    "sha256": "2cf33058cdf0ab3d24698ef5ac685a37864d3b0c82fb55eae8c463bd60963156",
    "timestamp": "2019-01-25T01:35:14.000Z"
   },
-  {
+  "vrksp1.lit": {
    "bytes": 1336757,
-   "path": "vrksp1.lit",
    "sha256": "7ad9e77fdf1e4277ca47c36f52fdbf2876051fbcbb2d23c606dcd87b205fb5de",
    "timestamp": "2019-01-25T01:35:14.000Z"
   },
-  {
+  "vrksp1.txt": {
    "bytes": 1949,
-   "path": "vrksp1.txt",
    "sha256": "0f46fa26f77396f8c209fb6801f173e840dcf26147911ef003590712920f002e",
    "timestamp": "2019-01-25T02:02:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

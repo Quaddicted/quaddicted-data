@@ -4,24 +4,22 @@
  ],
  "bytes": 813474,
  "description": "Medium sized medieval village, invaded and partially destroyed by nail-shooting goblins.",
- "files": [
-  {
+ "files": {
+  "Pak0.PAK": {
    "bytes": 1906630,
-   "path": "Pak0.PAK",
    "sha256": "37b54ad90065a26816f28e52d40a226e6d8aa4abe1e52b4fc74263d7b8c8df22",
    "timestamp": "2001-12-30T00:32:26.000Z"
   },
-  {
+  "goblin_readme.txt": {
    "bytes": 3213,
-   "path": "goblin_readme.txt",
    "sha256": "0f1bc29e68ab04517aeca5ef7e79fc7d8dfa748ec28e7d2061d22ec1fb372c0a",
    "timestamp": "2001-12-30T00:34:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/goblin/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "The map was later re-used in <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a>."
  ],

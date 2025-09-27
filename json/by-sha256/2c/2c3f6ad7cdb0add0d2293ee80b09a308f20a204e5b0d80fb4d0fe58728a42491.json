@@ -4,42 +4,37 @@
  ],
  "bytes": 5351008,
  "description": "Large metal-style industrial facility surrounded by caverns; features a few custom map props.",
- "files": [
-  {
+ "files": {
+  "torro/": {
    "bytes": 0,
-   "path": "torro/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2012-09-16T10:28:40.000Z"
   },
-  {
+  "torro/pak0.pak": {
    "bytes": 14076624,
-   "path": "torro/pak0.pak",
    "sha256": "7e3ca720f6a47d937dfb1669352fa00c6b07142ea7b38e38d82f1ec1bc627f53",
    "timestamp": "2012-09-16T10:10:06.000Z"
   },
-  {
+  "torro/progs.dat": {
    "bytes": 427788,
-   "path": "torro/progs.dat",
    "sha256": "4bf05817fbb9f55a5133af954840c67fcb6e32a397ad51cb78fc5c65e2781772",
    "timestamp": "2012-08-13T22:01:16.000Z"
   },
-  {
+  "torro/tormentarium.txt": {
    "bytes": 2913,
-   "path": "torro/tormentarium.txt",
    "sha256": "b41083c771bc0b407911476462018c8c079818b29e5d67c0eb8dca25e1f52a7c",
    "timestamp": "2012-09-16T10:08:46.000Z"
   },
-  {
+  "torro/witzraz.tga": {
    "bytes": 322679,
-   "path": "torro/witzraz.tga",
    "sha256": "4486962768e1e587378da3641ac50dcdda9a6ba52c23d67d90f764f563ed3adc",
    "timestamp": "2012-07-16T02:05:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is the second version, the first release named torro.zip can be found in the <a href=\"http://www.quaddicted.com/filebase/trash/torro.zip\">trash/</a>."
  ],

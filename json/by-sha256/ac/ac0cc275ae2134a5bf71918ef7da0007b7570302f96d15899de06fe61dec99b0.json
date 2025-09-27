@@ -4,30 +4,27 @@
  ],
  "bytes": 1721293,
  "description": "Small, highly-detailed base map. The (expanded) singleplayer version of <a href=\"https://www.quaddicted.com/files/maps/multiplayer/dmqdeck.zip\">DMQDeck</a>. The map source is included.",
- "files": [
-  {
+ "files": {
+  "fesp1.bsp": {
    "bytes": 4292010,
-   "path": "fesp1.bsp",
    "sha256": "a3175eb5b4f3d820f346d322b5df15f9332c852786561dee7288d6db81a9641b",
    "timestamp": "2013-05-28T19:29:12.000Z"
   },
-  {
+  "fesp1.map": {
    "bytes": 1880469,
-   "path": "fesp1.map",
    "sha256": "e1021f45ac62c36b5b5171979bcc29236ca7ab76680c57bd2436829e7f0a9e49",
    "timestamp": "2013-05-28T19:03:38.000Z"
   },
-  {
+  "fesp1.txt": {
    "bytes": 5031,
-   "path": "fesp1.txt",
    "sha256": "a9fb7e820d65a9bd49c2a9b05a07ad2a848eee699fbebe819ed30d91e18df0b4",
    "timestamp": "2013-05-28T19:39:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

@@ -4,30 +4,27 @@
  ],
  "bytes": 2802022,
  "description": "A huge green base map with new textures and very hard gameplay (no difficulty settings, tight on ammo). The texture wad is included.",
- "files": [
-  {
+ "files": {
+  "OMLABX.WAD": {
    "bytes": 806428,
-   "path": "OMLABX.WAD",
    "sha256": "12c82b55b39dd0f19ca0b39b88333004cd459c0accb549b132d2e8c9186daaec",
    "timestamp": "2008-05-18T15:07:34.000Z"
   },
-  {
+  "omlabx.bsp": {
    "bytes": 6014288,
-   "path": "omlabx.bsp",
    "sha256": "840323b8d1be82cd9d030f8105ab7965a196220086af3c3463cd065926d1e6ce",
    "timestamp": "2008-05-18T14:44:50.000Z"
   },
-  {
+  "omlabx.txt": {
    "bytes": 1780,
-   "path": "omlabx.txt",
    "sha256": "aa826da344b4c7c3068298b3f82ac484a34f887e5c6a0ea38c3b22bc89918c05",
    "timestamp": "2008-05-18T15:05:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires and engine port with increased limits."
  ],

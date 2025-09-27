@@ -4,30 +4,27 @@
  ],
  "bytes": 9293427,
  "description": "Small short linear single player sci-fi base map with Makkon textures. The author's second release. Map source file is included.",
- "files": [
-  {
+ "files": {
+  "suzyhrt.bsp": {
    "bytes": 20511520,
-   "path": "suzyhrt.bsp",
    "sha256": "f102ae9315457f9afc09b86a70f7cc1d593ddccf325ba949db07c03a99d8893d",
    "timestamp": "2022-07-04T23:10:52.000Z"
   },
-  {
+  "suzyhrt.map": {
    "bytes": 9278369,
-   "path": "suzyhrt.map",
    "sha256": "1268bae8c326e0ee32d9c1f1bd4ea8423cd6ea3e4730ed17c7cad905f8a52f03",
    "timestamp": "2022-07-04T23:09:34.000Z"
   },
-  {
+  "suzyhrt.txt": {
    "bytes": 1872,
-   "path": "suzyhrt.txt",
    "sha256": "9fbe7b3d519135e11047e274d75f56f1fd4a6e47d9e397a56dbd524bcfc7abf2",
    "timestamp": "2022-07-04T23:21:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires a modern engine /  limit-removing source port."
  ],

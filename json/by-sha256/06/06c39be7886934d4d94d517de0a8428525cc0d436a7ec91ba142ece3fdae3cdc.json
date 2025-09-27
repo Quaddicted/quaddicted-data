@@ -17,1032 +17,862 @@
  ],
  "bytes": 194230021,
  "description": "JJJ2 is a map jam pack made of 15 acrobatic maps, built with base-themed Alkaline mod kit (included in download) which adds a \"jump boots\" powerup for mid-air jumps. Includes start map, built-in difficulty select, YouTube-safe custom soundtrack, and map source. Some of the maps are quite difficult. Expect floating platforms, bottomless pits, and void maps.",
- "files": [
-  {
+ "files": {
+  "jjj2/": {
    "bytes": 0,
-   "path": "jjj2/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-22T22:23:18.000Z"
   },
-  {
+  "jjj2/JJJ2_POSTER.jpg": {
    "bytes": 551431,
-   "path": "jjj2/JJJ2_POSTER.jpg",
    "sha256": "ae5a86da8174c5614e6733187f2e46387919ed8dcb154fb0f26cef60893f6052",
    "timestamp": "2022-01-22T22:15:36.000Z"
   },
-  {
+  "jjj2/JJJ2_READ_ME.txt": {
    "bytes": 2452,
-   "path": "jjj2/JJJ2_READ_ME.txt",
    "sha256": "57977dd96fb54241d1e29f9bd0f0496d2888117b3fc7450c8b4dab985a6d0fd0",
    "timestamp": "2022-01-22T21:32:12.000Z"
   },
-  {
+  "jjj2/docs/": {
    "bytes": 0,
-   "path": "jjj2/docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-22T21:48:52.000Z"
   },
-  {
+  "jjj2/docs/jjj2_dfl.txt": {
    "bytes": 865,
-   "path": "jjj2/docs/jjj2_dfl.txt",
    "sha256": "2e2b52e9f7cb24ed561b5c4374b2d835a66e14b166a8b704c270d2b30366f7c7",
    "timestamp": "2022-01-10T14:46:00.000Z"
   },
-  {
+  "jjj2/docs/jjj2_eduardo.txt": {
    "bytes": 1877,
-   "path": "jjj2/docs/jjj2_eduardo.txt",
    "sha256": "59bbabc26750e8bbcc4bd8adea3e56ab25ca6b5065ee314f9d8e8dae8bf1fd2a",
    "timestamp": "2022-01-01T23:48:34.000Z"
   },
-  {
+  "jjj2/docs/jjj2_eduardo2.txt": {
    "bytes": 1845,
-   "path": "jjj2/docs/jjj2_eduardo2.txt",
    "sha256": "c2c86c7e6e4f0fcada9da6b45ee2be419b50b97ae87f87b3393ee339b6477333",
    "timestamp": "2022-01-09T00:28:18.000Z"
   },
-  {
+  "jjj2/docs/jjj2_greenwood.txt": {
    "bytes": 1517,
-   "path": "jjj2/docs/jjj2_greenwood.txt",
    "sha256": "916edd384a33fd155585eee8288939ffa5595e92666637cfcc52482c188c6760",
    "timestamp": "2022-01-22T21:47:34.000Z"
   },
-  {
+  "jjj2/docs/jjj2_gw_x9.txt": {
    "bytes": 2315,
-   "path": "jjj2/docs/jjj2_gw_x9.txt",
    "sha256": "c913aadf6b8f0eb00c24274245a1b7d10a3505f0db727a6fc85ec3b0f18cce91",
    "timestamp": "2022-01-15T17:01:38.000Z"
   },
-  {
+  "jjj2/docs/jjj2_hcm.txt": {
    "bytes": 2086,
-   "path": "jjj2/docs/jjj2_hcm.txt",
    "sha256": "b6017a5a4831c3bbcd3597764fc84e8659541c091181c804200e8e8f10b0e2e8",
    "timestamp": "2022-01-17T08:58:02.000Z"
   },
-  {
+  "jjj2/docs/jjj2_ish.txt": {
    "bytes": 3097,
-   "path": "jjj2/docs/jjj2_ish.txt",
    "sha256": "1691c25b0abb0dd7f89df6fe4e320ad43d1bba8718a83b71eb9518c818bcdccc",
    "timestamp": "2022-01-16T23:49:32.000Z"
   },
-  {
+  "jjj2/docs/jjj2_juzley.txt": {
    "bytes": 2047,
-   "path": "jjj2/docs/jjj2_juzley.txt",
    "sha256": "8ff600219cd3cb469ed6db78bb1f6f02d173ed3427fc295cf446274dbe4ef93e",
    "timestamp": "2022-01-17T13:41:38.000Z"
   },
-  {
+  "jjj2/docs/jjj2_konig.txt": {
    "bytes": 1852,
-   "path": "jjj2/docs/jjj2_konig.txt",
    "sha256": "a5c27c4f325d90be827c5fd6ac647d6eb1007cc1fdc0a7a96e4e29a4f66d2672",
    "timestamp": "2022-01-16T21:35:12.000Z"
   },
-  {
+  "jjj2/docs/jjj2_magnetbox.txt": {
    "bytes": 12951,
-   "path": "jjj2/docs/jjj2_magnetbox.txt",
    "sha256": "7a3776cfe5b421e5c6482ce769a463443f0f97132c4e9cf4dc4a2255c581c6fa",
    "timestamp": "2022-01-15T10:24:36.000Z"
   },
-  {
+  "jjj2/docs/jjj2_omni.txt": {
    "bytes": 383,
-   "path": "jjj2/docs/jjj2_omni.txt",
    "sha256": "31683ee45ced67d97ca285bbfbb551c5f3110d4305cddd5a529c871127e80359",
    "timestamp": "2022-01-22T12:01:16.000Z"
   },
-  {
+  "jjj2/docs/jjj2_plaw.txt": {
    "bytes": 2700,
-   "path": "jjj2/docs/jjj2_plaw.txt",
    "sha256": "a1b59102c6b93d3c586b0a34b385dcbb38721be125c4275f743f7dae41b24046",
    "timestamp": "2021-12-26T09:06:48.000Z"
   },
-  {
+  "jjj2/docs/jjj2_quasiotter.txt": {
    "bytes": 2652,
-   "path": "jjj2/docs/jjj2_quasiotter.txt",
    "sha256": "0a01c77391b0558aa60cc590359bafefd1c3691d69f8480078d71966f8a4e593",
    "timestamp": "2022-01-17T01:05:42.000Z"
   },
-  {
+  "jjj2/docs/jjj2_shadesmaster.txt": {
    "bytes": 1953,
-   "path": "jjj2/docs/jjj2_shadesmaster.txt",
    "sha256": "994551f4d248c11d43992bb9e94d11209ea27898c3d1629d9d37c4d5bd760d39",
    "timestamp": "2022-01-18T19:40:56.000Z"
   },
-  {
+  "jjj2/docs/jjj2_wiedo.txt": {
    "bytes": 2167,
-   "path": "jjj2/docs/jjj2_wiedo.txt",
    "sha256": "58e936c933087a3b063e9da9382985cc536dc93a42653a45c0acb70c599a9821",
    "timestamp": "2022-01-18T00:01:00.000Z"
   },
-  {
+  "jjj2/gfx/": {
    "bytes": 0,
-   "path": "jjj2/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:54.000Z"
   },
-  {
+  "jjj2/gfx/env/": {
    "bytes": 0,
-   "path": "jjj2/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-21T15:21:12.000Z"
   },
-  {
+  "jjj2/gfx/env/abrut1_bk.tga": {
    "bytes": 3145746,
-   "path": "jjj2/gfx/env/abrut1_bk.tga",
    "sha256": "ffc96027930f197262bf224619f4f793b3f9792ca5ed0ad4a810de0469146bb4",
    "timestamp": "2021-11-15T01:44:34.000Z"
   },
-  {
+  "jjj2/gfx/env/abrut1_dn.tga": {
    "bytes": 3145746,
-   "path": "jjj2/gfx/env/abrut1_dn.tga",
    "sha256": "12aba296663e41f26d229f62baf24161fca2d06874944fdd738d452cfed12e22",
    "timestamp": "2021-11-15T01:44:34.000Z"
   },
-  {
+  "jjj2/gfx/env/abrut1_ft.tga": {
    "bytes": 2216388,
-   "path": "jjj2/gfx/env/abrut1_ft.tga",
    "sha256": "1ffb28d2baf5809ff3ddd4dac1123e39568af6060f33671cbaa5b9366eb093f1",
    "timestamp": "2021-11-15T01:44:34.000Z"
   },
-  {
+  "jjj2/gfx/env/abrut1_lf.tga": {
    "bytes": 3145746,
-   "path": "jjj2/gfx/env/abrut1_lf.tga",
    "sha256": "40610c9f33267572a0979b37d1d01fe214254045adb80cda9303d1c4fd09d77d",
    "timestamp": "2021-11-15T01:44:34.000Z"
   },
-  {
+  "jjj2/gfx/env/abrut1_rt.tga": {
    "bytes": 3145746,
-   "path": "jjj2/gfx/env/abrut1_rt.tga",
    "sha256": "26df0c46008298c0570712f5a62fd8208dc3e319bca4bcc849a4fcdd61d9e52c",
    "timestamp": "2021-11-15T01:44:34.000Z"
   },
-  {
+  "jjj2/gfx/env/abrut1_up.tga": {
    "bytes": 3145746,
-   "path": "jjj2/gfx/env/abrut1_up.tga",
    "sha256": "8155aa7bb051a2887d74ff4a94cea6007ecd20fd5dfc33856d43dae7547ee77e",
    "timestamp": "2021-11-15T01:44:34.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/": {
    "bytes": 0,
-   "path": "jjj2/gfx/env/ish/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:56.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/mak_galaxy2_bk.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/ish/mak_galaxy2_bk.tga",
    "sha256": "37aea38121e18fcd4ba1f236cf341e3d672f4cff1d57d671788b92a1a5de3a61",
    "timestamp": "2021-07-02T23:34:18.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/mak_galaxy2_dn.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/ish/mak_galaxy2_dn.tga",
    "sha256": "718550ee692bdb06c8fa372f0a5a5b5b64ba5abd13c9ec57b69aba371323855f",
    "timestamp": "2021-07-02T23:34:12.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/mak_galaxy2_ft.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/ish/mak_galaxy2_ft.tga",
    "sha256": "8cda4106f9106f95337e7842825b70e076f361c4f70f2ca902bf33bc8480f515",
    "timestamp": "2021-07-02T23:34:04.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/mak_galaxy2_lf.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/ish/mak_galaxy2_lf.tga",
    "sha256": "341ca2d695f6eaae103a94ad48d40d975d7f45b1e2cfef34105c51b005e8e24e",
    "timestamp": "2021-07-02T23:34:00.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/mak_galaxy2_rt.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/ish/mak_galaxy2_rt.tga",
    "sha256": "a35c1edb53fbda2473f90e97090b1f2d1a52129bcd9ef6da5deb15b57986c32f",
    "timestamp": "2021-07-02T23:33:54.000Z"
   },
-  {
+  "jjj2/gfx/env/ish/mak_galaxy2_up.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/ish/mak_galaxy2_up.tga",
    "sha256": "bce80568b26b9a6c738e9132b028d37bba86fd9883350c4663f70f6e32fdb371",
    "timestamp": "2021-07-02T23:33:50.000Z"
   },
-  {
+  "jjj2/gfx/env/jjj2_juzley_bk.tga": {
    "bytes": 1088614,
-   "path": "jjj2/gfx/env/jjj2_juzley_bk.tga",
    "sha256": "726ef9578bc96971e47ccf98086a34a12a36749c06397226aa421a4447a92367",
    "timestamp": "2022-01-16T00:44:18.000Z"
   },
-  {
+  "jjj2/gfx/env/jjj2_juzley_dn.tga": {
    "bytes": 1483083,
-   "path": "jjj2/gfx/env/jjj2_juzley_dn.tga",
    "sha256": "0b6fe84280a0e15953b899c7cb021a16c4930183ac39c318ae637041c95068ff",
    "timestamp": "2022-01-16T00:44:38.000Z"
   },
-  {
+  "jjj2/gfx/env/jjj2_juzley_ft.tga": {
    "bytes": 1495387,
-   "path": "jjj2/gfx/env/jjj2_juzley_ft.tga",
    "sha256": "92687855846f38d4bc37fadc6b560cf6a993afac9e3889b00bf3f7e9e7dbde95",
    "timestamp": "2022-01-16T00:44:52.000Z"
   },
-  {
+  "jjj2/gfx/env/jjj2_juzley_lf.tga": {
    "bytes": 1484792,
-   "path": "jjj2/gfx/env/jjj2_juzley_lf.tga",
    "sha256": "dd9ba9305807b6d58f4cc1daa8e45568f6f98aae173e10b2c23b6fa1f48b6d60",
    "timestamp": "2022-01-16T00:45:06.000Z"
   },
-  {
+  "jjj2/gfx/env/jjj2_juzley_rt.tga": {
    "bytes": 1128628,
-   "path": "jjj2/gfx/env/jjj2_juzley_rt.tga",
    "sha256": "00b47461d896a9a7f10ccd88f55430d9f3fc7cb687a586a3b2207611e9f0ed78",
    "timestamp": "2022-01-16T00:45:18.000Z"
   },
-  {
+  "jjj2/gfx/env/jjj2_juzley_up.tga": {
    "bytes": 1236843,
-   "path": "jjj2/gfx/env/jjj2_juzley_up.tga",
    "sha256": "77a44fcee3b460759344a908704f4aff93b0215b0cd40f400fe48c56e57b899e",
    "timestamp": "2022-01-16T00:45:30.000Z"
   },
-  {
+  "jjj2/gfx/env/mak_blackholesky_bk.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/mak_blackholesky_bk.tga",
    "sha256": "f647244411cc903b293c3fb0640b5778bf5feaa9a2dbb133de3ef9e29b93899b",
    "timestamp": "2021-07-02T21:34:52.000Z"
   },
-  {
+  "jjj2/gfx/env/mak_blackholesky_dn.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/mak_blackholesky_dn.tga",
    "sha256": "c05af31f5a5d59a048802f66ba7150bbf48d954f28ee467d76e8e4fc28628c0a",
    "timestamp": "2021-07-02T21:34:46.000Z"
   },
-  {
+  "jjj2/gfx/env/mak_blackholesky_ft.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/mak_blackholesky_ft.tga",
    "sha256": "a0e2ce45b870644b61aa1f8a3a27d6607d25f5acb7a65426a7bee7db43e32682",
    "timestamp": "2021-07-02T21:34:40.000Z"
   },
-  {
+  "jjj2/gfx/env/mak_blackholesky_lf.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/mak_blackholesky_lf.tga",
    "sha256": "ec680ce52d636940d327851b37e359752d70676a2b573452f239c8c64d90d7bb",
    "timestamp": "2021-07-02T21:34:26.000Z"
   },
-  {
+  "jjj2/gfx/env/mak_blackholesky_rt.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/mak_blackholesky_rt.tga",
    "sha256": "9e53ed14f44b393383663f93182160b5f4fcdbb8b6a6c2604431f97780b32479",
    "timestamp": "2021-07-02T21:34:34.000Z"
   },
-  {
+  "jjj2/gfx/env/mak_blackholesky_up.tga": {
    "bytes": 3145772,
-   "path": "jjj2/gfx/env/mak_blackholesky_up.tga",
    "sha256": "8aa34e90bc659f0a4781a77561f47a20e4e0353958d1ed34e242b2f3ee4bca1a",
    "timestamp": "2021-07-02T21:34:16.000Z"
   },
-  {
+  "jjj2/gfx/env/med-tramonto_bk.tga": {
    "bytes": 640140,
-   "path": "jjj2/gfx/env/med-tramonto_bk.tga",
    "sha256": "e7478aa0deab77b93ea6642e525932ede3088ca875442ccd25d44cbe87d1893a",
    "timestamp": "2003-02-13T00:55:34.000Z"
   },
-  {
+  "jjj2/gfx/env/med-tramonto_dn.tga": {
    "bytes": 783088,
-   "path": "jjj2/gfx/env/med-tramonto_dn.tga",
    "sha256": "88e33878ee6100e1e4bac752c099a79f4bc0227c62303d91fe050741e0e05410",
    "timestamp": "2003-02-13T00:56:22.000Z"
   },
-  {
+  "jjj2/gfx/env/med-tramonto_ft.tga": {
    "bytes": 710845,
-   "path": "jjj2/gfx/env/med-tramonto_ft.tga",
    "sha256": "55b3c37de07bb6ba1f854678ca7d3bc9852cdc0f7b3230cc1efbcaa2bf3b30ab",
    "timestamp": "2003-02-12T22:16:14.000Z"
   },
-  {
+  "jjj2/gfx/env/med-tramonto_lf.tga": {
    "bytes": 701996,
-   "path": "jjj2/gfx/env/med-tramonto_lf.tga",
    "sha256": "315d06acd66c60cc06a8033be07328e5e0d13e3b00c7ed4e90f3b82879a98054",
    "timestamp": "2003-02-13T00:55:08.000Z"
   },
-  {
+  "jjj2/gfx/env/med-tramonto_rt.tga": {
    "bytes": 721740,
-   "path": "jjj2/gfx/env/med-tramonto_rt.tga",
    "sha256": "b742ef4e4d35085e04bb94e051e4ebca69961d48885f0e9afd2650b69013db58",
    "timestamp": "2003-02-13T00:56:06.000Z"
   },
-  {
+  "jjj2/gfx/env/med-tramonto_up.tga": {
    "bytes": 649528,
-   "path": "jjj2/gfx/env/med-tramonto_up.tga",
    "sha256": "4e33284abc24c9418e9144a41d33c8360c9d6a0d4788b957682b9d1280b950ed",
    "timestamp": "2003-02-13T00:55:46.000Z"
   },
-  {
+  "jjj2/gfx/env/mge4m2_bk.tga": {
    "bytes": 786476,
-   "path": "jjj2/gfx/env/mge4m2_bk.tga",
    "sha256": "85dbc0701d512ca1e734e6f77a6a9183220f52a027a0353ddc5f0eb037e69eba",
    "timestamp": "2021-10-11T22:55:12.000Z"
   },
-  {
+  "jjj2/gfx/env/mge4m2_dn.tga": {
    "bytes": 786476,
-   "path": "jjj2/gfx/env/mge4m2_dn.tga",
    "sha256": "12046c648dcd7e981eb08373b8c1958ea9a81eeddc974f758966aa4981a7e24b",
    "timestamp": "2021-10-11T22:55:12.000Z"
   },
-  {
+  "jjj2/gfx/env/mge4m2_ft.tga": {
    "bytes": 786476,
-   "path": "jjj2/gfx/env/mge4m2_ft.tga",
    "sha256": "4e16b1b3d2c369abade1c302b1422ca6683500d2b55516011da116d8ebc5c68c",
    "timestamp": "2021-10-11T22:55:12.000Z"
   },
-  {
+  "jjj2/gfx/env/mge4m2_lf.tga": {
    "bytes": 786476,
-   "path": "jjj2/gfx/env/mge4m2_lf.tga",
    "sha256": "804f33d5eb4df8f7566b8f1c0a333948acd5e58637f430641256dd64981ef07b",
    "timestamp": "2021-10-11T22:55:12.000Z"
   },
-  {
+  "jjj2/gfx/env/mge4m2_rt.tga": {
    "bytes": 786476,
-   "path": "jjj2/gfx/env/mge4m2_rt.tga",
    "sha256": "a3e78928636e54f281fb7b1e06fadd49aaf1fc78fcd640aea111d942ab624a32",
    "timestamp": "2021-10-11T22:55:12.000Z"
   },
-  {
+  "jjj2/gfx/env/mge4m2_up.tga": {
    "bytes": 786476,
-   "path": "jjj2/gfx/env/mge4m2_up.tga",
    "sha256": "f993e068ee47bd8855b1afdd17df2b665cc13abdb205a69cf4f4a1b7b87f0c16",
    "timestamp": "2021-10-11T22:55:12.000Z"
   },
-  {
+  "jjj2/maps/": {
    "bytes": 0,
-   "path": "jjj2/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-22T22:16:52.000Z"
   },
-  {
+  "jjj2/maps/jjj2_dfl.bsp": {
    "bytes": 9125708,
-   "path": "jjj2/maps/jjj2_dfl.bsp",
    "sha256": "e3449d90f00990231d1500f7086794687aa00ab9f7716e029d7002313d256d85",
    "timestamp": "2022-01-15T08:11:20.000Z"
   },
-  {
+  "jjj2/maps/jjj2_dfl.lit": {
    "bytes": 2965565,
-   "path": "jjj2/maps/jjj2_dfl.lit",
    "sha256": "fc735cc36c96914e7112eeac43bb6a6ae4bb11c1338157ec6f004c5ece25cafc",
    "timestamp": "2022-01-15T08:11:20.000Z"
   },
-  {
+  "jjj2/maps/jjj2_eduardo.bsp": {
    "bytes": 2344808,
-   "path": "jjj2/maps/jjj2_eduardo.bsp",
    "sha256": "338c1424ef842e15c1a38633b53e568752a036eb35fb69ad5822674772ff3a66",
    "timestamp": "2022-01-02T10:50:00.000Z"
   },
-  {
+  "jjj2/maps/jjj2_eduardo.lit": {
    "bytes": 828464,
-   "path": "jjj2/maps/jjj2_eduardo.lit",
    "sha256": "e342c35da337bd968e692647a39b2490559d3cc6d26ca1579aa37c3557b63e7a",
    "timestamp": "2022-01-02T10:50:00.000Z"
   },
-  {
+  "jjj2/maps/jjj2_eduardo2.bsp": {
    "bytes": 1236052,
-   "path": "jjj2/maps/jjj2_eduardo2.bsp",
    "sha256": "80d1e96021a89b8b64afa715246c5e772d5421d9c5abf36190250dad58f854d2",
    "timestamp": "2022-01-08T23:24:52.000Z"
   },
-  {
+  "jjj2/maps/jjj2_eduardo2.lit": {
    "bytes": 427988,
-   "path": "jjj2/maps/jjj2_eduardo2.lit",
    "sha256": "c7501435fe7f28270252c47c6df1b290c638d15954fc6510ec41f1048a1429b1",
    "timestamp": "2022-01-08T23:24:52.000Z"
   },
-  {
+  "jjj2/maps/jjj2_greenwood.bsp": {
    "bytes": 4972580,
-   "path": "jjj2/maps/jjj2_greenwood.bsp",
    "sha256": "209765b210a3171c8f4bdf6f2ef4bf7e6452b10881fad748149be08f37484951",
    "timestamp": "2022-01-22T22:11:20.000Z"
   },
-  {
+  "jjj2/maps/jjj2_greenwood.lit": {
    "bytes": 2204168,
-   "path": "jjj2/maps/jjj2_greenwood.lit",
    "sha256": "583b3c5c501b33c91cdf584aa90a266af5d4d182cfe48cb9dc63a1f8c1067216",
    "timestamp": "2022-01-22T22:11:20.000Z"
   },
-  {
+  "jjj2/maps/jjj2_gw_x9.bsp": {
    "bytes": 16064208,
-   "path": "jjj2/maps/jjj2_gw_x9.bsp",
    "sha256": "c8962b6ef51119b5e60ab3b3268a53d8689f13f1ebe5cdecf57c9c58da8f2f4e",
    "timestamp": "2022-01-15T17:04:54.000Z"
   },
-  {
+  "jjj2/maps/jjj2_gw_x9.lit": {
    "bytes": 6825629,
-   "path": "jjj2/maps/jjj2_gw_x9.lit",
    "sha256": "b8c8594aaae5dd80191c44dd40d617715997e8a693eff10efb765ae8ffa865ea",
    "timestamp": "2022-01-15T17:04:54.000Z"
   },
-  {
+  "jjj2/maps/jjj2_hcm.bsp": {
    "bytes": 6106672,
-   "path": "jjj2/maps/jjj2_hcm.bsp",
    "sha256": "c04a822a5b16c2cd0129dc3268ff3a11649cbd973e80ce91c1e93a0bb78478dd",
    "timestamp": "2022-01-17T08:50:10.000Z"
   },
-  {
+  "jjj2/maps/jjj2_hcm.lit": {
    "bytes": 2854214,
-   "path": "jjj2/maps/jjj2_hcm.lit",
    "sha256": "25de896e2ceb2cd3de5b4dfe6d1a7b806768c6af05f5fc88a9cf31a722939780",
    "timestamp": "2022-01-17T08:50:10.000Z"
   },
-  {
+  "jjj2/maps/jjj2_ish.bsp": {
    "bytes": 19805188,
-   "path": "jjj2/maps/jjj2_ish.bsp",
    "sha256": "1556d61772462f829c53d1f5d2ae4d7603f686519de621fef2fcf6cfd43ad151",
    "timestamp": "2022-01-14T04:57:34.000Z"
   },
-  {
+  "jjj2/maps/jjj2_ish.lit": {
    "bytes": 516968,
-   "path": "jjj2/maps/jjj2_ish.lit",
    "sha256": "08795ec87b6d2d20a19ec2edaa8480a04cbdd7a50f4ffd01bb86f64ef81d258b",
    "timestamp": "2022-01-14T04:57:34.000Z"
   },
-  {
+  "jjj2/maps/jjj2_ish2.bsp": {
    "bytes": 56498828,
-   "path": "jjj2/maps/jjj2_ish2.bsp",
    "sha256": "486ada39e40aebb19f01ac3a1dca4e01d3508c88ebfaf64ffddc01c50eb32cb2",
    "timestamp": "2022-01-17T03:28:44.000Z"
   },
-  {
+  "jjj2/maps/jjj2_ish2.lit": {
    "bytes": 3734966,
-   "path": "jjj2/maps/jjj2_ish2.lit",
    "sha256": "4fc89322c14a127818e75b72363fbeeefac569dd651a1903442c99909e4f003a",
    "timestamp": "2022-01-17T03:28:44.000Z"
   },
-  {
+  "jjj2/maps/jjj2_juzley.bsp": {
    "bytes": 8502776,
-   "path": "jjj2/maps/jjj2_juzley.bsp",
    "sha256": "c5933d797eea05f913ec6a0d2a20f8c300889aee92323ea8b0c8916b2b286cbd",
    "timestamp": "2022-01-17T13:29:48.000Z"
   },
-  {
+  "jjj2/maps/jjj2_juzley.lit": {
    "bytes": 3313028,
-   "path": "jjj2/maps/jjj2_juzley.lit",
    "sha256": "85ce9d975da5e86654a9d17f0b15ca69f1077ed2cf2015170fe7ab90b6c19198",
    "timestamp": "2022-01-17T13:29:48.000Z"
   },
-  {
+  "jjj2/maps/jjj2_konig.bsp": {
    "bytes": 18370092,
-   "path": "jjj2/maps/jjj2_konig.bsp",
    "sha256": "d9144f4341950821676ab417cf912f3890a070a327b21ec9320cba709671d0f8",
    "timestamp": "2022-01-17T07:54:30.000Z"
   },
-  {
+  "jjj2/maps/jjj2_konig.lit": {
    "bytes": 1822265,
-   "path": "jjj2/maps/jjj2_konig.lit",
    "sha256": "8da683f816e60c98a0158389937ef64dd214e38ec89cbce4b065649d301cf615",
    "timestamp": "2022-01-17T07:54:30.000Z"
   },
-  {
+  "jjj2/maps/jjj2_magnetbox.bsp": {
    "bytes": 2675116,
-   "path": "jjj2/maps/jjj2_magnetbox.bsp",
    "sha256": "90d110515a91416881bd0b73c1ed8abe43f474e737f6652b44ece027d0e3db89",
    "timestamp": "2022-01-17T09:02:28.000Z"
   },
-  {
+  "jjj2/maps/jjj2_omni.bsp": {
    "bytes": 14115020,
-   "path": "jjj2/maps/jjj2_omni.bsp",
    "sha256": "7324f9d96a83ceb8c29bb839bfd4080edd342a0c5dbc8fb4f9df183283d453a5",
    "timestamp": "2022-01-22T11:45:00.000Z"
   },
-  {
+  "jjj2/maps/jjj2_omni.lit": {
    "bytes": 3508214,
-   "path": "jjj2/maps/jjj2_omni.lit",
    "sha256": "9e527cb72433e79373b37aa81958cec1ff4257100cfbc1c0957bca6fb5267fdb",
    "timestamp": "2022-01-22T11:45:00.000Z"
   },
-  {
+  "jjj2/maps/jjj2_plaw.bsp": {
    "bytes": 7647040,
-   "path": "jjj2/maps/jjj2_plaw.bsp",
    "sha256": "24d7c6ee9506aab6694837331167450b77134fe6cf116c285c99d6c8c2729396",
    "timestamp": "2021-12-26T08:34:02.000Z"
   },
-  {
+  "jjj2/maps/jjj2_plaw.lit": {
    "bytes": 1920191,
-   "path": "jjj2/maps/jjj2_plaw.lit",
    "sha256": "0b3c0d158fa9af84293e60765464eabde1968ce0a54227344fe13fa2563e3385",
    "timestamp": "2021-12-26T08:34:02.000Z"
   },
-  {
+  "jjj2/maps/jjj2_quasiotter.bsp": {
    "bytes": 1077956,
-   "path": "jjj2/maps/jjj2_quasiotter.bsp",
    "sha256": "88c65f60b0fe89201faba32ef8f3aa98f10b5795fd22f0265ec6632156cba4e9",
    "timestamp": "2022-01-17T01:10:28.000Z"
   },
-  {
+  "jjj2/maps/jjj2_quasiotter.lit": {
    "bytes": 472694,
-   "path": "jjj2/maps/jjj2_quasiotter.lit",
    "sha256": "23988e8dd3038e0d0f3d1deca1ca8625e4939d50e6bf2add985abc49ac801d80",
    "timestamp": "2022-01-17T01:10:28.000Z"
   },
-  {
+  "jjj2/maps/jjj2_shades.bsp": {
    "bytes": 1609256,
-   "path": "jjj2/maps/jjj2_shades.bsp",
    "sha256": "6604c883aee2ac907b3265dc3d8e0b31e6622c591fb6a554ae6b44234936ff9f",
    "timestamp": "2022-01-21T16:00:38.000Z"
   },
-  {
+  "jjj2/maps/jjj2_shades.lit": {
    "bytes": 431252,
-   "path": "jjj2/maps/jjj2_shades.lit",
    "sha256": "283b91b67909b971583f8df76d88e6f97b2dc14e8a9a91deb1f22c13c6f666f3",
    "timestamp": "2022-01-21T16:00:42.000Z"
   },
-  {
+  "jjj2/maps/jjj2_wiedo.bsp": {
    "bytes": 380440,
-   "path": "jjj2/maps/jjj2_wiedo.bsp",
    "sha256": "f4f5bb38dfb6b2550140ed29d7626bfbf1f60b98e8e34b41694280c621c25ea1",
    "timestamp": "2022-01-13T05:23:10.000Z"
   },
-  {
+  "jjj2/maps/start.bsp": {
    "bytes": 3500620,
-   "path": "jjj2/maps/start.bsp",
    "sha256": "517c80cec4352a4031188d7f0b843c48ebaf84e44c513890436044673579c9c4",
    "timestamp": "2022-01-22T18:19:40.000Z"
   },
-  {
+  "jjj2/maps/start.lit": {
    "bytes": 639368,
-   "path": "jjj2/maps/start.lit",
    "sha256": "f6d3d209995c86f109100733312c05bbc32183339b0bc069e991efb3026e748e",
    "timestamp": "2022-01-22T18:19:40.000Z"
   },
-  {
+  "jjj2/music/": {
    "bytes": 0,
-   "path": "jjj2/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-22T03:51:36.000Z"
   },
-  {
+  "jjj2/music/track03.mp3": {
    "bytes": 3334309,
-   "path": "jjj2/music/track03.mp3",
    "sha256": "ab0d724636cdc8b8eb6ef170fac78b5c55d5b76315b84a4d9d4e14ba134be64c",
    "timestamp": "2022-01-21T16:55:40.000Z"
   },
-  {
+  "jjj2/music/track105.mp3": {
    "bytes": 510034,
-   "path": "jjj2/music/track105.mp3",
    "sha256": "b0244eefa93a7c9757ed8bbd59fc8d5e9eb1bbcf45994f0f6dbc18d5a9938ce3",
    "timestamp": "2022-01-21T16:55:42.000Z"
   },
-  {
+  "jjj2/music/track106.mp3": {
    "bytes": 2487700,
-   "path": "jjj2/music/track106.mp3",
    "sha256": "bb595c409fb688a416f6737cc84e94d1c25d7155e002b05dc99a94a5bb44d719",
    "timestamp": "2022-01-21T16:55:44.000Z"
   },
-  {
+  "jjj2/music/track111.mp3": {
    "bytes": 5163178,
-   "path": "jjj2/music/track111.mp3",
    "sha256": "95be5104009e6fbac4693e802e7c350823fd91478fd358a5106c026978b68d37",
    "timestamp": "2022-01-21T15:52:48.000Z"
   },
-  {
+  "jjj2/music/track115.mp3": {
    "bytes": 2080033,
-   "path": "jjj2/music/track115.mp3",
    "sha256": "06ceab403a9a803750dfdaaf94e8b74cce88e6a23e393fc0d6528ae2901eabc4",
    "timestamp": "2022-01-21T16:55:44.000Z"
   },
-  {
+  "jjj2/music/track14.mp3": {
    "bytes": 6292234,
-   "path": "jjj2/music/track14.mp3",
    "sha256": "bea4f2302164e40d0e3ef4a74ce7daafdcd89ebf962acb1a195fd2a77b3c3f4d",
    "timestamp": "2022-01-21T17:29:02.000Z"
   },
-  {
+  "jjj2/music/track158.mp3": {
    "bytes": 4034859,
-   "path": "jjj2/music/track158.mp3",
    "sha256": "a15c3c84f8be9e56c26bd9b5cb2531cc9b0cff0f2eae8e6207887efc8e98caf2",
    "timestamp": "2022-01-21T16:54:12.000Z"
   },
-  {
+  "jjj2/music/track17.mp3": {
    "bytes": 7328831,
-   "path": "jjj2/music/track17.mp3",
    "sha256": "13a9799e441ccfbdbe99280b95000e35ce8997d687e9bcefb6e617f7ec0e56b2",
    "timestamp": "2022-01-21T16:55:46.000Z"
   },
-  {
+  "jjj2/music/track222.mp3": {
    "bytes": 5773518,
-   "path": "jjj2/music/track222.mp3",
    "sha256": "b40170136824ac8d527e60beeed2f5c5c5a5b9e67337e2b4e9df6e150958baae",
    "timestamp": "2022-01-22T03:54:38.000Z"
   },
-  {
+  "jjj2/music/track235.mp3": {
    "bytes": 5026564,
-   "path": "jjj2/music/track235.mp3",
    "sha256": "1cc82b4c9d400c7d5e3dc65c9d2770816c7645d18695beeb6d092deb9e073e77",
    "timestamp": "2022-01-21T16:55:46.000Z"
   },
-  {
+  "jjj2/music/track64.mp3": {
    "bytes": 4290347,
-   "path": "jjj2/music/track64.mp3",
    "sha256": "38e1620f836e4f247ebc932fd1a7ee1f66543e6746447b41571b60e557f3117a",
    "timestamp": "2022-01-21T16:55:48.000Z"
   },
-  {
+  "jjj2/music/track69.mp3": {
    "bytes": 1658529,
-   "path": "jjj2/music/track69.mp3",
    "sha256": "856298eeda20f6984a57b751c174b5cabfed8ddf63dce39f05e4dd0751715a34",
    "timestamp": "2022-01-21T16:55:48.000Z"
   },
-  {
+  "jjj2/music/track70.mp3": {
    "bytes": 3340292,
-   "path": "jjj2/music/track70.mp3",
    "sha256": "ab01f70d42dbfa6126ab6849e3882783fee7b0055fd437cc0133bcf84ec82f82",
    "timestamp": "2022-01-21T16:55:50.000Z"
   },
-  {
+  "jjj2/music/track82.mp3": {
    "bytes": 1445948,
-   "path": "jjj2/music/track82.mp3",
    "sha256": "ce0d8e80a9bc4e44cc109c358b76bff4198ccd27336dd41f60c3b4cf20099313",
    "timestamp": "2022-01-21T16:55:52.000Z"
   },
-  {
+  "jjj2/music/track88.mp3": {
    "bytes": 10081365,
-   "path": "jjj2/music/track88.mp3",
    "sha256": "3d339dc5516155518e3dd1b3cea437197e31853cce5893ea3e0dab56ac2b1934",
    "timestamp": "2022-01-21T16:55:54.000Z"
   },
-  {
+  "jjj2/music/track91.mp3": {
    "bytes": 11999813,
-   "path": "jjj2/music/track91.mp3",
    "sha256": "cd4425e93893ab82782f48f4672d265e06940abe86afbe3d2c01a9e9ce9dd45a",
    "timestamp": "2022-01-21T16:55:56.000Z"
   },
-  {
+  "jjj2/music/track94.mp3": {
    "bytes": 2617849,
-   "path": "jjj2/music/track94.mp3",
    "sha256": "061f61378a886bce130f8ac10777ea60cd61417847318c41a33cc64b75df4e37",
    "timestamp": "2022-01-21T16:55:58.000Z"
   },
-  {
+  "jjj2/pak0.pak": {
    "bytes": 26721972,
-   "path": "jjj2/pak0.pak",
    "sha256": "996666ce16880ca08fe5c682af80e18745c97995fa7fb86ef90acafa60405d6c",
    "timestamp": "2022-01-17T00:13:46.000Z"
   },
-  {
+  "jjj2/pak1.pak": {
    "bytes": 1031532,
-   "path": "jjj2/pak1.pak",
    "sha256": "e6d3692880889fd39038b157a56b0383298418515d3ddcb33cdce8bc0b8c6eb8",
    "timestamp": "2022-01-22T17:05:56.000Z"
   },
-  {
+  "jjj2/progs/": {
    "bytes": 0,
-   "path": "jjj2/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-21T15:16:36.000Z"
   },
-  {
+  "jjj2/progs/alkaline_logo_spin.mdl": {
    "bytes": 73332,
-   "path": "jjj2/progs/alkaline_logo_spin.mdl",
    "sha256": "882ef8ece61bf786d146859e516c854d87ee48a497736ba6ebebaf84cdaa4b7b",
    "timestamp": "2021-09-02T14:09:48.000Z"
   },
-  {
+  "jjj2/progs/c4key.bsp": {
    "bytes": 123648,
-   "path": "jjj2/progs/c4key.bsp",
    "sha256": "a48d8c24c2580405b86714661ccf0e993ba845348594e8057966a854c2bd9755",
    "timestamp": "2022-01-04T02:04:28.000Z"
   },
-  {
+  "jjj2/progs/ish/": {
    "bytes": 0,
-   "path": "jjj2/progs/ish/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:56.000Z"
   },
-  {
+  "jjj2/progs/ish/powercore.mdl": {
    "bytes": 60928,
-   "path": "jjj2/progs/ish/powercore.mdl",
    "sha256": "84ee285ce0359775809699d1ff46094d765f21dd7a542ba8e9e32fa681b4056c",
    "timestamp": "2021-12-05T05:06:02.000Z"
   },
-  {
+  "jjj2/progs/jjj2_juzley/": {
    "bytes": 0,
-   "path": "jjj2/progs/jjj2_juzley/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:56.000Z"
   },
-  {
+  "jjj2/progs/jjj2_juzley/17mfromitz.mdl": {
    "bytes": 7124,
-   "path": "jjj2/progs/jjj2_juzley/17mfromitz.mdl",
    "sha256": "2e4258661f1fe3271169bf8def66e9fe206ce52fc46e5e8f310214522c9985f9",
    "timestamp": "2022-01-13T22:45:56.000Z"
   },
-  {
+  "jjj2/progs/misc_braztall.mdl": {
    "bytes": 290037,
-   "path": "jjj2/progs/misc_braztall.mdl",
    "sha256": "87086160d4bb98489b64d79ad469407b9425a9c642a8cb20fd143f31a0d797f3",
    "timestamp": "2022-01-06T02:15:02.000Z"
   },
-  {
+  "jjj2/progs/misc_cables.mdl": {
    "bytes": 433607,
-   "path": "jjj2/progs/misc_cables.mdl",
    "sha256": "03c41af692903bb854cc5c05c0a8a665f312a04955737ecbac1a65a4113f6d50",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "jjj2/progs/misc_deadplayer.mdl": {
    "bytes": 562960,
-   "path": "jjj2/progs/misc_deadplayer.mdl",
    "sha256": "83bbcf4cb5858aa9ac03323b461b3e3b09a28f56e212645472219d7d0b0979d8",
    "timestamp": "2017-05-06T13:13:56.000Z"
   },
-  {
+  "jjj2/progs/misc_flame_big.mdl": {
    "bytes": 244895,
-   "path": "jjj2/progs/misc_flame_big.mdl",
    "sha256": "09adba1308cdf22d2f07e226cb13a35e51f4d54866f84f41e2074dc7a40371d5",
    "timestamp": "2017-11-14T11:41:00.000Z"
   },
-  {
+  "jjj2/progs/misc_flame_med.mdl": {
    "bytes": 175400,
-   "path": "jjj2/progs/misc_flame_med.mdl",
    "sha256": "31c94bc48e6c6d6bc31bd14b8e257c4e74d45aaec3a4d5d5bf83587a08ac7c00",
    "timestamp": "2018-05-12T16:33:20.000Z"
   },
-  {
+  "jjj2/progs/misc_gen3.mdl": {
    "bytes": 472728,
-   "path": "jjj2/progs/misc_gen3.mdl",
    "sha256": "29032f4dcf60216906ef601d5a6bf20dba71ed5b7ff8260e7f61159b6b8ea1e0",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "jjj2/progs/misc_hangman.mdl": {
    "bytes": 96500,
-   "path": "jjj2/progs/misc_hangman.mdl",
    "sha256": "feb2473a29e56ee278e4cdc9676306fdf3aa609b527ea4aff23bb86e3900a2d3",
    "timestamp": "2019-08-06T11:54:10.000Z"
   },
-  {
+  "jjj2/progs/misc_heating.mdl": {
    "bytes": 243876,
-   "path": "jjj2/progs/misc_heating.mdl",
    "sha256": "a6ab88ce55f16b670b9ba8e42e96c9ea49acc71f124ce20c0de5fc2c0232e2f0",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "jjj2/progs/misc_pallet.mdl": {
    "bytes": 509927,
-   "path": "jjj2/progs/misc_pallet.mdl",
    "sha256": "1b9c50111cedb48559424870b46a3d19cb1ac5b43ef3f165fbe928a3f7e90883",
    "timestamp": "2017-09-19T23:24:08.000Z"
   },
-  {
+  "jjj2/progs/misc_player_legs.mdl": {
    "bytes": 76918,
-   "path": "jjj2/progs/misc_player_legs.mdl",
    "sha256": "8e54ec3002d5b0f70408f17941087e595cb20933a08c40eb934cb25e8804d5a0",
    "timestamp": "2016-03-25T17:34:14.000Z"
   },
-  {
+  "jjj2/progs/misc_seaweed.mdl": {
    "bytes": 16100,
-   "path": "jjj2/progs/misc_seaweed.mdl",
    "sha256": "dfbd38a439d392870c7c4c7ebea4475827b716004ca47bfa7f13b47daf07d774",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "jjj2/progs/misc_seaweed2.mdl": {
    "bytes": 95281,
-   "path": "jjj2/progs/misc_seaweed2.mdl",
    "sha256": "65773f37e26d41dd72ec1cf9849c663c1475923cb77d0f4c599bc3301368373f",
    "timestamp": "2016-10-04T20:11:36.000Z"
   },
-  {
+  "jjj2/progs/splashes.spr": {
    "bytes": 4352,
-   "path": "jjj2/progs/splashes.spr",
    "sha256": "e273bba70396dccb436da9bfcddeca1a60d1e49a119811de156a6a40239b740f",
    "timestamp": "2022-01-02T22:42:54.000Z"
   },
-  {
+  "jjj2/sound/": {
    "bytes": 0,
-   "path": "jjj2/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-21T17:48:32.000Z"
   },
-  {
+  "jjj2/sound/ambient/": {
    "bytes": 0,
-   "path": "jjj2/sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-22T21:50:22.000Z"
   },
-  {
+  "jjj2/sound/ambient/arcohum1.wav": {
    "bytes": 20418,
-   "path": "jjj2/sound/ambient/arcohum1.wav",
    "sha256": "3b42cb1b62f62acabdc8ef8612ab4343b71b165c3525552701ef769f90020960",
    "timestamp": "2021-01-29T17:50:54.000Z"
   },
-  {
+  "jjj2/sound/ambient/arhum1.wav": {
    "bytes": 20740,
-   "path": "jjj2/sound/ambient/arhum1.wav",
    "sha256": "e374f3d90564808e019abe09f4464b704512cf85ff0f3b4bb3c955b4153184e3",
    "timestamp": "2021-01-29T17:50:54.000Z"
   },
-  {
+  "jjj2/sound/ambient/drone.wav": {
    "bytes": 30902,
-   "path": "jjj2/sound/ambient/drone.wav",
    "sha256": "81993d96ab337f78c2778cecffe4767605fed210e0ac2303a46ac898979eea13",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "jjj2/sound/ambient/dronehum2.wav": {
    "bytes": 183654,
-   "path": "jjj2/sound/ambient/dronehum2.wav",
    "sha256": "03545ae0f88b788e69e09c0aae2cccfa727a2609ef224c7d1d3451f0e6172709",
    "timestamp": "2021-05-18T09:54:20.000Z"
   },
-  {
+  "jjj2/sound/ambient/dronesewer1.wav": {
    "bytes": 345280,
-   "path": "jjj2/sound/ambient/dronesewer1.wav",
    "sha256": "ee8cd803398a007f2f3b412dd2401098586e1d38f558daa748ea4e86f10267ad",
    "timestamp": "2020-01-18T01:09:32.000Z"
   },
-  {
+  "jjj2/sound/ambient/hum02.wav": {
    "bytes": 37836,
-   "path": "jjj2/sound/ambient/hum02.wav",
    "sha256": "8b2ee1b91fa663b6111de9251011142475831ece70ee091022b800b715f1bfa2",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "jjj2/sound/ambient/machine_loop2.wav": {
    "bytes": 70696,
-   "path": "jjj2/sound/ambient/machine_loop2.wav",
    "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "jjj2/sound/ambient/motor1.wav": {
    "bytes": 52340,
-   "path": "jjj2/sound/ambient/motor1.wav",
    "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
    "timestamp": "2021-02-12T01:00:20.000Z"
   },
-  {
+  "jjj2/sound/ish/": {
    "bytes": 0,
-   "path": "jjj2/sound/ish/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:56.000Z"
   },
-  {
+  "jjj2/sound/ish/cb.wav": {
    "bytes": 4410032,
-   "path": "jjj2/sound/ish/cb.wav",
    "sha256": "cd73fcb98652682fdaa6e24bea8050b9d9585c3931f288af3d6adf5e9ff8da50",
    "timestamp": "2022-01-09T03:22:46.000Z"
   },
-  {
+  "jjj2/sound/ish/p0c-pkup.wav": {
    "bytes": 268184,
-   "path": "jjj2/sound/ish/p0c-pkup.wav",
    "sha256": "4d8fb630cc3c2ed301e75d791d91e041c00a1998de3b2334312b5b879d51404d",
    "timestamp": "2022-01-03T20:06:36.000Z"
   },
-  {
+  "jjj2/sound/ish/timer-12.wav": {
    "bytes": 1235018,
-   "path": "jjj2/sound/ish/timer-12.wav",
    "sha256": "6bd28f2faba55de01b773484cbf6f2f5aa275c1bdb14a2c53a7da41b59a3a475",
    "timestamp": "2022-01-05T16:56:06.000Z"
   },
-  {
+  "jjj2/sound/ish/timer-18.wav": {
    "bytes": 1764194,
-   "path": "jjj2/sound/ish/timer-18.wav",
    "sha256": "9dd3eeb12502a6624f650467b6f70ee8ac5710d6c70df0e492fef3466365a9ba",
    "timestamp": "2022-01-06T17:00:52.000Z"
   },
-  {
+  "jjj2/sound/ish/timer-24.wav": {
    "bytes": 2183686,
-   "path": "jjj2/sound/ish/timer-24.wav",
    "sha256": "4ce7ee5adbe40983dd1dd254cf939a0b8666af8b08bbc86ff61b624269f32994",
    "timestamp": "2022-01-06T17:50:56.000Z"
   },
-  {
+  "jjj2/sound/ish/timer-30.wav": {
    "bytes": 2686916,
-   "path": "jjj2/sound/ish/timer-30.wav",
    "sha256": "996f24d5462e90ad662f0712c4e1c6fc69322c5343cd50ce696ef468686c945b",
    "timestamp": "2022-01-06T17:53:48.000Z"
   },
-  {
+  "jjj2/sound/jjj2_juzley/": {
    "bytes": 0,
-   "path": "jjj2/sound/jjj2_juzley/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:56.000Z"
   },
-  {
+  "jjj2/sound/jjj2_juzley/fromitz.wav": {
    "bytes": 154430,
-   "path": "jjj2/sound/jjj2_juzley/fromitz.wav",
    "sha256": "58e76ad48ab3de2cfb69ba21c31d993603b83d896d6de187a2d215587091f347",
    "timestamp": "2022-01-13T21:34:26.000Z"
   },
-  {
+  "jjj2/sound/jjj2_juzley/rumbleoff.wav": {
    "bytes": 105990,
-   "path": "jjj2/sound/jjj2_juzley/rumbleoff.wav",
    "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
    "timestamp": "2022-01-14T22:32:44.000Z"
   },
-  {
+  "jjj2/sound/mgntbx/": {
    "bytes": 0,
-   "path": "jjj2/sound/mgntbx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-17T00:11:56.000Z"
   },
-  {
+  "jjj2/sound/mgntbx/pulse4.wav": {
    "bytes": 24286,
-   "path": "jjj2/sound/mgntbx/pulse4.wav",
    "sha256": "b4b6dba74fedb6c90a1c135c4bbe149e2f76eb8edbe913f477dddcdca0336022",
    "timestamp": "2021-12-30T15:05:58.000Z"
   },
-  {
+  "jjj2/sound/mgntbx/pulse5.wav": {
    "bytes": 24852,
-   "path": "jjj2/sound/mgntbx/pulse5.wav",
    "sha256": "edc8fd7d9e3350552310f6267833481d2e527fef8f92eb439312c181bd549d14",
    "timestamp": "2021-12-30T18:48:24.000Z"
   },
-  {
+  "jjj2/sound/mgntbx/reactor1.wav": {
    "bytes": 22778,
-   "path": "jjj2/sound/mgntbx/reactor1.wav",
    "sha256": "b42e3aae7232b65f41103fc5aa550435fae1d2f3eb9b8d4379bda5c955bd232c",
    "timestamp": "2021-12-30T12:17:42.000Z"
   },
-  {
+  "jjj2/sound/mgntbx/reactor2.wav": {
    "bytes": 22704,
-   "path": "jjj2/sound/mgntbx/reactor2.wav",
    "sha256": "968cc67050ba25866e559503d370d1344ff041b4d44efbd200339868e99d676b",
    "timestamp": "2021-12-30T14:31:32.000Z"
   },
-  {
+  "jjj2/src/": {
    "bytes": 0,
-   "path": "jjj2/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-22T17:03:10.000Z"
   },
-  {
+  "jjj2/src/jjj22_dfl.map": {
    "bytes": 13939677,
-   "path": "jjj2/src/jjj22_dfl.map",
    "sha256": "c89ff3ac9bc87d32e3bf57e14c4ce3fc9c238edff0087be180285092f4bc10da",
    "timestamp": "2022-01-15T08:10:14.000Z"
   },
-  {
+  "jjj2/src/jjj2_eduardo.map": {
    "bytes": 605357,
-   "path": "jjj2/src/jjj2_eduardo.map",
    "sha256": "ff6aa5ec1baac742d21a8cfda1f6ff9afa6120487d71d4616d0df293b331a863",
    "timestamp": "2022-01-02T10:48:18.000Z"
   },
-  {
+  "jjj2/src/jjj2_gw_x9.map": {
    "bytes": 10318621,
-   "path": "jjj2/src/jjj2_gw_x9.map",
    "sha256": "15649eebac29e2c9d5007f6b8b9971d61dd09739d391a12df87340c1ed9b0921",
    "timestamp": "2022-01-15T17:02:48.000Z"
   },
-  {
+  "jjj2/src/jjj2_hcm.map": {
    "bytes": 5309642,
-   "path": "jjj2/src/jjj2_hcm.map",
    "sha256": "1510ed91557c6c2f9147e2e201d73337530d8ceeefe41ad3492fb4aafc44bb81",
    "timestamp": "2022-01-17T08:49:14.000Z"
   },
-  {
+  "jjj2/src/jjj2_ish1.map": {
    "bytes": 545252,
-   "path": "jjj2/src/jjj2_ish1.map",
    "sha256": "2516ef0c5f42d40f7b105822af7be2b882e5886300fcb5d5359c9f4af43ec2a6",
    "timestamp": "2022-01-14T04:56:54.000Z"
   },
-  {
+  "jjj2/src/jjj2_ish2.map": {
    "bytes": 3668177,
-   "path": "jjj2/src/jjj2_ish2.map",
    "sha256": "fba9b075d3ae16689f269964c3594a8a15cc9ad4ca25fd85de17b71d3bd76e6f",
    "timestamp": "2022-01-17T03:26:18.000Z"
   },
-  {
+  "jjj2/src/jjj2_konig.map": {
    "bytes": 3905257,
-   "path": "jjj2/src/jjj2_konig.map",
    "sha256": "9564915e6ebe32254bf32b082ad36b493d3bdf18612cd227c657ef5367ea5341",
    "timestamp": "2022-01-16T22:25:24.000Z"
   },
-  {
+  "jjj2/src/jjj2_konig2.map": {
    "bytes": 7062049,
-   "path": "jjj2/src/jjj2_konig2.map",
    "sha256": "112bc21107d45f7668e1f330825e1b2b17441ebd3bb826027250f8dad296f673",
    "timestamp": "2022-01-17T07:52:58.000Z"
   },
-  {
+  "jjj2/src/jjj2_magnetbox.map": {
    "bytes": 1653989,
-   "path": "jjj2/src/jjj2_magnetbox.map",
    "sha256": "9578750f76df90ab515c12d255c240355a6591192ee699579f343d663a572897",
    "timestamp": "2022-01-15T09:50:54.000Z"
   },
-  {
+  "jjj2/src/jjj2_omni.map": {
    "bytes": 4441497,
-   "path": "jjj2/src/jjj2_omni.map",
    "sha256": "25d94bd7b57d1e3995b98d0bde056ca3e9768021b17493fcbdda2802f3fac6e5",
    "timestamp": "2022-01-22T11:43:12.000Z"
   },
-  {
+  "jjj2/src/jjj2_plaw.map": {
    "bytes": 4727064,
-   "path": "jjj2/src/jjj2_plaw.map",
    "sha256": "e5e382ba4d05430377f64a10fa176743a3bd03b80a2a37a0b40b7c352a22da56",
    "timestamp": "2021-12-26T08:30:46.000Z"
   },
-  {
+  "jjj2/src/jjj2_quasiotter.map": {
    "bytes": 703119,
-   "path": "jjj2/src/jjj2_quasiotter.map",
    "sha256": "7e4a296fddbdcca26f09377bbab23230c48277198ecbd3c232808daf7fae7ddf",
    "timestamp": "2022-01-17T01:07:50.000Z"
   },
-  {
+  "jjj2/src/jjj2_wiedo.map": {
    "bytes": 199687,
-   "path": "jjj2/src/jjj2_wiedo.map",
    "sha256": "b03e677200d1570949c2c7debc718839c15f20b989244942a359e28ef9dda2e5",
    "timestamp": "2022-01-13T05:23:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This mod requires a source port with increased limits.",
   "See also: <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline 1.1</a>, <a href=\"181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab\">January Jump Jam 2020</a>"

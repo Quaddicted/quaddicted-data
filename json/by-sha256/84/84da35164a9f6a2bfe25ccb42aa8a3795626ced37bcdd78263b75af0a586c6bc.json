@@ -4,36 +4,32 @@
  ],
  "bytes": 2688944,
  "description": "Small and tight vertical runic level. The map source is included.",
- "files": [
-  {
+ "files": {
+  "ion01.bsp": {
    "bytes": 4428733,
-   "path": "ion01.bsp",
    "sha256": "7e602e78aa36b60d76e32ec4f3d1e7ccd7973ad140adbd20fcbe703332fa9ff6",
    "timestamp": "2017-02-11T18:15:22.000Z"
   },
-  {
+  "ion01.lit": {
    "bytes": 1166528,
-   "path": "ion01.lit",
    "sha256": "6934b01f1256f2d006138126ec0c77c13fde64524642f2780432ada5254f008e",
    "timestamp": "2017-02-11T18:01:10.000Z"
   },
-  {
+  "ion01.map": {
    "bytes": 3464977,
-   "path": "ion01.map",
    "sha256": "d167120c0bf4667d2453289034f9e393850b86a1fe9733ba549c78f80f21caab",
    "timestamp": "2017-02-11T18:00:16.000Z"
   },
-  {
+  "ion01.txt": {
    "bytes": 1940,
-   "path": "ion01.txt",
    "sha256": "433b2b1928b2476143246e0d8282a99d31c9ec4a2f280d497a6bd2f64392e488",
    "timestamp": "2017-02-11T19:08:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

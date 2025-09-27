@@ -12,330 +12,277 @@
  ],
  "bytes": 43548968,
  "description": "Short map-jam (effectively a speedmap session) of 9 maps made with one rule: maps must combine two different colors, themes or motifs. A start map is included.",
- "files": [
-  {
+ "files": {
+  "ttj/copper_v1_30.txt": {
    "bytes": 104962,
-   "path": "ttj/copper_v1_30.txt",
    "sha256": "abdcaff19cb781d377877fb5638a513ccb4605b96d9659e84d856c5b1650dbe5",
    "timestamp": "2023-10-31T11:25:24.000Z"
   },
-  {
+  "ttj/csprogs.dat": {
    "bytes": 65382,
-   "path": "ttj/csprogs.dat",
    "sha256": "ab01bd807131a56a23b7ddf6153caa6f14979591193147fe6a14b5dd5086cab7",
    "timestamp": "2023-10-31T11:30:28.000Z"
   },
-  {
+  "ttj/doc/readme_ttj_lob.txt": {
    "bytes": 2150,
-   "path": "ttj/doc/readme_ttj_lob.txt",
    "sha256": "f79e74085920e77a696ebd4fe81ee0fc9f2c6ac44160b91bd24543eaddb03929",
    "timestamp": "2024-06-17T02:13:06.000Z"
   },
-  {
+  "ttj/doc/ttj_cc.txt": {
    "bytes": 1405,
-   "path": "ttj/doc/ttj_cc.txt",
    "sha256": "e1e5fc72a0d5a4e71a730cc2a6b4bb06f9dc688d61d718602d08d56ac3ef0d4b",
    "timestamp": "2024-06-16T19:26:42.000Z"
   },
-  {
+  "ttj/doc/ttj_iyago.txt": {
    "bytes": 2909,
-   "path": "ttj/doc/ttj_iyago.txt",
    "sha256": "5c51e911a8c830ddaca54887c3a2225e091e187d8ee9bd05d5224cb7fa2a3185",
    "timestamp": "2024-06-16T20:59:42.000Z"
   },
-  {
+  "ttj/doc/ttj_milestone.txt": {
    "bytes": 1116,
-   "path": "ttj/doc/ttj_milestone.txt",
    "sha256": "a8ae974528ae497967e7f0b1711297dc700d860ef5e5dd38efcddf2d6abca21f",
    "timestamp": "2024-06-17T06:13:30.000Z"
   },
-  {
+  "ttj/doc/ttj_mrtaufner.txt": {
    "bytes": 2078,
-   "path": "ttj/doc/ttj_mrtaufner.txt",
    "sha256": "457853154ee7a0a631a3cb4d033ac6401d1f8dc9693bb761220924b94bc5c418",
    "timestamp": "2024-06-16T21:24:22.000Z"
   },
-  {
+  "ttj/doc/ttj_zetabyt (readme).txt": {
    "bytes": 7085,
-   "path": "ttj/doc/ttj_zetabyt (readme).txt",
    "sha256": "2d626c2c0860e19a554f2b3bdcad19870754e861cb069fb907d851691f60ab51",
    "timestamp": "2024-06-15T17:12:04.000Z"
   },
-  {
+  "ttj/gfx/env/gsintheclouds_bk.tga": {
    "bytes": 786476,
-   "path": "ttj/gfx/env/gsintheclouds_bk.tga",
    "sha256": "b6de9c80610a17b9f6c57c0f9638bebb5255019fe480ff36e194ff172e167b98",
    "timestamp": "2024-06-16T23:55:26.000Z"
   },
-  {
+  "ttj/gfx/env/gsintheclouds_dn.tga": {
    "bytes": 786476,
-   "path": "ttj/gfx/env/gsintheclouds_dn.tga",
    "sha256": "12e43336a59dc1f3eea21051a0d55d81b83ac3fd21463f524a77c1918825f66c",
    "timestamp": "2024-06-16T23:55:28.000Z"
   },
-  {
+  "ttj/gfx/env/gsintheclouds_ft.tga": {
    "bytes": 786476,
-   "path": "ttj/gfx/env/gsintheclouds_ft.tga",
    "sha256": "89cced231c1db9628aa6ed7f5af7eb4d83602d90de6ef184d4de7448fd4f085d",
    "timestamp": "2024-06-16T23:55:30.000Z"
   },
-  {
+  "ttj/gfx/env/gsintheclouds_lf.tga": {
    "bytes": 786476,
-   "path": "ttj/gfx/env/gsintheclouds_lf.tga",
    "sha256": "8ee6da9840954453d21a5a79779e9ae64cd1b2f5200ef68139f4d2877f7a6cc4",
    "timestamp": "2024-06-16T23:55:22.000Z"
   },
-  {
+  "ttj/gfx/env/gsintheclouds_rt.tga": {
    "bytes": 786476,
-   "path": "ttj/gfx/env/gsintheclouds_rt.tga",
    "sha256": "83c78d47b04c12933f40cd3a20d57934e7fed7640022a992b0761d7b27b1beb5",
    "timestamp": "2024-06-16T23:55:24.000Z"
   },
-  {
+  "ttj/gfx/env/gsintheclouds_up.tga": {
    "bytes": 786476,
-   "path": "ttj/gfx/env/gsintheclouds_up.tga",
    "sha256": "4d0a25c293ec438b8d51ba3b208abbdb1456b2c2279290d8cfc6dba47e215238",
    "timestamp": "2024-06-16T23:55:26.000Z"
   },
-  {
+  "ttj/maps/start.bsp": {
    "bytes": 946692,
-   "path": "ttj/maps/start.bsp",
    "sha256": "dccf7e2440d548a6a3a0d7b294a9bdba25f8dc07ab75d67d2cf07b31dca9c189",
    "timestamp": "2024-06-18T20:11:08.000Z"
   },
-  {
+  "ttj/maps/ttj_4lt.bsp": {
    "bytes": 2239428,
-   "path": "ttj/maps/ttj_4lt.bsp",
    "sha256": "93f88d98682cd3dcb995b4b57c38369eac0b7d016100cf1ac9d00ac56a5fa1bd",
    "timestamp": "2024-06-17T16:04:52.000Z"
   },
-  {
+  "ttj/maps/ttj_4lt.lit": {
    "bytes": 1464164,
-   "path": "ttj/maps/ttj_4lt.lit",
    "sha256": "23979526d1ef61152ae1978b13626da58b076b715f6980a9b1cd28bc0a69f786",
    "timestamp": "2024-06-17T16:04:52.000Z"
   },
-  {
+  "ttj/maps/ttj_Mizuki.bsp": {
    "bytes": 1676748,
-   "path": "ttj/maps/ttj_Mizuki.bsp",
    "sha256": "6aa95d984f8b3b4cc4ff2b9b09ee153946a1a7860bf36a2ea34f75232d7c209b",
    "timestamp": "2024-06-18T19:21:04.000Z"
   },
-  {
+  "ttj/maps/ttj_Mizuki.lit": {
    "bytes": 1224716,
-   "path": "ttj/maps/ttj_Mizuki.lit",
    "sha256": "81483f292c509c539d51be0a5f57fefae78102146c5827ea5c5b8799768ed4d8",
    "timestamp": "2024-06-18T19:21:12.000Z"
   },
-  {
+  "ttj/maps/ttj_cc.bsp": {
    "bytes": 2235964,
-   "path": "ttj/maps/ttj_cc.bsp",
    "sha256": "a866fe7122d350ef51bf8e0bf7cd3f0c7809694d88a1a4b2192d8a93884868c5",
    "timestamp": "2024-06-16T19:34:20.000Z"
   },
-  {
+  "ttj/maps/ttj_cc.lit": {
    "bytes": 849548,
-   "path": "ttj/maps/ttj_cc.lit",
    "sha256": "14c869287bed9f3418262608d899c3cd0ec6338f829d1c2a8593adcfb571f128",
    "timestamp": "2024-06-16T19:34:20.000Z"
   },
-  {
+  "ttj/maps/ttj_iyago.bsp": {
    "bytes": 1477748,
-   "path": "ttj/maps/ttj_iyago.bsp",
    "sha256": "c2e55b20d32bfaa5bf72c6b00b6b4e78d68ea17c675a5b03227ec3366c6c519e",
    "timestamp": "2024-06-16T20:56:40.000Z"
   },
-  {
+  "ttj/maps/ttj_iyago.lit": {
    "bytes": 837164,
-   "path": "ttj/maps/ttj_iyago.lit",
    "sha256": "69d6facfc84cd349938cf77f03f61ca55d6379a99830c15a9af1307c2c60b4f0",
    "timestamp": "2024-06-16T20:56:40.000Z"
   },
-  {
+  "ttj/maps/ttj_lob.bsp": {
    "bytes": 1944912,
-   "path": "ttj/maps/ttj_lob.bsp",
    "sha256": "6e639c6ef05265800ca81fa2bf0ca64b48373a41ac4d8f19956eb6d36c2dfad9",
    "timestamp": "2024-06-17T02:06:52.000Z"
   },
-  {
+  "ttj/maps/ttj_lob.lit": {
    "bytes": 801449,
-   "path": "ttj/maps/ttj_lob.lit",
    "sha256": "f9dc8155e54f384c33269e4f62155627ea86224cdfb95b9a999ee8a9f4d13a94",
    "timestamp": "2024-06-17T02:06:52.000Z"
   },
-  {
+  "ttj/maps/ttj_milestone.bsp": {
    "bytes": 13966816,
-   "path": "ttj/maps/ttj_milestone.bsp",
    "sha256": "cfaa625fcd69abd7d1ea3d517678d2054ef6b10ec7141dfb86d47effd4302ccf",
    "timestamp": "2024-06-18T13:25:46.000Z"
   },
-  {
+  "ttj/maps/ttj_milestone.lit": {
    "bytes": 2039984,
-   "path": "ttj/maps/ttj_milestone.lit",
    "sha256": "31f2025d5a9a4d450ec0f8224d541af8cfc9c86f02392621e9f1a2686078ca5e",
    "timestamp": "2024-06-18T13:25:46.000Z"
   },
-  {
+  "ttj/maps/ttj_mrtaufner.bsp": {
    "bytes": 5863700,
-   "path": "ttj/maps/ttj_mrtaufner.bsp",
    "sha256": "948736b72392228b46fcefef03e359cc69e41a44b710d6e13c86271588e98c84",
    "timestamp": "2024-06-16T21:11:16.000Z"
   },
-  {
+  "ttj/maps/ttj_mrtaufner.lit": {
    "bytes": 552752,
-   "path": "ttj/maps/ttj_mrtaufner.lit",
    "sha256": "2cbdb06ca69bf1bc1c4ad1edb635b23dd0678944f566c9259b9a33d3d5adb269",
    "timestamp": "2024-06-16T21:11:16.000Z"
   },
-  {
+  "ttj/maps/ttj_zetabyt.bsp": {
    "bytes": 3451448,
-   "path": "ttj/maps/ttj_zetabyt.bsp",
    "sha256": "106623fddf795daa2cdf4665f9ded8b1d6aeee2df541a1205b1e0518a3daa1f6",
    "timestamp": "2024-06-16T18:34:54.000Z"
   },
-  {
+  "ttj/maps/ttj_zetabyt.lit": {
    "bytes": 5643260,
-   "path": "ttj/maps/ttj_zetabyt.lit",
    "sha256": "d59f263c3372a1863b8035c259d8afcfc0431065a5670a1a89efb8cf23822cbf",
    "timestamp": "2024-06-16T18:34:54.000Z"
   },
-  {
+  "ttj/maps/ttj_zigi.bsp": {
    "bytes": 4141604,
-   "path": "ttj/maps/ttj_zigi.bsp",
    "sha256": "578120e083f0bf58b7a6e7ab99b501cff0b38740dd68b05545a8248e4a5a6336",
    "timestamp": "2024-06-17T17:49:14.000Z"
   },
-  {
+  "ttj/mapsrc/ttj_cc.map": {
    "bytes": 919371,
-   "path": "ttj/mapsrc/ttj_cc.map",
    "sha256": "2e225fa73f3ff80589b5bb361b526761c5c3346341869fbe7c60f605fca37303",
    "timestamp": "2024-06-16T19:33:24.000Z"
   },
-  {
+  "ttj/mapsrc/ttj_iyago.map": {
    "bytes": 860515,
-   "path": "ttj/mapsrc/ttj_iyago.map",
    "sha256": "3c6f2138fb515cc73fd7cf04bf22b3c039a42bf11fb65b3ea0d469e90d0345b5",
    "timestamp": "2024-06-16T20:52:36.000Z"
   },
-  {
+  "ttj/mapsrc/ttj_lob.map": {
    "bytes": 1704054,
-   "path": "ttj/mapsrc/ttj_lob.map",
    "sha256": "1ab1d4c63138ae3f725496cc73c9591f0c1f38026cdfd6bfa824aa6dc19eed65",
    "timestamp": "2024-06-17T02:06:22.000Z"
   },
-  {
+  "ttj/mapsrc/ttj_milestone.map": {
    "bytes": 1014730,
-   "path": "ttj/mapsrc/ttj_milestone.map",
    "sha256": "3851ec88afa5dae0f66e618e2ca90d86f23847b4490e62cd4c2accaaf4acfc4e",
    "timestamp": "2024-06-18T13:25:06.000Z"
   },
-  {
+  "ttj/mapsrc/ttj_mrtaufner.map": {
    "bytes": 792632,
-   "path": "ttj/mapsrc/ttj_mrtaufner.map",
    "sha256": "7b966595a6b05cb4c895fcfb1527840483da30b9059f17d73d5387faa6fcc5ce",
    "timestamp": "2024-06-16T20:59:32.000Z"
   },
-  {
+  "ttj/mapsrc/ttj_zetabyt.map": {
    "bytes": 884489,
-   "path": "ttj/mapsrc/ttj_zetabyt.map",
    "sha256": "fb8c7d8043c88ba1a2c2672d8b13a9f8921cbb7f985eb7669748b63adf01a007",
    "timestamp": "2024-06-16T18:34:34.000Z"
   },
-  {
+  "ttj/music/track41.ogg": {
    "bytes": 7554017,
-   "path": "ttj/music/track41.ogg",
    "sha256": "4477653dc32fa998316c652f38bcfb168ada4cf35abc5744a5960c30a803e940",
    "timestamp": "2024-06-17T08:01:34.000Z"
   },
-  {
+  "ttj/music/track84.ogg": {
    "bytes": 8649186,
-   "path": "ttj/music/track84.ogg",
    "sha256": "dbf81dcf468bfb1c7ff543ac8b0aff8138293cc193a99ca0311570b6e61339f6",
    "timestamp": "2023-12-09T20:06:38.000Z"
   },
-  {
+  "ttj/pak0.pak": {
    "bytes": 11231782,
-   "path": "ttj/pak0.pak",
    "sha256": "14a746abb95d03032dcf07202d9470cbc450c69a2a713d3a80bcdaeabe4262af",
    "timestamp": "2023-10-31T11:50:00.000Z"
   },
-  {
+  "ttj/pak1.pak": {
    "bytes": 256084,
-   "path": "ttj/pak1.pak",
    "sha256": "34f8c10619a369592e0034a460256133be10d6d9cde4e5572a1d258099ae6c50",
    "timestamp": "2024-06-17T14:59:00.000Z"
   },
-  {
+  "ttj/progs.dat": {
    "bytes": 591990,
-   "path": "ttj/progs.dat",
    "sha256": "56055d61bac438c227f88b89a03e81401fdd52b10f6d3def0a3d9d261d223e9c",
    "timestamp": "2023-10-31T11:30:26.000Z"
   },
-  {
+  "ttj/quake.rc": {
    "bytes": 1136,
-   "path": "ttj/quake.rc",
    "sha256": "b74da0eb0d4b5844c5931a557a2094e68f5239d20e72af142d4a75b54e7e5c6e",
    "timestamp": "2024-06-17T15:04:58.000Z"
   },
-  {
+  "ttj/sound/milestone/1.wav": {
    "bytes": 143368,
-   "path": "ttj/sound/milestone/1.wav",
    "sha256": "9b8b54b6cece3f77a058455574e775af52f6e13438108fcc2c362cb8824360d7",
    "timestamp": "2024-06-16T22:59:30.000Z"
   },
-  {
+  "ttj/sound/milestone/2.wav": {
    "bytes": 143368,
-   "path": "ttj/sound/milestone/2.wav",
    "sha256": "9399450bf07e1107fd31ef776bf221bc8a3503012d7f8ba411798ab38b9ab7ca",
    "timestamp": "2024-06-16T22:59:20.000Z"
   },
-  {
+  "ttj/sound/milestone/3.wav": {
    "bytes": 143368,
-   "path": "ttj/sound/milestone/3.wav",
    "sha256": "031e57552970fb1a583f8688bdebaec90d4c555e7e232259ac5251093db41971",
    "timestamp": "2024-06-16T22:59:02.000Z"
   },
-  {
+  "ttj/sound/milestone/stn.wav": {
    "bytes": 26448,
-   "path": "ttj/sound/milestone/stn.wav",
    "sha256": "2e623c8196e7d580393ed23e64a1f4e8a06ba61820a99b0704e8669d9ee3d4da",
    "timestamp": "2024-06-17T00:44:04.000Z"
   },
-  {
+  "ttj/sound/milestone/stn3.wav": {
    "bytes": 133356,
-   "path": "ttj/sound/milestone/stn3.wav",
    "sha256": "bf1038e7163241710925d44b518513e6e33aa3eee5008fd83d7bdd8782bb65e7",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  {
+  "ttj/sound/milestone/stn4.wav": {
    "bytes": 177006,
-   "path": "ttj/sound/milestone/stn4.wav",
    "sha256": "0d5611cce8aa6409e4019edfb6082d23011e9f6c44a4ce72468bce64265b9bd7",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  {
+  "ttj/sound/milestone/stn6.wav": {
    "bytes": 265896,
-   "path": "ttj/sound/milestone/stn6.wav",
    "sha256": "b07ccba110cc0be827b8d3e50a7ea7e0680860fe1e5c474f4c00b2170db3b5ab",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  {
+  "ttj/sound/milestone/stnstp.wav": {
    "bytes": 38358,
-   "path": "ttj/sound/milestone/stnstp.wav",
    "sha256": "3609a15f109a74cda7ad71680e11f8bdf80f183522a22341802c531cf5bcd450",
    "timestamp": "2024-06-17T00:56:42.000Z"
   },
-  {
+  "ttj/ttj_README.txt": {
    "bytes": 892,
-   "path": "ttj/ttj_README.txt",
    "sha256": "4bcf8bbcab876ac1d9938552250c8bba476cedc15a3de3fccacd3b5eef40eb9b",
    "timestamp": "2024-06-18T20:19:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-06-17",
  "sha256": "52915bea35f25dc3756f6fca68ef90c144a3870549b2ae6bd969afd0a230d144",
  "tags": [

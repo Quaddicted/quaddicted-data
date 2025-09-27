@@ -4,24 +4,22 @@
  ],
  "bytes": 404956,
  "description": "Small Base map. Around id quality.",
- "files": [
-  {
+ "files": {
+  "BASE.BSP": {
    "bytes": 928016,
-   "path": "BASE.BSP",
    "sha256": "db4df3bc8afab5acd0b92c3f769a3dbbb6f8a4f39e672045976d5ec9fd54ea51",
    "timestamp": "1997-02-04T16:29:48.000Z"
   },
-  {
+  "BASE.TXT": {
    "bytes": 5706,
-   "path": "BASE.TXT",
    "sha256": "fc63bf322741441ef05c4fb3c404db475b1f8f36af68791580fdd7856d0073c9",
    "timestamp": "1997-02-07T15:15:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-02-07",
  "sha256": "cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1",
  "tags": [

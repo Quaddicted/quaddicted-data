@@ -5,930 +5,777 @@
  "bytes": 374178433,
  "current_main_group_package": true,
  "description": "Giant map with over 5000 enemies and an estimated 7-8 hours of playtime. Dressed in a mixture of themes with a strong bloody/organic motif and featuring a detailed story, custom entities from the Quoth mod (included) and lots of intense, difficult gameplay, even on skill 0.",
- "files": [
-  {
+ "files": {
+  "immortal/": {
    "bytes": 0,
-   "path": "immortal/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-28T11:51:46.000Z"
   },
-  {
+  "immortal/descript.ion": {
    "bytes": 17,
-   "path": "immortal/descript.ion",
    "sha256": "4172e9e8053778d3cd8b999514492bc7a5f1d3af1307ac2db9a79ec7d8f084d7",
    "timestamp": "2024-05-31T00:45:48.000Z"
   },
-  {
+  "immortal/gfx/": {
    "bytes": 0,
-   "path": "immortal/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-28T00:40:20.000Z"
   },
-  {
+  "immortal/gfx/env/": {
    "bytes": 0,
-   "path": "immortal/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-28T00:40:20.000Z"
   },
-  {
+  "immortal/gfx/env/eve1_bk.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve1_bk.tga",
    "sha256": "38b415eab0a6bbf149a884f22a9ec4dfd65ab8c1cd36e5a9f4242fe7f313746c",
    "timestamp": "2022-09-07T17:33:18.000Z"
   },
-  {
+  "immortal/gfx/env/eve1_dn.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve1_dn.tga",
    "sha256": "9239194ef6472474616b00118c7675f4f31d736a9b930abb065332a799a641a9",
    "timestamp": "2022-09-07T17:33:32.000Z"
   },
-  {
+  "immortal/gfx/env/eve1_ft.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve1_ft.tga",
    "sha256": "34489ff45e17c32bbba227da9f24d6f1e07be9551df790c1c722678bb46ff896",
    "timestamp": "2022-09-07T17:34:56.000Z"
   },
-  {
+  "immortal/gfx/env/eve1_lf.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve1_lf.tga",
    "sha256": "12c677cc7ec883d4a014856f79e493bdd4c81739b9018d268fc652d88aa5ab0c",
    "timestamp": "2022-09-07T17:35:00.000Z"
   },
-  {
+  "immortal/gfx/env/eve1_rt.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve1_rt.tga",
    "sha256": "d68dac94072b0dda921e2a7d8a520ea3b3ea9a668af0305b15f4361a901a7447",
    "timestamp": "2022-09-07T17:35:06.000Z"
   },
-  {
+  "immortal/gfx/env/eve1_up.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve1_up.tga",
    "sha256": "a7c728bfa81dd7d41a9ffdc432713c22be6787decb989a5a8eb035c5ca8cd149",
    "timestamp": "2022-09-07T17:35:12.000Z"
   },
-  {
+  "immortal/gfx/env/eve7_bk.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve7_bk.tga",
    "sha256": "ab06f7ee3642db244db7ed2066ef4fbfcc83a1a3b2e95aa6ec7fdf9bb01281aa",
    "timestamp": "2022-09-07T17:41:32.000Z"
   },
-  {
+  "immortal/gfx/env/eve7_dn.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve7_dn.tga",
    "sha256": "502af7fb3a6b61013018984a2e8359b4c2e08c4a35d723232513431d79e96af7",
    "timestamp": "2022-09-07T17:41:42.000Z"
   },
-  {
+  "immortal/gfx/env/eve7_ft.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve7_ft.tga",
    "sha256": "aebe426a260624cdfad82be916a201dd4c9a227047295da03b8b20ea37a57035",
    "timestamp": "2022-09-07T17:41:48.000Z"
   },
-  {
+  "immortal/gfx/env/eve7_lf.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve7_lf.tga",
    "sha256": "65c28598542d3cd0356636459d4c4ccc397e6cbcb1f02460b2043f783c56194c",
    "timestamp": "2022-09-07T17:41:52.000Z"
   },
-  {
+  "immortal/gfx/env/eve7_rt.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve7_rt.tga",
    "sha256": "0b2bab9e893f525845152514afeac771cf2cc529ab5a5d050679c2e269ad226f",
    "timestamp": "2022-09-07T17:41:56.000Z"
   },
-  {
+  "immortal/gfx/env/eve7_up.tga": {
    "bytes": 4194854,
-   "path": "immortal/gfx/env/eve7_up.tga",
    "sha256": "203036d9a125baa357182dd17c361e21c447524cf48f9d2ce8edaa8c699bdd40",
    "timestamp": "2022-09-07T17:42:00.000Z"
   },
-  {
+  "immortal/gfx/env/mak_aurora2_bk.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_aurora2_bk.tga",
    "sha256": "1d028cb8ac83c70a442e3f5b424f8c5fbc559b68dc12584b8e3349f289332306",
    "timestamp": "2022-10-21T21:07:18.000Z"
   },
-  {
+  "immortal/gfx/env/mak_aurora2_dn.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_aurora2_dn.tga",
    "sha256": "d63c67b2b7eaf547df463d790c756aeeed12e0a4ed702cf8ff41dd247897d76c",
    "timestamp": "2022-10-21T21:07:18.000Z"
   },
-  {
+  "immortal/gfx/env/mak_aurora2_ft.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_aurora2_ft.tga",
    "sha256": "5d999a1a7b8666bf35502dedb4ff463a293f04c7b25514c198438bec8f6f6664",
    "timestamp": "2022-10-21T21:07:16.000Z"
   },
-  {
+  "immortal/gfx/env/mak_aurora2_lf.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_aurora2_lf.tga",
    "sha256": "c25a5766cffd68d79812ab7c9f398872925a2ba2de8f7c167d72b346254fa413",
    "timestamp": "2022-10-21T21:07:14.000Z"
   },
-  {
+  "immortal/gfx/env/mak_aurora2_rt.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_aurora2_rt.tga",
    "sha256": "80a71dac693d0a01e82d49f3994afeacde4122ff574dc6650fb7480a02afdfa8",
    "timestamp": "2022-10-21T21:07:10.000Z"
   },
-  {
+  "immortal/gfx/env/mak_aurora2_up.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_aurora2_up.tga",
    "sha256": "9f380585afbb9a2e5bd0f6b4daee7fe2c044586ef1ac4160c8104532ec934cc3",
    "timestamp": "2022-10-21T21:07:12.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebulapink_bk.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebulapink_bk.tga",
    "sha256": "3b4e9ab246fec49303caddd4f286db5c634cb437c75139938d7c262fd2d8cc5d",
    "timestamp": "2021-07-03T00:38:08.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebulapink_dn.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebulapink_dn.tga",
    "sha256": "7b55d0304c99a18d0dfe55bae4039574b9a0afd6a8c8901ef9966b29389c9df0",
    "timestamp": "2021-07-03T00:38:00.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebulapink_ft.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebulapink_ft.tga",
    "sha256": "214b457b8291469c8211537b571c9866e5fbe9f8e72993cae561486899cbc95f",
    "timestamp": "2021-07-03T00:37:58.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebulapink_lf.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebulapink_lf.tga",
    "sha256": "f7d026b3f44c4bf9459af763c768f92e740ec4edf12dcba836eae5d10daebe36",
    "timestamp": "2021-07-03T00:37:54.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebulapink_rt.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebulapink_rt.tga",
    "sha256": "3368416c8d380b50598e7f7a67038b5d621cf2742e913f9f13672c9734ff04e1",
    "timestamp": "2021-07-03T00:37:50.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebulapink_up.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebulapink_up.tga",
    "sha256": "61c4eaa8c261955754fc163c2d0451e48e250c457540d0ba8400cc573e4feb40",
    "timestamp": "2021-07-03T00:37:40.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebularteal2_bk.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebularteal2_bk.tga",
    "sha256": "3deb3f912877ede9b2008db1ac1e957082cd60788b7fb8b2b03ab9593afc152d",
    "timestamp": "2021-08-13T20:17:20.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebularteal2_dn.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebularteal2_dn.tga",
    "sha256": "52b8fa69606bc4a6cafe63ebeacd8108748ddca25645a19416966c68bb9a2b21",
    "timestamp": "2021-08-13T20:17:18.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebularteal2_ft.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebularteal2_ft.tga",
    "sha256": "aa38a6ddbdbe5cb69bd43b614b0da32236b07b925c83600269b4a2de92d5014b",
    "timestamp": "2021-08-13T20:17:16.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebularteal2_lf.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebularteal2_lf.tga",
    "sha256": "e1bd41c54e31c37e40cf3124ce99bcecfe22a9d5f19a192c7aa2e7ad89f23ea8",
    "timestamp": "2021-08-13T20:17:14.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebularteal2_rt.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebularteal2_rt.tga",
    "sha256": "f7957288cf7972b4403cbd68c8f8fc8754af61c3d3a18194073adf9323b9a55f",
    "timestamp": "2021-08-13T20:17:10.000Z"
   },
-  {
+  "immortal/gfx/env/mak_nebularteal2_up.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/mak_nebularteal2_up.tga",
    "sha256": "b46d51f3ca3e272f75dc16140a6648bd8965f35f00a156e26442b476764d5fde",
    "timestamp": "2021-08-13T20:17:08.000Z"
   },
-  {
+  "immortal/gfx/env/skyspace01_bk.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/skyspace01_bk.tga",
    "sha256": "b787192cdfb25994c3fbf41ea751fa94528a27a587130d6b738c778c8b5f7156",
    "timestamp": "2023-04-03T00:53:36.000Z"
   },
-  {
+  "immortal/gfx/env/skyspace01_dn.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/skyspace01_dn.tga",
    "sha256": "25ae194183ac29b84fc9f1e3629ce834aa2b909ed57eff0b9170fa167930ff4e",
    "timestamp": "2023-04-03T00:53:36.000Z"
   },
-  {
+  "immortal/gfx/env/skyspace01_ft.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/skyspace01_ft.tga",
    "sha256": "cd2d0fb2f1aa24ed775c0601c62780c7f242fc9fdb3e9f7fc73f554d0091b845",
    "timestamp": "2023-04-03T00:53:36.000Z"
   },
-  {
+  "immortal/gfx/env/skyspace01_lf.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/skyspace01_lf.tga",
    "sha256": "7b36150fea030383819e4c01e8fc11e0dc5ba542ad5a335ba68338e9592a3954",
    "timestamp": "2023-04-03T00:53:36.000Z"
   },
-  {
+  "immortal/gfx/env/skyspace01_rt.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/skyspace01_rt.tga",
    "sha256": "d685c80fb51114591219ae543ced2979fcd194f413097161f1614fc02dbe844c",
    "timestamp": "2023-04-03T00:53:36.000Z"
   },
-  {
+  "immortal/gfx/env/skyspace01_up.tga": {
    "bytes": 3145772,
-   "path": "immortal/gfx/env/skyspace01_up.tga",
    "sha256": "647a1d8cf320e4bcc745c86783d38b06507e31e1c21afe17fb0c176ece6c1254",
    "timestamp": "2023-04-03T00:53:36.000Z"
   },
-  {
+  "immortal/gfx/env/violentdays_bk.tga": {
    "bytes": 786971,
-   "path": "immortal/gfx/env/violentdays_bk.tga",
    "sha256": "c4c105a9a9bdc08ad7ec4b721739bf377cacad20a2fac711a4f0fc266fb6f941",
    "timestamp": "2008-12-25T16:02:28.000Z"
   },
-  {
+  "immortal/gfx/env/violentdays_dn.tga": {
    "bytes": 786971,
-   "path": "immortal/gfx/env/violentdays_dn.tga",
    "sha256": "72fc27d51584b3d9a3cd56729995a60e538a1ac512e9cff748a4545c2ffc4138",
    "timestamp": "2008-12-25T16:02:28.000Z"
   },
-  {
+  "immortal/gfx/env/violentdays_ft.tga": {
    "bytes": 786971,
-   "path": "immortal/gfx/env/violentdays_ft.tga",
    "sha256": "49c5c73825150b82b9eb43f9c478a9f12cf559c2c2bdb019dd5063334d053264",
    "timestamp": "2008-12-25T16:02:30.000Z"
   },
-  {
+  "immortal/gfx/env/violentdays_lf.tga": {
    "bytes": 786971,
-   "path": "immortal/gfx/env/violentdays_lf.tga",
    "sha256": "f4af292865265d17841653b46361c427ba3d0f180b28dfa65f8d61f5abf91c13",
    "timestamp": "2008-12-25T16:02:30.000Z"
   },
-  {
+  "immortal/gfx/env/violentdays_rt.tga": {
    "bytes": 786971,
-   "path": "immortal/gfx/env/violentdays_rt.tga",
    "sha256": "59a7ad25f288ea959e53607e15ef3044cbc1b91dac9c6a1f1b295bff733c8f54",
    "timestamp": "2008-12-25T16:02:32.000Z"
   },
-  {
+  "immortal/gfx/env/violentdays_up.tga": {
    "bytes": 786971,
-   "path": "immortal/gfx/env/violentdays_up.tga",
    "sha256": "fbed710e25cd758b614c9156ce1772abd24c4f1365675fe37efde16773ff6445",
    "timestamp": "2008-12-25T16:02:26.000Z"
   },
-  {
+  "immortal/gfx/env/void_bk.tga": {
    "bytes": 786476,
-   "path": "immortal/gfx/env/void_bk.tga",
    "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
    "timestamp": "2024-05-12T17:43:36.000Z"
   },
-  {
+  "immortal/gfx/env/void_dn.tga": {
    "bytes": 786476,
-   "path": "immortal/gfx/env/void_dn.tga",
    "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
    "timestamp": "2024-05-12T17:43:34.000Z"
   },
-  {
+  "immortal/gfx/env/void_ft.tga": {
    "bytes": 786476,
-   "path": "immortal/gfx/env/void_ft.tga",
    "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
    "timestamp": "2024-05-12T17:43:34.000Z"
   },
-  {
+  "immortal/gfx/env/void_lf.tga": {
    "bytes": 786476,
-   "path": "immortal/gfx/env/void_lf.tga",
    "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
    "timestamp": "2024-05-12T17:43:32.000Z"
   },
-  {
+  "immortal/gfx/env/void_rt.tga": {
    "bytes": 786476,
-   "path": "immortal/gfx/env/void_rt.tga",
    "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
    "timestamp": "2024-05-12T17:43:32.000Z"
   },
-  {
+  "immortal/gfx/env/void_up.tga": {
    "bytes": 786476,
-   "path": "immortal/gfx/env/void_up.tga",
    "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
    "timestamp": "2024-05-12T17:43:32.000Z"
   },
-  {
+  "immortal/immortal_readme.txt": {
    "bytes": 7807,
-   "path": "immortal/immortal_readme.txt",
    "sha256": "8e78436f004adf6d33e48045c00698aa873c5a6a5155aecc6524d97a599e3d6c",
    "timestamp": "2024-08-03T17:56:42.000Z"
   },
-  {
+  "immortal/mapdb.json": {
    "bytes": 684,
-   "path": "immortal/mapdb.json",
    "sha256": "cc346d6c127edb8fe5c1a8382aafcb98aca8ce4978a19d1855606dcb71403f92",
    "timestamp": "2024-07-10T13:37:42.000Z"
   },
-  {
+  "immortal/maps/": {
    "bytes": 0,
-   "path": "immortal/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-17T10:55:12.000Z"
   },
-  {
+  "immortal/maps/immortal.bsp": {
    "bytes": 504079340,
-   "path": "immortal/maps/immortal.bsp",
    "sha256": "633243c45594c9a4b4b583638d7f71cee98c4784fdee76691d23aa8a2befd71a",
    "timestamp": "2024-08-03T12:13:56.000Z"
   },
-  {
+  "immortal/maps/immortal.lit": {
    "bytes": 99302552,
-   "path": "immortal/maps/immortal.lit",
    "sha256": "db373e1009a0bd9c589fa135ae5651bde85247e86dc088aaae85c4bd06aa8d2c",
    "timestamp": "2024-08-03T12:13:56.000Z"
   },
-  {
+  "immortal/maps/spinny.bsp": {
    "bytes": 2067944,
-   "path": "immortal/maps/spinny.bsp",
    "sha256": "04d1ef1818217a47f648b6c0fb8e124e0eb4e79d8b9018ad86d903114c417269",
    "timestamp": "2023-08-26T11:56:48.000Z"
   },
-  {
+  "immortal/maps/start.bsp": {
    "bytes": 47868092,
-   "path": "immortal/maps/start.bsp",
    "sha256": "6d5401956c2fb0aca7081559324267effd8e1a9746a63a5e673b0d54bbe28e35",
    "timestamp": "2024-07-26T13:25:04.000Z"
   },
-  {
+  "immortal/maps/start.lit": {
    "bytes": 4495088,
-   "path": "immortal/maps/start.lit",
    "sha256": "981bdbdee531ff82a09122beb1fe5ccccf8c6e67687945335d4ebc777c838b9f",
    "timestamp": "2024-07-26T13:25:04.000Z"
   },
-  {
+  "immortal/music/": {
    "bytes": 0,
-   "path": "immortal/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-28T00:40:34.000Z"
   },
-  {
+  "immortal/music/track02.mp3": {
    "bytes": 3790888,
-   "path": "immortal/music/track02.mp3",
    "sha256": "8cc6084b8adc6e60d8376aed19babd909c59104fdcd662a2a8587805d6164988",
    "timestamp": "2024-05-28T13:17:44.000Z"
   },
-  {
+  "immortal/music/track03.mp3": {
    "bytes": 3790888,
-   "path": "immortal/music/track03.mp3",
    "sha256": "8cc6084b8adc6e60d8376aed19babd909c59104fdcd662a2a8587805d6164988",
    "timestamp": "2024-05-28T13:17:44.000Z"
   },
-  {
+  "immortal/music/track42.mp3": {
    "bytes": 10974562,
-   "path": "immortal/music/track42.mp3",
    "sha256": "36108dc8ad5cc3315bd64c402024c3e9b56ff8c4299921dce7238b855ef3a3f2",
    "timestamp": "2024-06-13T23:07:46.000Z"
   },
-  {
+  "immortal/music/track69.mp3": {
    "bytes": 42592129,
-   "path": "immortal/music/track69.mp3",
    "sha256": "12c196e14cefec0764875d0b34d8846fdbb70bf007aeb3a05164e72c229ea2b0",
    "timestamp": "2023-12-28T03:09:58.000Z"
   },
-  {
+  "immortal/music/track96.mp3": {
    "bytes": 9762480,
-   "path": "immortal/music/track96.mp3",
    "sha256": "034050d53395d12310d46d57fba213a3c0423531b1b7a83f46d6c20829f19a57",
    "timestamp": "2023-07-16T01:27:44.000Z"
   },
-  {
+  "immortal/pak0.pak": {
    "bytes": 17730124,
-   "path": "immortal/pak0.pak",
    "sha256": "0ad2132bced06216d27060ae5bcb39747b47dbc90ccd2b2cc0c1a55807551693",
    "timestamp": "2024-06-28T11:51:30.000Z"
   },
-  {
+  "immortal/pak1.pak": {
    "bytes": 8293265,
-   "path": "immortal/pak1.pak",
    "sha256": "7f71aba85e7d160bbff4e195f9a992d52cc99ec685954418f55b920319b60b9b",
    "timestamp": "2024-06-22T19:50:56.000Z"
   },
-  {
+  "immortal/pak2.pak": {
    "bytes": 3806519,
-   "path": "immortal/pak2.pak",
    "sha256": "84dbc0e70d6140017eae03349595f04569a54569655b4cde92aeb069bc46f091",
    "timestamp": "2024-06-22T19:51:02.000Z"
   },
-  {
+  "immortal/progs/": {
    "bytes": 0,
-   "path": "immortal/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-16T00:31:34.000Z"
   },
-  {
+  "immortal/progs/plasma.mdl": {
    "bytes": 3542,
-   "path": "immortal/progs/plasma.mdl",
    "sha256": "2f3efa19a64b60d480fbef7c10e8f2a56e90d656e8fcb8bcd656932f8686f482",
    "timestamp": "2024-07-15T23:47:54.000Z"
   },
-  {
+  "immortal/progs/zombie2.mdl": {
    "bytes": 59012,
-   "path": "immortal/progs/zombie2.mdl",
    "sha256": "d6c2612c04acefb06e2f7e628c1186800dd90b972ad35f1ecec097645ff28b76",
    "timestamp": "2021-10-07T17:43:48.000Z"
   },
-  {
+  "immortal/quoth.cfg": {
    "bytes": 497,
-   "path": "immortal/quoth.cfg",
    "sha256": "8072e43b97422c300245370247c246ff94afa4c2e15b308bc37d9be638d5cd24",
    "timestamp": "2024-07-17T00:44:08.000Z"
   },
-  {
+  "immortal/sound/": {
    "bytes": 0,
-   "path": "immortal/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-16T00:31:42.000Z"
   },
-  {
+  "immortal/sound/ambient_radio5.wav": {
    "bytes": 304084,
-   "path": "immortal/sound/ambient_radio5.wav",
    "sha256": "398d91e99724c4674f03891eadeea66bbb0445f298bb40a3d2e23daea8480c6b",
    "timestamp": "2023-02-19T23:09:42.000Z"
   },
-  {
+  "immortal/sound/ambient_radio6.wav": {
    "bytes": 124078,
-   "path": "immortal/sound/ambient_radio6.wav",
    "sha256": "b92d4be71958676ae7d4a4b326966f31a84f066978ba8529a3d514b282403171",
    "timestamp": "2023-02-19T23:09:50.000Z"
   },
-  {
+  "immortal/sound/ambient_radio7.wav": {
    "bytes": 155410,
-   "path": "immortal/sound/ambient_radio7.wav",
    "sha256": "c33403d815e7b230d7a4ce5113a6b0747b70293e8611c483b210d628c7fbce47",
    "timestamp": "2023-02-19T23:10:04.000Z"
   },
-  {
+  "immortal/sound/ambient_radio8.wav": {
    "bytes": 148382,
-   "path": "immortal/sound/ambient_radio8.wav",
    "sha256": "c64783ba48f9bf902af91ec540e8ca4356c978f18bbb4f8b839024dd15cf7e32",
    "timestamp": "2023-02-19T23:10:14.000Z"
   },
-  {
+  "immortal/sound/explosion.wav": {
    "bytes": 139072,
-   "path": "immortal/sound/explosion.wav",
    "sha256": "9c955432887b8601021477cca9bdba995f10acf3955bb1789971b7fb9cd8f459",
    "timestamp": "2022-11-10T19:36:02.000Z"
   },
-  {
+  "immortal/sound/gore_ambient1.wav": {
    "bytes": 1653966,
-   "path": "immortal/sound/gore_ambient1.wav",
    "sha256": "162cb797ec878f97831f85adb92c573d610b5b3ecce11ae8f1cd8441bc43b0db",
    "timestamp": "2023-05-19T01:28:32.000Z"
   },
-  {
+  "immortal/sound/gore_bite1.wav": {
    "bytes": 233322,
-   "path": "immortal/sound/gore_bite1.wav",
    "sha256": "40bedf9ba20f4815d083279731663e5038b74b864cf033f562508d4d16aac988",
    "timestamp": "2023-05-17T22:16:40.000Z"
   },
-  {
+  "immortal/sound/gore_bite2.wav": {
    "bytes": 171880,
-   "path": "immortal/sound/gore_bite2.wav",
    "sha256": "baa0edb5e0110287b97c476cd8be670cc11666accca6e5721815ba5773f845d5",
    "timestamp": "2023-05-17T22:17:12.000Z"
   },
-  {
+  "immortal/sound/gore_bitecont1.wav": {
    "bytes": 528900,
-   "path": "immortal/sound/gore_bitecont1.wav",
    "sha256": "50f39fb750af8449c0ca6982d1e64c0b7fcfea51e7a35962790bc53dcfc7ff4e",
    "timestamp": "2023-05-19T01:39:02.000Z"
   },
-  {
+  "immortal/sound/gore_breathe1.wav": {
    "bytes": 1805386,
-   "path": "immortal/sound/gore_breathe1.wav",
    "sha256": "a81d82fd29b684ba9338ad370ed915b3db003dc55d772eb53c90ace8bc516517",
    "timestamp": "2024-05-29T13:10:10.000Z"
   },
-  {
+  "immortal/sound/gore_chew1.wav": {
    "bytes": 472560,
-   "path": "immortal/sound/gore_chew1.wav",
    "sha256": "7ca1c3e50c430cf9e8ee0bf98a539164d30b49f498085e0cd1e087631022da78",
    "timestamp": "2024-05-29T13:08:12.000Z"
   },
-  {
+  "immortal/sound/gore_guts1.wav": {
    "bytes": 568698,
-   "path": "immortal/sound/gore_guts1.wav",
    "sha256": "7d39dc17fa6e9777df1b4f4a9cfe951ace6a21a6755c8bed876a0d8cd3afefb2",
    "timestamp": "2024-05-29T13:07:58.000Z"
   },
-  {
+  "immortal/sound/gore_move1.wav": {
    "bytes": 361410,
-   "path": "immortal/sound/gore_move1.wav",
    "sha256": "4650167fce8a4437feafdeeb3473023168a1326e74b23b46c380bf31c009e0be",
    "timestamp": "2024-05-29T13:07:16.000Z"
   },
-  {
+  "immortal/sound/gore_pierce1.wav": {
    "bytes": 233458,
-   "path": "immortal/sound/gore_pierce1.wav",
    "sha256": "8dc0950700c054f1116ee21f58261d0c9ecbfc621d7be4c18ec879001234ae7d",
    "timestamp": "2023-05-19T13:13:16.000Z"
   },
-  {
+  "immortal/sound/gore_scream1.wav": {
    "bytes": 492392,
-   "path": "immortal/sound/gore_scream1.wav",
    "sha256": "869537c2c6721f6a6eb87878bab70116044b9dcfe70b9f76205626c1384cc6c8",
    "timestamp": "2023-05-17T22:19:22.000Z"
   },
-  {
+  "immortal/sound/gore_scream2.wav": {
    "bytes": 1016970,
-   "path": "immortal/sound/gore_scream2.wav",
    "sha256": "4f5a76c02c52385eb14e8a2a7efa57f9c4e2d55f9ecacc577d718d03e5658e99",
    "timestamp": "2023-07-16T11:26:02.000Z"
   },
-  {
+  "immortal/sound/gore_scream3.wav": {
    "bytes": 4388668,
-   "path": "immortal/sound/gore_scream3.wav",
    "sha256": "21f404480feb96bfba1347a6ca94d4697f8cae8a43541b9f506f39e084a422eb",
    "timestamp": "2024-05-29T13:06:22.000Z"
   },
-  {
+  "immortal/sound/gore_teleport1.wav": {
    "bytes": 2117490,
-   "path": "immortal/sound/gore_teleport1.wav",
    "sha256": "12fd3f904f9436a59046ef3b5da9326799e301252ebbc4b409bcbe53ff64963b",
    "timestamp": "2024-05-29T13:04:24.000Z"
   },
-  {
+  "immortal/sound/lancfire.wav": {
    "bytes": 6520,
-   "path": "immortal/sound/lancfire.wav",
    "sha256": "be8d154ba1404462776ec3f5fbbda0e974970dd5d61d97cf296c3711ede5bb84",
    "timestamp": "2024-07-16T00:02:28.000Z"
   },
-  {
+  "immortal/sound/machine_active2.wav": {
    "bytes": 1242782,
-   "path": "immortal/sound/machine_active2.wav",
    "sha256": "b05583886c024dcd650bd44d99d41d7906dd1414fa9dc2b56af80ed4d1c228d2",
    "timestamp": "2024-05-29T13:03:24.000Z"
   },
-  {
+  "immortal/sound/machine_active3.wav": {
    "bytes": 561172,
-   "path": "immortal/sound/machine_active3.wav",
    "sha256": "c8c85b2e63d247d9cab269950f2a03a3fdebedcaa10299886e90cc131674d80e",
    "timestamp": "2024-05-29T13:03:12.000Z"
   },
-  {
+  "immortal/sound/machine_active4.wav": {
    "bytes": 1024640,
-   "path": "immortal/sound/machine_active4.wav",
    "sha256": "c93df2573348bc56c06b31b5b66ade295795c89fac35e0d5045d967372b411fd",
    "timestamp": "2024-05-29T13:02:58.000Z"
   },
-  {
+  "immortal/sound/machine_broken1.wav": {
    "bytes": 99220,
-   "path": "immortal/sound/machine_broken1.wav",
    "sha256": "b06280b75ef16708444378fa324f5cef097c45816cfa4e38844b493aea7edc8c",
    "timestamp": "2023-02-19T22:56:42.000Z"
   },
-  {
+  "immortal/sound/machine_door1.wav": {
    "bytes": 563994,
-   "path": "immortal/sound/machine_door1.wav",
    "sha256": "6db963458887f6ff46769fe8733004ae62fb5cbe0c6f11bf46bdb2a9fd70dc82",
    "timestamp": "2024-05-29T12:58:50.000Z"
   },
-  {
+  "immortal/sound/machine_door2.wav": {
    "bytes": 434718,
-   "path": "immortal/sound/machine_door2.wav",
    "sha256": "202ab1b8e715e06371ce24f0fc0b78fa51e53cb7e09c23dfadea979276f2695a",
    "timestamp": "2024-05-29T12:58:08.000Z"
   },
-  {
+  "immortal/sound/machine_door4.wav": {
    "bytes": 850054,
-   "path": "immortal/sound/machine_door4.wav",
    "sha256": "1354a10e363236231ced081e9e33925cd6f430097df44b5e25e1aefcb8ba2ba9",
    "timestamp": "2024-05-29T12:57:56.000Z"
   },
-  {
+  "immortal/sound/machine_elevator1.wav": {
    "bytes": 277516,
-   "path": "immortal/sound/machine_elevator1.wav",
    "sha256": "c854dd78b784e3f19611820c725fa39cabb1e14efe8e597019ba4e11e4225435",
    "timestamp": "2024-06-15T00:09:08.000Z"
   },
-  {
+  "immortal/sound/machine_elevatorstop1.wav": {
    "bytes": 500674,
-   "path": "immortal/sound/machine_elevatorstop1.wav",
    "sha256": "1245e5fe6823b5903a29cc80107a7554a1408a2904b006c0d0ab3c70f57fc6dc",
    "timestamp": "2024-05-29T12:56:02.000Z"
   },
-  {
+  "immortal/sound/machine_error1.wav": {
    "bytes": 18260,
-   "path": "immortal/sound/machine_error1.wav",
    "sha256": "a5ff727f86b82d4c8bd805308a8108d1d6ac7075ecccd8f0dd424477d28c0656",
    "timestamp": "2023-02-19T22:59:02.000Z"
   },
-  {
+  "immortal/sound/machine_fan1.wav": {
    "bytes": 607762,
-   "path": "immortal/sound/machine_fan1.wav",
    "sha256": "156541e9b72d9a77ed4923d02f4b32646e7309ac1e7bf08ae7a6fb78f14922aa",
    "timestamp": "2024-05-29T12:53:30.000Z"
   },
-  {
+  "immortal/sound/machine_flyby1.wav": {
    "bytes": 981820,
-   "path": "immortal/sound/machine_flyby1.wav",
    "sha256": "a00ab1e98d70ab7a1e462aef1a1872490021c4f525603569ccb306c4819a48d1",
    "timestamp": "2024-05-30T14:23:54.000Z"
   },
-  {
+  "immortal/sound/machine_flyby2.wav": {
    "bytes": 1235490,
-   "path": "immortal/sound/machine_flyby2.wav",
    "sha256": "53a00c4d7b6434e86646cf4c33db35503a896e575831846bad3b469e94e0170d",
    "timestamp": "2024-05-30T21:40:14.000Z"
   },
-  {
+  "immortal/sound/machine_flyby3.wav": {
    "bytes": 260406,
-   "path": "immortal/sound/machine_flyby3.wav",
    "sha256": "3fb54dce36de4164173ff68f2eed3a5b24a81c784b7d0758c29ba27620c11378",
    "timestamp": "2020-01-17T15:59:16.000Z"
   },
-  {
+  "immortal/sound/machine_forcefield1.wav": {
    "bytes": 497334,
-   "path": "immortal/sound/machine_forcefield1.wav",
    "sha256": "462b5f79ef064f5b2d6bb74040684fa1f4a44e635774de2283f0ad1e9f3cbb97",
    "timestamp": "2024-05-29T12:50:44.000Z"
   },
-  {
+  "immortal/sound/machine_jumppad3.wav": {
    "bytes": 315198,
-   "path": "immortal/sound/machine_jumppad3.wav",
    "sha256": "9265b1a1aef356b896d26b8fa7d36ec26e48eec3f2ddb1f4f6a3c9804f518acc",
    "timestamp": "2023-05-06T14:26:38.000Z"
   },
-  {
+  "immortal/sound/machine_laser1.wav": {
    "bytes": 171144,
-   "path": "immortal/sound/machine_laser1.wav",
    "sha256": "27c103347b9463906c3b439712e1fcba4f7fd8e811d50eda5311f5425a46c9f3",
    "timestamp": "2023-07-12T15:17:14.000Z"
   },
-  {
+  "immortal/sound/machine_laser2.wav": {
    "bytes": 1323754,
-   "path": "immortal/sound/machine_laser2.wav",
    "sha256": "8f87978eb44c5777bf0a5c35cf90e9bb087a8023c886741b19a6aa1713c8766a",
    "timestamp": "2024-06-21T23:34:00.000Z"
   },
-  {
+  "immortal/sound/machine_lift1.wav": {
    "bytes": 583014,
-   "path": "immortal/sound/machine_lift1.wav",
    "sha256": "2efe24977d1f4a66ad02c98179ffbc0368b139c6157f5104ca1e26760aa04c22",
    "timestamp": "2024-05-29T12:49:38.000Z"
   },
-  {
+  "immortal/sound/machine_liftbell1.wav": {
    "bytes": 193792,
-   "path": "immortal/sound/machine_liftbell1.wav",
    "sha256": "675ce2ead49c1b499a92d498300fd70ae315f1a1b1b9a05e4d9edae0ea6cca04",
    "timestamp": "2023-07-19T19:31:24.000Z"
   },
-  {
+  "immortal/sound/machine_nukeexplosion1.wav": {
    "bytes": 1823418,
-   "path": "immortal/sound/machine_nukeexplosion1.wav",
    "sha256": "2717685d07e8384e9d406b9e339c89313702d453b43bf0f71b38bf774356c44f",
    "timestamp": "2024-05-30T02:18:58.000Z"
   },
-  {
+  "immortal/sound/machine_nukelaunch1.wav": {
    "bytes": 4498890,
-   "path": "immortal/sound/machine_nukelaunch1.wav",
    "sha256": "890a5cf09c78ed26bb4e13b1ad44b54e91083147caffd04831b4dcc74e0199e7",
    "timestamp": "2024-05-30T02:00:54.000Z"
   },
-  {
+  "immortal/sound/machine_pa1.wav": {
    "bytes": 838636,
-   "path": "immortal/sound/machine_pa1.wav",
    "sha256": "173620725618482de94aee512f14a8b14e06f9ee8e77498b72cc387eae894402",
    "timestamp": "2023-07-16T01:43:04.000Z"
   },
-  {
+  "immortal/sound/machine_pa10retreattofreightsix.wav": {
    "bytes": 557394,
-   "path": "immortal/sound/machine_pa10retreattofreightsix.wav",
    "sha256": "9f41b420125bd71ed3e1860473abaef0248b90ed3fe94a3e30d38e321cd8378c",
    "timestamp": "2024-06-24T13:27:58.000Z"
   },
-  {
+  "immortal/sound/machine_pa11reporttosilofour.wav": {
    "bytes": 675142,
-   "path": "immortal/sound/machine_pa11reporttosilofour.wav",
    "sha256": "74faf1a5aaf26f2c23b1885f77b482bd27ed49819dbffc3cf3d30c9fefa499b1",
    "timestamp": "2024-06-24T13:33:02.000Z"
   },
-  {
+  "immortal/sound/machine_pa12reactorteleportoverload.wav": {
    "bytes": 662972,
-   "path": "immortal/sound/machine_pa12reactorteleportoverload.wav",
    "sha256": "46cfefc0687e3f49fa409cba2a0e7fe452dd2bad9f48d16ebc641cb888108400",
    "timestamp": "2024-06-24T13:38:40.000Z"
   },
-  {
+  "immortal/sound/machine_pa2.wav": {
    "bytes": 1103236,
-   "path": "immortal/sound/machine_pa2.wav",
    "sha256": "5d8e816eec2be40ec0584b514d7a8df73b97f2835c33c0826d03e3272bfb9be6",
    "timestamp": "2023-07-16T01:42:32.000Z"
   },
-  {
+  "immortal/sound/machine_pa3slipgate.wav": {
    "bytes": 706336,
-   "path": "immortal/sound/machine_pa3slipgate.wav",
    "sha256": "6f58365272314aaea353e1acf38d9e2d41e5d639b262c4c6988964f508c50e58",
    "timestamp": "2023-08-14T21:54:20.000Z"
   },
-  {
+  "immortal/sound/machine_pa4nukeready.wav": {
    "bytes": 662236,
-   "path": "immortal/sound/machine_pa4nukeready.wav",
    "sha256": "c19a924c9acf24d0ab382856aa4b9d0e91d927eabfe6fe3befa374d479a04b51",
    "timestamp": "2023-08-14T21:55:20.000Z"
   },
-  {
+  "immortal/sound/machine_pa5nukelaunch.wav": {
    "bytes": 1103236,
-   "path": "immortal/sound/machine_pa5nukelaunch.wav",
    "sha256": "9e0416361f98f78bff5736283b65a96ef9fa485c258a634aabdf0d17c37ea52b",
    "timestamp": "2023-08-14T21:55:38.000Z"
   },
-  {
+  "immortal/sound/machine_pa6report.wav": {
    "bytes": 930282,
-   "path": "immortal/sound/machine_pa6report.wav",
    "sha256": "3b33aa667aebbe97179a1cf6499b11dbaaa993ecea66f474bcf545e0c4287de1",
    "timestamp": "2024-06-21T02:04:00.000Z"
   },
-  {
+  "immortal/sound/machine_pa7scan.wav": {
    "bytes": 1041560,
-   "path": "immortal/sound/machine_pa7scan.wav",
    "sha256": "7fc8a67f48ef99456d2c02bd3286c046360fca7e77216c948c66b2c63d9e0936",
    "timestamp": "2024-06-21T02:05:08.000Z"
   },
-  {
+  "immortal/sound/machine_pa8authorized.wav": {
    "bytes": 1008424,
-   "path": "immortal/sound/machine_pa8authorized.wav",
    "sha256": "27013f028802d2393600fe335b32dfd2d2495a1ec8f2031983ef3a1e74ad60c6",
    "timestamp": "2024-06-21T02:06:14.000Z"
   },
-  {
+  "immortal/sound/machine_pa9detonatecharges.wav": {
    "bytes": 541926,
-   "path": "immortal/sound/machine_pa9detonatecharges.wav",
    "sha256": "ce2748f172baedb6b59eb068b19cf211b971a80ae1412b02344411084db109fe",
    "timestamp": "2024-06-24T13:22:30.000Z"
   },
-  {
+  "immortal/sound/machine_pilot1.wav": {
    "bytes": 465806,
-   "path": "immortal/sound/machine_pilot1.wav",
    "sha256": "76557fc63375c3f29dc7e86194abe29d4fa3fb49e74b1e76a198d7c3e487384c",
    "timestamp": "2024-05-29T12:46:34.000Z"
   },
-  {
+  "immortal/sound/machine_pilot2.wav": {
    "bytes": 275242,
-   "path": "immortal/sound/machine_pilot2.wav",
    "sha256": "63e28f48ea8ccfb7c0aa15fb02051d79b739f2917ff887817eb6326e27d319c1",
    "timestamp": "2019-11-01T17:54:10.000Z"
   },
-  {
+  "immortal/sound/machine_powershutdown1.wav": {
    "bytes": 1119156,
-   "path": "immortal/sound/machine_powershutdown1.wav",
    "sha256": "d1249afd2eb467f927dd37bce7467727d6c9d5ec4cc374c7ff93ff59a73cb7e1",
    "timestamp": "2023-07-15T13:31:12.000Z"
   },
-  {
+  "immortal/sound/machine_servo1.wav": {
    "bytes": 322822,
-   "path": "immortal/sound/machine_servo1.wav",
    "sha256": "f5f2a224aacead3bd3953410bb1f1e4075469311b4127fc694e42652a26bbe49",
    "timestamp": "2024-06-21T23:04:58.000Z"
   },
-  {
+  "immortal/sound/machine_sirentornado.wav": {
    "bytes": 409132,
-   "path": "immortal/sound/machine_sirentornado.wav",
    "sha256": "793bb573cfa13890fed938c1e8259b2218480f2e4769c56e9060010d5d5c4270",
    "timestamp": "2022-05-20T01:39:08.000Z"
   },
-  {
+  "immortal/sound/machine_smoosh2.wav": {
    "bytes": 156726,
-   "path": "immortal/sound/machine_smoosh2.wav",
    "sha256": "b97987d279ad3e1cf534f5d5965df742c92e65805af591f42d7cfa7eaad75804",
    "timestamp": "2023-07-26T23:54:26.000Z"
   },
-  {
+  "immortal/sound/machine_static1.wav": {
    "bytes": 407892,
-   "path": "immortal/sound/machine_static1.wav",
    "sha256": "cb8d8c453b24ff09d8c5a4a831fe000cac660370633cc9f3cec3da22b85f2e85",
    "timestamp": "2023-07-27T00:59:06.000Z"
   },
-  {
+  "immortal/sound/machine_steam1.wav": {
    "bytes": 330762,
-   "path": "immortal/sound/machine_steam1.wav",
    "sha256": "4e4192b5e4c12efe8bc0623e286469592e60e33aaadd9b4d5cced93ab62606a0",
    "timestamp": "2024-05-29T12:45:32.000Z"
   },
-  {
+  "immortal/sound/machine_steam2.wav": {
    "bytes": 407594,
-   "path": "immortal/sound/machine_steam2.wav",
    "sha256": "325d71d27d3f140f81180386437657fc0c0b0cec815bfc972c5d198b89ad0d1d",
    "timestamp": "2024-05-29T12:45:18.000Z"
   },
-  {
+  "immortal/sound/machine_switch1.wav": {
    "bytes": 397942,
-   "path": "immortal/sound/machine_switch1.wav",
    "sha256": "4f6ae4524f5c2c3773ea35add05124f45c8ec36dca5299ecf220c5c0491368a1",
    "timestamp": "2024-05-29T12:44:50.000Z"
   },
-  {
+  "immortal/sound/machine_switch2.wav": {
    "bytes": 441438,
-   "path": "immortal/sound/machine_switch2.wav",
    "sha256": "1807ee379cc75d0b80d624ffbaa66daf0983a6524c3270aab8bf5ed5d42800d4",
    "timestamp": "2024-05-29T12:43:08.000Z"
   },
-  {
+  "immortal/sound/machine_teleport1.wav": {
    "bytes": 276932,
-   "path": "immortal/sound/machine_teleport1.wav",
    "sha256": "92f12f797c8e58373cadaa6f3393de357715e4bf544dc84743547b37b483078b",
    "timestamp": "2023-07-26T22:44:18.000Z"
   },
-  {
+  "immortal/sound/null.wav": {
    "bytes": 28300,
-   "path": "immortal/sound/null.wav",
    "sha256": "2d3a34bd365f8c9001bcc04f5c8ccff48de47a3ab866065437d881ea2a88a10f",
    "timestamp": "2022-04-20T11:10:24.000Z"
   },
-  {
+  "immortal/sound/occult_active1.wav": {
    "bytes": 1074378,
-   "path": "immortal/sound/occult_active1.wav",
    "sha256": "cb68ee1b0d5354fa746c128484e7ef9afbbaf70727e8922ae9a2e2a175ab680f",
    "timestamp": "2024-05-29T12:41:50.000Z"
   },
-  {
+  "immortal/sound/occult_active3.wav": {
    "bytes": 299466,
-   "path": "immortal/sound/occult_active3.wav",
    "sha256": "65dd43a57b93e7350705003374b4b55c2e9bd55635a4725a54e49ec9fbbec8c4",
    "timestamp": "2024-05-29T12:41:34.000Z"
   },
-  {
+  "immortal/sound/occult_active4.wav": {
    "bytes": 706290,
-   "path": "immortal/sound/occult_active4.wav",
    "sha256": "2fd70f5b526170cfd11d27b969f314b464e47fbbae0c8b6cae56ba6eaee5b218",
    "timestamp": "2024-05-29T12:41:22.000Z"
   },
-  {
+  "immortal/sound/occult_drone1.wav": {
    "bytes": 2216980,
-   "path": "immortal/sound/occult_drone1.wav",
    "sha256": "16958b3276893f50df87abe0d2ced1ff8ffd0cfc197c502ffd67450de9304a4e",
    "timestamp": "2024-05-29T12:40:40.000Z"
   },
-  {
+  "immortal/sound/occult_laugh1.wav": {
    "bytes": 477186,
-   "path": "immortal/sound/occult_laugh1.wav",
    "sha256": "2d87e643cf69efecbd195115b798a54256d20da854b1603b944753417ff1085b",
    "timestamp": "2023-07-16T11:26:52.000Z"
   },
-  {
+  "immortal/sound/occult_portalwhispers.wav": {
    "bytes": 3288894,
-   "path": "immortal/sound/occult_portalwhispers.wav",
    "sha256": "1418774bf4467c3857f89060908dd77b30cd7319697c3abe8c43c637dc8b15d4",
    "timestamp": "2024-06-21T22:14:48.000Z"
   },
-  {
+  "immortal/sound/plasexpl.wav": {
    "bytes": 54406,
-   "path": "immortal/sound/plasexpl.wav",
    "sha256": "961fb4304057542e630f7394dfbe5a0682b2eb1398abb7d312a712a178a5c75b",
    "timestamp": "2024-07-15T23:57:44.000Z"
   },
-  {
+  "immortal/sound/runekey.wav": {
    "bytes": 154850,
-   "path": "immortal/sound/runekey.wav",
    "sha256": "b93b5693313839fa8b07dcb33e2f73c10bf23b362e456a22a9d84a1ec2d52278",
    "timestamp": "2024-06-05T23:14:48.000Z"
   },
-  {
+  "immortal/sound/scream1.wav": {
    "bytes": 135674,
-   "path": "immortal/sound/scream1.wav",
    "sha256": "f5875323ffa9f7d0db3d690bc8b1fbfff820143c5aa2ab5ebc52496116eb3235",
    "timestamp": "2022-04-03T16:58:56.000Z"
   },
-  {
+  "immortal/sound/stone_door3.wav": {
    "bytes": 272570,
-   "path": "immortal/sound/stone_door3.wav",
    "sha256": "d551b0451f3fee3b69770cb9e4c2adde8f74d9e84630009cc125719a09bdbd6a",
    "timestamp": "2024-05-29T12:39:42.000Z"
   },
-  {
+  "immortal/sound/stone_smash2.wav": {
    "bytes": 135482,
-   "path": "immortal/sound/stone_smash2.wav",
    "sha256": "a17107bf0ff3c3a0c8806e937d0ae23d0f4432dc335a454a46e7ac7af8ba2720",
    "timestamp": "2024-05-29T12:38:48.000Z"
   },
-  {
+  "immortal/sound/weapon_railcharge1.wav": {
    "bytes": 280134,
-   "path": "immortal/sound/weapon_railcharge1.wav",
    "sha256": "dd15bd98743ce68c510a3985c2e755f4452d6108217a154636039243b87b237f",
    "timestamp": "2024-05-29T12:36:44.000Z"
   },
-  {
+  "immortal/sound/weapon_railfire1.wav": {
    "bytes": 221322,
-   "path": "immortal/sound/weapon_railfire1.wav",
    "sha256": "83753a3e666c97bc176829f28ebaf6db01c31bc1c0ce3b75760ae4e95c0d9aa1",
    "timestamp": "2024-05-29T12:35:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map has specific technical requirements, please see the included readme for details."
  ],

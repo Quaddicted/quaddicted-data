@@ -5,24 +5,22 @@
  ],
  "bytes": 1247863,
  "description": "Medium to large Egyptian temple based on Tronyn's \"Runezig\" map.",
- "files": [
-  {
+ "files": {
+  "FMB8.TXT": {
    "bytes": 3090,
-   "path": "FMB8.TXT",
    "sha256": "2768580241fdc1512cd6cf2fe1346059e7c7f5665ad93720f8f0179b09bbe1d6",
    "timestamp": "2000-12-02T11:18:02.000Z"
   },
-  {
+  "fmb8.bsp": {
    "bytes": 2907004,
-   "path": "fmb8.bsp",
    "sha256": "5a492e6901c22437178e19d68e7cd7caf53fba24b7a3ec823aaaeb30097afd58",
    "timestamp": "2000-12-02T11:16:54.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-12-02",
  "sha256": "db002144a727be2c9a4b309d59e821038d2bb3e2fb0436503a08913131a4315b",
  "tags": [

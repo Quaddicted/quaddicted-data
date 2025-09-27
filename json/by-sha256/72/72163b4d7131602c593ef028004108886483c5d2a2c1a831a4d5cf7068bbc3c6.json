@@ -7,132 +7,112 @@
   "alkaline>=1.20"
  ],
  "description": "Large techbase themed map using a variety of texture sets.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-22T01:16:32.000Z"
   },
-  {
+  "maps/zet_auriga.bsp": {
    "bytes": 16890076,
-   "path": "maps/zet_auriga.bsp",
    "sha256": "619f2239b4e03d11f110785f4aebddab092eedc9e22dfc95b3383724eb788945",
    "timestamp": "2023-12-22T01:06:16.000Z"
   },
-  {
+  "maps/zet_auriga.lit": {
    "bytes": 3914873,
-   "path": "maps/zet_auriga.lit",
    "sha256": "c2924e4b2da46c95edabca1ef7d2ded3241403102ac6d81570a2cca9daf1bdb7",
    "timestamp": "2023-12-22T01:06:16.000Z"
   },
-  {
+  "mapsrc/": {
    "bytes": 0,
-   "path": "mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-22T01:16:34.000Z"
   },
-  {
+  "mapsrc/zet_auriga.map": {
    "bytes": 25026938,
-   "path": "mapsrc/zet_auriga.map",
    "sha256": "279b8eb75f712267e57cfddef17f5ff5f9a6a290e23fc078c8d0fe564202633b",
    "timestamp": "2023-12-22T01:05:20.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-03T09:16:14.000Z"
   },
-  {
+  "music/track57.ogg": {
    "bytes": 7850386,
-   "path": "music/track57.ogg",
    "sha256": "22c34fcd131c572a5fa9cf0032b721fb9991d9877f716943b2a73d72ab02fc61",
    "timestamp": "2023-11-09T15:41:08.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-03T09:16:14.000Z"
   },
-  {
+  "sound/ambient/": {
    "bytes": 0,
-   "path": "sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-08T16:25:58.000Z"
   },
-  {
+  "sound/ambient/fan1.wav": {
    "bytes": 53404,
-   "path": "sound/ambient/fan1.wav",
    "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "sound/ambient/geig1.wav": {
    "bytes": 125236,
-   "path": "sound/ambient/geig1.wav",
    "sha256": "758b9817dfb6ec55c3748eaaa9fd42d17d95d742df451386d8d37727ae6991ed",
    "timestamp": "2023-10-04T18:31:42.000Z"
   },
-  {
+  "sound/ambient/geig2.wav": {
    "bytes": 76676,
-   "path": "sound/ambient/geig2.wav",
    "sha256": "ccdf5e0318a7ad3471da62ce00b52fb9d402b149a779291ffdb257a6a907bd3b",
    "timestamp": "2023-10-04T18:32:06.000Z"
   },
-  {
+  "sound/ambient/geig3.wav": {
    "bytes": 119350,
-   "path": "sound/ambient/geig3.wav",
    "sha256": "86045982fec65ac6ff395eefcfd40348adc246674b8f8b7d4aced440671494dc",
    "timestamp": "2023-10-04T18:32:26.000Z"
   },
-  {
+  "sound/ambient/geig4.wav": {
    "bytes": 226766,
-   "path": "sound/ambient/geig4.wav",
    "sha256": "27d5dc3c6b600711e56ea2a4b8d097c2d90d058345c36eac6d40616e2f8db974",
    "timestamp": "2023-10-04T18:32:42.000Z"
   },
-  {
+  "sound/ambient/lava1.wav": {
    "bytes": 926316,
-   "path": "sound/ambient/lava1.wav",
    "sha256": "41964be60ef167936d0ef74f47fdfa3c2b147f7ec1f5f26fbb312ee71be3a6bd",
    "timestamp": "2023-12-08T16:08:44.000Z"
   },
-  {
+  "sound/misc/": {
    "bytes": 0,
-   "path": "sound/misc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-03T09:16:14.000Z"
   },
-  {
+  "sound/misc/chatter.wav": {
    "bytes": 190760,
-   "path": "sound/misc/chatter.wav",
    "sha256": "59197f823b479c66c41163d82fed6dc13a715aef429b5e551ba80ca6f7c229fb",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "sound/misc/laseroff.wav": {
    "bytes": 67100,
-   "path": "sound/misc/laseroff.wav",
    "sha256": "a15f76266e830249d5cfc6ffc020833f84be1d66e25d25d657d0313be64656fb",
    "timestamp": "2023-06-18T19:42:30.000Z"
   },
-  {
+  "txt/": {
    "bytes": 0,
-   "path": "txt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-03T09:16:14.000Z"
   },
-  {
+  "txt/Outpost Auriga IV - Readme.txt": {
    "bytes": 17162,
-   "path": "txt/Outpost Auriga IV - Readme.txt",
    "sha256": "7895c2f658fff8fd733300e292f257a854ba2a1be2d60ec9a0530e69fd2c156f",
    "timestamp": "2023-12-10T09:23:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/alk1.2/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a>.",
   "May require a source port with increased limits / BSP2 support."

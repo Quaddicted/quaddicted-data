@@ -4,24 +4,22 @@
  ],
  "bytes": 4487802,
  "description": "Large industrial factory/refinery level with a few arcane elements.",
- "files": [
-  {
+ "files": {
+  "asl_1.bsp": {
    "bytes": 12594500,
-   "path": "asl_1.bsp",
    "sha256": "26878b421e8243500e2987087a71175a77aa79c8097e64065ef30c31d1c485dd",
    "timestamp": "2020-04-18T17:59:20.000Z"
   },
-  {
+  "asl_1.txt": {
    "bytes": 443,
-   "path": "asl_1.txt",
    "sha256": "10e5d01a14412afd82e5c4fc7292eb6fe2cbbb0821f0b1203112b84bc2ce15b1",
    "timestamp": "2020-04-18T18:06:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

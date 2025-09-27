@@ -7,26 +7,23 @@
   "zer>=1.0"
  ],
  "description": "Very large industrial/Zerbase level with great details and gameplay.",
- "files": [
-  {
+ "files": {
+  "DaMaul6.bsp": {
    "bytes": 2258448,
-   "path": "DaMaul6.bsp",
    "sha256": "42e461438b25099609c549d8d4d506ccfad56441ddbb133f4db831050d7c4051",
    "timestamp": "1999-06-18T13:56:22.000Z"
   },
-  {
+  "DaMaul6.txt": {
    "bytes": 4426,
-   "path": "DaMaul6.txt",
    "sha256": "b071445f1aad5d80969e1baa4f8cd0108f64dc43e5cfd719189cf4066b4cb853",
    "timestamp": "1999-06-18T13:58:20.000Z"
   },
-  {
+  "README1ST!.txt": {
    "bytes": 683,
-   "path": "README1ST!.txt",
    "sha256": "6f55d7a9a1339c00705424271adba5410925fd666e60b9f91c76caccd9d0fba8",
    "timestamp": "1999-06-18T15:13:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
@@ -34,7 +31,7 @@
    "/README1ST!.txt": "/zer/maps/DaMaul6_README1ST!.txt"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires the <a href=\"e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797\">Zerst\u00f6rer </a> mod to run as intended."
  ],

@@ -4,36 +4,32 @@
  ],
  "bytes": 1799110,
  "description": "Detailed remake of Quake's semi-stock map DM7: A small to medium-sized medieval fortress inside a canyon. The map source (in standard and WC format) is included.",
- "files": [
-  {
+ "files": {
+  "dm7rmx.bsp": {
    "bytes": 3330008,
-   "path": "dm7rmx.bsp",
    "sha256": "305cbe558d8c8db4cfb1099f2e22404493fe45162224b8b4272c3d329a60c901",
    "timestamp": "2012-05-07T23:36:36.000Z"
   },
-  {
+  "dm7rmx.map": {
    "bytes": 1833201,
-   "path": "dm7rmx.map",
    "sha256": "2ae2193b127f7162a0345ce390c18af92f1a046a0ce71e0e530fbdfb3f1da7e3",
    "timestamp": "2012-05-07T23:36:20.000Z"
   },
-  {
+  "dm7rmx.rmf": {
    "bytes": 7663641,
-   "path": "dm7rmx.rmf",
    "sha256": "0c274917a4df7564b113acb9711cb3d3e7ee586a8b800f8d6e88a869088f3a65",
    "timestamp": "2012-05-07T23:36:14.000Z"
   },
-  {
+  "dm7rmx.txt": {
    "bytes": 14303,
-   "path": "dm7rmx.txt",
    "sha256": "ba3e4b790ac67e5fdfaa4bc0ac90df9e0f2e8e0b3d81eb9a1e86e33ffed80f34",
    "timestamp": "2012-05-07T23:47:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2012-05-07",
  "sha256": "5c547dfdff16a30d0df54e159f0e87903eb1bfbbca837073342ee4fac5f50d41",
  "tags": [

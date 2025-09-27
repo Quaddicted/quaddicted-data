@@ -7,18 +7,17 @@
   "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5"
  ],
  "description": "Small, unfinished base map.",
- "files": [
-  {
+ "files": {
+  "DM1M1.bsp": {
    "bytes": 1209644,
-   "path": "DM1M1.bsp",
    "sha256": "96f8a77c198edf44886930c393d6a15061857619d5dc3f026328d66e13b84720",
    "timestamp": "1998-10-26T16:52:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/bad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
  ],

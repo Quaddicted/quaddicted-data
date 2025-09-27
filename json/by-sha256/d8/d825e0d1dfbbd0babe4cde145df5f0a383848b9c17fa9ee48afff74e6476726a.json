@@ -4,24 +4,22 @@
  ],
  "bytes": 502008,
  "description": "A pyramid.",
- "files": [
-  {
+ "files": {
+  "PYRAMID.BSP": {
    "bytes": 1164816,
-   "path": "PYRAMID.BSP",
    "sha256": "cbd8f256ed2887fc237eecd17c73cce386e253a0e3c29cda7c7963c324d15ba7",
    "timestamp": "1996-12-30T10:04:48.000Z"
   },
-  {
+  "PYRAMID.TXT": {
    "bytes": 3062,
-   "path": "PYRAMID.TXT",
    "sha256": "1daf779b175ad8326852d3eca3d3da4cbf8a68344cc456a8a3f852795594bde6",
    "timestamp": "1996-12-31T09:03:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-31",
  "sha256": "d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a",
  "tags": [

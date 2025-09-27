@@ -11,72 +11,62 @@
  ],
  "bytes": 133212165,
  "description": "Finnish mappers episode jam 2, the sequel to <a href=\"964c7f1e6f20f04d32cc075ca70e6fdb28913875b8861d408e52b732643742ed\">Realm of the Lost</a>: seven large maps in varying themes, based on the <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a> mod (included). It also features four new monsters, a new boss, a few new sounds and music tracks.",
- "files": [
-  {
+ "files": {
+  "changelog.txt": {
    "bytes": 160,
-   "path": "changelog.txt",
    "sha256": "dc80604f8a4784a5557aaaa1383de89843cf6b671a6c54902480957c1cbdbd1f",
    "timestamp": "2021-03-01T00:28:28.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 277892009,
-   "path": "pak0.pak",
    "sha256": "5c5397d74f9480b85911a94593559fc38a4a7be267d267164efef7113096e181",
    "timestamp": "2021-03-01T14:38:52.000Z"
   },
-  {
+  "smej2.txt": {
    "bytes": 4670,
-   "path": "smej2.txt",
    "sha256": "77bf3ed2a8915f2ffe526a3dc66e05321a544f49bff6b05553c194718efa0648",
    "timestamp": "2021-02-27T13:27:54.000Z"
   },
-  {
+  "smej2end.txt": {
    "bytes": 1773,
-   "path": "smej2end.txt",
    "sha256": "3b7c9b94c2fd0eb667d99dc4d058e17d79feb4d09224864016014760c0edbe3f",
    "timestamp": "2021-02-16T22:11:04.000Z"
   },
-  {
+  "smej2m1.txt": {
    "bytes": 2562,
-   "path": "smej2m1.txt",
    "sha256": "9649034f688b38c28bd1f57e136323b0792fc2f17ca5611545a24b436def098d",
    "timestamp": "2021-01-13T17:47:02.000Z"
   },
-  {
+  "smej2m2.txt": {
    "bytes": 2011,
-   "path": "smej2m2.txt",
    "sha256": "f43f4bc9bb8a8b3dac3e6388d224f3bd2de84befdbae9c6c10dff91aa4e8355e",
    "timestamp": "2021-02-27T01:27:02.000Z"
   },
-  {
+  "smej2m3.txt": {
    "bytes": 2009,
-   "path": "smej2m3.txt",
    "sha256": "ed31c867e9315f4fb669d3a03b4917e07d95e418f1811572079a57e75e5daaf2",
    "timestamp": "2021-02-23T21:33:40.000Z"
   },
-  {
+  "smej2m4.txt": {
    "bytes": 2301,
-   "path": "smej2m4.txt",
    "sha256": "7ba2fc3b9f7015f085be5d3b3cff1e8f677fda35660664ac8932426d10e2947b",
    "timestamp": "2021-02-27T13:38:12.000Z"
   },
-  {
+  "smej2m5.txt": {
    "bytes": 1982,
-   "path": "smej2m5.txt",
    "sha256": "1863e5dd9d4f9e5b0e0597665a4a58e667e58b221daa0eb57e9a8c1af3ce1dc2",
    "timestamp": "2021-01-07T16:33:06.000Z"
   },
-  {
+  "smej2start.txt": {
    "bytes": 1890,
-   "path": "smej2start.txt",
    "sha256": "5fddb30235d4658ae14309f4a4ed87ac51a1b81decbcc07f2513caeb75e9cd6d",
    "timestamp": "2020-12-18T02:42:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/smej2/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 275398,
  "description": "Medium sized Medieval map.",
- "files": [
-  {
+ "files": {
+  "DARKAGES.BSP": {
    "bytes": 657784,
-   "path": "DARKAGES.BSP",
    "sha256": "d3e752f95e8566d8a090508974d46d26c2f9351cb2557f8dfabe2781f74160ae",
    "timestamp": "1998-12-31T16:12:02.000Z"
   },
-  {
+  "DARKAGES.TXT": {
    "bytes": 4412,
-   "path": "DARKAGES.TXT",
    "sha256": "72b51a15d277a4a1aba5078bc3e015db431766c1157ef51c993300e2d5e2299f",
    "timestamp": "1996-12-28T18:15:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-28",
  "sha256": "74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c",
  "tags": [

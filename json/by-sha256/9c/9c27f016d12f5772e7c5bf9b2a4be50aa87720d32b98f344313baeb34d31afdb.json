@@ -4,150 +4,127 @@
  ],
  "bytes": 5536003,
  "description": "7-map pack including new versions of some maps previously released by the author. Contains various new weapons, monsters and mods such as a Chase Cam, flashlight/flares and environmental effects.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 13543634,
-   "path": "Pak0.pak",
    "sha256": "ca243d0a39b179c5b9850fa1563bf5ea52335f4c3c193a8dce88aac055539d9b",
    "timestamp": "1997-11-08T22:15:46.000Z"
   },
-  {
+  "ambient.txt": {
    "bytes": 840,
-   "path": "ambient.txt",
    "sha256": "7cf7dd0049c8dba5a3d0e03568778663ecb340eaca5370ece6f8fcb9bf9d7ece",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "chasecam.txt": {
    "bytes": 5940,
-   "path": "chasecam.txt",
    "sha256": "6181219189f19f79f2c94a18300857edf6f205192c262be388464ba841477d0c",
    "timestamp": "1997-10-22T00:23:56.000Z"
   },
-  {
+  "choke.txt": {
    "bytes": 5960,
-   "path": "choke.txt",
    "sha256": "d7a59d39ac95c5fc5ab23da316f63fd1da9f056e71bbe30bc9f124fcc9cea861",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "cranked.txt": {
    "bytes": 4080,
-   "path": "cranked.txt",
    "sha256": "80bd1f1fcb5b6464f80322f2c34faec0219536b63db9636550246f12134e358c",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "deadstuf.txt": {
    "bytes": 1749,
-   "path": "deadstuf.txt",
    "sha256": "508bf7ae49da9ef1b3fbb05ba74f80c11f66abfc385ffda15d584126f9258441",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "dragons.txt": {
    "bytes": 7446,
-   "path": "dragons.txt",
    "sha256": "338003d21a40fbf8a31f760620a07e92b6b1615fac47656f9c5aca147b727ef6",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "eject.txt": {
    "bytes": 2244,
-   "path": "eject.txt",
    "sha256": "04ff84fb7680f984d5e5cbc9f0eb568c16ec3582fcec0f55abfb079632efc506",
    "timestamp": "1997-10-22T00:23:56.000Z"
   },
-  {
+  "flares.txt": {
    "bytes": 2649,
-   "path": "flares.txt",
    "sha256": "32d94a9b9a6022ced1c86fd98e1b3516eb7a027b6753f025f7eff9869ef1d151",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "gibfount.txt": {
    "bytes": 2173,
-   "path": "gibfount.txt",
    "sha256": "6b41bbd6f072c9b8ebfd0afb1baa776c4e5b0f3ba5c635cefbe11c1f456e90da",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "gyrobot.txt": {
    "bytes": 15522,
-   "path": "gyrobot.txt",
    "sha256": "b19185538e9433b690dfaa5175501790d2f4ce8c32220e822069cccd51749817",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "idglobe2.txt": {
    "bytes": 1248,
-   "path": "idglobe2.txt",
    "sha256": "b299dc471f61b6964040d3534bf47e617e0e223e83abde059fc73f1c17066554",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "ogresaw.txt": {
    "bytes": 2549,
-   "path": "ogresaw.txt",
    "sha256": "0d27a6168b50572fa6040ed79a8f039959d4a5242a519622ef0a3915ff537e3a",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "plsrfl20.txt": {
    "bytes": 2367,
-   "path": "plsrfl20.txt",
    "sha256": "aed7841a1f02193f61a24d4da31dd9e775ba386a3ef5e77fd1084bb022873e69",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "rabbit.txt": {
    "bytes": 927,
-   "path": "rabbit.txt",
    "sha256": "e68f8bc25bcf4c83067a4680884a0beb510d29d96b85154c125ede83ad03ab9e",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "rain.txt": {
    "bytes": 2116,
-   "path": "rain.txt",
    "sha256": "2a4a797b2dbebc6a577177b4ed2983dc0b4a870f482d9a1d8524556642402be7",
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
-  {
+  "skinz.txt": {
    "bytes": 3918,
-   "path": "skinz.txt",
    "sha256": "de63038a0ebfc912b8ec00348326fdb53aaadf914481cfe5ca74aa19f9361947",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "smlevel.txt": {
    "bytes": 15831,
-   "path": "smlevel.txt",
    "sha256": "31e6b7083c0ca5f8c2389a723c42ee99d135000316dcdb72c53c9e3176755a01",
    "timestamp": "1997-11-09T09:56:54.000Z"
   },
-  {
+  "smlevels.cfg": {
    "bytes": 433,
-   "path": "smlevels.cfg",
    "sha256": "fe76218e5b3b3b4b74c370ee0483a37f2c893874edfdffb31f1cb20ead69ee65",
    "timestamp": "1997-11-08T06:43:16.000Z"
   },
-  {
+  "snakeman.txt": {
    "bytes": 4744,
-   "path": "snakeman.txt",
    "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "spider.txt": {
    "bytes": 2604,
-   "path": "spider.txt",
    "sha256": "647a43b615b99837464f5a92f188edef7d08506f0d897cece2d1192aff65c2ba",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "walls01.txt": {
    "bytes": 3093,
-   "path": "walls01.txt",
    "sha256": "d7c7a2b26ca415635abdb06c983eae75319924b7ec91ead6e0751ae174b69c8e",
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
-  {
+  "zer.txt": {
    "bytes": 11251,
-   "path": "zer.txt",
    "sha256": "f88d82cb989d8acebe31a81e4a1adf54aa60d7cfc6c7e82c7b9b3eae3f09a54a",
    "timestamp": "1997-10-22T00:23:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/smlevel/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-09",
  "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "tags": [

@@ -7,24 +7,22 @@
   "drake>=1.0"
  ],
  "description": "Two medium-sized experimental vertical maps with a unique flesh-temple theme and very uncompromising low-gravity gameplay.",
- "files": [
-  {
+ "files": {
+  "nyarlathotep.txt": {
    "bytes": 1134,
-   "path": "nyarlathotep.txt",
    "sha256": "614a767ec2a27730e91f14a486724e69b9b68c23bc8bbd48693c2791f05f676e",
    "timestamp": "2013-12-08T17:29:42.000Z"
   },
-  {
+  "pak4.pak": {
    "bytes": 15716108,
-   "path": "pak4.pak",
    "sha256": "81b67f79a40713d296e27a2e9f9c89418cc345cfb88ac74c9c8174f24e7e1d76",
    "timestamp": "2013-12-08T17:28:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/wicked/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require <a href=\"http://quaddicted.com/filebase/drake290111.zip\">Drake</a> and an engine port with BSP2 support."
  ],

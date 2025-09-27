@@ -4,36 +4,32 @@
  ],
  "bytes": 10279093,
  "description": "Large medieval city at nighttime with a strong focus on exploration and route choices. It comes with custom medieval-style items. The map source is included in the PAK.",
- "files": [
-  {
+ "files": {
+  "dont_readme.txt": {
    "bytes": 3761,
-   "path": "dont_readme.txt",
    "sha256": "4b7eaad4c36b2a10018d2a72e645661cf0e6ea4686ae8c85314d5b8dfe861757",
    "timestamp": "2013-12-18T13:34:00.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 30963231,
-   "path": "pak0.pak",
    "sha256": "76fff155c3b163f272752c039012a48c6e035ddf74242b4a6a1ccb1f00f4b7bd",
    "timestamp": "2013-12-19T00:30:18.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 273011,
-   "path": "pak1.pak",
    "sha256": "b1f60d3240e39106bef8e314f045e84c1bb26120900a4c41c33865707a98fe99",
    "timestamp": "2013-12-19T00:30:22.000Z"
   },
-  {
+  "zendar1d_readme.txt": {
    "bytes": 12564,
-   "path": "zendar1d_readme.txt",
    "sha256": "493f0fae885f37f79a4b36471c1bfb21b4907cec3137d931d2014e28410f9973",
    "timestamp": "2013-12-18T22:00:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/zendar/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

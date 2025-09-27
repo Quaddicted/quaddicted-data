@@ -4,30 +4,27 @@
  ],
  "bytes": 777656,
  "description": "Short, abstract gothic-themed map based in a castle.",
- "files": [
-  {
+ "files": {
+  "intruder.bsp": {
    "bytes": 1839588,
-   "path": "intruder.bsp",
    "sha256": "4fc66035d9e5fece47230a8611b97483dc0fc1a1f40f3aa143f2d37409c5276d",
    "timestamp": "2024-08-29T00:09:46.000Z"
   },
-  {
+  "intruder.pts": {
    "bytes": 17580,
-   "path": "intruder.pts",
    "sha256": "8271b34b72c79c6d1a8e2ea0adb7c6a40fda2720fd1bfd3b29e86d01bfc97d1e",
    "timestamp": "2024-08-28T23:50:58.000Z"
   },
-  {
+  "intruder.txt": {
    "bytes": 398,
-   "path": "intruder.txt",
    "sha256": "51a830ed1cb165ea591387cc8fb61fc44a96f9b8d1bf15ca524465566d5fc1c2",
    "timestamp": "2024-08-29T00:15:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-08-29",
  "sha256": "f01bd4cbd7753871e456fd754d583f81b20adb7f468f92aa6adf0f18999565f2",
  "tags": [

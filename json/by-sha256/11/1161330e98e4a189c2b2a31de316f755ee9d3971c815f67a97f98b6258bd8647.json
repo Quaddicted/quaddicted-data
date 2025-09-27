@@ -4,24 +4,22 @@
  ],
  "bytes": 1181401,
  "description": "Medium sized based map, escape from prison theme.",
- "files": [
-  {
+ "files": {
+  "actaltrz.bsp": {
    "bytes": 2868844,
-   "path": "actaltrz.bsp",
    "sha256": "b355aec62854e82b18f066f7c5e88da04642ec94d5b77597466a1ad17018a15b",
    "timestamp": "1998-01-24T11:10:30.000Z"
   },
-  {
+  "actaltrz.txt": {
    "bytes": 3745,
-   "path": "actaltrz.txt",
    "sha256": "eb9b1c32e7ba62ca8f0acfa4cdfea821643455aa209ac2eee7eed4db20b82056",
    "timestamp": "1998-01-24T11:04:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-01-24",
  "sha256": "1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647",
  "tags": [

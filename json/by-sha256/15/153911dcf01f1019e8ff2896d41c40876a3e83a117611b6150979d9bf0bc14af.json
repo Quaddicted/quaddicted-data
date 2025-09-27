@@ -4,24 +4,22 @@
  ],
  "bytes": 605641,
  "description": "Small to medium-sized red/blue brick level with some cave bit at the end.",
- "files": [
-  {
+ "files": {
+  "brt08q1.bsp": {
    "bytes": 1484272,
-   "path": "brt08q1.bsp",
    "sha256": "af91c972f092a140503578f4932db03a6f6415ec44130e0250ab2ffb70d25244",
    "timestamp": "1999-04-06T15:45:18.000Z"
   },
-  {
+  "brt08q1.txt": {
    "bytes": 1820,
-   "path": "brt08q1.txt",
    "sha256": "e22dd3b23fbb14391e2ad0ed65acbc857c871ce26cb3910e1717ee2d46ef1c0a",
    "timestamp": "2002-01-22T01:34:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-01-22",
  "sha256": "153911dcf01f1019e8ff2896d41c40876a3e83a117611b6150979d9bf0bc14af",
  "tags": [

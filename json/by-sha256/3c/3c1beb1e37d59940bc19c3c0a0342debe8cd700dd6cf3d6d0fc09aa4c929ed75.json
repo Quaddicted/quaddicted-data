@@ -4,24 +4,22 @@
  ],
  "bytes": 353708,
  "description": "Medium sized, plain Wizard map.",
- "files": [
-  {
+ "files": {
+  "sgc4.bsp": {
    "bytes": 789388,
-   "path": "sgc4.bsp",
    "sha256": "cd7815c98d480d6e73be6ab5dba31c045daf64d700cad683016061c5a4db1777",
    "timestamp": "1996-09-15T22:08:10.000Z"
   },
-  {
+  "sgc4.txt": {
    "bytes": 2130,
-   "path": "sgc4.txt",
    "sha256": "3786a476df30c2b3b4f5a82a38ec85806204d6a068778aa9f56ed41a0cfa1e56",
    "timestamp": "1996-09-15T22:11:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Somewhat of a sequel to <a href=\"21008f010dbda603c944afb8e3bd498c467443340c2d62ff367fe8401e32c70a\">sgc3</a>."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 3557361,
  "description": "Two large, detailed Base levels with a story, some new textures, skins and sounds, and nasty cyborg enforcers, along with a few other additions. The author encourages COOP play, too.",
- "files": [
-  {
+ "files": {
+  "MEXX10.TXT": {
    "bytes": 25556,
-   "path": "MEXX10.TXT",
    "sha256": "286c308b09e96cbd4109620f4ffb343dd13d5da7cf24c18beddfb8965f03c03d",
    "timestamp": "1997-12-10T14:45:34.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 7197455,
-   "path": "PAK0.PAK",
    "sha256": "bdab2f00c5338bc20fdc63e0c4f6bdcfdcc772c91d811a1f7d0075d60ebbabe9",
    "timestamp": "1997-12-10T14:36:40.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/mexx10/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "The built-in unzip tool in Windows seems to struggle with this archive. You can use the free <a href=\"http://7-zip.org/\">7-zip</a> to unpack."
  ],

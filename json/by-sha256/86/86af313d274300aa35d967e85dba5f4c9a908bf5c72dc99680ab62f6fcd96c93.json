@@ -4,42 +4,37 @@
  ],
  "bytes": 6984482,
  "description": "Large metal/runic industrial slime temple. The map source is included.",
- "files": [
-  {
+ "files": {
+  "putrid.bsp": {
    "bytes": 13329084,
-   "path": "putrid.bsp",
    "sha256": "8bbf32b663b10b78855f4d8eb8a1c54bbe4a4bcc9e7f50817c7b438f6ecec7e4",
    "timestamp": "2021-08-02T23:29:40.000Z"
   },
-  {
+  "putrid.lit": {
    "bytes": 4112960,
-   "path": "putrid.lit",
    "sha256": "d7bc2411fcf0343fc1e86a3554f0a0e0dce63a26f2c2165546c1385236a3f674",
    "timestamp": "2021-08-02T23:29:40.000Z"
   },
-  {
+  "putrid.map": {
    "bytes": 7560216,
-   "path": "putrid.map",
    "sha256": "fb82627daa1ebea30a07159276d7c31dd8235cbe31d4c9f2cd196a701650fe26",
    "timestamp": "2021-08-02T23:28:54.000Z"
   },
-  {
+  "putrid.pts": {
    "bytes": 141581,
-   "path": "putrid.pts",
    "sha256": "90dae3f8a09bed5914ca7ac1e04be93d29a97f07d3e7612cc76a91ac1a18b2aa",
    "timestamp": "2021-06-12T22:47:50.000Z"
   },
-  {
+  "putrid.txt.txt": {
    "bytes": 292,
-   "path": "putrid.txt.txt",
    "sha256": "73832f7063ced89f6ba340cf773adb8dc40ac6337dcb3bc0da7e89cb7c4dbf19",
    "timestamp": "2021-08-02T23:50:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "An updated (fullvis) version is available <a href=\"https://www.quaddicted.com/filebase/putrid_fullvis.zip\">here</a>."
  ],

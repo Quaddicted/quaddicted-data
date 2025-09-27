@@ -4,396 +4,332 @@
  ],
  "bytes": 62410063,
  "description": "Large brutalist themed map, an expanded version of the author's <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a> entry with many expanded areas and very high monster counts. Built on the Alkaline devkit (included).",
- "files": [
-  {
+ "files": {
+  "z374/": {
    "bytes": 0,
-   "path": "z374/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-23T23:41:34.000Z"
   },
-  {
+  "z374/gfx/": {
    "bytes": 0,
-   "path": "z374/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-13T07:13:12.000Z"
   },
-  {
+  "z374/gfx/env/": {
    "bytes": 0,
-   "path": "z374/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-13T22:41:18.000Z"
   },
-  {
+  "z374/gfx/env/sky18_bk.tga": {
    "bytes": 440390,
-   "path": "z374/gfx/env/sky18_bk.tga",
    "sha256": "db9611181cf67ff5960647e6e2b8a62289abd7235a90c0cad046ad079bf604f3",
    "timestamp": "2023-10-18T17:26:28.000Z"
   },
-  {
+  "z374/gfx/env/sky18_dn.tga": {
    "bytes": 8731,
-   "path": "z374/gfx/env/sky18_dn.tga",
    "sha256": "5b7f9393f7677e6f27f4b24700aaf0c7e0f970d9f26f1dfb96dd06fe55d29d5b",
    "timestamp": "2023-10-18T17:27:48.000Z"
   },
-  {
+  "z374/gfx/env/sky18_ft.tga": {
    "bytes": 501105,
-   "path": "z374/gfx/env/sky18_ft.tga",
    "sha256": "d76b6ffd6cdd687d2dddc58b0420404cb02d19ed6d37b13aeb034645ece9dc0b",
    "timestamp": "2023-10-18T17:28:12.000Z"
   },
-  {
+  "z374/gfx/env/sky18_lf.tga": {
    "bytes": 443602,
-   "path": "z374/gfx/env/sky18_lf.tga",
    "sha256": "b4717feb24be1cc4a38129b45c358f61179c6d64262704e2f0cd2b1b7899505b",
    "timestamp": "2023-10-18T17:28:40.000Z"
   },
-  {
+  "z374/gfx/env/sky18_rt.tga": {
    "bytes": 443457,
-   "path": "z374/gfx/env/sky18_rt.tga",
    "sha256": "5e05cd96bc33f2054f2f830c1f28d2d6d72874503a5c4a50c8548d14d4d1c5ad",
    "timestamp": "2023-10-18T17:27:28.000Z"
   },
-  {
+  "z374/gfx/env/sky18_up.tga": {
    "bytes": 404031,
-   "path": "z374/gfx/env/sky18_up.tga",
    "sha256": "b53de02438b3c3c89749503522ad6be0c7f1036b12654c757229ae2e3e5307d0",
    "timestamp": "2023-10-18T17:26:54.000Z"
   },
-  {
+  "z374/maps/": {
    "bytes": 0,
-   "path": "z374/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-23T23:41:32.000Z"
   },
-  {
+  "z374/maps/zet_z374.bsp": {
    "bytes": 53203728,
-   "path": "z374/maps/zet_z374.bsp",
    "sha256": "63470680c54fb8ab6b84d9ddb416eeb3bfd7b118f33f80e29d28cd263c43d978",
    "timestamp": "2024-06-23T23:24:36.000Z"
   },
-  {
+  "z374/maps/zet_z374.lit": {
    "bytes": 8237204,
-   "path": "z374/maps/zet_z374.lit",
    "sha256": "c793022ed8a4f1ee4a6dc6bea3aa160c1fb0dff0cf8aeb34e6061061207b32f7",
    "timestamp": "2024-06-23T23:24:36.000Z"
   },
-  {
+  "z374/mapsrc/": {
    "bytes": 0,
-   "path": "z374/mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-06-23T23:41:34.000Z"
   },
-  {
+  "z374/mapsrc/zet_z374.map": {
    "bytes": 21081753,
-   "path": "z374/mapsrc/zet_z374.map",
    "sha256": "b0e6e691d8d0971958f8b0c5871f6e1c573eabbbc1ed1e64d73c5dff8da560df",
    "timestamp": "2024-06-23T23:08:28.000Z"
   },
-  {
+  "z374/models/": {
    "bytes": 0,
-   "path": "z374/models/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T21:36:30.000Z"
   },
-  {
+  "z374/models/zetabyt/": {
    "bytes": 0,
-   "path": "z374/models/zetabyt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T21:36:30.000Z"
   },
-  {
+  "z374/models/zetabyt/misc_candle1.mdl": {
    "bytes": 19700,
-   "path": "z374/models/zetabyt/misc_candle1.mdl",
    "sha256": "e8c8e2d8a8901e67b68bcb63b3121e9209153cb43257b54bca4a6814ed718202",
    "timestamp": "2023-12-11T08:45:04.000Z"
   },
-  {
+  "z374/models/zetabyt/misc_candle2.mdl": {
    "bytes": 19700,
-   "path": "z374/models/zetabyt/misc_candle2.mdl",
    "sha256": "2dcf8e2c3ae1d1d361ac32d22000b1cb168398b7dfbd0e691b4519317e6708cd",
    "timestamp": "2023-12-11T08:45:04.000Z"
   },
-  {
+  "z374/models/zetabyt/misc_candle3.mdl": {
    "bytes": 19700,
-   "path": "z374/models/zetabyt/misc_candle3.mdl",
    "sha256": "97e5a4179934c6912c1414bfefc8f104ff3b2c5a4cbfeb9e8a8c2f0dd88d91c1",
    "timestamp": "2023-12-11T08:45:04.000Z"
   },
-  {
+  "z374/models/zetabyt/misc_deadtree.mdl": {
    "bytes": 195728,
-   "path": "z374/models/zetabyt/misc_deadtree.mdl",
    "sha256": "d267db8cfc35b01430590cec643570b38f8df5872c9c3e43df31dc0f3a954e5b",
    "timestamp": "2023-10-03T23:37:06.000Z"
   },
-  {
+  "z374/models/zetabyt/misc_tree.mdl": {
    "bytes": 120248,
-   "path": "z374/models/zetabyt/misc_tree.mdl",
    "sha256": "888eca3c464ac068c7cdc5d7cf8f67fbcc70eb13c0079202a4f8d347f5f3bcd3",
    "timestamp": "2023-10-03T23:37:06.000Z"
   },
-  {
+  "z374/models/zetabyt/misc_tree2.mdl": {
    "bytes": 404432,
-   "path": "z374/models/zetabyt/misc_tree2.mdl",
    "sha256": "f14f3b046b58e5485afd11d396b4d358eb0598ea8cca1cbc6a70a8e629aee3f3",
    "timestamp": "2023-10-03T23:37:06.000Z"
   },
-  {
+  "z374/music/": {
    "bytes": 0,
-   "path": "z374/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-16T04:39:04.000Z"
   },
-  {
+  "z374/music/track86.ogg": {
    "bytes": 5309550,
-   "path": "z374/music/track86.ogg",
    "sha256": "5be4d0a09aae136cc20ed44336472c0911acd48f9b138243a9d1c8732c6927a8",
    "timestamp": "2023-12-16T04:39:04.000Z"
   },
-  {
+  "z374/pak0.pak": {
    "bytes": 36837240,
-   "path": "z374/pak0.pak",
    "sha256": "9afa4369917a8deab694ec93888ab19a36032b6502308d87d8493f14de218041",
    "timestamp": "2024-05-30T21:39:34.000Z"
   },
-  {
+  "z374/progs/": {
    "bytes": 0,
-   "path": "z374/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T21:36:30.000Z"
   },
-  {
+  "z374/progs/zetabyt/": {
    "bytes": 0,
-   "path": "z374/progs/zetabyt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T21:36:30.000Z"
   },
-  {
+  "z374/progs/zetabyt/key_base.mdl": {
    "bytes": 54436,
-   "path": "z374/progs/zetabyt/key_base.mdl",
    "sha256": "fb25488fa2fc16c7c4df260a20fd905a821607a675fd0907a6e65f9d534fd367",
    "timestamp": "2024-05-17T20:39:06.000Z"
   },
-  {
+  "z374/progs/zetabyt/misc_stool.mdl": {
    "bytes": 85612,
-   "path": "z374/progs/zetabyt/misc_stool.mdl",
    "sha256": "12914ff8acc41ef1656aef291edef6d3b0975e994808b8e4e921edcc4927e517",
    "timestamp": "2024-05-17T20:39:16.000Z"
   },
-  {
+  "z374/progs/zetabyt/misc_turbine.mdl": {
    "bytes": 53615,
-   "path": "z374/progs/zetabyt/misc_turbine.mdl",
    "sha256": "57cf73dbf14b5b22795033f5b597b30b978aeb6ee037e09648d0cebd029f987e",
    "timestamp": "2024-05-17T20:39:26.000Z"
   },
-  {
+  "z374/progs/zetabyt/misc_workbench.mdl": {
    "bytes": 87092,
-   "path": "z374/progs/zetabyt/misc_workbench.mdl",
    "sha256": "89cb978aaabc4372bacc88ce577c9aefa2a5a4597aada45aa499861150bfe07e",
    "timestamp": "2024-05-17T20:39:30.000Z"
   },
-  {
+  "z374/progs/zetabyt/player.mdl": {
    "bytes": 273808,
-   "path": "z374/progs/zetabyt/player.mdl",
    "sha256": "382ed83ac6fca7b41f5f0c4e0f06683a2bb0ac6259ad4af9d7cca12c41967bcd",
    "timestamp": "2024-05-17T20:40:12.000Z"
   },
-  {
+  "z374/sound/": {
    "bytes": 0,
-   "path": "z374/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-13T07:13:12.000Z"
   },
-  {
+  "z374/sound/zetabyt/": {
    "bytes": 0,
-   "path": "z374/sound/zetabyt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-13T07:13:12.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/": {
    "bytes": 0,
-   "path": "z374/sound/zetabyt/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-13T07:13:12.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/cheekbreek.wav": {
    "bytes": 3256524,
-   "path": "z374/sound/zetabyt/ambient/cheekbreek.wav",
    "sha256": "aac25db07e5678a5c6a40e30e541b53145ce5ac3e096f2ec665f41b86c93ee30",
    "timestamp": "2023-10-02T22:31:00.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/flutemet.wav": {
    "bytes": 3125562,
-   "path": "z374/sound/zetabyt/ambient/flutemet.wav",
    "sha256": "810024e953a5e857aed29a02f471ed761cf9ab159e55a2b95bf54d8ea3cc2758",
    "timestamp": "2023-10-02T20:42:58.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/geig1.wav": {
    "bytes": 125236,
-   "path": "z374/sound/zetabyt/ambient/geig1.wav",
    "sha256": "758b9817dfb6ec55c3748eaaa9fd42d17d95d742df451386d8d37727ae6991ed",
    "timestamp": "2023-10-04T18:31:42.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/geig2.wav": {
    "bytes": 76676,
-   "path": "z374/sound/zetabyt/ambient/geig2.wav",
    "sha256": "ccdf5e0318a7ad3471da62ce00b52fb9d402b149a779291ffdb257a6a907bd3b",
    "timestamp": "2023-10-04T18:32:06.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/geig3.wav": {
    "bytes": 119350,
-   "path": "z374/sound/zetabyt/ambient/geig3.wav",
    "sha256": "86045982fec65ac6ff395eefcfd40348adc246674b8f8b7d4aced440671494dc",
    "timestamp": "2023-10-04T18:32:26.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/geig4.wav": {
    "bytes": 226766,
-   "path": "z374/sound/zetabyt/ambient/geig4.wav",
    "sha256": "27d5dc3c6b600711e56ea2a4b8d097c2d90d058345c36eac6d40616e2f8db974",
    "timestamp": "2023-10-04T18:32:42.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/guitar21.wav": {
    "bytes": 3057874,
-   "path": "z374/sound/zetabyt/ambient/guitar21.wav",
    "sha256": "2dd5aa164659c0db7f4da1fd221304117b200b0935b45ed81f0caa52abfaabcd",
    "timestamp": "2023-10-02T20:42:32.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/gurza.wav": {
    "bytes": 4745650,
-   "path": "z374/sound/zetabyt/ambient/gurza.wav",
    "sha256": "4a01c786027f4ec53b8984fc72c1349321a6b85eb190132ef848ca823496d902",
    "timestamp": "2023-10-10T18:19:46.000Z"
   },
-  {
+  "z374/sound/zetabyt/ambient/spooknoise.wav": {
    "bytes": 771210,
-   "path": "z374/sound/zetabyt/ambient/spooknoise.wav",
    "sha256": "e5afe98125d27fcb994b836103ad9d6367f01204ea50eb4869ef3dd317ece454",
    "timestamp": "2023-10-02T21:24:44.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/": {
    "bytes": 0,
-   "path": "z374/sound/zetabyt/trigger/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-28T06:21:54.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/biomoan.wav": {
    "bytes": 191376,
-   "path": "z374/sound/zetabyt/trigger/biomoan.wav",
    "sha256": "5d51de2774457293993c758ea6df29bb3c1a99e712cce4f979b6c723f2debac0",
    "timestamp": "2023-12-13T07:06:12.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/biomoan2.wav": {
    "bytes": 257592,
-   "path": "z374/sound/zetabyt/trigger/biomoan2.wav",
    "sha256": "c212c980b324815628cf13726d4a9f9b8dfb301d3b9e65cf9f3c542acfbe4b1d",
    "timestamp": "2023-12-13T07:06:24.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/bulkopen.wav": {
    "bytes": 103086,
-   "path": "z374/sound/zetabyt/trigger/bulkopen.wav",
    "sha256": "bf4831b81a9c546020d942bd67f015be16225e7f9e6bfee5374d1bb4bf211cce",
    "timestamp": "2024-01-27T16:18:44.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/freezerknock.wav": {
    "bytes": 117802,
-   "path": "z374/sound/zetabyt/trigger/freezerknock.wav",
    "sha256": "e300e45f4981e27c891d96d7e1bec5f1f53cdfaab908055ef7c4eeeced6a91ea",
    "timestamp": "2023-10-02T20:55:40.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/gatesknock.wav": {
    "bytes": 70714,
-   "path": "z374/sound/zetabyt/trigger/gatesknock.wav",
    "sha256": "3f309ed19df2b0a4263534cb69aee6faf74255192d0d066d325024a4bae258fc",
    "timestamp": "2023-10-02T20:56:02.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/hit3.wav": {
    "bytes": 116330,
-   "path": "z374/sound/zetabyt/trigger/hit3.wav",
    "sha256": "4690c26ee7b8fbf728b3bfe905307cfeb3eb88edba8db8fdf582bf6d90fe04b6",
    "timestamp": "2023-10-02T20:55:18.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/ironmoan1.wav": {
    "bytes": 300264,
-   "path": "z374/sound/zetabyt/trigger/ironmoan1.wav",
    "sha256": "3e92dde9312ea7807f247f804b900413b991c0c38438dc481498598f843575ab",
    "timestamp": "2023-10-02T20:56:50.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/laseroff.wav": {
    "bytes": 67100,
-   "path": "z374/sound/zetabyt/trigger/laseroff.wav",
    "sha256": "a15f76266e830249d5cfc6ffc020833f84be1d66e25d25d657d0313be64656fb",
    "timestamp": "2023-10-07T22:29:50.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/metnoise1.wav": {
    "bytes": 125158,
-   "path": "z374/sound/zetabyt/trigger/metnoise1.wav",
    "sha256": "aca9fc2d9ec58c9b0a63efaa1cdbafa7d3e3d2a08122baa133e0553a8da51804",
    "timestamp": "2023-10-02T20:56:28.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/metnoise2.wav": {
    "bytes": 131044,
-   "path": "z374/sound/zetabyt/trigger/metnoise2.wav",
    "sha256": "98a8bf8a9d0f30e2c7edab814c837dbabf797b7bb39e0c9a8885acac07e0670d",
    "timestamp": "2023-10-02T20:54:50.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/ratpanic1.wav": {
    "bytes": 151646,
-   "path": "z374/sound/zetabyt/trigger/ratpanic1.wav",
    "sha256": "f30d95a957a225b0ab77ccc050e8ebb33df7bdddd97d8da9466bf0a6427af92a",
    "timestamp": "2023-10-02T20:57:20.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/ratpanic3.wav": {
    "bytes": 157532,
-   "path": "z374/sound/zetabyt/trigger/ratpanic3.wav",
    "sha256": "907f3987ab51ec5f04cd9a665ac9bf4a9962fe3d41b1e2ecbeca2769a65c822f",
    "timestamp": "2023-10-02T20:53:26.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/spookradio.wav": {
    "bytes": 6505412,
-   "path": "z374/sound/zetabyt/trigger/spookradio.wav",
    "sha256": "50e6e4445b9f1b86253f4c80ca22fd1dfeaea2d513c960b5d19a703c08c71ca4",
    "timestamp": "2023-10-02T20:50:22.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/x18footsteps.wav": {
    "bytes": 365008,
-   "path": "z374/sound/zetabyt/trigger/x18footsteps.wav",
    "sha256": "7971641c2eee0c27fb2c1a869edaaee8889aad9f079e67a78183a31dcc024d2b",
    "timestamp": "2023-10-02T20:53:54.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/x18footsteps2.wav": {
    "bytes": 365008,
-   "path": "z374/sound/zetabyt/trigger/x18footsteps2.wav",
    "sha256": "bb26a600c49ef318e2f9b7e9ceea492f4c047790c932ff6ff0223441ef9d5f7e",
    "timestamp": "2023-10-02T20:58:22.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/x18hit6.wav": {
    "bytes": 135460,
-   "path": "z374/sound/zetabyt/trigger/x18hit6.wav",
    "sha256": "9fbda51964e98d8c6b2abddce9c6ceecbd82151d297edebdfed700caf993ac55",
    "timestamp": "2023-10-02T20:54:18.000Z"
   },
-  {
+  "z374/sound/zetabyt/trigger/x18hit8.wav": {
    "bytes": 142816,
-   "path": "z374/sound/zetabyt/trigger/x18hit8.wav",
    "sha256": "fac89832b28bce8ce357336720bc3566a8805dfe001304092643f087e68ccbbe",
    "timestamp": "2023-10-02T20:57:52.000Z"
   },
-  {
+  "z374/txt/": {
    "bytes": 0,
-   "path": "z374/txt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-13T07:13:12.000Z"
   },
-  {
+  "z374/txt/Site Z-374 (Readme).txt": {
    "bytes": 27040,
-   "path": "z374/txt/Site Z-374 (Readme).txt",
    "sha256": "211c7e329db4198bb350db4c3fe202ab574d8dabe4035eb53247940e204ae895",
    "timestamp": "2024-06-23T23:43:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

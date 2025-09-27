@@ -8,24 +8,22 @@
   "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2"
  ],
  "description": "Updated (fully vised) version of <a href=\"e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2\">Fort Driant</a> which improves the rendering performance.",
- "files": [
-  {
+ "files": {
+  "fort_driant-fullvis.bsp": {
    "bytes": 12392900,
-   "path": "fort_driant-fullvis.bsp",
    "sha256": "bacde8e00ac94866f08c1f3f221ededfd69f073ab459ab47a20b2135b38ddad3",
    "timestamp": "2009-03-05T16:52:08.000Z"
   },
-  {
+  "fort_driant-fullvis.lit": {
    "bytes": 2998721,
-   "path": "fort_driant-fullvis.lit",
    "sha256": "07e1364bdd9f8a3c2987139a3ef484be8a4e76b33e27f0f473042ce73a43d17d",
    "timestamp": "2009-03-05T16:52:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>, the <a href=\"e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2\">original release</a> and a source port with increased limits."
  ],

@@ -4,36 +4,32 @@
  ],
  "bytes": 2441892,
  "description": "Small episode with three Wizard and one Base level as well as a start map. Also has a few new textures and different endings depending on skill level.",
- "files": [
-  {
+ "files": {
+  "Black.bat": {
    "bytes": 25,
-   "path": "Black.bat",
    "sha256": "b47f5e0ee399dafb6fe9a1e0514cf494bf44d1711e39dca28b989c9e94fdd501",
    "timestamp": "1997-12-17T20:28:00.000Z"
   },
-  {
+  "Black.txt": {
    "bytes": 2639,
-   "path": "Black.txt",
    "sha256": "07f8cf2e9cb5f480a0837a5dfb65a6e4941e38cb83668f3c3799e18627f21c7e",
    "timestamp": "1997-12-18T00:34:56.000Z"
   },
-  {
+  "Config.cfg": {
    "bytes": 2104,
-   "path": "Config.cfg",
    "sha256": "532abbe760e83278d5d94f761953f895ce0641efc82beb4942521380c0c2f0f7",
    "timestamp": "1997-12-18T00:29:26.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 6069047,
-   "path": "pak0.pak",
    "sha256": "519b058e9bebd7b2cfef3561e17a9585d3f0d7cb00fb889cb0e10989c9b9aa52",
    "timestamp": "1997-12-17T20:19:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/black/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-12-18",
  "sha256": "eb9b1a32679fd9fc3132efe7923b73f40c8d4a1fcf1a210a7f5eed7a623dd3c5",
  "tags": [

@@ -4,18 +4,17 @@
  ],
  "bytes": 503560,
  "description": "Short medieval map with a broken underwater building.",
- "files": [
-  {
+ "files": {
+  "q1m2.bsp": {
    "bytes": 1140668,
-   "path": "q1m2.bsp",
    "sha256": "f97ba544263888434dc32c28622d20a8829d289dd7d42a3b50d9067c15ebf872",
    "timestamp": "1997-06-21T14:36:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-21",
  "sha256": "7548d0087e01a7fa34e1f127f67074f264354e9294070358a34da7c1c3673b9d",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 16759946,
  "description": "Large mixed theme map set in a partly technological, party runic and partly medieval complex. Features plenty of new custom content, including a large variety of new monsters.",
- "files": [
-  {
+ "files": {
+  "fourfeather.txt": {
    "bytes": 3320,
-   "path": "fourfeather.txt",
    "sha256": "d4d679246757c91de5a9606549f664b2b1bf1f706f234730a613ee85fddb0537",
    "timestamp": "2016-03-06T10:09:46.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 47280476,
-   "path": "pak0.pak",
    "sha256": "019df411253909ca531e576ca399e33ce21384ef2eed456668ca6a04f49506fc",
    "timestamp": "2016-03-06T10:08:10.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 804080,
-   "path": "progs.dat",
    "sha256": "2fcc3b57197d8463e61315140304ab4800405fff8f4021c266744efec782daa8",
    "timestamp": "2016-03-06T05:37:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/fourfeather0/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits and skybox support."
  ],

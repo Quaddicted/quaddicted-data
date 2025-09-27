@@ -4,54 +4,47 @@
  ],
  "bytes": 10144520,
  "description": "Q3A gothic themed fortress set in a massive rocky valley, featuring many custom monsters and features, plus well-executed gameplay twists and horde combat.",
- "files": [
-  {
+ "files": {
+  "GLMarcher.exe": {
    "bytes": 452608,
-   "path": "GLMarcher.exe",
    "sha256": "c138db6d3500208d76e64e7d1ec31d9b251901c290b4c799fd03c514d5192299",
    "timestamp": "2005-01-04T16:34:44.000Z"
   },
-  {
+  "WinMarcher.exe": {
    "bytes": 576512,
-   "path": "WinMarcher.exe",
    "sha256": "807590ef6a505cc4aea725a5ff60175fbc6d2ed9ee737fadf808b2ac8f3ef3a3",
    "timestamp": "2005-01-04T16:35:02.000Z"
   },
-  {
+  "marcher/": {
    "bytes": 0,
-   "path": "marcher/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2005-01-09T12:30:08.000Z"
   },
-  {
+  "marcher/Pak0.pak": {
    "bytes": 19401351,
-   "path": "marcher/Pak0.pak",
    "sha256": "1a2e5d692de45366a307029161d8987dde70f6a08040310ecc7d154f5599e77d",
    "timestamp": "2005-01-09T12:27:42.000Z"
   },
-  {
+  "marcher/README_Marcher.txt": {
    "bytes": 5758,
-   "path": "marcher/README_Marcher.txt",
    "sha256": "06eda1923dcb955ca97c0e52b55c0c4fe76f3dc4dc9f076180e34b2a9d525f7d",
    "timestamp": "2005-01-09T12:21:18.000Z"
   },
-  {
+  "marcher/autoexec.cfg": {
    "bytes": 374,
-   "path": "marcher/autoexec.cfg",
    "sha256": "1ceb64ad7a69f8b68cf42b0678ca92d1f7aba07962c251aa84500ffdca5043bb",
    "timestamp": "2005-01-08T22:00:24.000Z"
   },
-  {
+  "marcher/readme_engine.txt": {
    "bytes": 13776,
-   "path": "marcher/readme_engine.txt",
    "sha256": "1b1b8e6c69a14096971bae538e13f1ff37438f401a2c225a02f98316f4cd533a",
    "timestamp": "2005-01-04T16:38:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-01-09",
  "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "tags": [

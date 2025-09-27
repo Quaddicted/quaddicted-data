@@ -4,24 +4,22 @@
  ],
  "bytes": 602226,
  "description": "Small to medium 'realism' prism escape map.",
- "files": [
-  {
+ "files": {
+  "escape.bsp": {
    "bytes": 1384984,
-   "path": "escape.bsp",
    "sha256": "03b4275bd0cf47523d0d3e24f393bc54035b85a7713961f5779e11ebe529c961",
    "timestamp": "1997-01-24T00:22:44.000Z"
   },
-  {
+  "escape.txt": {
    "bytes": 2624,
-   "path": "escape.txt",
    "sha256": "9e6fc34f42f65192713fc043162676b9b0176433a954ea8cb065077034793695",
    "timestamp": "1997-01-24T02:03:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-24",
  "sha256": "31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e",
  "tags": [

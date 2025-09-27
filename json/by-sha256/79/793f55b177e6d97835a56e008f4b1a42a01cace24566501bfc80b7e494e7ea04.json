@@ -7,24 +7,22 @@
  ],
  "bytes": 845924,
  "description": "Chain map / DaMaul, than, Lunaran, Xenon",
- "files": [
-  {
+ "files": {
+  "sm28.bsp": {
    "bytes": 2098316,
-   "path": "sm28.bsp",
    "sha256": "830605307423c4c3f823d09ebf785869a3b463db9fc86c2298400bfc46e33976",
    "timestamp": "2001-08-26T00:02:58.000Z"
   },
-  {
+  "sm28.txt": {
    "bytes": 2895,
-   "path": "sm28.txt",
    "sha256": "a6528e399885c177ac1d4d1d77b9aae100b0df7f7ae1ee5203e23398c816b313",
    "timestamp": "2001-08-26T00:08:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-08-26",
  "sha256": "793f55b177e6d97835a56e008f4b1a42a01cace24566501bfc80b7e494e7ea04",
  "tags": [

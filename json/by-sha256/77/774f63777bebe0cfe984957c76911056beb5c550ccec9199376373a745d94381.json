@@ -4,30 +4,27 @@
  ],
  "bytes": 615428,
  "description": "The author's first map. A small wizard-themed interior of a house, and some base/grotto bits.",
- "files": [
-  {
+ "files": {
+  "bario.bsp": {
    "bytes": 1386992,
-   "path": "bario.bsp",
    "sha256": "44ab1e83a0e001e18766eb16d5a74c7c2b8231ca4d76c9b2f506c86c305d45c4",
    "timestamp": "1997-02-07T10:58:42.000Z"
   },
-  {
+  "bario.txt": {
    "bytes": 2340,
-   "path": "bario.txt",
    "sha256": "b1ebbfaa0f2fa389d3ba83c0e2bca45443ad08089e36621f4279024b010cb688",
    "timestamp": "1997-02-07T12:20:14.000Z"
   },
-  {
+  "bario_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "bario_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

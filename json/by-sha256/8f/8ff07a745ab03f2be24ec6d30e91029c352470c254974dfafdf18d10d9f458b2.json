@@ -4,24 +4,22 @@
  ],
  "bytes": 2329349,
  "description": "Military realism mod. All custom textures, modified and reskinned monsters, friendly soldiers and some other stuff. Includes the first of three maps: a small jungle canyon/village leading to the entrance of a secret biolab facility. It is connected to <a href=\"c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0\">sofsp2</a>.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 4970646,
-   "path": "pak0.pak",
    "sha256": "ca3de2bc537add96931d6f8c4f2c50373fd1413496d06df3fce4103244a6b6ca",
    "timestamp": "1997-10-19T17:21:48.000Z"
   },
-  {
+  "sofsp1.txt": {
    "bytes": 9322,
-   "path": "sofsp1.txt",
    "sha256": "67ee10b06c8a3a54458931596418fcec4a02d04370285ce34c0b84c9bb9dddab",
    "timestamp": "1997-10-19T18:30:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/soldier/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-19",
  "sha256": "8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2",
  "tags": [

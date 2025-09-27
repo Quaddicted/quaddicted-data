@@ -4,36 +4,32 @@
  ],
  "bytes": 3346685,
  "description": "Medium-sized map combining brutalisim and gothic influences, with creative use of stock textures resulting in unique looks.",
- "files": [
-  {
+ "files": {
+  "dkbrutic.bsp": {
    "bytes": 3656000,
-   "path": "dkbrutic.bsp",
    "sha256": "98ee9f5ea890c1697b7718aedab5f8bb4089e5230ec404b5a5b34679326a4001",
    "timestamp": "2023-12-09T14:52:58.000Z"
   },
-  {
+  "dkbrutic.lit": {
    "bytes": 1230380,
-   "path": "dkbrutic.lit",
    "sha256": "7530de7410c9eb438288124220cc10a5acba463314a43e143acd47939318b9de",
    "timestamp": "2023-12-09T14:52:58.000Z"
   },
-  {
+  "dkbrutic.map": {
    "bytes": 8720817,
-   "path": "dkbrutic.map",
    "sha256": "0b0b5cbe606de1811d7e32c400d6166d890db47d30ccb39e640bc262dffef0f7",
    "timestamp": "2023-12-09T14:50:10.000Z"
   },
-  {
+  "dkbrutic.txt": {
    "bytes": 995,
-   "path": "dkbrutic.txt",
    "sha256": "6576187a0aa200f01e88622aaf5b74d75ec9b6add35a3f1da24675deae7547fa",
    "timestamp": "2023-12-09T15:44:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

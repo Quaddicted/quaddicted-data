@@ -19,138 +19,117 @@
  ],
  "bytes": 26804491,
  "description": "16 speedmaps with varying themes + custom start map. Each map has at least 2 quad damage powerups, requiring players to chain together quad buffs into a \"quad run.\" Many maps may feel difficult, even on skill 0. Beginners beware. Built on Copper (already included). Organized by Greenwood.",
- "files": [
-  {
+ "files": {
+  "sm223/pak0.pak": {
    "bytes": 74591634,
-   "path": "sm223/pak0.pak",
    "sha256": "a0c07f6ddc894ee2d95a5d1a4fc2a7f3137ca7aa3501b5048642c5bb41912766",
    "timestamp": "2023-03-10T19:51:30.000Z"
   },
-  {
+  "sm223/poster.jpg": {
    "bytes": 352026,
-   "path": "sm223/poster.jpg",
    "sha256": "cfe4219d3a4a64f08c3ffd35a767616a664e0db5cf9929b6a077e4195cedd440",
    "timestamp": "2023-03-10T06:30:36.000Z"
   },
-  {
+  "sm223/sm223_readme.txt": {
    "bytes": 904,
-   "path": "sm223/sm223_readme.txt",
    "sha256": "753b17948cec741136c2565261c39dba1c3abd3b116ac851a50291454d3ad759",
    "timestamp": "2023-03-10T18:47:16.000Z"
   },
-  {
+  "sm223/texts/": {
    "bytes": 0,
-   "path": "sm223/texts/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-03-10T13:22:04.000Z"
   },
-  {
+  "sm223/texts/copper_v1_20.txt": {
    "bytes": 95723,
-   "path": "sm223/texts/copper_v1_20.txt",
    "sha256": "5bc8b015627c7436473fce64909b75682f9b0d8c4faebd2d654d083e8d444806",
    "timestamp": "2022-11-27T13:52:56.000Z"
   },
-  {
+  "sm223/texts/sm223_66ppt99.txt": {
    "bytes": 1778,
-   "path": "sm223/texts/sm223_66ppt99.txt",
    "sha256": "1fbf44a92b92f02a6ce01c4075762993e53b2152676a7db2cfe1f92fe2cec347",
    "timestamp": "2023-03-10T11:29:56.000Z"
   },
-  {
+  "sm223/texts/sm223_bizz.txt": {
    "bytes": 1015,
-   "path": "sm223/texts/sm223_bizz.txt",
    "sha256": "03bb665c918a4ca157a13c624ef781e6696b0b222464d0aa65110ef6b7cfcc67",
    "timestamp": "2023-03-10T08:51:54.000Z"
   },
-  {
+  "sm223/texts/sm223_chrisholden.txt": {
    "bytes": 1523,
-   "path": "sm223/texts/sm223_chrisholden.txt",
    "sha256": "1b75d20005b70402357bfe63eafa6104e8d7fdf1534ea8bbfa5facb16893f6e0",
    "timestamp": "2023-03-10T00:10:14.000Z"
   },
-  {
+  "sm223/texts/sm223_fairweather.txt": {
    "bytes": 1286,
-   "path": "sm223/texts/sm223_fairweather.txt",
    "sha256": "d36e73e4403fdf9899dd3777ecae4abf678c0abad6e9109f1763ec2425806b7a",
    "timestamp": "2023-03-10T08:50:10.000Z"
   },
-  {
+  "sm223/texts/sm223_grash.txt": {
    "bytes": 1403,
-   "path": "sm223/texts/sm223_grash.txt",
    "sha256": "57e966e80355fb43597771b112376d8c76b9b8ad14a462eb73c17270a8534f0f",
    "timestamp": "2023-03-10T08:40:12.000Z"
   },
-  {
+  "sm223/texts/sm223_greenwood.txt": {
    "bytes": 1417,
-   "path": "sm223/texts/sm223_greenwood.txt",
    "sha256": "50aa5b5fd234e0496fa449f2a53e70ced8e52b68185ea4108fddecf3b7dd6535",
    "timestamp": "2023-03-10T19:22:28.000Z"
   },
-  {
+  "sm223/texts/sm223_hcm.txt": {
    "bytes": 2029,
-   "path": "sm223/texts/sm223_hcm.txt",
    "sha256": "c15c94df8150cb7a3fa549d00eebc86b91f384fe017d63ecfa585dd821efd932",
    "timestamp": "2023-03-10T00:20:00.000Z"
   },
-  {
+  "sm223/texts/sm223_ish.txt": {
    "bytes": 1213,
-   "path": "sm223/texts/sm223_ish.txt",
    "sha256": "2dbdca448c7a6866cf2de4e3e91722016413ffb24eb4e9838b2a7c39bfba8760",
    "timestamp": "2023-03-10T08:48:46.000Z"
   },
-  {
+  "sm223/texts/sm223_iyago.txt": {
    "bytes": 2387,
-   "path": "sm223/texts/sm223_iyago.txt",
    "sha256": "df7bbb8074629061280cdbe0ae566017cc180910a69dc28dace6f2735994457b",
    "timestamp": "2023-03-10T08:48:24.000Z"
   },
-  {
+  "sm223/texts/sm223_konig.txt": {
    "bytes": 1473,
-   "path": "sm223/texts/sm223_konig.txt",
    "sha256": "a40e69a582ed85118b373d4ae26d4e61292611d6fefbcc9c4db36cbbb9fee0ee",
    "timestamp": "2023-03-10T08:41:46.000Z"
   },
-  {
+  "sm223/texts/sm223_niccolicious.txt": {
    "bytes": 1725,
-   "path": "sm223/texts/sm223_niccolicious.txt",
    "sha256": "b00b179759b71402cee7ffd82796b43cdeb1303134dd1bd86b14afb2fb565222",
    "timestamp": "2023-03-09T21:31:08.000Z"
   },
-  {
+  "sm223/texts/sm223_pinchy.txt": {
    "bytes": 3371,
-   "path": "sm223/texts/sm223_pinchy.txt",
    "sha256": "59f24369288d3e5864d74979ba77118076639899590dbf7f9a005558dbe8b25d",
    "timestamp": "2023-03-10T08:44:32.000Z"
   },
-  {
+  "sm223/texts/sm223_recycledoj.txt": {
    "bytes": 1392,
-   "path": "sm223/texts/sm223_recycledoj.txt",
    "sha256": "ca93c2b41425668c806fde2b66918b3eff388330010d8bbbcf83474cc37c7d38",
    "timestamp": "2023-03-10T08:42:46.000Z"
   },
-  {
+  "sm223/texts/sm223_repator.txt": {
    "bytes": 616,
-   "path": "sm223/texts/sm223_repator.txt",
    "sha256": "9dfcad8b861494a495929c58bacb540b961b7e75ec4156f9b5ffbe23e63e98e8",
    "timestamp": "2023-03-09T20:24:06.000Z"
   },
-  {
+  "sm223/texts/sm223_riktoi.txt": {
    "bytes": 1117,
-   "path": "sm223/texts/sm223_riktoi.txt",
    "sha256": "44f2d45995d00460be0bf64f8a099aee62ad874ba687cde2eee994da8bf249c2",
    "timestamp": "2023-03-06T16:09:46.000Z"
   },
-  {
+  "sm223/texts/sm223_spoot.txt": {
    "bytes": 1372,
-   "path": "sm223/texts/sm223_spoot.txt",
    "sha256": "0355909acc37c503ea933b3103afdff5fcbc8d89f2e42596571291ec0a7c58bd",
    "timestamp": "2023-03-09T09:58:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2023-03-10",
  "sha256": "c78c2116529263b1dbdc06a78d05867bfc9f9cbd1357da331f82a23b0bec1068",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 902902,
  "description": "A small single classic-style map inspired by id base maps but with some eldritch monsters. The author's first release. Map source is included.",
- "files": [
-  {
+ "files": {
+  "eber1.bsp": {
    "bytes": 1884088,
-   "path": "eber1.bsp",
    "sha256": "3c653e71179d7cc3f8f1189602e07782fa68986a43685411563e3903a0e6045c",
    "timestamp": "2022-05-31T00:25:10.000Z"
   },
-  {
+  "eber1.map": {
    "bytes": 1447367,
-   "path": "eber1.map",
    "sha256": "f324b03fdfcb589ec7433322efa858753293e8b25a42e81a143d191f42b1cdab",
    "timestamp": "2022-05-31T00:19:30.000Z"
   },
-  {
+  "eber1_readme.txt": {
    "bytes": 1842,
-   "path": "eber1_readme.txt",
    "sha256": "bc23d796dff24485f0bb12cee702d26caa3923c29bf1f1a514f1b3e8b56d412e",
    "timestamp": "2022-05-30T23:15:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2022-05-31",
  "sha256": "c95e5fe20108d34c90d657e68e874b9d1ffd02e7c99a8f78d73e09590100698d",
  "tags": [

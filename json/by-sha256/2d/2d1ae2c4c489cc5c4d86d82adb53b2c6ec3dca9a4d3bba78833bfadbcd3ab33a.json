@@ -5,24 +5,22 @@
  "bytes": 878492,
  "current_main_group_package": true,
  "description": "Large base map.",
- "files": [
-  {
+ "files": {
+  "polygon.bsp": {
    "bytes": 2060300,
-   "path": "polygon.bsp",
    "sha256": "05ea96098ddfe67491c16a3bffd96d20bcc6e07b8a13a03c868cf7bbdd6df32d",
    "timestamp": "1998-03-15T09:42:42.000Z"
   },
-  {
+  "polygon.txt": {
    "bytes": 3725,
-   "path": "polygon.txt",
    "sha256": "cc7b469c462c1c40b7bdb70449912a4c09d6e409e87272a1c01ef771117f3455",
    "timestamp": "1998-04-25T21:03:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "polybase": "2.0"
  },

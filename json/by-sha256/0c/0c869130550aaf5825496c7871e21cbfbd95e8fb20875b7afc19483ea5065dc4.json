@@ -4,24 +4,22 @@
  ],
  "bytes": 571883,
  "description": "Small to medium Wizard map.",
- "files": [
-  {
+ "files": {
+  "OBIWAN.BSP": {
    "bytes": 1247956,
-   "path": "OBIWAN.BSP",
    "sha256": "5c7571be8968349bf9d78716cf5e907df4db130f245d40a7afcf5e3c8c5f7a79",
    "timestamp": "1996-10-07T14:46:02.000Z"
   },
-  {
+  "OBIWAN.TXT": {
    "bytes": 1395,
-   "path": "OBIWAN.TXT",
    "sha256": "60f21c0bcdf41a17d5a7d661eaa7c2eb773983b6bdf60487f033dc6556dedd2b",
    "timestamp": "1996-10-14T18:51:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-14",
  "sha256": "0c869130550aaf5825496c7871e21cbfbd95e8fb20875b7afc19483ea5065dc4",
  "tags": [

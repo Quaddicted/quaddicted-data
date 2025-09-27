@@ -7,60 +7,52 @@
   "ad>=1.70"
  ],
  "description": "Small medieval-style level with two towers in a canyon. The map source is included.",
- "files": [
-  {
+ "files": {
+  "ad_muksp3.txt": {
    "bytes": 1906,
-   "path": "ad_muksp3.txt",
    "sha256": "13f4361e626c337861b98855023bd3da602a8b40f574b34590f74af2369d3b62",
    "timestamp": "2020-01-24T22:21:18.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-01-25T11:44:36.000Z"
   },
-  {
+  "maps/ad_muksp3.bsp": {
    "bytes": 3620956,
-   "path": "maps/ad_muksp3.bsp",
    "sha256": "fb1a178750b5c697b97c3a0c0f0a550af4f3f9c0b24ca6b113438a77240286f4",
    "timestamp": "2020-01-25T11:40:04.000Z"
   },
-  {
+  "maps/ad_muksp3.lit": {
    "bytes": 1131614,
-   "path": "maps/ad_muksp3.lit",
    "sha256": "354dfc624fd29674124ada900255cacc49e68023dd0cd43b63251cf5acae1829",
    "timestamp": "2020-01-25T11:40:04.000Z"
   },
-  {
+  "progs/": {
    "bytes": 0,
-   "path": "progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-01-24T19:29:26.000Z"
   },
-  {
+  "progs/crossbow.mdl": {
    "bytes": 111480,
-   "path": "progs/crossbow.mdl",
    "sha256": "12e1cebceb7407ef28b92e338ca446e6742b1ec566dd1b6da3d1844d5cd01f0b",
    "timestamp": "2019-06-30T15:27:58.000Z"
   },
-  {
+  "src/": {
    "bytes": 0,
-   "path": "src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-01-25T11:36:30.000Z"
   },
-  {
+  "src/ad_muksp3.map": {
    "bytes": 4109597,
-   "path": "src/ad_muksp3.map",
    "sha256": "43d5f7e593c9cb999c54b99a6278122fcc2e5fa4f2b5da075e1fea158b91f7d6",
    "timestamp": "2020-01-25T11:36:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>."
  ],

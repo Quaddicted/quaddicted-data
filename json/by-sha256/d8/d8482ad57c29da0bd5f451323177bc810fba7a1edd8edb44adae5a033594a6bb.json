@@ -4,24 +4,22 @@
  ],
  "bytes": 299835,
  "description": "Beginner map designed mostly for deathmatch.",
- "files": [
-  {
+ "files": {
+  "axeme7.bsp": {
    "bytes": 648592,
-   "path": "axeme7.bsp",
    "sha256": "136ed01837d1e7dcadc334c7440b711a32f261f5c9f4f1928275371e1116e9f4",
    "timestamp": "1996-10-13T18:26:22.000Z"
   },
-  {
+  "axeme7.txt": {
    "bytes": 1445,
-   "path": "axeme7.txt",
    "sha256": "2c41eb84c0bfe013ef89405f6cc1275afa239a177e77fc75e4cf18023d987fb8",
    "timestamp": "1996-10-13T19:03:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-13",
  "sha256": "d8482ad57c29da0bd5f451323177bc810fba7a1edd8edb44adae5a033594a6bb",
  "tags": [

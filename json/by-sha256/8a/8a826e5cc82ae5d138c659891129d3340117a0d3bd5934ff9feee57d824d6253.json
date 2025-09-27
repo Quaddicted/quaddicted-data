@@ -4,24 +4,22 @@
  ],
  "bytes": 433605,
  "description": "Small plain Medieval/brick map. A deathmatch level with monsters.",
- "files": [
-  {
+ "files": {
+  "CHURCH.TXT": {
    "bytes": 1017,
-   "path": "CHURCH.TXT",
    "sha256": "2a3460ef9067f886178cee3c862bc850e489b190715ae459e423f30e31ed6edf",
    "timestamp": "1996-11-22T16:18:44.000Z"
   },
-  {
+  "church.bsp": {
    "bytes": 983248,
-   "path": "church.bsp",
    "sha256": "18a529ec989d582ddf11990fd2dbda07d506b5525276c92efa24d91bb3651418",
    "timestamp": "1996-11-22T15:01:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map does not have an exit."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 235704,
  "description": "Small cave / brick castle map.",
- "files": [
-  {
+ "files": {
+  "pum1.bsp": {
    "bytes": 499860,
-   "path": "pum1.bsp",
    "sha256": "d903699370f7a934d3d165cf1c076770b88a02ba8026786f78fb6857c3f188e4",
    "timestamp": "2022-01-16T15:15:02.000Z"
   },
-  {
+  "pum1.txt": {
    "bytes": 1430,
-   "path": "pum1.txt",
    "sha256": "33641a825b570b604a07298c1632b9f6d156bdb1bcf0772c87941840608fff90",
    "timestamp": "2022-01-16T15:22:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Note that only skill 1 (Normal) is implemented."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 10274752,
  "description": "A big castle using Quake III textures. Remake of a map with the same name from the game Blade of Darkness.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 20687895,
-   "path": "Pak0.pak",
    "sha256": "828090e6aea93f73b2d9be9b2e811999ea3d2f7b9a832ec469078b7e918c90d3",
    "timestamp": "2008-05-02T14:50:20.000Z"
   },
-  {
+  "bod.txt": {
    "bytes": 4026,
-   "path": "bod.txt",
    "sha256": "445fcff73e54f72d53a9fa5f912170f6af80fee64f166afb7582bbb4d5d8dfba",
    "timestamp": "2008-05-02T15:49:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/bod/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2008-05-02",
  "sha256": "b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9",
  "tags": [

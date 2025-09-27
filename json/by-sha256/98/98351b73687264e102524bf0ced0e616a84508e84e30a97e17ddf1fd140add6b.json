@@ -4,24 +4,22 @@
  ],
  "bytes": 906590,
  "description": "Medium to large nukage processing base built into a mountain - all custom textures; strong Half-Life flair. (This is the non-speedrunning version of the map)",
- "files": [
-  {
+ "files": {
+  "thepit.bsp": {
    "bytes": 2464464,
-   "path": "thepit.bsp",
    "sha256": "2e9ee1b6e4aee3f9a6e9f0f58ef788f1a44fa893d8b63fa01bb6801628faae86",
    "timestamp": "2001-03-26T21:00:06.000Z"
   },
-  {
+  "thepit.txt": {
    "bytes": 2513,
-   "path": "thepit.txt",
    "sha256": "f7fc60675e78610bde5e8bbb826969c7e689bb177bd73e80d8b1bc0c8f9bc1f1",
    "timestamp": "2001-03-26T21:34:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-03-26",
  "sha256": "98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b",
  "tags": [

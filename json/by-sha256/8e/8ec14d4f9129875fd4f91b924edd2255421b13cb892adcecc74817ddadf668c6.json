@@ -4,24 +4,22 @@
  ],
  "bytes": 542563,
  "description": "Medium sized Base map with an almost endless story in the text file and many poorly aligned textures.",
- "files": [
-  {
+ "files": {
+  "dstab1.bsp": {
    "bytes": 1456532,
-   "path": "dstab1.bsp",
    "sha256": "cc35517684145eb3f70a67c579fb4d9e6bcd596f6837691869f5fd51bd9740d2",
    "timestamp": "2003-06-30T01:10:34.000Z"
   },
-  {
+  "dstab1.txt": {
    "bytes": 8746,
-   "path": "dstab1.txt",
    "sha256": "5dea56499f1c13dd45530609d8348b02602f832111a4329d366120d9e8491113",
    "timestamp": "2003-07-02T01:23:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-07-02",
  "sha256": "8ec14d4f9129875fd4f91b924edd2255421b13cb892adcecc74817ddadf668c6",
  "tags": [

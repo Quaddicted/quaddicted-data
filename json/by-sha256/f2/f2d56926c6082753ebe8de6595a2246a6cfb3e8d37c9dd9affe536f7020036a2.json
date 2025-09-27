@@ -4,36 +4,32 @@
  ],
  "bytes": 4409354,
  "description": "Around medium-sized cistern/sewer level. The map source is included.",
- "files": [
-  {
+ "files": {
+  "plaw01.bsp": {
    "bytes": 8162164,
-   "path": "plaw01.bsp",
    "sha256": "9cffb5171adf0d7b5814de61a61d9fafae76c023bfe7257ef704d77042f4d7a8",
    "timestamp": "2021-07-12T08:54:04.000Z"
   },
-  {
+  "plaw01.txt": {
    "bytes": 1879,
-   "path": "plaw01.txt",
    "sha256": "196439dc2d3934406fa281e7277a72f90eed370965d14a0fd79824bc9d2079ef",
    "timestamp": "2021-07-04T10:33:06.000Z"
   },
-  {
+  "src/": {
    "bytes": 0,
-   "path": "src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-07-04T12:59:36.000Z"
   },
-  {
+  "src/plaw01.map": {
    "bytes": 10325619,
-   "path": "src/plaw01.map",
    "sha256": "d79de9ad8e671352ced7dcf72eff7daee81cd3b7d5644010ab71ae0c6936ea11",
    "timestamp": "2021-07-04T09:52:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-07-04",
  "sha256": "f2d56926c6082753ebe8de6595a2246a6cfb3e8d37c9dd9affe536f7020036a2",
  "tags": [

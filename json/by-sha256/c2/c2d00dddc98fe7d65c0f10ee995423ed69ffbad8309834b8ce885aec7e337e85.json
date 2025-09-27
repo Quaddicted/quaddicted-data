@@ -4,954 +4,797 @@
  ],
  "bytes": 106377507,
  "description": "Large map in a unique style, combining an 'adventure' theme with pirate ship, caves, and underwater exploration, with sci-fi elements and monsters.",
- "files": [
-  {
+ "files": {
+  "aqualus/aqualus.txt": {
    "bytes": 3655,
-   "path": "aqualus/aqualus.txt",
    "sha256": "9b77f0e77aed4304acda871d81c564f7f94a34201890f7c6ef401bffd4730061",
    "timestamp": "2023-12-29T01:04:22.000Z"
   },
-  {
+  "aqualus/gfx/": {
    "bytes": 0,
-   "path": "aqualus/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:52.000Z"
   },
-  {
+  "aqualus/gfx/env/": {
    "bytes": 0,
-   "path": "aqualus/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:52.000Z"
   },
-  {
+  "aqualus/gfx/env/jajsundown1_bk.tga": {
    "bytes": 786476,
-   "path": "aqualus/gfx/env/jajsundown1_bk.tga",
    "sha256": "257c3f41d70179e7f371f29a35542788a580e46ef9fe96f7321d74a77fab54e8",
    "timestamp": "2003-11-09T07:11:50.000Z"
   },
-  {
+  "aqualus/gfx/env/jajsundown1_dn.tga": {
    "bytes": 786476,
-   "path": "aqualus/gfx/env/jajsundown1_dn.tga",
    "sha256": "e534b8d81df676cf80282dc3a63abc1b8d66648a833d390a475156472834480e",
    "timestamp": "2003-11-09T07:10:54.000Z"
   },
-  {
+  "aqualus/gfx/env/jajsundown1_ft.tga": {
    "bytes": 786476,
-   "path": "aqualus/gfx/env/jajsundown1_ft.tga",
    "sha256": "b1a273da93ae7eebc6659f60662e5a37f4f0663bd2667c17879e4d6ff6fb86fb",
    "timestamp": "2003-11-09T07:12:12.000Z"
   },
-  {
+  "aqualus/gfx/env/jajsundown1_lf.tga": {
    "bytes": 786476,
-   "path": "aqualus/gfx/env/jajsundown1_lf.tga",
    "sha256": "ec2b579b1ec484ec3f5a4a4d09803629acfb82721290be54672fc858a640c059",
    "timestamp": "2003-11-09T07:11:14.000Z"
   },
-  {
+  "aqualus/gfx/env/jajsundown1_rt.tga": {
    "bytes": 786476,
-   "path": "aqualus/gfx/env/jajsundown1_rt.tga",
    "sha256": "14aed5df2783c0afa620be84ec8a1d77ba02995ed6ee55207d657d9f50e27ff0",
    "timestamp": "2003-11-09T07:11:32.000Z"
   },
-  {
+  "aqualus/gfx/env/jajsundown1_up.tga": {
    "bytes": 786476,
-   "path": "aqualus/gfx/env/jajsundown1_up.tga",
    "sha256": "9cb883fb0077ac79482cb0561f7c1a82af61b5fb374fcbdc5eb63bae49e525be",
    "timestamp": "2003-11-09T07:12:30.000Z"
   },
-  {
+  "aqualus/maps/": {
    "bytes": 0,
-   "path": "aqualus/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:56.000Z"
   },
-  {
+  "aqualus/maps/aqualus.bsp": {
    "bytes": 132078472,
-   "path": "aqualus/maps/aqualus.bsp",
    "sha256": "da170bf90fa72104448174800609e0e21372fe423cb5615b4c1a34c063af0d2e",
    "timestamp": "2023-12-29T17:43:34.000Z"
   },
-  {
+  "aqualus/maps/aqualus.lit": {
    "bytes": 15154424,
-   "path": "aqualus/maps/aqualus.lit",
    "sha256": "3316e013a1df260ae236c96289cf8c7550febcfb521bf971f6e1e95112c1c3b9",
    "timestamp": "2023-12-29T17:43:34.000Z"
   },
-  {
+  "aqualus/music/": {
    "bytes": 0,
-   "path": "aqualus/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:56.000Z"
   },
-  {
+  "aqualus/music/track200.mp3": {
    "bytes": 9348691,
-   "path": "aqualus/music/track200.mp3",
    "sha256": "582ca2ec843a3dffaded8484fe65b29e7a6b63804878e34e08c4ffb0b438ed8f",
    "timestamp": "2022-12-20T17:37:26.000Z"
   },
-  {
+  "aqualus/pak0.pak": {
    "bytes": 34544010,
-   "path": "aqualus/pak0.pak",
    "sha256": "955b55aa56dde477637305ef146bc84e48f2e09a474c7bacec61d1a7dd3a13ad",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/progs/": {
    "bytes": 0,
-   "path": "aqualus/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:58.000Z"
   },
-  {
+  "aqualus/progs/anchor.mdl": {
    "bytes": 85460,
-   "path": "aqualus/progs/anchor.mdl",
    "sha256": "a7eaa7482d74c71e96e1d29c804651ea31fa88079e949cff9fa44a093a605bac",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/bats.mdl": {
    "bytes": 280372,
-   "path": "aqualus/progs/bats.mdl",
    "sha256": "dd18b3f13ea8aca31406f8aa67dadf69a9b9056eec5f624e41bd8b7116e752f9",
    "timestamp": "2019-10-26T15:01:28.000Z"
   },
-  {
+  "aqualus/progs/bench.mdl": {
    "bytes": 32852,
-   "path": "aqualus/progs/bench.mdl",
    "sha256": "f50bb4d1cfd9b6eaf882a4ee5281c2093f8f25f2967ad71661f7f39bf09b086c",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/bucket.mdl": {
    "bytes": 20532,
-   "path": "aqualus/progs/bucket.mdl",
    "sha256": "7adec73034f4db3bf8f0381bfba5b72ab3c70d742efc393f86951c7b7f913def",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/candle.mdl": {
    "bytes": 24135,
-   "path": "aqualus/progs/candle.mdl",
    "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
    "timestamp": "2020-07-24T01:16:06.000Z"
   },
-  {
+  "aqualus/progs/cauldron.mdl": {
    "bytes": 11040,
-   "path": "aqualus/progs/cauldron.mdl",
    "sha256": "6c081225f130ce85b6a3d1bdd836aba5b90985634a596fe808fdf4baa28d37ff",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/chair.mdl": {
    "bytes": 9364,
-   "path": "aqualus/progs/chair.mdl",
    "sha256": "ef2e4cc1c31f169782502119e62236b64aafcf2451211fb51db70bda6eed6ba7",
    "timestamp": "2023-05-24T21:55:56.000Z"
   },
-  {
+  "aqualus/progs/chest4.mdl": {
    "bytes": 13164,
-   "path": "aqualus/progs/chest4.mdl",
    "sha256": "4f64cd7772380bd96fff0e8ddc748dc9aa48d98f7fb67d676d30d1363aea2e53",
    "timestamp": "2020-12-16T09:40:56.000Z"
   },
-  {
+  "aqualus/progs/h2p_skeleton.mdl": {
    "bytes": 151508,
-   "path": "aqualus/progs/h2p_skeleton.mdl",
    "sha256": "9e400db241d13f4dacf982db9163886cad8d232741303edc9a0b8cf90e3f7a98",
    "timestamp": "2021-10-31T12:49:32.000Z"
   },
-  {
+  "aqualus/progs/hydra.mdl": {
    "bytes": 280660,
-   "path": "aqualus/progs/hydra.mdl",
    "sha256": "877701e8a786b437fb786310dffd9eb4977426e92b1263869e1ab25b8d4b1757",
    "timestamp": "2013-09-03T17:01:50.000Z"
   },
-  {
+  "aqualus/progs/hydragib.mdl": {
    "bytes": 85248,
-   "path": "aqualus/progs/hydragib.mdl",
    "sha256": "86b7743cf3905e75a66e65278bd78dabb69086566d1d24b6aa8c4873d327a050",
    "timestamp": "2018-07-31T03:21:10.000Z"
   },
-  {
+  "aqualus/progs/misc_barrel.mdl": {
    "bytes": 43684,
-   "path": "aqualus/progs/misc_barrel.mdl",
    "sha256": "8382db232b9a8a6cf6f11009bd8d1806b52ee840c520cea72cfbf5b57c240f26",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_barrel2.mdl": {
    "bytes": 130972,
-   "path": "aqualus/progs/misc_barrel2.mdl",
    "sha256": "cc8ebfd0da975358077a6933cdcb4f7ab627ad02c7bd8612f05eb1c873926c23",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_barrelq2.mdl": {
    "bytes": 60380,
-   "path": "aqualus/progs/misc_barrelq2.mdl",
    "sha256": "04c87c0210d772c53ffc134a5a2a065394dc32f5b36b30c5f24d927bacc24633",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_bigflag.mdl": {
    "bytes": 64852,
-   "path": "aqualus/progs/misc_bigflag.mdl",
    "sha256": "0ea8d35877463945ad40e9779d50fb7bb4a92c837497e8e71dc270215709fde5",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_bonepile.mdl": {
    "bytes": 110796,
-   "path": "aqualus/progs/misc_bonepile.mdl",
    "sha256": "0f8061359681f3c11660e472c517599590447c7631edfe5a36debd9645acdec6",
    "timestamp": "2021-10-31T12:49:32.000Z"
   },
-  {
+  "aqualus/progs/misc_braztall.mdl": {
    "bytes": 290037,
-   "path": "aqualus/progs/misc_braztall.mdl",
    "sha256": "87086160d4bb98489b64d79ad469407b9425a9c642a8cb20fd143f31a0d797f3",
    "timestamp": "2022-01-06T08:15:02.000Z"
   },
-  {
+  "aqualus/progs/misc_cable.mdl": {
    "bytes": 57780,
-   "path": "aqualus/progs/misc_cable.mdl",
    "sha256": "bed2cca38ef4cbefa9e645eb5e9ffadffac6ebb4f2ac5f6da4bb8f354de22a48",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_cables.mdl": {
    "bytes": 433607,
-   "path": "aqualus/progs/misc_cables.mdl",
    "sha256": "03c41af692903bb854cc5c05c0a8a665f312a04955737ecbac1a65a4113f6d50",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_candle1.mdl": {
    "bytes": 19700,
-   "path": "aqualus/progs/misc_candle1.mdl",
    "sha256": "e8c8e2d8a8901e67b68bcb63b3121e9209153cb43257b54bca4a6814ed718202",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_candle2.mdl": {
    "bytes": 19700,
-   "path": "aqualus/progs/misc_candle2.mdl",
    "sha256": "2dcf8e2c3ae1d1d361ac32d22000b1cb168398b7dfbd0e691b4519317e6708cd",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_candle3.mdl": {
    "bytes": 19700,
-   "path": "aqualus/progs/misc_candle3.mdl",
    "sha256": "97e5a4179934c6912c1414bfefc8f104ff3b2c5a4cbfeb9e8a8c2f0dd88d91c1",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_chain.mdl": {
    "bytes": 231184,
-   "path": "aqualus/progs/misc_chain.mdl",
    "sha256": "845fc3117f7d9860f2d0aa4a398103a13f327516144a96db508189ae1be5788c",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_charger.mdl": {
    "bytes": 117672,
-   "path": "aqualus/progs/misc_charger.mdl",
    "sha256": "a64a62cd67894222e1b2ed25332db70961c18d0cbdffe32b17f0dbac93bb2ceb",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_corpse_flay.mdl": {
    "bytes": 509231,
-   "path": "aqualus/progs/misc_corpse_flay.mdl",
    "sha256": "0287c3e7886bd2d6d1cbb504529d9e11038d0f8232ee624528eb0ccb78733c53",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_corpse_imp.mdl": {
    "bytes": 536924,
-   "path": "aqualus/progs/misc_corpse_imp.mdl",
    "sha256": "22f82f29d0a88af204f7b97eef887b963bd940e7277b6f5cef5e6f3610f2ea51",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_corpse_lynch.mdl": {
    "bytes": 276420,
-   "path": "aqualus/progs/misc_corpse_lynch.mdl",
    "sha256": "41e90f1a84e9779eb12541d923ab0a66e69deef3a9dbc82259ab84cb71b68dcc",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_deadplayer.mdl": {
    "bytes": 562960,
-   "path": "aqualus/progs/misc_deadplayer.mdl",
    "sha256": "83bbcf4cb5858aa9ac03323b461b3e3b09a28f56e212645472219d7d0b0979d8",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_extngshr.mdl": {
    "bytes": 25732,
-   "path": "aqualus/progs/misc_extngshr.mdl",
    "sha256": "fc8dec001f22c4666f6c5ca65e8aba18d5b22ed8aabbf0534d03913e821e3120",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_fixture1.mdl": {
    "bytes": 9768,
-   "path": "aqualus/progs/misc_fixture1.mdl",
    "sha256": "c10980d00e0479f8e65ab633f19ee62ace4c0697c2193f7aea8d266e2be5fc2d",
    "timestamp": "2022-09-29T02:50:56.000Z"
   },
-  {
+  "aqualus/progs/misc_flame_big.mdl": {
    "bytes": 244895,
-   "path": "aqualus/progs/misc_flame_big.mdl",
    "sha256": "09adba1308cdf22d2f07e226cb13a35e51f4d54866f84f41e2074dc7a40371d5",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_flame_med.mdl": {
    "bytes": 175400,
-   "path": "aqualus/progs/misc_flame_med.mdl",
    "sha256": "31c94bc48e6c6d6bc31bd14b8e257c4e74d45aaec3a4d5d5bf83587a08ac7c00",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_gen1.mdl": {
    "bytes": 256884,
-   "path": "aqualus/progs/misc_gen1.mdl",
    "sha256": "7a9124bf7628dfcfc1c43ab6624bd8cef4ac5ecbdd8a00a00e8f957f0d177ec5",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_gen2.mdl": {
    "bytes": 74708,
-   "path": "aqualus/progs/misc_gen2.mdl",
    "sha256": "c93a3f7fbda97841c0c9c7c9b2603d9e388390ab30861c4b1553285985f761a2",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_gen3.mdl": {
    "bytes": 472728,
-   "path": "aqualus/progs/misc_gen3.mdl",
    "sha256": "29032f4dcf60216906ef601d5a6bf20dba71ed5b7ff8260e7f61159b6b8ea1e0",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_hangman.mdl": {
    "bytes": 96500,
-   "path": "aqualus/progs/misc_hangman.mdl",
    "sha256": "feb2473a29e56ee278e4cdc9676306fdf3aa609b527ea4aff23bb86e3900a2d3",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_heating.mdl": {
    "bytes": 243876,
-   "path": "aqualus/progs/misc_heating.mdl",
    "sha256": "a6ab88ce55f16b670b9ba8e42e96c9ea49acc71f124ce20c0de5fc2c0232e2f0",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_helijet.mdl": {
    "bytes": 102656,
-   "path": "aqualus/progs/misc_helijet.mdl",
    "sha256": "9dc737185928f080758e5a662ea8fd189fcad1aed4fe4547f76d73983bec9c72",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_helijet_pilot.mdl": {
    "bytes": 105556,
-   "path": "aqualus/progs/misc_helijet_pilot.mdl",
    "sha256": "8ee41a7ac244289b007921b70fd34f322b4451172f35b0c5b33400064d1c3a2f",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_hummer.mdl": {
    "bytes": 180541,
-   "path": "aqualus/progs/misc_hummer.mdl",
    "sha256": "c41208ecff2f7ea0b037f378aad5fa309af5d946eae009ace2478a294aea9b45",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_lantern.mdl": {
    "bytes": 28836,
-   "path": "aqualus/progs/misc_lantern.mdl",
    "sha256": "d84e36232543a053f2772b1070b221dc23da1b34cd08ea551a982b5e9f168ea5",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_levels.mdl": {
    "bytes": 35732,
-   "path": "aqualus/progs/misc_levels.mdl",
    "sha256": "7cf9a4c1e556e60dd4e593cad4a2be0b45bea8893d9b5232ecc7febca4bbf5fe",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_lightpod.mdl": {
    "bytes": 81780,
-   "path": "aqualus/progs/misc_lightpod.mdl",
    "sha256": "e16ac3a669ace065c4cd1806ea0a21a59510d936a3a4c9d74c3ef2ef56e9d4f3",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_lightpost.mdl": {
    "bytes": 44717,
-   "path": "aqualus/progs/misc_lightpost.mdl",
    "sha256": "bb226da110f4005ddbfd965ac52e4fa61192831bbbca4ec1f93529978a78e359",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_lighttube.mdl": {
    "bytes": 97042,
-   "path": "aqualus/progs/misc_lighttube.mdl",
    "sha256": "27fbc5b7625e6297507778c7e48c4d26303c7e15cb0febf4d7592a844522fc77",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_metal.mdl": {
    "bytes": 246933,
-   "path": "aqualus/progs/misc_metal.mdl",
    "sha256": "07c0bb9ff1aa1639a62e5a84fca28d48c0fc738f4d22f8e3d8a5a029790d870e",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_oscill.mdl": {
    "bytes": 50660,
-   "path": "aqualus/progs/misc_oscill.mdl",
    "sha256": "cdc96265a646f9e9fb4c1717fa90edb13e42130fadc4dc774b60aeb94b89eac4",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_pallet.mdl": {
    "bytes": 509927,
-   "path": "aqualus/progs/misc_pallet.mdl",
    "sha256": "1b9c50111cedb48559424870b46a3d19cb1ac5b43ef3f165fbe928a3f7e90883",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_player_legs.mdl": {
    "bytes": 76918,
-   "path": "aqualus/progs/misc_player_legs.mdl",
    "sha256": "8e54ec3002d5b0f70408f17941087e595cb20933a08c40eb934cb25e8804d5a0",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_radar128.mdl": {
    "bytes": 19492,
-   "path": "aqualus/progs/misc_radar128.mdl",
    "sha256": "ef004e28e51e3227121a92432375531fca26d1e44894696f3d2a950fa65aef28",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_radar64.mdl": {
    "bytes": 19492,
-   "path": "aqualus/progs/misc_radar64.mdl",
    "sha256": "b9468012707ad484c1292cbe984c54811cb8fa43542e68e18a52ef93cb37d52a",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_radar96.mdl": {
    "bytes": 19492,
-   "path": "aqualus/progs/misc_radar96.mdl",
    "sha256": "6239d117263f49b79a2a66e62f2dbd6a7f0cd15ce412c1939dd69b4a1d8fce78",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_scientist.mdl": {
    "bytes": 198644,
-   "path": "aqualus/progs/misc_scientist.mdl",
    "sha256": "0bbaa667b0e785aab38a90f131985e74fa04cca4c7ae869e612e4f765aa1350c",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_seaweed.mdl": {
    "bytes": 16100,
-   "path": "aqualus/progs/misc_seaweed.mdl",
    "sha256": "dfbd38a439d392870c7c4c7ebea4475827b716004ca47bfa7f13b47daf07d774",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_seaweed2.mdl": {
    "bytes": 95281,
-   "path": "aqualus/progs/misc_seaweed2.mdl",
    "sha256": "65773f37e26d41dd72ec1cf9849c663c1475923cb77d0f4c599bc3301368373f",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_skull.mdl": {
    "bytes": 59892,
-   "path": "aqualus/progs/misc_skull.mdl",
    "sha256": "94600327093fe22acc113b8e89c8863a5548b170c9c9897bd2af8a4ff63beb5a",
    "timestamp": "2021-10-31T12:49:32.000Z"
   },
-  {
+  "aqualus/progs/misc_smoke.mdl": {
    "bytes": 31792,
-   "path": "aqualus/progs/misc_smoke.mdl",
    "sha256": "8d39b97460c9967ee36b33ea1ef1e92e89277fc410b44f054c5e06b8dc8a079c",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_starfield.mdl": {
    "bytes": 23548,
-   "path": "aqualus/progs/misc_starfield.mdl",
    "sha256": "5b3563017939382680228e933a2a87d3edb030e75e65c51fe42c4a6889e42e15",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_stickskull1.mdl": {
    "bytes": 87900,
-   "path": "aqualus/progs/misc_stickskull1.mdl",
    "sha256": "38e63e10bc351ba5a48dfb6195ac5f78e5d61e67ae851f2ba50ba20255d7a37e",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_stickskull2.mdl": {
    "bytes": 116364,
-   "path": "aqualus/progs/misc_stickskull2.mdl",
    "sha256": "464fbee370b512d1c8057ea5a1dc3ecff69378474593919f0bbd8970419d69a5",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/progs/misc_stool.mdl": {
    "bytes": 85612,
-   "path": "aqualus/progs/misc_stool.mdl",
    "sha256": "12914ff8acc41ef1656aef291edef6d3b0975e994808b8e4e921edcc4927e517",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_tape.mdl": {
    "bytes": 9240,
-   "path": "aqualus/progs/misc_tape.mdl",
    "sha256": "2b6a08ca3be4dd7a669e5b6d1585276759e1fb0edbe0691dd7ecbc7e41f0b189",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_turbine.mdl": {
    "bytes": 53615,
-   "path": "aqualus/progs/misc_turbine.mdl",
    "sha256": "57cf73dbf14b5b22795033f5b597b30b978aeb6ee037e09648d0cebd029f987e",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_victim.mdl": {
    "bytes": 1432944,
-   "path": "aqualus/progs/misc_victim.mdl",
    "sha256": "c5d2a99ba39e82bef21cdff5f682b6b80d601f9b54fe0d58d94aae3544b5303b",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/misc_workbench.mdl": {
    "bytes": 87092,
-   "path": "aqualus/progs/misc_workbench.mdl",
    "sha256": "89cb978aaabc4372bacc88ce577c9aefa2a5a4597aada45aa499861150bfe07e",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/progs/multiplant01.mdl": {
    "bytes": 80468,
-   "path": "aqualus/progs/multiplant01.mdl",
    "sha256": "5117142b0f10ec027dd8d94a01b1257caf0f9b8d8999c97e4d63845235f4a870",
    "timestamp": "2022-09-29T02:50:54.000Z"
   },
-  {
+  "aqualus/progs/mushroom.mdl": {
    "bytes": 10804,
-   "path": "aqualus/progs/mushroom.mdl",
    "sha256": "5570faa6e7828e4e12f568656226b0756a87d633cbdc461af472e0982a88a549",
    "timestamp": "2022-09-29T02:50:56.000Z"
   },
-  {
+  "aqualus/progs/potion.mdl": {
    "bytes": 6316,
-   "path": "aqualus/progs/potion.mdl",
    "sha256": "0e66a6ced7f31e5eb23459433908995241e78835776b02037109b8aef6dad2a0",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/pritchard_chair.mdl": {
    "bytes": 81316,
-   "path": "aqualus/progs/pritchard_chair.mdl",
    "sha256": "3ee0b690213e2508dbd3e7445a9761eea439140e566e7779956be62bdb6a943c",
    "timestamp": "2017-12-07T05:32:40.000Z"
   },
-  {
+  "aqualus/progs/raven.mdl": {
    "bytes": 368708,
-   "path": "aqualus/progs/raven.mdl",
    "sha256": "efcd4ec4bc5970090c0c4de7f99999cdb8d2690514f01e8ac113b806fd76961c",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/reed1.mdl": {
    "bytes": 95281,
-   "path": "aqualus/progs/reed1.mdl",
    "sha256": "65773f37e26d41dd72ec1cf9849c663c1475923cb77d0f4c599bc3301368373f",
    "timestamp": "2019-10-27T04:17:48.000Z"
   },
-  {
+  "aqualus/progs/smoke1.spr": {
    "bytes": 45312,
-   "path": "aqualus/progs/smoke1.spr",
    "sha256": "9f12d1bc32a0aca3d7579f36838588af3ca297f492372932b3b24140b216c01a",
    "timestamp": "2018-07-17T01:19:36.000Z"
   },
-  {
+  "aqualus/progs/stool.mdl": {
    "bytes": 7196,
-   "path": "aqualus/progs/stool.mdl",
    "sha256": "ddce6076cd5121799d018e652ed39b8c283a595afb9e19d9bfba8219b77c6553",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "aqualus/progs/str_lantern.mdl": {
    "bytes": 298032,
-   "path": "aqualus/progs/str_lantern.mdl",
    "sha256": "5c1d589224ebf97102d2792f7f11a6b4bd1f28ecd76a80af04961a49930ab2e8",
    "timestamp": "2022-12-19T05:15:36.000Z"
   },
-  {
+  "aqualus/progs/str_spiky1.mdl": {
    "bytes": 117772,
-   "path": "aqualus/progs/str_spiky1.mdl",
    "sha256": "22a0dc81711e1a72b46335bc281192d67f3986655582a7be9a1d3082d8e3d5b1",
    "timestamp": "2022-12-19T05:15:36.000Z"
   },
-  {
+  "aqualus/progs/str_spiky2.mdl": {
    "bytes": 78356,
-   "path": "aqualus/progs/str_spiky2.mdl",
    "sha256": "dea35dbbe80d9307172d50ea49bc7f8cd1f02e81844c4cc259fb1772f41ee06d",
    "timestamp": "2022-12-19T05:15:36.000Z"
   },
-  {
+  "aqualus/progs/table1.mdl": {
    "bytes": 117762,
-   "path": "aqualus/progs/table1.mdl",
    "sha256": "21a9ce468214102e0f912ee043c741198f65a70a244f0c5ad4b2abc0b434e8ac",
    "timestamp": "2020-12-15T11:16:54.000Z"
   },
-  {
+  "aqualus/progs/vine.mdl": {
    "bytes": 20736,
-   "path": "aqualus/progs/vine.mdl",
    "sha256": "5ae41ea778a9ed499e57b95e66b4340709ab64560784c346ea2755fe9cc90a72",
    "timestamp": "2019-10-27T04:17:50.000Z"
   },
-  {
+  "aqualus/progs/water_ripple.mdl": {
    "bytes": 37772,
-   "path": "aqualus/progs/water_ripple.mdl",
    "sha256": "960c60ebcf9eea9449a13359faaa9c0f772ff6011d3af47ee0f941d467b812b9",
    "timestamp": "2023-11-18T00:24:48.000Z"
   },
-  {
+  "aqualus/sound/": {
    "bytes": 0,
-   "path": "aqualus/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:58.000Z"
   },
-  {
+  "aqualus/sound/ambient/": {
    "bytes": 0,
-   "path": "aqualus/sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:58.000Z"
   },
-  {
+  "aqualus/sound/ambient/aramb1.wav": {
    "bytes": 44476,
-   "path": "aqualus/sound/ambient/aramb1.wav",
    "sha256": "4c6440672b87575dd8ac5a267621881b9c70e48722cf9a4aa75a4a9b384fea5b",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/arcohum1.wav": {
    "bytes": 20418,
-   "path": "aqualus/sound/ambient/arcohum1.wav",
    "sha256": "3b42cb1b62f62acabdc8ef8612ab4343b71b165c3525552701ef769f90020960",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/arhum1.wav": {
    "bytes": 20740,
-   "path": "aqualus/sound/ambient/arhum1.wav",
    "sha256": "e374f3d90564808e019abe09f4464b704512cf85ff0f3b4bb3c955b4153184e3",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/arpump1.wav": {
    "bytes": 18262,
-   "path": "aqualus/sound/ambient/arpump1.wav",
    "sha256": "11ae2c08c7d5f7f777eade75770a1623386d0e0096a19076fff13e9ddec6318c",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/arwind.wav": {
    "bytes": 30408,
-   "path": "aqualus/sound/ambient/arwind.wav",
    "sha256": "34248569bb7ab66f5e1d874e15c7a91d89fd2b70d27e5521456b2589581fe1e6",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/chatter.wav": {
    "bytes": 190760,
-   "path": "aqualus/sound/ambient/chatter.wav",
    "sha256": "59197f823b479c66c41163d82fed6dc13a715aef429b5e551ba80ca6f7c229fb",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/comp.wav": {
    "bytes": 12164,
-   "path": "aqualus/sound/ambient/comp.wav",
    "sha256": "ab8e3b13981bb432cca44ad4b7467734f52d01927018e72c99e7c4d052dc7874",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/conveyor1.wav": {
    "bytes": 348058,
-   "path": "aqualus/sound/ambient/conveyor1.wav",
    "sha256": "ca68f9d44a06155fec7a886675c825b247d2b21996e92daeb76d9f47db2cf2a7",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/creak.wav": {
    "bytes": 77398,
-   "path": "aqualus/sound/ambient/creak.wav",
    "sha256": "3ab84c316976fabecd33cc6e5556d106a961c80909985db8d6776379790d23b6",
    "timestamp": "2019-08-31T13:59:52.000Z"
   },
-  {
+  "aqualus/sound/ambient/crickets.wav": {
    "bytes": 12236,
-   "path": "aqualus/sound/ambient/crickets.wav",
    "sha256": "d5cf6e56884a8e43469408d4788ec6e573167901586df259a938cd088c998ef9",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/deep.wav": {
    "bytes": 401112,
-   "path": "aqualus/sound/ambient/deep.wav",
    "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/drone.wav": {
    "bytes": 30902,
-   "path": "aqualus/sound/ambient/drone.wav",
    "sha256": "81993d96ab337f78c2778cecffe4767605fed210e0ac2303a46ac898979eea13",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/dronehum2.wav": {
    "bytes": 183654,
-   "path": "aqualus/sound/ambient/dronehum2.wav",
    "sha256": "03545ae0f88b788e69e09c0aae2cccfa727a2609ef224c7d1d3451f0e6172709",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/dronerumble1.wav": {
    "bytes": 228790,
-   "path": "aqualus/sound/ambient/dronerumble1.wav",
    "sha256": "d97972b25a006dbd54c1de9750b838ab52fff7c8aec70fb58115ad831b7efee8",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/dronesewer1.wav": {
    "bytes": 345280,
-   "path": "aqualus/sound/ambient/dronesewer1.wav",
    "sha256": "ee8cd803398a007f2f3b412dd2401098586e1d38f558daa748ea4e86f10267ad",
    "timestamp": "2023-08-22T22:52:40.000Z"
   },
-  {
+  "aqualus/sound/ambient/engineroom1.wav": {
    "bytes": 223016,
-   "path": "aqualus/sound/ambient/engineroom1.wav",
    "sha256": "1eddbae4469e69f277444851adaf082b60e47f07a945fbb8bf8fab807751cf31",
    "timestamp": "2023-12-21T03:28:18.000Z"
   },
-  {
+  "aqualus/sound/ambient/fan1.wav": {
    "bytes": 53404,
-   "path": "aqualus/sound/ambient/fan1.wav",
    "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/farambient_l.wav": {
    "bytes": 330958,
-   "path": "aqualus/sound/ambient/farambient_l.wav",
    "sha256": "4c65d4dd9c8111a0b13d625a86a30f1a6ff97b0acfb03423009fc57100981547",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/farambient_r.wav": {
    "bytes": 330890,
-   "path": "aqualus/sound/ambient/farambient_r.wav",
    "sha256": "a843e4b6958b198fa7de5f54fc8902040c7257f151df89f23dadae77920da960",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/hum02.wav": {
    "bytes": 37836,
-   "path": "aqualus/sound/ambient/hum02.wav",
    "sha256": "8b2ee1b91fa663b6111de9251011142475831ece70ee091022b800b715f1bfa2",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/industrialbuzz.wav": {
    "bytes": 57112,
-   "path": "aqualus/sound/ambient/industrialbuzz.wav",
    "sha256": "ac872a81a917704e4e418d7f83f2b7cdb35d3f35671e11261634727dfb7cfca9",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/intake.wav": {
    "bytes": 25682,
-   "path": "aqualus/sound/ambient/intake.wav",
    "sha256": "e6d13169ce4680dd83903473897fd6e7ce1e51fab00c6df2127ea993321c05b0",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/lava1.wav": {
    "bytes": 926316,
-   "path": "aqualus/sound/ambient/lava1.wav",
    "sha256": "41964be60ef167936d0ef74f47fdfa3c2b147f7ec1f5f26fbb312ee71be3a6bd",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/lonoise.wav": {
    "bytes": 32876,
-   "path": "aqualus/sound/ambient/lonoise.wav",
    "sha256": "1e0f99ffadead8460a7a4bed1c6b2c16cddd70050e1524e9cdaf6724a9dc81b5",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/machine_loop1.wav": {
    "bytes": 125104,
-   "path": "aqualus/sound/ambient/machine_loop1.wav",
    "sha256": "f0e24bbedef87a9fdabeb9b785af9a5fb3baad755e8770f130f4be64e3ccd1e6",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/machine_loop2.wav": {
    "bytes": 70696,
-   "path": "aqualus/sound/ambient/machine_loop2.wav",
    "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/motor1.wav": {
    "bytes": 52340,
-   "path": "aqualus/sound/ambient/motor1.wav",
    "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/motor2.wav": {
    "bytes": 52014,
-   "path": "aqualus/sound/ambient/motor2.wav",
    "sha256": "7f36cda5c01aea4e6b356ae4d0b31b68ca15d7606eefd30f4739a64fc4e86e6c",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/rain.wav": {
    "bytes": 40960,
-   "path": "aqualus/sound/ambient/rain.wav",
    "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/rumble1.wav": {
    "bytes": 403620,
-   "path": "aqualus/sound/ambient/rumble1.wav",
    "sha256": "47afe820548bcf248b7760f7a66a61ea65b5fb79f70d47e3b03cf8211bb4c5f3",
    "timestamp": "2023-05-25T05:53:50.000Z"
   },
-  {
+  "aqualus/sound/ambient/rumble2.wav": {
    "bytes": 99104,
-   "path": "aqualus/sound/ambient/rumble2.wav",
    "sha256": "9c3d5418c7e5bac60c365f0e8b7ea496dd2b51c72c13b0e5a6640e2ef880433a",
    "timestamp": "2023-05-25T05:53:50.000Z"
   },
-  {
+  "aqualus/sound/ambient/rumble3.wav": {
    "bytes": 209242,
-   "path": "aqualus/sound/ambient/rumble3.wav",
    "sha256": "864f373dbd75172e1c8f31373188f38c31a80af46592f6b2e92cf5f576e5e0e1",
    "timestamp": "2023-05-25T05:53:50.000Z"
   },
-  {
+  "aqualus/sound/ambient/runwater.wav": {
    "bytes": 64764,
-   "path": "aqualus/sound/ambient/runwater.wav",
    "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
    "timestamp": "2023-08-22T22:52:42.000Z"
   },
-  {
+  "aqualus/sound/ambient/windgust1.wav": {
    "bytes": 110288,
-   "path": "aqualus/sound/ambient/windgust1.wav",
    "sha256": "be28de40857304c1a9e169dd483795b2cd23356b81633133c7872e5657111c70",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/windgust2.wav": {
    "bytes": 110284,
-   "path": "aqualus/sound/ambient/windgust2.wav",
    "sha256": "b818f61172795942402ff0ca0d1295a91c36a245edc80689c35fe64a8ac1a4e2",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/windgust3.wav": {
    "bytes": 110030,
-   "path": "aqualus/sound/ambient/windgust3.wav",
    "sha256": "fdbb85f091cd9447f1500173aff70236abcdb947ba0758711816da59c5293344",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/windgust4.wav": {
    "bytes": 198502,
-   "path": "aqualus/sound/ambient/windgust4.wav",
    "sha256": "9a5c5a3da44f981c9deb8b437f57b3e3a35f2bcab318a1a3223f0a18fa4d2101",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/windgust5.wav": {
    "bytes": 198494,
-   "path": "aqualus/sound/ambient/windgust5.wav",
    "sha256": "f55fb77a15a80390ef560962f29ad8311c58af1ddf51f39ffebc4784cf837afe",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/windgust6.wav": {
    "bytes": 396944,
-   "path": "aqualus/sound/ambient/windgust6.wav",
    "sha256": "27a19679e7164a6e7bb8e4d6bc42cc8c12a5cd56bba45218e2ec5f1dc528da0d",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/woodcreak2a.wav": {
    "bytes": 352834,
-   "path": "aqualus/sound/ambient/woodcreak2a.wav",
    "sha256": "24d3f57839910934eb61b74a91cf47ee4ab48b38f58f060ca05bde7547e8813c",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/woodcreak2b.wav": {
    "bytes": 352838,
-   "path": "aqualus/sound/ambient/woodcreak2b.wav",
    "sha256": "574401233bff93169d452f4af748a289cfaff5d4e6319884e3cfb4dbd205d0a4",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/woodcreak2c.wav": {
    "bytes": 308746,
-   "path": "aqualus/sound/ambient/woodcreak2c.wav",
    "sha256": "02deb62b856b7be5c3304a0bf745f79019b0b408a8cfcc4e1edede397ba09c7d",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/woodcreak2d.wav": {
    "bytes": 352856,
-   "path": "aqualus/sound/ambient/woodcreak2d.wav",
    "sha256": "6d35975964b2fa32ece681a9d0cfa13202cde02bc315f32af0690f7437352452",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/ambient/woodcreak2e.wav": {
    "bytes": 308766,
-   "path": "aqualus/sound/ambient/woodcreak2e.wav",
    "sha256": "54eb41e3f5c2a0103d07e70e83cf82b51014da3673fb770cf6ada3df669c328e",
    "timestamp": "2023-05-23T14:40:26.000Z"
   },
-  {
+  "aqualus/sound/beeps2.wav": {
    "bytes": 22974,
-   "path": "aqualus/sound/beeps2.wav",
    "sha256": "0e254ca28555ae894e5c829733efee45737dc2c968f75fd089ea92c589eb7915",
    "timestamp": "2023-12-21T03:54:12.000Z"
   },
-  {
+  "aqualus/sound/hydra_idle.wav": {
    "bytes": 15144,
-   "path": "aqualus/sound/hydra_idle.wav",
    "sha256": "33cca7e04a33c746049ebaa44e82db38a65a951890215fcf72067fcad3c1205a",
    "timestamp": "2013-08-16T23:08:14.000Z"
   },
-  {
+  "aqualus/sound/journal1.wav": {
    "bytes": 44180,
-   "path": "aqualus/sound/journal1.wav",
    "sha256": "1eca86da7e50d8e7fa59432e7dab97258ddfbf99773c4455f2d7339235cce540",
    "timestamp": "2023-12-21T03:28:18.000Z"
   },
-  {
+  "aqualus/sound/rumble.wav": {
    "bytes": 53068,
-   "path": "aqualus/sound/rumble.wav",
    "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
    "timestamp": "2020-07-24T01:16:10.000Z"
   },
-  {
+  "aqualus/sound/waterclose_end.wav": {
    "bytes": 69704,
-   "path": "aqualus/sound/waterclose_end.wav",
    "sha256": "f94c0a80f01d15fb2199b440de975ace28e37e2a6c454240d03b3fea905505b0",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/waterclose_loop.wav": {
    "bytes": 246506,
-   "path": "aqualus/sound/waterclose_loop.wav",
    "sha256": "f2b7d2f4070b74600613fbcce8a2f617acfe75ffc6a553292eaead803fc4e866",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/waterpipe.wav": {
    "bytes": 458538,
-   "path": "aqualus/sound/waterpipe.wav",
    "sha256": "05659d9acf75a12383954319157377d48ce26a81b4ce452babe1fda09de1841c",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/waterpipe2.wav": {
    "bytes": 327106,
-   "path": "aqualus/sound/waterpipe2.wav",
    "sha256": "f0f7237c937801ed707f7a9a98b102c702b633f2132d536bf7fdb1fcec828e7f",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/waterstrong_end.wav": {
    "bytes": 41042,
-   "path": "aqualus/sound/waterstrong_end.wav",
    "sha256": "1c806f64310394da9c844ac5c79b97c87e352a918e844469224fe6a5e408180e",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/waterstrong_loop.wav": {
    "bytes": 192524,
-   "path": "aqualus/sound/waterstrong_loop.wav",
    "sha256": "ca48da15893acbaeb4b7b84419b22d4bdf133501cce370e470202d7ffc6941a1",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/watertunnel2_l.wav": {
    "bytes": 290116,
-   "path": "aqualus/sound/watertunnel2_l.wav",
    "sha256": "fd2859dc8fe2fbf6a9bbef3cb213312b95fb8bdc8c383d91cc15ece6cf16776d",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/watertunnel2_r.wav": {
    "bytes": 290116,
-   "path": "aqualus/sound/watertunnel2_r.wav",
    "sha256": "44922a8c38fa663fae52cd3bf0f8c496a91b3e8fd46f6b63286cdf7816968ea4",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/watertunnel_l.wav": {
    "bytes": 459248,
-   "path": "aqualus/sound/watertunnel_l.wav",
    "sha256": "59aa0253aaad7b739f84e13bddfd340c9889963785819fe38e41fca30b324822",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/sound/watertunnel_r.wav": {
    "bytes": 459248,
-   "path": "aqualus/sound/watertunnel_r.wav",
    "sha256": "c97dd123a9f8bc4fa09daead64cd45ed970a52fa551f082f0e6cfc848e95bcb6",
    "timestamp": "2022-10-29T14:50:58.000Z"
   },
-  {
+  "aqualus/source/": {
    "bytes": 0,
-   "path": "aqualus/source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-28T21:38:58.000Z"
   },
-  {
+  "aqualus/source/aqualus.map": {
    "bytes": 22563402,
-   "path": "aqualus/source/aqualus.map",
    "sha256": "ea91990b7f10aba9550fa034f90a89bf91f0a4d2aeef66454a8859d3c40fa669",
    "timestamp": "2023-12-29T16:19:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

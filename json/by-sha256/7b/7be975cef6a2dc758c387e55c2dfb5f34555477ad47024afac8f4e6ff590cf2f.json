@@ -4,18 +4,17 @@
  ],
  "bytes": 799457,
  "description": "Medium sized Metal map.",
- "files": [
-  {
+ "files": {
+  "Res.bsp": {
    "bytes": 1850092,
-   "path": "Res.bsp",
    "sha256": "583eb6501a485e2058c104dd3b3148f57c6178a845c494eb14824fceb8a03751",
    "timestamp": "1997-03-25T15:30:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-25",
  "sha256": "7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f",
  "tags": [

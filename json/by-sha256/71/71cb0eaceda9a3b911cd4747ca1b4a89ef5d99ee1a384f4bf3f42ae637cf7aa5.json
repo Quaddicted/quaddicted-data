@@ -4,24 +4,22 @@
  ],
  "bytes": 549979,
  "description": "Medium sized map in azure/blue style.",
- "files": [
-  {
+ "files": {
+  "azurette.bsp": {
    "bytes": 1418072,
-   "path": "azurette.bsp",
    "sha256": "9f9d889c6f46340c0325264512018a6a4bbacad70bb1d3bea63881006fcc76eb",
    "timestamp": "1997-08-02T21:04:10.000Z"
   },
-  {
+  "azurette.txt": {
    "bytes": 3048,
-   "path": "azurette.txt",
    "sha256": "5e248051f62c1914b07a2be6972398930d33ae6a460d1832f95dcd7954cd549c",
    "timestamp": "1997-08-02T21:19:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-08-02",
  "sha256": "71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5",
  "tags": [

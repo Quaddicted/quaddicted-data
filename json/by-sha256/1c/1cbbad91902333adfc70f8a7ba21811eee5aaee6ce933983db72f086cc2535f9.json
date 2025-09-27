@@ -4,126 +4,107 @@
  ],
  "bytes": 24368582,
  "description": "Medieval/fantasy episode consisting of five medium to large maps - sequel to <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a>. Also features new and modified monsters, weapons and items as well as a story in the vein of SOE unfolding throughout the maps, many custom textures, sounds and skyboxes. Gameplay is somewhat non-linear and very hard.",
- "files": [
-  {
+ "files": {
+  "Soul of Evil Indian Summer - Readme.txt": {
    "bytes": 5742,
-   "path": "Soul of Evil Indian Summer - Readme.txt",
    "sha256": "dfc10420bd826d399a584f6cd27af77de3dbb6ca672227cfa229b77f53dae915",
    "timestamp": "2008-08-15T01:43:28.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2008-08-15T00:27:52.000Z"
   },
-  {
+  "gfx/env/heather.jpg": {
    "bytes": 11054,
-   "path": "gfx/env/heather.jpg",
    "sha256": "b0b757b622fa013fa7b52165d4d8f0f88fdf2269fcf60a0c07e1661a6ca1c2ff",
    "timestamp": "2003-12-24T10:55:00.000Z"
   },
-  {
+  "gfx/env/heatherbk.tga": {
    "bytes": 694322,
-   "path": "gfx/env/heatherbk.tga",
    "sha256": "14f7d88bd6c5e0f3790bdc5c520545524f7b11795f5bc87ff0ea67ea63a5ab75",
    "timestamp": "2004-09-06T04:34:00.000Z"
   },
-  {
+  "gfx/env/heatherdn.tga": {
    "bytes": 781498,
-   "path": "gfx/env/heatherdn.tga",
    "sha256": "82c47aeacbc4e3b6879065d270254e72136185d192d07865dfcc59fa2feafbad",
    "timestamp": "2004-09-06T04:34:00.000Z"
   },
-  {
+  "gfx/env/heatherft.tga": {
    "bytes": 693479,
-   "path": "gfx/env/heatherft.tga",
    "sha256": "39b7c219b0532fba1ec7587884c02813715194c11663c3a18a84dff04fd93180",
    "timestamp": "2004-09-06T04:34:00.000Z"
   },
-  {
+  "gfx/env/heatherlf.tga": {
    "bytes": 699839,
-   "path": "gfx/env/heatherlf.tga",
    "sha256": "e785c45e8af30992c5c1ec0ea65d3b620c02156d452182cef3e216c8c022f797",
    "timestamp": "2004-09-06T04:34:00.000Z"
   },
-  {
+  "gfx/env/heatherrt.tga": {
    "bytes": 710593,
-   "path": "gfx/env/heatherrt.tga",
    "sha256": "fd021a77a15684c4071cc62223f867c942efb9754a8e11e60e37d216d163bbc2",
    "timestamp": "2004-09-06T04:34:00.000Z"
   },
-  {
+  "gfx/env/heatherup.tga": {
    "bytes": 669991,
-   "path": "gfx/env/heatherup.tga",
    "sha256": "19cf35346190864b570a820117dc222e284425b02cf84ee5955943ffafd05a7a",
    "timestamp": "2004-09-06T04:34:00.000Z"
   },
-  {
+  "gfx/env/tramonto.jpg": {
    "bytes": 12158,
-   "path": "gfx/env/tramonto.jpg",
    "sha256": "685565601c89457af298badf3b1dbd114e977f5353ef9e35e96123ef5ddfdf24",
    "timestamp": "2003-02-12T23:15:00.000Z"
   },
-  {
+  "gfx/env/tramontobk.tga": {
    "bytes": 721740,
-   "path": "gfx/env/tramontobk.tga",
    "sha256": "b742ef4e4d35085e04bb94e051e4ebca69961d48885f0e9afd2650b69013db58",
    "timestamp": "2003-02-13T01:56:00.000Z"
   },
-  {
+  "gfx/env/tramontodn.tga": {
    "bytes": 786291,
-   "path": "gfx/env/tramontodn.tga",
    "sha256": "91f7a1847be8b5adcce0f5f2c9d9da8614b5ee14d29e84056a9b51066d2abd25",
    "timestamp": "2008-05-21T11:19:00.000Z"
   },
-  {
+  "gfx/env/tramontoft.tga": {
    "bytes": 701996,
-   "path": "gfx/env/tramontoft.tga",
    "sha256": "315d06acd66c60cc06a8033be07328e5e0d13e3b00c7ed4e90f3b82879a98054",
    "timestamp": "2003-02-13T01:55:00.000Z"
   },
-  {
+  "gfx/env/tramontolf.tga": {
    "bytes": 640140,
-   "path": "gfx/env/tramontolf.tga",
    "sha256": "e7478aa0deab77b93ea6642e525932ede3088ca875442ccd25d44cbe87d1893a",
    "timestamp": "2003-02-13T01:55:00.000Z"
   },
-  {
+  "gfx/env/tramontort.tga": {
    "bytes": 710845,
-   "path": "gfx/env/tramontort.tga",
    "sha256": "55b3c37de07bb6ba1f854678ca7d3bc9852cdc0f7b3230cc1efbcaa2bf3b30ab",
    "timestamp": "2003-02-12T23:16:00.000Z"
   },
-  {
+  "gfx/env/tramontoup.tga": {
    "bytes": 673371,
-   "path": "gfx/env/tramontoup.tga",
    "sha256": "058e0cd4dbe23743f9b98e504515ede7014bb0866bf574652167a7ad53bb1349",
    "timestamp": "2008-05-21T10:25:00.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 43769480,
-   "path": "pak0.pak",
    "sha256": "68735030662444d6d2baf6786cce975d1885eff289196e9c494ed7bae92114b4",
    "timestamp": "2008-08-15T01:34:52.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1229432,
-   "path": "progs.dat",
    "sha256": "944903dda3fbf0930cf2b18f1f57f9c464b664b25dcbd603160535f5b28e6598",
    "timestamp": "2008-08-14T22:33:00.000Z"
   },
-  {
+  "progs_dp.dat": {
    "bytes": 1240880,
-   "path": "progs_dp.dat",
    "sha256": "23dc0adf7c85208ce3e8cca41355b197fe36c1e0781343ffc59c72e85794633b",
    "timestamp": "2008-08-14T22:33:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/nsoe/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "An <u>updated version</u> of the episode is available <a href=\"081bb3b575a674fd844ea571957260e68eb795631f87474b8bae2bec981418c3\">here</a>.",
   "Enhanced skins are available: <a href=\"http://www.quaddicted.com/filebase/soeskins_glquake.zip\">regular</a> and <a href=\"http://www.quaddicted.com/filebase/soeskins_dp.zip\">DP</a> version.",

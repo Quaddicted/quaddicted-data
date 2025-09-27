@@ -11,342 +11,287 @@
  ],
  "bytes": 158637963,
  "description": "A Finnish mappers episode jam based on the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper mod</a> (included) with nine medium to large maps in varying themes, including a start hub and a secret level. It also features a few new sounds and music tracks by Immorpher.",
- "files": [
-  {
+ "files": {
+  "smej/": {
    "bytes": 0,
-   "path": "smej/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-12-30T14:52:02.000Z"
   },
-  {
+  "smej/maps/": {
    "bytes": 0,
-   "path": "smej/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-12-30T22:44:04.000Z"
   },
-  {
+  "smej/maps/start.bsp": {
    "bytes": 3631200,
-   "path": "smej/maps/start.bsp",
    "sha256": "426bc2a9b9c4fb6bc3fd73fad026fa8d112876731a7b94c82220ce4f6e0e626e",
    "timestamp": "2019-12-22T16:41:30.000Z"
   },
-  {
+  "smej/maps/start.lit": {
    "bytes": 1478408,
-   "path": "smej/maps/start.lit",
    "sha256": "be461bdf6f81a7eb17a24fa90480221b98ab22857705f6c3c311c4f912646202",
    "timestamp": "2019-12-22T16:41:30.000Z"
   },
-  {
+  "smej/maps/start.map": {
    "bytes": 1059576,
-   "path": "smej/maps/start.map",
    "sha256": "7bdc95d971a2aded5df4b60f62f19c05ede0247b22989f37bc3b08d381eaba44",
    "timestamp": "2019-12-22T16:39:56.000Z"
   },
-  {
+  "smej/maps/start.txt": {
    "bytes": 1858,
-   "path": "smej/maps/start.txt",
    "sha256": "f3143a02ee2b3a8c794a322ec05e0988a7c955109ee188e356cebe918ad90b3c",
    "timestamp": "2019-11-20T23:33:56.000Z"
   },
-  {
+  "smej/maps/w1m1.bsp": {
    "bytes": 9953600,
-   "path": "smej/maps/w1m1.bsp",
    "sha256": "96f90f0fb8e417f5d58f7f5a921d8e219f2dd77ee5103b3695c78bd2cc71a3f1",
    "timestamp": "2019-12-30T22:39:46.000Z"
   },
-  {
+  "smej/maps/w1m1.lit": {
    "bytes": 2501132,
-   "path": "smej/maps/w1m1.lit",
    "sha256": "f99fdd35ea64c8a8a0b91949aa43e49fd8ed5b6efb00117be2fe9a2870a7d694",
    "timestamp": "2019-12-30T22:39:46.000Z"
   },
-  {
+  "smej/maps/w1m1.map": {
    "bytes": 10686533,
-   "path": "smej/maps/w1m1.map",
    "sha256": "834ae633bc8c35472954b8d0af08106d8ddfd8e90844c5b5dc5948747ee75faa",
    "timestamp": "2019-12-30T22:37:48.000Z"
   },
-  {
+  "smej/maps/w1m1_readme.txt": {
    "bytes": 1676,
-   "path": "smej/maps/w1m1_readme.txt",
    "sha256": "6bbb87251d3abf6e5ede5aef20869fa180ce2b265c83a3dae5ec8cd71cc871e3",
    "timestamp": "2019-12-30T22:39:18.000Z"
   },
-  {
+  "smej/maps/w1m2.bsp": {
    "bytes": 4893196,
-   "path": "smej/maps/w1m2.bsp",
    "sha256": "845bb67f79bb71c8867be3fd43f3fea6a0d1931ff09a4c823e77ecda85abdae0",
    "timestamp": "2019-12-30T19:47:42.000Z"
   },
-  {
+  "smej/maps/w1m2.lit": {
    "bytes": 1965035,
-   "path": "smej/maps/w1m2.lit",
    "sha256": "06d93c2134220f743e5b0e9251b866fe77b6655a37cc331ab346df921af27548",
    "timestamp": "2019-12-30T19:47:42.000Z"
   },
-  {
+  "smej/maps/w1m2.map": {
    "bytes": 3044388,
-   "path": "smej/maps/w1m2.map",
    "sha256": "a624e5c327fb565c8b64ef4c0ef31a85c7cd933af80f7185905b22b6b3aed87a",
    "timestamp": "2019-12-30T19:47:44.000Z"
   },
-  {
+  "smej/maps/w1m3.bsp": {
    "bytes": 4470248,
-   "path": "smej/maps/w1m3.bsp",
    "sha256": "f41ebfccbd0bfef9add076e11beec548420b9c8428c87dbd9798f0ae36390b1e",
    "timestamp": "2019-12-27T15:15:18.000Z"
   },
-  {
+  "smej/maps/w1m3.lit": {
    "bytes": 1294610,
-   "path": "smej/maps/w1m3.lit",
    "sha256": "eaf8a47802a9128acfa0e30d805444cfd00506cda92407c1a8effdd1aa08470f",
    "timestamp": "2019-12-27T15:15:18.000Z"
   },
-  {
+  "smej/maps/w1m3.map": {
    "bytes": 5195571,
-   "path": "smej/maps/w1m3.map",
    "sha256": "637226bd1b0f9b28acbfe6aa39b7bd288ee6fddb1da64c6ccf98435133ba4e45",
    "timestamp": "2019-12-27T14:58:18.000Z"
   },
-  {
+  "smej/maps/w1m3.txt": {
    "bytes": 1966,
-   "path": "smej/maps/w1m3.txt",
    "sha256": "fdd499c8701ef6e2bae266b01c0ab3436c65a6cdc778d9aa336df9878bd5904c",
    "timestamp": "2019-12-27T03:27:42.000Z"
   },
-  {
+  "smej/maps/w1m4.bsp": {
    "bytes": 7191400,
-   "path": "smej/maps/w1m4.bsp",
    "sha256": "736b6bce1c4b9849dffa2361f2df8e69fbe7dd8099f9f96186fb3f5a5ee7dc10",
    "timestamp": "2019-12-24T14:32:04.000Z"
   },
-  {
+  "smej/maps/w1m4.lit": {
    "bytes": 2482994,
-   "path": "smej/maps/w1m4.lit",
    "sha256": "ab13770bbb90cc00b9b7d3599e4708d8284627c205db675b58fa69fcd78dfdf4",
    "timestamp": "2019-12-24T14:32:04.000Z"
   },
-  {
+  "smej/maps/w1m4.map": {
    "bytes": 4952183,
-   "path": "smej/maps/w1m4.map",
    "sha256": "c6324d6b78505853c4dd237ad13eebc204952e025db6eea19ca9343adff47224",
    "timestamp": "2019-12-24T13:39:04.000Z"
   },
-  {
+  "smej/maps/w1m4.txt": {
    "bytes": 1806,
-   "path": "smej/maps/w1m4.txt",
    "sha256": "2769d71e45f5c440b6a6d2652bdb9430cebead8608d83f725fc756589c4b03c1",
    "timestamp": "2019-12-24T13:40:08.000Z"
   },
-  {
+  "smej/maps/w1m5.bsp": {
    "bytes": 5968984,
-   "path": "smej/maps/w1m5.bsp",
    "sha256": "13311edd6cec03a1b98e9ba2d81b1e8f1028feefa2fab7db47082b344df9a3eb",
    "timestamp": "2019-12-30T21:10:02.000Z"
   },
-  {
+  "smej/maps/w1m5.map": {
    "bytes": 3977158,
-   "path": "smej/maps/w1m5.map",
    "sha256": "ad6bdcaf24f398043400c8643fc65c17d887a11f1b7e1b46c75bcb7e3fca890b",
    "timestamp": "2019-12-30T20:57:26.000Z"
   },
-  {
+  "smej/maps/w1m6.bsp": {
    "bytes": 7174144,
-   "path": "smej/maps/w1m6.bsp",
    "sha256": "35dba44921871c82c7ec1a3a31e5385da7daeb6c885ec07419b11c344fff76b3",
    "timestamp": "2019-12-30T19:47:44.000Z"
   },
-  {
+  "smej/maps/w1m6.lit": {
    "bytes": 2493662,
-   "path": "smej/maps/w1m6.lit",
    "sha256": "f684f153f95a2b5aefa4b74845e5a76726d65d6f5444d733af37c3238454b259",
    "timestamp": "2019-12-30T19:47:42.000Z"
   },
-  {
+  "smej/maps/w1m6.map": {
    "bytes": 3382504,
-   "path": "smej/maps/w1m6.map",
    "sha256": "b028138a733b340415f021f7f43c429c3bea44c8cf1eee37eb451184e1a0a37c",
    "timestamp": "2019-12-30T19:47:42.000Z"
   },
-  {
+  "smej/maps/w1m7.bsp": {
    "bytes": 21431268,
-   "path": "smej/maps/w1m7.bsp",
    "sha256": "13f22d54cf2c0e317a897f01a8f1c228de8c86bc3cba82e451d98327716cc84f",
    "timestamp": "2019-12-30T02:04:26.000Z"
   },
-  {
+  "smej/maps/w1m7.lit": {
    "bytes": 7178792,
-   "path": "smej/maps/w1m7.lit",
    "sha256": "b107db7b8cbdd955d6b12dbb43343dafe9561735323c229f574d384e574f7862",
    "timestamp": "2019-12-30T02:04:26.000Z"
   },
-  {
+  "smej/maps/w1m7.map": {
    "bytes": 10274016,
-   "path": "smej/maps/w1m7.map",
    "sha256": "d9e4d2fb8b68bc14635e055632b22109936748c27d8d3c16c4ea78e6953c731b",
    "timestamp": "2019-12-30T02:03:32.000Z"
   },
-  {
+  "smej/maps/w1m7_readme.txt": {
    "bytes": 1878,
-   "path": "smej/maps/w1m7_readme.txt",
    "sha256": "e694cb1c23c5dff134ad0abd4edbb1de79d3e20f6e6100116ceafe2e60150cd5",
    "timestamp": "2019-12-28T00:53:02.000Z"
   },
-  {
+  "smej/maps/w1s1.bsp": {
    "bytes": 6648124,
-   "path": "smej/maps/w1s1.bsp",
    "sha256": "7ebce665644fbe0413fffacb95c69e788ab318937fb86bb78d2c1b94dd4460dc",
    "timestamp": "2019-12-26T02:56:14.000Z"
   },
-  {
+  "smej/maps/w1s1.lit": {
    "bytes": 2110178,
-   "path": "smej/maps/w1s1.lit",
    "sha256": "acba5f1ce4400182f9cd8e917dfd404341fd7c96c1095b3c029f7967b652ee86",
    "timestamp": "2019-12-26T02:56:14.000Z"
   },
-  {
+  "smej/maps/w1s1.map": {
    "bytes": 7276725,
-   "path": "smej/maps/w1s1.map",
    "sha256": "1c94462d7f63c04bdccd3e4510f7f2fceeae0e1f71aaa72363a7545d41c7beb6",
    "timestamp": "2019-12-25T17:37:46.000Z"
   },
-  {
+  "smej/maps/w1s1.txt": {
    "bytes": 2181,
-   "path": "smej/maps/w1s1.txt",
    "sha256": "414d2c77f448cc0316c845a6d09dfb61fb78845317e0904e8e598bd46b72d45b",
    "timestamp": "2019-09-01T11:23:08.000Z"
   },
-  {
+  "smej/music/": {
    "bytes": 0,
-   "path": "smej/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-12-29T18:29:10.000Z"
   },
-  {
+  "smej/music/track117.ogg": {
    "bytes": 16238928,
-   "path": "smej/music/track117.ogg",
    "sha256": "5ce10c4e891754cbfe1ac825b0e1d4ceff127352d164e40c734c1ac65def3687",
    "timestamp": "2019-08-04T21:56:58.000Z"
   },
-  {
+  "smej/music/track15.ogg": {
    "bytes": 13347852,
-   "path": "smej/music/track15.ogg",
    "sha256": "18d6fea1aa6851cd777cd5753d6c3c681d58b6e4197c9cfaa415c11c1ba54034",
    "timestamp": "2019-08-06T19:16:30.000Z"
   },
-  {
+  "smej/music/track29.ogg": {
    "bytes": 15713458,
-   "path": "smej/music/track29.ogg",
    "sha256": "63c0249fee913e50002e518bed0e8b6c150c790351be148dd410b8e70cab4331",
    "timestamp": "2019-08-04T11:52:10.000Z"
   },
-  {
+  "smej/music/track30.ogg": {
    "bytes": 22188156,
-   "path": "smej/music/track30.ogg",
    "sha256": "6345929ed1bb6c33f344034df56e3042d3556628e5c879e830987fa33a9a3e6f",
    "timestamp": "2019-12-16T17:15:40.000Z"
   },
-  {
+  "smej/music/track31.ogg": {
    "bytes": 14523566,
-   "path": "smej/music/track31.ogg",
    "sha256": "fa37fd335d5404320f1bdf4f5ca290f8c5dd460eab717eecfeb3424719e9ec15",
    "timestamp": "2019-12-19T13:55:18.000Z"
   },
-  {
+  "smej/music/track32.ogg": {
    "bytes": 7506526,
-   "path": "smej/music/track32.ogg",
    "sha256": "cbc3943e962a28f5b55c48943332c1266369931c946a883a925c61a4604dda28",
    "timestamp": "2019-12-29T18:27:30.000Z"
   },
-  {
+  "smej/music/track33.ogg": {
    "bytes": 7469659,
-   "path": "smej/music/track33.ogg",
    "sha256": "7f4cfbd62fd331714d6655909de47af2117f3a2837558a4838aa3cd5279aab70",
    "timestamp": "2019-12-29T18:27:18.000Z"
   },
-  {
+  "smej/music/track45.ogg": {
    "bytes": 14736051,
-   "path": "smej/music/track45.ogg",
    "sha256": "a4d1466b8472fc01592d91a846dc1890bd7f930e9e1309cf4be31ed6e1e87b40",
    "timestamp": "2019-08-13T09:17:28.000Z"
   },
-  {
+  "smej/music/track66.ogg": {
    "bytes": 7089542,
-   "path": "smej/music/track66.ogg",
    "sha256": "6377fc591678095634c9971768fbf0b0cce2caf72b95d19c181203044b93fa23",
    "timestamp": "2019-11-20T21:24:34.000Z"
   },
-  {
+  "smej/pak0.pak": {
    "bytes": 3566343,
-   "path": "smej/pak0.pak",
    "sha256": "425f8984ce158653dfc9d226b4ab8190ff5a8550bb5a69e4da36b6c9ec9e804f",
    "timestamp": "2019-12-30T14:52:02.000Z"
   },
-  {
+  "smej/pak1.pak": {
    "bytes": 663170,
-   "path": "smej/pak1.pak",
    "sha256": "e223d16fa16c94434cec5f26c51d1ae37d07ff47122f2d37e41210cb301f1712",
    "timestamp": "2019-12-30T14:51:52.000Z"
   },
-  {
+  "smej/quake.rc": {
    "bytes": 1098,
-   "path": "smej/quake.rc",
    "sha256": "185da72645d8b26360bc1b4c5d33994f4fcadb2646d1d136262fad3bad5f9835",
    "timestamp": "2019-06-18T05:06:24.000Z"
   },
-  {
+  "smej/smej.txt": {
    "bytes": 3187,
-   "path": "smej/smej.txt",
    "sha256": "84fe2846d7b7c06acacc9feb2ddc66c364f5dc9d3b5bcad51b0d0967d0f01635",
    "timestamp": "2019-12-30T18:37:30.000Z"
   },
-  {
+  "smej/sound/": {
    "bytes": 0,
-   "path": "smej/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-12-16T18:03:50.000Z"
   },
-  {
+  "smej/sound/mine/": {
    "bytes": 0,
-   "path": "smej/sound/mine/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-12-16T18:03:50.000Z"
   },
-  {
+  "smej/sound/mine/mine_idle.wav": {
    "bytes": 756212,
-   "path": "smej/sound/mine/mine_idle.wav",
    "sha256": "95514363ac20bb0dbcccff25615c905b499226e2622422395b80a349649e8a37",
    "timestamp": "2018-04-16T13:25:20.000Z"
   },
-  {
+  "smej/sound/mine/mine_screams.wav": {
    "bytes": 176618,
-   "path": "smej/sound/mine/mine_screams.wav",
    "sha256": "6923c93ae3d263a37fe7d53f60ba2398a33f08d5139e01ea23ad0fe75b1565da",
    "timestamp": "2019-08-03T14:34:00.000Z"
   },
-  {
+  "smej/sound/w1m3/": {
    "bytes": 0,
-   "path": "smej/sound/w1m3/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-07-27T13:18:48.000Z"
   },
-  {
+  "smej/sound/w1m3/laugh02.wav": {
    "bytes": 29884,
-   "path": "smej/sound/w1m3/laugh02.wav",
    "sha256": "75d6bf6be3f7aadff6478ad867c5f5f7a36c849734eb6bcd5ec7a3a42e612483",
    "timestamp": "2019-07-22T15:21:36.000Z"
   },
-  {
+  "smej/sound/w1m3/laugh03.wav": {
    "bytes": 42072,
-   "path": "smej/sound/w1m3/laugh03.wav",
    "sha256": "636d5cb018c5be4b66f2d680cda89e9374d7c0db1a995c98f9cf6c83c6e93736",
    "timestamp": "2019-07-27T13:18:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "An updated version (1.13) is available <a href=\"https://www.quaddicted.com/filebase/smej_1.13.zip\">here</a>.",
   "These maps require a source port with increased limits."

@@ -4,24 +4,22 @@
  ],
  "bytes": 919856,
  "description": "Large plain Base map with nonlinear gameplay. A deathmatch map with single player settings.",
- "files": [
-  {
+ "files": {
+  "fact969.bsp": {
    "bytes": 2366672,
-   "path": "fact969.bsp",
    "sha256": "4782ae9fbe9a5b8ef4075af47aa5a31e8aa14698f16c2a5b5bd220c742c91586",
    "timestamp": "1998-03-17T17:25:40.000Z"
   },
-  {
+  "fact969.txt": {
    "bytes": 1831,
-   "path": "fact969.txt",
    "sha256": "8dbd579190ad10af460d81b2d04bc521ad1066271f18ec84a57f8c5ac58f2b9a",
    "timestamp": "1998-03-17T18:10:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-03-17",
  "sha256": "c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493",
  "tags": [

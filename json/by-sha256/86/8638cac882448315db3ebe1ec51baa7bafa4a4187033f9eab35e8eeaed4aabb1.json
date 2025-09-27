@@ -5,48 +5,42 @@
  ],
  "bytes": 53512930,
  "description": "Expansion mod featuring many new monsters, weapons, items and QC features. Some maps are included for demo purposes but the primary aim is to provide a new/improved set of entities for mappers to use. Many subsequently released maps require Quoth to be installed, making it an essential download for players too.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 48226771,
-   "path": "pak0.pak",
    "sha256": "ddace91ad8a3e3d436c95efea430f5dbd8a319f511a6f7d2d05ac6fffc68ffe6",
    "timestamp": "2008-02-06T19:38:38.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 84961704,
-   "path": "pak1.pak",
    "sha256": "fdc0703ba7a16def597892eacb384bbe137c20ef6034f5038d9f748791f5c14c",
    "timestamp": "2008-03-08T17:54:20.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 4846686,
-   "path": "pak2.pak",
    "sha256": "36efab4aeef671264d7d10d683bba1fbce6aa4b5b716e8245a79406029ab6098",
    "timestamp": "2008-07-17T16:08:36.000Z"
   },
-  {
+  "quoth.txt": {
    "bytes": 2196,
-   "path": "quoth.txt",
    "sha256": "5656b35765cdfd5fda47ca7eeb2dd5fed47accaeaad2ca95f8dcd2cce13117d0",
    "timestamp": "2005-11-05T15:33:30.000Z"
   },
-  {
+  "quoth2.txt": {
    "bytes": 2199,
-   "path": "quoth2.txt",
    "sha256": "61ea26682935d3081c78b3102c8fbd5fff16a6ffbb841fbb4d7df892a07ab3aa",
    "timestamp": "2008-03-08T19:11:30.000Z"
   },
-  {
+  "quoth2_1.txt": {
    "bytes": 2396,
-   "path": "quoth2_1.txt",
    "sha256": "68c8f171f4e6a2c016ad4897a6188b30747055839b1792bfd10abe1288e718ed",
    "timestamp": "2008-07-22T16:28:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is version 2.1 - a patch to version 2.2 is available <a href=\"https://www.quaddicted.com/filebase/quoth2pt2patch_2.zip\">here</a> and version 2.2 (full) is available <a href=\"https://www.quaddicted.com/filebase/quoth2pt2full_2.zip\">here</a>."
  ],

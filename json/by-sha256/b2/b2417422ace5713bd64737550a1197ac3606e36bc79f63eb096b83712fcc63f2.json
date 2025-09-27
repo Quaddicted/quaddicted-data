@@ -4,36 +4,32 @@
  ],
  "bytes": 2429455,
  "description": "Medium-sized idbase industrial facility with tight corridors, glass windows and pipes. The map source is included.",
- "files": [
-  {
+ "files": {
+  "mfxsp8.bsp": {
    "bytes": 4283476,
-   "path": "mfxsp8.bsp",
    "sha256": "cc0d660f26a0fdfbe365baa709268de67770d62adb5be51aca49fb89384c1023",
    "timestamp": "2013-03-23T11:38:16.000Z"
   },
-  {
+  "mfxsp8.map": {
    "bytes": 2595631,
-   "path": "mfxsp8.map",
    "sha256": "bef29bac4886402cd9e9ea957743b7e57bb0f4ae052fb001a4eab087e06032ec",
    "timestamp": "2013-03-23T11:31:40.000Z"
   },
-  {
+  "mfxsp8.qrk": {
    "bytes": 2027995,
-   "path": "mfxsp8.qrk",
    "sha256": "de1893ef694545464be9ee776d110f6ca630b43714f5eed7dcae552e80252787",
    "timestamp": "2013-03-23T11:38:40.000Z"
   },
-  {
+  "mfxsp8.txt": {
    "bytes": 2263,
-   "path": "mfxsp8.txt",
    "sha256": "d9babbc69d0b28c9f48c7879bd0a8de34facda5c33a9a113987e9c47d9554f01",
    "timestamp": "2013-03-24T21:25:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires r_wateralpha to be set to 0.3 and r_waterwarp set to 0 in order to make the windows look correct.<br>This is the fixed second version of the zip."
  ],

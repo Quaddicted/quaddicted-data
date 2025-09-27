@@ -4,24 +4,22 @@
  ],
  "bytes": 1051448,
  "description": "Large Medieval map.",
- "files": [
-  {
+ "files": {
+  "pb2.bsp": {
    "bytes": 2279648,
-   "path": "pb2.bsp",
    "sha256": "75b945a3821d646e549832524a01935cb34be2de8e70fae77b98fd0375c35b7e",
    "timestamp": "1997-04-12T01:30:54.000Z"
   },
-  {
+  "pb2.txt": {
    "bytes": 2387,
-   "path": "pb2.txt",
    "sha256": "56c6104c16b47c97d1f5282734ffe33ee4d1233678276f6a68505d11e3b3673f",
    "timestamp": "1997-04-12T01:52:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-12",
  "sha256": "d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59",
  "tags": [

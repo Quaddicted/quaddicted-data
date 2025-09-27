@@ -4,30 +4,27 @@
  ],
  "bytes": 648987,
  "description": "Small medieval / castle themed puzzle level with no enemies for vanilla Quake. Inspired by the Amiga game Castle Master. Also supports deathmatch. Map source is included.",
- "files": [
-  {
+ "files": {
+  "rgcastle.bsp": {
    "bytes": 1342388,
-   "path": "rgcastle.bsp",
    "sha256": "857b14686ffb2bada3b542cf68054fb7f598ff675f1cc4277acc1965a54b4e67",
    "timestamp": "2022-12-11T15:00:50.000Z"
   },
-  {
+  "rgcastle.map": {
    "bytes": 666992,
-   "path": "rgcastle.map",
    "sha256": "e0706a13b5771669de913ccfa24770534438fd3c1c08ed3d857c4bbee5977f4b",
    "timestamp": "2022-12-11T15:00:44.000Z"
   },
-  {
+  "rgcastle.txt": {
    "bytes": 2823,
-   "path": "rgcastle.txt",
    "sha256": "a94a268c82bd38a36b036dc7c4bbdf7fcdc2c5f55a5f69cf24dc475fc1d60d39",
    "timestamp": "2022-12-11T13:39:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2022-12-11",
  "sha256": "9dc1102b589f6fcd41d6d857c46265cd0b2a37d23b115c3fdf4ac2352e377d36",
  "tags": [

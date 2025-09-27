@@ -4,24 +4,22 @@
  ],
  "bytes": 638404,
  "description": "Medium sized Metal map.",
- "files": [
-  {
+ "files": {
+  "networld.bsp": {
    "bytes": 1486120,
-   "path": "networld.bsp",
    "sha256": "0fd03c019cb15608aa2f3ff9b8cd8d5401b02ac76f10fc0d6f175e22af12f9e9",
    "timestamp": "1997-07-24T11:36:04.000Z"
   },
-  {
+  "networld.txt": {
    "bytes": 3146,
-   "path": "networld.txt",
    "sha256": "c6f24aed72fbab4f1ef37852e2ac4f9199274e198a5909ef345dc1541f54df2d",
    "timestamp": "1997-07-24T09:05:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-07-24",
  "sha256": "85ae898d5e49323dd61d82601e91f11114f3a139ff8c5a86ff8da018829c9198",
  "tags": [

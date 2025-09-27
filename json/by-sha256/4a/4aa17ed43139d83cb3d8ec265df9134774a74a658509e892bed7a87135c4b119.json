@@ -4,24 +4,22 @@
  ],
  "bytes": 657194,
  "description": "Medium sized Wizard/Metal map with a cage ride, an underwater ruin and a few tricks'n'traps.",
- "files": [
-  {
+ "files": {
+  "PMECAGE.BSP": {
    "bytes": 1547388,
-   "path": "PMECAGE.BSP",
    "sha256": "2e9a18058e3b438b0864e51f31b07eb468594edcd28c4807eb0e4c6a80f33f7d",
    "timestamp": "1996-12-17T07:30:06.000Z"
   },
-  {
+  "PMECAGE.TXT": {
    "bytes": 3556,
-   "path": "PMECAGE.TXT",
    "sha256": "d4955d31ce6e426eb20a12866a4597d9dfacfbcb358502134f7d0bd2f278d415",
    "timestamp": "1996-12-17T12:12:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-17",
  "sha256": "4aa17ed43139d83cb3d8ec265df9134774a74a658509e892bed7a87135c4b119",
  "tags": [

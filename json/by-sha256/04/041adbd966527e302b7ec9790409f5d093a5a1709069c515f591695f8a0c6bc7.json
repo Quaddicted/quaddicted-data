@@ -4,36 +4,32 @@
  ],
  "bytes": 2671536,
  "description": "Single player mission consisting of three small to medium, farily plain Wizard maps with a few modified/reskinned monsters and some custents bits. The goal is to infilitrate and secure a medieval lighthouse compound.",
- "files": [
-  {
+ "files": {
+  "PAK0.PAK": {
    "bytes": 6523712,
-   "path": "PAK0.PAK",
    "sha256": "3dbfc5676c986f5f86ba92cbe7aafa56411af747805a2027168b891cfbb1c38e",
    "timestamp": "1997-10-01T00:21:04.000Z"
   },
-  {
+  "hjt.txt": {
    "bytes": 233,
-   "path": "hjt.txt",
    "sha256": "0fe015c162b85a92cfe34767c6ef1c52b2f782ee78f363f658bbe0be76e71712",
    "timestamp": "1997-09-23T17:30:42.000Z"
   },
-  {
+  "lighthse1.hjt": {
    "bytes": 2627,
-   "path": "lighthse1.hjt",
    "sha256": "9613bf9a094014dc6c3c0d9c67e2a47c92e6b10654f8c796e2e081af263c1f08",
    "timestamp": "1997-09-30T16:27:08.000Z"
   },
-  {
+  "lighthse1.txt": {
    "bytes": 2752,
-   "path": "lighthse1.txt",
    "sha256": "78fb655d0518a65d5b45c7a06ecac2425573de1b8ceb79a52e372a0df84119a9",
    "timestamp": "1997-09-30T16:42:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lighthse/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-01",
  "sha256": "041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7",
  "tags": [

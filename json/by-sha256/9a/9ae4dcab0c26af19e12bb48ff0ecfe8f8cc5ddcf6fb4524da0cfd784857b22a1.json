@@ -5,30 +5,27 @@
  ],
  "bytes": 678374,
  "description": "Unthemed / 2 SP maps / neg!ke, Trinca",
- "files": [
-  {
+ "files": {
+  "sm119_neg!ke.bsp": {
    "bytes": 1337700,
-   "path": "sm119_neg!ke.bsp",
    "sha256": "128120d02619e07e0ad6c13b3d988e4c1c1697f36e69413e741fabe778738393",
    "timestamp": "2006-02-11T15:27:38.000Z"
   },
-  {
+  "sm119_pack.txt": {
    "bytes": 1268,
-   "path": "sm119_pack.txt",
    "sha256": "a57a2d395fd76b7c12e0050f65fbff5fb8498401b0b613742d1d246f249ecb85",
    "timestamp": "2006-02-14T11:38:54.000Z"
   },
-  {
+  "sm119_trinca.bsp": {
    "bytes": 572296,
-   "path": "sm119_trinca.bsp",
    "sha256": "e402ec1fc8e72af50ef3641e4535c8114c50423b60b91ac2bc3d4b4f1ec90076",
    "timestamp": "2006-02-04T19:49:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-02-14",
  "sha256": "9ae4dcab0c26af19e12bb48ff0ecfe8f8cc5ddcf6fb4524da0cfd784857b22a1",
  "tags": [

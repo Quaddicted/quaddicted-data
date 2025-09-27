@@ -4,24 +4,22 @@
  ],
  "bytes": 860982,
  "description": "Short, straightforward medieval map with some Q3 textures.",
- "files": [
-  {
+ "files": {
+  "heresp2.bsp": {
    "bytes": 2359632,
-   "path": "heresp2.bsp",
    "sha256": "082ddb6ecdb060aa161b06cab371aedf7ffb6789d1dd462673b96b0687817b05",
    "timestamp": "2003-11-10T07:42:34.000Z"
   },
-  {
+  "heresp2.txt": {
    "bytes": 2067,
-   "path": "heresp2.txt",
    "sha256": "6966cb00e60759362d56fbeee3487153a59e2e3000e998d780d70801f8786056",
    "timestamp": "2003-11-10T18:05:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-11-10",
  "sha256": "fb90d816bd5049dcfcefc6f701a84bff63bf9403fe8d1e4488be466ab43167dc",
  "tags": [

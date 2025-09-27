@@ -4,42 +4,37 @@
  ],
  "bytes": 1489772,
  "description": "Two medium sized Wizard/brick levels featuring Snakeman, Manga Babe and Willy the Spider monsters.",
- "files": [
-  {
+ "files": {
+  "PAK0.PAK": {
    "bytes": 3269870,
-   "path": "PAK0.PAK",
    "sha256": "ce42338d172bb7d7cd2f54ebff95f8ebb3f794b300abb9ef7a67f470084c32e8",
    "timestamp": "1996-12-02T10:31:32.000Z"
   },
-  {
+  "SNAKEMAN.TXT": {
    "bytes": 4744,
-   "path": "SNAKEMAN.TXT",
    "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
    "timestamp": "1996-10-24T12:17:36.000Z"
   },
-  {
+  "manga.txt": {
    "bytes": 2019,
-   "path": "manga.txt",
    "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
    "timestamp": "1996-11-03T23:57:58.000Z"
   },
-  {
+  "spider.txt": {
    "bytes": 2615,
-   "path": "spider.txt",
    "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
    "timestamp": "1996-10-09T05:52:48.000Z"
   },
-  {
+  "tefdbl1.txt": {
    "bytes": 8042,
-   "path": "tefdbl1.txt",
    "sha256": "08cfb5133e37d097433a1084eb895e64744d13dc02ba79e7d7afda047408db04",
    "timestamp": "1996-12-02T20:48:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/tefdbl/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-02",
  "sha256": "f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a",
  "tags": [

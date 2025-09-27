@@ -4,444 +4,372 @@
  ],
  "bytes": 3223141,
  "description": "Updated version of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a>, featuring bug-fixes and further gameplay tweaks, particularly concerning coop mode. The mod source is included.",
- "files": [
-  {
+ "files": {
+  "copper/": {
    "bytes": 0,
-   "path": "copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-05-08T17:44:18.000Z"
   },
-  {
+  "copper/copper.def": {
    "bytes": 95190,
-   "path": "copper/copper.def",
    "sha256": "76bad2b4532b9d386442399223b3a927f649feb5f275d5c45f91261dc71e0dae",
    "timestamp": "2020-07-15T10:58:54.000Z"
   },
-  {
+  "copper/copper.fgd": {
    "bytes": 45520,
-   "path": "copper/copper.fgd",
    "sha256": "cd4b70e39021c38e104d66121ea4b9b9de34040a29243e5be04131a9868b1722",
    "timestamp": "2020-07-15T10:58:54.000Z"
   },
-  {
+  "copper/copper_v1_11.txt": {
    "bytes": 73938,
-   "path": "copper/copper_v1_11.txt",
    "sha256": "dacdc0e5b21355738449ba4d4c08ed950ba8e9fb807324ef5a8d585e66db76ab",
    "timestamp": "2020-07-14T19:24:02.000Z"
   },
-  {
+  "copper/pak0.pak": {
    "bytes": 3627440,
-   "path": "copper/pak0.pak",
    "sha256": "9a43288e327e421ec6c002b46fa59454bc459b39c78ec040ca061ef885baa875",
    "timestamp": "2020-07-13T10:30:32.000Z"
   },
-  {
+  "copper/progs.dat": {
    "bytes": 515406,
-   "path": "copper/progs.dat",
    "sha256": "c21705657403406c7bad4aca7c2e56f9d683d6d40dd7db68f36ae547bc318da9",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/quake.rc": {
    "bytes": 1098,
-   "path": "copper/quake.rc",
    "sha256": "185da72645d8b26360bc1b4c5d33994f4fcadb2646d1d136262fad3bad5f9835",
    "timestamp": "2019-06-17T20:06:22.000Z"
   },
-  {
+  "copper/src/": {
    "bytes": 0,
-   "path": "copper/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-12-08T20:37:58.000Z"
   },
-  {
+  "copper/src/ai.qc": {
    "bytes": 35113,
-   "path": "copper/src/ai.qc",
    "sha256": "22001e413d522826bd1fa6e715df7b2167f0a7a586d3ad6450238eb89b3beb51",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/buttons.qc": {
    "bytes": 5680,
-   "path": "copper/src/buttons.qc",
    "sha256": "8b6396ca7e380508ffdd913c531258cdbd42c4d60b3d0b7bd0bb29d417eef7e4",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/client.qc": {
    "bytes": 45506,
-   "path": "copper/src/client.qc",
    "sha256": "a0d32a0a00581a5f6d21e11af09ba89cea5867db86bcd6e08a7ecab1cfa33701",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/combat.qc": {
    "bytes": 17002,
-   "path": "copper/src/combat.qc",
    "sha256": "b0f022958d7b033e0c92055b2485c0f320d2517da31bb70cbd6badba6b50cc0b",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/constants.qc": {
    "bytes": 8462,
-   "path": "copper/src/constants.qc",
    "sha256": "db5a9b0247b95385ceabad065b31c5570f18813ad50bb0596ae3b4b2fed5d1f0",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/defs.qc": {
    "bytes": 16961,
-   "path": "copper/src/defs.qc",
    "sha256": "f4d526fba023ebdb97133410a4802cb7c5efb1e31696bbc5ab7ebe43f133f322",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/dev.qc": {
    "bytes": 6083,
-   "path": "copper/src/dev.qc",
    "sha256": "b6072e091647fe68d1fc24f17bf02854f6ad08bcd36792671ea71429a4603c6c",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/doors.qc": {
    "bytes": 26351,
-   "path": "copper/src/doors.qc",
    "sha256": "3fdd88923100e4c39a0a6fb0e7c4c9990b5a60863dbfe998b31738d6fc89d88c",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/explobox.qc": {
    "bytes": 6558,
-   "path": "copper/src/explobox.qc",
    "sha256": "41ac491efcfef7de7bdbe30106a807b01910666433d081b45aa73104a4afe120",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/fly.qc": {
    "bytes": 4968,
-   "path": "copper/src/fly.qc",
    "sha256": "03a1695d77b67e654d60005594cccd9763c5232880c4e57a969199f912bbfa78",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/fog.qc": {
    "bytes": 10164,
-   "path": "copper/src/fog.qc",
    "sha256": "301fc00e06a126960d2da61e866c06f04c1ba1bee49f3d36118b55ebe838f038",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/fx.qc": {
    "bytes": 21057,
-   "path": "copper/src/fx.qc",
    "sha256": "290d27abc79e6b1b7735a9d7f53d800443f50246c15e02dcb9c545f67a8dbc2b",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/impulse.qc": {
    "bytes": 5168,
-   "path": "copper/src/impulse.qc",
    "sha256": "1be220f614c6da8c96263ed79e699ac6c4661050eb4c23f1fa07912780145397",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/item_backpack.qc": {
    "bytes": 8143,
-   "path": "copper/src/item_backpack.qc",
    "sha256": "9c4cc043360fd5e10ca9572b58cdf317b06b3f7a18c4de267fe741085771494e",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/item_health_armor.qc": {
    "bytes": 8153,
-   "path": "copper/src/item_health_armor.qc",
    "sha256": "90bb116b578a7b3075d4c9f06e8bf8b4c8f766483d130f8fa6e5728666f54cc8",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/item_keys_runes.qc": {
    "bytes": 9247,
-   "path": "copper/src/item_keys_runes.qc",
    "sha256": "686ed22751683b53ad4cb201ff7f028e3171203ed3331935ce9c8c84eb6f4c5e",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/item_powerups.qc": {
    "bytes": 7370,
-   "path": "copper/src/item_powerups.qc",
    "sha256": "6fc2f2187990b9cf3c00810e054307c5ec5484c73e0ee86c723e04e20476019b",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/item_weap_ammo.qc": {
    "bytes": 13507,
-   "path": "copper/src/item_weap_ammo.qc",
    "sha256": "a8adfb512610feaacab560e4d48c3c76cd1a52721438e60225b7f3e482107967",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/items.qc": {
    "bytes": 25362,
-   "path": "copper/src/items.qc",
    "sha256": "427dd8a0f1d2711a34c4c589f9fbe81fdc26d17dcf0dd8dc7a3dd3b2299c1298",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/lights.qc": {
    "bytes": 23020,
-   "path": "copper/src/lights.qc",
    "sha256": "3a2d3c7ca8c3466fb079d7013a6c88cb4b67c02e9b08ccd0fd8067a2b30edddd",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_boss.qc": {
    "bytes": 15876,
-   "path": "copper/src/m_boss.qc",
    "sha256": "899b17872b330c8e60e05cf2a245c315a75b1270e4c206517b409ab43e6a8d2f",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_demon.qc": {
    "bytes": 19035,
-   "path": "copper/src/m_demon.qc",
    "sha256": "41f420faea654603b483a6e46eb927d866b255cb3e511f1854bbfb5a7857bb18",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_dog.qc": {
    "bytes": 11697,
-   "path": "copper/src/m_dog.qc",
    "sha256": "4c64651647b629bed49729064d889ecf2f3b7dd4c23b8b230b5840686c7b535f",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_enforcer.qc": {
    "bytes": 12508,
-   "path": "copper/src/m_enforcer.qc",
    "sha256": "9a25b3287fa85c66362521acc05917cadc81f5aeeabcb62a9af37e89d8462071",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_fish.qc": {
    "bytes": 10623,
-   "path": "copper/src/m_fish.qc",
    "sha256": "2a16af59c4b1712daf8f1c45893fc8e16f7ab231660a32101d6e182c2bd3b54b",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_hknight.qc": {
    "bytes": 20049,
-   "path": "copper/src/m_hknight.qc",
    "sha256": "8d2c4780adf31050ce652342af6d6446263410afec620dd8a231bc559e75454e",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_knight.qc": {
    "bytes": 11762,
-   "path": "copper/src/m_knight.qc",
    "sha256": "d07e7ce401482a0a3988fbc8ff2c0cecec2954bf6077ba0864084c2db5f1a9df",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_ogre.qc": {
    "bytes": 17432,
-   "path": "copper/src/m_ogre.qc",
    "sha256": "7008e73ed360c20540d3ae8ccb492c57543fe2136828e3b92474109126693c62",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_oldone.qc": {
    "bytes": 12367,
-   "path": "copper/src/m_oldone.qc",
    "sha256": "080afb19fe4b54919381858edf85ca8b091cab10c1488c30ba4e5083aaf74128",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_shalrath.qc": {
    "bytes": 12524,
-   "path": "copper/src/m_shalrath.qc",
    "sha256": "071a0079e297e20f5e29f2b245c4036185df885b89c0e0ac5c02591f12faad03",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_shambler.qc": {
    "bytes": 16633,
-   "path": "copper/src/m_shambler.qc",
    "sha256": "12eb73c39324a7d0f359e291761ca1fe0fbdfdd014789eedee1fb87c6cd8bc0e",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_soldier.qc": {
    "bytes": 12558,
-   "path": "copper/src/m_soldier.qc",
    "sha256": "60fcfd0c738528dc33f893d72ce9968af93705d49b1e6afa1c403b97ab101c8f",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_tarbaby.qc": {
    "bytes": 11055,
-   "path": "copper/src/m_tarbaby.qc",
    "sha256": "4bd1dd7505f2c57448dc6eda6e950dcb8fbb4d8cfa270e40e2f3e69057e1b699",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_wizard.qc": {
    "bytes": 11938,
-   "path": "copper/src/m_wizard.qc",
    "sha256": "91d78b6c19e1e7584afa4f06570a4ddb85bd0ec2b60778e932507784c14c1cda",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/m_zombie.qc": {
    "bytes": 24692,
-   "path": "copper/src/m_zombie.qc",
    "sha256": "de4ce0acb6479feeca729dc9a14b4bc13aebf764cfdc31320edd445eda9b52cd",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/maths.qc": {
    "bytes": 5828,
-   "path": "copper/src/maths.qc",
    "sha256": "5cc96f1b232f343413b30f9cdbea7890401346dc92efdef32b950ad4e31b82ed",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/meat.qc": {
    "bytes": 6046,
-   "path": "copper/src/meat.qc",
    "sha256": "5abce6e94a0846963c6da28039817dff5e57ff1c5cbcf047ca09e872730a229e",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/misc.qc": {
    "bytes": 23061,
-   "path": "copper/src/misc.qc",
    "sha256": "808aec69abbf6f64ec6b2b8c258402a82e1f8a2dbe6194dd0816ccd06b097c16",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/monsters.qc": {
    "bytes": 13182,
-   "path": "copper/src/monsters.qc",
    "sha256": "e40cfbbc50c7f3455c9b9fa109af93f8ee35f3d43072a11c9100e093682da5e2",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/plats.qc": {
    "bytes": 26822,
-   "path": "copper/src/plats.qc",
    "sha256": "5f0224a5e10c85ef75cf8191e8eebf10a658398532daeefb0b4029df01450e7b",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/player.qc": {
    "bytes": 18847,
-   "path": "copper/src/player.qc",
    "sha256": "fbd614a1c9a781fb71369d1901297931c21ee153c907abaf972b25165bad6546",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/progs.src": {
    "bytes": 1029,
-   "path": "copper/src/progs.src",
    "sha256": "e7b5c4a62fe5086ea17b1e3d6ae235a693ad6050d830eac121a6b4ef8307e4be",
    "timestamp": "2020-04-17T11:28:48.000Z"
   },
-  {
+  "copper/src/projectiles.qc": {
    "bytes": 14846,
-   "path": "copper/src/projectiles.qc",
    "sha256": "297340adf457b4b91497c3b4c127a8b628bf5aef3630281dd59bc3fe2e68e154",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/qc2def.py": {
    "bytes": 1734,
-   "path": "copper/src/qc2def.py",
    "sha256": "834188c6cd46fb0a06489adb8a2da1966d2cf3d42c9b60d1d4b0b70d409ff26d",
    "timestamp": "2019-06-08T16:25:28.000Z"
   },
-  {
+  "copper/src/qc2fgd.py": {
    "bytes": 1940,
-   "path": "copper/src/qc2fgd.py",
    "sha256": "b0186ee402a1bd141f71a7b89a344814b02a65535f109ddbd2be11b71bac0c37",
    "timestamp": "2020-07-11T17:39:10.000Z"
   },
-  {
+  "copper/src/sound.qc": {
    "bytes": 9910,
-   "path": "copper/src/sound.qc",
    "sha256": "79e1986c551bf7a3be39efd6b6865743c8a4617cbc2a90be2b0d84357a6f1718",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/subs.qc": {
    "bytes": 2599,
-   "path": "copper/src/subs.qc",
    "sha256": "dd51915d02d68b0fdb7e19e89e7102f1f025c2e3b640bdd0030ceedd15ccacfa",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/subs_move.qc": {
    "bytes": 4151,
-   "path": "copper/src/subs_move.qc",
    "sha256": "e2cd4351a8cee64e8ae084952aab178a16c96a1284a52b7a560be0d412c80bfd",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/subs_tgt.qc": {
    "bytes": 12226,
-   "path": "copper/src/subs_tgt.qc",
    "sha256": "82cd975041dbf267f2ed2652b6c08cd00d633f3f8241d741b5d646765e5f9669",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/t_ctrl.qc": {
    "bytes": 15633,
-   "path": "copper/src/t_ctrl.qc",
    "sha256": "396739ff296a12c9a13e5530db39b1178cfdcd3f20c4238708efb68d6e67d4ee",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/t_level.qc": {
    "bytes": 13995,
-   "path": "copper/src/t_level.qc",
    "sha256": "6b4bd9f857dfc712aa677b572e3274807e0f00ba473435dbf798125733d4b376",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/t_tele.qc": {
    "bytes": 18129,
-   "path": "copper/src/t_tele.qc",
    "sha256": "94236d28fe8510667b28d12e9af527b307193472681fc0c9b271e260b76f1af8",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/t_void.qc": {
    "bytes": 14479,
-   "path": "copper/src/t_void.qc",
    "sha256": "97b61f706e69e2f4be9e92ff08ad1cf3c8e1e0988e9fb0f8408e8d4ab20a0bae",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/test.qc": {
    "bytes": 329,
-   "path": "copper/src/test.qc",
    "sha256": "1db99110de27d9e6fe20330cbfefde0d443455a85a12ae8443d9ea295e66c3f1",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/triggers.qc": {
    "bytes": 34030,
-   "path": "copper/src/triggers.qc",
    "sha256": "b34dc1d2b4989823d1a1c408fce369230c19050639d9c623415577075ddc2816",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/utility.qc": {
    "bytes": 16092,
-   "path": "copper/src/utility.qc",
    "sha256": "96b8c2dd449b30c23a97e948e387d6572013142d97ddbc17d49373a688173877",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/w_axe.qc": {
    "bytes": 3268,
-   "path": "copper/src/w_axe.qc",
    "sha256": "8b2a40242dbab3b796fe833c2ae95117c8e9cd7dc290298a2aaca6cb1a4b77b4",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/w_lightning.qc": {
    "bytes": 9907,
-   "path": "copper/src/w_lightning.qc",
    "sha256": "c7824c070a9c21fd3e8f0b0fc0e304ff42a7e0900a8038519d0e56923099aee2",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/w_nails.qc": {
    "bytes": 4777,
-   "path": "copper/src/w_nails.qc",
    "sha256": "02fcc5407be178172762ea714a328a397f52eaea924833fbda85c2fb82033189",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/w_rockets.qc": {
    "bytes": 3491,
-   "path": "copper/src/w_rockets.qc",
    "sha256": "4516015d1495adf702b18d4e63feecd085f620b2b412d419fd3645156468a286",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/w_shotguns.qc": {
    "bytes": 4435,
-   "path": "copper/src/w_shotguns.qc",
    "sha256": "f0688dcbb2838626f06a52786e8b40dc9a404b29f5078d5c87a5625f35d25d58",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/walls.qc": {
    "bytes": 8892,
-   "path": "copper/src/walls.qc",
    "sha256": "8ec84c192e84f40e7bf89eec2befcebaaedae326c4f9a5cd6d13694aceace925",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/weapons.qc": {
    "bytes": 11298,
-   "path": "copper/src/weapons.qc",
    "sha256": "271c1e627b5560f7659e358c3b0b80f5009415d782bad9d13420a73d34ce3584",
    "timestamp": "2020-07-15T10:58:52.000Z"
   },
-  {
+  "copper/src/world.qc": {
    "bytes": 12659,
-   "path": "copper/src/world.qc",
    "sha256": "3d90ff8fb2178910080c2f2f9deecd92ade90197e43078ada067f5635ebeb16a",
    "timestamp": "2020-07-15T10:58:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is a standalone version which does not require the previous one.<br>A newer version is available <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">here</a>."
  ],

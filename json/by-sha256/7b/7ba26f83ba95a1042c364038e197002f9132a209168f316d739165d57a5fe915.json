@@ -4,30 +4,27 @@
  ],
  "bytes": 3481468,
  "description": "Large Wizard-textured castle. The map source is included.",
- "files": [
-  {
+ "files": {
+  "README - jpqm3 - Forgotten Fortress.txt": {
    "bytes": 2828,
-   "path": "README - jpqm3 - Forgotten Fortress.txt",
    "sha256": "5ba4e6e00551c044cef6acb6d596a775d2372987fa2603674828ff726e90dcb4",
    "timestamp": "2020-05-18T13:00:40.000Z"
   },
-  {
+  "id1/maps/jpqm3.bsp": {
    "bytes": 8106988,
-   "path": "id1/maps/jpqm3.bsp",
    "sha256": "99bb26f317bd19da5088f61e478ab9ed5bc42be9a93254c8fd82bc7e75ba3732",
    "timestamp": "2020-05-18T18:30:00.000Z"
   },
-  {
+  "id1/maps/jpqm3.map": {
    "bytes": 5802760,
-   "path": "id1/maps/jpqm3.map",
    "sha256": "db0764eab8e47367d6bda2f8cd373e616c473693ed7ea605f54e46b381c5562e",
    "timestamp": "2020-05-18T18:29:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "An updated version is available <a href=\"http://www.quaketastic.com/files/single_player/maps/jpqm3v2.zip\">here</a>.",
   "This map requires a source port with increased limits + BSP2 support."

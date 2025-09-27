@@ -4,32 +4,28 @@
  ],
  "bytes": 2795539,
  "description": "A small classic-style medieval castle map. The author's first release.",
- "files": [
-  {
+ "files": {
+  "castle100.bsp": {
    "bytes": 690384,
-   "path": "castle100.bsp",
    "sha256": "ec415b44e42cdd736d25cbc96e7176ee06e7a287b4bf0503838e98246a312cc2",
    "timestamp": "2022-06-06T13:08:50.000Z"
   },
-  {
+  "castle100.txt": {
    "bytes": 626,
-   "path": "castle100.txt",
    "sha256": "841d2ad6881166726518d45c24d51476608d840c661b4c93b3226e9b3fe47f8c",
    "timestamp": "2022-06-06T13:15:58.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-06-06T13:17:28.000Z"
   },
-  {
+  "music/track12.ogg": {
    "bytes": 2558999,
-   "path": "music/track12.ogg",
    "sha256": "8b3a4e3ca2075e809940b6084c17e4bdbc2ad3586aa4bd809ab36aa5e1e89c73",
    "timestamp": "2022-06-01T20:21:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/",
   "extractmapping": {
@@ -37,7 +33,7 @@
    "/music/": "/id1/music/"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Custom music is included, but unfortunately it is packaged in the wrong folder relative to the map files and requires manually moving files to the correct place after unzipping. Thus, the custom music won't work if installed via Quake Injector."
  ],

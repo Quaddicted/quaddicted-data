@@ -4,24 +4,22 @@
  ],
  "bytes": 1015754,
  "description": "A large outdoor/canyon map with temple ruins.",
- "files": [
-  {
+ "files": {
+  "precipice.txt": {
    "bytes": 2465,
-   "path": "precipice.txt",
    "sha256": "5421ba4b79659789837a8108038b76065b780b8b26983b8c00342edfa6922ffc",
    "timestamp": "2001-07-03T00:51:08.000Z"
   },
-  {
+  "precon.bsp": {
    "bytes": 2480556,
-   "path": "precon.bsp",
    "sha256": "d63f3ddf1d452ae7d575380f063b6be2e5fcb0cf473a96b85692ccb8559590e4",
    "timestamp": "2001-07-03T00:13:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-07-03",
  "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "tags": [

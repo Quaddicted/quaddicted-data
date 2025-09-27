@@ -4,24 +4,22 @@
  ],
  "bytes": 452496,
  "description": "Medium sized boxed Metal map.",
- "files": [
-  {
+ "files": {
+  "tef_aop.bsp": {
    "bytes": 970224,
-   "path": "tef_aop.bsp",
    "sha256": "175915dc343842ecb16e23e1e564188ee8139770d4192db52a9ae89fd1ae40b8",
    "timestamp": "1996-11-22T10:46:06.000Z"
   },
-  {
+  "tef_aop.txt": {
    "bytes": 5090,
-   "path": "tef_aop.txt",
    "sha256": "7e64671a545f767ab59eb000efe718e367fc0c82b74e76cc75013ba91bcdf18f",
    "timestamp": "1996-11-22T11:49:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-11-22",
  "sha256": "d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168",
  "tags": [

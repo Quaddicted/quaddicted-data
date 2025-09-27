@@ -4,36 +4,32 @@
  ],
  "bytes": 3233156,
  "description": "A remake/remix of DM6 'The Dark Zone': Quake's stock deathmatch level turned into a large, industrial base-style singleplayer map. The map source is included.",
- "files": [
-  {
+ "files": {
+  "dm6rmx.bsp": {
    "bytes": 5469364,
-   "path": "dm6rmx.bsp",
    "sha256": "191c6c6e948f480c420c7a31a2c66a51ea95846f915302b1a1fced8e5cf6c4ac",
    "timestamp": "2018-10-08T15:00:08.000Z"
   },
-  {
+  "dm6rmx.lit": {
    "bytes": 1769966,
-   "path": "dm6rmx.lit",
    "sha256": "38a212db048f3dfba7dc09269039f2a9735af50affdd2322fc153dca7c3a50b8",
    "timestamp": "2018-10-08T15:00:08.000Z"
   },
-  {
+  "dm6rmx.map": {
    "bytes": 4275710,
-   "path": "dm6rmx.map",
    "sha256": "69b0b674f4eb05dbf0a2643fd3476cfa39ce04a52d0d4e2234e0a0c90f54d436",
    "timestamp": "2018-10-08T15:03:50.000Z"
   },
-  {
+  "dm6rmx.txt": {
    "bytes": 11278,
-   "path": "dm6rmx.txt",
    "sha256": "ef9111cf20c414debf76dafa838707f1751f16c360cb675d228171c69f272ad8",
    "timestamp": "2018-10-08T15:10:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

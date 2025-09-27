@@ -4,36 +4,32 @@
  ],
  "bytes": 1899586,
  "description": "Small brick building inside a cavern. The map source and a walkthrough demo are included.",
- "files": [
-  {
+ "files": {
+  "wbase.bsp": {
    "bytes": 1923072,
-   "path": "wbase.bsp",
    "sha256": "a233fc3635360caf228d57c63951fc7876578a73a169b2350184d045ed77dd80",
    "timestamp": "2021-07-30T15:17:18.000Z"
   },
-  {
+  "wbase.map": {
    "bytes": 1449795,
-   "path": "wbase.map",
    "sha256": "1d940baa3e4b2618128675ce906d1fd7416ee9e6312c1280a443738209f639da",
    "timestamp": "2021-07-30T15:16:50.000Z"
   },
-  {
+  "wbase_readme.txt": {
    "bytes": 1250,
-   "path": "wbase_readme.txt",
    "sha256": "20388ec8be853527057cefc33888a19f2ac00a733937ad5c529ee5a87cd0198a",
    "timestamp": "2021-07-30T21:11:38.000Z"
   },
-  {
+  "wbase_walkthrough.dem": {
    "bytes": 1203104,
-   "path": "wbase_walkthrough.dem",
    "sha256": "267ff54d064f2bbf2202caf191f2b993db9f6cbcedbc003802a15c45698aafb0",
    "timestamp": "2021-07-30T20:50:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-07-30",
  "sha256": "f41c2f40053a7e3631309a15b3197347c9970871b159a95884f279e73949085e",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 1077135,
  "description": "Short map featuring a large castle engulfed in shadows, surrounded by a lava moat and an open outdoor section.",
- "files": [
-  {
+ "files": {
+  "castle.bsp": {
    "bytes": 2747344,
-   "path": "castle.bsp",
    "sha256": "ae724f77237f976a4a40881cf8692fc4290d5f4efc5a1be07c18c07f416dc108",
    "timestamp": "2024-03-03T20:11:08.000Z"
   },
-  {
+  "castle.map": {
    "bytes": 681363,
-   "path": "castle.map",
    "sha256": "f5ecfa9412451b18bf027e3149bc230c0b86419c594d23f971a9f1d3f336a861",
    "timestamp": "2024-03-03T19:38:34.000Z"
   },
-  {
+  "castle_readme.txt": {
    "bytes": 1641,
-   "path": "castle_readme.txt",
    "sha256": "eafca185786ce0678372ece720b8d78ea33618053a0c4600bbf7ed9c40102879",
    "timestamp": "2024-03-03T20:15:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

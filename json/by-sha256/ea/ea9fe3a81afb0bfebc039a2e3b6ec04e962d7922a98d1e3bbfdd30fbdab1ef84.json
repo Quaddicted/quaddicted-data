@@ -4,24 +4,22 @@
  ],
  "bytes": 827390,
  "description": "Small-to-medium egypt style outpost surrounded by snowy mountains.",
- "files": [
-  {
+ "files": {
+  "A3.TXT": {
    "bytes": 23070,
-   "path": "A3.TXT",
    "sha256": "a9fb2428a13910e651217e5e2acb4a321db03820a69fff361919db902b371b6b",
    "timestamp": "2000-04-01T19:56:52.000Z"
   },
-  {
+  "a3.bsp": {
    "bytes": 2056224,
-   "path": "a3.bsp",
    "sha256": "bf888acf229b7f06e7bc12bf525571f7d5a243c50e815cf3ab85f4591cc45709",
    "timestamp": "2000-04-01T19:16:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-04-01",
  "sha256": "ea9fe3a81afb0bfebc039a2e3b6ec04e962d7922a98d1e3bbfdd30fbdab1ef84",
  "tags": [

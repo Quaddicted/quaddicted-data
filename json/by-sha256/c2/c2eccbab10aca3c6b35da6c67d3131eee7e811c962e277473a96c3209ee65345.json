@@ -4,24 +4,22 @@
  ],
  "bytes": 848574,
  "description": "Medium-sized lava cavern with a base part.",
- "files": [
-  {
+ "files": {
+  "TOHNSAY.BSP": {
    "bytes": 1934712,
-   "path": "TOHNSAY.BSP",
    "sha256": "3a50a0dbe60e3f6da7384b0788fffdb8b93253b0e06a1722f2c7c96af93d9e04",
    "timestamp": "1997-12-17T08:50:22.000Z"
   },
-  {
+  "TOHNSAY.TXT": {
    "bytes": 5636,
-   "path": "TOHNSAY.TXT",
    "sha256": "3dd40ae3aed41df8065952412d5652b7228454fe12eea622879295e0b2943d2f",
    "timestamp": "1997-12-20T21:34:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-12-20",
  "sha256": "c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345",
  "tags": [

@@ -4,24 +4,22 @@
  ],
  "bytes": 754722,
  "description": "Medium sized Medieval map. Second part of the Insurrection series - connected to <a href=\"d0c7c70d846a83e3ede93cd6dd26b0f9103d7e6780d7099e389fe71157721333\">ins1</a>, <a href=\"8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e\">ins3</a> and <a href=\"7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f\">ins4</a>. Slightly confusing.",
- "files": [
-  {
+ "files": {
+  "OPUS.BSP": {
    "bytes": 1694048,
-   "path": "OPUS.BSP",
    "sha256": "402c1e7564456c200cea80327c2fe49a375ee1ecc972761c612c8a6faf3c3899",
    "timestamp": "1996-11-14T19:18:58.000Z"
   },
-  {
+  "OPUS.TXT": {
    "bytes": 3247,
-   "path": "OPUS.TXT",
    "sha256": "701943f57a31324a2189e97c9297e11107ce83eaba071a0a711e3042a087cc4b",
    "timestamp": "1997-04-01T07:52:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-01",
  "sha256": "d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6",
  "tags": [

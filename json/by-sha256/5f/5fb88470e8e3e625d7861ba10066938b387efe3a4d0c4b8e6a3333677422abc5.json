@@ -4,36 +4,32 @@
  ],
  "bytes": 1563830,
  "description": "Medium-to-large interconnected IKBase map. Features the Mega Enforcer from Zerst\u00f6rer.",
- "files": [
-  {
+ "files": {
+  "apsp1.bat": {
    "bytes": 1595,
-   "path": "apsp1.bat",
    "sha256": "da257fba45c8bf67a22d52df6ebaedff784da8a25da043aa3f7d08ac0933cc42",
    "timestamp": "2000-08-30T10:23:56.000Z"
   },
-  {
+  "apsp1.txt": {
    "bytes": 5749,
-   "path": "apsp1.txt",
    "sha256": "6fc8e0d500640327e18643ad9655706f6cfd0622d55e28133a10ae7eeb23f091",
    "timestamp": "2000-08-30T10:54:50.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 3306020,
-   "path": "pak0.pak",
    "sha256": "2362da596813dc4abb8480dc385f288f91fd499bb9b6e563209a511dfce6f8b2",
    "timestamp": "2000-08-30T10:55:20.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 431260,
-   "path": "progs.dat",
    "sha256": "6e23a2ff79555455383260634d0a7523464b80a2e50d24cae1e1b77703a866c1",
    "timestamp": "2000-08-18T18:03:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/apsp1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Some engine ports render the elevator at the beginning in the wrong position (not a critical bug). A hotfix</a> is available for ports that support .ent files."
  ],

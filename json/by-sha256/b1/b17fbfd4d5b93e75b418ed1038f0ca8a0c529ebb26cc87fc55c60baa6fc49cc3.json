@@ -8,384 +8,322 @@
  ],
  "bytes": 95903111,
  "description": "Mini-jam consisting of four maps + start map, themed around the Malice total conversion (mainly urban environments) with some of its custom entities. All assets and code are included, Malice is not needed to play.",
- "files": [
-  {
+ "files": {
+  "PATCH1013.TXT": {
    "bytes": 3275,
-   "path": "PATCH1013.TXT",
    "sha256": "5fbca4da51b62b5869afa92a5033fcd71dd655207d4167582ceed635402baa9c",
    "timestamp": "2024-04-29T23:48:38.000Z"
   },
-  {
+  "autoexec.cfg": {
    "bytes": 138,
-   "path": "autoexec.cfg",
    "sha256": "1ef715b27fca42882f0bde973508d66f07bc4d13985f38ace1e37a5db1194a34",
    "timestamp": "2024-03-02T02:01:04.000Z"
   },
-  {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-29T23:50:42.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-11T23:11:02.000Z"
   },
-  {
+  "gfx/env/city_bk.tga": {
    "bytes": 786476,
-   "path": "gfx/env/city_bk.tga",
    "sha256": "ae85a323970ca02fd920c5d0fd76ee365bd197530ba652b5e9b4eb9a2044a14c",
    "timestamp": "2024-04-29T23:54:24.000Z"
   },
-  {
+  "gfx/env/city_dn.tga": {
    "bytes": 786476,
-   "path": "gfx/env/city_dn.tga",
    "sha256": "0eb22f580b9b2f9d52a87ceca69ab576aacb6dd97fc983eadbb77577f5e3072f",
    "timestamp": "2024-04-29T23:54:24.000Z"
   },
-  {
+  "gfx/env/city_ft.tga": {
    "bytes": 786476,
-   "path": "gfx/env/city_ft.tga",
    "sha256": "83deb5cc238ead25db579228346f2c15364c18c8a1100fec03ef10ffc1e697d1",
    "timestamp": "2024-04-29T23:54:24.000Z"
   },
-  {
+  "gfx/env/city_lf.tga": {
    "bytes": 786476,
-   "path": "gfx/env/city_lf.tga",
    "sha256": "6e0318d60ba46915e1ec7cb066452b2dece51ec24ba4b47eabc276cf6cc67c28",
    "timestamp": "2024-04-29T23:54:24.000Z"
   },
-  {
+  "gfx/env/city_rt.tga": {
    "bytes": 786476,
-   "path": "gfx/env/city_rt.tga",
    "sha256": "5b01d8904170c202b9c8341cda6d707c63eb359ad77c9a369e2a417b8a165614",
    "timestamp": "2024-04-29T23:54:24.000Z"
   },
-  {
+  "gfx/env/city_up.tga": {
    "bytes": 786476,
-   "path": "gfx/env/city_up.tga",
    "sha256": "26c264fba13d6a0e065282d9c05fc15e1b1f49c8c4b3b1046afbe5e3cca4af5b",
    "timestamp": "2024-04-29T23:54:24.000Z"
   },
-  {
+  "gfx/env/dredd/": {
    "bytes": 0,
-   "path": "gfx/env/dredd/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-11T23:11:10.000Z"
   },
-  {
+  "gfx/env/dredd/wall_bk.tga": {
    "bytes": 2486232,
-   "path": "gfx/env/dredd/wall_bk.tga",
    "sha256": "5c00bfe034b04ae663d62586c2939a502ab178faaba6133fe4c2a1301ab0b2cc",
    "timestamp": "2024-03-30T13:05:20.000Z"
   },
-  {
+  "gfx/env/dredd/wall_dn.tga": {
    "bytes": 2422637,
-   "path": "gfx/env/dredd/wall_dn.tga",
    "sha256": "db05c3b55908d24158093eacc2c54930fe9cf130cc6c447d6142d9e432c9290b",
    "timestamp": "2024-03-30T13:11:46.000Z"
   },
-  {
+  "gfx/env/dredd/wall_ft.tga": {
    "bytes": 2541921,
-   "path": "gfx/env/dredd/wall_ft.tga",
    "sha256": "bcd94093597a06d58d8210b95e86c1bfce182f44026fba75a2e2df99c64659c5",
    "timestamp": "2024-03-30T13:04:46.000Z"
   },
-  {
+  "gfx/env/dredd/wall_lf.tga": {
    "bytes": 2446601,
-   "path": "gfx/env/dredd/wall_lf.tga",
    "sha256": "24b1d910cde6795e1d650122561aa68319bbb8b0e07d70fd1f329705e519ca69",
    "timestamp": "2024-03-30T13:04:28.000Z"
   },
-  {
+  "gfx/env/dredd/wall_rt.tga": {
    "bytes": 2486650,
-   "path": "gfx/env/dredd/wall_rt.tga",
    "sha256": "21f2604746ce8881d931ee7e0c150ecbb644fa282fe54ad26a6d7083d5a595d2",
    "timestamp": "2024-03-30T13:04:10.000Z"
   },
-  {
+  "gfx/env/dredd/wall_up.tga": {
    "bytes": 2652671,
-   "path": "gfx/env/dredd/wall_up.tga",
    "sha256": "a9d6f10548ad57352dca0c954264b6db1d0fa0415bc6b7d82a9fb5aca9dfd1ca",
    "timestamp": "2024-03-30T13:12:30.000Z"
   },
-  {
+  "gfx/env/mean_bk.tga": {
    "bytes": 2482741,
-   "path": "gfx/env/mean_bk.tga",
    "sha256": "c0e2256826872eb3a6f8c1a2ec4f2316ae8bd1cc4b537dd53593ffe7a229fcc5",
    "timestamp": "2024-04-29T23:52:12.000Z"
   },
-  {
+  "gfx/env/mean_dn.tga": {
    "bytes": 2622690,
-   "path": "gfx/env/mean_dn.tga",
    "sha256": "c0791e04a1461f1d5ec923d60111cfc55361b8e7569d41e410b278679f70dcb1",
    "timestamp": "2024-04-29T23:52:12.000Z"
   },
-  {
+  "gfx/env/mean_ft.tga": {
    "bytes": 2507458,
-   "path": "gfx/env/mean_ft.tga",
    "sha256": "096236e153f4709ee9307e17575ec2be4a99bca46af5c435622e02f698a2d6e4",
    "timestamp": "2024-04-29T23:52:12.000Z"
   },
-  {
+  "gfx/env/mean_lf.tga": {
    "bytes": 2599014,
-   "path": "gfx/env/mean_lf.tga",
    "sha256": "355868ac8fa7116ab6cb2ddd983e13d409ed78f0c30dec0cc5e13af8f692678f",
    "timestamp": "2024-04-29T23:52:12.000Z"
   },
-  {
+  "gfx/env/mean_rt.tga": {
    "bytes": 2501648,
-   "path": "gfx/env/mean_rt.tga",
    "sha256": "6804740704902dd38cdc788a42ffdc66ec130712a29eb2dd97d9631d70f5db64",
    "timestamp": "2024-04-29T23:52:12.000Z"
   },
-  {
+  "gfx/env/mean_up.tga": {
    "bytes": 2627299,
-   "path": "gfx/env/mean_up.tga",
    "sha256": "750e33cd62a50edd1babb27b216cdff76a3b7447141d5886c7ecfe7a9cf82d1c",
    "timestamp": "2024-04-29T23:52:12.000Z"
   },
-  {
+  "ironwail.cfg": {
    "bytes": 4011,
-   "path": "ironwail.cfg",
    "sha256": "0500933088406c46ad47770b253b4fc3989fcddbbf3bbcaa3d155c6c8c994b99",
    "timestamp": "2024-05-17T21:32:10.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T21:32:58.000Z"
   },
-  {
+  "maps/mjam_chuma.bsp": {
    "bytes": 3440560,
-   "path": "maps/mjam_chuma.bsp",
    "sha256": "2a2f5f48f3173dde379c0c15ea95c57fa272d48700bd44d5aebbc9b1293df3e2",
    "timestamp": "2024-04-29T23:52:10.000Z"
   },
-  {
+  "maps/mjam_daviddg.bsp": {
    "bytes": 19134052,
-   "path": "maps/mjam_daviddg.bsp",
    "sha256": "899a43b6e4d5da7200423041d00e589d0884bf21048932f5c298d30b4ee6ebf7",
    "timestamp": "2024-04-29T23:50:44.000Z"
   },
-  {
+  "maps/mjam_daviddg.lit": {
    "bytes": 8763824,
-   "path": "maps/mjam_daviddg.lit",
    "sha256": "4a18c91bc77889fc55d71e1b46abf77bacc9054cacd645edc8c259dbf25e452d",
    "timestamp": "2024-04-29T23:50:44.000Z"
   },
-  {
+  "maps/mjam_mrtaufner.bsp": {
    "bytes": 1781944,
-   "path": "maps/mjam_mrtaufner.bsp",
    "sha256": "66ab9c33ff5e5709fb6afdce32176c89bbedc8bcf642076469e84070cffdb6f4",
    "timestamp": "2024-05-17T01:59:20.000Z"
   },
-  {
+  "maps/mjam_mrtaufner.lit": {
    "bytes": 690413,
-   "path": "maps/mjam_mrtaufner.lit",
    "sha256": "6ef4894a280c93d6ba76b754e87c44ddc1626346987bbd0c3b76a848c623ed03",
    "timestamp": "2024-05-17T01:59:20.000Z"
   },
-  {
+  "maps/mjam_roj.bsp": {
    "bytes": 3347252,
-   "path": "maps/mjam_roj.bsp",
    "sha256": "fd46c5562f50491bc23d81559a2a79057af96e07abe10433917fb41aa4abbd86",
    "timestamp": "2024-04-29T23:54:20.000Z"
   },
-  {
+  "maps/mjam_roj.lit": {
    "bytes": 989951,
-   "path": "maps/mjam_roj.lit",
    "sha256": "78aab5933abe373b0417df078cd3ab2fe453d3b8250127f3e359dd0b9ac886fc",
    "timestamp": "2024-04-29T23:54:20.000Z"
   },
-  {
+  "maps/start.bsp": {
    "bytes": 17700104,
-   "path": "maps/start.bsp",
    "sha256": "02b553e5b72e6104dac0a34ccaad445231960b9fb81c3b78bb1f187c13bc687b",
    "timestamp": "2024-05-17T21:27:24.000Z"
   },
-  {
+  "maps/start.lit": {
    "bytes": 3530312,
-   "path": "maps/start.lit",
    "sha256": "1a97c5f691cc71766ffe66da2d081362e5f35db8bc3b0d32d91e4b3dae4b8698",
    "timestamp": "2024-05-17T21:27:24.000Z"
   },
-  {
+  "mapsrc/": {
    "bytes": 0,
-   "path": "mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T21:32:52.000Z"
   },
-  {
+  "mapsrc/mjam_chuma.map": {
    "bytes": 1483424,
-   "path": "mapsrc/mjam_chuma.map",
    "sha256": "7a0a30f2faf66479e4e80422191975f9f8ce790d3927aed7d98466aba55b850a",
    "timestamp": "2024-04-29T23:52:10.000Z"
   },
-  {
+  "mapsrc/mjam_daviddg.map": {
    "bytes": 13289198,
-   "path": "mapsrc/mjam_daviddg.map",
    "sha256": "dd0c4d6fcdac81a2810fb44d85e6395e117331c61072b46dc0236e60b205e36f",
    "timestamp": "2024-04-29T23:50:44.000Z"
   },
-  {
+  "mapsrc/mjam_mrtaufner.map": {
    "bytes": 1039345,
-   "path": "mapsrc/mjam_mrtaufner.map",
    "sha256": "c285aa28a1b2de682e751a2a2f0da312404327633c36d1a34770c5b622edceae",
    "timestamp": "2024-05-17T01:59:32.000Z"
   },
-  {
+  "mapsrc/start.map": {
    "bytes": 16642723,
-   "path": "mapsrc/start.map",
    "sha256": "95ee6edf35d3f4db60041c72186d926f71a3c4053dd998456f3e43f4629ac7e3",
    "timestamp": "2024-05-17T21:20:40.000Z"
   },
-  {
+  "music/": {
    "bytes": 0,
-   "path": "music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T02:07:56.000Z"
   },
-  {
+  "music/track03.mp3": {
    "bytes": 5518021,
-   "path": "music/track03.mp3",
    "sha256": "26ce27828eda5853ca9a091e2ecf312088ca07f602c78aed1d4f2d9c7339da95",
    "timestamp": "2024-04-29T23:48:38.000Z"
   },
-  {
+  "music/track03.ogg": {
    "bytes": 3636659,
-   "path": "music/track03.ogg",
    "sha256": "2ec629090786702c765090ab25d8ddfaed0f06b06e72ebe0de1bd85c7414c1b7",
    "timestamp": "2024-04-29T23:48:38.000Z"
   },
-  {
+  "music/track04.mp3": {
    "bytes": 13574184,
-   "path": "music/track04.mp3",
    "sha256": "e502909904e738a580da4b3e82077ad91df064886398f642d5bca5b8ad630e15",
    "timestamp": "2024-03-02T02:01:06.000Z"
   },
-  {
+  "music/track04.ogg": {
    "bytes": 8751708,
-   "path": "music/track04.ogg",
    "sha256": "f4d06053fc14a6148c5592fc69b78a1e91332422fdfe7bef2f20657d53b0ff5d",
    "timestamp": "2024-03-02T02:01:06.000Z"
   },
-  {
+  "music/track255.mp3": {
    "bytes": 8655057,
-   "path": "music/track255.mp3",
    "sha256": "2ec260cdfe14bcd948bf607c91aa45b7856f4de9693ae4780cb8dc48875a411a",
    "timestamp": "2024-04-03T00:34:58.000Z"
   },
-  {
+  "music/track27.ogg": {
    "bytes": 2630013,
-   "path": "music/track27.ogg",
    "sha256": "3b144539e06a1a11d6f12e4a94969adb3ba38df18c3bf13a747f5d8f9dc523bf",
    "timestamp": "2024-04-29T23:52:10.000Z"
   },
-  {
+  "music/track82.ogg": {
    "bytes": 7836365,
-   "path": "music/track82.ogg",
    "sha256": "74eaae07e709440d59b8ebd220953d63338a3df7591ff14e9a71712602ed50e9",
    "timestamp": "2024-04-29T23:54:20.000Z"
   },
-  {
+  "music/track99.mp3": {
    "bytes": 9902568,
-   "path": "music/track99.mp3",
    "sha256": "ac8938ac572ebe10d93548bd790fddb1e59c23350c7807f0225591aa8de63f74",
    "timestamp": "2024-04-29T23:50:44.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 17821679,
-   "path": "pak0.pak",
    "sha256": "1141f0428a33efece16cd251a6aa2bf28ca3a62af114d5d17d749bc02e7c915d",
    "timestamp": "2024-05-17T02:33:02.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 771948,
-   "path": "pak1.pak",
    "sha256": "259de92c1ceb2fdee23664e38d65158b1172aa270d76f0368167a21723a6fe0c",
    "timestamp": "2024-05-11T23:49:58.000Z"
   },
-  {
+  "pak3.pak": {
    "bytes": 248860,
-   "path": "pak3.pak",
    "sha256": "e97a9a14bd308cf0fc927b60b298b8bed2f7642e7b71210b50b2526227cea6ca",
    "timestamp": "2024-04-29T23:57:50.000Z"
   },
-  {
+  "readmes/": {
    "bytes": 0,
-   "path": "readmes/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-05-17T02:01:34.000Z"
   },
-  {
+  "readmes/mjam_chuma/": {
    "bytes": 0,
-   "path": "readmes/mjam_chuma/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-29T23:53:50.000Z"
   },
-  {
+  "readmes/mjam_chuma/mjam_chuma.txt": {
    "bytes": 2528,
-   "path": "readmes/mjam_chuma/mjam_chuma.txt",
    "sha256": "4975810a8c75ee72829d100c086c9b37fe7eca437d11393b6a99d0c802ef40d2",
    "timestamp": "2024-05-17T02:01:00.000Z"
   },
-  {
+  "readmes/mjam_daviddg/": {
    "bytes": 0,
-   "path": "readmes/mjam_daviddg/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-29T23:55:00.000Z"
   },
-  {
+  "readmes/mjam_daviddg/mjam_daviddg.txt": {
    "bytes": 451,
-   "path": "readmes/mjam_daviddg/mjam_daviddg.txt",
    "sha256": "7ca475054a0045109115f096c9afab123f5d31fc74bd71d9a4e66b05962a2a89",
    "timestamp": "2024-04-29T23:50:44.000Z"
   },
-  {
+  "readmes/mjam_daviddg/spoiler-read.txt": {
    "bytes": 1825,
-   "path": "readmes/mjam_daviddg/spoiler-read.txt",
    "sha256": "bc59e9c15a6d0f87a4a27caf954a95d2779eed0ac665abe30aa2ff736752db78",
    "timestamp": "2024-04-29T23:50:44.000Z"
   },
-  {
+  "readmes/mjam_mrtaufner.txt": {
    "bytes": 1750,
-   "path": "readmes/mjam_mrtaufner.txt",
    "sha256": "b883555c2dc9c921e5c7d2e44053e40fa769f0a2aeff37376885338a8e0a634d",
    "timestamp": "2024-05-11T13:39:32.000Z"
   },
-  {
+  "readmes/mjam_roj/": {
    "bytes": 0,
-   "path": "readmes/mjam_roj/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-04-29T23:54:44.000Z"
   },
-  {
+  "readmes/mjam_roj/mjam_roj.txt": {
    "bytes": 1781,
-   "path": "readmes/mjam_roj/mjam_roj.txt",
    "sha256": "b1f5274119796b63432914c242de4b413e966de1cd80251f484cb39ac47f5ebc",
    "timestamp": "2024-04-29T23:54:20.000Z"
   },
-  {
+  "readmes/mjam_start.txt": {
    "bytes": 1572,
-   "path": "readmes/mjam_start.txt",
    "sha256": "f299d9f9c8c43ae3b870c21e65243dca804f736b73a170e2b21eac7136739c9f",
    "timestamp": "2024-05-17T02:08:40.000Z"
   },
-  {
+  "tracklist.cfg": {
    "bytes": 335,
-   "path": "tracklist.cfg",
    "sha256": "f5d82d8ded73db4dc2dd39f33de4be775c04ffd9bc5ac367dabaae68720a893e",
    "timestamp": "2024-04-29T23:48:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/mjam/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."

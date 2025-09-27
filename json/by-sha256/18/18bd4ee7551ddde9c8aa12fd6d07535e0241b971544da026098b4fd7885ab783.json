@@ -4,24 +4,22 @@
  ],
  "bytes": 480199,
  "description": "Small DM map with SP settings: an enemy base with a warehouse bit beneath. Uses Quake2 and other custom textures.",
- "files": [
-  {
+ "files": {
+  "tigcat02.bsp": {
    "bytes": 1197192,
-   "path": "tigcat02.bsp",
    "sha256": "b30a2947d65d047c5acacc6f9e928e5c804f09bacf3d6d293259c5d6a934191c",
    "timestamp": "1998-02-06T02:34:34.000Z"
   },
-  {
+  "tigcat02.txt": {
    "bytes": 4550,
-   "path": "tigcat02.txt",
    "sha256": "57a60dd2d6b52f007a1d226c96749b6504867b4ef46bad3c80bb0453accb0dd8",
    "timestamp": "1998-02-06T18:03:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-02-06",
  "sha256": "18bd4ee7551ddde9c8aa12fd6d07535e0241b971544da026098b4fd7885ab783",
  "tags": [

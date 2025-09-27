@@ -4,30 +4,27 @@
  ],
  "bytes": 2280096,
  "description": "Small mappack in a swamp/tribal setting. Features a start, main level and boss map.",
- "files": [
-  {
+ "files": {
+  "koohoo/": {
    "bytes": 0,
-   "path": "koohoo/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2003-09-10T13:07:24.000Z"
   },
-  {
+  "koohoo/koohoo.txt": {
    "bytes": 4907,
-   "path": "koohoo/koohoo.txt",
    "sha256": "e6b0eaf2fa95c5786ac9034d30176c4ab64c48e074525bbd15e0e9d85bba3fb2",
    "timestamp": "2003-09-10T13:09:28.000Z"
   },
-  {
+  "koohoo/pak0.pak": {
    "bytes": 5243430,
-   "path": "koohoo/pak0.pak",
    "sha256": "71dfcda941611c42c96da8f0984de32c5a82e6f8117a30ce9a66415d7d72b121",
    "timestamp": "2001-03-24T23:50:00.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-03-25",
  "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [

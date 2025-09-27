@@ -4,30 +4,27 @@
  ],
  "bytes": 46579,
  "description": "Ugly stupid stupid ugly maze.",
- "files": [
-  {
+ "files": {
+  "MAZE1.bsp": {
    "bytes": 152500,
-   "path": "MAZE1.bsp",
    "sha256": "95bd409eafcdedc8a5fe47e88dac451cc4878e61ae04c152ec6a5bf7a05d0a27",
    "timestamp": "1997-12-28T17:49:34.000Z"
   },
-  {
+  "maze1.txt": {
    "bytes": 612,
-   "path": "maze1.txt",
    "sha256": "f79cda885d5f02cfe2bab7ac7709a8daafde4bb18bee14b1eca149f7aa9e20e8",
    "timestamp": "1999-12-02T19:41:46.000Z"
   },
-  {
+  "maze1_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "maze1_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

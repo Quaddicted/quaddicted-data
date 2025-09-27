@@ -4,42 +4,37 @@
  ],
  "bytes": 9019819,
  "description": "Single player campaign with two episodes, each consisting of five small to medium sized maps in varying themes.",
- "files": [
-  {
+ "files": {
+  "PAK2.PAK": {
    "bytes": 10467766,
-   "path": "PAK2.PAK",
    "sha256": "8f6189ffe0c288984bfce4ffe6051db5b1ad2c8f6213fc4b8dc5b4e164bef2c2",
    "timestamp": "1997-12-02T13:56:58.000Z"
   },
-  {
+  "Pak1.pak": {
    "bytes": 9802343,
-   "path": "Pak1.pak",
    "sha256": "d71c283ed444ca942424a8003e1496d16befbec697815968148554dbd1860a7d",
    "timestamp": "1997-10-19T20:58:04.000Z"
   },
-  {
+  "README.TXT": {
    "bytes": 4436,
-   "path": "README.TXT",
    "sha256": "d18761045c496b4e3a1f53dc6160395a489189d2bfa1f7ee703d19319ce1e410",
    "timestamp": "1998-07-14T10:12:40.000Z"
   },
-  {
+  "STORYLINE.txt": {
    "bytes": 3520,
-   "path": "STORYLINE.txt",
    "sha256": "1d9b70c89ec8e587084c34dbe79a47e7d1691afd95dc9216385b9aab435f00da",
    "timestamp": "1997-10-19T21:14:36.000Z"
   },
-  {
+  "uninstalldd.bat": {
    "bytes": 310,
-   "path": "uninstalldd.bat",
    "sha256": "eec595dcbf0319dc62bae542a5dd5218507c17297f4228df553bd64d8f1a28dc",
    "timestamp": "1997-10-19T17:59:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/dd/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map pack requires Scourge of Armagon."
  ],

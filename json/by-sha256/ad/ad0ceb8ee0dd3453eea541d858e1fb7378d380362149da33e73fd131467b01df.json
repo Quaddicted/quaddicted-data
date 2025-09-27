@@ -4,24 +4,22 @@
  ],
  "bytes": 775056,
  "description": "A quite unique \"teleporting map\" that requires a lot of exploration and curiosity.",
- "files": [
-  {
+ "files": {
+  "tcentral.bsp": {
    "bytes": 1850204,
-   "path": "tcentral.bsp",
    "sha256": "ecbd5f2d30a4a13e04220349e221204d9c891f8dd410e9ef1a64df66cff81a80",
    "timestamp": "1997-09-30T13:57:34.000Z"
   },
-  {
+  "tcentral.txt": {
    "bytes": 2927,
-   "path": "tcentral.txt",
    "sha256": "c50312671a4e6175825e6b94c09857bf31abff24b8d182a40b5174ff47750dbc",
    "timestamp": "1997-09-30T14:55:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-30",
  "sha256": "ad0ceb8ee0dd3453eea541d858e1fb7378d380362149da33e73fd131467b01df",
  "tags": [

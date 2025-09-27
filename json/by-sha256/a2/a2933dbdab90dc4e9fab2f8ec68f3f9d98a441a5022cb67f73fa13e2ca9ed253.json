@@ -4,24 +4,22 @@
  ],
  "bytes": 992676,
  "description": "Medium to large Wizard castle.",
- "files": [
-  {
+ "files": {
+  "elsinore.bsp": {
    "bytes": 2175824,
-   "path": "elsinore.bsp",
    "sha256": "4f82ebe72dc593cb6c51c6edec7cf9152d0e9131afb3dff5d6fc9e129cea5652",
    "timestamp": "1997-10-16T01:04:10.000Z"
   },
-  {
+  "elsinore.txt": {
    "bytes": 2778,
-   "path": "elsinore.txt",
    "sha256": "3bdd6f02f4af0803308e142ed9767ae956256a724a6ff9186058239cf779405e",
    "timestamp": "1997-10-16T14:30:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-16",
  "sha256": "a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253",
  "tags": [

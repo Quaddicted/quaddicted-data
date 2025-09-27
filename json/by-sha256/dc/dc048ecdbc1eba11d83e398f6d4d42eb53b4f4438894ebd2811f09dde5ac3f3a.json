@@ -7,24 +7,22 @@
   "quoth>=2.0"
  ],
  "description": "A medium-sized vertical map. It starts with a moldy green area from which you ascend into a mechanical exploratory part. After surpassing this you are awarded a tense boss fight.",
- "files": [
-  {
+ "files": {
+  "ne_tower.txt": {
    "bytes": 5970,
-   "path": "ne_tower.txt",
    "sha256": "e245ba0627d46ff37f8c0c62dd7449743e17dbcbee14c2c32d636497846c97a5",
    "timestamp": "2009-07-01T15:11:16.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 9990682,
-   "path": "pak0.pak",
    "sha256": "df7f22f7764a7994e055c8d71d83b1c9f3e151021e38ae70144f93021149eefa",
    "timestamp": "2009-07-01T15:03:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ne_tower/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with inreased limits."
  ],

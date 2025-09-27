@@ -4,24 +4,22 @@
  ],
  "bytes": 7242850,
  "description": "Small episode consisting of 4 levels and a start map, with knave textures, some modified models and sounds.",
- "files": [
-  {
+ "files": {
+  "contract.html": {
    "bytes": 13665,
-   "path": "contract.html",
    "sha256": "608ad80c8ebc6357f392100736287da61065491dda3f3dc64a775d3824b9d511",
    "timestamp": "2004-08-31T19:21:26.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 19416397,
-   "path": "pak0.pak",
    "sha256": "cdf65d807fa869cf8c4040a8433a5819e3fc67714a6aa7b228a2ae7c8862343e",
    "timestamp": "2002-06-15T16:47:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/contract/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-06-15",
  "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [

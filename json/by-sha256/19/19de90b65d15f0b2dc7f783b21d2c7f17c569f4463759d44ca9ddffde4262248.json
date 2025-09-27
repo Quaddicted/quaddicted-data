@@ -4,24 +4,22 @@
  ],
  "bytes": 1118894,
  "description": "Large Wizard map.",
- "files": [
-  {
+ "files": {
+  "ODYSSEY1.BSP": {
    "bytes": 2514732,
-   "path": "ODYSSEY1.BSP",
    "sha256": "0b9352301301bd50807693300ca85042842b20ffcb3a1a1c00df32f50235f017",
    "timestamp": "1998-04-01T18:17:10.000Z"
   },
-  {
+  "ODYSSEY1.TXT": {
    "bytes": 1372,
-   "path": "ODYSSEY1.TXT",
    "sha256": "97642e7180752184073d8b341b7132c4e347b8ab2045886ccce04fe99c3957fc",
    "timestamp": "1998-04-01T20:07:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Can only be played in an engine with increased limits.<br><br>Get the fixed version instead: <a href=\"5c765e479fb530d84380c5170b098cb8d6c325fdef40113424911b4e0c712470\">odyssey1_v2</a>"
  ],

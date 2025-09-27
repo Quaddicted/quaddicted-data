@@ -4,30 +4,27 @@
  ],
  "bytes": 641425,
  "description": "Small Medieval map with lava cavern bits showing off the cutscene code developed by the same author. The 'Cutscene Construction Kit' (.qc source files and documentation) is included.",
- "files": [
-  {
+ "files": {
+  "PAK0.PAK": {
    "bytes": 1165524,
-   "path": "PAK0.PAK",
    "sha256": "f448d7b9913852bf816e4b6b4f2f32e9c4b16e69999d8049289c4700c65b933a",
    "timestamp": "1997-01-15T20:23:48.000Z"
   },
-  {
+  "cck.zip": {
    "bytes": 164261,
-   "path": "cck.zip",
    "sha256": "5f079e4acae4b2bc7f2c22f7e8a4a709aa41350177df8252368118773fb13daf",
    "timestamp": "1997-01-15T20:19:38.000Z"
   },
-  {
+  "vision.txt": {
    "bytes": 3644,
-   "path": "vision.txt",
    "sha256": "7c8d8aa1b5b27391b8cb1d452dfb7517cad69fd721a5b7f09fe1d0efec9ebad9",
    "timestamp": "1997-01-15T19:50:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/vision/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-15",
  "sha256": "7c4ee2dbb6f3094988d21f6e2f5ef47ce482bdf2f8d84228464b273945d72503",
  "tags": [

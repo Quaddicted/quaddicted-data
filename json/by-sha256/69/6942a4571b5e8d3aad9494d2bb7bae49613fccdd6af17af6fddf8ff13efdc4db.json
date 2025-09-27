@@ -4,18 +4,17 @@
  ],
  "bytes": 1217793,
  "description": "some Speedmap by rpg",
- "files": [
-  {
+ "files": {
+  "sm83_rpg.qwd": {
    "bytes": 4422100,
-   "path": "sm83_rpg.qwd",
    "sha256": "57a9c41d2a76c475ea251c9a4411a7010f1580ac1c1f4b31dc70b0c95528d25e",
    "timestamp": "2004-03-02T19:55:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-08-06",
  "sha256": "6942a4571b5e8d3aad9494d2bb7bae49613fccdd6af17af6fddf8ff13efdc4db",
  "tags": [

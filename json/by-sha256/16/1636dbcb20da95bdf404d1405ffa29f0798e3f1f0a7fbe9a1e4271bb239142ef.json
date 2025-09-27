@@ -8,24 +8,22 @@
   "quoth>=2.0"
  ],
  "description": "Medium sized base map.",
- "files": [
-  {
+ "files": {
+  "quarantine02.bsp": {
    "bytes": 3555364,
-   "path": "quarantine02.bsp",
    "sha256": "4895301608b19ce440a062c6831e1d0b617a8b99576a23b9172b897dfd53c374",
    "timestamp": "2013-04-09T21:23:32.000Z"
   },
-  {
+  "quarantine02.txt": {
    "bytes": 2361,
-   "path": "quarantine02.txt",
    "sha256": "d7f5b2aeeac995fe2025a853d42d4313583e560de34ff987a2973321f5ebf468",
    "timestamp": "2013-04-09T21:26:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>. This is the <u>bug-fixed version</u> (some monsters were missing) of <a href=\"2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3\">quarantine.zip</a>."
  ],

@@ -5,222 +5,187 @@
  ],
  "bytes": 33559915,
  "description": "Epic fantasy episode with three huge levels, hardcore horde battles with many new monsters and bosses, several new and modified weapons and items from the Drake mod (latest version is included). It also comes with a start map, custom skyboxes and background music.",
- "files": [
-  {
+ "files": {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-06-26T09:48:26.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-06-26T09:48:28.000Z"
   },
-  {
+  "gfx/env/dsky1_bk.tga": {
    "bytes": 453816,
-   "path": "gfx/env/dsky1_bk.tga",
    "sha256": "a19767cee701f890a17bac931d7a433b89be459af125a203d75d2d849dcd1574",
    "timestamp": "2007-05-15T13:49:22.000Z"
   },
-  {
+  "gfx/env/dsky1_dn.tga": {
    "bytes": 10779,
-   "path": "gfx/env/dsky1_dn.tga",
    "sha256": "93224ee528de13faee90618a329becec85e38c748099f919e1ecfbe31da9399b",
    "timestamp": "2007-05-15T13:49:26.000Z"
   },
-  {
+  "gfx/env/dsky1_ft.tga": {
    "bytes": 452813,
-   "path": "gfx/env/dsky1_ft.tga",
    "sha256": "ded3ed8ec9df927fef23b0763d40f09e6f52f0e94a65f38bffadabdc1a90ccd4",
    "timestamp": "2008-03-04T23:36:52.000Z"
   },
-  {
+  "gfx/env/dsky1_lf.tga": {
    "bytes": 453816,
-   "path": "gfx/env/dsky1_lf.tga",
    "sha256": "a19767cee701f890a17bac931d7a433b89be459af125a203d75d2d849dcd1574",
    "timestamp": "2007-05-15T13:49:32.000Z"
   },
-  {
+  "gfx/env/dsky1_rt.tga": {
    "bytes": 453816,
-   "path": "gfx/env/dsky1_rt.tga",
    "sha256": "a19767cee701f890a17bac931d7a433b89be459af125a203d75d2d849dcd1574",
    "timestamp": "2007-05-15T13:49:18.000Z"
   },
-  {
+  "gfx/env/dsky1_up.tga": {
    "bytes": 8236,
-   "path": "gfx/env/dsky1_up.tga",
    "sha256": "3f207b2d81db1ef2c9e30f56312edf90fefd7ac5455fcf9a77772c77fc6ebec5",
    "timestamp": "2008-10-26T23:38:00.000Z"
   },
-  {
+  "gfx/env/duske_bk.tga": {
    "bytes": 606420,
-   "path": "gfx/env/duske_bk.tga",
    "sha256": "06796e1fc73783f1dccb748b4a05703e3454623439727168c47f370e358b0656",
    "timestamp": "2004-07-15T16:39:00.000Z"
   },
-  {
+  "gfx/env/duske_dn.tga": {
    "bytes": 787184,
-   "path": "gfx/env/duske_dn.tga",
    "sha256": "9794d0b1b7bf571ff247baeebae5897be3cc0c6bf3428edbcf2782c1f34610c2",
    "timestamp": "2004-07-15T16:39:16.000Z"
   },
-  {
+  "gfx/env/duske_ft.tga": {
    "bytes": 594909,
-   "path": "gfx/env/duske_ft.tga",
    "sha256": "e3967e5143dfc8ffaba3dc0fe0c83d0da8d56174de9da0ea09d450a0d62e6742",
    "timestamp": "2004-07-15T16:38:26.000Z"
   },
-  {
+  "gfx/env/duske_lf.tga": {
    "bytes": 585541,
-   "path": "gfx/env/duske_lf.tga",
    "sha256": "0b7331135116c4e184df4d9e4824dbf5b435d045718db20a81b0d30ce91cb64a",
    "timestamp": "2004-07-15T16:38:52.000Z"
   },
-  {
+  "gfx/env/duske_rt.tga": {
    "bytes": 688109,
-   "path": "gfx/env/duske_rt.tga",
    "sha256": "20d94245588988fb390440c531d787c25c2f4b97151bfbd1526fdc3c90e1320a",
    "timestamp": "2004-07-15T16:39:08.000Z"
   },
-  {
+  "gfx/env/duske_up.tga": {
    "bytes": 470425,
-   "path": "gfx/env/duske_up.tga",
    "sha256": "eba18d5e259e973c649bf16495a34ada1c523faa14ef6462b723476e820d8766",
    "timestamp": "2004-07-15T16:39:26.000Z"
   },
-  {
+  "gfx/env/gehenna_bk.tga": {
    "bytes": 673919,
-   "path": "gfx/env/gehenna_bk.tga",
    "sha256": "2579ebbde03e3e6d7e052cffa869980ac43f59f2245d584a9212f3bf09d91d09",
    "timestamp": "2004-08-25T19:08:20.000Z"
   },
-  {
+  "gfx/env/gehenna_dn.tga": {
    "bytes": 785761,
-   "path": "gfx/env/gehenna_dn.tga",
    "sha256": "80c1bb4234473c05f856c018659cc67289bfa001fc42e2b1f133d39609aadfa0",
    "timestamp": "2004-08-25T19:08:44.000Z"
   },
-  {
+  "gfx/env/gehenna_ft.tga": {
    "bytes": 710441,
-   "path": "gfx/env/gehenna_ft.tga",
    "sha256": "b371a504c6e1cecaba1352ac254759e23f8aee34e9516f33fcbddf2bee9e14ad",
    "timestamp": "2004-08-25T19:08:04.000Z"
   },
-  {
+  "gfx/env/gehenna_lf.tga": {
    "bytes": 664379,
-   "path": "gfx/env/gehenna_lf.tga",
    "sha256": "821a2381b1955c846a11dea45855defb6ca91bf7b93021ad4320db5523a367be",
    "timestamp": "2004-08-25T19:08:12.000Z"
   },
-  {
+  "gfx/env/gehenna_rt.tga": {
    "bytes": 697661,
-   "path": "gfx/env/gehenna_rt.tga",
    "sha256": "6903bcdbb62381122e0df50286460e2cdbad499f1e6194bfc5f12d2e975949b7",
    "timestamp": "2004-08-25T19:08:28.000Z"
   },
-  {
+  "gfx/env/gehenna_up.tga": {
    "bytes": 509867,
-   "path": "gfx/env/gehenna_up.tga",
    "sha256": "21d744fe6dda2bcff73b713e8e3742522d161a139a8d410cd97b1f760f29ca6e",
    "timestamp": "2004-08-25T19:08:36.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-06-26T10:53:02.000Z"
   },
-  {
+  "maps/unf1.bsp": {
    "bytes": 5486548,
-   "path": "maps/unf1.bsp",
    "sha256": "f22944a11ee4a5e23d9dd5e25959794094eb0a4808a5e526cf6c4121d8cec29a",
    "timestamp": "2011-06-26T10:49:54.000Z"
   },
-  {
+  "maps/unf2.bsp": {
    "bytes": 6488696,
-   "path": "maps/unf2.bsp",
    "sha256": "6f898626023e1b07dc5153c294a813986240ab341bf42133a2743afca52f5728",
    "timestamp": "2011-06-26T10:50:02.000Z"
   },
-  {
+  "maps/unf3.bsp": {
    "bytes": 6826824,
-   "path": "maps/unf3.bsp",
    "sha256": "73637ff68b6b80c9505b11a76d6a1c356658328af304e68312cc01fbd9755977",
    "timestamp": "2011-06-26T10:50:12.000Z"
   },
-  {
+  "maps/unf3intro.bsp": {
    "bytes": 1271712,
-   "path": "maps/unf3intro.bsp",
    "sha256": "85844f101675e460636c4e25a32ddd382770bf606fc43e0b262eb282c79c51b3",
    "timestamp": "2011-06-26T10:50:44.000Z"
   },
-  {
+  "maps/unfstart.bsp": {
    "bytes": 910060,
-   "path": "maps/unfstart.bsp",
    "sha256": "da42b78bbf2ee9b7c17803f66c83bc21448a262d5fa1b02afa52bbdfd52f916f",
    "timestamp": "2011-06-26T10:49:40.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 25051624,
-   "path": "pak0.pak",
    "sha256": "9a229082e446dc3991778b3364ec5aeba9b6767e5905406767f753862997295a",
    "timestamp": "2011-06-12T21:18:08.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 11698993,
-   "path": "pak1.pak",
    "sha256": "22d57e211cdb714ba3df19083c1514b08e5c84650545bc1a4092b383fb72a3f9",
    "timestamp": "2011-06-12T20:56:02.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1628516,
-   "path": "progs.dat",
    "sha256": "4addc61082e87ea42da8340f07ae9db0a05037626ec4d019d12e89272eb3372e",
    "timestamp": "2011-06-20T20:41:02.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-06-26T09:48:28.000Z"
   },
-  {
+  "sound/music/": {
    "bytes": 0,
-   "path": "sound/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-06-26T09:48:30.000Z"
   },
-  {
+  "sound/music/unf1.wav": {
    "bytes": 4674840,
-   "path": "sound/music/unf1.wav",
    "sha256": "546db91e2fa908276a4a197af273b8adcdd8654b71085202b1808b38bb0e3020",
    "timestamp": "2010-11-03T01:35:24.000Z"
   },
-  {
+  "sound/music/unf2.wav": {
    "bytes": 1982904,
-   "path": "sound/music/unf2.wav",
    "sha256": "f740eb6c065b89f1004c411b70b1ac5dd7510efe847b084c2f4940b38acbb181",
    "timestamp": "2010-11-03T01:35:22.000Z"
   },
-  {
+  "sound/music/unf3.wav": {
    "bytes": 1026456,
-   "path": "sound/music/unf3.wav",
    "sha256": "75181508459f2c4aad1e530f20df117a750065ece9e5c80dabffe2255b7dd909",
    "timestamp": "2010-11-03T01:35:18.000Z"
   },
-  {
+  "unforgivenreadme.txt": {
    "bytes": 3460,
-   "path": "unforgivenreadme.txt",
    "sha256": "bbfe7c78362d8495dc0fd52025aa29a0817106bd3bd67301f1409cf7fa361263",
    "timestamp": "2011-06-26T10:55:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/unforgiven/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This episode requires an engine port with increased limits. The max_edicts value has to be raised to 2048 if supported."
  ],

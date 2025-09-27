@@ -4,42 +4,37 @@
  ],
  "bytes": 6788677,
  "description": "Large, intricate levels with great gameplay and connectivity, offset with interesting details and clever design. The start map is followed by 2 q2base and a q3gothic map. It also features some new ambient sounds.",
- "files": [
-  {
+ "files": {
+  "autoexec.cfg": {
    "bytes": 120,
-   "path": "autoexec.cfg",
    "sha256": "e4cabaf2e70f14dd80b83297abb14a3977de873cbcaf7c21de045b060834c79d",
    "timestamp": "2000-12-30T12:58:56.000Z"
   },
-  {
+  "czg07.txt": {
    "bytes": 8657,
-   "path": "czg07.txt",
    "sha256": "3c47de6ac6b0b8f2207d52df52eeb2aa64a2f66f4245e123daea0ed77494debc",
    "timestamp": "2001-01-01T19:23:52.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 14526472,
-   "path": "pak0.pak",
    "sha256": "d0dd560035cc43c707c9d1bdb76668b8232ea893b4441d3ac3a0b2c139606267",
    "timestamp": "2001-01-01T19:10:20.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 371420,
-   "path": "progs.dat",
    "sha256": "6cae3ed5852d70ca36a0c083d85eed016489beded4447ddd278270d18189d4e1",
    "timestamp": "2000-12-30T22:36:18.000Z"
   },
-  {
+  "source.zip": {
    "bytes": 186522,
-   "path": "source.zip",
    "sha256": "2877c050afe49963739fca05bdf2310950e8e25038afb75d05df3bc64c912ace",
    "timestamp": "2001-01-01T19:08:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/czg07/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2000-05-25",
  "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
  "tags": [

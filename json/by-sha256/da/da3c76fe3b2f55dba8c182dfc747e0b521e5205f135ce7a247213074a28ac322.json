@@ -4,36 +4,32 @@
  ],
  "bytes": 3244524,
  "description": "Medium sized map with some city-themed sections and an open layout. The author's first map for Quake.",
- "files": [
-  {
+ "files": {
+  "nola1.bsp": {
    "bytes": 6776644,
-   "path": "nola1.bsp",
    "sha256": "2522e31bb0ef14e3b5895c1820b22d0dbcc14b12b62cbb6da772c292ce29c009",
    "timestamp": "2024-03-30T23:44:00.000Z"
   },
-  {
+  "nola1.lit": {
    "bytes": 1472399,
-   "path": "nola1.lit",
    "sha256": "a69caac02634b0fc2a933e422d01717918408107df18030c6770ec5271650798",
    "timestamp": "2024-03-30T23:44:00.000Z"
   },
-  {
+  "nola1.map": {
    "bytes": 2400426,
-   "path": "nola1.map",
    "sha256": "c9e94fa27006c9003ded6ff276fe4ded163166b1e7e6328d28830705b00ba124",
    "timestamp": "2024-03-30T23:39:42.000Z"
   },
-  {
+  "nola1.txt": {
    "bytes": 419,
-   "path": "nola1.txt",
    "sha256": "0930ffc1af28ee25f4ae5652992a2926ccb9f8f366fe3872a2d7566f8897b3fc",
    "timestamp": "2024-05-16T22:55:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

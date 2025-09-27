@@ -4,24 +4,22 @@
  ],
  "bytes": 1477317,
  "description": "Unique Taj-Mahal inspired map featuring new white version of the IKBlue texture set and lots of exploration.",
- "files": [
-  {
+ "files": {
+  "kjsp1.bsp": {
    "bytes": 3348084,
-   "path": "kjsp1.bsp",
    "sha256": "83d7f6557d1d2ff3c1cd9a50ee3759061d39192235efbe258d46dab8d589464a",
    "timestamp": "2001-10-13T15:08:20.000Z"
   },
-  {
+  "kjsp1.txt": {
    "bytes": 6228,
-   "path": "kjsp1.txt",
    "sha256": "a67b2b9e6a54f1c403e65c4ecdb782560a1e16c093582decfa21f4118a11c5e7",
    "timestamp": "2001-10-13T15:42:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-10-13",
  "sha256": "d8175167edc547cfc33deb757d28d1c35fbd06b42e5f6bf34c42a8ff21fe20c4",
  "tags": [

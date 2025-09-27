@@ -8,96 +8,82 @@
   "copper=1.30"
  ],
  "description": "Small-scale map in Q3A textures, with platforming sections and lots of visual detail.",
- "files": [
-  {
+ "files": {
+  "maps/nkstrq1m1.bsp": {
    "bytes": 19113996,
-   "path": "maps/nkstrq1m1.bsp",
    "sha256": "ccbb0bc8ee8a5458712fc599baacb9bea3b5fde84e38c649ca1b2aeaccca38f9",
    "timestamp": "2024-06-21T12:17:12.000Z"
   },
-  {
+  "maps/nkstrq1m1.lit": {
    "bytes": 4424243,
-   "path": "maps/nkstrq1m1.lit",
    "sha256": "cc79847bff2840d9b7d1fe5bc341ab9dd126e29f1fd1f53efcce6e9e9f90fb28",
    "timestamp": "2024-06-21T12:17:12.000Z"
   },
-  {
+  "maps/nkstrq1m1.map": {
    "bytes": 19546448,
-   "path": "maps/nkstrq1m1.map",
    "sha256": "f52090bf30f9389f7beccebe3d9be2cc77ae3a8039641858d647c860f53745f5",
    "timestamp": "2024-06-21T12:15:44.000Z"
   },
-  {
+  "music/track120.ogg": {
    "bytes": 6070583,
-   "path": "music/track120.ogg",
    "sha256": "a0a4dbca96ceed4e7a32485920b99f0c3798f4cba1fccd0160ddadba1a9fbf3b",
    "timestamp": "2022-10-14T18:11:16.000Z"
   },
-  {
+  "nkstrq1m1.txt": {
    "bytes": 2596,
-   "path": "nkstrq1m1.txt",
    "sha256": "029817af980907fb3a8cac94a49fa40f666ba6bad8497ed418a6d598e35fcdc0",
    "timestamp": "2024-06-21T11:44:10.000Z"
   },
-  {
+  "sound/nickster/alienbugs1_11k.wav": {
    "bytes": 645280,
-   "path": "sound/nickster/alienbugs1_11k.wav",
    "sha256": "e1753fe4b245a175919e40f0bc7c1c7f4e394a99f7b1e573959de53a6124782a",
    "timestamp": "2022-09-18T15:52:12.000Z"
   },
-  {
+  "sound/nickster/chains1_11k.wav": {
    "bytes": 286880,
-   "path": "sound/nickster/chains1_11k.wav",
    "sha256": "f9a4e33ae9d315c1af4149addcde5830a7e35f67dfbded7729e4b354ddbfb8dd",
    "timestamp": "2022-09-18T15:53:26.000Z"
   },
-  {
+  "sound/nickster/chains2_11k.wav": {
    "bytes": 236704,
-   "path": "sound/nickster/chains2_11k.wav",
    "sha256": "aadc679223aceb07a1c7fcef10364e8b0d81a7de0d07445272fb14c5f7896b44",
    "timestamp": "2022-09-18T15:54:00.000Z"
   },
-  {
+  "sound/nickster/creepy1a_11k.wav": {
    "bytes": 1147040,
-   "path": "sound/nickster/creepy1a_11k.wav",
    "sha256": "c5ad3a82aa4cd6ed5a13d4eaba6acf5300d15fb5f04020ca5ff117e5b8fd9d6a",
    "timestamp": "2022-10-14T15:41:30.000Z"
   },
-  {
+  "sound/nickster/creepy1b_11k.wav": {
    "bytes": 1147040,
-   "path": "sound/nickster/creepy1b_11k.wav",
    "sha256": "4b1869585a910f69a224e63276048235dead64faeaa0074ae517605632bff8d1",
    "timestamp": "2022-10-14T15:41:56.000Z"
   },
-  {
+  "sound/nickster/homogenizer_11k.wav": {
    "bytes": 286764,
-   "path": "sound/nickster/homogenizer_11k.wav",
    "sha256": "6f26887a63e30610a0190d77b587dc8c935ffe16bb4c9b761b94fea8328a5908",
    "timestamp": "2022-09-18T18:10:50.000Z"
   },
-  {
+  "sound/nickster/mach_hum1_11k.wav": {
    "bytes": 573600,
-   "path": "sound/nickster/mach_hum1_11k.wav",
    "sha256": "99d47807ab6aff53ec1ef73039d7b9269faf986e943518930bea154ba5524373",
    "timestamp": "2022-10-14T15:42:26.000Z"
   },
-  {
+  "sound/nickster/tingleamb1a_11k.wav": {
    "bytes": 688288,
-   "path": "sound/nickster/tingleamb1a_11k.wav",
    "sha256": "fe6004856a8ab45e766e6d1b614ac84503b668afb1c8b8cfad2dcce6c790e95c",
    "timestamp": "2022-10-14T15:43:00.000Z"
   },
-  {
+  "sound/nickster/tingleamb1b_11k.wav": {
    "bytes": 544928,
-   "path": "sound/nickster/tingleamb1b_11k.wav",
    "sha256": "c065ceb7a46a745ef536ff78ed0feb0fab7fe51a331136fbc1c1f93c4151732d",
    "timestamp": "2022-10-14T15:43:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."

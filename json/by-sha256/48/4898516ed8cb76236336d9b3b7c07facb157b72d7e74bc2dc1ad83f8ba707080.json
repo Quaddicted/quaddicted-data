@@ -4,24 +4,22 @@
  ],
  "bytes": 1070084,
  "description": "Medium-sized medieval fortress. Comes with a start map and features a few new textures as well as a custom SNG model.",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 2501096,
-   "path": "Pak0.pak",
    "sha256": "e1975c2e6077cbfadb57ce5baea8db6f6c382124b1c142c5ba37494daf40f506",
    "timestamp": "1996-05-06T17:20:50.000Z"
   },
-  {
+  "lmed1.txt": {
    "bytes": 1644,
-   "path": "lmed1.txt",
    "sha256": "d84912cf9fb589dde7a7873d0203c6a2524d897568967341c0287172f2c1766d",
    "timestamp": "1996-05-06T18:51:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/lmed1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-09-05",
  "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "tags": [

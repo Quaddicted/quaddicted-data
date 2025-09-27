@@ -4,24 +4,22 @@
  ],
  "bytes": 1322852,
  "description": "Medium sized Wizard map with a mine bit leading through a waterfall canyon. There are many deadly traps, so frequent quicksaving is recommended.",
- "files": [
-  {
+ "files": {
+  "halo.bsp": {
    "bytes": 3551248,
-   "path": "halo.bsp",
    "sha256": "a10c29448178fb7d4409dc329b344b3976c6458180ab78a562ff465b55651c2d",
    "timestamp": "1997-11-21T23:47:54.000Z"
   },
-  {
+  "halo.txt": {
    "bytes": 3272,
-   "path": "halo.txt",
    "sha256": "cc2bfa096e61cf6aab3cf460a227c047344106d9064e4175dba7a91968329c8e",
    "timestamp": "1997-11-19T11:41:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-11-21",
  "sha256": "336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7",
  "tags": [

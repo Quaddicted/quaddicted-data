@@ -4,24 +4,22 @@
  ],
  "bytes": 237914,
  "description": "Doom2 - Map04 converted for Quake with original textures.",
- "files": [
-  {
+ "files": {
+  "04.BSP": {
    "bytes": 804896,
-   "path": "04.BSP",
    "sha256": "566ffb9d857b2ae78a5a48bd64dcf87ebedf9e426ee60ae9e1cbd8a900b5edd6",
    "timestamp": "1997-03-17T17:32:16.000Z"
   },
-  {
+  "DOOM2_04.TXT": {
    "bytes": 1549,
-   "path": "DOOM2_04.TXT",
    "sha256": "fe77803795cdab3f2eb278bf80c263d3ff5a9250d7c3a10650865e9cc8ea22e5",
    "timestamp": "1997-03-17T19:53:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-17",
  "sha256": "90877b8cf89c7b574572eaa5bba709beb35cb1d9d0484b209b4f7b3a5d6ababc",
  "tags": [

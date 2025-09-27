@@ -4,24 +4,22 @@
  ],
  "bytes": 4585258,
  "description": "Medieval and base-themed episode with four medium-sized maps as well as a start-map and a small secret level. Quite hard and challenging at times.",
- "files": [
-  {
+ "files": {
+  "P_se.txt.txt": {
    "bytes": 9369,
-   "path": "P_se.txt.txt",
    "sha256": "669afb7c3c9abb0f4dd7a4195c6b5f92c1ea50cb010d4a41cf084d518a623716",
    "timestamp": "1997-05-05T19:33:44.000Z"
   },
-  {
+  "Pak0.pak": {
    "bytes": 10527680,
-   "path": "Pak0.pak",
    "sha256": "722a51e16e4f7001917df1f5bc170ece8e3f0a41646a34e9f317e390cd0078c8",
    "timestamp": "1997-05-05T20:34:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/pse/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-03",
  "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "tags": [

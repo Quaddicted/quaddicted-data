@@ -7,30 +7,27 @@
   "ad>=1.80"
  ],
  "description": "Latest in digs' <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3Ddigs%22%5D\">Anomaly</a> series featuring trademark mind tricks, map hacks and surprises. Dressed in a medieval/wizard theme with many textures and visual flourishes taken from Arcane Dimensions, for which the map was created.",
- "files": [
-  {
+ "files": {
+  "ad_digs10.bsp": {
    "bytes": 17121572,
-   "path": "ad_digs10.bsp",
    "sha256": "c9a1d18f7205a1a24043a1df87f7a0d661b1bb7f9c912417e2f86a8913810725",
    "timestamp": "2023-12-16T11:01:06.000Z"
   },
-  {
+  "ad_digs10.lit": {
    "bytes": 4323488,
-   "path": "ad_digs10.lit",
    "sha256": "9b00b6952c834d29854447df200e7251e84c58344e327b19aa19decfc37bd85c",
    "timestamp": "2023-12-16T10:55:38.000Z"
   },
-  {
+  "ad_digs10.txt": {
    "bytes": 1871,
-   "path": "ad_digs10.txt",
    "sha256": "c2a1c0650cd10a8e0d87ff41cff3aefcc9373461b558bc200e62cbdecb3334a2",
    "timestamp": "2023-12-16T11:02:38.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "May require a source port with increased limits / BSP2 support."

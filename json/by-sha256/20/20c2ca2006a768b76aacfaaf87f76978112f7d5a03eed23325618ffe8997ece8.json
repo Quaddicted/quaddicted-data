@@ -7,48 +7,42 @@
   "copper>=1.00"
  ],
  "description": "Two small, experimental non-combat levels. The map sources are included.",
- "files": [
-  {
+ "files": {
+  "primum.bsp": {
    "bytes": 2893848,
-   "path": "primum.bsp",
    "sha256": "baa29b74e7cec541a6983c406aa2b8b56a4c14606f610774e63768f83050ad63",
    "timestamp": "2020-04-06T23:31:26.000Z"
   },
-  {
+  "primum.map": {
    "bytes": 1302937,
-   "path": "primum.map",
    "sha256": "f0be2b928a8e583083b651f501b81f6158b4950576a7604a11c6ede838bee3b4",
    "timestamp": "2020-04-06T23:31:04.000Z"
   },
-  {
+  "primum.txt": {
    "bytes": 2036,
-   "path": "primum.txt",
    "sha256": "6e7a344139002259f2f54c895f4537f2e57d2284a7b8487641b8e4f700936f49",
    "timestamp": "2020-04-07T00:10:44.000Z"
   },
-  {
+  "ziggsier.bsp": {
    "bytes": 1718232,
-   "path": "ziggsier.bsp",
    "sha256": "60c35fcb6ee2377e9bf3c855404c92b795cb31fc41e76b5129f030f21ebd621b",
    "timestamp": "2020-04-06T23:43:56.000Z"
   },
-  {
+  "ziggsier.lit": {
    "bytes": 2002775,
-   "path": "ziggsier.lit",
    "sha256": "66b1a30e90687c864dd93761fe660da02dd05bacf5dfae2c49ae95a07faf3fc9",
    "timestamp": "2020-04-06T23:43:56.000Z"
   },
-  {
+  "ziggsier.map": {
    "bytes": 382677,
-   "path": "ziggsier.map",
    "sha256": "e6119bbddf22fdd034a0f447bd8c6d72cda805c04fc8a543216d51e69a1c605d",
    "timestamp": "2020-04-06T23:42:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/copper/maps"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> and one of them a source port with increased limits."
  ],

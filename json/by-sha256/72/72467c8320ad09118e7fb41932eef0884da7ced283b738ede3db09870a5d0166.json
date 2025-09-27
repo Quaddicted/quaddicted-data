@@ -4,30 +4,27 @@
  ],
  "bytes": 1049080,
  "description": "Unsealed map using a variety of textures.",
- "files": [
-  {
+ "files": {
+  "funeral.bsp": {
    "bytes": 2613776,
-   "path": "funeral.bsp",
    "sha256": "fd48c814953c6ec1445f6fa66cdc133ddd5b3c4986a2d1833f2eb9c9592b4a15",
    "timestamp": "2024-09-02T21:20:34.000Z"
   },
-  {
+  "funeral.pts": {
    "bytes": 16606,
-   "path": "funeral.pts",
    "sha256": "f803c9cf47e33bd1c2ad2a3e6a5adfa1f866f48decef329c7c3ceb7745afc2e6",
    "timestamp": "2024-09-02T18:42:06.000Z"
   },
-  {
+  "funeral.txt": {
    "bytes": 395,
-   "path": "funeral.txt",
    "sha256": "affb168a10d2dd5b8d2915218a0a526e3fcd2f782b95da83fb02677d7e499f7d",
    "timestamp": "2024-09-02T21:26:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-09-02",
  "sha256": "72467c8320ad09118e7fb41932eef0884da7ced283b738ede3db09870a5d0166",
  "tags": [

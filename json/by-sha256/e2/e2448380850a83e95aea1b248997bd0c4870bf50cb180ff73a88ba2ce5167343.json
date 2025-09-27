@@ -4,24 +4,22 @@
  ],
  "bytes": 5011436,
  "description": "Episode with four varied, medium to large Wizard maps, as well as a start map. Also features some modified progs, like rotation, breaking walls and cutscenes.",
- "files": [
-  {
+ "files": {
+  "MEXX9.TXT": {
    "bytes": 20078,
-   "path": "MEXX9.TXT",
    "sha256": "8f78bfb478fe7f34af35b29f6f8a125fba4e9c5d022f1d0149e9ef3dac8f10ca",
    "timestamp": "1997-09-12T02:45:22.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 11164214,
-   "path": "PAK0.PAK",
    "sha256": "674784b7dc042f57b074c41b7e3993e275eb4cdc323666a8e418b5b8c191d2d0",
    "timestamp": "1997-09-12T01:03:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/mexx9/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-12",
  "sha256": "e2448380850a83e95aea1b248997bd0c4870bf50cb180ff73a88ba2ce5167343",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 557135,
  "description": "Small orange/rock church surrounded by a stone graveyard. The map source is included.",
- "files": [
-  {
+ "files": {
+  "dgrave.bsp": {
    "bytes": 1234980,
-   "path": "dgrave.bsp",
    "sha256": "21432a0dd0209fb5d63953cbb6974a4f61293c11a84379a3c8f5b547f6438f31",
    "timestamp": "1996-10-21T21:47:18.000Z"
   },
-  {
+  "dgrave.map": {
    "bytes": 105318,
-   "path": "dgrave.map",
    "sha256": "ce33e336d20215e0d682b5120b1bab1685459d3026f77d8e29beae378c74b286",
    "timestamp": "1996-10-21T21:39:36.000Z"
   },
-  {
+  "dgrave.txt": {
    "bytes": 813,
-   "path": "dgrave.txt",
    "sha256": "79711241cb049e65493f661efdefe7987c7febd0f292cf021d4b341c97669975",
    "timestamp": "1996-10-21T21:59:16.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-21",
  "sha256": "c1a4ed85ab365eca39fedecdfb571ff0d93be2be8c9c6aa260047176f64aa167",
  "tags": [

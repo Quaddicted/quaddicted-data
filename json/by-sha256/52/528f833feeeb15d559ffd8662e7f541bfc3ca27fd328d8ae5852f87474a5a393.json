@@ -4,24 +4,22 @@
  ],
  "bytes": 2506514,
  "description": "Medium-sized metal dungeon in E3M6 mashup style with a built-in skill selection room. It also features custom item boxes. The map source is included in the PAK.",
- "files": [
-  {
+ "files": {
+  "mstalk1c_readme.txt": {
    "bytes": 6031,
-   "path": "mstalk1c_readme.txt",
    "sha256": "56908f2f43df5bdecbcbe5a08dbbe7ce6672ede078902561318ef7e43602c6db",
    "timestamp": "2013-05-10T13:08:32.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 7962250,
-   "path": "pak0.pak",
    "sha256": "5f980aa5bec8e07f8edc4a94b3d48ee020bb1fc9d67818842a692cea9a1bdc11",
    "timestamp": "2013-05-10T13:53:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/mstalk/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits. A standalone version optimized for vanilla Quake compatibility is available <a href=\"030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c\">here</a>."
  ],

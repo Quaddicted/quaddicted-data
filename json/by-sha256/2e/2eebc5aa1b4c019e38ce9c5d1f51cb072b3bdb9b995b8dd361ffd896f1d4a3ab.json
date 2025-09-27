@@ -4,24 +4,22 @@
  ],
  "bytes": 1036825,
  "description": "Large medieval village with a few new textures and reskinned monsters. Somewhat of a sequel to \"Village of Dread\".",
- "files": [
-  {
+ "files": {
+  "Pak0.pak": {
    "bytes": 2262816,
-   "path": "Pak0.pak",
    "sha256": "813417dbe003713fc9e67eec330912b15515edea37f0b0dfb925c959da9183db",
    "timestamp": "1997-03-06T09:09:10.000Z"
   },
-  {
+  "Shadow1.txt": {
    "bytes": 4064,
-   "path": "Shadow1.txt",
    "sha256": "1ec5309e6fc1317d0ac0de5674b7cfdeacb56b7198c216468655f1b1999f7a11",
    "timestamp": "1997-03-06T09:52:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/shadow/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "shadow": "1.0"
  },

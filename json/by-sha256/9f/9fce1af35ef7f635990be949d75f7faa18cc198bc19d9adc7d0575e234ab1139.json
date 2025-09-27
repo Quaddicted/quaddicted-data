@@ -7,48 +7,42 @@
  "bytes": 54792367,
  "current_main_group_package": true,
  "description": "Update to <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth 2</a> with a focus on refinement, such as fixing bugs and rebalancing monsters, with some minor new features.",
- "files": [
-  {
+ "files": {
+  "launch.bat": {
    "bytes": 6927,
-   "path": "launch.bat",
    "sha256": "92cfd5f74e2b2455d754cf2b91f4dac54eeefd82de11a6744efa69d71fd3e9f6",
    "timestamp": "2014-05-03T11:23:28.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 48226771,
-   "path": "pak0.pak",
    "sha256": "ddace91ad8a3e3d436c95efea430f5dbd8a319f511a6f7d2d05ac6fffc68ffe6",
    "timestamp": "2008-02-06T20:38:00.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 84961704,
-   "path": "pak1.pak",
    "sha256": "fdc0703ba7a16def597892eacb384bbe137c20ef6034f5038d9f748791f5c14c",
    "timestamp": "2008-03-08T18:54:00.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 8035385,
-   "path": "pak2.pak",
    "sha256": "4a62df0587cb93ae080807614a5428f1bf26c83770c6fd4e7168e9ef7a4c3e77",
    "timestamp": "2016-11-11T20:03:14.000Z"
   },
-  {
+  "quoth.cfg": {
    "bytes": 321,
-   "path": "quoth.cfg",
    "sha256": "85c8ff594b6c024dead6c907e403613b0680763c53b524d293f366ac17c8d2a1",
    "timestamp": "2013-11-11T23:22:18.000Z"
   },
-  {
+  "quoth2_2.txt": {
    "bytes": 2221,
-   "path": "quoth2_2.txt",
    "sha256": "ffdbf8acc475d33479d8acf9469aeaae73dbde6b6fd6c46959d64575d371391e",
    "timestamp": "2014-05-04T02:05:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/quoth/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is the <b>full</b> version. The smaller version 2.2 <u>patch</u> to update an existing 2.1 installation is available <a href=\"33c5fcaf006a30d0692fd6ec72c59ee7141bacd656cd335d03944d439c6656fd\">here</a>."
  ],

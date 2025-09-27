@@ -4,30 +4,27 @@
  ],
  "bytes": 448061,
  "description": "Smallish, linear, plain red brick alley with a sewer beneath.",
- "files": [
-  {
+ "files": {
+  "darkcity.bsp": {
    "bytes": 1119068,
-   "path": "darkcity.bsp",
    "sha256": "22c917e48f5b67cedcb17d72b5cca7e33070936a63b847b49c9d5e18b9df9ab2",
    "timestamp": "1997-09-17T17:10:08.000Z"
   },
-  {
+  "darkcity.txt": {
    "bytes": 2345,
-   "path": "darkcity.txt",
    "sha256": "6782f88c2fc6871de4e3ccba04c12804e6bc1737b394a33bad850bec6e8738da",
    "timestamp": "2002-08-25T13:42:52.000Z"
   },
-  {
+  "darkcity_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "darkcity_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

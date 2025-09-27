@@ -4,234 +4,197 @@
  ],
  "bytes": 62039311,
  "description": "Spacious map using Half-Life textures and thick yellow fog.",
- "files": [
-  {
+ "files": {
+  "lamothe/": {
    "bytes": 0,
-   "path": "lamothe/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/Extra/": {
    "bytes": 0,
-   "path": "lamothe/Extra/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/Extra/Readme of extra file.txt": {
    "bytes": 1751,
-   "path": "lamothe/Extra/Readme of extra file.txt",
    "sha256": "1308b3f2398dc1e7b2cf0b79c1c69ebfb4a2af07f596c4dc9ab4d855722c09cb",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/Extra/valve/": {
    "bytes": 0,
-   "path": "lamothe/Extra/valve/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/Extra/valve/maps/": {
    "bytes": 0,
-   "path": "lamothe/Extra/valve/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/Extra/valve/maps/lamothe.bsp": {
    "bytes": 1503288,
-   "path": "lamothe/Extra/valve/maps/lamothe.bsp",
    "sha256": "c403758188c50af4ba77dbef0681c1f33aa2fdfc9e26e362c4aa06599850cdb5",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/README.txt": {
    "bytes": 4531,
-   "path": "lamothe/README.txt",
    "sha256": "5210d89d3e76c9822fa34b06a93a38e0ddc20d365245cb82d0baf95fb94c6374",
    "timestamp": "2024-01-25T21:40:26.000Z"
   },
-  {
+  "lamothe/gfx/": {
    "bytes": 0,
-   "path": "lamothe/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/": {
    "bytes": 0,
-   "path": "lamothe/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/duskbk.tga": {
    "bytes": 196626,
-   "path": "lamothe/gfx/env/duskbk.tga",
    "sha256": "73c7ba9dd5b713767f23ffa9ad589d86555c6e83d1509e4bc629d6e70b6d4d26",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/duskdn.tga": {
    "bytes": 196626,
-   "path": "lamothe/gfx/env/duskdn.tga",
    "sha256": "0bb12ce4c2597f57cb785f6266c79139534b80959b5d000090289197462e88b8",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/duskft.tga": {
    "bytes": 196626,
-   "path": "lamothe/gfx/env/duskft.tga",
    "sha256": "9119d0abec67a9d9ad2a891678d7827ea13badfe4c75a8fe599d6ea3266b49bb",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/dusklf.tga": {
    "bytes": 196626,
-   "path": "lamothe/gfx/env/dusklf.tga",
    "sha256": "a56803f19122ea515eee5063111099ac559a780ec1c3a3730a61a78c901057a9",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/duskrt.tga": {
    "bytes": 196626,
-   "path": "lamothe/gfx/env/duskrt.tga",
    "sha256": "fa37a090c65144bb54ae38d031e53590a81c746ba50da69962fb7434c49ff3d1",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/gfx/env/duskup.tga": {
    "bytes": 196626,
-   "path": "lamothe/gfx/env/duskup.tga",
    "sha256": "851facdd4dc31f023fc8fafacb0efba937b92f4091d827f5ce4e560077325afd",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/maps/": {
    "bytes": 0,
-   "path": "lamothe/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/maps/lamothe.bsp": {
    "bytes": 6005136,
-   "path": "lamothe/maps/lamothe.bsp",
    "sha256": "51a227cc9e9f62586498782f2099201ea65f030c42e93894be490ba7a602de2b",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/maps/lamothe.lit": {
    "bytes": 1696433,
-   "path": "lamothe/maps/lamothe.lit",
    "sha256": "22a6f8043f7dc7e224f14de1e9790a6e957b17db377299c58da76000d1324f6e",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/maps/lamothe.map": {
    "bytes": 1691942,
-   "path": "lamothe/maps/lamothe.map",
    "sha256": "ceffd1a91c5d3a2b18dd94592171fcfd8c052e94e2bea8511da8b94cf4f75706",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/music/": {
    "bytes": 0,
-   "path": "lamothe/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/music/track114.ogg": {
    "bytes": 9337532,
-   "path": "lamothe/music/track114.ogg",
    "sha256": "ef73f5cf849b6537ec98412e11f36a48a2a28d4ce138249674612370c5fc598a",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/music/track115.ogg": {
    "bytes": 8493017,
-   "path": "lamothe/music/track115.ogg",
    "sha256": "142a6cf9105357e0d8d883b5914b20f68f975a57f4d7223227ae3ed818dbc25e",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/music/track116.ogg": {
    "bytes": 2786556,
-   "path": "lamothe/music/track116.ogg",
    "sha256": "25b11487ca90a595b31dee14484b8434b094871146fc4a27f1dfccaa290dab22",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/music/track117.ogg": {
    "bytes": 11039377,
-   "path": "lamothe/music/track117.ogg",
    "sha256": "1882b6e0c308cb0b41d9e766d011100e64a276316057651147630461103c280c",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/music/track118.ogg": {
    "bytes": 8540013,
-   "path": "lamothe/music/track118.ogg",
    "sha256": "d4962a1db3c2e8a96397bb24b32bb43ce84437e88b4edacf2f27bb22d2afb65f",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/pak0.pak": {
    "bytes": 34544010,
-   "path": "lamothe/pak0.pak",
    "sha256": "955b55aa56dde477637305ef146bc84e48f2e09a474c7bacec61d1a7dd3a13ad",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/": {
    "bytes": 0,
-   "path": "lamothe/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/ambient/": {
    "bytes": 0,
-   "path": "lamothe/sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/ambient/arwind.wav": {
    "bytes": 30408,
-   "path": "lamothe/sound/ambient/arwind.wav",
    "sha256": "34248569bb7ab66f5e1d874e15c7a91d89fd2b70d27e5521456b2589581fe1e6",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/ambient/jetflyby1.wav": {
    "bytes": 168738,
-   "path": "lamothe/sound/ambient/jetflyby1.wav",
    "sha256": "26a2a3861a149cd77a0676d06f7295c2ff81d779a9a0fef9dc2d8872feb36818",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/ambient/mortar.wav": {
    "bytes": 25748,
-   "path": "lamothe/sound/ambient/mortar.wav",
    "sha256": "6ba460c12d82d98f3c46b253595ffdd6f1708f9f64ccae78a7c11cc7663b6388",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/ambient/motor1.wav": {
    "bytes": 52340,
-   "path": "lamothe/sound/ambient/motor1.wav",
    "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/ambient/runwater.wav": {
    "bytes": 64764,
-   "path": "lamothe/sound/ambient/runwater.wav",
    "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/bloodshot/": {
    "bytes": 0,
-   "path": "lamothe/sound/bloodshot/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/bloodshot/power_switch.wav": {
    "bytes": 66382,
-   "path": "lamothe/sound/bloodshot/power_switch.wav",
    "sha256": "5c006bb7315e6eb6d2367ae30a78f0abec8ae2a1e2b6a2c9af88354962b0f33f",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/bmfbr/": {
    "bytes": 0,
-   "path": "lamothe/sound/bmfbr/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-10T20:38:56.000Z"
   },
-  {
+  "lamothe/sound/bmfbr/alarm.wav": {
    "bytes": 21058,
-   "path": "lamothe/sound/bmfbr/alarm.wav",
    "sha256": "539cb807f9fdd4c93c24ad09f57249d600c109dfdd78a7f90f294ffb4c7e8b6b",
    "timestamp": "2024-01-10T20:38:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."

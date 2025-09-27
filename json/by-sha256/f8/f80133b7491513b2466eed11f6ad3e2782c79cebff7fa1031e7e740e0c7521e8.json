@@ -4,24 +4,22 @@
  ],
  "bytes": 6720618,
  "description": "Large dungeon ruins beneath a mountain with a lava-filled central hall.",
- "files": [
-  {
+ "files": {
+  "btm.bsp": {
    "bytes": 20478960,
-   "path": "btm.bsp",
    "sha256": "48ec741ef1ad162cb450bd97e9c7e18c9b70f9f7b611ca062d3cc190b4a1b73e",
    "timestamp": "2021-09-03T18:37:50.000Z"
   },
-  {
+  "btm.txt": {
    "bytes": 2334,
-   "path": "btm.txt",
    "sha256": "0e03ffedca091dcf0168775d4d228dea050ceb62b8de3724f1779be4229ec14f",
    "timestamp": "2021-09-06T15:06:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],

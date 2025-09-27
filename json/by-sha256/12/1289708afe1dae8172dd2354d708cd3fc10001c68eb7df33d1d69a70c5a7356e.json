@@ -4,30 +4,27 @@
  ],
  "bytes": 624983,
  "description": "A fairly large canyon with several Q2base buildings and a temple section, made using only 100 brushes. Map source is included.",
- "files": [
-  {
+ "files": {
+  "xnq1002.bsp": {
    "bytes": 1767880,
-   "path": "xnq1002.bsp",
    "sha256": "1c03b2a143e0c0b2a273a2132b4140937e54c27a9666485ed8505ceccf48789e",
    "timestamp": "2001-12-17T09:23:04.000Z"
   },
-  {
+  "xnq1002.map": {
    "bytes": 127300,
-   "path": "xnq1002.map",
    "sha256": "ef6a58d08a48e0c394e31830db842117440a58baf70299fd9ea2a24ad23149a5",
    "timestamp": "2001-12-17T09:23:02.000Z"
   },
-  {
+  "xnq1002.txt": {
    "bytes": 6672,
-   "path": "xnq1002.txt",
    "sha256": "a1edc8ed137b18d9e548054a277e9abd30f7e02c22c742e070f50af7280bd72d",
    "timestamp": "2001-12-17T09:24:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-12-17",
  "sha256": "1289708afe1dae8172dd2354d708cd3fc10001c68eb7df33d1d69a70c5a7356e",
  "tags": [

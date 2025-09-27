@@ -4,24 +4,22 @@
  ],
  "bytes": 2819227,
  "description": "Spanish 'realism' map with new monsters and textures. Comes with a start map.",
- "files": [
-  {
+ "files": {
+  "Kaos.txt": {
    "bytes": 3330,
-   "path": "Kaos.txt",
    "sha256": "50ee3826debbf75efddd1ad392c5d7a3853227dc6fd863843a6fbaf296373030",
    "timestamp": "1997-10-27T04:46:08.000Z"
   },
-  {
+  "Pak0.pak": {
    "bytes": 6519389,
-   "path": "Pak0.pak",
    "sha256": "696cee22c83c2ac3febe0a4e9be5ba72964f4a6f2304a0d7d562f8a0bd91f1d8",
    "timestamp": "1997-10-27T04:37:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/kaos/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-27",
  "sha256": "1987c20fc0859ed013c5b3d6ee9c4184b7634333c2d7e9b8abcce568fa428a6c",
  "tags": [

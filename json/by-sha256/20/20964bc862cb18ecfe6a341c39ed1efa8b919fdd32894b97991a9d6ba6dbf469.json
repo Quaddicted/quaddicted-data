@@ -5,36 +5,32 @@
  ],
  "bytes": 2532793,
  "description": "A large open Egyptian temple framed by mountains, based on Tronyn's scrapped Roman Wilderness of Pain  maps.",
- "files": [
-  {
+ "files": {
+  "fmb100.bat": {
    "bytes": 72,
-   "path": "fmb100.bat",
    "sha256": "9d2f3c5bfc5e32aef9e498eb48fec3ba2a7bef74065ed10a20d48a3d53b0ec00",
    "timestamp": "2004-10-09T13:47:44.000Z"
   },
-  {
+  "fmb100/": {
    "bytes": 0,
-   "path": "fmb100/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2004-10-14T18:33:50.000Z"
   },
-  {
+  "fmb100/pak0.pak": {
    "bytes": 6163984,
-   "path": "fmb100/pak0.pak",
    "sha256": "ac369f0f58a62ab10bfda47b02d11ecf280ddfd89b957f4d70e52f406135c4ec",
    "timestamp": "2004-10-14T18:32:06.000Z"
   },
-  {
+  "wildebeest.txt": {
    "bytes": 9200,
-   "path": "wildebeest.txt",
    "sha256": "4cf0572ebdcc26277a696fce564ecc8d1392512c18fd91e6641d2821d0a29652",
    "timestamp": "2004-10-11T17:00:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-10-14",
  "sha256": "20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469",
  "tags": [

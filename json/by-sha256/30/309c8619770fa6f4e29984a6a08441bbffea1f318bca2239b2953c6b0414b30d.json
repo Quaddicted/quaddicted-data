@@ -7,30 +7,27 @@
   "ad>=1.71"
  ],
  "description": "Base level.",
- "files": [
-  {
+ "files": {
+  "ad_shadesRefinery.bsp": {
    "bytes": 2255116,
-   "path": "ad_shadesRefinery.bsp",
    "sha256": "9b708b3c81981740010db30a1b7fb9dfc6ce8ad705c187318c451def4785bff2",
    "timestamp": "2019-02-13T19:18:24.000Z"
   },
-  {
+  "ad_shadesRefinery.lit": {
    "bytes": 860099,
-   "path": "ad_shadesRefinery.lit",
    "sha256": "7431986cce2180ca0f6133983af6cf31028d2719f75cb2d17e4ce0707ed986f9",
    "timestamp": "2019-02-13T19:18:20.000Z"
   },
-  {
+  "ad_shadesRefinery_readme.txt": {
    "bytes": 3037,
-   "path": "ad_shadesRefinery_readme.txt",
    "sha256": "94389cf7837c911ac80a8947dd51c209a489c220372e836a42ccb851576c4d8d",
    "timestamp": "2019-02-13T19:37:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
  ],

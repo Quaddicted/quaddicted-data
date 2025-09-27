@@ -4,30 +4,27 @@
  ],
  "bytes": 1173961,
  "description": "Small factory with machinery, a storage area and an office floor. The map source is included.",
- "files": [
-  {
+ "files": {
+  "Bad_decision.txt": {
    "bytes": 2669,
-   "path": "Bad_decision.txt",
    "sha256": "bc513e892f7a8b123231bbad7b90d2ee1b58f1c930cc2f86d7b2f6b9968360cf",
    "timestamp": "2021-10-31T21:14:20.000Z"
   },
-  {
+  "baddec.bsp": {
    "bytes": 2515176,
-   "path": "baddec.bsp",
    "sha256": "e35445bfaecb2ac6ab807da91ea309e8fc28a70baec3eadece5b92349e0ca0b1",
    "timestamp": "2021-11-01T11:03:28.000Z"
   },
-  {
+  "baddec.map": {
    "bytes": 828092,
-   "path": "baddec.map",
    "sha256": "5f5af976384b3a66af99de5560f062396f787bfc46227e495f4fd09213a9c036",
    "timestamp": "2021-10-31T22:09:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-11-01",
  "sha256": "8eb9091a9066b8c8b61b96526cedc5d8dafa7d29e2e1e747f3f795a77fc69469",
  "tags": [

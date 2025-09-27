@@ -7,54 +7,47 @@
   "copper>=1.30"
  ],
  "description": "Smallish brick-themed map with some lava sections and multiple endings.",
- "files": [
-  {
+ "files": {
+  "copper/": {
    "bytes": 0,
-   "path": "copper/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-10-08T12:44:10.000Z"
   },
-  {
+  "copper/maps/": {
    "bytes": 0,
-   "path": "copper/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-10-08T12:44:38.000Z"
   },
-  {
+  "copper/maps/books.wad": {
    "bytes": 11036,
-   "path": "copper/maps/books.wad",
    "sha256": "988a2f028aa35c6948d575c99ad39726f5db41e549464b0a7369258ff75c5de6",
    "timestamp": "2023-10-01T12:32:12.000Z"
   },
-  {
+  "copper/maps/drmelon-thrallbreak.bsp": {
    "bytes": 1936836,
-   "path": "copper/maps/drmelon-thrallbreak.bsp",
    "sha256": "4d35e2bfebf53aaae725a6f08e54cca21e046bb93328113840178674c8daff40",
    "timestamp": "2023-10-08T12:50:26.000Z"
   },
-  {
+  "copper/maps/drmelon-thrallbreak.lit": {
    "bytes": 934766,
-   "path": "copper/maps/drmelon-thrallbreak.lit",
    "sha256": "583fe2399a8145d9b65041d0aa14ebe665feda8d23f847fd6c481ed0c1e014ed",
    "timestamp": "2023-10-08T12:50:26.000Z"
   },
-  {
+  "copper/maps/drmelon-thrallbreak.map": {
    "bytes": 1481624,
-   "path": "copper/maps/drmelon-thrallbreak.map",
    "sha256": "bcd4216f46ee74bd2b9c5575ceb3a4b1a91dd29e3d455678c40ef4b413c8272c",
    "timestamp": "2023-10-08T12:49:30.000Z"
   },
-  {
+  "copper/maps/drmelon-thrallbreak.txt": {
    "bytes": 310,
-   "path": "copper/maps/drmelon-thrallbreak.txt",
    "sha256": "403fe1c073822c1eafb92383a980ca803db84a2b40df82bbdb31b11121580b49",
    "timestamp": "2024-01-25T21:10:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility."

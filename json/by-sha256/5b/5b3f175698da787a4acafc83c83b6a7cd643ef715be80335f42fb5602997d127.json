@@ -4,18 +4,17 @@
  ],
  "bytes": 1357038,
  "description": "some Speedmap by notorious ray",
- "files": [
-  {
+ "files": {
+  "sm83_ray.qwd": {
    "bytes": 5174578,
-   "path": "sm83_ray.qwd",
    "sha256": "d8de36a299edcddda465c85b1600cd7925488593962e4d0d2ef510197eee9a58",
    "timestamp": "2004-03-02T19:43:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2005-08-06",
  "sha256": "5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127",
  "tags": [

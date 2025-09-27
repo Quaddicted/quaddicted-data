@@ -20,126 +20,107 @@
  ],
  "bytes": 375069915,
  "description": "A mod focused around a powerful new melee weapon known as the 'bonk hammer', which alters player movement. Contains 17 maps from various authors designed to make use of the new mechanics, as well as a couple of custom monsters and a skin-purchasing system for the hammer.",
- "files": [
-  {
+ "files": {
+  "Bonk Jam.pdf": {
    "bytes": 200130,
-   "path": "Bonk Jam.pdf",
    "sha256": "2990b71b4863c54adde2302005e25ed5e15432d2624212559baaf9eadaa6b4bc",
    "timestamp": "2024-07-22T07:22:02.000Z"
   },
-  {
+  "docs/": {
    "bytes": 0,
-   "path": "docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-30T01:33:02.000Z"
   },
-  {
+  "docs/bonk_4lt.txt": {
    "bytes": 391,
-   "path": "docs/bonk_4lt.txt",
    "sha256": "c3d79d8232bc6ed8ff9110e91fa99ba8c692efb790bcb5ba77467d229f8fefb3",
    "timestamp": "2024-07-07T21:36:36.000Z"
   },
-  {
+  "docs/bonk_cc.txt": {
    "bytes": 1765,
-   "path": "docs/bonk_cc.txt",
    "sha256": "8614de2d615d50225b509c2c969c537360039928a5fc8eee07590176da2463ea",
    "timestamp": "2024-07-06T21:18:30.000Z"
   },
-  {
+  "docs/bonk_chuma.md": {
    "bytes": 3467,
-   "path": "docs/bonk_chuma.md",
    "sha256": "6fa52cae66adb6f305381426003ad3ccf7922f0876147d90cbfc1c45e3b6af51",
    "timestamp": "2024-07-06T08:23:54.000Z"
   },
-  {
+  "docs/bonk_iyago.txt": {
    "bytes": 427,
-   "path": "docs/bonk_iyago.txt",
    "sha256": "610e294e8ca8d1cccdb022d29c6cf2afcbabcd94109eb65e907c60bd46e64180",
    "timestamp": "2024-07-05T20:36:32.000Z"
   },
-  {
+  "docs/bonk_makkon.txt": {
    "bytes": 2323,
-   "path": "docs/bonk_makkon.txt",
    "sha256": "3a20a64c65c9f785a12feafa61d6be9ef9ebad4cda146ef76ff8ca4217a75c29",
    "timestamp": "2024-07-17T15:55:24.000Z"
   },
-  {
+  "docs/bonk_milestone.txt": {
    "bytes": 1762,
-   "path": "docs/bonk_milestone.txt",
    "sha256": "7b6237939c24b390a35bc8d425f0af5bfe4468b7a3ddcf2bb0d67d695085ffc5",
    "timestamp": "2024-07-16T17:44:28.000Z"
   },
-  {
+  "docs/bonk_nickster.txt": {
    "bytes": 1609,
-   "path": "docs/bonk_nickster.txt",
    "sha256": "7f9f04b4bba119d04c85731ef3dbffe48fae2a82072deb647a98344687edb169",
    "timestamp": "2024-07-29T11:22:16.000Z"
   },
-  {
+  "docs/bonk_pinchy.txt": {
    "bytes": 3688,
-   "path": "docs/bonk_pinchy.txt",
    "sha256": "14e93c86a07597ee61ce2ce7df8cf27ab229620665003980c25cf2132e5f1539",
    "timestamp": "2024-07-12T23:50:08.000Z"
   },
-  {
+  "docs/bonk_rabbit.html": {
    "bytes": 1690,
-   "path": "docs/bonk_rabbit.html",
    "sha256": "9e8f1274455917df0c7fa18f951ee6ca895d59892cffa4aff6b5f75922e62a99",
    "timestamp": "2024-07-01T15:19:54.000Z"
   },
-  {
+  "docs/bonk_rabbit.md": {
    "bytes": 1395,
-   "path": "docs/bonk_rabbit.md",
    "sha256": "5407e4d434c1c6a5372fcf053d283904d33620975fd8459c79f1736d39da3b10",
    "timestamp": "2024-07-01T15:19:48.000Z"
   },
-  {
+  "docs/bonk_rabbit2.txt": {
    "bytes": 610,
-   "path": "docs/bonk_rabbit2.txt",
    "sha256": "2236cd2f6556b8ff7acdd711ee0d94a37e7b799d05460062cccfd377871aa1dc",
    "timestamp": "2024-07-13T18:07:08.000Z"
   },
-  {
+  "docs/bonk_recycledoj.txt": {
    "bytes": 1770,
-   "path": "docs/bonk_recycledoj.txt",
    "sha256": "cd23e1449f89543cb7614a4ed06fba50e5a60a2aa8746d95d114852900a0e987",
    "timestamp": "2024-07-14T03:37:08.000Z"
   },
-  {
+  "docs/bonk_simonn.txt": {
    "bytes": 1925,
-   "path": "docs/bonk_simonn.txt",
    "sha256": "2a7c42f2ee790c9410d768620addd2087103f6d8dd52034b3441048bc98e10ed",
    "timestamp": "2024-07-06T08:37:00.000Z"
   },
-  {
+  "docs/bonk_sze.txt": {
    "bytes": 3095,
-   "path": "docs/bonk_sze.txt",
    "sha256": "fb3cc42308cc211efa4b7487245d2c5c08fdea315b2f6f02fe83efd053d84578",
    "timestamp": "2024-07-15T00:30:10.000Z"
   },
-  {
+  "map sources.zip": {
    "bytes": 19301577,
-   "path": "map sources.zip",
    "sha256": "aa28b92a5ad8852b201e75f939fc32a8e6876f6e1099976ec8901ecd6f6ee759",
    "timestamp": "2024-07-30T01:34:10.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 5232226,
-   "path": "pak0.pak",
    "sha256": "6958c536f6f0a278c64d7f9c4635b1f55516f6ad9c336bc8a6c2f31691892dc3",
    "timestamp": "2024-07-23T06:52:30.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 762503656,
-   "path": "pak1.pak",
    "sha256": "6989578c0107bab790f8da46ebab94f4c884f3125410ff716c64eb012ae3caf0",
    "timestamp": "2024-07-30T01:33:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/bonkjam/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."

@@ -4,72 +4,62 @@
  ],
  "bytes": 5162481,
  "description": "Episode with six small maps of varying themes and a few new monsters.",
- "files": [
-  {
+ "files": {
+  "TheMyths/": {
    "bytes": 0,
-   "path": "TheMyths/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-12-03T15:10:20.000Z"
   },
-  {
+  "TheMyths/Quaddicted_repack.txt": {
    "bytes": 43,
-   "path": "TheMyths/Quaddicted_repack.txt",
    "sha256": "20b582e2bd18ab8252d6259ba1f308f761a72e79e4a3775141387f11a5caa677",
    "timestamp": "2011-12-03T15:06:04.000Z"
   },
-  {
+  "TheMyths/The Myths 1024res.BAT": {
    "bytes": 70,
-   "path": "TheMyths/The Myths 1024res.BAT",
    "sha256": "90d5a57ac0d26cb95bba7793b52586a6b5965cac2ba1d2d3f3293aafde931d2a",
    "timestamp": "2011-06-12T17:18:18.000Z"
   },
-  {
+  "TheMyths/The Myths 1280res.BAT": {
    "bytes": 71,
-   "path": "TheMyths/The Myths 1280res.BAT",
    "sha256": "4ef8d0703c86f2dfc70f7042bfdc97968a99e7eaed4e2bc254be7efe222f9fb0",
    "timestamp": "2011-06-12T17:18:06.000Z"
   },
-  {
+  "TheMyths/The Myths 640res.BAT": {
    "bytes": 69,
-   "path": "TheMyths/The Myths 640res.BAT",
    "sha256": "54b81070355c85f37349515017a4a74a2bda3d657dddb32df55f981dfa93f98b",
    "timestamp": "2011-06-12T17:18:36.000Z"
   },
-  {
+  "TheMyths/The Myths 800res.BAT": {
    "bytes": 69,
-   "path": "TheMyths/The Myths 800res.BAT",
    "sha256": "8001f60f0b46a17e896df11632d7b5609f518d912a30dc094c464aab6c48180d",
    "timestamp": "2011-06-12T17:18:28.000Z"
   },
-  {
+  "TheMyths/maps/": {
    "bytes": 0,
-   "path": "TheMyths/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2011-12-03T15:09:44.000Z"
   },
-  {
+  "TheMyths/maps/myth6.bsp": {
    "bytes": 880136,
-   "path": "TheMyths/maps/myth6.bsp",
    "sha256": "26b0db6404dc76772516a429f33792f68bbc4c71c390c77b225bb230c434b7fe",
    "timestamp": "2011-06-12T17:08:12.000Z"
   },
-  {
+  "TheMyths/pak0.pak": {
    "bytes": 13207054,
-   "path": "TheMyths/pak0.pak",
    "sha256": "50893e74191c948884186b182c5889935232ab386de834565271b775b8f14a35",
    "timestamp": "2006-08-10T23:59:44.000Z"
   },
-  {
+  "TheMyths/quake.rc": {
    "bytes": 585,
-   "path": "TheMyths/quake.rc",
    "sha256": "cb9be9ff0dc9cc0931c8d03e0793487dbd1e66a9fe744e5ee7d6c2828940fb94",
    "timestamp": "2006-08-10T22:54:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2011-06-12",
  "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
  "tags": [

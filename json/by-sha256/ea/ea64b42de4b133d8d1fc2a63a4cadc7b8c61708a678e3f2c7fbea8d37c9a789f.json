@@ -4,30 +4,27 @@
  ],
  "bytes": 973912,
  "description": "Medium blue-metal map with abstract designs.",
- "files": [
-  {
+ "files": {
+  "asylum.bsp": {
    "bytes": 2169308,
-   "path": "asylum.bsp",
    "sha256": "cb1766aef6f4bae91a6f84b6e233b559a27982a6a911b7ad263a36e4647fa9fb",
    "timestamp": "1998-06-17T22:07:10.000Z"
   },
-  {
+  "asylum.txt": {
    "bytes": 3306,
-   "path": "asylum.txt",
    "sha256": "14b1b10a80381e7c234dfd31ec87c7d28bcdc96bae7d137aa9abfccba4ef46ac",
    "timestamp": "1998-08-26T21:05:06.000Z"
   },
-  {
+  "asylum_quaddictedrepack.txt": {
    "bytes": 197,
-   "path": "asylum_quaddictedrepack.txt",
    "sha256": "6cdbafb18ce8ba0c7d1dac9eb9733b21214afb50bda6751c0867eadb0328bd7c",
    "timestamp": "2012-04-19T22:25:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

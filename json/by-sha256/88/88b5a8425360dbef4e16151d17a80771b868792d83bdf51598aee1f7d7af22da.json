@@ -7,54 +7,47 @@
   "ad>=1.80"
  ],
  "description": "Large underground castle / medieval sewer map in the style of Honey. Custom music is \"Only Child\" by Julia Kent (track 22).",
- "files": [
-  {
+ "files": {
+  "ad/": {
    "bytes": 0,
-   "path": "ad/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-03-17T15:19:42.000Z"
   },
-  {
+  "ad/maps/": {
    "bytes": 0,
-   "path": "ad/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-03-17T15:12:00.000Z"
   },
-  {
+  "ad/maps/warden.bsp": {
    "bytes": 15440276,
-   "path": "ad/maps/warden.bsp",
    "sha256": "7c6da021a61cd5e12508366e76582f3874458e446834132500fb229888bab76b",
    "timestamp": "2023-03-18T11:26:34.000Z"
   },
-  {
+  "ad/maps/warden.lit": {
    "bytes": 10084718,
-   "path": "ad/maps/warden.lit",
    "sha256": "805775ab3ac8211903a786d61f28f8979357386f6e7f075f6cf60048bc970ee8",
    "timestamp": "2023-03-18T11:26:34.000Z"
   },
-  {
+  "ad/music/": {
    "bytes": 0,
-   "path": "ad/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-03-17T12:57:40.000Z"
   },
-  {
+  "ad/music/track22.ogg": {
    "bytes": 4308718,
-   "path": "ad/music/track22.ogg",
    "sha256": "75e51a2bd149aeef998238f54e698a4878c2c6987ced641edba94449d9aa22da",
    "timestamp": "2023-03-17T07:39:04.000Z"
   },
-  {
+  "ad/warden_readme.txt": {
    "bytes": 5171,
-   "path": "ad/warden_readme.txt",
    "sha256": "e0b40c8391e748360d08d919ad1e3eb8ff66667377f5b0a32fa0fcdbcd6b4a85",
    "timestamp": "2023-03-18T11:38:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> (NOT included).",
   "Load manually via console: \"game ad; map warden\"",

@@ -4,24 +4,22 @@
  ],
  "bytes": 1246665,
  "description": "Large base map with a unique theme and reliance on exploration. Reinforcements teleport in if the mission is not completed within 15 minutes.",
- "files": [
-  {
+ "files": {
+  "tmc.bsp": {
    "bytes": 2878992,
-   "path": "tmc.bsp",
    "sha256": "837ad65b5cf0cbf640f50ae3e20ce5d27190361b015eb0d3cf98005ba1d1a8d8",
    "timestamp": "1997-09-18T06:50:52.000Z"
   },
-  {
+  "tmc.txt": {
    "bytes": 6482,
-   "path": "tmc.txt",
    "sha256": "1c05d1a05b771b6741c7583ca10bdccf871a36c3ba1f503faddfc5956abd2cdc",
    "timestamp": "1998-08-15T03:35:08.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-09-18",
  "sha256": "72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b",
  "tags": [

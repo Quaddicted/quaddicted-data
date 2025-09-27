@@ -4,30 +4,27 @@
  ],
  "bytes": 2649062,
  "description": "Medium-sized dark underground laboratory.",
- "files": [
-  {
+ "files": {
+  "symphony_v101.bsp": {
    "bytes": 5273976,
-   "path": "symphony_v101.bsp",
    "sha256": "b5ea05d69f0ef392ef747035288ace7b7aa3339a984faaa38960d81f10010590",
    "timestamp": "2016-10-09T10:33:38.000Z"
   },
-  {
+  "symphony_v101.lit": {
    "bytes": 1628099,
-   "path": "symphony_v101.lit",
    "sha256": "5fc6225d480dbdde44a06cbfc42643190623c7366df4d121085bc17cda38b56b",
    "timestamp": "2016-10-09T10:33:38.000Z"
   },
-  {
+  "symphony_v101.txt": {
    "bytes": 2057,
-   "path": "symphony_v101.txt",
    "sha256": "c2ed5b965e50cf9c368eb28688965cec7499017cf910f43104aabbf4a945ac70",
    "timestamp": "2016-10-09T10:42:14.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2016-10-09",
  "sha256": "973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191",
  "tags": [

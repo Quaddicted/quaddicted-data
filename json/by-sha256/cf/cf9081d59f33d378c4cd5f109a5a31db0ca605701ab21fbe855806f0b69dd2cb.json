@@ -4,24 +4,22 @@
  ],
  "bytes": 260158,
  "description": "Small white medieval map with Hipnotic textures and lightning effects, has to be played with Scourge of Armagon.",
- "files": [
-  {
+ "files": {
+  "TOL.BSP": {
    "bytes": 626060,
-   "path": "TOL.BSP",
    "sha256": "8930806b66d74cff3f6fe27463732f968b2648e97e69c367476891275cdb04fc",
    "timestamp": "1997-07-02T16:32:46.000Z"
   },
-  {
+  "TOL.TXT": {
    "bytes": 2156,
-   "path": "TOL.TXT",
    "sha256": "2d3564057b7a4be4a591c00f73b8f1ab1ea769e4189f669885f172b2968cc54e",
    "timestamp": "1997-07-02T16:41:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-06-03",
  "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
  "tags": [

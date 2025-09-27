@@ -4,24 +4,22 @@
  ],
  "bytes": 487689,
  "description": "Small speedrunning map.",
- "files": [
-  {
+ "files": {
+  "shafted.bsp": {
    "bytes": 1285484,
-   "path": "shafted.bsp",
    "sha256": "dcfdbdc4d513984a8ccf08711062209eb9c6485216a950ced1aeea08233f7c60",
    "timestamp": "2002-04-23T21:33:06.000Z"
   },
-  {
+  "shafted.txt": {
    "bytes": 325,
-   "path": "shafted.txt",
    "sha256": "3a8c62cc21701d4afe38f27c25113c6b54020c24d6161d1715b646b22a547ad2",
    "timestamp": "2003-11-29T12:09:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-11-29",
  "sha256": "7df9e97bdc89f720aa8bd5770f4f32a5535f5db80a66901a186852f85c4ffa8f",
  "tags": [

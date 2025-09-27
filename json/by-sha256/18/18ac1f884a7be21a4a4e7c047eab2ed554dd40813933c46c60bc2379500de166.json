@@ -4,30 +4,27 @@
  ],
  "bytes": 185282,
  "description": "Small dark linear catacombs.",
- "files": [
-  {
+ "files": {
+  "nanesp1.bsp": {
    "bytes": 436156,
-   "path": "nanesp1.bsp",
    "sha256": "6e75b961f68dd650288891de9c0e3c43f257d779de1f9c10f603dd54e4acbaaf",
    "timestamp": "2001-07-01T01:26:04.000Z"
   },
-  {
+  "nanesp1.txt": {
    "bytes": 1993,
-   "path": "nanesp1.txt",
    "sha256": "55293487cb4896e7a123bcb2dc5a8d13ea992660e4e907498c436bc3bdea27ff",
    "timestamp": "2001-07-01T02:06:14.000Z"
   },
-  {
+  "nanesp1_quaddictedrepack.txt": {
    "bytes": 319,
-   "path": "nanesp1_quaddictedrepack.txt",
    "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],

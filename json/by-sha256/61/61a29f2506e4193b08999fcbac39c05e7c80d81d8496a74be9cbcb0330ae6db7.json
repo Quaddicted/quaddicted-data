@@ -4,30 +4,27 @@
  ],
  "bytes": 3219256,
  "description": "Medium sized gray-red castle, created with trickjumping in mind. Comes with an optional skybox.",
- "files": [
-  {
+ "files": {
+  "hdn.bsp": {
    "bytes": 4097376,
-   "path": "hdn.bsp",
    "sha256": "f2e68c931c330dc639313fa2e6f19ccfbf8e941ea30d4e61cf8f153d90a1b258",
    "timestamp": "2006-03-24T06:37:06.000Z"
   },
-  {
+  "hdn.txt": {
    "bytes": 5373,
-   "path": "hdn.txt",
    "sha256": "45d593860e6f6726ddb5438957c66ac20c0f870ffc1a06ed109beeda3f535db1",
    "timestamp": "2006-03-24T12:50:16.000Z"
   },
-  {
+  "sky_morose.zip": {
    "bytes": 1588990,
-   "path": "sky_morose.zip",
    "sha256": "641122cff45de6778d068862879c143db707d6b483d673f41a5a2433e33d4477",
    "timestamp": "2006-03-24T12:16:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2006-03-24",
  "sha256": "61a29f2506e4193b08999fcbac39c05e7c80d81d8496a74be9cbcb0330ae6db7",
  "tags": [

@@ -4,42 +4,37 @@
  ],
  "bytes": 3092188,
  "description": "6-map episode featuring raptors, set in a military base and the surrounding countryside.",
- "files": [
-  {
+ "files": {
+  "demo1.dem": {
    "bytes": 143640,
-   "path": "demo1.dem",
    "sha256": "3fa0abb3d03b45c6abc54147b3beb70a8cf68a46e9b7498efe87240e1ee8e8e3",
    "timestamp": "2001-04-27T20:31:36.000Z"
   },
-  {
+  "demo2.dem": {
    "bytes": 68990,
-   "path": "demo2.dem",
    "sha256": "cdba587d285c7b41e65ca08f6e9c07f73ddbc9a4faa317320f27f9d33166f093",
    "timestamp": "2001-04-13T10:56:52.000Z"
   },
-  {
+  "demo3.dem": {
    "bytes": 157636,
-   "path": "demo3.dem",
    "sha256": "c1618e641c94b67dcf3dc2e8bb4e996ffcaa2980c87174a9e345cc9e1a0c4b39",
    "timestamp": "2001-04-27T20:36:24.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 6846065,
-   "path": "pak0.pak",
    "sha256": "fa42544a7470d78441bb03fda022aae99a2f12e9f054bd5cf3095b2bef8a7c02",
    "timestamp": "2001-05-06T19:29:12.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 2436,
-   "path": "readme.txt",
    "sha256": "132c4360b5232c97649b211d30f3e4d514e511c68cf1920ed218908bb2f7b041",
    "timestamp": "2001-05-06T19:52:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/raptors/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-05-06",
  "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
  "tags": [

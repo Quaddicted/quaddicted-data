@@ -4,150 +4,127 @@
  ],
  "bytes": 139964520,
  "description": "The sequel to <a href=\"0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859\">Ter Shibboleth</a>, follwing the same boundary-pushing vein in three huge levels with impressive vistas: a snowy village in the mountains, the city of Paris (complete with Notre Dame and the Eiffel tower), and an ancient Roman city next to a colosseum. The levels run on the Drake mod which is included.",
- "files": [
-  {
+ "files": {
+  "TerShib_readme.txt": {
    "bytes": 2115,
-   "path": "TerShib_readme.txt",
    "sha256": "ffa1e291295334e71dcb60b41d300537052a8f78ecd58a81d64e8580334f023b",
    "timestamp": "2020-01-14T17:32:06.000Z"
   },
-  {
+  "Tershib_source/": {
    "bytes": 0,
-   "path": "Tershib_source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-08T17:24:40.000Z"
   },
-  {
+  "Tershib_source/amphiteater.wad": {
    "bytes": 9234780,
-   "path": "Tershib_source/amphiteater.wad",
    "sha256": "2d642a39f777030069278f7e37797d76a17a5afbb1054a6641cfcca311e0f070",
    "timestamp": "2020-01-30T09:57:54.000Z"
   },
-  {
+  "Tershib_source/boreal.wad": {
    "bytes": 5021236,
-   "path": "Tershib_source/boreal.wad",
    "sha256": "daa4ecd61e688e7ec53764286f856c6d96898aad6658c06d1a84e33de587cdd3",
    "timestamp": "2020-01-10T17:06:34.000Z"
   },
-  {
+  "Tershib_source/paris.wad": {
    "bytes": 9033292,
-   "path": "Tershib_source/paris.wad",
    "sha256": "50f94e0e23a5dbb0962d76cc808cbcbec3b5d5ef118a0cbc2b7591ecbdd743b5",
    "timestamp": "2019-12-31T17:29:16.000Z"
   },
-  {
+  "Tershib_source/shib6.map": {
    "bytes": 26273694,
-   "path": "Tershib_source/shib6.map",
    "sha256": "60609495aed21d6ba6515fd630b41bb10d80a05645f964ca5fcac398838b087a",
    "timestamp": "2020-02-06T15:50:50.000Z"
   },
-  {
+  "Tershib_source/shib7.map": {
    "bytes": 45603939,
-   "path": "Tershib_source/shib7.map",
    "sha256": "0bbf726e7b98332ab654ac30cc8213ddc29d4373bc7eb47def8f3cdb022a5bbf",
    "timestamp": "2020-02-04T16:01:10.000Z"
   },
-  {
+  "Tershib_source/shib8.map": {
    "bytes": 54180954,
-   "path": "Tershib_source/shib8.map",
    "sha256": "7d9b4389318bbc281d388861cf31c699e73842684bde523a59b608fdca97d2dd",
    "timestamp": "2020-02-08T17:06:48.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-08T17:25:38.000Z"
   },
-  {
+  "maps/shib6.bsp": {
    "bytes": 61177612,
-   "path": "maps/shib6.bsp",
    "sha256": "909fe82885e751dae9ba4887be6466f598170383a1aff4e6bc16c49424bfd5eb",
    "timestamp": "2020-02-06T15:51:30.000Z"
   },
-  {
+  "maps/shib6.lit": {
    "bytes": 43690448,
-   "path": "maps/shib6.lit",
    "sha256": "95283e870afcd4c04ef30f91de8d2dc24eb775c6c894a977a21086e139645790",
    "timestamp": "2020-02-04T15:44:52.000Z"
   },
-  {
+  "maps/shib7.bsp": {
    "bytes": 89549724,
-   "path": "maps/shib7.bsp",
    "sha256": "84ab2732a9d2dcda310ceb6539844c92223b5eec0e5be58dceb213b7bbadf332",
    "timestamp": "2020-02-04T16:19:26.000Z"
   },
-  {
+  "maps/shib8.bsp": {
    "bytes": 129127124,
-   "path": "maps/shib8.bsp",
    "sha256": "253c0dd2466046788dbff2d93510ee65b2985e4d97e506390751137c42eddbb2",
    "timestamp": "2020-02-08T17:28:20.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 25051624,
-   "path": "pak0.pak",
    "sha256": "9a229082e446dc3991778b3364ec5aeba9b6767e5905406767f753862997295a",
    "timestamp": "2011-06-12T21:18:08.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 11698993,
-   "path": "pak1.pak",
    "sha256": "22d57e211cdb714ba3df19083c1514b08e5c84650545bc1a4092b383fb72a3f9",
    "timestamp": "2011-06-12T20:56:02.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 4813402,
-   "path": "pak2.pak",
    "sha256": "8bf25c19172e0f7a63ad30fa14b1a93d335e50270bb1d3bd110d63adae53a3b5",
    "timestamp": "2012-12-11T07:04:08.000Z"
   },
-  {
+  "pak3.pak": {
    "bytes": 6506790,
-   "path": "pak3.pak",
    "sha256": "9a58d294e79806fc15293163ba9954f7d842238c3040aa753f497c5fec2e8473",
    "timestamp": "2012-12-11T07:01:28.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 1801512,
-   "path": "progs.dat",
    "sha256": "e6d0e49beb603b2bd911f3c0132b91649c4286033cd07f1225c5343c62f09f0d",
    "timestamp": "2012-12-11T07:01:40.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 340,
-   "path": "quake.rc",
    "sha256": "73fb4fc0dcc58adc626be2730d5e65fe2d3264bfd19f20c965c8f393ae7e8d1a",
    "timestamp": "2019-09-04T22:49:26.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-08T17:26:54.000Z"
   },
-  {
+  "sound/shib6amb.wav": {
    "bytes": 1697310,
-   "path": "sound/shib6amb.wav",
    "sha256": "1f85b9bcc386d459484b7c6f0d03a7003308272d58479f333c932c9da01949c5",
    "timestamp": "2020-01-12T10:20:58.000Z"
   },
-  {
+  "sound/shib7amb.wav": {
    "bytes": 2303032,
-   "path": "sound/shib7amb.wav",
    "sha256": "1863be642e71d976838062f5ff6d716fe6cd6a28ab4ef5192681c98a42ab94b4",
    "timestamp": "2019-03-19T14:33:20.000Z"
   },
-  {
+  "sound/shib8amb.wav": {
    "bytes": 1323068,
-   "path": "sound/shib8amb.wav",
    "sha256": "395e36a86a700f9f079d18489e16f3e599aa34641397a513085fbc595a1aacac",
    "timestamp": "2020-01-14T16:36:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/shib/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These levels require a source port with increased limits and BSP2 support as well as server protocol 999. The memory heapsize must be set to at least 1 GB. Due to the large open areas and no optimization (VIS), a considerable impact on performance should be expected."
  ],

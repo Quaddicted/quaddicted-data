@@ -4,24 +4,22 @@
  ],
  "bytes": 2594496,
  "description": "Two medium to large maps with Metal/Hipnotic textures and some monsters from Dissolution of Eternity.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 5596480,
-   "path": "pak0.pak",
    "sha256": "69ced02204a0c86178c68282d36d65c606ae0271f88500063a34e8f266705f5a",
    "timestamp": "1997-10-31T00:49:46.000Z"
   },
-  {
+  "tefdbl3.txt": {
    "bytes": 6930,
-   "path": "tefdbl3.txt",
    "sha256": "f6efba17d07960e8603f6169f594fdb5d3bf7b6bf69318704d6796b05c9d2501",
    "timestamp": "1997-10-31T09:14:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/tefdbl3/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-10-31",
  "sha256": "09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28",
  "tags": [

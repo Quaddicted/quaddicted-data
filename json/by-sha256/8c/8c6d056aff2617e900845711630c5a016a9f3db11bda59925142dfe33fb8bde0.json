@@ -4,30 +4,27 @@
  ],
  "bytes": 6743837,
  "description": "A sequel to <a href=\"16b3a02b2d201cbd87bb07b135f1689b600a9b4ea61aea52d2ac980c5708db4f\">Carved In Flesh</a> ; dark medieval castle in Daikatana textures, featuring many custom/modified monsters.",
- "files": [
-  {
+ "files": {
+  "haunting/": {
    "bytes": 0,
-   "path": "haunting/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2003-08-16T11:51:48.000Z"
   },
-  {
+  "haunting/haunting.txt": {
    "bytes": 5277,
-   "path": "haunting/haunting.txt",
    "sha256": "6d6480b78e9bb62a6ea4d13659d58911692bf886b6e096de35d450b41336b09d",
    "timestamp": "2003-12-28T13:33:40.000Z"
   },
-  {
+  "haunting/pak0.pak": {
    "bytes": 13243793,
-   "path": "haunting/pak0.pak",
    "sha256": "4fb87becc50067e8e9eb419917e169f35f854b731ca00e6686e1ce07e49c8f2c",
    "timestamp": "2003-07-09T20:17:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-12-28",
  "sha256": "8c6d056aff2617e900845711630c5a016a9f3db11bda59925142dfe33fb8bde0",
  "tags": [

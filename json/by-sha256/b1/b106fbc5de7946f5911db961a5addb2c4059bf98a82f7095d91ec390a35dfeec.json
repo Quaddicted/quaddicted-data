@@ -4,18 +4,17 @@
  ],
  "bytes": 486117,
  "description": "Small, dark wizard map.",
- "files": [
-  {
+ "files": {
+  "darknite.bsp": {
    "bytes": 1106032,
-   "path": "darknite.bsp",
    "sha256": "b8d5ea764a6825992663f2e31f8b46f53a1eae68b106a7fdd619ddb4a6bdeee8",
    "timestamp": "1997-01-18T09:57:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-18",
  "sha256": "b106fbc5de7946f5911db961a5addb2c4059bf98a82f7095d91ec390a35dfeec",
  "tags": [

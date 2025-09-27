@@ -4,36 +4,32 @@
  ],
  "bytes": 3895738,
  "description": "Three-map pack with new monsters, textures and skins with a dark and morbid metal style using grotty brownish modified ID textures.",
- "files": [
-  {
+ "files": {
+  "necro/": {
    "bytes": 0,
-   "path": "necro/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2002-02-16T19:37:04.000Z"
   },
-  {
+  "necro/necrobrood.html": {
    "bytes": 17303,
-   "path": "necro/necrobrood.html",
    "sha256": "1d057e9d804b6b70989948cea395e56444c8e4ba29fadac76b66b667021f59f2",
    "timestamp": "2001-12-25T19:43:40.000Z"
   },
-  {
+  "necro/necrobrood.txt": {
    "bytes": 6822,
-   "path": "necro/necrobrood.txt",
    "sha256": "05329240a911ab74fdb7a7cb7950cbae687b7ce55d9d079d95b2158863dbb99f",
    "timestamp": "2001-12-25T19:44:44.000Z"
   },
-  {
+  "necro/pak0.pak": {
    "bytes": 8251844,
-   "path": "necro/pak0.pak",
    "sha256": "5b8f98f5440696f106e135b40befb744b9e286dbfdfbbee62d50b9edd9a7fb03",
    "timestamp": "2002-02-16T19:37:20.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-02-16",
  "sha256": "9e36f588f2e02ce9da5d0aada8ab279e1664e6bb433c4450b5b25136fdef7716",
  "tags": [

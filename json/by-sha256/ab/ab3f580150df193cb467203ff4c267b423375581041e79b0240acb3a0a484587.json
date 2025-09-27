@@ -8,78 +8,67 @@
  ],
  "bytes": 11061975,
  "description": "Impromptu map jam following a \"retro\" medieval/castle theme: five small maps by ericw, mfx, Scampie, Skacky and sock. It comes with optional medieval-style item models, and the map sources are included.",
- "files": [
-  {
+ "files": {
+  "docs/": {
    "bytes": 0,
-   "path": "docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2014-11-23T15:02:52.000Z"
   },
-  {
+  "docs/retrojam_skacky.txt": {
    "bytes": 1481,
-   "path": "docs/retrojam_skacky.txt",
    "sha256": "b7afec215a9e025ee846f77d5c6b9873c471b0d85d2ca2366bfcb542ca8a45c8",
    "timestamp": "2014-11-23T14:41:54.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 41896745,
-   "path": "pak0.pak",
    "sha256": "8fe0de60028d971525e389969df9773a270981165f4295fb3b738e4535eb687d",
    "timestamp": "2014-11-23T18:36:16.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 273011,
-   "path": "pak1.pak",
    "sha256": "b1f60d3240e39106bef8e314f045e84c1bb26120900a4c41c33865707a98fe99",
    "timestamp": "2014-11-23T18:35:20.000Z"
   },
-  {
+  "retrojam1_readme.txt": {
    "bytes": 2603,
-   "path": "retrojam1_readme.txt",
    "sha256": "d0107ba468c41974d33f15c79b8b947aa869b11640dee89f735960f893f6de31",
    "timestamp": "2014-11-23T18:42:20.000Z"
   },
-  {
+  "source/": {
    "bytes": 0,
-   "path": "source/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2014-11-23T18:33:56.000Z"
   },
-  {
+  "source/retrojam1_ericw.map": {
    "bytes": 412073,
-   "path": "source/retrojam1_ericw.map",
    "sha256": "8bb6eaacf5564e74632a565f7c40f39d116967feeda497276cfc3800c431fc4a",
    "timestamp": "2014-11-23T13:14:48.000Z"
   },
-  {
+  "source/retrojam1_mfx.map": {
    "bytes": 769980,
-   "path": "source/retrojam1_mfx.map",
    "sha256": "cba4c141d9759e275ddf334d6bf129b9377daa174cd3ccc07c93259852096ad2",
    "timestamp": "2014-11-23T17:27:04.000Z"
   },
-  {
+  "source/retrojam1_scampie.map": {
    "bytes": 144859,
-   "path": "source/retrojam1_scampie.map",
    "sha256": "b1c62e33475c0f7a7ee07592ac89d47baff4388fd2efe065a264877ddbe4a682",
    "timestamp": "2014-11-23T07:07:40.000Z"
   },
-  {
+  "source/retrojam1_skacky.map": {
    "bytes": 1461161,
-   "path": "source/retrojam1_skacky.map",
    "sha256": "7f8fa59acae434d44533eec4e3e402facaf1473e97a3179255c5c788aaa8d42a",
    "timestamp": "2014-11-23T14:20:26.000Z"
   },
-  {
+  "source/retrojam1_sock.map": {
    "bytes": 1475649,
-   "path": "source/retrojam1_sock.map",
    "sha256": "f838e8c6cea5d33451026690be52f01c130ff517f4c4f935c9059afe0ce01bb6",
    "timestamp": "2014-11-23T18:26:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/retrojam1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A rebalanced version of mfx's map is available <a href=\"0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a\">here</a>, and a fixed version of Skacky's map is available <a href=\"1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a\">here</a>. An expanded and polished standalone version of Sock's map is available <a href=\"21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b\">here</a>."
  ],

@@ -4,24 +4,22 @@
  ],
  "bytes": 1130658,
  "description": "Medium sized industrial complex using Ogro and Rorschach textures.",
- "files": [
-  {
+ "files": {
+  "jjspq3.bsp": {
    "bytes": 2641356,
-   "path": "jjspq3.bsp",
    "sha256": "8fb6c34732496b56aa07a7df490b55422db3ca36a2c3b89b8d9ff7e7194a2fd3",
    "timestamp": "2001-02-05T19:27:02.000Z"
   },
-  {
+  "jjspq3.txt": {
    "bytes": 2990,
-   "path": "jjspq3.txt",
    "sha256": "1d1ed25cfe66f28f0b813e8c28c6652a7e5a0a56fc8661ddd68cf22117b5bd01",
    "timestamp": "2001-02-05T19:52:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-02-05",
  "sha256": "71e61bfda000f71d3b7b1efcf868c3b74a0f0d20492afd65ee0ff34823d92291",
  "tags": [

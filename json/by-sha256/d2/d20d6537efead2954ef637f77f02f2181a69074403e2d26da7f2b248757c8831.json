@@ -4,54 +4,47 @@
  ],
  "bytes": 12582570,
  "description": "Medium-sized metal cathedral in the void. It is based on the Progs_dump mod (included) and comes with a custom music track. The map source is included.",
- "files": [
-  {
+ "files": {
+  "jpqm7/README - jpqm7 - Halls of the Void.txt": {
    "bytes": 3826,
-   "path": "jpqm7/README - jpqm7 - Halls of the Void.txt",
    "sha256": "db07b6d93e476fb10f739d4402d182700970289bd1f3a38ebdc28e0f2f5f5743",
    "timestamp": "2021-05-01T19:33:08.000Z"
   },
-  {
+  "jpqm7/mapsrc/": {
    "bytes": 0,
-   "path": "jpqm7/mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-05-01T16:19:12.000Z"
   },
-  {
+  "jpqm7/mapsrc/jpqm7.map": {
    "bytes": 8274873,
-   "path": "jpqm7/mapsrc/jpqm7.map",
    "sha256": "6dc20df89e692a2c3d66f1f3325e52bd949d6365746c1a27a11b35eafea1a1d7",
    "timestamp": "2021-05-01T11:29:22.000Z"
   },
-  {
+  "jpqm7/music/": {
    "bytes": 0,
-   "path": "jpqm7/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2021-04-18T16:29:10.000Z"
   },
-  {
+  "jpqm7/music/track111.ogg": {
    "bytes": 2290360,
-   "path": "jpqm7/music/track111.ogg",
    "sha256": "11a45a41a65a0dcb60a123e351c3116a1034554cfa10546f1b4d94fa54f28f51",
    "timestamp": "2020-10-31T21:52:58.000Z"
   },
-  {
+  "jpqm7/pak0.pak": {
    "bytes": 28030648,
-   "path": "jpqm7/pak0.pak",
    "sha256": "7b74110af09ddd58059b9da585658913bd80276398810f0f119deba36452523b",
    "timestamp": "2021-05-01T16:19:46.000Z"
   },
-  {
+  "jpqm7/progs_dump-devkit-readme.txt": {
    "bytes": 5611,
-   "path": "jpqm7/progs_dump-devkit-readme.txt",
    "sha256": "59be3f7ae9636a369eb991cbb946604fb0d988711de4ebd5426b028a8ae2749b",
    "timestamp": "2021-04-18T16:28:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],

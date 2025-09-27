@@ -7,30 +7,27 @@
   "ad>=1.70"
  ],
  "description": "Smallish linear Mayan/Koohoo-textured dungeon.",
- "files": [
-  {
+ "files": {
+  "ad_muksp1.bsp": {
    "bytes": 2539976,
-   "path": "ad_muksp1.bsp",
    "sha256": "6e3afa493032952da6a544cf9c3b5eeb350344cdd8b975f9006c3b2d094fa05d",
    "timestamp": "2018-09-08T22:16:20.000Z"
   },
-  {
+  "ad_muksp1.lit": {
    "bytes": 975788,
-   "path": "ad_muksp1.lit",
    "sha256": "76d1642861ff8977f3f7f70cbb10deea149727944ba246830b5673e10a762871",
    "timestamp": "2018-09-08T22:16:20.000Z"
   },
-  {
+  "ad_muksp1.txt": {
    "bytes": 482,
-   "path": "ad_muksp1.txt",
    "sha256": "b1454d0f919912b2d667e93dd5dc08810608920d76e9bcd665b106ffb71f7a58",
    "timestamp": "2018-09-08T03:45:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
  ],

@@ -5,24 +5,22 @@
  ],
  "bytes": 917903,
  "description": "Large Wizard map. Could use more detail, otherwise",
- "files": [
-  {
+ "files": {
+  "MARTIM6.BSP": {
    "bytes": 2025600,
-   "path": "MARTIM6.BSP",
    "sha256": "c9e8752e0f46c02b5c9810f18da9518e72e42ab4f605a7b7fa1cffc5ddc859e0",
    "timestamp": "1997-04-10T21:31:06.000Z"
   },
-  {
+  "MARTIM6.TXT": {
    "bytes": 2582,
-   "path": "MARTIM6.TXT",
    "sha256": "cb64a7a9cf18b3a28c20e77b7df27b486ef447f6034369ff32f94d198a1b8922",
    "timestamp": "1997-04-13T19:03:04.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-04-13",
  "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "tags": [

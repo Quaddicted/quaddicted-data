@@ -4,84 +4,72 @@
  ],
  "bytes": 24804891,
  "description": "Total conversion with almost new everything. Around 20 SP maps in varying medieval/ fantasy themes and 4 DM maps; multiple player classes to choose from, new weapons, new enemies, etc.",
- "files": [
-  {
+ "files": {
+  "fq.bat": {
    "bytes": 2259,
-   "path": "fq.bat",
    "sha256": "49c19465859fd459768c3fa8b888e5241a8a86d821abfcd4f57aba6d0d0b794b",
    "timestamp": "1997-12-21T17:11:16.000Z"
   },
-  {
+  "fq/autoexec.cfg": {
    "bytes": 2845,
-   "path": "fq/autoexec.cfg",
    "sha256": "2d2ce971a96a48caa070c29cbb8cfef5bba1fa3f1f74ef987cb133a806bb0fe2",
    "timestamp": "1997-10-09T19:41:46.000Z"
   },
-  {
+  "fq/crusader.cfg": {
    "bytes": 120,
-   "path": "fq/crusader.cfg",
    "sha256": "435e113df07d1102fa507f6958ca8a438febc25f7eee1d115ee915f7abf1fc45",
    "timestamp": "1997-10-09T19:41:48.000Z"
   },
-  {
+  "fq/diviner.cfg": {
    "bytes": 137,
-   "path": "fq/diviner.cfg",
    "sha256": "fd8f8a762fd4a5d0342c22e9a1ec67bbece16a8ff09b0224dc813e0cb53fce5d",
    "timestamp": "1997-10-09T19:41:48.000Z"
   },
-  {
+  "fq/druid.cfg": {
    "bytes": 160,
-   "path": "fq/druid.cfg",
    "sha256": "7fd2cddc33958afe55108462e22d83b8cfca2e01de8cb3f67ea3d57177109e1f",
    "timestamp": "1997-10-09T19:41:48.000Z"
   },
-  {
+  "fq/necro.cfg": {
    "bytes": 214,
-   "path": "fq/necro.cfg",
    "sha256": "46ecc0fb667f92e25f46027bf62b6ca45a64ede1e9b22ab17194dd2e887eb9ae",
    "timestamp": "1997-10-09T19:41:48.000Z"
   },
-  {
+  "fq/outland.cfg": {
    "bytes": 198,
-   "path": "fq/outland.cfg",
    "sha256": "4843dd2d9934a20feb495dda851f5eae233ac658226f0555f1c24269fe5fc249",
    "timestamp": "1997-10-09T19:41:48.000Z"
   },
-  {
+  "fq/pak0.pak": {
    "bytes": 22140287,
-   "path": "fq/pak0.pak",
    "sha256": "20026ae64fb1db833535aca19fa7a25af7aeceb840d580441e5f78b236ec47a3",
    "timestamp": "1997-12-21T18:13:20.000Z"
   },
-  {
+  "fq/pak1.pak": {
    "bytes": 38214824,
-   "path": "fq/pak1.pak",
    "sha256": "0451206154d5ad7f013dc7ca72b9da3827231f3aba3163345c7855d964c10643",
    "timestamp": "1997-12-21T12:01:52.000Z"
   },
-  {
+  "fq/progs.dat": {
    "bytes": 721616,
-   "path": "fq/progs.dat",
    "sha256": "a69392ae9e0546d9b6b34849108ad1f3171910ed5bd452354b889ee69ee78e07",
    "timestamp": "1997-12-21T18:12:30.000Z"
   },
-  {
+  "fq/readme.txt": {
    "bytes": 11468,
-   "path": "fq/readme.txt",
    "sha256": "c585a7f71761875b090a4bd91f27a04a4290341c6ef54468fea5efc624349517",
    "timestamp": "1997-12-22T11:53:18.000Z"
   },
-  {
+  "fq/rogue.cfg": {
    "bytes": 92,
-   "path": "fq/rogue.cfg",
    "sha256": "7760338aa225f7f87838f42379c44422a9f00e91a1a1891290a90060cbb074b1",
    "timestamp": "1997-10-09T19:41:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "A patch is available <a href=\"http://dukeworld.com/telefragged/quake/fantasy/fq091.zip\">here</a>"
  ],

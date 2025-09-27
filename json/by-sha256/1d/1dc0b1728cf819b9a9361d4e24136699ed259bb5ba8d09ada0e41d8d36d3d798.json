@@ -4,24 +4,22 @@
  ],
  "bytes": 491373,
  "description": "Medium sized detailed Metal level with base and medieval monsters. Comes with a start map. Unnecessarily released as a PAK.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 1157568,
-   "path": "pak0.pak",
    "sha256": "b86298702b13b925c15f386c46872e9eace8939beb13b75cd2aac3830ad22458",
    "timestamp": "1996-11-17T03:40:16.000Z"
   },
-  {
+  "quard.txt": {
    "bytes": 3552,
-   "path": "quard.txt",
    "sha256": "2f3de452d36937b79950bb73cd0e2e00b6be4ccfa773c048fe92c61d2d911d3f",
    "timestamp": "1996-11-17T04:06:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/guard/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-11-17",
  "sha256": "1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798",
  "tags": [

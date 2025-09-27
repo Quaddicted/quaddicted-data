@@ -4,30 +4,27 @@
  ],
  "bytes": 705868,
  "description": "Small map with a gothic theme, using a mixture of ID1 and knave textures. The author's first map.",
- "files": [
-  {
+ "files": {
+  "deception.bsp": {
    "bytes": 1257664,
-   "path": "deception.bsp",
    "sha256": "869722ff66aa9aecbfc82f8946277fe6d0a903ad5278acedeedccd6d75f45641",
    "timestamp": "2023-09-08T23:47:50.000Z"
   },
-  {
+  "deception.lit": {
    "bytes": 352748,
-   "path": "deception.lit",
    "sha256": "300bda47787fe5e256cfcedbd8a08137fb9db01baa94a6d32c5a10d2fce54e70",
    "timestamp": "2023-09-08T23:47:50.000Z"
   },
-  {
+  "deception.txt": {
    "bytes": 376,
-   "path": "deception.txt",
    "sha256": "d789c3ae6cb1cd980a6d301888f61d1aff4ed1ba2270fd38592f8bdc246d2c3f",
    "timestamp": "2024-01-25T20:49:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],

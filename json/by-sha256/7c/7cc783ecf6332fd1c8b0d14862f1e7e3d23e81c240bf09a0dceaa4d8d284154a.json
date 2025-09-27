@@ -4,522 +4,437 @@
  ],
  "bytes": 78197811,
  "description": "Large map built on the Alkaline devkit (included) in a unique theme combining Egyptian and tech base. Contains a backing story as well as a start/end map.",
- "files": [
-  {
+ "files": {
+  "utotp/": {
    "bytes": 0,
-   "path": "utotp/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:43:30.000Z"
   },
-  {
+  "utotp/gfx/": {
    "bytes": 0,
-   "path": "utotp/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:18:46.000Z"
   },
-  {
+  "utotp/gfx/env/": {
    "bytes": 0,
-   "path": "utotp/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:18:46.000Z"
   },
-  {
+  "utotp/gfx/env/sahara_bk.tga": {
    "bytes": 590189,
-   "path": "utotp/gfx/env/sahara_bk.tga",
    "sha256": "4c3accb8bde4e74fdb7f08b7a86ee642aa2989c454623530342cff70930e22a5",
    "timestamp": "2017-05-10T20:42:06.000Z"
   },
-  {
+  "utotp/gfx/env/sahara_dn.tga": {
    "bytes": 753253,
-   "path": "utotp/gfx/env/sahara_dn.tga",
    "sha256": "50d7543db4671b59180a7064439b7fd89b2e044b329b74667c4e8ae461417907",
    "timestamp": "2017-05-10T20:42:06.000Z"
   },
-  {
+  "utotp/gfx/env/sahara_ft.tga": {
    "bytes": 628088,
-   "path": "utotp/gfx/env/sahara_ft.tga",
    "sha256": "f57f9c07ec890c896bbccb350a1a866127dbfa9c9e7f557eb7aecf74788cc425",
    "timestamp": "2017-05-10T20:42:06.000Z"
   },
-  {
+  "utotp/gfx/env/sahara_lf.tga": {
    "bytes": 630483,
-   "path": "utotp/gfx/env/sahara_lf.tga",
    "sha256": "f1252dd08cac631843b16f6ad818c9127426978b00e8e29d61d5b8d624b0e362",
    "timestamp": "2017-05-10T20:42:06.000Z"
   },
-  {
+  "utotp/gfx/env/sahara_rt.tga": {
    "bytes": 604375,
-   "path": "utotp/gfx/env/sahara_rt.tga",
    "sha256": "18be099fa8a5ed63c0c6d3c82a974235f152c75e264b38640cbe32e57d769e04",
    "timestamp": "2017-05-10T20:42:06.000Z"
   },
-  {
+  "utotp/gfx/env/sahara_up.tga": {
    "bytes": 369312,
-   "path": "utotp/gfx/env/sahara_up.tga",
    "sha256": "27d39fcd1a7a5c14910957faf20f7569b03d759883561ff18fabae08ec0ea7e4",
    "timestamp": "2017-05-10T20:42:06.000Z"
   },
-  {
+  "utotp/maps/": {
    "bytes": 0,
-   "path": "utotp/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:38:38.000Z"
   },
-  {
+  "utotp/maps/start.bsp": {
    "bytes": 17309908,
-   "path": "utotp/maps/start.bsp",
    "sha256": "483b5fc87f9ef71904574ea919c270223d86d4ea487064bd38e59dd8db4e45d2",
    "timestamp": "2024-01-08T17:40:08.000Z"
   },
-  {
+  "utotp/maps/start.lit": {
    "bytes": 4093043,
-   "path": "utotp/maps/start.lit",
    "sha256": "23475adb71a366bc925e0ce3acd0eb010c8c976332ee5f77542a79e6c415ea78",
    "timestamp": "2024-01-08T17:40:08.000Z"
   },
-  {
+  "utotp/maps/utotp.bsp": {
    "bytes": 26780752,
-   "path": "utotp/maps/utotp.bsp",
    "sha256": "b3f08fd2463fb7cd5882aa438aee8d797085a83a14d08355b2e6a6c23fb02124",
    "timestamp": "2024-01-17T17:35:00.000Z"
   },
-  {
+  "utotp/maps/utotp.lit": {
    "bytes": 5643929,
-   "path": "utotp/maps/utotp.lit",
    "sha256": "baba96cce91d9836b57e2cfcf820cf5d16561651a2cacba256b025f83e1ccdd4",
    "timestamp": "2024-01-17T17:35:00.000Z"
   },
-  {
+  "utotp/maps/utotp_end.bsp": {
    "bytes": 5686424,
-   "path": "utotp/maps/utotp_end.bsp",
    "sha256": "9ad5fe58f1724e05b921d43d906a6acc1e6c72ef87a28cdd56ed741ab2d9ffbe",
    "timestamp": "2024-01-13T12:58:40.000Z"
   },
-  {
+  "utotp/maps/utotp_end.lit": {
    "bytes": 1337471,
-   "path": "utotp/maps/utotp_end.lit",
    "sha256": "5165edf79af2b227a5a50dc4b8b8f9b66f48192c5333b19678b12de4803d6e3f",
    "timestamp": "2024-01-13T12:58:40.000Z"
   },
-  {
+  "utotp/music/": {
    "bytes": 0,
-   "path": "utotp/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:18:46.000Z"
   },
-  {
+  "utotp/music/track24.ogg": {
    "bytes": 7769979,
-   "path": "utotp/music/track24.ogg",
    "sha256": "15384cd0e6f4c1383b58345b911b3142761d514709ed0f2536f76171f31b783c",
    "timestamp": "2023-07-23T14:40:32.000Z"
   },
-  {
+  "utotp/music/track25.ogg": {
    "bytes": 10043282,
-   "path": "utotp/music/track25.ogg",
    "sha256": "7911e3108c71d28a9ce804ccf4d7189af608b4cb077c1cf66a4c4dd161fd80bf",
    "timestamp": "2023-10-06T22:10:56.000Z"
   },
-  {
+  "utotp/music/track26.ogg": {
    "bytes": 10602271,
-   "path": "utotp/music/track26.ogg",
    "sha256": "41535efe17e454a280f03e527e7f9ea7e0b571aa77f3267307d4f9b913ee9b7f",
    "timestamp": "2023-09-30T01:25:38.000Z"
   },
-  {
+  "utotp/pak0.pak": {
    "bytes": 36840840,
-   "path": "utotp/pak0.pak",
    "sha256": "84fe71af50a5be582f8656003f4047d7c259881e6d8a5ef2f5d2c85e0fb7ec41",
    "timestamp": "2023-12-17T10:09:14.000Z"
   },
-  {
+  "utotp/progs/": {
    "bytes": 0,
-   "path": "utotp/progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:27:04.000Z"
   },
-  {
+  "utotp/progs/fromitz_still.mdl": {
    "bytes": 6964,
-   "path": "utotp/progs/fromitz_still.mdl",
    "sha256": "63204597e828e001c957e9316878995e161da0502764276b90285accadf6a222",
    "timestamp": "2023-12-25T20:05:22.000Z"
   },
-  {
+  "utotp/progs/misc_amonstatue.mdl": {
    "bytes": 90308,
-   "path": "utotp/progs/misc_amonstatue.mdl",
    "sha256": "2c5f477b294113f6967b6589b811ef63d3100a233d82d77494f39a00a7ebe175",
    "timestamp": "2023-10-01T09:22:54.000Z"
   },
-  {
+  "utotp/progs/misc_charger.mdl": {
    "bytes": 117672,
-   "path": "utotp/progs/misc_charger.mdl",
    "sha256": "a64a62cd67894222e1b2ed25332db70961c18d0cbdffe32b17f0dbac93bb2ceb",
    "timestamp": "2021-03-28T10:56:54.000Z"
   },
-  {
+  "utotp/progs/misc_deadplayer.mdl": {
    "bytes": 562960,
-   "path": "utotp/progs/misc_deadplayer.mdl",
    "sha256": "83bbcf4cb5858aa9ac03323b461b3e3b09a28f56e212645472219d7d0b0979d8",
    "timestamp": "2017-05-06T13:13:56.000Z"
   },
-  {
+  "utotp/progs/misc_horusbird.mdl": {
    "bytes": 70388,
-   "path": "utotp/progs/misc_horusbird.mdl",
    "sha256": "b0ccdca07f3746375b94c8ab6580c2edf44892dd80a583b9ab20aec6ed781a00",
    "timestamp": "2023-10-01T09:22:52.000Z"
   },
-  {
+  "utotp/progs/misc_player_legs.mdl": {
    "bytes": 76918,
-   "path": "utotp/progs/misc_player_legs.mdl",
    "sha256": "8e54ec3002d5b0f70408f17941087e595cb20933a08c40eb934cb25e8804d5a0",
    "timestamp": "2016-03-25T17:34:14.000Z"
   },
-  {
+  "utotp/progs/misc_seaweed.mdl": {
    "bytes": 16100,
-   "path": "utotp/progs/misc_seaweed.mdl",
    "sha256": "dfbd38a439d392870c7c4c7ebea4475827b716004ca47bfa7f13b47daf07d774",
    "timestamp": "2016-01-09T18:45:12.000Z"
   },
-  {
+  "utotp/progs/misc_seaweed2.mdl": {
    "bytes": 95281,
-   "path": "utotp/progs/misc_seaweed2.mdl",
    "sha256": "65773f37e26d41dd72ec1cf9849c663c1475923cb77d0f4c599bc3301368373f",
    "timestamp": "2016-10-04T20:11:36.000Z"
   },
-  {
+  "utotp/progs/misc_tutstatue.mdl": {
    "bytes": 178480,
-   "path": "utotp/progs/misc_tutstatue.mdl",
    "sha256": "d178ba96d99b02113fe70d32f1672c1490d5f570aecf11d168e58f1bb7e8c17e",
    "timestamp": "2023-10-01T09:22:46.000Z"
   },
-  {
+  "utotp/progs/misc_victim.mdl": {
    "bytes": 1432944,
-   "path": "utotp/progs/misc_victim.mdl",
    "sha256": "c5d2a99ba39e82bef21cdff5f682b6b80d601f9b54fe0d58d94aae3544b5303b",
    "timestamp": "2020-09-18T05:00:50.000Z"
   },
-  {
+  "utotp/progs/player_headless.mdl": {
    "bytes": 70960,
-   "path": "utotp/progs/player_headless.mdl",
    "sha256": "6137897f36370c6e82b41007a53634184356c18e0da46c0800abf7c45ba9af36",
    "timestamp": "2024-01-07T10:24:16.000Z"
   },
-  {
+  "utotp/progs/ringtn.mdl": {
    "bytes": 14800,
-   "path": "utotp/progs/ringtn.mdl",
    "sha256": "cce909301b177ebd240b84daf02f4ff2c4ebc972525204426327080a44cdbedd",
    "timestamp": "2023-12-04T21:14:28.000Z"
   },
-  {
+  "utotp/sound/": {
    "bytes": 0,
-   "path": "utotp/sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:18:46.000Z"
   },
-  {
+  "utotp/sound/ambient/": {
    "bytes": 0,
-   "path": "utotp/sound/ambient/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:18:46.000Z"
   },
-  {
+  "utotp/sound/ambient/aramb1.wav": {
    "bytes": 44476,
-   "path": "utotp/sound/ambient/aramb1.wav",
    "sha256": "4c6440672b87575dd8ac5a267621881b9c70e48722cf9a4aa75a4a9b384fea5b",
    "timestamp": "2021-01-29T18:50:54.000Z"
   },
-  {
+  "utotp/sound/ambient/arcohum1.wav": {
    "bytes": 20418,
-   "path": "utotp/sound/ambient/arcohum1.wav",
    "sha256": "3b42cb1b62f62acabdc8ef8612ab4343b71b165c3525552701ef769f90020960",
    "timestamp": "2021-01-29T18:50:54.000Z"
   },
-  {
+  "utotp/sound/ambient/arhum1.wav": {
    "bytes": 20740,
-   "path": "utotp/sound/ambient/arhum1.wav",
    "sha256": "e374f3d90564808e019abe09f4464b704512cf85ff0f3b4bb3c955b4153184e3",
    "timestamp": "2021-01-29T17:50:54.000Z"
   },
-  {
+  "utotp/sound/ambient/arpump1.wav": {
    "bytes": 18262,
-   "path": "utotp/sound/ambient/arpump1.wav",
    "sha256": "11ae2c08c7d5f7f777eade75770a1623386d0e0096a19076fff13e9ddec6318c",
    "timestamp": "2021-07-01T22:08:38.000Z"
   },
-  {
+  "utotp/sound/ambient/arwind.wav": {
    "bytes": 30408,
-   "path": "utotp/sound/ambient/arwind.wav",
    "sha256": "34248569bb7ab66f5e1d874e15c7a91d89fd2b70d27e5521456b2589581fe1e6",
    "timestamp": "2021-01-29T18:50:54.000Z"
   },
-  {
+  "utotp/sound/ambient/chatter.wav": {
    "bytes": 190760,
-   "path": "utotp/sound/ambient/chatter.wav",
    "sha256": "59197f823b479c66c41163d82fed6dc13a715aef429b5e551ba80ca6f7c229fb",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/comp.wav": {
    "bytes": 12164,
-   "path": "utotp/sound/ambient/comp.wav",
    "sha256": "ab8e3b13981bb432cca44ad4b7467734f52d01927018e72c99e7c4d052dc7874",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/conveyor1.wav": {
    "bytes": 348058,
-   "path": "utotp/sound/ambient/conveyor1.wav",
    "sha256": "ca68f9d44a06155fec7a886675c825b247d2b21996e92daeb76d9f47db2cf2a7",
    "timestamp": "2021-07-06T16:29:40.000Z"
   },
-  {
+  "utotp/sound/ambient/crickets.wav": {
    "bytes": 12236,
-   "path": "utotp/sound/ambient/crickets.wav",
    "sha256": "d5cf6e56884a8e43469408d4788ec6e573167901586df259a938cd088c998ef9",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/deep.wav": {
    "bytes": 401112,
-   "path": "utotp/sound/ambient/deep.wav",
    "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "utotp/sound/ambient/drone.wav": {
    "bytes": 30902,
-   "path": "utotp/sound/ambient/drone.wav",
    "sha256": "81993d96ab337f78c2778cecffe4767605fed210e0ac2303a46ac898979eea13",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/dronehum2.wav": {
    "bytes": 183654,
-   "path": "utotp/sound/ambient/dronehum2.wav",
    "sha256": "03545ae0f88b788e69e09c0aae2cccfa727a2609ef224c7d1d3451f0e6172709",
    "timestamp": "2021-05-18T09:54:20.000Z"
   },
-  {
+  "utotp/sound/ambient/dronerumble1.wav": {
    "bytes": 228790,
-   "path": "utotp/sound/ambient/dronerumble1.wav",
    "sha256": "d97972b25a006dbd54c1de9750b838ab52fff7c8aec70fb58115ad831b7efee8",
    "timestamp": "2020-01-17T08:52:02.000Z"
   },
-  {
+  "utotp/sound/ambient/dronesewer1.wav": {
    "bytes": 345280,
-   "path": "utotp/sound/ambient/dronesewer1.wav",
    "sha256": "ee8cd803398a007f2f3b412dd2401098586e1d38f558daa748ea4e86f10267ad",
    "timestamp": "2020-01-18T01:09:32.000Z"
   },
-  {
+  "utotp/sound/ambient/fan1.wav": {
    "bytes": 53404,
-   "path": "utotp/sound/ambient/fan1.wav",
    "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/farambient_l.wav": {
    "bytes": 330958,
-   "path": "utotp/sound/ambient/farambient_l.wav",
    "sha256": "4c65d4dd9c8111a0b13d625a86a30f1a6ff97b0acfb03423009fc57100981547",
    "timestamp": "2021-06-02T16:08:20.000Z"
   },
-  {
+  "utotp/sound/ambient/farambient_r.wav": {
    "bytes": 330890,
-   "path": "utotp/sound/ambient/farambient_r.wav",
    "sha256": "a843e4b6958b198fa7de5f54fc8902040c7257f151df89f23dadae77920da960",
    "timestamp": "2021-06-02T16:08:04.000Z"
   },
-  {
+  "utotp/sound/ambient/hum02.wav": {
    "bytes": 37836,
-   "path": "utotp/sound/ambient/hum02.wav",
    "sha256": "8b2ee1b91fa663b6111de9251011142475831ece70ee091022b800b715f1bfa2",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/industrialbuzz.wav": {
    "bytes": 57112,
-   "path": "utotp/sound/ambient/industrialbuzz.wav",
    "sha256": "ac872a81a917704e4e418d7f83f2b7cdb35d3f35671e11261634727dfb7cfca9",
    "timestamp": "2021-06-01T18:17:56.000Z"
   },
-  {
+  "utotp/sound/ambient/intake.wav": {
    "bytes": 25682,
-   "path": "utotp/sound/ambient/intake.wav",
    "sha256": "e6d13169ce4680dd83903473897fd6e7ce1e51fab00c6df2127ea993321c05b0",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/lava1.wav": {
    "bytes": 926316,
-   "path": "utotp/sound/ambient/lava1.wav",
    "sha256": "41964be60ef167936d0ef74f47fdfa3c2b147f7ec1f5f26fbb312ee71be3a6bd",
    "timestamp": "2021-11-04T15:01:58.000Z"
   },
-  {
+  "utotp/sound/ambient/lonoise.wav": {
    "bytes": 32876,
-   "path": "utotp/sound/ambient/lonoise.wav",
    "sha256": "1e0f99ffadead8460a7a4bed1c6b2c16cddd70050e1524e9cdaf6724a9dc81b5",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/machine_loop1.wav": {
    "bytes": 125104,
-   "path": "utotp/sound/ambient/machine_loop1.wav",
    "sha256": "f0e24bbedef87a9fdabeb9b785af9a5fb3baad755e8770f130f4be64e3ccd1e6",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "utotp/sound/ambient/machine_loop2.wav": {
    "bytes": 70696,
-   "path": "utotp/sound/ambient/machine_loop2.wav",
    "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d",
    "timestamp": "2021-05-25T18:20:58.000Z"
   },
-  {
+  "utotp/sound/ambient/motor1.wav": {
    "bytes": 52340,
-   "path": "utotp/sound/ambient/motor1.wav",
    "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/motor2.wav": {
    "bytes": 52014,
-   "path": "utotp/sound/ambient/motor2.wav",
    "sha256": "7f36cda5c01aea4e6b356ae4d0b31b68ca15d7606eefd30f4739a64fc4e86e6c",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/rain.wav": {
    "bytes": 40960,
-   "path": "utotp/sound/ambient/rain.wav",
    "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/runwater.wav": {
    "bytes": 64764,
-   "path": "utotp/sound/ambient/runwater.wav",
    "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
    "timestamp": "2021-02-12T02:00:20.000Z"
   },
-  {
+  "utotp/sound/ambient/waterclose_end.wav": {
    "bytes": 69704,
-   "path": "utotp/sound/ambient/waterclose_end.wav",
    "sha256": "f94c0a80f01d15fb2199b440de975ace28e37e2a6c454240d03b3fea905505b0",
    "timestamp": "2022-10-05T16:52:50.000Z"
   },
-  {
+  "utotp/sound/ambient/waterclose_loop.wav": {
    "bytes": 246506,
-   "path": "utotp/sound/ambient/waterclose_loop.wav",
    "sha256": "f2b7d2f4070b74600613fbcce8a2f617acfe75ffc6a553292eaead803fc4e866",
    "timestamp": "2022-10-05T16:51:36.000Z"
   },
-  {
+  "utotp/sound/zigi/": {
    "bytes": 0,
-   "path": "utotp/sound/zigi/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-01-19T17:18:46.000Z"
   },
-  {
+  "utotp/sound/zigi/alarm1.wav": {
    "bytes": 360130,
-   "path": "utotp/sound/zigi/alarm1.wav",
    "sha256": "e5fee942aaa555b55ba63ce84b6602a0e658226273bc08306707b54ca6aaa435",
    "timestamp": "2023-12-23T18:25:42.000Z"
   },
-  {
+  "utotp/sound/zigi/comp_hum2.wav": {
    "bytes": 288574,
-   "path": "utotp/sound/zigi/comp_hum2.wav",
    "sha256": "51d5e95f47b57aeb3c45f75710618b7891de8bd5657ece00c50fe3f67fa8131b",
    "timestamp": "2021-05-12T09:00:28.000Z"
   },
-  {
+  "utotp/sound/zigi/comp_hum3.wav": {
    "bytes": 464868,
-   "path": "utotp/sound/zigi/comp_hum3.wav",
    "sha256": "07e9517000336732e9b40ba1c18e196a814ca8e111dfc5ed88a0e6a321425712",
    "timestamp": "2021-05-12T09:00:28.000Z"
   },
-  {
+  "utotp/sound/zigi/dronehum1.wav": {
    "bytes": 156754,
-   "path": "utotp/sound/zigi/dronehum1.wav",
    "sha256": "9542c51342398a1281476da03114adb01012367dac58d2a08b50c684a1a98093",
    "timestamp": "2020-01-17T09:42:28.000Z"
   },
-  {
+  "utotp/sound/zigi/dronehum2.wav": {
    "bytes": 183654,
-   "path": "utotp/sound/zigi/dronehum2.wav",
    "sha256": "03545ae0f88b788e69e09c0aae2cccfa727a2609ef224c7d1d3451f0e6172709",
    "timestamp": "2020-01-17T09:52:12.000Z"
   },
-  {
+  "utotp/sound/zigi/ffhum.wav": {
    "bytes": 184128,
-   "path": "utotp/sound/zigi/ffhum.wav",
    "sha256": "5c029ad6bc9c66c2f6d4c45a43b1bc15cf11d1b12a68276711e60865e4fea814",
    "timestamp": "2021-05-19T16:30:28.000Z"
   },
-  {
+  "utotp/sound/zigi/forcefield.wav": {
    "bytes": 67928,
-   "path": "utotp/sound/zigi/forcefield.wav",
    "sha256": "feb389e023228507b3c8e1718a57ebabec36af1f474d051b9ee950c4c6a806f4",
    "timestamp": "2020-12-22T18:58:38.000Z"
   },
-  {
+  "utotp/sound/zigi/poweroff.wav": {
    "bytes": 88310,
-   "path": "utotp/sound/zigi/poweroff.wav",
    "sha256": "8c1c8b8722e32e7a6727bf41d7d54d1534186e83df4a7093bcd5f9e3bb3dcc84",
    "timestamp": "2016-03-30T04:24:20.000Z"
   },
-  {
+  "utotp/sound/zigi/poweron.wav": {
    "bytes": 77722,
-   "path": "utotp/sound/zigi/poweron.wav",
    "sha256": "690023a6a8a145b78a5c2a2eff2e15e4ea6f606fbeb7469a9a083101df255e99",
    "timestamp": "2016-03-30T04:24:20.000Z"
   },
-  {
+  "utotp/sound/zigi/roar1.wav": {
    "bytes": 132380,
-   "path": "utotp/sound/zigi/roar1.wav",
    "sha256": "9a50c8ea4b0bf75bc5d3985b0ad82810b2ba328ae9432d906be7641a8b9dbc41",
    "timestamp": "2023-10-04T15:05:06.000Z"
   },
-  {
+  "utotp/sound/zigi/rumble.wav": {
    "bytes": 66200,
-   "path": "utotp/sound/zigi/rumble.wav",
    "sha256": "b2ca38e13253361aa1780c05269652c4aed4094f274948e865be6849d4a3b908",
    "timestamp": "2007-09-23T14:30:06.000Z"
   },
-  {
+  "utotp/sound/zigi/shoot.wav": {
    "bytes": 18260,
-   "path": "utotp/sound/zigi/shoot.wav",
    "sha256": "d9a16fb5091e02edab2ca1b50653aeb122b20a70ad0945aba50fe1d5ae29fd05",
    "timestamp": "2021-05-12T09:00:30.000Z"
   },
-  {
+  "utotp/sound/zigi/snake.wav": {
    "bytes": 46596,
-   "path": "utotp/sound/zigi/snake.wav",
    "sha256": "78228592c18df56bfc87c35feb9ef9e40514712d9e302c4c997a0659cc04488a",
    "timestamp": "2021-05-12T09:00:30.000Z"
   },
-  {
+  "utotp/sound/zigi/soul.wav": {
    "bytes": 271360,
-   "path": "utotp/sound/zigi/soul.wav",
    "sha256": "71726713a6640086df5325fb2e30be96c0aaf7ba42b537369665e563406d0235",
    "timestamp": "2007-07-08T15:19:04.000Z"
   },
-  {
+  "utotp/sound/zigi/tuuletin.wav": {
    "bytes": 53404,
-   "path": "utotp/sound/zigi/tuuletin.wav",
    "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
    "timestamp": "2021-02-12T13:00:20.000Z"
   },
-  {
+  "utotp/sound/zigi/vesi.wav": {
    "bytes": 246506,
-   "path": "utotp/sound/zigi/vesi.wav",
    "sha256": "f2b7d2f4070b74600613fbcce8a2f617acfe75ffc6a553292eaead803fc4e866",
    "timestamp": "2022-10-05T16:51:36.000Z"
   },
-  {
+  "utotp/utotp_poster.jpg": {
    "bytes": 486469,
-   "path": "utotp/utotp_poster.jpg",
    "sha256": "b6855ca54e8030cda776e239f19710f1bf1a8828b3220f7482bebd0a4cc73900",
    "timestamp": "2024-01-17T21:16:26.000Z"
   },
-  {
+  "utotp/utotp_readme.txt": {
    "bytes": 3914,
-   "path": "utotp/utotp_readme.txt",
    "sha256": "ca884591103877d71cdba0985592beb3805513d7f441b71fcbb7cac4bf281d0c",
    "timestamp": "2024-01-19T17:37:28.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],

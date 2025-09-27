@@ -10,36 +10,32 @@
  ],
  "bytes": 77121790,
  "description": "Episode of eight maps (plus start + secret) by various authors, made using ID and mission pack textures, keeping to original Quake entity limits.",
- "files": [
-  {
+ "files": {
+  "seiven/": {
    "bytes": 0,
-   "path": "seiven/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-08-16T19:53:28.000Z"
   },
-  {
+  "seiven/pak0.pak": {
    "bytes": 91890020,
-   "path": "seiven/pak0.pak",
    "sha256": "6e2b420de1a96ac2e3eeb582e8f2571433f0ed772a2b6f3cc64970e8b2fa9368",
    "timestamp": "2024-08-16T19:53:08.000Z"
   },
-  {
+  "seiven/seiven.txt": {
    "bytes": 1687,
-   "path": "seiven/seiven.txt",
    "sha256": "e087d2e327267eaf80fe809798c976bca9ace45926c6cc52483ec54521101435",
    "timestamp": "2024-08-07T19:23:34.000Z"
   },
-  {
+  "seiven/seiven_jullari.png": {
    "bytes": 2407793,
-   "path": "seiven/seiven_jullari.png",
    "sha256": "013e6eca2d0dfc92c267d4e77efd264b34e923df64d9cde36c096d59f6d525d4",
    "timestamp": "2024-08-05T11:28:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2024-08-16",
  "sha256": "f4c2cb39caa3d50a1c8378dd4da8eb413219d45ca8979ca9b594599c990e8073",
  "tags": [

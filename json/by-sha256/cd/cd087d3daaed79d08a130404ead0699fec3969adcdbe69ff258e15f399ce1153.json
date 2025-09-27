@@ -4,24 +4,22 @@
  ],
  "bytes": 199692,
  "description": "Small, mixed texture map.",
- "files": [
-  {
+ "files": {
+  "ALTUS2.BSP": {
    "bytes": 448008,
-   "path": "ALTUS2.BSP",
    "sha256": "bb918c1ed13f1d8391a360668792a4e6366bd943623ab755355781576c28f650",
    "timestamp": "1996-12-04T11:12:26.000Z"
   },
-  {
+  "ALTUS2.TXT": {
    "bytes": 4056,
-   "path": "ALTUS2.TXT",
    "sha256": "6613984f68f60031db08bef2d1f65663e6365d0fee84bade2d2579c645f0db6b",
    "timestamp": "1996-12-04T11:11:44.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-04",
  "sha256": "cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153",
  "tags": [

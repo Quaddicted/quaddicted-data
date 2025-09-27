@@ -4,30 +4,27 @@
  ],
  "bytes": 20843086,
  "description": "Huge hellish fortress using a combination of Apocrypha/Ogro/Zerst\u00f6rer textures. Features a high monster count, a couple of technical additions, and a custom music track.",
- "files": [
-  {
+ "files": {
+  "loc/": {
    "bytes": 0,
-   "path": "loc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2020-02-16T14:03:30.000Z"
   },
-  {
+  "loc/lordsofchaos.txt": {
    "bytes": 5243,
-   "path": "loc/lordsofchaos.txt",
    "sha256": "dcf439e1376d3aa2b7516009c8fa44847be95c64f5cff58e43ef8f0f933e9ea8",
    "timestamp": "2020-02-16T12:29:38.000Z"
   },
-  {
+  "loc/pak0.pak": {
    "bytes": 44306788,
-   "path": "loc/pak0.pak",
    "sha256": "3f06e93feb062f242ca76077bbba8e7b9ad06a71a8a4bf507e3104802c01103c",
    "timestamp": "2020-02-16T14:03:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}//"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits and BSP2 support."
  ],

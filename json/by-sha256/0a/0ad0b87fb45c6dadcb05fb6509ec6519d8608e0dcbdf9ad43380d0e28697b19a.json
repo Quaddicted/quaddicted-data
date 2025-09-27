@@ -4,72 +4,62 @@
  ],
  "bytes": 3986389,
  "description": "Medium-sized Egyptian-style level. Comes with a custom desert skybox.",
- "files": [
-  {
+ "files": {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-08-24T19:42:14.000Z"
   },
-  {
+  "gfx/env/arrakisday_bk.tga": {
    "bytes": 571714,
-   "path": "gfx/env/arrakisday_bk.tga",
    "sha256": "424764dadac2afb117aebf1678bb322103543c4c189b3983be9f936bdd0a3a3f",
    "timestamp": "2018-08-06T15:49:44.000Z"
   },
-  {
+  "gfx/env/arrakisday_dn.tga": {
    "bytes": 770896,
-   "path": "gfx/env/arrakisday_dn.tga",
    "sha256": "e29f8cc5069eb9e88f28ee2026b34a458053d9ee4aad1e019ce909041fe35b22",
    "timestamp": "2018-08-06T15:49:44.000Z"
   },
-  {
+  "gfx/env/arrakisday_ft.tga": {
    "bytes": 541244,
-   "path": "gfx/env/arrakisday_ft.tga",
    "sha256": "42a496079a780abfb263af1be4ec0cdfdd7f4214bb7d0668c304398eac5cf227",
    "timestamp": "2018-08-06T15:49:44.000Z"
   },
-  {
+  "gfx/env/arrakisday_lf.tga": {
    "bytes": 569094,
-   "path": "gfx/env/arrakisday_lf.tga",
    "sha256": "e87e2cb9c5c4fd961166d2759e16360310c73637973b7f5262eed2bc263ba1cb",
    "timestamp": "2018-08-06T15:49:44.000Z"
   },
-  {
+  "gfx/env/arrakisday_rt.tga": {
    "bytes": 518267,
-   "path": "gfx/env/arrakisday_rt.tga",
    "sha256": "78b1688a1d6692e106c12e3078fb8785596f0196f174863ccc7a80b7e7fb9150",
    "timestamp": "2018-08-06T15:49:44.000Z"
   },
-  {
+  "gfx/env/arrakisday_up.tga": {
    "bytes": 203526,
-   "path": "gfx/env/arrakisday_up.tga",
    "sha256": "e523f7922075331933ab9fb409462fe53b62e3765218e597fabf8c62612c0eee",
    "timestamp": "2018-08-06T15:49:44.000Z"
   },
-  {
+  "maps/shamsp2.bsp": {
    "bytes": 5137336,
-   "path": "maps/shamsp2.bsp",
    "sha256": "80c42c6654bf830d61b4eedb26d903d15d55743c014c6bc436bd5b269483bcec",
    "timestamp": "2018-08-24T19:35:54.000Z"
   },
-  {
+  "maps/shamsp2.lit": {
    "bytes": 1945832,
-   "path": "maps/shamsp2.lit",
    "sha256": "16e7715352d5ad7c0ac06a6cde86c5c614567acc3d95a92646814be958d3355e",
    "timestamp": "2018-08-24T19:35:52.000Z"
   },
-  {
+  "maps/shamsp2.txt": {
    "bytes": 1459,
-   "path": "maps/shamsp2.txt",
    "sha256": "639f9cf2203a1761982419973c2a9d88851a42577925ebe28c27d58a03fa25b0",
    "timestamp": "2018-08-24T19:40:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires a source port with increased limits."
  ],

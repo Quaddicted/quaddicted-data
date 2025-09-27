@@ -5,78 +5,67 @@
  ],
  "bytes": 26913882,
  "description": "Episode of five previously-released maps by <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3DThe%20Lieutenant%22%5D\">The Lieutenant</a> joined together by Greenwood and given a new ending, in addition to some minor fixes and monster improvements.",
- "files": [
-  {
+ "files": {
+  "lth/lth_poster.jpg": {
    "bytes": 719605,
-   "path": "lth/lth_poster.jpg",
    "sha256": "a75b04c3ebe7ade515c73426b68309a8ace5aae500c367f66b26eff3839a46a2",
    "timestamp": "2023-12-24T18:24:36.000Z"
   },
-  {
+  "lth/orig_docs/": {
    "bytes": 0,
-   "path": "lth/orig_docs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-12-17T01:56:58.000Z"
   },
-  {
+  "lth/orig_docs/lthsp1.txt": {
    "bytes": 2363,
-   "path": "lth/orig_docs/lthsp1.txt",
    "sha256": "a004f07e60dc38683672128bc5ea33c111dad9a8637a2adfedaf20092d13d938",
    "timestamp": "2001-01-09T20:54:36.000Z"
   },
-  {
+  "lth/orig_docs/lthsp2.txt": {
    "bytes": 2509,
-   "path": "lth/orig_docs/lthsp2.txt",
    "sha256": "1cce31f2d9f279627f77ae168c77a563b815ebcf92d0b6836546a59f6be7dda5",
    "timestamp": "2001-01-09T20:57:42.000Z"
   },
-  {
+  "lth/orig_docs/lthsp3.txt": {
    "bytes": 3058,
-   "path": "lth/orig_docs/lthsp3.txt",
    "sha256": "703de80a7322a888691209b6c23cf2532d879f41eb98f5a1563783bc7343c6a4",
    "timestamp": "2001-01-16T21:14:34.000Z"
   },
-  {
+  "lth/orig_docs/lthsp4.txt": {
    "bytes": 3132,
-   "path": "lth/orig_docs/lthsp4.txt",
    "sha256": "6f02194c933ce5d407f4ce9b63c5eaecec8c4f89d933b89d71e7206ac6d1c902",
    "timestamp": "2001-02-22T16:25:00.000Z"
   },
-  {
+  "lth/orig_docs/lthsp5.txt": {
    "bytes": 2596,
-   "path": "lth/orig_docs/lthsp5.txt",
    "sha256": "2bed5a4f1eccbe214a5d23ed11bcc914ebfb9dcf7a71c286af3eaa0ba1b0c263",
    "timestamp": "2001-04-12T20:19:46.000Z"
   },
-  {
+  "lth/orig_docs/lthsp6.txt": {
    "bytes": 1367,
-   "path": "lth/orig_docs/lthsp6.txt",
    "sha256": "84901a17472ae32001656194daf0eb18f02cff0a324a6a8c2ede38b76a96e6a2",
    "timestamp": "2008-01-18T20:22:58.000Z"
   },
-  {
+  "lth/pak0.pak": {
    "bytes": 42788182,
-   "path": "lth/pak0.pak",
    "sha256": "221d13b60ccfa341955fc1ea2e522b354bb7a7ed2be8848f74e47e687d46ab6c",
    "timestamp": "2023-12-26T18:52:12.000Z"
   },
-  {
+  "lth/progs.dat": {
    "bytes": 421632,
-   "path": "lth/progs.dat",
    "sha256": "21fa60b6479c0b724f4d5b7f0d214fdf405605c66bbcd137f484f2739094e532",
    "timestamp": "2001-03-27T19:28:44.000Z"
   },
-  {
+  "lth/read_me.txt": {
    "bytes": 2822,
-   "path": "lth/read_me.txt",
    "sha256": "2f919f3d52ef74fd15934a50cad325f168c9751d547d583389751f5e77be59f3",
    "timestamp": "2023-12-24T18:42:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "Trivia: the original maps were some of the first released custom Quake maps to use colored lighting."
  ],

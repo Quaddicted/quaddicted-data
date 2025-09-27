@@ -4,24 +4,22 @@
  ],
  "bytes": 988861,
  "description": "Medium to large, fairly plain, linear Medieval map.",
- "files": [
-  {
+ "files": {
+  "GATORDIV.BSP": {
    "bytes": 2234252,
-   "path": "GATORDIV.BSP",
    "sha256": "701780706f5c1f06f63d01c457157a7987f5a84b804cf77cdfe8125e1ff553ea",
    "timestamp": "1997-03-11T06:38:38.000Z"
   },
-  {
+  "GATORDIV.TXT": {
    "bytes": 2385,
-   "path": "GATORDIV.TXT",
    "sha256": "9eef4789bc89888cbfc8bf3d80cb963caf60a8fa93d0e6f1af2566d012b959d3",
    "timestamp": "1997-03-11T14:39:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-03-11",
  "sha256": "2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad",
  "tags": [

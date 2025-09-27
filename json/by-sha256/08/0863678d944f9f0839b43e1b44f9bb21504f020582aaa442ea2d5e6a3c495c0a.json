@@ -7,84 +7,72 @@
   "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587"
  ],
  "description": "A rebalanced version of mfx's map from <a href=\"ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587\">Retro Jam 1</a>: a medieval building nestled in a rocky cavern and fronted by a lake of slime. Features traps and tough combat.",
- "files": [
-  {
+ "files": {
+  "gfx/": {
    "bytes": 0,
-   "path": "gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2014-11-29T17:42:30.000Z"
   },
-  {
+  "gfx/env/": {
    "bytes": 0,
-   "path": "gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2014-11-29T17:42:34.000Z"
   },
-  {
+  "gfx/env/red_bk.tga": {
    "bytes": 619027,
-   "path": "gfx/env/red_bk.tga",
    "sha256": "3462c68f4adacd5aa2321bcc6ccf733e79f574cdb98b08f4df8317bc349ea7e1",
    "timestamp": "2014-11-29T17:42:08.000Z"
   },
-  {
+  "gfx/env/red_dn.tga": {
    "bytes": 672467,
-   "path": "gfx/env/red_dn.tga",
    "sha256": "8ddba1e1ed2e0bd3ba0a6a8658ef46f0420898c25d8295927fc282df8f24976a",
    "timestamp": "2014-11-29T17:42:08.000Z"
   },
-  {
+  "gfx/env/red_ft.tga": {
    "bytes": 664453,
-   "path": "gfx/env/red_ft.tga",
    "sha256": "764f9a16e9faa015f1815ddfe29a20a0fa38b1327ad29ef3fe2feb65319a995f",
    "timestamp": "2014-11-29T17:42:08.000Z"
   },
-  {
+  "gfx/env/red_lf.tga": {
    "bytes": 634654,
-   "path": "gfx/env/red_lf.tga",
    "sha256": "71510165184795e4bd36f51f5824516f7fc1615c452087c261ce7f2f78d7c007",
    "timestamp": "2014-11-29T17:42:08.000Z"
   },
-  {
+  "gfx/env/red_rt.tga": {
    "bytes": 630646,
-   "path": "gfx/env/red_rt.tga",
    "sha256": "333c1f18a4b8f3b1281aefba222acd9bf318505f9db4b2049cbf4e151255c18a",
    "timestamp": "2014-11-29T17:42:08.000Z"
   },
-  {
+  "gfx/env/red_up.tga": {
    "bytes": 446254,
-   "path": "gfx/env/red_up.tga",
    "sha256": "084a9a4ae3f2823a8dd0f2ec1fb1e4ca612d6f5d46afa2d8bf938892a3cb60fe",
    "timestamp": "2014-11-29T17:42:08.000Z"
   },
-  {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2014-11-29T17:41:20.000Z"
   },
-  {
+  "maps/retro_mfx.bsp": {
    "bytes": 2676823,
-   "path": "maps/retro_mfx.bsp",
    "sha256": "28ef060cbae31a6ac672c78731444a9ae54c6419236bb76cf93bf4f81a9932a3",
    "timestamp": "2014-11-24T21:46:16.000Z"
   },
-  {
+  "maps/retro_mfx.lit": {
    "bytes": 1182323,
-   "path": "maps/retro_mfx.lit",
    "sha256": "2b123d6c599ffef30642648f14d4ef2a86b43c03328569ab4edb4439e0c5eda7",
    "timestamp": "2014-11-24T21:46:16.000Z"
   },
-  {
+  "retro_mfx.txt": {
    "bytes": 150,
-   "path": "retro_mfx.txt",
    "sha256": "09208ce3c92716476fd14df423b13c97c1401d81cdf430eb8c8afd9c244f3436",
    "timestamp": "2014-11-29T17:44:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/retrojam1/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map is meant to be played with the <a href=\"https://www.quaddicted.com/filebase/retrojam1.zip\">Retro Jam 1</a> pack."
  ],

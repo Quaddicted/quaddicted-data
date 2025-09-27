@@ -4,30 +4,27 @@
  ],
  "bytes": 3868119,
  "description": "Second part of <a href=\"cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101\">Root of all Evil</a>. A large underground research facility.",
- "files": [
-  {
+ "files": {
+  "dwroae_m3b.bsp": {
    "bytes": 7236252,
-   "path": "dwroae_m3b.bsp",
    "sha256": "60ac125cb7c673edf0d0ef56760ac92dadd74769925e914b717fa5069509aefe",
    "timestamp": "2016-03-10T20:39:04.000Z"
   },
-  {
+  "dwroae_m3b.lit": {
    "bytes": 3016982,
-   "path": "dwroae_m3b.lit",
    "sha256": "1e38e74bfcdd7a1c56bfca83338bae0612022d2dfdb536284848e741d77e3171",
    "timestamp": "2016-03-10T20:39:04.000Z"
   },
-  {
+  "dwroae_m3b.txt": {
    "bytes": 1441,
-   "path": "dwroae_m3b.txt",
    "sha256": "0366523920289b814ec2e1d19d3cfbe2523bdda43a056e02f5cc82d747bd9aa4",
    "timestamp": "2016-03-10T18:05:24.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires an engine port with increased limits."
  ],

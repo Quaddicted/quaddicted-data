@@ -4,24 +4,22 @@
  ],
  "bytes": 900114,
  "description": "Medium sized map, dark and cramped caves/canyon that lead to a dark and cramped abode. Quite hard.",
- "files": [
-  {
+ "files": {
+  "canabode.bsp": {
    "bytes": 2184500,
-   "path": "canabode.bsp",
    "sha256": "f236f8f5dac8dddc086b4f6bac0bf4f995c8e93c4cbcb7a4b053b30985a5fd3b",
    "timestamp": "1997-12-19T00:35:40.000Z"
   },
-  {
+  "canabode.txt": {
    "bytes": 1858,
-   "path": "canabode.txt",
    "sha256": "cbb5a1134104c785f7c3f767857853e5c011711bda8001afa137efebfaf4f8ed",
    "timestamp": "1997-12-17T23:07:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-12-13",
  "sha256": "1be5226303c19b80ed977745b89ebe2640fa41c4d72a8439380b877960fef8e3",
  "tags": [

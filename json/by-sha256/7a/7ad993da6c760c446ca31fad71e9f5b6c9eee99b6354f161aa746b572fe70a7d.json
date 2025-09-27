@@ -17,78 +17,67 @@
  "bytes": 320914417,
  "current_main_group_package": true,
  "description": "Large-scale single player campaign with many new levels, some of them labeled as \"test\" maps, featuring a whole line-up of new monsters and items as well as several tweaks and changes to the gameplay. Furthermore, it is meant to serve as a tool box for level designers, offering a large number of modified and new things to use in custom-made maps. Map and QC sources are included.",
- "files": [
-  {
+ "files": {
+  "ad_1_8.def": {
    "bytes": 401897,
-   "path": "ad_1_8.def",
    "sha256": "da5fbc6e19b4998787e1893c9c2eb516893aee49517b80471e71e412b854303f",
    "timestamp": "2020-10-11T08:59:36.000Z"
   },
-  {
+  "ad_1_8.fgd": {
    "bytes": 250757,
-   "path": "ad_1_8.fgd",
    "sha256": "2fdaef42f02c37370b36bd973e9ebfe08827f5847e26b4c250dd9b521a6b8431",
    "timestamp": "2020-10-11T13:22:14.000Z"
   },
-  {
+  "ad_v1_80_credits.txt": {
    "bytes": 15585,
-   "path": "ad_v1_80_credits.txt",
    "sha256": "c933fa278cb49c1cf6206cd514f5c43fb59238e13dcae8ac210d1df4d4c3247b",
    "timestamp": "2020-10-12T13:02:28.000Z"
   },
-  {
+  "ad_v1_80_documentation.txt": {
    "bytes": 151516,
-   "path": "ad_v1_80_documentation.txt",
    "sha256": "df1888f36c5df5cb53a90b7827c514b294a8a826587f7296fa457a25896f8b34",
    "timestamp": "2020-10-08T23:10:30.000Z"
   },
-  {
+  "ad_v1_80_readme.txt": {
    "bytes": 8418,
-   "path": "ad_v1_80_readme.txt",
    "sha256": "2423913f6507c392b219d7caee2656d11f1f24744a5cc0e3e513deaec2db9f08",
    "timestamp": "2020-10-12T16:03:52.000Z"
   },
-  {
+  "ad_v1_80changelog.txt": {
    "bytes": 91519,
-   "path": "ad_v1_80changelog.txt",
    "sha256": "07da6715e2c1fbba731603c39e5cecedad51a3729b127d0f1d5641184a53fdd0",
    "timestamp": "2020-10-12T09:24:40.000Z"
   },
-  {
+  "ad_v1_80p1changelog.txt": {
    "bytes": 92423,
-   "path": "ad_v1_80p1changelog.txt",
    "sha256": "7da4c0da24d6e63c2c42781c7113b6019ce78afc9acd088b59fec24db1efb696",
    "timestamp": "2020-10-13T20:21:54.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 270100152,
-   "path": "pak0.pak",
    "sha256": "117caa759bf9f161599ff693f561c68954519eda9cefb719a97cd5c1cd863ef3",
    "timestamp": "2020-10-12T17:05:06.000Z"
   },
-  {
+  "pak1.pak": {
    "bytes": 537160200,
-   "path": "pak1.pak",
    "sha256": "243e360503d33e7023aec21c73fb3f62399c9b39b78b31a9d2b5715009f22961",
    "timestamp": "2020-10-12T13:27:30.000Z"
   },
-  {
+  "pak2.pak": {
    "bytes": 22309198,
-   "path": "pak2.pak",
    "sha256": "4c82e0347952b38b0265fd34e0c3c3a6b6b4bea17642d18bf4189a97d93dd0f1",
    "timestamp": "2020-10-13T20:59:16.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 8530,
-   "path": "quake.rc",
    "sha256": "55262ed84506490261c544cfc5078aaaf82981376ee96b5408a753e810ee7228",
    "timestamp": "2020-10-13T15:17:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is version 1.8 (including patch 1) which includes various bug-fixes, additional features, and four additional maps: <a href=\"99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb\">Grendel's Blade</a> and <a href=\"d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b\">Nyarlathoteps Sand Castle</a> as well as Ak-Alakha by PulSaR and Tears of the False God by Bal (pictured).",
   "These maps (and all subsequent maps based on AD) require a source port with increased limits as well as support for BSP2 and transparent textures. Quakespasm 0.93+ is strongly recommended."

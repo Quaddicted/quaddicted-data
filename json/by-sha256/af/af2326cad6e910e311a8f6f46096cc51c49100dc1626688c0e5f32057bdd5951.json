@@ -4,54 +4,47 @@
  ],
  "bytes": 8179098,
  "description": "Large \"meaty\" medieval map for vanilla Quake with wave-based \"horde\" style gameplay. It uses a mix of mostly id1 textures, with some Impel and Rogue textures mixed in. The author's first release. Map source is included.",
- "files": [
-  {
+ "files": {
+  "cinburron/": {
    "bytes": 0,
-   "path": "cinburron/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-28T02:38:24.000Z"
   },
-  {
+  "cinburron/The Monastery of Mount Cinburron - Readme.txt": {
    "bytes": 3181,
-   "path": "cinburron/The Monastery of Mount Cinburron - Readme.txt",
    "sha256": "31b1f315fa404e99ffe550c236a30e3450f35f4e898a4ca6a98b5c0397a86231",
    "timestamp": "2022-11-28T02:43:50.000Z"
   },
-  {
+  "cinburron/maps/": {
    "bytes": 0,
-   "path": "cinburron/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-28T02:38:24.000Z"
   },
-  {
+  "cinburron/maps/cinburron.bsp": {
    "bytes": 17307916,
-   "path": "cinburron/maps/cinburron.bsp",
    "sha256": "3351b6e904b9b507dd7f1dbe0fdf617f80d46493d565961b3b790daa9cf28947",
    "timestamp": "2022-11-28T01:14:36.000Z"
   },
-  {
+  "cinburron/maps/cinburron.lit": {
    "bytes": 4758572,
-   "path": "cinburron/maps/cinburron.lit",
    "sha256": "044684bb756871a49a4309533b4bb7c34378795b246c58f1f6e9dcbc0358ace1",
    "timestamp": "2022-11-28T01:14:36.000Z"
   },
-  {
+  "cinburron/src/": {
    "bytes": 0,
-   "path": "cinburron/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-11-28T02:38:24.000Z"
   },
-  {
+  "cinburron/src/cinburron.map": {
    "bytes": 16777689,
-   "path": "cinburron/src/cinburron.map",
    "sha256": "8c97e6c52ebaf1b44c5273c043cd7067c91dab0ac99e431030698d7bae9dabd6",
    "timestamp": "2022-11-27T18:43:56.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "No custom start map; load manually via console: \"map cinburron\"",
   "Due to high monster count, likely requires a modern engine / source port with increased limits. Ironwail recommended."

@@ -4,24 +4,22 @@
  ],
  "bytes": 273712,
  "description": "Very small metal map with a slate.",
- "files": [
-  {
+ "files": {
+  "BUB2.3DS": {
    "bytes": 446604,
-   "path": "BUB2.3DS",
    "sha256": "855ce1d0ab90997d830fc6a9f04030372e2d597daf008b460cd0c1ec4aa274bf",
    "timestamp": "1996-10-10T20:30:02.000Z"
   },
-  {
+  "BUB2.BSP": {
    "bytes": 371608,
-   "path": "BUB2.BSP",
    "sha256": "be6fea94281b1a8e99f3ef87c1f7459015308c0ddb115415ff19747c2ec28d17",
    "timestamp": "1996-10-15T04:02:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-10-15",
  "sha256": "e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe",
  "tags": [

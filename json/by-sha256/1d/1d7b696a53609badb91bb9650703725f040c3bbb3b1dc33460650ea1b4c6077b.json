@@ -4,36 +4,32 @@
  ],
  "bytes": 3180918,
  "description": "Small to medium-sized runic-style temple with a graveyard in rocky surroundings. The level can be finished fairly quickly, but in order to visit all areas and get better equipment it requires exploration and secret-hunting. The map source is included.",
- "files": [
-  {
+ "files": {
+  "TofQuake_v2.bsp": {
    "bytes": 5274192,
-   "path": "TofQuake_v2.bsp",
    "sha256": "5c6591d13d3384f6bc65488e457fa1ecdeb27baf8abc8fad9f6c836c77dfe98c",
    "timestamp": "2017-06-02T15:40:48.000Z"
   },
-  {
+  "TofQuake_v2.lit": {
    "bytes": 2793278,
-   "path": "TofQuake_v2.lit",
    "sha256": "bcc56484c1bb8bdf7faa273a946ae6f35a1dd67e9e6ff7fd2085c357e40a1fbb",
    "timestamp": "2017-06-02T15:40:48.000Z"
   },
-  {
+  "TofQuake_v2.map": {
    "bytes": 4038178,
-   "path": "TofQuake_v2.map",
    "sha256": "f3268416efbcb68fb7fdd2d0d651793fa689d2313773065b3144e2f9a87640d7",
    "timestamp": "2017-06-02T15:14:46.000Z"
   },
-  {
+  "TofQuake_v2.txt": {
    "bytes": 27852,
-   "path": "TofQuake_v2.txt",
    "sha256": "cf60f0a43923aae33b346826309c670959e64b8fc325d0a72cb292d41a118932",
    "timestamp": "2017-06-02T15:36:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This is an updated version that addresses several technical issues. The unfixed original version is available <a href=\"https://www.quaddicted.com/filebase/tofquake.zip\">here</a>."
  ],

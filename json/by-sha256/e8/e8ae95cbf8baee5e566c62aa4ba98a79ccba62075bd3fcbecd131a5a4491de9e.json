@@ -25,132 +25,112 @@
   "copper=1.30"
  ],
  "description": "Latest version of a mod that introduces several significant new player movement mechanics to Quake, including trampolines, climbable wiremeshes and lighthooks (similar to grapple hooks). Includes all the original maps from <a href=\"33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57\">version 1.1</a> and <a href=\"5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f\">this jam</a>, plus five completely new maps.",
- "files": [
-  {
+ "files": {
+  "rm1.2/": {
    "bytes": 0,
-   "path": "rm1.2/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-06T11:22:04.000Z"
   },
-  {
+  "rm1.2/ReMobilize Wiki.url": {
    "bytes": 138,
-   "path": "rm1.2/ReMobilize Wiki.url",
    "sha256": "d08bb65749322f52834f30164eae790f0bcac3ef5e921d063e431b65b57454e4",
    "timestamp": "2023-06-15T22:26:36.000Z"
   },
-  {
+  "rm1.2/descript.ion": {
    "bytes": 15,
-   "path": "rm1.2/descript.ion",
    "sha256": "2988f8831c44d29faab782015f0c91b7b59c7f091fcdf34e1762d861755a7d1f",
    "timestamp": "2024-07-01T18:56:34.000Z"
   },
-  {
+  "rm1.2/map readmes/": {
    "bytes": 0,
-   "path": "rm1.2/map readmes/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2024-07-05T22:33:00.000Z"
   },
-  {
+  "rm1.2/map readmes/readme_rm_cabin.txt": {
    "bytes": 3146,
-   "path": "rm1.2/map readmes/readme_rm_cabin.txt",
    "sha256": "79303620c2810d6e17d7cb78570a47cc8e63483b30d366b549d3c38ea9eb1e75",
    "timestamp": "2024-06-15T21:33:10.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_carcosa.txt": {
    "bytes": 5644,
-   "path": "rm1.2/map readmes/rm_carcosa.txt",
    "sha256": "0500531b84e0f0ceb3c7934ba75acf7cbb48e860887f6a434493a3f5d0ff0a19",
    "timestamp": "2023-07-05T15:20:10.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_echoes.txt": {
    "bytes": 2844,
-   "path": "rm1.2/map readmes/rm_echoes.txt",
    "sha256": "def39df1894c1db742697a162f9f5162a11604ce98ea4a1f63bd4d240e596ee3",
    "timestamp": "2023-06-14T23:02:16.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_minak.txt": {
    "bytes": 1925,
-   "path": "rm1.2/map readmes/rm_minak.txt",
    "sha256": "70e2a5590cadcd040839a1d60ad9f397b5e08bffe70c30cd276705ea02a91d11",
    "timestamp": "2024-06-20T11:12:46.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_moon readme.txt": {
    "bytes": 1288,
-   "path": "rm1.2/map readmes/rm_moon readme.txt",
    "sha256": "b23521f374238395eab27904e27df34d9056869ce6b17c06ee06746fe76d5cbc",
    "timestamp": "2023-06-22T14:14:04.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_myopia.txt": {
    "bytes": 680,
-   "path": "rm1.2/map readmes/rm_myopia.txt",
    "sha256": "35a7df79e7ba34a1d297d8021dcdb87cf8dbcd54b2fb9887330305950160a96e",
    "timestamp": "2024-06-30T22:48:06.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_peak readme.txt": {
    "bytes": 1247,
-   "path": "rm1.2/map readmes/rm_peak readme.txt",
    "sha256": "e5419ebd0634414a9c667097a61a5c1b7b62792aa6e65ccd0bdd868f62f539aa",
    "timestamp": "2023-06-22T14:14:20.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_polarity.txt": {
    "bytes": 1503,
-   "path": "rm1.2/map readmes/rm_polarity.txt",
    "sha256": "738d19453022aa63450339ff302eea8280cb643997f1a46cabe2cf32d60566f6",
    "timestamp": "2024-06-16T22:27:46.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_re1m8.txt": {
    "bytes": 2124,
-   "path": "rm1.2/map readmes/rm_re1m8.txt",
    "sha256": "4ca489577f7a01491e89405351f1d0eee9c1879c7beea2ae22ca5639c9e4921a",
    "timestamp": "2023-06-14T23:02:16.000Z"
   },
-  {
+  "rm1.2/map readmes/rm_resurgence.txt": {
    "bytes": 1955,
-   "path": "rm1.2/map readmes/rm_resurgence.txt",
    "sha256": "97976be0661f28fd9780f2f50cddc0c3a486dedbe4b03e094c63bd361e8caae0",
    "timestamp": "2024-07-02T12:56:50.000Z"
   },
-  {
+  "rm1.2/pak0.pak": {
    "bytes": 1148726306,
-   "path": "rm1.2/pak0.pak",
    "sha256": "b450e17fd905627f051b759586504bf78c3e4acbb0b1f69b806235634ef17f9b",
    "timestamp": "2024-07-06T11:22:04.000Z"
   },
-  {
+  "rm1.2/progs.dat": {
    "bytes": 828710,
-   "path": "rm1.2/progs.dat",
    "sha256": "b9e24872515ecedd3b0dd4fdf13ed35dd51162408a51d911a0d1de2c47132e99",
    "timestamp": "2024-06-23T00:12:02.000Z"
   },
-  {
+  "rm1.2/progs_dump_manual_300.pdf": {
    "bytes": 24722562,
-   "path": "rm1.2/progs_dump_manual_300.pdf",
    "sha256": "0775b7168997e50dfb65a1f9599c7c2b6136fb00a48c079b67b33b9f19317fdc",
    "timestamp": "2022-09-26T08:18:20.000Z"
   },
-  {
+  "rm1.2/quake.rc": {
    "bytes": 762,
-   "path": "rm1.2/quake.rc",
    "sha256": "a88c4a530c4a6a32d36819a14ac876a1e946868f4ef3fb19e6d64e5d5d2bf451",
    "timestamp": "2023-01-11T05:07:56.000Z"
   },
-  {
+  "rm1.2/remobilize.fgd": {
    "bytes": 180296,
-   "path": "rm1.2/remobilize.fgd",
    "sha256": "4a342115f8c7225df391d3f914d6d4e8f80ccee4f1c79d10040eab4ac10079ca",
    "timestamp": "2024-03-27T14:45:32.000Z"
   },
-  {
+  "rm1.2/rm_mechanics.wad": {
    "bytes": 645460,
-   "path": "rm1.2/rm_mechanics.wad",
    "sha256": "5ffa3b3334135d713f9582ed7238b0a1507d9bd861a6791a7a550286ac9e8773",
    "timestamp": "2022-07-19T19:20:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."

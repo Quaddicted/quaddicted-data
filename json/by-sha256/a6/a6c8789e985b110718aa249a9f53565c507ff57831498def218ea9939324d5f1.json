@@ -4,750 +4,627 @@
  ],
  "bytes": 91611534,
  "description": "Episode of five maps (plus start and end map) all centered around a Brutalist/concrete theme. The maps were originally created for <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a> before being repurposed. Built on Copper (included). Custom music also included.",
- "files": [
-  {
+ "files": {
+  "bv/": {
    "bytes": 0,
-   "path": "bv/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-06T13:53:26.000Z"
   },
-  {
+  "bv/README.txt": {
    "bytes": 2902,
-   "path": "bv/README.txt",
    "sha256": "78296adcdbf49a75c7aa6113f7a56c348a9f73f85e39688d628232caa1acb79e",
    "timestamp": "2024-01-25T19:15:22.000Z"
   },
-  {
+  "bv/copper.def": {
    "bytes": 111554,
-   "path": "bv/copper.def",
    "sha256": "d0010cb94e23ef9ab9094e702c64236a1a6f4962ddf7c4280fb6e4f10bed70fb",
    "timestamp": "2023-10-30T01:29:20.000Z"
   },
-  {
+  "bv/copper.fgd": {
    "bytes": 83467,
-   "path": "bv/copper.fgd",
    "sha256": "9a7cbbb311711e31f9b9f736150d349a7b11ea54c38879d496a3eafa68a71802",
    "timestamp": "2023-11-02T08:52:18.000Z"
   },
-  {
+  "bv/copper_v1_30.txt": {
    "bytes": 104716,
-   "path": "bv/copper_v1_30.txt",
    "sha256": "d107561192b7e6d7d1506a43dd39b77aac21c45d585efd6c46051dbd82984dc3",
    "timestamp": "2023-10-28T02:38:22.000Z"
   },
-  {
+  "bv/csprogs.dat": {
    "bytes": 65362,
-   "path": "bv/csprogs.dat",
    "sha256": "508e7142d7bb55499d2238c0c48dcba4351366c97983bab2905cf8cdcd830c1b",
    "timestamp": "2023-10-25T20:31:40.000Z"
   },
-  {
+  "bv/demo1.dem": {
    "bytes": 4655911,
-   "path": "bv/demo1.dem",
    "sha256": "5083d46d72ae943ae29358027efed6cc672f176bb8b3e6441521afd5fe6768fd",
    "timestamp": "2023-11-04T10:16:06.000Z"
   },
-  {
+  "bv/demo2.dem": {
    "bytes": 649677,
-   "path": "bv/demo2.dem",
    "sha256": "1f6e6d6857b1bffbe464a04d4f0752bd25ef76ef86bd9f7c5341f735a14ecbe1",
    "timestamp": "2023-11-04T10:20:34.000Z"
   },
-  {
+  "bv/demo3.dem": {
    "bytes": 1591092,
-   "path": "bv/demo3.dem",
    "sha256": "638563055e1e1264b01a4dbc6d7fe95807fc2cb41c2af9b6584015efd5620f1b",
    "timestamp": "2023-11-04T10:23:08.000Z"
   },
-  {
+  "bv/gfx/": {
    "bytes": 0,
-   "path": "bv/gfx/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-02T17:17:14.000Z"
   },
-  {
+  "bv/gfx/env/": {
    "bytes": 0,
-   "path": "bv/gfx/env/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-03T19:05:56.000Z"
   },
-  {
+  "bv/gfx/env/north_bk.tga": {
    "bytes": 3145772,
-   "path": "bv/gfx/env/north_bk.tga",
    "sha256": "cff34707801175d3903adf1dccc3dff12b32d5becfadbc0ccce50a9b37d132e2",
    "timestamp": "2023-10-08T17:06:38.000Z"
   },
-  {
+  "bv/gfx/env/north_dn.tga": {
    "bytes": 3145772,
-   "path": "bv/gfx/env/north_dn.tga",
    "sha256": "092d7401d9d8f6253a6748f5877d900e99f6d5e71df1cf6be4da890b9d584ee7",
    "timestamp": "2023-10-08T17:08:10.000Z"
   },
-  {
+  "bv/gfx/env/north_ft.tga": {
    "bytes": 3145772,
-   "path": "bv/gfx/env/north_ft.tga",
    "sha256": "89b434b8e2dc82d52a313cee4b3b5c1b68f5523e46a94275c3bff5514305cddc",
    "timestamp": "2023-10-08T17:07:32.000Z"
   },
-  {
+  "bv/gfx/env/north_lf.tga": {
    "bytes": 3145772,
-   "path": "bv/gfx/env/north_lf.tga",
    "sha256": "4f5736a7c387dac7d4120f6f902cc35412e4d898e74fd02c7ee980e51c5174b7",
    "timestamp": "2023-10-08T17:06:20.000Z"
   },
-  {
+  "bv/gfx/env/north_rt.tga": {
    "bytes": 3145772,
-   "path": "bv/gfx/env/north_rt.tga",
    "sha256": "c2d404b87ea0e91bf81fad8a523ba3f1651ab5115139edb9a7db38a2219b10d1",
    "timestamp": "2023-10-08T17:06:58.000Z"
   },
-  {
+  "bv/gfx/env/north_up.tga": {
    "bytes": 3145772,
-   "path": "bv/gfx/env/north_up.tga",
    "sha256": "edfad2fca1854dd5b6752c6780777ae15393425b4a0c9f11f4c20110cd60b1b7",
    "timestamp": "2023-10-08T17:07:46.000Z"
   },
-  {
+  "bv/mapdb.json": {
    "bytes": 1549,
-   "path": "bv/mapdb.json",
    "sha256": "204d0ecdb18f91fe2580c74c4ad9eb32dc388cfdf635c32f378933c5671433e5",
    "timestamp": "2021-08-26T04:12:20.000Z"
   },
-  {
+  "bv/maps/": {
    "bytes": 0,
-   "path": "bv/maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-06T13:53:14.000Z"
   },
-  {
+  "bv/maps/bv1.bsp": {
    "bytes": 11365644,
-   "path": "bv/maps/bv1.bsp",
    "sha256": "cd2fbf1cf3709adbbc7b9de28b9227a1d509064a7b281c783adba30d8495b15a",
    "timestamp": "2023-11-06T13:31:38.000Z"
   },
-  {
+  "bv/maps/bv1.lit": {
    "bytes": 4083992,
-   "path": "bv/maps/bv1.lit",
    "sha256": "da4dd6990afcffe81b8d438e45d08b7acf73fbbaa3b3ed9ca96f0149eaf34b44",
    "timestamp": "2023-11-03T16:05:48.000Z"
   },
-  {
+  "bv/maps/bv2.bsp": {
    "bytes": 8830624,
-   "path": "bv/maps/bv2.bsp",
    "sha256": "16b1220bf1166c29c950b3fb451825cc7fc240ed2a0f09af556020d9dd580767",
    "timestamp": "2023-11-06T13:34:04.000Z"
   },
-  {
+  "bv/maps/bv2.lit": {
    "bytes": 5006528,
-   "path": "bv/maps/bv2.lit",
    "sha256": "ae18425a0d1d8bda6fac1ab974a6b49446b77a528d94507688dd62f775889628",
    "timestamp": "2023-10-31T17:26:20.000Z"
   },
-  {
+  "bv/maps/bv3.bsp": {
    "bytes": 8237960,
-   "path": "bv/maps/bv3.bsp",
    "sha256": "1d2cf1fc4e1edd8d35909df13b6237b19cb45d9acd625c46a84118acb33e8e47",
    "timestamp": "2023-11-06T13:35:46.000Z"
   },
-  {
+  "bv/maps/bv3.lit": {
    "bytes": 2968700,
-   "path": "bv/maps/bv3.lit",
    "sha256": "625f943d9832d0f281d1f1dbbc4d31194faffb9ba67700c265655927d53faa7b",
    "timestamp": "2023-11-04T11:25:52.000Z"
   },
-  {
+  "bv/maps/bv4.bsp": {
    "bytes": 14397336,
-   "path": "bv/maps/bv4.bsp",
    "sha256": "6ce7710dcb97eb35e0b3a11c80b10f78fdb01e282db6a4a42cb26ae6e52b9d58",
    "timestamp": "2023-11-06T13:52:56.000Z"
   },
-  {
+  "bv/maps/bv4.lit": {
    "bytes": 5038004,
-   "path": "bv/maps/bv4.lit",
    "sha256": "aecf26337d062ae1a68659feb937e65d668c1af57d1518b47156907d3ace2d43",
    "timestamp": "2023-11-06T13:52:56.000Z"
   },
-  {
+  "bv/maps/bvend.bsp": {
    "bytes": 10434532,
-   "path": "bv/maps/bvend.bsp",
    "sha256": "9ec9ff0f184359f9c566e055542231fc9ebd6d26d84a92ceba12a91a68f4daab",
    "timestamp": "2023-11-06T13:37:48.000Z"
   },
-  {
+  "bv/maps/bvend.lit": {
    "bytes": 5935748,
-   "path": "bv/maps/bvend.lit",
    "sha256": "c85df6cc031df358d80a42dfacf06e0a33e0a0d2ef68ab6889b9ec0b39324172",
    "timestamp": "2023-11-04T00:07:06.000Z"
   },
-  {
+  "bv/maps/bvs.bsp": {
    "bytes": 11300696,
-   "path": "bv/maps/bvs.bsp",
    "sha256": "7ffb87df0b01a7c883917bb79117280003141a2213456578fb295b2f20f5faee",
    "timestamp": "2023-11-06T13:39:18.000Z"
   },
-  {
+  "bv/maps/bvs.lit": {
    "bytes": 2345888,
-   "path": "bv/maps/bvs.lit",
    "sha256": "35635879681b43675dd31e713174b2ea2a2839b7a3331053411aca27bac4d96d",
    "timestamp": "2023-11-03T14:54:22.000Z"
   },
-  {
+  "bv/maps/start.bsp": {
    "bytes": 8951300,
-   "path": "bv/maps/start.bsp",
    "sha256": "7cec49de7f3d690fca4b8f6827ff3d4e0dacf76be2b2496dc4d7aa756ac53be3",
    "timestamp": "2023-11-04T10:01:26.000Z"
   },
-  {
+  "bv/maps/start.lit": {
    "bytes": 1098896,
-   "path": "bv/maps/start.lit",
    "sha256": "c1ec0c6e411fc6dd077acd932479e9e52a5e4f8d7246d617dec93130b2684c53",
    "timestamp": "2023-11-04T10:01:26.000Z"
   },
-  {
+  "bv/mapsrc/": {
    "bytes": 0,
-   "path": "bv/mapsrc/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-06T13:53:18.000Z"
   },
-  {
+  "bv/mapsrc/bv1.map": {
    "bytes": 1408617,
-   "path": "bv/mapsrc/bv1.map",
    "sha256": "0f834c3fd3490c5373aafc3d312f207dc649e089ed07e1429f44c551c6f7997f",
    "timestamp": "2023-11-06T13:31:34.000Z"
   },
-  {
+  "bv/mapsrc/bv2.map": {
    "bytes": 653826,
-   "path": "bv/mapsrc/bv2.map",
    "sha256": "4e59e9ed27e9f0968ebea41761cfc26d2e216c81b240555e09eb6bfa98e83ad7",
    "timestamp": "2023-11-06T13:33:58.000Z"
   },
-  {
+  "bv/mapsrc/bv3.map": {
    "bytes": 762704,
-   "path": "bv/mapsrc/bv3.map",
    "sha256": "75992152bc099a16cc416460c2ef8724ba1b84d3e7e3a0a22e696e4f5e972392",
    "timestamp": "2023-11-06T13:35:42.000Z"
   },
-  {
+  "bv/mapsrc/bv4.map": {
    "bytes": 3973285,
-   "path": "bv/mapsrc/bv4.map",
    "sha256": "27aff506de1144e9aec2492a3d63c13261cdf8cdc2f60cda79ff12dbd037f57c",
    "timestamp": "2023-11-06T13:47:38.000Z"
   },
-  {
+  "bv/mapsrc/bvend.map": {
    "bytes": 2926341,
-   "path": "bv/mapsrc/bvend.map",
    "sha256": "a1a6530f45fc6f3c92762cdc2e287aee0b2f558ed3ad4e6b9f1570a1212ef00e",
    "timestamp": "2023-11-06T13:37:44.000Z"
   },
-  {
+  "bv/mapsrc/bvs.map": {
    "bytes": 912509,
-   "path": "bv/mapsrc/bvs.map",
    "sha256": "9980b29d129539a5caa042da3dd155d08deb9ee35599e2ce0ff1ea7dd0533900",
    "timestamp": "2023-11-06T13:39:10.000Z"
   },
-  {
+  "bv/mapsrc/start.map": {
    "bytes": 763324,
-   "path": "bv/mapsrc/start.map",
    "sha256": "0b765ba8cca9df7efda039eb5918a4fddcd7fd95d0016297809101da88a06ef5",
    "timestamp": "2023-11-04T10:43:46.000Z"
   },
-  {
+  "bv/music/": {
    "bytes": 0,
-   "path": "bv/music/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-04T11:47:44.000Z"
   },
-  {
+  "bv/music/Playlist.txt": {
    "bytes": 412,
-   "path": "bv/music/Playlist.txt",
    "sha256": "a5a6f00c14fb4a1100fe9f685ed46d7b15f8a1f5619cb3fa561cf09487016f56",
    "timestamp": "2023-11-04T11:52:08.000Z"
   },
-  {
+  "bv/music/track03.ogg": {
    "bytes": 1149733,
-   "path": "bv/music/track03.ogg",
    "sha256": "eaf87788e9f5b39350da8c608159e1e308d16378b8eadd32abe8af26e54aab51",
    "timestamp": "2020-09-15T03:15:24.000Z"
   },
-  {
+  "bv/music/track44.ogg": {
    "bytes": 6729927,
-   "path": "bv/music/track44.ogg",
    "sha256": "cb97587990bc831c9c6fa235de24d72dd6c5c2b71f279a01f948bffead259a02",
    "timestamp": "2023-09-30T09:00:12.000Z"
   },
-  {
+  "bv/music/track45.ogg": {
    "bytes": 9683045,
-   "path": "bv/music/track45.ogg",
    "sha256": "70026405f45154591922979995b757c74a77c16d3fcf1cd61b77072a1740b662",
    "timestamp": "2023-10-09T12:10:58.000Z"
   },
-  {
+  "bv/music/track46.ogg": {
    "bytes": 5259714,
-   "path": "bv/music/track46.ogg",
    "sha256": "273f97caf9265829a5adce4c9ed280f33eded7ceec90e72ab57ecdb111324010",
    "timestamp": "2023-10-09T12:10:58.000Z"
   },
-  {
+  "bv/music/track47.ogg": {
    "bytes": 9264090,
-   "path": "bv/music/track47.ogg",
    "sha256": "93fe71959f78c53451417af940846716407198a499c663e3186f649739e41196",
    "timestamp": "2023-10-09T12:10:58.000Z"
   },
-  {
+  "bv/music/track48.ogg": {
    "bytes": 4512764,
-   "path": "bv/music/track48.ogg",
    "sha256": "199e6590571c3a93fd57b498860923c4407a91a6659cd0ab8767368fa21ac2c6",
    "timestamp": "2023-11-03T16:30:48.000Z"
   },
-  {
+  "bv/music/track49.ogg": {
    "bytes": 6170616,
-   "path": "bv/music/track49.ogg",
    "sha256": "3d3bb23b93b9f4a501e0ba34a2c68b80ad50dc7e4d9d6c54c576b7b3f5177ef5",
    "timestamp": "2022-08-11T00:02:06.000Z"
   },
-  {
+  "bv/music/track50.ogg": {
    "bytes": 6484100,
-   "path": "bv/music/track50.ogg",
    "sha256": "40d28f1b953b8be67cd45677d298de15aa1a14e6e9eaf273bf0af89b81dd0629",
    "timestamp": "2023-11-03T16:30:48.000Z"
   },
-  {
+  "bv/pak0.pak": {
    "bytes": 5123450,
-   "path": "bv/pak0.pak",
    "sha256": "c6072b6d4166203cf9d9cd7fe67b45db468420690d25ef5d5cb70f6be16bfb9e",
    "timestamp": "2023-10-24T05:42:52.000Z"
   },
-  {
+  "bv/progs.dat": {
    "bytes": 589418,
-   "path": "bv/progs.dat",
    "sha256": "6d411c995f22d9f297ca3d95e79725b78b5fff1ff6bf7bac2bd59ddca99228cf",
    "timestamp": "2023-10-30T01:29:20.000Z"
   },
-  {
+  "bv/quake.rc": {
    "bytes": 1101,
-   "path": "bv/quake.rc",
    "sha256": "1c446020b2307115167556cebfce76e1488fcfd30f07a87cc29e3a3e5a7ab269",
    "timestamp": "2021-06-22T03:07:16.000Z"
   },
-  {
+  "bv/src/": {
    "bytes": 0,
-   "path": "bv/src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2023-11-01T23:32:04.000Z"
   },
-  {
+  "bv/src/ai.qc": {
    "bytes": 39721,
-   "path": "bv/src/ai.qc",
    "sha256": "96089276c226e8e75088266fe408145c19eb274ab64602cb4fa1ee23996b9f24",
    "timestamp": "2023-09-17T09:08:00.000Z"
   },
-  {
+  "bv/src/buttons.qc": {
    "bytes": 14256,
-   "path": "bv/src/buttons.qc",
    "sha256": "b82b4ac32f52203e1147c6cde9e686f55e1c7226000f3e1b60af0149a0161155",
    "timestamp": "2023-09-15T13:55:10.000Z"
   },
-  {
+  "bv/src/client.qc": {
    "bytes": 50558,
-   "path": "bv/src/client.qc",
    "sha256": "95d8e47919493953d91431a85b30879f263107c238af773ec23a12fd9fbb9225",
    "timestamp": "2023-09-05T13:07:32.000Z"
   },
-  {
+  "bv/src/combat.qc": {
    "bytes": 18098,
-   "path": "bv/src/combat.qc",
    "sha256": "8a5805843794b6136e6be6e2a534d751aac5d5aa6c6b5ae5ac60edbf9755c875",
    "timestamp": "2023-06-09T08:56:32.000Z"
   },
-  {
+  "bv/src/constants.qc": {
    "bytes": 9891,
-   "path": "bv/src/constants.qc",
    "sha256": "f7090be2bc9f9f6e2ae99a1832e10c8c32f92963f8e787a0cdac8cdb14c22c5c",
    "timestamp": "2023-09-17T10:24:04.000Z"
   },
-  {
+  "bv/src/csdefs.qc": {
    "bytes": 42891,
-   "path": "bv/src/csdefs.qc",
    "sha256": "e7ae286995262dc42ec74809483894a6c82bfe4e487f4a20f1256d528ea8c0d1",
    "timestamp": "2023-11-01T02:30:16.000Z"
   },
-  {
+  "bv/src/csprogs.src": {
    "bytes": 68,
-   "path": "bv/src/csprogs.src",
    "sha256": "694f993105db7187e507bf4c7a187aeece0da5fa1fa426713c2179549afeecf0",
    "timestamp": "2023-11-01T02:30:16.000Z"
   },
-  {
+  "bv/src/defs.qc": {
    "bytes": 18027,
-   "path": "bv/src/defs.qc",
    "sha256": "89e6abfa7266eb136d11a43e37cf76d7ed7b3c815ba01e5d95b703f939d8354b",
    "timestamp": "2023-05-31T06:13:54.000Z"
   },
-  {
+  "bv/src/dev.qc": {
    "bytes": 7139,
-   "path": "bv/src/dev.qc",
    "sha256": "eb737de10a626fcc320d35eb4bb887fccc5306724a2e0742cc120b1f2fe4fd87",
    "timestamp": "2023-06-08T04:47:02.000Z"
   },
-  {
+  "bv/src/doors.qc": {
    "bytes": 35353,
-   "path": "bv/src/doors.qc",
    "sha256": "e83bf4cc59b083eff039b2b26eef945b6cde27ad88cc7447c488e35921867291",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/explobox.qc": {
    "bytes": 8079,
-   "path": "bv/src/explobox.qc",
    "sha256": "c2d81c8ad790aded2a6304122e0c357f562b491ac518ec314037f7b6d8f78625",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/fly.qc": {
    "bytes": 5659,
-   "path": "bv/src/fly.qc",
    "sha256": "c7a48dce5fc451d0cbfab36caa88380be3b7015a55bb956745af77a99b8121ff",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/fog.qc": {
    "bytes": 14074,
-   "path": "bv/src/fog.qc",
    "sha256": "58fc19a852887af3d578a3b0f6c61cadf4221d02543fbbfd2f4727d7e19bbf90",
    "timestamp": "2023-08-13T06:27:30.000Z"
   },
-  {
+  "bv/src/fx.qc": {
    "bytes": 28439,
-   "path": "bv/src/fx.qc",
    "sha256": "9e6e04d95bc01fe8994c80c7e5ea339dc69710bc91d34bc71577025aaac96d36",
    "timestamp": "2023-09-13T22:02:48.000Z"
   },
-  {
+  "bv/src/hud.qc": {
    "bytes": 25775,
-   "path": "bv/src/hud.qc",
    "sha256": "64c6f5a95d5322f16429ca1e30ac3653ad5983b43aa53575284f7044eba27016",
    "timestamp": "2023-11-01T02:30:16.000Z"
   },
-  {
+  "bv/src/impulse.qc": {
    "bytes": 5620,
-   "path": "bv/src/impulse.qc",
    "sha256": "3989af94db0966b4869bee887c2f2f0a3810644a4faa92cb2a8d0ce6684c70c4",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/item_backpack.qc": {
    "bytes": 8866,
-   "path": "bv/src/item_backpack.qc",
    "sha256": "04786fd5a93abe2bd2e71dd0a9aacfda1a473c4379fe0cb2ca9ae20f981fea58",
    "timestamp": "2022-11-07T05:51:12.000Z"
   },
-  {
+  "bv/src/item_health_armor.qc": {
    "bytes": 9064,
-   "path": "bv/src/item_health_armor.qc",
    "sha256": "026fe3577d26ff2409d9746dbc614f5ae8dac1ce8119c248f308b9a3335d1326",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/item_keys_runes.qc": {
    "bytes": 10585,
-   "path": "bv/src/item_keys_runes.qc",
    "sha256": "d14c6426e0e8610d264b880e5377c5fe7f7c2c0832b38640bbec993f6ce7d5b6",
    "timestamp": "2023-08-12T07:02:14.000Z"
   },
-  {
+  "bv/src/item_powerups.qc": {
    "bytes": 8234,
-   "path": "bv/src/item_powerups.qc",
    "sha256": "24da1f5081090a84d790a39818a88f9d2e400628383ceff1d19e756874d33687",
    "timestamp": "2022-11-07T05:51:12.000Z"
   },
-  {
+  "bv/src/item_weap_ammo.qc": {
    "bytes": 13756,
-   "path": "bv/src/item_weap_ammo.qc",
    "sha256": "e8b318a0f5d453f9ecc64eafeaf571a43e253f1556a63337956d8c52a8683769",
    "timestamp": "2023-01-27T14:04:58.000Z"
   },
-  {
+  "bv/src/items.qc": {
    "bytes": 26199,
-   "path": "bv/src/items.qc",
    "sha256": "8bded7041990c8d9b944b5b3ebdb08f28038164271fa213816a9c5bb5b87e6fa",
    "timestamp": "2023-06-08T03:49:48.000Z"
   },
-  {
+  "bv/src/lights.qc": {
    "bytes": 28343,
-   "path": "bv/src/lights.qc",
    "sha256": "20fe13bad6bd95e3ba44c54f1e3225246fa301c026bd442a5678482cbb012545",
    "timestamp": "2023-08-12T07:02:42.000Z"
   },
-  {
+  "bv/src/m_boss.qc": {
    "bytes": 17827,
-   "path": "bv/src/m_boss.qc",
    "sha256": "50efef2d5dfef8f8037f76f625b0c9a67a24045562123b9054bd2e2e71844cd2",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/m_demon.qc": {
    "bytes": 19474,
-   "path": "bv/src/m_demon.qc",
    "sha256": "468cfd357879eb2cd71dfbd58b290a1e924bef871430e3f36f4b6f6e63ef8eef",
    "timestamp": "2023-06-09T14:17:16.000Z"
   },
-  {
+  "bv/src/m_dog.qc": {
    "bytes": 12198,
-   "path": "bv/src/m_dog.qc",
    "sha256": "fc6315cca95cd391e88182a11045e26671df8a3c40e0c9903341eeaaaa696a82",
    "timestamp": "2023-08-25T03:44:38.000Z"
   },
-  {
+  "bv/src/m_enforcer.qc": {
    "bytes": 12670,
-   "path": "bv/src/m_enforcer.qc",
    "sha256": "01f9f8ec36394658125da9bb2ebbe1ba99753a8b9eadf15463395882a8727e99",
    "timestamp": "2023-08-20T03:48:02.000Z"
   },
-  {
+  "bv/src/m_fish.qc": {
    "bytes": 13042,
-   "path": "bv/src/m_fish.qc",
    "sha256": "071df2f058c22311859c3077cbfee141bed64bd5c08cf35b2853febe9e21277d",
    "timestamp": "2023-09-19T12:02:10.000Z"
   },
-  {
+  "bv/src/m_hknight.qc": {
    "bytes": 23737,
-   "path": "bv/src/m_hknight.qc",
    "sha256": "d9029452fcbf1512857f8adbf69f1d67184b3857d7a172f6e969cb8f428dd608",
    "timestamp": "2023-09-18T08:00:26.000Z"
   },
-  {
+  "bv/src/m_knight.qc": {
    "bytes": 11945,
-   "path": "bv/src/m_knight.qc",
    "sha256": "1b3a29134a749b9ecc37a53f7e702786cf20d6907b358d10bbd243cdc4c33924",
    "timestamp": "2023-08-31T03:02:58.000Z"
   },
-  {
+  "bv/src/m_ogre.qc": {
    "bytes": 17646,
-   "path": "bv/src/m_ogre.qc",
    "sha256": "75d6473688c0ac54f1ca2340bcdfa0a71f76a272e3f3f2f0072adb15d534da19",
    "timestamp": "2023-06-10T05:37:04.000Z"
   },
-  {
+  "bv/src/m_oldone.qc": {
    "bytes": 12618,
-   "path": "bv/src/m_oldone.qc",
    "sha256": "5434761466a414d7d83f8ee5ad4089a3e0e3da237d923b4605734be39b7edbe1",
    "timestamp": "2023-09-05T04:39:08.000Z"
   },
-  {
+  "bv/src/m_shalrath.qc": {
    "bytes": 13120,
-   "path": "bv/src/m_shalrath.qc",
    "sha256": "a989c8da94af85c8ae9aa2adc3de81daa0832de87de471d0b1ff98218b89f8b2",
    "timestamp": "2023-08-12T05:50:14.000Z"
   },
-  {
+  "bv/src/m_shambler.qc": {
    "bytes": 17102,
-   "path": "bv/src/m_shambler.qc",
    "sha256": "9e650d15e95b516f54c9943c78e194b018eab46d5a4b97a11eb3e65f17368f5e",
    "timestamp": "2023-06-12T07:17:18.000Z"
   },
-  {
+  "bv/src/m_soldier.qc": {
    "bytes": 12730,
-   "path": "bv/src/m_soldier.qc",
    "sha256": "b39c33d9cf02596a8c5749a93e6d2c84e40ec00921a5973ec0f6315515feca25",
    "timestamp": "2023-08-20T03:08:26.000Z"
   },
-  {
+  "bv/src/m_tarbaby.qc": {
    "bytes": 10943,
-   "path": "bv/src/m_tarbaby.qc",
    "sha256": "543d399ef6508cc4829807bdd73b72619727d1b2f9acbc6e7a4caeebc67fe752",
    "timestamp": "2023-09-03T03:59:36.000Z"
   },
-  {
+  "bv/src/m_wizard.qc": {
    "bytes": 13667,
-   "path": "bv/src/m_wizard.qc",
    "sha256": "16e0c5b148de6f69702e610aac9af752ac74755fb5b87fc5593f0ce7f6f0d89d",
    "timestamp": "2023-09-20T01:28:04.000Z"
   },
-  {
+  "bv/src/m_zombie.qc": {
    "bytes": 27615,
-   "path": "bv/src/m_zombie.qc",
    "sha256": "5eaa7ae09f538871a44adc6ed653a32e1647f6fcda7b007151602ee65329db6a",
    "timestamp": "2023-09-18T11:30:38.000Z"
   },
-  {
+  "bv/src/maths.qc": {
    "bytes": 6417,
-   "path": "bv/src/maths.qc",
    "sha256": "7b73b807420baed840e794dab18e46d551034ecdfae8e3ed60bf85e67f0626ad",
    "timestamp": "2023-08-12T06:39:12.000Z"
   },
-  {
+  "bv/src/meat.qc": {
    "bytes": 6364,
-   "path": "bv/src/meat.qc",
    "sha256": "b2c5746319ad094e6945834b553ba1cd3c52cbe39b8fcaad2af0e820ae14381a",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/misc.qc": {
    "bytes": 22452,
-   "path": "bv/src/misc.qc",
    "sha256": "356ce3f5cdeed475b31b003b0e04e6dc7528017a31104f9f5272eda6871e235c",
    "timestamp": "2023-09-02T06:44:36.000Z"
   },
-  {
+  "bv/src/monsters.qc": {
    "bytes": 21756,
-   "path": "bv/src/monsters.qc",
    "sha256": "8648e9704bc799c4d3bbe6c106c5f823be0325cf4ba12c7db442a26fe2e8e849",
    "timestamp": "2023-08-20T03:11:32.000Z"
   },
-  {
+  "bv/src/plats.qc": {
    "bytes": 42302,
-   "path": "bv/src/plats.qc",
    "sha256": "e87c75c838f80c119bedecda9c835b16f46d15290e0c73b43e99fe5e8327933e",
    "timestamp": "2023-09-15T06:29:40.000Z"
   },
-  {
+  "bv/src/player.qc": {
    "bytes": 18876,
-   "path": "bv/src/player.qc",
    "sha256": "b0f9c8c24811035e63f2b3448fca97c91f0cf0033a1d40dc4471f1fe203856ce",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/progs.src": {
    "bytes": 1074,
-   "path": "bv/src/progs.src",
    "sha256": "91737f86a6174ee2bc43bd4c4befdbaf912f1d58097335ac2a32ce0d4a3d5dc8",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/projectiles.qc": {
    "bytes": 15014,
-   "path": "bv/src/projectiles.qc",
    "sha256": "6931759849013fbfbcfce539a17f3a537a43b73c3dd581392f805a1a34f676d2",
    "timestamp": "2023-09-18T11:11:00.000Z"
   },
-  {
+  "bv/src/qc2def.py": {
    "bytes": 2119,
-   "path": "bv/src/qc2def.py",
    "sha256": "dab67202bef322d57ce37343258cf84ffb63af5fead34d4fa6c8b58c39d09182",
    "timestamp": "2023-09-15T12:30:22.000Z"
   },
-  {
+  "bv/src/qc2fgd.py": {
    "bytes": 2140,
-   "path": "bv/src/qc2fgd.py",
    "sha256": "747d3eb05499e117a58d65eb795f348b874b475f086c572b1464c90f585173eb",
    "timestamp": "2021-06-30T14:14:34.000Z"
   },
-  {
+  "bv/src/shooters.qc": {
    "bytes": 13568,
-   "path": "bv/src/shooters.qc",
    "sha256": "ae01de271132c60ac4a7e30438f8f74a3a2f9ecf227ad4390dde3903e57ec70b",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/sound.qc": {
    "bytes": 14026,
-   "path": "bv/src/sound.qc",
    "sha256": "535a5b7f80a93054e603ac6aed38b0e370b849c63a9e2d776f7a18708bcb4498",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/subs.qc": {
    "bytes": 2992,
-   "path": "bv/src/subs.qc",
    "sha256": "22ef1ceb695642b2600e51b339c1f549cf20964656eac15774fde0ba48a0f97a",
    "timestamp": "2023-09-02T07:02:58.000Z"
   },
-  {
+  "bv/src/subs_move.qc": {
    "bytes": 5662,
-   "path": "bv/src/subs_move.qc",
    "sha256": "8a495c020bab7e58affe85de8bb84ccccd59cb57082d3d30b013e6760a76faac",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/subs_tgt.qc": {
    "bytes": 13134,
-   "path": "bv/src/subs_tgt.qc",
    "sha256": "39f951b4120ecb0b6cc04faa34d54681d43afa4be7840fac6b094c401a9ae9b2",
    "timestamp": "2023-09-02T05:13:58.000Z"
   },
-  {
+  "bv/src/t_ctrl.qc": {
    "bytes": 19912,
-   "path": "bv/src/t_ctrl.qc",
    "sha256": "c458f0c39880eb557e1ff8b4b007e5b51b1595f00a93f2efcb1c0bcf75b64e29",
    "timestamp": "2023-08-12T07:01:22.000Z"
   },
-  {
+  "bv/src/t_level.qc": {
    "bytes": 15121,
-   "path": "bv/src/t_level.qc",
    "sha256": "6241e54c438850040aad67e4804495fa90e48350c10aac8975f743f0df80e672",
    "timestamp": "2023-05-31T06:13:54.000Z"
   },
-  {
+  "bv/src/t_tele.qc": {
    "bytes": 21876,
-   "path": "bv/src/t_tele.qc",
    "sha256": "4b4535a50bc4c33777dde02375a1020e0bb616a84745fdbb2093a0332277888d",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/t_void.qc": {
    "bytes": 19468,
-   "path": "bv/src/t_void.qc",
    "sha256": "f2a50d44353e9f8426baf295858563f328490ab798a6746a08cfd629b15ae581",
    "timestamp": "2023-08-13T03:49:02.000Z"
   },
-  {
+  "bv/src/test.qc": {
    "bytes": 329,
-   "path": "bv/src/test.qc",
    "sha256": "1db99110de27d9e6fe20330cbfefde0d443455a85a12ae8443d9ea295e66c3f1",
    "timestamp": "2020-09-14T01:26:40.000Z"
   },
-  {
+  "bv/src/triggers.qc": {
    "bytes": 41991,
-   "path": "bv/src/triggers.qc",
    "sha256": "32c6c0bb6825acf189618b8d7aac054c9026ccba1bec59f7c0529eaea59a509a",
    "timestamp": "2023-09-08T07:31:12.000Z"
   },
-  {
+  "bv/src/utility.qc": {
    "bytes": 19105,
-   "path": "bv/src/utility.qc",
    "sha256": "5c75fba033346fc3841924c3614c4efbf74fa3d7a2e90acb26d4b1d50f35b031",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/w_axe.qc": {
    "bytes": 3257,
-   "path": "bv/src/w_axe.qc",
    "sha256": "e85a689d2eb5b03a70d2aa67b0f6ca26620d346fe8873e97b0ffcb08e8812215",
    "timestamp": "2023-05-31T06:39:04.000Z"
   },
-  {
+  "bv/src/w_lightning.qc": {
    "bytes": 10312,
-   "path": "bv/src/w_lightning.qc",
    "sha256": "996b5daee0243e3d29e164588eed3c4b51cc4de85f7e4c40268a4bed8dbe40e0",
    "timestamp": "2023-09-19T11:40:24.000Z"
   },
-  {
+  "bv/src/w_nails.qc": {
    "bytes": 4799,
-   "path": "bv/src/w_nails.qc",
    "sha256": "7bdd6a079efa97babae3867e2e697d0ff9a0f424c58a07c5ac65c7c3a137b1e7",
    "timestamp": "2022-07-17T01:58:08.000Z"
   },
-  {
+  "bv/src/w_rockets.qc": {
    "bytes": 3690,
-   "path": "bv/src/w_rockets.qc",
    "sha256": "5f7adf5e3a660e5af8e0d758bb416c8d588c083050d47f58b7360d750f49dc12",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/w_shotguns.qc": {
    "bytes": 4508,
-   "path": "bv/src/w_shotguns.qc",
    "sha256": "14cccead121592a9e69d389d7b45771dd8e78e9ab046bc930dbbcb0d54e37d6d",
    "timestamp": "2023-05-31T06:12:30.000Z"
   },
-  {
+  "bv/src/walls.qc": {
    "bytes": 13645,
-   "path": "bv/src/walls.qc",
    "sha256": "c0148f4e083c677a9ea6c611999d800176cb16f6a80400907d080cfb1fb346e4",
    "timestamp": "2023-06-09T09:26:44.000Z"
   },
-  {
+  "bv/src/weapons.qc": {
    "bytes": 10132,
-   "path": "bv/src/weapons.qc",
    "sha256": "dc5afce277ebbf31711de9a22bc57d6de7f717ec7335e5d420a5a43fc96d3dad",
    "timestamp": "2022-11-07T05:51:12.000Z"
   },
-  {
+  "bv/src/world.qc": {
    "bytes": 13591,
-   "path": "bv/src/world.qc",
    "sha256": "ad68460a5d4cf6b483d161f0237db967e6c76a06d9bbd76aedaf7e4e779fd266",
    "timestamp": "2023-09-15T11:37:32.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."

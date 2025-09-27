@@ -4,30 +4,27 @@
  ],
  "bytes": 6439926,
  "description": "Large greek-themed medieval town with a venice-style canal and cavern areas beneath. It also features a few new and modified monsters: crossbow knights, skeletons and Granito.",
- "files": [
-  {
+ "files": {
+  "pak0.pak": {
    "bytes": 19030168,
-   "path": "pak0.pak",
    "sha256": "9cde8bec24716bb5fa03d82ac59d6b4fa1e45e4b353a09de68c85e7d1b5b5ca0",
    "timestamp": "2010-08-30T22:39:28.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 461076,
-   "path": "progs.dat",
    "sha256": "a3bebb6dca930bf4dd8da8a8e669a9948b31c0bf20e0607c2cdaa2f6440ef823",
    "timestamp": "2010-08-30T22:36:36.000Z"
   },
-  {
+  "venividi.txt": {
    "bytes": 3925,
-   "path": "venividi.txt",
    "sha256": "8924fcb32c2c6546563639c1f0c13f9a1ea86bb8fa2deb939af7dadac34b9632",
    "timestamp": "2010-08-30T22:43:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/veni/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2010-08-30",
  "sha256": "9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08",
  "tags": [

@@ -4,30 +4,27 @@
  ],
  "bytes": 99580,
  "description": "*Very* small Wizard map. Not much more than a test map according to the author. Map file is included.",
- "files": [
-  {
+ "files": {
+  "KURO.BSP": {
    "bytes": 200396,
-   "path": "KURO.BSP",
    "sha256": "8c8e82d4f53e0154e252669d454d5d9f4ce8d40aaadf737ea4dce897883cc15d",
    "timestamp": "1995-12-22T18:43:28.000Z"
   },
-  {
+  "KURO.MAP": {
    "bytes": 83141,
-   "path": "KURO.MAP",
    "sha256": "44b00897ccbdcea1d8f7a7968fa0062479803a5a41319b0d69db4eeaf53a742b",
    "timestamp": "1995-12-22T18:40:20.000Z"
   },
-  {
+  "KURO.TXT": {
    "bytes": 2312,
-   "path": "KURO.TXT",
    "sha256": "7fca6bd5279409cd5b4b0fcaca2b516aef194941ca7f83fee206461b9369221e",
    "timestamp": "1995-12-22T22:48:34.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1996-12-22",
  "sha256": "670b8f1b09fa757cfb6dc94ddadd66904287bcef729d9efff6ebde9e2637c0f0",
  "tags": [

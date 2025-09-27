@@ -4,114 +4,97 @@
  ],
  "bytes": 72705385,
  "description": "Episode with five huge, uniquely themed levels: a beach resort under a Golden Gate Bridge, a puzzle map set in an industrial storage facility, an Asian temple, a twisted otherworldly fortress, and a western mining town. Most of the maps use custom textures; the texture wads and the map sources are included.",
- "files": [
-  {
+ "files": {
+  "Quakespasm-0.92.2.zip": {
    "bytes": 1563707,
-   "path": "Quakespasm-0.92.2.zip",
    "sha256": "ef9c2b03d270973434711691e9c9f62259d4a19310a5e5c92b496bffa0913c7a",
    "timestamp": "2017-09-01T13:10:44.000Z"
   },
-  {
+  "beach.wad": {
    "bytes": 1491236,
-   "path": "beach.wad",
    "sha256": "5e9261c1014bcd8a48b79b18894f9603436949553d9fe900c57136aa2e5004be",
    "timestamp": "2016-07-12T19:29:46.000Z"
   },
-  {
+  "chamber.wad": {
    "bytes": 1146024,
-   "path": "chamber.wad",
    "sha256": "4703d70d67290fb66c2c4bbac564f64310d8840e3337cac02c5560e7947e3d20",
    "timestamp": "2016-09-11T14:12:46.000Z"
   },
-  {
+  "desert.wad": {
    "bytes": 1735840,
-   "path": "desert.wad",
    "sha256": "6d797283441fa78c28c3851eff492f8ec970264ac5815737ea075f42aea85568",
    "timestamp": "2017-07-31T19:23:22.000Z"
   },
-  {
+  "hypnagogic.wad": {
    "bytes": 4515572,
-   "path": "hypnagogic.wad",
    "sha256": "01dd07c7ccdc1cac85f1b63c6bab6f94158ac6d6eea442a938fc9be25daedc1d",
    "timestamp": "2017-07-31T19:29:24.000Z"
   },
-  {
+  "pagoda.wad": {
    "bytes": 5331772,
-   "path": "pagoda.wad",
    "sha256": "61a005fe536a12aed93c1e3de0adcbad226e18ab1e2859e443f6de4dc3eb38fa",
    "timestamp": "2017-08-14T19:52:46.000Z"
   },
-  {
+  "readme.txt": {
    "bytes": 2547,
-   "path": "readme.txt",
    "sha256": "4a968a3be4e2dea8fe5ffb8af7a830b38fc0652ea22df2f92db73a48fac891e0",
    "timestamp": "2017-09-01T13:17:18.000Z"
   },
-  {
+  "shib1.bsp": {
    "bytes": 59092524,
-   "path": "shib1.bsp",
    "sha256": "44719acc69ee4953024860d4556a6c215343eb2b2cfb8fd805f096ebf430f17d",
    "timestamp": "2017-08-21T13:20:24.000Z"
   },
-  {
+  "shib1.map": {
    "bytes": 14658798,
-   "path": "shib1.map",
    "sha256": "ab792f6fa927a8d5e7c6c5636f78ec003236af219c6a05214fd5c17bcdd7871f",
    "timestamp": "2017-08-19T20:35:08.000Z"
   },
-  {
+  "shib2.bsp": {
    "bytes": 26253660,
-   "path": "shib2.bsp",
    "sha256": "bd93ad79b4443a0e5216d56eff957301aec1c7a9205b7760233b4fc7f2395578",
    "timestamp": "2017-09-03T14:37:42.000Z"
   },
-  {
+  "shib2.map": {
    "bytes": 7105836,
-   "path": "shib2.map",
    "sha256": "42092c21bb21929930a7169ec4ed487ce42f5d248425e92e3a4ca21a104eaed7",
    "timestamp": "2017-09-03T14:31:32.000Z"
   },
-  {
+  "shib3.bsp": {
    "bytes": 41821424,
-   "path": "shib3.bsp",
    "sha256": "1bee1807ce2bb5dbb8f0470aebd407e852be34e09a14bdf9289e49ec55575071",
    "timestamp": "2017-09-03T14:28:36.000Z"
   },
-  {
+  "shib3.map": {
    "bytes": 20783600,
-   "path": "shib3.map",
    "sha256": "0ea759d69b6863533b08cff680dec3b8aa955367cffa95e620aab666c94cdf16",
    "timestamp": "2017-09-03T14:22:52.000Z"
   },
-  {
+  "shib4.bsp": {
    "bytes": 37931276,
-   "path": "shib4.bsp",
    "sha256": "0c02cf1167d6c826a16be07b8ec1be55de3d490b44a1248e3317d47160589e96",
    "timestamp": "2017-08-05T20:30:40.000Z"
   },
-  {
+  "shib4.map": {
    "bytes": 13310784,
-   "path": "shib4.map",
    "sha256": "1e0b9cd497088bcdb8dd50717d970da92cd9ef9ae24025595a79198a802a02d3",
    "timestamp": "2017-08-05T19:59:58.000Z"
   },
-  {
+  "shib5.bsp": {
    "bytes": 42187648,
-   "path": "shib5.bsp",
    "sha256": "9aa86a0fba51f3b2f018936ec662e05acb3b1d070ad614588c0ceb06f3877580",
    "timestamp": "2017-08-06T10:07:16.000Z"
   },
-  {
+  "shib5.map": {
    "bytes": 27783364,
-   "path": "shib5.map",
    "sha256": "a021a30869f7c16f9db755bbfbac444969fe72ca9ca68dcb8e8ca3b3a183f154",
    "timestamp": "2017-08-06T09:58:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher."
  ],

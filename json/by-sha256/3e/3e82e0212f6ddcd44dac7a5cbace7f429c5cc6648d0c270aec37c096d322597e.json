@@ -6,36 +6,32 @@
  ],
  "bytes": 585312,
  "description": "Unthemed / 3 DM maps / Apollo, Starbuck, than",
- "files": [
-  {
+ "files": {
+  "sm33_ap.bsp": {
    "bytes": 170084,
-   "path": "sm33_ap.bsp",
    "sha256": "a72b9d951c20ff5910b2af48784302fe726f8bcea952a9a15f66a1f836a08b94",
    "timestamp": "2001-09-09T10:39:18.000Z"
   },
-  {
+  "sm33_pack.txt": {
    "bytes": 1820,
-   "path": "sm33_pack.txt",
    "sha256": "5dbd079cc7069118d29472a8f58bf61e1e99e2b22a70844e0f7bc1ab11e0a737",
    "timestamp": "2001-09-18T22:09:06.000Z"
   },
-  {
+  "sm33_sb.bsp": {
    "bytes": 1046020,
-   "path": "sm33_sb.bsp",
    "sha256": "8d7b0ce3ca1d49bbaaecf3f8af69f2fd00d221460f44e0201b78f918a4f92487",
    "timestamp": "2001-09-08T01:54:36.000Z"
   },
-  {
+  "sm33_than.bsp": {
    "bytes": 508592,
-   "path": "sm33_than.bsp",
    "sha256": "a334161a013aab721c03b98dc6960d49650af15583ff620fef661c012e69ba3d",
    "timestamp": "2001-09-09T23:54:10.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2001-09-18",
  "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "tags": [

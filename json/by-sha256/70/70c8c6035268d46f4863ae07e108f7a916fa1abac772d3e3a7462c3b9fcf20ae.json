@@ -4,36 +4,32 @@
  ],
  "bytes": 1593594,
  "description": "Two medium sized Metal/Wizard maps and a start map.",
- "files": [
-  {
+ "files": {
+  "C_GOL.bsp": {
    "bytes": 1511208,
-   "path": "C_GOL.bsp",
    "sha256": "8b580a72c834eacbd846182251cbb3d52f555481ce2ee81b2fce7e1f515a449b",
    "timestamp": "1999-08-13T07:21:36.000Z"
   },
-  {
+  "GOL_ST.bsp": {
    "bytes": 621316,
-   "path": "GOL_ST.bsp",
    "sha256": "7c665e092eb3a37779a5b8b8b36c32f28d7edbf4b39c0347efbf958d7594a5e6",
    "timestamp": "1999-08-12T21:48:50.000Z"
   },
-  {
+  "M_GOL.bsp": {
    "bytes": 1547804,
-   "path": "M_GOL.bsp",
    "sha256": "6e3b8d0ce858b63f7aba7cca43fededc1f9b5fabde72eb49a6f530fc6be1e427",
    "timestamp": "1999-08-13T16:30:36.000Z"
   },
-  {
+  "golgotha.txt": {
    "bytes": 2865,
-   "path": "golgotha.txt",
    "sha256": "7ae40b5c431849166b9d838c068fac0ba8ca9029a3214e8e52409b5731a4d097",
    "timestamp": "1999-08-13T16:00:46.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1999-08-13",
  "sha256": "70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae",
  "tags": [

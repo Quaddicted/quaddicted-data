@@ -4,24 +4,22 @@
  ],
  "bytes": 2764680,
  "description": "Large rusty metal/industrial complex with custom textures, a few code tweaks, a start map and a cool Zelda tribute secret level.",
- "files": [
-  {
+ "files": {
+  "Rubicon.txt": {
    "bytes": 4717,
-   "path": "Rubicon.txt",
    "sha256": "8eb83e17eba3ee373397e44a2db6c60d8ea47b4a5d55fb06182a9f6613cbccff",
    "timestamp": "1998-02-25T15:57:24.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 6127401,
-   "path": "pak0.pak",
    "sha256": "1e2700c3798b5fd34521d7d893d57c1d691849cae29f3a631e6a0ed39754eb47",
    "timestamp": "1998-02-23T21:40:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/rubicon/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1998-02-25",
  "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [

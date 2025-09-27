@@ -4,24 +4,22 @@
  ],
  "bytes": 3031142,
  "description": "Mini-episode with four small to medium Wizard-style maps and a start map.",
- "files": [
-  {
+ "files": {
+  "Maelstrm/Maelstrm.txt": {
    "bytes": 2282,
-   "path": "Maelstrm/Maelstrm.txt",
    "sha256": "616632215be621837ea60b871fb194cd8d79389d486dedf6481d8e0608125e7a",
    "timestamp": "1997-07-19T15:23:36.000Z"
   },
-  {
+  "Maelstrm/pak0.pak": {
    "bytes": 7494090,
-   "path": "Maelstrm/pak0.pak",
    "sha256": "47d091d24488b72e78878053ebfec263b08af6c30702aa9b49ec16aa38de2238",
    "timestamp": "1997-07-19T14:19:26.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "In the third map, some teleporters may be malfunctioning in newer engines, leaving player/monsters stuck in the ceiling. Use noclip/fullbright temporarily to be able to proceed in these situations."
  ],

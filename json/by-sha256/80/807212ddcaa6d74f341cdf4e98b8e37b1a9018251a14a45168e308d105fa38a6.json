@@ -4,24 +4,22 @@
  ],
  "bytes": 603636,
  "description": "Small to medium Metal map.",
- "files": [
-  {
+ "files": {
+  "RIT2.BSP": {
    "bytes": 1361616,
-   "path": "RIT2.BSP",
    "sha256": "584c145d57f84c3979f6580392579b7ff3388173aa96043634f000d44d121927",
    "timestamp": "1996-09-22T00:57:58.000Z"
   },
-  {
+  "RIT2.TXT": {
    "bytes": 1714,
-   "path": "RIT2.TXT",
    "sha256": "4a4c7d053a085f32fe3f227a47aea74f03d2cfa66ba01dc654b289f1aa09fa40",
    "timestamp": "1996-09-22T04:32:52.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "While the timestamps in the zip say 1996, Crash's dating of 1997-09-25 is much more realistic."
  ],

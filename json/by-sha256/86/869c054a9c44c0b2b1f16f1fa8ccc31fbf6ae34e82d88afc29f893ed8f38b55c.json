@@ -4,45 +4,40 @@
  ],
  "bytes": 13041041,
  "description": "Large abstract level with several huge locations surrounding a floating castle. The map source is included.",
- "files": [
-  {
+ "files": {
+  "DisjointedRealms/": {
    "bytes": 0,
-   "path": "DisjointedRealms/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-07-29T21:26:22.000Z"
   },
-  {
+  "DisjointedRealms/disjointedrealms.bsp": {
    "bytes": 28501280,
-   "path": "DisjointedRealms/disjointedrealms.bsp",
    "sha256": "267f085792d32c49fda21030cbc4d3ab2793cf377787a5720d0e5083c32c10c4",
    "timestamp": "2018-07-29T02:02:38.000Z"
   },
-  {
+  "DisjointedRealms/disjointedrealms.lit": {
    "bytes": 7349057,
-   "path": "DisjointedRealms/disjointedrealms.lit",
    "sha256": "d334ea99265e82ad067dfd775d3c354ddcf2304113301d98a6195697c94852ed",
    "timestamp": "2018-07-29T02:02:38.000Z"
   },
-  {
+  "DisjointedRealms/disjointedrealms.map": {
    "bytes": 12733591,
-   "path": "DisjointedRealms/disjointedrealms.map",
    "sha256": "c48f711eaefaec9b4629dc542349ca66f6f7920ee2a890f6b3e8d8dde41b884b",
    "timestamp": "2018-07-29T12:49:42.000Z"
   },
-  {
+  "DisjointedRealms/disjointedrealms.txt": {
    "bytes": 2720,
-   "path": "DisjointedRealms/disjointedrealms.txt",
    "sha256": "9fa7e9408701b3fdcee31f2470d5402af7549d9314ea5d4b079c2601b086c648",
    "timestamp": "2018-07-28T13:44:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/",
   "extractmapping": {
    "/DisjointedRealms/": "/ad/maps/"
   }
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
  ],

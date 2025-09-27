@@ -4,30 +4,27 @@
  ],
  "bytes": 6204041,
  "description": "Large, spacious Q3Gothic-style fortress in a blood canyon, featuring some modified monsters and an evil dragon boss.",
- "files": [
-  {
+ "files": {
+  "autoexec.cfg": {
    "bytes": 442,
-   "path": "autoexec.cfg",
    "sha256": "010bb9d9fe8e6e3a067c7127f65335044f363fd2c5531dc34a9312d45cc63027",
    "timestamp": "2002-02-15T22:03:00.000Z"
   },
-  {
+  "ne_sp06.txt": {
    "bytes": 8753,
-   "path": "ne_sp06.txt",
    "sha256": "14e0c3074f0990469880b12040cb26e3646f50fab8859b979bd90de2f0f1d1f2",
    "timestamp": "2002-02-15T22:33:02.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 10994565,
-   "path": "pak0.pak",
    "sha256": "ff09acca4819c2bdb26392ec9290c41655f887b1d2ff16188c6f2a18948ac8e8",
    "timestamp": "2002-02-16T20:16:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ne_sp06/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-02-16",
  "sha256": "66edf428edd505a6b13e38dd40e8da3c333c154869c7de587311da8209b9bffd",
  "tags": [

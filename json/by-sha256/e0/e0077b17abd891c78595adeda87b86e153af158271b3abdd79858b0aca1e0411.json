@@ -5,30 +5,27 @@
  "bytes": 688900,
  "current_main_group_package": true,
  "description": "Same as <a href=\"32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85\">houstrps</a> except this map has Willy the Spider in the last room.",
- "files": [
-  {
+ "files": {
+  "HOUSP.TXT": {
    "bytes": 6376,
-   "path": "HOUSP.TXT",
    "sha256": "12f0c30787c96d4252641c09fdf4870b3ca1b914ce4ead4b2a8ae724acb3341d",
    "timestamp": "1996-11-20T12:03:34.000Z"
   },
-  {
+  "PAK0.PAK": {
    "bytes": 1659132,
-   "path": "PAK0.PAK",
    "sha256": "77d46335c74b5f09703351c6a18345e0a8f1c747c2c106b7b8224a9298e5d188",
    "timestamp": "1996-11-20T11:42:34.000Z"
   },
-  {
+  "SPIDER.TXT": {
    "bytes": 2615,
-   "path": "SPIDER.TXT",
    "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
    "timestamp": "1996-10-09T05:52:48.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/housep/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "provides": {
   "houstrps": "2.0"
  },

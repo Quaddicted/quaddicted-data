@@ -4,24 +4,22 @@
  ],
  "bytes": 369370,
  "description": "Small moon base with custom textures. A deathmatch level with monsters.",
- "files": [
-  {
+ "files": {
+  "lunar.bsp": {
    "bytes": 1114136,
-   "path": "lunar.bsp",
    "sha256": "73ec4ef86f8773706cb9f9423e75074c85786628c1872b88427a0873c27fe1b6",
    "timestamp": "1997-02-22T15:21:20.000Z"
   },
-  {
+  "lunar.txt": {
    "bytes": 3064,
-   "path": "lunar.txt",
    "sha256": "39e6d687f8f2bd8e690fa2b8f6618f2e75fbe952ab51bbb6353a9836f3180346",
    "timestamp": "1997-02-23T16:51:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map does not have an exit. A hotfix that adds one is available <a href=\"http://quaketastic.com/files/single_player/maps/lunar_spfix.zip\">here</a>."
  ],

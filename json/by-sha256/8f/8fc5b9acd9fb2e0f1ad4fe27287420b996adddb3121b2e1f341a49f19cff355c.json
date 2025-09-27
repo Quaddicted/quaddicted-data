@@ -24,594 +24,497 @@
  ],
  "bytes": 39250515,
  "description": "Speedmap jam pack of 19 levels from 21 authors organized into 3 episodes, all made within 48 hours. Mappers could choose from 4 themes (Cr8 base, Egypt, Firetop Mountain, or Knave) with specific weapon progressions. Most maps range from small to medium sized, and can be played from shotgun start if desired. Contains custom start map with difficulty selection. Built on Copper mod (included already). Map source is included too.",
- "files": [
-  {
+ "files": {
+  "maps/": {
    "bytes": 0,
-   "path": "maps/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:04:06.000Z"
   },
-  {
+  "maps/s1m1_fwmarkie.bsp": {
    "bytes": 3644040,
-   "path": "maps/s1m1_fwmarkie.bsp",
    "sha256": "a4e5a41995babba2e87bbb87cf05325f07114d5f63c826a131b5bf5c0a647501",
    "timestamp": "2022-01-30T19:59:10.000Z"
   },
-  {
+  "maps/s1m1_fwmarkie.lit": {
    "bytes": 937676,
-   "path": "maps/s1m1_fwmarkie.lit",
    "sha256": "c4966af6fdf5946c9101a6224b58cd4dac6169f15b980a2351bb6e6394256d37",
    "timestamp": "2022-01-30T19:39:52.000Z"
   },
-  {
+  "maps/s1m2_jaycie.bsp": {
    "bytes": 969432,
-   "path": "maps/s1m2_jaycie.bsp",
    "sha256": "5a8abba260bd932bbb8a58ad3b98294452849285ce87aeac424381941134b534",
    "timestamp": "2022-01-30T21:55:02.000Z"
   },
-  {
+  "maps/s1m2_jaycie.lit": {
    "bytes": 315284,
-   "path": "maps/s1m2_jaycie.lit",
    "sha256": "4e6645ad19ad2fbb0a29a04e8611f65f06a274359dc636607598113f63c97642",
    "timestamp": "2022-01-30T21:55:02.000Z"
   },
-  {
+  "maps/s1m3_voidforce.bsp": {
    "bytes": 8401034,
-   "path": "maps/s1m3_voidforce.bsp",
    "sha256": "f0667234462f33dc43f09a12cc153a2404da7f8c5b4d1d99ef34294df3d7ec5b",
    "timestamp": "2022-01-30T19:59:16.000Z"
   },
-  {
+  "maps/s1m3_voidforce.lit": {
    "bytes": 2033840,
-   "path": "maps/s1m3_voidforce.lit",
    "sha256": "64e1edeac7274b39ee55d7c04739a23ea0fd0edbf16649887df8432c95817a4f",
    "timestamp": "2022-01-27T16:01:48.000Z"
   },
-  {
+  "maps/s1m4_burnham.bsp": {
    "bytes": 1214408,
-   "path": "maps/s1m4_burnham.bsp",
    "sha256": "62618a792c8f090e500d5ea9b4231e324af5182e87148a13a2ac02168fb2a480",
    "timestamp": "2022-01-30T19:59:30.000Z"
   },
-  {
+  "maps/s1m5_il8r.bsp": {
    "bytes": 955040,
-   "path": "maps/s1m5_il8r.bsp",
    "sha256": "fa6422c7267e5dfeb6a6a3547fb7bef8d72ddae9799c9ff343614f829b411574",
    "timestamp": "2022-01-30T19:59:32.000Z"
   },
-  {
+  "maps/s1m5_il8r.lit": {
    "bytes": 391652,
-   "path": "maps/s1m5_il8r.lit",
    "sha256": "045c9ba3c78fb6d48af040991eaca330e490332bad92509d0854a49706d22d83",
    "timestamp": "2022-01-24T09:33:40.000Z"
   },
-  {
+  "maps/s1m6_scythe.bsp": {
    "bytes": 935225,
-   "path": "maps/s1m6_scythe.bsp",
    "sha256": "bd6fc5a8bcb96a268339fa54597181c997aa8556a24ae91a2b59dc219d2e0d55",
    "timestamp": "2022-01-30T19:59:36.000Z"
   },
-  {
+  "maps/s1m6_scythe.lit": {
    "bytes": 417854,
-   "path": "maps/s1m6_scythe.lit",
    "sha256": "51ff888e70bfc0a9423804d5842b52ff73394a3bcfe329e095c3f43babbcfefd",
    "timestamp": "2022-01-24T09:33:34.000Z"
   },
-  {
+  "maps/s2m1_coj.bsp": {
    "bytes": 581104,
-   "path": "maps/s2m1_coj.bsp",
    "sha256": "3cbec1c732dd8d5f46c6e4df86a9bdd5a5cfddff5baa7835bf4daefe1329d2b2",
    "timestamp": "2022-01-30T22:59:12.000Z"
   },
-  {
+  "maps/s2m1_coj.lit": {
    "bytes": 230159,
-   "path": "maps/s2m1_coj.lit",
    "sha256": "9d82aa0a6301e2f54f8c88dbe2693c69b24b5bdf577eb7496d4f3de8cc5ee41d",
    "timestamp": "2022-01-24T09:33:50.000Z"
   },
-  {
+  "maps/s2m2_radiatoryang.bsp": {
    "bytes": 1827348,
-   "path": "maps/s2m2_radiatoryang.bsp",
    "sha256": "92734b3d2fcecc27610fcb422e676a7ec2b37e27eacb18f6b6dd5bb2a74500e0",
    "timestamp": "2022-01-30T19:59:40.000Z"
   },
-  {
+  "maps/s2m2_radiatoryang.lit": {
    "bytes": 1187531,
-   "path": "maps/s2m2_radiatoryang.lit",
    "sha256": "af131d86aac2da2b53e03172c968de052f7fb70a0b348ed952d0f197b644bd65",
    "timestamp": "2022-01-24T10:16:14.000Z"
   },
-  {
+  "maps/s2m3_bal.bsp": {
    "bytes": 4654477,
-   "path": "maps/s2m3_bal.bsp",
    "sha256": "1d1e993bbbc765a45fcafca062ef856401ad2ed61ca87fbbb03dcee3217dc449",
    "timestamp": "2022-01-30T19:59:46.000Z"
   },
-  {
+  "maps/s2m3_bal.lit": {
    "bytes": 2543924,
-   "path": "maps/s2m3_bal.lit",
    "sha256": "4b775cb7764bc72d421c11d1c40fe20c815d0acc75f9305da7933276d10422f8",
    "timestamp": "2022-01-27T16:01:34.000Z"
   },
-  {
+  "maps/s2m4_wiedo.bsp": {
    "bytes": 2168619,
-   "path": "maps/s2m4_wiedo.bsp",
    "sha256": "05fa835a8d828535697a14af94d7dca90379dfd18c2b25e2d6a5d30935bc2579",
    "timestamp": "2022-01-30T19:59:48.000Z"
   },
-  {
+  "maps/s2m4_wiedo.lit": {
    "bytes": 466967,
-   "path": "maps/s2m4_wiedo.lit",
    "sha256": "84aac5345501fd0b80b32119d835eccbce0a512499f082341958a1f1452d4b5a",
    "timestamp": "2022-01-24T09:33:44.000Z"
   },
-  {
+  "maps/s2m5_zungryware.bsp": {
    "bytes": 1348266,
-   "path": "maps/s2m5_zungryware.bsp",
    "sha256": "c8aafb24dd77f8ac8142f05ef8d5d65a7fbd1390385d52370013982bcafe511f",
    "timestamp": "2022-01-30T19:59:52.000Z"
   },
-  {
+  "maps/s2m5_zungryware.lit": {
    "bytes": 1011800,
-   "path": "maps/s2m5_zungryware.lit",
    "sha256": "91ad53c52fc4f3c2a595e832c1ea90c5b2d490bc37144e58262a7395be150c8e",
    "timestamp": "2022-01-24T09:19:20.000Z"
   },
-  {
+  "maps/s2m6_alexunder.bsp": {
    "bytes": 2018171,
-   "path": "maps/s2m6_alexunder.bsp",
    "sha256": "91028c230a81024c6ccb36ea0af297cbd98950a1e279bbf491630433d12a2db2",
    "timestamp": "2022-01-30T19:59:54.000Z"
   },
-  {
+  "maps/s2m6_alexunder.lit": {
    "bytes": 556388,
-   "path": "maps/s2m6_alexunder.lit",
    "sha256": "469b149ded3568326ed8456f1751451d66625c288374087d6673d18d2814c7ec",
    "timestamp": "2022-01-24T09:33:38.000Z"
   },
-  {
+  "maps/s2m7_zigi.bsp": {
    "bytes": 3072700,
-   "path": "maps/s2m7_zigi.bsp",
    "sha256": "2bf51149c288a8bd241772b5934a4661e4ee6a2a3394219150e44bd46cafcead",
    "timestamp": "2022-01-30T19:59:58.000Z"
   },
-  {
+  "maps/s2m7_zigi.lit": {
    "bytes": 795674,
-   "path": "maps/s2m7_zigi.lit",
    "sha256": "7619165a0a8ad8bb5f979ee0351dfe5032925e43dd341e53e637a6f0a46e2a82",
    "timestamp": "2022-01-24T09:33:16.000Z"
   },
-  {
+  "maps/s3m1_grue.bsp": {
    "bytes": 2527534,
-   "path": "maps/s3m1_grue.bsp",
    "sha256": "2e420d1d85c1b0191b93cfd0b204b963cb81a1f724dc6ab0dcce67801c7ff6f7",
    "timestamp": "2022-01-30T20:00:00.000Z"
   },
-  {
+  "maps/s3m1_grue.lit": {
    "bytes": 649064,
-   "path": "maps/s3m1_grue.lit",
    "sha256": "284a2f89c6f6ac9bfcf9d4f042189d2017c5ebe87fae488fcc174469193716d2",
    "timestamp": "2022-01-24T09:46:30.000Z"
   },
-  {
+  "maps/s3m2_hcm.bsp": {
    "bytes": 3474319,
-   "path": "maps/s3m2_hcm.bsp",
    "sha256": "9265c93f8905cd4458e15fd18d3bed74bad8be5b507d35ef0adc3008a5763248",
    "timestamp": "2022-01-30T20:00:04.000Z"
   },
-  {
+  "maps/s3m2_hcm.lit": {
    "bytes": 1886882,
-   "path": "maps/s3m2_hcm.lit",
    "sha256": "c8bc2e48934d0491d58adbad2f49f04bf0d0df129bf6c338dadf2687a8b2a945",
    "timestamp": "2022-01-24T09:33:48.000Z"
   },
-  {
+  "maps/s3m3_ish.bsp": {
    "bytes": 4071083,
-   "path": "maps/s3m3_ish.bsp",
    "sha256": "ab9fea4998a3395d3ffe4932cc725a0a7d3dab4c0736d4cc74ad1e73e17dff1a",
    "timestamp": "2022-01-30T20:15:08.000Z"
   },
-  {
+  "maps/s3m3_ish.lit": {
    "bytes": 1312703,
-   "path": "maps/s3m3_ish.lit",
    "sha256": "b7bfefa3b70937ba0bfe5638629cc3c28c76869cc9af3242be68db4cd714928a",
    "timestamp": "2022-01-24T09:33:46.000Z"
   },
-  {
+  "maps/s3m4_riktoi.bsp": {
    "bytes": 1490317,
-   "path": "maps/s3m4_riktoi.bsp",
    "sha256": "53fac902a1b70151d8b32007dc9a26c4b59302534f6108e0392f2146fe893439",
    "timestamp": "2022-01-30T20:00:08.000Z"
   },
-  {
+  "maps/s3m4_riktoi.lit": {
    "bytes": 417536,
-   "path": "maps/s3m4_riktoi.lit",
    "sha256": "eecc36180588011e7c108222f29621b23b30b65792ea77f95f32e00a41ce8f38",
    "timestamp": "2022-01-24T10:09:56.000Z"
   },
-  {
+  "maps/s3m5_bmfbr.bsp": {
    "bytes": 1920100,
-   "path": "maps/s3m5_bmfbr.bsp",
    "sha256": "c367ad0a16e70e45fbc3d63f535086c3fa82895bdb53ca2abf9be722375e43e3",
    "timestamp": "2022-01-30T20:00:12.000Z"
   },
-  {
+  "maps/s3m5_bmfbr.lit": {
    "bytes": 1209752,
-   "path": "maps/s3m5_bmfbr.lit",
    "sha256": "ec44c597752e2415b74be171c2ab375dc0c918e6a2d07629e274866e7d4300c3",
    "timestamp": "2022-01-27T16:01:26.000Z"
   },
-  {
+  "maps/s3m6_newhouseyoder.bsp": {
    "bytes": 2820226,
-   "path": "maps/s3m6_newhouseyoder.bsp",
    "sha256": "dd88893b7f22fc972afe129aa25ff9380f97e44790313b4111e204ed2a7a06e0",
    "timestamp": "2022-01-30T20:00:14.000Z"
   },
-  {
+  "maps/s3m6_newhouseyoder.lit": {
    "bytes": 923195,
-   "path": "maps/s3m6_newhouseyoder.lit",
    "sha256": "b1081e46cc605ccaf7687ab3834100f1e994694818e6bf5f51b90651de24ab8f",
    "timestamp": "2022-01-24T09:33:36.000Z"
   },
-  {
+  "maps/snack2end1.bsp": {
    "bytes": 376456,
-   "path": "maps/snack2end1.bsp",
    "sha256": "90d71b2fa4e8c57398281378600e8d8fa4a9602f68508335da0111dc3cd3516b",
    "timestamp": "2022-01-30T15:53:56.000Z"
   },
-  {
+  "maps/snack2end1.lit": {
    "bytes": 79064,
-   "path": "maps/snack2end1.lit",
    "sha256": "88d9633d5c462fb37933a013dfdfda583142b3337bcbfd79f3e77198e5c53a1b",
    "timestamp": "2022-01-30T15:53:56.000Z"
   },
-  {
+  "maps/snack2end2.bsp": {
    "bytes": 376444,
-   "path": "maps/snack2end2.bsp",
    "sha256": "f96fdee4880a3539075d0bc1750971a03e07d2ae4d11bb68cc72a5cf63dab3b7",
    "timestamp": "2022-01-30T15:51:54.000Z"
   },
-  {
+  "maps/snack2end2.lit": {
    "bytes": 79064,
-   "path": "maps/snack2end2.lit",
    "sha256": "a6bdd18e18af9b4158449587175ab4655395a7a19ed97c6484b9a29cd159f43d",
    "timestamp": "2022-01-30T15:51:54.000Z"
   },
-  {
+  "maps/snack2end3.bsp": {
    "bytes": 376452,
-   "path": "maps/snack2end3.bsp",
    "sha256": "0ae0f05dc97792e4b99595ad7519e43419de494525b9683d7b9c6905f9542cbe",
    "timestamp": "2022-01-30T15:51:58.000Z"
   },
-  {
+  "maps/snack2end3.lit": {
    "bytes": 79064,
-   "path": "maps/snack2end3.lit",
    "sha256": "4e95bcf332cacd1e5f5c007eccf0922f8853ea698a7ce3477978229468af8de5",
    "timestamp": "2022-01-30T15:51:58.000Z"
   },
-  {
+  "maps/start.bsp": {
    "bytes": 959612,
-   "path": "maps/start.bsp",
    "sha256": "558ac90c5fa2dd56c1d17bf83d1e00da40fd0c610756403560a2532209cf3f11",
    "timestamp": "2022-01-30T20:02:10.000Z"
   },
-  {
+  "maps/start.lit": {
    "bytes": 142832,
-   "path": "maps/start.lit",
    "sha256": "cf46a2dca88c9c2c6dfbc60feeaf00ff04ed9a57f97217d77eb068f5919efab7",
    "timestamp": "2022-01-30T20:02:10.000Z"
   },
-  {
+  "pak0.pak": {
    "bytes": 4383638,
-   "path": "pak0.pak",
    "sha256": "1e56e9cd33fbdaa826bfd3c2ff8e77d34050df8f6dee8d08a62c6b181721a4e5",
    "timestamp": "2022-01-30T22:41:00.000Z"
   },
-  {
+  "progs.dat": {
    "bytes": 541382,
-   "path": "progs.dat",
    "sha256": "cee8afe19e308548024cab3f5ccee6b60b10d62d1ba3b522019f6a9932b16c3f",
    "timestamp": "2022-01-29T13:23:36.000Z"
   },
-  {
+  "progs/": {
    "bytes": 0,
-   "path": "progs/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "progs/end1.mdl": {
    "bytes": 73860,
-   "path": "progs/end1.mdl",
    "sha256": "eb2d9145038a9bb759a1c6708f22743804cdaa63ca7127d234cf274e5a4ec419",
    "timestamp": "2022-01-30T14:23:22.000Z"
   },
-  {
+  "progs/end2.mdl": {
    "bytes": 73540,
-   "path": "progs/end2.mdl",
    "sha256": "56ebc51be11e405b3549a244b6129d7c3b72e3406f77369cb2f624e18db6fad1",
    "timestamp": "2022-01-30T14:23:24.000Z"
   },
-  {
+  "progs/end3.mdl": {
    "bytes": 72612,
-   "path": "progs/end3.mdl",
    "sha256": "76ab081fb4fb1791a840121b3f4664c7aa5f49b3dcc5c5f7bbf59749ebda3eb5",
    "timestamp": "2022-01-30T14:23:22.000Z"
   },
-  {
+  "progs/ish/": {
    "bytes": 0,
-   "path": "progs/ish/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "progs/ish/misc_flame_med.mdl": {
    "bytes": 175400,
-   "path": "progs/ish/misc_flame_med.mdl",
    "sha256": "31c94bc48e6c6d6bc31bd14b8e257c4e74d45aaec3a4d5d5bf83587a08ac7c00",
    "timestamp": "2022-01-24T09:33:46.000Z"
   },
-  {
+  "quake.rc": {
    "bytes": 1101,
-   "path": "quake.rc",
    "sha256": "1c446020b2307115167556cebfce76e1488fcfd30f07a87cc29e3a3e5a7ab269",
    "timestamp": "2022-01-29T13:23:36.000Z"
   },
-  {
+  "skackpake2_README_PLS.txt": {
    "bytes": 1018,
-   "path": "skackpake2_README_PLS.txt",
    "sha256": "3efc93beb19c4b411fd4202e2d282ad60d6573d3fd13fe79b21ccd6876261bf5",
    "timestamp": "2022-01-30T23:18:02.000Z"
   },
-  {
+  "sound/": {
    "bytes": 0,
-   "path": "sound/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "sound/ambience/": {
    "bytes": 0,
-   "path": "sound/ambience/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "sound/ambience/deep.wav": {
    "bytes": 401112,
-   "path": "sound/ambience/deep.wav",
    "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce",
    "timestamp": "2022-01-27T16:01:34.000Z"
   },
-  {
+  "sound/ambience/guts.wav": {
    "bytes": 1631820,
-   "path": "sound/ambience/guts.wav",
    "sha256": "7ead76a809d2cfaf33f5431322df2d5131a078a7f5538b6291dae36e89b63c5c",
    "timestamp": "2022-01-27T16:01:34.000Z"
   },
-  {
+  "sound/ambience/lava1.wav": {
    "bytes": 837582,
-   "path": "sound/ambience/lava1.wav",
    "sha256": "dbaa7dfb1b05df1eef0961b629d8f886899b8499bf595ea001953b10606c66cd",
    "timestamp": "2022-01-27T16:01:34.000Z"
   },
-  {
+  "sound/bmfbr/": {
    "bytes": 0,
-   "path": "sound/bmfbr/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "sound/bmfbr/rumblelong.wav": {
    "bytes": 105990,
-   "path": "sound/bmfbr/rumblelong.wav",
    "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
    "timestamp": "2022-01-27T16:01:26.000Z"
   },
-  {
+  "sound/ish/": {
    "bytes": 0,
-   "path": "sound/ish/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "sound/ish/lakefireplace.wav": {
    "bytes": 2735056,
-   "path": "sound/ish/lakefireplace.wav",
    "sha256": "fa23f8efd31ce251efc011c0a7adde5120a08453d4392dfd450098b7d6321dbb",
    "timestamp": "2022-01-24T09:33:46.000Z"
   },
-  {
+  "sound/ish/waterfall.wav": {
    "bytes": 3502252,
-   "path": "sound/ish/waterfall.wav",
    "sha256": "3d2694c644b5ce9d77b0d5ab880a666a2f3b6d8b78ba65a339d7fd17712cc32a",
    "timestamp": "2022-01-24T09:33:46.000Z"
   },
-  {
+  "src/": {
    "bytes": 0,
-   "path": "src/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "src/s1m1_fwmarkie.map": {
    "bytes": 5074861,
-   "path": "src/s1m1_fwmarkie.map",
    "sha256": "881bf19ff1de350139a04220f4e6f5331874d38ef1cd1d321315fcfd1a38aef9",
    "timestamp": "2022-01-30T19:39:52.000Z"
   },
-  {
+  "src/s1m2_jaycie.map": {
    "bytes": 425965,
-   "path": "src/s1m2_jaycie.map",
    "sha256": "dd78c27fdd969c83c93f96327e3c6c693280084f55bea2a4fcaf2542746e0674",
    "timestamp": "2022-01-24T09:33:44.000Z"
   },
-  {
+  "src/s1m3_voidforce.map": {
    "bytes": 3554208,
-   "path": "src/s1m3_voidforce.map",
    "sha256": "692ebd8e4841023c7a65d257c6cb2d5d0b6b6789dd6885f68c83deafc99ba506",
    "timestamp": "2022-01-30T19:43:04.000Z"
   },
-  {
+  "src/s1m4_burnham.map": {
    "bytes": 304149,
-   "path": "src/s1m4_burnham.map",
    "sha256": "84da3e295c34393fedf1ca95eae8b3d03367e0beb19ee8f4d58f8626b55658ac",
    "timestamp": "2022-01-24T09:33:42.000Z"
   },
-  {
+  "src/s1m5_il8r.map": {
    "bytes": 567393,
-   "path": "src/s1m5_il8r.map",
    "sha256": "71c7bd5c44688d30acb09226358f99f5a515d69bd9a7a45f851e1e7010d2b816",
    "timestamp": "2022-01-24T09:33:40.000Z"
   },
-  {
+  "src/s1m6_scythe.map": {
    "bytes": 491978,
-   "path": "src/s1m6_scythe.map",
    "sha256": "dbe0c8644dfb5946d96e21ac6170f40175c9be4a09f86ad62e845b3856435524",
    "timestamp": "2022-01-24T09:33:34.000Z"
   },
-  {
+  "src/s2m1_coj.map": {
    "bytes": 244995,
-   "path": "src/s2m1_coj.map",
    "sha256": "57b3eeed1284c9888d1c678181f3253c46bec5f1e4faab9226bfd9a441cd56d4",
    "timestamp": "2022-01-24T09:33:50.000Z"
   },
-  {
+  "src/s2m2_radiatoryang.map": {
    "bytes": 922886,
-   "path": "src/s2m2_radiatoryang.map",
    "sha256": "9b7adcdf9787118f3631b740d21b863ba3948899991ca43451b014469466b942",
    "timestamp": "2022-01-24T10:16:14.000Z"
   },
-  {
+  "src/s2m4_wiedo.map": {
    "bytes": 658091,
-   "path": "src/s2m4_wiedo.map",
    "sha256": "40b246d7931f2c3e5ac03418bfce4d166b2b613be500e45a1b1685875e714e18",
    "timestamp": "2022-01-24T09:33:44.000Z"
   },
-  {
+  "src/s2m5_zungryware.map": {
    "bytes": 695914,
-   "path": "src/s2m5_zungryware.map",
    "sha256": "1d3f1ff067effcb3f505027b12e86b0b6edf1095d54774c847865dbbbf2da2ad",
    "timestamp": "2022-01-24T09:19:18.000Z"
   },
-  {
+  "src/s2m6_alexunder.map": {
    "bytes": 1052017,
-   "path": "src/s2m6_alexunder.map",
    "sha256": "2b765597dbd1d6459078eeab28406eb1a9ac6ef1d07716f13a42eef1c6765cee",
    "timestamp": "2022-01-24T09:33:38.000Z"
   },
-  {
+  "src/s3m1_grue.map": {
    "bytes": 887273,
-   "path": "src/s3m1_grue.map",
    "sha256": "dc14e0f97f3c6a301e0bdccbbd324df1031874dcfdc64d2195801cf7b3532dd4",
    "timestamp": "2022-01-24T09:45:56.000Z"
   },
-  {
+  "src/s3m2_hcm.map": {
    "bytes": 3659848,
-   "path": "src/s3m2_hcm.map",
    "sha256": "1f9244301f782bf3397d3d181058ed61d96fbc417f98267157d1186a893e25c5",
    "timestamp": "2022-01-24T09:33:48.000Z"
   },
-  {
+  "src/s3m3_ish.map": {
    "bytes": 1610175,
-   "path": "src/s3m3_ish.map",
    "sha256": "5ea7b7e88c2f97bab54805bbc8413f07c242288017bed23609979d8b2212f94e",
    "timestamp": "2022-01-24T09:33:46.000Z"
   },
-  {
+  "src/s3m4_riktoi.map": {
    "bytes": 650233,
-   "path": "src/s3m4_riktoi.map",
    "sha256": "9867b2e7ecd3f2e574b60645d21e85198b09573a6b44b7e6e30ab52aca7f243e",
    "timestamp": "2022-01-24T10:09:56.000Z"
   },
-  {
+  "src/s3m5_bmfbr.map": {
    "bytes": 1020535,
-   "path": "src/s3m5_bmfbr.map",
    "sha256": "40317e500e9b8ec00014cad8ba52e5100166ffa354e601079cf7d8fd33ddc81c",
    "timestamp": "2022-01-27T16:01:26.000Z"
   },
-  {
+  "src/s3m6_newhouseyoder.map": {
    "bytes": 1448167,
-   "path": "src/s3m6_newhouseyoder.map",
    "sha256": "3439b74d7bc0bdff8ecbe23b9e2acef21eb0bb6962ff55a2930b4d648e764ca2",
    "timestamp": "2022-01-24T09:33:36.000Z"
   },
-  {
+  "txt/": {
    "bytes": 0,
-   "path": "txt/",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2022-01-30T20:00:38.000Z"
   },
-  {
+  "txt/s1m2_jaycie.txt": {
    "bytes": 2076,
-   "path": "txt/s1m2_jaycie.txt",
    "sha256": "2d2f944b58f7ead522dcfe345480ad26d0fc6a8bb3d6cd500046ecc8e7388463",
    "timestamp": "2022-01-24T09:33:44.000Z"
   },
-  {
+  "txt/s1m4_burnham.txt": {
    "bytes": 2076,
-   "path": "txt/s1m4_burnham.txt",
    "sha256": "d746025028e520ed710da2c7c3b5dbe93f3cb662f188303cb3e973f8d02c817a",
    "timestamp": "2022-01-24T09:33:42.000Z"
   },
-  {
+  "txt/s1m6_scythe.txt": {
    "bytes": 1249,
-   "path": "txt/s1m6_scythe.txt",
    "sha256": "2bd91d64b1a8a945d544d9b2ed4aa92b6fb5333da4e65521bc355db1e8434485",
    "timestamp": "2022-01-24T09:33:34.000Z"
   },
-  {
+  "txt/s2m2_radiatoryang.txt": {
    "bytes": 2069,
-   "path": "txt/s2m2_radiatoryang.txt",
    "sha256": "27ee8cdd317bb674aa89b475f592c326bb5b519ab7eb095af64d31e9484d3c34",
    "timestamp": "2022-01-24T10:16:14.000Z"
   },
-  {
+  "txt/s2m3_bal.txt": {
    "bytes": 1484,
-   "path": "txt/s2m3_bal.txt",
    "sha256": "b4ac7e007f2b53f83acb78942878ccde3f641b9df95b8f0b6b7820b6299249d8",
    "timestamp": "2022-01-27T16:01:34.000Z"
   },
-  {
+  "txt/s2m4_wiedo.txt": {
    "bytes": 1814,
-   "path": "txt/s2m4_wiedo.txt",
    "sha256": "33dce23ae6f945efcf39f6069b9ce9b9b669ff2b1995ae322a917bc714b137f2",
    "timestamp": "2022-01-24T09:33:44.000Z"
   },
-  {
+  "txt/s2m7_zigi.txt": {
    "bytes": 121,
-   "path": "txt/s2m7_zigi.txt",
    "sha256": "50c86b23462adc493da029379a9bfef8018d363702a0583acc3a3b21cb3358ee",
    "timestamp": "2022-01-24T09:33:16.000Z"
   },
-  {
+  "txt/s3m1_grue.txt": {
    "bytes": 1529,
-   "path": "txt/s3m1_grue.txt",
    "sha256": "95514a154d5b485f8716d19ad147abe3c8ca77759d1b9dd3c63ce61696c803af",
    "timestamp": "2022-01-24T09:24:40.000Z"
   },
-  {
+  "txt/s3m2_hcm.txt": {
    "bytes": 2089,
-   "path": "txt/s3m2_hcm.txt",
    "sha256": "22ad3634597cb00026d91fca114635134e02a99205f7896760181d9014f8d361",
    "timestamp": "2022-01-24T09:33:48.000Z"
   },
-  {
+  "txt/s3m3_ish.txt": {
    "bytes": 5053,
-   "path": "txt/s3m3_ish.txt",
    "sha256": "b2383e6d3c5fad631c62bc5cf39fcf3e3249e410633a7b88738b63f729f11d6b",
    "timestamp": "2022-01-24T09:33:46.000Z"
   },
-  {
+  "txt/s3m4_riktoi.txt": {
    "bytes": 803,
-   "path": "txt/s3m4_riktoi.txt",
    "sha256": "c424876fc49512140d48967239917c7769fd711e205d0f454434b30cc3402562",
    "timestamp": "2022-01-24T10:09:56.000Z"
   },
-  {
+  "txt/s3m6_newhouseyoder.txt": {
    "bytes": 1831,
-   "path": "txt/s3m6_newhouseyoder.txt",
    "sha256": "d8d1c985bd2eb72b5e06dfea790a8b0cde1bb4e85618cfa53802534f6281df4a",
    "timestamp": "2022-01-24T09:33:36.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/snack2/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This mod requires an engine port with increased limits."
  ],

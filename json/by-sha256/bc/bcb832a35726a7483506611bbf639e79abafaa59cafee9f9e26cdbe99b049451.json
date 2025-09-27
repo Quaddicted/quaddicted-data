@@ -4,24 +4,22 @@
  ],
  "bytes": 789538,
  "description": "Medium sized brick/metal map with some large rooms and creative ideas.",
- "files": [
-  {
+ "files": {
+  "iam1.bsp": {
    "bytes": 1907248,
-   "path": "iam1.bsp",
    "sha256": "3b3c5c2821099299c14cef8b24a41b2efc052b42f2de3332a9c2a1dce2842ce5",
    "timestamp": "1997-05-20T08:56:00.000Z"
   },
-  {
+  "iam1.txt": {
    "bytes": 4045,
-   "path": "iam1.txt",
    "sha256": "4acd1a0c72190a43a5878d18409c76f77cb6462d4a22a816416468558fd82eb9",
    "timestamp": "1997-05-23T20:22:12.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-05-23",
  "sha256": "bcb832a35726a7483506611bbf639e79abafaa59cafee9f9e26cdbe99b049451",
  "tags": [

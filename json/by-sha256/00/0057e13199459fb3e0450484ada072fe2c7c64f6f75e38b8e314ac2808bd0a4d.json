@@ -4,30 +4,27 @@
  ],
  "bytes": 1558519,
  "description": "Medium-sized cathedral with some base elements. The map source is included.",
- "files": [
-  {
+ "files": {
+  "cotdq1.txt": {
    "bytes": 1438,
-   "path": "cotdq1.txt",
    "sha256": "d58a82cdfa1e4d3859a2b759e0ecc6a1475cdb7630c0cf3e6c5437b7fd3aab26",
    "timestamp": "2021-07-12T18:10:46.000Z"
   },
-  {
+  "cotdq1sp.bsp": {
    "bytes": 3692200,
-   "path": "cotdq1sp.bsp",
    "sha256": "b7d6a7e8e41b9a2d5743a09e8b12e151ceeb7e2389ecfa10704fb5a86bf73625",
    "timestamp": "2021-07-12T17:54:58.000Z"
   },
-  {
+  "cotdq1sp.map": {
    "bytes": 1300696,
-   "path": "cotdq1sp.map",
    "sha256": "bfd62353a446d32d11dc2fb42fe32d87855c8f94a033e1b3af09a7b32c2c7288",
    "timestamp": "2021-07-12T17:53:18.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2021-07-12",
  "sha256": "0057e13199459fb3e0450484ada072fe2c7c64f6f75e38b8e314ac2808bd0a4d",
  "tags": [

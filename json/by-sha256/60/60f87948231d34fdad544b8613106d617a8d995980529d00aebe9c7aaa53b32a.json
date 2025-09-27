@@ -4,24 +4,22 @@
  ],
  "bytes": 292727,
  "description": "Small space map with several floating platforms. Originally supposed to be the secret level of Ion Storm's Anachronox, but scrapped in later stages of the development and released a couple of years later.",
- "files": [
-  {
+ "files": {
+  "oblivion.bsp": {
    "bytes": 695276,
-   "path": "oblivion.bsp",
    "sha256": "6b18f6f528daaaacd64e1c16de7eddedcfb146db71bcbf4be7b1c706ee36deb9",
    "timestamp": "2004-02-29T05:53:30.000Z"
   },
-  {
+  "oblivion.txt": {
    "bytes": 2886,
-   "path": "oblivion.txt",
    "sha256": "0e71220f5722acd050c152d27c2e019e0f05a36500b55f2795bd9d6c162c1898",
    "timestamp": "2004-11-30T17:38:30.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2004-11-30",
  "sha256": "60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a",
  "tags": [

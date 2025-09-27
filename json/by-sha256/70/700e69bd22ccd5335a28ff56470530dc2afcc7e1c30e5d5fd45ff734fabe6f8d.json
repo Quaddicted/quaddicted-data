@@ -8,24 +8,22 @@
   "ad>=1.80"
  ],
  "description": "Large ikbase level - neh1m4 from <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a> converted for <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
- "files": [
-  {
+ "files": {
+  "neh1m4.bsp": {
    "bytes": 2456048,
-   "path": "neh1m4.bsp",
    "sha256": "18a2a362561ffcd4a9348d502ba8b112bbc49031e97f364d954627093b13aaee",
    "timestamp": "2017-09-01T00:47:54.000Z"
   },
-  {
+  "neh1m4.txt": {
    "bytes": 519,
-   "path": "neh1m4.txt",
    "sha256": "9f1f5c47be40bd52561b7678c9822da491e1c66cddb6490c10c4ddc9e2949dc0",
    "timestamp": "2021-03-28T23:44:50.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>."
  ],

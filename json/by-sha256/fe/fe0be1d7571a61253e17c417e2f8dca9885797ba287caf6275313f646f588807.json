@@ -4,24 +4,22 @@
  ],
  "bytes": 572317,
  "description": "Small, dark, Speedbase-themed map.",
- "files": [
-  {
+ "files": {
+  "matsp1.bsp": {
    "bytes": 1701704,
-   "path": "matsp1.bsp",
    "sha256": "f6386995cf0e9977b18c699ec0cfee0fb917602d29023860f64b9589e7289d62",
    "timestamp": "2002-10-20T19:16:54.000Z"
   },
-  {
+  "matsp1.txt": {
    "bytes": 1465,
-   "path": "matsp1.txt",
    "sha256": "32944514d052efe344ff13e226bbd135fdd6549d6f60949f680c1a99da9ed40c",
    "timestamp": "2002-10-20T19:14:58.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2002-10-20",
  "sha256": "fe0be1d7571a61253e17c417e2f8dca9885797ba287caf6275313f646f588807",
  "tags": [

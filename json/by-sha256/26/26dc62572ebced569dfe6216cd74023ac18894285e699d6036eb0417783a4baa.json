@@ -4,24 +4,22 @@
  ],
  "bytes": 985638,
  "description": "Around medium sized red brick/metal mountain base map.",
- "files": [
-  {
+ "files": {
+  "efdatsp1.bsp": {
    "bytes": 2231176,
-   "path": "efdatsp1.bsp",
    "sha256": "94cdd212989e2968fa4792a7e10991b239250d37c6e484160c5bef94113faea3",
    "timestamp": "2003-04-20T18:32:28.000Z"
   },
-  {
+  "efdatsp1.txt": {
    "bytes": 2485,
-   "path": "efdatsp1.txt",
    "sha256": "79f7c31408aaeda63dfe6ed09f6c944f8323fa0c211a347f7dcb0052cfc27921",
    "timestamp": "2003-04-20T13:32:06.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "2003-04-20",
  "sha256": "26dc62572ebced569dfe6216cd74023ac18894285e699d6036eb0417783a4baa",
  "tags": [

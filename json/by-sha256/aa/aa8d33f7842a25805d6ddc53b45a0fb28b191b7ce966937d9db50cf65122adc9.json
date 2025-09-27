@@ -7,36 +7,32 @@
   "ad>=1.70"
  ],
  "description": "Small abstact blue void map using custom textures. The texture wad is included.",
- "files": [
-  {
+ "files": {
+  "h2cloud.wad": {
    "bytes": 2111660,
-   "path": "h2cloud.wad",
    "sha256": "7a32c7f1071c8857f0f5b1cf79264334b7d5bfde1ded12aa7038d48e9bc6efd1",
    "timestamp": "2019-10-17T14:02:04.000Z"
   },
-  {
+  "whirlq01.bsp": {
    "bytes": 5772684,
-   "path": "whirlq01.bsp",
    "sha256": "5029551c5dd1f521e7f35ec827ba197c3513d97ff16e936e3b7bf3f030c95fdd",
    "timestamp": "2019-10-24T17:10:26.000Z"
   },
-  {
+  "whirlq01.txt": {
    "bytes": 2999,
-   "path": "whirlq01.txt",
    "sha256": "3dc6fde853f4da3a7b2dc7f5728ac7b9be25bae7595f0b45935445d92f0bef81",
    "timestamp": "2019-11-09T12:42:06.000Z"
   },
-  {
+  "whirlq01.wad": {
    "bytes": 56276,
-   "path": "whirlq01.wad",
    "sha256": "51f69dcd021bd33289969eaf5d20c1a0b66fe2e2a0b9adf6c91878e8910ad12f",
    "timestamp": "2019-10-19T15:56:42.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/ad/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.7</a>."
  ],

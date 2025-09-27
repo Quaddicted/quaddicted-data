@@ -4,24 +4,22 @@
  ],
  "bytes": 757459,
  "description": "Small, linear dungeon made of several distinct parts: a runic area, a blue marble area, a lava cave, and a brick area.",
- "files": [
-  {
+ "files": {
+  "PYRO2.BSP": {
    "bytes": 1685880,
-   "path": "PYRO2.BSP",
    "sha256": "ec5cd89b4cf4a0a0f7a1a4e661cf49d3e2491d92efc95e99930ff59266db9706",
    "timestamp": "1997-01-27T11:32:48.000Z"
   },
-  {
+  "PYRO2.TXT": {
    "bytes": 2543,
-   "path": "PYRO2.TXT",
    "sha256": "9698d760569d06b094eb7d3ed5766b2bb1916a787234a7d0d7e906e2aed1b9e1",
    "timestamp": "1997-01-27T19:21:02.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/id1/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "release_date": "1997-01-27",
  "sha256": "0fa55a0e3e44d77d77269a2b02dd69a328431060f7815836c3723b7af95859ad",
  "tags": [

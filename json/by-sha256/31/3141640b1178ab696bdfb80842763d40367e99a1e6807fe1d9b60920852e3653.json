@@ -7,24 +7,22 @@
   "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673"
  ],
  "description": "The SoE final proper map(s) merged back into one: A huge medieval fortress in an underground cavern system. Originally built as a whole like this, but had to be split for the SoE pack due to technical limitation at the time (the map became soe2m4: Whispers in Darkness and soe2m5: The Morbid Manse). This version was fixed up by aguirRe.",
- "files": [
-  {
+ "files": {
+  "coven.bsp": {
    "bytes": 5738616,
-   "path": "coven.bsp",
    "sha256": "eff702f19a78f82a3673bdfaa2b0f9c80bad75f7114a91472179b914f89092bf",
    "timestamp": "2006-10-12T23:35:30.000Z"
   },
-  {
+  "coven.txt": {
    "bytes": 1235,
-   "path": "coven.txt",
    "sha256": "2c0ded180905f300a66b61f16300bcc0fd6abdf13e99d4e574d264afb0bbe768",
    "timestamp": "2006-10-13T18:49:22.000Z"
   }
- ],
+ },
  "install": {
   "extract": "{base}/soe/maps/"
  },
- "json_version": "2025.03.20",
+ "json_version": "2025.09.27",
  "notes": [
   "This map requires <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a> and an engine port with increased limits."
  ],
