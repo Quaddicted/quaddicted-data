@@ -437,7 +437,11 @@
   }
  },
  "install": {
-  "extract": "{base}/"
+  "extract": "{base}/",
+  "extractmapping": {
+   "/": "/",
+   "/teuthis.txt": "/teuthis/teuthis.txt"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [

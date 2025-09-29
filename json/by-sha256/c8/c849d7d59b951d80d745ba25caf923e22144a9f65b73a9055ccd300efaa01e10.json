@@ -2195,12 +2195,14 @@
   }
  },
  "install": {
-  "extract": "{base}/"
+  "extract": "{base}/",
+  "extractmapping": {
+   "/qbj_1.05/": "/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [
-  "Requires a modern engine / source port with increased limits. Tested on IronWail, Quakespasm, and vkQuake. But there have been issues reported with Quakespasm Spiked.",
-  "Note: does not work in Quake Injector until https://github.com/hrehfeld/QuakeInjector/issues/146 is fixed."
+  "Requires a modern engine / source port with increased limits. Tested on IronWail, Quakespasm, and vkQuake. But there have been issues reported with Quakespasm Spiked."
  ],
  "release_date": "2022-09-28",
  "sha256": "c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10",

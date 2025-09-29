@@ -27,11 +27,15 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/": "/id1/maps/",
+   "/music/": "/id1/maps/music/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [
-  "This version has the music misplaced so that upon extraction it needs manual placement. Use <a href=\"e61b81f64a8f23289a241d734280841b8cc13f2bdfec4d4854cd8303808bb80a\">1916_v2</a> for a fixed release.",
+  "Use <a href=\"e61b81f64a8f23289a241d734280841b8cc13f2bdfec4d4854cd8303808bb80a\">1916_v2</a> for a fixed release.",
   "This map requires a source port with increased limits."
  ],
  "provides": {

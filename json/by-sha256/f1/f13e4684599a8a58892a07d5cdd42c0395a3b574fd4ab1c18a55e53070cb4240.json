@@ -32,7 +32,12 @@
   }
  },
  "install": {
-  "extract": "{base}/aard100/maps/"
+  "extract": "{base}/aard100/maps/",
+  "extractmapping": {
+   "/": "/aard100/maps/",
+   "/progs.dat": "/aard100/progs.dat",
+   "/progs_readme.txt": "/aard100/progs_readme.txt"
+  }
  },
  "json_version": "2025.09.27",
  "release_date": "2001-04-26",
