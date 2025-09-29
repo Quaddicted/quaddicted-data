@@ -27,12 +27,12 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/xl3/": "/id1/maps/"
+  }
  },
  "json_version": "2025.09.27",
- "notes": [
-  "Does not work with the Quake Injector."
- ],
  "release_date": "2018-05-25",
  "sha256": "affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98",
  "tags": [
@@ -43,6 +43,7 @@
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61574)",
   "map_size=large",
   "release_date=2018-05-25",
+  "startmap=xl3"
   "theme=base",
   "theme=dungeon",
   "theme=metal",
