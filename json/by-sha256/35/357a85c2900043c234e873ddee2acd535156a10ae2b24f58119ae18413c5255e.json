@@ -37,12 +37,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/plowing_through/": "/id1/maps/"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [
-  "This map requires a source port with increased limits + BSP2 support.",
-  "Cannot be run through the Quake Injector."
+  "This map requires a source port with increased limits + BSP2 support."
  ],
  "release_date": "2021-07-27",
  "sha256": "357a85c2900043c234e873ddee2acd535156a10ae2b24f58119ae18413c5255e",

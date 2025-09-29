@@ -55,7 +55,11 @@
   }
  ],
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extract": "{base}/id1/maps/",
+  "extractmapping": {
+   "/first_maps/": "/id1/maps/",
+   "/first_maps/maps_readme.txt": "/id1/maps/first_maps_readme.txt"
+  }
  },
  "json_version": "2025.03.20",
  "release_date": "2021-07-15",

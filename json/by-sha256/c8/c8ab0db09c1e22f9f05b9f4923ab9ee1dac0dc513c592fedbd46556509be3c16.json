@@ -523,7 +523,11 @@
   }
  ],
  "install": {
-  "extract": "{base}/"
+  "extract": "{base}/",
+  "extractmapping": {
+   "/": "/",
+   "/teuthis.txt": "/teuthis/teuthis.txt"
+  }
  },
  "json_version": "2025.03.20",
  "notes": [

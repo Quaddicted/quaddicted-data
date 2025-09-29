@@ -123,12 +123,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/"
+  "extract": "{base}/",
+  "extractmapping": {
+   "/24h_jam/": "/24h_jam/maps/",
+   "/24h_jam/24hjam.png": "/24h_jam/24hjam.png",
+   "/24h_jam/env/": "/24h_jam/gfx/env/"
+  }
  },
  "json_version": "2025.03.20",
- "notes": [
-  "Due to improper packaging these maps cannot be run from the Quake Injector."
- ],
  "release_date": "2017-01-11",
  "sha256": "8769d2a9785f2ec4e9232ce0b3bd595b1243cdb5a6bf47e697eb71698252ff6a",
  "tags": [

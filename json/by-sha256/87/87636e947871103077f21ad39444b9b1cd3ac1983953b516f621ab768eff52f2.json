@@ -67,12 +67,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/"
+  "extract": "{base}/",
+  "extractmapping": {
+   "/tntmap01/": "/",
+   "/tntmap01/Extra files/": null,
+   "/tntmap01/tntmap01.txt": "/id1/maps/tntmap01.txt"
+  }
  },
  "json_version": "2025.03.20",
- "notes": [
-  "This cannot be installed with the Quake Injector because extracting the ZIP archive contains an extra root directory."
- ],
  "release_date": "2023-07-26",
  "sha256": "87636e947871103077f21ad39444b9b1cd3ac1983953b516f621ab768eff52f2",
  "tags": [
@@ -82,6 +84,7 @@
   "game_mode=singleplayer",
   "map_size=small",
   "release_date=2023-07-26",
+  "startmap=tntmap01",
   "theme=conversion",
   "theme=doom",
   "title=System Control (tntmap01)  / Snartroom (snartroom)",

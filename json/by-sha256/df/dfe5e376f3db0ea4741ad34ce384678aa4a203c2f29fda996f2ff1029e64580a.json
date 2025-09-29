@@ -31,12 +31,14 @@
   }
  ],
  "install": {
-  "extract": "{base}/"
+  "extract": "{base}/",
+  "extractmapping": {
+   "/FortressOfSecrets/": "/id1/maps/",
+   "/FortressOfSecrets/Read me.txt": "/id1/maps/fortressofsecrets.txt",
+   "/FortressOfSecrets/music/": "/id1/music/"
+  }
  },
  "json_version": "2025.03.20",
- "notes": [
-  "This map must be manually installed and will not work in Quake Injector."
- ],
  "release_date": "2022-10-20",
  "sha256": "dfe5e376f3db0ea4741ad34ce384678aa4a203c2f29fda996f2ff1029e64580a",
  "tags": [
@@ -49,6 +51,7 @@
   "map_size=small",
   "nonspecific_tag=vanilla",
   "release_date=2022-10-20",
+  "startmap=fortressofsecrets",
   "theme=castle",
   "theme=medieval",
   "theme=wizard",
