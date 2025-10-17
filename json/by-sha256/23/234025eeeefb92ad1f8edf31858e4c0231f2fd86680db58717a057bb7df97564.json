@@ -1,0 +1,80 @@
+{
+ "authors": [
+  "Calluna Vulgaris"
+ ],
+ "bytes": 6953188,
+ "description": "Small to medium ikbase/runic style SP map for Arcane Dimensions.",
+ "files": {
+  "maps/ad_fiction.txt": {
+   "bytes": 3855,
+   "sha256": "36620f039a527a011c78410771f37c5825ee3a61293a90bb7e67b82f90b679d5",
+   "timestamp": "2025-07-03T18:06:53.389Z"
+  },
+  "sound/ad_fiction/liquid_bubble_l.wav": {
+   "bytes": 129758,
+   "sha256": "a656d4ad64c713a0c6e358676349ebb150090dbdae45cf1459e7922b55104540",
+   "timestamp": "2025-04-24T12:40:09.000Z"
+  },
+  "progs/ad_fiction/misc_poison0.mdl": {
+   "bytes": 11230,
+   "sha256": "0ed32796721be1d411296fa7791f45186f62f00486281095039b40138e67856d",
+   "timestamp": "2025-04-22T15:05:48.000Z"
+  },
+  "progs/ad_fiction/statue_dcomm1.mdl": {
+   "bytes": 98196,
+   "sha256": "c648c9b4b40114ed3eeb7db8f604b2b9143269323325faed89554db39d11cc21",
+   "timestamp": "2025-04-23T07:43:38.000Z"
+  },
+  "maps/ad_fiction.lit": {
+   "bytes": 2059256,
+   "sha256": "bcdcad9cf0727cf3e32f4e1a47cbbf88addbed440e2af8528e1b870624cc0717",
+   "timestamp": "2025-07-03T17:37:22.366Z"
+  },
+  "maps/ikbase_ext.wad": {
+   "bytes": 3522476,
+   "sha256": "fd02d88d6f6c9a2399420925c0ee06597261eaca32dd5da786fd8da59bc2362a",
+   "timestamp": "2025-04-22T12:59:44.000Z"
+  },
+  "maps/ad_fiction.map": {
+   "bytes": 7366068,
+   "sha256": "2b510fbaecc0d6f9f4a5c3eecba248a0550bda7948b9098b21dd697b7610fdea",
+   "timestamp": "2025-07-03T07:43:54.102Z"
+  },
+  "maps/ad_fiction.bsp": {
+   "bytes": 11141856,
+   "sha256": "dc91d1413d34f430d0cdb76863a7f1d1a3d4ba8f7725bf658d65fadaddf391d5",
+   "timestamp": "2025-07-03T17:37:23.076Z"
+  }
+ },
+ "install": {
+  "extractmapping": {
+   "/": "/ad/"
+  }
+ },
+ "json_version": "2025.03.20",
+ "notes": [
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
+  "May require a source port with increased limits / BSP2 support."
+ ],
+ "release_date": "2025-07-03",
+ "sha256": "234025eeeefb92ad1f8edf31858e4c0231f2fd86680db58717a057bb7df97564",
+ "tags": [
+  "author=Calluna Vulgaris",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "depends=('ad>=1.81')",
+  "exceeds_quake_limits=yes",
+  "filename=ad_fiction_1.1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer](https://www.slipseer.com/index.php?resources/science-is-fiction.453/)",
+  "release_date=2025-07-03",
+  "startmap=ad_fiction",
+  "title=Science is fiction",
+  "type=map"
+ ],
+ "title": "Science is fiction",
+ "urls": [
+  "https://www.quaketastic.com/files/single_player/ad_fiction_1.1.zip"
+ ]
+}

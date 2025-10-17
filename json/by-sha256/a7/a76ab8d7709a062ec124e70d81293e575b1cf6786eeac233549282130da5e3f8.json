@@ -1,0 +1,96 @@
+{
+ "authors": [
+  "Tonhao"
+ ],
+ "bytes": 9221639,
+ "description": "Medium-large vanilla map in a classic id1 metal theme, with a custom skybox included.",
+ "files": {
+  "docs/source files puzzle.txt": {
+   "bytes": 508,
+   "sha256": "7760afff6f7171320cc2e0dd786f399fdb4d6aace5df4abb5532ddd463cd49b6",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "bots/navigation/tonsa11a.nav": {
+   "bytes": 30846,
+   "sha256": "019f24301c6ad6fd9caee70408552d1c90e7d0e0629ef18b91558b2b64f5122a",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "docs/tonsaspcmp4_11a.txt": {
+   "bytes": 5447,
+   "sha256": "6034722ab23b8318c3489158db51d5ce830c365931d2b5cfde28254804a26bc8",
+   "timestamp": "2025-09-26T01:43:29.743Z"
+  },
+  "Sinners' Ascension banner.png": {
+   "bytes": 1351591,
+   "sha256": "8bb3df6983ed8b3502906d9aad57a719874515def4f579c432ae6110a43083ff",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "gfx/env/mak_purplesky3_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "7fbb47a289f1003721946cd2e00286e54d3b61fc463a1460ec13bb782fdc3148",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "gfx/env/mak_purplesky3_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "c68f00928e1b61294cf8583a45834294bbb72b17b9e5a273b1c46fe0c41e1439",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "gfx/env/mak_purplesky3_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "767542c90e5bb5e0b4af98e1a389e858d3e6f930168f13d72b109159ef56522e",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "gfx/env/mak_purplesky3_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "f162b63540c2e879bcf251999bacd8594aa24aa70b0763b5f79190f9feb3fa74",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "gfx/env/mak_purplesky3_up.tga": {
+   "bytes": 3145772,
+   "sha256": "9f38996f5cec753cc6a3d9e1ac3166f0df3dde17e3625764943bc619832d7b7b",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "gfx/env/mak_purplesky3_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "be40d6d4f225e447006a00f5be8f9694b14445d625f15a802f91bb54e5ca710b",
+   "timestamp": "2025-09-03T15:02:00.000Z"
+  },
+  "maps/tonsa11a.lit": {
+   "bytes": 4621628,
+   "sha256": "85c52a066aee204fd32292fb5465ccb1b851f6630dcaf63251deb4fa9cba49fc",
+   "timestamp": "2025-09-23T23:12:28.534Z"
+  },
+  "maps/tonsa11a.bsp": {
+   "bytes": 10306812,
+   "sha256": "b64d8194538201102cb603b40720122b072c930fa9be3d82d14f8e058133bf88",
+   "timestamp": "2025-09-23T23:12:28.530Z"
+  }
+ },
+ "install": {
+  "extractmapping": {
+   "/": "/id1/",
+   "/docs/": "/id1/maps/",
+   "/Sinners' Ascension banner.png": "/id1/maps/tonsa11a_Sinners' Ascension banner.png"
+  }
+ },
+ "json_version": "2025.03.20",
+ "release_date": "2025-08-23",
+ "sha256": "a76ab8d7709a062ec124e70d81293e575b1cf6786eeac233549282130da5e3f8",
+ "tags": [
+  "author=Tonhao",
+  "filename=tonsaspcmp4_11a.zip",
+  "game=quake",
+  "game_mode=cooperative",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link=[https://www.slipseer.com/index.php?resources/sinners-ascension.488/](Slipseer)",
+  "release_date=2025-08-23",
+  "startmap=tonsa11a",
+  "title=Sinners' Ascension",
+  "type=map"
+ ],
+ "title": "Sinners' Ascension",
+ "urls": [
+  "https://www.quaketastic.com/files/single_player/tonsaspcmp4_11a.zip"
+ ]
+}
