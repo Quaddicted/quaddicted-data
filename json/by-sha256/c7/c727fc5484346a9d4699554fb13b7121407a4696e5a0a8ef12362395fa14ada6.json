@@ -50,7 +50,10 @@
   }
  },
  "install": {
-  "extract": "{base}/quoth/maps/"
+  "extractmapping": {
+   "/": "/quoth/maps/",
+   "/music/track81.ogg": "/quoth/music/track81.ogg"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [

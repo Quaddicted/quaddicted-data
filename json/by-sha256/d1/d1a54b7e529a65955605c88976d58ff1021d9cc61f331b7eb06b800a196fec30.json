@@ -42,7 +42,11 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extractmapping": {
+   "/": "/id1/maps/",
+   "/Unfinished sketch.jpg": "/id1/maps/wlb_Unfinished sketch.jpg",
+   "/music/": "/id1/music/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [

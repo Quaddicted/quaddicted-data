@@ -55,11 +55,14 @@
   }
  },
  "install": {
-  "extract": "{base}/"
+  "extractmapping": {
+   "/dm7sp/Extra (Source map)/": "/copper/maps/",
+   "/dm7sp/copper/": "/copper/",
+   "/dm7sp/map description.txt": "/copper/maps/dm7sp.txt"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [
-  "This map is packaged in a way that requires manual sorting into subdirectories and thus it cannot be installed using the Quake Injector.",
   "This map requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper</a>",
   "See also: <a href=\"78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870\">dmc1m2</a>"
  ],

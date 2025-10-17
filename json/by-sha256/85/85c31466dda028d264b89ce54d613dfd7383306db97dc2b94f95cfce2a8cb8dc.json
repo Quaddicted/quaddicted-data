@@ -22,7 +22,9 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extractmapping": {
+   "/tofaz/": "/id1/maps/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [

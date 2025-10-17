@@ -27,7 +27,10 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extractmapping": {
+   "/": "/id1/maps/",
+   "/music/track16.ogg": "/id1/music/track16.ogg"
+  }
  },
  "json_version": "2025.09.27",
  "release_date": "2020-09-23",
