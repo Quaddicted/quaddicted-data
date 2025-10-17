@@ -57,12 +57,14 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extractmapping": {
+   "/primo_1.1.0/": "/id1/maps/",
+   "/primo_1.1.0/skybox/": "/id1/gfx/env/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [
-  "This map requires a source port with increased limits + BSP2 support.",
-  "Cannot be played through the Quake Injector."
+  "This map requires a source port with increased limits + BSP2 support."
  ],
  "release_date": "2020-11-15",
  "sha256": "27e3bd6f30cf5d21165f9fdf1f5810afb45ab781ace5dff8ab454229e22311fc",

@@ -77,12 +77,14 @@
   }
  },
  "install": {
-  "extract": "{base}/id1/maps/"
+  "extractmapping": {
+   "/mappack 2/claustrophobica/": "/id1/maps/",
+   "/mappack 2/flatmap/": "/id1/maps/",
+   "/mappack 2/manydoors/": "/id1/maps/",
+   "/mappack 2/readme.txt": "/id1/maps/mappack_2_readme.txt"
+  }
  },
  "json_version": "2025.09.27",
- "notes": [
-  "Cannot be run through the Quake Injector."
- ],
  "release_date": "2021-07-22",
  "sha256": "90f5fa26c4fbe953728d0c3ffca98213eb5bdae414e1f3df3d8dfe55e9b51867",
  "tags": [

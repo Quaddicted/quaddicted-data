@@ -412,17 +412,19 @@
   }
  },
  "install": {
-  "extract": "{base}/"
+  "extractmapping": {
+   "/savetheworld-package/copper/": "/savetheworld/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [
-  "This won't work in Quake Injector, it must be installed manually. This ZIP includes Copper v1.19 files in a mod folder called \"copper\". To avoid confusion, as well as overwriting an existing Copper install, you may want to rename this ZIP's \"copper\" mod folder to something like \"savetheworld\" before putting it in your Quake folder."
+  "To avoid confusion, as well as overwriting an existing Copper install, you may want to rename this ZIP's \"copper\" mod folder to something like \"savetheworld\" before putting it in your Quake folder."
  ],
  "release_date": "2023-04-21",
  "sha256": "acf882ba1e9fc68fb183f7ae3720947f48614128f46f1f9171f76f8400aa07c5",
  "tags": [
   "author=SleepyAdam",
-  "commandline=-game copper",
+  "commandline=-game savetheworld",
   "filename=savetheworld.zip",
   "game=quake",
   "game_mode=deathmatch",
@@ -434,7 +436,6 @@
   "nonspecific_tag=lab",
   "nonspecific_tag=sci-fi",
   "release_date=2023-04-21",
-  "startmap=savetheworld",
   "startmap=start",
   "theme=base",
   "theme=lava",

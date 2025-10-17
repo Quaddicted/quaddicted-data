@@ -390,12 +390,17 @@
   }
  },
  "install": {
-  "extract": "{base}/copper/"
+  "extractmapping": {
+   "/SM210_Overgrown/": "/copper/maps/",
+   "/SM210_Overgrown/Source/": "/copper/maps/",
+   "/SM210_Overgrown/gfx/": "/copper/gfx/",
+   "/SM210_Overgrown/maps/": "/copper/maps",
+   "/SM210_Overgrown/music/": "/copper/music/"
+  }
  },
  "json_version": "2025.09.27",
  "notes": [
-  "These maps require <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper</a> and some of them a source port with increased limits and/or BSP2 support.",
-  "Cannot be run through the Quake Injector."
+  "These maps require <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper</a> and some of them a source port with increased limits and/or BSP2 support."
  ],
  "release_date": "2020-09-02",
  "sha256": "83529556f837f0db683a87604db87b727dc25d1e246513e251d5d177d7793761",
