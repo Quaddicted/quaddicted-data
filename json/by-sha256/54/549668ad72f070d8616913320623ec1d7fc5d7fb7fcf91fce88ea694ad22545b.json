@@ -12,6 +12,40 @@
   },
   "Pak0.pak": {
    "bytes": 10527680,
+   "files": {
+    "maps/p_se_1.bsp": {
+     "bytes": 1998408,
+     "sha256": "a83761cfd4cc87db8ec48b40089d15aa4c2be0273441627b5722e4a13961b912"
+    },
+    "maps/p_se_2.bsp": {
+     "bytes": 1934084,
+     "sha256": "fe158d898af7fc026f81418c78415639d610f02334c1700b2fd2d214d986500e"
+    },
+    "maps/p_se_3.bsp": {
+     "bytes": 1956084,
+     "sha256": "85898d26c4ca239341189ff6d2196f0f5c1fc0f75ce8141af3a17ecbe5676793"
+    },
+    "maps/p_se_3b.bsp": {
+     "bytes": 1257556,
+     "sha256": "6f149e4fe2001ad4025a2a150f178ba94b0d2fe4f08521d5777fb4426d8aa770"
+    },
+    "maps/p_se_4.bsp": {
+     "bytes": 1478364,
+     "sha256": "1de18aebd5b9e9852f8283d9f8e8d48a5d5c751b790a8645837683a206d0b24d"
+    },
+    "maps/p_se_xxx.bsp": {
+     "bytes": 206968,
+     "sha256": "73d75e8d1f8a90825d6578fd447652606d96df92bde0dcdfc9369a1278a84971"
+    },
+    "maps/start.bsp": {
+     "bytes": 1644808,
+     "sha256": "b4227e515dd9fb95cc2237eb58c1ad025334180debea265ada01ab5fd2e961fe"
+    },
+    "sound/ambience/swamp2.wav": {
+     "bytes": 50884,
+     "sha256": "ad899b103352627329fb57a400a36be5b161cc75a326c85d7facd49ee0d6836f"
+    }
+   },
    "sha256": "722a51e16e4f7001917df1f5bc170ece8e3f0a41646a34e9f317e390cd0078c8",
    "timestamp": "1997-05-05T20:34:24.000Z"
   }

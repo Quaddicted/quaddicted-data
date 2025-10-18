@@ -579,11 +579,63 @@
   },
   "pak0.pak": {
    "bytes": 376996,
+   "files": {
+    "progs/end1.mdl": {
+     "bytes": 20820,
+     "sha256": "2155d92a5244e4ddb237e46e64e38f09bb47141fcacf4ac1a06df1553f830858"
+    },
+    "progs/end2.mdl": {
+     "bytes": 40980,
+     "sha256": "f46f9a8f6f036fb66210ade338f9e76729d286fe8f73e1ae23a065382567de9a"
+    },
+    "progs/end3.mdl": {
+     "bytes": 19924,
+     "sha256": "c35c0c65e52b5de27175137fafb68751e3132675db529a1e80707eceb5dd6aec"
+    },
+    "progs/end4.mdl": {
+     "bytes": 26932,
+     "sha256": "001a69b25785d05678348ff2edea63e125c8ee07cb379fd03fe66bd720d5962e"
+    },
+    "progs/quaddama.mdl": {
+     "bytes": 39992,
+     "sha256": "33aa3cb25d9dd2a40fa6082e7a8bcb3102c79fecdef2d945566b28ca6bbc3869"
+    },
+    "progs/tarbaby.mdl": {
+     "bytes": 98148,
+     "sha256": "4936d42d121421090e8353010e0eb9ed89a53871a8e440a960b7cff049f948dc"
+    },
+    "sound/ambience/wind2.wav": {
+     "bytes": 57040,
+     "sha256": "7641643c47254d8bc72331ff90dee511cddfcbf03aaaa43f0cc7f35a4329ecdb"
+    },
+    "sound/misc/menu1.wav": {
+     "bytes": 5570,
+     "sha256": "c404a7d2f09b9e269a9df6d19396efe57b281f8eb79457b69ea4ab88a7d0f55a"
+    },
+    "sound/misc/menu2.wav": {
+     "bytes": 33108,
+     "sha256": "1504f451e4b8e02b8080014f79b11a34bdbcaab0b8e11a0427c0c5a7572ed796"
+    },
+    "sound/misc/menu3.wav": {
+     "bytes": 16288,
+     "sha256": "1ef4281197016a2025b5471143ae5f5b8fd98c0fa8def4ebd6e89fa362753ae9"
+    },
+    "sound/weapons/r_exp3.wav": {
+     "bytes": 17478,
+     "sha256": "52d9ec58596312b7b88b0127226c168aabaaa6f377a1895b5ead7c26c6c03957"
+    }
+   },
    "sha256": "55718198120ef8e4f226ac017c36525bfe32d03598f7212a4fa55fba9e68a865",
    "timestamp": "2017-07-31T08:08:02.000Z"
   },
   "pak1.pak": {
    "bytes": 28792,
+   "files": {
+    "sound/misc/h2ohit1.wav": {
+     "bytes": 28716,
+     "sha256": "6c09801196face40592eff614d26a38dfbc86dccb37ea537c59f7eadc3eddd15"
+    }
+   },
    "sha256": "d2edc44497ada4184e15640035bbe965cb579c7eda880816b5300fd7342f2187",
    "timestamp": "2017-07-30T23:50:16.000Z"
   },

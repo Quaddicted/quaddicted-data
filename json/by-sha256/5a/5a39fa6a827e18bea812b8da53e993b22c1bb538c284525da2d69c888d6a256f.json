@@ -17,6 +17,20 @@
   },
   "PAK0.PAK": {
    "bytes": 2752896,
+   "files": {
+    "maps/corporal.bsp": {
+     "bytes": 1454380,
+     "sha256": "7394b8c5940906e76fca8797efc7b76a5272f12dbc86f57406bb68350ffac3c2"
+    },
+    "maps/gstart.bsp": {
+     "bytes": 833240,
+     "sha256": "f868254dce7e643f400d30ead446095761b4b9218d5e206a1fd72972352e0d8a"
+    },
+    "progs.dat": {
+     "bytes": 465072,
+     "sha256": "8d11566a4b870c9b95b943c039fce7c26b2f001861af25e3adce2e760f5d1951"
+    }
+   },
    "sha256": "f3289edbbe2d2d85d234c25a5aabb73842e0901db4b36abc0ff933015625c431",
    "timestamp": "1997-04-06T18:18:12.000Z"
   }

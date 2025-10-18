@@ -62,6 +62,40 @@
   },
   "dknights/pak0.pak": {
    "bytes": 30530522,
+   "files": {
+    "maps/100kknights.bsp": {
+     "bytes": 12610436,
+     "sha256": "9214f20e66d49303c0ecd6b5742121f7b13dc87a5b23f2826b75cd1aa2234dc2"
+    },
+    "maps/100kknights.map": {
+     "bytes": 14763882,
+     "sha256": "d54e839a5d6def16c0fa934b7eaaeef0587ef95a0cd1b7405c5452f1ad1d6cf1"
+    },
+    "maps/10kknights.bsp": {
+     "bytes": 1718136,
+     "sha256": "ca03daf7145cf66efca90b2ab49495bc69ef9240f64f12dd226fb9cbc0ecb914"
+    },
+    "maps/10kknights.lit": {
+     "bytes": 493544,
+     "sha256": "4565eea2bbdc0b0cc51c4bddca1b7c3b1839dee81c74d5ef95a94de1e305ca90"
+    },
+    "maps/1kknights.bsp": {
+     "bytes": 365260,
+     "sha256": "756f6ba1b30ea5adcb271e4c887bd362fe01192d9d879a5491d6f330bc373a58"
+    },
+    "maps/1kknights.lit": {
+     "bytes": 109916,
+     "sha256": "c58e6a163cdcc6fe9779925b7f3bb188916b7dc9d947cc5bf640d81a39c00e5f"
+    },
+    "maps/start.bsp": {
+     "bytes": 390876,
+     "sha256": "5115be6619a147394995de219e9e960c2be4cd26aadba3e07cb1f7ec37c8a5e1"
+    },
+    "maps/start.lit": {
+     "bytes": 77948,
+     "sha256": "ad727302c09a147c12cac6af37fd80da27c7362df575292688ba559bb50eea00"
+    }
+   },
    "sha256": "e41ec48517830c561a7a4156b0fa7d84a89e8504b08a34a7f6c55de50b9b81c6",
    "timestamp": "2022-04-01T17:11:18.000Z"
   },

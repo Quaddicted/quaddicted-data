@@ -10,6 +10,16 @@
  "files": {
   "PAK1.PAK": {
    "bytes": 959980,
+   "files": {
+    "progs.dat": {
+     "bytes": 484252,
+     "sha256": "95cb95fb506a700a15494d4ad84389d12562582a57762bc97a1473af33077826"
+    },
+    "progs/necro.mdl": {
+     "bytes": 475588,
+     "sha256": "c49fc9ac936de6780feaf6369a7b78314d062de65e29c67e4967e00e0897b9bf"
+    }
+   },
    "sha256": "a520abe1577bc06097eab83466f7fa79dbf66b8a8c174ed8356aaa239e63652a",
    "timestamp": "2001-01-08T15:11:22.000Z"
   },

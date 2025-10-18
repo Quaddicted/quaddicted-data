@@ -57,6 +57,44 @@
   },
   "pak0.pak": {
    "bytes": 14810811,
+   "files": {
+    "maps/chain3.bsp": {
+     "bytes": 1457548,
+     "sha256": "ba0bb65389df4adf27e3774440e2a0e763e024317784be6f5d05aaac2825bab1"
+    },
+    "maps/discoag2.bsp": {
+     "bytes": 1420316,
+     "sha256": "483e84de4d3feb53a0d34b7f4e8c1ccda2cafa22c9d113f918625fcec02d2485"
+    },
+    "maps/jesus.bsp": {
+     "bytes": 1565972,
+     "sha256": "144c5cd3bcfcf8063d54fb7a379ef9fedd9d00cd19a0f37b001fad87935cd892"
+    },
+    "maps/nesp10.bsp": {
+     "bytes": 3655284,
+     "sha256": "346ad412c87b9e6e14d76fdb0f255d228a2b03700182a8eab3b145751066123c"
+    },
+    "maps/pushcoag.bsp": {
+     "bytes": 3181120,
+     "sha256": "ea4707d9d16fcf39bc34f9d71e082545870d57a24c60010ab1aa2f4b741db092"
+    },
+    "maps/start.bsp": {
+     "bytes": 664136,
+     "sha256": "c0b5f4b2ef57aaea40bcf38b70aa4389573c6d36dd145618c06e4bd857d1bee2"
+    },
+    "maps/tyrcoag.bsp": {
+     "bytes": 2451440,
+     "sha256": "7b4250e681719780ce2129b782af03e76e56ccf1d5a0b73aae5ffa9ccf23b638"
+    },
+    "progs.dat": {
+     "bytes": 413988,
+     "sha256": "7aeca5154f79a0ab06ed590b4d19da12c4e412e52cb4713cfd8db6efcb260f74"
+    },
+    "quake.rc": {
+     "bytes": 419,
+     "sha256": "1d59909eee20eec3aa3aee3ad177d00a27df2e5ff30642606f2075a0d3d43aca"
+    }
+   },
    "sha256": "88ae94c48d538741c67f88bdad56f3a9a5a78b4ee2d9ca057d16e218bbcf89fd",
    "timestamp": "2003-08-09T23:17:38.000Z"
   }

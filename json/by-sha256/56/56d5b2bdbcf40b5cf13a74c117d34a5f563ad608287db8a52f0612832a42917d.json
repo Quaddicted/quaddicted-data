@@ -7,6 +7,18 @@
  "files": {
   "pdq1sp1-scraps.zip": {
    "bytes": 150901,
+   "files": {
+    "oldstart01.bsp": {
+     "bytes": 247524,
+     "sha256": "197f188f0e8bb954c2abeb3d242691ec35a4506f5a854e3f2aca29cde592c807",
+     "timestamp": "2003-08-01T04:03:50.000Z"
+    },
+    "roomblah.bsp": {
+     "bytes": 148056,
+     "sha256": "56b830daab5e94f45fcdc71bedecaaa87d8facaec8bb4c8e1323ecaa516ca494",
+     "timestamp": "2003-08-01T04:04:32.000Z"
+    }
+   },
    "sha256": "1672509a31aba48072c3844b25bd4116dbbcd741bf2740469898e52cc96db9ba",
    "timestamp": "2003-08-01T04:05:58.000Z"
   },

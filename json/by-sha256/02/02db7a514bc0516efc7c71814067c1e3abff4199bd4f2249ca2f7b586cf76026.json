@@ -48,6 +48,292 @@
   },
   "lth/pak0.pak": {
    "bytes": 42788182,
+   "files": {
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "c9af72fed7396787351158954f48043c795ef5d1ffe96e62bd16f1e9055e1176"
+    },
+    "gfx/env/nebular_bk.tga": {
+     "bytes": 786450,
+     "sha256": "7ebe91c3b421e478c3228a2cb9bb2da8c91866c6f8703cea851c387266e2828d"
+    },
+    "gfx/env/nebular_dn.tga": {
+     "bytes": 786450,
+     "sha256": "94f69c27a34c90686c1fd14b9b8c30df49012a081811235503e92bd850947627"
+    },
+    "gfx/env/nebular_ft.tga": {
+     "bytes": 786476,
+     "sha256": "ae2a0d607d3c0f110bafd7c139cba7c23ad88b3a03493b1b4bef4138e7455660"
+    },
+    "gfx/env/nebular_lf.tga": {
+     "bytes": 786450,
+     "sha256": "e9c59c4f9899b98067b74dd9ece2de9cac7387cc8943f301d4923475bf9bd086"
+    },
+    "gfx/env/nebular_rt.tga": {
+     "bytes": 786450,
+     "sha256": "43a09dcc4ba500ee2f271bc8d2f3b64d287e10b685bf1790c7e02dabc71c414c"
+    },
+    "gfx/env/nebular_up.tga": {
+     "bytes": 786450,
+     "sha256": "56bea787128a56439becea05dff1ccf5125ecc8274b982735707fb4db01aaf5e"
+    },
+    "maps/lthsp1.bsp": {
+     "bytes": 1104892,
+     "sha256": "081ce422f07d0276d297edf7209ec9a34efa449627500250eadab7d30fafe874"
+    },
+    "maps/lthsp2.bsp": {
+     "bytes": 1226052,
+     "sha256": "e91649d7c44a62a889ad4c697fe81233330ba764d9f22d33869d593ef0f9ecd0"
+    },
+    "maps/lthsp3.bsp": {
+     "bytes": 1353376,
+     "sha256": "0a9b8ea8d169e4543cab221c0dd744bebf82b2044192fcdd809b93813413d54d"
+    },
+    "maps/lthsp3.lit": {
+     "bytes": 811487,
+     "sha256": "fa71031a48e5f377219be8dd18722d3ff2b5f1adef4edeb6df0a8e11d96c4529"
+    },
+    "maps/lthsp4.bsp": {
+     "bytes": 1391788,
+     "sha256": "4557850ba63104eaf3abf715e00fc4113f44453e7f2042ed26c6ac1a12b37535"
+    },
+    "maps/lthsp4.lit": {
+     "bytes": 876119,
+     "sha256": "a10a1aae70b61be4ac2c2c1e56f693f15285f23160d95ae03a178af079143c38"
+    },
+    "maps/lthsp5.bsp": {
+     "bytes": 659676,
+     "sha256": "4f994b7e846fe74b0b69ab9efaead9c9d49218e7dfaa9b10db2e370d00b75956"
+    },
+    "maps/lthsp5.lit": {
+     "bytes": 412811,
+     "sha256": "3dc563065f4a71f198642426dbd784643b582ee1254892e36cde12b9006a84e4"
+    },
+    "maps/lthsp6.bsp": {
+     "bytes": 3307920,
+     "sha256": "f75736ba2ef6d528a2f03d373a6622e744a188f2a65833306274b53f923f9fbd"
+    },
+    "maps/lthsp6.lit": {
+     "bytes": 1279856,
+     "sha256": "e4a21aa0fa2b50381c09de73c52755eac90048d4eff0600378e40322fbd99903"
+    },
+    "maps/start.bsp": {
+     "bytes": 670980,
+     "sha256": "afc677dc90c138311b814696d1b3ea31cdf7e085f18f0c10fcbcf139a38b2507"
+    },
+    "maps/start.lit": {
+     "bytes": 227276,
+     "sha256": "ab9dace844bf2a11ef74ae8400d119b9b0b7eababc127489d1cc763daaca6c23"
+    },
+    "music/track01.ogg": {
+     "bytes": 2290360,
+     "sha256": "11a45a41a65a0dcb60a123e351c3116a1034554cfa10546f1b4d94fa54f28f51"
+    },
+    "music/track02.ogg": {
+     "bytes": 3089741,
+     "sha256": "91cb1a5669fb94692a629b116705a215c5717fb1b5dbffcc5a906c1217feeb32"
+    },
+    "music/track03.ogg": {
+     "bytes": 1149733,
+     "sha256": "eaf87788e9f5b39350da8c608159e1e308d16378b8eadd32abe8af26e54aab51"
+    },
+    "music/track05.ogg": {
+     "bytes": 4877264,
+     "sha256": "d012b82c3bb9b3a567038bca72e85ad22bdde857fc7246e4ca2a9258b8615747"
+    },
+    "music/track07.ogg": {
+     "bytes": 6374897,
+     "sha256": "7782b630a3bd2c887d483635bec3d5b7c2f0ba44f93308ec15872a92ae1a71a1"
+    },
+    "progs/armor.mdl": {
+     "bytes": 59756,
+     "sha256": "a8db38837a15464cd68bc31f07d9966463193463a2a00fd612c6517261393153"
+    },
+    "progs/arrow.mdl": {
+     "bytes": 21739,
+     "sha256": "711571c64f104b6670dc602dcde08ec66b472861f8def49c3d1257008c0d6dbc"
+    },
+    "progs/backpack.mdl": {
+     "bytes": 56300,
+     "sha256": "1cd0283e9001acd76551b04b67bf35ec1d6be34382edf25790384741eec31215"
+    },
+    "progs/bowman.mdl": {
+     "bytes": 437468,
+     "sha256": "a336e6817f07a636bcf678e04c8592f50def86bc90b3fecbeae20836e01449df"
+    },
+    "progs/demon.mdl": {
+     "bytes": 400888,
+     "sha256": "24920a90be6a94d91978174aa06813e7942772ad8e373fe268c7bc88f6adfea9"
+    },
+    "progs/dog.mdl": {
+     "bytes": 173720,
+     "sha256": "a9b6aa0d4b2a9b5d6b8de3f8be19fd8162834325f1b59277f709bdf74be9f05c"
+    },
+    "progs/enforce2.mdl": {
+     "bytes": 603309,
+     "sha256": "ddcf759804fffd97e62c55f67f962e24e8cd646fd982215ac8aefd3e49f67660"
+    },
+    "progs/enforcer.mdl": {
+     "bytes": 649023,
+     "sha256": "b0152745d3692706e99a05750c0cf9dd99dc9ac9faba41a57596030819c04b18"
+    },
+    "progs/g_light.mdl": {
+     "bytes": 41396,
+     "sha256": "5f82b1469ec36524688e122981a5b15232f01ab6d1fea3bdadafd68b1f8f7002"
+    },
+    "progs/g_nail.mdl": {
+     "bytes": 25604,
+     "sha256": "de7d3ebaedbeedcba46813ad97447bc257682049109173b48ace94c1d6e01222"
+    },
+    "progs/g_nail2.mdl": {
+     "bytes": 25092,
+     "sha256": "d393edc7877f7a8a6568d9f60b91376e9c121e174e1720857a82554e47e9f0c4"
+    },
+    "progs/g_rock.mdl": {
+     "bytes": 26932,
+     "sha256": "88d343925240c88502d9f4ac79e9e977429f31824fde12e12e8721cab054acea"
+    },
+    "progs/g_rock2.mdl": {
+     "bytes": 25316,
+     "sha256": "261a8479de0d5df9aea9931a62b1b93dbb7bfcff4f4467920cbebcc9c2c25381"
+    },
+    "progs/g_shot.mdl": {
+     "bytes": 20420,
+     "sha256": "708b04f6821f3630ff622b8bf9a749fb39165c367476b8538ce39dd0467ca43b"
+    },
+    "progs/gib1.mdl": {
+     "bytes": 7712,
+     "sha256": "83fb8b33849dc7c38b81e0de21f803a89008a356e84324a94f50b5129ed07829"
+    },
+    "progs/gib2.mdl": {
+     "bytes": 21216,
+     "sha256": "6479902d817ef744a2a471b7e6f4cd4f05866dc0c906d93d49c972e9426613dd"
+    },
+    "progs/gib3.mdl": {
+     "bytes": 18176,
+     "sha256": "c5d7fd1d406c74a8b5735e7f74ac51f4351a1b69ef4776b16da91700fc851c58"
+    },
+    "progs/grenade.mdl": {
+     "bytes": 51108,
+     "sha256": "571b54cec38f5d9e3435971e5cc1ac8c5c341bf2cdfc16ee3f80f38ce6c38f54"
+    },
+    "progs/h_demon.mdl": {
+     "bytes": 64664,
+     "sha256": "573d8dcd3c00dfb18073637bcd252d9e9aec2bc5c8fcf2f4520514f52af77075"
+    },
+    "progs/h_dog.mdl": {
+     "bytes": 31028,
+     "sha256": "f9661c7732bd9c19b164fc7220bb80c1ca6cfbd11c9728a341f65bacc72714d7"
+    },
+    "progs/h_player.mdl": {
+     "bytes": 14708,
+     "sha256": "9840c0f31e9f568545732f980928ade3fe3b79fe8ebab47f5238de7df1c1c789"
+    },
+    "progs/hknight.mdl": {
+     "bytes": 228400,
+     "sha256": "78d0273de6850f92d059fa90969f66ee57435330b3c4954c836a7204bc7a9d5a"
+    },
+    "progs/hknight2.mdl": {
+     "bytes": 909361,
+     "sha256": "9e3d1f85853864fe252099a2a5f780a1e7914f4be525301df5e2f0c0bac712ad"
+    },
+    "progs/invisibl.mdl": {
+     "bytes": 7092,
+     "sha256": "4d69cfc6343baa8bdc8660428e646abf9ad66b1460ea766cc2e231e7d3c9508e"
+    },
+    "progs/invulner.mdl": {
+     "bytes": 24052,
+     "sha256": "74f2afc22dc19b76bb2f880f53e589074e17cdc57bfbc71fba83745e50906cb3"
+    },
+    "progs/k2_spk.mdl": {
+     "bytes": 17584,
+     "sha256": "684936126a27f5d12d09135e5ac17e5dece9b74b1c0a80009b19440fca4e39eb"
+    },
+    "progs/knight.mdl": {
+     "bytes": 342844,
+     "sha256": "7c70855270badea8e147f3ecbbdbc934745e67db0468716ae07b098394732859"
+    },
+    "progs/missile.mdl": {
+     "bytes": 8372,
+     "sha256": "5c4b9d831357ad72e5f47c38e13b8e2ab04b80fb9d8ed6ddd3667a5eea9a585a"
+    },
+    "progs/ogre.mdl": {
+     "bytes": 675996,
+     "sha256": "d80340e6d3914b55024098a2bd20f17759b9c7d58d2f3a98bf21ffe8f5342591"
+    },
+    "progs/player.mdl": {
+     "bytes": 517652,
+     "sha256": "eaead3d31f963cfe79aebf26b11377be2427701fca9d490503e0e7233e331a0d"
+    },
+    "progs/quaddama.mdl": {
+     "bytes": 9364,
+     "sha256": "f3b7e52f31bbf51ceca2c594af5392b90a5b414171309a0cc11599a93dc5b7a2"
+    },
+    "progs/shalrath.mdl": {
+     "bytes": 87544,
+     "sha256": "a8f1fa3ce907a0439ee0500082083e0439c88e4e82d292d54106f242028fe551"
+    },
+    "progs/shambler.mdl": {
+     "bytes": 186184,
+     "sha256": "accfb31cb38984ab4f871070181968610c5accd245b425dd2243de75394a58a8"
+    },
+    "progs/shamrock.mdl": {
+     "bytes": 45732,
+     "sha256": "0a8f6b6d751a8bcaf25a44f48f0dd88bb6c06efc0cadb7ae12d844e496522cb9"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 576720,
+     "sha256": "f3bb35f9dfb3f040fb02053874535478483af0aa15084c7f00aecb907938262d"
+    },
+    "progs/v_axe.mdl": {
+     "bytes": 77332,
+     "sha256": "e2a8a92ebbe86069de925f733567738ac67624a913cb8c1fe15a6946536d58e7"
+    },
+    "progs/v_light.mdl": {
+     "bytes": 22212,
+     "sha256": "7d5708699359a37f9dec8742ecb91fe382764ec338a0d94917ca7f2101cd45fc"
+    },
+    "progs/v_nail.mdl": {
+     "bytes": 47140,
+     "sha256": "60fcfb73839519938b8176dda6ec4920d8700ef87df9e3a6cfdcfd7f96ed48a6"
+    },
+    "progs/v_nail2.mdl": {
+     "bytes": 48964,
+     "sha256": "98a239b4fcfcf78c68079de14984bb8c30b251418044f63c9097c5c16f64da09"
+    },
+    "progs/v_rock.mdl": {
+     "bytes": 37420,
+     "sha256": "99125057c1ca5cbbe1dbb5e9978baaa9f4f60a6eb976d9eb06d97497e7b7d7be"
+    },
+    "progs/v_rock2.mdl": {
+     "bytes": 95124,
+     "sha256": "986246477d8779ebcda7c58cbf90fdb88b39666cff4fcfb18a2cade0a6f303d8"
+    },
+    "progs/v_shot.mdl": {
+     "bytes": 21908,
+     "sha256": "ade58867dac49427ce1a66c498f5dd7327685db0daac1409b80e0a341df59283"
+    },
+    "progs/v_shot2.mdl": {
+     "bytes": 21804,
+     "sha256": "06a1f7cef5d1d3f8c377addc4026523b656b8f77986495f96048a1a6ea94549c"
+    },
+    "progs/w_g_key.mdl": {
+     "bytes": 10196,
+     "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e"
+    },
+    "progs/w_s_key.mdl": {
+     "bytes": 10132,
+     "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752"
+    },
+    "sound/bowman/a-fire.wav": {
+     "bytes": 16380,
+     "sha256": "6fcce60fdaefd5b1a061186ebd8b573445ed44719e46a39b157047e9489a5c13"
+    },
+    "sound/bowman/a-hit.wav": {
+     "bytes": 75580,
+     "sha256": "057e64dc03c73dcc6b95377217a9a64d0984074b0f61e6727fc878f5ee38b449"
+    }
+   },
    "sha256": "221d13b60ccfa341955fc1ea2e522b354bb7a7ed2be8848f74e47e687d46ab6c",
    "timestamp": "2023-12-26T18:52:12.000Z"
   },

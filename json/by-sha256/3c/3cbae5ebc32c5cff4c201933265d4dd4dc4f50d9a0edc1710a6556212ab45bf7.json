@@ -59,6 +59,360 @@
   },
   "modjam_adaya/pak0.pak": {
    "bytes": 3375374,
+   "files": {
+    "progs/armor.mdl": {
+     "bytes": 44076,
+     "sha256": "2c3ed470f75c2ed1fabca5a0ae3f152865e07e2aeabeb9f94b80bbc979d074fa"
+    },
+    "progs/bfgblst.spr": {
+     "bytes": 16500,
+     "sha256": "c8e0c255110c35e8b055a0a68fb4471b9dd0adf34ec5d9caeb3dce996ac5d722"
+    },
+    "progs/bfgexpl.spr": {
+     "bytes": 393372,
+     "sha256": "93db88bffe5ba26c4d8886ac11ca32bc7da12b7b5bfb31242069592be6d53dd3"
+    },
+    "progs/butcher.mdl": {
+     "bytes": 162036,
+     "sha256": "3de16efabfa80692984c0f8f742157d28991abf664d80d9250b3fdd4b0d5e9b2"
+    },
+    "progs/g_chain.mdl": {
+     "bytes": 50628,
+     "sha256": "caeb28e0a2a5cd18a83eb0681e76664b903a7aa850ce6662d4abef0678efbce8"
+    },
+    "progs/g_hot.mdl": {
+     "bytes": 57156,
+     "sha256": "908dba6ec48d48640d0b813a6cdb9c0e6d3517cff2ec892837f720b0741104e1"
+    },
+    "progs/g_shotcl.mdl": {
+     "bytes": 335236,
+     "sha256": "29b71ebd225844dfaeda7ee829e3d111b123977f2511821835578cd2e8536eeb"
+    },
+    "progs/h_but.mdl": {
+     "bytes": 14900,
+     "sha256": "b93958802085ea972acdf7e9c008774a807e99ab1dc4c0bdd70bddabbccece17"
+    },
+    "progs/h_nail.mdl": {
+     "bytes": 11828,
+     "sha256": "6b8222563698bb2a5759322fc1fd03713ce59fb4c62847abedfe5c626c985e4e"
+    },
+    "progs/h_shell.mdl": {
+     "bytes": 11828,
+     "sha256": "15c3f8c45a52d866981ba1ebd3c5ed2797e91d149acc5852dd7642a43d4d7a84"
+    },
+    "progs/hermes.mdl": {
+     "bytes": 62276,
+     "sha256": "55b702432f6c4cf4c21df1142ac45eae63cbd158dfd92442176f26e91f5ea770"
+    },
+    "progs/kronos.mdl": {
+     "bytes": 62276,
+     "sha256": "3a6be59da8623882cc6d50381f7237942cdf424e97d20953cde382697ef237aa"
+    },
+    "progs/kronos1.mdl": {
+     "bytes": 62276,
+     "sha256": "ad6b0e2e2b1299a97c59f00bbfa0e9c93ceeac4034d2a95391d61e90aed4573b"
+    },
+    "progs/lspike.mdl": {
+     "bytes": 1684,
+     "sha256": "75a3f036a04bf5843488758f90fc2416d8a96ed5493460444c4fe2e6ce9956e4"
+    },
+    "progs/nailinf.mdl": {
+     "bytes": 160688,
+     "sha256": "c67399daabb0905113dd77cc79a79592111c63c0097ba33b84eeb6d9144ace7c"
+    },
+    "progs/s_light4.spr": {
+     "bytes": 2124,
+     "sha256": "b265c5d1311d0cfb552a4f60234a5d14817ad0ed4211f24b544200e712e1c1f7"
+    },
+    "progs/shelltrp.mdl": {
+     "bytes": 399572,
+     "sha256": "332fb8a227e10c124d1b091a28352c1f875c6f1936c56d041066ea85819c5310"
+    },
+    "progs/v_chain.mdl": {
+     "bytes": 86004,
+     "sha256": "b0bef898fbced4aaa976a953836ec38018bb014582753534ec353709de5ac0e1"
+    },
+    "progs/v_hot.mdl": {
+     "bytes": 60228,
+     "sha256": "7d51ecfbd37d7bbc6f9702f8a9a4766261a9a9d537880ac6c0450ad0c4ce054f"
+    },
+    "progs/v_shotcl.mdl": {
+     "bytes": 76404,
+     "sha256": "fc1388687f000a9d09da9879dadd51e43ad929359da0eb2f77e0a305969f09bf"
+    },
+    "sound/butcher/flak.wav": {
+     "bytes": 17720,
+     "sha256": "36b1e2fae9c717e92364d5c67d4e00d25ed9f6dacf798d656bfaf7fd72e233b2"
+    },
+    "sound/butcher/ogdrag.wav": {
+     "bytes": 12396,
+     "sha256": "e7cf55df89c831567f8bf7b02e57b987e3b57eb34bfe48225167f2af6b640c11"
+    },
+    "sound/butcher/ogdth.wav": {
+     "bytes": 12052,
+     "sha256": "0587d14849b0fec40eeea6dc4d61db548a8d760e17cbee07f572e5de081c5a5b"
+    },
+    "sound/butcher/ogidle.wav": {
+     "bytes": 61810,
+     "sha256": "40ecc9597a7c2fa5d65f203dd022379bf3b85bfe4a19612181f5dd29f831d1f8"
+    },
+    "sound/butcher/ogidle2.wav": {
+     "bytes": 12292,
+     "sha256": "14d217d02c7a3898d835cda4ee00c80afe722943d0d538a0b7b95e7b3cb8230d"
+    },
+    "sound/butcher/ogpain1.wav": {
+     "bytes": 7730,
+     "sha256": "c8f157894e5651a2f599994d489520c539549dc5cb51d803e0ad60364b0c205a"
+    },
+    "sound/butcher/ogpain2.wav": {
+     "bytes": 9108,
+     "sha256": "77a09d54447b3ce0b3a304545f613da813b29365de2d0c168c07ccdc1d6b04e7"
+    },
+    "sound/butcher/ogpain3.wav": {
+     "bytes": 10930,
+     "sha256": "041d603a4c53633324dc28f937d80e51c70fb3f80fbd18f41a8b160ef7596f2a"
+    },
+    "sound/butcher/ogsawatk.wav": {
+     "bytes": 16154,
+     "sha256": "f24f86055999053273798d54f646064f3053414dfb14167d611aa1cb6dbbb51b"
+    },
+    "sound/butcher/ogwake.wav": {
+     "bytes": 8420,
+     "sha256": "fd327b2b1f56656b3573262486b2756494d6812dbf5bf6b1e5bd939da3ed4297"
+    },
+    "sound/items/armor1.wav": {
+     "bytes": 6494,
+     "sha256": "259c57ed9a96e2794933fb1e5ddabddbdc87069968590d6e3ac69895c18282d3"
+    },
+    "sound/items/armor2.wav": {
+     "bytes": 7704,
+     "sha256": "081c3f62f9a94969f75947b51c785d40a6d24b16d39f529804b5c85404f7cae6"
+    },
+    "sound/items/armor3.wav": {
+     "bytes": 9252,
+     "sha256": "c51e305d5a2b42f6b9b9dfd82fc1870e086a0b2ab8c04dbe3c00a1e04784f98f"
+    },
+    "sound/items/clock1.wav": {
+     "bytes": 38168,
+     "sha256": "ee475af2135a5c9d8b2afab199c2131d95070b9e3a56e3571adf3f00b95c50b9"
+    },
+    "sound/items/clock2.wav": {
+     "bytes": 70976,
+     "sha256": "8b40b62f88303d16cfc6fef6b7ad1be584c50764c2883075eab77bd220fb155b"
+    },
+    "sound/items/clock3.wav": {
+     "bytes": 130248,
+     "sha256": "a04c45553280fbb992308fb0aade8ac8e74ec4e4c2ab8400a69de8bad642fc25"
+    },
+    "sound/items/haste1.wav": {
+     "bytes": 13420,
+     "sha256": "267bcedfe84a50bc1f5257d5cc7cd401465bd012682b328546e5af61f8fc29cb"
+    },
+    "sound/items/haste2.wav": {
+     "bytes": 31622,
+     "sha256": "c8e298dab6c215bffc237cd6681dae38c803250e1c199db9b61f523500ce3e13"
+    },
+    "sound/misc/demwhis.wav": {
+     "bytes": 41860,
+     "sha256": "ebe61eef38623168a0601d06abbc7d59f99f222df6f4b7552640c7bd872f65ae"
+    },
+    "sound/nailinf/death.wav": {
+     "bytes": 18898,
+     "sha256": "b9bbb261c4f58c7857f368e7482a6706b1a4105b3ad4e41a700d1025d29d38c6"
+    },
+    "sound/nailinf/idle1.wav": {
+     "bytes": 14894,
+     "sha256": "3ec1439123c6f122838ea8d7a26db9ddf45f60e8b2eb851382c8f3aa191c5b17"
+    },
+    "sound/nailinf/nailshrd.wav": {
+     "bytes": 41464,
+     "sha256": "dd2e7b5cd674d61c4e26d20cf4162586bda9aec30ec9a33526d7ca089f8c468e"
+    },
+    "sound/nailinf/pain1.wav": {
+     "bytes": 5118,
+     "sha256": "81038879b6d933fe59d29059b5d0655b6e9bbd96c11f902c5d6fd5e3acb0a333"
+    },
+    "sound/nailinf/pain2.wav": {
+     "bytes": 5680,
+     "sha256": "a8eba9496de56151703e9a8b93dc9f0ab7e161ae351acd0082feda567959ebb1"
+    },
+    "sound/nailinf/prepfire.wav": {
+     "bytes": 8818,
+     "sha256": "e76bdc8040c3c467bc9f765f0d91508c4aba7aecfa92a1c954400e01d37688c5"
+    },
+    "sound/nailinf/sight1.wav": {
+     "bytes": 18618,
+     "sha256": "6f6f9f5c2d92b87abae4c2fc78c92b3e96f20a5d9e53eacf9eebb283bd4558da"
+    },
+    "sound/nailinf/sight2.wav": {
+     "bytes": 15670,
+     "sha256": "42dbf9e02a96ba2e6cd2bee0adf9dae22292c572d9c00bc499a699e6ea4da9cf"
+    },
+    "sound/nailinf/sight3.wav": {
+     "bytes": 14522,
+     "sha256": "38851d768386b7096548b082235da9921966905678ca84027567e59b6e603bc1"
+    },
+    "sound/nailinf/sight4.wav": {
+     "bytes": 19798,
+     "sha256": "0583212c3dd33bede0fd9e2963a04c8320add72c523305dafc6f3dd3b28cda59"
+    },
+    "sound/shelltrp/death1.wav": {
+     "bytes": 14392,
+     "sha256": "a75e4b75af69296ee5a273bf1ff62a60321b97e48d10ee333ca08b46be22ea0e"
+    },
+    "sound/shelltrp/idle1.wav": {
+     "bytes": 58092,
+     "sha256": "aae8911895b15e66c40f7a2d3b687ad19af0e278bdfe874798d2c8d9061b2470"
+    },
+    "sound/shelltrp/pain1.wav": {
+     "bytes": 11560,
+     "sha256": "e46f4d79a901c0398dfef501b6b5682129c0721f8bbb87822123c90a8a3fc050"
+    },
+    "sound/shelltrp/pain2.wav": {
+     "bytes": 16882,
+     "sha256": "e970b2107f4557869d9930077f3e8177db050a39a84421a00ac8921b09d5864f"
+    },
+    "sound/shelltrp/pump.wav": {
+     "bytes": 6390,
+     "sha256": "eec07407720f84a37e600f22eb0265549d350add8af972dc507ed0306c20a121"
+    },
+    "sound/shelltrp/shotgn.wav": {
+     "bytes": 22148,
+     "sha256": "2e676451c8c64d14bf8f9dde8213d3cc9ba48b3a4dfbf3b392b5ae6fd86d2c1f"
+    },
+    "sound/shelltrp/sight1.wav": {
+     "bytes": 25442,
+     "sha256": "6f44f881ba084bf2fcb613f46bf106de75d96119ee8c23f5f000d1692aad4468"
+    },
+    "sound/shelltrp/sight2.wav": {
+     "bytes": 16560,
+     "sha256": "f1cc4fb4aebde3174bfc659dc21d82eddcfbcb244ff6cc217831f368641ccdd3"
+    },
+    "sound/shelltrp/sight3.wav": {
+     "bytes": 22928,
+     "sha256": "5780dcc29d54533106acd161710445b07481d962129a219dd433cd516b571f71"
+    },
+    "sound/shelltrp/sight4.wav": {
+     "bytes": 49950,
+     "sha256": "cec85ed6a38bdc1670e9b9a98ddb4bf41327762baf9e7dc55a45782070fef482"
+    },
+    "sound/weapons/acell1.wav": {
+     "bytes": 8800,
+     "sha256": "fe0c36bc9e541ad620bd1725318311f3eab13442d3b9726d9b3108e6b39d17e9"
+    },
+    "sound/weapons/acell2.wav": {
+     "bytes": 10920,
+     "sha256": "56fbe4f9e61516931aa3048993c28c5398d2035e6372c69da8925ea60cdedd7c"
+    },
+    "sound/weapons/anail1.wav": {
+     "bytes": 4950,
+     "sha256": "ee61c5455fc13216173e44a58ce13a522ba74d354bbb5707177131daec2376c1"
+    },
+    "sound/weapons/anail2.wav": {
+     "bytes": 7300,
+     "sha256": "fdb33dade14269d4d5e7de03e30c087b057e00f9635a1411a12fca70b7bc91db"
+    },
+    "sound/weapons/arocket1.wav": {
+     "bytes": 9502,
+     "sha256": "2a0c639fb760088b883f083d951d82780bc918008192a032cdcd54fc06ff0a77"
+    },
+    "sound/weapons/arocket2.wav": {
+     "bytes": 11610,
+     "sha256": "c11a4db332a96d844461072082c42d331e7eb69b8681ae49724a3c11a209f98e"
+    },
+    "sound/weapons/ashell1.wav": {
+     "bytes": 4970,
+     "sha256": "110caa401cbad16cf3fc78b0d60c27c11640d355a425cf4a18dbcb58954c13e3"
+    },
+    "sound/weapons/ashell2.wav": {
+     "bytes": 8308,
+     "sha256": "e7f7c5545944f2c8ca518ffbf6af542be4bbb22ff0aa2d039c5f64bef6e83f57"
+    },
+    "sound/weapons/chain1.wav": {
+     "bytes": 9552,
+     "sha256": "655018e0b1ebd61283db23ff324574948295e3a9ca43337e49c8d49938666210"
+    },
+    "sound/weapons/chain2.wav": {
+     "bytes": 19022,
+     "sha256": "bbc5dcc50a31fb7c44d8c8f3cfa1c919e0c15875140f9ab3a9768ecfab0ebb8a"
+    },
+    "sound/weapons/chain2z.wav": {
+     "bytes": 19090,
+     "sha256": "b4be4c88effc6d0605b34cbcb772d79b7dbccf8c902f5bc76a17bf3131b32e95"
+    },
+    "sound/weapons/chain3.wav": {
+     "bytes": 2676,
+     "sha256": "61183aad8e0f3c4716f4243a74728fee29fde7db9ca08b522ddc98834c10998a"
+    },
+    "sound/weapons/hot1.wav": {
+     "bytes": 3252,
+     "sha256": "2b21217fbc4d5f4f862f69f31a58473dd29f23110d321a1a3afcaf7e504d672a"
+    },
+    "sound/weapons/hot2.wav": {
+     "bytes": 29170,
+     "sha256": "25cd7092c9b4987f923f534957a312852b920f185af63c73e84b765e7889d3bc"
+    },
+    "sound/weapons/hot3.wav": {
+     "bytes": 50978,
+     "sha256": "c6b312455b7678b0ebf0f55753cc39b9e07178ec5d5fea2605310eca6e52a915"
+    },
+    "sound/weapons/hot4.wav": {
+     "bytes": 10698,
+     "sha256": "254ba8798743618faf4d4738ff779cbd686dcda7c0da1a3d639290aa88dd02a0"
+    },
+    "sound/weapons/mjoltink.wav": {
+     "bytes": 3050,
+     "sha256": "aaead2e80ab122ac8835b41966317bcf995faf7a136e6bee1202fa3bf253ece4"
+    },
+    "sound/weapons/pkup2.wav": {
+     "bytes": 10118,
+     "sha256": "3be3ba31de2818cb915a4a4cf4721b1271a0983f1e9ad3df1142793809dd5570"
+    },
+    "sound/weapons/pkup3.wav": {
+     "bytes": 9276,
+     "sha256": "13098a619b250590b51cc0a609e18a396a3fa79576abb3c72742534c9083cfb5"
+    },
+    "sound/weapons/pkup4.wav": {
+     "bytes": 8090,
+     "sha256": "5f2e794af6199386e7bbfdd5961a3cb67ecac41b87e5d2336f15f95f09f1b865"
+    },
+    "sound/weapons/pkup5.wav": {
+     "bytes": 23018,
+     "sha256": "c3131e35745097fd1ab966e3334544f3af49e2a96c2ca0dd428e960de5562b28"
+    },
+    "sound/weapons/pkup6.wav": {
+     "bytes": 11140,
+     "sha256": "a23f96837b00b8ba574d6edfe7421f47e2115b6a6b5dedc9761eea0cece0f823"
+    },
+    "sound/weapons/pkup7.wav": {
+     "bytes": 9594,
+     "sha256": "a1b429e7759d70fb68fb90561ebb7a3addb0291628e225c8650bf9a52ff2882c"
+    },
+    "sound/weapons/pkup8.wav": {
+     "bytes": 15798,
+     "sha256": "2b8e586ae22b5138b7e2d46d76ed4c47dedd3bda14e0e1a64dd8a6a734fe0745"
+    },
+    "sound/weapons/pkup81.wav": {
+     "bytes": 10040,
+     "sha256": "708f7935c4b5d291703697400be66776417a19cd4a6db7871db85875d904e605"
+    },
+    "sound/weapons/pkup9.wav": {
+     "bytes": 33732,
+     "sha256": "cc2a7dcc1d16b17a598e2472b69f941c603dec77131853d8884d20a1ccea8046"
+    },
+    "sound/weapons/shotcyc1.wav": {
+     "bytes": 18242,
+     "sha256": "c069f126338f166129ce9eb8065999dc4348028f92ac5af72075843885b8ff48"
+    },
+    "sound/weapons/shotcyc2.wav": {
+     "bytes": 3372,
+     "sha256": "8446a93c88c9574d63f3d4c3c395894da50343b55b7a1a97354f93e75eb7a122"
+    },
+    "sound/weapons/shotcyc3.wav": {
+     "bytes": 6190,
+     "sha256": "8fcfb6080be436f6ffb5b1310ba100d39a184e20aac1588050a6d62001334f68"
+    }
+   },
    "sha256": "8c94fe82bdbc9b4bc9b795541436f9f4af178407afbafd84c1baae66f81b5585",
    "timestamp": "2019-02-09T00:51:34.000Z"
   },
