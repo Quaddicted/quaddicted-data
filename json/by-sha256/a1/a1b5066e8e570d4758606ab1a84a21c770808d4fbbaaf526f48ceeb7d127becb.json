@@ -60,6 +60,52 @@
   },
   "tsd/pak0.pak": {
    "bytes": 13309526,
+   "files": {
+    "Quake.rc": {
+     "bytes": 579,
+     "sha256": "a9a4e28df3bf8340d3c6470c965891bb40d3098146dfb3dde349ea25a9a6c89b"
+    },
+    "autoexec.cfg": {
+     "bytes": 44,
+     "sha256": "711bdcedda45d54e91bc9cfaed55647470850bfb080484536900a3d6e2950923"
+    },
+    "config.cfg": {
+     "bytes": 1799,
+     "sha256": "1dd2e5993f8a6156a6549729cc2ee61d00ecb12638ef6deeaea0acbcd37aa9ea"
+    },
+    "default.cfg": {
+     "bytes": 1954,
+     "sha256": "ae1e3d4b7ff76ed5bbae92b53f5f8ad207b08a4e6e79139018a6e415c3b96c7f"
+    },
+    "maps/vxmas1.bsp": {
+     "bytes": 3085752,
+     "sha256": "3e8f3d602a6e5f6e24ea5aafd403410e6065a158af1f429f5ab748dd0c0de643"
+    },
+    "maps/vxmas2.bsp": {
+     "bytes": 3036524,
+     "sha256": "3b096484c2a58bad0ccaa127b84db34796ff0d4f739f26cdc8316887417fb456"
+    },
+    "maps/vxmas3.bsp": {
+     "bytes": 2356332,
+     "sha256": "02b0547dc69aa22d3bb121c0b1f7da72d264661e1cccef01cd4ffd82fba9c32e"
+    },
+    "sound/Music/TSDCrd.wav": {
+     "bytes": 1132600,
+     "sha256": "fc0699cf2c43c0e3327b768543f9e726fa17acda8f67baad908415f7bd778de3"
+    },
+    "sound/Music/TSDm1.wav": {
+     "bytes": 965178,
+     "sha256": "6e6d602c3dfa4187de100dcfaeaa875440702ee442e8caea3d14d6592f362d21"
+    },
+    "sound/Music/TSDm2.wav": {
+     "bytes": 1353270,
+     "sha256": "8195fa6dd546e3b9ed3a7d54d6c044ef2ace4d8c7ff39048b7de2d8b536038b3"
+    },
+    "sound/Music/TSDm3.wav": {
+     "bytes": 1374778,
+     "sha256": "c3243a37536e8ade269ce4bc91f4957158060cac72f949bbddb320a4b838b16e"
+    }
+   },
    "sha256": "d8c99612b5b2eafaadc2244b961b2357ba24b6258f4b891390cdaec7158ba651",
    "timestamp": "2005-11-24T19:08:28.000Z"
   },

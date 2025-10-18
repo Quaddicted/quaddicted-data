@@ -30,6 +30,40 @@
   },
   "alk10/pak0.pak": {
    "bytes": 7092014,
+   "files": {
+    "maps/alk10a.bsp": {
+     "bytes": 1650932,
+     "sha256": "418c1d69f939609d40d71bb3ec66336b4c478f374bbb117d81a1a2a5c74ec791"
+    },
+    "maps/alk10b.bsp": {
+     "bytes": 1055804,
+     "sha256": "ada9b1b0e3e91e524c3d0356b0468fc5b0f2989a3901bc18fcd65a39c7462fff"
+    },
+    "maps/alk10c.bsp": {
+     "bytes": 1366852,
+     "sha256": "4a94bcc4420db17b7b91535e41ae5f86856802939cd82559d3f8bfa9630e2c34"
+    },
+    "maps/alk10d.bsp": {
+     "bytes": 584840,
+     "sha256": "f66a3fbe6b6a57200a6aff5e8d473b7276373eefc682aeb8d522bd08634b5be2"
+    },
+    "mods/alk10a.xm": {
+     "bytes": 383080,
+     "sha256": "183b9d9a472b927a6e1be021b10f8502ed95cc6fed8d83f63978ee78844df33a"
+    },
+    "mods/alk10b.s3m": {
+     "bytes": 389680,
+     "sha256": "1dcde863f58377fbc050dd0a52767fbb7577f0a5f3def5dbf02be7a2680ddee8"
+    },
+    "mods/alk10c.xm": {
+     "bytes": 638666,
+     "sha256": "dc281be0a4ba848fb77e5e094d15925f912702cf161d04e46b446c9eb763e64e"
+    },
+    "progs.dat": {
+     "bytes": 1021636,
+     "sha256": "822e6337e3ad97646db4998e15ddf5923bf3a4bfb7bb467b7cfdc0bd53ce144e"
+    }
+   },
    "sha256": "935cb7852ae1253c70cb6902bb70c0124bcfcc6da3713a4b0c3e5e82a7358d94",
    "timestamp": "2001-08-05T00:10:54.000Z"
   }

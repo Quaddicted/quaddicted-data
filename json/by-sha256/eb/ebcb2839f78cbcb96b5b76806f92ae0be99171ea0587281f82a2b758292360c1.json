@@ -7,6 +7,20 @@
  "files": {
   "pak0.PAK": {
    "bytes": 3448948,
+   "files": {
+    "maps/v6.bsp": {
+     "bytes": 2619208,
+     "sha256": "61888498da44bfe784eabf52a275e0503674d549b5f4cf384d5d4610ce4b07c0"
+    },
+    "progs.dat": {
+     "bytes": 437952,
+     "sha256": "8be2048832d37285681fcc493949770c7aea38290aa6785fdd1b3bddf35da4ad"
+    },
+    "progs/enforcef.mdl": {
+     "bytes": 391584,
+     "sha256": "4f649d5f70f34d8566ea1abe239ba6c2be5f05df76e07ba92661808a45b3a75e"
+    }
+   },
    "sha256": "3aa867cb4d9fa65c458596d604fd2528834a0db4b03d999d2541dee4bcc4fb97",
    "timestamp": "1997-08-04T10:38:00.000Z"
   },

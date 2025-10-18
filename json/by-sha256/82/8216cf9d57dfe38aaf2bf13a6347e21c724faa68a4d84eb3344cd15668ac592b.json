@@ -7,6 +7,12 @@
  "files": {
   "Pak0.pak": {
    "bytes": 17496,
+   "files": {
+    "maps/b_explob.bsp": {
+     "bytes": 17420,
+     "sha256": "1b7afa62fa1e6e51bb8f4e6e185532a70983e78cd3a0c53305ec1d8ea710cfc2"
+    }
+   },
    "sha256": "2b093f835a5d9b516b438b6a5ae4cee0f2ceed46d4ef842c3b267f040b9f1596",
    "timestamp": "1996-12-29T16:45:24.000Z"
   },

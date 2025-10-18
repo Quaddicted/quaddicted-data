@@ -12,6 +12,20 @@
   },
   "Pak0.PAK": {
    "bytes": 7744945,
+   "files": {
+    "maps/masque.bsp": {
+     "bytes": 6188816,
+     "sha256": "813e0b81a4d865ed5ef285d7371defe3faba0ca851a0290c582c5dda4420444d"
+    },
+    "maps/masquestart.bsp": {
+     "bytes": 1484352,
+     "sha256": "70b9b10c53fb8613bfc90d630ad97175dc162e50468bbad22dbcb6e3aa8a8877"
+    },
+    "sound/laugh.wav": {
+     "bytes": 71573,
+     "sha256": "cb8e1381c70240a93233b8571d792e21950d00b1285f867cbc0ed1237dac1df7"
+    }
+   },
    "sha256": "f7835700639386cc5fefe7f15d00b815cab7b1a5462f4864d078e2a8217d8194",
    "timestamp": "2005-10-11T21:10:58.000Z"
   }

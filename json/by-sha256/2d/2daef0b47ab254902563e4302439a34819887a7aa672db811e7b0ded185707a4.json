@@ -126,6 +126,13 @@
   },
   "dkt1000/source_maps/zooloo-source.zip": {
    "bytes": 62340,
+   "files": {
+    "zooloo.map": {
+     "bytes": 475045,
+     "sha256": "3bedfc6dc821d896f45cd5d61a7ea256932dab03a8aba228a07f115a32374b10",
+     "timestamp": "2004-12-05T22:35:10.000Z"
+    }
+   },
    "sha256": "adbbcdf23125fd192cf0528b5624010c7bd153728b38be9eb6d741a09655141a",
    "timestamp": "2004-12-05T22:49:06.000Z"
   }

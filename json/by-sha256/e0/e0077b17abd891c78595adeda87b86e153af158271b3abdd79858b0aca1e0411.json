@@ -13,6 +13,24 @@
   },
   "PAK0.PAK": {
    "bytes": 1659132,
+   "files": {
+    "maps/enterhos.bsp": {
+     "bytes": 491164,
+     "sha256": "5e0f7f3ac40faf70315667c9e1c063f3a33d64dd5a6ca0b2fe74ded01e987fb5"
+    },
+    "maps/housp.bsp": {
+     "bytes": 652236,
+     "sha256": "a43b9ddf7aa0e2176243621c0640f4fd726db228a98ecbcd3a5718746dbfe316"
+    },
+    "progs.dat": {
+     "bytes": 420972,
+     "sha256": "89fdff934b6e1e41b071559aed5939f3d70e7a0808a3ea19ca0469ce1f58ee4e"
+    },
+    "progs/spider.mdl": {
+     "bytes": 94492,
+     "sha256": "df40e58bdf6465e68e5ef33cbcb77c42cc99e50c9dd842c8c3906c2fd04bfc8f"
+    }
+   },
    "sha256": "77d46335c74b5f09703351c6a18345e0a8f1c747c2c106b7b8224a9298e5d188",
    "timestamp": "1996-11-20T11:42:34.000Z"
   },

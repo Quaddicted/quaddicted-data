@@ -13,6 +13,32 @@
   },
   "pak0.pak": {
    "bytes": 2524294,
+   "files": {
+    "maps/alba02.bsp": {
+     "bytes": 1430836,
+     "sha256": "fa6f1fd9b46e9cbb6ca32a88e08b365be97683af75a40d3c62613b23379d7a69"
+    },
+    "progs.dat": {
+     "bytes": 671664,
+     "sha256": "17bd79fcd4cc0715f2c596f15ce17710a433855b81e26d6cfa5284c99c52b06e"
+    },
+    "progs/zombie.mdl": {
+     "bytes": 186084,
+     "sha256": "6fb69a1f5a5a177f370c12af89a018a67c4d6afff392c26635c8d067d4e80285"
+    },
+    "sound/ambience/buzz1.wav": {
+     "bytes": 40354,
+     "sha256": "3627176107ac11de4b0c08332ac3d95650fcfcdc0c2432b25646c6e5b19f40f2"
+    },
+    "sound/ambience/comp1.wav": {
+     "bytes": 159396,
+     "sha256": "9c64cac96e19351634cb8d612756970a6c9aac87062c7fcd16368e5fffa60925"
+    },
+    "sound/ambience/thunder1.wav": {
+     "bytes": 35564,
+     "sha256": "0bfbb1629a5002958926f057c8361effbe83f8f2cd5350a17e0f21d091231de9"
+    }
+   },
    "sha256": "94b37c4e7ed96fd001308874b1dffa7783bdcb22a1517a6d24127cf5a8533e4b",
    "timestamp": "1997-07-16T19:53:54.000Z"
   }

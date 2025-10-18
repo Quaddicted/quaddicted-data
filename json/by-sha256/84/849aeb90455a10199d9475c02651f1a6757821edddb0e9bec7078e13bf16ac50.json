@@ -8,6 +8,16 @@
  "files": {
   "pak0.pak": {
    "bytes": 1408456,
+   "files": {
+    "maps/e1m8.bsp": {
+     "bytes": 955068,
+     "sha256": "cc69a466334a98e1236e91a1533523f0b71bdededa9f4c817f03b224c45ce2c8"
+    },
+    "progs.dat": {
+     "bytes": 453248,
+     "sha256": "a6f7ec149c389e5280e1d1e659619a3baa6317dd2ebaf1496c26878629472e91"
+    }
+   },
    "sha256": "78148ca5669d28557b8dabd936f6132a60fb3194f0368e7e31de234105b27817",
    "timestamp": "2006-11-20T17:54:26.000Z"
   },
@@ -18,6 +28,23 @@
   },
   "source.zip": {
    "bytes": 55703,
+   "files": {
+    "e1m8up3d.map": {
+     "bytes": 485507,
+     "sha256": "5f6da34e9e4c7a5936ad8c06f5fe1b0da7d49bd028b748caa71cd5d7519b49df",
+     "timestamp": "2006-11-20T12:26:26.000Z"
+    },
+    "gnu.txt": {
+     "bytes": 14969,
+     "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248",
+     "timestamp": "1999-12-21T19:01:14.000Z"
+    },
+    "release_readme.txt": {
+     "bytes": 1198,
+     "sha256": "b801f786115abfcec9b6e910d9efcb7924e8a5cd9f2b312a484ace171d5b8c4f",
+     "timestamp": "2006-10-12T02:03:20.000Z"
+    }
+   },
    "sha256": "1a2fc70103f3b659956f4c1888ee35860b4a11021979bc8d1a961c790f3e5546",
    "timestamp": "2006-11-20T18:15:14.000Z"
   }

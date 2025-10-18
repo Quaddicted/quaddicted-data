@@ -17,6 +17,32 @@
   },
   "alk07/pak0.pak": {
    "bytes": 2489448,
+   "files": {
+    "maps/alk07.bsp": {
+     "bytes": 1705964,
+     "sha256": "f89a7f50e9ddc0a12828312b5f082320e56fb54e939d5de1a85546f2a34a7b9f"
+    },
+    "progs.dat": {
+     "bytes": 496952,
+     "sha256": "b1f0b4cbe2652106d3eb33ec24b183b6ac0d0d7651219aa47065840d727399f2"
+    },
+    "progs/snakeman.mdl": {
+     "bytes": 132028,
+     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a"
+    },
+    "progs/uzi.mdl": {
+     "bytes": 52820,
+     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414"
+    },
+    "sound/snakeman/sdeath.wav": {
+     "bytes": 66836,
+     "sha256": "bfa18b48ff82d753c3ed458d0d61152ef3f6672fb65d711990fbca0c5dadca56"
+    },
+    "sound/snakeman/spain.wav": {
+     "bytes": 34452,
+     "sha256": "15b84d6adb80e4ceace4226b5185c578a752adb36f213f2488e80ad2192378aa"
+    }
+   },
    "sha256": "c0395cacc0001484d45340c43d9bc95999bddeb7f599bdbf85484cac483a7b19",
    "timestamp": "2000-06-17T20:00:36.000Z"
   }

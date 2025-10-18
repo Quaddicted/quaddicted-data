@@ -7,6 +7,23 @@
  "files": {
   "logs.zip": {
    "bytes": 1501,
+   "files": {
+    "rvis+.txt": {
+     "bytes": 217,
+     "sha256": "eaf511361054a6bc1a1a485d5f712f5a424ecb572bf98f0708041c23f666b743",
+     "timestamp": "2002-08-17T11:29:30.000Z"
+    },
+    "tyrlite.txt": {
+     "bytes": 252,
+     "sha256": "3910bb4ca9656a75bab0bcdabac9453dbc66c2fa4765fdbe01d0e5629d3f0c63",
+     "timestamp": "2002-08-17T11:28:40.000Z"
+    },
+    "wqbsp.txt": {
+     "bytes": 2313,
+     "sha256": "0a535c81efe88eaa7ca28a505f9773884f6b48930dfedaa111929588e79cf27e",
+     "timestamp": "2002-08-17T11:28:12.000Z"
+    }
+   },
    "sha256": "15eb33ae1cd7de79711ba124392443304148a7e527f56e9be9a5a0eebac1e557",
    "timestamp": "2002-08-17T11:55:08.000Z"
   },

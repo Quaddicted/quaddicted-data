@@ -17,6 +17,43 @@
   },
   "sky_morose.zip": {
    "bytes": 1588990,
+   "files": {
+    "morose_bk.tga": {
+     "bytes": 786450,
+     "sha256": "6f351dd4e0ecfa141465b362319a86d7b4f4cbc949ffa01d0b2336314da75b4c",
+     "timestamp": "2006-01-23T14:58:16.000Z"
+    },
+    "morose_dn.tga": {
+     "bytes": 786450,
+     "sha256": "8c0dda2929adb1c3c30b14aeed94446c5e4d43ddb431b690e513f92c6bc31370",
+     "timestamp": "2006-01-23T14:58:16.000Z"
+    },
+    "morose_ft.tga": {
+     "bytes": 786450,
+     "sha256": "9a7fe3f384bf5b68f9770a60fd79e373b8423919b1ca61197095d931e14cfc3c",
+     "timestamp": "2006-01-23T14:58:16.000Z"
+    },
+    "morose_lf.tga": {
+     "bytes": 786450,
+     "sha256": "951cf64de1dfc68e8cda000dde4167de48fbe704f9de1eb996cd7b4c63edce66",
+     "timestamp": "2006-01-23T14:58:16.000Z"
+    },
+    "morose_rt.tga": {
+     "bytes": 786450,
+     "sha256": "25cc4aeac0a4058def918884cfe2e37413152111cc82962b3e404d41d9218258",
+     "timestamp": "2006-01-23T14:58:18.000Z"
+    },
+    "morose_up.tga": {
+     "bytes": 786450,
+     "sha256": "c3c06d78ce1672227fc7cf1070b2545e6842af15691f705100286031c57d92c3",
+     "timestamp": "2006-01-23T14:58:18.000Z"
+    },
+    "sky_morose.txt": {
+     "bytes": 2146,
+     "sha256": "a2dfee7bf3122f93dc1ccef1fcff68db6ea95f67efdbd0ffd96e488451b7e5e5",
+     "timestamp": "2006-03-24T12:16:00.000Z"
+    }
+   },
    "sha256": "641122cff45de6778d068862879c143db707d6b483d673f41a5a2433e33d4477",
    "timestamp": "2006-03-24T12:16:12.000Z"
   }

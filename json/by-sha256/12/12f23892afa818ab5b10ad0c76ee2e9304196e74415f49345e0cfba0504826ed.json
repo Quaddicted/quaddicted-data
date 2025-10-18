@@ -20,6 +20,16 @@
   },
   "pak0.pak": {
    "bytes": 11592708,
+   "files": {
+    "maps/e1.bsp": {
+     "bytes": 11174880,
+     "sha256": "005c2bb880294ce8d054c1e93f4ee9d9c215ecf1e0eeaa6728c053e3dd45c0b3"
+    },
+    "progs.dat": {
+     "bytes": 417688,
+     "sha256": "ec35dfdbf01285be58a5fbe9b487fee73c499fa8e5d6ed6e4ee4a2c7fa115011"
+    }
+   },
    "sha256": "4ea053b4116500253f3c9ce790a5bdadbbfd855881b519d9b016d0cb7ac528dd",
    "timestamp": "2024-06-20T22:39:18.000Z"
   }

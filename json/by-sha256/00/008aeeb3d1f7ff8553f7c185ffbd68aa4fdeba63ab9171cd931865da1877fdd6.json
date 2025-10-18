@@ -25,6 +25,258 @@
   },
   "RotCS_mapsrc.zip": {
    "bytes": 2425413,
+   "files": {
+    "map/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2011-12-03T14:57:38.000Z"
+    },
+    "map/forest1.map": {
+     "bytes": 102174,
+     "sha256": "d039851b62f4b51e143a1285e4b7dbca201c6437d1b760e69d55003467a2400b",
+     "timestamp": "2007-05-07T23:33:50.000Z"
+    },
+    "map/forest2.map": {
+     "bytes": 102872,
+     "sha256": "6bdb6becddac8ca21a3a0f2ba52db55e21f2b5de5db92024b08963b624ae83d8",
+     "timestamp": "2007-05-07T23:34:44.000Z"
+    },
+    "map/forest3.map": {
+     "bytes": 105094,
+     "sha256": "8ed8b63c85545f5306a0ba65ead96b5b2a32254162c648279d281da356257651",
+     "timestamp": "2007-05-07T13:11:48.000Z"
+    },
+    "map/prelude.map": {
+     "bytes": 21679,
+     "sha256": "5f89eb1ac7e3d67bfefe49b8d8c6eb87c024a264882a37e4acac7d10f648cd41",
+     "timestamp": "2007-05-07T16:39:44.000Z"
+    },
+    "map/puzzle.map": {
+     "bytes": 97288,
+     "sha256": "703174fb61a8c75f3b6f9144b4afe3040bad0f8720eedec7ccfdcc0a39a7aea1",
+     "timestamp": "2007-05-07T23:14:18.000Z"
+    },
+    "map/rod.map": {
+     "bytes": 321846,
+     "sha256": "7a0d8b3348113534d01db28a0c858d068a282a9a928ed1e23ce2d0c6533a6e2e",
+     "timestamp": "2007-05-07T13:13:10.000Z"
+    },
+    "map/rol1.map": {
+     "bytes": 150031,
+     "sha256": "b8fb66d5c2e26ef3d4601c7f649ca37bf6324348951310ac31686206492cd0c9",
+     "timestamp": "2007-05-07T13:38:02.000Z"
+    },
+    "map/rol2.map": {
+     "bytes": 243888,
+     "sha256": "e19362dd7b5b0c673ed8625f3c1d4e9a341ba13e5d16bde41ad794887fa589ae",
+     "timestamp": "2007-05-07T13:43:38.000Z"
+    },
+    "map/rol3.map": {
+     "bytes": 226349,
+     "sha256": "3b542897f8950901702508f3ef5927f9251c8825d1507937ab71b67f5dea473f",
+     "timestamp": "2007-05-07T13:55:10.000Z"
+    },
+    "map/rom.map": {
+     "bytes": 635092,
+     "sha256": "adb924876f9109b81381e42b2b96ec5b440903d83b36656d2a012a74cdc9c812",
+     "timestamp": "2007-05-07T13:57:24.000Z"
+    },
+    "map/rot1.map": {
+     "bytes": 451720,
+     "sha256": "d0284c983fb406306af239952c425accf4243d15b8075f23b26e3efe2e639da9",
+     "timestamp": "2007-05-07T15:08:28.000Z"
+    },
+    "map/rot2.map": {
+     "bytes": 924525,
+     "sha256": "113cde1ec5a159843801384628227eaef53979d215a2ec8649bb0eb479edfc10",
+     "timestamp": "2007-05-07T15:05:52.000Z"
+    },
+    "map/rot3.map": {
+     "bytes": 155192,
+     "sha256": "68bc78259425318a57a6830fd3e6bfe196fd5385c9a3f620171ca0d5b1f42113",
+     "timestamp": "2007-05-07T15:11:22.000Z"
+    },
+    "map/ttown1.map": {
+     "bytes": 1819422,
+     "sha256": "f7a245698a1dbe8ef2660ae05bd045f2ea24b61b1f3e73fdc28fcad3caa7b79c",
+     "timestamp": "2007-05-13T13:46:52.000Z"
+    },
+    "map/ttown2.map": {
+     "bytes": 1811782,
+     "sha256": "97367049fcc46453446631e7b816480680bd430360da2b8afc94371b98833d71",
+     "timestamp": "2007-05-07T23:02:32.000Z"
+    },
+    "map/ttowns.map": {
+     "bytes": 1828660,
+     "sha256": "b6369a3989e07e5895c9a47f677082a3ada89f9d2df77c22b37c8c75ff4f5aa1",
+     "timestamp": "2007-05-13T22:21:18.000Z"
+    },
+    "qkm/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2011-12-03T14:57:38.000Z"
+    },
+    "qkm/Forest1.qkm": {
+     "bytes": 95362,
+     "sha256": "767f7bf39776d7edc88156fe1818c65358c4c7aefba7f310e208f03494e8679a",
+     "timestamp": "2007-05-07T23:33:06.000Z"
+    },
+    "qkm/Forest2.qkm": {
+     "bytes": 95969,
+     "sha256": "7ad2c0863c2c951d043940cfdc59bdc784d6bc89695e21457afac0a143d32685",
+     "timestamp": "2007-05-07T23:34:40.000Z"
+    },
+    "qkm/Forest3.qkm": {
+     "bytes": 98454,
+     "sha256": "6010e03776e01e585aa2b1e4f99bc6d9b05e8ca68d7cdcaffdc17430dfe8cfdc",
+     "timestamp": "2007-05-04T21:40:06.000Z"
+    },
+    "qkm/NotUsed/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2011-12-03T14:57:38.000Z"
+    },
+    "qkm/NotUsed/PlayerHouse.qkm": {
+     "bytes": 42712,
+     "sha256": "e7a16c34c311789d78426c6c30e321b972ea1ca393e969e5aff85586a6f3ddcd",
+     "timestamp": "2007-04-07T16:02:28.000Z"
+    },
+    "qkm/NotUsed/RoL1-1.qkm": {
+     "bytes": 44046,
+     "sha256": "df7e21e88190b41d4cd9170c197a7c3a949681dec559b69a2c18664a95bdcdeb",
+     "timestamp": "2007-04-14T13:42:20.000Z"
+    },
+    "qkm/Prelude.qkm": {
+     "bytes": 20344,
+     "sha256": "9fb5137dff69bc26e43fdfdd58f5690f7077194002ce08b7a1f75eb87fa15ae4",
+     "timestamp": "2007-05-07T16:39:54.000Z"
+    },
+    "qkm/Puzzle.qkm": {
+     "bytes": 84111,
+     "sha256": "4ba33612372bdbc80861c4d04a668f7323fac7885aad0acf05b427442b42cf8c",
+     "timestamp": "2007-05-07T23:14:16.000Z"
+    },
+    "qkm/RoD.qkm": {
+     "bytes": 251154,
+     "sha256": "0996ee049df50ebbbc14f40f2c7e7debb0d1ab2f2b155eee43fb3d780decc347",
+     "timestamp": "2007-05-04T21:57:54.000Z"
+    },
+    "qkm/RoL1.qkm": {
+     "bytes": 107181,
+     "sha256": "60185bf917ec151f43b2f50366af43e34eeba5b706dba2bcfbd52632d19792c9",
+     "timestamp": "2007-05-06T15:22:02.000Z"
+    },
+    "qkm/RoL2.qkm": {
+     "bytes": 208590,
+     "sha256": "633578288a4a721913f8e85867da91eb72595de43af3ef00203795f22ead94a9",
+     "timestamp": "2007-05-07T13:43:24.000Z"
+    },
+    "qkm/RoL3.qkm": {
+     "bytes": 162150,
+     "sha256": "0004202d1086def21d3a91680907b191ac78e833b4adccb871635e2bfe46dae7",
+     "timestamp": "2007-05-06T15:24:14.000Z"
+    },
+    "qkm/RoM.qkm": {
+     "bytes": 409080,
+     "sha256": "6ddd8a1f22b1653514ed4f339de8da60e07a05cf1b7fe7ced61c1402e15cd3c9",
+     "timestamp": "2007-05-04T22:21:00.000Z"
+    },
+    "qkm/RoT1.qkm": {
+     "bytes": 295264,
+     "sha256": "7419dc3db9b536bc47ea482c08219c82396d03e3e48b4b7b628e27afd907b957",
+     "timestamp": "2007-05-06T21:47:02.000Z"
+    },
+    "qkm/RoT2.qkm": {
+     "bytes": 526106,
+     "sha256": "b6364e6b629feb94959e5d824ba411b1882ad81974ecb984fe0c508e14310c30",
+     "timestamp": "2007-05-06T16:30:36.000Z"
+    },
+    "qkm/RoT3.qkm": {
+     "bytes": 104506,
+     "sha256": "aba7307be32e802fc1e850eef227efa2a05ebeaa30c89a150059cf778b5e7c9f",
+     "timestamp": "2007-05-04T22:53:52.000Z"
+    },
+    "qkm/Signs/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2011-12-03T14:57:38.000Z"
+    },
+    "qkm/Signs/Defense.jpg": {
+     "bytes": 9323,
+     "sha256": "8d2d042bdea5f90b7f8d1b384535c62e710d0479d82a475105da465238043730",
+     "timestamp": "2007-04-06T17:29:32.000Z"
+    },
+    "qkm/Signs/Inn.jpg": {
+     "bytes": 9215,
+     "sha256": "af32adf2663ac2b6699c57d92cbaccc70d381e97bf047461aa20b34e3887a253",
+     "timestamp": "2007-04-06T17:39:58.000Z"
+    },
+    "qkm/Signs/RoLDSIGN.jpg": {
+     "bytes": 9284,
+     "sha256": "e4bcb3756f590e9b82d9a58781d9e5aa2c7faca6d0c97dc413a0cf262faad48a",
+     "timestamp": "2007-04-09T21:23:38.000Z"
+    },
+    "qkm/Signs/RoMSIGN.jpg": {
+     "bytes": 8520,
+     "sha256": "075168b8a3fc550c534d7c838abea160e1ab33f9fa17126322d3af8f7185975c",
+     "timestamp": "2007-04-09T21:25:14.000Z"
+    },
+    "qkm/Signs/RoTSIGN.jpg": {
+     "bytes": 8793,
+     "sha256": "0e7dbea75cd6ecb50f479fb118ef4c01fb2bba3686b6146e31c107e763a60feb",
+     "timestamp": "2007-04-09T21:22:30.000Z"
+    },
+    "qkm/Signs/Weapon.jpg": {
+     "bytes": 9444,
+     "sha256": "a62383114dfddd9716c91a012a6cf7703d5d95b7f248b6487f28f14e3f77a1f5",
+     "timestamp": "2007-04-06T17:34:00.000Z"
+    },
+    "qkm/TTown1.qkm": {
+     "bytes": 929361,
+     "sha256": "2518e3c4a389de620667cf4c5b486f7800b758e60ea48093a7fad02741f1c75b",
+     "timestamp": "2007-05-13T13:46:08.000Z"
+    },
+    "qkm/TTown2.qkm": {
+     "bytes": 924658,
+     "sha256": "4d053b5ea5e40a624163cba5ba9f4891f74a19fef9bf9ebb2267a9c8c308eb44",
+     "timestamp": "2007-05-07T23:00:44.000Z"
+    },
+    "qkm/TTownS.qkm": {
+     "bytes": 936104,
+     "sha256": "945ee782bc8990246aa1bf1c15f136c21bed755be281cb130033cbb22a109a0b",
+     "timestamp": "2007-05-13T22:29:20.000Z"
+    },
+    "qkm/TradersTown/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2011-12-03T14:57:38.000Z"
+    },
+    "qkm/TradersTown/TTmap#1-1.qkm": {
+     "bytes": 158382,
+     "sha256": "fa3a7f69bf68e9abc5ec16f22794654fd13bacecd8b35eff795fbc73f4a27609",
+     "timestamp": "2007-04-09T22:33:56.000Z"
+    },
+    "qkm/TradersTown/TTmap#1-2.qkm": {
+     "bytes": 125710,
+     "sha256": "a80422b64349ce28d7645431693871a6e0631e29fd683de85c5a1561a02775df",
+     "timestamp": "2007-04-09T22:52:46.000Z"
+    },
+    "qkm/TradersTown/TTmap#1-3.qkm": {
+     "bytes": 87215,
+     "sha256": "3286e6a48807c9a4eea63d3c0ad11a05d82037a5de7c39f9961db9c902067248",
+     "timestamp": "2007-04-09T23:10:52.000Z"
+    },
+    "qkm/TradersTown/TTmap#1-4.qkm": {
+     "bytes": 84983,
+     "sha256": "2c31a4b01a2d4707eff799ff165f934ca17b9b6d6372bc3413c93182faa6887e",
+     "timestamp": "2007-04-09T23:17:42.000Z"
+    },
+    "qkm/TradersTown/TTmap#1-5.qkm": {
+     "bytes": 111156,
+     "sha256": "2a9e560f3e8a585d3a638bb990aee655b86ccfbb26e94834df833391fe3fd1ea",
+     "timestamp": "2007-04-09T22:13:32.000Z"
+    }
+   },
    "sha256": "69c5a7ff022c8ed7da23b54cded2f0db9ab07935dd76decc10f7b773adac6fd4",
    "timestamp": "2011-12-03T14:57:46.000Z"
   },

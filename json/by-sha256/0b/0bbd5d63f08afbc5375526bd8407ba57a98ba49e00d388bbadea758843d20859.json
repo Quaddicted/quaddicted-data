@@ -7,6 +7,145 @@
  "files": {
   "Quakespasm-0.92.2.zip": {
    "bytes": 1563707,
+   "files": {
+    "LICENSE.txt": {
+     "bytes": 18092,
+     "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+     "timestamp": "2017-06-12T23:05:20.000Z"
+    },
+    "SDL2.dll": {
+     "bytes": 684032,
+     "sha256": "e8fdddf40edac5acea257cb3d33979682953b14ef44de86411fe9cf3cad1ca2c",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "history.txt": {
+     "bytes": 351,
+     "sha256": "fa7ad3b53496c03615ae27912c3b44a6bdf38b1f5251514bff118e3e6b67e58d",
+     "timestamp": "2017-08-16T14:40:06.000Z"
+    },
+    "libFLAC-8.dll": {
+     "bytes": 67584,
+     "sha256": "0c01e3d322d4560e1893128e0852768095929595b8c47baa021dd3e4f4bde020",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libmad-0.dll": {
+     "bytes": 82432,
+     "sha256": "dec6207c07ac6bdaabef2a9dfde11831b030395fccc29ba532a001fe6318b215",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libmikmod-3.dll": {
+     "bytes": 176128,
+     "sha256": "0ff5da0a9ed605797aee011d05a42476854d9cac66c5a075aced3dd31cf7d28b",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libmpg123-0.dll": {
+     "bytes": 178688,
+     "sha256": "db3fd1b67cfd5328b6c55958f69d4029fecf4120d78415b0cfad06d508e93b68",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libogg-0.dll": {
+     "bytes": 18944,
+     "sha256": "36c4811444eaae0369429c8606801755d16f08817283deca2a29e06abf012f23",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libopus-0.dll": {
+     "bytes": 108544,
+     "sha256": "bc1ca4202143c94f760974593c3f94f255dd4b640db4d5dd38d328bca573d2ab",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libopusfile-0.dll": {
+     "bytes": 43008,
+     "sha256": "afc653b4b7f1ff0cf4bb03b066faaae861fc2eb924e9c494c04a229539d8598c",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libvorbis-0.dll": {
+     "bytes": 152576,
+     "sha256": "8f3ec9c42136e31dc8d9bbd299c3218ec8992df342f2bf25a2e0b9ca9de64762",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libvorbisfile-3.dll": {
+     "bytes": 28160,
+     "sha256": "f6ef6b671c4bfa037d5ea5ad0b410a513f3adaddfa0434d9284145b95da50ba5",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "libxmp.dll": {
+     "bytes": 113664,
+     "sha256": "364346a2e0c7a91120e05ac121e72a728130de0a447beaca367da771b63a08e0",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    },
+    "qconsole.log": {
+     "bytes": 3257,
+     "sha256": "0c766109b72d7edb7217b9b4bd8ad13a0e77dd9ca12ed775dcde3ba1064b9028",
+     "timestamp": "2017-08-16T14:40:06.000Z"
+    },
+    "quakespasm-admod-readme.txt": {
+     "bytes": 1190,
+     "sha256": "2b2cade1df61ec70a0ea123fa37975b045a0478ad2d3b53b54bf9663f0842e12",
+     "timestamp": "2017-06-14T15:43:28.000Z"
+    },
+    "quakespasm-admod.bat": {
+     "bytes": 126,
+     "sha256": "91bd20f61a0f8c55454c4b500bf34f41c8c5f5fbf6944a2634c4eb2e1d1a0257",
+     "timestamp": "2017-09-01T13:09:54.000Z"
+    },
+    "quakespasm-admod.exe": {
+     "bytes": 504832,
+     "sha256": "d0b61913a467e8f7c8b755caa5037748830be30fef2d998361cbede3dd5e2aec",
+     "timestamp": "2017-06-13T00:58:20.000Z"
+    },
+    "quakespasm-spike-admod.exe": {
+     "bytes": 759296,
+     "sha256": "67d3f67f036f5309fbbf28de38c77426dbc37098d97b9ac7d55a59c6723ac48f",
+     "timestamp": "2017-06-14T17:39:50.000Z"
+    },
+    "quakespasm.pak": {
+     "bytes": 591944,
+     "files": {
+      "default.cfg": {
+       "bytes": 2289,
+       "sha256": "abb74400bd1b46e8eee9780a777b81483a29ecd786732d91b3e57c95a20f6783"
+      },
+      "gfx/conback.lmp": {
+       "bytes": 327688,
+       "sha256": "b14c295d790e9a8c86ff29c46b0e5b4de8e6d390c60f62b9395fc956563a9938"
+      },
+      "gfx/mainmenu2.lmp": {
+       "bytes": 30728,
+       "sha256": "a3fd168c6454eeaeea9e248df568e5942a7f850bc5478f8946a0b6516a2ce6c4"
+      },
+      "gfx/p_mod.lmp": {
+       "bytes": 2504,
+       "sha256": "56234ed3e4e4fe95f8a4a1f9a52d4a73890ea653aa88ec992e6777bf3e99b445"
+      },
+      "maps/e1m1.ent": {
+       "bytes": 26334,
+       "sha256": "7cd55e44f9585160c7d0308c5af4d7e23a0db0bcaf81a9d1d590ba981380e4dc"
+      },
+      "maps/e1m2.ent": {
+       "bytes": 41287,
+       "sha256": "30409975f8f94e20667538ec225b639570789f775b0199eef1206515ce58fad7"
+      },
+      "maps/e1m4.ent": {
+       "bytes": 43735,
+       "sha256": "3766674493c625884402dabf9fd961dbc462cc43fd735ae72db0baa3e3cfb1e2"
+      },
+      "maps/e2m2.ent": {
+       "bytes": 27179,
+       "sha256": "a65a882e6a95452cd9a43254eea67a3fdc161c92ac68c7f0a3b8ef9eb0f7118d"
+      },
+      "maps/e2m3.ent": {
+       "bytes": 38973,
+       "sha256": "46477248d62e4894013b993cc60ee0b84942f6eae6f7af761f8e1cca0a1259c0"
+      },
+      "maps/e2m7.ent": {
+       "bytes": 50561,
+       "sha256": "cb63389052b75db30df5835be05e53641880965d1f743db416e8fb2eea4f7203"
+      }
+     },
+     "sha256": "a163c4ad6e2b4369dbcff1b77c556447da167c4c4577582df8b61c05cad9e012",
+     "timestamp": "2017-06-12T21:59:30.000Z"
+    }
+   },
    "sha256": "ef9c2b03d270973434711691e9c9f62259d4a19310a5e5c92b496bffa0913c7a",
    "timestamp": "2017-09-01T13:10:44.000Z"
   },

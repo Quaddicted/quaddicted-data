@@ -17,6 +17,64 @@
   },
   "pak0.pak": {
    "bytes": 18557329,
+   "files": {
+    "demo1.dem": {
+     "bytes": 621186,
+     "sha256": "fe8c4e8bdcb7feddec368bcaf810525191e2f5d9bdb53ba85b0e16e176f77637"
+    },
+    "demo2.dem": {
+     "bytes": 772251,
+     "sha256": "d2bc8f22977c7b51daeb02a4acf642e6d22038538df8950fa280cb81cf2b3a37"
+    },
+    "demo3.dem": {
+     "bytes": 467188,
+     "sha256": "867a1cec5737d8079fb2ee44612bc646012e16cc1f2f95040727776bba05528b"
+    },
+    "maps/e5dm.bsp": {
+     "bytes": 532608,
+     "sha256": "f3c8f59a36921636d105c32cc22ce04af70f7a1e9e35856e87518265c043da1b"
+    },
+    "maps/e5end.bsp": {
+     "bytes": 1022056,
+     "sha256": "e46b9b1fcfc9d07c2153f6682660727f98eb53630697f0876db7378bf61455c5"
+    },
+    "maps/e5m1.bsp": {
+     "bytes": 1746668,
+     "sha256": "7027f52d84b3bfdaff4cb895a15f5038ea3547eee9173d24fe68a3561631900c"
+    },
+    "maps/e5m2.bsp": {
+     "bytes": 2119616,
+     "sha256": "69b47a1fca1d3f39e1fc327a88a92bd82f2399f34bc7905d1af98bcee68219d8"
+    },
+    "maps/e5m3.bsp": {
+     "bytes": 1321428,
+     "sha256": "ec7adf4ebce2be8391c9d86a9176b9d02ee721682961496632f52a371681054f"
+    },
+    "maps/e5m4.bsp": {
+     "bytes": 2328924,
+     "sha256": "39da31d0f529697870a63b8d10793a5d6b4d6d15d18cc2c956c92c03e135bfe9"
+    },
+    "maps/e5m5.bsp": {
+     "bytes": 2043048,
+     "sha256": "456f8b79af803ec9297cf5459d5e540d29fcc5879d8ec0edcb6a9d092b2c4936"
+    },
+    "maps/e5m6.bsp": {
+     "bytes": 1668812,
+     "sha256": "9d6b87189cb5f9bed262acd9c891e6915919cad930ce3625d0d6db2fd74a6de0"
+    },
+    "maps/e5m7.bsp": {
+     "bytes": 1606116,
+     "sha256": "42f1a5f0b97336b00d4ceee36d715b2af259aa53b288970adfa0a27b57e9b91c"
+    },
+    "maps/e5m8.bsp": {
+     "bytes": 1129392,
+     "sha256": "fdf2fdc832b9fa45f4b2ae26870b3b2a1cbe9f3c77e113149fc88a0225360fe3"
+    },
+    "maps/start.bsp": {
+     "bytes": 1177128,
+     "sha256": "d633459bf1bc4cb3a9e4adf13e361752cddef915c78c4e0f5dee4546bde7f367"
+    }
+   },
    "sha256": "282d916c396595eaf6c4e6b698bc9c73fe24d2a4ccb72758edd37a253df34057",
    "timestamp": "2016-06-21T20:18:06.000Z"
   },

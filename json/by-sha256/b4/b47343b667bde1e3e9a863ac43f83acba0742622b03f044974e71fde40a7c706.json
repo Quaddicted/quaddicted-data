@@ -18,6 +18,13 @@
   },
   "sm130_neg!ke_src.zip": {
    "bytes": 22094,
+   "files": {
+    "sm130_neg!ke.map": {
+     "bytes": 197465,
+     "sha256": "fd0b7d275969a6b66a8d6be22699620c5121ac4c6e479ad562a5bc3b685cb6b3",
+     "timestamp": "2006-12-10T17:54:48.000Z"
+    }
+   },
    "sha256": "1badde58ead4d60a6a66d30bc800247e74a8307ad48973b78266cf388a31e39b",
    "timestamp": "2006-12-11T16:28:10.000Z"
   },
@@ -33,6 +40,18 @@
   },
   "sm130_spirit_src.zip": {
    "bytes": 34740,
+   "files": {
+    "sm130_spirit.map": {
+     "bytes": 194169,
+     "sha256": "8bd04c5d335770c1420a68f575823601c05f659eb9ffc6da68bc843696a41eb6",
+     "timestamp": "2006-11-27T11:06:56.000Z"
+    },
+    "sm130_spirit.qkm": {
+     "bytes": 147983,
+     "sha256": "e646201f669875b166bc4f6aface35eedd70f383b92cb8ba1d1cfce1a64f2f35",
+     "timestamp": "2006-11-27T11:06:50.000Z"
+    }
+   },
    "sha256": "833397dcad08f9533f0cba689a6aa25d955853cd35dc5bea40e0d5b126252dc9",
    "timestamp": "2006-11-27T11:07:40.000Z"
   }

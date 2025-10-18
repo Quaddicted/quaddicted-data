@@ -17,6 +17,88 @@
   },
   "vestige/PAK0.pak": {
    "bytes": 63011548,
+   "files": {
+    "expanisons.wad": {
+     "bytes": 7010272,
+     "sha256": "36a5ab7fac9c68cb65e3baa5be17c3bd79bc8ffb2b7012443322ecd45fa4fbf0"
+    },
+    "mapdb.json": {
+     "bytes": 1155,
+     "sha256": "1dd438fe98f0dc1b4aae7d13d268201a0e4ca374e1593f40a470f59ee929303d"
+    },
+    "maps/eld1m1.bsp": {
+     "bytes": 4363656,
+     "sha256": "65734ae9d03ad741d224a2f84ece89f61f4c8f0431c5c5db98c602125b3ce00c"
+    },
+    "maps/eld1m1.lit": {
+     "bytes": 1341404,
+     "sha256": "b47eb0de7c5af4d69c5243d3b8aaed3ff2e6d5b427af9db88ff0edb58de40d54"
+    },
+    "maps/eld1m2.bsp": {
+     "bytes": 4455056,
+     "sha256": "df9c00dccff3651c4213c59be7e30ebbac280ae52073c03e352c8fe2d1791b58"
+    },
+    "maps/eld1m2.lit": {
+     "bytes": 1296302,
+     "sha256": "9425c5cbf59b0e67d6e9aca7f5f27096f7229cc62efbc90271aa297cc13e9ec0"
+    },
+    "maps/eld1m3.bsp": {
+     "bytes": 3203776,
+     "sha256": "c039005591c20fe2b610683c66a7fb48f0bb5ac2c85d4542ee00b8db948485b4"
+    },
+    "maps/eld1m3.lit": {
+     "bytes": 1395722,
+     "sha256": "1483bf6668f0d46c7bfe2890916ff8b511136fe2ffbcca4b1d5964e4a172ab74"
+    },
+    "maps/eld1m4.bsp": {
+     "bytes": 2178328,
+     "sha256": "434889c00b1b5d298322d5c01c7eaa019ab3303aadd8b2603669b41936f6566c"
+    },
+    "maps/eld1m4.lit": {
+     "bytes": 783182,
+     "sha256": "336fb747471d127475b17515ffb004fbc0fded2c397f36598bf94d8366ae34df"
+    },
+    "maps/start.bsp": {
+     "bytes": 1145808,
+     "sha256": "8359dbf80e6d77eb3b3653fde1b4c89324492c366292b748f83680417683dd34"
+    },
+    "maps/start.lit": {
+     "bytes": 235652,
+     "sha256": "b4bc736ac94b5630a6ecd0a4e8dee39d547be57aa5c406e2e4c398a403c444ce"
+    },
+    "mg1.wad": {
+     "bytes": 3321924,
+     "sha256": "dc291199f139e2d26cd7d8b4a1f34e2ed058fe39758886a7f972ac019549f70e"
+    },
+    "music/track02.ogg": {
+     "bytes": 7339899,
+     "sha256": "19088385e6096ba37b111646e3b29a40e444120ca0aa2e04c6bf94f915b6cfc9"
+    },
+    "music/track03.ogg": {
+     "bytes": 2929576,
+     "sha256": "9e61ab6e40b490c20a360954d61535aa11dfad959531542a926be5d24547cec7"
+    },
+    "music/track04.ogg": {
+     "bytes": 3418846,
+     "sha256": "32ffa4cc8318b9b5282c59bab30532158e2bc28dc154d1585be86128691db0ca"
+    },
+    "music/track05.ogg": {
+     "bytes": 7728800,
+     "sha256": "fbdc8867217a41760bd9b39793107946f26d56e83123064a092025ffea3a14c8"
+    },
+    "music/track06.ogg": {
+     "bytes": 7084234,
+     "sha256": "44d4dc527033ab9a7b414d4fcbb5a45d4aa320dd8944986d494b9347a81678f8"
+    },
+    "music/track07.ogg": {
+     "bytes": 3436962,
+     "sha256": "d2690a6f3a2157ff8dacf0d60f86b1495ce2683860e35c42bda21864cfcff81f"
+    },
+    "progs.dat": {
+     "bytes": 339702,
+     "sha256": "18f6fdc7f63e9394e4ac6b7ca9abd040caf91792a69bbc63b20ddbbaf7b4fafd"
+    }
+   },
    "sha256": "b6fcfcd84407fefca304afee3caafc926fec9e1774ffa9a8e764e9d345abf154",
    "timestamp": "2023-11-07T19:06:28.000Z"
   },
