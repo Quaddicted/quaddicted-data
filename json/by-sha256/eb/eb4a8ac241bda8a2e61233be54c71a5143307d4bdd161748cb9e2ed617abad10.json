@@ -1,0 +1,44 @@
+{
+  "authors": [
+    "Mark Turner"
+  ],
+  "bytes": 302720,
+  "description": "A choose-your-upgrade siege map for vanilla Quake. Secret map in the <a href='../?loadjstablefilter=true#%7B\"col_2\"%3A%7B\"flt\"%3A\"Mark%20Turner\"%7D%2C\"col_3\"%3A%7B\"flt\"%3A\"colony\"%7D%7D'>Colony</a> episode, accessed through Colony4.",
+  "files": {
+    "colonyx.bsp": {
+      "bytes": 690316,
+      "sha256": "9d4affa50eacada10ee6dbf995acd03a369b91716eae0302634978f9224a78ca",
+      "timestamp": "2025-11-12T15:03:10.000Z"
+    },
+    "colonyx.txt": {
+      "bytes": 1279,
+      "sha256": "8ccdf26672ff3f0e7f94621ab62551efb93ac591644d56c7081a358bb653a6b9",
+      "timestamp": "2025-11-12T15:03:26.000Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/": "/id1/maps/"
+    }
+  },
+  "json_version": "2025.03.20",
+  "release_date": "2025-11-12",
+  "sha256": "eb4a8ac241bda8a2e61233be54c71a5143307d4bdd161748cb9e2ed617abad10",
+  "tags": [
+    "author=Mark Turner",
+    "filename=colonyx.zip",
+    "game=quake",
+    "game_mode=singleplayer",
+    "game_mode=cooperative",
+    "game_mode=deathmatch",
+    "link=[Slipseer](https://www.slipseer.com/index.php?resources/colony-x-cobalt-crucible.531/)",
+    "release_date=2025-11-12",
+    "startmap=colonyx",
+    "title=ColonyX: Cobalt Crucible",
+    "type=map"
+  ],
+  "title": "ColonyX: Cobalt Crucible",
+  "urls": [
+    "https://www.quaketastic.com/files/colonyx.zip"
+  ]
+}
