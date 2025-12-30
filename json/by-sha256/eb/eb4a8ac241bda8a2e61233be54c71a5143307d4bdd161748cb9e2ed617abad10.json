@@ -1,7 +1,4 @@
 {
-  "authors": [
-    "Mark Turner"
-  ],
   "bytes": 302720,
   "description": "A choose-your-upgrade siege map for vanilla Quake. Secret map in the <a href='../?loadjstablefilter=true#%7B\"col_2\"%3A%7B\"flt\"%3A\"Mark%20Turner\"%7D%2C\"col_3\"%3A%7B\"flt\"%3A\"colony\"%7D%7D'>Colony</a> episode, accessed through Colony4.",
   "files": {
@@ -21,8 +18,7 @@
       "/": "/id1/maps/"
     }
   },
-  "json_version": "2025.03.20",
-  "release_date": "2025-11-12",
+  "json_version": "2025.09.27",
   "sha256": "eb4a8ac241bda8a2e61233be54c71a5143307d4bdd161748cb9e2ed617abad10",
   "tags": [
     "author=Mark Turner",
@@ -37,8 +33,8 @@
     "title=ColonyX: Cobalt Crucible",
     "type=map"
   ],
-  "title": "ColonyX: Cobalt Crucible",
   "urls": [
+    "https://www.quaddicted.com/files/by-sha256/eb/eb4a8ac241bda8a2e61233be54c71a5143307d4bdd161748cb9e2ed617abad10/colonyx.zip",
     "https://www.quaketastic.com/files/colonyx.zip"
   ]
 }
