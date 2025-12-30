@@ -1,16 +1,4 @@
 {
-  "authors": [
-    "alexUnder",
-    "Caffeine Freak",
-    "Coffee009",
-    "Ish",
-    "Jameson",
-    "Krampus",
-    "Negke",
-    "Spike",
-    "Text_Fish",
-    "ThunderGoose"
-  ],
   "bytes": 151913408,
   "description": "A pack of nine maps in various styles (some Christmas themed) where each has a playable area contained within a 1024^3 volume. Uses Arcane Dimensions (included) with some added Christmas monsters. A hub map is included featuring a gift hunt.",
   "files": {
@@ -3720,8 +3708,7 @@
       "/": "/"
     }
   },
-  "json_version": "2025.03.20",
-  "release_date": "2025-12-24",
+  "json_version": "2025.09.27",
   "sha256": "01869daddb52357b86aba0e145d5c905eb06f6168e5f33af0ee65b959c824449",
   "tags": [
     "author=alexUnder",
@@ -3746,8 +3733,8 @@
     "title=Map-Center's Xmas Scraps Jam 2025",
     "type=mapjam"
   ],
-  "title": "Map-Center's Xmas Scraps Jam 2025",
   "urls": [
+    "https://www.quaddicted.com/files/by-sha256/01/01869daddb52357b86aba0e145d5c905eb06f6168e5f33af0ee65b959c824449/mc_xmasjam_2025.zip",
     "https://x901.net/quaddictedfiles/mc_xmasjam_2025.zip"
   ]
 }
