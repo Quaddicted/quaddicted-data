@@ -1,0 +1,3753 @@
+{
+  "authors": [
+    "alexUnder",
+    "Caffeine Freak",
+    "Coffee009",
+    "Ish",
+    "Jameson",
+    "Krampus",
+    "Negke",
+    "Spike",
+    "Text_Fish",
+    "ThunderGoose"
+  ],
+  "bytes": 151913408,
+  "description": "A pack of nine maps in various styles (some Christmas themed) where each has a playable area contained within a 1024^3 volume. Uses Arcane Dimensions (included) with some added Christmas monsters. A hub map is included featuring a gift hunt.",
+  "files": {
+    "mc_xmasjam_2025/ad_1_8_xmas.fgd": {
+      "bytes": 250047,
+      "sha256": "9d0bceb791a426328040a309d16cfe6349aa4f0216936dd59ce434795fa262c0",
+      "timestamp": "2025-11-27T00:40:39.091Z"
+    },
+    "mc_xmasjam_2025/ad_v1_80_credits.txt": {
+      "bytes": 15585,
+      "sha256": "c933fa278cb49c1cf6206cd514f5c43fb59238e13dcae8ac210d1df4d4c3247b",
+      "timestamp": "2020-10-12T16:02:27.959Z"
+    },
+    "mc_xmasjam_2025/ad_v1_80_readme.txt": {
+      "bytes": 8418,
+      "sha256": "2423913f6507c392b219d7caee2656d11f1f24744a5cc0e3e513deaec2db9f08",
+      "timestamp": "2020-10-12T19:03:50.981Z"
+    },
+    "mc_xmasjam_2025/csprogs.dat": {
+      "bytes": 94990,
+      "sha256": "e790b189b1df23f116097b45f5ed391fd210319ecfa000d029b367a7c3d32ab5",
+      "timestamp": "2021-12-12T17:45:16.964Z"
+    },
+    "mc_xmasjam_2025/descript.ion": {
+      "bytes": 38,
+      "sha256": "80022011b01e8af13995df8331fa8183efd182fbb268ccb40c64aea203399ecf",
+      "timestamp": "2025-12-23T17:08:40.672Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_caffeinefreak.txt": {
+      "bytes": 2586,
+      "sha256": "a082aa997b8c89222e18e6633152fbbd895081cdadf89297dec91fc595477854",
+      "timestamp": "2025-12-15T04:25:19.000Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_coffee009.txt": {
+      "bytes": 734,
+      "sha256": "a97cb31cfd420897416932b2cfcaa9410cf19b9a739961d050a93657d56885f7",
+      "timestamp": "2025-12-17T15:35:35.496Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_ish.txt": {
+      "bytes": 2390,
+      "sha256": "05e51b597adef55aaed3fb5069fda40d2af182d25cb830d10e40111bd5298a02",
+      "timestamp": "2025-12-20T06:19:56.000Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_jameson_rc5.txt": {
+      "bytes": 2302,
+      "sha256": "28cb8afaba8a0e6fedb54d75c115c7682e9c606f92281989a2b40fc2d767ade2",
+      "timestamp": "2025-12-17T16:02:49.465Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_krampus.txt": {
+      "bytes": 5585,
+      "sha256": "692e586d5727d09f7472e392ab8ec0ab1d226ad364a603e58219353b041506c6",
+      "timestamp": "2025-12-23T01:32:14.000Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_negke.txt": {
+      "bytes": 2886,
+      "sha256": "18d21615740590b4c5b9c26cf4676538130e5df65a51e410e672343b965c04c9",
+      "timestamp": "2025-12-21T23:31:41.537Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_spike_readme.txt": {
+      "bytes": 4333,
+      "sha256": "879675d786ebf2e50a4d3b5dadeb64608e9869d17602281e089589110a98c28b",
+      "timestamp": "2025-12-17T12:33:45.000Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_textfish.txt": {
+      "bytes": 1273,
+      "sha256": "46f4b6f285b0f7a9c30f07703ec8a35f946e3fcd1f39e545da6ffb32582dd407",
+      "timestamp": "2025-12-14T16:36:05.121Z"
+    },
+    "mc_xmasjam_2025/docs/mc_xmasjam_2025_thundergoose readme.txt": {
+      "bytes": 1814,
+      "sha256": "50b8714eb43ce18429188975c270e0d634fdebb1e9084d5c17d00243c1c91ba9",
+      "timestamp": "2025-12-14T10:04:31.759Z"
+    },
+    "mc_xmasjam_2025/gfx/bigbox.lmp": {
+      "bytes": 5192,
+      "sha256": "b941e3ec692b990d1dbe0fd69c1e043b9d504374d791c8c981cb091324072826",
+      "timestamp": "2012-12-30T03:27:11.307Z"
+    },
+    "mc_xmasjam_2025/gfx/community.lmp": {
+      "bytes": 256,
+      "sha256": "7d425f7678b30e94f816c93391c3322ed354c9657ef2563c964b2abb0d57d933",
+      "timestamp": "2013-02-15T23:57:42.488Z"
+    },
+    "mc_xmasjam_2025/gfx/complete.lmp": {
+      "bytes": 4424,
+      "sha256": "b4554a7ef6de5831198626fef9431582d3c17ed56c55853f1ce979be31df8dcd",
+      "timestamp": "2012-12-30T02:46:52.391Z"
+    },
+    "mc_xmasjam_2025/gfx/conback.lmp": {
+      "bytes": 64008,
+      "sha256": "ac829d6ca91288b693218f5744bddc1a7dcf9b1c47dbb38f20a4d2052b70164a",
+      "timestamp": "2025-12-22T23:39:24.259Z"
+    },
+    "mc_xmasjam_2025/gfx/conchars.lmp": {
+      "bytes": 16392,
+      "sha256": "045ea49c02bc0e51336e84fb19f4c445ece3c0d8c6ec4aba3cac0fcbf4306c15",
+      "timestamp": "2021-12-12T17:47:20.596Z"
+    },
+    "mc_xmasjam_2025/gfx/conchars.png": {
+      "bytes": 14283,
+      "sha256": "1b63b3d252a0d234553153910c6d5384de0bbe050f095ebe00d253ffab2db8b9",
+      "timestamp": "2021-12-12T17:47:20.598Z"
+    },
+    "mc_xmasjam_2025/gfx/conchars.tga": {
+      "bytes": 65580,
+      "sha256": "6dbfcc084e12e7c053c49f257f0a2276014a46ee92d194008893a39416e9e486",
+      "timestamp": "2021-12-12T17:47:20.600Z"
+    },
+    "mc_xmasjam_2025/gfx/env/goosecastle_bk.tga": {
+      "bytes": 786450,
+      "sha256": "637757056bed0ab6b3f37702b6535c1d96cc3e10ca46f3f0575c26adbec5b393",
+      "timestamp": "2025-12-14T10:00:16.725Z"
+    },
+    "mc_xmasjam_2025/gfx/env/goosecastle_dn.tga": {
+      "bytes": 786450,
+      "sha256": "2fc4ac27693bdabb5e900158fcbe6c8a19d4f153dd4c9e0dc054a5e98588d4ce",
+      "timestamp": "2025-12-14T10:00:16.519Z"
+    },
+    "mc_xmasjam_2025/gfx/env/goosecastle_ft.tga": {
+      "bytes": 786450,
+      "sha256": "a9a426aa80979a42aa1e9b393c2bfe2db3ad6ba2211dc7367669b1fdcdab90da",
+      "timestamp": "2025-12-14T10:00:15.917Z"
+    },
+    "mc_xmasjam_2025/gfx/env/goosecastle_lf.tga": {
+      "bytes": 786450,
+      "sha256": "0f62eda2562fad064b0486c3eb0e36281d84f4d162476e63654b71a4c9c3e1d3",
+      "timestamp": "2025-12-14T10:00:16.916Z"
+    },
+    "mc_xmasjam_2025/gfx/env/goosecastle_rt.tga": {
+      "bytes": 786450,
+      "sha256": "6f480f204d8b25d907c06a4b8a54c25679ef12a1ddb8b71af27de961593ecb83",
+      "timestamp": "2025-12-14T10:00:16.122Z"
+    },
+    "mc_xmasjam_2025/gfx/env/goosecastle_up.tga": {
+      "bytes": 786450,
+      "sha256": "428100fcca03924a9ab90b1c57632eb5bfc6fbc31843eec6c3d0b14794c76947",
+      "timestamp": "2025-12-14T10:00:16.327Z"
+    },
+    "mc_xmasjam_2025/gfx/env/ish/nightpeaks_bk.tga": {
+      "bytes": 792773,
+      "sha256": "5b3431f9eeddb38771e4e07b5c13f71c7deb136cb7e3bf5a53436bebaf6a140e",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/gfx/env/ish/nightpeaks_dn.tga": {
+      "bytes": 10284,
+      "sha256": "298757e35e303493d062882271b61879a4fbb43fb6152fad568ab0c0b3e18eaa",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/gfx/env/ish/nightpeaks_ft.tga": {
+      "bytes": 840845,
+      "sha256": "c4aa3e5b0babd968de545edcc5eb6623a3a5d04a825c77267307cd6df8656bfe",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/gfx/env/ish/nightpeaks_lf.tga": {
+      "bytes": 800671,
+      "sha256": "6d41491a8ffaa31ebbad54fe9a28d0a1ce8fd464d04d3ed39ebafd0d792a7d2b",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/gfx/env/ish/nightpeaks_rt.tga": {
+      "bytes": 800415,
+      "sha256": "e65e7e4c1141c7afc4af8917ca1953c50ed0982262e19582af7d762123665e44",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/gfx/env/ish/nightpeaks_up.tga": {
+      "bytes": 597382,
+      "sha256": "d82962fd7c0232aa50cb63d1dc977363384dd52559f71d427638de1e68fb82c1",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/gfx/env/snowmoon_bk.tga": {
+      "bytes": 707878,
+      "sha256": "f4c61c3a622a2dabfc2aa2748c3bba9ab52bf018c5c24b5aac6bd682b6d938de",
+      "timestamp": "2025-06-13T10:28:04.468Z"
+    },
+    "mc_xmasjam_2025/gfx/env/snowmoon_dn.tga": {
+      "bytes": 754863,
+      "sha256": "a6f29123dc3da6df244c6878d1a355b9ba7c093b9a38b94e8f9253d317de846c",
+      "timestamp": "2025-06-13T10:28:04.470Z"
+    },
+    "mc_xmasjam_2025/gfx/env/snowmoon_ft.tga": {
+      "bytes": 630095,
+      "sha256": "c10f65b43cff087a7044946f8105d24072bbcb33668bb485f501fc0bdcb7e293",
+      "timestamp": "2025-06-13T10:28:04.476Z"
+    },
+    "mc_xmasjam_2025/gfx/env/snowmoon_lf.tga": {
+      "bytes": 671066,
+      "sha256": "8025d6d72582a374583dc4c80d15de546b1ebea3f378cc55b084483778d8f985",
+      "timestamp": "2025-06-13T10:28:04.480Z"
+    },
+    "mc_xmasjam_2025/gfx/env/snowmoon_rt.tga": {
+      "bytes": 636559,
+      "sha256": "339a1a1a36ffafa6bb49ae5bffcb73c81d4304f0f6d40d5fe470654c0db56037",
+      "timestamp": "2025-06-13T10:28:04.485Z"
+    },
+    "mc_xmasjam_2025/gfx/env/snowmoon_up.tga": {
+      "bytes": 410341,
+      "sha256": "f08c76ef2c7c2338b64615543ffa1217edab3ca41bc79cb74b20bc42d329e82c",
+      "timestamp": "2025-06-13T10:28:04.486Z"
+    },
+    "mc_xmasjam_2025/gfx/help0.lmp": {
+      "bytes": 64008,
+      "sha256": "a878796ad2dbab6a64e1eba47605d124170d5b4a7ce476b9d0087c2e302c00f1",
+      "timestamp": "2016-06-14T10:46:27.373Z"
+    },
+    "mc_xmasjam_2025/gfx/help1.lmp": {
+      "bytes": 64008,
+      "sha256": "381ec91a75cacad94d2a4d5a3b1cd6f9b22cce507fe95f980ebaabdb21bbe440",
+      "timestamp": "2016-06-14T10:46:33.820Z"
+    },
+    "mc_xmasjam_2025/gfx/help2.lmp": {
+      "bytes": 64008,
+      "sha256": "9e9568b56059e74e621ad564b51cb0b886fcf800fd8d35a06df1aa79ac2aa823",
+      "timestamp": "2018-11-28T20:42:19.673Z"
+    },
+    "mc_xmasjam_2025/gfx/help3.lmp": {
+      "bytes": 64008,
+      "sha256": "52164e93b333dfe09a33d7ad1905796d7e7578a036b2fb2ddf35c4bf3381f30f",
+      "timestamp": "2016-06-14T10:46:49.294Z"
+    },
+    "mc_xmasjam_2025/gfx/help4.lmp": {
+      "bytes": 64008,
+      "sha256": "240a13f778cc7ec7ebbc67b23a977a54099e1996fd868f51c18f81aa3606d179",
+      "timestamp": "2016-06-14T10:46:58.868Z"
+    },
+    "mc_xmasjam_2025/gfx/help5.lmp": {
+      "bytes": 64008,
+      "sha256": "fae9345c9eeb43a56a14e9e681f9e9dadc05ba6e35f44197fca5873dbd52904b",
+      "timestamp": "2016-06-14T10:47:04.830Z"
+    },
+    "mc_xmasjam_2025/gfx/loading.lmp": {
+      "bytes": 3272,
+      "sha256": "ba61bec9eaf837bddef9a1320c0acfe026a130bc078836abf971095157ee395f",
+      "timestamp": "2016-06-14T10:55:12.400Z"
+    },
+    "mc_xmasjam_2025/gfx/mainmenu.lmp": {
+      "bytes": 26888,
+      "sha256": "fc226280c4948249790f00f97dd9b39e912131fc904ec75adb90308ba8763afc",
+      "timestamp": "2012-12-29T22:23:17.012Z"
+    },
+    "mc_xmasjam_2025/gfx/mainmenu2.lmp": {
+      "bytes": 30728,
+      "sha256": "a3fd168c6454eeaeea9e248df568e5942a7f850bc5478f8946a0b6516a2ce6c4",
+      "timestamp": "2017-04-22T17:41:02.079Z"
+    },
+    "mc_xmasjam_2025/gfx/pause.lmp": {
+      "bytes": 3272,
+      "sha256": "788da2d0f96ed9f0822fff406f364a912179e33f6f4d068aa7b772f2747cbc85",
+      "timestamp": "2016-06-14T11:05:50.616Z"
+    },
+    "mc_xmasjam_2025/gfx/p_load.lmp": {
+      "bytes": 6920,
+      "sha256": "5a84111e70bf277960853bca69a0dff9093d00d817ffab6fed96f33751435ae6",
+      "timestamp": "2016-06-24T10:51:47.654Z"
+    },
+    "mc_xmasjam_2025/gfx/p_mod.lmp": {
+      "bytes": 6920,
+      "sha256": "3080226ebf497787e7ee1d7bc2917ae220340b7da4af58ff1a0f89f02b5c03d0",
+      "timestamp": "2017-06-08T16:50:34.410Z"
+    },
+    "mc_xmasjam_2025/gfx/p_mod_idver.lmp": {
+      "bytes": 2504,
+      "sha256": "56234ed3e4e4fe95f8a4a1f9a52d4a73890ea653aa88ec992e6777bf3e99b445",
+      "timestamp": "2017-06-06T20:02:12.136Z"
+    },
+    "mc_xmasjam_2025/gfx/p_multi.lmp": {
+      "bytes": 6728,
+      "sha256": "493a3ae8e9553de87c49d356e916adab7c87e3b25a44c1d1ac46e37de4df800b",
+      "timestamp": "2016-06-14T11:03:28.101Z"
+    },
+    "mc_xmasjam_2025/gfx/p_option.lmp": {
+      "bytes": 6728,
+      "sha256": "d79623e26bed9db65257e3c0bf43b085d2419fc6e5277ff357350556882456d9",
+      "timestamp": "2016-06-14T11:03:35.244Z"
+    },
+    "mc_xmasjam_2025/gfx/p_save.lmp": {
+      "bytes": 6920,
+      "sha256": "f51c8bd49d699f08322b734f281d7e626c24844aec09099877fbceb1884cb705",
+      "timestamp": "2016-06-14T11:05:01.718Z"
+    },
+    "mc_xmasjam_2025/gfx/qplaque.lmp": {
+      "bytes": 4616,
+      "sha256": "e433f3f5b535d3157ec0feeb91804959ff671b88a04c9785a02ec3acf5539af7",
+      "timestamp": "2016-06-14T11:06:58.172Z"
+    },
+    "mc_xmasjam_2025/gfx/ranking.lmp": {
+      "bytes": 4040,
+      "sha256": "f8ee0991ff6faaef3b4d2230364776effe6a1d4b47588b98e39c1d0b4199fd9c",
+      "timestamp": "2016-06-14T11:07:40.415Z"
+    },
+    "mc_xmasjam_2025/gfx/sell.lmp": {
+      "bytes": 64008,
+      "sha256": "a6ccb48f7e1d00ec64e5154a0a47b433f017341b8e23ba4f7f7fef6fe9a27b3a",
+      "timestamp": "2016-06-14T11:11:22.704Z"
+    },
+    "mc_xmasjam_2025/gfx/ttl_cstm.lmp": {
+      "bytes": 6920,
+      "sha256": "bce2792bc38f1f097336ebdedff2029b21f4cebc523684738f7e10e086d33661",
+      "timestamp": "2016-06-14T11:09:29.151Z"
+    },
+    "mc_xmasjam_2025/gfx/ttl_main.lmp": {
+      "bytes": 6728,
+      "sha256": "f78f895a203d5b22b35bc82b4034aad71e9177a3013732646174b704850e2d34",
+      "timestamp": "2012-12-30T00:10:21.350Z"
+    },
+    "mc_xmasjam_2025/gfx/ttl_sgl.lmp": {
+      "bytes": 6728,
+      "sha256": "5eeeea42e3f429aae7f907145b88376805346ebe3ce932259bdfc43399f960ff",
+      "timestamp": "2012-12-30T00:11:22.416Z"
+    },
+    "mc_xmasjam_2025/gfx/vidmodes.lmp": {
+      "bytes": 4808,
+      "sha256": "5ae8a3fd789e7ddf6d7791ee89cb79ef989cb000c086e9269349aa623f1f6438",
+      "timestamp": "2016-06-14T11:10:19.461Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/all_brick.map": {
+      "bytes": 22738,
+      "sha256": "e0859c71d8a3d5d4b140757e4fcd2ab4e92674bbb71979d6b9d6d2deb5d2390a",
+      "timestamp": "2021-12-12T17:45:10.934Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/all_glassa.map": {
+      "bytes": 8834,
+      "sha256": "f4e1c7c1444b3b2d8a3463e8950c0a6a3aed8d39144a6b1fc2a69bdbf376f444",
+      "timestamp": "2021-12-12T17:45:10.937Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/all_metal.map": {
+      "bytes": 12297,
+      "sha256": "447c74022bea3ae89d3a4412afcf4bcd384ea725b344b987fb2e7bb37adfabe1",
+      "timestamp": "2021-12-12T17:45:10.939Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/all_rocka.map": {
+      "bytes": 10235,
+      "sha256": "52edb0d5b9f79e8b89a58353098316e81be31c3e289d6f96e450ea01c4bbeb62",
+      "timestamp": "2021-12-12T17:45:10.942Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/all_wood.map": {
+      "bytes": 8397,
+      "sha256": "93697129156d662c18391564e26c5d5ceec8bac244209496290b8e9a516a5bfb",
+      "timestamp": "2021-12-12T17:45:10.944Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick01.bsp": {
+      "bytes": 7912,
+      "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
+      "timestamp": "2021-12-12T17:45:10.948Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick01.map": {
+      "bytes": 717,
+      "sha256": "3f87d06eb46f67efa678ddd5ddf274e9c595c4a5236d8f111d8a0ea999972e09",
+      "timestamp": "2021-12-12T17:45:10.952Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick02.bsp": {
+      "bytes": 8072,
+      "sha256": "9ec52c7441f570d2a793035ebc2128d7f7f91f71b44b4418fd01e6b3e6d503e2",
+      "timestamp": "2021-12-12T17:45:10.954Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick02.map": {
+      "bytes": 861,
+      "sha256": "616d1c5b6f3e476453e8b9b57dd59deb285c6c0482680ca5d6da358ee808c619",
+      "timestamp": "2021-12-12T17:45:10.956Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick03.bsp": {
+      "bytes": 8280,
+      "sha256": "aa55feca84b80282851ca55c71deb3d54f02a6668af820f5ac4f9c1a0514e5e1",
+      "timestamp": "2021-12-12T17:45:10.958Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick03.map": {
+      "bytes": 935,
+      "sha256": "4359e78daaac0b8d4ff58dc68301bba4cd423e81284bcd360ce1480862c19d91",
+      "timestamp": "2021-12-12T17:45:10.959Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick04.bsp": {
+      "bytes": 8052,
+      "sha256": "b1fa14c188a8ad31cf58c7ebd495fbe8ed153819015d4e97c82e01ee052081e3",
+      "timestamp": "2021-12-12T17:45:10.960Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick04.map": {
+      "bytes": 815,
+      "sha256": "2bda60cc50886dc430a053f509f2376dcd9bd4d09666cf7960a96484fa369903",
+      "timestamp": "2021-12-12T17:45:10.961Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick05.bsp": {
+      "bytes": 7952,
+      "sha256": "e137a3ea0f33a83b8717dcb9d6e2ab79876112121dc21fe2e625d24d5d251384",
+      "timestamp": "2021-12-12T17:45:10.962Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick05.map": {
+      "bytes": 770,
+      "sha256": "8ebf395096050f65a3a370971d65deb0926af70f6cbd75c6579a53b68f676793",
+      "timestamp": "2021-12-12T17:45:10.963Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick06.bsp": {
+      "bytes": 9184,
+      "sha256": "32cee0a2c668160e07568ae08b4de5beae87d74e94a347cd431c90005bf49e24",
+      "timestamp": "2021-12-12T17:45:10.963Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick06.map": {
+      "bytes": 1709,
+      "sha256": "289f58cad70a88e8a8d986644faf539dd38cf52a884aa7f85513db5df0cc438c",
+      "timestamp": "2021-12-12T17:45:10.964Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick07.bsp": {
+      "bytes": 10377,
+      "sha256": "df07446f9f6a118f11451de5d7817f582c11dcc81ca3f83c8fa72c9d95e8df9c",
+      "timestamp": "2021-12-12T17:45:10.965Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick07.map": {
+      "bytes": 1942,
+      "sha256": "fe440636e5354fb553708f3b6859023d0a520f315050dc11a564e31a7b72d5e4",
+      "timestamp": "2021-12-12T17:45:10.966Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick08.bsp": {
+      "bytes": 13964,
+      "sha256": "2abbbc958d752e742df9d1f7152c4cc8c0de6373f20e628a762e2a22f5d6b3f7",
+      "timestamp": "2021-12-12T17:45:10.967Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick08.map": {
+      "bytes": 3286,
+      "sha256": "72174f573416102bb4e087e2025b3dbdfc669ab7cafc8b354f7b1a4485af1f5b",
+      "timestamp": "2021-12-12T17:45:10.968Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick09.bsp": {
+      "bytes": 7952,
+      "sha256": "28d7162b4af3f4ce184a31a14e3a9777383f29b63920d9d62ff136ae96e3a2fd",
+      "timestamp": "2021-12-12T17:45:10.969Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick09.map": {
+      "bytes": 770,
+      "sha256": "62f11ef3e3033dea82eb6062e5b5301474dd014f889a980383891e689be2a352",
+      "timestamp": "2021-12-12T17:45:10.971Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick10.bsp": {
+      "bytes": 9184,
+      "sha256": "7d6f8e3fd1b65880bb767ab5d488ef11bbb01ec4ce14c7b747ee75b8a8238c4e",
+      "timestamp": "2021-12-12T17:45:10.972Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick10.map": {
+      "bytes": 1709,
+      "sha256": "276f975d99dfe982bf71104889f65a248d719778db89591e7193ecc46b13d645",
+      "timestamp": "2021-12-12T17:45:10.973Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick11.bsp": {
+      "bytes": 10377,
+      "sha256": "f65cbdb642220611e89725187f47427031c4b18c21cc04ae3f6cfb4dffd149a2",
+      "timestamp": "2021-12-12T17:45:10.974Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick11.map": {
+      "bytes": 1942,
+      "sha256": "3b9d73d400e29fba3c82d8b2ccdad26e03b128c7771427497d4740c2d34cd63d",
+      "timestamp": "2021-12-12T17:45:10.975Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick12.bsp": {
+      "bytes": 13918,
+      "sha256": "1e1e8191c5ebdd1f0fed27edaa04a82a6aabd5c41723cf590781ff00f7300a02",
+      "timestamp": "2021-12-12T17:45:10.977Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick12.map": {
+      "bytes": 3286,
+      "sha256": "d2b89c83f1ff95d6fe577cf4a166e7bec6e02ab85f48c51316908d7d80068156",
+      "timestamp": "2021-12-12T17:45:10.978Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick13.bsp": {
+      "bytes": 7912,
+      "sha256": "4b5ac4eb6ea5a9ec049c27082d800cb981902965a4b652f86e1753bfa1eb7c94",
+      "timestamp": "2021-12-12T17:45:10.979Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick13.map": {
+      "bytes": 690,
+      "sha256": "253425ec201a354cd1b4c93c78d740e2a17c7d946d911efffa63d522e95f9f0b",
+      "timestamp": "2021-12-12T17:45:10.980Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick14.bsp": {
+      "bytes": 8072,
+      "sha256": "afe8797d2172a5b4b06be3e2a69038346d62938f3d9da6ea224074cee5bb1669",
+      "timestamp": "2021-12-12T17:45:10.981Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick14.map": {
+      "bytes": 828,
+      "sha256": "a500705a328cafa28159ee107cbe80003848ee241c3544a73dea1432f67b4042",
+      "timestamp": "2021-12-12T17:45:10.983Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick15.bsp": {
+      "bytes": 8280,
+      "sha256": "58ddb31ce4108a70872444022369154529c532983dbc58698cd88f217f8947a0",
+      "timestamp": "2021-12-12T17:45:10.984Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick15.map": {
+      "bytes": 899,
+      "sha256": "589f256e02b66051ede4f2fe136e69313a7e01402f1caa43bada4d605a046b8e",
+      "timestamp": "2021-12-12T17:45:10.985Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick16.bsp": {
+      "bytes": 8052,
+      "sha256": "d5c15593d0d776d5f76919100602d893973cd59b7ca88af55e1ae3cc2fb56967",
+      "timestamp": "2021-12-12T17:45:10.986Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick16.map": {
+      "bytes": 785,
+      "sha256": "a15682c168f0a7128c83bf7bd38688ae1d2507873687e815c690b08d44f14a37",
+      "timestamp": "2021-12-12T17:45:10.987Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick17.bsp": {
+      "bytes": 7952,
+      "sha256": "738d902046d73e14b8a552529dd8306864661fd0469efb52b3c81329135e8372",
+      "timestamp": "2021-12-12T17:45:10.988Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick17.map": {
+      "bytes": 770,
+      "sha256": "699fa7055fa88f309fe4a4a2af24b5d61af91365d81074e44cbdf399d36939c9",
+      "timestamp": "2021-12-12T17:45:10.989Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick18.bsp": {
+      "bytes": 9184,
+      "sha256": "67ad693c292448f73ea0b3ab6ee22883709c7deb006cecd19c0dda5c9d4fa131",
+      "timestamp": "2021-12-12T17:45:10.990Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick18.map": {
+      "bytes": 1709,
+      "sha256": "849749000a41ecfc60aa4607c890e140bcd78ef26858512f56494efdc5873bcd",
+      "timestamp": "2021-12-12T17:45:10.990Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick19.bsp": {
+      "bytes": 10321,
+      "sha256": "721c3237db8c026a03e01e387bb95fe5ed8fbc49b3c527220f164d77a2f3a4f2",
+      "timestamp": "2021-12-12T17:45:10.991Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick19.map": {
+      "bytes": 1942,
+      "sha256": "1760c2c74d0b894814c89152062f2f55a8635a17559828c27532a7e913949af6",
+      "timestamp": "2021-12-12T17:45:10.991Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick20.bsp": {
+      "bytes": 13306,
+      "sha256": "bbecee9c1ac726743e6cc49d18246c650f762f577dc108ffed2a6807ff665052",
+      "timestamp": "2021-12-12T17:45:10.992Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick20.map": {
+      "bytes": 3286,
+      "sha256": "121d4fe62c07953f11a04a41577769a38cae8852af78bbd40fc44f598eee91d7",
+      "timestamp": "2021-12-12T17:45:10.993Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick21.bsp": {
+      "bytes": 7972,
+      "sha256": "e65c1df9d5f02efc9475a53d1127d7899f69d23d8a0ea20deab384fcd3351d29",
+      "timestamp": "2021-12-12T17:45:10.993Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick21.map": {
+      "bytes": 789,
+      "sha256": "8c12d093245c3937afcf62916fce9e6b2d181d72d433b879112b27e0f168ccc7",
+      "timestamp": "2021-12-12T17:45:10.994Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick22.bsp": {
+      "bytes": 9204,
+      "sha256": "b8efe5f130accf1e8704202dbaa44215259e1209b9b81bf79461ff5e5f725596",
+      "timestamp": "2021-12-12T17:45:10.994Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick22.map": {
+      "bytes": 1728,
+      "sha256": "403525bf264890c5d9adef370847749cbeec481337f284618810057e697cddde",
+      "timestamp": "2021-12-12T17:45:10.995Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick23.bsp": {
+      "bytes": 10340,
+      "sha256": "79bac69a44c7e83343bd69c2360176046e048257ecfb7ac27f3c989b42af92e9",
+      "timestamp": "2021-12-12T17:45:10.995Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick23.map": {
+      "bytes": 1961,
+      "sha256": "f25e7a514eb15637b7dedc41ec5c34e2d8b9e4dd3b584a41a1b1d7c166b362ef",
+      "timestamp": "2021-12-12T17:45:10.996Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick24.bsp": {
+      "bytes": 13312,
+      "sha256": "2e0728a16ebe0fa868d8bd0ffe0f54e013afac41c77ee7516f385d7a6718b07f",
+      "timestamp": "2021-12-12T17:45:10.997Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick24.map": {
+      "bytes": 3305,
+      "sha256": "481d21e7e07a312e894f71a8118035457164f17d48032bad54bdc62644e7e8a4",
+      "timestamp": "2021-12-12T17:45:10.997Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick25.bsp": {
+      "bytes": 7924,
+      "sha256": "8e33245bde92e94d9dddca1b61059fee1eb19aed0613945c1dffe3145fd51d78",
+      "timestamp": "2021-12-12T17:45:10.998Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick25.map": {
+      "bytes": 715,
+      "sha256": "cf6042585a2347f8ae4de546e2fa9aa905aa7ee4d9607a12dfd778d0084ba9d1",
+      "timestamp": "2021-12-12T17:45:10.999Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick26.bsp": {
+      "bytes": 8084,
+      "sha256": "4ddb5d2ca4adbc32f905a0340b26a174c25af7f6de5ad9408c4e0f4ca2816a55",
+      "timestamp": "2021-12-12T17:45:11.000Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick26.map": {
+      "bytes": 855,
+      "sha256": "baaf133d5c5c90b295855bb03a0a30340db324ddc82ed119a9d025e8ddb22724",
+      "timestamp": "2021-12-12T17:45:11.001Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick27.bsp": {
+      "bytes": 8296,
+      "sha256": "9084778144864d4167d270dd825e99d18d7ea7fc2dfb799f7e0eb12f1d236688",
+      "timestamp": "2021-12-12T17:45:11.001Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick27.map": {
+      "bytes": 927,
+      "sha256": "4e3b59df2a5b8efe85460f114baa795c36c8b410407e0752a69efc525d49e9b0",
+      "timestamp": "2021-12-12T17:45:11.002Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick28.bsp": {
+      "bytes": 8068,
+      "sha256": "42b4fe7f99032b3292996bcfe8b72e1c5e3b637357e376f8502a202a3816bcf0",
+      "timestamp": "2021-12-12T17:45:11.003Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick28.map": {
+      "bytes": 811,
+      "sha256": "c088828bbe9cdca1bb55ea4ceca9f46e03217f1643189a93d70a83eeb11f72bc",
+      "timestamp": "2021-12-12T17:45:11.004Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick29.bsp": {
+      "bytes": 24232,
+      "sha256": "463ff6bed92dfab082f13876187c506572dd3d18727e13fb708e24afd02aa7ef",
+      "timestamp": "2021-12-12T17:45:11.005Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick29.map": {
+      "bytes": 711,
+      "sha256": "1a4ff9d041df15cfd229666a9b32c24a96577ef6f249f33d89dc88cdfbe5540a",
+      "timestamp": "2021-12-12T17:45:11.006Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick30.bsp": {
+      "bytes": 24392,
+      "sha256": "a82a0d709c367d8ecf359142d99d0ad09d97b674ef1575beeb78dbbe93025c59",
+      "timestamp": "2021-12-12T17:45:11.006Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick30.map": {
+      "bytes": 853,
+      "sha256": "803c896037b5cc971e932219b5f06e363724a25de693ef6800d1332c6df4f8d1",
+      "timestamp": "2021-12-12T17:45:11.007Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick31.bsp": {
+      "bytes": 24604,
+      "sha256": "deb8a0278e043c6510e7f7d17ec708bdc7f37fa884f869ccbfc9ef9a95b6a8ac",
+      "timestamp": "2021-12-12T17:45:11.008Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick31.map": {
+      "bytes": 926,
+      "sha256": "9a3502125d9a995f10052ed6a9971bfe148a4e8fd7561a082e8bbecff5b39d56",
+      "timestamp": "2021-12-12T17:45:11.009Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick32.bsp": {
+      "bytes": 24376,
+      "sha256": "c8961b003f231b13a74bc247ce13ada38850707d443aa98dbad98b9f2ecf276b",
+      "timestamp": "2021-12-12T17:45:11.009Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/brick32.map": {
+      "bytes": 808,
+      "sha256": "aa96dda4508d2e98b5827ac42d8230f11969457f63022bf488dac06d2783910e",
+      "timestamp": "2021-12-12T17:45:11.010Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass01.bsp": {
+      "bytes": 8095,
+      "sha256": "d5d9b8df7fc4db671e180fbc60253ea809b61819bd77a9072d1cf1b1c9c11888",
+      "timestamp": "2021-12-12T17:45:11.011Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass01.map": {
+      "bytes": 961,
+      "sha256": "04b6721fc35e7a43fa921075bc2184bbbb2791570ea781ee6351b0cf01936456",
+      "timestamp": "2021-12-12T17:45:11.012Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass02.bsp": {
+      "bytes": 7035,
+      "sha256": "b2e6ba1e674f6a93e01ada15700b98624eae9c242a30eba9ea032d2e7d9fc555",
+      "timestamp": "2021-12-12T17:45:11.013Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass02.map": {
+      "bytes": 447,
+      "sha256": "6bf3cce568e830dd03830bb2e7225329490dae01e33806eec6a594313a8daa9e",
+      "timestamp": "2021-12-12T17:45:11.013Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass03.bsp": {
+      "bytes": 7922,
+      "sha256": "02661d1e724d41c02c977f8b869a23e6fc883303b66298c98ebddf752f365a1b",
+      "timestamp": "2021-12-12T17:45:11.014Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass03.map": {
+      "bytes": 963,
+      "sha256": "cb5245e54bc27d999bd643370557f8e766ae94e10358993951084e6ca87d087c",
+      "timestamp": "2021-12-12T17:45:11.015Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass04.bsp": {
+      "bytes": 7223,
+      "sha256": "a41bddb2d6a0ef53b96097a6e4d9731bf100b695a7a1c11091f054f746c7bf2a",
+      "timestamp": "2021-12-12T17:45:11.015Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass04.map": {
+      "bytes": 512,
+      "sha256": "f8e9f41266f3cd0017c19f7d3a29e0c738b497fb539cec2583c4eda6d509965c",
+      "timestamp": "2021-12-12T17:45:11.016Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass05.bsp": {
+      "bytes": 24436,
+      "sha256": "10fd2ef7f24bda233c3b4433e4ed64b8feb7273f09c0da5d93190ced61f20779",
+      "timestamp": "2021-12-12T17:45:11.017Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass05.map": {
+      "bytes": 999,
+      "sha256": "c8e2039929909b608ac0ddf36562443caf7052a15e8b0e39a73e0869c15930c1",
+      "timestamp": "2021-12-12T17:45:11.017Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass06.bsp": {
+      "bytes": 24300,
+      "sha256": "60f08ebc3d967dbe1b6062a59679a3e89e199a305f51bb9bc7dbada44c66fe5e",
+      "timestamp": "2021-12-12T17:45:11.018Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass06.map": {
+      "bytes": 976,
+      "sha256": "73346b8cc46166371a6e7f220ebe78f2cde29f29d8d705e1e4b0c60e153b52df",
+      "timestamp": "2021-12-12T17:45:11.019Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass07.bsp": {
+      "bytes": 23365,
+      "sha256": "ccebafe1a97953e91b64694783a1989c8e8ba440fd3c136b09785131b54c75cf",
+      "timestamp": "2021-12-12T17:45:11.020Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass07.map": {
+      "bytes": 458,
+      "sha256": "6d79a332d308ed3746c8f2fd13227b44a1cc66f0b2fd471eb6de1cbf695d81c9",
+      "timestamp": "2021-12-12T17:45:11.021Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass08.bsp": {
+      "bytes": 23602,
+      "sha256": "82c1bfe3d83c87c908d6dac76a255843cbbaededeaf644eeec5b9b9a794e0bdf",
+      "timestamp": "2021-12-12T17:45:11.022Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass08.map": {
+      "bytes": 530,
+      "sha256": "65dba1b71881c49b29d288720f43c457c838b93aa9e522953bac885443944c04",
+      "timestamp": "2021-12-12T17:45:11.022Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass09.bsp": {
+      "bytes": 24436,
+      "sha256": "34e317a5652fcc4a3aaf517ebc178c8d8fad6738b536a6c06eff2800bf7fefba",
+      "timestamp": "2021-12-12T17:45:11.023Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass09.map": {
+      "bytes": 999,
+      "sha256": "ca9b91b38fa600b7dfa80e9a257dc15f2f2dda9e1d2c1d002ea90cbdcc0e0279",
+      "timestamp": "2021-12-12T17:45:11.024Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass10.bsp": {
+      "bytes": 24300,
+      "sha256": "6e06c140e0916cd35235bd7e6970ca3250c6c36a2ee6d4632d805da67215818a",
+      "timestamp": "2021-12-12T17:45:11.024Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass10.map": {
+      "bytes": 976,
+      "sha256": "2043f7646edcfa088a76b6104b136ff9ca0f90bffe6efb955f951a4bfe16643d",
+      "timestamp": "2021-12-12T17:45:11.025Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass11.bsp": {
+      "bytes": 23365,
+      "sha256": "caae0c47ae097f4cb1055a3f5eecd5d407b71c975b35d992f3048993b1ac7e97",
+      "timestamp": "2021-12-12T17:45:11.026Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass11.map": {
+      "bytes": 458,
+      "sha256": "5bea1bbcee409674f58a1fd26cf0c983e11f8ffd5f20c829f5c3df6a4c28b1c9",
+      "timestamp": "2021-12-12T17:45:11.026Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass12.bsp": {
+      "bytes": 23602,
+      "sha256": "526018b31a9b02b1c9e1b5123b2c936677d6fd7b6c014ea14dfe4905271e419f",
+      "timestamp": "2021-12-12T17:45:11.027Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass12.map": {
+      "bytes": 530,
+      "sha256": "499ed4ce1a1ebbd9347a2a4dc6413f2f79d203bbce293a79a5b2bde49ade0a3f",
+      "timestamp": "2021-12-12T17:45:11.027Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass13.bsp": {
+      "bytes": 24108,
+      "sha256": "fdb97447ffe9e4769f35a3e1e7bd9d6b0e2e6b555d60102991bf57f06e8b3d83",
+      "timestamp": "2021-12-12T17:45:11.028Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass13.map": {
+      "bytes": 979,
+      "sha256": "073661c415a2568c45a90cc9baa471cde9a02a975d4d4fd7596bb96d272d3934",
+      "timestamp": "2021-12-12T17:45:11.029Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass14.bsp": {
+      "bytes": 23296,
+      "sha256": "e3517bb79e2561150c4641ab3650e0697adcaa2f281c5209cacdc12d9c4023a7",
+      "timestamp": "2021-12-12T17:45:11.030Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass14.map": {
+      "bytes": 462,
+      "sha256": "066d5bade73c399cf10a9dcafecec9d65ac3c6045644988cbefb104fb8e7d8c3",
+      "timestamp": "2021-12-12T17:45:11.031Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass15.bsp": {
+      "bytes": 23892,
+      "sha256": "6abc82aca32e6c8312884db42891753c8d2ad8e1d4ae9218022604eadb08708b",
+      "timestamp": "2021-12-12T17:45:11.031Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass15.map": {
+      "bytes": 993,
+      "sha256": "5c24e1763bd26d34539bc7ee527842810e4ddb6ac80f683a7b3b35ee326360d3",
+      "timestamp": "2021-12-12T17:45:11.032Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass16.bsp": {
+      "bytes": 23532,
+      "sha256": "13725c14b226297090c4f1e9949c476f601a52247bc8f6abb937a57b964462c6",
+      "timestamp": "2021-12-12T17:45:11.033Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/glass16.map": {
+      "bytes": 528,
+      "sha256": "03dbc7feb833831d413e7f87ed0e79625da0800659ab65ea8d3deb63de09a27d",
+      "timestamp": "2021-12-12T17:45:11.034Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_1.bsp": {
+      "bytes": 25264,
+      "sha256": "99b67eeed7ece0f46b1d7b4b2309331e655eb9c1b412d3ac4bc362acb4dd8606",
+      "timestamp": "2021-12-12T17:45:11.034Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_1.map": {
+      "bytes": 1455,
+      "sha256": "51018fd4ff6d00c9c2c449e32a83b8521fdc3babb2937adf6800d8e67e38b976",
+      "timestamp": "2021-12-12T17:45:11.035Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_2.bsp": {
+      "bytes": 24460,
+      "sha256": "a98bdee68b3a222af0f44fc978d09e092a08953539929a6a53f1bf0e97568e74",
+      "timestamp": "2021-12-12T17:45:11.036Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_2.map": {
+      "bytes": 1103,
+      "sha256": "2880a3f7becf48ae79c27ef9a05faa5c774df20a53ec5d892304bf67bc06cbbe",
+      "timestamp": "2021-12-12T17:45:11.037Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_3.bsp": {
+      "bytes": 24632,
+      "sha256": "967e89f57bc011cd3b38d60d45272633cc0f773c91045b7938766ac0436ae803",
+      "timestamp": "2021-12-12T17:45:11.037Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_3.map": {
+      "bytes": 1171,
+      "sha256": "40ef38fd45c3e9c750d311bb8920b938fcd9f647f2dabc58509b327514f44907",
+      "timestamp": "2021-12-12T17:45:11.038Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_4.bsp": {
+      "bytes": 24452,
+      "sha256": "e4559e1e5a3118f2c949daccb96f887d64821511f5850cfa72133f84a8e04901",
+      "timestamp": "2021-12-12T17:45:11.039Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/kn_mtrim2_4.map": {
+      "bytes": 1036,
+      "sha256": "595513bc0fe2441cb6aa88af41d9afd7de8b94421ac6c32c546113f83be6577c",
+      "timestamp": "2021-12-12T17:45:11.040Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal01.bsp": {
+      "bytes": 8122,
+      "sha256": "11e8e340455c487150951fb4dccaf7da72d0243892948d5c22b478221ffcca23",
+      "timestamp": "2021-12-12T17:45:11.040Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal01.map": {
+      "bytes": 780,
+      "sha256": "902c31c661df8bbc1b0c410b6a8745f680e85cf91bbdb14d85244b6937be5239",
+      "timestamp": "2021-12-12T17:45:11.041Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal02.bsp": {
+      "bytes": 10022,
+      "sha256": "59b56266e73b4246c54d8cd9c4769d7345c53ae5133c45d1db94f5c771350d94",
+      "timestamp": "2021-12-12T17:45:11.042Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal02.map": {
+      "bytes": 1414,
+      "sha256": "171bfe727b6c80a4c0350fb4c87090d30c3fb1a21962b8fc9c638c47027e1fea",
+      "timestamp": "2021-12-12T17:45:11.043Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal03.bsp": {
+      "bytes": 9386,
+      "sha256": "13e3ea83c5bdbf81075328cc14543d1ab6301378cc9af56b59b67b1cc22e3a53",
+      "timestamp": "2021-12-12T17:45:11.043Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal03.map": {
+      "bytes": 1179,
+      "sha256": "89ac4002203958a9f971601586f4e4e6bdcaab7cbde62ca7fb58cf705fbdae56",
+      "timestamp": "2021-12-12T17:45:11.044Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal04.bsp": {
+      "bytes": 10655,
+      "sha256": "785ab6aed41e60072083aeee571d76796f60ec5e24d249736575007d558c10ae",
+      "timestamp": "2021-12-12T17:45:11.045Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal04.map": {
+      "bytes": 1599,
+      "sha256": "aecd2de4ce9cdb49922c58f640f3df4c48b8dc45f5e611f5d0c75a6a96bf705e",
+      "timestamp": "2021-12-12T17:45:11.045Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal05.bsp": {
+      "bytes": 8337,
+      "sha256": "82da98a887a0101d1a638d266db3c9913090b3fcaca6af5869e7063529b3066e",
+      "timestamp": "2021-12-12T17:45:11.046Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal05.map": {
+      "bytes": 905,
+      "sha256": "541a5d633be51d32bbd6580cf3fb4fcc7e9b3c38107eaffdd88896a01d249b71",
+      "timestamp": "2021-12-12T17:45:11.047Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal06.bsp": {
+      "bytes": 7898,
+      "sha256": "3fe3f66ff336ede9d9a6f4fc0f7df16b62504b25a8dea1c8adce2113e927428e",
+      "timestamp": "2021-12-12T17:45:11.047Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal06.map": {
+      "bytes": 697,
+      "sha256": "30bfd29315a3c0d8654aa1842b7f2a2a7bcdc7a5a81ff96f359a86d57a289ce9",
+      "timestamp": "2021-12-12T17:45:11.048Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal07.bsp": {
+      "bytes": 8439,
+      "sha256": "8f8a722ae0d3350bf4331fbd4a492dd4c18b3c44006289fd7c6d393282f280a1",
+      "timestamp": "2021-12-12T17:45:11.049Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal07.map": {
+      "bytes": 1508,
+      "sha256": "f2c7442255c68ae30186692cdf49bca0f1e5769587d5d2392baf3ec4708679b2",
+      "timestamp": "2021-12-12T17:45:11.049Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal08.bsp": {
+      "bytes": 8150,
+      "sha256": "028675fecfd419e8852cabe821fac1941c914bdf43110291d7a07509e77f4d26",
+      "timestamp": "2021-12-12T17:45:11.050Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal08.map": {
+      "bytes": 847,
+      "sha256": "797217e143857e0b27e1654449a5dbdc0b1a3dc46c8cafdea5ee9c5ac0cbf16c",
+      "timestamp": "2021-12-12T17:45:11.051Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal09.bsp": {
+      "bytes": 7456,
+      "sha256": "4d6fb8a19ce5a331ceb68fcfa952fa61ed3ad336002eedd788921b0daa2a7877",
+      "timestamp": "2021-12-12T17:45:11.051Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal09.map": {
+      "bytes": 649,
+      "sha256": "1fde976a2f1372d9d55350caa3285776eee897d9786f9118d5a6988010efaeca",
+      "timestamp": "2021-12-12T17:45:11.052Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal10.bsp": {
+      "bytes": 7785,
+      "sha256": "c25084ae2f159ba73e6c43041a2e050d30af70a862a9c4846b2241848a33b55f",
+      "timestamp": "2021-12-12T17:45:11.052Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal10.map": {
+      "bytes": 709,
+      "sha256": "856390903976512f1b5372f374b5c7444238a173abbedbbfeccbb675cf93ed66",
+      "timestamp": "2021-12-12T17:45:11.053Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal11.bsp": {
+      "bytes": 7918,
+      "sha256": "e939c6c80e11479887b68bb39a97e0b877514c4e9dc9b2a4a9e18303caa317f1",
+      "timestamp": "2021-12-12T17:45:11.053Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal11.map": {
+      "bytes": 797,
+      "sha256": "74528d15a51708fdca65c900096411f1d56d6472a5058458577ac04d820e9895",
+      "timestamp": "2021-12-12T17:45:11.054Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal12.bsp": {
+      "bytes": 8226,
+      "sha256": "3ceccd7aa24fc353e0ac3ccb15531c2f243c0ed246c73c44bdd8897dbdd6537e",
+      "timestamp": "2021-12-12T17:45:11.054Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal12.map": {
+      "bytes": 872,
+      "sha256": "a95f34c46729c7849e6d45d9cdf57bb49289561b6551bd2e4a39659c272343fd",
+      "timestamp": "2021-12-12T17:45:11.055Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal13.bsp": {
+      "bytes": 8121,
+      "sha256": "e02aa4c824f5d8fcdfe302a0a194cee6fcf44e2fee844c492f434bf2b7763209",
+      "timestamp": "2021-12-12T17:45:11.055Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal13.map": {
+      "bytes": 760,
+      "sha256": "bae8879296237bea635d054428a536c0297420ff3ff61f681d569b30a984e7d0",
+      "timestamp": "2021-12-12T17:45:11.056Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal14.bsp": {
+      "bytes": 10022,
+      "sha256": "4b66b133fe892c6ae6ead0c6726638e98637d71a3a9afdc4ac0546be0f2d0292",
+      "timestamp": "2021-12-12T17:45:11.056Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal14.map": {
+      "bytes": 1376,
+      "sha256": "197bd6c01b5ffc4c9e0f27e319b25b882af4f20db36612f41b006dd6db0833e1",
+      "timestamp": "2021-12-12T17:45:11.057Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal15.bsp": {
+      "bytes": 9386,
+      "sha256": "8cf7545aa3464814908c3987f51e9693f154f690ec526ed228b37b1590730e0b",
+      "timestamp": "2021-12-12T17:45:11.057Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal15.map": {
+      "bytes": 1147,
+      "sha256": "73aef82251f5b4a9548135aedb926aad6b7cff94cb3656fc8216a594a8a9f6dc",
+      "timestamp": "2021-12-12T17:45:11.058Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal16.bsp": {
+      "bytes": 10719,
+      "sha256": "af64c13135b1e1eb6d8e09607c34d6cec57a3cbf624dd76b136b505f097ecf65",
+      "timestamp": "2021-12-12T17:45:11.059Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal16.map": {
+      "bytes": 1555,
+      "sha256": "d7220fbbb33a630d03ed2514b9ee33a9d3a424f819b4977e093863ca8568b645",
+      "timestamp": "2021-12-12T17:45:11.059Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal17.bsp": {
+      "bytes": 8347,
+      "sha256": "0d21cbf9b5bc65391e00bad35368530d3d4b5f59993e2ac7d45a7edc9a2edf73",
+      "timestamp": "2021-12-12T17:45:11.060Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal17.map": {
+      "bytes": 911,
+      "sha256": "7be91013d0e57e41aff314398634043cebf8f250691b3ebc583bf373df400c2c",
+      "timestamp": "2021-12-12T17:45:11.060Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal18.bsp": {
+      "bytes": 7907,
+      "sha256": "ef0dee9c63d7bbced8c04ea40523d47fd99638905aa20a61779820b5aebd5aab",
+      "timestamp": "2021-12-12T17:45:11.061Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal18.map": {
+      "bytes": 703,
+      "sha256": "b610432a51ac6b57f19fee9df89fc7b80d5cbffa972e539d9c5f3aded3359434",
+      "timestamp": "2021-12-12T17:45:11.061Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal19.bsp": {
+      "bytes": 8450,
+      "sha256": "2796007e11c0a1b2a3430edc4e0f7edb0e721a6d906e783233c0feb54b0482e5",
+      "timestamp": "2021-12-12T17:45:11.062Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal19.map": {
+      "bytes": 1514,
+      "sha256": "9ed741344b3c651f3b8fbda1d8ee8e779bd12315feea397e938522c9750dc214",
+      "timestamp": "2021-12-12T17:45:11.063Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal20.bsp": {
+      "bytes": 8160,
+      "sha256": "38013cdb360356827ab6c296791434c537183d082feed6944665a882e622ed84",
+      "timestamp": "2021-12-12T17:45:11.063Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/metal20.map": {
+      "bytes": 853,
+      "sha256": "a3b28328bb043206bc048e82dba12d91c56c464b5e4e1452c6740f0df44223bf",
+      "timestamp": "2021-12-12T17:45:11.064Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock01.bsp": {
+      "bytes": 24238,
+      "sha256": "5f2c0a6ce3c58eed53c86789ff1685551cff53ca1f239bf75e3a9bc59aa95a56",
+      "timestamp": "2021-12-12T17:45:11.064Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock01.map": {
+      "bytes": 680,
+      "sha256": "db0b6a72833e12a35f518b32920fccf4fbc45120e7ab8ca3afc6e255b5d51334",
+      "timestamp": "2021-12-12T17:45:11.065Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock02.bsp": {
+      "bytes": 24250,
+      "sha256": "c6196e82e7b3e22cb687e2d6c0780f163929b5ea42b868eedcaadd40f35927f9",
+      "timestamp": "2021-12-12T17:45:11.065Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock02.map": {
+      "bytes": 760,
+      "sha256": "49531f0a1a38e03e3b46af53cfc35845878fcc171c2579f0f13d2a000ca82829",
+      "timestamp": "2021-12-12T17:45:11.066Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock03.bsp": {
+      "bytes": 24669,
+      "sha256": "9f7ab133399a3681f0b97276c7cb9883b479995c3420e5643eaedd11c88f0a0d",
+      "timestamp": "2021-12-12T17:45:11.066Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock03.map": {
+      "bytes": 929,
+      "sha256": "4158321d447c3b323f44389661ba6c763b23e26fb9541a786c3b544ad56321d9",
+      "timestamp": "2021-12-12T17:45:11.067Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock04.bsp": {
+      "bytes": 24600,
+      "sha256": "3c8b114e8ff86b8abcba235230445d885d4c28553d83e153676b2755b0300292",
+      "timestamp": "2021-12-12T17:45:11.067Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock04.map": {
+      "bytes": 878,
+      "sha256": "229d94f5f5bd81a83be5463035d30c8838d1de092923c3281e7a3a9ec4c7e9aa",
+      "timestamp": "2021-12-12T17:45:11.068Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock05.bsp": {
+      "bytes": 24254,
+      "sha256": "6bdc990b90f24ddd77034a4cbdd4d7158e05df70e6db5e793ca990a40cd29709",
+      "timestamp": "2021-12-12T17:45:11.069Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock05.map": {
+      "bytes": 684,
+      "sha256": "708a6ad98116a72ddc862c6c99cbd59342446636c9579a00bd6c34efa1ac855b",
+      "timestamp": "2021-12-12T17:45:11.069Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock06.bsp": {
+      "bytes": 24462,
+      "sha256": "e2e3688c3cb66e2c9d738d211ad328d86963e1d67881354363696698a07be32b",
+      "timestamp": "2021-12-12T17:45:11.070Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock06.map": {
+      "bytes": 816,
+      "sha256": "5e1a399ac2e6a179a84004539f15172012db93477e5544309b01ed24cbc59f34",
+      "timestamp": "2021-12-12T17:45:11.070Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock07.bsp": {
+      "bytes": 24281,
+      "sha256": "ea3569e42b755fd1b9fde50e2740f6aa95d1dabb1911f8a4ab5b1c5028a4e1e3",
+      "timestamp": "2021-12-12T17:45:11.071Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock07.map": {
+      "bytes": 777,
+      "sha256": "02f61c60083f5007fa9d4d7a38adf2901e928a96adbfeaa7646711f21cc75409",
+      "timestamp": "2021-12-12T17:45:11.071Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock08.bsp": {
+      "bytes": 25096,
+      "sha256": "5468a365153fc7f160d7e1792b9bc9164b828a51851bd1e9744eb0cf3a7a842d",
+      "timestamp": "2021-12-12T17:45:11.072Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock08.map": {
+      "bytes": 1060,
+      "sha256": "b285f3a79407366944213b3d8eef311c662bf2eb0cf3df0ee3104e747a3c9150",
+      "timestamp": "2021-12-12T17:45:11.072Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock09.bsp": {
+      "bytes": 8314,
+      "sha256": "4320c73f55d67e4db7e596614b74b05b0c086cd57186ecaf183c96fca51106bf",
+      "timestamp": "2021-12-12T17:45:11.073Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock09.map": {
+      "bytes": 913,
+      "sha256": "629fab0d0f8022138ff5d5e573f0e3ab0f75397f120015b3f8a95a297c857911",
+      "timestamp": "2021-12-12T17:45:11.073Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock10.bsp": {
+      "bytes": 7930,
+      "sha256": "7657ad82fbdeaceb354e04f60fa76cfd3d8a7a819607a413afaa6fc16253a009",
+      "timestamp": "2021-12-12T17:45:11.074Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock10.map": {
+      "bytes": 780,
+      "sha256": "833bc2f2460f5f5ef444630b398a59974831031e408f986125a5241fab52ba99",
+      "timestamp": "2021-12-12T17:45:11.075Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock11.bsp": {
+      "bytes": 8565,
+      "sha256": "e19573b67e5dedba499da8f6d0d63ca0e829593417a1ce66e1aeb1fd2b2d1e76",
+      "timestamp": "2021-12-12T17:45:11.075Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock11.map": {
+      "bytes": 1016,
+      "sha256": "040c31d22159743b28e9f20946b34db390ef15bbe530882342638b9325542801",
+      "timestamp": "2021-12-12T17:45:11.076Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock12.bsp": {
+      "bytes": 8284,
+      "sha256": "f03a3a0184b2fa8809154754f85d81d30777261714976bdd64340b0549d3ca35",
+      "timestamp": "2021-12-12T17:45:11.076Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock12.map": {
+      "bytes": 898,
+      "sha256": "b7d2b1bba22ad5b621e699a8233a83d23415e5c6e88fec8e1525a9c84a494bf0",
+      "timestamp": "2021-12-12T17:45:11.077Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock13.bsp": {
+      "bytes": 7917,
+      "sha256": "6710c24df905df9ede31faf75fdf9a070efbdc471e58a295740092863dcb50fa",
+      "timestamp": "2021-12-12T17:45:11.077Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock13.map": {
+      "bytes": 680,
+      "sha256": "369735b7ebd630e6407371d3ab7195ef368c2f8d8d3469943b2c5e46b8e24fa5",
+      "timestamp": "2021-12-12T17:45:11.078Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock14.bsp": {
+      "bytes": 7929,
+      "sha256": "a17329c593e306d1aa4084cd2651983f53258b3e5759443efe3bb3b4daecc5f8",
+      "timestamp": "2021-12-12T17:45:11.078Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock14.map": {
+      "bytes": 760,
+      "sha256": "f86556e799f3a0240294537aa487526c674486afb7190bb705d72453cade7e68",
+      "timestamp": "2021-12-12T17:45:11.079Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock15.bsp": {
+      "bytes": 8349,
+      "sha256": "d64f11606da6b94024382315eead25dbfe19c8cc90844f60e755e2bd106c7fc0",
+      "timestamp": "2021-12-12T17:45:11.079Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock15.map": {
+      "bytes": 929,
+      "sha256": "23defe1bddcc8db664c819b60657fd536b1c44b118299495d42f7c54f740e7b0",
+      "timestamp": "2021-12-12T17:45:11.080Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock16.bsp": {
+      "bytes": 8280,
+      "sha256": "87e60c650a672c5ffe57b64c7ae3c5413799972a2ca5b73935cb0d1dad16f62c",
+      "timestamp": "2021-12-12T17:45:11.080Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock16.map": {
+      "bytes": 878,
+      "sha256": "d3616ad7b423be757f6f7873791f4c452a09243b53569347bd36e87f1a942947",
+      "timestamp": "2021-12-12T17:45:11.081Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock17.bsp": {
+      "bytes": 8340,
+      "sha256": "b317f3432532e6f6f327852fa0c7f546726c8b23c44cfc3e86869d64eb33235c",
+      "timestamp": "2021-12-12T17:45:11.082Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock17.map": {
+      "bytes": 913,
+      "sha256": "a534b032b611965c86cd81fda18d53186c474d55184f9c4c74cd292b4b207f27",
+      "timestamp": "2021-12-12T17:45:11.082Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock18.bsp": {
+      "bytes": 7924,
+      "sha256": "e5fc24e393828bdd2c24e3cb341e0c21e81511881e65424293206fe20ff54c4e",
+      "timestamp": "2021-12-12T17:45:11.083Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock18.map": {
+      "bytes": 701,
+      "sha256": "bf5974bf04067482dde83a2fd73e58a011de04220b32866fa7913e901a0e944c",
+      "timestamp": "2021-12-12T17:45:11.084Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock19.bsp": {
+      "bytes": 8620,
+      "sha256": "4a1d3e4e37f29438981f419f5a5f076fcf53227a4da544e919061d6c6bf8702e",
+      "timestamp": "2021-12-12T17:45:11.084Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock19.map": {
+      "bytes": 919,
+      "sha256": "c2626204acbd33e3299c29cd1f8a5279bbe8cd07a621f6b40b14b74b7808f444",
+      "timestamp": "2021-12-12T17:45:11.085Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock20.bsp": {
+      "bytes": 8785,
+      "sha256": "87bfda54a9f0711eedcefc6d8e691b6cac8123958db03735bd0364067445de69",
+      "timestamp": "2021-12-12T17:45:11.085Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock20.map": {
+      "bytes": 1118,
+      "sha256": "225800378c3183d5ba423140d7f5d510cf387df3df795fda69294fcb0e4bec4c",
+      "timestamp": "2021-12-12T17:45:11.086Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock21.bsp": {
+      "bytes": 24244,
+      "sha256": "161b5893f3f413969ced051a7e7aa3d816a1da9f74bffa5d0642830713d83031",
+      "timestamp": "2021-12-12T17:45:11.086Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock21.map": {
+      "bytes": 674,
+      "sha256": "db86b019086636ec085b3690bc4b252d8bac2443c0ff138a6f3b6c79e522a94b",
+      "timestamp": "2021-12-12T17:45:11.087Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock22.bsp": {
+      "bytes": 24256,
+      "sha256": "b41069e88c74ef3bfb7c5f2817c31d9d374cd1725b7270b9ac7d93c58dd34a11",
+      "timestamp": "2021-12-12T17:45:11.088Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock22.map": {
+      "bytes": 753,
+      "sha256": "aa059dd13499512fdda512b68e79068f390d1870726763958a81a54c91aeb254",
+      "timestamp": "2021-12-12T17:45:11.088Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock23.bsp": {
+      "bytes": 24676,
+      "sha256": "aac7fc5557dd385c52043d206d39d83b48e0b2f6db2822de2060f2a978be4a9d",
+      "timestamp": "2021-12-12T17:45:11.089Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock23.map": {
+      "bytes": 920,
+      "sha256": "744ccf1456c3b19318289586238b1d36e4968dbfe444f5a489e1d2202f1965d4",
+      "timestamp": "2021-12-12T17:45:11.089Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock24.bsp": {
+      "bytes": 24612,
+      "sha256": "90553422561893d50030520bcf796da9290933e53570e313d1a423aec01c8ac6",
+      "timestamp": "2021-12-12T17:45:11.090Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock24.map": {
+      "bytes": 939,
+      "sha256": "3f8f5c2053315577eda81360a9ed9a095e96f7d9a6288eed876400a91bc0922b",
+      "timestamp": "2021-12-12T17:45:11.090Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock25.bsp": {
+      "bytes": 89516,
+      "sha256": "ef87b49e322fd2a2251f0ee7ecedec32bae141ea7a589769c6fba6a3176da0d4",
+      "timestamp": "2021-12-12T17:45:11.091Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock25.map": {
+      "bytes": 737,
+      "sha256": "3cad88a720acc4d7db1666ab0d865e013717776a256c999e1b417690679f4f0b",
+      "timestamp": "2021-12-12T17:45:11.092Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock26.bsp": {
+      "bytes": 89532,
+      "sha256": "a6f46aa8183937dfe19eb1cfde621bac8f3f08721effcbbd195ba251b3b1467f",
+      "timestamp": "2021-12-12T17:45:11.093Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock26.map": {
+      "bytes": 823,
+      "sha256": "27c411424182d3e6d611f2eff2dd9a7c75ef2135f2019d4aca40b2dee2d134b5",
+      "timestamp": "2021-12-12T17:45:11.094Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock27.bsp": {
+      "bytes": 89952,
+      "sha256": "f55dc66117c856efee1dae5e311492f2aae2839ef4588af45ac0818307ad564c",
+      "timestamp": "2021-12-12T17:45:11.095Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock27.map": {
+      "bytes": 1004,
+      "sha256": "7368f6cbd051aa3ac71237b5c8d3da2ef73fc3017024ef42af6ac8af9ddc1139",
+      "timestamp": "2021-12-12T17:45:11.095Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock28.bsp": {
+      "bytes": 89880,
+      "sha256": "2132d7f311c90f8c43b4630a55f7fa0b15141fa0e9c26c0309c8023437377961",
+      "timestamp": "2021-12-12T17:45:11.096Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock28.map": {
+      "bytes": 947,
+      "sha256": "b1571df2e370ca2d51f19b3608726552f10a6f6da64f69929a2ea2c1884e51dc",
+      "timestamp": "2021-12-12T17:45:11.096Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock29.bsp": {
+      "bytes": 89516,
+      "sha256": "a179ac329768d445bfbc36bb9c3e47ce3c7506c31337730a93c9a58f96ea5399",
+      "timestamp": "2021-12-12T17:45:11.097Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock29.map": {
+      "bytes": 737,
+      "sha256": "260d08f376c81869c1f9a0c0cfd677bded9022f79bbe4e607d12128b7ad7c746",
+      "timestamp": "2021-12-12T17:45:11.098Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock30.bsp": {
+      "bytes": 89532,
+      "sha256": "febc6ed2ec191f8dcbae1ee9df9d13bbd8fff830e28e051236fa24fd211829ee",
+      "timestamp": "2021-12-12T17:45:11.099Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock30.map": {
+      "bytes": 823,
+      "sha256": "da6a3224e060f6413f70ac9f6f25bf96f3784f690084d602d63805dc8b43e7e8",
+      "timestamp": "2021-12-12T17:45:11.099Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock31.bsp": {
+      "bytes": 89952,
+      "sha256": "7a38ed8a7dd80c2f2dab17342bfdde51300c9225f4e93be78ca9b63d3a7f1e99",
+      "timestamp": "2021-12-12T17:45:11.100Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock31.map": {
+      "bytes": 1004,
+      "sha256": "3fb04740e6da6c00670536ccbcb92e7a9a5b5e3072e78af96d6dd5c79d39f984",
+      "timestamp": "2021-12-12T17:45:11.100Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock32.bsp": {
+      "bytes": 89880,
+      "sha256": "41789fbb095ef6d7b09ba6f50bea0503f73e612808f37bbb71f4a7e9fea00ae2",
+      "timestamp": "2021-12-12T17:45:11.101Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock32.map": {
+      "bytes": 947,
+      "sha256": "37e272ad3f235bb182666e46d3b087bee4ec23ebdc716647c5b0ffb671a9ee1d",
+      "timestamp": "2021-12-12T17:45:11.102Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock33.bsp": {
+      "bytes": 7916,
+      "sha256": "af3e313ba1c7013b7bd2234e9988a2b6bc451d123e7d6dab1692ae0727d40bec",
+      "timestamp": "2021-12-12T17:45:11.103Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock33.map": {
+      "bytes": 683,
+      "sha256": "de08059147e865be402e6dac4c6d8a0bea1de05bb65cf0455153386afdde2bdb",
+      "timestamp": "2021-12-12T17:45:11.103Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock34.bsp": {
+      "bytes": 7932,
+      "sha256": "392125c9afaf18c3084c1b13a0a55dcda7e2294da37f84fb73983826271dea27",
+      "timestamp": "2021-12-12T17:45:11.104Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock34.map": {
+      "bytes": 763,
+      "sha256": "dc402e2573ee3e94f3ed96274d5b6f8d0177d9745716ea96d0ffce8e0be5c943",
+      "timestamp": "2021-12-12T17:45:11.104Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock35.bsp": {
+      "bytes": 8352,
+      "sha256": "0352c35aa723330a3c05126d24a8e6b84403bf8b71d406f3fa5a2ff3fc0da39a",
+      "timestamp": "2021-12-12T17:45:11.105Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock35.map": {
+      "bytes": 932,
+      "sha256": "9841ed50187bbdfb3a7122d3b0890b0245d64dd4919485686fdf5ce61bdae3e6",
+      "timestamp": "2021-12-12T17:45:11.105Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock36.bsp": {
+      "bytes": 8280,
+      "sha256": "f1871698ef7597c51fed5d54b582df2ea70cf72e2fa7db643182e59f7e7f6ca7",
+      "timestamp": "2021-12-12T17:45:11.106Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/rock36.map": {
+      "bytes": 881,
+      "sha256": "974aaec9003dd3e1457582b1f770d67e07fc8e9d11a6b639981fbb753c6a6484",
+      "timestamp": "2021-12-12T17:45:11.106Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone01.bsp": {
+      "bytes": 24239,
+      "sha256": "ebb374110d88805e1b0b45cdaf33e5e570a9092da549facaf9f5ddcd995eb607",
+      "timestamp": "2021-12-12T17:45:11.107Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone01.map": {
+      "bytes": 702,
+      "sha256": "9ea9ab63b8c6a2d90fba029c4d4b768beb0d4342cf255bb5005185b61b1bcfd2",
+      "timestamp": "2021-12-12T17:45:11.108Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone02.bsp": {
+      "bytes": 24399,
+      "sha256": "2fa799b0a08ca2fdd9bef3ecb9d6ea4c16e8f66181d29913cdc5a9205bafe98f",
+      "timestamp": "2021-12-12T17:45:11.108Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone02.map": {
+      "bytes": 842,
+      "sha256": "5228b0a958ef571f33838366ef1f2b69a10f6e0c53a3269dba683b5326a95e5f",
+      "timestamp": "2021-12-12T17:45:11.109Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone03.bsp": {
+      "bytes": 24607,
+      "sha256": "671b8f740ba9deaeac681c703f87d61c2a3f8107d0f72b8fd636c53436555110",
+      "timestamp": "2021-12-12T17:45:11.109Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone03.map": {
+      "bytes": 914,
+      "sha256": "7523ff7908eb3e47154155d0448fa05d4d9b6081525069a131e7d44ea9b13c0c",
+      "timestamp": "2021-12-12T17:45:11.110Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone04.bsp": {
+      "bytes": 24379,
+      "sha256": "56bda0f4bf4958dc243fa9b4ab79e9e3bd6fad5f794af7beb024a6cbe7f9a0cb",
+      "timestamp": "2021-12-12T17:45:11.111Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/sandstone04.map": {
+      "bytes": 798,
+      "sha256": "d01584bd00868a0a69ae7513834f776566fce273d8919d9c78d0bdafbb07a799",
+      "timestamp": "2021-12-12T17:45:11.111Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood01.bsp": {
+      "bytes": 7553,
+      "sha256": "c1764181bae4852804097143fe16a4c230bd5886574125cb33d5349bbc63dc21",
+      "timestamp": "2021-12-12T17:45:11.112Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood01.map": {
+      "bytes": 1040,
+      "sha256": "05f1ebaa57c4b55e6c3da9c5440c180aa96c719f9cddc80c780ed11415ad6bd7",
+      "timestamp": "2021-12-12T17:45:11.112Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood02.bsp": {
+      "bytes": 7079,
+      "sha256": "26fc67e4e47eae3a13a449d876deabe35d50aa1b70e63060d27cb365eadecbe0",
+      "timestamp": "2021-12-12T17:45:11.113Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood02.map": {
+      "bytes": 521,
+      "sha256": "8dee7615c9e9696420331668edeccd9ff1dd874ad844e289f049391be5e61345",
+      "timestamp": "2021-12-12T17:45:11.113Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood03.bsp": {
+      "bytes": 7135,
+      "sha256": "ca17df0f61a11bd37749587e361ca404f2e5bec07c248491d86c07803fafb732",
+      "timestamp": "2021-12-12T17:45:11.114Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood03.map": {
+      "bytes": 522,
+      "sha256": "0fb4cdb1ffeda8c97026d40842d5fcb0beced0f84dae4b10a8284044875cf0c2",
+      "timestamp": "2021-12-12T17:45:11.115Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood04.bsp": {
+      "bytes": 7951,
+      "sha256": "e2d9f42bf3256be2dd38648dbd962458bdad3992b33e8d688e42a0acba5d7c3f",
+      "timestamp": "2021-12-12T17:45:11.115Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood04.map": {
+      "bytes": 912,
+      "sha256": "071556b1cac3bd95a176762302e6a60ddbbfb07cf6c9e4b2f8cf2e259e23402a",
+      "timestamp": "2021-12-12T17:45:11.116Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood05.bsp": {
+      "bytes": 7553,
+      "sha256": "5bdb275ae2c39b41d71a17244681cda9cc2008df088f4da73f547a8bf1966069",
+      "timestamp": "2021-12-12T17:45:11.116Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood05.map": {
+      "bytes": 1040,
+      "sha256": "ada27de98972730676a2d040fd284893fabfe71acd6fcbce1f2ba12da7d14632",
+      "timestamp": "2021-12-12T17:45:11.117Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood06.bsp": {
+      "bytes": 7079,
+      "sha256": "f27b0f1970f6065255b5f7a27abfc4e749f40321f6fdef4c3f9ac6bb64d46098",
+      "timestamp": "2021-12-12T17:45:11.117Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood06.map": {
+      "bytes": 521,
+      "sha256": "17c93b1c1c65a7507d794013078a1d12a67c3a24ae7202739fcd8a1108d52419",
+      "timestamp": "2021-12-12T17:45:11.118Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood07.bsp": {
+      "bytes": 7135,
+      "sha256": "8e07e7e5f5b641c644d28c9c4026efc95aa50345074f5c42acd39a3b94261344",
+      "timestamp": "2021-12-12T17:45:11.118Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood07.map": {
+      "bytes": 522,
+      "sha256": "55f1bb5f18ed30f28ac88349aee9ea5563b1e938bafebffb25c9ab5a1c918b33",
+      "timestamp": "2021-12-12T17:45:11.119Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood08.bsp": {
+      "bytes": 7951,
+      "sha256": "d26222458ba6e7fee06670021e64c1661d99a8c098581936af943891c9583858",
+      "timestamp": "2021-12-12T17:45:11.119Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood08.map": {
+      "bytes": 912,
+      "sha256": "2582987129d34bbee73594a236c4c09ce6ae1092eec649ef3957b892e125624c",
+      "timestamp": "2021-12-12T17:45:11.120Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood09.bsp": {
+      "bytes": 7282,
+      "sha256": "2735e78b25b0feb640f27eddae47104b0acba9f017c6d025e3a8dbdfcc755778",
+      "timestamp": "2021-12-12T17:45:11.121Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood09.map": {
+      "bytes": 541,
+      "sha256": "84d9789b4d79b41347fd082b0ab75c016553c03bfb952cf4b9c7dd18c85944ce",
+      "timestamp": "2021-12-12T17:45:11.121Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood10.bsp": {
+      "bytes": 7214,
+      "sha256": "43b59e9b0cb02fb1ac15afb5c782e71b4ce0661db295949b5188cc5accd1733a",
+      "timestamp": "2021-12-12T17:45:11.122Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood10.map": {
+      "bytes": 533,
+      "sha256": "365f949e19e2606cf2d7a354c3e4368a5e17c3eef94e2558ed9cef276e987d35",
+      "timestamp": "2021-12-12T17:45:11.122Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood11.bsp": {
+      "bytes": 7196,
+      "sha256": "cce8b312c4be49810f4cf90f0dcdeb1a82dfa623de1ba44c55ec83475f9e9e49",
+      "timestamp": "2021-12-12T17:45:11.123Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood11.map": {
+      "bytes": 542,
+      "sha256": "790cd93cb271402698ad7f005b908847fddbb30d3c8c3d11fa8c2f327ca8e48e",
+      "timestamp": "2021-12-12T17:45:11.123Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood12.bsp": {
+      "bytes": 7978,
+      "sha256": "6a227f92bf3b6f1120efd6179bfb3de977e4be2e59495c5d757cbe1c835e3f03",
+      "timestamp": "2021-12-12T17:45:11.124Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood12.map": {
+      "bytes": 986,
+      "sha256": "01ed96a5ce6545b334dfac7dc0196472dd6c06df09ed557cec7dc820d35c1132",
+      "timestamp": "2021-12-12T17:45:11.124Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood13.bsp": {
+      "bytes": 7284,
+      "sha256": "09325ca10ebcfeb88f688c9f4521259c3c3426e9befc06c99ba405c7e20595c9",
+      "timestamp": "2021-12-12T17:45:11.125Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood13.map": {
+      "bytes": 526,
+      "sha256": "b16b33b2a46b72a4ee235674780298eac0ed27631def07a28058a775aba7078e",
+      "timestamp": "2021-12-12T17:45:11.126Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood14.bsp": {
+      "bytes": 7216,
+      "sha256": "4c9dc5afd7b51119e5c22ad36eb77d07881c454ff47ed060521172cfc3950e2c",
+      "timestamp": "2021-12-12T17:45:11.126Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood14.map": {
+      "bytes": 518,
+      "sha256": "41b51f20630df3c046ed9ca0f7d97ca403ce8c1487074fc80caf603e763e6ac1",
+      "timestamp": "2021-12-12T17:45:11.127Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood15.bsp": {
+      "bytes": 7196,
+      "sha256": "373f6e5c5da44b7c8d1a01fb701f074bbcfc52d21bb080dd04e986ffe9e1088c",
+      "timestamp": "2021-12-12T17:45:11.127Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood15.map": {
+      "bytes": 527,
+      "sha256": "eb07eae6f0afdb4b03af57bcb589e3b385632912f12d4c55257b3031270f0421",
+      "timestamp": "2021-12-12T17:45:11.128Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood16.bsp": {
+      "bytes": 7612,
+      "sha256": "05959d3486eb43afc8959f6923156a1a83ead4dad544f8caf90ba0e1c7e2bc80",
+      "timestamp": "2021-12-12T17:45:11.128Z"
+    },
+    "mc_xmasjam_2025/maps/ad_brk/wood16.map": {
+      "bytes": 953,
+      "sha256": "c7e804e781c95336cc91a50bc246baf4fda7172ecf36ccf24f02c5f919710ab3",
+      "timestamp": "2021-12-12T17:45:11.129Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/baserub1.bsp": {
+      "bytes": 23612,
+      "sha256": "b5320b798366587d20ab541af06babd9575e89870fb003d56a17fdf2f7f22b0c",
+      "timestamp": "2021-12-12T17:45:11.130Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/baserub1.map": {
+      "bytes": 637,
+      "sha256": "0a5357fb3b12d9286b4d9e6e54316cfd0a33f9fda4c661b8fcd1c461d06ae73f",
+      "timestamp": "2021-12-12T17:45:11.130Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/bz8_brk.bsp": {
+      "bytes": 12808,
+      "sha256": "219e4371cd0b22d690c6e6660ca2fca3b526618d4ccd9f37799135d2dc6dea02",
+      "timestamp": "2021-12-12T17:45:11.131Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/bz8_brk.map": {
+      "bytes": 692,
+      "sha256": "fae1ac45d74b2a9f482eb034e0838fe5914affb57204c5215d97ebaf7199e5c8",
+      "timestamp": "2021-12-12T17:45:11.131Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/crate_r1.bsp": {
+      "bytes": 29110,
+      "sha256": "5dd3afab4a3ad5cf4466e272324e4afad5075ca2e662cc8b1932e277a2db73a2",
+      "timestamp": "2021-12-12T17:45:11.132Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/crate_r1.map": {
+      "bytes": 664,
+      "sha256": "ee7ce39ec0650d3cbde924b99efc91ba884778db11a961037d4493bf587fa33e",
+      "timestamp": "2021-12-12T17:45:11.132Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/explodebox_1.bsp": {
+      "bytes": 7707,
+      "sha256": "28bfab37e5cbe722348b753de3bd9f66f47f4a9f5b80bd5c5c1659e6eae7e6c4",
+      "timestamp": "2021-12-12T17:45:11.133Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/explodebox_1.map": {
+      "bytes": 544,
+      "sha256": "96376f1185f158bf69d6bb0c5baf347bbad27f0ccd6fccd3096da6dd7f89540b",
+      "timestamp": "2021-12-12T17:45:11.134Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/explodebox_2.bsp": {
+      "bytes": 7107,
+      "sha256": "59d5ba28bc049f691bf28d421327e4aecf5eedaec46599d58328f0074ce0934f",
+      "timestamp": "2021-12-12T17:45:11.134Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/explodebox_2.map": {
+      "bytes": 375,
+      "sha256": "f906dbea8598f0290af9e224a70eb71f26f3c93c10e922b2fade3f1c63e4ddd5",
+      "timestamp": "2021-12-12T17:45:11.135Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/explodebox_3.bsp": {
+      "bytes": 10449,
+      "sha256": "0daebb987f48b5dde145998e748ab2eecf63ec69318a6b752924e4cfb6639261",
+      "timestamp": "2021-12-12T17:45:11.135Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/explodebox_3.map": {
+      "bytes": 1698,
+      "sha256": "538e12e7706df3b8f539bf2473e7517e737657380137de1655193843210dbf3f",
+      "timestamp": "2021-12-12T17:45:11.136Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/glass01.bsp": {
+      "bytes": 7427,
+      "sha256": "bf3f3938ab3596b6095fb58f66c0a36042e5950169dbb86b1cf3cb9076fd5bdd",
+      "timestamp": "2021-12-12T17:45:11.136Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/glass01.map": {
+      "bytes": 907,
+      "sha256": "6f47c3ffec4cb28d3447dbf96f0b3d6e4264accd31e10b68ad83b3e30e4e32a7",
+      "timestamp": "2021-12-12T17:45:11.137Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/grate_r1.bsp": {
+      "bytes": 32796,
+      "sha256": "a8eac6a49f8c49c4f9f1b443c9ca5c6a5f8d03d30ce240daaeee8d150f9c5067",
+      "timestamp": "2021-12-12T17:45:11.137Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/grate_r1.map": {
+      "bytes": 2106,
+      "sha256": "e5cac190d45b0d14901947e489622680d1b9436955b18e2a0e8cb2f92e9aa011",
+      "timestamp": "2021-12-12T17:45:11.138Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/pbt04.bsp": {
+      "bytes": 18286,
+      "sha256": "0a3321e606857ebb78d047be51c92036b53175dc392c021891cdeabd28597c3c",
+      "timestamp": "2021-12-12T17:45:11.139Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/pbt04.map": {
+      "bytes": 699,
+      "sha256": "a8b2d3feef56b8cad384a88a9646b596d21017cb9d26278c0b3585ef589b578d",
+      "timestamp": "2021-12-12T17:45:11.139Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/phk_03brk.bsp": {
+      "bytes": 90417,
+      "sha256": "46efed3a00ce885798ca568563a04472200359c6111682e91fc701c37d8df143",
+      "timestamp": "2021-12-12T17:45:11.140Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/phk_03brk.map": {
+      "bytes": 1509,
+      "sha256": "29549a0e23b3651110beae8f8697c85e1e3eeb8752dcc8c253a2756e11189209",
+      "timestamp": "2021-12-12T17:45:11.141Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/rock_sw01.bsp": {
+      "bytes": 8843,
+      "sha256": "a3acc4f42ca89efb30d5f9d7ed7c694d59ab6003bd3c665cfa4db480550fd92d",
+      "timestamp": "2021-12-12T17:45:11.141Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/rock_sw02.bsp": {
+      "bytes": 9179,
+      "sha256": "4b3d68587a69daa68093d32195a786e8040fed763855acb94f50d02875a8ec44",
+      "timestamp": "2021-12-12T17:45:11.142Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/rock_sw03.bsp": {
+      "bytes": 9766,
+      "sha256": "59d2841166f7ecb216df970963b3e425da20566f2fb56a7e5472f4e3c9fcfb24",
+      "timestamp": "2021-12-12T17:45:11.143Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/sfloor4_2.bsp": {
+      "bytes": 7431,
+      "sha256": "d4f7ee45638e0f338c96cf43779410a112bb10be26a200e24187749a80b01332",
+      "timestamp": "2021-12-12T17:45:11.143Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/sfloor4_2.map": {
+      "bytes": 833,
+      "sha256": "f285b9a96b32420f24bccb267b268e65afd50dd03fb106fad90783aa5d82c1d4",
+      "timestamp": "2021-12-12T17:45:11.144Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/tech10_2d1.bsp": {
+      "bytes": 45558,
+      "sha256": "272aa49909de27f7b4722848497e5da38aa50b7bef17ef2ee81a1b1240c1b8b2",
+      "timestamp": "2021-12-12T17:45:11.144Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/tech10_2d1.map": {
+      "bytes": 740,
+      "sha256": "a3766904240cbe7603e967eb3ebdd0dc895b035f0db8758a6ad217749a332904",
+      "timestamp": "2021-12-12T17:45:11.145Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/tech10_2d2.bsp": {
+      "bytes": 45552,
+      "sha256": "71e5e52660e4aa84f56aa7b51bad024384acb69699bcec431ae3fe6c8d16fc42",
+      "timestamp": "2021-12-12T17:45:11.145Z"
+    },
+    "mc_xmasjam_2025/maps/base_brk/tech10_2d2.map": {
+      "bytes": 733,
+      "sha256": "9d6c4dae495d96bf4b2bbf5f7e01900f16274173c63eb2e4acfb8f8e757a399f",
+      "timestamp": "2021-12-12T17:45:11.146Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain1.bsp": {
+      "bytes": 219668,
+      "sha256": "4d2648c6dd850b04d48e9631ad02756ecf78d85f56810ff7b9db131a6fe641a3",
+      "timestamp": "2021-12-12T17:45:16.966Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain1.lit": {
+      "bytes": 33272,
+      "sha256": "1daab5bb58dbf2c73968dc9db26cf0b0bd78652d491788d0a6124aaa9a9b6f4a",
+      "timestamp": "2021-12-12T17:45:16.967Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain1.map": {
+      "bytes": 96430,
+      "sha256": "2b6c77f844eaf5a371b36c13cf512a24d8cd39095cdc04eddd64cd571060d098",
+      "timestamp": "2021-12-12T17:45:16.968Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain2.bsp": {
+      "bytes": 333820,
+      "sha256": "746e38bbb4cebb63ac3344e944f24b874b9fd3ed584017bb599e027508cc6187",
+      "timestamp": "2021-12-12T17:45:16.975Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain2.lit": {
+      "bytes": 22130,
+      "sha256": "c6ebc72f8dcaa06422eaf71e08771f76105ddd39c3ee6784d40083df67d1cf32",
+      "timestamp": "2021-12-12T17:45:16.975Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain2.map": {
+      "bytes": 148314,
+      "sha256": "e9cb3cddd08835aed7b1eed8867a67b06fee9db20dd7584830b8918d4af169ea",
+      "timestamp": "2021-12-12T17:45:16.976Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain3.bsp": {
+      "bytes": 308800,
+      "sha256": "6b78b5a83f2f71a316e85086e12b7a1f66abaf28b02a53076433e3b2b3a20fee",
+      "timestamp": "2021-12-12T17:45:16.977Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain3.lit": {
+      "bytes": 20684,
+      "sha256": "28870bf7c7f011206290fe69c7b6e2501c27fba21bea2ae6767e8d85a4ff56e7",
+      "timestamp": "2021-12-12T17:45:16.980Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/az_chain3.map": {
+      "bytes": 110405,
+      "sha256": "64eee084713fdb7da2ec9f9dbc7c482930d9a871d86fd0912d32ddf52063b1aa",
+      "timestamp": "2021-12-12T17:45:16.980Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/misc_radar.map": {
+      "bytes": 5314,
+      "sha256": "7ca088f70d4421b994f1852dd17de1427a2b6401b19d8f464ecf2024f5025418",
+      "timestamp": "2021-12-12T17:45:16.981Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bchains1.bsp": {
+      "bytes": 74963,
+      "sha256": "73beb2dc0b953e096e69a4e049af380e99c98ce1872b4da00c858be36d4e973a",
+      "timestamp": "2021-12-12T17:45:16.982Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bchains1.map": {
+      "bytes": 43470,
+      "sha256": "ecd781a6601c6fca262909cb2e116a222de2e5aa5417dd36d4475d5c433459af",
+      "timestamp": "2021-12-12T17:45:16.983Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bchains2.bsp": {
+      "bytes": 83651,
+      "sha256": "e23fad6717790c08e661748398754e60944527eb6e48c0f2c0ffbdba73cf95db",
+      "timestamp": "2021-12-12T17:45:16.984Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bchains2.map": {
+      "bytes": 42484,
+      "sha256": "e92865750499de9117e5bf19719052109179ebcc37ddbd40f2d91d914b86fa63",
+      "timestamp": "2021-12-12T17:45:16.985Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge1.bsp": {
+      "bytes": 431144,
+      "sha256": "ac4d490408f7ad9068a09c4c89f82a65b8573bc4ba810fe5f16418b1d2684f66",
+      "timestamp": "2021-12-12T17:45:16.986Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge1.lit": {
+      "bytes": 47240,
+      "sha256": "30601eb0d533bbe0f72631b77630c3922a46f34b38687aa184b7776e48e63164",
+      "timestamp": "2021-12-12T17:45:16.989Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge1.map": {
+      "bytes": 120280,
+      "sha256": "3ddec67bb95d788b2fecb0e4c6d09781a6a27ba79d322a637f3a03e84a8f6ac7",
+      "timestamp": "2021-12-12T17:45:16.989Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge2.bsp": {
+      "bytes": 201392,
+      "sha256": "4fec9b73e50ba0608d2b5f2fd5c4957324c4cb609becf3be979aedf644281845",
+      "timestamp": "2021-12-12T17:45:16.990Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge2.lit": {
+      "bytes": 21902,
+      "sha256": "c1fa88042c3fde27bd608d3829c8c4a142e70617087970ec7535d48847ac435a",
+      "timestamp": "2021-12-12T17:45:16.991Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge2.map": {
+      "bytes": 52004,
+      "sha256": "58943dc439d4d4c8e65773c12e361c3336488a94f0a53a54c06366675517b850",
+      "timestamp": "2021-12-12T17:45:16.992Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge2b.bsp": {
+      "bytes": 201398,
+      "sha256": "096dcacf528d2784b79a4c0dd19c445102778f2a053fde3a2a43540a4a621c73",
+      "timestamp": "2021-12-12T17:45:16.992Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge2b.lit": {
+      "bytes": 21902,
+      "sha256": "1c7bdad93866cabb97e4565bf41d2b8a8d4c8237e11b0965fd05fc954b6c2c64",
+      "timestamp": "2021-12-12T17:45:16.994Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge2b.map": {
+      "bytes": 52268,
+      "sha256": "d361d0c3dcfec2ae5d109075bf437d013762328ee48b8fc25f779267d7b1bfb1",
+      "timestamp": "2021-12-12T17:45:16.995Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge3.bsp": {
+      "bytes": 309343,
+      "sha256": "12d2199af263464d48455c2e5cd7bf2abf2085841fbc7e027a4cc96b04eec2d8",
+      "timestamp": "2021-12-12T17:45:16.996Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge3.lit": {
+      "bytes": 46964,
+      "sha256": "b783061b14bb4caf3cf9df9a6b8be9ea1d2a367339fa09ffe01506022b21a4c5",
+      "timestamp": "2021-12-12T17:45:16.997Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_bridge3.map": {
+      "bytes": 138104,
+      "sha256": "33c8835d256fd00e65da818c4d43b86033bb8104897712b824014a035c2628e0",
+      "timestamp": "2021-12-12T17:45:16.999Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains1.bsp": {
+      "bytes": 249145,
+      "sha256": "1f51d881982d8602c0da29c1f105ab07a41977bdab4fbf4598922563373f4a98",
+      "timestamp": "2021-12-12T17:45:17.000Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains1.map": {
+      "bytes": 170858,
+      "sha256": "e1855a52ab0ae70c382876eb74fcafe5a065fefeb2e49a6956184637b9edc1bd",
+      "timestamp": "2021-12-12T17:45:17.001Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2.bsp": {
+      "bytes": 134457,
+      "sha256": "57a765e0ec315eca93927ad64e11b9b3ec8adae0c405de55d86c30b30ef51e5a",
+      "timestamp": "2021-12-12T17:45:17.002Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2.lit": {
+      "bytes": 15698,
+      "sha256": "c858c4c47488df5cac3ed19736c1aee29f4c7add0dfb45deeb7416c4c7af1f21",
+      "timestamp": "2021-12-12T17:45:17.002Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2.map": {
+      "bytes": 60423,
+      "sha256": "575ae8d717a2352ac8726b3bc0f11f6e0a83f548dd471a544a62f519bb71f692",
+      "timestamp": "2021-12-12T17:45:17.003Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2l.bsp": {
+      "bytes": 156552,
+      "sha256": "ff04a994c83f27104d6ef126ef2d08ce894ebe0a812c49f0d2ae79ce8808e8b9",
+      "timestamp": "2021-12-12T17:45:17.005Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2l.lit": {
+      "bytes": 15698,
+      "sha256": "9ebbd1a675e167d9a3be233cd65654728f2f1e0259dee00f55e3da02802abfa2",
+      "timestamp": "2021-12-12T17:45:17.008Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2l.map": {
+      "bytes": 61112,
+      "sha256": "346320204a3413bd6654018e37e42c442c21d88e15da513395c73e6daee26bed",
+      "timestamp": "2021-12-12T17:45:17.009Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2p.bsp": {
+      "bytes": 156555,
+      "sha256": "f0778b1608dbb058f1f492848ae3b64f66be0fef54e32bddfd6fe09f7b0e7a74",
+      "timestamp": "2021-12-12T17:45:17.010Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2p.lit": {
+      "bytes": 15704,
+      "sha256": "d2e7187908b4d3823091a9d69cce5ac807507372132b4162e48a6b027ecad53a",
+      "timestamp": "2021-12-12T17:45:17.011Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2p.map": {
+      "bytes": 61117,
+      "sha256": "7d1acdf4240cd91b158bbc23dfab846388efa7d20431f5a9c8dba8ab421102ff",
+      "timestamp": "2021-12-12T17:45:17.011Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2r.bsp": {
+      "bytes": 222620,
+      "sha256": "0e1ad04fd73c4bc183331471a3406665660fd8f030d14404b7c43b31309118e0",
+      "timestamp": "2021-12-12T17:45:17.012Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2r.lit": {
+      "bytes": 17552,
+      "sha256": "605d297ff2ece6796c064e3dd47e1c48e4fdc87324f059f2c1721e369de23a97",
+      "timestamp": "2021-12-12T17:45:17.014Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2r.map": {
+      "bytes": 61788,
+      "sha256": "749cc23346335d05a53b3399f49adb157fe29fe24512a65d3ab976bc811b5818",
+      "timestamp": "2021-12-12T17:45:17.015Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2rl.bsp": {
+      "bytes": 151968,
+      "sha256": "653185afe2384bf68c0e6d35bdd3404196404243a1b8d16cb730de9f7a45b4b0",
+      "timestamp": "2021-12-12T17:45:17.016Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2rl.lit": {
+      "bytes": 17552,
+      "sha256": "ef313b8c77329539ca8bbe6831e7d5b372e4e3f3cc807e6b66901b53f83d82d4",
+      "timestamp": "2021-12-12T17:45:17.017Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains2rl.map": {
+      "bytes": 62332,
+      "sha256": "f5961359ef0867c6ecd501231f63912bf4066bb4d65685021efcd0d51d637f95",
+      "timestamp": "2021-12-12T17:45:17.017Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains3.bsp": {
+      "bytes": 121996,
+      "sha256": "535075d6549167b5bf61ae91abf2c407ee009e64aa4222be35692478151feab1",
+      "timestamp": "2021-12-12T17:45:17.018Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains3.map": {
+      "bytes": 57540,
+      "sha256": "08f7d97d9e8cd45c353d1141905c93d3327d8f77984790d9e952bd91a5247803",
+      "timestamp": "2021-12-12T17:45:17.019Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains4.bsp": {
+      "bytes": 203735,
+      "sha256": "2840e2b604d571081a2b13ba2d340f596123b53213aaec8cd695e7a4d668e774",
+      "timestamp": "2021-12-12T17:45:17.020Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains4.map": {
+      "bytes": 113061,
+      "sha256": "6727d20079382f7f2a76391d72e6b6bc3136cc6396ef4661b679f5c8f82d8427",
+      "timestamp": "2021-12-12T17:45:17.022Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains4p.bsp": {
+      "bytes": 205127,
+      "sha256": "20183038acde1a46c9fae81e86837f876dc6e0bb7cc7a556457d4162264d7358",
+      "timestamp": "2021-12-12T17:45:17.023Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains4p.lit": {
+      "bytes": 35897,
+      "sha256": "0dfb9177bd73b903703f0f4630c4941467a452ee676d568e7f32b2099699659d",
+      "timestamp": "2021-12-12T17:45:17.025Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains4p.map": {
+      "bytes": 112283,
+      "sha256": "09d773ef730e9b4d81cdf23f4ac3b0efcb365771569638e7f5574407c5560146",
+      "timestamp": "2021-12-12T17:45:17.026Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5.bsp": {
+      "bytes": 94806,
+      "sha256": "04c40fce5016a3d26092812be589344740b29be788921f8ce354461d77943817",
+      "timestamp": "2021-12-12T17:45:17.027Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5.map": {
+      "bytes": 44835,
+      "sha256": "1e897fc203a12a480c1d3dfc13bf7653a06edb8132f98a3fedae50614c3ebb34",
+      "timestamp": "2021-12-12T17:45:17.027Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5l.bsp": {
+      "bytes": 117061,
+      "sha256": "f01c9c1e6f87c0588be0df3f8768f563acea6735451efa41366aa0acb63851db",
+      "timestamp": "2021-12-12T17:45:17.028Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5l.map": {
+      "bytes": 45411,
+      "sha256": "64691e385435777a920358775cb18e7ac6ee5290a34488103753a338500b6db5",
+      "timestamp": "2021-12-12T17:45:17.029Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5p.bsp": {
+      "bytes": 117214,
+      "sha256": "555df3c945155f7b820fde49c3e37d114f3c52bb63c4edb647dbc19161cb13d5",
+      "timestamp": "2021-12-12T17:45:17.030Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5p.lit": {
+      "bytes": 9152,
+      "sha256": "f78aaec615854b6382b6802298f42ac42dcdfdfb9c638b417257876fa83200d9",
+      "timestamp": "2021-12-12T17:45:17.031Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_chains5p.map": {
+      "bytes": 45566,
+      "sha256": "1969841b81be135b7cb383f84bf7d38694d012b35b17ef3e2c630afbf5d6e64d",
+      "timestamp": "2021-12-12T17:45:17.031Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_thanshelf.bsp": {
+      "bytes": 140335,
+      "sha256": "8319f2ba87d5a8ed864941fe9c7341744476be658ce211aaafc1ba0747afeac4",
+      "timestamp": "2021-12-12T17:45:17.032Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_thanshelf.lit": {
+      "bytes": 3134,
+      "sha256": "04fd93ccf6b864bd9226faa29db923bc093200ed3f4fc8a8f6cce29b324a9743",
+      "timestamp": "2021-12-12T17:45:17.034Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/m_thanshelf.map": {
+      "bytes": 10306,
+      "sha256": "811e75bc34627545ff7513dc658e937195b98b7839bad409bf21da4975fb7e03",
+      "timestamp": "2021-12-12T17:45:17.034Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/sep_chain2.bsp": {
+      "bytes": 130276,
+      "sha256": "eff6d1868abd6355f4858f41657262ebb87fa9093579eb8abe8ac6f8c8880ee6",
+      "timestamp": "2021-12-12T17:45:17.035Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/sep_chain2.lit": {
+      "bytes": 15716,
+      "sha256": "311947b14d5363ccc34fd6e32205100b612c8a77c66196dc616192b011375b59",
+      "timestamp": "2021-12-12T17:45:17.036Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/sep_chain2.map": {
+      "bytes": 80569,
+      "sha256": "7d86dc46adc6a01b96b811021484c1e6cbfb61424f1037be59525d6f1ff2c420",
+      "timestamp": "2021-12-12T17:45:17.037Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/sep_chain3.bsp": {
+      "bytes": 80956,
+      "sha256": "8a811a3fc8f85373d64fb3840bda3a3af63a138498bc051ddb2b0d1e0cfa9e88",
+      "timestamp": "2021-12-12T17:45:17.038Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/sep_chain3.lit": {
+      "bytes": 10802,
+      "sha256": "50d0f90c43a132a5cb360cbb25521040632f07726c6ccfb482d3740ec940ad05",
+      "timestamp": "2021-12-12T17:45:17.039Z"
+    },
+    "mc_xmasjam_2025/maps/bmodels/sep_chain3.map": {
+      "bytes": 41124,
+      "sha256": "ef40d6b17d8b9fc880e4a8180336554f37dabfbc8a30b78c485793aaa5dd753b",
+      "timestamp": "2021-12-12T17:45:17.039Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_caffeinefreak.bsp": {
+      "bytes": 16541124,
+      "sha256": "0e6b12b6e55754efc662c28b3c4d5f40fa03fc0d4a43757e2dd68156b41366fb",
+      "timestamp": "2025-12-15T05:24:16.000Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_caffeinefreak.lit": {
+      "bytes": 2643908,
+      "sha256": "e3aca442c5e871d5b5f3d9e5f72636cf9fc81550b15fa75e2127ab05d6f56f75",
+      "timestamp": "2025-12-15T05:24:16.000Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_coffee009.bsp": {
+      "bytes": 3634572,
+      "sha256": "299c21e10d39e21948a1664d172a8672540e9f5ed1783b215029c932cb3d7237",
+      "timestamp": "2025-12-16T02:53:02.401Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_coffee009.lit": {
+      "bytes": 1001564,
+      "sha256": "ecbd20a5f9a675542cced5cda9e8ea3b4e074281d80b1316e00999dfcedd919b",
+      "timestamp": "2025-12-16T02:53:06.769Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_ish.bsp": {
+      "bytes": 25778296,
+      "sha256": "06d90df44d6af4885882c1a1f3f87327a00b030fa8408c3d809d502c0d1a1b2e",
+      "timestamp": "2025-12-20T06:12:34.000Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_ish.lit": {
+      "bytes": 2210576,
+      "sha256": "777d9a0213b052fc4a4e3916a62378c09194d1ea956af2bc678789a8719d9f93",
+      "timestamp": "2025-12-20T06:12:34.000Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_jameson.bsp": {
+      "bytes": 1961736,
+      "sha256": "e52d2bf2e29206d57daed3fc7a91dac0bcee42cbc58d5a2f4115e7a502cf43a1",
+      "timestamp": "2025-12-17T15:54:52.574Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_jameson.lit": {
+      "bytes": 158522,
+      "sha256": "dd174f88fb09c7077704235313e01e3ba3cd985977297b258808ac5c49ee0779",
+      "timestamp": "2025-12-17T15:54:52.576Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_krampus.bsp": {
+      "bytes": 3999464,
+      "sha256": "3ab1a73cea0850953eef504f17c6b73b0071351e74a05cfea9221ee8beb525ea",
+      "timestamp": "2025-12-23T01:16:14.000Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_negke.bsp": {
+      "bytes": 5815212,
+      "sha256": "d56af008b3b9fdafad1f088cc1406050830157b406cb26b5c83bb06a67a5db6d",
+      "timestamp": "2025-12-21T23:35:17.058Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_negke.lit": {
+      "bytes": 1388624,
+      "sha256": "b10dd621b5b7af8fdbcea367ea7abe7f70dfffacc71624f99d46b7d1c789c09a",
+      "timestamp": "2025-12-21T23:35:17.041Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_spike.bsp": {
+      "bytes": 7478400,
+      "sha256": "c1d5df3540df070e8e729b5e6e0f1992cb2dacacbab0a1e1ed41904dc51c9619",
+      "timestamp": "2025-12-17T12:28:43.000Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_textfish.bsp": {
+      "bytes": 3727332,
+      "sha256": "2681430f36b14215d2a93dedd05b4df3a42f5f07b295c2ddb7498e6ec2223a3d",
+      "timestamp": "2025-12-14T16:38:39.531Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_textfish.lit": {
+      "bytes": 1446152,
+      "sha256": "f6e52f5ffaa09ae38704e8da35a9c7c74026f974fb635e8722f0b2db59dafa1c",
+      "timestamp": "2025-12-14T16:38:39.415Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_thundergoose.bsp": {
+      "bytes": 11941536,
+      "sha256": "7b3759c297d6c1711989b66219b8dd87780d1488879cd7f1c5aa04a4a84ea607",
+      "timestamp": "2025-12-14T00:02:47.161Z"
+    },
+    "mc_xmasjam_2025/maps/mc_xmasjam_2025_thundergoose.lit": {
+      "bytes": 3197708,
+      "sha256": "86d767bfe575931b3c6e2ebb51a3e2ad6dab1725d41c5e04b547103383ca6b4e",
+      "timestamp": "2025-12-14T00:02:47.151Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_column1.bsp": {
+      "bytes": 14800,
+      "sha256": "f94c99425b3987ebb9eea08dd8c1b3c0e0215cc8afcd1099f7283324ff566712",
+      "timestamp": "2021-12-12T17:45:11.147Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_column1.lit": {
+      "bytes": 578,
+      "sha256": "c30b5af83ab23db6614ad13aff712a15971a6b35ae29ddd49f0cd3da1c1f4919",
+      "timestamp": "2021-12-12T17:45:11.147Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_column1.map": {
+      "bytes": 1541,
+      "sha256": "d71326b819e902d9a32f4a1961565f6ebb10d90069ba2ae0dc0be381a4c1b764",
+      "timestamp": "2021-12-12T17:45:11.148Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock1.bsp": {
+      "bytes": 352852,
+      "sha256": "9333d2d2d848e3a4490634aa4f1cc1ee3281c57ac9a498c85b043e5856ce2578",
+      "timestamp": "2021-12-12T17:45:11.151Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock1.lit": {
+      "bytes": 920,
+      "sha256": "6d2b33cbd7b3ce1a35c25a6e006a0786fe0bd0ea8be34b1911e2663ac33ea910",
+      "timestamp": "2021-12-12T17:45:11.152Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock1.map": {
+      "bytes": 2163,
+      "sha256": "d00049f1c1bdf04d98e768ece39b7d7442e34b719ec991e5715df588d6493d8b",
+      "timestamp": "2021-12-12T17:45:11.152Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock2.bsp": {
+      "bytes": 14728,
+      "sha256": "52675efa81ecae4bb87524c97148d7da60916f0e0dc3c65e99b73745aea70fec",
+      "timestamp": "2021-12-12T17:45:11.153Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock2.lit": {
+      "bytes": 383,
+      "sha256": "306d2df8cbd9d7ad755fe7e4a6734e0089b38eefa2e2e4fccacfb68c96dd8d90",
+      "timestamp": "2021-12-12T17:45:11.153Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock2.map": {
+      "bytes": 1528,
+      "sha256": "891f208f7fdae3fcf1defe7a4cdcda7a6084fbde663ed4e2ab015af18911cb96",
+      "timestamp": "2021-12-12T17:45:11.154Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock3.bsp": {
+      "bytes": 352160,
+      "sha256": "bf041a139ed9be638cd1c548139fffca3ceeddefdad2334fcc2639018833110a",
+      "timestamp": "2021-12-12T17:45:11.155Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock3.lit": {
+      "bytes": 356,
+      "sha256": "19a61c05d08dd726a9d00174eb3eb1dbdd16da3e0e62ab93d691620aa71add83",
+      "timestamp": "2021-12-12T17:45:11.157Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock3.map": {
+      "bytes": 1878,
+      "sha256": "d0049b763f7fd8f25b2176984341421d704f9b50571b24168c60889fdbad5e20",
+      "timestamp": "2021-12-12T17:45:11.157Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock4.bsp": {
+      "bytes": 352704,
+      "sha256": "578e7d2dc0eff7bf5ac21b04919d1e137296824182d4809991a27a83addeba75",
+      "timestamp": "2021-12-12T17:45:11.158Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock4.lit": {
+      "bytes": 311,
+      "sha256": "3af5d5c9613dd5a1fa09a40b02891bf7153892db8505528b7d3315ce251bfff7",
+      "timestamp": "2021-12-12T17:45:11.160Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ad_rock4.map": {
+      "bytes": 1889,
+      "sha256": "472f41679eedc00096e8042935ad5287f4598940ef294b8175cccd196dcb6f86",
+      "timestamp": "2021-12-12T17:45:11.161Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/azr1.bsp": {
+      "bytes": 13842,
+      "sha256": "e00518c5ad3beee852a6135184423d4ca985b17b2f1d2cfebc60e82f91582f26",
+      "timestamp": "2021-12-12T17:45:11.161Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/azr1.map": {
+      "bytes": 1193,
+      "sha256": "ef3affe9788b130826f2b1632b5461eaaf15d630587c12c5a875f6042b0ae99c",
+      "timestamp": "2021-12-12T17:45:11.162Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/azr2.bsp": {
+      "bytes": 13571,
+      "sha256": "687097f4773430ca297db9c1d8133b035c8ca1e5d574943a4caa34eef262f003",
+      "timestamp": "2021-12-12T17:45:11.162Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/azr2.map": {
+      "bytes": 1319,
+      "sha256": "22b2084665b2882c976da1dc840a19b151cd44daa524955ddab9ec64e9c3233e",
+      "timestamp": "2021-12-12T17:45:11.163Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/azr3.bsp": {
+      "bytes": 13571,
+      "sha256": "187a6607641c00aa6ee662af52f1b2899d5ca606e469408dd2c94d67dd2ab465",
+      "timestamp": "2021-12-12T17:45:11.163Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/azr3.map": {
+      "bytes": 1338,
+      "sha256": "5e551a8ebefc386b1336e814a44e29ae6781e6da5bc929cb232674853c46a143",
+      "timestamp": "2021-12-12T17:45:11.164Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_ice05.bsp": {
+      "bytes": 98664,
+      "sha256": "b8b2aa063250f6dcc388ead43ff66133c8fa14b1c30afa17c2fce8f2b2c9fd81",
+      "timestamp": "2021-12-12T17:45:11.165Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_ice05.lit": {
+      "bytes": 617,
+      "sha256": "e3e8aa044b60a26d643ff87937f83602cdffcebb948ea7ae22148e7952faa18b",
+      "timestamp": "2021-12-12T17:45:11.165Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_ice05.map": {
+      "bytes": 3094,
+      "sha256": "dbca0fea0a986137f9b4a6fbb916cf3de830ba4a60738830cc6e1bd554f561f1",
+      "timestamp": "2021-12-12T17:45:11.166Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kbr1.bsp": {
+      "bytes": 7476,
+      "sha256": "2a2cd33b87f511d4c7fc25a812c632fb07c385b372e89fa900fd0f8ce8146076",
+      "timestamp": "2021-12-12T17:45:11.166Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kbr1.lit": {
+      "bytes": 92,
+      "sha256": "580ff7adf91b63bcd7f35e27059295b0a5fc404468e32e5d5f3323b5a822fb27",
+      "timestamp": "2021-12-12T17:45:11.167Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kbr1.map": {
+      "bytes": 863,
+      "sha256": "3b9d9842f17fb140b23337b452cfc8d49151410640384868a0003bd472dd0d5c",
+      "timestamp": "2021-12-12T17:45:11.167Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kbr1.pts": {
+      "bytes": 178,
+      "sha256": "22cf782552b8a3da946cfa0fa044cffd08f2b0ab50e588c9b68d89a373f026b0",
+      "timestamp": "2021-12-12T17:45:11.168Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kjw1.bsp": {
+      "bytes": 9424,
+      "sha256": "06f271813935ecb90a425d6c943bd53b207fb9d370ec42bb1228af92fe4413d1",
+      "timestamp": "2021-12-12T17:45:11.168Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kjw1.lit": {
+      "bytes": 380,
+      "sha256": "30e6270550b5a78bfaa31df0c6e477d6980eefd380abc2e2aaf7003dbe544f77",
+      "timestamp": "2021-12-12T17:45:11.169Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kjw1.map": {
+      "bytes": 1825,
+      "sha256": "61e8f8f45b2fb0e0766b125bae58b54b36cb45b6d856c7c06814681f52eb91aa",
+      "timestamp": "2021-12-12T17:45:11.170Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_kjw1.pts": {
+      "bytes": 120,
+      "sha256": "f7d0f45d90befed57df8dd476bcd10293481eb932925853e3fdbc93a55991a49",
+      "timestamp": "2021-12-12T17:45:11.170Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_rtex01.bsp": {
+      "bytes": 97932,
+      "sha256": "ce36fbfdd6f46f5aa7740598689fb2c7de50fa58adda9d4a8a3023ad31194367",
+      "timestamp": "2021-12-12T17:45:11.171Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_rtex01.lit": {
+      "bytes": 692,
+      "sha256": "5fe28d309679e9871f14a9c3833184c9ad711fa2bd93adc330a34fd599032a6d",
+      "timestamp": "2021-12-12T17:45:11.172Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_rtex01.map": {
+      "bytes": 2875,
+      "sha256": "6cc8f787b54565b3c9dffe9eec20c44d66a68b12fd555bad65bb25f03a2aa7e9",
+      "timestamp": "2021-12-12T17:45:11.172Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_wood1.bsp": {
+      "bytes": 7560,
+      "sha256": "373c0b96905055b6b036272c954d7eaf3557d79d62b056ab9a472fb0cd27de83",
+      "timestamp": "2021-12-12T17:45:11.173Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_wood1.lit": {
+      "bytes": 176,
+      "sha256": "67ce559200158ce198e5a93a94dd4a440ae607fedc5b3093c288049ce5f50151",
+      "timestamp": "2021-12-12T17:45:11.173Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/az_wood1.map": {
+      "bytes": 950,
+      "sha256": "4fb7eae852ba72528b34d6a0947497eeeab1e1307aa1c4be552628432007c86e",
+      "timestamp": "2021-12-12T17:45:11.174Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk1.bsp": {
+      "bytes": 23869,
+      "sha256": "dbc342e95245a12598aade308195a3234829225944692c45c8fec792d03f17c3",
+      "timestamp": "2021-12-12T17:45:11.174Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk1.map": {
+      "bytes": 793,
+      "sha256": "a9d2fe494267551f3d1638c7963bab47d292be250417f78286b39059af836af5",
+      "timestamp": "2021-12-12T17:45:11.175Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk2.bsp": {
+      "bytes": 23663,
+      "sha256": "4b8cd15ae7812d581064800bbcf64cab62c3d5ecfb03c23ff2b498694a0cb708",
+      "timestamp": "2021-12-12T17:45:11.176Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk2.map": {
+      "bytes": 661,
+      "sha256": "19c13935f0b045fadd9c739680de7155f0e4d29c86ef3e6950d07f265b1ef1a3",
+      "timestamp": "2021-12-12T17:45:11.176Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk3.bsp": {
+      "bytes": 23700,
+      "sha256": "1fc3c7a685f5662779f4c6ad0fb02099396504dcf55eef09474183aff69861c1",
+      "timestamp": "2021-12-12T17:45:11.177Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk3.map": {
+      "bytes": 746,
+      "sha256": "bd10960b3af925cf2a33bb0629d1a522de5f54ec05938b36378871fd7de0b9f3",
+      "timestamp": "2021-12-12T17:45:11.177Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk5.bsp": {
+      "bytes": 23639,
+      "sha256": "851a02aced76ba77894ba744c5c781ff350a42b93216e095f75938fc95ee39a8",
+      "timestamp": "2021-12-12T17:45:11.178Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/booksh1w_brk5.map": {
+      "bytes": 759,
+      "sha256": "c92ec0ad3d3a5c6588557b5f3c9c000cd1c141a4d9c3b35333d859e75c677568",
+      "timestamp": "2021-12-12T17:45:11.179Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_4brk1.bsp": {
+      "bytes": 9004,
+      "sha256": "86fb182b011385225d5be8b2a2ba0763286a5a2a5880fdda6fc238d8e6a5212f",
+      "timestamp": "2021-12-12T17:45:11.179Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_4brk1.map": {
+      "bytes": 1375,
+      "sha256": "208cf3d2a51b0aa4a45cd237786a9303b70a63a85e991a7f8675634bea6295ed",
+      "timestamp": "2021-12-12T17:45:11.180Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_4brk2.bsp": {
+      "bytes": 7265,
+      "sha256": "151471ef184c02141716225e4403e97a69190bd8a3e9645cf2d52aeb5dce591d",
+      "timestamp": "2021-12-12T17:45:11.180Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_4brk2.map": {
+      "bytes": 603,
+      "sha256": "cdd5762f851cec464b27e9bfc91c0eab8cb26e69a8b050ac1bd9b0eb662dbf7b",
+      "timestamp": "2021-12-12T17:45:11.181Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_brk2.bsp": {
+      "bytes": 25323,
+      "sha256": "0d8c4dc3202bcc9f26dfd42ca555b99d0010c63b977cd058646a8e8ad4486eea",
+      "timestamp": "2021-12-12T17:45:11.181Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_brk2.map": {
+      "bytes": 1378,
+      "sha256": "daeae48ab2f6fca712da2413b65c80c6a944e537571def2d153976b0175d8768",
+      "timestamp": "2021-12-12T17:45:11.182Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_brk3.bsp": {
+      "bytes": 24310,
+      "sha256": "5f94a5e271bb5b921e4534be8690f005bc258e484cb842a6ead0af9aac29fcfb",
+      "timestamp": "2021-12-12T17:45:11.183Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_brk3.map": {
+      "bytes": 905,
+      "sha256": "1639469c5fe31540811a8bb95d959844d200102cd19f60d1d5e9c3472477e2d2",
+      "timestamp": "2021-12-12T17:45:11.183Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_brk4.bsp": {
+      "bytes": 23548,
+      "sha256": "e2049e826c103f2afbb5d0a4b69d45089d0bdcf6bd60646d6ae79c99e9a9a976",
+      "timestamp": "2021-12-12T17:45:11.184Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/brick2_brk4.map": {
+      "bytes": 582,
+      "sha256": "b3528f92f4ecf8099a7bfbf3285f21312c501536b66e02b566a7e38474aa608c",
+      "timestamp": "2021-12-12T17:45:11.184Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city2_3d1.bsp": {
+      "bytes": 7358,
+      "sha256": "efc80ba0aab1284e2bcec652cc3a2748890c45d6905335f61483eab2851f7c81",
+      "timestamp": "2021-12-12T17:45:11.185Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city2_3d1.map": {
+      "bytes": 739,
+      "sha256": "ff9c2ebe0034d188443e3a72753d4ecad2a69706a4a06c114f9147f507d10b30",
+      "timestamp": "2021-12-12T17:45:11.185Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city2_3rd.bsp": {
+      "bytes": 7156,
+      "sha256": "6146e0e5961857308f2ef550213ec647ad810a97359d0946cc07f610e0f03006",
+      "timestamp": "2021-12-12T17:45:11.186Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city4_2_brk1.bsp": {
+      "bytes": 7435,
+      "sha256": "42a4cbd73804a8458a8369fdbd19ee6b3b4597b18583c242bf77b0122ddc9c1a",
+      "timestamp": "2021-12-12T17:45:11.187Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city4_2_brk1.map": {
+      "bytes": 648,
+      "sha256": "50b744f4af85aa3c0158ae0330808840710c7ee95c1bda8155cb81b4b247fc74",
+      "timestamp": "2021-12-12T17:45:11.187Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city4_2_brk2.bsp": {
+      "bytes": 7179,
+      "sha256": "cc2ddcb8877dc1b49ec2c408d6b869a35dd7b6590782525af567905d75a3ada0",
+      "timestamp": "2021-12-12T17:45:11.188Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city4_2_brk2.map": {
+      "bytes": 520,
+      "sha256": "e9309b8ec24126fd952443ae6bee72df46ba04fb4d0925b33d41c603af9ac5b3",
+      "timestamp": "2021-12-12T17:45:11.189Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city4_2_brk3.bsp": {
+      "bytes": 10009,
+      "sha256": "7f9a27098101f70090c3aff7fd6731effd2750e8c2b7fdbbb0a9f3146be94045",
+      "timestamp": "2021-12-12T17:45:11.189Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city4_2_brk3.map": {
+      "bytes": 1575,
+      "sha256": "c352d889a3bed731b7c54e38d7ed35e6fa860d2f6f69eb91319f4043423d7aa8",
+      "timestamp": "2021-12-12T17:45:11.190Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city6_8brk1.bsp": {
+      "bytes": 7187,
+      "sha256": "bcf4b2815c96308ffc1ab3467ac8b2dd4c25be47d618fd82536ba83bf74a05fc",
+      "timestamp": "2021-12-12T17:45:11.190Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city6_8brk1.map": {
+      "bytes": 529,
+      "sha256": "2db1be71ce1b1e8bf1e8a5c4c7f2802345aa19c281fd43f2b18d205cbd06bfca",
+      "timestamp": "2021-12-12T17:45:11.191Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city6_8brk2.bsp": {
+      "bytes": 7298,
+      "sha256": "3b7fd08defa832be1c3f3e40efc6d54d13af6714180be810f6527188f332fbff",
+      "timestamp": "2021-12-12T17:45:11.192Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/city6_8brk2.map": {
+      "bytes": 611,
+      "sha256": "ed29b0773cb700d4b8212f9e28b23edac2d212f469b4a1406538df2b066fcbb2",
+      "timestamp": "2021-12-12T17:45:11.192Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk1.bsp": {
+      "bytes": 12862,
+      "sha256": "5bfae9b09777fad7f26f80b5acc27e187e2259ac5c79ad32ab2a30d154e5889b",
+      "timestamp": "2021-12-12T17:45:11.193Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk1.lit": {
+      "bytes": 179,
+      "sha256": "5d64872b2341768efce6c27686555200246e03d346a2e15089e002d53b1b348f",
+      "timestamp": "2021-12-12T17:45:11.193Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk1.map": {
+      "bytes": 827,
+      "sha256": "08f5b26ee0ebb26416e6a1ed660e197b1ea113a553f5c7a1d26a6070b5cbdac8",
+      "timestamp": "2021-12-12T17:45:11.194Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk2.bsp": {
+      "bytes": 12861,
+      "sha256": "377b50dac34c3789fe8a7bcf6a5b3cedda0f3ba91225135ffc9a2f41abe41e35",
+      "timestamp": "2021-12-12T17:45:11.194Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk2.lit": {
+      "bytes": 188,
+      "sha256": "402bfba12b94cd1b3a40f1052830d4e4fa3b4cb103b196c089f4965e94766bd5",
+      "timestamp": "2021-12-12T17:45:11.195Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk2.map": {
+      "bytes": 828,
+      "sha256": "a45245e0f19cc98f29bcc88c9173118b65058d25ff1c043aaca876353bc67531",
+      "timestamp": "2021-12-12T17:45:11.196Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk3.bsp": {
+      "bytes": 13185,
+      "sha256": "52e2b8d426e479bffc8d518a4d8aa5d5a5dc437dbd761c7074992838ccfd070b",
+      "timestamp": "2021-12-12T17:45:11.196Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk3.lit": {
+      "bytes": 218,
+      "sha256": "dabacc9c3ffdc3bae8c008bedfb683babaca23f6e5b0ca5e35b9c39f9d86f402",
+      "timestamp": "2021-12-12T17:45:11.197Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/floor015_brk3.map": {
+      "bytes": 1078,
+      "sha256": "5235ba02c52ba6dc678f052e4efbad43b9f7d63f858c5f732519f6436246733d",
+      "timestamp": "2021-12-12T17:45:11.197Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/plat_brk.bsp": {
+      "bytes": 59896,
+      "sha256": "367ec651b3cded1ecdf22305a3b48490d3df3078d556d4c7fadfb392ae12ad33",
+      "timestamp": "2021-12-12T17:45:11.198Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/plat_brk.map": {
+      "bytes": 2052,
+      "sha256": "fe52fffba97e8df9acfe4607c9b08d9eb5f4559b44d8c0f6fdbd3af6a0cbf8d6",
+      "timestamp": "2021-12-12T17:45:11.198Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw01.bsp": {
+      "bytes": 8843,
+      "sha256": "a3acc4f42ca89efb30d5f9d7ed7c694d59ab6003bd3c665cfa4db480550fd92d",
+      "timestamp": "2021-12-12T17:45:11.199Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw01.map": {
+      "bytes": 1371,
+      "sha256": "0e4d621fba3a9806ffdf2bffda89e4d05231513b6f7986d504722d1b99c21a91",
+      "timestamp": "2021-12-12T17:45:11.200Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw02.bsp": {
+      "bytes": 9179,
+      "sha256": "4b3d68587a69daa68093d32195a786e8040fed763855acb94f50d02875a8ec44",
+      "timestamp": "2021-12-12T17:45:11.200Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw02.map": {
+      "bytes": 1631,
+      "sha256": "82bbf3c701301a80f55619bdac2680d9713432d8fe991838bfb7559830225322",
+      "timestamp": "2021-12-12T17:45:11.201Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw03.bsp": {
+      "bytes": 9766,
+      "sha256": "59d2841166f7ecb216df970963b3e425da20566f2fb56a7e5472f4e3c9fcfb24",
+      "timestamp": "2021-12-12T17:45:11.201Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw03.map": {
+      "bytes": 1526,
+      "sha256": "300f4c4f56cc9f6425cc8999484e18326555c57b8f53d9f42c36a4345b850d2c",
+      "timestamp": "2021-12-12T17:45:11.202Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw04.bsp": {
+      "bytes": 9836,
+      "sha256": "72854269a33665022dee9c30e53e6124bc2bba25ad34d2a3d86302e50ad795c1",
+      "timestamp": "2021-12-12T17:45:11.203Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rock_sw04.map": {
+      "bytes": 1605,
+      "sha256": "e2b3e6e53c11de10d0de4b7374d43a09be1622766cb3ff60c9e9cec8688747f9",
+      "timestamp": "2021-12-12T17:45:11.203Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rot_p.bsp": {
+      "bytes": 13554,
+      "sha256": "afcc7dc6512bba89ceec9e10bfa8256ecd043d34c1af57f33a199509500164ff",
+      "timestamp": "2021-12-12T17:45:11.204Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/rot_p.map": {
+      "bytes": 2518,
+      "sha256": "c60e36e827e052cea6ca5c6c2d022b5da051090ee2accf8807f5703ec8acc79a",
+      "timestamp": "2021-12-12T17:45:11.204Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/waa1.bsp": {
+      "bytes": 23869,
+      "sha256": "739aa8d0753e691020013539356d2c2e10b9d0b82c63bcc694080afe33bc585e",
+      "timestamp": "2021-12-12T17:45:11.205Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/waa1.map": {
+      "bytes": 765,
+      "sha256": "f2e7bbba974ffde1e4178be825034e555ca491fffedbf007e62589214af82f0f",
+      "timestamp": "2021-12-12T17:45:11.206Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/wbrick15_brk.bsp": {
+      "bytes": 7969,
+      "sha256": "0dcbd483c300f1be58a216b6d64ea385dd489babdc70868e483fb496c4dd4c38",
+      "timestamp": "2021-12-12T17:45:11.206Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/wbrick15_brk.map": {
+      "bytes": 899,
+      "sha256": "43789ad5bb908aa7fb8e8893db766ce0e479cc547e31aa8de6fe1b4bd6093015",
+      "timestamp": "2021-12-12T17:45:11.207Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/win1ah_brk.bsp": {
+      "bytes": 34981,
+      "sha256": "d549b60245213678c222499299e43654c25f838ed42898a25ec284d933f56b64",
+      "timestamp": "2021-12-12T17:45:11.208Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/win1ah_brk.map": {
+      "bytes": 897,
+      "sha256": "da6859a14f291bef23c990977c0fce7e21ee2c790318cce46e36a8388e87fb39",
+      "timestamp": "2021-12-12T17:45:11.208Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/win1ah_brk2.bsp": {
+      "bytes": 34873,
+      "sha256": "87416124f6e04adaaa5ed9144fa60e048dc03606bc294d89d99295a7c8cb2487",
+      "timestamp": "2021-12-12T17:45:11.209Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/win1ah_brk2.map": {
+      "bytes": 901,
+      "sha256": "5d9a1aefeca5acfdbb25cad5489f5bcb41c89f3c9b92a3d305da0f462c439ec2",
+      "timestamp": "2021-12-12T17:45:11.210Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/wiz14_brk1.bsp": {
+      "bytes": 8961,
+      "sha256": "cb45306588dc69d44422d475c0481f67a76638fe2502c16c28a8f87fa43f6787",
+      "timestamp": "2021-12-12T17:45:11.210Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/wiz14_brk1.map": {
+      "bytes": 1262,
+      "sha256": "46200a77c401035e45d339d8106263e7210ed66e373be74f65687c5d1eb83124",
+      "timestamp": "2021-12-12T17:45:11.211Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/wiz14_brk2.bsp": {
+      "bytes": 7338,
+      "sha256": "871684ecf4507da9773ca5568ccdd0a27173d2f35922b379a19f95e9252a777f",
+      "timestamp": "2021-12-12T17:45:11.212Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/wiz14_brk2.map": {
+      "bytes": 652,
+      "sha256": "97a58529ea21e8127050b0f1e3305e4616b1970232e6517aa652061f49ffc9e0",
+      "timestamp": "2021-12-12T17:45:11.212Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ws14_brk1.bsp": {
+      "bytes": 7987,
+      "sha256": "ee96dcf614d940d9f887035be0781ad941fc5f76a0f0e553ec3592ae00af1794",
+      "timestamp": "2021-12-12T17:45:11.213Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ws14_brk1.map": {
+      "bytes": 948,
+      "sha256": "022d130b741c8976f529288f6030fabd2040991efd8bb0a6542dc1508c0b061c",
+      "timestamp": "2021-12-12T17:45:11.214Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ws14_brk2.bsp": {
+      "bytes": 9003,
+      "sha256": "6aa46294d8fffe55db6f2e6a9d30341fe07a9252b0066ff575c692d0b149f7af",
+      "timestamp": "2021-12-12T17:45:11.214Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ws14_brk2.map": {
+      "bytes": 1375,
+      "sha256": "8f175f2e3ac8a760fcb7d25da5a30cea149b55349fa0e0d20b2a8c0b080aa5b0",
+      "timestamp": "2021-12-12T17:45:11.215Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ws14_brk3.bsp": {
+      "bytes": 8944,
+      "sha256": "282944bfbd49b6dcc0aa0d67253432d88c63212ea564a9c6b8909a9b96f8946a",
+      "timestamp": "2021-12-12T17:45:11.216Z"
+    },
+    "mc_xmasjam_2025/maps/medieval_brk/ws14_brk3.map": {
+      "bytes": 1282,
+      "sha256": "6ecd83ba25e15f363f271078c73f6c460babf95ea63340a855dfa182ec47e4b4",
+      "timestamp": "2021-12-12T17:45:11.216Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022a.bsp": {
+      "bytes": 17448,
+      "sha256": "3557f9518ca0982c871dd344ea5069e5128645029ea428de26ef991881170a59",
+      "timestamp": "2021-12-12T17:45:11.217Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022a.map": {
+      "bytes": 691,
+      "sha256": "50e0375bf596265b893e56996dbddfad26af2e50bb9af473dc2115e18b11dc02",
+      "timestamp": "2021-12-12T17:45:11.218Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022b.bsp": {
+      "bytes": 17608,
+      "sha256": "083fdbd34b34b47c5dd9dd58f4e3e0fa3debbedd554db4ce81791033349451fa",
+      "timestamp": "2021-12-12T17:45:11.219Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022b.map": {
+      "bytes": 825,
+      "sha256": "26d8800f4cfb0706ad363e958846d87755b4871792d1ac1f00b5b51fd7550777",
+      "timestamp": "2021-12-12T17:45:11.219Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022c.bsp": {
+      "bytes": 17820,
+      "sha256": "8c6b933d2cd323eba623727226ea6cb1f968e0401093f93d229d229a7a5b225d",
+      "timestamp": "2021-12-12T17:45:11.220Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022c.map": {
+      "bytes": 894,
+      "sha256": "835d4d09490552859dc79ad527bcd08af8afedfa7a863148c62f2f58742e9014",
+      "timestamp": "2021-12-12T17:45:11.220Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022d.bsp": {
+      "bytes": 17592,
+      "sha256": "0580ec01633972b2fff28c5d4b9a71766d3f1ed6fae387dff34ca691ff829e38",
+      "timestamp": "2021-12-12T17:45:11.221Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/022d.map": {
+      "bytes": 784,
+      "sha256": "238fc24be385d3994586c34555e74ecbb7677aa7567bbf317947276c14b62107",
+      "timestamp": "2021-12-12T17:45:11.222Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330a.bsp": {
+      "bytes": 7928,
+      "sha256": "a446db4116b8c33f46745cf815ba9309e69591d919838006c81a9b0a5b00c7d4",
+      "timestamp": "2021-12-12T17:45:11.223Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330a.map": {
+      "bytes": 691,
+      "sha256": "964103ee6422dd3b815472c9f29126741e06517623dad050fba18a9867451903",
+      "timestamp": "2021-12-12T17:45:11.223Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330b.bsp": {
+      "bytes": 8088,
+      "sha256": "727d22fad028bac645a53ac5a425618e30575735958496b7a1ac86cfbc562e1a",
+      "timestamp": "2021-12-12T17:45:11.224Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330b.map": {
+      "bytes": 825,
+      "sha256": "807bdb97ab58709fd96cfa0e7b65cb5d377257b862eef2673606901d70b84108",
+      "timestamp": "2021-12-12T17:45:11.224Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330c.bsp": {
+      "bytes": 8300,
+      "sha256": "b25471a1f0e7fdd066dda47860ae956db2b2c4758a426b39b8a82e6b4c6d1b72",
+      "timestamp": "2021-12-12T17:45:11.225Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330c.map": {
+      "bytes": 894,
+      "sha256": "13241951b0d3cd61a71e0fe80071a1df65e369eba44aabdf3401f3ba5aa55a7f",
+      "timestamp": "2021-12-12T17:45:11.225Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330d.bsp": {
+      "bytes": 8072,
+      "sha256": "8f83245e973c42e9908b6215c5effc0f0581d654e5e8e67a6e77493f79de3e6d",
+      "timestamp": "2021-12-12T17:45:11.226Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/330d.map": {
+      "bytes": 784,
+      "sha256": "f0e46c1efc3d5a814675f5760a33a2e6bc4163974ff64a4c1f88ab70c50fbb68",
+      "timestamp": "2021-12-12T17:45:11.227Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340a.bsp": {
+      "bytes": 13368,
+      "sha256": "e8a605fdff44ef59b4657a43a67cfb24d2d62f150b210a0761f69ed5f559215c",
+      "timestamp": "2021-12-12T17:45:11.227Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340a.map": {
+      "bytes": 691,
+      "sha256": "3678f5058497a6067c7ffb4d452e706af588e0aedfd30bfa2d43f1902333e7ec",
+      "timestamp": "2021-12-12T17:45:11.228Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340b.bsp": {
+      "bytes": 13528,
+      "sha256": "d92cc6afb7ae74965a8bb2a753909e2dc6c064b5fb2c9c463c95123531ba337d",
+      "timestamp": "2021-12-12T17:45:11.228Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340b.map": {
+      "bytes": 825,
+      "sha256": "29f243aa1c347358e34383f4ffb2d129f710829022524237585041c7840a02cb",
+      "timestamp": "2021-12-12T17:45:11.229Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340c.bsp": {
+      "bytes": 13740,
+      "sha256": "882a110b1a7e26481e5dd37858d5229c0273bc98ab8a2ab59f318e2b76080fac",
+      "timestamp": "2021-12-12T17:45:11.229Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340c.map": {
+      "bytes": 894,
+      "sha256": "069e17115ae35cf0fdaa9ceb8b3a67065360d4fc03f91036ba453b6b6745d77b",
+      "timestamp": "2021-12-12T17:45:11.230Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340d.bsp": {
+      "bytes": 13512,
+      "sha256": "96a6133331679ad8eb75d8581e8be12c6822d2048c18a1e704281a6e4cc0737c",
+      "timestamp": "2021-12-12T17:45:11.231Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/340d.map": {
+      "bytes": 784,
+      "sha256": "b8197ea047f14d175e5b9234dcc9b625f04124b175bb0fd80da7ceffe056b00c",
+      "timestamp": "2021-12-12T17:45:11.232Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413ra.bsp": {
+      "bytes": 7972,
+      "sha256": "a3cc5962750f55c398dfaf53cb4d8394f1100c752ca9797f053ec2710acd995d",
+      "timestamp": "2021-12-12T17:45:11.232Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413ra.map": {
+      "bytes": 769,
+      "sha256": "b0a3052bfb352684f97fb7bca8fdc3d7b135ae5e3fca491d190d09423836da46",
+      "timestamp": "2021-12-12T17:45:11.233Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413rb.bsp": {
+      "bytes": 9204,
+      "sha256": "e36bf5d23b3dcaf96075b1b441ebf6424da62cb2d04ff14f04da4e9956711094",
+      "timestamp": "2021-12-12T17:45:11.234Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413rb.map": {
+      "bytes": 1682,
+      "sha256": "6be0d7cbae08ffccbb1ea9dedf03bc6f8c9b6be93c6c27d5e964e3b4f4538a52",
+      "timestamp": "2021-12-12T17:45:11.234Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413rc.bsp": {
+      "bytes": 10340,
+      "sha256": "4d57717cc2fb9db560e724df4937f7c496d77d1df6d70e6619ba686338152e79",
+      "timestamp": "2021-12-12T17:45:11.235Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413rc.map": {
+      "bytes": 1909,
+      "sha256": "71c9812cdf0647bb89fcd2a911a664b7a8dea382b0fe58e4e834a24354a23b38",
+      "timestamp": "2021-12-12T17:45:11.236Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413rd.bsp": {
+      "bytes": 13356,
+      "sha256": "573149ae9d1f687b0ddc0a702116357b4556e20ae8d62b7b32b3c5b41f227088",
+      "timestamp": "2021-12-12T17:45:11.236Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/413rd.map": {
+      "bytes": 3217,
+      "sha256": "f40b142b102fefefdaf6594c2d1410f370fd8491a009ecfc6dada46c55f262d2",
+      "timestamp": "2021-12-12T17:45:11.237Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1a.bsp": {
+      "bytes": 7552,
+      "sha256": "8884a645d6193052aeba7043c139b3eb4cf8ace2e62ed6e9181d51f90cae4806",
+      "timestamp": "2021-12-12T17:45:11.238Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1a.map": {
+      "bytes": 1007,
+      "sha256": "5322a91b2aad8cf58095fb513e58317d738469c168b78f770307c3ece580fbf9",
+      "timestamp": "2021-12-12T17:45:11.238Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1b.bsp": {
+      "bytes": 7096,
+      "sha256": "9d7d44ba1c929fae0bf702ec834394c9da23c199cf742f9c7021bec00f33c056",
+      "timestamp": "2021-12-12T17:45:11.239Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1b.map": {
+      "bytes": 516,
+      "sha256": "158e6d102aaeb8dd7add01eecd7e05b4c711a20d7d7134d1bdce417fbe1b2072",
+      "timestamp": "2021-12-12T17:45:11.240Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1c.bsp": {
+      "bytes": 7144,
+      "sha256": "f292d3b9cabaa0332d7c3f6abd66420ad9ef80217f32223bd67315fa8967d908",
+      "timestamp": "2021-12-12T17:45:11.240Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1c.map": {
+      "bytes": 517,
+      "sha256": "f853df961fdcebd569943bad596dceb464c6317e44f3d77ce4def17295b37c00",
+      "timestamp": "2021-12-12T17:45:11.241Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1d.bsp": {
+      "bytes": 7804,
+      "sha256": "8e6ffa915db57d7cb958c7210e0abc35ff552713a5aa19a1ccb531a7d45bd504",
+      "timestamp": "2021-12-12T17:45:11.242Z"
+    },
+    "mc_xmasjam_2025/maps/rtex_brk/wood3_1d.map": {
+      "bytes": 883,
+      "sha256": "d370c44a047023843caf08a41098bd3852526b614ae074c228cc6ad4e76d4aa9",
+      "timestamp": "2021-12-12T17:45:11.242Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/crate_r1.bsp": {
+      "bytes": 29110,
+      "sha256": "5dd3afab4a3ad5cf4466e272324e4afad5075ca2e662cc8b1932e277a2db73a2",
+      "timestamp": "2021-12-12T17:45:11.243Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/crate_r1.map": {
+      "bytes": 664,
+      "sha256": "ee7ce39ec0650d3cbde924b99efc91ba884778db11a961037d4493bf587fa33e",
+      "timestamp": "2021-12-12T17:45:11.244Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door1.bsp": {
+      "bytes": 31200,
+      "sha256": "6df38f4db1bfd725dd7384b45e38d070fd4b514139a8e649aea3e640377a073d",
+      "timestamp": "2021-12-12T17:45:11.245Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door1.map": {
+      "bytes": 1419,
+      "sha256": "17bf053113ed5cc14e99ef2880e5478ebace7d59de4797fc6cbfe3586d688494",
+      "timestamp": "2021-12-12T17:45:11.245Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door2.bsp": {
+      "bytes": 29732,
+      "sha256": "8f58cd2f2e76fbb36a007ed7986671092b880d01dfcb9a087e93cd11240d2baf",
+      "timestamp": "2021-12-12T17:45:11.246Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door2.map": {
+      "bytes": 726,
+      "sha256": "3fac703869c9ebb4eabfbe8f180fec752812eea0aa68c5f5574c5cf2496c3931",
+      "timestamp": "2021-12-12T17:45:11.246Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door3.bsp": {
+      "bytes": 26516,
+      "sha256": "77f003456362f2b7ca424491485ad2d20b162598527765e5e78628ee7e6ad172",
+      "timestamp": "2021-12-12T17:45:11.247Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door3.map": {
+      "bytes": 1247,
+      "sha256": "e56d45f63dcb0d86a0039ea443109d8c8d116fa18331a2328e90f74a891ab9d2",
+      "timestamp": "2021-12-12T17:45:11.248Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door4.bsp": {
+      "bytes": 24020,
+      "sha256": "930881a45210317dd3550b04b20d2446cf92c8c613d4aa295a5c77810b77b3f2",
+      "timestamp": "2021-12-12T17:45:11.248Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/door4.map": {
+      "bytes": 611,
+      "sha256": "f4a68b8f4d081ff0febc276c51b5484c96e4b044eab6e20069ae84ac7c5a0ac2",
+      "timestamp": "2021-12-12T17:45:11.249Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/rock1.bsp": {
+      "bytes": 89984,
+      "sha256": "c87f60de56cfd5a932cf33d23d6e83b0fd16518001dd8fa7be84da9c3176b5b5",
+      "timestamp": "2021-12-12T17:45:11.250Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/rock1.map": {
+      "bytes": 980,
+      "sha256": "29e5bd54316e6f325d71a33051ee3a5b6c213f927222931bb35cdcc1820cc87a",
+      "timestamp": "2021-12-12T17:45:11.250Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/rock2.bsp": {
+      "bytes": 90012,
+      "sha256": "443e51be48da3594545d347ee056f3973b0360268eb6c03653d7b3af622c553e",
+      "timestamp": "2021-12-12T17:45:11.251Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/rock2.map": {
+      "bytes": 991,
+      "sha256": "40b6b9f23f788c08f362f2336048bbe1260f181d7e76de2591ea7aefa03f4b09",
+      "timestamp": "2021-12-12T17:45:11.251Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/spdcrate_r1.bsp": {
+      "bytes": 12844,
+      "sha256": "30fa3f373efefcf7db68a9acbb0eb282a0b2ea54d26db92eaaad444035462791",
+      "timestamp": "2021-12-12T17:45:11.252Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/spdcrate_r1.map": {
+      "bytes": 807,
+      "sha256": "c18735f305c2496a4801ed1a5bc1297f2d72e55824f7222a265ac5788552fc68",
+      "timestamp": "2021-12-12T17:45:11.253Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/speedbzvent1.bsp": {
+      "bytes": 15248,
+      "sha256": "bcfe36bf57cb82e5188b86af3e5bf568038ef5a50d0ebce43024155b7276008d",
+      "timestamp": "2021-12-12T17:45:11.253Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/speedbzvent1.map": {
+      "bytes": 2053,
+      "sha256": "7d447bc22e440e685648d8b39e051bce7c1b847e3f777ac092ab1104b79242a1",
+      "timestamp": "2021-12-12T17:45:11.254Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/speedbzvent2.bsp": {
+      "bytes": 14104,
+      "sha256": "8fb1e76688e27767ce77c5d7b3486048adfa284e011b91007730d424eb55ca61",
+      "timestamp": "2021-12-12T17:45:11.254Z"
+    },
+    "mc_xmasjam_2025/maps/speedbz_brk/speedbzvent2.map": {
+      "bytes": 1381,
+      "sha256": "44cfc0509c9455865df334c1ca5bdfca49cf0fae4dab372cac99e6eeb76b438c",
+      "timestamp": "2021-12-12T17:45:11.255Z"
+    },
+    "mc_xmasjam_2025/maps/start.bsp": {
+      "bytes": 14047696,
+      "sha256": "f415bfad1215c820e7869d2a48f1cfed34f1b18f735bd3c43149a71e5e474bda",
+      "timestamp": "2025-12-23T16:58:20.467Z"
+    },
+    "mc_xmasjam_2025/maps/start.lit": {
+      "bytes": 3896264,
+      "sha256": "9573e4142e4d3e452529ecf45aaaf2d896e67eff46e7cdd3421eb2168978690d",
+      "timestamp": "2025-12-23T16:58:19.792Z"
+    },
+    "mc_xmasjam_2025/music/track16.ogg": {
+      "bytes": 6391471,
+      "sha256": "26a2afa6ecd5c51aedc33cb2cb04ced537b004699d331902de7a99a31fd04a2d",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/music/track22.ogg": {
+      "bytes": 4098998,
+      "sha256": "ec9c3ec13484b83ffac8e4eac6e5362bb60edbb582bea5393ccf74bd57e4f9ae",
+      "timestamp": "2025-12-11T13:00:25.303Z"
+    },
+    "mc_xmasjam_2025/music/track22.txt": {
+      "bytes": 28,
+      "sha256": "7d1cd87fbfd8d7d97df05c838145667597fe88a10022d49599aeac5a3d625486",
+      "timestamp": "2025-12-10T10:31:21.376Z"
+    },
+    "mc_xmasjam_2025/music/track69.mp3": {
+      "bytes": 3826371,
+      "sha256": "1ca9d59305cbf7d376389e52ea7d264e0d43d58b54eeb6770550063ca1c56793",
+      "timestamp": "2020-12-14T07:25:24.000Z"
+    },
+    "mc_xmasjam_2025/music/track99.ogg": {
+      "bytes": 12952508,
+      "sha256": "4e2543c794faf77aeaea02541487d890644f31d17dfe7e607b7c23ae8df472ed",
+      "timestamp": "2025-12-14T23:41:14.000Z"
+    },
+    "mc_xmasjam_2025/pak0.pak": {
+      "bytes": 126719139,
+      "sha256": "3ac1bca8e905cbe36c24f986167eb767f1d5eb1212509cd8234fa5b7ac4b875b",
+      "timestamp": "2021-12-12T22:59:05.527Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/apple.mdl": {
+      "bytes": 69492,
+      "sha256": "2dcbe01aeb92f174aa03a9e7c09976270e18d73bb2a41e63c487c89c6946a033",
+      "timestamp": "2019-12-14T23:34:02.768Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/banana.mdl": {
+      "bytes": 75700,
+      "sha256": "675be1dfb631202cf13aff6cd1c3730b245da632ecea62e3d030ddba4b51ec10",
+      "timestamp": "2019-12-14T23:25:01.997Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/beer_bottle.mdl": {
+      "bytes": 14860,
+      "sha256": "331590022a73d4aae93b5c6912f8b0b7de36c6a148073db9981203f970efc8d1",
+      "timestamp": "2020-07-13T23:52:12.615Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/beer_heal.mdl": {
+      "bytes": 8404,
+      "sha256": "da4eaf7c04f2ffce0d7aa178cbe439578bf5c886e6a804d478caa2230590d819",
+      "timestamp": "2020-08-01T21:59:55.450Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/beer_mug.mdl": {
+      "bytes": 9988,
+      "sha256": "bc0d83c4a357c27e2554fd92631c84db4e6edcd495d961c8f103de4a1e67ebbb",
+      "timestamp": "2020-07-14T19:03:02.544Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/bowlofruit.mdl": {
+      "bytes": 95604,
+      "sha256": "da1c69015b9de541437cfabbb6fe68446aa74bf9fa02538cea63b97457fd6d5e",
+      "timestamp": "2019-11-08T12:02:57.100Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/bowl_empty.mdl": {
+      "bytes": 74788,
+      "sha256": "e17999d895a56468b8ab6f3d78c0967e316b720511353f0bfab08105e906e0d7",
+      "timestamp": "2019-12-14T23:22:24.258Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/broom.mdl": {
+      "bytes": 19124,
+      "sha256": "ca56feb7ec309a34903071908e14022881496ca96310051f03c4e745f0f3e1d6",
+      "timestamp": "2020-08-21T01:16:16.587Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/bucket.mdl": {
+      "bytes": 20532,
+      "sha256": "7adec73034f4db3bf8f0381bfba5b72ab3c70d742efc393f86951c7b7f913def",
+      "timestamp": "2019-10-02T01:25:43.219Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/candelabra.mdl": {
+      "bytes": 139292,
+      "sha256": "64695f1d5f352bde96c409643b1f6d313409569e52b54de07aae23db1880d572",
+      "timestamp": "2019-06-04T04:36:18.630Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/cat.mdl": {
+      "bytes": 150136,
+      "sha256": "983b3cce942fcc9f599ebf66553dcf1212c2400b335da75fcbb317dd4b53cae8",
+      "timestamp": "2019-11-26T22:18:45.655Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/chalice.mdl": {
+      "bytes": 73296,
+      "sha256": "7c97446fe76c947a9d44a1c012c7115c5411af8eac7d4d38971bb04e7af02ab1",
+      "timestamp": "2020-03-04T23:52:47.791Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/checkers.mdl": {
+      "bytes": 18276,
+      "sha256": "5d4b3b6daa9e8b3f47e9b64ca139f38924c1bfa3a558978bb3ea9a639b0e5bcb",
+      "timestamp": "2020-07-14T13:56:37.255Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/crystal_ball.mdl": {
+      "bytes": 198808,
+      "sha256": "f519645d23cf26db1f92901cb5f4281bb1aa6f9048ba119fa25ebc8fb93b1f7d",
+      "timestamp": "2020-06-27T01:50:21.250Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/dartboard.mdl": {
+      "bytes": 27068,
+      "sha256": "c2eb4b88dda96957ef4fc78a456ae4fe9e3de7c8ffb0f8dc3ceba92cb12bd751",
+      "timestamp": "2020-07-16T02:23:52.759Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/flower_lunar.mdl": {
+      "bytes": 240080,
+      "sha256": "12c540632057d64f1333a6cd7c4d8f8039a3c9b43cd6f0aec94afa345add55e0",
+      "timestamp": "2020-03-19T01:57:09.832Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/lantern_gothic.mdl": {
+      "bytes": 56048,
+      "sha256": "38da4fbfb876d35d922bdbb7bd8973a5d2953bbe862f75f7e93226e9d0909acb",
+      "timestamp": "2020-07-10T21:07:54.212Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/lantern_small.mdl": {
+      "bytes": 26532,
+      "sha256": "1aaab3ec50e9377b6f6eb3ad97a6c67efa4ddfb78d13ae96df1b061f05ff1a38",
+      "timestamp": "2020-03-12T05:30:48.012Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_bedcurtain1.mdl": {
+      "bytes": 75956,
+      "sha256": "d5d8fde03bc0d7b4aa3aa4134723829d3f4cabefaaa84dc1e2bd98ffd7aa8632",
+      "timestamp": "2019-07-31T16:04:11.188Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_bedcurtain2.mdl": {
+      "bytes": 70964,
+      "sha256": "0111e4f658ea5626809e784d4b45a2d0abd7ad1781623fd88226d9fb80d07d2b",
+      "timestamp": "2019-07-31T16:10:04.532Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_bedpillow.mdl": {
+      "bytes": 19476,
+      "sha256": "59a7b5073bc8683ebe81e9572f55540c2f66f3c448793a96fe842e02a2ccc19f",
+      "timestamp": "2019-07-31T03:16:00.356Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_lantern.mdl": {
+      "bytes": 28836,
+      "sha256": "d84e36232543a053f2772b1070b221dc23da1b34cd08ea551a982b5e9f168ea5",
+      "timestamp": "2020-06-04T01:36:59.652Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_rkplate.mdl": {
+      "bytes": 436168,
+      "sha256": "7aaa1be1ad8328b457387620f2c29144b70c230489eca04291946a15ec5994ad",
+      "timestamp": "2019-07-30T21:57:40.752Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_rkteacup.mdl": {
+      "bytes": 24996,
+      "sha256": "96222ab4c02a088ebe0a74f7cfb3bc51ec4269feea90fb5c7b1d20961302ec34",
+      "timestamp": "2019-07-31T04:49:26.606Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/misc_rkteapot.mdl": {
+      "bytes": 479304,
+      "sha256": "9d6e02b2afc781c3b6349e54084f6912d010575492cc677ed33852cb1738c6f6",
+      "timestamp": "2019-07-31T06:41:11.425Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/moonglobe.mdl": {
+      "bytes": 264916,
+      "sha256": "aa2ab27baf574bc768eedafb078f8ad003962fbf04a13a13528f22de2cdd8b67",
+      "timestamp": "2018-06-30T04:42:18.469Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/orange.mdl": {
+      "bytes": 68740,
+      "sha256": "70f6e00500ce4c6835e76656d5778bcd284a868789ca4ad33da25a2672961c77",
+      "timestamp": "2019-12-14T23:27:09.031Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/pinetree.mdl": {
+      "bytes": 322860,
+      "sha256": "63fcd6b9ab6c0cd2c5482e6650c57a80d978d5187aa08ce0caa28cbd65885226",
+      "timestamp": "2019-07-06T16:01:48.745Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/pinetreem.mdl": {
+      "bytes": 325844,
+      "sha256": "cce203f8a6cd40de9ac17530cf87a92988248943691c6f92bb3ba0d074d5d218",
+      "timestamp": "2019-07-06T16:02:05.229Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/pine_scraggy.mdl": {
+      "bytes": 260660,
+      "sha256": "9e517eced8c1c5cd08d8c983c610d794b4c2cd31206d5cc072f0f3446177cce9",
+      "timestamp": "2019-07-06T16:02:22.761Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/pole.mdl": {
+      "bytes": 30568,
+      "sha256": "367408f41596326be87a5ce9004417826bc19ccd60db03cf047e64e1f0c10f7e",
+      "timestamp": "2019-07-16T20:28:02.594Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/portal_runes.mdl": {
+      "bytes": 34424,
+      "sha256": "33e98bf1006895254230c5276b282d88f1f7363a79fc095ecbeba64b90140f66",
+      "timestamp": "2020-05-13T17:28:07.376Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/red_animcurtain.mdl": {
+      "bytes": 76460,
+      "sha256": "170aa03c68b00c8907e784fb4d4563fb7f9bea0033ba28bc1bc24380d3213d40",
+      "timestamp": "2019-10-06T03:59:54.688Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/red_banner.mdl": {
+      "bytes": 253132,
+      "sha256": "b9f85a206270f44c27b45faf30b001f9796819c449d9ad219bddfbf5ad455c98",
+      "timestamp": "2019-07-03T23:20:11.875Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/red_candle.mdl": {
+      "bytes": 22084,
+      "sha256": "c679f8ad71844a9af35bca3ca29e576d379de658170dab9cd4ccd4c5b484464d",
+      "timestamp": "2019-06-04T02:53:37.484Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/red_drape.mdl": {
+      "bytes": 231508,
+      "sha256": "cad437a4980ede24c777c8e4b6e37009bf51cb6bb8a2ee0380824020d53095c9",
+      "timestamp": "2019-07-30T22:56:28.969Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/red_drape2.mdl": {
+      "bytes": 232180,
+      "sha256": "5396d6f0fa3aa5b65c91f6f6ec8b96a5d8bf4ee283aec8f02f212d920af78994",
+      "timestamp": "2019-07-28T21:28:24.460Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/rk_halberd.mdl": {
+      "bytes": 38712,
+      "sha256": "6f7d2df501a2fe7a2bbb7967548d537a55289839c03b5ab0107220342095d71e",
+      "timestamp": "2019-09-17T21:23:07.675Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/rk_shield.mdl": {
+      "bytes": 67460,
+      "sha256": "6621c2fe07630fbaf1d194ffeab74772374f5203dbe91cd544d9dadaf47e0be9",
+      "timestamp": "2019-10-21T18:07:15.073Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/rk_spear.mdl": {
+      "bytes": 34840,
+      "sha256": "a17dfdbcce534887d5ffcb5f9430533750b56d783fe7640bd0ef2c46fd7ca4fb",
+      "timestamp": "2019-08-26T06:51:56.768Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/spiral_portal.mdl": {
+      "bytes": 658556,
+      "sha256": "ebc219c0a6fd97351b3d4db3949ec1d5510f2a2ee71fcca52ed271d485f3d905",
+      "timestamp": "2019-11-13T08:42:17.614Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/stoneraven.mdl": {
+      "bytes": 249748,
+      "sha256": "f4e6b42e0606fbfd7033bb6747749980fa16a2e9b3043b7c6c813dd45698c2f3",
+      "timestamp": "2019-07-31T16:51:48.870Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/telescope.mdl": {
+      "bytes": 93892,
+      "sha256": "631fb2d8720a4a80927a9697c3dbdb17ceb3c9a1a1e2e70dd43122bb303dfc05",
+      "timestamp": "2019-10-27T22:00:13.810Z"
+    },
+    "mc_xmasjam_2025/progs/ravenkeep/weepstat_lantern.mdl": {
+      "bytes": 44524,
+      "sha256": "97affc05648bb22886dd5f08aeb03fbdf5aa330a863ba01b2b871f10de2b8974",
+      "timestamp": "2020-03-17T20:44:25.412Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_elfcane.mdl": {
+      "bytes": 61596,
+      "sha256": "34cc9f073275e6032b28ed285fed98b59c0ff35531b76f5b2f0f9b4811b23f72",
+      "timestamp": "2017-11-15T10:32:37.609Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_rdleg1.mdl": {
+      "bytes": 24988,
+      "sha256": "eda0c8d048e5e96f02408aa6f911516a08f5ada5417a001e1bb3e412673b84b9",
+      "timestamp": "2017-11-15T10:32:29.636Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_rdrockpack.mdl": {
+      "bytes": 38823,
+      "sha256": "ebe0ddbe504e50aaa1630da3be272f32cc8a78421ec6444e10b3dd199571f4b6",
+      "timestamp": "2017-09-17T20:29:29.089Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_santagun.mdl": {
+      "bytes": 34904,
+      "sha256": "56e6f368f303380e98f47b78d37724e37e0c00221d7bed49d799fd5c536d4fbe",
+      "timestamp": "2017-11-15T15:06:21.799Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_santasack.mdl": {
+      "bytes": 33672,
+      "sha256": "5f2ec4b07c62ddb42a5d9cb5db5656c9bef81213363121ee6a02752d12e973ef",
+      "timestamp": "2017-11-20T13:41:31.098Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_snowball.mdl": {
+      "bytes": 5066,
+      "sha256": "d3961719b7e6ee86acb9a6b0e9a8e93bec625efe80980070f52995fd086e6d72",
+      "timestamp": "2017-11-15T10:32:49.936Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_snowclaw.mdl": {
+      "bytes": 42380,
+      "sha256": "c2e2ef9733dd0b15d842a74d767bb4a12290eb1ca14595ce36afeb733ed66845",
+      "timestamp": "2017-11-15T10:32:00.258Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/gib_snowgun.mdl": {
+      "bytes": 19048,
+      "sha256": "939a04b34e3cde0d38ffc145ef14547175a14b8bcc7e227f58342ea5b8c49a49",
+      "timestamp": "2017-11-15T10:32:06.019Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/h_elf.mdl": {
+      "bytes": 119264,
+      "sha256": "e24e508fb2eb6647b0c6572a6248de187c3a7a0d2f934dcf1777c9e8c2c5c767",
+      "timestamp": "2017-11-15T10:32:19.668Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/h_raindeer.mdl": {
+      "bytes": 33484,
+      "sha256": "167f27281e168f05200f12f8af52bc697858193c7ccf444812e86fe2b3c0173f",
+      "timestamp": "2017-11-15T10:32:13.660Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/h_santa.mdl": {
+      "bytes": 50660,
+      "sha256": "99c5d21cf9acbceb0248543ee1dc9878afe70300e44add3af5436e964035842b",
+      "timestamp": "2017-09-17T20:29:29.089Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/h_snowman.mdl": {
+      "bytes": 43400,
+      "sha256": "666860da939157d1370c242f9a6888cf482d26b9bec5a00a38aca49a0830ede0",
+      "timestamp": "2017-11-15T10:31:45.408Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/mon_elf.mdl": {
+      "bytes": 320344,
+      "sha256": "a4207bb664eff6ad9042270a611aa92b33ca0ac537ed7fdbc7176073e7abba46",
+      "timestamp": "2017-11-13T09:23:13.027Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/mon_raindeer.mdl": {
+      "bytes": 128344,
+      "sha256": "a72ae2ba846caced3b4e6d5495cc51acde12282e8df833cb9f27220c10451159",
+      "timestamp": "2017-11-16T14:59:04.899Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/mon_santa.mdl": {
+      "bytes": 297704,
+      "sha256": "47521468e8a2c1e8dd6a67dec7c0dd0af5d1cd1d38a6294f7294a3b664c966c9",
+      "timestamp": "2017-11-15T19:52:19.626Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/mon_snowman.mdl": {
+      "bytes": 59828,
+      "sha256": "4ae6bd4a9e23bc948cde5b7a407916f282eb620fc97677446c127c135839f3e3",
+      "timestamp": "2017-11-15T10:11:41.365Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/proj_elfsnow.mdl": {
+      "bytes": 7468,
+      "sha256": "16dce170f07377109d1317f1b475838d1b39c45b92a81fa91434a71751f5aaf1",
+      "timestamp": "2017-11-13T10:36:57.392Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/proj_rdrocket.mdl": {
+      "bytes": 3476,
+      "sha256": "58ed6db094b34062e15fbedf583a5557fb2810ee33f2b2b44a11167d3a679c26",
+      "timestamp": "2017-09-17T20:29:29.105Z"
+    },
+    "mc_xmasjam_2025/progs/xmas/proj_snowball.mdl": {
+      "bytes": 5066,
+      "sha256": "d3961719b7e6ee86acb9a6b0e9a8e93bec625efe80980070f52995fd086e6d72",
+      "timestamp": "2017-11-16T11:24:06.518Z"
+    },
+    "mc_xmasjam_2025/progs.dat": {
+      "bytes": 2355194,
+      "sha256": "32c3d46453d2ce3084a15fb993b28d55da4e89dea01f4b7b7511a2ab12b11d31",
+      "timestamp": "2025-12-22T13:10:29.828Z"
+    },
+    "mc_xmasjam_2025/quake.rc": {
+      "bytes": 8544,
+      "sha256": "ce0395625c7071305782a1b32d83a76b33f1b4e049414ab5727d94f5a37b9285",
+      "timestamp": "2025-12-22T12:01:43.611Z"
+    },
+    "mc_xmasjam_2025/sound/ish/ratchet_metal.wav": {
+      "bytes": 74512,
+      "sha256": "151835dc5dcc89f5c9efb5bb1485acaf3bda5dae347c097facd69febc1b2cb33",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/sound/ish/wood_move.wav": {
+      "bytes": 19560,
+      "sha256": "9c03899e4e6737ed0c20b26057464a6c1eb85b7cbe1c9afb6f3ce74b89391fdd",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/sound/ish/wood_stop.wav": {
+      "bytes": 10068,
+      "sha256": "cb33bba3204a0ed6eef6f6e09efbe68acab4d9bf5166b7cdc63ced32eaa7e6b9",
+      "timestamp": "2025-12-20T06:18:04.000Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/attack1.wav": {
+      "bytes": 176492,
+      "sha256": "80e3faa699aec6d20015c1070087964de5ba39f83a978388b9fadc184f9fb6c2",
+      "timestamp": "2017-11-13T10:31:47.514Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/attack2.wav": {
+      "bytes": 88292,
+      "sha256": "a364c82cb932bddb438c957e88a7ea67142777dfffd0f553d00e2b04b3af0f9f",
+      "timestamp": "2017-11-13T10:36:06.967Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/cane_hit1.wav": {
+      "bytes": 4536,
+      "sha256": "2686bea9533633cb6c1a5e3e5bcf0016e3fe228cd278b7b1d11a02868cdd5095",
+      "timestamp": "2017-11-12T22:41:26.644Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/cane_hit2.wav": {
+      "bytes": 5638,
+      "sha256": "6e470e241f37fb38ea55adf4bd0d6f1f5a2d5adfee5d5ddac8cb9adc824cb954",
+      "timestamp": "2017-11-12T22:42:57.654Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/cane_swipe1.wav": {
+      "bytes": 1670,
+      "sha256": "2dbf81b3813376cb8bea2fa916dc0d03f1fbaaa499d4fcdf845de8929f82dc47",
+      "timestamp": "2017-11-12T22:38:53.220Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/cane_swipe2.wav": {
+      "bytes": 1890,
+      "sha256": "404864c7d5008b79daed226566a2e4e78f2de92de06c64da67b8bf6224ae3e88",
+      "timestamp": "2017-11-12T22:40:09.000Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/death1.wav": {
+      "bytes": 14284,
+      "sha256": "d1a7063d4ed39cdb59864a2a6fe6109f844caa9ada54ed4456de0bcd056f0034",
+      "timestamp": "2017-09-17T20:29:29.183Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/death2.wav": {
+      "bytes": 10888,
+      "sha256": "4e0344a1bd3fa3d3c4d9e9647203cac0c449d5a5d8e7b1c8319f8402a4b7571c",
+      "timestamp": "2017-09-17T20:29:29.167Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/idle.wav": {
+      "bytes": 57016,
+      "sha256": "a824467247797aa1ecc58f1716b18d390629804eebc413f01067646c64cde87e",
+      "timestamp": "2017-11-12T22:48:16.803Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/jump1.wav": {
+      "bytes": 17766,
+      "sha256": "8023110b27a70758166f710e52188b8d03b8bfd81d9c985eb7f7d326acdb05a2",
+      "timestamp": "2017-11-13T08:57:15.503Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/jump2.wav": {
+      "bytes": 8946,
+      "sha256": "a60763886b743d06ffd0c90e70de304ec8002a500947a684646c227d0bbb3c4d",
+      "timestamp": "2017-11-13T09:04:36.421Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/magic.wav": {
+      "bytes": 15560,
+      "sha256": "6a270540819dddf140b0387d92c914b4f4b1c88c5f37a05c8fa0efd95901f2ab",
+      "timestamp": "2017-11-13T08:57:06.169Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/miss.wav": {
+      "bytes": 14582,
+      "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
+      "timestamp": "2015-06-26T14:35:09.719Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/pain.wav": {
+      "bytes": 11126,
+      "sha256": "4e27a8f38e07e9b69db186d5c609740814ab86c5fda57058b1e05c56b85c6fd4",
+      "timestamp": "2017-11-12T22:49:33.208Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/sight1.wav": {
+      "bytes": 21048,
+      "sha256": "c57eb4fec86922cb8a0499d7dae72eba66b067b89f14ff079ce0caf3dc23a23b",
+      "timestamp": "2017-11-12T22:46:53.217Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/sight2.wav": {
+      "bytes": 30996,
+      "sha256": "8cd5eed3b8e098dfd70cbf90081b38e198bf64d8edf1b76bcc98c42e177635f8",
+      "timestamp": "2017-11-12T22:46:04.506Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/sight3.wav": {
+      "bytes": 10050,
+      "sha256": "e88ae556a28352c319bf5500b29008384a5c53c47480defa81795d8891f14ff8",
+      "timestamp": "2017-11-13T09:04:48.604Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/elf/sight4.wav": {
+      "bytes": 6742,
+      "sha256": "7c6120d242cbbbfd2e0cc77b1428e206accd1ab8073885d52177b0fd4c75c7ed",
+      "timestamp": "2017-11-13T09:04:58.840Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/raindeer/attack1.wav": {
+      "bytes": 5582,
+      "sha256": "bcf78087eab53e8ed0bdde2f29088a89b321a79c3b104da380dd85bd5bdb6ec1",
+      "timestamp": "2017-09-17T20:29:29.199Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/raindeer/attack2.wav": {
+      "bytes": 6274,
+      "sha256": "2ba043cce4a2f22e7743812c0fa40e9f0888d5089362264c768352c347af5089",
+      "timestamp": "2017-09-17T20:29:29.214Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/raindeer/death.wav": {
+      "bytes": 9672,
+      "sha256": "68266e96ec1be80a55f48b76c2bedd6503273245153d96269947c7fc12ae96b3",
+      "timestamp": "2017-09-17T20:29:29.214Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/raindeer/hit.wav": {
+      "bytes": 5218,
+      "sha256": "72127151c2b05cc22a812fe9e38909c8bdcaae6a369e8756d2be67d392b91223",
+      "timestamp": "2017-09-17T20:29:29.214Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/raindeer/idle.wav": {
+      "bytes": 7890,
+      "sha256": "d3ef885d0b6163a3046dc9d514b07886c33809fbb6332e7db0514c648787a9bb",
+      "timestamp": "2017-09-17T20:29:29.214Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/raindeer/sight.wav": {
+      "bytes": 23796,
+      "sha256": "aafabb6fc46c1c72c34af1baea1c59a8ec04803c26faa4310072096481f31a4f",
+      "timestamp": "2017-09-17T20:29:29.214Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/death.wav": {
+      "bytes": 99352,
+      "sha256": "b63273a2574f7def133aa438926a6def025aa64d8c3c636fc6a5594268e391d7",
+      "timestamp": "2017-11-15T20:32:37.447Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/death2.wav": {
+      "bytes": 99352,
+      "sha256": "24fcf23117ec31347f640aa27e6feb4a46a634aa5e1eb48344b1feb7c377f6f1",
+      "timestamp": "2017-11-16T14:22:43.762Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/fire.wav": {
+      "bytes": 22176,
+      "sha256": "3a9bb42661b75287a698b6e16033158f20c59c481d37c0f176dc213205d22dcd",
+      "timestamp": "2017-11-16T10:04:18.240Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/good_hohoho.wav": {
+      "bytes": 55250,
+      "sha256": "51f4d5d656032de08b95689fa55a2e7aa26ec99cf4312b0f6153d0fd57fc1fa3",
+      "timestamp": "2017-11-17T18:56:46.614Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/good_saved.wav": {
+      "bytes": 77302,
+      "sha256": "51e62df5942e2a72fd48311c61ee73b6f51dc4aa3c0cc85af000cdc8d7627d21",
+      "timestamp": "2017-11-17T18:56:58.746Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/hohoho.wav": {
+      "bytes": 50840,
+      "sha256": "091a28236362cab1ce3b7bd55de25010d105db3bf644825c47b91725d8a613a0",
+      "timestamp": "2017-11-15T20:37:15.735Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/laugh1.wav": {
+      "bytes": 57374,
+      "sha256": "ac069694d6c41e5e0afab50d9928b8768a19fb647bb249201648874d4150c976",
+      "timestamp": "2017-11-15T20:38:42.100Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/laugh2.wav": {
+      "bytes": 117440,
+      "sha256": "c726d7d86d2d7cad0a75a2d0b387f4f96218ef232b6c78437e1c83bb96286441",
+      "timestamp": "2017-11-15T20:39:28.546Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/laugh3.wav": {
+      "bytes": 40256,
+      "sha256": "4dd710eee601ab81c4beb5413d95244dee58b886b8265ab9cec35df06b560591",
+      "timestamp": "2017-09-17T20:29:29.167Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/laugh3_com.wav": {
+      "bytes": 44226,
+      "sha256": "4099895e037cfecb4dc3595b3b18db62ed2f3cf096384f3aa1fe1d96a7b43da2",
+      "timestamp": "2017-11-15T20:41:11.125Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/pain1.wav": {
+      "bytes": 6825,
+      "sha256": "79eed9346e0954fd53a6fdb9aa9708b8c29e8c5c256e9fd7c06f449e9cb6c00d",
+      "timestamp": "2017-09-17T20:29:29.152Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/pain2.wav": {
+      "bytes": 9259,
+      "sha256": "f750328d74f545a658b0b190399595687c3d9b8766b2652ad6c2a34add3cc420",
+      "timestamp": "2017-09-17T20:29:29.152Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/sack_hit.wav": {
+      "bytes": 13356,
+      "sha256": "c23a04ed5134f76d1f44d2e61eeb446a569c2bcbccf79f16f472807aae3df53a",
+      "timestamp": "2017-11-15T20:04:48.535Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/sack_swing.wav": {
+      "bytes": 8940,
+      "sha256": "96972ba473b6a7d28645cdc621eb3011729a53eb4acb40d1f097768291a70850",
+      "timestamp": "2017-11-15T20:04:31.335Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/sight.wav": {
+      "bytes": 100144,
+      "sha256": "e29696370a0d40546a49ef0f39b1e0038d8e067ef2da1dcc5084d7683a25d5d7",
+      "timestamp": "2017-11-15T20:27:35.470Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/santa/smack.wav": {
+      "bytes": 22176,
+      "sha256": "606c0a4b634d82a1d9846f654db8a52e7f2438ba28a235f782a23ff2720c767c",
+      "timestamp": "2017-11-15T20:01:09.108Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/claw.wav": {
+      "bytes": 8292,
+      "sha256": "7857f3526fb39e722a09ebe569f2b76facab765d82f97c0caa7da2ff9b750e9e",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/death1.wav": {
+      "bytes": 11267,
+      "sha256": "0a09776ed8e45bbfe403f1cdb50302361f5596d9027c476409d6acf5402e763e",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/death2.wav": {
+      "bytes": 13613,
+      "sha256": "e5e3a9619a153f0c6259abdb0d45f4eb4a547f736e37951556d29c6b715ec8f6",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/icehit.wav": {
+      "bytes": 3090,
+      "sha256": "e03f61550bafc53ab47acdc23bcd481c35e75e6eccdad5e61e6dd7b372ba07c0",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/icemiss.wav": {
+      "bytes": 3074,
+      "sha256": "f8b86f83d9adaaee1c84e1ac2acbcf652204842f2bf6f351ec1443a998574058",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/idle.wav": {
+      "bytes": 58582,
+      "sha256": "a0d7af1cd6246f08176f24c5591cfb6ec89cff55dc5c18766ef1b16c64429541",
+      "timestamp": "2017-11-15T09:03:54.305Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/nail_fire.wav": {
+      "bytes": 26504,
+      "sha256": "80263cd2de86b9dcfd054782aab6eb4d939f60e6fe5a881c8ef5800b0f76ad66",
+      "timestamp": "2017-11-15T10:22:04.029Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/pain1.wav": {
+      "bytes": 7685,
+      "sha256": "7f829300a30cb6cb4d17f8c8327bd62ae5b5dacc892d28a956d6ecd2acf5f1c2",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/pain2.wav": {
+      "bytes": 7661,
+      "sha256": "3747d77583aa4edb3509e89ea651ea41a8e8a92cd96c34d4e00257e7371fb0e6",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/shotg_fire.wav": {
+      "bytes": 6572,
+      "sha256": "3d54870c0f643b1e7ee5307641bb3fc4a94efdaffc2e4ecd196556b930167ef2",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/sight1.wav": {
+      "bytes": 10042,
+      "sha256": "ce1cddbb6e85fad23231ac1fc4c04c19ec7276acb2aa86e023c117db4b8edd68",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/sound/xmas/snowman/sight2.wav": {
+      "bytes": 15418,
+      "sha256": "5d4e994c30a7c3f2e1f1a5cde9a56115bcb32c350e4a0ad8e339a1a46ed19707",
+      "timestamp": "2017-09-17T20:29:29.136Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_caffeinefreak.map": {
+      "bytes": 12534729,
+      "sha256": "233a463bb256109f0013f0dc0af55751e5b1658ba086eb5e8d9d7de7d7cb66ae",
+      "timestamp": "2025-12-15T05:16:11.000Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_coffee009.map": {
+      "bytes": 1600629,
+      "sha256": "9c2f56274061affc5437b7fb03834693b0e0034f48f641cbbe698fef70923001",
+      "timestamp": "2025-12-16T01:28:42.610Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_ish.map": {
+      "bytes": 4821908,
+      "sha256": "939b3ec0927348cd08538fa27b3dad574d01e9c67ff9cabb75ea2a41cb8ed4c5",
+      "timestamp": "2025-12-20T05:45:50.000Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_jameson.map": {
+      "bytes": 550302,
+      "sha256": "7435ef63321c32ebd1a9a7ea676c131b60a1d7455f3a217533eb08ee34989898",
+      "timestamp": "2025-12-17T15:54:39.151Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_krampus.map": {
+      "bytes": 4902032,
+      "sha256": "ce58b312357e95937a3c7149e939b9bd47ec5d54654ab449e7a92d3b38597485",
+      "timestamp": "2025-12-23T01:15:24.000Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_negke.map": {
+      "bytes": 5412704,
+      "sha256": "d4c5bef2ccf4da76822cf9e2da6fd638b0449d609a6b4570a232e7c10edf728f",
+      "timestamp": "2025-12-21T23:30:22.017Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_spike.map": {
+      "bytes": 979338,
+      "sha256": "2599a108bbfddf86f173fc461d2ad55e3995e465867982a5f80775b7f22cfbd6",
+      "timestamp": "2025-12-17T11:29:09.000Z"
+    },
+    "mc_xmasjam_2025/src/mc_xmasjam_2025_thundergoose.map": {
+      "bytes": 5109121,
+      "sha256": "6ff46a59f9be223c9a76565fae22eb4864a5d4abaaa46e9f02054517562492b9",
+      "timestamp": "2025-12-14T10:06:06.308Z"
+    },
+    "mc_xmasjam_2025/src/start.map": {
+      "bytes": 9564227,
+      "sha256": "0e431d4ac267fc3c109bf60d3d898b1abbdeb98e933454969fed1efd1919fc26",
+      "timestamp": "2025-12-23T16:53:21.426Z"
+    },
+    "mc_xmasjam_2025/mc_xmasjam_2025_readme.txt": {
+      "bytes": 5121,
+      "sha256": "aeb09c6c8e086ccba982d9d4e05ca3c26ea68d067c4b335ca01a0ff2038e0674",
+      "timestamp": "2025-12-24T16:16:05.219Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/": "/"
+    }
+  },
+  "json_version": "2025.03.20",
+  "release_date": "2025-12-24",
+  "sha256": "01869daddb52357b86aba0e145d5c905eb06f6168e5f33af0ee65b959c824449",
+  "tags": [
+    "author=alexUnder",
+    "author=Caffeine Freak",
+    "author=Coffee009",
+    "author=Ish",
+    "author=Jameson",
+    "author=Krampus",
+    "author=Negke",
+    "author=Spike",
+    "author=Text_Fish",
+    "author=ThunderGoose",
+    "commandline=-game mc_xmasjam_2025",
+    "exceeds_quake_limits=yes",
+    "filename=mc_xmasjam_2025.zip",
+    "game=quake",
+    "game_mode=singleplayer",
+    "game_mode=cooperative",
+    "link=[ModDB](https://www.moddb.com/mods/map-center-xmas-scraps-jam-2025)",
+    "release_date=2025-12-24",
+    "startmap=start",
+    "title=Map-Center's Xmas Scraps Jam 2025",
+    "type=mapjam"
+  ],
+  "title": "Map-Center's Xmas Scraps Jam 2025",
+  "urls": [
+    "https://x901.net/quaddictedfiles/mc_xmasjam_2025.zip"
+  ]
+}
