@@ -1,0 +1,63 @@
+{
+  "bytes": 6174952,
+  "current_main_group_package": true,
+  "description": "Medieval themed map featuring multiple quad fights in a castle surrounding a lake. An updated version of <a href=\"4c6e674d6ee457074e13151d8ecc07cfd8f8fcdca95bdb6f21687e55bca6612d\">Quad Lake Castle</a> with revised lighting and bugfixes.",
+  "files": {
+    "avix_qcastle.bsp": {
+      "bytes": 9958232,
+      "sha256": "0ee63bf6f15ef4aa4234ce8ea46ba9ea739d102608a4682a5c310983818d52dd",
+      "timestamp": "2023-10-31T21:16:31.199Z"
+    },
+    "avix_qcastle.lit": {
+      "bytes": 4046312,
+      "sha256": "311af23ebc2934fcb6f796d57ee2f4ba1d14e9639fb860976873574235728bde",
+      "timestamp": "2023-10-31T21:16:31.158Z"
+    },
+    "avix_qcastle.map": {
+      "bytes": 6368330,
+      "sha256": "3a7d1a79e7a31bb1cd66f19a0102fae03ac51c5703d402a6dd085ea0c8e9aa86",
+      "timestamp": "2023-10-31T20:54:34.163Z"
+    },
+    "avix_qcastle.txt": {
+      "bytes": 1950,
+      "sha256": "807e50ae1bb776311ff25e1b6902814d9581574c7c805959ae8100a194451fe3",
+      "timestamp": "2023-10-31T21:17:53.048Z"
+    },
+    "charlie.wad": {
+      "bytes": 1915828,
+      "sha256": "fbd10762d40ea018005bcacbe483beea3b79b75eff840db566bcc345a616fca6",
+      "timestamp": "2023-10-31T21:17:53.080Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/": "/copper/maps/",
+      "/charlie.wad": null
+    }
+  },
+  "json_version": "2025.09.27",
+  "notes": [
+    "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
+  ],
+  "release_group": "avix_qcastle",
+  "sha256": "580daba3881b3787e807446921f561581c2dcda4ccc3263a5a65c48d2c552019",
+  "tags": [
+    "author=Avix",
+    "commandline=-game copper",
+    "dependency=copper_v1_30",
+    "depends=('copper>=1.30')",
+    "exceeds_quake_limits=yes",
+    "filename=avix_qcastle_fixed.zip",
+    "game=quake",
+    "game_mode=singleplayer",
+    "link=[Slipseer](https://www.slipseer.com/index.php?resources/quad-lake-castle.230/)",
+    "release_date=2023-10-31",
+    "title=Quad Lake Castle (final)",
+    "type=map",
+    "startmap=avix_qcastle.bsp"
+  ],
+  "urls": [
+    "https://www.quaketastic.com/files/single_player/maps/avix_qcastle_fixed.zip"
+  ],
+  "version": "1.3"
+}
