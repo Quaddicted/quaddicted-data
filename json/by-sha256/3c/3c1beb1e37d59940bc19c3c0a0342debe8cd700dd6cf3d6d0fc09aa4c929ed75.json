@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Clarke"
- ],
  "bytes": 353708,
  "description": "Medium sized, plain Wizard map.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "Somewhat of a sequel to <a href=\"21008f010dbda603c944afb8e3bd498c467443340c2d62ff367fe8401e32c70a\">sgc3</a>."
  ],
- "release_date": "1996-09-15",
  "sha256": "3c1beb1e37d59940bc19c3c0a0342debe8cd700dd6cf3d6d0fc09aa4c929ed75",
  "tags": [
   "author=Steve Clarke",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Notlob's Residence",
  "urls": [
   "https://www.quaddicted.com/filebase/sgc4.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3c1beb1e37d59940bc19c3c0a0342debe8cd700dd6cf3d6d0fc09aa4c929ed75/sgc4.zip"

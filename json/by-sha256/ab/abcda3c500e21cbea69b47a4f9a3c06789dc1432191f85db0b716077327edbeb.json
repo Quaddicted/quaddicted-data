@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daz"
- ],
  "bytes": 602401,
  "description": "Large and spacious Metal/runic level with occasionally sparse ammo.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-05-11",
  "sha256": "abcda3c500e21cbea69b47a4f9a3c06789dc1432191f85db0b716077327edbeb",
  "tags": [
   "author=Daz",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Death's Cold Touch",
  "urls": [
   "https://www.quaddicted.com/filebase/dazsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/ab/abcda3c500e21cbea69b47a4f9a3c06789dc1432191f85db0b716077327edbeb/dazsp1.zip"

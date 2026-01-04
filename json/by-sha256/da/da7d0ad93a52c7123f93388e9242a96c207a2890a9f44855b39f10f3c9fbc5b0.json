@@ -1,7 +1,4 @@
 {
- "authors": [
-  "BassLexa"
- ],
  "bytes": 15922655,
  "description": "Large, spacious military base/stronghold fortifying an old church. The map source is included.",
  "files": {
@@ -41,7 +38,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-08-25",
  "sha256": "da7d0ad93a52c7123f93388e9242a96c207a2890a9f44855b39f10f3c9fbc5b0",
  "tags": [
   "author=BassLexa",
@@ -62,7 +58,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "War Church",
  "urls": [
   "https://www.quaddicted.com/filebase/war_church.zip",
   "https://www.quaddicted.com/files/by-sha256/da/da7d0ad93a52c7123f93388e9242a96c207a2890a9f44855b39f10f3c9fbc5b0/war_church.zip"

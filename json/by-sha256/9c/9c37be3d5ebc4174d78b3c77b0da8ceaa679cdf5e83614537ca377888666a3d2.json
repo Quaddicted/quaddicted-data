@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mfx"
- ],
  "bytes": 3501991,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Small base level, a remake of the original Termination Central (E3M1). It comes with a custom skybox.",
  "files": {
   "gfx/": {
@@ -71,7 +65,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and the following settings: <i>r_novis 1, r_wateralpha 0.3</i>."
  ],
- "release_date": "2013-05-23",
  "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
  "tags": [
   "author=mfx",
@@ -100,7 +93,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Termination Mental",
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp6.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2/mfxsp6.zip"

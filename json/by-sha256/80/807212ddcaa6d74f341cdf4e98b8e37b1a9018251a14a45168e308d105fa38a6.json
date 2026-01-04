@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Burgess"
- ],
  "bytes": 603636,
  "description": "Small to medium Metal map.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "While the timestamps in the zip say 1996, Crash's dating of 1997-09-25 is much more realistic."
  ],
- "release_date": "1997-09-25",
  "sha256": "807212ddcaa6d74f341cdf4e98b8e37b1a9018251a14a45168e308d105fa38a6",
  "tags": [
   "author=Chris Burgess",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Escape the Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/rit2.zip",
   "https://www.quaddicted.com/files/by-sha256/80/807212ddcaa6d74f341cdf4e98b8e37b1a9018251a14a45168e308d105fa38a6/rit2.zip"

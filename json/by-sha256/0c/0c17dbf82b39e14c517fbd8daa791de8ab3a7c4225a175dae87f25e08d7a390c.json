@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rob Albin"
- ],
  "bytes": 618634,
  "description": "Medium to large Medieval map with a few other textures mixed in, and confusing progression.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-03",
  "sha256": "0c17dbf82b39e14c517fbd8daa791de8ab3a7c4225a175dae87f25e08d7a390c",
  "tags": [
   "author=Rob Albin",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bridge to Fire",
  "urls": [
   "https://www.quaddicted.com/filebase/btf2.zip",
   "https://www.quaddicted.com/files/by-sha256/0c/0c17dbf82b39e14c517fbd8daa791de8ab3a7c4225a175dae87f25e08d7a390c/btf2.zip"

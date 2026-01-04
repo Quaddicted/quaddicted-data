@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daniel Remar"
- ],
  "bytes": 648987,
  "description": "Small medieval / castle themed puzzle level with no enemies for vanilla Quake. Inspired by the Amiga game Castle Master. Also supports deathmatch. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-12-11",
  "sha256": "9dc1102b589f6fcd41d6d857c46265cd0b2a37d23b115c3fdf4ac2352e377d36",
  "tags": [
   "author=Daniel Remar",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Castle Puzzlefort v3",
  "urls": [
   "https://www.quaddicted.com/filebase/rgcastle_v3.zip",
   "https://www.quaddicted.com/files/by-sha256/9d/9dc1102b589f6fcd41d6d857c46265cd0b2a37d23b115c3fdf4ac2352e377d36/rgcastle_v3.zip"

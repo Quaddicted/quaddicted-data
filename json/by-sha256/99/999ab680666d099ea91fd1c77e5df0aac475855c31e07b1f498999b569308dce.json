@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jonas N.P. Lindstrom"
- ],
  "bytes": 813603,
  "description": "Largish Egyptian-style temple with tombs, a few traps, and so on.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-16",
  "sha256": "999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce",
  "tags": [
   "author=Jonas N.P. Lindstrom",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Temple of Amon-Sadlark",
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark8.zip",
   "https://www.quaddicted.com/files/by-sha256/99/999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce/sadlark8.zip"

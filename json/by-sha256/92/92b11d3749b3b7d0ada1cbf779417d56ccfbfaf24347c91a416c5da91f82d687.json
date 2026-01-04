@@ -1,18 +1,4 @@
 {
- "authors": [
-  "66ppt99",
-  "ComfyByTheFire",
-  "Fairweather",
-  "Grue",
-  "Lob",
-  "Mazu",
-  "Spootnik",
-  "Strideh",
-  "alexUnder",
-  "pinchy",
-  "stickflip",
-  "sze"
- ],
  "bytes": 78589455,
  "description": "Halloween-themed episode of 8 short maps by various authors, plus three bonus maps, all accessible from a central hub. Built on a modified <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a> mod (included) with a new 'Penetrator' stake gun weapon, the Rotary Shotgun from Dwell and the Gaunt monster from Quoth.",
  "files": {
@@ -1271,7 +1257,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-10-31",
  "sha256": "92b11d3749b3b7d0ada1cbf779417d56ccfbfaf24347c91a416c5da91f82d687",
  "tags": [
   "author=66ppt99",
@@ -1299,7 +1284,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Snack Pack 3: Trick or Treat",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/92/92b11d3749b3b7d0ada1cbf779417d56ccfbfaf24347c91a416c5da91f82d687/snack3.zip",
   "https://x901.net/quaddictedfiles/snack3.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Fern (aka Fr3n)"
- ],
  "bytes": 3714823,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium-sized underground temple with a unique Persian-like style. Preview/teaser for the upcoming DOM3 episode.",
  "files": {
   "dom3m1.txt": {
@@ -96,7 +90,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
  ],
- "release_date": "2012-11-23",
  "sha256": "1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a",
  "tags": [
   "author=Fern (aka Fr3n)",
@@ -120,7 +113,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "10,000 Feet Below",
  "urls": [
   "https://www.quaddicted.com/filebase/dom3m1.zip",
   "https://www.quaddicted.com/files/by-sha256/16/1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a/dom3m1.zip"

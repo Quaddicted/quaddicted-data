@@ -1,17 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder",
-  "Lobotomy-Lobster",
-  "Mazu",
-  "Mike_C",
-  "Shadesmaster",
-  "Spootnik",
-  "The Solipsist",
-  "bmFbr",
-  "h4724",
-  "magnetbox",
-  "stickflip"
- ],
  "bytes": 20957246,
  "description": "10 speedmaps + start map inspired by e1m4 - The Grisly Grotto. Mappers had 60 hours to create a map using custom progs - based on Copper v1.20 and featuring the diving gear from Dwell (included) - with no restrictions on texturing or gameplay other than the prompt.",
  "files": {
@@ -947,7 +934,6 @@
  "notes": [
   "Some maps may require a modern engine / source port with increased limits."
  ],
- "release_date": "2023-09-19",
  "sha256": "8fc9936a33ff006b096a0df566ac49da38f383c009c19907749be84d91869214",
  "tags": [
   "author=Andrew Yoder",
@@ -995,7 +981,6 @@
   "type=speedmap",
   "zipbasedir=/"
  ],
- "title": "Speedmapping pack 226 - Grisly Grottos",
  "urls": [
   "https://www.quaddicted.com/filebase/sm226.zip",
   "https://www.quaddicted.com/files/by-sha256/8f/8fc9936a33ff006b096a0df566ac49da38f383c009c19907749be84d91869214/sm226.zip"

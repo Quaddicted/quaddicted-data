@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Redfield"
- ],
  "bytes": 1416232,
  "description": "Medium-sized 'classic-style' medieval level with a church and lava-filled caverns beneath.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-04-29",
  "sha256": "1e4b57cb16874d53e57393e7a7a1cd0a1ec0bd936b966ec8f8ac6583394874b8",
  "tags": [
   "author=Redfield",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Unknown Kadath",
  "urls": [
   "https://www.quaddicted.com/filebase/redfield1.zip",
   "https://www.quaddicted.com/files/by-sha256/1e/1e4b57cb16874d53e57393e7a7a1cd0a1ec0bd936b966ec8f8ac6583394874b8/redfield1.zip"

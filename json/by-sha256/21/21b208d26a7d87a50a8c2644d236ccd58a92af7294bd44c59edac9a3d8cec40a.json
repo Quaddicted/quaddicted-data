@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 3587847,
  "description": "Large egyptian map with a unique mix of textures. Features a few custom monsters such as the SOA goblin and the Snakeman.",
  "files": {
@@ -529,7 +526,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-23",
  "sha256": "21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -557,7 +553,6 @@
   "title=The Looming Madness",
   "type=mod"
  ],
- "title": "The Looming Madness",
  "urls": [
   "https://www.quaddicted.com/filebase/alk13.zip",
   "https://www.quaddicted.com/files/by-sha256/21/21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a/alk13.zip"

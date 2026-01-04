@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Robert \"Fat Controller\" Cruickshank"
- ],
  "bytes": 903817,
  "description": "Medium sized IKbase map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-06-12",
  "sha256": "0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9",
  "tags": [
   "author=Robert \"Fat Controller\" Cruickshank",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Frater Fracas",
  "urls": [
   "https://www.quaddicted.com/filebase/rc1.zip",
   "https://www.quaddicted.com/files/by-sha256/0d/0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9/rc1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Graham Davis (OrbItaL)"
- ],
  "bytes": 5990942,
  "description": "Fixed version of <a href=\"e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af\">sop123</a> by Bengt Jardrup. Mini SP campaign consisting of three medium sized outdoor levels (+ start map) in Wizard/Canyon/Egyptian style. Uses custents and has a few new monsters like improved Grunts/Ogres and Mechs.",
  "files": {
@@ -392,11 +389,6 @@
   "extract": "{base}/sop/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "sop_v2": "1.0"
- },
- "release_date": "2003-06-10",
- "release_group": "sop_v2",
  "sha256": "96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c",
  "tags": [
   "author=Graham Davis (OrbItaL)",
@@ -425,7 +417,6 @@
   "version=1.0",
   "zipbasedir=sop/"
  ],
- "title": "The Source of Power",
  "urls": [
   "https://www.quaddicted.com/filebase/sop_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/96/96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c/sop_v2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tyrann"
- ],
  "bytes": 1181401,
  "description": "Medium sized based map, escape from prison theme.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-24",
  "sha256": "1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647",
  "tags": [
   "author=Tyrann",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Escape from Actaltraz",
  "urls": [
   "https://www.quaddicted.com/filebase/actaltrz.zip",
   "https://www.quaddicted.com/files/by-sha256/11/1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647/actaltrz.zip"

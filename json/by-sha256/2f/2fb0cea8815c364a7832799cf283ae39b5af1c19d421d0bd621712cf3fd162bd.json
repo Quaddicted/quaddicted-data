@@ -1,10 +1,4 @@
 {
- "authors": [
-  "RPG",
-  "Scampie",
-  "Starbuck",
-  "Xenon"
- ],
  "bytes": 1323977,
  "description": "Episode 4 / The Elder World (The 4 Seasons of Quake #4) / 5 SP maps / RPG, Scampie, Starbuck, Xenon",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-11-23",
  "sha256": "2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd",
  "tags": [
   "author=RPG",
@@ -66,7 +59,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "SM 58 pack - The Elder World (The 4 Seasons of Quake #4)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm58_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2f/2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd/sm58_pack.zip"

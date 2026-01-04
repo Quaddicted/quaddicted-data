@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 830952,
  "description": "Large vertical Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-05",
  "sha256": "924c448bc11feba82775f4a5d28d4d4d750a13b7710970f1af761f88e4b44f0c",
  "tags": [
   "author=czg",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ceremonial Circles",
  "urls": [
   "https://www.quaddicted.com/filebase/czg03.zip",
   "https://www.quaddicted.com/files/by-sha256/92/924c448bc11feba82775f4a5d28d4d4d750a13b7710970f1af761f88e4b44f0c/czg03.zip"

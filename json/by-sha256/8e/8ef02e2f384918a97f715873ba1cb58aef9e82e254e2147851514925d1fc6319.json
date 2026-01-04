@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tom Jackson (Paradox)"
- ],
  "bytes": 136809,
  "description": "Small town with a few simple houses and trees, somewhat blighted by portal errors.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-10",
  "sha256": "8ef02e2f384918a97f715873ba1cb58aef9e82e254e2147851514925d1fc6319",
  "tags": [
   "author=Tom Jackson (Paradox)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Swinfen Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/swinfen.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8ef02e2f384918a97f715873ba1cb58aef9e82e254e2147851514925d1fc6319/swinfen.zip"

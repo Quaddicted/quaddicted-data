@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 690847,
  "description": "Brightly lit terracotta tower.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-13",
  "sha256": "52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f",
  "tags": [
   "author=DAV",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Subway (Metro)",
  "urls": [
   "https://www.quaddicted.com/filebase/qkmetro.zip",
   "https://www.quaddicted.com/files/by-sha256/52/52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f/qkmetro.zip"

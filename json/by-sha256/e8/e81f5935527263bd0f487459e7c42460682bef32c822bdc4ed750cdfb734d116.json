@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 655881,
  "description": "Medium sized Wizard with a small cavern bit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-05",
  "sha256": "e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116",
  "tags": [
   "author=J.F.Gustafsson",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Far beyond reality",
  "urls": [
   "https://www.quaddicted.com/filebase/real.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116/real.zip"

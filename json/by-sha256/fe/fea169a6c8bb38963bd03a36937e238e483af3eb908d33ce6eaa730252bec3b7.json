@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ludovic Texier"
- ],
  "bytes": 551141,
  "description": "Small Base map.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-12",
  "sha256": "fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7",
  "tags": [
   "author=Ludovic Texier",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Warfare Warehouse",
  "urls": [
   "https://www.quaddicted.com/filebase/tww.zip",
   "https://www.quaddicted.com/files/by-sha256/fe/fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7/tww.zip"

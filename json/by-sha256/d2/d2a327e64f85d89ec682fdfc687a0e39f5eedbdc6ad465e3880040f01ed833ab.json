@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DraQu"
- ],
  "bytes": 922525,
  "description": "Small purple-bricked castle level. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-09-11",
  "sha256": "d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab",
  "tags": [
   "author=DraQu",
@@ -45,7 +41,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Eye Sore",
  "urls": [
   "https://www.quaddicted.com/filebase/sm_dq1.zip",
   "https://www.quaddicted.com/files/by-sha256/d2/d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab/sm_dq1.zip"

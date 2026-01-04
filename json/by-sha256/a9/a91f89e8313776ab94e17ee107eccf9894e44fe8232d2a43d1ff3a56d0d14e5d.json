@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lukasxd"
- ],
  "bytes": 247194,
  "description": "A small map featuring a floating structure. The author's first Quake map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-09-02",
  "sha256": "a91f89e8313776ab94e17ee107eccf9894e44fe8232d2a43d1ff3a56d0d14e5d",
  "tags": [
   "author=Lukasxd",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Windy Temple",
  "urls": [
   "https://www.quaddicted.com/filebase/w_temple.zip",
   "https://www.quaddicted.com/files/by-sha256/a9/a91f89e8313776ab94e17ee107eccf9894e44fe8232d2a43d1ff3a56d0d14e5d/w_temple.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Erik Robson"
- ],
  "bytes": 1760404,
  "description": "Large, kind of plain realistic map: an eletric company infested by fast dogs and evil spiders.",
  "files": {
@@ -135,7 +132,6 @@
   "extract": "{base}/electric/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-19",
  "sha256": "f40017500e54a222a99ef81abed5d70597ea5e134a44c46b2076cec237836d7a",
  "tags": [
   "author=Erik Robson",
@@ -151,7 +147,6 @@
   "type=mod",
   "zipbasedir=electric/"
  ],
- "title": "Electric Company",
  "urls": [
   "https://www.quaddicted.com/filebase/electric.zip",
   "https://www.quaddicted.com/files/by-sha256/f4/f40017500e54a222a99ef81abed5d70597ea5e134a44c46b2076cec237836d7a/electric.zip"

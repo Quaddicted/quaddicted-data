@@ -1,12 +1,6 @@
 {
- "authors": [
-  "RickyT23"
- ],
  "bytes": 1425721,
  "current_main_group_package": true,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium sized base map.",
  "files": {
   "quarantine02.bsp": {
@@ -27,11 +21,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>. This is the <u>bug-fixed version</u> (some monsters were missing) of <a href=\"2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3\">quarantine.zip</a>."
  ],
- "provides": {
-  "quarantine": "2.0"
- },
- "release_date": "2013-04-09",
- "release_group": "quarantine",
  "sha256": "1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef",
  "tags": [
   "author=RickyT23",
@@ -57,7 +46,6 @@
   "version=2.0",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Quarantine",
  "urls": [
   "https://www.quaddicted.com/filebase/quarantine02.zip",
   "https://www.quaddicted.com/files/by-sha256/16/1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef/quarantine02.zip"

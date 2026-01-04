@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kinn"
- ],
  "bytes": 10144520,
  "description": "Q3A gothic themed fortress set in a massive rocky valley, featuring many custom monsters and features, plus well-executed gameplay twists and horde combat.",
  "files": {
@@ -819,7 +816,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-01-09",
  "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "tags": [
   "author=Kinn",
@@ -843,7 +839,6 @@
   "title=The Marcher Fortress",
   "type=mod"
  ],
- "title": "The Marcher Fortress",
  "urls": [
   "https://www.quaddicted.com/filebase/kinn_marcher.zip",
   "https://www.quaddicted.com/files/by-sha256/cc/cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174/kinn_marcher.zip"

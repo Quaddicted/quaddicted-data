@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matt Joiner"
- ],
  "bytes": 179773,
  "description": "Very small Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-08-21",
  "sha256": "ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6",
  "tags": [
   "author=Matt Joiner",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Erkle's Domain",
  "urls": [
   "https://www.quaddicted.com/filebase/erkle.zip",
   "https://www.quaddicted.com/files/by-sha256/ef/ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6/erkle.zip"

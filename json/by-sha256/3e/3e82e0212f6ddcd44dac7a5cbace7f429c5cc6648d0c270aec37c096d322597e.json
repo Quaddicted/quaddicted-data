@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "Starbuck",
-  "than"
- ],
  "bytes": 585312,
  "description": "Unthemed / 3 DM maps / Apollo, Starbuck, than",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-18",
  "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "tags": [
   "author=Apollo",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 33 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm33_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3e/3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e/sm33_pack.zip"

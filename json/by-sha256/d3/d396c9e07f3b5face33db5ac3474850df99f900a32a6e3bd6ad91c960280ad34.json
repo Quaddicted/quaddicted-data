@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lka"
- ],
  "bytes": 435798,
  "description": "Two small maps: first one is the outside of a temple and functions as a skill selection map, second one is the plain interior.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-04",
  "sha256": "d396c9e07f3b5face33db5ac3474850df99f900a32a6e3bd6ad91c960280ad34",
  "tags": [
   "author=Lka",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tempio (Temple)",
  "urls": [
   "https://www.quaddicted.com/filebase/tempio.zip",
   "https://www.quaddicted.com/files/by-sha256/d3/d396c9e07f3b5face33db5ac3474850df99f900a32a6e3bd6ad91c960280ad34/tempio.zip"

@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Pulsar",
-  "TextFish",
-  "generic"
- ],
  "bytes": 905592,
  "description": "Partially submerged / 3 SP maps / generic, Pulsar, TextFish",
  "files": {
@@ -37,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-10-02",
  "sha256": "7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b",
  "tags": [
   "author=Pulsar",
@@ -54,7 +48,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 106 - Partially submerged",
  "urls": [
   "https://www.quaddicted.com/filebase/sm106_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7c/7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b/sm106_pack.zip"

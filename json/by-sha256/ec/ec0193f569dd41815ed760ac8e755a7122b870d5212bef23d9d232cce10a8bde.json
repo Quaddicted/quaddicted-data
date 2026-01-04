@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Esrael"
- ],
  "bytes": 3545904,
  "description": "Small to medium-sized Wizard-style level. It is the follow-up to <a href=\"8fe3d61a0e046478541287ed19c5704d20a5926f1ec904c154b98f28e1b01243\">The Subterrestrial Hangar</a> and as such again features three distinct route choices. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2018-07-27",
  "sha256": "ec0193f569dd41815ed760ac8e755a7122b870d5212bef23d9d232cce10a8bde",
  "tags": [
   "author=Esrael",
@@ -57,7 +53,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Amphitheater Of Abaddon",
  "urls": [
   "https://www.quaddicted.com/filebase/amphitoa.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ec0193f569dd41815ed760ac8e755a7122b870d5212bef23d9d232cce10a8bde/amphitoa.zip"

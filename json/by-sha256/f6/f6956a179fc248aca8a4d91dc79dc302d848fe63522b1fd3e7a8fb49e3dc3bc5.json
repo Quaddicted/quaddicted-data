@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Keefner"
- ],
  "bytes": 3416567,
  "description": "Medium castle-themed map with a bathroom at the end.",
  "files": {
@@ -55,7 +52,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-07-02",
  "sha256": "f6956a179fc248aca8a4d91dc79dc302d848fe63522b1fd3e7a8fb49e3dc3bc5",
  "tags": [
   "author=Paul Keefner",
@@ -68,7 +64,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "rest room run",
  "urls": [
   "https://www.quaddicted.com/filebase/rrr.zip",
   "https://www.quaddicted.com/files/by-sha256/f6/f6956a179fc248aca8a4d91dc79dc302d848fe63522b1fd3e7a8fb49e3dc3bc5/rrr.zip"

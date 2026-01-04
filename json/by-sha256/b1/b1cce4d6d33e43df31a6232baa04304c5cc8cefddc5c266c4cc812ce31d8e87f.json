@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Calluna Vulgaris"
- ],
  "bytes": 6921425,
- "depends": [
-  "349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c"
- ],
  "description": "Small industrial base station inside an underground acid cave.",
  "files": {
   "acidworship_cv.bsp": {
@@ -31,7 +25,6 @@
  "notes": [
   "This map requires <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-05-21",
  "sha256": "b1cce4d6d33e43df31a6232baa04304c5cc8cefddc5c266c4cc812ce31d8e87f",
  "tags": [
   "author=Calluna Vulgaris",
@@ -60,7 +53,6 @@
   "type=map",
   "zipbasedir=rubicon2/maps/"
  ],
- "title": "Acid Worship",
  "urls": [
   "https://www.quaddicted.com/filebase/acidworship_cv.zip",
   "https://www.quaddicted.com/files/by-sha256/b1/b1cce4d6d33e43df31a6232baa04304c5cc8cefddc5c266c4cc812ce31d8e87f/acidworship_cv.zip"

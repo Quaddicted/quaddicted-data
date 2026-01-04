@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Shambler"
- ],
  "bytes": 3478428,
- "depends": [
-  "ad>=1.71"
- ],
  "description": "Small Zerst\u00f6rer-themed level.",
  "files": {
   "ad_shamsp4.txt": {
@@ -76,7 +70,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
  ],
- "release_date": "2019-01-01",
  "sha256": "d8499cb2c12bf22b4802590b6ccda561394ce98e450461a940d4e1433e353016",
  "tags": [
   "author=Shambler",
@@ -102,7 +95,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Annihilith Of Abhorration",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_shamsp4.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d8499cb2c12bf22b4802590b6ccda561394ce98e450461a940d4e1433e353016/ad_shamsp4.zip"

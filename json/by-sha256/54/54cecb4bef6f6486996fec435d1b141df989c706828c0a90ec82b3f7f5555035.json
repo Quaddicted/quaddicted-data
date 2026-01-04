@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dennis Katsonis"
- ],
  "bytes": 595901,
  "description": "Medium sized and often cramped Medieval/Metal/Base map with a few attempts at realism elements.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-04",
  "sha256": "54cecb4bef6f6486996fec435d1b141df989c706828c0a90ec82b3f7f5555035",
  "tags": [
   "author=Dennis Katsonis",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Med Labs",
  "urls": [
   "https://www.quaddicted.com/filebase/medlab.zip",
   "https://www.quaddicted.com/files/by-sha256/54/54cecb4bef6f6486996fec435d1b141df989c706828c0a90ec82b3f7f5555035/medlab.zip"

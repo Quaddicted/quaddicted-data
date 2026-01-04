@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Spain"
- ],
  "bytes": 642479,
  "description": "Part of the BadLands series: Small military base with an underground  rocket depot.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-10",
  "sha256": "9e331bbe0d51507b0b043937dc7658f45de2bf97e080fdd2a891426fcf684740",
  "tags": [
   "author=Chris Spain",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "BadLand2 : Countdown",
  "urls": [
   "https://www.quaddicted.com/filebase/badland2.zip",
   "https://www.quaddicted.com/files/by-sha256/9e/9e331bbe0d51507b0b043937dc7658f45de2bf97e080fdd2a891426fcf684740/badland2.zip"

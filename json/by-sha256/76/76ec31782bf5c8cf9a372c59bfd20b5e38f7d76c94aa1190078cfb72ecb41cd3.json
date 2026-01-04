@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Patrick Martin"
- ],
  "bytes": 43090037,
  "current_main_group_package": true,
  "description": "Mod featuring many new and modified monsters, weapons and other map features, created over the course of many years, primarily for use in releases by <a href=\"../?include=metadata-%3Etags.cs.%5B%22author%3DTronyn%22%5D\">Tronyn</a> but used in various other maps too.",
@@ -7620,11 +7617,6 @@
  "notes": [
   "Previously only available in the Quaddicted filebase, but added to the main archive during the 2024 rebuild for dependency purposes."
  ],
- "provides": {
-  "drake": "2.0"
- },
- "release_date": "2021-09-04",
- "release_group": "drake",
  "sha256": "76ec31782bf5c8cf9a372c59bfd20b5e38f7d76c94aa1190078cfb72ecb41cd3",
  "tags": [
   "author=Patrick Martin",
@@ -7643,7 +7635,6 @@
   "version=2.0",
   "zipbasedir=drake/"
  ],
- "title": "Drake (2021)",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/76/76ec31782bf5c8cf9a372c59bfd20b5e38f7d76c94aa1190078cfb72ecb41cd3/drakebeta2021.zip",
   "https://x901.net/quaddictedfiles/drakebeta2021.zip"

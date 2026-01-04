@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 3228343,
  "description": "A four level wizard/medieval episode with a start map. Features exploding barrels, cutscenes and a few new monsters (dragons and boss).",
  "files": {
@@ -162,7 +159,6 @@
   "extract": "{base}/pg2/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-05-13",
  "sha256": "1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -183,7 +179,6 @@
   "type=mod",
   "zipbasedir=pg2/"
  ],
- "title": "Phantasmal Garrison (v2)",
  "urls": [
   "https://www.quaddicted.com/filebase/pg2.zip",
   "https://www.quaddicted.com/files/by-sha256/1c/1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a/pg2.zip"

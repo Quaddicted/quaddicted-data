@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Michael Casaday"
- ],
  "bytes": 2040196,
  "description": "A medium sized cargo spacecraft with Zer and IKBase textures and somewhat unusual gameplay. There are three missions to be completed in which \"<i>you'll face all kinds of problems, from technical difficulties to unruly 'cargo'.</i>\"",
  "files": {
@@ -303,7 +300,6 @@
  "notes": [
   "Make sure the autoexec.cfg is loaded as it contains necessary key aliases (press F1 in game for a description of their functions)."
  ],
- "release_date": "1998-06-23",
  "sha256": "6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be",
  "tags": [
   "author=Michael Casaday",
@@ -326,7 +322,6 @@
   "type=mod",
   "zipbasedir=casspq1/"
  ],
- "title": "Hell in a Can",
  "urls": [
   "https://www.quaddicted.com/filebase/casspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/60/6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be/casspq1.zip"

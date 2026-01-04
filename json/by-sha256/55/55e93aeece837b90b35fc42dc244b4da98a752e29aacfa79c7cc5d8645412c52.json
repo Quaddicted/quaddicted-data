@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Chuma"
- ],
  "bytes": 10767280,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Spacious map using a mixture of texture themes.",
  "files": {
   "copper/": {
@@ -98,7 +92,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-12-15",
  "sha256": "55e93aeece837b90b35fc42dc244b4da98a752e29aacfa79c7cc5d8645412c52",
  "tags": [
   "author=Chuma",
@@ -116,7 +109,6 @@
   "title=Dungeon Ascension",
   "type=map"
  ],
- "title": "Dungeon Ascension",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/55/55e93aeece837b90b35fc42dc244b4da98a752e29aacfa79c7cc5d8645412c52/dungeonascension-3.0.zip",
   "https://x901.net/quaddictedfiles/dungeonascension-3.0.zip"

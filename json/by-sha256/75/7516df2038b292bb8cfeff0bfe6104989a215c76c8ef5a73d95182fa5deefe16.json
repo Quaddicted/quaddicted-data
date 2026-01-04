@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Lieutenant"
- ],
  "bytes": 1034384,
  "description": "Third map in the LTHSP series: a medium sized spacious medieval castle featuring new Crossbow Knight enemies.",
  "files": {
@@ -83,7 +80,6 @@
  "notes": [
   "This map has been designed to be played directly after <a href=\"c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e\">lthsp2 (\"Backwards Compatible\")</a>, with the player carrying over their weapons from lthsp2."
  ],
- "release_date": "2001-01-16",
  "sha256": "7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16",
  "tags": [
   "author=The Lieutenant",
@@ -101,7 +97,6 @@
   "type=mod",
   "zipbasedir=lthsp3/"
  ],
- "title": "Cruel Intentions",
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp3.zip",
   "https://www.quaddicted.com/files/by-sha256/75/7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16/lthsp3.zip"

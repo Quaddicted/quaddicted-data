@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Stylaphone"
- ],
  "bytes": 2735848,
  "description": "Small to medium-sized base-style prison level. Comes with a skill-selection map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-05-28",
  "sha256": "d6059323f6a35dc42ecd19e0a7b7e96988f484539fba4839fb8f0030849eed89",
  "tags": [
   "author=Stylaphone",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Escape from Quakertraz",
  "urls": [
   "https://www.quaddicted.com/filebase/efq.zip",
   "https://www.quaddicted.com/files/by-sha256/d6/d6059323f6a35dc42ecd19e0a7b7e96988f484539fba4839fb8f0030849eed89/efq.zip"

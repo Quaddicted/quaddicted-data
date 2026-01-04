@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 1411261,
  "description": "Industrial/base themed map with orange Q2 textures. Features the Snakeman custom monster.",
  "files": {
@@ -60,7 +57,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-02-10",
  "sha256": "9945d6cc68c6de416e857a4cff09df4dbd3cbe9c20c690bc4fe24c9970318512",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -83,7 +79,6 @@
   "title=The Savage Sanguine",
   "type=mod"
  ],
- "title": "The Savage Sanguine",
  "urls": [
   "https://www.quaddicted.com/filebase/alk05.zip",
   "https://www.quaddicted.com/files/by-sha256/99/9945d6cc68c6de416e857a4cff09df4dbd3cbe9c20c690bc4fe24c9970318512/alk05.zip"

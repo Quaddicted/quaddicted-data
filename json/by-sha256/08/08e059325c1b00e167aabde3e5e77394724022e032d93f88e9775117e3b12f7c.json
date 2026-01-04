@@ -1,7 +1,4 @@
 {
- "authors": [
-  "xLarve"
- ],
  "bytes": 2608904,
  "description": "Huge base map, a labyrinth of tight corridors with ambushes.",
  "files": {
@@ -36,7 +33,6 @@
  "notes": [
   "This map requires a source port with increased limits"
  ],
- "release_date": "2020-05-01",
  "sha256": "08e059325c1b00e167aabde3e5e77394724022e032d93f88e9775117e3b12f7c",
  "tags": [
   "author=xLarve",
@@ -54,7 +50,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Sector Four",
  "urls": [
   "https://www.quaddicted.com/filebase/xl4.zip",
   "https://www.quaddicted.com/files/by-sha256/08/08e059325c1b00e167aabde3e5e77394724022e032d93f88e9775117e3b12f7c/xl4.zip"

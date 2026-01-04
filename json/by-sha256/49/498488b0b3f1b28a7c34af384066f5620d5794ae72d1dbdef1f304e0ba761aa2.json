@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Melzer"
- ],
  "bytes": 563802,
  "description": "Small mine/catacombs/rooms map with mixed texture themes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-17",
  "sha256": "498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2",
  "tags": [
   "author=Mike Melzer",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Catacombs",
  "urls": [
   "https://www.quaddicted.com/filebase/catacomb.zip",
   "https://www.quaddicted.com/files/by-sha256/49/498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2/catacomb.zip"

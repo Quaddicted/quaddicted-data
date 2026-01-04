@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 2443888,
- "depends": [
-  "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673"
- ],
  "description": "The SoE final proper map(s) merged back into one: A huge medieval fortress in an underground cavern system. Originally built as a whole like this, but had to be split for the SoE pack due to technical limitation at the time (the map became soe2m4: Whispers in Darkness and soe2m5: The Morbid Manse). This version was fixed up by aguirRe.",
  "files": {
   "coven.bsp": {
@@ -26,7 +20,6 @@
  "notes": [
   "This map requires <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a> and an engine port with increased limits."
  ],
- "release_date": "2006-10-13",
  "sha256": "3141640b1178ab696bdfb80842763d40367e99a1e6807fe1d9b60920852e3653",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -46,7 +39,6 @@
   "type=map",
   "zipbasedir=soe/maps/"
  ],
- "title": "Coven",
  "urls": [
   "https://www.quaddicted.com/filebase/coven.zip",
   "https://www.quaddicted.com/files/by-sha256/31/3141640b1178ab696bdfb80842763d40367e99a1e6807fe1d9b60920852e3653/coven.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders Gustavsson"
- ],
  "bytes": 462808,
  "description": "Small Wizard/brick level.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-21",
  "sha256": "dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49",
  "tags": [
   "author=Anders Gustavsson",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Prison",
  "urls": [
   "https://www.quaddicted.com/filebase/prison2.zip",
   "https://www.quaddicted.com/files/by-sha256/da/dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49/prison2.zip"

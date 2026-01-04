@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Tron",
-  "Zwiffle",
-  "bambuz",
-  "generic"
- ],
  "bytes": 497451,
  "description": "Nowhere to hide / 4 SP maps / bambuz, generic, Tron, Zwiffle",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-06-26",
  "sha256": "3d98ecf60b35d54613c4afc02a3849867abcbb43e4d276a879d4bd4d9e553274",
  "tags": [
   "author=Tron",
@@ -58,7 +51,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 97 - Nowhere to hide",
  "urls": [
   "https://www.quaddicted.com/filebase/sm97_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3d98ecf60b35d54613c4afc02a3849867abcbb43e4d276a879d4bd4d9e553274/sm97_pack.zip"

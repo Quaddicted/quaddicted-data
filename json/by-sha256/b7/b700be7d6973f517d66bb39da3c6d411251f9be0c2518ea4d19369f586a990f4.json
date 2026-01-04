@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DragonsForLunch"
- ],
  "bytes": 4148969,
  "description": "Large green brick/slime dungeon; a textured and re-lit version of the author's <a href=\"e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c\">SM214</a> entry. It runs on the Progs_dump mod (included) and comes with a few new sounds and models.",
  "files": {
@@ -630,7 +627,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-10-16",
  "sha256": "b700be7d6973f517d66bb39da3c6d411251f9be0c2518ea4d19369f586a990f4",
  "tags": [
   "author=DragonsForLunch",
@@ -650,7 +646,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Weight For It",
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_weight.zip",
   "https://www.quaddicted.com/files/by-sha256/b7/b700be7d6973f517d66bb39da3c6d411251f9be0c2518ea4d19369f586a990f4/dfl_weight.zip"

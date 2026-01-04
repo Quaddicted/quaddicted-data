@@ -1,13 +1,4 @@
 {
- "authors": [
-  "Greenwood",
-  "Newhouse",
-  "Spootnik",
-  "VuRkka",
-  "alexUnder",
-  "bmFbr",
-  "zigi"
- ],
  "bytes": 77121790,
  "description": "Episode of eight maps (plus start + secret) by various authors, made using ID and mission pack textures, keeping to original Quake entity limits.",
  "files": {
@@ -130,7 +121,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-08-16",
  "sha256": "f4c2cb39caa3d50a1c8378dd4da8eb413219d45ca8979ca9b594599c990e8073",
  "tags": [
   "author=Greenwood",
@@ -151,7 +141,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Seismic Ventures",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/f4/f4c2cb39caa3d50a1c8378dd4da8eb413219d45ca8979ca9b594599c990e8073/seiven.zip",
   "https://x901.net/quaddictedfiles/seiven.zip"

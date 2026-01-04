@@ -1,7 +1,4 @@
 {
- "authors": [
-  "imi74"
- ],
  "bytes": 30143441,
  "description": "Short episode with custom start map + 3 small / medium sized levels of various themes, with custom weapons and monsters. Some textures from Doom, some custom music sampled from Nine Inch Nails. Map source is included.",
  "files": {
@@ -393,7 +390,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-11-18",
  "sha256": "bb1ced62053a83634cff6fe5bba864d133277472ff2b682bed85c29f2bba766f",
  "tags": [
   "author=imi74",
@@ -422,7 +418,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "The Dark Triad v1.0",
  "urls": [
   "https://www.quaddicted.com/filebase/tdt100.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bb1ced62053a83634cff6fe5bba864d133277472ff2b682bed85c29f2bba766f/tdt100.zip"

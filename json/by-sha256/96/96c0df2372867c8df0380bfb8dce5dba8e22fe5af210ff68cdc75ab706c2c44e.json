@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Martel DuVigneaud"
- ],
  "bytes": 458693,
  "description": "Small metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-02-15",
  "sha256": "96c0df2372867c8df0380bfb8dce5dba8e22fe5af210ff68cdc75ab706c2c44e",
  "tags": [
   "author=Martel DuVigneaud",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ebony",
  "urls": [
   "https://www.quaddicted.com/filebase/ebony1.zip",
   "https://www.quaddicted.com/files/by-sha256/96/96c0df2372867c8df0380bfb8dce5dba8e22fe5af210ff68cdc75ab706c2c44e/ebony1.zip"

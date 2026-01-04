@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 3781978,
  "description": "A big mayan city.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-12-05",
  "sha256": "4d25204dcf119cdc919073f852dd55eb4105023b062f2a08f583bbd2f2671f1b",
  "tags": [
   "author=Trinca",
@@ -55,7 +51,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Tomb of Chak Toh Ich`ak",
  "urls": [
   "https://www.quaddicted.com/filebase/tchak.zip",
   "https://www.quaddicted.com/files/by-sha256/4d/4d25204dcf119cdc919073f852dd55eb4105023b062f2a08f583bbd2f2671f1b/tchak.zip"

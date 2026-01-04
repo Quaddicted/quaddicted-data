@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mtk"
- ],
  "bytes": 28839234,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Small cave tomb / temple map with Makkon textures. Some textures and sounds from Thief: The Dark Project. Custom music by MrDetonia. Map source is included.",
  "files": {
   "gfx/": {
@@ -221,7 +215,6 @@
  "notes": [
   "Requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> and a modern engine / source port with increased limits."
  ],
- "release_date": "2022-11-11",
  "sha256": "47052be12c13ba01315c2657c11462c40dcaba0320da38684e21b46887c8bb21",
  "tags": [
   "author=mtk",
@@ -249,7 +242,6 @@
   "type=mod",
   "zipbasedir=ad/"
  ],
- "title": "The Black Fog",
  "urls": [
   "https://www.quaddicted.com/filebase/mtk_blackfog.zip",
   "https://www.quaddicted.com/files/by-sha256/47/47052be12c13ba01315c2657c11462c40dcaba0320da38684e21b46887c8bb21/mtk_blackfog.zip"

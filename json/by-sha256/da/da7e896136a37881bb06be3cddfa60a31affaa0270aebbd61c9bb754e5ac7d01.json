@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Blitz",
-  "Cybear",
-  "Miikka",
-  "Misyu",
-  "NaNe"
- ],
  "bytes": 780653,
  "description": "Unthemed / 5 SP maps / Cybear, Blitz, Miikka, Misyu, NaNe",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-28",
  "sha256": "da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01",
  "tags": [
   "author=Blitz",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 18 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm18_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/da/da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01/sm18_pack.zip"

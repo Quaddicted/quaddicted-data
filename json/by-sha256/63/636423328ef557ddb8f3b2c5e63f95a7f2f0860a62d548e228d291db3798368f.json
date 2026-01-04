@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 4360361,
  "description": "Large Base map with spacious rooms, linear progression, a very high monster count and a few custom enemies. Comes with a start and a boss map. Map sources are included.",
  "files": {
@@ -665,7 +662,6 @@
   "extract": "{base}/trsp3/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-15",
  "sha256": "636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f",
  "tags": [
   "author=Trinca",
@@ -688,7 +684,6 @@
   "type=mod",
   "zipbasedir=trsp3/"
  ],
- "title": "Underground Base",
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp3.zip",
   "https://www.quaddicted.com/files/by-sha256/63/636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f/trincasp3.zip"

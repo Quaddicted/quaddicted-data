@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rick Lipsey"
- ],
  "bytes": 878492,
  "current_main_group_package": true,
  "description": "Large base map.",
@@ -21,11 +18,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "polybase": "2.0"
- },
- "release_date": "1998-04-25",
- "release_group": "polybase",
  "sha256": "2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a",
  "tags": [
   "author=Rick Lipsey",
@@ -46,7 +38,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Polygon Base",
  "urls": [
   "https://www.quaddicted.com/filebase/polybase.zip",
   "https://www.quaddicted.com/files/by-sha256/2d/2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a/polybase.zip"

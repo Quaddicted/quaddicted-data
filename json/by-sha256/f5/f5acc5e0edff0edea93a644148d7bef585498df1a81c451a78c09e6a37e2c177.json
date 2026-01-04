@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Apollo",
-  "Cybear",
-  "Damaul",
-  "Misyu"
- ],
  "bytes": 997135,
  "description": "Unthemed / 5 SP maps / Aardappel, Apollo, Cybear, Damaul, Misyu",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-29",
  "sha256": "f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177",
  "tags": [
   "author=Aardappel",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 10 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm10_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/f5/f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177/sm10_pack.zip"

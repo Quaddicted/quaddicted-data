@@ -1,11 +1,5 @@
 {
- "authors": [
-  "ijed"
- ],
  "bytes": 42296232,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Episode featuring some huge, expansive maps, very high monster counts and an evil/hostile atmosphere.",
  "files": {
   "FMOD.DLL": {
@@ -772,7 +766,6 @@
  "notes": [
   "This episode requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with raised limits.  A modified version of GLQuake is included."
  ],
- "release_date": "2007-05-10",
  "sha256": "fbcd19b85e2c1942f326c58b7c2496c88cce174a7643a430ae20b6746b5b78e6",
  "tags": [
   "author=ijed",
@@ -807,7 +800,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Warp Spasm",
  "urls": [
   "https://www.quaddicted.com/filebase/warpspasm.zip",
   "https://www.quaddicted.com/files/by-sha256/fb/fbcd19b85e2c1942f326c58b7c2496c88cce174a7643a430ae20b6746b5b78e6/warpspasm.zip"

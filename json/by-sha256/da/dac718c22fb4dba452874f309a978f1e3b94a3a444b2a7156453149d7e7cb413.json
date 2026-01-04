@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Roussel"
- ],
  "bytes": 895703,
  "description": "Small Metal level.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-18",
  "sha256": "dac718c22fb4dba452874f309a978f1e3b94a3a444b2a7156453149d7e7cb413",
  "tags": [
   "author=Marc Roussel",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Gate",
  "urls": [
   "https://www.quaddicted.com/filebase/the_gate.zip",
   "https://www.quaddicted.com/files/by-sha256/da/dac718c22fb4dba452874f309a978f1e3b94a3a444b2a7156453149d7e7cb413/the_gate.zip"

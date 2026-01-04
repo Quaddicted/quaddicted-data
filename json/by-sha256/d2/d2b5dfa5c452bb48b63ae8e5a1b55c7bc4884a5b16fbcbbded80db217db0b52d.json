@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leafface"
- ],
  "bytes": 347787,
  "description": "Small Base-style hub connecting the three units of the LFSP series.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-02",
  "sha256": "d2b5dfa5c452bb48b63ae8e5a1b55c7bc4884a5b16fbcbbded80db217db0b52d",
  "tags": [
   "author=Leafface",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Mine entrance",
  "urls": [
   "https://www.quaddicted.com/filebase/lfspme.zip",
   "https://www.quaddicted.com/files/by-sha256/d2/d2b5dfa5c452bb48b63ae8e5a1b55c7bc4884a5b16fbcbbded80db217db0b52d/lfspme.zip"

@@ -1,15 +1,4 @@
 {
- "authors": [
-  "Ing-ing",
-  "Pinchy",
-  "Rhoq",
-  "Shambler",
-  "TBA143",
-  "ish",
-  "nyoeieoyn",
-  "onetruepurple",
-  "ww"
- ],
  "bytes": 17000408,
  "description": "Comes with a few custom skyboxes and external textures.",
  "files": {
@@ -361,7 +350,6 @@
  "notes": [
   "These maps probably require a source port with increased limits"
  ],
- "release_date": "2018-12-10",
  "sha256": "27f56ed726d08c700362de6c08bdb47851970d5de12e10c8397713c912d01a72",
  "tags": [
   "author=Ing-ing",
@@ -392,7 +380,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "SM189 - DOOM / Satanic Mechanisms",
  "urls": [
   "https://www.quaddicted.com/filebase/sm189_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/27/27f56ed726d08c700362de6c08bdb47851970d5de12e10c8397713c912d01a72/sm189_pack.zip"

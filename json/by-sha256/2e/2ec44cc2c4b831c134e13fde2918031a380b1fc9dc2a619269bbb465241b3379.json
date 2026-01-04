@@ -1,8 +1,4 @@
 {
- "authors": [
-  "dumptruck_ds",
-  "id Software"
- ],
  "bytes": 8805254,
  "description": "Slightly touched-up version of the original map E2M4 - Ebon Fortress, adding small gameplay tweaks and subtle colored lighting. It runs on the progsdump mod (included) and comes with a custom music track in two formats created by the author. The map and mod sources are included.",
  "files": {
@@ -496,7 +492,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-06-22",
  "sha256": "2ec44cc2c4b831c134e13fde2918031a380b1fc9dc2a619269bbb465241b3379",
  "tags": [
   "author=dumptruck_ds",
@@ -515,7 +510,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Ebon Fortress Remix",
  "urls": [
   "https://www.quaddicted.com/filebase/e2m4remix.zip",
   "https://www.quaddicted.com/files/by-sha256/2e/2ec44cc2c4b831c134e13fde2918031a380b1fc9dc2a619269bbb465241b3379/e2m4remix.zip"

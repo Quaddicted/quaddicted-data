@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Miss Bubbles"
- ],
  "bytes": 964697,
  "description": "Medium-sized classic Episode 3-style runic level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-02-26",
  "sha256": "ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565",
  "tags": [
   "author=Miss Bubbles",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Unholy Ossuary",
  "urls": [
   "https://www.quaddicted.com/filebase/rw3.zip",
   "https://www.quaddicted.com/files/by-sha256/ca/ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565/rw3.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 2582171,
  "description": "A map set in a medieval village.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-07-29",
  "sha256": "ad4680243ca40c96a1d91548f7c611ddbffe1c74ff7c95b64d8caac27d03b643",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Decomposed Village",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/ad/ad4680243ca40c96a1d91548f7c611ddbffe1c74ff7c95b64d8caac27d03b643/vill.zip",
   "https://x901.net/quaddictedfiles/vill.zip"

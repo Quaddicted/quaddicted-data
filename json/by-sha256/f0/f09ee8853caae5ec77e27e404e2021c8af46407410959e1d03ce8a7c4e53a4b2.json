@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Dataram57"
- ],
  "bytes": 4858721,
- "depends": [
-  "its_demo>=1.1"
- ],
  "description": "Medium-sized medieval level for <a href=\"38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2\">In the Shadows</a>, featuring both stealth and regular gameplay. The map source is included.",
  "files": {
   "maps/dr57-itsd2-deufel.bsp": {
@@ -31,7 +25,6 @@
  "notes": [
   "This map requires <a href=\"38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2\">In the Shadows</a> and a source port with BSP2 support."
  ],
- "release_date": "2021-12-08",
  "sha256": "f09ee8853caae5ec77e27e404e2021c8af46407410959e1d03ce8a7c4e53a4b2",
  "tags": [
   "author=Dataram57",
@@ -54,7 +47,6 @@
   "type=map",
   "zipbasedir=shadows/"
  ],
- "title": "Deufel's Barracks",
  "urls": [
   "https://www.quaddicted.com/filebase/dr57-itsd2-deufel.zip",
   "https://www.quaddicted.com/files/by-sha256/f0/f09ee8853caae5ec77e27e404e2021c8af46407410959e1d03ce8a7c4e53a4b2/dr57-itsd2-deufel.zip"

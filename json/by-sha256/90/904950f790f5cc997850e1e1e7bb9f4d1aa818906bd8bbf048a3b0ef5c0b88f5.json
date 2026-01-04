@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ubiquitous"
- ],
  "bytes": 1780755,
  "description": "Small to medium-sized vertical mixed-texture 90s style map. The underlying \"story\" is that you are in some kind of base environment built in such a way that you must climb through three increasingly macabre gauntlets in order to escape.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-09-20",
  "sha256": "904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5",
  "tags": [
   "author=ubiquitous",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Infernal Ascent",
  "urls": [
   "https://www.quaddicted.com/filebase/infernal_v14.zip",
   "https://www.quaddicted.com/files/by-sha256/90/904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5/infernal_v14.zip"

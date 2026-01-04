@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Aesopolis"
- ],
  "bytes": 56468301,
- "depends": [
-  "alkaline>=1.10"
- ],
  "description": "Large sci-fi base map with Makkon textures. Custom music is \"Flow\" by Anna Centauri. This is version 1.1 which adds more details, bug fixes, and encounters.",
  "files": {
   "aesop_power1.1.txt": {
@@ -67,7 +61,6 @@
   "This map requires  <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline v1.1+</a> (NOT included).",
   "Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-10-23",
  "sha256": "69752f4b645531b5a44840e9c487a556f3a62ee837a17f80a65f95e7e3d088da",
  "tags": [
   "author=Aesopolis",
@@ -94,7 +87,6 @@
   "type=mod",
   "zipbasedir=alk1.1/"
  ],
- "title": "Power Structure v1.1",
  "urls": [
   "https://www.quaddicted.com/filebase/aesop_power1.1.zip",
   "https://www.quaddicted.com/files/by-sha256/69/69752f4b645531b5a44840e9c487a556f3a62ee837a17f80a65f95e7e3d088da/aesop_power1.1.zip"

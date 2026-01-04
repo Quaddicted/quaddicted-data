@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ubiquitous"
- ],
  "bytes": 2649062,
  "description": "Medium-sized dark underground laboratory.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-10-09",
  "sha256": "973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191",
  "tags": [
   "author=Ubiquitous",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Symphony of Science",
  "urls": [
   "https://www.quaddicted.com/filebase/symphony_v101.zip",
   "https://www.quaddicted.com/files/by-sha256/97/973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191/symphony_v101.zip"

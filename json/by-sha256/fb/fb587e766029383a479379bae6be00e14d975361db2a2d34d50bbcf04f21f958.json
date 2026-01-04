@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 4236512,
  "description": "Sequel of \"A Desert Dusk\" - Large desert themed SP level that also supports coop and deathmatch. Uses some SOA entities.",
  "files": {
@@ -526,7 +523,6 @@
   "extract": "{base}/add2/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-05-07",
  "sha256": "fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -550,7 +546,6 @@
   "type=mod",
   "zipbasedir=add2/"
  ],
- "title": "ADD2: Scorpion Garrison",
  "urls": [
   "https://www.quaddicted.com/filebase/add2.zip",
   "https://www.quaddicted.com/files/by-sha256/fb/fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958/add2.zip"

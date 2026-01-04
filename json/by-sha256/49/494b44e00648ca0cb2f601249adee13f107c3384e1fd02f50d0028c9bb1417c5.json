@@ -1,17 +1,4 @@
 {
- "authors": [
-  "Fix",
-  "MargSabl",
-  "Mazu",
-  "Myki",
-  "NewHouse",
-  "Pinchy",
-  "VuRkka",
-  "omni",
-  "riktoi",
-  "wiedo",
-  "zigi"
- ],
  "bytes": 133791125,
  "description": "Community map pack inspired by <a href=\"964c7f1e6f20f04d32cc075ca70e6fdb28913875b8861d408e52b732643742ed\">SMEJ</a> and <a href=\"4b8511d377ec3633a90d2d2c19ca98a7e0b4f4f735e7d0560ffd24de654aa7a4\">SMEJ2</a>: nine small to large levels plus a start/hub map in varying themes, mostly set in snowy Finnish landscapes. It is based on the SMEJ2 mod (included) and features new enemies, models, custom textures, skyboxes and music tracks. The map sources are included.",
  "files": {
@@ -1403,7 +1390,6 @@
  "notes": [
   "These maps require a source port with increased limits; Mazu's map additionally requires BSP2 support."
  ],
- "release_date": "2021-09-29",
  "sha256": "494b44e00648ca0cb2f601249adee13f107c3384e1fd02f50d0028c9bb1417c5",
  "tags": [
   "author=Fix",
@@ -1453,7 +1439,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "SMEJ Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/smejjam.zip",
   "https://www.quaddicted.com/files/by-sha256/49/494b44e00648ca0cb2f601249adee13f107c3384e1fd02f50d0028c9bb1417c5/smejjam.zip"

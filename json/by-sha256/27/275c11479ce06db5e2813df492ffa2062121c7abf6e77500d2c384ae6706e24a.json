@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Roussel"
- ],
  "bytes": 731209,
  "description": "Small medieval/metal level with a rocky outdoor area. Includes the .map file and a demo.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-02",
  "sha256": "275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a",
  "tags": [
   "author=Marc Roussel",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Eat this...",
  "urls": [
   "https://www.quaddicted.com/filebase/whippet.zip",
   "https://www.quaddicted.com/files/by-sha256/27/275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a/whippet.zip"

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Cybear",
-  "NotoriousRay",
-  "Scampie"
- ],
  "bytes": 499004,
  "description": "Unthemed / 4 DM maps / Aardappel, Cybear, NotoriousRay, Scampie",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-06",
  "sha256": "1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979",
  "tags": [
   "author=Aardappel",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 12 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm12_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1f/1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979/sm12_pack.zip"

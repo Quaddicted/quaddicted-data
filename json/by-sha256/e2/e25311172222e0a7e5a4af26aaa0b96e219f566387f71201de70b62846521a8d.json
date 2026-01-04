@@ -1,11 +1,5 @@
 {
- "authors": [
-  "skacky"
- ],
  "bytes": 6864677,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Huge Knave-style fortress with many enemies and secrets. The map source is included.",
  "files": {
   "sksp2.bsp": {
@@ -36,7 +30,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
  ],
- "release_date": "2014-01-01",
  "sha256": "e25311172222e0a7e5a4af26aaa0b96e219f566387f71201de70b62846521a8d",
  "tags": [
   "author=skacky",
@@ -61,7 +54,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Conference of the Shamblers",
  "urls": [
   "https://www.quaddicted.com/filebase/sksp2b.zip",
   "https://www.quaddicted.com/files/by-sha256/e2/e25311172222e0a7e5a4af26aaa0b96e219f566387f71201de70b62846521a8d/sksp2b.zip"

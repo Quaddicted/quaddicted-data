@@ -1,11 +1,4 @@
 {
- "authors": [
-  "ChadQuad",
-  "CommonCold",
-  "Grue",
-  "Melbo",
-  "Shamblernaut"
- ],
  "bytes": 8337038,
  "description": "Six maps of varying style created by five authors over a period of five weeks, each with a focus on speedrunning but also suitable for casual play. Each map comes with its own par time.",
  "files": {
@@ -134,7 +127,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-06-19",
  "sha256": "dcb5f9bbf05322e4d6a9740e9add5ef9486050cc35218d762d88a3d4f8feb7fe",
  "tags": [
   "author=ChadQuad",
@@ -154,7 +146,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Speedrunner Map Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/dc/dcb5f9bbf05322e4d6a9740e9add5ef9486050cc35218d762d88a3d4f8feb7fe/srj1.zip",
   "https://x901.net/quaddictedfiles/srj1.zip"

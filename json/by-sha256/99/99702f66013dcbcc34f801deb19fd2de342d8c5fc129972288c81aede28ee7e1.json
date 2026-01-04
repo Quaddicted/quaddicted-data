@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rastrelly"
- ],
  "bytes": 2387862,
  "description": "Small metallic base map with vibrant colored lighting.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-06-23",
  "sha256": "99702f66013dcbcc34f801deb19fd2de342d8c5fc129972288c81aede28ee7e1",
  "tags": [
   "author=Rastrelly",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Quantum Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/quanq1sp.zip",
   "https://www.quaddicted.com/files/by-sha256/99/99702f66013dcbcc34f801deb19fd2de342d8c5fc129972288c81aede28ee7e1/quanq1sp.zip"

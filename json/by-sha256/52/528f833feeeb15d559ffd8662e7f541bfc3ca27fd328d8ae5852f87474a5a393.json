@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 2506514,
  "description": "Medium-sized metal dungeon in E3M6 mashup style with a built-in skill selection room. It also features custom item boxes. The map source is included in the PAK.",
  "files": {
@@ -113,11 +110,6 @@
  "notes": [
   "This map requires an engine port with increased limits. A standalone version optimized for vanilla Quake compatibility is available <a href=\"030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c\">here</a>."
  ],
- "provides": {
-  "mstalk": "1.0"
- },
- "release_date": "2013-05-11",
- "release_group": "mstalk",
  "sha256": "528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393",
  "tags": [
   "author=sock",
@@ -142,7 +134,6 @@
   "version=1.0",
   "zipbasedir=mstalk/"
  ],
- "title": "Midnight Stalker",
  "urls": [
   "https://www.quaddicted.com/filebase/mstalk1c.zip",
   "https://www.quaddicted.com/files/by-sha256/52/528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393/mstalk1c.zip"

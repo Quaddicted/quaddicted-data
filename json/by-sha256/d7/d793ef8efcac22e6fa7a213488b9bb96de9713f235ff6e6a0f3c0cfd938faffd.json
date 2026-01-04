@@ -1,7 +1,4 @@
 {
- "authors": [
-  "George J. Fiffy II"
- ],
  "bytes": 456358,
  "description": "Medium sized, partly cramped Wizard map.",
  "files": {
@@ -30,11 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "4fiffy2": "1.0"
- },
- "release_date": "1997-02-24",
- "release_group": "4fiffy2",
  "sha256": "d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd",
  "tags": [
   "author=George J. Fiffy II",
@@ -57,7 +49,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "REoL TOUGH: Fortress!",
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy2.zip",
   "https://www.quaddicted.com/files/by-sha256/d7/d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd/4fiffy2.zip"

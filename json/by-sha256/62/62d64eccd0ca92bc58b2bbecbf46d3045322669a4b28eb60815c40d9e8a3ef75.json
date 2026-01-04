@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Danzadan",
-  "Fairweather",
-  "Ing-Ing",
-  "Mazu",
-  "Muk",
-  "Pinchy",
-  "Yoder"
- ],
  "bytes": 12006228,
  "description": "Weekend-long speedmapping session; eight <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a>-themed singleplayer maps. The map sources are included.",
  "files": {
@@ -145,7 +135,6 @@
  "notes": [
   "These maps probably require a source port with increased limits."
  ],
- "release_date": "2019-05-07",
  "sha256": "62d64eccd0ca92bc58b2bbecbf46d3045322669a4b28eb60815c40d9e8a3ef75",
  "tags": [
   "author=Artistical",
@@ -173,7 +162,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 196 - Quick Honey",
  "urls": [
   "https://www.quaddicted.com/filebase/sm196_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/62/62d64eccd0ca92bc58b2bbecbf46d3045322669a4b28eb60815c40d9e8a3ef75/sm196_pack.zip"

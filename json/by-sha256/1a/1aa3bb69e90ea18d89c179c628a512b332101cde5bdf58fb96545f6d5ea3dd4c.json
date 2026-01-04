@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matt Sefton"
- ],
  "bytes": 538577,
  "description": "Medium sized Metal level with a pyramid.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-17",
  "sha256": "1aa3bb69e90ea18d89c179c628a512b332101cde5bdf58fb96545f6d5ea3dd4c",
  "tags": [
   "author=Matt Sefton",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "EvilWorld 1",
  "urls": [
   "https://www.quaddicted.com/filebase/evilwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/1a/1aa3bb69e90ea18d89c179c628a512b332101cde5bdf58fb96545f6d5ea3dd4c/evilwrld.zip"

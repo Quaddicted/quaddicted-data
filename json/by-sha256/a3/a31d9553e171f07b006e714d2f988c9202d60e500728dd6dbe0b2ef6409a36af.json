@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Woodham"
- ],
  "bytes": 482360,
  "description": "Medium sized dark Wizard/Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-05",
  "sha256": "a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af",
  "tags": [
   "author=Mike Woodham",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "For My Babies",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb1.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af/fmb1.zip"

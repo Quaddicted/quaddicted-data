@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Hrimfaxi"
- ],
  "bytes": 3337959,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium-sized Knave-style fortress.",
  "files": {
   "Hrim_sp2.txt": {
@@ -26,7 +20,6 @@
  "notes": [
   "Requires the <a href=\"cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa\">Lost Chapters</a> pack."
  ],
- "release_date": "2005-08-18",
  "sha256": "06ac059db0e9f479a521370cc4917b11db21affc859fc60075584c82b5d18680",
  "tags": [
   "author=Hrimfaxi",
@@ -47,7 +40,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "The Rest Is Silence",
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp2.zip",
   "https://www.quaddicted.com/files/by-sha256/06/06ac059db0e9f479a521370cc4917b11db21affc859fc60075584c82b5d18680/hrim_sp2.zip"

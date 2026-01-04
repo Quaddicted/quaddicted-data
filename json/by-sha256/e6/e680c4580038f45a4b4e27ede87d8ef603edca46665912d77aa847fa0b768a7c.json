@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rick Lipsey"
- ],
  "bytes": 1139984,
  "description": "Large interconnected Metal castle with a sense of exploration.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-07-04",
  "sha256": "e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c",
  "tags": [
   "author=Rick Lipsey",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Castle of Oblivion",
  "urls": [
   "https://www.quaddicted.com/filebase/oblivion.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c/oblivion.zip"

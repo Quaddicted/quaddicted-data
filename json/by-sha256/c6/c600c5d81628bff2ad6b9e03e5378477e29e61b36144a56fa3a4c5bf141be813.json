@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vondur"
- ],
  "bytes": 2400257,
  "description": "Medium-sized medival level with distinctly themed areas for each element. A skybox and the map source are included.",
  "files": {
@@ -66,7 +63,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2010-11-04",
  "sha256": "c600c5d81628bff2ad6b9e03e5378477e29e61b36144a56fa3a4c5bf141be813",
  "tags": [
   "author=Vondur",
@@ -82,7 +78,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Elements",
  "urls": [
   "https://www.quaddicted.com/filebase/eels.zip",
   "https://www.quaddicted.com/files/by-sha256/c6/c600c5d81628bff2ad6b9e03e5378477e29e61b36144a56fa3a4c5bf141be813/eels.zip"

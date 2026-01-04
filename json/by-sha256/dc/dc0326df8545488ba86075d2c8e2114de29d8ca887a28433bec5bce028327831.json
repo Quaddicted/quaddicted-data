@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Michael Cullum"
- ],
  "bytes": 633568,
  "description": "Medium sized, interconnected canal/water complex with a small medieval temple.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-05",
  "sha256": "dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831",
  "tags": [
   "author=Michael Cullum",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The FloodGate",
  "urls": [
   "https://www.quaddicted.com/filebase/canal3.zip",
   "https://www.quaddicted.com/files/by-sha256/dc/dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831/canal3.zip"

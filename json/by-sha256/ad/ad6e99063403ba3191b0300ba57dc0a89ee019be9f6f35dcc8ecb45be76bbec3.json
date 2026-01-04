@@ -1,18 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "Chris Holden",
-  "Daizenzetsu",
-  "DragonsForLunch",
-  "EmeraldTiger",
-  "Greenwood",
-  "Myki",
-  "Paul Lawitzki",
-  "RadiatorYang",
-  "Shadesmaster",
-  "alexUnder",
-  "ionous"
- ],
  "bytes": 133633408,
  "description": "Community map pack based on the <a href=\"2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5\">Alkaline</a> mod (included), featuring ten base-themed levels in various sizes and texture sets plus a start hub map. Comes with custom skyboxes and music tracks in addition to the new enemies and items from the mod.",
  "files": {
@@ -2307,7 +2293,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-09-03",
  "sha256": "ad6e99063403ba3191b0300ba57dc0a89ee019be9f6f35dcc8ecb45be76bbec3",
  "tags": [
   "author=Bal",
@@ -2364,7 +2349,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Alkaline Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/alkjam.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/ad6e99063403ba3191b0300ba57dc0a89ee019be9f6f35dcc8ecb45be76bbec3/alkjam.zip"

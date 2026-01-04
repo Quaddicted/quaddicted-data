@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Harb",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 1119675,
  "description": "Swamp / 2 SP, 1 DMSP maps / Harb, Scampie, Starbuck",
  "files": {
@@ -42,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-08-23",
  "sha256": "5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e",
  "tags": [
   "author=Harb",
@@ -60,7 +54,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 46 - Swamp",
  "urls": [
   "https://www.quaddicted.com/filebase/sm46.zip",
   "https://www.quaddicted.com/files/by-sha256/53/5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e/sm46.zip"

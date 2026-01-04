@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zied Rieke"
- ],
  "bytes": 884373,
  "description": "Small to medium-sized base/industrial facility with a slightly nonlinear touch to gameplay.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-25",
  "sha256": "314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533",
  "tags": [
   "author=Zied Rieke",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Severe Exposure",
  "urls": [
   "https://www.quaddicted.com/filebase/se.zip",
   "https://www.quaddicted.com/files/by-sha256/31/314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533/se.zip"

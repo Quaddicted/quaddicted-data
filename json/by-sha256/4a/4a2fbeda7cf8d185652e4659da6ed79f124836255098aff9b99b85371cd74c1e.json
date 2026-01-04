@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Spiked_"
- ],
  "bytes": 13039689,
- "depends": [
-  "copper>=1.20"
- ],
  "description": "Medium sized metal-runic themed underground tomb / lava factory. Textures by Makkon / from Underdark Overbright. Map source is included.",
  "files": {
   "runemech.bsp": {
@@ -37,7 +31,6 @@
   "Requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper v1.20+</a> (NOT included).",
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2023-03-29",
  "sha256": "4a2fbeda7cf8d185652e4659da6ed79f124836255098aff9b99b85371cd74c1e",
  "tags": [
   "author=Spiked_",
@@ -66,7 +59,6 @@
   "type=map",
   "zipbasedir=copper/maps/"
  ],
- "title": "Runic Mechanism",
  "urls": [
   "https://www.quaddicted.com/filebase/runemech.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4a2fbeda7cf8d185652e4659da6ed79f124836255098aff9b99b85371cd74c1e/runemech.zip"

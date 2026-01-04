@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Repo"
- ],
  "bytes": 411976,
  "description": "Very small Metal-style crypt.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-03-21",
  "sha256": "79455694ef4e247f0d56785e0b2e2864ca1022c686c203078ccaaed2a20ca330",
  "tags": [
   "author=Repo",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Crypt",
  "urls": [
   "https://www.quaddicted.com/filebase/thecrypt.zip",
   "https://www.quaddicted.com/files/by-sha256/79/79455694ef4e247f0d56785e0b2e2864ca1022c686c203078ccaaed2a20ca330/thecrypt.zip"

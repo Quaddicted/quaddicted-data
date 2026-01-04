@@ -1,29 +1,6 @@
 {
- "authors": [
-  "Chuma",
-  "DragonsForLunch",
-  "EmeraldTiger",
-  "Heresy",
-  "Inky",
-  "Nickster",
-  "Ninjasaurus",
-  "Radhsar",
-  "RecycledOJ",
-  "Riktoi",
-  "Shadesmaster",
-  "Spootnik",
-  "Tonhao",
-  "alexUnder",
-  "gw_x9",
-  "iYago",
-  "rabbit",
-  "zbidou72"
- ],
  "bytes": 591364216,
  "current_main_group_package": true,
- "depends": [
-  "copper=1.30"
- ],
  "description": "Latest version of a mod that introduces several significant new player movement mechanics to Quake, including trampolines, climbable wiremeshes and lighthooks (similar to grapple hooks). Includes all the original maps from <a href=\"33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57\">version 1.1</a> and <a href=\"5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f\">this jam</a>, plus five completely new maps.",
  "files": {
   "rm1.2/": {
@@ -2949,11 +2926,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "provides": {
-  "remobilize": "1.2"
- },
- "release_date": "2024-06-24",
- "release_group": "remobilize",
  "sha256": "e8ae95cbf8baee5e566c62aa4ba98a79ccba62075bd3fcbecd131a5a4491de9e",
  "tags": [
   "author=Chuma",
@@ -2991,7 +2963,6 @@
   "type=mod",
   "version=1.2"
  ],
- "title": "Re:Mobilize 1.2",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/e8/e8ae95cbf8baee5e566c62aa4ba98a79ccba62075bd3fcbecd131a5a4491de9e/rm1.2b.zip",
   "https://x901.net/quaddictedfiles/rm1.2b.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 586728,
  "description": "A imaginative but simple fortress. Features a (long and slow) ride on a cable car.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-07-23",
  "sha256": "25502730597ffe243102396ba28eb795e0a492eaec8dbfc6f1004b828348f9ab",
  "tags": [
   "author=DAV",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fortress",
  "urls": [
   "https://www.quaddicted.com/filebase/qkfort.zip",
   "https://www.quaddicted.com/files/by-sha256/25/25502730597ffe243102396ba28eb795e0a492eaec8dbfc6f1004b828348f9ab/qkfort.zip"

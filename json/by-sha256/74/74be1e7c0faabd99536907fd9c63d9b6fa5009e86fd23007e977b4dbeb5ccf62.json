@@ -1,12 +1,5 @@
 {
- "authors": [
-  "Lunaran",
-  "Scampie"
- ],
  "bytes": 22004243,
- "depends": [
-  "copper>=1.16"
- ],
  "description": "An episode with seven medium-sized levels plus remixed/remake versions of the original start and end maps. Mostly Wizard/Medieval/Runic style textures; the map sources are included. The episode accompanies the release of the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod and serves as a showcase for the changes.",
  "files": {
   "maps/": {
@@ -343,11 +336,6 @@
   "These maps require <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper Quake</a> and a source port with increased limits (as well as support for alpha textures).",
   "An updated version is available <a href=\"cf7cead3291fac81196b9b9fa772afa8a460f4f4f9a8677bc3c8407d432e2ca6\">here</a>."
  ],
- "provides": {
-  "udob": "1.0"
- },
- "release_date": "2019-06-21",
- "release_group": "udob",
  "sha256": "74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62",
  "tags": [
   "author=Lunaran",
@@ -395,7 +383,6 @@
   "version=1.0",
   "zipbasedir=copper/"
  ],
- "title": "Underdark Overbright",
  "urls": [
   "https://www.quaddicted.com/filebase/udob.zip",
   "https://www.quaddicted.com/files/by-sha256/74/74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62/udob.zip"

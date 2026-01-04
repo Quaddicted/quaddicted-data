@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Bisseker (tiddles)"
- ],
  "bytes": 498519,
  "description": "Medium sized industrial base map (second version).",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-07-15",
  "sha256": "b1dd7757bb3a014a9cacef1d8e704abe4f90d670719681cd27356894403b89fd",
  "tags": [
   "author=Peter Bisseker (tiddles)",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Last Strong Hold",
  "urls": [
   "https://www.quaddicted.com/filebase/strong-hold.zip",
   "https://www.quaddicted.com/files/by-sha256/b1/b1dd7757bb3a014a9cacef1d8e704abe4f90d670719681cd27356894403b89fd/strong-hold.zip"

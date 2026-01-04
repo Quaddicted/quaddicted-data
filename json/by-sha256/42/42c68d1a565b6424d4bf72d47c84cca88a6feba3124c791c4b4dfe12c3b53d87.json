@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Gunnar Saethre"
- ],
  "bytes": 438914,
  "description": "Smallish, nonlinear Wizard-style level with long corridors, originally designed for deathmatch.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-06",
  "sha256": "42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87",
  "tags": [
   "author=Gunnar Saethre",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Psychotic Installation",
  "urls": [
   "https://www.quaddicted.com/filebase/thepsyco.zip",
   "https://www.quaddicted.com/files/by-sha256/42/42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87/thepsyco.zip"

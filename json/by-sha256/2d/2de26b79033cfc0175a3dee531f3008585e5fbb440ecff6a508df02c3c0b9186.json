@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Erik Robson"
- ],
  "bytes": 476161,
  "description": "About medium sized Metal map with a certain maze feel.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-19",
  "sha256": "2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186",
  "tags": [
   "author=Erik Robson",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "I Wore My Doormat Face",
  "urls": [
   "https://www.quaddicted.com/filebase/doormat.zip",
   "https://www.quaddicted.com/files/by-sha256/2d/2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186/doormat.zip"

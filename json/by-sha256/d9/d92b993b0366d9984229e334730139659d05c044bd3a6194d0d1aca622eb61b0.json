@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kell"
- ],
  "bytes": 7242850,
  "description": "Small episode consisting of 4 levels and a start map, with knave textures, some modified models and sounds.",
  "files": {
@@ -110,7 +107,6 @@
   "extract": "{base}/contract/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-06-15",
  "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [
   "author=Kell",
@@ -135,7 +131,6 @@
   "type=mod",
   "zipbasedir=contract/"
  ],
- "title": "Contract Revoked",
  "urls": [
   "https://www.quaddicted.com/filebase/contract.zip",
   "https://www.quaddicted.com/files/by-sha256/d9/d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0/contract.zip"

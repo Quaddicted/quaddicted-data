@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Suzanne 'Trashbang' Will"
- ],
  "bytes": 1184275,
  "description": "A small wizard / runic themed map built within a 1024x1024x1024 volume. The author's first release for Quake. Map source is included.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-02-18",
  "sha256": "a6c7c4e915c55aec04cfc976933dad575303e0c76ea88913c098c83605ef9ad7",
  "tags": [
   "author=Suzanne 'Trashbang' Will",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Stars We Lost To Grief",
  "urls": [
   "https://www.quaddicted.com/filebase/suzy1024.zip",
   "https://www.quaddicted.com/files/by-sha256/a6/a6c7c4e915c55aec04cfc976933dad575303e0c76ea88913c098c83605ef9ad7/suzy1024.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "LTH"
- ],
  "bytes": 3455127,
  "description": "A big rusty metal (rubicon) space station.",
  "files": {
@@ -365,7 +362,6 @@
   "extract": "{base}/back2forwards/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-01-19",
  "sha256": "72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3",
  "tags": [
   "author=LTH",
@@ -388,7 +384,6 @@
   "type=mod",
   "zipbasedir=back2forwards/"
  ],
- "title": "Forwards Compatible",
  "urls": [
   "https://www.quaddicted.com/filebase/back2forwards.zip",
   "https://www.quaddicted.com/files/by-sha256/72/72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3/back2forwards.zip"

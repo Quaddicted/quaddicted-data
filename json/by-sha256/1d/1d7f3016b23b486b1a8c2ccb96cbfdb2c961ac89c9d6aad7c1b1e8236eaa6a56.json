@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "Greenwood"
- ],
  "bytes": 17265467,
  "description": "Large underground industrial base with rocket silos and conveyor belts; and a small start map. It was originally started in 2005 for a <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a> addon episode. It uses Daikatana textures and runs on the <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a> mod (included), featuring new and modified enemies and effects. Also comes with a music track and a custom skybox.",
  "files": {
@@ -485,7 +481,6 @@
  "notes": [
   "This map requires a source port with increased limits"
  ],
- "release_date": "2021-01-13",
  "sha256": "1d7f3016b23b486b1a8c2ccb96cbfdb2c961ac89c9d6aad7c1b1e8236eaa6a56",
  "tags": [
   "author=Bal",
@@ -519,7 +514,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Circulation of Shadows",
  "urls": [
   "https://www.quaddicted.com/filebase/circulation.zip",
   "https://www.quaddicted.com/files/by-sha256/1d/1d7f3016b23b486b1a8c2ccb96cbfdb2c961ac89c9d6aad7c1b1e8236eaa6a56/circulation.zip"

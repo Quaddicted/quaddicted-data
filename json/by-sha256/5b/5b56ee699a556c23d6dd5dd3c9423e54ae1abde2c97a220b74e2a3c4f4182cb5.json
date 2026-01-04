@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Gotshun"
- ],
  "bytes": 3542372,
  "description": "Large dark medieval brick map in the vein of <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a> and <a href=\"6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031\">Func Map Jam 1</a>. The map source is included.",
  "files": {
@@ -29,7 +26,6 @@
   "This map requires an engine port with increased limits.",
   "A version with colored lighting is available <a href=\"https://www.quaddicted.com/filebase/jump%20with%20lit.zip\">here</a>."
  ],
- "release_date": "2016-11-25",
  "sha256": "5b56ee699a556c23d6dd5dd3c9423e54ae1abde2c97a220b74e2a3c4f4182cb5",
  "tags": [
   "author=Gotshun",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Jump",
  "urls": [
   "https://www.quaddicted.com/filebase/jump.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5b56ee699a556c23d6dd5dd3c9423e54ae1abde2c97a220b74e2a3c4f4182cb5/jump.zip"

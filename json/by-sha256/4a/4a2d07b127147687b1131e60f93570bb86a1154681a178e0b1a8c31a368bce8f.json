@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Justin Fleck"
- ],
  "bytes": 5492086,
  "description": "Small / medium sized temple map with a lot of monsters, built on Progs Dump v3 (already included). A remix of rd1m3 from <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">Runner's Delight</a>. Map source is included.  Probably requires a modern engine / source port with increased limits.",
  "files": {
@@ -725,7 +722,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-12-08",
  "sha256": "4a2d07b127147687b1131e60f93570bb86a1154681a178e0b1a8c31a368bce8f",
  "tags": [
   "author=Justin Fleck",
@@ -748,7 +744,6 @@
   "title=Cumma Celeritate",
   "type=mod"
  ],
- "title": "Cumma Celeritate",
  "urls": [
   "https://www.quaddicted.com/filebase/rd1m3rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4a2d07b127147687b1131e60f93570bb86a1154681a178e0b1a8c31a368bce8f/rd1m3rmx.zip"

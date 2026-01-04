@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Shambler"
- ],
  "bytes": 9351188,
- "depends": [
-  "ad>=1.70"
- ],
  "description": "Around medium-sized copper/metal level; a singleplayer remix of stock DM2 - Claustrophobopolis, based on the original map source. It comes with a custom skybox (already included in AD).",
  "files": {
   "ad_dm2rmx_sham.bsp": {
@@ -66,7 +60,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
  ],
- "release_date": "2018-10-16",
  "sha256": "d5d2e7d632ee24b8a1ec86f4ada78b5c2b481957440bcf3e1661ae5d4e512b8e",
  "tags": [
   "author=Shambler",
@@ -92,7 +85,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "Acidophilus",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_dm2rmx_sham.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d5d2e7d632ee24b8a1ec86f4ada78b5c2b481957440bcf3e1661ae5d4e512b8e/ad_dm2rmx_sham.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Smith"
- ],
  "bytes": 558514,
  "description": "Medium sized Metal/Ebon style map with lots of ammo and health.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-22",
  "sha256": "3483a8b6356d694335498b69e1845bcf3223d50dbbb79613da9931cadf84af1f",
  "tags": [
   "author=Andrew Smith",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Elektra Complex",
  "urls": [
   "https://www.quaddicted.com/filebase/elektra.zip",
   "https://www.quaddicted.com/files/by-sha256/34/3483a8b6356d694335498b69e1845bcf3223d50dbbb79613da9931cadf84af1f/elektra.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Rescoe"
- ],
  "bytes": 468044,
  "description": "Improved version of the first Liquid Despair map. A medium sized Episode4-style map relying on water for progression in all directions.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-29",
  "sha256": "0b55277b94c81ce7a80da013172160e416145161cf99fb1b7e3796a65ab7de92",
  "tags": [
   "author=Steve Rescoe",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Liquid Despair",
  "urls": [
   "https://www.quaddicted.com/filebase/despair2.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b55277b94c81ce7a80da013172160e416145161cf99fb1b7e3796a65ab7de92/despair2.zip"

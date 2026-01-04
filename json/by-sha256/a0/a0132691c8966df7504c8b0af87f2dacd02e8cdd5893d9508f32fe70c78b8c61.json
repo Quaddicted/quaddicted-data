@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Nicolas 'hexcalk' Maeder"
- ],
  "bytes": 1411018,
  "description": "Small tp-industrial-textured base map. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-02-25",
  "sha256": "a0132691c8966df7504c8b0af87f2dacd02e8cdd5893d9508f32fe70c78b8c61",
  "tags": [
   "author=Nicolas 'hexcalk' Maeder",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "SurveylLance ZtateMent",
  "urls": [
   "https://www.quaddicted.com/filebase/hc3.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a0132691c8966df7504c8b0af87f2dacd02e8cdd5893d9508f32fe70c78b8c61/hc3.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "R.P.G."
- ],
  "bytes": 974534,
  "description": "Medium-sized detailed Metal map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-29",
  "sha256": "bb2ad511fb26d165113935ce24cad8e6f212d499960ad0baeaecf9aa0d0e4e2d",
  "tags": [
   "author=R.P.G.",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Penile Devastation",
  "urls": [
   "https://www.quaddicted.com/filebase/rpgsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bb2ad511fb26d165113935ce24cad8e6f212d499960ad0baeaecf9aa0d0e4e2d/rpgsp1.zip"

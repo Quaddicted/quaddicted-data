@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "CZG",
-  "Cybear",
-  "Misyu"
- ],
  "bytes": 849937,
  "description": "Unthemed / 4 DM maps / Aardappel, Cybear, CZG, Misyu",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-29",
  "sha256": "ca890ecf6a630536dc36a54afd386a4878773caa2fd4c7912efe1c1ecce18a3e",
  "tags": [
   "author=Aardappel",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 11 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm11_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ca/ca890ecf6a630536dc36a54afd386a4878773caa2fd4c7912efe1c1ecce18a3e/sm11_pack.zip"

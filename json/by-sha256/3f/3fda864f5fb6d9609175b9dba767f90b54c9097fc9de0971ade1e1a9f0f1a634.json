@@ -1,15 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "Hrimfaxi",
-  "Leviathan",
-  "Moz",
-  "Pulsar",
-  "RPG",
-  "Scampie",
-  "Xenon",
-  "distrans"
- ],
  "bytes": 1973247,
  "description": "Episode 3 / Runic (The 4 Seasons of Quake #3) / 9 SP maps / CZG, distrans, Hrimfaxi, Leviathan, Moz, Pulsar, RPG, Scampie, Xenon",
  "files": {
@@ -73,7 +62,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-11-16",
  "sha256": "3fda864f5fb6d9609175b9dba767f90b54c9097fc9de0971ade1e1a9f0f1a634",
  "tags": [
   "author=CZG",
@@ -103,7 +91,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 57 - Episode 3 / Runic (The 4 Seasons of Quake #3)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm57_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3f/3fda864f5fb6d9609175b9dba767f90b54c9097fc9de0971ade1e1a9f0f1a634/sm57_pack.zip"

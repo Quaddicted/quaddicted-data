@@ -1,11 +1,5 @@
 {
- "authors": [
-  "DrMelon"
- ],
  "bytes": 1275514,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Smallish brick-themed map with some lava sections and multiple endings.",
  "files": {
   "copper/": {
@@ -52,7 +46,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-10-08",
  "sha256": "569bbe3f6030eace88701c016434f8aa268967df1c60c52fe1608227f48f044f",
  "tags": [
   "author=DrMelon",
@@ -70,7 +63,6 @@
   "title=Thrallbreak",
   "type=map"
  ],
- "title": "Thrallbreak",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/56/569bbe3f6030eace88701c016434f8aa268967df1c60c52fe1608227f48f044f/drmelon-thrallbreak.zip",
   "https://x901.net/quaddictedfiles/drmelon-thrallbreak.zip"

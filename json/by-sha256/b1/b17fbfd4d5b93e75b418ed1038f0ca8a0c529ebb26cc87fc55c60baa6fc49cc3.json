@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Chuma",
-  "Daviddg",
-  "Kayne",
-  "RecycledOJ",
-  "mrtaufner"
- ],
  "bytes": 95903111,
  "description": "Mini-jam consisting of four maps + start map, themed around the Malice total conversion (mainly urban environments) with some of its custom entities. All assets and code are included, Malice is not needed to play.",
  "files": {
@@ -2254,7 +2247,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-05-17",
  "sha256": "b17fbfd4d5b93e75b418ed1038f0ca8a0c529ebb26cc87fc55c60baa6fc49cc3",
  "tags": [
   "author=Chuma",
@@ -2275,7 +2267,6 @@
   "type=mod",
   "zipbasedir=mjam/"
  ],
- "title": "Malice Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/b1/b17fbfd4d5b93e75b418ed1038f0ca8a0c529ebb26cc87fc55c60baa6fc49cc3/mjam.zip",
   "https://x901.net/quaddictedfiles/mjam.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 4488031,
  "description": "Large metal/runic fortress. Comes with a custom skybox. The map source is included.",
  "files": {
@@ -75,7 +72,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-04-23",
  "sha256": "3700271afb268b259ed30244263be3c203b09bf50dcff24673b10ea80bb96a06",
  "tags": [
   "author=JPal",
@@ -93,7 +89,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "The Darkstone Halls",
  "urls": [
   "https://www.quaddicted.com/filebase/jp1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/37/3700271afb268b259ed30244263be3c203b09bf50dcff24673b10ea80bb96a06/jp1m1.zip"

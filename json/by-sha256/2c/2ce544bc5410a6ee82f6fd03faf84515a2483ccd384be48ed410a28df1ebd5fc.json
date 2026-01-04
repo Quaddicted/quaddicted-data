@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 515121,
  "description": "A small abstract mixed texture map which partly homages Doom II's map 1 (\"Entryway\").",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-07-14",
  "sha256": "2ce544bc5410a6ee82f6fd03faf84515a2483ccd384be48ed410a28df1ebd5fc",
  "tags": [
   "author=digs",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Mutant",
  "urls": [
   "https://www.quaddicted.com/filebase/mutant.zip",
   "https://www.quaddicted.com/files/by-sha256/2c/2ce544bc5410a6ee82f6fd03faf84515a2483ccd384be48ed410a28df1ebd5fc/mutant.zip"

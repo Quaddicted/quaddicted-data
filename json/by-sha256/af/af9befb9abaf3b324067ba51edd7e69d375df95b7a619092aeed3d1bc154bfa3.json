@@ -1,7 +1,4 @@
 {
- "authors": [
-  "marty"
- ],
  "bytes": 863956,
  "description": "Small to medium sized Base level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-22",
  "sha256": "af9befb9abaf3b324067ba51edd7e69d375df95b7a619092aeed3d1bc154bfa3",
  "tags": [
   "author=marty",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "End of time",
  "urls": [
   "https://www.quaddicted.com/filebase/endtime.zip",
   "https://www.quaddicted.com/files/by-sha256/af/af9befb9abaf3b324067ba51edd7e69d375df95b7a619092aeed3d1bc154bfa3/endtime.zip"

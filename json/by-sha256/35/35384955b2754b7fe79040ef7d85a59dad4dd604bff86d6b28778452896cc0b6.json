@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Creed"
- ],
  "bytes": 436992,
  "description": "Medium sized, plain Metal map with some water areas/sewer dungeon.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-20",
  "sha256": "35384955b2754b7fe79040ef7d85a59dad4dd604bff86d6b28778452896cc0b6",
  "tags": [
   "author=Creed",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Discordia II",
  "urls": [
   "https://www.quaddicted.com/filebase/discord2.zip",
   "https://www.quaddicted.com/files/by-sha256/35/35384955b2754b7fe79040ef7d85a59dad4dd604bff86d6b28778452896cc0b6/discord2.zip"

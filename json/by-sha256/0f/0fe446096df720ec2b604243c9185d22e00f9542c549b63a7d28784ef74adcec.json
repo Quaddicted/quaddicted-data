@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jim Lowell"
- ],
  "bytes": 382792,
  "description": "Small medieval building with a lava area.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-08-05",
  "sha256": "0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec",
  "tags": [
   "author=Jim Lowell",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "House of Desolution",
  "urls": [
   "https://www.quaddicted.com/filebase/deso.zip",
   "https://www.quaddicted.com/files/by-sha256/0f/0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec/deso.zip"

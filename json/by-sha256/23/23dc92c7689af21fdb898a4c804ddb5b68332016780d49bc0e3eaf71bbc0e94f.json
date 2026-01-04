@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Quake Map Designer"
- ],
  "bytes": 610094,
  "description": "A hospital-based deathmatch map with some zombies thrown in. Comes with two player skins for deathmatch (janitor and chef). Lots of fullbright pixels.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-12-19",
  "sha256": "23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f",
  "tags": [
   "author=Quake Map Designer",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hospital Center Quake Map Designer",
  "urls": [
   "https://www.quaddicted.com/filebase/chqmd.zip",
   "https://www.quaddicted.com/files/by-sha256/23/23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f/chqmd.zip"

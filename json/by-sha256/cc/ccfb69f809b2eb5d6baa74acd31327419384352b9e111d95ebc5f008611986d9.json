@@ -1,8 +1,4 @@
 {
- "authors": [
-  "bambuz",
-  "negke"
- ],
  "bytes": 527902,
  "description": "Building on a strange animal / 2 SP maps / bambuz, neg!ke",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-10-17",
  "sha256": "ccfb69f809b2eb5d6baa74acd31327419384352b9e111d95ebc5f008611986d9",
  "tags": [
   "author=bambuz",
@@ -41,7 +36,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 128 - Building on a strange animal",
  "urls": [
   "https://www.quaddicted.com/filebase/sm128_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/cc/ccfb69f809b2eb5d6baa74acd31327419384352b9e111d95ebc5f008611986d9/sm128_pack.zip"

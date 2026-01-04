@@ -1,22 +1,4 @@
 {
- "authors": [
-  "Arnau",
-  "Brendy Caldwell",
-  "Chris Holden",
-  "Comrade Beep",
-  "Greenwood",
-  "Magnetbox",
-  "Markie",
-  "Mazu",
-  "Pqp",
-  "Quasiotter",
-  "Riktoi",
-  "Scythe",
-  "dumptruck_ds",
-  "gnemeth",
-  "iLike80sRock",
-  "iYago"
- ],
  "bytes": 41676633,
  "description": "An assorted pack of 15 levels made in 48 hours for a community speedmapping jam, all centered around the Quad Damage powerup. Built with the <a href=\"https://github.com/quake-mapping-community/smp\">Speedmapping Progs dev kit</a>, already included. Custom start map has built-in difficulty selection. ZIP includes map source.",
  "files": {
@@ -428,7 +410,6 @@
  "notes": [
   "Probably requires a modern source port / engine with increased limits."
  ],
- "release_date": "2022-01-29",
  "sha256": "6246ec5517642766fb7647636a45664499d9771e7ce1066da28ca8d65139fb43",
  "tags": [
   "author=Arnau",
@@ -484,7 +465,6 @@
   "type=mod",
   "type=speedmap"
  ],
- "title": "Speedmapping pack 215 - Quad Run",
  "urls": [
   "https://www.quaddicted.com/filebase/sm215.zip",
   "https://www.quaddicted.com/files/by-sha256/62/6246ec5517642766fb7647636a45664499d9771e7ce1066da28ca8d65139fb43/sm215.zip"

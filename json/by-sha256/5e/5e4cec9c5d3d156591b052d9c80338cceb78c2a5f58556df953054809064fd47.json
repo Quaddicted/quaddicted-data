@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daniel Mikkelsen"
- ],
  "bytes": 588304,
  "description": "Small base map with some metal textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-16",
  "sha256": "5e4cec9c5d3d156591b052d9c80338cceb78c2a5f58556df953054809064fd47",
  "tags": [
   "author=Daniel Mikkelsen",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Base-ic Instinct",
  "urls": [
   "https://www.quaddicted.com/filebase/base-ic.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5e4cec9c5d3d156591b052d9c80338cceb78c2a5f58556df953054809064fd47/base-ic.zip"

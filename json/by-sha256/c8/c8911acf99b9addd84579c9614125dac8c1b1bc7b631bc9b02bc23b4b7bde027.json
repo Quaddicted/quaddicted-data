@@ -1,11 +1,5 @@
 {
- "authors": [
-  "GW_X9"
- ],
  "bytes": 67296760,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "City-themed Arcane Dimenions map set at night, with non-linear gameplay and usage of breakables to progress. Partly inspired by Duke Nukem and Half-Life.",
  "files": {
   "maps/": {
@@ -217,7 +211,6 @@
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-03-06",
  "sha256": "c8911acf99b9addd84579c9614125dac8c1b1bc7b631bc9b02bc23b4b7bde027",
  "tags": [
   "author=GW_X9",
@@ -236,7 +229,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Gibtropolis",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/c8/c8911acf99b9addd84579c9614125dac8c1b1bc7b631bc9b02bc23b4b7bde027/gibtropolis.zip",
   "https://x901.net/quaddictedfiles/gibtropolis.zip"

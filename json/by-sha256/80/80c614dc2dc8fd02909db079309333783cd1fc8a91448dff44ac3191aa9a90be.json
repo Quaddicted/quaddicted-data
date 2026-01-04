@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Sanders"
- ],
  "bytes": 1010141,
  "description": "Small level for the NavySeals Mod.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-24",
  "sha256": "80c614dc2dc8fd02909db079309333783cd1fc8a91448dff44ac3191aa9a90be",
  "tags": [
   "author=Chris Sanders",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "2 Factions",
  "urls": [
   "https://www.quaddicted.com/filebase/2fact2ns.zip",
   "https://www.quaddicted.com/files/by-sha256/80/80c614dc2dc8fd02909db079309333783cd1fc8a91448dff44ac3191aa9a90be/2fact2ns.zip"

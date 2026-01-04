@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Tyrann",
-  "negke"
- ],
  "bytes": 1404315,
  "description": "Medium-sized nightly industrial base where a dark ritual is being performed; the single player version of <a href=\"http://www.disenchant.net/maps.html#deathmatch\">ritual</a>, though slightly expanded. The GPL map source is included.",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-02-26",
  "sha256": "6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c",
  "tags": [
   "author=Tyrann",
@@ -50,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dark Ritual (single player version)",
  "urls": [
   "https://www.quaddicted.com/filebase/ritualsp.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c/ritualsp.zip"

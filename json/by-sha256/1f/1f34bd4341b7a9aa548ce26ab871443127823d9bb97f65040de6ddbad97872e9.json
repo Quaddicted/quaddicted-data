@@ -1,7 +1,4 @@
 {
- "authors": [
-  "John \"metlslime\" Fitzgibbons"
- ],
  "bytes": 1647239,
  "description": "Medium sized Metal level inspired by \"The Wind Tunnels\" (e3m5), already started in 2001 but only finished four years later.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-09-02",
  "sha256": "1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Antediluvian",
  "urls": [
   "https://www.quaddicted.com/filebase/ant.zip",
   "https://www.quaddicted.com/files/by-sha256/1f/1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9/ant.zip"

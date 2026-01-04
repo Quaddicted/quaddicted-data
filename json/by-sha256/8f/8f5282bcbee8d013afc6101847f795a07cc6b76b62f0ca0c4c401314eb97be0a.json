@@ -1,7 +1,4 @@
 {
- "authors": [
-  "SoulRunner"
- ],
  "bytes": 2106970,
  "description": "Pack of two small maps by a new mapper, both in different  variations of the wizard/medieval theme.",
  "files": {
@@ -29,7 +26,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "The BSP files have been renamed with 'soulrunner_' to prevent conflicts with previous releases in the archive."
  ],
- "release_date": "2024-06-22",
  "sha256": "8f5282bcbee8d013afc6101847f795a07cc6b76b62f0ca0c4c401314eb97be0a",
  "tags": [
   "author=SoulRunner",
@@ -44,7 +40,6 @@
   "type=mod",
   "zipbasedir=id1/maps/"
  ],
- "title": "Soul Runner's Quake Maps",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/8f/8f5282bcbee8d013afc6101847f795a07cc6b76b62f0ca0c4c401314eb97be0a/soulrunnerquakemaps.zip",
   "https://x901.net/quaddictedfiles/soulrunnerquakemaps.zip"

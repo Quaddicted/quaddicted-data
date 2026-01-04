@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Ankh"
- ],
  "bytes": 1005597,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Quake's Gloom Keep (e1m5) reworked for Quoth. Nice effects and brutally hard. The GPL map source is included.",
  "files": {
   "e1m5quoth.bsp": {
@@ -28,7 +22,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-04-28",
  "sha256": "15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615",
  "tags": [
   "author=Ankh",
@@ -47,7 +40,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Back To Gloom Keep",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quoth.zip",
   "https://www.quaddicted.com/files/by-sha256/15/15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615/e1m5quoth.zip"

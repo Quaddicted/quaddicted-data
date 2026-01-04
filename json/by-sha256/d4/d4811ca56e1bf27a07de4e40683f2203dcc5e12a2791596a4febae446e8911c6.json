@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Doug Wheeler aka Bullseye8841"
- ],
  "bytes": 14355380,
- "depends": [
-  "ad>=1.70"
- ],
  "description": "Medium-sized realism map using Kingpin textures and set in a prestigeous office building, complete with a cantina, a parking garage, and maintenance areas. Comes with three custom sounds.",
  "files": {
   "ad_dwoffice.bsp": {
@@ -46,7 +40,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits (Quakespasm-Spike fork recommended)."
  ],
- "release_date": "2018-03-19",
  "sha256": "d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6",
  "tags": [
   "author=Doug Wheeler aka Bullseye8841",
@@ -71,7 +64,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "Office Offense",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_dwoffice.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6/ad_dwoffice.zip"

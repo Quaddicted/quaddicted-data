@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Attila Csernyik"
- ],
  "bytes": 906590,
  "description": "Medium to large nukage processing base built into a mountain - all custom textures; strong Half-Life flair. (This is the non-speedrunning version of the map)",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-03-26",
  "sha256": "98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b",
  "tags": [
   "author=Attila Csernyik",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Pit",
  "urls": [
   "https://www.quaddicted.com/filebase/thepit_2.zip",
   "https://www.quaddicted.com/files/by-sha256/98/98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b/thepit_2.zip"

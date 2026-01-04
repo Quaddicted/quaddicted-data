@@ -1,7 +1,4 @@
 {
- "authors": [
-  "zigi"
- ],
  "bytes": 78197811,
  "description": "Large map built on the Alkaline devkit (included) in a unique theme combining Egyptian and tech base. Contains a backing story as well as a start/end map.",
  "files": {
@@ -2900,7 +2897,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-19",
  "sha256": "7cc783ecf6332fd1c8b0d14862f1e7e3d23e81c240bf09a0dceaa4d8d284154a",
  "tags": [
   "author=zigi",
@@ -2917,7 +2913,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Undiscovered Technology of the Pharaohs",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/7c/7cc783ecf6332fd1c8b0d14862f1e7e3d23e81c240bf09a0dceaa4d8d284154a/utotp.zip",
   "https://x901.net/quaddictedfiles/utotp.zip"

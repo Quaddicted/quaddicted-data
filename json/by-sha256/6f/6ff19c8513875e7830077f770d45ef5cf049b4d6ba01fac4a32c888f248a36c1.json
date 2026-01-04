@@ -1,15 +1,4 @@
 {
- "authors": [
-  "Bloodshot",
-  "Giftmacher",
-  "JCR",
-  "MUZBOZ",
-  "PinchySkree",
-  "Pritchard",
-  "ish",
-  "muk0r",
-  "nyo (Nyoei)"
- ],
  "bytes": 67959716,
  "description": "A community map pack featuring nine (under)water-themed levels by various authors. They use different texture styles and some custom monsters/assets.",
  "files": {
@@ -1381,7 +1370,6 @@
  "notes": [
   "These maps require a source port with increased limits."
  ],
- "release_date": "2018-08-17",
  "sha256": "6ff19c8513875e7830077f770d45ef5cf049b4d6ba01fac4a32c888f248a36c1",
  "tags": [
   "author=Bloodshot",
@@ -1432,7 +1420,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Underwater Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/uwjam.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6ff19c8513875e7830077f770d45ef5cf049b4d6ba01fac4a32c888f248a36c1/uwjam.zip"

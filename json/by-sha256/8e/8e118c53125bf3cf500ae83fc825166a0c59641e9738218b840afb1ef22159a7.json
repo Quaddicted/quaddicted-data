@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ZQ"
- ],
  "bytes": 4222517,
  "description": "Large blood temple. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-09-07",
  "sha256": "8e118c53125bf3cf500ae83fc825166a0c59641e9738218b840afb1ef22159a7",
  "tags": [
   "author=ZQ",
@@ -56,7 +52,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Temple of BLOOOOOOD",
  "urls": [
   "https://www.quaddicted.com/filebase/tob.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8e118c53125bf3cf500ae83fc825166a0c59641e9738218b840afb1ef22159a7/tob.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 614475,
  "description": "Short base/metal/medieval mix.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-13",
  "sha256": "8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea",
  "tags": [
   "author=DAV",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Store",
  "urls": [
   "https://www.quaddicted.com/filebase/qkstore.zip",
   "https://www.quaddicted.com/files/by-sha256/81/8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea/qkstore.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ORL"
- ],
  "bytes": 6017195,
  "description": "Large Medieval/terracotta-themed temple ruin in a canyon. High monstercount, hard gameplay. The texture resource wad is included.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2010-08-24",
  "sha256": "bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441",
  "tags": [
   "author=ORL",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Conflagrant Rodent",
  "urls": [
   "https://www.quaddicted.com/filebase/oms2_2.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441/oms2_2.zip"

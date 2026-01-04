@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Glenn French"
- ],
  "bytes": 345796,
  "description": "Very small Wizard map with a water area.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-18",
  "sha256": "44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6",
  "tags": [
   "author=Glenn French",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Shadow Keep",
  "urls": [
   "https://www.quaddicted.com/filebase/shkeep.zip",
   "https://www.quaddicted.com/files/by-sha256/44/44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6/shkeep.zip"

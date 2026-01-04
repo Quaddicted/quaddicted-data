@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fraggler.Heat"
- ],
  "bytes": 596902,
  "description": "Wizmetal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-28",
  "sha256": "f789d31f7d83ca974b238b7e9fa099e7194d0af8ae20badeb4a9ee41d6115dbd",
  "tags": [
   "author=Fraggler.Heat",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Pump Station",
  "urls": [
   "https://www.quaddicted.com/filebase/pumpstat.zip",
   "https://www.quaddicted.com/files/by-sha256/f7/f789d31f7d83ca974b238b7e9fa099e7194d0af8ae20badeb4a9ee41d6115dbd/pumpstat.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sonnenblume"
- ],
  "bytes": 2051129,
  "description": "Base level. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-01-18",
  "sha256": "42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1",
  "tags": [
   "author=Sonnenblume",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Soul Complex",
  "urls": [
   "https://www.quaddicted.com/filebase/soulcomplex.zip",
   "https://www.quaddicted.com/files/by-sha256/42/42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1/soulcomplex.zip"

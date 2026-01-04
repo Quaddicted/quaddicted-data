@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Richard Neff"
- ],
  "bytes": 1115377,
  "description": "Small plain Base map. Comes with a skill selection map.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-29",
  "sha256": "ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee",
  "tags": [
   "author=Richard Neff",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Lost Tech Center",
  "urls": [
   "https://www.quaddicted.com/filebase/losttec.zip",
   "https://www.quaddicted.com/files/by-sha256/ef/ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee/losttec.zip"

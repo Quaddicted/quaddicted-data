@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tronyn"
- ],
  "bytes": 25523569,
  "description": "Two maps originally supposed to be featured as bonus levels in <a href=\"3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7\">Arcanum</a>. The first one is a small mediaval/fantasy cathedral - a remake of Heretic's E1M6, complete with original textures and music. The second one is a medium-sized arcane industrial complex with a similar vibe as Towers of Wrath from Dissolution of Eternity.",
  "files": {
@@ -3254,7 +3251,6 @@
   "extract": "{base}/arcextra/"
  },
  "json_version": "2025.09.27",
- "release_date": "2012-11-06",
  "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
  "tags": [
   "author=Tronyn",
@@ -3280,7 +3276,6 @@
   "type=mod",
   "zipbasedir=arcextra/"
  ],
- "title": "Arcanum Bonus Maps",
  "urls": [
   "https://www.quaddicted.com/filebase/arcextra.zip",
   "https://www.quaddicted.com/files/by-sha256/9d/9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832/arcextra.zip"

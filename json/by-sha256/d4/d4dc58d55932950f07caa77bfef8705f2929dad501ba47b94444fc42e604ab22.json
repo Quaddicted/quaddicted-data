@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Gyro Gearloose"
- ],
  "bytes": 466966,
  "description": "Small Wizard/Metal map with torture chambers and some neat masks.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-19",
  "sha256": "d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22",
  "tags": [
   "author=Gyro Gearloose",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Torture",
  "urls": [
   "https://www.quaddicted.com/filebase/torture.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22/torture.zip"

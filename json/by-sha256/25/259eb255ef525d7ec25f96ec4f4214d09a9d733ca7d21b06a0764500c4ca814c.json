@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Omus"
- ],
  "bytes": 238149,
  "description": "Small map, a deadly maze inside a pyramid.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-10-29",
  "sha256": "259eb255ef525d7ec25f96ec4f4214d09a9d733ca7d21b06a0764500c4ca814c",
  "tags": [
   "author=Omus",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pyramid of Pain",
  "urls": [
   "https://www.quaddicted.com/filebase/pypain.zip",
   "https://www.quaddicted.com/files/by-sha256/25/259eb255ef525d7ec25f96ec4f4214d09a9d733ca7d21b06a0764500c4ca814c/pypain.zip"

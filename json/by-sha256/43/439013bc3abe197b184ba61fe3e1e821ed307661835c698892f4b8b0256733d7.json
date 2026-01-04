@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 580034,
  "description": "Small deathmatch level with a unique style and wave-based arena combat in SP mode. A DM-only version is included as well.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Charmhood",
  "urls": [
   "https://www.quaddicted.com/filebase/alk08.zip",
   "https://www.quaddicted.com/files/by-sha256/43/439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7/alk08.zip"

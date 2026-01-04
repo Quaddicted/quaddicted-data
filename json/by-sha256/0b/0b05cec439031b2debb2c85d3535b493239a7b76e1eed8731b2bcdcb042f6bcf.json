@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Einar Saukas (QC)",
-  "Neil Manke"
- ],
  "bytes": 1089556,
  "description": "Second map of the Alba TC. Set in 14th century Scotland. A dark medium-sized town with several houses, cellars, a chapel and a cemetary.",
  "files": {
@@ -47,7 +43,6 @@
   "extract": "{base}/alba02/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-11",
  "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "tags": [
   "author=Einar Saukas (QC)",
@@ -78,7 +73,6 @@
   "type=mod",
   "zipbasedir=alba02/"
  ],
- "title": "Inverurie",
  "urls": [
   "https://www.quaddicted.com/filebase/alba02.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf/alba02.zip"

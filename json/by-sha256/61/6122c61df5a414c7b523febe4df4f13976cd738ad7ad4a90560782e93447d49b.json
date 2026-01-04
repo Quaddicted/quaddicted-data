@@ -1,7 +1,4 @@
 {
- "authors": [
-  "David Ottvall"
- ],
  "bytes": 132946,
  "description": "A cramped map with a \"chess board\" in the middle.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-11",
  "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
  "tags": [
   "author=David Ottvall",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Chess",
  "urls": [
   "https://www.quaddicted.com/filebase/chess.zip",
   "https://www.quaddicted.com/files/by-sha256/61/6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b/chess.zip"

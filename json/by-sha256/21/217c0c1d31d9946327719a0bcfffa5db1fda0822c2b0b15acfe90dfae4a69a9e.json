@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Justin Fleck"
- ],
  "bytes": 528475,
  "description": "Around medium sized linear b/w Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-03-12",
  "sha256": "217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e",
  "tags": [
   "author=Justin Fleck",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Azure Influx",
  "urls": [
   "https://www.quaddicted.com/filebase/flecksp1.zip",
   "https://www.quaddicted.com/files/by-sha256/21/217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e/flecksp1.zip"

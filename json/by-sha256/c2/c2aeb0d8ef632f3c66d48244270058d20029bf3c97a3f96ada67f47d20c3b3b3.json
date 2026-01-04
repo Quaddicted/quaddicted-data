@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 1386770,
  "description": "Small, story-driven map where you refuel a plane to escape from a facility.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-07-24",
  "sha256": "c2aeb0d8ef632f3c66d48244270058d20029bf3c97a3f96ada67f47d20c3b3b3",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Acid Plane",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/c2/c2aeb0d8ef632f3c66d48244270058d20029bf3c97a3f96ada67f47d20c3b3b3/acidni.zip",
   "https://x901.net/quaddictedfiles/acidni.zip"

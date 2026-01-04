@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Yvon Lariviere"
- ],
  "bytes": 750770,
  "description": "Small boxed Wizard map. Requires cheats to finish.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-19",
  "sha256": "375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d",
  "tags": [
   "author=Yvon Lariviere",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "KeyQuest",
  "urls": [
   "https://www.quaddicted.com/filebase/keyquest.zip",
   "https://www.quaddicted.com/files/by-sha256/37/375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d/keyquest.zip"

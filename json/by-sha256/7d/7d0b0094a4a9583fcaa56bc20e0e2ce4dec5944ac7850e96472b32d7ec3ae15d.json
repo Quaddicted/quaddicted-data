@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jean-Pierre Raumer"
- ],
  "bytes": 406342,
  "description": "Medium-sized plain caverns level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-01",
  "sha256": "7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d",
  "tags": [
   "author=Jean-Pierre Raumer",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Burrow",
  "urls": [
   "https://www.quaddicted.com/filebase/burrow.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d/burrow.zip"

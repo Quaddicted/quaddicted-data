@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Benjamin S. Clower"
- ],
  "bytes": 274302,
  "description": "Small brick map with upward/downward water tubes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-10",
  "sha256": "0cf96610e8afb524b0c7bba7de9225c8604daf1be7f0373f9cad5c2c6ce55ff1",
  "tags": [
   "author=Benjamin S. Clower",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Water Torture",
  "urls": [
   "https://www.quaddicted.com/filebase/watertor.zip",
   "https://www.quaddicted.com/files/by-sha256/0c/0cf96610e8afb524b0c7bba7de9225c8604daf1be7f0373f9cad5c2c6ce55ff1/watertor.zip"

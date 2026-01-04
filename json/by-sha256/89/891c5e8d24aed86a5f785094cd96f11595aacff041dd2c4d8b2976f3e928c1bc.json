@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew M@N"
- ],
  "bytes": 167618,
  "description": "Medium sized maze with Wizard textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-10",
  "sha256": "891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc",
  "tags": [
   "author=Andrew M@N",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Labyrinth of Death",
  "urls": [
   "https://www.quaddicted.com/filebase/labirint.zip",
   "https://www.quaddicted.com/files/by-sha256/89/891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc/labirint.zip"

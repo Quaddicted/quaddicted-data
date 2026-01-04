@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Melzer"
- ],
  "bytes": 306491,
  "description": "Very small Metal map. Hardly more than two rooms.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-02",
  "sha256": "6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa",
  "tags": [
   "author=Mike Melzer",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Pagan Temple",
  "urls": [
   "https://www.quaddicted.com/filebase/pagan3.zip",
   "https://www.quaddicted.com/files/by-sha256/65/6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa/pagan3.zip"

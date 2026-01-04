@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Speedy"
- ],
  "bytes": 650381,
  "description": "Metal map with experimental gameplay; instead of fighting the monsters directly, the player has to take a more stealth-based approach and lure them into traps.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-04-25",
  "sha256": "c70336606355e2384e379ea1754ea0a20738af78e0d895bc7e0c6fd3aed31e18",
  "tags": [
   "author=Speedy",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cogs Of Conflict",
  "urls": [
   "https://www.quaddicted.com/filebase/cogs.zip",
   "https://www.quaddicted.com/files/by-sha256/c7/c70336606355e2384e379ea1754ea0a20738af78e0d895bc7e0c6fd3aed31e18/cogs.zip"

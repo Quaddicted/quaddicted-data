@@ -1,18 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder",
-  "Danzadan",
-  "Ing-ing",
-  "JCR",
-  "Newhouse",
-  "PinchySkree",
-  "Shambler",
-  "ionous",
-  "ish",
-  "muk0r",
-  "prengle",
-  "vaf"
- ],
  "bytes": 19782789,
  "description": "Terracotta / 12 SP maps / Danzadan, Ing-ing, ionous, ish, JCR, muk0r, Newhouse, PinchySkree, prengle, Shambler, vaf, Andrew Yoder<br><br>Includes various custom skyboxes and map sources.",
  "files": {
@@ -399,7 +385,6 @@
  "notes": [
   "Some of the maps may require a source port with increased limits."
  ],
- "release_date": "2018-08-27",
  "sha256": "165d960f3188b502263fdcbbb87ca110b9ae0cafbfd05755b03dee62e9103416",
  "tags": [
   "author=Andrew Yoder",
@@ -436,7 +421,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 186 - Terracotta",
  "urls": [
   "https://www.quaddicted.com/filebase/sm186.zip",
   "https://www.quaddicted.com/files/by-sha256/16/165d960f3188b502263fdcbbb87ca110b9ae0cafbfd05755b03dee62e9103416/sm186.zip"

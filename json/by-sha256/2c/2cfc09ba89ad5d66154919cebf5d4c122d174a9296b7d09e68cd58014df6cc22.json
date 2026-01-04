@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Auhsan"
- ],
  "bytes": 479100,
- "depends": [
-  "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5"
- ],
  "description": "Small base map.",
  "files": {
   "AUHE1M15.BSP": {
@@ -21,7 +15,6 @@
  "notes": [
   "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
  ],
- "release_date": "1998-05-01",
  "sha256": "2cfc09ba89ad5d66154919cebf5d4c122d174a9296b7d09e68cd58014df6cc22",
  "tags": [
   "author=Auhsan",
@@ -38,7 +31,6 @@
   "type=map",
   "zipbasedir=bad/maps/"
  ],
- "title": "Firestarter",
  "urls": [
   "https://www.quaddicted.com/filebase/auhe1m15.zip",
   "https://www.quaddicted.com/files/by-sha256/2c/2cfc09ba89ad5d66154919cebf5d4c122d174a9296b7d09e68cd58014df6cc22/auhe1m15.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Timothy R. Jervis (Kew)"
- ],
  "bytes": 1436557,
  "description": "Two small to medium sized snowy castles with non-linear gameplay, extracted from the Rise of the Phoenix TC. Both feel like DM maps in terms of layout.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-28",
  "sha256": "cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c",
  "tags": [
   "author=Timothy R. Jervis (Kew)",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Illhaven Winter & The Bastion of Skull",
  "urls": [
   "https://www.quaddicted.com/filebase/kewsampl.zip",
   "https://www.quaddicted.com/files/by-sha256/cb/cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c/kewsampl.zip"

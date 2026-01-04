@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vondur"
- ],
  "bytes": 1724503,
  "description": "Medium vanilla map in a grey brick medieval city theme.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-12-04",
  "sha256": "8db128edc4cd3cce0d7d5b1f7c5532ec502d6f06f24037a6d06afa590e732452",
  "tags": [
   "author=Vondur",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps"
  ],
- "title": "Spires, The Wailing City",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/8d/8db128edc4cd3cce0d7d5b1f7c5532ec502d6f06f24037a6d06afa590e732452/spires.zip",
   "https://www.quaketastic.com/files/single_player/maps/spires.zip"

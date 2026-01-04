@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rick Lipsey"
- ],
  "bytes": 789719,
  "description": "A large Base map with some water areas.",
  "files": {
@@ -23,11 +20,6 @@
  "notes": [
   "An upgraded version was released as <a href=\"2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a\">polybase</a>."
  ],
- "provides": {
-  "polybase": "1.0"
- },
- "release_date": "1997-08-28",
- "release_group": "polybase",
  "sha256": "61e91271b63015bc351ed40e4407daf76be94faa91ca8f3ae1648cfd306bdbeb",
  "tags": [
   "author=Rick Lipsey",
@@ -48,7 +40,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Polygon Base",
  "urls": [
   "https://www.quaddicted.com/filebase/polygon2.zip",
   "https://www.quaddicted.com/files/by-sha256/61/61e91271b63015bc351ed40e4407daf76be94faa91ca8f3ae1648cfd306bdbeb/polygon2.zip"

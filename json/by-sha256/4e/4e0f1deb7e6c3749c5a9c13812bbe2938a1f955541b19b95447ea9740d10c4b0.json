@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steven Norrie"
- ],
  "bytes": 110367,
  "description": "Very small and abstract map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-02",
  "sha256": "4e0f1deb7e6c3749c5a9c13812bbe2938a1f955541b19b95447ea9740d10c4b0",
  "tags": [
   "author=Steven Norrie",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Nozza's Palace",
  "urls": [
   "https://www.quaddicted.com/filebase/nozza.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4e0f1deb7e6c3749c5a9c13812bbe2938a1f955541b19b95447ea9740d10c4b0/nozza.zip"

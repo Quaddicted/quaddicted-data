@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Seth Williams"
- ],
  "bytes": 90283,
  "description": "Very small medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-07-24",
  "sha256": "37b4e205cef37739f1ac76707c2659edcccdef8c8d7a5c5543a1edfb7d042187",
  "tags": [
   "author=Seth Williams",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Close Quarters",
  "urls": [
   "https://www.quaddicted.com/filebase/close.zip",
   "https://www.quaddicted.com/files/by-sha256/37/37b4e205cef37739f1ac76707c2659edcccdef8c8d7a5c5543a1edfb7d042187/close.zip"

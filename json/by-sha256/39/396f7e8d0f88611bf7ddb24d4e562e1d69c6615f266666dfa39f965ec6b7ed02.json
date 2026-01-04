@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Gibbie",
-  "Nightbringer",
-  "RPG",
-  "Than"
- ],
  "bytes": 953930,
  "description": "Medium sized chain map by Than, Gibbie, RPG, Nightbringer.",
  "files": {
@@ -23,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-15",
  "sha256": "396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02",
  "tags": [
   "author=Gibbie",
@@ -46,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Shut Up, RPG!",
  "urls": [
   "https://www.quaddicted.com/filebase/sm32_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/39/396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02/sm32_pack.zip"

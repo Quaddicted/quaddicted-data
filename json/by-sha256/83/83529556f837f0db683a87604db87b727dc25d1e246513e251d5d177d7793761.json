@@ -1,21 +1,5 @@
 {
- "authors": [
-  "Burnham",
-  "Chris Holden",
-  "Doom Pope",
-  "Entsoy",
-  "Gnemeth",
-  "Greenwood",
-  "Markie Music",
-  "Naitelveni",
-  "Radiator Yang",
-  "Shadesmaster",
-  "quasiotter"
- ],
  "bytes": 40871664,
- "depends": [
-  "copper>=1.15"
- ],
  "description": "SM210: 11 SP maps with an \"overgrown\" theme. Comes with a few custom skyboxes. The map sources are included.",
  "files": {
   "SM210_Overgrown/": {
@@ -402,7 +386,6 @@
  "notes": [
   "These maps require <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper</a> and some of them a source port with increased limits and/or BSP2 support."
  ],
- "release_date": "2020-09-02",
  "sha256": "83529556f837f0db683a87604db87b727dc25d1e246513e251d5d177d7793761",
  "tags": [
   "author=Burnham",
@@ -448,7 +431,6 @@
   "type=speedmap",
   "zipbasedir=copper/"
  ],
- "title": "Speedmapping pack 210 - Overgrown",
  "urls": [
   "https://www.quaddicted.com/filebase/sm210_overgrown.zip",
   "https://www.quaddicted.com/files/by-sha256/83/83529556f837f0db683a87604db87b727dc25d1e246513e251d5d177d7793761/sm210_overgrown.zip"

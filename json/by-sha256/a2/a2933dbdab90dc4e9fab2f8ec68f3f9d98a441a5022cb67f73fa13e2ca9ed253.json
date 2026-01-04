@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Roger Staines"
- ],
  "bytes": 992676,
  "description": "Medium to large Wizard castle.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-16",
  "sha256": "a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253",
  "tags": [
   "author=Roger Staines",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Elsinore",
  "urls": [
   "https://www.quaddicted.com/filebase/elsinore.zip",
   "https://www.quaddicted.com/files/by-sha256/a2/a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253/elsinore.zip"

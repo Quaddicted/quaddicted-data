@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shamus Young"
- ],
  "bytes": 570863,
  "description": "A house.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-14",
  "sha256": "b85b204098bbf7b6b2420d7d7aec77c3cdbc276b9372b0144a3a99a45e6ab917",
  "tags": [
   "author=Shamus Young",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "MadHouse",
  "urls": [
   "https://www.quaddicted.com/filebase/madhouse.zip",
   "https://www.quaddicted.com/files/by-sha256/b8/b85b204098bbf7b6b2420d7d7aec77c3cdbc276b9372b0144a3a99a45e6ab917/madhouse.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Lane Powell"
- ],
  "bytes": 1491790,
- "depends": [
-  "ad>=1.50"
- ],
  "description": "Small metal/base Coagula-type void level with a high enemy density.",
  "files": {
   "lpqsp2.bsp": {
@@ -31,7 +25,6 @@
  "notes": [
   "This map requires <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions 1.50</a> and an engine port with increased limits."
  ],
- "release_date": "2017-08-13",
  "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
  "tags": [
   "author=Lane Powell",
@@ -59,7 +52,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "Threat Assessment",
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/48/487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3/lpqsp2.zip"

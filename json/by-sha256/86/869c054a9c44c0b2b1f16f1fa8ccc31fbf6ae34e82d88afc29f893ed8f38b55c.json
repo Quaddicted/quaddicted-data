@@ -1,7 +1,4 @@
 {
- "authors": [
-  "reslario"
- ],
  "bytes": 13041041,
  "description": "Large abstract level with several huge locations surrounding a floating castle. The map source is included.",
  "files": {
@@ -41,7 +38,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits."
  ],
- "release_date": "2018-07-29",
  "sha256": "869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c",
  "tags": [
   "author=reslario",
@@ -69,7 +65,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "Disjointed Realms",
  "urls": [
   "https://www.quaddicted.com/filebase/disjointedrealms.zip",
   "https://www.quaddicted.com/files/by-sha256/86/869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c/disjointedrealms.zip"

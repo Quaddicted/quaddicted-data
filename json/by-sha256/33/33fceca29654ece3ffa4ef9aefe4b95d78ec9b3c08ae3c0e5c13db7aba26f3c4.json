@@ -1,14 +1,4 @@
 {
- "authors": [
-  "DragonsForLunch",
-  "Giftmacher",
-  "Greenwood",
-  "Naitelveni",
-  "Qmaster",
-  "dumptruck_ds",
-  "iLike80sRock",
-  "zigi"
- ],
  "bytes": 27990059,
  "description": "Eight deathmatch levels remixed for single player, most of them based on the stock DM maps. They run on the SMP mod (included) and come with two skyboxes plus a music track. The map sources are included.",
  "files": {
@@ -260,7 +250,6 @@
  "notes": [
   "Some of these maps require a source port with increased limits and/or BSP2 support."
  ],
- "release_date": "2021-04-12",
  "sha256": "33fceca29654ece3ffa4ef9aefe4b95d78ec9b3c08ae3c0e5c13db7aba26f3c4",
  "tags": [
   "author=DragonsForLunch",
@@ -291,7 +280,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Speedmapping pack 212 - Deathmatch Remix",
  "urls": [
   "https://www.quaddicted.com/filebase/sm212_dm_remix.zip",
   "https://www.quaddicted.com/files/by-sha256/33/33fceca29654ece3ffa4ef9aefe4b95d78ec9b3c08ae3c0e5c13db7aba26f3c4/sm212_dm_remix.zip"

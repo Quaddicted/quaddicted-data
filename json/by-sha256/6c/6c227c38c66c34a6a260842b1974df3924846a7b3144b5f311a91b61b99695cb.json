@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Cocerello",
-  "Doomer",
-  "Shamblernaut",
-  "digs"
- ],
  "bytes": 4451426,
  "description": "Escher / 4 SP maps / Cocerello (Quoth), Doomer, digs, Shamblernaut<br><br>Speedmaps inspired by M.C. Escher. \"Break your brain\" (sm177_digs) by digs is a high quality map that could easily hold its own as a full release. The others are standard speedmaps. The source for Cocerello's map is included.",
  "files": {
@@ -106,7 +100,6 @@
  "notes": [
   "Cocerello's map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>."
  ],
- "release_date": "2016-04-12",
  "sha256": "6c227c38c66c34a6a260842b1974df3924846a7b3144b5f311a91b61b99695cb",
  "tags": [
   "author=Cocerello",
@@ -130,7 +123,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 177 - Escher",
  "urls": [
   "https://www.quaddicted.com/filebase/sm177_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6c227c38c66c34a6a260842b1974df3924846a7b3144b5f311a91b61b99695cb/sm177_pack.zip"

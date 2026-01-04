@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 2730463,
  "description": "Large snowy medieval village, using Daikatana and Hexen2 textures and featuring snow-themed monster skins.",
  "files": {
@@ -309,7 +306,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-27",
  "sha256": "a0521809e3fd8e93c3a131a88f7d361958864a83e741f4483834da3fa2e73f75",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -337,7 +333,6 @@
   "title=Brumal Quest",
   "type=mod"
  ],
- "title": "Brumal Quest",
  "urls": [
   "https://www.quaddicted.com/filebase/alk15.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a0521809e3fd8e93c3a131a88f7d361958864a83e741f4483834da3fa2e73f75/alk15.zip"

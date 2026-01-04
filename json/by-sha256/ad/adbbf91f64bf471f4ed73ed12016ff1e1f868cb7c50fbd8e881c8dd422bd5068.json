@@ -1,7 +1,4 @@
 {
- "authors": [
-  "super"
- ],
  "bytes": 421868,
  "description": "Very small level using sock's Egyptian textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-01-14",
  "sha256": "adbbf91f64bf471f4ed73ed12016ff1e1f868cb7c50fbd8e881c8dd422bd5068",
  "tags": [
   "author=super",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Reign of Ra",
  "urls": [
   "https://www.quaddicted.com/filebase/rofra.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/adbbf91f64bf471f4ed73ed12016ff1e1f868cb7c50fbd8e881c8dd422bd5068/rofra.zip"

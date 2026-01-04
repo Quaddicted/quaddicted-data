@@ -1,11 +1,5 @@
 {
- "authors": [
-  "JPL"
- ],
  "bytes": 16348852,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "A huge military base in Half-Life/Doom style. The mission is to disable  a reactor within. Comes with a few ambient sounds and a custom skybox.",
  "files": {
   "gfx/env/dragonheart_bk.tga": {
@@ -142,11 +136,6 @@
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and a source port with increased limits.",
   "A fully-vised version of the map is available <a href=\"d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726\">here</a> although requires this version to be installed first (custom sounds and skybox are not included in the fullvised version)"
  ],
- "provides": {
-  "fort_driant": "1.0"
- },
- "release_date": "2009-03-06",
- "release_group": "fort_driant",
  "sha256": "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2",
  "tags": [
   "author=JPL",
@@ -177,7 +166,6 @@
   "version=1.0",
   "zipbasedir=quoth/"
  ],
- "title": "Fort Driant",
  "urls": [
   "https://www.quaddicted.com/filebase/fort_driant.zip",
   "https://www.quaddicted.com/files/by-sha256/e9/e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2/fort_driant.zip"

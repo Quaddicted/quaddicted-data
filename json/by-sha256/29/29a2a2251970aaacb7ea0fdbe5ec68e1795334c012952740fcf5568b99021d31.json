@@ -1,7 +1,4 @@
 {
- "authors": [
-  "David Minor"
- ],
  "bytes": 949257,
  "description": "Medium sized blue Wizard level with a bit of button searching.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-07",
  "sha256": "29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31",
  "tags": [
   "author=David Minor",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Crypt",
  "urls": [
   "https://www.quaddicted.com/filebase/dm_crypt.zip",
   "https://www.quaddicted.com/files/by-sha256/29/29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31/dm_crypt.zip"

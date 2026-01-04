@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Swen Klemund"
- ],
  "bytes": 780780,
  "description": "Two small levels: A simple house with a garden and a Metal bit in the basement, leading to  a small Metal/Wizard map.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-20",
  "sha256": "859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51",
  "tags": [
   "author=Swen Klemund",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "My Home & Prison",
  "urls": [
   "https://www.quaddicted.com/filebase/prison.zip",
   "https://www.quaddicted.com/files/by-sha256/85/859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51/prison.zip"

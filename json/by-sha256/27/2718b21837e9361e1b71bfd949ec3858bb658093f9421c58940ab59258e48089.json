@@ -1,7 +1,4 @@
 {
- "authors": [
-  "wind_f"
- ],
  "bytes": 5517777,
  "description": "Medium-sized elder world map with medieval and wizard elements, classic vanilla id1 style. The author's first release. Map source file is included.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-10-05",
  "sha256": "2718b21837e9361e1b71bfd949ec3858bb658093f9421c58940ab59258e48089",
  "tags": [
   "author=wind_f",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Temple of Nightmares",
  "urls": [
   "https://www.quaddicted.com/filebase/windfsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/27/2718b21837e9361e1b71bfd949ec3858bb658093f9421c58940ab59258e48089/windfsp1.zip"

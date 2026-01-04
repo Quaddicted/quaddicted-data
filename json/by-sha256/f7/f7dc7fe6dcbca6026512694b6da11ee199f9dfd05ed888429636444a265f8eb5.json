@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 288288,
  "description": "1 SP map / digs<br><br>A four hour speedmap made in response to <a href=\"http://www.celephais.net/board/view_thread.php?id=61309&amp;start=12&amp;end=20\">a discussion</a> on the nature of speedmapping in the <a href=\"6c227c38c66c34a6a260842b1974df3924846a7b3144b5f311a91b61b99695cb\">sm177_pack</a> release thread.<br>",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-04-15",
  "sha256": "f7dc7fe6dcbca6026512694b6da11ee199f9dfd05ed888429636444a265f8eb5",
  "tags": [
   "author=digs",
@@ -30,7 +26,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "digs_4hour",
  "urls": [
   "https://www.quaddicted.com/filebase/digs_4hour.zip",
   "https://www.quaddicted.com/files/by-sha256/f7/f7dc7fe6dcbca6026512694b6da11ee199f9dfd05ed888429636444a265f8eb5/digs_4hour.zip"

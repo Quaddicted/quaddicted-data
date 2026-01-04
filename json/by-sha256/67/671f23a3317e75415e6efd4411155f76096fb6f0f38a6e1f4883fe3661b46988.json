@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DD"
- ],
  "bytes": 916469,
  "description": "Smallish mine level with a outdoor area with houses and a temple entrance. Requires Scourge of Armagon.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-07",
  "sha256": "671f23a3317e75415e6efd4411155f76096fb6f0f38a6e1f4883fe3661b46988",
  "tags": [
   "author=DD",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Qmine",
  "urls": [
   "https://www.quaddicted.com/filebase/qmine.zip",
   "https://www.quaddicted.com/files/by-sha256/67/671f23a3317e75415e6efd4411155f76096fb6f0f38a6e1f4883fe3661b46988/qmine.zip"

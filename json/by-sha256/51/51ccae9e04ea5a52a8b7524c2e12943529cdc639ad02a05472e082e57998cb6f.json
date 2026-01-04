@@ -1,8 +1,4 @@
 {
- "authors": [
-  "'Simulacrum'",
-  "Chris Houston"
- ],
  "bytes": 1499819,
  "description": "A big, interconnected, green-wizardish map with well thought-out secrets.",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-03-04",
  "sha256": "51ccae9e04ea5a52a8b7524c2e12943529cdc639ad02a05472e082e57998cb6f",
  "tags": [
   "author='Simulacrum'",
@@ -39,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Katagean Redoubt",
  "urls": [
   "https://www.quaddicted.com/filebase/cjhsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/51/51ccae9e04ea5a52a8b7524c2e12943529cdc639ad02a05472e082e57998cb6f/cjhsp1.zip"

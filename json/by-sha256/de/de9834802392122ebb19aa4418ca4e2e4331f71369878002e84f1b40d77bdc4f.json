@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Apollo",
-  "Basil",
-  "Cybear",
-  "Elek"
- ],
  "bytes": 474592,
  "description": "Speed running map / 5 __ maps / Aardappel, Apollo, Basil, Cybear, Elek",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-06-24",
  "sha256": "de9834802392122ebb19aa4418ca4e2e4331f71369878002e84f1b40d77bdc4f",
  "tags": [
   "author=Aardappel",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 22 - Speedrunning map",
  "urls": [
   "https://www.quaddicted.com/filebase/sm22_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/de/de9834802392122ebb19aa4418ca4e2e4331f71369878002e84f1b40d77bdc4f/sm22_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zied Rieke"
- ],
  "bytes": 961208,
  "current_main_group_package": true,
  "description": "Small base map, final version of <a href=\"cee0057a0a1a183080be6ad7b023d7016de607794db916674a8eddf4d6040766\">dxm2</a> with some fixes.",
@@ -26,11 +23,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "dxm": "2.0"
- },
- "release_date": "1997-09-21",
- "release_group": "dxm",
  "sha256": "ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6",
  "tags": [
   "author=Zied Rieke",
@@ -51,7 +43,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dextromethrophan",
  "urls": [
   "https://www.quaddicted.com/filebase/dxmf.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6/dxmf.zip"

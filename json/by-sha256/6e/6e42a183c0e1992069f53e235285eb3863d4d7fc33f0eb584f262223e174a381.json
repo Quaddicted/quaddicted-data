@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 7081283,
  "description": "Episode with nine small to medium-sized levels of various themes including a start map, a secret map, and a deathmatch arena. Also comes with three demos.",
  "files": {
@@ -88,7 +85,6 @@
   "extract": "{base}/dopa/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-06-24",
  "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "tags": [
   "author=J.F.Gustafsson",
@@ -125,7 +121,6 @@
   "type=mod",
   "zipbasedir=dopa/"
  ],
- "title": "Episode 5: Dimension of the Past",
  "urls": [
   "https://www.quaddicted.com/filebase/dopa.zip",
   "https://www.quaddicted.com/files/by-sha256/6e/6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381/dopa.zip"

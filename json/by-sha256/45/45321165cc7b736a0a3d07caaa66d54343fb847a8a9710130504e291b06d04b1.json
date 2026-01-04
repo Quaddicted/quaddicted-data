@@ -1,28 +1,4 @@
 {
- "authors": [
-  "Alekswithak",
-  "Bal",
-  "Datram57",
-  "Dragons for Lunch",
-  "Eber150",
-  "Fairweather",
-  "Greenwood",
-  "HrnekBezucha",
-  "Ionous",
-  "Mazu",
-  "Mittens for Kittens",
-  "Pinchy",
-  "Sze",
-  "Trashbang",
-  "Xeo",
-  "h4724",
-  "iYago",
-  "ptoing",
-  "radiatoryang",
-  "riktoi",
-  "stickflip",
-  "zigi"
- ],
  "bytes": 205226999,
  "description": "Big map jam pack with 22 levels ranging from small to large, with veteran and beginner designers. Maps were made in 2 1/2 weeks, with hot sunny theming encouraged but not required. Includes custom start map with built-in difficulty selection. Uses Copper v1.19 (already included) and co-op supported. QuakeC source is also included, as well as some MAP source.",
  "files": {
@@ -1945,11 +1921,6 @@
   "UPDATE, 11 August 2022: This version has major bugs. The authors strongly recommend playing the <a href=\"848b3d9f71de828890839ced4c5c2799ec25a07e111b61c5787b9a401740b95c\">v1.2 patched version</a> instead.",
   "Requires a modern engine / source port with increased limits."
  ],
- "provides": {
-  "ctsj2": "1.0"
- },
- "release_date": "2022-08-09",
- "release_group": "ctsj2",
  "sha256": "45321165cc7b736a0a3d07caaa66d54343fb847a8a9710130504e291b06d04b1",
  "tags": [
   "author=Alekswithak",
@@ -2011,7 +1982,6 @@
   "version=1.0",
   "zipbasedir=ctsj2/"
  ],
- "title": "Coppertone Summer Jam 2 v1.0",
  "urls": [
   "https://www.quaddicted.com/filebase/ctsj2.zip",
   "https://www.quaddicted.com/files/by-sha256/45/45321165cc7b736a0a3d07caaa66d54343fb847a8a9710130504e291b06d04b1/ctsj2.zip"

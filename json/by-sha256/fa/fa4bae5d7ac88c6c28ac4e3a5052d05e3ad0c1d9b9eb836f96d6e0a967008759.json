@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Serge Jaeken"
- ],
  "bytes": 5185991,
  "description": "Medium-sized Knave-style flying cathedral with a courtyard and a crypt area. It comes with a start map and a custom skybox.",
  "files": {
@@ -93,7 +90,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2017-07-08",
  "sha256": "fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759",
  "tags": [
   "author=Serge Jaeken",
@@ -119,7 +115,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Contract",
  "urls": [
   "https://www.quaddicted.com/filebase/contract_2.zip",
   "https://www.quaddicted.com/files/by-sha256/fa/fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759/contract_2.zip"

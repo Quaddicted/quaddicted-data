@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kevin Haley"
- ],
  "bytes": 320117,
  "description": "Small to medium blueish medieval map with a few nasty traps.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-28",
  "sha256": "1ce2699ea76856946e4e3c3b2993e8f25f9a70b2a8749e6571822d08d0f08c14",
  "tags": [
   "author=Kevin Haley",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Abode of Agony",
  "urls": [
   "https://www.quaddicted.com/filebase/agony.zip",
   "https://www.quaddicted.com/files/by-sha256/1c/1ce2699ea76856946e4e3c3b2993e8f25f9a70b2a8749e6571822d08d0f08c14/agony.zip"

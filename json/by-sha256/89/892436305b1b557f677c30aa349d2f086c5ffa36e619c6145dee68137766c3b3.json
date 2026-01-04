@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Perselicas (Fern (aka Fr3n))"
- ],
  "bytes": 397467,
  "description": "Small and tight medieval tech map with a polished look.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-10-29",
  "sha256": "892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3",
  "tags": [
   "author=Perselicas (Fern (aka Fr3n))",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Perssp1",
  "urls": [
   "https://www.quaddicted.com/filebase/perssp1.zip",
   "https://www.quaddicted.com/files/by-sha256/89/892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3/perssp1.zip"

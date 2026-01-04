@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mfx"
- ],
  "bytes": 6643301,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Large mountain base. It comes with a custom skybox and a couple of additional props. The map source is included. This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits.",
  "files": {
   "gfx/": {
@@ -126,7 +120,6 @@
  "notes": [
   "This is the third version; the previous versions can be found <a href=\"https://www.quaddicted.com/filebase/trash/\">here</a>."
  ],
- "release_date": "2013-10-22",
  "sha256": "c9ae2284e804c35fa576050022f9f71e96cc9af8ff1d4ed7849c4a167dfae645",
  "tags": [
   "author=mfx",
@@ -156,7 +149,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Mainframe Mayhem",
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp17.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9ae2284e804c35fa576050022f9f71e96cc9af8ff1d4ed7849c4a167dfae645/mfxsp17.zip"

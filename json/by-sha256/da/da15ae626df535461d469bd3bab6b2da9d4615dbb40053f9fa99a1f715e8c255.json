@@ -1,14 +1,4 @@
 {
- "authors": [
-  "FifthElephant",
-  "ItEndsWithTens",
-  "PulSaR",
-  "Scampie",
-  "Skacky",
-  "TextFish",
-  "Zwiffle",
-  "ericw"
- ],
  "bytes": 7801345,
  "description": "Four-day 'retro' map jam following an <i>Episode 4</i> tribute theme. The result is eight small, dark and brutal levels by various authors. The map sources are included.",
  "files": {
@@ -167,7 +157,6 @@
   "extract": "{base}/retrojam4"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-11-01",
  "sha256": "da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255",
  "tags": [
   "author=FifthElephant",
@@ -211,7 +200,6 @@
   "type=mod",
   "zipbasedir=retrojam4/"
  ],
- "title": "Retro Jam 4 - Episode 4 Tribute Theme",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam4.zip",
   "https://www.quaddicted.com/files/by-sha256/da/da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255/retrojam4.zip"

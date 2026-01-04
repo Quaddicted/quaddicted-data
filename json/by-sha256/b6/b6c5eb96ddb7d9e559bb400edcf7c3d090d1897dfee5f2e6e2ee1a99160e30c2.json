@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 813474,
  "description": "Medium sized medieval village, invaded and partially destroyed by nail-shooting goblins.",
  "files": {
@@ -97,7 +94,6 @@
  "notes": [
   "The map was later re-used in <a href=\"9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673\">Soul of Evil</a>."
  ],
- "release_date": "2001-12-30",
  "sha256": "b6c5eb96ddb7d9e559bb400edcf7c3d090d1897dfee5f2e6e2ee1a99160e30c2",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -121,7 +117,6 @@
   "type=mod",
   "zipbasedir=goblin/"
  ],
- "title": "The Goblin City",
  "urls": [
   "https://www.quaddicted.com/filebase/goblin.zip",
   "https://www.quaddicted.com/files/by-sha256/b6/b6c5eb96ddb7d9e559bb400edcf7c3d090d1897dfee5f2e6e2ee1a99160e30c2/goblin.zip"

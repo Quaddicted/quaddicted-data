@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Wilberforce (Hellscrag)"
- ],
  "bytes": 9072033,
  "description": "Episode with 9 medium to large maps (including a secret map) in varying styles - Base/Wizard/Metal - with many caverns and fortesses, and a few new monsters.",
  "files": {
@@ -294,7 +291,6 @@
   "extract": "{base}/descent/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-03-23",
  "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "tags": [
   "author=Mike Wilberforce (Hellscrag)",
@@ -324,7 +320,6 @@
   "type=mod",
   "zipbasedir=descent/"
  ],
- "title": "(The Final) Descent",
  "urls": [
   "https://www.quaddicted.com/filebase/descent.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7/descent.zip"

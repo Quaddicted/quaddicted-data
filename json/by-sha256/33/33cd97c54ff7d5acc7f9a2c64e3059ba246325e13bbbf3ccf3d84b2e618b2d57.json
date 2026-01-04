@@ -1,15 +1,4 @@
 {
- "authors": [
-  "DragonsForLunch",
-  "EmeraldTiger",
-  "Heresy",
-  "Inky",
-  "Nickster",
-  "Riktoi",
-  "Spootnik",
-  "Tonhao",
-  "iYago"
- ],
  "bytes": 255610484,
  "description": "Mod that introduces several significant new player movement mechanics to Quake, including trampolines, climbable wiremeshes and lighthooks (similar to grapple hooks). Includes 11 new purpose-built maps, by various authors, plus a start map.",
  "files": {
@@ -1760,11 +1749,6 @@
   "This might not work when installed with the Quake Injector on a case-sensitive filesystem (Linux) because the pak file is named \"Pak0.pak\". You can manually rename the file to lowercase \"pak0.pak\".",
   "A modern engine / source port with increased limits is required."
  ],
- "provides": {
-  "remobilize": "1.1"
- },
- "release_date": "2023-07-16",
- "release_group": "remobilize",
  "sha256": "33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57",
  "tags": [
   "author=DragonsForLunch",
@@ -1813,7 +1797,6 @@
   "type=mod",
   "version=1.1"
  ],
- "title": "Re:Mobilize 1.1",
  "urls": [
   "https://www.quaddicted.com/filebase/rm1.1.zip",
   "https://www.quaddicted.com/files/by-sha256/33/33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57/rm1.1.zip"

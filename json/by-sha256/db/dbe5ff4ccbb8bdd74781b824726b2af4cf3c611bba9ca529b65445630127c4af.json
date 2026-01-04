@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mukor"
- ],
  "bytes": 2483532,
- "depends": [
-  "ad>=1.70"
- ],
  "description": "Small medieval-style level with two towers in a canyon. The map source is included.",
  "files": {
   "ad_muksp3.txt": {
@@ -56,7 +50,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>."
  ],
- "release_date": "2020-01-24",
  "sha256": "dbe5ff4ccbb8bdd74781b824726b2af4cf3c611bba9ca529b65445630127c4af",
  "tags": [
   "author=mukor",
@@ -84,7 +77,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Duel, In Towers",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_muksp3_fix.zip",
   "https://www.quaddicted.com/files/by-sha256/db/dbe5ff4ccbb8bdd74781b824726b2af4cf3c611bba9ca529b65445630127c4af/ad_muksp3_fix.zip"

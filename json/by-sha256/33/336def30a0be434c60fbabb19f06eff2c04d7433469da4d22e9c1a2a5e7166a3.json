@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Doug Magee"
- ],
  "bytes": 528356,
  "description": "Small base map with a focus on monster closets.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-12",
  "sha256": "336def30a0be434c60fbabb19f06eff2c04d7433469da4d22e9c1a2a5e7166a3",
  "tags": [
   "author=Doug Magee",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Basetunnels Vertigo",
  "urls": [
   "https://www.quaddicted.com/filebase/basetunn.zip",
   "https://www.quaddicted.com/files/by-sha256/33/336def30a0be434c60fbabb19f06eff2c04d7433469da4d22e9c1a2a5e7166a3/basetunn.zip"

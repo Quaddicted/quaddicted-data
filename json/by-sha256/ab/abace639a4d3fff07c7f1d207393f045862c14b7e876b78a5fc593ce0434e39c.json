@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Spoot"
- ],
  "bytes": 5740331,
  "description": "A short / medium sized base-themed map with modified grunts and enforcer monsters. Based on progs_dump 2.0 devkit (already included), and inspired by <a href=\"8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f\">Mountains of Insanity</a>.",
  "files": {
@@ -689,7 +686,6 @@
   "No start map, run \"map wroth\" via console to play.",
   "Known bug: \"the second blue enforcer in the water who is supposed to drop the silver key will sometimes (rarely, but it happens) drop the key through the wall\" -- if this happens then restart / reload."
  ],
- "release_date": "2022-01-29",
  "sha256": "abace639a4d3fff07c7f1d207393f045862c14b7e876b78a5fc593ce0434e39c",
  "tags": [
   "author=Spoot",
@@ -709,7 +705,6 @@
   "title=Wroth",
   "type=mod"
  ],
- "title": "Wroth",
  "urls": [
   "https://www.quaddicted.com/filebase/wroth.zip",
   "https://www.quaddicted.com/files/by-sha256/ab/abace639a4d3fff07c7f1d207393f045862c14b7e876b78a5fc593ce0434e39c/wroth.zip"

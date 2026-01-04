@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Mayers"
- ],
  "bytes": 887759,
  "description": "Medium sized subway station infested by base monsters and Vores, a few new textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-28",
  "sha256": "38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122",
  "tags": [
   "author=Chris Mayers",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hive, part II",
  "urls": [
   "https://www.quaddicted.com/filebase/metro.zip",
   "https://www.quaddicted.com/files/by-sha256/38/38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122/metro.zip"

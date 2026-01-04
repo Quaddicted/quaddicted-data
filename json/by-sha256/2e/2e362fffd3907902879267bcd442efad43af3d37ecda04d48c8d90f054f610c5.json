@@ -1,8 +1,4 @@
 {
- "authors": [
-  "ShadoW",
-  "negke"
- ],
  "bytes": 845360,
  "description": "Small mixed-style level; the single player version of <a href=\"http://shadowsdomain.wordpress.com/levels/quake/devastation/\">q1shw1</a>. The GPL map source is included.",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-01-20",
  "sha256": "2e362fffd3907902879267bcd442efad43af3d37ecda04d48c8d90f054f610c5",
  "tags": [
   "author=ShadoW",
@@ -52,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Devastation (single player version)",
  "urls": [
   "https://www.quaddicted.com/filebase/q1shw1sp.zip",
   "https://www.quaddicted.com/files/by-sha256/2e/2e362fffd3907902879267bcd442efad43af3d37ecda04d48c8d90f054f610c5/q1shw1sp.zip"

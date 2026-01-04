@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 356489,
  "description": "Late entry for <a href=\"2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9\">SM170</a>.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-05-26",
  "sha256": "b3447b8eecf8d33e868a1d5af39d69b8e649fec7c02ebd118428c61fd01f908a",
  "tags": [
   "author=negke",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 170 - Islands",
  "urls": [
   "https://www.quaddicted.com/filebase/sm170_negke.zip",
   "https://www.quaddicted.com/files/by-sha256/b3/b3447b8eecf8d33e868a1d5af39d69b8e649fec7c02ebd118428c61fd01f908a/sm170_negke.zip"

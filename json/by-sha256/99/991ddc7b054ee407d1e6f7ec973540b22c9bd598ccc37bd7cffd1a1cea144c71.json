@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 562348,
  "description": "czg's second entry for the second 100brush contest: a small industrial map with Quake2 textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-03",
  "sha256": "991ddc7b054ee407d1e6f7ec973540b22c9bd598ccc37bd7cffd1a1cea144c71",
  "tags": [
   "author=czg",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Biotoxin",
  "urls": [
   "https://www.quaddicted.com/filebase/czgtoxic.zip",
   "https://www.quaddicted.com/files/by-sha256/99/991ddc7b054ee407d1e6f7ec973540b22c9bd598ccc37bd7cffd1a1cea144c71/czgtoxic.zip"

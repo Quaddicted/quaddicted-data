@@ -1,11 +1,5 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 1933315,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium sized green DOOM marble/ wood level with a small end battle map.",
  "files": {
   "ne_marb.bsp": {
@@ -28,7 +22,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-11-05",
  "sha256": "764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0",
  "tags": [
   "author=necros",
@@ -56,7 +49,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Crescendo Of Dreams + Surmounting Terror",
  "urls": [
   "https://www.quaddicted.com/filebase/ne_marb.zip",
   "https://www.quaddicted.com/files/by-sha256/76/764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0/ne_marb.zip"

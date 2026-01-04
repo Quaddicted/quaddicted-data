@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Megazoid"
- ],
  "bytes": 197628,
  "description": "Megazoid's late entry to <a href=\"987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c\">SM65</a>.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-02-01",
  "sha256": "ae00b18a0a6a76ea9da1d0728ec0345b13dd09eba7435c1e4fcca4c298cd8fa4",
  "tags": [
   "author=Megazoid",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_megazoid.zip",
   "https://www.quaddicted.com/files/by-sha256/ae/ae00b18a0a6a76ea9da1d0728ec0345b13dd09eba7435c1e4fcca4c298cd8fa4/sm65_megazoid.zip"

@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Mike Woodham",
-  "Zwiffle"
- ],
  "bytes": 484365,
  "description": "Black Coffee by Drannerz / 2 SP maps / Mike Woodham, Zwiffle",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-11-20",
  "sha256": "81d8af97c9d81f1bed2c27ccb58ab5bcf1faf9615ab65f0d557fcf5ffe87548a",
  "tags": [
   "author=Mike Woodham",
@@ -41,7 +36,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 91 - Black Coffee by Drannerz",
  "urls": [
   "https://www.quaddicted.com/filebase/sm91_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/81/81d8af97c9d81f1bed2c27ccb58ab5bcf1faf9615ab65f0d557fcf5ffe87548a/sm91_pack.zip"

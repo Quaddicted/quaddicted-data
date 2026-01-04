@@ -1,13 +1,4 @@
 {
- "authors": [
-  "RickyT23",
-  "Spirit",
-  "Trinca",
-  "ZealousQuakeFan",
-  "Zwiffle",
-  "ericw",
-  "ijed"
- ],
  "bytes": 1150959,
  "description": "50 brushes / 8 SP maps / ericw, ijed, RickyT23, Spirit, Trinca, ZealousQuakeFan, Zwiffle",
  "files": {
@@ -101,7 +92,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-10-01",
  "sha256": "44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b",
  "tags": [
   "author=RickyT23",
@@ -131,7 +121,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 161 - 50 brushes",
  "urls": [
   "https://www.quaddicted.com/filebase/sm161_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/44/44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b/sm161_pack.zip"

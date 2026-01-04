@@ -1,11 +1,5 @@
 {
- "authors": [
-  "aguirRe"
- ],
  "bytes": 10378394,
- "depends": [
-  "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076"
- ],
  "description": "Reworked monster skins for <a href=\"c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076\">Travail</a> \"just filtered a bit to bring out more details and colours\".",
  "files": {
   "Travail_skins.txt": {
@@ -118,7 +112,6 @@
   "extract": "{base}/travail/textures/monsters"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-10-12",
  "sha256": "9c95dfab7540d8bd21d407d02a6f60badcc42a78f0aa3357b4a56f8e8067246c",
  "tags": [
   "author=aguirRe",
@@ -133,7 +126,6 @@
   "type=map",
   "zipbasedir=travail/textures/monsters/"
  ],
- "title": "Travail: Reworked Monster Skins",
  "urls": [
   "https://www.quaddicted.com/filebase/travail_skins.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9c95dfab7540d8bd21d407d02a6f60badcc42a78f0aa3357b4a56f8e8067246c/travail_skins.zip"

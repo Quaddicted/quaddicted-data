@@ -1,7 +1,4 @@
 {
- "authors": [
-  "kukkye"
- ],
  "bytes": 1048882,
  "description": "Small base map that requires rocket/trick jumping to progress.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-12-10",
  "sha256": "3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509",
  "tags": [
   "author=kukkye",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hellhole",
  "urls": [
   "https://www.quaddicted.com/filebase/hellhole.zip",
   "https://www.quaddicted.com/files/by-sha256/36/3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509/hellhole.zip"

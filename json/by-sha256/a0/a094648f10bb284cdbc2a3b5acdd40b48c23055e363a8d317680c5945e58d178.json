@@ -1,7 +1,4 @@
 {
- "authors": [
-  "marilyn"
- ],
  "bytes": 530157,
  "description": "Small surreal creepy wizard-themed map. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-30",
  "sha256": "a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178",
  "tags": [
   "author=marilyn",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "welcome fuckhead(there is a story.too long)",
  "urls": [
   "https://www.quaddicted.com/filebase/jamie.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178/jamie.zip"

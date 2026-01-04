@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rebelvodka"
- ],
  "bytes": 189318,
  "description": "Very small arena level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-08-17",
  "sha256": "df358acea25119ec307297c2cf3e73791c0066bbde1a6441028fa6d13deb61ce",
  "tags": [
   "author=Rebelvodka",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Coliseum",
  "urls": [
   "https://www.quaddicted.com/filebase/coliseum_a041a.zip",
   "https://www.quaddicted.com/files/by-sha256/df/df358acea25119ec307297c2cf3e73791c0066bbde1a6441028fa6d13deb61ce/coliseum_a041a.zip"

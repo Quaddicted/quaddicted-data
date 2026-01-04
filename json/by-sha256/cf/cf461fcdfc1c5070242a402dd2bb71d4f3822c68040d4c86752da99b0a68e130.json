@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Ionous"
- ],
  "bytes": 34293291,
- "depends": [
-  "copper>=1.20"
- ],
  "description": "Large tower temple map <i>\"built entirely on the 64-unit grid. A brushwork experiment taken to strange extremes.\"</i>. Custom music by Pantheist; map source is included.",
  "files": {
   "gfx/env/rlyeh_bk.tga": {
@@ -72,7 +66,6 @@
   "Requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper v1.20+</a> (NOT included).",
   "Requires a modern engine / source port with increased limits and BSP support. <i>\"This map should work without issue in Ironwail and VKQuake. Quakespasm will work fine, though playing with gl_farclip set to over 20k is needed to avoid long-distance greyflash.\"</i>"
  ],
- "release_date": "2022-12-13",
  "sha256": "cf461fcdfc1c5070242a402dd2bb71d4f3822c68040d4c86752da99b0a68e130",
  "tags": [
   "author=Ionous",
@@ -98,7 +91,6 @@
   "type=mod",
   "zipbasedir=copper/"
  ],
- "title": "Fhtagn-Nagh",
  "urls": [
   "https://www.quaddicted.com/filebase/ion03.zip",
   "https://www.quaddicted.com/files/by-sha256/cf/cf461fcdfc1c5070242a402dd2bb71d4f3822c68040d4c86752da99b0a68e130/ion03.zip"

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "Cybear",
-  "NororiousRay",
-  "XeNoN"
- ],
  "bytes": 423656,
  "description": "Unthemed / 4 DM maps / Apollo, Cybear, NororiousRay, XeNoN",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-28",
  "sha256": "16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368",
  "tags": [
   "author=Apollo",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 17 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm17_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/16/16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368/sm17_pack.zip"

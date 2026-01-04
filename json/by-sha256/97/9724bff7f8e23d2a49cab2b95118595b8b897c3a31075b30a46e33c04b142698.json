@@ -1,17 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Fairweather",
-  "JCR",
-  "MortalMaxx",
-  "Mugwump",
-  "Pinchy Skree",
-  "Ukko",
-  "Vurkka",
-  "Zungryware",
-  "ionous",
-  "onetruepurple"
- ],
  "bytes": 18582346,
  "description": "Four chainmaps by various authors, each one following a Honey, Zendar, Egyptian and Knave theme. The map sources are included.",
  "files": {
@@ -93,7 +80,6 @@
  "notes": [
   "These maps probably require a source port with increased limits."
  ],
- "release_date": "2019-08-18",
  "sha256": "9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698",
  "tags": [
   "author=Artistical",
@@ -121,7 +107,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "SM200: Chainmap Chaos",
  "urls": [
   "https://www.quaddicted.com/filebase/sm200_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/97/9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698/sm200_pack.zip"

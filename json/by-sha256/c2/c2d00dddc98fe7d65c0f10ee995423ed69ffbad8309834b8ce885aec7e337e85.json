@@ -1,7 +1,4 @@
 {
- "authors": [
-  "zbidou72"
- ],
  "bytes": 106377507,
  "description": "Large map in a unique style, combining an 'adventure' theme with pirate ship, caves, and underwater exploration, with sci-fi elements and monsters.",
  "files": {
@@ -3216,7 +3213,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-12-28",
  "sha256": "c2d00dddc98fe7d65c0f10ee995423ed69ffbad8309834b8ce885aec7e337e85",
  "tags": [
   "author=zbidou72",
@@ -3233,7 +3229,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Last Voyage of the Aqualus",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/c2/c2d00dddc98fe7d65c0f10ee995423ed69ffbad8309834b8ce885aec7e337e85/aqualusV11.zip",
   "https://x901.net/quaddictedfiles/aqualusV11.zip"

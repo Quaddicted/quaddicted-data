@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Ankh",
-  "Trinca",
-  "adamllis",
-  "negke"
- ],
  "bytes": 1530912,
  "description": "M.C. Escher/Ogre Massacre / 4 SP maps / adamllis, Ankh, neg!ke, Trinca",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-01-23",
  "sha256": "7f1f56c6273fa4c3d40783a4fa4d6ca10843e09fc8edf297d32f082582e02a8a",
  "tags": [
   "author=Ankh",
@@ -62,7 +55,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 117 - M.C. Escher/Ogre Massacre",
  "urls": [
   "https://www.quaddicted.com/filebase/sm117_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7f1f56c6273fa4c3d40783a4fa4d6ca10843e09fc8edf297d32f082582e02a8a/sm117_pack.zip"

@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Moz",
-  "Scampie",
-  "Zwiffle"
- ],
  "bytes": 613937,
  "description": "Skyward maps / 3 SP maps / Moz, Scampie, Zwiffle",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-01-24",
  "sha256": "268fa9c0e31e7065e46afc988469cece15bc403462d3d2c06356274742ee75de",
  "tags": [
   "author=Moz",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 64 - Skyward maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm64_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/26/268fa9c0e31e7065e46afc988469cece15bc403462d3d2c06356274742ee75de/sm64_pack.zip"

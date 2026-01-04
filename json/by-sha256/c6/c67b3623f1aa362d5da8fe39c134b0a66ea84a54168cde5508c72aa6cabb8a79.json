@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Blitz",
-  "FredTheFishSlayer",
-  "Hanz",
-  "Necros",
-  "Rcktrob",
-  "Scragbait",
-  "czg"
- ],
  "bytes": 4519506,
  "description": "Results for the second 100 brush mapping competition. Contains 10 Quake Single Player maps, all made using 100 brushes or less. Includes a start map to access them all from.",
  "files": {
@@ -207,7 +197,6 @@
   "extract": "{base}/100b2/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-20",
  "sha256": "c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79",
  "tags": [
   "author=Aardappel",
@@ -240,7 +229,6 @@
   "type=mod",
   "zipbasedir=100b2/"
  ],
- "title": "100 Brush Competition #2",
  "urls": [
   "https://www.quaddicted.com/filebase/100b2.zip",
   "https://www.quaddicted.com/files/by-sha256/c6/c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79/100b2.zip"

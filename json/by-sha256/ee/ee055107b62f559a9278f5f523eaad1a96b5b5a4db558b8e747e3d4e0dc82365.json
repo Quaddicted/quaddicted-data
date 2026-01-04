@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Haikids"
- ],
  "bytes": 788333,
  "description": "Short, linear map in E1M5 textures and a garden area.",
  "files": {
@@ -38,7 +35,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2024-03-16",
  "sha256": "ee055107b62f559a9278f5f523eaad1a96b5b5a4db558b8e747e3d4e0dc82365",
  "tags": [
   "author=Haikids",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Roted Castle",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/ee/ee055107b62f559a9278f5f523eaad1a96b5b5a4db558b8e747e3d4e0dc82365/the_roted_castle.zip",
   "https://x901.net/quaddictedfiles/the_roted_castle.zip"

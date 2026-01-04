@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 2685658,
  "description": "Blue gothic/industrial level using modified Q3 textures, featuring several custom monsters.",
  "files": {
@@ -427,7 +424,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-10-24",
  "sha256": "18491ac361db001e8b14f03aed52d50538e781b63e057f94fbb7a0544e935432",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -448,7 +444,6 @@
   "title=Ultramarine",
   "type=mod"
  ],
- "title": "Ultramarine",
  "urls": [
   "https://www.quaddicted.com/filebase/marine.zip",
   "https://www.quaddicted.com/files/by-sha256/18/18491ac361db001e8b14f03aed52d50538e781b63e057f94fbb7a0544e935432/marine.zip"

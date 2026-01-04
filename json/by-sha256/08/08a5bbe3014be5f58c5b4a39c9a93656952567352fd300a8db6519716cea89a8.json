@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Inectha"
- ],
  "bytes": 16939471,
  "description": "Short metal map featuring lots of lava, dark shadows and torches. The author's first map.",
  "files": {
@@ -974,7 +971,6 @@
   "This file was repackaged for Quake Injector compatibility. Various unnecessary content was removed including two extra copies of progs_dump and hi-res PNG screenshots.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-03-30",
  "sha256": "08a5bbe3014be5f58c5b4a39c9a93656952567352fd300a8db6519716cea89a8",
  "tags": [
   "author=Inectha",
@@ -990,7 +986,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Throne of Belial",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/08/08a5bbe3014be5f58c5b4a39c9a93656952567352fd300a8db6519716cea89a8/tobv1.2.zip",
   "https://x901.net/quaddictedfiles/tobv1.2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Alex Moore"
- ],
  "bytes": 257256,
  "description": "Very small linear mix-style map with a cave.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-09",
  "sha256": "16396bde8e7487e37a6be9052f4534cdbc6c78426bf5fe44f170b2f4bc339e63",
  "tags": [
   "author=Alex Moore",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ickle",
  "urls": [
   "https://www.quaddicted.com/filebase/ickle.zip",
   "https://www.quaddicted.com/files/by-sha256/16/16396bde8e7487e37a6be9052f4534cdbc6c78426bf5fe44f170b2f4bc339e63/ickle.zip"

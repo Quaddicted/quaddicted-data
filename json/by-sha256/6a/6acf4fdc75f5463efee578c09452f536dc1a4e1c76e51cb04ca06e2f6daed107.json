@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Cristina Baroglio",
-  "Matteo Baldoni"
- ],
  "bytes": 84043,
  "description": "Small, fullbright pseudo-maze created with the Stoneless editor.",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-14",
  "sha256": "6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107",
  "tags": [
   "author=Cristina Baroglio",
@@ -38,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Maze",
  "urls": [
   "https://www.quaddicted.com/filebase/maze.zip",
   "https://www.quaddicted.com/files/by-sha256/6a/6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107/maze.zip"

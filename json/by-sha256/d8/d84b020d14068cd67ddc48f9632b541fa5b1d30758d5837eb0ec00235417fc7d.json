@@ -1,13 +1,4 @@
 {
- "authors": [
-  "ChrisHolden",
-  "Cocerello",
-  "Greenwood",
-  "ZungryWare",
-  "dumptruck_ds",
-  "ionous",
-  "ish"
- ],
  "bytes": 37878519,
  "description": "Speedmapping pack featuring seven SP/DM maps. The map sources are included. And some skyboxes, too.",
  "files": {
@@ -246,7 +237,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-11-28",
  "sha256": "d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d",
  "tags": [
   "author=ChrisHolden",
@@ -275,7 +265,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 204: 20 years of Quake III Arena",
  "urls": [
   "https://www.quaddicted.com/filebase/sm204.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d/sm204.zip"

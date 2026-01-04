@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Colossus"
- ],
  "bytes": 22528706,
  "description": "A medium / large Runic themed classic-style map with some pretty big encounters. The author's first release. Contains custom music by the author. Uses Copper mod (already included).",
  "files": {
@@ -733,7 +730,6 @@
   "This is version 2 with fixed monster placement, texture alignment, and music.",
   "Due to high monster count, probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-06-01",
  "sha256": "d51d980d60fefcf6befabf0e8602282d8ed5e74ce94896e1c324e9077ee62be2",
  "tags": [
   "author=Colossus",
@@ -759,7 +755,6 @@
   "title=Forsaken",
   "type=mod"
  ],
- "title": "Forsaken",
  "urls": [
   "https://www.quaddicted.com/filebase/forsaken_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d51d980d60fefcf6befabf0e8602282d8ed5e74ce94896e1c324e9077ee62be2/forsaken_v2.zip"

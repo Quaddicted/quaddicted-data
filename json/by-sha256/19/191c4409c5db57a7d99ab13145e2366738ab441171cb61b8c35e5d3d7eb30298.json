@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Spirit",
-  "Zwiffle",
-  "bambuz",
-  "lurker",
-  "negke"
- ],
  "bytes": 752667,
  "description": "Super collider 128 / 5 SP maps / bambuz, lurker, negke, Spirit, Zwiffle",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-10-13",
  "sha256": "191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298",
  "tags": [
   "author=Spirit",
@@ -70,7 +62,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 144 - Super Collider 128",
  "urls": [
   "https://www.quaddicted.com/filebase/sm144_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/19/191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298/sm144_pack.zip"

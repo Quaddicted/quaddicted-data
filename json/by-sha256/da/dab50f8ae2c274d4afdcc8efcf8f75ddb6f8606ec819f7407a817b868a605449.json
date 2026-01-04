@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi",
-  "Leviathan",
-  "MadFox",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 1598508,
  "description": "Unthemed / 5 SP, 1 DM maps / Hrimfaxi, Leviathan, MadFox, Scampie, Starbuck",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-07",
  "sha256": "dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449",
  "tags": [
   "author=Hrimfaxi",
@@ -72,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 59 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm59_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/da/dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449/sm59_pack.zip"

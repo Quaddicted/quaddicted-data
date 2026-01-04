@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Denis Gusakov"
- ],
  "bytes": 1924172,
  "description": "Medium to large base map with a warehouse, a mech hangar and a submarine port. A singleplayer demo is included.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "Originally named \"my level.zip\", renamed to \"my_level.zip\"."
  ],
- "release_date": "1998-05-21",
  "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "tags": [
   "author=Denis Gusakov",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lost Underground Base",
  "urls": [
   "https://www.quaddicted.com/filebase/my_level.zip",
   "https://www.quaddicted.com/files/by-sha256/2e/2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff/my_level.zip"

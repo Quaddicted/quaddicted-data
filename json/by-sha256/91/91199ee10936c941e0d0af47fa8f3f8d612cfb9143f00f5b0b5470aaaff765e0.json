@@ -1,21 +1,4 @@
 {
- "authors": [
-  "Amrik",
-  "Apollo",
-  "Asaki",
-  "CardO",
-  "E-werd",
-  "Elek",
-  "Grahf",
-  "Lunaran",
-  "Notorious Ray",
-  "Preacher",
-  "Scampie",
-  "Starbuck",
-  "intertia",
-  "necros",
-  "than"
- ],
  "bytes": 3200020,
  "description": "(QExpo) / 16 SP maps / Amrik, Apollo, Asaki, CardO, Elek, Grahf, intertia, Lunaran, necros, Preacher, Notorious Ray, Starbuck, Scampie, than, E-werd",
  "files": {
@@ -109,7 +92,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-14",
  "sha256": "91199ee10936c941e0d0af47fa8f3f8d612cfb9143f00f5b0b5470aaaff765e0",
  "tags": [
   "author=Amrik",
@@ -151,7 +133,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 26 - (QExpo)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm26_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/91/91199ee10936c941e0d0af47fa8f3f8d612cfb9143f00f5b0b5470aaaff765e0/sm26_pack.zip"

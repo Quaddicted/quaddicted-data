@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "HeadThump",
-  "Trinca",
-  "Zwiffle",
-  "generic"
- ],
  "bytes": 1089330,
  "description": "Unthemed / 6 SP maps / generic, Drew, HeadThump, Trinca, Zwiffle",
  "files": {
@@ -52,7 +45,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2005-10-30",
  "sha256": "a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4",
  "tags": [
   "author=Drew",
@@ -74,7 +66,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 109 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm109.zip",
   "https://www.quaddicted.com/files/by-sha256/a1/a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4/sm109.zip"

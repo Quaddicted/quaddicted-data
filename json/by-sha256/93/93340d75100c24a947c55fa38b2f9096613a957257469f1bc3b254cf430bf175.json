@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Luis 'Chuma' Fernandez"
- ],
  "bytes": 9279102,
  "description": "Small sewer map with Petersen-ian \"backroom\" vibes and some Makkon textures for vanilla Quake. Custom music is Secret From The River by Repulsive.",
  "files": {
@@ -55,7 +52,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-03-15",
  "sha256": "93340d75100c24a947c55fa38b2f9096613a957257469f1bc3b254cf430bf175",
  "tags": [
   "author=Luis 'Chuma' Fernandez",
@@ -77,7 +73,6 @@
   "title=Urantia",
   "type=map"
  ],
- "title": "Urantia",
  "urls": [
   "https://www.quaddicted.com/filebase/urantia.zip",
   "https://www.quaddicted.com/files/by-sha256/93/93340d75100c24a947c55fa38b2f9096613a957257469f1bc3b254cf430bf175/urantia.zip"

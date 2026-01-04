@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Spirit",
-  "Willem",
-  "ericw"
- ],
  "bytes": 523759,
  "description": "Don't touch that! / 3 SP maps / ericw, Spirit, Willem",
  "files": {
@@ -37,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-11-24",
  "sha256": "ec56481bba2babd4d22bea655844ef461f917ad5667dee3127a637fb3725ce48",
  "tags": [
   "author=Spirit",
@@ -54,7 +48,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 148 - Don't touch that!",
  "urls": [
   "https://www.quaddicted.com/filebase/sm148_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ec56481bba2babd4d22bea655844ef461f917ad5667dee3127a637fb3725ce48/sm148_pack.zip"

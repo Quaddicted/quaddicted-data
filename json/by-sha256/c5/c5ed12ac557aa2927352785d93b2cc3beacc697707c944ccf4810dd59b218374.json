@@ -1,7 +1,4 @@
 {
- "authors": [
-  "John \"metlslime\" Fitzgibbons"
- ],
  "bytes": 637855,
  "description": "Medium sized Wind Tunnels style <i>Metal</i> map with lots of <i>slime</i>.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-19",
  "sha256": "c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Crawling Chaos",
  "urls": [
   "https://www.quaddicted.com/filebase/chaos.zip",
   "https://www.quaddicted.com/files/by-sha256/c5/c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374/chaos.zip"

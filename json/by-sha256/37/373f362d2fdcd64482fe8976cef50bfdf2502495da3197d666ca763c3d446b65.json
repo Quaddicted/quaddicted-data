@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GunSgtHighway"
- ],
  "bytes": 123305044,
  "description": "Mini-episode of three maps in a fantasy/medieval style, with many custom modifications including rotating entities, jumppads and cutscenes.",
  "files": {
@@ -873,7 +870,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-11-06",
  "sha256": "373f362d2fdcd64482fe8976cef50bfdf2502495da3197d666ca763c3d446b65",
  "tags": [
   "author=GunSgtHighway",
@@ -889,7 +885,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Castle of Doom",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/37/373f362d2fdcd64482fe8976cef50bfdf2502495da3197d666ca763c3d446b65/gsh_castleod.zip",
   "https://x901.net/quaddictedfiles/gsh_castleod.zip"

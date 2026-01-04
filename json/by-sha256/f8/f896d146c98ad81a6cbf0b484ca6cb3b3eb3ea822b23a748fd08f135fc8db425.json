@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tyrann"
- ],
  "bytes": 1301290,
  "description": "Very large interconnected medieval castle with yards and outside areas - semi-nonlinear, explorational kind of gameplay.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-08-13",
  "sha256": "f896d146c98ad81a6cbf0b484ca6cb3b3eb3ea822b23a748fd08f135fc8db425",
  "tags": [
   "author=Tyrann",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Moonlight Assault",
  "urls": [
   "https://www.quaddicted.com/filebase/moonlite.zip",
   "https://www.quaddicted.com/files/by-sha256/f8/f896d146c98ad81a6cbf0b484ca6cb3b3eb3ea822b23a748fd08f135fc8db425/moonlite.zip"

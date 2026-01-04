@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Justin Fleck"
- ],
  "bytes": 5171270,
  "description": "Medium sized runic / metal themed level in a classic style, a remix of the author's 2004 release <a href=\"217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e\">\"Azure Influx\" (flecksp1)</a>. Built on progs_dump v3 (already included). Map source is included. v1.3 features minor texture fixes and the sky is higher.",
  "files": {
@@ -723,7 +720,6 @@
  "notes": [
   "Might require a modern engine / source port with increased limits"
  ],
- "release_date": "2022-11-02",
  "sha256": "5d3220cf974809761a2d1e365962ab5f4ae829b79701b9e2e4d5aacd0f960582",
  "tags": [
   "author=Justin Fleck",
@@ -748,7 +744,6 @@
   "title=Azure Be Gone v1.3",
   "type=mod"
  ],
- "title": "Azure Be Gone v1.3",
  "urls": [
   "https://www.quaddicted.com/filebase/flecksp1rmx_1_3.zip",
   "https://www.quaddicted.com/files/by-sha256/5d/5d3220cf974809761a2d1e365962ab5f4ae829b79701b9e2e4d5aacd0f960582/flecksp1rmx_1_3.zip"

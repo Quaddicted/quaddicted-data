@@ -1,8 +1,4 @@
 {
- "authors": [
-  "FifthElephant",
-  "Rapowke"
- ],
  "bytes": 4771352,
  "description": "Map jam #4 - a community project at Func_Msgboard. The pack features 2 low gravity runic maps. The map sources are included.",
  "files": {
@@ -116,7 +112,6 @@
   "extract": "{base}/func_mapjam4/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-02-02",
  "sha256": "b16460addc43911788f7add9db2ce6d11e3947310daceafa9821472046567719",
  "tags": [
   "author=FifthElephant",
@@ -136,7 +131,6 @@
   "type=mod",
   "zipbasedir=func_mapjam4/"
  ],
- "title": "Func Map Jam 4 - Low Gravity Runic Theme",
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjam4.zip",
   "https://www.quaddicted.com/files/by-sha256/b1/b16460addc43911788f7add9db2ce6d11e3947310daceafa9821472046567719/func_mapjam4.zip"

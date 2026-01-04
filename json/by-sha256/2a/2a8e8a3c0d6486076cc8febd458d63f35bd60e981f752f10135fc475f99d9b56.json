@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tobias Person aka Tobey"
- ],
  "bytes": 624220,
  "description": "About medium sized, mostly cramped medieval castle with custom textures, reskinned zombies and a reskinned boss knight.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-12",
  "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "tags": [
   "author=Tobias Person aka Tobey",
@@ -51,7 +47,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Fortress of the Dark Knight",
  "urls": [
   "https://www.quaddicted.com/filebase/dknite11.zip",
   "https://www.quaddicted.com/files/by-sha256/2a/2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56/dknite11.zip"

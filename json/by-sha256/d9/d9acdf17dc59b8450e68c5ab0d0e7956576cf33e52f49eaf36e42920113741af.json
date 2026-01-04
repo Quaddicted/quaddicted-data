@@ -1,11 +1,4 @@
 {
- "authors": [
-  "DaZ",
-  "NotoriousRay",
-  "Raptore",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 1133133,
  "description": "Coagula Theme/ 5 SP maps / DaZ, Raptore, NotoriousRay, Scampie, Starbuck",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-08-17",
  "sha256": "d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af",
  "tags": [
   "author=DaZ",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 45 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm45.zip",
   "https://www.quaddicted.com/files/by-sha256/d9/d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af/sm45.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders Gustavsson"
- ],
  "bytes": 459614,
  "description": "Medium sized realistic map with custom textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-01",
  "sha256": "c9b4807b47aaf8a696be33e1fa3168453759469505c2a0630fd702b34893cf0a",
  "tags": [
   "author=Anders Gustavsson",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Evil Town",
  "urls": [
   "https://www.quaddicted.com/filebase/etown.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9b4807b47aaf8a696be33e1fa3168453759469505c2a0630fd702b34893cf0a/etown.zip"

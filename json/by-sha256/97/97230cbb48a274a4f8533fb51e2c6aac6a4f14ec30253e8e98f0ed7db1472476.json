@@ -1,7 +1,4 @@
 {
- "authors": [
-  "CommonCold"
- ],
  "bytes": 3840291,
  "description": "A very small (or very large) map pack made for April Fools as a joke pack. Inspired by <a href=\"https://www.doomworld.com/forum/topic/87588-100000-revenants-a-doom-2-map/\"> the DOOM 2 map \"100k Revenants\" by MarphitimusBlackimus</a>.... may contain Death Knights. Custom start map and map source is included.",
  "files": {
@@ -132,7 +129,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-04-01",
  "sha256": "97230cbb48a274a4f8533fb51e2c6aac6a4f14ec30253e8e98f0ed7db1472476",
  "tags": [
   "author=CommonCold",
@@ -157,7 +153,6 @@
   "title=Lots of Death Knights",
   "type=mod"
  ],
- "title": "Lots of Death Knights",
  "urls": [
   "https://www.quaddicted.com/filebase/dknights.zip",
   "https://www.quaddicted.com/files/by-sha256/97/97230cbb48a274a4f8533fb51e2c6aac6a4f14ec30253e8e98f0ed7db1472476/dknights.zip"

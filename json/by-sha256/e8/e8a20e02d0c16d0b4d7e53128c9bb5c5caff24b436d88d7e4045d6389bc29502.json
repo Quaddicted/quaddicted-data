@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Starbuck",
-  "Zwiffle"
- ],
  "bytes": 508972,
  "description": "The Basics / 1 SP map, 1 DM map / Starbuck, Zwiffle",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-07-31",
  "sha256": "e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502",
  "tags": [
   "author=Starbuck",
@@ -38,7 +33,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 101 - The Basics",
  "urls": [
   "https://www.quaddicted.com/filebase/sm101_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502/sm101_pack.zip"

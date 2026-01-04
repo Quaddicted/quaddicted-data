@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Howard \"GlassMan\" Shaw"
- ],
  "bytes": 2334685,
  "current_main_group_package": true,
  "description": "This is the \"transparent water\" version of <a href=\"dc2f8cbe52212669c7ac09cd92aecba8b2f6daca1f7532135868bc73a962c8b2\">gmsp3</a>.",
@@ -21,11 +18,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "gmsp3": "2.0"
- },
- "release_date": "2004-06-01",
- "release_group": "gmsp3",
  "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",
  "tags": [
   "author=Howard \"GlassMan\" Shaw",
@@ -51,7 +43,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Day of the Lords [transparent water]",
  "urls": [
   "https://www.quaddicted.com/filebase/gmsp3tw.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469/gmsp3tw.zip"

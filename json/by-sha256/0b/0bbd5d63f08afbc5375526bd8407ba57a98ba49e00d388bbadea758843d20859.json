@@ -1,7 +1,4 @@
 {
- "authors": [
-  "KenChennar alias Orl"
- ],
  "bytes": 72705385,
  "description": "Episode with five huge, uniquely themed levels: a beach resort under a Golden Gate Bridge, a puzzle map set in an industrial storage facility, an Asian temple, a twisted otherworldly fortress, and a western mining town. Most of the maps use custom textures; the texture wads and the map sources are included.",
  "files": {
@@ -237,11 +234,6 @@
  "notes": [
   "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher."
  ],
- "provides": {
-  "ter_shibboleth": "1.0"
- },
- "release_date": "2017-09-01",
- "release_group": "ter_shibboleth",
  "sha256": "0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859",
  "tags": [
   "author=KenChennar alias Orl",
@@ -283,7 +275,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ter Shibboleth",
  "urls": [
   "https://www.quaddicted.com/filebase/ter_shibboleth.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859/ter_shibboleth.zip"

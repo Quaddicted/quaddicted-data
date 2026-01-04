@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bryan Pillow"
- ],
  "bytes": 748453,
  "description": "Around medium sized simple Wizard map. Comes with a skill selection map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-06",
  "sha256": "7a540ebbff81b681eb334a61f805d2ab29fc8943585a384343078fe82af98b4a",
  "tags": [
   "author=Bryan Pillow",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Enter Purgatory",
  "urls": [
   "https://www.quaddicted.com/filebase/purgator.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7a540ebbff81b681eb334a61f805d2ab29fc8943585a384343078fe82af98b4a/purgator.zip"

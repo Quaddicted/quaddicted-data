@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "FatController",
-  "Tronyn",
-  "Tyrann"
- ],
  "bytes": 10694590,
  "description": "Episode with five medium-to-large maps in IKBase/Quake2/Egyptian theme. Some new monsters/weapons and progs including cutscenes.",
  "files": {
@@ -525,7 +519,6 @@
   "extract": "{base}/oum/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-26",
  "sha256": "7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f",
  "tags": [
   "author=Apollo",
@@ -557,7 +550,6 @@
   "type=mod",
   "zipbasedir=oum/"
  ],
- "title": "Operation: Urth Majik",
  "urls": [
   "https://www.quaddicted.com/filebase/oum.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f/oum.zip"

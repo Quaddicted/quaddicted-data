@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DeathMethod"
- ],
  "bytes": 1103713,
  "description": "Medium sized egyptian map featuring a zombie quad massacre.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-04-15",
  "sha256": "7228e3addff4d4e4b10b96316c6e8921149db83e1627f092296d3646a763e502",
  "tags": [
   "author=DeathMethod",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Temple Of Anubis: Judgement Of The Dead",
  "urls": [
   "https://www.quaddicted.com/filebase/toa.zip",
   "https://www.quaddicted.com/files/by-sha256/72/7228e3addff4d4e4b10b96316c6e8921149db83e1627f092296d3646a763e502/toa.zip"

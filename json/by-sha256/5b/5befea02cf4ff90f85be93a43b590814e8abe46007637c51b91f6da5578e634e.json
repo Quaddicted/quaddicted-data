@@ -1,7 +1,4 @@
 {
- "authors": [
-  "oldspider"
- ],
  "bytes": 2190650,
  "description": "Town-themed map inspired by Thief, with non-linear gameplay designed with replayability in mind.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-03-05",
  "sha256": "5befea02cf4ff90f85be93a43b590814e8abe46007637c51b91f6da5578e634e",
  "tags": [
   "author=oldspider",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Twilight Town",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/5b/5befea02cf4ff90f85be93a43b590814e8abe46007637c51b91f6da5578e634e/twitown-v2.zip",
   "https://x901.net/quaddictedfiles/twitown-v2.zip"

@@ -1,13 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "Blitz",
-  "DaZ",
-  "Lunaran",
-  "Miikka",
-  "Misyu",
-  "XeNoN"
- ],
  "bytes": 1343893,
  "description": "Unthemed / 7 SP maps / Apollo, Blitz, DaZ, Lunaran, Miikka, Misyu, XeNoN",
  "files": {
@@ -56,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-06-04",
  "sha256": "dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8",
  "tags": [
   "author=Apollo",
@@ -81,7 +71,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 19 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm19_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/dc/dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8/sm19_pack.zip"

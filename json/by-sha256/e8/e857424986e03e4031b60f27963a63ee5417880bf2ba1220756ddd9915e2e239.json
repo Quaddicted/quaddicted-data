@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Bloughsburgh"
- ],
  "bytes": 1624103,
- "depends": [
-  "ad>=1.42"
- ],
  "description": "Small vertical medieval courtyard with a built-in skill selection room. The map source is included.",
  "files": {
   "ad_v1_42P2_readme.txt": {
@@ -41,7 +35,6 @@
  "notes": [
   "This map requires <a href=\"ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6\">Arcane Dimensions</a>."
  ],
- "release_date": "2016-03-27",
  "sha256": "e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239",
  "tags": [
   "author=Bloughsburgh",
@@ -69,7 +62,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "A Horse Named Quake",
  "urls": [
   "https://www.quaddicted.com/filebase/mjb_horse.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239/mjb_horse.zip"

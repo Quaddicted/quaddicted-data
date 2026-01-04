@@ -1,7 +1,4 @@
 {
- "authors": [
-  "nathnolt"
- ],
  "bytes": 10684100,
  "description": "A small weird experimental map for vanilla Quake, using custom made AI-generated textures with Stable Diffusion. Map source file is included. <i>\"No real monsters.\"</i>",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-10-23",
  "sha256": "34742c5f91d21f0e3b07af31ca131fd4ab92735f5589cb9fd7e44b4eac087c8d",
  "tags": [
   "author=nathnolt",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "AI Textures",
  "urls": [
   "https://www.quaddicted.com/filebase/ai-textures.zip",
   "https://www.quaddicted.com/files/by-sha256/34/34742c5f91d21f0e3b07af31ca131fd4ab92735f5589cb9fd7e44b4eac087c8d/ai-textures.zip"

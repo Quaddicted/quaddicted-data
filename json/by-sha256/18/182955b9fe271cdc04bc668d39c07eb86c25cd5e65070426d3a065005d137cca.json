@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Void (Tim Fairchild)"
- ],
  "bytes": 495463,
  "description": "Small Wizard hub map with Base elements.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-01-26",
  "sha256": "182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca",
  "tags": [
   "author=The Void (Tim Fairchild)",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Kathedral",
  "urls": [
   "https://www.quaddicted.com/filebase/kthdrl.zip",
   "https://www.quaddicted.com/files/by-sha256/18/182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca/kthdrl.zip"

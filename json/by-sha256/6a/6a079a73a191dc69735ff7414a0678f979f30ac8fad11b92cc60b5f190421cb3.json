@@ -1,7 +1,4 @@
 {
- "authors": [
-  "G.Pietz (Laernu)"
- ],
  "bytes": 1031908,
  "description": "Medium sized Wizard castle. Map source is included.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-30",
  "sha256": "6a079a73a191dc69735ff7414a0678f979f30ac8fad11b92cc60b5f190421cb3",
  "tags": [
   "author=G.Pietz (Laernu)",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fearless Dissension, Chapter I",
  "urls": [
   "https://www.quaddicted.com/filebase/fdissens.zip",
   "https://www.quaddicted.com/files/by-sha256/6a/6a079a73a191dc69735ff7414a0678f979f30ac8fad11b92cc60b5f190421cb3/fdissens.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Addy / TheADrain"
- ],
  "bytes": 42822818,
  "description": "Four (4) map episode with a variety of medieval / wizard / runic themes in a classic style, made for vanilla Quake. Some levels are rather non-linear and large. Map source is included.",
  "files": {
@@ -88,7 +85,6 @@
   "<b>Warning: there is one known soft-lock bug on map #2 addy_cl_m2:</b> <i>\"do NOT go near the lift wall in the final arena room or you will get teleported back behind a locked door\" -Greenwood</i>",
   "Note: run these levels with \"-protocol 999\" in the command line. You'll need a modern engine / source port with protocol 999 support."
  ],
- "release_date": "2023-01-13",
  "sha256": "adbc6ba67298bbbc8564d7e0f7301acfcade57743d84c690ae61f482a09fdec0",
  "tags": [
   "author=Addy / TheADrain",
@@ -118,7 +114,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cold Light v1.2",
  "urls": [
   "https://www.quaddicted.com/filebase/coldlight_1_2.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/adbc6ba67298bbbc8564d7e0f7301acfcade57743d84c690ae61f482a09fdec0/coldlight_1_2.zip"

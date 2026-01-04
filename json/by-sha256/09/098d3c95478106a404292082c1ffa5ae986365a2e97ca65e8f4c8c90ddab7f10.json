@@ -1,11 +1,5 @@
 {
- "authors": [
-  "ExaByt"
- ],
  "bytes": 15623856,
- "depends": [
-  "copper=1.30"
- ],
  "description": "Large, open map in an egyptian theme, with huge outdoor sections and horde battles leading to a very high monster counts. Inspired by Serious Sam.",
  "files": {
   "gfx/": {
@@ -142,7 +136,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-06-17",
  "sha256": "098d3c95478106a404292082c1ffa5ae986365a2e97ca65e8f4c8c90ddab7f10",
  "tags": [
   "author=ExaByt",
@@ -161,7 +154,6 @@
   "type=map",
   "zipbasedir=copper/"
  ],
- "title": "High Noon In Akhetaten",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/09/098d3c95478106a404292082c1ffa5ae986365a2e97ca65e8f4c8c90ddab7f10/amarna_v1.2.zip",
   "https://x901.net/quaddictedfiles/amarna_v1.2.zip"

@@ -1,13 +1,4 @@
 {
- "authors": [
-  "Golden boy",
-  "RickyT23",
-  "Trinca",
-  "Willem",
-  "ericw",
-  "nonentity",
-  "spy"
- ],
  "bytes": 7994023,
  "description": "Results of the third Coagula Contest (mid-2009): six small space maps plus a start map. Optional skyboxes are included.",
  "files": {
@@ -186,7 +177,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-04-03",
  "sha256": "483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4",
  "tags": [
   "author=Golden boy",
@@ -218,7 +208,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Coagula Mappack #3",
  "urls": [
   "https://www.quaddicted.com/filebase/coagula3_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/48/483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4/coagula3_pack.zip"

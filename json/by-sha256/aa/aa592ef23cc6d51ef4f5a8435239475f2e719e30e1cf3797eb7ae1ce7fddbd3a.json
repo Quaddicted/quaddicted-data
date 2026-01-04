@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 1112573,
  "description": "Small, bright map in a temple/metal style.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-08-26",
  "sha256": "aa592ef23cc6d51ef4f5a8435239475f2e719e30e1cf3797eb7ae1ce7fddbd3a",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dimensionless Tomb",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/aa/aa592ef23cc6d51ef4f5a8435239475f2e719e30e1cf3797eb7ae1ce7fddbd3a/dltomb.zip",
   "https://x901.net/quaddictedfiles/dltomb.zip"

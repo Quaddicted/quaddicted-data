@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bad Ash"
- ],
  "bytes": 300401,
  "description": "Large leaked room with monsters and many rockets. Requires an engine with increased limits. Map source is included.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-09",
  "sha256": "ff956657ac3632cdedc153f19a1f0cd828db391d75846b20260d9604a49e92be",
  "tags": [
   "author=Bad Ash",
@@ -62,7 +58,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Arenaq",
  "urls": [
   "https://www.quaddicted.com/filebase/arenaq.zip",
   "https://www.quaddicted.com/files/by-sha256/ff/ff956657ac3632cdedc153f19a1f0cd828db391d75846b20260d9604a49e92be/arenaq.zip"

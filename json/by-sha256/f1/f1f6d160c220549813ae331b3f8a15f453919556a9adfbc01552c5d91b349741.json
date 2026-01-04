@@ -1,11 +1,5 @@
 {
- "authors": [
-  "nolcoz"
- ],
  "bytes": 15416862,
- "depends": [
-  "ad>=1.71"
- ],
  "description": "Large abstract floating ikwhite level. Comes with a new model, sounds, a custom skybox and a music track. The map source is included.",
  "files": {
   "gfx/env/": {
@@ -96,7 +90,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.71</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-04-28",
  "sha256": "f1f6d160c220549813ae331b3f8a15f453919556a9adfbc01552c5d91b349741",
  "tags": [
   "author=nolcoz",
@@ -126,7 +119,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Un Lugar Otro Que El Cielo",
  "urls": [
   "https://www.quaddicted.com/filebase/loqec.zip",
   "https://www.quaddicted.com/files/by-sha256/f1/f1f6d160c220549813ae331b3f8a15f453919556a9adfbc01552c5d91b349741/loqec.zip"

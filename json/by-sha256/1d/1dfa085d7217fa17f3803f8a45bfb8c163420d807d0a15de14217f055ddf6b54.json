@@ -1,22 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Bal",
-  "Burnham",
-  "Chris Holden",
-  "Fairweather",
-  "Gnemeth",
-  "Greenwood",
-  "Markie Music",
-  "Mazu",
-  "MikeC",
-  "Mista Heita",
-  "Newhouse",
-  "Pinchy",
-  "VoidForce",
-  "h4724",
-  "khreathor"
- ],
  "bytes": 20731612,
  "description": "Episode of 14 smallish speedmap-like levels in varying themes. The maps are based on the <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper</a> mod (included) and there is a custom music track. The map sources are included.",
  "files": {
@@ -640,7 +622,6 @@
  "notes": [
   "Some of these maps require a source port with increased limits and/or BSP2 support."
  ],
- "release_date": "2020-11-09",
  "sha256": "1dfa085d7217fa17f3803f8a45bfb8c163420d807d0a15de14217f055ddf6b54",
  "tags": [
   "author=Artistical",
@@ -703,7 +684,6 @@
   "type=mod",
   "zipbasedir=snack/"
  ],
- "title": "Speedmap Snack Pack",
  "urls": [
   "https://www.quaddicted.com/filebase/snack.zip",
   "https://www.quaddicted.com/files/by-sha256/1d/1dfa085d7217fa17f3803f8a45bfb8c163420d807d0a15de14217f055ddf6b54/snack.zip"

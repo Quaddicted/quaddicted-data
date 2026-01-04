@@ -1,11 +1,5 @@
 {
- "authors": [
-  "GW_X9"
- ],
  "bytes": 78847327,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Small city themed level, a remake of the first level of Duke Nukem 3D + custom start map (startduke.bsp).   Textures from DukeHRP, sounds from Duke3D, music remixed by the author.",
  "files": {
   "DNQ.txt": {
@@ -377,7 +371,6 @@
   "Unzip into /ad/ folder of <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> (NOT included) then start via console: \"game ad; map startduke\"",
   " File overwrite warning: this mod overwrites music file /ad/music/track03.wav"
  ],
- "release_date": "2022-10-16",
  "sha256": "19bf28fe152162d7b03465efa11dcbe4bc1b25e1e4c3a74d6d86f675c7fcf33f",
  "tags": [
   "author=GW_X9",
@@ -403,7 +396,6 @@
   "type=mod",
   "zipbasedir=ad/"
  ],
- "title": "Duke Nukem Quake",
  "urls": [
   "https://www.quaddicted.com/filebase/dnq.zip",
   "https://www.quaddicted.com/files/by-sha256/19/19bf28fe152162d7b03465efa11dcbe4bc1b25e1e4c3a74d6d86f675c7fcf33f/dnq.zip"

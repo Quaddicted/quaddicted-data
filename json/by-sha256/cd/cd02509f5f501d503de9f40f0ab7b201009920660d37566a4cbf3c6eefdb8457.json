@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Luigiman2020"
- ],
  "bytes": 4951724,
  "description": "Small map based on a real-life location, possibly a school. Contains some custom textures, including a very specific stucco wall and carpet.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-03-03",
  "sha256": "cd02509f5f501d503de9f40f0ab7b201009920660d37566a4cbf3c6eefdb8457",
  "tags": [
   "author=Luigiman2020",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Quake DVM",
  "urls": [
   "https://www.quaddicted.com/filebase/quakedvm.zip",
   "https://www.quaddicted.com/files/by-sha256/cd/cd02509f5f501d503de9f40f0ab7b201009920660d37566a4cbf3c6eefdb8457/quakedvm.zip"

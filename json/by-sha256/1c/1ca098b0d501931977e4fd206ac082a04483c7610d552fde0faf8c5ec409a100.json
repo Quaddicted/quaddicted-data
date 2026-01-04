@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 398177,
  "description": "Additional map made for <a href=\"987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c\">SM65</a>.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "1ca098b0d501931977e4fd206ac082a04483c7610d552fde0faf8c5ec409a100",
  "tags": [
   "author=czg",
@@ -28,7 +24,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_czg2.zip",
   "https://www.quaddicted.com/files/by-sha256/1c/1ca098b0d501931977e4fd206ac082a04483c7610d552fde0faf8c5ec409a100/sm65_czg2.zip"

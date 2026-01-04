@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew 'than' Palmer"
- ],
  "bytes": 2443317,
  "description": "SP remake of Quake's original deathmatch map DM3. Highly detailed and many expanded areas yet still maintaining the original layout in deathmatch mode. Map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-19",
  "sha256": "6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c",
  "tags": [
   "author=Andrew 'than' Palmer",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Occupied Base",
  "urls": [
   "https://www.quaddicted.com/filebase/dm3rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/6d/6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c/dm3rmx.zip"

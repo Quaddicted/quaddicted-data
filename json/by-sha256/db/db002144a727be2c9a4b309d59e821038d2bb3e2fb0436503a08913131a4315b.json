@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Mike Woodham",
-  "Tronyn"
- ],
  "bytes": 1247863,
  "description": "Medium to large Egyptian temple based on Tronyn's \"Runezig\" map.",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-12-02",
  "sha256": "db002144a727be2c9a4b309d59e821038d2bb3e2fb0436503a08913131a4315b",
  "tags": [
   "author=Mike Woodham",
@@ -43,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "For My Babies 8",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb8.zip",
   "https://www.quaddicted.com/files/by-sha256/db/db002144a727be2c9a4b309d59e821038d2bb3e2fb0436503a08913131a4315b/fmb8.zip"

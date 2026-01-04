@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Stuart Presley"
- ],
  "bytes": 391612,
  "description": "Small, simple medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-07",
  "sha256": "b98f3493485a18ce880eeb7ea50397c0b516b59da58cd318662d58ebf12e51e2",
  "tags": [
   "author=Stuart Presley",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Hall of Trilogy",
  "urls": [
   "https://www.quaddicted.com/filebase/thoth96.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b98f3493485a18ce880eeb7ea50397c0b516b59da58cd318662d58ebf12e51e2/thoth96.zip"

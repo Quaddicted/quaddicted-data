@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lunaran"
- ],
  "bytes": 3223141,
  "description": "Updated version of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a>, featuring bug-fixes and further gameplay tweaks, particularly concerning coop mode. The mod source is included.",
  "files": {
@@ -667,11 +664,6 @@
  "notes": [
   "This is a standalone version which does not require the previous one.<br>A newer version is available <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">here</a>."
  ],
- "provides": {
-  "copper": "1.11"
- },
- "release_date": "2020-07-15",
- "release_group": "copper",
  "sha256": "dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df",
  "tags": [
   "author=Lunaran",
@@ -690,7 +682,6 @@
   "version=1.11",
   "zipbasedir=/"
  ],
- "title": "Copper - Version 1.11",
  "urls": [
   "https://www.quaddicted.com/filebase/copper_v1_11.zip",
   "https://www.quaddicted.com/files/by-sha256/dc/dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df/copper_v1_11.zip"

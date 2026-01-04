@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Paul Lawitzki"
- ],
  "bytes": 19298538,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Large Escher-themed map using a completely new texture set and skybox. Features spacious rooms, vertical combat and many innovative entity setups, such as buttons requiring specific weapons to progress.",
  "files": {
   "copper/": {
@@ -93,7 +87,6 @@
   "This file was repackaged for Quake Injector compatibility. The original package was bundled with a depreciated version of Copper which has been removed to prevent conflicts.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-04",
  "sha256": "152db76fa2af981c5e4dbd823681f0431c9635df5156171e0e9ed5efea8e4b4f",
  "tags": [
   "author=Paul Lawitzki",
@@ -112,7 +105,6 @@
   "title=The Trickster's Domain",
   "type=map"
  ],
- "title": "The Trickster's Domain",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/15/152db76fa2af981c5e4dbd823681f0431c9635df5156171e0e9ed5efea8e4b4f/plaw03.zip",
   "https://x901.net/quaddictedfiles/plaw03.zip"

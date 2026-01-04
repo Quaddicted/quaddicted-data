@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rhoq"
- ],
  "bytes": 12688700,
  "description": "Large Doom-style level using original Doom textures. It starts out in a remake/conversion of E1M1 and provides a journey through various base and underground/marble temple areas, effectively using a Doom-like layout. Comes with a custom skybox and a music track.",
  "files": {
@@ -93,7 +90,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-03-30",
  "sha256": "4e27a112205d885bea718444987e5ee48b712f0c96f6fb9eac95d87b38c0c900",
  "tags": [
   "author=Rhoq",
@@ -115,7 +111,6 @@
   "type=mod",
   "zipbasedir=rhoq_mbei/"
  ],
- "title": "Mars Base Excavation Incident",
  "urls": [
   "https://www.quaddicted.com/filebase/rhoqdoom_mbei.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4e27a112205d885bea718444987e5ee48b712f0c96f6fb9eac95d87b38c0c900/rhoqdoom_mbei.zip"

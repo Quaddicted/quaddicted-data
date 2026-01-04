@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 1180991,
  "description": "Unsealed map using a variety of textures.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-08-12",
  "sha256": "6983ada1102109ee59f1a27c9a73de9b3858d302ba989dba3608b7722474d4be",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dead Voices",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/69/6983ada1102109ee59f1a27c9a73de9b3858d302ba989dba3608b7722474d4be/voices.zip",
   "https://x901.net/quaddictedfiles/voices.zip"

@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Zwiffle",
-  "necros"
- ],
  "bytes": 1210425,
  "description": "Unthemed / 3 SP maps / necros, Zwiffle<br><b>Note:</b> necros' maps require <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>",
  "files": {
@@ -36,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-09-08",
  "sha256": "9542e8459149ba391c56609521554453931a6d05af1c0efc8e3a1236089af01a",
  "tags": [
   "author=Zwiffle",
@@ -52,7 +47,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 156 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm156_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/95/9542e8459149ba391c56609521554453931a6d05af1c0efc8e3a1236089af01a/sm156_pack.zip"

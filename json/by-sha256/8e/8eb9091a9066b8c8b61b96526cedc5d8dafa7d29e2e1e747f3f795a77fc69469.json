@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The_Pirate"
- ],
  "bytes": 1173961,
  "description": "Small factory with machinery, a storage area and an office floor. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-11-01",
  "sha256": "8eb9091a9066b8c8b61b96526cedc5d8dafa7d29e2e1e747f3f795a77fc69469",
  "tags": [
   "author=The_Pirate",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bad Decision",
  "urls": [
   "https://www.quaddicted.com/filebase/baddec.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8eb9091a9066b8c8b61b96526cedc5d8dafa7d29e2e1e747f3f795a77fc69469/baddec.zip"

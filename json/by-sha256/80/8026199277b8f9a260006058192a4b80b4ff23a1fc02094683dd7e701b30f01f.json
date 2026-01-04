@@ -1,7 +1,4 @@
 {
- "authors": [
-  "bmFbr"
- ],
  "bytes": 19932084,
  "description": "Large level with a secret military research base in the mountains built on top of a runic/metal dungeon. It is based on the Progs_dump mod (included) and comes with a few modified models and a custom skybox. The map and QC sources are included.",
  "files": {
@@ -488,7 +485,6 @@
  "notes": [
   "This map requires a source port with increased limits"
  ],
- "release_date": "2020-11-29",
  "sha256": "8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f",
  "tags": [
   "author=bmFbr",
@@ -518,7 +514,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Mountains of Insanity",
  "urls": [
   "https://www.quaddicted.com/filebase/bmfbrsp2_v1.2.zip",
   "https://www.quaddicted.com/files/by-sha256/80/8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f/bmfbrsp2_v1.2.zip"

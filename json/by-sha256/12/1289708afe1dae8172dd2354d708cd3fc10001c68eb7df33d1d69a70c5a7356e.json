@@ -1,7 +1,4 @@
 {
- "authors": [
-  "XeNoN"
- ],
  "bytes": 624983,
  "description": "A fairly large canyon with several Q2base buildings and a temple section, made using only 100 brushes. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-12-17",
  "sha256": "1289708afe1dae8172dd2354d708cd3fc10001c68eb7df33d1d69a70c5a7356e",
  "tags": [
   "author=XeNoN",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Centurion",
  "urls": [
   "https://www.quaddicted.com/filebase/xnq1002.zip",
   "https://www.quaddicted.com/files/by-sha256/12/1289708afe1dae8172dd2354d708cd3fc10001c68eb7df33d1d69a70c5a7356e/xnq1002.zip"

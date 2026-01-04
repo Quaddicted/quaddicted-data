@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Leviathan",
-  "PuLSaR",
-  "Scampie",
-  "Zwiffle",
-  "drew"
- ],
  "bytes": 1434686,
  "description": "Unthemed / 5 __ maps / drew, Leviathan, PuLSaR, Scampie, Zwiffle",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-21",
  "sha256": "74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc",
  "tags": [
   "author=Leviathan",
@@ -67,7 +59,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 61 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm61_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/74/74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc/sm61_pack.zip"

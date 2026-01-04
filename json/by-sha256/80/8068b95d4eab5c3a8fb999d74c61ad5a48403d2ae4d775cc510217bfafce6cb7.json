@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Roberts"
- ],
  "bytes": 388041,
  "description": "Very small map (three rooms) with mixed texture themes and a large battle mech.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-09",
  "sha256": "8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7",
  "tags": [
   "author=Paul Roberts",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "MekBase",
  "urls": [
   "https://www.quaddicted.com/filebase/mekbase.zip",
   "https://www.quaddicted.com/files/by-sha256/80/8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7/mekbase.zip"

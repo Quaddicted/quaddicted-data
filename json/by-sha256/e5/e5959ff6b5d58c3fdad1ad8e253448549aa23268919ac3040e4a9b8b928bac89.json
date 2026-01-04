@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bario"
- ],
  "bytes": 4349149,
  "description": "A four-level campaign with chemical lab, a sewer system, and a dark forest. A few new textures and reskinned monsters. The levels are dark and quite cramped.",
  "files": {
@@ -110,7 +107,6 @@
   "extract": "{base}/bario3/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-30",
  "sha256": "e5959ff6b5d58c3fdad1ad8e253448549aa23268919ac3040e4a9b8b928bac89",
  "tags": [
   "author=Bario",
@@ -130,7 +126,6 @@
   "type=mod",
   "zipbasedir=bario3/"
  ],
- "title": "Bario3",
  "urls": [
   "https://www.quaddicted.com/filebase/bario3.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e5959ff6b5d58c3fdad1ad8e253448549aa23268919ac3040e4a9b8b928bac89/bario3.zip"

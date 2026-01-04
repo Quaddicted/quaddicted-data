@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DeeDoubleU"
- ],
  "bytes": 681996,
  "description": "<i>\"Did you ever wondered what's it like to be a monster in quake? No? Well, I did. Small simple map which parodies Portal and The Stanley Parable. Save often!\"</i>",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-12-18",
  "sha256": "0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae",
  "tags": [
   "author=DeeDoubleU",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Monster Training Facility",
  "urls": [
   "https://www.quaddicted.com/filebase/dwmtf.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae/dwmtf.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "xlarve"
- ],
  "bytes": 4302618,
  "description": "Large Metal/runic/mixed-tex dungeon with relentless arena combat in small rooms and tight corridors. 500+ monsters in total.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2017-06-12",
  "sha256": "532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2",
  "tags": [
   "author=xlarve",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "xlarve's dream",
  "urls": [
   "https://www.quaddicted.com/filebase/xld.zip",
   "https://www.quaddicted.com/files/by-sha256/53/532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2/xld.zip"

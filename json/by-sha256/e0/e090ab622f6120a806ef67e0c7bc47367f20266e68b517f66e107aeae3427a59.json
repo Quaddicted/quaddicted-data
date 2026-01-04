@@ -1,7 +1,4 @@
 {
- "authors": [
-  "c0j"
- ],
  "bytes": 601255,
  "description": "Medium-sized moldy brick level inside a cave. It runs on the SMP mod (included). The map source is included.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/pam1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-12-09",
  "sha256": "e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59",
  "tags": [
   "author=c0j",
@@ -57,7 +53,6 @@
   "type=mod",
   "zipbasedir=pam1/"
  ],
- "title": "Mayhem Pantera",
  "urls": [
   "https://www.quaddicted.com/filebase/pam1_qmap.zip",
   "https://www.quaddicted.com/files/by-sha256/e0/e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59/pam1_qmap.zip"

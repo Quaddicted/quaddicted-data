@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rain Rannu (Spacegod)"
- ],
  "bytes": 1849560,
  "description": "Short story-driven SP \"hub\" with 4 maps. Very original style and gameplay!",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-20",
  "sha256": "a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016",
  "tags": [
   "author=Rain Rannu (Spacegod)",
@@ -56,7 +52,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tale of Abbot's Rune",
  "urls": [
   "https://www.quaddicted.com/filebase/sgodrune.zip",
   "https://www.quaddicted.com/files/by-sha256/a1/a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016/sgodrune.zip"

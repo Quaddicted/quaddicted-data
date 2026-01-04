@@ -1,24 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "Bloodshot",
-  "DragonsForLunch",
-  "EmeraldTiger",
-  "Greenwood",
-  "Grome",
-  "Heresy",
-  "JPal",
-  "Juzley",
-  "Makkon",
-  "Mazu",
-  "Mista Heita",
-  "Paul Lawitzki",
-  "Scampie",
-  "Sze",
-  "Trashbang",
-  "bmFbr",
-  "zigi"
- ],
  "bytes": 402449095,
  "current_main_group_package": true,
  "description": "Very large sci-fi base themed mod + map pack inspired by <a href=\"349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c\">Rubicon 2</a>. This version 1.2 update has new maps, features, music, and bug fixes.  This download is a complete full package, and you don't need any previous versions. <a href=\"https://www.youtube.com/watch?v=pevTGzPbNQs\">(YouTube trailer)</a>. FGD and devkit are included, see the readme and manual for more info.",
@@ -3680,11 +3660,6 @@
  "notes": [
   "A modern engine / source port with increased limits is required."
  ],
- "provides": {
-  "alkaline": "1.20"
- },
- "release_date": "2023-03-03",
- "release_group": "alkaline",
  "sha256": "5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780",
  "tags": [
   "author=Bal",
@@ -3754,7 +3729,6 @@
   "type=mod",
   "version=1.20"
  ],
- "title": "Alkaline 1.2",
  "urls": [
   "https://www.quaddicted.com/filebase/alk1.2.zip",
   "https://www.quaddicted.com/files/by-sha256/5c/5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780/alk1.2.zip"

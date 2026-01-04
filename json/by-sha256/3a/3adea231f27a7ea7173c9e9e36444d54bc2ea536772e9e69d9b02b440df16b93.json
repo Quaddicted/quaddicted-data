@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "Cybear",
-  "necros",
-  "nekroe"
- ],
  "bytes": 866393,
  "description": "Use the Egypt texture set created by sock as converted by Fren / 4 SP maps / Apollo, Cybear, necros, nekroe",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-24",
  "sha256": "3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93",
  "tags": [
   "author=Apollo",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 35 - Use the Egypt texture set created by sock as converted by Fren",
  "urls": [
   "https://www.quaddicted.com/filebase/sm35_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3a/3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93/sm35_pack.zip"

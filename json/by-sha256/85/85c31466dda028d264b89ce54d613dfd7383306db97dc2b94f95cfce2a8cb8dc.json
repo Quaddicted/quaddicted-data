@@ -1,7 +1,4 @@
 {
- "authors": [
-  "YukiRaven"
- ],
  "bytes": 4489751,
  "description": "Medium-sized red runic style temple.",
  "files": {
@@ -30,7 +27,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2017-10-18",
  "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "tags": [
   "author=YukiRaven",
@@ -54,7 +50,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Temple of Azathoth",
  "urls": [
   "https://www.quaddicted.com/filebase/tofaz.zip",
   "https://www.quaddicted.com/files/by-sha256/85/85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc/tofaz.zip"

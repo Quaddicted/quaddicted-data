@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 398726,
  "description": "czg's entry for the <a href=\"4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc\">q1tm2</a> event: a small to medium sized, dark base map using DOOM textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-12-20",
  "sha256": "13807871f8f4d17eba878a476e3d8a5a400a8f1513ae8f33f421365d7be038ec",
  "tags": [
   "author=czg",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "hrdtrffc  (Hard Traffic)",
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm2_czg.zip",
   "https://www.quaddicted.com/files/by-sha256/13/13807871f8f4d17eba878a476e3d8a5a400a8f1513ae8f33f421365d7be038ec/q1tm2_czg.zip"

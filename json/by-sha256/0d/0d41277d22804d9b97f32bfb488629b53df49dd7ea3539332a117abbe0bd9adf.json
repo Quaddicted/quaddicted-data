@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brett Wilcock"
- ],
  "bytes": 719211,
  "description": "Large 2D-ish map with a mixture of texture themes and architectural ideas. And a Baywatch poster...",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-06",
  "sha256": "0d41277d22804d9b97f32bfb488629b53df49dd7ea3539332a117abbe0bd9adf",
  "tags": [
   "author=Brett Wilcock",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Slaughterfest 97",
  "urls": [
   "https://www.quaddicted.com/filebase/sfest97.zip",
   "https://www.quaddicted.com/files/by-sha256/0d/0d41277d22804d9b97f32bfb488629b53df49dd7ea3539332a117abbe0bd9adf/sfest97.zip"

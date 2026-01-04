@@ -1,15 +1,5 @@
 {
- "authors": [
-  "Artistical",
-  "Elithium",
-  "Fairweather",
-  "Greenwood",
-  "MortalMaxx"
- ],
  "bytes": 4400729,
- "depends": [
-  "copper>=1.00"
- ],
  "description": "Speedmapping pack featuring six SP levels. The map sources are included.",
  "files": {
   "maps/sm203_artistical.bsp": {
@@ -140,7 +130,6 @@
  "notes": [
   "These maps requires the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod."
  ],
- "release_date": "2019-10-30",
  "sha256": "4306525071e2661793c9259ce2c9ce8b4a4c10a7e0e9d63e3968c413e045e8a1",
  "tags": [
   "author=Artistical",
@@ -167,7 +156,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 203: 99 brushes or less",
  "urls": [
   "https://www.quaddicted.com/filebase/sm203-pack.zip",
   "https://www.quaddicted.com/files/by-sha256/43/4306525071e2661793c9259ce2c9ce8b4a4c10a7e0e9d63e3968c413e045e8a1/sm203-pack.zip"

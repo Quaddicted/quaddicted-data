@@ -1,21 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "Danzadan",
-  "Fairweather",
-  "Ing-ing",
-  "JCR",
-  "Marandal",
-  "Naitelveni",
-  "Newhouse",
-  "Pinchy",
-  "Shambler",
-  "Ukko",
-  "ionous",
-  "ish",
-  "kamp",
-  "onetruepurple"
- ],
  "bytes": 43988441,
  "description": "15 speedjam SP levels, five custom skyboxes, a music track, and some map sources.",
  "files": {
@@ -422,7 +405,6 @@
  "notes": [
   "These maps probably require a source port with increased limits."
  ],
- "release_date": "2019-03-07",
  "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
  "tags": [
   "author=Bal",
@@ -465,7 +447,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 193 - Quakeguy Goes to White Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/sm193_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96/sm193_pack.zip"

@@ -1,17 +1,4 @@
 {
- "authors": [
-  "Chris Holden",
-  "Danz",
-  "Eduardo S\u00e1nchez Barrios",
-  "Entsoy",
-  "Greenwood",
-  "Radiatoryang",
-  "RickyT23",
-  "Scythe",
-  "Zigi",
-  "iYago",
-  "ish"
- ],
  "bytes": 35979892,
  "description": "A pack of 10 <a href=\"409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391\">Koohoo</a> themed Mesoamerican temple maps made in two weeks, for vanilla Quake. Custom start map is included, and map source is included.",
  "files": {
@@ -253,7 +240,6 @@
  "notes": [
   "Some maps may need a source port / modern engine with increased limits."
  ],
- "release_date": "2022-03-30",
  "sha256": "bb80595c90b64c7c0cf04f6272d509ccbb699774bb05af8f25630554e1f69e50",
  "tags": [
   "author=Chris Holden",
@@ -302,7 +288,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Retro Jam 7 - Koohoo Theme",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam7.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bb80595c90b64c7c0cf04f6272d509ccbb699774bb05af8f25630554e1f69e50/retrojam7.zip"

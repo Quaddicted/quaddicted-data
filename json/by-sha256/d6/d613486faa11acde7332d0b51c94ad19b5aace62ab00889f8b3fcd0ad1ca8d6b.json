@@ -1,11 +1,5 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 2614915,
- "depends": [
-  "ad>=1.50"
- ],
  "description": "Large Egyptian-themed temple. The map source is included.",
  "files": {
   "ad_scastle1d_readme.txt": {
@@ -41,7 +35,6 @@
  "notes": [
   "This map requires <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions</a> and an engine port with increased limits."
  ],
- "release_date": "2017-01-11",
  "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "tags": [
   "author=sock",
@@ -73,7 +66,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Nyarlathotep's Sand Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_scastle1d.zip",
   "https://www.quaddicted.com/files/by-sha256/d6/d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b/ad_scastle1d.zip"

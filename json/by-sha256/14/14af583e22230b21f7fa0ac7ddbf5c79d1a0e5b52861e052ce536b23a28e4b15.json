@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Smith"
- ],
  "bytes": 766595,
  "description": "Large Wizard map with caverns and a Base bit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-27",
  "sha256": "14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15",
  "tags": [
   "author=Andrew Smith",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Epoch Turning",
  "urls": [
   "https://www.quaddicted.com/filebase/epoch.zip",
   "https://www.quaddicted.com/files/by-sha256/14/14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15/epoch.zip"

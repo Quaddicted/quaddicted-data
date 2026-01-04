@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zwiffle"
- ],
  "bytes": 1912859,
  "description": "Medium-sized base/wizard map where two Quake dimensions clash.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-06-25",
  "sha256": "53277de96328a8d0ef7d4a8ba1d17827706455d568974cd465f7eec60f79ad5a",
  "tags": [
   "author=Zwiffle",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dimension of the Doomed",
  "urls": [
   "https://www.quaddicted.com/filebase/qx11_z1.zip",
   "https://www.quaddicted.com/files/by-sha256/53/53277de96328a8d0ef7d4a8ba1d17827706455d568974cd465f7eec60f79ad5a/qx11_z1.zip"

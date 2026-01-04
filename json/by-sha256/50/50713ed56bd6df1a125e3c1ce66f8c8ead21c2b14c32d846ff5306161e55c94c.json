@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Wright Bagwell"
- ],
  "bytes": 1086005,
  "description": "Small Medieval map with focus on arena combat.",
  "files": {
@@ -82,7 +79,6 @@
   "extract": "{base}/vigil/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-16",
  "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
  "tags": [
   "author=Wright Bagwell",
@@ -105,7 +101,6 @@
   "type=mod",
   "zipbasedir=vigil/"
  ],
- "title": "The Vigil",
  "urls": [
   "https://www.quaddicted.com/filebase/vigil.zip",
   "https://www.quaddicted.com/files/by-sha256/50/50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c/vigil.zip"

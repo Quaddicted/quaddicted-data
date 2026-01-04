@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ozzy Farinas"
- ],
  "bytes": 900114,
  "description": "Medium sized map, dark and cramped caves/canyon that lead to a dark and cramped abode. Quite hard.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-13",
  "sha256": "1be5226303c19b80ed977745b89ebe2640fa41c4d72a8439380b877960fef8e3",
  "tags": [
   "author=Ozzy Farinas",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Canyon's Abode",
  "urls": [
   "https://www.quaddicted.com/filebase/canabode.zip",
   "https://www.quaddicted.com/files/by-sha256/1b/1be5226303c19b80ed977745b89ebe2640fa41c4d72a8439380b877960fef8e3/canabode.zip"

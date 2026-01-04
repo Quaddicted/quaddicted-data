@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Qmaster"
- ],
  "bytes": 889928,
  "description": "Small Ebon-style level based on E4M4. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-07-16",
  "sha256": "6569692c294ce8710d4ab5c1c4da38d69a3316b9b774b281b64d2683cfdaad08",
  "tags": [
   "author=Qmaster",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Stalwart Stone",
  "urls": [
   "https://www.quaddicted.com/filebase/rin1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/65/6569692c294ce8710d4ab5c1c4da38d69a3316b9b774b281b64d2683cfdaad08/rin1m1.zip"

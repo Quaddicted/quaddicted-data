@@ -1,30 +1,4 @@
 {
- "authors": [
-  "Atom1K",
-  "Chnucki Erdbeer",
-  "Chuma",
-  "Colossus",
-  "CommonCold",
-  "DetroHogga",
-  "Fix",
-  "Indigo",
-  "Jerry",
-  "Knefarious",
-  "KurtDamage",
-  "Niccolicious",
-  "Shades",
-  "Simon Novak",
-  "Sock",
-  "StormCatcher.77",
-  "Thelokk",
-  "Thunder Goose",
-  "deviltower",
-  "dumptruck_ds",
-  "iYago",
-  "ioridyson",
-  "scumpsmallbrain",
-  "sixsik6"
- ],
  "bytes": 28206782,
  "description": "Pack of 24 maps in a retro e2/metal/wizard style, connected by a start map. The first Quake jam hosted by Quake 2's Map Center discord, featuring entries from many first-time Quake mappers alongside a few veterans.",
  "files": {
@@ -496,7 +470,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-08-08",
  "sha256": "7c3c3248aad0ed208ea072fc595220627d403f158a82884b0b6630f0f06229d9",
  "tags": [
   "author=Atom1K",
@@ -535,7 +508,6 @@
   "type=map",
   "type=mapjam"
  ],
- "title": "Map-Center Quake Retrojam 1",
  "urls": [
   "https://www.quaddicted.com/files/7c/7c3c3248aad0ed208ea072fc595220627d403f158a82884b0b6630f0f06229d9by-sha256/mc_retrojam1.zip",
   "https://x901.net/quaddictedfiles/mc_retrojam1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Turner"
- ],
  "bytes": 443371,
  "description": "Very small hotel-like level with a few new textures, most notably an animated tv screen with a dog.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-24",
  "sha256": "7fa5c72df6693539a83be12b0de23a42f2718d412a6297d4c0aee9d51104708d",
  "tags": [
   "author=Andrew Turner",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hotel Kique-Asse",
  "urls": [
   "https://www.quaddicted.com/filebase/hotel.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7fa5c72df6693539a83be12b0de23a42f2718d412a6297d4c0aee9d51104708d/hotel.zip"

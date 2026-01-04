@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 3871715,
  "current_main_group_package": true,
  "description": "Blue medieval episode with 4 levels (+start/end map), some new monsters and fairly tough gameplay.",
@@ -254,11 +251,6 @@
  "notes": [
   "A patch is available here: <a href=\"8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac\">coe_p</a>."
  ],
- "provides": {
-  "coe": "1.0"
- },
- "release_date": "2000-12-16",
- "release_group": "coe",
  "sha256": "ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -290,7 +282,6 @@
   "version=1.0",
   "zipbasedir=coe/"
  ],
- "title": "Coven of Ebony",
  "urls": [
   "https://www.quaddicted.com/filebase/coe.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d/coe.zip"

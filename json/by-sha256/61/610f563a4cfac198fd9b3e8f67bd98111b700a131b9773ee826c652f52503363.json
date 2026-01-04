@@ -1,11 +1,4 @@
 {
- "authors": [
-  "NotoriousRay",
-  "Preach",
-  "Scampie",
-  "Starbuck",
-  "necros"
- ],
  "bytes": 1087198,
  "description": "Unthemed / 4 SP, 1 DM maps / necros, Preach, NotoriousRay, Scampie, Starbuck",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-08-03",
  "sha256": "610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363",
  "tags": [
   "author=NotoriousRay",
@@ -69,7 +61,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 43 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm43_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/61/610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363/sm43_pack.zip"

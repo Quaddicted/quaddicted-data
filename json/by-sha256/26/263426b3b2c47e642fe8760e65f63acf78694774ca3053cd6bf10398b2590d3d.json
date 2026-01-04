@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Bisseker (tiddles)"
- ],
  "bytes": 860768,
  "description": "Two medium sized metal maps.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-19",
  "sha256": "263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d",
  "tags": [
   "author=Peter Bisseker (tiddles)",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Mymap & Garrison",
  "urls": [
   "https://www.quaddicted.com/filebase/mymap.zip",
   "https://www.quaddicted.com/files/by-sha256/26/263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d/mymap.zip"

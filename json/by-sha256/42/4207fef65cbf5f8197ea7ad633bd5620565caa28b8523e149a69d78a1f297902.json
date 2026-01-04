@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Tronyn",
-  "[Kona]"
- ],
  "bytes": 8234542,
  "description": "Nine-map SP episode with Daikatana E3 and Hexen II textures, and monsters from <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>, Scourge of Armagon and <a href=\"ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d\">Coven of Ebony</a>.",
  "files": {
@@ -597,7 +593,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-19",
  "sha256": "4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902",
  "tags": [
   "author=Tronyn",
@@ -630,7 +625,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Rapture",
  "urls": [
   "https://www.quaddicted.com/filebase/rapture.zip",
   "https://www.quaddicted.com/files/by-sha256/42/4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902/rapture.zip"

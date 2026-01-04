@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Samuel 'Kaiser' Villarreal"
- ],
  "bytes": 7148510,
  "description": "The demo version of an unfinished Quake episode. Contains three medium to large SP maps and a skill selection map, and features some environmental and monster modifications.",
  "files": {
@@ -183,7 +180,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-01-17",
  "sha256": "584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee",
  "tags": [
   "author=Samuel 'Kaiser' Villarreal",
@@ -206,7 +202,6 @@
   "type=mod",
   "type=unfinished"
  ],
- "title": "Quake: Harvester of Chaos (Demo)",
  "urls": [
   "https://www.quaddicted.com/filebase/kq.zip",
   "https://www.quaddicted.com/files/by-sha256/58/584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee/kq.zip"

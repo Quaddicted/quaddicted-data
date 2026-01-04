@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leafface"
- ],
  "bytes": 825427,
  "description": "Medium sized Wizard map. Second map of the LFSP series.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-01",
  "sha256": "8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed",
  "tags": [
   "author=Leafface",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Sneer of shit",
  "urls": [
   "https://www.quaddicted.com/filebase/lfsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/8a/8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed/lfsp2.zip"

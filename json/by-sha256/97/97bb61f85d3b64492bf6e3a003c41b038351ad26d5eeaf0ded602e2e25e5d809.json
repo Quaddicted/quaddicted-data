@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 18013501,
  "description": "Large Knave-textured underground lava fortress. It is based on the Progs_dump mod (included) and comes with a few new models, sounds, and a custom music track. The map and qc sources are included.",
  "files": {
@@ -522,7 +519,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-07-04",
  "sha256": "97bb61f85d3b64492bf6e3a003c41b038351ad26d5eeaf0ded602e2e25e5d809",
  "tags": [
   "author=JPal",
@@ -553,7 +549,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Chthonic Deities",
  "urls": [
   "https://www.quaddicted.com/filebase/jpqm4.zip",
   "https://www.quaddicted.com/files/by-sha256/97/97bb61f85d3b64492bf6e3a003c41b038351ad26d5eeaf0ded602e2e25e5d809/jpqm4.zip"

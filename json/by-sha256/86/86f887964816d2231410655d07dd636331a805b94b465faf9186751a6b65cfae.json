@@ -1,25 +1,4 @@
 {
- "authors": [
-  "Burnham",
-  "Chadquad",
-  "Commoncold",
-  "Joymodulo",
-  "Krzykyle",
-  "Lob",
-  "Markie",
-  "Mazu",
-  "Newhouse",
-  "Pinchy",
-  "Rorybabory",
-  "Skorly",
-  "Spootnik",
-  "Velcrosasquatch",
-  "Vl2m",
-  "alexUnder",
-  "llanstoloq (Jameson)",
-  "magnetbox",
-  "nickster"
- ],
  "bytes": 151225304,
  "description": "18 map pack from many authors (organised by Markie) and run in cooperation with Reload Magazine, with the goal of picking three entries to write about in an article. No specific style or theme. Contains a start map connecting all maps together. All maps based on the Copper mod (included).",
  "files": {
@@ -1091,7 +1070,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-09-12",
  "sha256": "86f887964816d2231410655d07dd636331a805b94b465faf9186751a6b65cfae",
  "tags": [
   "author=Burnham",
@@ -1125,7 +1103,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Reload jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/86/86f887964816d2231410655d07dd636331a805b94b465faf9186751a6b65cfae/reload.zip",
   "https://x901.net/quaddictedfiles/reload.zip"

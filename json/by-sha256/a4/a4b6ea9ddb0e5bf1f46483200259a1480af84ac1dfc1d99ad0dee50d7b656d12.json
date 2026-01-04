@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matthias Kunze"
- ],
  "bytes": 34935,
  "description": "A single room with a bunch of monsters and items.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-13",
  "sha256": "a4b6ea9ddb0e5bf1f46483200259a1480af84ac1dfc1d99ad0dee50d7b656d12",
  "tags": [
   "author=Matthias Kunze",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Kill 'em all",
  "urls": [
   "https://www.quaddicted.com/filebase/killemal.zip",
   "https://www.quaddicted.com/files/by-sha256/a4/a4b6ea9ddb0e5bf1f46483200259a1480af84ac1dfc1d99ad0dee50d7b656d12/killemal.zip"

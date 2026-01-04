@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rob Marton"
- ],
  "bytes": 504326,
  "description": "Medium sized blue metal base map with a unique theme.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-06",
  "sha256": "3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9",
  "tags": [
   "author=Rob Marton",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Anonca base: The shamblin",
  "urls": [
   "https://www.quaddicted.com/filebase/anonca1.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9/anonca1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Turner"
- ],
  "bytes": 647757,
  "description": "Medium sized Base map with an outside area and a heavy tech bit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-10",
  "sha256": "6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3",
  "tags": [
   "author=Mark Turner",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Culling Station",
  "urls": [
   "https://www.quaddicted.com/filebase/colony2.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3/colony2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Juha Koiste"
- ],
  "bytes": 275398,
  "description": "Medium sized Medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-28",
  "sha256": "74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c",
  "tags": [
   "author=Juha Koiste",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dark Ages",
  "urls": [
   "https://www.quaddicted.com/filebase/darkages.zip",
   "https://www.quaddicted.com/files/by-sha256/74/74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c/darkages.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "velcrosasquach"
- ],
  "bytes": 4285806,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Base map for Arcane Dimensions featuring a mixture of texture themes and some old-school influences.",
  "files": {
   "ad/": {
@@ -42,7 +36,6 @@
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-02-15",
  "sha256": "8adcd23c3a814448ba3edb5182b976dcdd85a094ab3c266afca02eccfd00acc7",
  "tags": [
   "author=velcrosasquach",
@@ -60,7 +53,6 @@
   "title=Lost and Foundry",
   "type=map"
  ],
- "title": "Lost and Foundry",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/8a/8adcd23c3a814448ba3edb5182b976dcdd85a094ab3c266afca02eccfd00acc7/lostandfoundry1.1.zip",
   "https://x901.net/quaddictedfiles/lostandfoundry1.1.zip"

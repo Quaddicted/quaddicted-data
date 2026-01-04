@@ -1,7 +1,4 @@
 {
- "authors": [
-  "KillPixel"
- ],
  "bytes": 6357500,
  "description": "Large, heavily scripted base map with a horror theme and hard, unforgiving gameplay inspired by Doom3. Many sections remain unfinished but the map is still largely playable.",
  "files": {
@@ -113,7 +110,6 @@
   "This map requires an engine port with increased limits. <a href=\"http://icculus.org/twilight/darkplaces/download.html\">DarkPlaces</a> is recommended and texture filtering</a> should be disabled.",
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "2014-07-03",
  "sha256": "e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1",
  "tags": [
   "author=KillPixel",
@@ -134,7 +130,6 @@
   "type=mod",
   "type=unfinished"
  ],
- "title": "Cartographer's Nightmare",
  "urls": [
   "https://www.quaddicted.com/filebase/kpcn2014.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1/kpcn2014.zip"

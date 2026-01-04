@@ -1,7 +1,4 @@
 {
- "authors": [
-  "xlarve"
- ],
  "bytes": 2101161,
  "description": "Large 'techno-dungeon' with many corridors and ambushes.",
  "files": {
@@ -33,7 +30,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2018-05-25",
  "sha256": "affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98",
  "tags": [
   "author=xlarve",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Subconscious Fear",
  "urls": [
   "https://www.quaddicted.com/filebase/xl3.zip",
   "https://www.quaddicted.com/files/by-sha256/af/affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98/xl3.zip"

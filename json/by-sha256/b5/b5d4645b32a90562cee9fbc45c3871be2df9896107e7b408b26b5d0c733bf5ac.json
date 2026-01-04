@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Bubbah"
- ],
  "bytes": 323494,
  "description": "Small Wizard level. Map sources are included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-03",
  "sha256": "b5d4645b32a90562cee9fbc45c3871be2df9896107e7b408b26b5d0c733bf5ac",
  "tags": [
   "author=The Bubbah",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bubbah's Lair",
  "urls": [
   "https://www.quaddicted.com/filebase/bubbah.zip",
   "https://www.quaddicted.com/files/by-sha256/b5/b5d4645b32a90562cee9fbc45c3871be2df9896107e7b408b26b5d0c733bf5ac/bubbah.zip"

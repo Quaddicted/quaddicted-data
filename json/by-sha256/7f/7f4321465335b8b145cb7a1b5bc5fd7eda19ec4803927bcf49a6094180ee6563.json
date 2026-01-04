@@ -1,23 +1,4 @@
 {
- "authors": [
-  "4LT",
-  "ChadQuad",
-  "Chuma",
-  "CommonCold",
-  "Indigo",
-  "Makkon",
-  "Milestone",
-  "Nickster",
-  "Pinchy",
-  "Rabbit",
-  "Recycled OJ",
-  "Shadesmaster",
-  "Simon Novak",
-  "Spootnik",
-  "Sze",
-  "ThatSpacePirate",
-  "iYago"
- ],
  "bytes": 375069915,
  "description": "A mod focused around a powerful new melee weapon known as the 'bonk hammer', which alters player movement. Contains 17 maps from various authors designed to make use of the new mechanics, as well as a couple of custom monsters and a skin-purchasing system for the hammer.",
  "files": {
@@ -2491,7 +2472,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-07-30",
  "sha256": "7f4321465335b8b145cb7a1b5bc5fd7eda19ec4803927bcf49a6094180ee6563",
  "tags": [
   "author=4LT",
@@ -2524,7 +2504,6 @@
   "type=mod",
   "zipbasedir=bonkjam/"
  ],
- "title": "Bonk Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/7f/7f4321465335b8b145cb7a1b5bc5fd7eda19ec4803927bcf49a6094180ee6563/bonkjam.zip",
   "https://x901.net/quaddictedfiles/bonkjam.zip"

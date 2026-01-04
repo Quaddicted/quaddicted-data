@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jack of Black Phoenix"
- ],
  "bytes": 46727961,
  "description": "Four-map episode inspired by classic quake themes, designs and gameplay.",
  "files": {
@@ -115,7 +112,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-11-11",
  "sha256": "9efb783db0d413d272c9a95a2aca1c37bad452276d6a55f12bd4cc9cfdb58d5f",
  "tags": [
   "author=Jack of Black Phoenix",
@@ -130,7 +126,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Vestige of V'othlog",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/9e/9efb783db0d413d272c9a95a2aca1c37bad452276d6a55f12bd4cc9cfdb58d5f/vothlogV1.zip",
   "https://x901.net/quaddictedfiles/vothlogV1.zip"

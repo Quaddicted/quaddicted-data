@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jon Richter"
- ],
  "bytes": 10410776,
  "description": "Smallish castle with a library and 'digestive dungeon' beneath. Comes with a custom music track and a few screenshots. The map source is included.",
  "files": {
@@ -90,7 +87,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2021-11-01",
  "sha256": "5cc6afd596ccbce93c4513559640dfc6e1cc100f034a7ab71e4555f816a52898",
  "tags": [
   "author=Jon Richter",
@@ -110,7 +106,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ravenous",
  "urls": [
   "https://www.quaddicted.com/filebase/ravenous.zip",
   "https://www.quaddicted.com/files/by-sha256/5c/5cc6afd596ccbce93c4513559640dfc6e1cc100f034a7ab71e4555f816a52898/ravenous.zip"

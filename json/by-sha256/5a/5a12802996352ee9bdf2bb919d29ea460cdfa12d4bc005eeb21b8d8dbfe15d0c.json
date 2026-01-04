@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Mariteaux",
-  "Newhouse",
-  "Prengle",
-  "dumptruck_ds"
- ],
  "bytes": 8314245,
  "description": "Weekend speedmapping pack 183 / Bases and Outposts / 5 SP maps / Artistical, dumptruck_ds, Mariteaux, Prengle, Newhouse",
  "files": {
@@ -189,7 +182,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-06-04",
  "sha256": "5a12802996352ee9bdf2bb919d29ea460cdfa12d4bc005eeb21b8d8dbfe15d0c",
  "tags": [
   "author=Artistical",
@@ -210,7 +202,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 183 - Bases and Outposts",
  "urls": [
   "https://www.quaddicted.com/filebase/sm183.zip",
   "https://www.quaddicted.com/files/by-sha256/5a/5a12802996352ee9bdf2bb919d29ea460cdfa12d4bc005eeb21b8d8dbfe15d0c/sm183.zip"

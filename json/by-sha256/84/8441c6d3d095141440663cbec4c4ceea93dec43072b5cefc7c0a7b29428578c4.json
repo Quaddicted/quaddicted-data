@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Giftmacher",
-  "Zombie",
-  "mukor",
-  "scar3crow",
-  "sock"
- ],
  "bytes": 2960092,
  "description": "Results of an impromptu speedmapping/jam session following a \"lifts and zombies and 20ish monsters\" theme. The map sources are included.",
  "files": {
@@ -89,7 +82,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-06-10",
  "sha256": "8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4",
  "tags": [
   "author=Giftmacher",
@@ -113,7 +105,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Zombie Jam 2",
  "urls": [
   "https://www.quaddicted.com/filebase/zjam2.zip",
   "https://www.quaddicted.com/files/by-sha256/84/8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4/zjam2.zip"

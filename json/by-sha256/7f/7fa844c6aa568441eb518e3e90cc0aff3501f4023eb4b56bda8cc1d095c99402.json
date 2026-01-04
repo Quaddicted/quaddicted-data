@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Marco van Schriek",
-  "Tim van Hal"
- ],
  "bytes": 917903,
  "description": "Large Wizard map. Could use more detail, otherwise",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-13",
  "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "tags": [
   "author=Marco van Schriek",
@@ -41,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lucifer's Path",
  "urls": [
   "https://www.quaddicted.com/filebase/martim6.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402/martim6.zip"

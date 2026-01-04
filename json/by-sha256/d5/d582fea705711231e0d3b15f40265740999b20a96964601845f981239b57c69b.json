@@ -1,7 +1,4 @@
 {
- "authors": [
-  "nadzia (narnar)"
- ],
  "bytes": 1614973,
  "description": "Small, dark vault level with tight corridors and custom textures.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-11-25",
  "sha256": "d582fea705711231e0d3b15f40265740999b20a96964601845f981239b57c69b",
  "tags": [
   "author=nadzia (narnar)",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "In the Foetid Vault",
  "urls": [
   "https://www.quaddicted.com/filebase/nar_vault.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d582fea705711231e0d3b15f40265740999b20a96964601845f981239b57c69b/nar_vault.zip"

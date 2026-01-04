@@ -1,10 +1,4 @@
 {
- "authors": [
-  "TextFish",
-  "Zwiffle",
-  "negke",
-  "rudl"
- ],
  "bytes": 2185467,
  "description": "Dreamscape / 4 SP maps / negke, rudl, TextFish, Zwiffle",
  "files": {
@@ -95,7 +89,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-08-19",
  "sha256": "9d59768b7e0c7731161e95b768d82e8e5d09a503546e078ab38379620f4eff59",
  "tags": [
   "author=TextFish",
@@ -115,7 +108,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo2008 #1 - Dreamscape",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08a_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9d/9d59768b7e0c7731161e95b768d82e8e5d09a503546e078ab38379620f4eff59/smqe08a_pack.zip"

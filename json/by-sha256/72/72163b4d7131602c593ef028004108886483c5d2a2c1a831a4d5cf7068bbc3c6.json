@@ -1,11 +1,5 @@
 {
- "authors": [
-  "ZetaByt"
- ],
  "bytes": 18026695,
- "depends": [
-  "alkaline>=1.20"
- ],
  "description": "Large techbase themed map using a variety of texture sets.",
  "files": {
   "maps/": {
@@ -117,7 +111,6 @@
   "This map requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-12-20",
  "sha256": "72163b4d7131602c593ef028004108886483c5d2a2c1a831a4d5cf7068bbc3c6",
  "tags": [
   "author=ZetaByt",
@@ -136,7 +129,6 @@
   "title=Outpost Auriga IV",
   "type=map"
  ],
- "title": "Outpost Auriga IV",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/72/72163b4d7131602c593ef028004108886483c5d2a2c1a831a4d5cf7068bbc3c6/zet_auriga_v1.01.zip",
   "https://x901.net/quaddictedfiles/zet_auriga_v1.01.zip"

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "CardO",
-  "RPG",
-  "Scampie",
-  "Zwiffle"
- ],
  "bytes": 1060565,
  "description": "Spine map textures (A Tribute to Headshot #3) / 4 SP, 1 DM maps / CardO, Scampie, RPG, Zwiffle",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-03-13",
  "sha256": "c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2",
  "tags": [
   "author=CardO",
@@ -63,7 +56,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 72 - Spine map textures (A Tribute to Headshot #3)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm72_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c3/c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2/sm72_pack.zip"

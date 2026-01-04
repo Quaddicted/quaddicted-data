@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Juha Koiste"
- ],
  "bytes": 547853,
  "description": "Smallish oldschool Medieval map: a church with a graveyard and many corridors.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-19",
  "sha256": "14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de",
  "tags": [
   "author=Juha Koiste",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Death Church",
  "urls": [
   "https://www.quaddicted.com/filebase/dethcrch.zip",
   "https://www.quaddicted.com/files/by-sha256/14/14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de/dethcrch.zip"

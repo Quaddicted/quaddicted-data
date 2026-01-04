@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Cardo"
- ],
  "bytes": 98255,
  "description": "some Speedmap by card0",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "25a852e26cbac441b15cfa921102dd92b3b01012cb5baf09b3468c7d9f200ccc",
  "tags": [
   "author=Cardo",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fracture",
  "urls": [
   "https://www.quaddicted.com/filebase/sm72_cardo.zip",
   "https://www.quaddicted.com/files/by-sha256/25/25a852e26cbac441b15cfa921102dd92b3b01012cb5baf09b3468c7d9f200ccc/sm72_cardo.zip"

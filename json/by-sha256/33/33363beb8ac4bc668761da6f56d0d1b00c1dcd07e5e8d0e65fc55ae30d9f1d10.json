@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daniel Vogt (MoRbId)"
- ],
  "bytes": 775892,
  "description": "Small to medium custom Metal map with a Base bit at the beginning.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-31",
  "sha256": "33363beb8ac4bc668761da6f56d0d1b00c1dcd07e5e8d0e65fc55ae30d9f1d10",
  "tags": [
   "author=Daniel Vogt (MoRbId)",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Morbidity: 2",
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_2.zip",
   "https://www.quaddicted.com/files/by-sha256/33/33363beb8ac4bc668761da6f56d0d1b00c1dcd07e5e8d0e65fc55ae30d9f1d10/morbid_2.zip"

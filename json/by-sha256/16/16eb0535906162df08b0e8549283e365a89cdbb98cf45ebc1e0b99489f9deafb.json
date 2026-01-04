@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Benson \"El-Magoo\" Russell"
- ],
  "bytes": 874018,
  "description": "Medium sized Wizard castle.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-10",
  "sha256": "16eb0535906162df08b0e8549283e365a89cdbb98cf45ebc1e0b99489f9deafb",
  "tags": [
   "author=Benson \"El-Magoo\" Russell",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Keldjoran Outpost",
  "urls": [
   "https://www.quaddicted.com/filebase/outpost2.zip",
   "https://www.quaddicted.com/files/by-sha256/16/16eb0535906162df08b0e8549283e365a89cdbb98cf45ebc1e0b99489f9deafb/outpost2.zip"

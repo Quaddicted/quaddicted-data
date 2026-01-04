@@ -1,11 +1,5 @@
 {
- "authors": [
-  "BlorgBlorgBlorg"
- ],
  "bytes": 26223640,
- "depends": [
-  "alkaline>=1.20"
- ],
  "description": "Small-to-medium urban themed map with heavy use of scripted messages, plot and NPCs. The author's first map for Quake.",
  "files": {
   "alk1.2/": {
@@ -92,7 +86,6 @@
   "This map requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a>.",
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-09-13",
  "sha256": "c81e697588a9e81990c79b42d016781889726c616f4d1cc712abec8f5ab92e8a",
  "tags": [
   "author=BlorgBlorgBlorg",
@@ -110,7 +103,6 @@
   "title=Never Trust a Zone Warden",
   "type=map"
  ],
- "title": "Never Trust a Zone Warden",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/c8/c81e697588a9e81990c79b42d016781889726c616f4d1cc712abec8f5ab92e8a/blorgsp1.zip",
   "https://x901.net/quaddictedfiles/blorgsp1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sean Reed"
- ],
  "bytes": 576062,
  "description": "Small medieval map with some Quad action.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-09",
  "sha256": "ecd666d5cc7308c9ccb589394ed5edc648909668b663d2d1a9e0665d3f67aa2b",
  "tags": [
   "author=Sean Reed",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lair of the Loupe",
  "urls": [
   "https://www.quaddicted.com/filebase/loupus1.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ecd666d5cc7308c9ccb589394ed5edc648909668b663d2d1a9e0665d3f67aa2b/loupus1.zip"

@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Greenwood",
-  "Pinchy",
-  "nolcoz"
- ],
  "bytes": 6136025,
  "description": "Speedmapping pack featuring three SP levels. The map sources are included.",
  "files": {
@@ -77,7 +72,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-09-06",
  "sha256": "4f477e3e2710bdd49313cc06a033bb88a347ed1f9b3226279b4c3afad9fecf91",
  "tags": [
   "author=Greenwood",
@@ -95,7 +89,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 201 - Quake The Way Id Did 2: Id-lectric Boogaloo",
  "urls": [
   "https://www.quaddicted.com/filebase/sm201_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4f/4f477e3e2710bdd49313cc06a033bb88a347ed1f9b3226279b4c3afad9fecf91/sm201_pack.zip"

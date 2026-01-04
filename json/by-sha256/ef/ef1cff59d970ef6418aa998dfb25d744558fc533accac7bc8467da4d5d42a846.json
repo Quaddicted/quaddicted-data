@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Perro Seco"
- ],
  "bytes": 1539247,
  "description": "A mini-episode consisting of three small urban realism-style maps, with some emphasis on exploration.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-11-25",
  "sha256": "ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846",
  "tags": [
   "author=Perro Seco",
@@ -54,7 +50,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "City 2000",
  "urls": [
   "https://www.quaddicted.com/filebase/c2000.zip",
   "https://www.quaddicted.com/files/by-sha256/ef/ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846/c2000.zip"

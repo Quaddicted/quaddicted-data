@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Cocerello",
-  "Greenwood",
-  "ionous"
- ],
  "bytes": 2258220,
  "description": "Speedmapping pack featuring three DM levels and two SP levels based on old maps by the authors. The map sources are included.",
  "files": {
@@ -152,7 +147,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-10-03",
  "sha256": "dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6",
  "tags": [
   "author=Cocerello",
@@ -177,7 +171,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 202 - Recycled Garbage",
  "urls": [
   "https://www.quaddicted.com/filebase/sm202.zip",
   "https://www.quaddicted.com/files/by-sha256/dd/dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6/sm202.zip"

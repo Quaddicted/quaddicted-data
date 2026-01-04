@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Michael Reed"
- ],
  "bytes": 402973,
  "description": "A blue metal map, quite confusing at moments but overall quite entertaining to play.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-16",
  "sha256": "04d5125af12b46b48557d9accc6098302ba75404f57c8c4e3da3b294694aa6c5",
  "tags": [
   "author=Michael Reed",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Scorn Quake Level",
  "urls": [
   "https://www.quaddicted.com/filebase/scorn.zip",
   "https://www.quaddicted.com/files/by-sha256/04/04d5125af12b46b48557d9accc6098302ba75404f57c8c4e3da3b294694aa6c5/scorn.zip"

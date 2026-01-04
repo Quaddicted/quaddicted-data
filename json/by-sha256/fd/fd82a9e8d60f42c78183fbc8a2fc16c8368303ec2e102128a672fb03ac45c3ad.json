@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Zwiffle",
-  "negke"
- ],
  "bytes": 371711,
  "description": "Ten years later / 2 SP maps / neg!ke, Zwiffle",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-21",
  "sha256": "fd82a9e8d60f42c78183fbc8a2fc16c8368303ec2e102128a672fb03ac45c3ad",
  "tags": [
   "author=Zwiffle",
@@ -42,7 +37,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo 2006 #1 - Ten years later",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe06a_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/fd/fd82a9e8d60f42c78183fbc8a2fc16c8368303ec2e102128a672fb03ac45c3ad/smqe06a_pack.zip"

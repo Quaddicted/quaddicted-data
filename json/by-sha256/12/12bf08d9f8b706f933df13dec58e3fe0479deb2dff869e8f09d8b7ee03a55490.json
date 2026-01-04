@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Glenn Ancheta"
- ],
  "bytes": 79301,
  "description": "Very small stone map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-07",
  "sha256": "12bf08d9f8b706f933df13dec58e3fe0479deb2dff869e8f09d8b7ee03a55490",
  "tags": [
   "author=Glenn Ancheta",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tightrope",
  "urls": [
   "https://www.quaddicted.com/filebase/titerope.zip",
   "https://www.quaddicted.com/files/by-sha256/12/12bf08d9f8b706f933df13dec58e3fe0479deb2dff869e8f09d8b7ee03a55490/titerope.zip"

@@ -1,29 +1,26 @@
 {
- "authors": [
-  "Tonhao"
- ],
  "bytes": 8784893,
  "description": "Small e1 medieval/wizard themed map; a polished solo version of the author's entry to <a href='ef69df6b88e9038bf04e47c57434a68c9165ea60603ad25f1be8da166a2971a2'>Map Center Quake Retrojam 2</a>",
  "files": {
-  "docs/mc_rj2_tonhao.txt": {
-   "bytes": 2836,
-   "sha256": "dfc1e83194882d87a2659e591f01ac3ac8d01783342b033f1d3953196f94b53e",
-   "timestamp": "2024-10-16T01:12:49.775Z"
+  "Templum_banner.png": {
+   "bytes": 1325290,
+   "sha256": "44fddefe96391c0cb4bdbcdd4eaf5ce540c68329365556e717aaf48987210175",
+   "timestamp": "2024-10-16T01:28:04.886Z"
   },
   "bots/navigation/mc_rj2_tonhao.nav": {
    "bytes": 17004,
    "sha256": "84468c3702fd2617e0840f46baa971692a27ee270ea9aec6d3afa1ec08ed250c",
    "timestamp": "2024-10-16T01:07:51.758Z"
   },
-  "maps/mc_rj2_tonhao.lit": {
-   "bytes": 1041692,
-   "sha256": "59e502af3e06d4f0ffa5428a71864b097eb7ce01da12f924915517f3b9ee112b",
-   "timestamp": "2024-10-15T23:01:51.960Z"
+  "docs/mc_rj2_tonhao.txt": {
+   "bytes": 2836,
+   "sha256": "dfc1e83194882d87a2659e591f01ac3ac8d01783342b033f1d3953196f94b53e",
+   "timestamp": "2024-10-16T01:12:49.775Z"
   },
-  "Templum_banner.png": {
-   "bytes": 1325290,
-   "sha256": "44fddefe96391c0cb4bdbcdd4eaf5ce540c68329365556e717aaf48987210175",
-   "timestamp": "2024-10-16T01:28:04.886Z"
+  "gfx/env/mak_bloodmoon1_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "a0e193d3ea6d203924d2d07e5f6393866d251d7e9ffe3bcc31ccb7e55ca69b26",
+   "timestamp": "2022-10-20T02:04:42.279Z"
   },
   "gfx/env/mak_bloodmoon1_dn.tga": {
    "bytes": 3145772,
@@ -35,6 +32,11 @@
    "sha256": "d51a536fdba9d15b7a37fe675fe5bb4fc9f4f2cca37bd942e1e21eb177f43f2a",
    "timestamp": "2022-10-20T02:04:49.369Z"
   },
+  "gfx/env/mak_bloodmoon1_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "ff414bffdc82f41196c90834ea727cd08b042ec3918cf10832870a33dccdc3eb",
+   "timestamp": "2022-10-20T02:04:52.541Z"
+  },
   "gfx/env/mak_bloodmoon1_rt.tga": {
    "bytes": 3145772,
    "sha256": "56148c1c8135ebeb568ebd53276c761a8f442b06e6aba3199c353da0c4e47ac1",
@@ -45,31 +47,25 @@
    "sha256": "57f8bf9debe4ba7b5692bcbe8445dc7ad6ba33cd4b843369345254af30107e8a",
    "timestamp": "2022-10-20T02:04:59.369Z"
   },
-  "gfx/env/mak_bloodmoon1_lf.tga": {
-   "bytes": 3145772,
-   "sha256": "ff414bffdc82f41196c90834ea727cd08b042ec3918cf10832870a33dccdc3eb",
-   "timestamp": "2022-10-20T02:04:52.541Z"
-  },
-  "gfx/env/mak_bloodmoon1_bk.tga": {
-   "bytes": 3145772,
-   "sha256": "a0e193d3ea6d203924d2d07e5f6393866d251d7e9ffe3bcc31ccb7e55ca69b26",
-   "timestamp": "2022-10-20T02:04:42.279Z"
-  },
   "maps/mc_rj2_tonhao.bsp": {
    "bytes": 8125836,
    "sha256": "d134f571bf42ad1834a3006b2e08c14c631c0bee3bf24b3a2ab74ccb1ace919d",
    "timestamp": "2024-10-15T23:01:52.255Z"
+  },
+  "maps/mc_rj2_tonhao.lit": {
+   "bytes": 1041692,
+   "sha256": "59e502af3e06d4f0ffa5428a71864b097eb7ce01da12f924915517f3b9ee112b",
+   "timestamp": "2024-10-15T23:01:51.960Z"
   }
  },
  "install": {
   "extractmapping": {
    "/": "/id1/",
-   "/docs/": "/id1/maps/",
-   "/Templum_banner.png": "/id1/maps/mc_rj2_tonhao_Templum_banner.png"
+   "/Templum_banner.png": "/id1/maps/mc_rj2_tonhao_Templum_banner.png",
+   "/docs/": "/id1/maps/"
   }
  },
  "json_version": "2025.03.20",
- "release_date": "2024-10-16",
  "sha256": "fae2b95bc9d490934362117304f722be16b6b4c4fc0eccd769c5ec002855031f",
  "tags": [
   "author=Tonhao",
@@ -85,7 +81,6 @@
   "title=Templum Exsilli",
   "type=map"
  ],
- "title": "Templum Exsilli",
  "urls": [
   "https://www.quaketastic.com/files/mc_rj2_tonhao_solo.zip",
   "https://www.quaddicted.com/files/by-sha256/fa/fae2b95bc9d490934362117304f722be16b6b4c4fc0eccd769c5ec002855031f/mc_rj2_tonhao_solo.zip"

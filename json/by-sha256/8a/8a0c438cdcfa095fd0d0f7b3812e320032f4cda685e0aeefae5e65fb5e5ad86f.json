@@ -1,21 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Elithium",
-  "Giftmacher",
-  "Greenwood",
-  "Ing-ing",
-  "MortalMaxx",
-  "Mugwump",
-  "Nolcoz",
-  "Pinchy Skree",
-  "Qmaster",
-  "The Solipsist",
-  "Zerosignal",
-  "Zungryware",
-  "fairweather",
-  "ionous"
- ],
  "bytes": 25680579,
  "description": "\"Speedmapping\" jam pack 198: 16 SP levels + a start map. Also includes two custom skyboxes and music tracks as well as the map sources.",
  "files": {
@@ -367,7 +350,6 @@
  "notes": [
   "These maps probably require a source port with increased limits."
  ],
- "release_date": "2019-06-30",
  "sha256": "8a0c438cdcfa095fd0d0f7b3812e320032f4cda685e0aeefae5e65fb5e5ad86f",
  "tags": [
   "author=Artistical",
@@ -412,7 +394,6 @@
   "type=mod",
   "zipbasedir=sm198/"
  ],
- "title": "Speedmapping pack 198: 768^2",
  "urls": [
   "https://www.quaddicted.com/filebase/sm198.zip",
   "https://www.quaddicted.com/files/by-sha256/8a/8a0c438cdcfa095fd0d0f7b3812e320032f4cda685e0aeefae5e65fb5e5ad86f/sm198.zip"

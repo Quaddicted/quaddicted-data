@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Newhouse",
-  "zigi"
- ],
  "bytes": 169588930,
  "description": "Large episode with 7 main levels + 3 secret levels + custom start map + new end boss, all inspired by Quake 1 episode 4 (Elder World) in a classic-ish id1 style. Supports co-op. Built on Copper (already included) with some tweaks, QuakeC source is included. Map source is included too. Custom music by dumptruck, Immorpher and BouncyTEM. See spiritworld.txt for full credits and track list.",
  "files": {
@@ -1051,7 +1047,6 @@
  "notes": [
   "You'll need a modern engine / source port with increased limits. Make sure to update and use the latest version of your engine too, or else some maps may not load."
  ],
- "release_date": "2023-04-06",
  "sha256": "1b79c362d3f33e61762142cf9ffdb56fd3b1ec16e540a8384e6d466a785a976a",
  "tags": [
   "author=Newhouse",
@@ -1094,7 +1089,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "The Spiritworld v1.1",
  "urls": [
   "https://www.quaddicted.com/filebase/spiritworld_v1.1.zip",
   "https://www.quaddicted.com/files/by-sha256/1b/1b79c362d3f33e61762142cf9ffdb56fd3b1ec16e540a8384e6d466a785a976a/spiritworld_v1.1.zip"

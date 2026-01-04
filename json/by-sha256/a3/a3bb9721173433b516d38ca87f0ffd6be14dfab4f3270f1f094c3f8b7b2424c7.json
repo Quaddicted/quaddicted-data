@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jason Fink"
- ],
  "bytes": 824867,
  "description": "Medium sized red brick/medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-05",
  "sha256": "a3bb9721173433b516d38ca87f0ffd6be14dfab4f3270f1f094c3f8b7b2424c7",
  "tags": [
   "author=Jason Fink",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Orion",
  "urls": [
   "https://www.quaddicted.com/filebase/orion.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a3bb9721173433b516d38ca87f0ffd6be14dfab4f3270f1f094c3f8b7b2424c7/orion.zip"

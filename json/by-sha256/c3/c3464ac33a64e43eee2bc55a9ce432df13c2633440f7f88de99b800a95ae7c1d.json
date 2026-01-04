@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tony Boyer"
- ],
  "bytes": 651087,
  "description": "Medium sized base map with a few new textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-02",
  "sha256": "c3464ac33a64e43eee2bc55a9ce432df13c2633440f7f88de99b800a95ae7c1d",
  "tags": [
   "author=Tony Boyer",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ohzarm",
  "urls": [
   "https://www.quaddicted.com/filebase/ohzarm.zip",
   "https://www.quaddicted.com/files/by-sha256/c3/c3464ac33a64e43eee2bc55a9ce432df13c2633440f7f88de99b800a95ae7c1d/ohzarm.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jesse van Dijk"
- ],
  "bytes": 157641,
  "description": "\"This patch fixes a bug in <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">RDE</a>'s original progs.dat: When you record a coop demo on rdend, there were one or two (depending on the skill setting) hellknights who did not teleport in when you picked up the nailgun. Now they appear as they should.\"",
  "files": {
@@ -26,11 +23,6 @@
   "extract": "{base}/rde/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "rdefull": "1.1"
- },
- "release_date": "2000-03-30",
- "release_group": "rdefull",
  "sha256": "d2489b4b26e65b81676112dcbed4eac2eb87f017f0f3de18b871e357da3b0bad",
  "tags": [
   "author=Jesse van Dijk",
@@ -47,7 +39,6 @@
   "version=1.1",
   "zipbasedir=rde/"
  ],
- "title": "Runner's Delight (BUGFIX)",
  "urls": [
   "https://www.quaddicted.com/filebase/rdestats161.zip",
   "https://www.quaddicted.com/files/by-sha256/d2/d2489b4b26e65b81676112dcbed4eac2eb87f017f0f3de18b871e357da3b0bad/rdestats161.zip"

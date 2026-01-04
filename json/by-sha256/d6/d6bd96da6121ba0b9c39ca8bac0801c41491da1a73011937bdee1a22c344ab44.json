@@ -1,7 +1,4 @@
 {
- "authors": [
-  "than"
- ],
  "bytes": 220813,
  "description": "Small, vertical base inside a canyon. Fixed-up and polished version of the author's sm24 speedmap.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-20",
  "sha256": "d6bd96da6121ba0b9c39ca8bac0801c41491da1a73011937bdee1a22c344ab44",
  "tags": [
   "author=than",
@@ -34,7 +30,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_than_se.zip",
   "https://www.quaddicted.com/files/by-sha256/d6/d6bd96da6121ba0b9c39ca8bac0801c41491da1a73011937bdee1a22c344ab44/sm24_than_se.zip"

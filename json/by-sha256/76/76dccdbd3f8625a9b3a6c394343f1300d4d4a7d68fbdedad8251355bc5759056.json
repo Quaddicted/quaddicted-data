@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrzej Mackiewicz"
- ],
  "bytes": 528163,
  "description": "Small base-y map with a pool, traps and an outside area.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-14",
  "sha256": "76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056",
  "tags": [
   "author=Andrzej Mackiewicz",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "BASE-N",
  "urls": [
   "https://www.quaddicted.com/filebase/base-n.zip",
   "https://www.quaddicted.com/files/by-sha256/76/76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056/base-n.zip"

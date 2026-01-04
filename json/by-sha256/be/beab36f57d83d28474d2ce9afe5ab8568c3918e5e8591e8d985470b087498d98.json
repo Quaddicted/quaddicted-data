@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 392341,
  "description": "Small, leaked linear Base map.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "1996-08-23",
  "sha256": "beab36f57d83d28474d2ce9afe5ab8568c3918e5e8591e8d985470b087498d98",
  "tags": [
   "author=Unknown",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Lost Base",
  "urls": [
   "https://www.quaddicted.com/filebase/lbase.zip",
   "https://www.quaddicted.com/files/by-sha256/be/beab36f57d83d28474d2ce9afe5ab8568c3918e5e8591e8d985470b087498d98/lbase.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder"
- ],
  "bytes": 1133535,
  "description": "Small green Wizard-textured temple ruins with some ancient machinery. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-04-04",
  "sha256": "0d0e69d78ef341bfc53343bf5f32c95e3fa49e9e66eb0f83fc1079cba4029fd6",
  "tags": [
   "author=Andrew Yoder",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ruins of Mazotac",
  "urls": [
   "https://www.quaddicted.com/filebase/mazotac.zip",
   "https://www.quaddicted.com/files/by-sha256/0d/0d0e69d78ef341bfc53343bf5f32c95e3fa49e9e66eb0f83fc1079cba4029fd6/mazotac.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Roussel"
- ],
  "bytes": 982204,
  "description": "A small to medium deathmatch map with one monster... Map source and a demo are included.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-16",
  "sha256": "adecfe8b455acb4aaed62675e2b94393f9bf5b5cb3cef4707e08a927a95cfde4",
  "tags": [
   "author=Marc Roussel",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Enter the bloodfest DRUNK",
  "urls": [
   "https://www.quaddicted.com/filebase/drunk.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/adecfe8b455acb4aaed62675e2b94393f9bf5b5cb3cef4707e08a927a95cfde4/drunk.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "RickyT23"
- ],
  "bytes": 5556594,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "A large tech/industrial base map using Daikatana, Doom3 and Half-Life textures.",
  "files": {
   "gfx/": {
@@ -73,7 +67,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-03-28",
  "sha256": "bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db",
  "tags": [
   "author=RickyT23",
@@ -98,7 +91,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Slave to a Machine",
  "urls": [
   "https://www.quaddicted.com/filebase/slave.zip",
   "https://www.quaddicted.com/files/by-sha256/bc/bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db/slave.zip"

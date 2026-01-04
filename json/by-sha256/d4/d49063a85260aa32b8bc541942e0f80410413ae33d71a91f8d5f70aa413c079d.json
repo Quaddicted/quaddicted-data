@@ -1,7 +1,4 @@
 {
- "authors": [
-  "WarrenM"
- ],
  "bytes": 5880100,
  "description": "Medium-sized medieval map with fairly linear gameplay and some monster modifications.",
  "files": {
@@ -70,7 +67,6 @@
   "extract": "{base}/thtc/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-11-14",
  "sha256": "d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d",
  "tags": [
   "author=WarrenM",
@@ -92,7 +88,6 @@
   "type=mod",
   "zipbasedir=thtc/"
  ],
- "title": "The Hell That's Coming",
  "urls": [
   "https://www.quaddicted.com/filebase/thtc.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d/thtc.zip"

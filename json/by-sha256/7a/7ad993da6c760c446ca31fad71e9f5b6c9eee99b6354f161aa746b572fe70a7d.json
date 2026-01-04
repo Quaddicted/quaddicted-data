@@ -1,19 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "EricW",
-  "FifthElephant",
-  "Giftmacher",
-  "Lunaran",
-  "Preach",
-  "PulSaR",
-  "Scampie",
-  "ionous",
-  "mfx",
-  "necros",
-  "others",
-  "sock"
- ],
  "bytes": 320914417,
  "current_main_group_package": true,
  "description": "Large-scale single player campaign with many new levels, some of them labeled as \"test\" maps, featuring a whole line-up of new monsters and items as well as several tweaks and changes to the gameplay. Furthermore, it is meant to serve as a tool box for level designers, offering a large number of modified and new things to use in custom-made maps. Map and QC sources are included.",
@@ -10736,11 +10721,6 @@
   "This is version 1.8 (including patch 1) which includes various bug-fixes, additional features, and four additional maps: <a href=\"99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb\">Grendel's Blade</a> and <a href=\"d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b\">Nyarlathoteps Sand Castle</a> as well as Ak-Alakha by PulSaR and Tears of the False God by Bal (pictured).",
   "These maps (and all subsequent maps based on AD) require a source port with increased limits as well as support for BSP2 and transparent textures. Quakespasm 0.93+ is strongly recommended."
  ],
- "provides": {
-  "ad": "1.81"
- },
- "release_date": "2020-10-13",
- "release_group": "ad",
  "sha256": "7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d",
  "tags": [
   "author=Bal",
@@ -10839,7 +10819,6 @@
   "version=1.81",
   "zipbasedir=ad/"
  ],
- "title": "Arcane Dimensions 1.81",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_v1_80p1final.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d/ad_v1_80p1final.zip"

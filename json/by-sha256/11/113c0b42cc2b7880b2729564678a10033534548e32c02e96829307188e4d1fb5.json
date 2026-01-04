@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sodalimonada176"
- ],
  "bytes": 822605,
  "description": "Small / medium-ish medieval cave / tomb level in a classic id1 style for vanilla Quake. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-03-13",
  "sha256": "113c0b42cc2b7880b2729564678a10033534548e32c02e96829307188e4d1fb5",
  "tags": [
   "author=Sodalimonada176",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Yog-Sothoth's Halls",
  "urls": [
   "https://www.quaddicted.com/filebase/sodahalls03.zip",
   "https://www.quaddicted.com/files/by-sha256/11/113c0b42cc2b7880b2729564678a10033534548e32c02e96829307188e4d1fb5/sodahalls03.zip"

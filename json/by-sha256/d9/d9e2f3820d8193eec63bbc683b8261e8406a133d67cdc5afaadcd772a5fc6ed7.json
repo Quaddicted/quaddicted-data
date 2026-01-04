@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 773768,
  "description": "Small floating palace with a unique texture theme. The player must reach the exit in only 1:30 and has to fulfill certain tasks to proceed.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-09-11",
  "sha256": "d9e2f3820d8193eec63bbc683b8261e8406a133d67cdc5afaadcd772a5fc6ed7",
  "tags": [
   "author=czg",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Sky Palace 01",
  "urls": [
   "https://www.quaddicted.com/filebase/czg02s1.zip",
   "https://www.quaddicted.com/files/by-sha256/d9/d9e2f3820d8193eec63bbc683b8261e8406a133d67cdc5afaadcd772a5fc6ed7/czg02s1.zip"

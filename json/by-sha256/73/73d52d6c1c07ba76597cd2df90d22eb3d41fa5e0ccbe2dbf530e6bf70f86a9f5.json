@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 9821947,
  "description": "Small temple map using Kaahoo textures. A touched-up and expanded version of sock's entry from SM175.",
  "files": {
@@ -157,7 +154,6 @@
   "extract": "{base}/kaahoo/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-06-10",
  "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
  "tags": [
   "author=sock",
@@ -178,7 +174,6 @@
   "type=speedmap",
   "zipbasedir=kaahoo/"
  ],
- "title": "Castle Kaahoo (SM175)",
  "urls": [
   "https://www.quaddicted.com/filebase/kaahoo1a.zip",
   "https://www.quaddicted.com/files/by-sha256/73/73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5/kaahoo1a.zip"

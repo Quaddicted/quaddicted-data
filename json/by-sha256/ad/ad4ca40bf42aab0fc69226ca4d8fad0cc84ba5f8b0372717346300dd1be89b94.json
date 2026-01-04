@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Sock",
-  "Zothique"
- ],
  "bytes": 83722614,
  "description": "An episode with 6+4 levels and start map. The pak is compatible with original quake.exe and winquake. Base and Medieval themes: mostly ID textures with plenty of new edits. Includes a new ambient soundtrack.",
  "files": {
@@ -91,7 +87,6 @@
   "extract": "{base}/ritual"
  },
  "json_version": "2025.09.27",
- "release_date": "2025-01-05",
  "sha256": "ad4ca40bf42aab0fc69226ca4d8fad0cc84ba5f8b0372717346300dd1be89b94",
  "tags": [
   "author=Sock",
@@ -107,7 +102,6 @@
   "type=episode",
   "zipbasedir=ritual"
  ],
- "title": "Ritual",
  "urls": [
   "https://www.quaketastic.com/files/ritual_v0_96.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/ad4ca40bf42aab0fc69226ca4d8fad0cc84ba5f8b0372717346300dd1be89b94/ritual_v0_96.zip"

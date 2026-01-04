@@ -1,7 +1,4 @@
 {
- "authors": [
-  "xlarve"
- ],
  "bytes": 4546166,
  "description": "Very large fortress/citadel with many corridors and ambushes. Comes with a small skill selection map.",
  "files": {
@@ -51,7 +48,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2017-12-01",
  "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
  "tags": [
   "author=xlarve",
@@ -73,7 +69,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Citadel of Sinners",
  "urls": [
   "https://www.quaddicted.com/filebase/xl2.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b/xl2.zip"

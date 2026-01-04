@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fred Hite,Jr (DEVIANT)"
- ],
  "bytes": 878533,
  "description": "Medium sized Wizard/ Medieval map with a few new textures.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-23",
  "sha256": "c9ba809933e099aa5f9be2b4983e81b9b068a5f9137943ffb914b7f8b4c044bf",
  "tags": [
   "author=Fred Hite,Jr (DEVIANT)",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Gibplex",
  "urls": [
   "https://www.quaddicted.com/filebase/gibplex.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9ba809933e099aa5f9be2b4983e81b9b068a5f9137943ffb914b7f8b4c044bf/gibplex.zip"

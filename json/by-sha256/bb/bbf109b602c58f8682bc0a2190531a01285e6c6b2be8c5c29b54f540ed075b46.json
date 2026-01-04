@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Michael Cullum"
- ],
  "bytes": 539684,
  "description": "Small to medium-sized subterranean 'city' with Medieval textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-05",
  "sha256": "bbf109b602c58f8682bc0a2190531a01285e6c6b2be8c5c29b54f540ed075b46",
  "tags": [
   "author=Michael Cullum",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Old City",
  "urls": [
   "https://www.quaddicted.com/filebase/old_city.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bbf109b602c58f8682bc0a2190531a01285e6c6b2be8c5c29b54f540ed075b46/old_city.zip"

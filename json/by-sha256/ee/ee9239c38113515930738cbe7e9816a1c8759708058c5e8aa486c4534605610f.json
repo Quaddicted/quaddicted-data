@@ -1,7 +1,4 @@
 {
- "authors": [
-  "PuLSaR"
- ],
  "bytes": 552665,
  "description": "Small Metal/runic level. A polished and extended version of PuLSaR's SM57 map.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-30",
  "sha256": "ee9239c38113515930738cbe7e9816a1c8759708058c5e8aa486c4534605610f",
  "tags": [
   "author=PuLSaR",
@@ -30,7 +26,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Lair of DOOMestic Animals",
  "urls": [
   "https://www.quaddicted.com/filebase/sm57_pulsar_se.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/ee9239c38113515930738cbe7e9816a1c8759708058c5e8aa486c4534605610f/sm57_pulsar_se.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Harb!ngeR of Fish"
- ],
  "bytes": 4809255,
  "description": "A mini-campaign with 5 small maps and a start map. New textures (e.g. Quake2 and Half-Life), some new code bits and sounds,as well as a few  new monsters such as spiders and turrets. Starting with a shuttle crash, you fight your way through a collapsing enemy base in order to reach the rescuing teleporter.",
  "files": {
@@ -215,7 +212,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-07-06",
  "sha256": "ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47",
  "tags": [
   "author=The Harb!ngeR of Fish",
@@ -236,7 +232,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Assault",
  "urls": [
   "https://www.quaddicted.com/filebase/assault.zip",
   "https://www.quaddicted.com/files/by-sha256/ff/ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47/assault.zip"

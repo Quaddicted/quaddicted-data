@@ -1,19 +1,4 @@
 {
- "authors": [
-  "4LT",
-  "Artistical",
-  "Dantescanline",
-  "Greenwood",
-  "H4724",
-  "Hardcore Mazu",
-  "Nyoei",
-  "dumptruck_ds",
-  "ionous",
-  "ish",
-  "negke",
-  "onetruepurple",
-  "quasiotter"
- ],
  "bytes": 11187044,
  "description": "SM207: 13 SP maps inspired by <a href=\"924c448bc11feba82775f4a5d28d4d4d750a13b7710970f1af761f88e4b44f0c\">Ceremonial Circles</a>. Some map sources are included.",
  "files": {
@@ -215,7 +200,6 @@
  "notes": [
   "quasiotter's map requires a source port with increased limits."
  ],
- "release_date": "2020-04-07",
  "sha256": "75d75e614e26cd0905f5550fb2727bfcc4c90811dda794e2018ba4fb1f5d142b",
  "tags": [
   "author=4LT",
@@ -261,7 +245,6 @@
   "type=speedmap",
   "zipbasedir=sm207/"
  ],
- "title": "Speedmapping pack 207 - Ceremonial speedmaps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm207_fix.zip",
   "https://www.quaddicted.com/files/by-sha256/75/75d75e614e26cd0905f5550fb2727bfcc4c90811dda794e2018ba4fb1f5d142b/sm207_fix.zip"

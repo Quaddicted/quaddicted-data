@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bruce W. Krueger"
- ],
  "bytes": 829927,
  "description": "Small temple-themed level set on Atlantis, featuring two new enemy types: female temple guardians and hilarious pouncing jaws.",
  "files": {
@@ -125,7 +122,6 @@
   "extract": "{base}/atlantis/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-24",
  "sha256": "a447563a7e964880ee4cc50ea4894dd22bf89643c0a13738341f1e84b71ace09",
  "tags": [
   "author=Bruce W. Krueger",
@@ -143,7 +139,6 @@
   "type=mod",
   "zipbasedir=atlantis/"
  ],
- "title": "Atlantis",
  "urls": [
   "https://www.quaddicted.com/filebase/atlantis.zip",
   "https://www.quaddicted.com/files/by-sha256/a4/a447563a7e964880ee4cc50ea4894dd22bf89643c0a13738341f1e84b71ace09/atlantis.zip"

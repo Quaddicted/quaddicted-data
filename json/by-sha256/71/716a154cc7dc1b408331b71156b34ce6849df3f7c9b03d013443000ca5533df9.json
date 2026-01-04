@@ -1,7 +1,4 @@
 {
- "authors": [
-  "George J. Fiffy II"
- ],
  "bytes": 538087,
  "description": "Small, partly cramped Wizard map with a few traps.",
  "files": {
@@ -30,11 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "4fiffy3": "1.0"
- },
- "release_date": "1997-04-21",
- "release_group": "4fiffy3",
  "sha256": "716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9",
  "tags": [
   "author=George J. Fiffy II",
@@ -56,7 +48,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "REoL TOUGH: Damnation!",
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy3.zip",
   "https://www.quaddicted.com/files/by-sha256/71/716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9/4fiffy3.zip"

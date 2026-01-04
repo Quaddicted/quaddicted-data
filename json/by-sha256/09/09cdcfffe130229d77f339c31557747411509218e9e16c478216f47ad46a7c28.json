@@ -1,7 +1,4 @@
 {
- "authors": [
-  "T.H. Johansen (TJ)"
- ],
  "bytes": 2594496,
  "description": "Two medium to large maps with Metal/Hipnotic textures and some monsters from Dissolution of Eternity.",
  "files": {
@@ -146,7 +143,6 @@
   "extract": "{base}/tefdbl3/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-31",
  "sha256": "09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28",
  "tags": [
   "author=T.H. Johansen (TJ)",
@@ -168,7 +164,6 @@
   "type=mod",
   "zipbasedir=tefdbl3/"
  ],
- "title": "Halls of Artemis / Apollo's Domain",
  "urls": [
   "https://www.quaddicted.com/filebase/tefdbl3.zip",
   "https://www.quaddicted.com/files/by-sha256/09/09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28/tefdbl3.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jonathan G. aka SalaCious Crumb/H8 bReEDEr"
- ],
  "bytes": 703766,
  "description": "Smallish Metal level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-13",
  "sha256": "811a31ad533c4b9e3b02b5a9351ed364cfbd76460fbb2f852b4f3d63155ea99c",
  "tags": [
   "author=Jonathan G. aka SalaCious Crumb/H8 bReEDEr",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Acerbus",
  "urls": [
   "https://www.quaddicted.com/filebase/acerbus.zip",
   "https://www.quaddicted.com/files/by-sha256/81/811a31ad533c4b9e3b02b5a9351ed364cfbd76460fbb2f852b4f3d63155ea99c/acerbus.zip"

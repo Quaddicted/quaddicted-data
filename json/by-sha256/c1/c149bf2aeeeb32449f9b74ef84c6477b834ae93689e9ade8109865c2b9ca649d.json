@@ -1,7 +1,4 @@
 {
- "authors": [
-  "George J. Fiffy II"
- ],
  "bytes": 623952,
  "description": "Medium sized Base map.",
  "files": {
@@ -30,11 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "4fiffy5": "1.0"
- },
- "release_date": "1997-09-09",
- "release_group": "4fiffy5",
  "sha256": "c149bf2aeeeb32449f9b74ef84c6477b834ae93689e9ade8109865c2b9ca649d",
  "tags": [
   "author=George J. Fiffy II",
@@ -55,7 +47,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "REoL TOUGH: Base!",
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy5.zip",
   "https://www.quaddicted.com/files/by-sha256/c1/c149bf2aeeeb32449f9b74ef84c6477b834ae93689e9ade8109865c2b9ca649d/4fiffy5.zip"

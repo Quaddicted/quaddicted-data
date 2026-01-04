@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Asl"
- ],
  "bytes": 4487802,
  "description": "Large industrial factory/refinery level with a few arcane elements.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-04-18",
  "sha256": "ea021fac6c7e188ed65b4af35a0f343432fd7a7499bb3a7aeb5bd3bd8b165ced",
  "tags": [
   "author=Asl",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Io. Lava Cleaning Base",
  "urls": [
   "https://www.quaddicted.com/filebase/asl_1.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea021fac6c7e188ed65b4af35a0f343432fd7a7499bb3a7aeb5bd3bd8b165ced/asl_1.zip"

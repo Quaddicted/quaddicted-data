@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Headthump",
-  "Hrimfaxi",
-  "Zwiffle"
- ],
  "bytes": 1771327,
  "description": "Unthemed / 3 SP maps / Headthump, Hrimfaxi, Zwiffle",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-05-29",
  "sha256": "b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3",
  "tags": [
   "author=Headthump",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 93 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm93_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3/sm93_pack.zip"

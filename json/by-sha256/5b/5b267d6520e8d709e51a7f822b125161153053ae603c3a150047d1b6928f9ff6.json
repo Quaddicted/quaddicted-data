@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vidar Ermesjo (aka Saboteur/Nagel)"
- ],
  "bytes": 262033,
  "description": "Very small, leaked Base map. One room with crates, three monsters.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-26",
  "sha256": "5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6",
  "tags": [
   "author=Vidar Ermesjo (aka Saboteur/Nagel)",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Evil Army",
  "urls": [
   "https://www.quaddicted.com/filebase/evilarmy.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6/evilarmy.zip"

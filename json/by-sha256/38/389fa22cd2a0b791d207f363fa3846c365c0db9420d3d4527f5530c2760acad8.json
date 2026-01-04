@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ViolentJ (Jeff Farris)"
- ],
  "bytes": 613518,
  "description": "Medium sized base with a rocket bay.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-05",
  "sha256": "389fa22cd2a0b791d207f363fa3846c365c0db9420d3d4527f5530c2760acad8",
  "tags": [
   "author=ViolentJ (Jeff Farris)",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Nitemare",
  "urls": [
   "https://www.quaddicted.com/filebase/nitemare.zip",
   "https://www.quaddicted.com/files/by-sha256/38/389fa22cd2a0b791d207f363fa3846c365c0db9420d3d4527f5530c2760acad8/nitemare.zip"

@@ -1,12 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "Grahf",
-  "Moz",
-  "Starbuck",
-  "inertia",
-  "necros"
- ],
  "bytes": 1171549,
  "description": "Unthemed / 2 SP, 3 DM maps / CZG, Grahf, inertia, Moz, necros, Starbuck",
  "files": {
@@ -50,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-10-19",
  "sha256": "6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83",
  "tags": [
   "author=CZG",
@@ -73,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 54 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm54_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/63/6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83/sm54_pack.zip"

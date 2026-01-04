@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Heresy"
- ],
  "bytes": 59081207,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Large Egyptian temple with tech elements using sock textures. It comes with statue models, a few sounds, custom skyboxes and a music track. The map source is included.",
  "files": {
   "ad_heresp2.txt": {
@@ -201,7 +195,6 @@
  "notes": [
   "This level requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-02-02",
  "sha256": "a2cb6abba107c43e5e4f73e749ca18ae19c31330239bcd4658081a2f638ea46b",
  "tags": [
   "author=Heresy",
@@ -239,7 +232,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Imhotep's Legacy",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_heresp2.zip",
   "https://www.quaddicted.com/files/by-sha256/a2/a2cb6abba107c43e5e4f73e749ca18ae19c31330239bcd4658081a2f638ea46b/ad_heresp2.zip"

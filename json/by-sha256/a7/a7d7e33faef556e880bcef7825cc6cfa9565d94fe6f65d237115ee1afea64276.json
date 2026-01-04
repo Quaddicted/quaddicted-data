@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders \"Backspace\" Persson"
- ],
  "bytes": 738979,
  "description": "Medium sized Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-18",
  "sha256": "a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276",
  "tags": [
   "author=Anders \"Backspace\" Persson",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Forgotten Level",
  "urls": [
   "https://www.quaddicted.com/filebase/tfl.zip",
   "https://www.quaddicted.com/files/by-sha256/a7/a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276/tfl.zip"

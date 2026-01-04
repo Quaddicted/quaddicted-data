@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Blitz",
-  "NotoriousRay",
-  "Scampie",
-  "Xenon",
-  "ap",
-  "dietz"
- ],
  "bytes": 728133,
  "description": "Unthemed / 6 DM maps / ap, dietz, Blitz, NotoriousRay, Scampie, Xenon",
  "files": {
@@ -45,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "026313aaf276697382ea309340dfdcc9283e98b5eec3d1982b007a0c81208eb2",
  "tags": [
   "author=Blitz",
@@ -68,7 +59,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 39 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm39_temp.zip",
   "https://www.quaddicted.com/files/by-sha256/02/026313aaf276697382ea309340dfdcc9283e98b5eec3d1982b007a0c81208eb2/sm39_temp.zip"

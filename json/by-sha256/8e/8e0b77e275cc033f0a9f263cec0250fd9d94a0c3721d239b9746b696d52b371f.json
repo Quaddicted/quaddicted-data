@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "Cybear",
-  "Notorious Ray",
-  "Xenon",
-  "intertia",
-  "than"
- ],
  "bytes": 764800,
  "description": "Unthemed / 6 SP maps / Apollo, Cybear, intertia, Notorious Ray, than, Xenon",
  "files": {
@@ -50,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-13",
  "sha256": "8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f",
  "tags": [
   "author=Apollo",
@@ -73,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 27 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm27_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f/sm27_pack.zip"

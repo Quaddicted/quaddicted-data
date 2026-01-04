@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Derek Lawrie"
- ],
  "bytes": 806711,
  "description": "Medium sized Medieval/Metal map with a somewhat interesting \"lightshow\" at the beginning.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-15",
  "sha256": "30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a",
  "tags": [
   "author=Derek Lawrie",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Spongebath Of Satan",
  "urls": [
   "https://www.quaddicted.com/filebase/sos.zip",
   "https://www.quaddicted.com/files/by-sha256/30/30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a/sos.zip"

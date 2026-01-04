@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Keefner"
- ],
  "bytes": 3851150,
  "description": "Large medieval lava castle map in a classic style; the author's first release. Difficulty settings aren't implemented (they're all the same). Map source is included.",
  "files": {
@@ -53,7 +50,6 @@
  "notes": [
   "Note: probably requires a source port / modern engine with increased limits."
  ],
- "release_date": "2021-09-14",
  "sha256": "b4fd7d52cf664527692dfdfb8f761a846699a23f9d9a33edac4c3f9de49cddd6",
  "tags": [
   "author=Paul Keefner",
@@ -72,7 +68,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Journey",
  "urls": [
   "https://www.quaddicted.com/filebase/the_journey.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b4fd7d52cf664527692dfdfb8f761a846699a23f9d9a33edac4c3f9de49cddd6/the_journey.zip"

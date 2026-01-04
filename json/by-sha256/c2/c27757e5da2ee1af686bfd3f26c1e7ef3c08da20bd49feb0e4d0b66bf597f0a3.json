@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leafface"
- ],
  "bytes": 940951,
  "description": "Large Metal level with a lava trickjump section. Part of the LFSP series (unit 2).",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-01-04",
  "sha256": "c27757e5da2ee1af686bfd3f26c1e7ef3c08da20bd49feb0e4d0b66bf597f0a3",
  "tags": [
   "author=Leafface",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Huntdown",
  "urls": [
   "https://www.quaddicted.com/filebase/lfsp7.zip",
   "https://www.quaddicted.com/files/by-sha256/c2/c27757e5da2ee1af686bfd3f26c1e7ef3c08da20bd49feb0e4d0b66bf597f0a3/lfsp7.zip"

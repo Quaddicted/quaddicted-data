@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MERLIN"
- ],
  "bytes": 281106,
  "description": "Very small cramped house/flat. The yellow armor is the exit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-07",
  "sha256": "10bdb083a57364ad0b2bd0fb7825b49f2c872624e7d26ca6d6f4b75a3e5de667",
  "tags": [
   "author=MERLIN",
@@ -33,7 +29,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Make-shift Apocalypse Shelter",
  "urls": [
   "https://www.quaddicted.com/filebase/apocshel.zip",
   "https://www.quaddicted.com/files/by-sha256/10/10bdb083a57364ad0b2bd0fb7825b49f2c872624e7d26ca6d6f4b75a3e5de667/apocshel.zip"

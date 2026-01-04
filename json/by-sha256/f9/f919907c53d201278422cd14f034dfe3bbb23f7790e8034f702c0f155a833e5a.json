@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bryan Pillow"
- ],
  "bytes": 888235,
  "description": "Medium sized map with a somewhat unusual theme (some new textures) but basic gameplay. Average at best.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-09",
  "sha256": "f919907c53d201278422cd14f034dfe3bbb23f7790e8034f702c0f155a833e5a",
  "tags": [
   "author=Bryan Pillow",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Reconstruction",
  "urls": [
   "https://www.quaddicted.com/filebase/purg3.zip",
   "https://www.quaddicted.com/files/by-sha256/f9/f919907c53d201278422cd14f034dfe3bbb23f7790e8034f702c0f155a833e5a/purg3.zip"

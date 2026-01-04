@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 3366502,
- "depends": [
-  "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c"
- ],
  "description": "Episode of four medium sized tough maps in a strange and unique Metal-ish theme.",
  "files": {
   "alk10/": {
@@ -75,7 +69,6 @@
  "notes": [
   "This level requires <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>"
  ],
- "release_date": "2001-08-10",
  "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -100,7 +93,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Permutations of the Rotten",
  "urls": [
   "https://www.quaddicted.com/filebase/alk10.zip",
   "https://www.quaddicted.com/files/by-sha256/5c/5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f/alk10.zip"

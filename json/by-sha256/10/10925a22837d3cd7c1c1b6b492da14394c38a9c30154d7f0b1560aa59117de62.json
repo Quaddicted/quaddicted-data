@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Sodium Chloride"
- ],
  "bytes": 7699736,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Large, non-linear map using Wizard textures with some custom additions. The objective is to collect multiple keys throughout the map to escape. The author's first map for Quake.",
  "files": {
   "fotac_1_0.bsp": {
@@ -37,7 +31,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-08",
  "sha256": "10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62",
  "tags": [
   "author=Sodium Chloride",
@@ -56,7 +49,6 @@
   "title=Fortress of the Arcane Conduit",
   "type=map"
  ],
- "title": "Fortress of the Arcane Conduit",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/10/10925a22837d3cd7c1c1b6b492da14394c38a9c30154d7f0b1560aa59117de62/fotac_1_0.zip",
   "https://x901.net/quaddictedfiles/fotac_1_0.zip"

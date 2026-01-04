@@ -1,29 +1,4 @@
 {
- "authors": [
-  "AlexUnder",
-  "Breezeep",
-  "ChrisHolden",
-  "DanteScanline",
-  "DraQu",
-  "DragonsForLunch",
-  "EduardoDeadPixel",
-  "Greenwood",
-  "JaycieErysdren",
-  "Konig",
-  "Mari Mk.V,",
-  "Mazu",
-  "Mememind",
-  "Moesh",
-  "Mrtaufner",
-  "Nostalgick (burnham)",
-  "Omni",
-  "Pinchy",
-  "Riktoi",
-  "The_kovic",
-  "iLike80sRock",
-  "pqp",
-  "zigi"
- ],
  "bytes": 34275043,
  "description": "23 small to medium-sized maps using khreathor's Prototype texture wad and Dumptruck's SMP progs (included). Comes with a custom music track. The map sources are included.",
  "files": {
@@ -435,7 +410,6 @@
  "notes": [
   "Some of these maps probably require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-09-07",
  "sha256": "e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c",
  "tags": [
   "author=AlexUnder",
@@ -495,7 +469,6 @@
   "type=speedmap",
   "zipbasedir=/"
  ],
- "title": "Speedmapping pack 214 - Prototype textures II",
  "urls": [
   "https://www.quaddicted.com/filebase/sm214_protoypes-2.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c/sm214_protoypes-2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daniel Vogt (MoRbId)"
- ],
  "bytes": 608871,
  "description": "Medium sized Base/Metal map. Uses some DOOM2 textures and some other custom ones.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-11",
  "sha256": "4a707504af6ede52fe2cf2e69f22ca0c8fffe58bd75481a7329c9309d5bbb276",
  "tags": [
   "author=Daniel Vogt (MoRbId)",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Morbidity: 1",
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_1.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4a707504af6ede52fe2cf2e69f22ca0c8fffe58bd75481a7329c9309d5bbb276/morbid_1.zip"

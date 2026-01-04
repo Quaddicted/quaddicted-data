@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ed Cope"
- ],
  "bytes": 763927,
  "description": "Small mine level with slightly confusing progression and some kind of future amazon enemy with a rocketlauncher.",
  "files": {
@@ -90,7 +87,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-22",
  "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "tags": [
   "author=Ed Cope",
@@ -110,7 +106,6 @@
   "title=Mines & Mayhem",
   "type=mod"
  ],
- "title": "Mines & Mayhem",
  "urls": [
   "https://www.quaddicted.com/filebase/mines.zip",
   "https://www.quaddicted.com/files/by-sha256/86/868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00/mines.zip"

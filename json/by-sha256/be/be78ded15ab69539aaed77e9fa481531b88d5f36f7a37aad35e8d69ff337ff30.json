@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Wheeler"
- ],
  "bytes": 522764,
  "description": "A small mansion with mostly new textures (e.g. from Doom) and no exit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-09",
  "sha256": "be78ded15ab69539aaed77e9fa481531b88d5f36f7a37aad35e8d69ff337ff30",
  "tags": [
   "author=Mark Wheeler",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Drastic Lodge",
  "urls": [
   "https://www.quaddicted.com/filebase/drasticv.zip",
   "https://www.quaddicted.com/files/by-sha256/be/be78ded15ab69539aaed77e9fa481531b88d5f36f7a37aad35e8d69ff337ff30/drasticv.zip"

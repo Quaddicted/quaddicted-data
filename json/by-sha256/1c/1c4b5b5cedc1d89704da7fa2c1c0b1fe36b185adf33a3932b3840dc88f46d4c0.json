@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kid"
- ],
  "bytes": 225368,
  "description": "Outdoor lava level, themed like an infernal beach.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-28",
  "sha256": "1c4b5b5cedc1d89704da7fa2c1c0b1fe36b185adf33a3932b3840dc88f46d4c0",
  "tags": [
   "author=Kid",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Beaches Of Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/beach1.zip",
   "https://www.quaddicted.com/files/by-sha256/1c/1c4b5b5cedc1d89704da7fa2c1c0b1fe36b185adf33a3932b3840dc88f46d4c0/beach1.zip"

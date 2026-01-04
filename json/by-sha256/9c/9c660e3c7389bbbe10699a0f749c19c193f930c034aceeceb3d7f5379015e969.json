@@ -1,12 +1,6 @@
 {
- "authors": [
-  "Spipper"
- ],
  "bytes": 4187235,
  "current_main_group_package": true,
- "depends": [
-  "quoth>=2.2"
- ],
  "description": "Medium-sized Knave-style level with button-operated movable \"planes\". This is an updated version of the level. The map source is included.",
  "files": {
   "movplan2.bsp": {
@@ -37,11 +31,6 @@
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and a source port with increased limits."
  ],
- "provides": {
-  "movplan": "2.0"
- },
- "release_date": "2018-01-28",
- "release_group": "movplan",
  "sha256": "9c660e3c7389bbbe10699a0f749c19c193f930c034aceeceb3d7f5379015e969",
  "tags": [
   "author=Spipper",
@@ -66,7 +55,6 @@
   "version=2.0",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Shifting Planes of Existence (version 2)",
  "urls": [
   "https://www.quaddicted.com/filebase/movplan2.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9c660e3c7389bbbe10699a0f749c19c193f930c034aceeceb3d7f5379015e969/movplan2.zip"

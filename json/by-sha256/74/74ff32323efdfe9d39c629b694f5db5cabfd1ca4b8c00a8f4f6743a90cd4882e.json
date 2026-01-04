@@ -1,7 +1,4 @@
 {
- "authors": [
-  "mafon2"
- ],
  "bytes": 9968140,
  "current_main_group_package": true,
  "description": "Medium-sized metal fortress; updated version of <a href=\"e1ddc26080779bb56d197e19241e6452f95045eda511efff92e525f0d784a5ec\">Intrusion</a> with improved lighting.",
@@ -49,11 +46,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "provides": {
-  "intrusion": "2.0"
- },
- "release_date": "2021-05-23",
- "release_group": "intrusion",
  "sha256": "74ff32323efdfe9d39c629b694f5db5cabfd1ca4b8c00a8f4f6743a90cd4882e",
  "tags": [
   "author=mafon2",
@@ -74,7 +66,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Intrusion 2021",
  "urls": [
   "https://www.quaddicted.com/filebase/intrusion_2021.zip",
   "https://www.quaddicted.com/files/by-sha256/74/74ff32323efdfe9d39c629b694f5db5cabfd1ca4b8c00a8f4f6743a90cd4882e/intrusion_2021.zip"

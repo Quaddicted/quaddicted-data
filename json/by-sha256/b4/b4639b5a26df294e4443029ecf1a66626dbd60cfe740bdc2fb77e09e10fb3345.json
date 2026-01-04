@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Obi-Wan"
- ],
  "bytes": 1138146,
  "description": "Medium sized Metal map in a canyon, with a Base bit at the beginning.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-02",
  "sha256": "b4639b5a26df294e4443029ecf1a66626dbd60cfe740bdc2fb77e09e10fb3345",
  "tags": [
   "author=Obi-Wan",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Office of the dead",
  "urls": [
   "https://www.quaddicted.com/filebase/obiwan2.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b4639b5a26df294e4443029ecf1a66626dbd60cfe740bdc2fb77e09e10fb3345/obiwan2.zip"

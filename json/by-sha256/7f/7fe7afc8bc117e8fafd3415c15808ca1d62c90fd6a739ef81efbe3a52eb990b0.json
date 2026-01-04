@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 798842,
  "description": "Large brick/metal void map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-10-18",
  "sha256": "7fe7afc8bc117e8fafd3415c15808ca1d62c90fd6a739ef81efbe3a52eb990b0",
  "tags": [
   "author=czg",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Numb Nimbus",
  "urls": [
   "https://www.quaddicted.com/filebase/czg04.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7fe7afc8bc117e8fafd3415c15808ca1d62c90fd6a739ef81efbe3a52eb990b0/czg04.zip"

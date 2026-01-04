@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ChAiNeR"
- ],
  "bytes": 267237,
  "description": "Small Base warehouse. OK, but unnecessarily dark.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-05-29",
  "sha256": "d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08",
  "tags": [
   "author=ChAiNeR",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dead Cell",
  "urls": [
   "https://www.quaddicted.com/filebase/chain1.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08/chain1.zip"

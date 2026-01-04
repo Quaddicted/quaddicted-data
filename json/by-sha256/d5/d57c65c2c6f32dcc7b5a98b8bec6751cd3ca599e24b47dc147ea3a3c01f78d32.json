@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jago"
- ],
  "bytes": 2636655,
  "description": "Large and exessively detailed IKbase level using some SOA entities and the Mega-Enforcer.",
  "files": {
@@ -239,7 +236,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-01-05",
  "sha256": "d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32",
  "tags": [
   "author=Jago",
@@ -257,7 +253,6 @@
   "title=Apinaraivo / Monkey Rage",
   "type=mod"
  ],
- "title": "Apinaraivo / Monkey Rage",
  "urls": [
   "https://www.quaddicted.com/filebase/araivo.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32/araivo.zip"

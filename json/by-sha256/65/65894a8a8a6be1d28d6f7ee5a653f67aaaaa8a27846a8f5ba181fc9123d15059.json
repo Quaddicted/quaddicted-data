@@ -1,7 +1,4 @@
 {
- "authors": [
-  "aDaya"
- ],
  "bytes": 154237368,
  "description": "Episode of five main maps (plus start, end and secret level) ranging from medium-large to huge, with imaginitive designs, expansive non-linear layouts and thick atmosphere, plus several new monsters and weapons.",
  "files": {
@@ -1794,7 +1791,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-07-08",
  "sha256": "65894a8a8a6be1d28d6f7ee5a653f67aaaaa8a27846a8f5ba181fc9123d15059",
  "tags": [
   "author=aDaya",
@@ -1810,6 +1806,5 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Tomb of Thunder",
  "urls": []
 }

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 1495458,
  "description": "Two unthemed single player maps by digs.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2012-03-21",
  "sha256": "225022c272bc3cee552b86502f2db7e2148601d80741da0ab6edc83920278e49",
  "tags": [
   "author=digs",
@@ -44,7 +40,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping Pack 167 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm167_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/22/225022c272bc3cee552b86502f2db7e2148601d80741da0ab6edc83920278e49/sm167_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vondur"
- ],
  "bytes": 1305960,
  "description": "Large Wizard/Ebon Fortress level. Comes with a start map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-07-06",
  "sha256": "61d810b90fe75f82c5441861a494d0c57dd682a5c28fcf3299034041a4d8069f",
  "tags": [
   "author=Vondur",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Solarfall",
  "urls": [
   "https://www.quaddicted.com/filebase/solarfall.zip",
   "https://www.quaddicted.com/files/by-sha256/61/61d810b90fe75f82c5441861a494d0c57dd682a5c28fcf3299034041a4d8069f/solarfall.zip"

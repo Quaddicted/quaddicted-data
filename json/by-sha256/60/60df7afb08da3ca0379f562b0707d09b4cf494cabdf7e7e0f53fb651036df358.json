@@ -1,7 +1,4 @@
 {
- "authors": [
-  "RickyT23"
- ],
  "bytes": 5531644,
  "description": "Remix/remake of the original E1M1 - The Slipgate Complex, but larger and more spacious, with many new and expanded areas.",
  "files": {
@@ -73,7 +70,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2021-12-26",
  "sha256": "60df7afb08da3ca0379f562b0707d09b4cf494cabdf7e7e0f53fb651036df358",
  "tags": [
   "author=RickyT23",
@@ -93,7 +89,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "The Slipgate Massacre",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1rt23.zip",
   "https://www.quaddicted.com/files/by-sha256/60/60df7afb08da3ca0379f562b0707d09b4cf494cabdf7e7e0f53fb651036df358/e1m1rt23.zip"

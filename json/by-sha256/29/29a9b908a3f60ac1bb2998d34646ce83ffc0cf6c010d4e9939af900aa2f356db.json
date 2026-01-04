@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Cristian Martinez"
- ],
  "bytes": 514418,
  "description": "Small base map. Includes a version with fewer monsters (ebellesh.bsp).",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-02-16",
  "sha256": "29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db",
  "tags": [
   "author=Cristian Martinez",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Bellesh Base",
  "urls": [
   "https://www.quaddicted.com/filebase/bellesh.zip",
   "https://www.quaddicted.com/files/by-sha256/29/29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db/bellesh.zip"

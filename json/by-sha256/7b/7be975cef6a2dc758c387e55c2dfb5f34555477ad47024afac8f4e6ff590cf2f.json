@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Mayers"
- ],
  "bytes": 799457,
  "description": "Medium sized Metal map.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-25",
  "sha256": "7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f",
  "tags": [
   "author=Chris Mayers",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Insurrection, part IV - The Resolution",
  "urls": [
   "https://www.quaddicted.com/filebase/ins4.zip",
   "https://www.quaddicted.com/files/by-sha256/7b/7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f/ins4.zip"

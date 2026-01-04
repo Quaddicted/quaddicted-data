@@ -1,10 +1,4 @@
 {
- "authors": [
-  "DaMaul",
-  "Lunaran",
-  "Xenon",
-  "than"
- ],
  "bytes": 845924,
  "description": "Chain map / DaMaul, than, Lunaran, Xenon",
  "files": {
@@ -23,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-26",
  "sha256": "793f55b177e6d97835a56e008f4b1a42a01cace24566501bfc80b7e494e7ea04",
  "tags": [
   "author=DaMaul",
@@ -40,7 +33,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 28 - Chain map",
  "urls": [
   "https://www.quaddicted.com/filebase/sm28_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/79/793f55b177e6d97835a56e008f4b1a42a01cace24566501bfc80b7e494e7ea04/sm28_pack.zip"

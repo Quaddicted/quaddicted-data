@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shambler"
- ],
  "bytes": 3986389,
  "description": "Medium-sized Egyptian-style level. Comes with a custom desert skybox.",
  "files": {
@@ -63,7 +60,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2018-08-24",
  "sha256": "0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a",
  "tags": [
   "author=Shambler",
@@ -81,7 +77,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Warmth Of A Dying Sun",
  "urls": [
   "https://www.quaddicted.com/filebase/shamsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/0a/0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a/shamsp2.zip"

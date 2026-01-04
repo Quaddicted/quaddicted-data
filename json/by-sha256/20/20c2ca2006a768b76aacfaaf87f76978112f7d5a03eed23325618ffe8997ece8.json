@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Scampie"
- ],
  "bytes": 3106276,
- "depends": [
-  "copper>=1.00"
- ],
  "description": "Two small, experimental non-combat levels. The map sources are included.",
  "files": {
   "primum.bsp": {
@@ -46,7 +40,6 @@
  "notes": [
   "These maps require <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> and one of them a source port with increased limits."
  ],
- "release_date": "2020-04-07",
  "sha256": "20c2ca2006a768b76aacfaaf87f76978112f7d5a03eed23325618ffe8997ece8",
  "tags": [
   "author=Scampie",
@@ -77,7 +70,6 @@
   "type=map",
   "zipbasedir=copper/maps/"
  ],
- "title": "Primum non nocere & Ziggurat Sierpinski",
  "urls": [
   "https://www.quaddicted.com/filebase/primum.zip",
   "https://www.quaddicted.com/files/by-sha256/20/20c2ca2006a768b76aacfaaf87f76978112f7d5a03eed23325618ffe8997ece8/primum.zip"

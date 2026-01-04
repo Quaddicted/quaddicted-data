@@ -1,11 +1,4 @@
 {
- "authors": [
-  "BlackPope",
-  "FrikaC",
-  "Jacek",
-  "Moz",
-  "Scampie"
- ],
  "bytes": 939334,
  "description": "Old school maps / 4 SP, 2 DM maps / FrikaC, Jacek, Moz, BlackPope, Scampie",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-07-10",
  "sha256": "40166dcbaa431b9d9360201a4ab1f64b3e9b7d964234b922724ea4fc7db4ec37",
  "tags": [
   "author=BlackPope",
@@ -71,7 +63,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 84 - Oldschool maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm84_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/40/40166dcbaa431b9d9360201a4ab1f64b3e9b7d964234b922724ea4fc7db4ec37/sm84_pack.zip"

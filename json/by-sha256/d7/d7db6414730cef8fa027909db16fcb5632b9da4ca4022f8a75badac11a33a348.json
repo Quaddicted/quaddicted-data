@@ -1,7 +1,4 @@
 {
- "authors": [
-  "IcarusAvery"
- ],
  "bytes": 1073497,
  "description": "Smallish, linear base+bricks style level. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-02-12",
  "sha256": "d7db6414730cef8fa027909db16fcb5632b9da4ca4022f8a75badac11a33a348",
  "tags": [
   "author=IcarusAvery",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lab Infiltration",
  "urls": [
   "https://www.quaddicted.com/filebase/ia01q1sp.zip",
   "https://www.quaddicted.com/files/by-sha256/d7/d7db6414730cef8fa027909db16fcb5632b9da4ca4022f8a75badac11a33a348/ia01q1sp.zip"

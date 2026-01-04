@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ORL"
- ],
  "bytes": 6051217,
  "description": "First half of an SP episode. Three medium sized canyon/ swamp/ Medieval temple maps and an unfinished Base map - many new (partly strange) textures.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-02-02",
  "sha256": "491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151",
  "tags": [
   "author=ORL",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Orlmap Series 2: The first half",
  "urls": [
   "https://www.quaddicted.com/filebase/oms2.zip",
   "https://www.quaddicted.com/files/by-sha256/49/491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151/oms2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Darren (Rex_Noctu) Johnson"
- ],
  "bytes": 603322,
  "description": "Medium sized boxed Base maze with a crate area and lots of darkness.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-27",
  "sha256": "8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc",
  "tags": [
   "author=Darren (Rex_Noctu) Johnson",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Supply Base",
  "urls": [
   "https://www.quaddicted.com/filebase/supply.zip",
   "https://www.quaddicted.com/files/by-sha256/8f/8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc/supply.zip"

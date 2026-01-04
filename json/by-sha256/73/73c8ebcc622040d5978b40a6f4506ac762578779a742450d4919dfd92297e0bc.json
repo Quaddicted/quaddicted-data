@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 382628,
  "description": "Small beginner map with mixed texture themes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-01",
  "sha256": "73c8ebcc622040d5978b40a6f4506ac762578779a742450d4919dfd92297e0bc",
  "tags": [
   "author=digs",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Untitled",
  "urls": [
   "https://www.quaddicted.com/filebase/digs2.zip",
   "https://www.quaddicted.com/files/by-sha256/73/73c8ebcc622040d5978b40a6f4506ac762578779a742450d4919dfd92297e0bc/digs2.zip"

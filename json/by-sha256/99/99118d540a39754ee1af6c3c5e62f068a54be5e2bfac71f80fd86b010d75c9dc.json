@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder"
- ],
  "bytes": 1749090,
  "description": "Three small, experimental levels with cartoony textures and gameplay focusing on exploration and movement. The map sources are included.",
  "files": {
@@ -75,7 +72,6 @@
   "extract": "{base}/toybox/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-04-20",
  "sha256": "99118d540a39754ee1af6c3c5e62f068a54be5e2bfac71f80fd86b010d75c9dc",
  "tags": [
   "author=Andrew Yoder",
@@ -95,7 +91,6 @@
   "type=mod",
   "zipbasedir=toybox/"
  ],
- "title": "Toybox",
  "urls": [
   "https://www.quaddicted.com/filebase/toybox_v1.zip",
   "https://www.quaddicted.com/files/by-sha256/99/99118d540a39754ee1af6c3c5e62f068a54be5e2bfac71f80fd86b010d75c9dc/toybox_v1.zip"

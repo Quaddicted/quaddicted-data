@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ben Watson"
- ],
  "bytes": 575673,
  "description": "Medium sized brick map with some questionable custom texture additions.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-18",
  "sha256": "315ab499542bffeb6af00ff440ab5b00384815405dda9b6e041d52f5c30e15be",
  "tags": [
   "author=Ben Watson",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Avatar",
  "urls": [
   "https://www.quaddicted.com/filebase/avatar.zip",
   "https://www.quaddicted.com/files/by-sha256/31/315ab499542bffeb6af00ff440ab5b00384815405dda9b6e041d52f5c30e15be/avatar.zip"

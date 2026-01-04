@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tim Elek"
- ],
  "bytes": 1015754,
  "description": "A large outdoor/canyon map with temple ruins.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-03",
  "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "tags": [
   "author=Tim Elek",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Precipice Continuum",
  "urls": [
   "https://www.quaddicted.com/filebase/precipice_continuum.zip",
   "https://www.quaddicted.com/files/by-sha256/f2/f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9/precipice_continuum.zip"

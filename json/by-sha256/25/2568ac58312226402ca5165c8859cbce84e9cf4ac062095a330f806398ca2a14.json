@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bruce W. Krueger"
- ],
  "bytes": 366262,
  "description": "Medium sized base map with unusual texturing and lighting (passages needed to proceed hidden in pitch black areas).",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-27",
  "sha256": "2568ac58312226402ca5165c8859cbce84e9cf4ac062095a330f806398ca2a14",
  "tags": [
   "author=Bruce W. Krueger",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Slipgate research complex",
  "urls": [
   "https://www.quaddicted.com/filebase/slipcomp.zip",
   "https://www.quaddicted.com/files/by-sha256/25/2568ac58312226402ca5165c8859cbce84e9cf4ac062095a330f806398ca2a14/slipcomp.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 365900,
  "description": "Wizard map with sparse corridors and lots of slime.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-13",
  "sha256": "ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254",
  "tags": [
   "author=DAV",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pit",
  "urls": [
   "https://www.quaddicted.com/filebase/qkpit.zip",
   "https://www.quaddicted.com/files/by-sha256/ca/ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254/qkpit.zip"

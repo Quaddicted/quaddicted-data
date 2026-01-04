@@ -1,7 +1,4 @@
 {
- "authors": [
-  "krak"
- ],
  "bytes": 3780801,
  "description": "Small medieval castle compound used as a slime factory. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-07-16",
  "sha256": "b6577a698708893ee2c06b8b0d7949cfa91edf5a0f026da1ae0eb201e4230752",
  "tags": [
   "author=krak",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Slime Factory",
  "urls": [
   "https://www.quaddicted.com/filebase/kslimef.zip",
   "https://www.quaddicted.com/files/by-sha256/b6/b6577a698708893ee2c06b8b0d7949cfa91edf5a0f026da1ae0eb201e4230752/kslimef.zip"

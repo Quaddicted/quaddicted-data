@@ -1,7 +1,4 @@
 {
- "authors": [
-  "O. Marlowe"
- ],
  "bytes": 793659,
  "description": "Medium sized red brick realism map with a Wizard bit beneath.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-13",
  "sha256": "48091e16e426678aeaea3224a3262c521c534c153deb557c420965611522e58b",
  "tags": [
   "author=O. Marlowe",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Gordian's Brick",
  "urls": [
   "https://www.quaddicted.com/filebase/gordian.zip",
   "https://www.quaddicted.com/files/by-sha256/48/48091e16e426678aeaea3224a3262c521c534c153deb557c420965611522e58b/gordian.zip"

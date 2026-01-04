@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Williams"
- ],
  "bytes": 663254,
  "description": "Medium sized boxy map with mixed texture themes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-10",
  "sha256": "1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0",
  "tags": [
   "author=Chris Williams",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Butcher Base",
  "urls": [
   "https://www.quaddicted.com/filebase/butcher.zip",
   "https://www.quaddicted.com/files/by-sha256/1b/1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0/butcher.zip"

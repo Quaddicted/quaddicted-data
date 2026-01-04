@@ -1,20 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Bloodshot",
-  "Fairweather",
-  "JCR",
-  "KalebClark",
-  "Mafon",
-  "Mazu",
-  "Naitelveni",
-  "NewHouse",
-  "Pinchy Skree",
-  "Strangework",
-  "Ukko",
-  "Yoder",
-  "ionous"
- ],
  "bytes": 115592298,
  "description": "Tenth community mapping jam: 14 <a href=\"38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257\">Insomnia</a>-themed levels plus a start map. It comes with a couple of custom skyboxes, sounds and music tracks. The map sources are included.",
  "files": {
@@ -906,7 +890,6 @@
  "notes": [
   "These maps require a source port with increased limits and BSP2 support."
  ],
- "release_date": "2019-05-07",
  "sha256": "f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675",
  "tags": [
   "author=Artistical",
@@ -988,7 +971,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Func Map Jam X - Insomnia Theme",
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjamx.zip",
   "https://www.quaddicted.com/files/by-sha256/f5/f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675/func_mapjamx.zip"

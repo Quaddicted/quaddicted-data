@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rutger Baks"
- ],
  "bytes": 227967,
  "description": "Very small Base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-07-16",
  "sha256": "fa465f985f050415d76196d10a8c1a4619faeba636d554dcd6cf9461a4918e85",
  "tags": [
   "author=Rutger Baks",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Untitled",
  "urls": [
   "https://www.quaddicted.com/filebase/r_noname.zip",
   "https://www.quaddicted.com/files/by-sha256/fa/fa465f985f050415d76196d10a8c1a4619faeba636d554dcd6cf9461a4918e85/r_noname.zip"

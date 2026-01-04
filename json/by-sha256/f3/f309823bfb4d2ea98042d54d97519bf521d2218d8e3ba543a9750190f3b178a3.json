@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ben Glover"
- ],
  "bytes": 890707,
  "description": "Doom E1M7 (\"Computer Station\") rebuilt for Quake.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map requires Scourge of Armagon."
  ],
- "release_date": "1997-12-19",
  "sha256": "f309823bfb4d2ea98042d54d97519bf521d2218d8e3ba543a9750190f3b178a3",
  "tags": [
   "author=Ben Glover",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Return to Phobos",
  "urls": [
   "https://www.quaddicted.com/filebase/doome1m7.zip",
   "https://www.quaddicted.com/files/by-sha256/f3/f309823bfb4d2ea98042d54d97519bf521d2218d8e3ba543a9750190f3b178a3/doome1m7.zip"

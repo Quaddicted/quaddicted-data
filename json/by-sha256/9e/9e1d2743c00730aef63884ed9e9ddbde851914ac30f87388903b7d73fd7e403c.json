@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Flavio 'GinKo' Quadros"
- ],
  "bytes": 838558,
  "description": "Small level that combines one room from each map in Quake's first episode into a cute little summary or reminder of it.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-11-30",
  "sha256": "9e1d2743c00730aef63884ed9e9ddbde851914ac30f87388903b7d73fd7e403c",
  "tags": [
   "author=Flavio 'GinKo' Quadros",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dimension of the Diminished",
  "urls": [
   "https://www.quaddicted.com/filebase/deja.zip",
   "https://www.quaddicted.com/files/by-sha256/9e/9e1d2743c00730aef63884ed9e9ddbde851914ac30f87388903b7d73fd7e403c/deja.zip"

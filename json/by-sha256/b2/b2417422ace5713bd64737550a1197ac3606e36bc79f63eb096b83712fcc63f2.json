@@ -1,7 +1,4 @@
 {
- "authors": [
-  "mfx"
- ],
  "bytes": 2429455,
  "description": "Medium-sized idbase industrial facility with tight corridors, glass windows and pipes. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires r_wateralpha to be set to 0.3 and r_waterwarp set to 0 in order to make the windows look correct.<br>This is the fixed second version of the zip."
  ],
- "release_date": "2013-03-23",
  "sha256": "b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2",
  "tags": [
   "author=mfx",
@@ -54,7 +50,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Clean Cut",
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp8.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2/mfxsp8.zip"

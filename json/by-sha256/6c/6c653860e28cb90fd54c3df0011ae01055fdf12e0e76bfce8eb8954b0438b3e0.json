@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Cybear",
-  "Damaul",
-  "Frib",
-  "Misyu",
-  "Scampie"
- ],
  "bytes": 632369,
  "description": "Unthemed / 6 DM maps / Aardappel, Cybear, Damaul, Frib, Misyu, Scampie",
  "files": {
@@ -50,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-22",
  "sha256": "6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0",
  "tags": [
   "author=Aardappel",
@@ -73,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 8 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm8_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0/sm8_pack.zip"

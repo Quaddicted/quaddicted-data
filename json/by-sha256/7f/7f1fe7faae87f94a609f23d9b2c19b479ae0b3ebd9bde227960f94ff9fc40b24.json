@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 482940,
  "description": "Small metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-09",
  "sha256": "7f1fe7faae87f94a609f23d9b2c19b479ae0b3ebd9bde227960f94ff9fc40b24",
  "tags": [
   "author=J.F.Gustafsson",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "From out of nowhere",
  "urls": [
   "https://www.quaddicted.com/filebase/foon.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7f1fe7faae87f94a609f23d9b2c19b479ae0b3ebd9bde227960f94ff9fc40b24/foon.zip"

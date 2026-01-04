@@ -1,7 +1,4 @@
 {
- "authors": [
-  "R.P.G."
- ],
  "bytes": 78729,
  "description": "A small joke map inspired by Tetris.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-11",
  "sha256": "3d665279ed876425fddf946d8bf1039346435ab35078acdc268207593b7a1c85",
  "tags": [
   "author=R.P.G.",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pajitnov",
  "urls": [
   "https://www.quaddicted.com/filebase/pajitnov.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3d665279ed876425fddf946d8bf1039346435ab35078acdc268207593b7a1c85/pajitnov.zip"

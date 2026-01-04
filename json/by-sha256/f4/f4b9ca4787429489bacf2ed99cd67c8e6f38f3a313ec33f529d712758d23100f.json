@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Naitelveni"
- ],
  "bytes": 9418983,
- "depends": [
-  "49acbbd406d62768b8f5ef961ec8a713604260805f9257239c1f7aaf9a5c6900"
- ],
  "description": "Late entry for the <a href=\"49acbbd406d62768b8f5ef961ec8a713604260805f9257239c1f7aaf9a5c6900\">Doom Tintin Jam</a>: a medium-sized DOOM3 base map with hell areas. The map source is included.",
  "files": {
   "Tintin_jam_nait/": {
@@ -44,7 +38,6 @@
  "notes": [
   "This map requires <a href=\"49acbbd406d62768b8f5ef961ec8a713604260805f9257239c1f7aaf9a5c6900\">Doom Tintin Jam</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-08-11",
  "sha256": "f4b9ca4787429489bacf2ed99cd67c8e6f38f3a313ec33f529d712758d23100f",
  "tags": [
   "author=Naitelveni",
@@ -73,7 +66,6 @@
   "type=map",
   "zipbasedir=dtintin/maps/"
  ],
- "title": "The Master's Tools Will Never Dismantle the Master's House",
  "urls": [
   "https://www.quaddicted.com/filebase/tintin_jam_nait.zip",
   "https://www.quaddicted.com/files/by-sha256/f4/f4b9ca4787429489bacf2ed99cd67c8e6f38f3a313ec33f529d712758d23100f/tintin_jam_nait.zip"

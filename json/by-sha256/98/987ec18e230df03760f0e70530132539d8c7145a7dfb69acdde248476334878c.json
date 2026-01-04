@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Scampie",
-  "Starbuck",
-  "Zwiffle",
-  "czg"
- ],
  "bytes": 1374173,
  "description": "Do stuff based on a really ugly layout drawing Scampie did / 2 SP, 3 DM maps / czg, Scampie, Starbuck, Zwiffle",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-02-01",
  "sha256": "987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c",
  "tags": [
   "author=Scampie",
@@ -64,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 65 - Do stuff based on a really ugly layout drawing Scampie did",
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/98/987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c/sm65_pack.zip"

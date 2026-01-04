@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Lardarse (czg",
-  "Vondur)"
- ],
  "bytes": 2085112,
  "description": "<a href=\"60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d\">E1M1rmx</a> with a twist: a certain amount of red keys scattered throughout the map have to be collected in order to proceed, making the gameplay largely non-linear.",
  "files": {
@@ -263,7 +259,6 @@
   "extract": "{base}/e1m1red/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-09-12",
  "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
  "tags": [
   "author=Lardarse (czg",
@@ -284,7 +279,6 @@
   "type=mod",
   "zipbasedir=e1m1red/"
  ],
- "title": "Bloody Slipgates",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1red.zip",
   "https://www.quaddicted.com/files/by-sha256/03/0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65/e1m1red.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sodalimonada176"
- ],
  "bytes": 2795539,
  "description": "A small classic-style medieval castle map. The author's first release.",
  "files": {
@@ -37,7 +34,6 @@
  "notes": [
   "Custom music is included, but unfortunately it is packaged in the wrong folder relative to the map files and requires manually moving files to the correct place after unzipping. Thus, the custom music won't work if installed via Quake Injector."
  ],
- "release_date": "2022-06-06",
  "sha256": "4d5adb83d7db84fae6e7c588d8e2c764bb114bbcb61bf31ff0efb8c3f9959097",
  "tags": [
   "author=sodalimonada176",
@@ -59,7 +55,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Beastial Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/castle100.zip",
   "https://www.quaddicted.com/files/by-sha256/4d/4d5adb83d7db84fae6e7c588d8e2c764bb114bbcb61bf31ff0efb8c3f9959097/castle100.zip"

@@ -1,21 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Burnham",
-  "Cocerello",
-  "Greenwood",
-  "Markie Music",
-  "Nolcoz",
-  "PalmliX",
-  "PoolboyQ",
-  "Rhoq",
-  "Shamblernaut",
-  "Strangework",
-  "Voidforce",
-  "ish",
-  "quasiotter",
-  "zigi"
- ],
  "bytes": 52916895,
  "description": "Community mapping project with the goal of creating a full level based on a simple layout provided by Markie Music. The resulting pack features 14 small to medium-sized levels of varying themes. It comes with three custom skyboxes and two music tracks. The map sources are included.",
  "files": {
@@ -402,7 +385,6 @@
  "notes": [
   "Some of these maps require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-05-13",
  "sha256": "1d1d02dd41e96e83af9b9f0258a2a33defadd198b598d8e334b64c955e17c4f5",
  "tags": [
   "author=Artistical",
@@ -455,7 +437,6 @@
   "type=mod",
   "zipbasedir=qbb1/"
  ],
- "title": "Quake Builder Community Blockout Project #1",
  "urls": [
   "https://www.quaddicted.com/filebase/qbb1-revised.zip",
   "https://www.quaddicted.com/files/by-sha256/1d/1d1d02dd41e96e83af9b9f0258a2a33defadd198b598d8e334b64c955e17c4f5/qbb1-revised.zip"

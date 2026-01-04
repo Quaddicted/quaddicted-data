@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Cocerello",
-  "DOOMer",
-  "Drew"
- ],
  "bytes": 3535041,
  "description": "Quantity over Quality / 3 SP maps / Cocerello (Quoth), DOOMer, Drew (Quoth)<br><br>Follows the same theme as <a href=\"a9b689a85614f06e64fb42ffdeb65ecf33dea8d61db70d0fc32de2565e03d316\">Speedmapping Pack 67</a>.The source for Cocerello's map is included.<br><br> Cocerello's map and Drew's map require <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a>.",
  "files": {
@@ -57,7 +52,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-08-30",
  "sha256": "3d16fc7f2a3e68af13055a8ccf2231b8e329481f8801bbf6a3949d641d724f3f",
  "tags": [
   "author=Cocerello",
@@ -80,7 +74,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 176 - Quantity over Quality",
  "urls": [
   "https://www.quaddicted.com/filebase/sm176_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3d16fc7f2a3e68af13055a8ccf2231b8e329481f8801bbf6a3949d641d724f3f/sm176_pack.zip"

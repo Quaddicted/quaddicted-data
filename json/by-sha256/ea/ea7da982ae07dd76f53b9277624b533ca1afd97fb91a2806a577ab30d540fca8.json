@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Pete Burrows"
- ],
  "bytes": 1218390,
  "description": "Around medium sized map - an attempt at recreating \"the squalid east end of London of the Victorian era a time of gas lamp shadows alleyways and the worlds first serial killer\" (Jack the Ripper).",
  "files": {
@@ -273,7 +270,6 @@
   "extract": "{base}/fromhell/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-01",
  "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "tags": [
   "author=Pete Burrows",
@@ -294,7 +290,6 @@
   "type=mod",
   "zipbasedir=fromhell/"
  ],
- "title": "From Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/fromhell.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8/fromhell.zip"

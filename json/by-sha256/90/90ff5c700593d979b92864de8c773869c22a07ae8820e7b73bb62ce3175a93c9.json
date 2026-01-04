@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GunSgtHighway"
- ],
  "bytes": 33784324,
  "description": "Small military camp in the jungle. An asset showcase and a resource/toolbox for vegetation in levels. It is based on the Progs_dump mod (included), uses custom textures and comes with a few new sounds. The map and qc sources are included.",
  "files": {
@@ -708,7 +705,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support as well as transparent textures. Perfomance issues on slower machines are to be expected."
  ],
- "release_date": "2021-07-09",
  "sha256": "90ff5c700593d979b92864de8c773869c22a07ae8820e7b73bb62ce3175a93c9",
  "tags": [
   "author=GunSgtHighway",
@@ -737,7 +733,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "GSH Jungle mod",
  "urls": [
   "https://www.quaddicted.com/filebase/gsh_jungle.zip",
   "https://www.quaddicted.com/files/by-sha256/90/90ff5c700593d979b92864de8c773869c22a07ae8820e7b73bb62ce3175a93c9/gsh_jungle.zip"

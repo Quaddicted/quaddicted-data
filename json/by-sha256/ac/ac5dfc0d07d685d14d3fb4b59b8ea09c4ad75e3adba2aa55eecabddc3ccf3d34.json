@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ankh"
- ],
  "bytes": 1239355,
  "description": "Medium to large oldschool Wizard dungeon.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-12-30",
  "sha256": "ac5dfc0d07d685d14d3fb4b59b8ea09c4ad75e3adba2aa55eecabddc3ccf3d34",
  "tags": [
   "author=Ankh",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Coma",
  "urls": [
   "https://www.quaddicted.com/filebase/coma.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/ac5dfc0d07d685d14d3fb4b59b8ea09c4ad75e3adba2aa55eecabddc3ccf3d34/coma.zip"

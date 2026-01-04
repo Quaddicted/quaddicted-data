@@ -1,7 +1,4 @@
 {
- "authors": [
-  "iYago"
- ],
  "bytes": 11104891,
  "description": "Small metal/runic level. Comes with a custom music track from Quake64. The map source is included.",
  "files": {
@@ -53,11 +50,6 @@
   "UPDATE, 16 Feb 2023: <a href=\"7e257b1180c6945a9a770fbafba3003d5ac7c4713cbb7327ff950018f8458bdc\">version 1.2</a> is available.",
   "This map requires a source port with increased limits."
  ],
- "provides": {
-  "wlb": "1.0"
- },
- "release_date": "2020-12-01",
- "release_group": "wlb",
  "sha256": "d1a54b7e529a65955605c88976d58ff1021d9cc61f331b7eb06b800a196fec30",
  "tags": [
   "author=iYago",
@@ -80,7 +72,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "What Lies Behind v1.0",
  "urls": [
   "https://www.quaddicted.com/filebase/wlb.zip",
   "https://www.quaddicted.com/files/by-sha256/d1/d1a54b7e529a65955605c88976d58ff1021d9cc61f331b7eb06b800a196fec30/wlb.zip"

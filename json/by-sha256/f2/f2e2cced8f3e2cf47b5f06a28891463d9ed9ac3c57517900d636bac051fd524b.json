@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ben Horsley"
- ],
  "bytes": 607974,
  "description": "Small, snowy map with Hexen II textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-12-23",
  "sha256": "f2e2cced8f3e2cf47b5f06a28891463d9ed9ac3c57517900d636bac051fd524b",
  "tags": [
   "author=Ben Horsley",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Castle of Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/snow.zip",
   "https://www.quaddicted.com/files/by-sha256/f2/f2e2cced8f3e2cf47b5f06a28891463d9ed9ac3c57517900d636bac051fd524b/snow.zip"

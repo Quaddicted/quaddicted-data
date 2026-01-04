@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Florian Gleixner"
- ],
  "bytes": 359371,
  "description": "Small Medieval beginner map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-23",
  "sha256": "6f6fd32d69b8f10b7b7405adef99657f56e74379e37bd3b6782678d9359c74dd",
  "tags": [
   "author=Florian Gleixner",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Flo's 1st Map",
  "urls": [
   "https://www.quaddicted.com/filebase/flo.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6f6fd32d69b8f10b7b7405adef99657f56e74379e37bd3b6782678d9359c74dd/flo.zip"

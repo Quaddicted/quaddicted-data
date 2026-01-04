@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 485017,
  "description": "Smallish Metal/ Wizard map. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-12-31",
  "sha256": "8b14eb157ed011390e0e0acb29c0191c10f7a74c613313b686b14466a8756daa",
  "tags": [
   "author=Trinca",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Escape",
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp1.zip",
   "https://www.quaddicted.com/files/by-sha256/8b/8b14eb157ed011390e0e0acb29c0191c10f7a74c613313b686b14466a8756daa/trincasp1.zip"

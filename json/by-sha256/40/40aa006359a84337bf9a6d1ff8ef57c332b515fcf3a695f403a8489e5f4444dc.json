@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jim Hughes"
- ],
  "bytes": 923020,
  "description": "Medium sized metal level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-01",
  "sha256": "40aa006359a84337bf9a6d1ff8ef57c332b515fcf3a695f403a8489e5f4444dc",
  "tags": [
   "author=Jim Hughes",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "All Black Within",
  "urls": [
   "https://www.quaddicted.com/filebase/abw.zip",
   "https://www.quaddicted.com/files/by-sha256/40/40aa006359a84337bf9a6d1ff8ef57c332b515fcf3a695f403a8489e5f4444dc/abw.zip"

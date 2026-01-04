@@ -1,11 +1,5 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 610688,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Small oldschool brick level with a few DOOM textures.",
  "files": {
   "ne_deadcity.bsp": {
@@ -23,7 +17,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-11-05",
  "sha256": "e5f3e91c546b16d93ff9863dc0a1f960542afbeffeb79be1f460f5590839e695",
  "tags": [
   "author=necros",
@@ -45,7 +38,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "The Rats in the Walls",
  "urls": [
   "https://www.quaddicted.com/filebase/ne_deadcity.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e5f3e91c546b16d93ff9863dc0a1f960542afbeffeb79be1f460f5590839e695/ne_deadcity.zip"

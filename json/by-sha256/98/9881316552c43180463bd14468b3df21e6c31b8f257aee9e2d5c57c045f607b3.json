@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 359925,
  "description": "Medium-sized plain Metal level with base monsters. Lots of ammo there, but no weapons.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-24",
  "sha256": "9881316552c43180463bd14468b3df21e6c31b8f257aee9e2d5c57c045f607b3",
  "tags": [
   "author=Unknown",
@@ -32,7 +28,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Garrison",
  "urls": [
   "https://www.quaddicted.com/filebase/garrison.zip",
   "https://www.quaddicted.com/files/by-sha256/98/9881316552c43180463bd14468b3df21e6c31b8f257aee9e2d5c57c045f607b3/garrison.zip"

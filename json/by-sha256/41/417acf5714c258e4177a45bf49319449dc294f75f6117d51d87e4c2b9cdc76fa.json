@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Gibbie",
-  "Misyu",
-  "NaNe",
-  "Tron",
-  "Vigil"
- ],
  "bytes": 1252675,
  "description": "Wood and stone, containing at least 1 bridge / 5 SP maps / Gibbie, Misyu, NaNe, Tron, Vigil",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-06-17",
  "sha256": "417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa",
  "tags": [
   "author=Gibbie",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 21 - Wood and stone, containing at least 1 bridge",
  "urls": [
   "https://www.quaddicted.com/filebase/sm21_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/41/417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa/sm21_pack.zip"

@@ -1,22 +1,4 @@
 {
- "authors": [
-  "Caffeine Freak",
-  "DetroHogga",
-  "Doritos420",
-  "Grue",
-  "HOLE",
-  "IcoShee",
-  "Kaz115",
-  "Null",
-  "PuLSaR",
-  "Sock",
-  "Text_Fish",
-  "WarrenM",
-  "ZetaByt",
-  "alexUnder",
-  "iLike80sRock",
-  "sndein"
- ],
  "bytes": 27337589,
  "description": "A pack of 15 small-to-medium vanilla maps inspired by Quake's early episode 2 levels (e2m2-e2m4) connected by a start map.",
  "files": {
@@ -315,7 +297,6 @@
   "extract": "{base}/mc_retrojam3"
  },
  "json_version": "2025.09.27",
- "release_date": "2025-02-07",
  "sha256": "28efa4c614cce3a4a470433b56cb3f3972474caa26b2cf12e82dcc9c698416fe",
  "tags": [
   "author=Caffeine Freak",
@@ -345,7 +326,6 @@
   "type=mapjam",
   "zipbasedir=mc_retrojam3"
  ],
- "title": "Map-Center Quake Retrojam 3",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/28/28efa4c614cce3a4a470433b56cb3f3972474caa26b2cf12e82dcc9c698416fe/mc_retrojam3.zip",
   "https://x901.net/quaddictedfiles/mc_retrojam3.zip"

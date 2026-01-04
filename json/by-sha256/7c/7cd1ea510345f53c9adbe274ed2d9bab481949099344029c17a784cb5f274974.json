@@ -1,14 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "Hrimfaxi",
-  "Leviathan",
-  "Moz",
-  "Pulsar",
-  "RPG",
-  "Scampie",
-  "Xenon"
- ],
  "bytes": 1796473,
  "description": "Episode 2 (The 4 Seasons of Quake #2) / 9 SP maps / CZG, Hrimfaxi, Leviathan, Moz, Pulsar, RPG, Scampie, Xenon",
  "files": {
@@ -72,7 +62,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-11-09",
  "sha256": "7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974",
  "tags": [
   "author=CZG",
@@ -102,7 +91,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 56 - Episode 2 (The 4 Seasons of Quake #2)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm56_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7c/7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974/sm56_pack.zip"

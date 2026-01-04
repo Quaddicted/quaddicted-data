@@ -1,10 +1,4 @@
 {
- "authors": [
-  "FrikaC",
-  "NotoriousRay",
-  "RPG",
-  "Scampie"
- ],
  "bytes": 527908,
  "description": "Deathmatch maps / 4 DM maps / FrikaC, NotoriousRay, RPG, Scampie",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-06-26",
  "sha256": "8cf7e3c1b5daec0d5d7f7d3c648aed389bd4c981a2270e46a2a359a0ece58754",
  "tags": [
   "author=FrikaC",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 83 - Deathmatch maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8c/8cf7e3c1b5daec0d5d7f7d3c648aed389bd4c981a2270e46a2a359a0ece58754/sm83_pack.zip"

@@ -1,8 +1,5 @@
 {
  "bytes": 5835451,
- "depends": [
-  "copper>=1.20"
- ],
  "description": "A map featuring multiple quad fights in a castle surrounding a lake. Hence the name. The author's first Quake map.",
  "files": {
   "avix_qcastle.bsp": {
@@ -38,7 +35,6 @@
  "notes": [
   "An updated version of the map with revised lighting and bugfixes can be found <a href=\"580daba3881b3787e807446921f561581c2dcda4ccc3263a5a65c48d2c552019\">here</a>."
   ],
- "release_group": "avix_qcastle",
  "sha256": "4c6e674d6ee457074e13151d8ecc07cfd8f8fcdca95bdb6f21687e55bca6612d",
  "tags": [
   "author=Avix",

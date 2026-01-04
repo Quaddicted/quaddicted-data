@@ -1,7 +1,4 @@
 {
- "authors": [
-  "phlamethrower"
- ],
  "bytes": 378700,
  "description": "Big and empty base.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-03-20",
  "sha256": "01f64963146fa98bc0650e45f15554d32236af87a168698265746892957ddb8b",
  "tags": [
   "author=phlamethrower",
@@ -31,7 +27,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Pain Element",
  "urls": [
   "https://www.quaddicted.com/filebase/j2.zip",
   "https://www.quaddicted.com/files/by-sha256/01/01f64963146fa98bc0650e45f15554d32236af87a168698265746892957ddb8b/j2.zip"

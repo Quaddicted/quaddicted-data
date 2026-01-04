@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Psycho"
- ],
  "bytes": 672091,
  "description": "Outdoor area with a spaceship and a few monsters tossed in.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-11",
  "sha256": "c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a",
  "tags": [
   "author=Psycho",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Marsbase",
  "urls": [
   "https://www.quaddicted.com/filebase/marsbase.zip",
   "https://www.quaddicted.com/files/by-sha256/c6/c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a/marsbase.zip"

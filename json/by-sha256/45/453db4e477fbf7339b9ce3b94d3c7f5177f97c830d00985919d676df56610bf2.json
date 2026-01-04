@@ -1,7 +1,4 @@
 {
- "authors": [
-  "super"
- ],
  "bytes": 229507,
  "description": "Very small runic-style cathedral.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-01-14",
  "sha256": "453db4e477fbf7339b9ce3b94d3c7f5177f97c830d00985919d676df56610bf2",
  "tags": [
   "author=super",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fatal Steps",
  "urls": [
   "https://www.quaddicted.com/filebase/fatalstp.zip",
   "https://www.quaddicted.com/files/by-sha256/45/453db4e477fbf7339b9ce3b94d3c7f5177f97c830d00985919d676df56610bf2/fatalstp.zip"

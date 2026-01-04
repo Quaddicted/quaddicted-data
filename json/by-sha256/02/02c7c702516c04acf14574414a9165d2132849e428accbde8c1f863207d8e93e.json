@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Timothy R. Jervis"
- ],
  "bytes": 620200,
  "description": "Small map with two outdoor areas, a ruin field and an icy landscape, connected by a short dungeon. No exit, but still worth a look.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-05",
  "sha256": "02c7c702516c04acf14574414a9165d2132849e428accbde8c1f863207d8e93e",
  "tags": [
   "author=Timothy R. Jervis",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Ruins of Athelstan",
  "urls": [
   "https://www.quaddicted.com/filebase/qakula4.zip",
   "https://www.quaddicted.com/files/by-sha256/02/02c7c702516c04acf14574414a9165d2132849e428accbde8c1f863207d8e93e/qakula4.zip"

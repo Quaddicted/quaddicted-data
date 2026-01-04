@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Addy / TheADrain"
- ],
  "bytes": 4245199,
  "description": "Large classic-style mountain base map. Map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-01-09",
  "sha256": "89167a0c84b52dc8e6d6c44853afd756379f553b98ab8edb745e30f54c5061bc",
  "tags": [
   "author=Addy / TheADrain",
@@ -54,7 +50,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fortress Interior",
  "urls": [
   "https://www.quaddicted.com/filebase/fortress_1_1.zip",
   "https://www.quaddicted.com/files/by-sha256/89/89167a0c84b52dc8e6d6c44853afd756379f553b98ab8edb745e30f54c5061bc/fortress_1_1.zip"

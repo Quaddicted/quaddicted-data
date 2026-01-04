@@ -1,11 +1,5 @@
 {
- "authors": [
-  "RickyT23"
- ],
  "bytes": 8403909,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "A small 5-map episode for Quoth. Starts with base maps and ends in a Doom-like \"hell bunker\".",
  "files": {
   "dejavu10.txt": {
@@ -131,7 +125,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "2007-09-27",
  "sha256": "805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a",
  "tags": [
   "author=RickyT23",
@@ -154,7 +147,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Deja - Vu !",
  "urls": [
   "https://www.quaddicted.com/filebase/dejavu10.zip",
   "https://www.quaddicted.com/files/by-sha256/80/805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a/dejavu10.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daniel G\u00f3mez (Rat\u00f3n)"
- ],
  "bytes": 528135,
  "description": "Small medieval map. The author's first Quake release.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-01-11",
  "sha256": "67bcd34cc1a597010fd73dcfcb3654de0f028f07c26f09bbc0685dcd12a6435b",
  "tags": [
   "author=Daniel G\u00f3mez (Rat\u00f3n)",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "La Torre Abandonada",
  "urls": [
   "https://www.quaddicted.com/filebase/torre.zip",
   "https://www.quaddicted.com/files/by-sha256/67/67bcd34cc1a597010fd73dcfcb3654de0f028f07c26f09bbc0685dcd12a6435b/torre.zip"

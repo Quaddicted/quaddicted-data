@@ -1,7 +1,4 @@
 {
- "authors": [
-  "T.H. Johansen (TJ)"
- ],
  "bytes": 2865940,
  "description": "Two medium sized maps and a small secret map featuring Snakeman, Manga Babe, Willy the Spider and Raptor monsters. Scourge of Amargon is required as well.",
  "files": {
@@ -349,7 +346,6 @@
   "extract": "{base}/tefdb2a/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-01",
  "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "tags": [
   "author=T.H. Johansen (TJ)",
@@ -373,7 +369,6 @@
   "type=mod",
   "zipbasedir=tefdb2a/"
  ],
- "title": "Into Oblivion/Nostalgia",
  "urls": [
   "https://www.quaddicted.com/filebase/tefdbl2a.zip",
   "https://www.quaddicted.com/files/by-sha256/b1/b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5/tefdbl2a.zip"

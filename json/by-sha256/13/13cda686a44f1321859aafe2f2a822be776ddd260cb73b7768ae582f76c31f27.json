@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Bloughsburgh"
- ],
  "bytes": 3000485,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Mini-episode consisting of three small levels and a start map. Some of the author's very first maps.",
  "files": {
   "MJB2HUB.bsp": {
@@ -51,7 +45,6 @@
  "notes": [
   "These maps require <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2016-02-07",
  "sha256": "13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27",
  "tags": [
   "author=Bloughsburgh",
@@ -77,7 +70,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Rune of Blood",
  "urls": [
   "https://www.quaddicted.com/filebase/runeofblood.zip",
   "https://www.quaddicted.com/files/by-sha256/13/13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27/runeofblood.zip"

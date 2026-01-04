@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 1889818,
  "description": "Medium-sized metal/runic style level with a built-in skill-selection room and an additional alternative game mode.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-12-16",
  "sha256": "c833ed90ff94e6788f128763b11ad173642150ce397ad60bb161e1edda768742",
  "tags": [
   "author=negke",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Runic Recycling",
  "urls": [
   "https://www.quaddicted.com/filebase/mappi2.zip",
   "https://www.quaddicted.com/files/by-sha256/c8/c833ed90ff94e6788f128763b11ad173642150ce397ad60bb161e1edda768742/mappi2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi"
- ],
  "bytes": 3811475,
  "description": "Large Metal fortress with a dragon boss fight and a few other custom progs.",
  "files": {
@@ -270,7 +267,6 @@
   "extract": "{base}/hrim_sp1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-04-11",
  "sha256": "4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978",
  "tags": [
   "author=Hrimfaxi",
@@ -292,7 +288,6 @@
   "type=mod",
   "zipbasedir=hrim_sp1/"
  ],
- "title": "Frying obstacles",
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp1.zip",
   "https://www.quaddicted.com/files/by-sha256/41/4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978/hrim_sp1.zip"

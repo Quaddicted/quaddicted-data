@@ -1,8 +1,4 @@
 {
- "authors": [
-  "HeadThump",
-  "generic"
- ],
  "bytes": 592709,
  "description": "[No information]",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-10-30",
  "sha256": "fc11a6c33cfe28f229c3cd4aa89774da95f84ae2e9058846653ce411c7641a0c",
  "tags": [
   "author=HeadThump",
@@ -36,7 +31,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 107",
  "urls": [
   "https://www.quaddicted.com/filebase/sm107_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/fc/fc11a6c33cfe28f229c3cd4aa89774da95f84ae2e9058846653ce411c7641a0c/sm107_pack.zip"

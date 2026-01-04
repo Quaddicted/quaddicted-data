@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Drew"
- ],
  "bytes": 849377,
  "description": "(Drew) / 4 __ maps / Drew",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-15",
  "sha256": "130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983",
  "tags": [
   "author=Drew",
@@ -52,7 +48,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 23",
  "urls": [
   "https://www.quaddicted.com/filebase/sm23_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/13/130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983/sm23_pack.zip"

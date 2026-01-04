@@ -1,11 +1,5 @@
 {
- "authors": [
-  "RickyT23"
- ],
  "bytes": 9119693,
- "depends": [
-  "alkaline>=1.10"
- ],
  "description": "Episode consisting of four base maps in various styles (idbase, ikbase and zerbase are all featured) with a short backing story. Intended as part 1 of a wider release. Designed to run on the original Quake limits.",
  "files": {
   "readme.txt": {
@@ -103,7 +97,6 @@
  "notes": [
   "This episode requires <a href=\"5c91b8d30d76a3eab7ecbf955d44a387bcae41ca97be09c70c23819de1636780\">Alkaline</a> to be installed."
  ],
- "release_date": "2023-06-26",
  "sha256": "62714001117bf1af7ada868c335ec9648a634b57eba5de98999b84b3b44c5aff",
  "tags": [
   "author=RickyT23",
@@ -124,7 +117,6 @@
   "type=mod",
   "zipbasedir=alk1.1/maps/"
  ],
- "title": "Corruption Catharsis: Part 1 - Try To Act Normal (1.1)",
  "urls": [
   "https://www.quaddicted.com/filebase/rt23alk1_1.zip",
   "https://www.quaddicted.com/files/by-sha256/62/62714001117bf1af7ada868c335ec9648a634b57eba5de98999b84b3b44c5aff/rt23alk1_1.zip"

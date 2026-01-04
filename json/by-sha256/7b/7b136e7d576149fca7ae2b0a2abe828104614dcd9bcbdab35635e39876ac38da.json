@@ -1,12 +1,5 @@
 {
- "authors": [
-  "Hrimfaxi (Drew)",
-  "Zwiffle (czg)"
- ],
  "bytes": 3452087,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Two maps built from the scraps of other mappers: Hrimfaxi used Drew's scraps for a large egyptian/mayan map called \"Egyptian rhapsody!\" Zwiffle used czg's for a ikblue map called \"Teacups - are my intentions\".",
  "files": {
   "egypt.bsp": {
@@ -34,7 +27,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-03-08",
  "sha256": "7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da",
  "tags": [
   "author=Hrimfaxi (Drew)",
@@ -59,7 +51,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "winterpack2005-2006",
  "urls": [
   "https://www.quaddicted.com/filebase/winterpack2005-2006.zip",
   "https://www.quaddicted.com/files/by-sha256/7b/7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da/winterpack2005-2006.zip"

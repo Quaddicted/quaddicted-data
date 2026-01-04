@@ -1,14 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "DaZ",
-  "Necros",
-  "NotoriousRay",
-  "Pushplay",
-  "Scampie",
-  "Starbuck",
-  "Xen"
- ],
  "bytes": 1212638,
  "description": "Non-detail textures / 8 SP maps / CZG, DaZ, Necros, Pushplay, NotoriousRay, Scampie, Starbuck, Xen",
  "files": {
@@ -62,7 +52,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-09-07",
  "sha256": "170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a",
  "tags": [
   "author=CZG",
@@ -91,7 +80,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 48 - Non-detail textures",
  "urls": [
   "https://www.quaddicted.com/filebase/sm48_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/17/170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a/sm48_pack.zip"

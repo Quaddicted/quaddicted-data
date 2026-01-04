@@ -1,7 +1,4 @@
 {
- "authors": [
-  "QBrt"
- ],
  "bytes": 109459,
  "description": "Very small Medieval level. The author's first map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-01-22",
  "sha256": "a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36",
  "tags": [
   "author=QBrt",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "brt01q1",
  "urls": [
   "https://www.quaddicted.com/filebase/brt01q1.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36/brt01q1.zip"

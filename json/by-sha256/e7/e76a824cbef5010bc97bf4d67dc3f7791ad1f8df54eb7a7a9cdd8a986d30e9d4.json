@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Justin",
-  "Kaepora Gaepora"
- ],
  "bytes": 77313,
  "description": "A simple arena with knights, not even an exit.",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-07-02",
  "sha256": "e76a824cbef5010bc97bf4d67dc3f7791ad1f8df54eb7a7a9cdd8a986d30e9d4",
  "tags": [
   "author=Justin",
@@ -37,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Arenas of Might",
  "urls": [
   "https://www.quaddicted.com/filebase/mightarenas.zip",
   "https://www.quaddicted.com/files/by-sha256/e7/e76a824cbef5010bc97bf4d67dc3f7791ad1f8df54eb7a7a9cdd8a986d30e9d4/mightarenas.zip"

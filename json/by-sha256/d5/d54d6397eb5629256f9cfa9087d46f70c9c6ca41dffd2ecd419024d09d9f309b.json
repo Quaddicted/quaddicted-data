@@ -1,7 +1,4 @@
 {
- "authors": [
-  "FrikaC"
- ],
  "bytes": 1297908,
  "description": "some Speedmap by frikac",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "d54d6397eb5629256f9cfa9087d46f70c9c6ca41dffd2ecd419024d09d9f309b",
  "tags": [
   "author=FrikaC",
@@ -26,7 +22,6 @@
   "title=Title",
   "type=speedmap"
  ],
- "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_frik_qwd.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d54d6397eb5629256f9cfa9087d46f70c9c6ca41dffd2ecd419024d09d9f309b/sm83_frik_qwd.zip"

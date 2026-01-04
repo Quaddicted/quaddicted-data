@@ -1,7 +1,4 @@
 {
- "authors": [
-  "wedge_one"
- ],
  "bytes": 9881964,
  "description": "Small map in the knave theme based on a previously created blockout. Essentially a (very) late entry to <a href=\"1d1d02dd41e96e83af9b9f0258a2a33defadd198b598d8e334b64c955e17c4f5\">QBB1</a>",
  "files": {
@@ -93,7 +90,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2024-07-03",
  "sha256": "5dd84ca583cf98d9f8deeea79567bd014e6f0636f19e2afd1117d5df70a7ecbe",
  "tags": [
   "author=wedge_one",
@@ -108,7 +104,6 @@
   "type=mod",
   "zipbasedir=id1/"
  ],
- "title": "Missing Coordinates",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/5d/5dd84ca583cf98d9f8deeea79567bd014e6f0636f19e2afd1117d5df70a7ecbe/wdg_qbblock1.zip",
   "https://x901.net/quaddictedfiles/wdg_qbblock1.zip"

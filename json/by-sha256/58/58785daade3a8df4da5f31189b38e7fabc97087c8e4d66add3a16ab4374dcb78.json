@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Biggerstaff (Miko)"
- ],
  "bytes": 1070799,
  "description": "Smallish mixstyle map with many long corridors, misaligned crates and an interesting glowing light effect in the main room. Comes with three demos. Map source is included.",
  "files": {
@@ -45,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-11",
  "sha256": "58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78",
  "tags": [
   "author=Mike Biggerstaff (Miko)",
@@ -62,7 +58,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "ThePit",
  "urls": [
   "https://www.quaddicted.com/filebase/thepit.zip",
   "https://www.quaddicted.com/files/by-sha256/58/58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78/thepit.zip"

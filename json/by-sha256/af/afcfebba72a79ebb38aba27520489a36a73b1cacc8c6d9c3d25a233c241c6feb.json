@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Naitelveni",
-  "mukor"
- ],
  "bytes": 3405052,
  "description": "2 SP maps by mukor and Naitelveni.  The title of the pack is not referenced in the zip as their is no readme file.",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-12-16",
  "sha256": "afcfebba72a79ebb38aba27520489a36a73b1cacc8c6d9c3d25a233c241c6feb",
  "tags": [
   "author=Naitelveni",
@@ -48,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 180 - A Map Repus Can Enjoy",
  "urls": [
   "https://www.quaddicted.com/filebase/sm180.zip",
   "https://www.quaddicted.com/files/by-sha256/af/afcfebba72a79ebb38aba27520489a36a73b1cacc8c6d9c3d25a233c241c6feb/sm180.zip"

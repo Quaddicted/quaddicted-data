@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Glenn Ancheta"
- ],
  "bytes": 163393,
  "description": "Small, plain and leaked Wizard map with underwater areas.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-01",
  "sha256": "c8e6867f8448566da8450a4ca7d438339a6d4c5677ad2b601c2c0c3759a9c1fd",
  "tags": [
   "author=Glenn Ancheta",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The EvilPool",
  "urls": [
   "https://www.quaddicted.com/filebase/evilpool.zip",
   "https://www.quaddicted.com/files/by-sha256/c8/c8e6867f8448566da8450a4ca7d438339a6d4c5677ad2b601c2c0c3759a9c1fd/evilpool.zip"

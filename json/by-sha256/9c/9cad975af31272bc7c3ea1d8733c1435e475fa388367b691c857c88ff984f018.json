@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ShockedHorizon5"
- ],
  "bytes": 2396959,
  "description": "Small otherworldly castle surrounded by mountains. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2021-02-04",
  "sha256": "9cad975af31272bc7c3ea1d8733c1435e475fa388367b691c857c88ff984f018",
  "tags": [
   "author=ShockedHorizon5",
@@ -56,7 +52,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Court of the Chaos God",
  "urls": [
   "https://www.quaddicted.com/filebase/cotcg.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9cad975af31272bc7c3ea1d8733c1435e475fa388367b691c857c88ff984f018/cotcg.zip"

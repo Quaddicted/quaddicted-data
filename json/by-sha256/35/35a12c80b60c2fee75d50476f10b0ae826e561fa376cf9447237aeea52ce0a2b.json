@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Smith"
- ],
  "bytes": 2384037,
  "description": "Large Wizard-/Episode 2-themed fortress.",
  "files": {
@@ -29,7 +26,6 @@
   "This map requires a source port with increased limits and BSP2 support.",
   "Rezipped for Quaddicted"
  ],
- "release_date": "2018-02-09",
  "sha256": "35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b",
  "tags": [
   "author=Andrew Smith",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Grim Outpost",
  "urls": [
   "https://www.quaddicted.com/filebase/grim_rezipped.zip",
   "https://www.quaddicted.com/files/by-sha256/35/35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b/grim_rezipped.zip"

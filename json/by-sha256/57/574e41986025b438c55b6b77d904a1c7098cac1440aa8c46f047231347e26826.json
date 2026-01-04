@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mtsch"
- ],
  "bytes": 18094226,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Small-scale metal map with non-linear gameplay, close-quarters combat and a number of secrets.",
  "files": {
   "copper/": {
@@ -68,7 +62,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-12-17",
  "sha256": "574e41986025b438c55b6b77d904a1c7098cac1440aa8c46f047231347e26826",
  "tags": [
   "author=mtsch",
@@ -87,7 +80,6 @@
   "title=The Slime Sanctuary",
   "type=map"
  ],
- "title": "The Slime Sanctuary",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/57/574e41986025b438c55b6b77d904a1c7098cac1440aa8c46f047231347e26826/mtsch001.zip",
   "https://x901.net/quaddictedfiles/mtsch001.zip"

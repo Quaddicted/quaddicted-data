@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Rescoe"
- ],
  "bytes": 816690,
  "description": "Two very small maps; one features the head of a dragon.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-25",
  "sha256": "08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e",
  "tags": [
   "author=Steve Rescoe",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Drakopf",
  "urls": [
   "https://www.quaddicted.com/filebase/drakopf.zip",
   "https://www.quaddicted.com/files/by-sha256/08/08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e/drakopf.zip"

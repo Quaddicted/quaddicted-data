@@ -1,14 +1,4 @@
 {
- "authors": [
-  "BloodShot",
-  "JCR",
-  "Redfield",
-  "Scrama",
-  "Shamblernaut",
-  "aDaya",
-  "ish",
-  "khreathor"
- ],
  "bytes": 60235410,
  "description": "Modding jam event: eight small mods introducing new weapons, items, or gameplay features. Some of them come with test maps, new sounds and models etc. The mod sources are included.",
  "files": {
@@ -4759,7 +4749,6 @@
  "notes": [
   "Cannot be run through the Quake Injector."
  ],
- "release_date": "2019-02-14",
  "sha256": "3cbae5ebc32c5cff4c201933265d4dd4dc4f50d9a0edc1710a6556212ab45bf7",
  "tags": [
   "author=BloodShot",
@@ -4788,7 +4777,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Modding Jam 2019",
  "urls": [
   "https://www.quaddicted.com/filebase/modjam_2019.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3cbae5ebc32c5cff4c201933265d4dd4dc4f50d9a0edc1710a6556212ab45bf7/modjam_2019.zip"

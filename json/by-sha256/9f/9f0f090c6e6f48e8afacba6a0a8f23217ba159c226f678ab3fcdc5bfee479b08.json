@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MadFox"
- ],
  "bytes": 6439926,
  "description": "Large greek-themed medieval town with a venice-style canal and cavern areas beneath. It also features a few new and modified monsters: crossbow knights, skeletons and Granito.",
  "files": {
@@ -251,7 +248,6 @@
   "extract": "{base}/veni/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-08-30",
  "sha256": "9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08",
  "tags": [
   "author=MadFox",
@@ -273,7 +269,6 @@
   "type=mod",
   "zipbasedir=veni/"
  ],
- "title": "VeniVidiFutzi",
  "urls": [
   "https://www.quaddicted.com/filebase/veni05a.zip",
   "https://www.quaddicted.com/files/by-sha256/9f/9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08/veni05a.zip"

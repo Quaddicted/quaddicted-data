@@ -1,7 +1,4 @@
 {
- "authors": [
-  "unknown"
- ],
  "bytes": 470110,
  "description": "Direct conversion of E1M9 from DOOM, using original textures. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-06-15",
  "sha256": "19cc474b87249bf155fe2f2f1a533e98ae19af43832d6911676b1096974c9c93",
  "tags": [
   "author=unknown",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Military Base",
  "urls": [
   "https://www.quaddicted.com/filebase/doom_e1m9.zip",
   "https://www.quaddicted.com/files/by-sha256/19/19cc474b87249bf155fe2f2f1a533e98ae19af43832d6911676b1096974c9c93/doom_e1m9.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder"
- ],
  "bytes": 2046838,
  "description": "Large green jungle temple with some puzzles involving ancient machinery. Sort of a sequel to <a href=\"0d0e69d78ef341bfc53343bf5f32c95e3fa49e9e66eb0f83fc1079cba4029fd6\">Ruins of Mazotac</a>. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-05-04",
  "sha256": "4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77",
  "tags": [
   "author=Andrew Yoder",
@@ -54,7 +50,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Simplex",
  "urls": [
   "https://www.quaddicted.com/filebase/simplex.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77/simplex.zip"

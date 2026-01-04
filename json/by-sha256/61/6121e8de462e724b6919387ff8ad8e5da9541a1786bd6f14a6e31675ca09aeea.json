@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Robert Carter"
- ],
  "bytes": 372662,
  "current_main_group_package": true,
  "description": "Still cramped second version of <a href=\"be747ef75bce8076acffa72172beee964ab26869d7e666c67ba0f08efdf3363e\">frcastle</a> - a very small Wizard castle for DM/SP.",
@@ -21,11 +18,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "frcastle": "2.0"
- },
- "release_date": "1996-10-30",
- "release_group": "frcastle",
  "sha256": "6121e8de462e724b6919387ff8ad8e5da9541a1786bd6f14a6e31675ca09aeea",
  "tags": [
   "author=Robert Carter",
@@ -48,7 +40,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fear Castle v.2",
  "urls": [
   "https://www.quaddicted.com/filebase/frcastl2.zip",
   "https://www.quaddicted.com/files/by-sha256/61/6121e8de462e724b6919387ff8ad8e5da9541a1786bd6f14a6e31675ca09aeea/frcastl2.zip"

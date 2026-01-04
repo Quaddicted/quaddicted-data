@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Aksenov"
- ],
  "bytes": 1633090,
  "description": "Small base map with modified monsters, custom level mechanics and a few new sound effects.",
  "files": {
@@ -159,7 +156,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-19",
  "sha256": "9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0",
  "tags": [
   "author=Andrew Aksenov",
@@ -179,7 +175,6 @@
   "title=ZOOM9",
   "type=mod"
  ],
- "title": "ZOOM9",
  "urls": [
   "https://www.quaddicted.com/filebase/zoom9.zip",
   "https://www.quaddicted.com/files/by-sha256/9a/9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0/zoom9.zip"

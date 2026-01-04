@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Suzanne 'Trashbang' Will"
- ],
  "bytes": 1356627,
  "description": "Small dark semi-linear single-player map with minimalist brushwork and texturing. Map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits and colored lighting."
  ],
- "release_date": "2022-10-02",
  "sha256": "39acd77b845dc528234ac31a35a1f1a8e2a40e18514f1aaa670b30f03300ea53",
  "tags": [
   "author=Suzanne 'Trashbang' Will",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Warmest Body In The Room",
  "urls": [
   "https://www.quaddicted.com/filebase/suzywarm.zip",
   "https://www.quaddicted.com/files/by-sha256/39/39acd77b845dc528234ac31a35a1f1a8e2a40e18514f1aaa670b30f03300ea53/suzywarm.zip"

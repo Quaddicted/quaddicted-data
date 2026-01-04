@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bruno Fabbri (zbidou72)"
- ],
  "bytes": 7993419,
  "description": "Large realism map set in a port. It uses custom textures and comes with a custom skybox. The map source is included.",
  "files": {
@@ -63,7 +60,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-10-11",
  "sha256": "f02171f5628faf94d81e0d11518699f8b2f7a8191ab2a4b5eeff4a3e695db447",
  "tags": [
   "author=Bruno Fabbri (zbidou72)",
@@ -86,7 +82,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Null Bearing",
  "urls": [
   "https://www.quaddicted.com/filebase/nullbear.zip",
   "https://www.quaddicted.com/files/by-sha256/f0/f02171f5628faf94d81e0d11518699f8b2f7a8191ab2a4b5eeff4a3e695db447/nullbear.zip"

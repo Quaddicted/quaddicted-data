@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Rhoq",
-  "negke"
- ],
  "bytes": 1309868,
  "description": "Small to medium-sized blueish medieval level; the single player version of <a href=\"https://www.quaddicted.com/files/maps/multiplayer/rhoqtdm2.zip\">rhoqtdm2</a>. The map source is included.",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-12-25",
  "sha256": "111e256b3b4f21f1a16ffe8265999c8b1abdeb83bf2baeec8ef4bc7e073e50b0",
  "tags": [
   "author=Rhoq",
@@ -48,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Vivat Rex Lividum (single player version)",
  "urls": [
   "https://www.quaddicted.com/filebase/rhoqtdm2sp.zip",
   "https://www.quaddicted.com/files/by-sha256/11/111e256b3b4f21f1a16ffe8265999c8b1abdeb83bf2baeec8ef4bc7e073e50b0/rhoqtdm2sp.zip"

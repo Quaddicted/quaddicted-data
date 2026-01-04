@@ -1,7 +1,4 @@
 {
- "authors": [
-  "FifthElephant"
- ],
  "bytes": 1721293,
  "description": "Small, highly-detailed base map. The (expanded) singleplayer version of <a href=\"https://www.quaddicted.com/files/maps/multiplayer/dmqdeck.zip\">DMQDeck</a>. The map source is included.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2013-05-28",
  "sha256": "ac0cc275ae2134a5bf71918ef7da0007b7570302f96d15899de06fe61dec99b0",
  "tags": [
   "author=FifthElephant",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Q-Deck",
  "urls": [
   "https://www.quaddicted.com/filebase/fesp1.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/ac0cc275ae2134a5bf71918ef7da0007b7570302f96d15899de06fe61dec99b0/fesp1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "George J. Fiffy II"
- ],
  "bytes": 628570,
  "current_main_group_package": true,
  "description": "Medium sized base level. Transparent-water-vised version of <a href=\"c149bf2aeeeb32449f9b74ef84c6477b834ae93689e9ade8109865c2b9ca649d\">4fiffy5</a>",
@@ -36,11 +33,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "4fiffy5": "2.0"
- },
- "release_date": "1997-11-30",
- "release_group": "4fiffy5",
  "sha256": "26c697ca21b69480845f8162405ecf1724ebba7562c02651dcc4102eb42d26b6",
  "tags": [
   "author=George J. Fiffy II",
@@ -62,7 +54,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "REoL TOUGH: Base! (watervised)",
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify5.zip",
   "https://www.quaddicted.com/files/by-sha256/26/26c697ca21b69480845f8162405ecf1724ebba7562c02651dcc4102eb42d26b6/gl4fify5.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rob Marton (nn6)"
- ],
  "bytes": 1034501,
  "description": "Large temple with a unique metal theme, some reskinned monsters, an interesting boss fight, and a start map.",
  "files": {
@@ -75,7 +72,6 @@
   "extract": "{base}/eltemple/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-07",
  "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "tags": [
   "author=Rob Marton (nn6)",
@@ -98,7 +94,6 @@
   "type=mod",
   "zipbasedir=eltemple/"
  ],
- "title": "El temple del sol",
  "urls": [
   "https://www.quaddicted.com/filebase/eltemple.zip",
   "https://www.quaddicted.com/files/by-sha256/fd/fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5/eltemple.zip"

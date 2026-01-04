@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dilvish"
- ],
  "bytes": 455177,
  "description": "Medium sized Egyptian-style map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-07-18",
  "sha256": "a0add1cba3df7298750eb72f0d63176bd3317fb65c8969d1113c0e62cba8f3d1",
  "tags": [
   "author=Dilvish",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tut (ankhamon)",
  "urls": [
   "https://www.quaddicted.com/filebase/tut.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a0add1cba3df7298750eb72f0d63176bd3317fb65c8969d1113c0e62cba8f3d1/tut.zip"

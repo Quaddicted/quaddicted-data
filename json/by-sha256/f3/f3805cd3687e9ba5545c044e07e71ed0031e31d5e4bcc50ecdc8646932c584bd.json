@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lord Asaki"
- ],
  "bytes": 73116,
  "description": "Tiny joke map with an arena fight.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-04-01",
  "sha256": "f3805cd3687e9ba5545c044e07e71ed0031e31d5e4bcc50ecdc8646932c584bd",
  "tags": [
   "author=Lord Asaki",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Chunky Monkey Stew (April Fools 2002)",
  "urls": [
   "https://www.quaddicted.com/filebase/lasp01.zip",
   "https://www.quaddicted.com/files/by-sha256/f3/f3805cd3687e9ba5545c044e07e71ed0031e31d5e4bcc50ecdc8646932c584bd/lasp01.zip"

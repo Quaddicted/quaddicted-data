@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "HeadThump",
-  "Zwiffle",
-  "negke"
- ],
  "bytes": 1060202,
  "description": "Geocomp / 4 SP maps / Drew, HeadThump, neg!ke, Zwiffle",
  "files": {
@@ -33,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-28",
  "sha256": "6e56d1040d329fa6a7c966040c8a307e044c1943056cd9e76ed80a10ff14288a",
  "tags": [
   "author=Drew",
@@ -52,7 +45,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 102 - Geocomp",
  "urls": [
   "https://www.quaddicted.com/filebase/sm102_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6e/6e56d1040d329fa6a7c966040c8a307e044c1943056cd9e76ed80a10ff14288a/sm102_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rick Lipsey"
- ],
  "bytes": 569784,
  "description": "Medium sized, interconnected and largely nonlinear Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-25",
  "sha256": "9fa59b3d62af8faa0c372036791df74bdb80ff8f93c269ba6734a6d75b64be6e",
  "tags": [
   "author=Rick Lipsey",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Well of Wishes",
  "urls": [
   "https://www.quaddicted.com/filebase/wishes.zip",
   "https://www.quaddicted.com/files/by-sha256/9f/9fa59b3d62af8faa0c372036791df74bdb80ff8f93c269ba6734a6d75b64be6e/wishes.zip"

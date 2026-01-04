@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jay Vanover"
- ],
  "bytes": 2958918,
  "description": "Mini campaign with three small-to-medium Wizard/Metal maps and a start map. The custom progs.dat slightly modifies some monsters and adds more gore.",
  "files": {
@@ -45,7 +42,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-03",
  "sha256": "de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf",
  "tags": [
   "author=Jay Vanover",
@@ -70,7 +66,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Flee",
  "urls": [
   "https://www.quaddicted.com/filebase/flee.zip",
   "https://www.quaddicted.com/files/by-sha256/de/de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf/flee.zip"

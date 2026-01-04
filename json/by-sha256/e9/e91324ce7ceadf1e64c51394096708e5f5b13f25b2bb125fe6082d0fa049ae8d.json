@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Aru",
-  "Cybear",
-  "Gibbie",
-  "Grahf",
-  "Scampi",
-  "Speedy",
-  "iNaNe"
- ],
  "bytes": 1411877,
  "description": "Unthemed / 8 DM maps / Cybear, Aardappel, Gibbie, Aru, Grahf, iNaNe, Speedy, Scampi",
  "files": {
@@ -62,7 +52,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-01",
  "sha256": "e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d",
  "tags": [
   "author=Aardappel",
@@ -91,7 +80,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 5 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm5_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e9/e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d/sm5_pack.zip"

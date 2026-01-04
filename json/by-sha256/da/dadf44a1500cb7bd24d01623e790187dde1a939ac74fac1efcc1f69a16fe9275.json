@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 1060400,
  "description": "Large Knave-style tomb level with graveyards, dungeons and tough gameplay. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-03-28",
  "sha256": "dadf44a1500cb7bd24d01623e790187dde1a939ac74fac1efcc1f69a16fe9275",
  "tags": [
   "author=Trinca",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Forgotten Tomb",
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp2.zip",
   "https://www.quaddicted.com/files/by-sha256/da/dadf44a1500cb7bd24d01623e790187dde1a939ac74fac1efcc1f69a16fe9275/trincasp2.zip"

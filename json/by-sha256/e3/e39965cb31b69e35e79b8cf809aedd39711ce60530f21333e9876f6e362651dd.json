@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Asaki",
-  "Moz",
-  "Scampie",
-  "Starbuck",
-  "Xen"
- ],
  "bytes": 2243871,
  "description": "Water / 6 SP maps / Asaki, Moz, Scampie, Starbuck, Xen",
  "files": {
@@ -54,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-09-22",
  "sha256": "e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd",
  "tags": [
   "author=Asaki",
@@ -76,7 +68,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 50 - Water",
  "urls": [
   "https://www.quaddicted.com/filebase/sm50_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e3/e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd/sm50_pack.zip"

@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Zwiffle",
-  "negke"
- ],
  "bytes": 972340,
  "description": "Tropical island / 2 SP maps / negke, Zwiffle",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-10-27",
  "sha256": "a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b",
  "tags": [
   "author=Zwiffle",
@@ -44,7 +39,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 145 - Tropical island",
  "urls": [
   "https://www.quaddicted.com/filebase/sm145_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/a7/a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b/sm145_pack.zip"

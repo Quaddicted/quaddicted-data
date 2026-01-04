@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kinn"
- ],
  "bytes": 6715860,
  "description": "Q3stone/metal styled fortress of epic scale, with a few new monsters in lots of horde combat (about 300 monsters in total) and other custom gameplay additions.",
  "files": {
@@ -468,7 +465,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-20",
  "sha256": "ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c",
  "tags": [
   "author=Kinn",
@@ -507,7 +503,6 @@
   "title=Bastion of the Underworld",
   "type=mod"
  ],
- "title": "Bastion of the Underworld",
  "urls": [
   "https://www.quaddicted.com/filebase/kinn_bastion.zip",
   "https://www.quaddicted.com/files/by-sha256/ba/ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c/kinn_bastion.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Mista Heita"
- ],
  "bytes": 4569924,
- "depends": [
-  "copper>=1.20"
- ],
  "description": "Small Koohoo-themed cave map.",
  "files": {
   "ancient_readme.txt": {
@@ -57,7 +51,6 @@
   "Requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper v1.20+</a> (NOT included).",
   "Unzip to /copper/ and start via console: \"game copper; map ancient\"."
  ],
- "release_date": "2023-04-27",
  "sha256": "5255c088915839ad65ce5da896462dd40760a72c107fa453c9a9ca725fd61205",
  "tags": [
   "author=Mista Heita",
@@ -84,7 +77,6 @@
   "type=speedmap",
   "zipbasedir=copper/"
  ],
- "title": "Ancient (v1.1)",
  "urls": [
   "https://www.quaddicted.com/filebase/ancient1.1.zip",
   "https://www.quaddicted.com/files/by-sha256/52/5255c088915839ad65ce5da896462dd40760a72c107fa453c9a9ca725fd61205/ancient1.1.zip"

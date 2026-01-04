@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPL"
- ],
  "bytes": 4108406,
  "description": "Big base map in Daikatana textures with objective-based gameplay.",
  "files": {
@@ -102,7 +99,6 @@
   "extract": "{base}/event/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-03-31",
  "sha256": "48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770",
  "tags": [
   "author=JPL",
@@ -126,7 +122,6 @@
   "type=mod",
   "zipbasedir=event/"
  ],
- "title": "Event Horizon",
  "urls": [
   "https://www.quaddicted.com/filebase/event.zip",
   "https://www.quaddicted.com/files/by-sha256/48/48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770/event.zip"

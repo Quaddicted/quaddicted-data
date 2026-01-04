@@ -1,7 +1,4 @@
 {
- "authors": [
-  "PuLSaR"
- ],
  "bytes": 1047688,
  "description": "Large blue metal/brick map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-02-20",
  "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "tags": [
   "author=PuLSaR",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The HELLbridge",
  "urls": [
   "https://www.quaddicted.com/filebase/hellbridge.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc/hellbridge.zip"

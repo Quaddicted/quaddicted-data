@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Heresy"
- ],
  "bytes": 15647190,
  "description": "Medium-sized lava-industrial facility on a desert planet, using custom textures. It comes with a custom skybox and the map source is included.",
  "files": {
@@ -78,7 +75,6 @@
  "notes": [
   "This map requires a source port with increased limits. Additionally, the files and folders need to be renamed in order to work with case-sensitive operating systems."
  ],
- "release_date": "2019-09-23",
  "sha256": "e5d6879a7d51b222123cc7087eaddc79479bf7da8387c0f229b2b3e5a15afd5c",
  "tags": [
   "author=Heresy",
@@ -101,7 +97,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Dismal Signal",
  "urls": [
   "https://www.quaddicted.com/filebase/heresp5_rev.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e5d6879a7d51b222123cc7087eaddc79479bf7da8387c0f229b2b3e5a15afd5c/heresp5_rev.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 2906926,
  "description": "Two-map industrial-themed pack featuring Q2 waste textures and modified grunts/enforcers.",
  "files": {
@@ -139,7 +136,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-06-10",
  "sha256": "c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -160,7 +156,6 @@
   "title=Guncotton",
   "type=mod"
  ],
- "title": "Guncotton",
  "urls": [
   "https://www.quaddicted.com/filebase/guncotton.zip",
   "https://www.quaddicted.com/files/by-sha256/c7/c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc/guncotton.zip"

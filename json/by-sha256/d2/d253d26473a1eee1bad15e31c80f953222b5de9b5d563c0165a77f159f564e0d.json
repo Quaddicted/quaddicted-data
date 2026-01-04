@@ -1,11 +1,5 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 1810593,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium sized, somewhat nonlinear map using Knave textures.",
  "files": {
   "chapter_necros2.bsp": {
@@ -23,7 +17,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-09-24",
  "sha256": "d253d26473a1eee1bad15e31c80f953222b5de9b5d563c0165a77f159f564e0d",
  "tags": [
   "author=necros",
@@ -52,7 +45,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Are you yet Living?",
  "urls": [
   "https://www.quaddicted.com/filebase/chapter_necros2.zip",
   "https://www.quaddicted.com/files/by-sha256/d2/d253d26473a1eee1bad15e31c80f953222b5de9b5d563c0165a77f159f564e0d/chapter_necros2.zip"

@@ -1,27 +1,5 @@
 {
- "authors": [
-  "Artistical",
-  "Comrade Beep",
-  "Greenwood",
-  "Grome",
-  "H4724",
-  "JCR",
-  "Juzley",
-  "Lunaran",
-  "Markie Music",
-  "Newhouse",
-  "Pinchy",
-  "PoolboyQ",
-  "RadiatorYang",
-  "Shadesmaster",
-  "doom_pope",
-  "ionous",
-  "quasiotter"
- ],
  "bytes": 98550442,
- "depends": [
-  "copper>=1.15"
- ],
  "description": "Community mapping event based on the Copper mod: 16 levels of varying sizes and texture themes plus a start map. It contains custom skyboxes, a few new sounds/models, and some music tracks. The map sources are included.",
  "files": {
   "ctsj.txt": {
@@ -702,7 +680,6 @@
  "notes": [
   "These maps require <a href=\"dca10cb648213706cc4c843b8a3e80c86da799ae0fc8004fd2e0a59d04fc50df\">Copper 1.11</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-07-18",
  "sha256": "4a0a18dfb514443bfe46b6e90c7512c5f7ccd6fef5c69a68fb975d6f33b8d633",
  "tags": [
   "author=Artistical",
@@ -777,7 +754,6 @@
   "type=map",
   "zipbasedir=copper/"
  ],
- "title": "Coppertone Summer Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/ctsj.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4a0a18dfb514443bfe46b6e90c7512c5f7ccd6fef5c69a68fb975d6f33b8d633/ctsj.zip"

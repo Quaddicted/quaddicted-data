@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 324198,
  "description": "Smallish plain Wizard/ Metal map with large rooms and very few monsters.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-06",
  "sha256": "260a36737504aed8d7a3b9b0e7a4d202b503488abdda1727aaeaaa9df3a34816",
  "tags": [
   "author=Unknown",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Satanden",
  "urls": [
   "https://www.quaddicted.com/filebase/satanden.zip",
   "https://www.quaddicted.com/files/by-sha256/26/260a36737504aed8d7a3b9b0e7a4d202b503488abdda1727aaeaaa9df3a34816/satanden.zip"

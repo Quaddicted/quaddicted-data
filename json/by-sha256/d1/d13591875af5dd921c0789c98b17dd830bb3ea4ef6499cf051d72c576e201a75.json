@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Geoff Barry"
- ],
  "bytes": 647947,
  "description": "Medium sized Wizard map with some sort of temple, and tight and clippy underground water caverns.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-07",
  "sha256": "d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75",
  "tags": [
   "author=Geoff Barry",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Earthbound",
  "urls": [
   "https://www.quaddicted.com/filebase/earthbnd.zip",
   "https://www.quaddicted.com/files/by-sha256/d1/d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75/earthbnd.zip"

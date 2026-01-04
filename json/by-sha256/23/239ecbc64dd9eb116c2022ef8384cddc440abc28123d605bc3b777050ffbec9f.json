@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tigger-On"
- ],
  "bytes": 1413451,
  "description": "A mini campaign with 3 small and dark SP levels and a start map. Uses many custom textures, e.g. from Quake 2 and Doom. A demo is included.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-01",
  "sha256": "239ecbc64dd9eb116c2022ef8384cddc440abc28123d605bc3b777050ffbec9f",
  "tags": [
   "author=Tigger-On",
@@ -59,7 +55,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Crap from Tigger",
  "urls": [
   "https://www.quaddicted.com/filebase/tig00.zip",
   "https://www.quaddicted.com/files/by-sha256/23/239ecbc64dd9eb116c2022ef8384cddc440abc28123d605bc3b777050ffbec9f/tig00.zip"

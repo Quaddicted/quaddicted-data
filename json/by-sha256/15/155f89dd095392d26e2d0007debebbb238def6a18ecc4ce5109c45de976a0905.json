@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Here"
- ],
  "bytes": 1039657,
  "description": "Quite promising beta map. Clearly beta quality though as it is quite unbalanced (and badly lit). Fun to play.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-07-17",
  "sha256": "155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905",
  "tags": [
   "author=Here",
@@ -33,7 +29,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Castle of Pain",
  "urls": [
   "https://www.quaddicted.com/filebase/heresp3.zip",
   "https://www.quaddicted.com/files/by-sha256/15/155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905/heresp3.zip"

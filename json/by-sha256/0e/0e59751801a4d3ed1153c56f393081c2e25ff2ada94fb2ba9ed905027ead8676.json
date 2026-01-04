@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Bisseker (tiddles)"
- ],
  "bytes": 416492,
  "description": "Medium sized Metal level. Quite hard.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-09-02",
  "sha256": "0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676",
  "tags": [
   "author=Peter Bisseker (tiddles)",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Demons Lair",
  "urls": [
   "https://www.quaddicted.com/filebase/demonslair.zip",
   "https://www.quaddicted.com/files/by-sha256/0e/0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676/demonslair.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Woodham"
- ],
  "bytes": 10297733,
  "description": "Large medieval castle in an underground cave with DKTe3 textures, a couple of new monsters and (optional) background music.",
  "files": {
@@ -660,7 +657,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-03-05",
  "sha256": "aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369",
  "tags": [
   "author=Mike Woodham",
@@ -688,7 +684,6 @@
   "title=This Onion",
   "type=mod"
  ],
- "title": "This Onion",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb_bdg.zip",
   "https://www.quaddicted.com/files/by-sha256/aa/aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369/fmb_bdg.zip"

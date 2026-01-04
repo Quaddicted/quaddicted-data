@@ -1,13 +1,5 @@
 {
- "authors": [
-  "Orbs",
-  "Scampie",
-  "digs"
- ],
  "bytes": 319259,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Explosions / 3 SP maps / digs (Quoth), Orbs, Scampie (Quoth)",
  "files": {
   "sm172_digs.bsp": {
@@ -35,7 +27,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-06-10",
  "sha256": "562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950",
  "tags": [
   "author=Orbs",
@@ -56,7 +47,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 172 - Explosions",
  "urls": [
   "https://www.quaddicted.com/filebase/sm172_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/56/562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950/sm172_pack.zip"

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Gleeb",
-  "Xen",
-  "Zwiffle",
-  "metlslime"
- ],
  "bytes": 949990,
  "description": "Deathmatch maps / 4 DM maps / Gleeb, metlslime, Xen, Zwiffle",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-14",
  "sha256": "f1f0e87357cff56975d175bdcf3a08b0e25f6d4e8cbdafa40ea1a46283227e0b",
  "tags": [
   "author=Gleeb",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 60 - Deathmatch maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm60_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/f1/f1f0e87357cff56975d175bdcf3a08b0e25f6d4e8cbdafa40ea1a46283227e0b/sm60_pack.zip"

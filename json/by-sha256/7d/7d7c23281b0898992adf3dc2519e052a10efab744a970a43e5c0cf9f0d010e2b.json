@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Myk (Mike Denby)"
- ],
  "bytes": 531771,
  "description": "Small Wizard map with a Medieval and a Base bit. Ostensibly related to the Resident Evil game series.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-06-10",
  "sha256": "7d7c23281b0898992adf3dc2519e052a10efab744a970a43e5c0cf9f0d010e2b",
  "tags": [
   "author=Myk (Mike Denby)",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Resident Evil part 2",
  "urls": [
   "https://www.quaddicted.com/filebase/r-evil2.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d7c23281b0898992adf3dc2519e052a10efab744a970a43e5c0cf9f0d010e2b/r-evil2.zip"

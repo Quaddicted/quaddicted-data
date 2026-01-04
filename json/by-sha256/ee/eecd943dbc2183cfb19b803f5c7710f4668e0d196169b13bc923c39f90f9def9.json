@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Nebiont"
- ],
  "bytes": 5356372,
  "description": "Around medium-sized base level with a green metal section. It is based on the Progs_dump mod (included) and comes with a few new sounds/models. The map and QC sources are included.",
  "files": {
@@ -488,7 +485,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-10-05",
  "sha256": "eecd943dbc2183cfb19b803f5c7710f4668e0d196169b13bc923c39f90f9def9",
  "tags": [
   "author=Nebiont",
@@ -510,7 +506,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Another Base",
  "urls": [
   "https://www.quaddicted.com/filebase/nebsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/eecd943dbc2183cfb19b803f5c7710f4668e0d196169b13bc923c39f90f9def9/nebsp1.zip"

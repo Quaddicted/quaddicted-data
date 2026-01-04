@@ -1,10 +1,4 @@
 {
- "authors": [
-  "E-werd",
-  "NotoriousRay",
-  "Starbuck",
-  "necros"
- ],
  "bytes": 526083,
  "description": "Unthemed / 2 SP, 2 DM maps / E-werd, necros, Starbuck, NotoriousRay",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-10-05",
  "sha256": "8f7f7b32f9901d11a3904f50a883fa14dfcb6d8df1a0e64c16050b3136b494d2",
  "tags": [
   "author=E-werd",
@@ -60,7 +53,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 52 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm52_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8f/8f7f7b32f9901d11a3904f50a883fa14dfcb6d8df1a0e64c16050b3136b494d2/sm52_pack.zip"

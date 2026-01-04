@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rcktrob"
- ],
  "bytes": 1126672,
  "current_main_group_package": true,
  "description": "Transparent water version of <a href=\"064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1\">runekeep</a>: a large, detailed Medieval fortress.",
@@ -21,11 +18,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "runekeep": "2.0"
- },
- "release_date": "2002-03-26",
- "release_group": "runekeep",
  "sha256": "c53f3b4fcc717dde2cea3056b4182caa0d625b10501bf013b2193df0075e793f",
  "tags": [
   "author=Rcktrob",
@@ -51,7 +43,6 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Rune Keep",
  "urls": [
   "https://www.quaddicted.com/filebase/runekeepgl.zip",
   "https://www.quaddicted.com/files/by-sha256/c5/c53f3b4fcc717dde2cea3056b4182caa0d625b10501bf013b2193df0075e793f/runekeepgl.zip"

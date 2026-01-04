@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi"
- ],
  "bytes": 1675511,
  "description": "A big green swampy sewage system.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-04-15",
  "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "tags": [
   "author=Hrimfaxi",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Sewage devastation",
  "urls": [
   "https://www.quaddicted.com/filebase/sewage.zip",
   "https://www.quaddicted.com/files/by-sha256/37/370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c/sewage.zip"

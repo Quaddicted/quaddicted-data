@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mateusz 'MaTi' Piaskiewicz"
- ],
  "bytes": 572317,
  "description": "Small, dark, Speedbase-themed map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-10-20",
  "sha256": "fe0be1d7571a61253e17c417e2f8dca9885797ba287caf6275313f646f588807",
  "tags": [
   "author=Mateusz 'MaTi' Piaskiewicz",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Satarship Bunkier",
  "urls": [
   "https://www.quaddicted.com/filebase/matsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/fe/fe0be1d7571a61253e17c417e2f8dca9885797ba287caf6275313f646f588807/matsp1.zip"

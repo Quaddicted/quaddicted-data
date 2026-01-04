@@ -1,7 +1,4 @@
 {
- "authors": [
-  "BBPoison"
- ],
  "bytes": 705868,
  "description": "Small map with a gothic theme, using a mixture of ID1 and knave textures. The author's first map.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-09-08",
  "sha256": "6fa8076f2494e9b1766a7367fecbbc499a3b3897212f48911e09c7bded31152f",
  "tags": [
   "author=BBPoison",
@@ -42,7 +38,6 @@
   "title=Deception",
   "type=map"
  ],
- "title": "Deception",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/6f/6fa8076f2494e9b1766a7367fecbbc499a3b3897212f48911e09c7bded31152f/deception1.1.zip",
   "https://x901.net/quaddictedfiles/deception1.1.zip"

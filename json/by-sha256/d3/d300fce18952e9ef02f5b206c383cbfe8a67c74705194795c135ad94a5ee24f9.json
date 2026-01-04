@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Greenwood",
-  "Bal"
- ],
  "bytes": 10695223,
  "description": "Large floating castle using Daiktana E3 textures. Based on an unfinished map for a canceled Nehahra expansion episode from 2005. Comes with a custom skybox.",
  "files": {
@@ -74,7 +70,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-07-25",
  "sha256": "d300fce18952e9ef02f5b206c383cbfe8a67c74705194795c135ad94a5ee24f9",
  "tags": [
   "author=Greenwood",
@@ -98,7 +93,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Kelluva Linna",
  "urls": [
   "https://www.quaddicted.com/filebase/kelluva_linna.zip",
   "https://www.quaddicted.com/files/by-sha256/d3/d300fce18952e9ef02f5b206c383cbfe8a67c74705194795c135ad94a5ee24f9/kelluva_linna.zip"

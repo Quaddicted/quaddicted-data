@@ -1,11 +1,5 @@
 {
- "authors": [
-  "RickyT23"
- ],
  "bytes": 5672650,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "A rather nonlinear huge base map with outdoor parts. Requires an engine port with increased limits.",
  "files": {
   "gfx/": {
@@ -73,7 +67,6 @@
   "extract": "{base}/quoth/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-01-21",
  "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
  "tags": [
   "author=RickyT23",
@@ -95,7 +88,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Stark Monstrosity",
  "urls": [
   "https://www.quaddicted.com/filebase/starkmon.zip",
   "https://www.quaddicted.com/files/by-sha256/dd/dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2/starkmon.zip"

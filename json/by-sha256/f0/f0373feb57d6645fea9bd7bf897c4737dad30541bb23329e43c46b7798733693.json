@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Iikka \"Fingers\" Ker\u00e4nen"
- ],
  "bytes": 284005,
- "depends": [
-  "af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b"
- ],
  "description": "Start map of the IKSPQ series.",
  "files": {
   "IKSTART.BSP": {
@@ -23,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-24",
  "sha256": "f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
@@ -48,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Welcome to IKSPQ",
  "urls": [
   "https://www.quaddicted.com/filebase/ikstart.zip",
   "https://www.quaddicted.com/files/by-sha256/f0/f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693/ikstart.zip"

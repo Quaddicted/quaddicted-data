@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dan Koppel"
- ],
  "bytes": 1534363,
  "description": "Two large levels in Medieval/Metal/Wizard/Hipchurch style.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "These maps require Scourge of Armagon."
  ],
- "release_date": "1997-05-15",
  "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "tags": [
   "author=Dan Koppel",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Daredevil's Descent & Cryogenic Crypt",
  "urls": [
   "https://www.quaddicted.com/filebase/cryo.zip",
   "https://www.quaddicted.com/files/by-sha256/47/47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd/cryo.zip"

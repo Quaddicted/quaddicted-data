@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ZetaByt"
- ],
  "bytes": 8179098,
  "description": "Large \"meaty\" medieval map for vanilla Quake with wave-based \"horde\" style gameplay. It uses a mix of mostly id1 textures, with some Impel and Rogue textures mixed in. The author's first release. Map source is included.",
  "files": {
@@ -49,7 +46,6 @@
   "No custom start map; load manually via console: \"map cinburron\"",
   "Due to high monster count, likely requires a modern engine / source port with increased limits. Ironwail recommended."
  ],
- "release_date": "2022-11-22",
  "sha256": "af2326cad6e910e311a8f6f46096cc51c49100dc1626688c0e5f32057bdd5951",
  "tags": [
   "author=ZetaByt",
@@ -73,7 +69,6 @@
   "title=The Monastery of Mount Cinburron v1.0.1",
   "type=map"
  ],
- "title": "The Monastery of Mount Cinburron v1.0.1",
  "urls": [
   "https://www.quaddicted.com/filebase/cinburron.zip",
   "https://www.quaddicted.com/files/by-sha256/af/af2326cad6e910e311a8f6f46096cc51c49100dc1626688c0e5f32057bdd5951/cinburron.zip"

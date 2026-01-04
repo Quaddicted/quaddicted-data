@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPL"
- ],
  "bytes": 2067310,
  "description": "Large underground base map with some Quake2 textures.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-11-20",
  "sha256": "fba24bd9bd3c63313ac1d7a3ff664cb984f366d98f900bf45c9700b706e8b6e2",
  "tags": [
   "author=JPL",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cheyenne Mountain Complex",
  "urls": [
   "https://www.quaddicted.com/filebase/cmc.zip",
   "https://www.quaddicted.com/files/by-sha256/fb/fba24bd9bd3c63313ac1d7a3ff664cb984f366d98f900bf45c9700b706e8b6e2/cmc.zip"

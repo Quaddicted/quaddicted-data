@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Iikka \"Fingers\" Ker\u00e4nen"
- ],
  "bytes": 437449,
- "depends": [
-  "bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f"
- ],
  "description": "Second map of the IKSPQ series: a medium sized blue temple map.",
  "files": {
   "IKSPQ2.BSP": {
@@ -23,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-19",
  "sha256": "7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
@@ -50,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Temple of the Thousand-Faced Moon",
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq2.zip",
   "https://www.quaddicted.com/files/by-sha256/71/7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e/ikspq2.zip"

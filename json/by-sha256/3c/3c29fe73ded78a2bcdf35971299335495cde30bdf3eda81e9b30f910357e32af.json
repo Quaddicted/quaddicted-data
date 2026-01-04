@@ -1,9 +1,4 @@
 {
- "authors": [
-  "RPG",
-  "Scampie",
-  "bear"
- ],
  "bytes": 234624,
  "description": "Unthemed / 3 DM maps / Scampie, bear, RPG",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-03-23",
  "sha256": "3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af",
  "tags": [
   "author=RPG",
@@ -51,7 +45,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 1",
  "urls": [
   "https://www.quaddicted.com/filebase/sm1_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af/sm1_pack.zip"

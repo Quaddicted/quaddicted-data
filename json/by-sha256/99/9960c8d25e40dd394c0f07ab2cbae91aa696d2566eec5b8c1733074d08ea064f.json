@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Malcolm Sailor (aka hayduke)"
- ],
  "bytes": 495012,
  "description": "Small Metal level.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "There is no gold key, the intended way over the GK bars is a rocket jump."
  ],
- "release_date": "1997-07-31",
  "sha256": "9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f",
  "tags": [
   "author=Malcolm Sailor (aka hayduke)",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ephermerality",
  "urls": [
   "https://www.quaddicted.com/filebase/hayduke1.zip",
   "https://www.quaddicted.com/files/by-sha256/99/9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f/hayduke1.zip"

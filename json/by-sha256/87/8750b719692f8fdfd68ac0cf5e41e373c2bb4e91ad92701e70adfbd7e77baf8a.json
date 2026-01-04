@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Drakkon (C.D. Roberts)"
- ],
  "bytes": 453117,
  "description": "Small to medium Metal map.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "Was upgraded and re-released as <a href=\"bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d\">Bldstone</a>."
  ],
- "release_date": "1996-12-07",
  "sha256": "8750b719692f8fdfd68ac0cf5e41e373c2bb4e91ad92701e70adfbd7e77baf8a",
  "tags": [
   "author=Drakkon (C.D. Roberts)",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bloodstone",
  "urls": [
   "https://www.quaddicted.com/filebase/decon.zip",
   "https://www.quaddicted.com/files/by-sha256/87/8750b719692f8fdfd68ac0cf5e41e373c2bb4e91ad92701e70adfbd7e77baf8a/decon.zip"

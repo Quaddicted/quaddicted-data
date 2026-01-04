@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dia Westerteicher"
- ],
  "bytes": 915612,
  "description": "Small beginner map with mixed textures and some rather unusual architecture.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-12",
  "sha256": "d09eb7a469c3577db9ede63703e1d1e78fce7a4dfdaad3e33283e4ea48e6beb9",
  "tags": [
   "author=Dia Westerteicher",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Maniac11",
  "urls": [
   "https://www.quaddicted.com/filebase/maniac11.zip",
   "https://www.quaddicted.com/files/by-sha256/d0/d09eb7a469c3577db9ede63703e1d1e78fce7a4dfdaad3e33283e4ea48e6beb9/maniac11.zip"

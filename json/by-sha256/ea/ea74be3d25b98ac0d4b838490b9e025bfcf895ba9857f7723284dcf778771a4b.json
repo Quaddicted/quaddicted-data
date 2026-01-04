@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Miko"
- ],
  "bytes": 261310,
  "description": "Small beginner map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-12",
  "sha256": "ea74be3d25b98ac0d4b838490b9e025bfcf895ba9857f7723284dcf778771a4b",
  "tags": [
   "author=Miko",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Core",
  "urls": [
   "https://www.quaddicted.com/filebase/core3.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea74be3d25b98ac0d4b838490b9e025bfcf895ba9857f7723284dcf778771a4b/core3.zip"

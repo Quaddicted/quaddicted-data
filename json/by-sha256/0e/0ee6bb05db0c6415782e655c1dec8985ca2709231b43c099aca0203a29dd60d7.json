@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "gb"
- ],
  "bytes": 633191,
  "description": "Improve safety / 2 SP maps / Drew, gb",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-06-29",
  "sha256": "0ee6bb05db0c6415782e655c1dec8985ca2709231b43c099aca0203a29dd60d7",
  "tags": [
   "author=Drew",
@@ -46,7 +41,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 154 - Improve safety",
  "urls": [
   "https://www.quaddicted.com/filebase/sm154_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/0e/0ee6bb05db0c6415782e655c1dec8985ca2709231b43c099aca0203a29dd60d7/sm154_pack.zip"

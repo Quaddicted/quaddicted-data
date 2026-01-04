@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 440701,
  "description": "Small, dark base map with a few technical devices to kill the monsters.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-03",
  "sha256": "e07d347dcde150d0551e8f2f192d195ab9eea11ef59d5422c56b6f031fd82a70",
  "tags": [
   "author=Unknown",
@@ -30,7 +26,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tech Death",
  "urls": [
   "https://www.quaddicted.com/filebase/techdeth.zip",
   "https://www.quaddicted.com/files/by-sha256/e0/e07d347dcde150d0551e8f2f192d195ab9eea11ef59d5422c56b6f031fd82a70/techdeth.zip"

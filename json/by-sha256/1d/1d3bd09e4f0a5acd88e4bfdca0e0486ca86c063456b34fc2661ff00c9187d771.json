@@ -1,11 +1,5 @@
 {
- "authors": [
-  "rj"
- ],
  "bytes": 25145552,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Large map based on an expanded, upscaled E2M6 (The Dismal Oubliette) featuring some additional areas and a boss fight. Originally created in 2010 as the episode 2 finale of the long-abandoned RemakeQuake project, rebuilt to work with Arcane Dimensions.",
  "files": {
   "ad_rje2m6.txt": {
@@ -287,7 +281,6 @@
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-11",
  "sha256": "1d3bd09e4f0a5acd88e4bfdca0e0486ca86c063456b34fc2661ff00c9187d771",
  "tags": [
   "author=rj",
@@ -306,7 +299,6 @@
   "title=The Dismal Silhouette",
   "type=map"
  ],
- "title": "The Dismal Silhouette",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/1d/1d3bd09e4f0a5acd88e4bfdca0e0486ca86c063456b34fc2661ff00c9187d771/ad_rje2m6.zip",
   "https://x901.net/quaddictedfiles/ad_rje2m6.zip"

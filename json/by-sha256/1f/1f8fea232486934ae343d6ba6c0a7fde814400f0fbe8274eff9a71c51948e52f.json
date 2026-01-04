@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Squeezit"
- ],
  "bytes": 34873725,
  "description": "Episode with eight mostly small oldschool levels including a start map, each in various classic Quake themes. It comes with custom music tracks by Alientale. The map sources are included.",
  "files": {
@@ -163,7 +160,6 @@
  "notes": [
   "One of the levels (sq5) requires a source port with increased limits."
  ],
- "release_date": "2021-07-17",
  "sha256": "1f8fea232486934ae343d6ba6c0a7fde814400f0fbe8274eff9a71c51948e52f",
  "tags": [
   "author=Squeezit",
@@ -199,7 +195,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Squire of Time",
  "urls": [
   "https://www.quaddicted.com/filebase/squireot.zip",
   "https://www.quaddicted.com/files/by-sha256/1f/1f8fea232486934ae343d6ba6c0a7fde814400f0fbe8274eff9a71c51948e52f/squireot.zip"

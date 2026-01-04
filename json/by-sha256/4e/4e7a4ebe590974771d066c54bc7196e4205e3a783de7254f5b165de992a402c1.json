@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Balgorg"
- ],
  "bytes": 1823919768,
  "description": "Enormous story-driven campaign with over 30 maps spanning a variety of vast and imaginitive locations, from built-up cities and industrial areas to swamplands, oceans and space. Built on Arcane Dimensions (included).",
  "files": {
@@ -13609,7 +13606,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-09-30",
  "sha256": "4e7a4ebe590974771d066c54bc7196e4205e3a783de7254f5b165de992a402c1",
  "tags": [
   "author=Balgorg",
@@ -13625,7 +13621,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Peril",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/4e/4e7a4ebe590974771d066c54bc7196e4205e3a783de7254f5b165de992a402c1/peril3.0c.zip",
   "https://x901.net/quaddictedfiles/peril3.0c.zip"

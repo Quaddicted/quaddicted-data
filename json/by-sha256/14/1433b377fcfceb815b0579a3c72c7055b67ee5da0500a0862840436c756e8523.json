@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Bisseker (tiddles)"
- ],
  "bytes": 245730,
  "description": "Small, linear, rusty Base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-07-13",
  "sha256": "1433b377fcfceb815b0579a3c72c7055b67ee5da0500a0862840436c756e8523",
  "tags": [
   "author=Peter Bisseker (tiddles)",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Outpost alpha",
  "urls": [
   "https://www.quaddicted.com/filebase/outpost-alpha.zip",
   "https://www.quaddicted.com/files/by-sha256/14/1433b377fcfceb815b0579a3c72c7055b67ee5da0500a0862840436c756e8523/outpost-alpha.zip"

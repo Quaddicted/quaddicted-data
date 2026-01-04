@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Phil Daniels"
- ],
  "bytes": 3336039,
  "description": "Medium sized mental asylum with new textures, some SOA code/monsters, and a few Duke Nukem remarks.",
  "files": {
@@ -547,7 +544,6 @@
   "extract": "{base}/asylum/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-25",
  "sha256": "4019a0237688eefe2f2899bee6eff73e1f9aae4d7df5dfcadfc3f0fa79dea278",
  "tags": [
   "author=Phil Daniels",
@@ -563,7 +559,6 @@
   "type=mod",
   "zipbasedir=asylum/"
  ],
- "title": "Trinity Asylum",
  "urls": [
   "https://www.quaddicted.com/filebase/asylum.zip",
   "https://www.quaddicted.com/files/by-sha256/40/4019a0237688eefe2f2899bee6eff73e1f9aae4d7df5dfcadfc3f0fa79dea278/asylum.zip"

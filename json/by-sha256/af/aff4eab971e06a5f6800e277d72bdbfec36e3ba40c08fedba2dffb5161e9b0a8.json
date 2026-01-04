@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DragonsForLunch"
- ],
  "bytes": 32347755,
  "description": "Episode of 8 medium-to-large maps in varying styles, featuring mostly classic textures but with a modern twist. A lot of focus is put into combat design, with many ambushes and elaborate fight setups.",
  "files": {
@@ -871,7 +868,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-07-08",
  "sha256": "aff4eab971e06a5f6800e277d72bdbfec36e3ba40c08fedba2dffb5161e9b0a8",
  "tags": [
   "author=DragonsForLunch",
@@ -888,7 +884,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Tainted",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/af/aff4eab971e06a5f6800e277d72bdbfec36e3ba40c08fedba2dffb5161e9b0a8/taintedv1_2.zip",
   "https://x901.net/quaddictedfiles/taintedv1_2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 48824807,
  "description": "Large ancient temple ruins hidden deep beneath a snowy mountain valley. The theme of the map is inspired by the Ayleid ruins from TES4: Oblivion. The map has all new textures, many modified or new monsters from Hexen 2 including a fearsome boss demon, and a custom quad-barrel shotgun.",
  "files": {
@@ -1538,7 +1535,6 @@
   "extract": "{base}/ne_ruins/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-06-22",
  "sha256": "582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de",
  "tags": [
   "author=necros",
@@ -1568,7 +1564,6 @@
   "type=mod",
   "zipbasedir=ne_ruins/"
  ],
- "title": "The Altar of Storms",
  "urls": [
   "https://www.quaddicted.com/filebase/ne_ruins.zip",
   "https://www.quaddicted.com/files/by-sha256/58/582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de/ne_ruins.zip"

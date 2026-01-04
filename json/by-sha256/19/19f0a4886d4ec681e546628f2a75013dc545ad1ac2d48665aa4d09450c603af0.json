@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shadesmaster"
- ],
  "bytes": 70559758,
  "description": "Christmas themed map set amongst a snowy forest, complete with christmas lights, trees, Aurora Borealis and numerous wintery cottages. Contains a custom titular boss. Built on progs_dump (included).",
  "files": {
@@ -1708,7 +1705,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-01",
  "sha256": "19f0a4886d4ec681e546628f2a75013dc545ad1ac2d48665aa4d09450c603af0",
  "tags": [
   "author=Shadesmaster",
@@ -1725,7 +1721,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Enter - The Grinch",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/19/19f0a4886d4ec681e546628f2a75013dc545ad1ac2d48665aa4d09450c603af0/grinch.zip",
   "https://x901.net/quaddictedfiles/grinch.zip"

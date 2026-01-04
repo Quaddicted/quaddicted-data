@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Juzley"
- ],
  "bytes": 10823913,
- "depends": [
-  "ad>=1.71"
- ],
  "description": "Small to medium-sized level (albeit with a high monster count). A singleplayer remake of Q3DM7- Temple of Retribution using custom textures. Comes with a music track. The map source is included.",
  "files": {
   "ad_juz2.txt": {
@@ -46,7 +40,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-06-28",
  "sha256": "bd1a2e479da3617f79f4375454d5078456f9c9057a0a9b348cb586506b51cb9d",
  "tags": [
   "author=Juzley",
@@ -77,7 +70,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Retribution Revisited",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_juz2.zip",
   "https://www.quaddicted.com/files/by-sha256/bd/bd1a2e479da3617f79f4375454d5078456f9c9057a0a9b348cb586506b51cb9d/ad_juz2.zip"

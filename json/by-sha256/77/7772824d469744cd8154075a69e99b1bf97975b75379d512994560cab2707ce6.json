@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J\u00e9nilson Martins Da Silva"
- ],
  "bytes": 3714076,
  "description": "Small medieval blue castle level made for vanilla Quake. The author's first release. Difficulty settings are not implemented. Map source is included.",
  "files": {
@@ -100,7 +97,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-10-19",
  "sha256": "7772824d469744cd8154075a69e99b1bf97975b75379d512994560cab2707ce6",
  "tags": [
   "author=J\u00e9nilson Martins Da Silva",
@@ -122,7 +118,6 @@
   "title=Interdimensional Castle",
   "type=mod"
  ],
- "title": "Interdimensional Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/idcsp1.6.zip",
   "https://www.quaddicted.com/files/by-sha256/77/7772824d469744cd8154075a69e99b1bf97975b75379d512994560cab2707ce6/idcsp1.6.zip"

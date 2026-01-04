@@ -1,7 +1,4 @@
 {
- "authors": [
-  "c0j"
- ],
  "bytes": 198088,
  "description": "Small oldschool medieval level. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-06-18",
  "sha256": "75d9d6938d21b75eab68280d84aa608a04fefecaa0a8a79984a940a60966f3a3",
  "tags": [
   "author=c0j",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dark Oddyssey",
  "urls": [
   "https://www.quaddicted.com/filebase/dark_oddyssey_qmap.zip",
   "https://www.quaddicted.com/files/by-sha256/75/75d9d6938d21b75eab68280d84aa608a04fefecaa0a8a79984a940a60966f3a3/dark_oddyssey_qmap.zip"

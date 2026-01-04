@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ted Stahl"
- ],
  "bytes": 502008,
  "description": "A pyramid.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-31",
  "sha256": "d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a",
  "tags": [
   "author=Ted Stahl",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Great Pyramid of Seth",
  "urls": [
   "https://www.quaddicted.com/filebase/pyramid.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a/pyramid.zip"

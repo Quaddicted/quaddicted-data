@@ -1,7 +1,4 @@
 {
- "authors": [
-  "George J. Fiffy II"
- ],
  "bytes": 482889,
  "description": "Small Metal map with some water bits.",
  "files": {
@@ -25,11 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "4fiffy1": "1.0"
- },
- "release_date": "1996-12-26",
- "release_group": "4fiffy1",
  "sha256": "4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab",
  "tags": [
   "author=George J. Fiffy II",
@@ -53,7 +45,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "REoL TOUGH: Demise!",
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy1.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab/4fiffy1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JCorvinus"
- ],
  "bytes": 694814,
  "description": "Small Wizard-style brick level with a runic finish.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-07-17",
  "sha256": "42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf",
  "tags": [
   "author=JCorvinus",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Castle of Depravity",
  "urls": [
   "https://www.quaddicted.com/filebase/castleod.zip",
   "https://www.quaddicted.com/files/by-sha256/42/42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf/castleod.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 738784,
  "description": "Medium sized Wizard level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-08",
  "sha256": "5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc",
  "tags": [
   "author=J.F.Gustafsson",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Empedokles Domain",
  "urls": [
   "https://www.quaddicted.com/filebase/edom.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc/edom.zip"

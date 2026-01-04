@@ -1,7 +1,4 @@
 {
- "authors": [
-  "E.T. [Etienne Rheaume]"
- ],
  "bytes": 594642,
  "description": "Smallish Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-22",
  "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "tags": [
   "author=E.T. [Etienne Rheaume]",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "E.T.'s World",
  "urls": [
   "https://www.quaddicted.com/filebase/etworld.zip",
   "https://www.quaddicted.com/files/by-sha256/09/0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd/etworld.zip"

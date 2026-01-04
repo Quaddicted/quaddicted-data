@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Dunlop",
-  "Grawert",
-  "Oniscu",
-  "Yoder"
- ],
  "bytes": 8777379,
  "description": "Weekend-long impromptu speedmapping session: four around medium-sized metal levels. The map sources are included.",
  "files": {
@@ -83,7 +77,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-04-22",
  "sha256": "5ea32a70d6de2315c1b2171260275bf962b8106d71f69ddb31a7f1595178f1e8",
  "tags": [
   "author=Dunlop",
@@ -107,7 +100,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Disconcerting Unease Speedmap Pack",
  "urls": [
   "https://www.quaddicted.com/filebase/du_sm1.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5ea32a70d6de2315c1b2171260275bf962b8106d71f69ddb31a7f1595178f1e8/du_sm1.zip"

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Starbuck",
-  "Zwiffle",
-  "generic",
-  "negke"
- ],
  "bytes": 1234193,
  "description": "Autumn / 6 SP maps / generic, Starbuck, neg!ke, Zwiffle",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-09-04",
  "sha256": "696099e6753b613c486abb8ab775bf9695f3409b3f06a996af46e2e035012af3",
  "tags": [
   "author=Starbuck",
@@ -64,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 103 - Autumn",
  "urls": [
   "https://www.quaddicted.com/filebase/sm103_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/69/696099e6753b613c486abb8ab775bf9695f3409b3f06a996af46e2e035012af3/sm103_pack.zip"

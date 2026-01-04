@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Asaki",
-  "Preach",
-  "Scragbait",
-  "aguirRe",
-  "distrans",
-  "negke"
- ],
  "bytes": 41366161,
  "description": "Large-scale Quake mission with 15 SP levels (including a start map and two secret maps), custom textures, a few new monsters and items, as well as some additional deathmatch maps.",
  "files": {
@@ -758,7 +750,6 @@
  "notes": [
   "Additional files: soundtrack</a>, reworked skins</a>."
  ],
- "release_date": "2007-07-09",
  "sha256": "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
  "tags": [
   "author=Asaki",
@@ -815,7 +806,6 @@
   "type=mod",
   "zipbasedir=travail/"
  ],
- "title": "Travail - A Quake Journey",
  "urls": [
   "https://www.quaddicted.com/filebase/travail.zip",
   "https://www.quaddicted.com/files/by-sha256/c0/c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076/travail.zip"

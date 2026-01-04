@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Richard Dale Carlson"
- ],
  "bytes": 443095,
  "description": "About medium sized confusing Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-13",
  "sha256": "5bd95e22c12ca4464e920c9524b80b3b48298abd06e718a2f495b549e29723c4",
  "tags": [
   "author=Richard Dale Carlson",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Demon Hunter",
  "urls": [
   "https://www.quaddicted.com/filebase/hunter.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5bd95e22c12ca4464e920c9524b80b3b48298abd06e718a2f495b549e29723c4/hunter.zip"

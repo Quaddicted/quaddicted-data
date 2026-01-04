@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vondur"
- ],
  "bytes": 1804685,
  "description": "A large brick/metal sewer-type map with an optional secret area. Comes with an extra skill selection map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-03-04",
  "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "tags": [
   "author=Vondur",
@@ -55,7 +51,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Adamantine Cruelty",
  "urls": [
   "https://www.quaddicted.com/filebase/ac.zip",
   "https://www.quaddicted.com/files/by-sha256/53/53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7/ac.zip"

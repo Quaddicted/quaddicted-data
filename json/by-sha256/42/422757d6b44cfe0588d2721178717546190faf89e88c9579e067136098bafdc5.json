@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mazu"
- ],
  "bytes": 6626220,
  "description": "Huge metal/runic fortress built into the mountains, with a high monster count. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2019-09-22",
  "sha256": "422757d6b44cfe0588d2721178717546190faf89e88c9579e067136098bafdc5",
  "tags": [
   "author=Mazu",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Awoken Madness",
  "urls": [
   "https://www.quaddicted.com/filebase/hcmsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/42/422757d6b44cfe0588d2721178717546190faf89e88c9579e067136098bafdc5/hcmsp1.zip"

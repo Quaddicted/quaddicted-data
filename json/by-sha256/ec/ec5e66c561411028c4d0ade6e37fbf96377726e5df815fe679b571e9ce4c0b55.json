@@ -1,13 +1,4 @@
 {
- "authors": [
-  "Bloughsburgh",
-  "Breezeep",
-  "ItEndsWithTens",
-  "NewHouse",
-  "QMaster",
-  "Shamblernaut",
-  "skacky"
- ],
  "bytes": 6255309,
  "description": "Fifth \"retro\" map jam held at Func_Msgboard, following a E3M5/The Wind Tunnels theme, resulting in seven small to medium-sized levels. The map sources are included.",
  "files": {
@@ -161,7 +152,6 @@
   "extract": "{base}/retrojam5/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-11-22",
  "sha256": "ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55",
  "tags": [
   "author=Bloughsburgh",
@@ -197,7 +187,6 @@
   "type=mod",
   "zipbasedir=retrojam5/"
  ],
- "title": "Retro Jam 5 - The Wind Tunnels theme",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam5.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55/retrojam5.zip"

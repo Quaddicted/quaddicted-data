@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Markie"
- ],
  "bytes": 1737066,
  "description": "Retro style speedmap about dimension traversal for vanilla Quake, where you jump back and forth between tech base and medieval lovecraft. This is v2, which fixes a softlock in the original version. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-04-02",
  "sha256": "62990c648cfd948b01e1add20225a6228cc1bd32a1583b00693c21242040bf70",
  "tags": [
   "author=Markie",
@@ -49,7 +45,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Slip Tripping",
  "urls": [
   "https://www.quaddicted.com/filebase/markiesm1v2.zip",
   "https://www.quaddicted.com/files/by-sha256/62/62990c648cfd948b01e1add20225a6228cc1bd32a1583b00693c21242040bf70/markiesm1v2.zip"

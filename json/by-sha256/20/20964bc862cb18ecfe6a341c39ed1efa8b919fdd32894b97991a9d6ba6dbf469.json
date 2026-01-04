@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Mike Woodham",
-  "Tronyn"
- ],
  "bytes": 2532793,
  "description": "A large open Egyptian temple framed by mountains, based on Tronyn's scrapped Roman Wilderness of Pain  maps.",
  "files": {
@@ -41,7 +37,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-10-14",
  "sha256": "20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469",
  "tags": [
   "author=Mike Woodham",
@@ -62,7 +57,6 @@
   "title=A Roaming Wildebeest In Spain",
   "type=mod"
  ],
- "title": "A Roaming Wildebeest In Spain",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb100.zip",
   "https://www.quaddicted.com/files/by-sha256/20/20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469/fmb100.zip"

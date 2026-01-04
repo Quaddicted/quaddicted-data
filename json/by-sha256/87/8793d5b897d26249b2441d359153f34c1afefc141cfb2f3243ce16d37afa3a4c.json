@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew Smith"
- ],
  "bytes": 577817,
  "description": "Medium sized Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-09",
  "sha256": "8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c",
  "tags": [
   "author=Andrew Smith",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Carnage",
  "urls": [
   "https://www.quaddicted.com/filebase/carnage.zip",
   "https://www.quaddicted.com/files/by-sha256/87/8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c/carnage.zip"

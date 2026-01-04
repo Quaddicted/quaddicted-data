@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brian Morgan (Duley)"
- ],
  "bytes": 779295,
  "description": "Medium sized stone castle with a few Metal elements.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-11",
  "sha256": "69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84",
  "tags": [
   "author=Brian Morgan (Duley)",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Stone of Tear",
  "urls": [
   "https://www.quaddicted.com/filebase/stone.zip",
   "https://www.quaddicted.com/files/by-sha256/69/69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84/stone.zip"

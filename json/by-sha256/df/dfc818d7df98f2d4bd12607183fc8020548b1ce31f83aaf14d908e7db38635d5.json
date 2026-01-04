@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leo Slayer"
- ],
  "bytes": 536539,
  "description": "A series of 5 small short maps for vanilla Quake from a beginner mapper back in 2000. Variety of different settings and themes, from an ice cavern to a dark castle, and hard gameplay.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-11-16",
  "sha256": "dfc818d7df98f2d4bd12607183fc8020548b1ce31f83aaf14d908e7db38635d5",
  "tags": [
   "author=Leo Slayer",
@@ -63,7 +59,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Evolution",
  "urls": [
   "https://www.quaddicted.com/filebase/tevo.zip",
   "https://www.quaddicted.com/files/by-sha256/df/dfc818d7df98f2d4bd12607183fc8020548b1ce31f83aaf14d908e7db38635d5/tevo.zip"

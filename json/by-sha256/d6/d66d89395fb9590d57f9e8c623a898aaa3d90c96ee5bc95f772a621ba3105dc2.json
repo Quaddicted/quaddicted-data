@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders \"Backspace\" Persson"
- ],
  "bytes": 665828,
  "description": "Large Metal runic map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-05",
  "sha256": "d66d89395fb9590d57f9e8c623a898aaa3d90c96ee5bc95f772a621ba3105dc2",
  "tags": [
   "author=Anders \"Backspace\" Persson",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "This Feels Lurid",
  "urls": [
   "https://www.quaddicted.com/filebase/tfl3.zip",
   "https://www.quaddicted.com/files/by-sha256/d6/d66d89395fb9590d57f9e8c623a898aaa3d90c96ee5bc95f772a621ba3105dc2/tfl3.zip"

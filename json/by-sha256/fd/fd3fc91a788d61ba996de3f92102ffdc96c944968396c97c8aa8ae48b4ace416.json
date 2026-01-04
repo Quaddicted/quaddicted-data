@@ -1,7 +1,4 @@
 {
- "authors": [
-  "James Bernard Roth"
- ],
  "bytes": 6435297,
  "description": "Small level that aims to recreate the horrors of World War I. Comes with a custom music track and the map source is included.",
  "files": {
@@ -38,11 +35,6 @@
   "Use <a href=\"e61b81f64a8f23289a241d734280841b8cc13f2bdfec4d4854cd8303808bb80a\">1916_v2</a> for a fixed release.",
   "This map requires a source port with increased limits."
  ],
- "provides": {
-  "1916": "1.0"
- },
- "release_date": "2019-12-14",
- "release_group": "1916",
  "sha256": "fd3fc91a788d61ba996de3f92102ffdc96c944968396c97c8aa8ae48b4ace416",
  "tags": [
   "author=James Bernard Roth",
@@ -57,7 +49,6 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "1916",
  "urls": [
   "https://www.quaddicted.com/filebase/1916.zip",
   "https://www.quaddicted.com/files/by-sha256/fd/fd3fc91a788d61ba996de3f92102ffdc96c944968396c97c8aa8ae48b4ace416/1916.zip"

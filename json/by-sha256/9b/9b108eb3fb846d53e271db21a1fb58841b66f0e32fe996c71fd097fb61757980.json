@@ -1,10 +1,37 @@
 {
- "authors": [
-  "Mars"
- ],
  "bytes": 127926977,
  "description": "Very large rusty metal themed map with over 1500 monsters on skill 2 and many secrets. Uses custom code and content from progs_dump (included).",
  "files": {
+  "mars_e0m2/gfx/env/cloudy2_bk.tga": {
+   "bytes": 786476,
+   "sha256": "effe91bf52fd0d63fd4294d97da773f8a3aef91b76baadb7750d22687c245964",
+   "timestamp": "2004-06-30T17:15:18.000Z"
+  },
+  "mars_e0m2/gfx/env/cloudy2_dn.tga": {
+   "bytes": 786450,
+   "sha256": "f963d8f7abda5a7e613203270a6cfcb0e751718a54c251dd6ab3f3a3831ee9c2",
+   "timestamp": "2022-07-28T18:50:51.200Z"
+  },
+  "mars_e0m2/gfx/env/cloudy2_ft.tga": {
+   "bytes": 786476,
+   "sha256": "cb9454229c3c83b8b0d2519b8b3da8bbdce731df4e8a1fd1b31a05da2738cee3",
+   "timestamp": "2004-06-30T17:15:18.000Z"
+  },
+  "mars_e0m2/gfx/env/cloudy2_lf.tga": {
+   "bytes": 786476,
+   "sha256": "2c86c8b631bbb13d6257c065d4980af1ab4a33b578befbb606975f0c4ba65df2",
+   "timestamp": "2025-09-03T20:49:33.824Z"
+  },
+  "mars_e0m2/gfx/env/cloudy2_rt.tga": {
+   "bytes": 786476,
+   "sha256": "2e041d850fa0a5c4a54bff8e7525acdf64a66252bb61e6bb620dcbe7f61eb147",
+   "timestamp": "2004-06-30T17:15:18.000Z"
+  },
+  "mars_e0m2/gfx/env/cloudy2_up.tga": {
+   "bytes": 786476,
+   "sha256": "0d706db0be9adbd931a47169ff78864144d13514733e9f1b9eaa6ecfdafa821f",
+   "timestamp": "2025-09-03T20:46:30.281Z"
+  },
   "mars_e0m2/maps/debris/brick01.bsp": {
    "bytes": 7912,
    "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
@@ -20,55 +47,35 @@
    "sha256": "4e4cd687d51421f64acd1d01ad19281227663ed7262c787ec531a9aea95bf24c",
    "timestamp": "2025-09-03T20:34:55.673Z"
   },
-  "mars_e0m2/maps/debris/grate3.bsp": {
-   "bytes": 7368,
-   "sha256": "04a96377eec413e6a1e9ba28b5bdee90a60c58d73143ee06234018d9fda9bb91",
-   "timestamp": "2024-05-21T18:07:23.115Z"
-  },
-  "mars_e0m2/maps/debris/grate6.bsp": {
-   "bytes": 23552,
-   "sha256": "446cb1e3e599b38433428804ca2c6a6d8688b630c2e9cc71bf87836bc282fe0a",
-   "timestamp": "2025-09-03T20:34:08.418Z"
-  },
   "mars_e0m2/maps/debris/grate2.bsp": {
    "bytes": 7064,
    "sha256": "d30f7b2735ac4e4e52af1e66d9f30d0475887fb8af438bbefd165e904ba3bcf3",
    "timestamp": "2024-05-21T18:07:18.582Z"
+  },
+  "mars_e0m2/maps/debris/grate3.bsp": {
+   "bytes": 7368,
+   "sha256": "04a96377eec413e6a1e9ba28b5bdee90a60c58d73143ee06234018d9fda9bb91",
+   "timestamp": "2024-05-21T18:07:23.115Z"
   },
   "mars_e0m2/maps/debris/grate4.bsp": {
    "bytes": 7588,
    "sha256": "024fc8e6f735f7cbda49f4bc11826bd3e10a7ad6f74876385a11133d44b14ce4",
    "timestamp": "2024-05-21T18:07:26.352Z"
   },
-  "mars_e0m2/maps/debris/metal03.bsp": {
-   "bytes": 7588,
-   "sha256": "2cd1b8e540a377e66a60ce1408c2f59c02aa9259f4c2387f63ef9677d5bb3327",
-   "timestamp": "2024-05-21T18:05:52.839Z"
-  },
-  "mars_e0m2/maps/debris/metal02.bsp": {
-   "bytes": 7584,
-   "sha256": "32172adf4b339d805fcc1bb77d1ff04a0b14c3f58bb3f9f9e89bce5f285d247e",
-   "timestamp": "2024-05-21T18:05:45.949Z"
-  },
-  "mars_e0m2/maps/debris/metal01.bsp": {
-   "bytes": 7100,
-   "sha256": "013211b42cb1bfff45ae2c5c04635cbba31376aa2ec225dea9c3ac57dfc6814e",
-   "timestamp": "2024-05-21T18:05:39.550Z"
-  },
   "mars_e0m2/maps/debris/grate5.bsp": {
    "bytes": 7264,
    "sha256": "00b7cf6ee1bf0afff6f26af3f62b828d3f58d59f00ae24060415259e9b5da9ed",
    "timestamp": "2024-05-21T18:07:29.205Z"
   },
+  "mars_e0m2/maps/debris/grate6.bsp": {
+   "bytes": 23552,
+   "sha256": "446cb1e3e599b38433428804ca2c6a6d8688b630c2e9cc71bf87836bc282fe0a",
+   "timestamp": "2025-09-03T20:34:08.418Z"
+  },
   "mars_e0m2/maps/debris/grate7.bsp": {
    "bytes": 23304,
    "sha256": "501a9e257726517e7c5d3a0e8c6447656bf8dbc56d71196da7b05ceb5e103819",
    "timestamp": "2025-09-03T20:34:40.238Z"
-  },
-  "mars_e0m2/maps/debris/metal04.bsp": {
-   "bytes": 7344,
-   "sha256": "664675a83e7e4977fe88ffd67649dcd967418899836030ba0c7f49d0274002a6",
-   "timestamp": "2024-05-21T18:05:58.498Z"
   },
   "mars_e0m2/maps/debris/grate8.bsp": {
    "bytes": 23608,
@@ -80,20 +87,40 @@
    "sha256": "d6dc2920675dba1f21bb34a031586dd54c7759ea60190c459c1489a37ff9253f",
    "timestamp": "2025-09-03T20:34:50.694Z"
   },
+  "mars_e0m2/maps/debris/metal01.bsp": {
+   "bytes": 7100,
+   "sha256": "013211b42cb1bfff45ae2c5c04635cbba31376aa2ec225dea9c3ac57dfc6814e",
+   "timestamp": "2024-05-21T18:05:39.550Z"
+  },
+  "mars_e0m2/maps/debris/metal02.bsp": {
+   "bytes": 7584,
+   "sha256": "32172adf4b339d805fcc1bb77d1ff04a0b14c3f58bb3f9f9e89bce5f285d247e",
+   "timestamp": "2024-05-21T18:05:45.949Z"
+  },
+  "mars_e0m2/maps/debris/metal03.bsp": {
+   "bytes": 7588,
+   "sha256": "2cd1b8e540a377e66a60ce1408c2f59c02aa9259f4c2387f63ef9677d5bb3327",
+   "timestamp": "2024-05-21T18:05:52.839Z"
+  },
+  "mars_e0m2/maps/debris/metal04.bsp": {
+   "bytes": 7344,
+   "sha256": "664675a83e7e4977fe88ffd67649dcd967418899836030ba0c7f49d0274002a6",
+   "timestamp": "2024-05-21T18:05:58.498Z"
+  },
   "mars_e0m2/maps/debris/metal05.bsp": {
    "bytes": 7092,
    "sha256": "35f72f9be44c666d6d858d9974c239ea8d343a11cfc527b6905ce27d9e34bf09",
    "timestamp": "2024-05-21T18:06:01.909Z"
   },
-  "mars_e0m2/maps/debris/metal07.bsp": {
-   "bytes": 14812,
-   "sha256": "755dfb8cbc6861783ec97c3e392b285e0dec2151f1daf2fc91eba05bc011677e",
-   "timestamp": "2024-05-21T18:12:15.019Z"
-  },
   "mars_e0m2/maps/debris/metal06.bsp": {
    "bytes": 14732,
    "sha256": "d0e0c21d15277e09d2c1f135b3ce651ffd2e7b9acdc0d61acdcb0751d5df7f68",
    "timestamp": "2024-05-21T18:12:01.612Z"
+  },
+  "mars_e0m2/maps/debris/metal07.bsp": {
+   "bytes": 14812,
+   "sha256": "755dfb8cbc6861783ec97c3e392b285e0dec2151f1daf2fc91eba05bc011677e",
+   "timestamp": "2024-05-21T18:12:15.019Z"
   },
   "mars_e0m2/maps/debris/metal08.bsp": {
    "bytes": 7292,
@@ -250,15 +277,15 @@
    "sha256": "193252dcfa139c173c8dbe7f133ece960da43e13d0fdb154137d9b0f9ce4c3b2",
    "timestamp": "2024-05-24T10:08:55.825Z"
   },
-  "mars_e0m2/maps/debris/metal40.bsp": {
-   "bytes": 23636,
-   "sha256": "50e298a2c85f014bf680f168606f3442e78c0f4991911acfd59e19fead700914",
-   "timestamp": "2024-05-24T10:09:04.979Z"
-  },
   "mars_e0m2/maps/debris/metal39.bsp": {
    "bytes": 23484,
    "sha256": "a7867709a4d6ca838853d1b2c00bd5b2e5fb30d6442d311b1023875a62c1d14e",
    "timestamp": "2024-05-24T10:09:00.329Z"
+  },
+  "mars_e0m2/maps/debris/metal40.bsp": {
+   "bytes": 23636,
+   "sha256": "50e298a2c85f014bf680f168606f3442e78c0f4991911acfd59e19fead700914",
+   "timestamp": "2024-05-24T10:09:04.979Z"
   },
   "mars_e0m2/maps/debris/metal41.bsp": {
    "bytes": 31836,
@@ -275,15 +302,15 @@
    "sha256": "2b503657dfe8d8328dc75aa30c4f82aa959e08172d32915cfbe3c3bf380b74bf",
    "timestamp": "2024-05-24T10:26:45.890Z"
   },
-  "mars_e0m2/maps/debris/metal45.bsp": {
-   "bytes": 9236,
-   "sha256": "e8def01bc205ea13a8fa15ac9617315277042c2015079c0e7bc119a56b7ca6ce",
-   "timestamp": "2024-05-24T10:26:57.874Z"
-  },
   "mars_e0m2/maps/debris/metal44.bsp": {
    "bytes": 53700,
    "sha256": "6b740b0ac6dc30da69c4009476ee78e42fccce4ef772fc8c2ff5c9ab042e046f",
    "timestamp": "2024-05-24T10:26:51.937Z"
+  },
+  "mars_e0m2/maps/debris/metal45.bsp": {
+   "bytes": 9236,
+   "sha256": "e8def01bc205ea13a8fa15ac9617315277042c2015079c0e7bc119a56b7ca6ce",
+   "timestamp": "2024-05-24T10:26:57.874Z"
   },
   "mars_e0m2/maps/debris/metal46.bsp": {
    "bytes": 23616,
@@ -295,30 +322,35 @@
    "sha256": "7a5ba10fcc693d645a20f09d43480ec7c3967aad5c4b6e10216b264b98b914c4",
    "timestamp": "2024-05-24T11:22:10.612Z"
   },
-  "mars_e0m2/maps/debris/metal49.bsp": {
-   "bytes": 7836,
-   "sha256": "e71e67a0fb8d4224664080c5e98112c84e91bece0668a041827519b28b03e3b3",
-   "timestamp": "2024-05-24T11:22:20.552Z"
-  },
   "mars_e0m2/maps/debris/metal48.bsp": {
    "bytes": 8336,
    "sha256": "1f37dae9abceca27a4dd68520147a59bbaf44e718f08f20db1bef68968222ecd",
    "timestamp": "2024-05-24T11:22:15.771Z"
+  },
+  "mars_e0m2/maps/debris/metal49.bsp": {
+   "bytes": 7836,
+   "sha256": "e71e67a0fb8d4224664080c5e98112c84e91bece0668a041827519b28b03e3b3",
+   "timestamp": "2024-05-24T11:22:20.552Z"
   },
   "mars_e0m2/maps/debris/metal50.bsp": {
    "bytes": 9092,
    "sha256": "ea4a06a4ab675184f7bd5ce5f365eac393ff63981cf3f9dbeba92f67ef6e8f94",
    "timestamp": "2024-05-24T11:22:24.575Z"
   },
+  "mars_e0m2/maps/debris/metal51.bsp": {
+   "bytes": 13100,
+   "sha256": "713cff71f537c33dc7f81c6375032a07b4064903554e35e5e6a2beea6c2526bd",
+   "timestamp": "2024-05-24T11:29:00.842Z"
+  },
   "mars_e0m2/maps/debris/metal52.bsp": {
    "bytes": 12868,
    "sha256": "8b73c1843f3418eeab2f773440b5431ee0d03f63d9838cc2e360f2d72f281bba",
    "timestamp": "2024-05-24T11:29:04.528Z"
   },
-  "mars_e0m2/maps/debris/metal51.bsp": {
-   "bytes": 13100,
-   "sha256": "713cff71f537c33dc7f81c6375032a07b4064903554e35e5e6a2beea6c2526bd",
-   "timestamp": "2024-05-24T11:29:00.842Z"
+  "mars_e0m2/maps/debris/metal53.bsp": {
+   "bytes": 13156,
+   "sha256": "70171626958186e10bc8d607154b2dd6cb172a4dc057e1ff538bb59c38c68a45",
+   "timestamp": "2024-05-24T11:29:07.699Z"
   },
   "mars_e0m2/maps/debris/metal54.bsp": {
    "bytes": 12940,
@@ -334,11 +366,6 @@
    "bytes": 14868,
    "sha256": "e8982810c4b5f153147090d605f098e9f9add85f095d0ad33dfe679b7f40f6a2",
    "timestamp": "2024-05-24T12:23:13.666Z"
-  },
-  "mars_e0m2/maps/debris/metal53.bsp": {
-   "bytes": 13156,
-   "sha256": "70171626958186e10bc8d607154b2dd6cb172a4dc057e1ff538bb59c38c68a45",
-   "timestamp": "2024-05-24T11:29:07.699Z"
   },
   "mars_e0m2/maps/debris/metal57.bsp": {
    "bytes": 18980,
@@ -400,15 +427,15 @@
    "sha256": "61e65edc67fd84fc14de565cf5d7e49b3eba00364e06a8a3e123d38ab0d3c0fb",
    "timestamp": "2024-05-25T20:37:59.972Z"
   },
-  "mars_e0m2/maps/debris/metal70.bsp": {
-   "bytes": 7692,
-   "sha256": "7d6859e57d89d3f0df546c4572baa6e5f4c1d4c7dc30692978abab80cdc60f63",
-   "timestamp": "2024-05-25T20:50:33.533Z"
-  },
   "mars_e0m2/maps/debris/metal69.bsp": {
    "bytes": 7696,
    "sha256": "21ae06c03b9dd1c9e6914c05a8c9b335c62f12e2d550bab2648fba5e763e2f3d",
    "timestamp": "2024-05-25T20:38:04.145Z"
+  },
+  "mars_e0m2/maps/debris/metal70.bsp": {
+   "bytes": 7692,
+   "sha256": "7d6859e57d89d3f0df546c4572baa6e5f4c1d4c7dc30692978abab80cdc60f63",
+   "timestamp": "2024-05-25T20:50:33.533Z"
   },
   "mars_e0m2/maps/debris/metal71.bsp": {
    "bytes": 7748,
@@ -440,15 +467,15 @@
    "sha256": "d9905bc358cc19aa22ae1bfb6a43b3e55dec35426986659def54d6f66321d713",
    "timestamp": "2024-05-25T21:00:49.466Z"
   },
-  "mars_e0m2/maps/debris/metal78.bsp": {
-   "bytes": 35876,
-   "sha256": "df540893a5b3afe662fe1db054823bc2a755f2877d5f4ccaf36d2d67e7adf2b7",
-   "timestamp": "2024-05-25T21:00:57.875Z"
-  },
   "mars_e0m2/maps/debris/metal77.bsp": {
    "bytes": 32260,
    "sha256": "e23e66d3728d2ee7ed97c931f94c24daa2c7f85d30d8fd46aa841b510a759148",
    "timestamp": "2024-05-25T21:00:53.998Z"
+  },
+  "mars_e0m2/maps/debris/metal78.bsp": {
+   "bytes": 35876,
+   "sha256": "df540893a5b3afe662fe1db054823bc2a755f2877d5f4ccaf36d2d67e7adf2b7",
+   "timestamp": "2024-05-25T21:00:57.875Z"
   },
   "mars_e0m2/maps/debris/metal79.bsp": {
    "bytes": 10112,
@@ -515,6 +542,11 @@
    "sha256": "d26c8e7457529e32583b2cd7c8b1765c9bf61a97cd47764bb371f23658eaa05e",
    "timestamp": "2024-05-29T16:58:10.055Z"
   },
+  "mars_e0m2/maps/debris/metal92.bsp": {
+   "bytes": 7372,
+   "sha256": "f02840797682022b9244edb811de3ff0557779cc1aa6a97f1d6e39b7c40fc2ff",
+   "timestamp": "2024-05-29T16:58:14.767Z"
+  },
   "mars_e0m2/maps/debris/metal93.bsp": {
    "bytes": 7488,
    "sha256": "32b73fe916c8349851eee7a7c9b08dfbf6a40e682ed829da4f07bfccac3ef7f2",
@@ -524,11 +556,6 @@
    "bytes": 7672,
    "sha256": "7ee5dc0655e95cf115061a2822f49bdda16da47f9cfae0ca8c29467f54a53006",
    "timestamp": "2024-05-29T16:58:23.978Z"
-  },
-  "mars_e0m2/maps/debris/metal92.bsp": {
-   "bytes": 7372,
-   "sha256": "f02840797682022b9244edb811de3ff0557779cc1aa6a97f1d6e39b7c40fc2ff",
-   "timestamp": "2024-05-29T16:58:14.767Z"
   },
   "mars_e0m2/maps/debris/metal95.bsp": {
    "bytes": 28816,
@@ -565,30 +592,40 @@
    "sha256": "b268428f414a313b2adb51ae4e03f64c2f678fe6efb183a041f5d8a1364a12f1",
    "timestamp": "2024-05-25T19:11:30.549Z"
   },
-  "mars_e0m2/maps/debris/pent4.bsp": {
-   "bytes": 23816,
-   "sha256": "826d3f139b04b676bc4f12d9c39f0b0341214e93127052ff48093d9d6cd6e537",
-   "timestamp": "2024-05-25T19:11:42.883Z"
-  },
   "mars_e0m2/maps/debris/pent3.bsp": {
    "bytes": 46644,
    "sha256": "478c60dd4571a70d7b517c8213a7adf19f5c5bb8adc21a9e8e7652b5411bcb68",
    "timestamp": "2024-05-25T19:11:34.799Z"
   },
-  "mars_e0m2/maps/debris/trnsp.bsp": {
-   "bytes": 7232,
-   "sha256": "cd71b21b36179088f65c5c47dbc5ea3f0c06bdc9bf89cec7601cc276ff327994",
-   "timestamp": "2024-05-18T14:23:11.532Z"
+  "mars_e0m2/maps/debris/pent4.bsp": {
+   "bytes": 23816,
+   "sha256": "826d3f139b04b676bc4f12d9c39f0b0341214e93127052ff48093d9d6cd6e537",
+   "timestamp": "2024-05-25T19:11:42.883Z"
   },
   "mars_e0m2/maps/debris/pent5.bsp": {
    "bytes": 46628,
    "sha256": "a13040c28db828c8b6e7ef18ea75d3834090d8cabb83f71f5fa9d905c4f97ef4",
    "timestamp": "2024-05-25T19:11:49.618Z"
   },
+  "mars_e0m2/maps/debris/trnsp.bsp": {
+   "bytes": 7232,
+   "sha256": "cd71b21b36179088f65c5c47dbc5ea3f0c06bdc9bf89cec7601cc276ff327994",
+   "timestamp": "2024-05-18T14:23:11.532Z"
+  },
   "mars_e0m2/maps/debris/wood1.bsp": {
    "bytes": 7584,
    "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
    "timestamp": "2019-03-11T15:37:26.000Z"
+  },
+  "mars_e0m2/maps/mars_e0m2.bsp": {
+   "bytes": 103823664,
+   "sha256": "83a6bbc838a2cfe61f95672e2f5daf9343a666fc14ac5f454fbc93aee580457b",
+   "timestamp": "2025-10-15T13:26:46.840Z"
+  },
+  "mars_e0m2/maps/mars_e0m2.lit": {
+   "bytes": 20012144,
+   "sha256": "2e9df284f2f54cf802d55f5c82a4e9a1ee3f4b46cd498cd88f1b292324821cde",
+   "timestamp": "2025-10-15T13:26:46.539Z"
   },
   "mars_e0m2/mars_e0m2_corrosive_eternity_readme.txt": {
    "bytes": 4108,
@@ -599,21 +636,6 @@
    "bytes": 4589,
    "sha256": "60fde24ebc7adc367fb340ad6c5fc632636cd6fd777bc19fa113dedc487ec8c9",
    "timestamp": "2022-08-05T19:12:55.926Z"
-  },
-  "mars_e0m2/gfx/env/cloudy2_ft.tga": {
-   "bytes": 786476,
-   "sha256": "cb9454229c3c83b8b0d2519b8b3da8bbdce731df4e8a1fd1b31a05da2738cee3",
-   "timestamp": "2004-06-30T17:15:18.000Z"
-  },
-  "mars_e0m2/gfx/env/cloudy2_bk.tga": {
-   "bytes": 786476,
-   "sha256": "effe91bf52fd0d63fd4294d97da773f8a3aef91b76baadb7750d22687c245964",
-   "timestamp": "2004-06-30T17:15:18.000Z"
-  },
-  "mars_e0m2/gfx/env/cloudy2_rt.tga": {
-   "bytes": 786476,
-   "sha256": "2e041d850fa0a5c4a54bff8e7525acdf64a66252bb61e6bb620dcbe7f61eb147",
-   "timestamp": "2004-06-30T17:15:18.000Z"
   },
   "mars_e0m2/music/AlbumArt_{B5020207-474E-4720-DEA6-0B2466499400}_Large.jpg": {
    "bytes": 20204,
@@ -650,30 +672,55 @@
    "sha256": "83c5917e6505b30b0a5cdaad7a0762fb4857b63904b2740d76d66f5ec4bc1a74",
    "timestamp": "2022-08-05T19:12:55.927Z"
   },
-  "mars_e0m2/gfx/env/cloudy2_dn.tga": {
-   "bytes": 786450,
-   "sha256": "f963d8f7abda5a7e613203270a6cfcb0e751718a54c251dd6ab3f3a3831ee9c2",
-   "timestamp": "2022-07-28T18:50:51.200Z"
+  "mars_e0m2/music/track03.mp3": {
+   "bytes": 4862041,
+   "sha256": "74411caa3d0116eb3c2f878fdcaf305848328eef8c2610fad4d6fc667875d688",
+   "timestamp": "2022-12-08T12:39:02.518Z"
   },
-  "mars_e0m2/gfx/env/cloudy2_lf.tga": {
-   "bytes": 786476,
-   "sha256": "2c86c8b631bbb13d6257c065d4980af1ab4a33b578befbb606975f0c4ba65df2",
-   "timestamp": "2025-09-03T20:49:33.824Z"
+  "mars_e0m2/music/track42.mp3": {
+   "bytes": 15356972,
+   "sha256": "7f39d4a1dc382a05f1ccffec6796e85ec619ad37f835f5b24be5b7b6c83c700f",
+   "timestamp": "2022-12-08T12:38:55.776Z"
   },
-  "mars_e0m2/gfx/env/cloudy2_up.tga": {
-   "bytes": 786476,
-   "sha256": "0d706db0be9adbd931a47169ff78864144d13514733e9f1b9eaa6ecfdafa821f",
-   "timestamp": "2025-09-03T20:46:30.281Z"
+  "mars_e0m2/music/track43.mp3": {
+   "bytes": 24602491,
+   "sha256": "9501730ac65a7960ba473f6da81d18489dc4b2bed458bf93786c15070d7fbb1a",
+   "timestamp": "2022-12-08T14:35:20.059Z"
+  },
+  "mars_e0m2/music/track44.mp3": {
+   "bytes": 7647555,
+   "sha256": "faf2043f211dac809e27e0fe41e3ed1ea633f2fb22a4e8723328f2cffe869169",
+   "timestamp": "2022-12-08T12:38:49.462Z"
+  },
+  "mars_e0m2/music/track45.mp3": {
+   "bytes": 17402481,
+   "sha256": "5985e93cfc615e80f4e329dca9b054e0a98be55f04659bd7c0b83e90bbc1f2d5",
+   "timestamp": "2022-12-08T12:38:43.057Z"
+  },
+  "mars_e0m2/music/track46.mp3": {
+   "bytes": 8518101,
+   "sha256": "fccc234656c1b051e10312cd857b29141e97939e5529986ac16dbc4a2f5ee29e",
+   "timestamp": "2022-12-08T12:38:33.651Z"
+  },
+  "mars_e0m2/music/track47.mp3": {
+   "bytes": 26016091,
+   "sha256": "814f71ec930a097fe506b5e04e028ba9a727471624306d098d445888c7ebb83d",
+   "timestamp": "2024-12-19T21:17:01.678Z"
+  },
+  "mars_e0m2/music/track48.mp3": {
+   "bytes": 959690,
+   "sha256": "b9a4b7ccdfac63a1b7c1be2f4d0b55ed43006e11bd2c82b21d2e8228bf93d41f",
+   "timestamp": "2025-10-10T13:26:02.000Z"
   },
   "mars_e0m2/music/track99.mp3": {
    "bytes": 6513,
    "sha256": "e7aa24d6f093bc86cd94326605747f03d4a88a8f0631cc55e7ad335c79302461",
    "timestamp": "2024-12-22T13:15:58.000Z"
   },
-  "mars_e0m2/progs/armshr.mdl": {
-   "bytes": 20012,
-   "sha256": "1873523424395b404ffafeb447383185e033826e33bf0a001efc34604ece95da",
-   "timestamp": "2022-08-27T05:17:44.000Z"
+  "mars_e0m2/progs.dat": {
+   "bytes": 749842,
+   "sha256": "cf5045e62b6668ef38eece435e868c67dcc3051212d1fab442c2413a71e57f41",
+   "timestamp": "2022-09-26T05:38:14.000Z"
   },
   "mars_e0m2/progs/a_mdls/m_cells1.mdl": {
    "bytes": 3252,
@@ -690,14 +737,14 @@
    "sha256": "ac361970fb1cbbb87ad4593afecd6d8973a65ea4f14e5f7b565c8f38c181fa9d",
    "timestamp": "2022-06-25T04:52:14.000Z"
   },
-  "mars_e0m2/progs/a_mdls/m_rock1.mdl": {
-   "bytes": 3252,
-   "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
-   "timestamp": "2022-06-25T04:52:14.000Z"
-  },
   "mars_e0m2/progs/a_mdls/m_nails2.mdl": {
    "bytes": 4532,
    "sha256": "0870b633f95bda895074e8d423631ee8805c3923f36a1c7f09938710783e8f99",
+   "timestamp": "2022-06-25T04:52:14.000Z"
+  },
+  "mars_e0m2/progs/a_mdls/m_rock1.mdl": {
+   "bytes": 3252,
+   "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
    "timestamp": "2022-06-25T04:52:14.000Z"
   },
   "mars_e0m2/progs/a_mdls/m_rock2.mdl": {
@@ -715,9 +762,24 @@
    "sha256": "b558ee2dfd0078c7e3075079fb40368f53e7dfb162aaefcd20e53f562e405b1b",
    "timestamp": "2022-06-25T04:52:14.000Z"
   },
+  "mars_e0m2/progs/armshr.mdl": {
+   "bytes": 20012,
+   "sha256": "1873523424395b404ffafeb447383185e033826e33bf0a001efc34604ece95da",
+   "timestamp": "2022-08-27T05:17:44.000Z"
+  },
   "mars_e0m2/progs/candle.mdl": {
    "bytes": 24135,
    "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2022-06-25T04:52:12.000Z"
+  },
+  "mars_e0m2/progs/debris.mdl": {
+   "bytes": 263072,
+   "sha256": "2b60cba9cbb454e3524d174edc0e1a540f2b2e91fa0b35fc2ab20ccb7fabd8d1",
+   "timestamp": "2022-07-16T07:39:22.000Z"
+  },
+  "mars_e0m2/progs/enforcer.mdl": {
+   "bytes": 472208,
+   "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
    "timestamp": "2022-06-25T04:52:12.000Z"
   },
   "mars_e0m2/progs/g_shotgn.mdl": {
@@ -765,6 +827,11 @@
    "sha256": "52760ce1f6e8f657e782846571baf9fde80859f5342d07a684fa8218f96f68db",
    "timestamp": "2022-06-25T04:52:12.000Z"
   },
+  "mars_e0m2/progs/k_spike2.mdl": {
+   "bytes": 444704,
+   "sha256": "e466e7afa95868ec1a3b3bfc770573d93dc20c2d881a73d2b9b0e35f1dfa6d9b",
+   "timestamp": "2022-09-25T10:11:58.000Z"
+  },
   "mars_e0m2/progs/lspike.mdl": {
    "bytes": 1684,
    "sha256": "59264317258f19955b967177f0dbc5be1733e4ca07c4c7b3cc333bb88bc0c46e",
@@ -775,45 +842,50 @@
    "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
    "timestamp": "2022-06-25T04:52:14.000Z"
   },
+  "mars_e0m2/progs/ogre.mdl": {
+   "bytes": 366916,
+   "sha256": "29fa9866dd4862b99ebb9944ddb0bf24a6d0bb4bf00e26a94d3622cead9b6315",
+   "timestamp": "2021-09-27T07:05:14.000Z"
+  },
   "mars_e0m2/progs/pd_armor_sh.mdl": {
    "bytes": 31508,
    "sha256": "46b9de8235f07190e18d67e147ed00be6dc322cd112ccde33bf4fc1f9a77e074",
    "timestamp": "2020-12-12T06:28:32.000Z"
-  },
-  "mars_e0m2/progs/debris.mdl": {
-   "bytes": 263072,
-   "sha256": "2b60cba9cbb454e3524d174edc0e1a540f2b2e91fa0b35fc2ab20ccb7fabd8d1",
-   "timestamp": "2022-07-16T07:39:22.000Z"
-  },
-  "mars_e0m2/progs/pd_base_key.mdl": {
-   "bytes": 21219,
-   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
-   "timestamp": "2019-11-15T16:29:12.000Z"
-  },
-  "mars_e0m2/progs/pd_rune_key.mdl": {
-   "bytes": 46335,
-   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
-   "timestamp": "2019-11-15T16:40:24.000Z"
-  },
-  "mars_e0m2/progs/pd_wiz_key.mdl": {
-   "bytes": 21907,
-   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
-   "timestamp": "2019-11-15T16:33:36.000Z"
   },
   "mars_e0m2/progs/pd_b_key.mdl": {
    "bytes": 128440,
    "sha256": "c5aff23b766037ab550636516d7fe0235dacf566ddb966541d640092bcb62349",
    "timestamp": "2022-08-15T04:16:34.000Z"
   },
-  "mars_e0m2/progs/spark.mdl": {
-   "bytes": 2544,
-   "sha256": "77d081c51af9bd6c82d2d51dcb955a2fca5189cda4eb09a138bfa2e2b521fb05",
-   "timestamp": "2022-07-14T19:01:30.000Z"
+  "mars_e0m2/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2019-11-15T16:29:12.000Z"
   },
-  "mars_e0m2/progs/spike.mdl": {
-   "bytes": 4416,
-   "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
-   "timestamp": "2022-06-25T04:52:14.000Z"
+  "mars_e0m2/progs/pd_bpack.mdl": {
+   "bytes": 216724,
+   "sha256": "1839c92899197344935eca44d7b4c70e903af84ab633259786f8c12c39905149",
+   "timestamp": "2022-08-22T18:49:22.000Z"
+  },
+  "mars_e0m2/progs/pd_r_key.mdl": {
+   "bytes": 269528,
+   "sha256": "7ef6894b955c4ca34bf3e2ebdc6288f55cc3b1285478444a81ca769866e1a119",
+   "timestamp": "2022-07-14T19:01:20.000Z"
+  },
+  "mars_e0m2/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2019-11-15T16:40:24.000Z"
+  },
+  "mars_e0m2/progs/pd_w_key.mdl": {
+   "bytes": 170680,
+   "sha256": "73f06fc10a53c93db25d67f20bad7672bc5f4e14bf3a6b5115d68f00696b536a",
+   "timestamp": "2022-08-17T05:55:00.000Z"
+  },
+  "mars_e0m2/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2019-11-15T16:33:36.000Z"
   },
   "mars_e0m2/progs/s_flame.spr": {
    "bytes": 47856,
@@ -825,15 +897,35 @@
    "sha256": "e306ec0fbf0f5e4306c6683f7c7b87674bb0a168ef32a2b1118dcffb083deeff",
    "timestamp": "2022-05-16T07:59:28.000Z"
   },
-  "mars_e0m2/progs/pd_w_key.mdl": {
-   "bytes": 170680,
-   "sha256": "73f06fc10a53c93db25d67f20bad7672bc5f4e14bf3a6b5115d68f00696b536a",
-   "timestamp": "2022-08-17T05:55:00.000Z"
+  "mars_e0m2/progs/soldier.mdl": {
+   "bytes": 320900,
+   "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
+   "timestamp": "2022-06-25T04:52:14.000Z"
   },
-  "mars_e0m2/progs/pd_bpack.mdl": {
-   "bytes": 216724,
-   "sha256": "1839c92899197344935eca44d7b4c70e903af84ab633259786f8c12c39905149",
-   "timestamp": "2022-08-22T18:49:22.000Z"
+  "mars_e0m2/progs/spark.mdl": {
+   "bytes": 2544,
+   "sha256": "77d081c51af9bd6c82d2d51dcb955a2fca5189cda4eb09a138bfa2e2b521fb05",
+   "timestamp": "2022-07-14T19:01:30.000Z"
+  },
+  "mars_e0m2/progs/spike.mdl": {
+   "bytes": 4416,
+   "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
+   "timestamp": "2022-06-25T04:52:14.000Z"
+  },
+  "mars_e0m2/progs/teleport.mdl": {
+   "bytes": 1058800,
+   "sha256": "98eeb63a1ded2d7a1d3788562478aff891af1be4ef1c552bcdb913cb338387b6",
+   "timestamp": "2022-07-31T05:06:04.000Z"
+  },
+  "mars_e0m2/progs/v_spike.mdl": {
+   "bytes": 1058816,
+   "sha256": "ac4d47130af263cb6fd861d70ac09ebf758ab1a76da0b697e268382c65ae1a16",
+   "timestamp": "2022-08-07T09:30:54.000Z"
+  },
+  "mars_e0m2/progs/w_spike.mdl": {
+   "bytes": 311493,
+   "sha256": "add013a5a6686ffd76ec0f2b2b3413757432ba4a8564ffd81aeb7eb2c5a98398",
+   "timestamp": "2022-09-16T05:43:22.000Z"
   },
   "mars_e0m2/progs_dump_300_README.txt": {
    "bytes": 6034,
@@ -844,6 +936,11 @@
    "bytes": 469,
    "sha256": "490877c3d81446c26fd36f25b358a0e0e109e6b3566f23a6a2d41c8319849750",
    "timestamp": "2022-09-24T16:08:52.000Z"
+  },
+  "mars_e0m2/quick.sav": {
+   "bytes": 3624110,
+   "sha256": "09001f1952c07a279d9e505968b7f0e63e7f652d75ae9b393229f7688de5b217",
+   "timestamp": "2025-10-14T16:29:44.144Z"
   },
   "mars_e0m2/sound/break/bricks1.wav": {
    "bytes": 49956,
@@ -860,45 +957,20 @@
    "sha256": "7438b112d81fb92c285a507ebfbde5b15dbddcd90a85f51ecaae2df3ef83480c",
    "timestamp": "2022-07-08T12:27:48.000Z"
   },
-  "mars_e0m2/progs/enforcer.mdl": {
-   "bytes": 472208,
-   "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
-   "timestamp": "2022-06-25T04:52:12.000Z"
-  },
-  "mars_e0m2/progs/pd_r_key.mdl": {
-   "bytes": 269528,
-   "sha256": "7ef6894b955c4ca34bf3e2ebdc6288f55cc3b1285478444a81ca769866e1a119",
-   "timestamp": "2022-07-14T19:01:20.000Z"
-  },
-  "mars_e0m2/progs/ogre.mdl": {
-   "bytes": 366916,
-   "sha256": "29fa9866dd4862b99ebb9944ddb0bf24a6d0bb4bf00e26a94d3622cead9b6315",
-   "timestamp": "2021-09-27T07:05:14.000Z"
-  },
-  "mars_e0m2/progs/soldier.mdl": {
-   "bytes": 320900,
-   "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
-   "timestamp": "2022-06-25T04:52:14.000Z"
+  "mars_e0m2/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2019-03-27T10:52:22.000Z"
   },
   "mars_e0m2/sound/break/pd_metal1.wav": {
    "bytes": 44146,
    "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
    "timestamp": "2019-03-27T13:05:02.000Z"
   },
-  "mars_e0m2/sound/break/pd_bricks1.wav": {
-   "bytes": 61786,
-   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
-   "timestamp": "2019-03-27T10:52:22.000Z"
-  },
   "mars_e0m2/sound/break/pd_metal2.wav": {
    "bytes": 70722,
    "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
    "timestamp": "2019-03-27T13:47:12.000Z"
-  },
-  "mars_e0m2/progs/k_spike2.mdl": {
-   "bytes": 444704,
-   "sha256": "e466e7afa95868ec1a3b3bfc770573d93dc20c2d881a73d2b9b0e35f1dfa6d9b",
-   "timestamp": "2022-09-25T10:11:58.000Z"
   },
   "mars_e0m2/sound/break/pd_stones1.wav": {
    "bytes": 75150,
@@ -914,11 +986,6 @@
    "bytes": 33342,
    "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
    "timestamp": "2019-03-27T10:47:40.000Z"
-  },
-  "mars_e0m2/progs/w_spike.mdl": {
-   "bytes": 311493,
-   "sha256": "add013a5a6686ffd76ec0f2b2b3413757432ba4a8564ffd81aeb7eb2c5a98398",
-   "timestamp": "2022-09-16T05:43:22.000Z"
   },
   "mars_e0m2/sound/break/stones1.wav": {
    "bytes": 69380,
@@ -945,6 +1012,11 @@
    "sha256": "46801976a87d548c2cb7b1548f12dfd0b3f1d246aa9d86944574fa3216c6d6d1",
    "timestamp": "2022-07-05T08:00:52.000Z"
   },
+  "mars_e0m2/sound/dump/elec22k.wav": {
+   "bytes": 178736,
+   "sha256": "d56ff98d1d41511833c35b5a8b5311f00b7e13932591eee53f9e2adf788569e1",
+   "timestamp": "2022-07-05T08:23:22.000Z"
+  },
   "mars_e0m2/sound/dump/magic_01.wav": {
    "bytes": 125944,
    "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
@@ -955,20 +1027,25 @@
    "sha256": "3b80fc8000fe624ffbe4f119faf41a77406b83bd350020c7782bc03fd51a1799",
    "timestamp": "2020-12-04T13:09:06.000Z"
   },
-  "mars_e0m2/sound/dump/pd_quake_end.wav": {
-   "bytes": 37248,
-   "sha256": "3ecb621fbf5a3f2ab090ebc0f3036069292181b11ab366689b3dfa0f19dd372a",
-   "timestamp": "2020-11-28T09:22:12.000Z"
-  },
   "mars_e0m2/sound/dump/pd_magic_01.wav": {
    "bytes": 125944,
    "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
    "timestamp": "2020-12-11T06:15:52.000Z"
   },
-  "mars_e0m2/sound/dump/elec22k.wav": {
-   "bytes": 178736,
-   "sha256": "d56ff98d1d41511833c35b5a8b5311f00b7e13932591eee53f9e2adf788569e1",
-   "timestamp": "2022-07-05T08:23:22.000Z"
+  "mars_e0m2/sound/dump/pd_quake_end.wav": {
+   "bytes": 37248,
+   "sha256": "3ecb621fbf5a3f2ab090ebc0f3036069292181b11ab366689b3dfa0f19dd372a",
+   "timestamp": "2020-11-28T09:22:12.000Z"
+  },
+  "mars_e0m2/sound/dump/pd_quake_full.wav": {
+   "bytes": 156278,
+   "sha256": "872e0b0847fd366c59341d672cba9da0faaf85a881f8d4d5471a664923c8440e",
+   "timestamp": "2020-11-28T09:59:34.000Z"
+  },
+  "mars_e0m2/sound/dump/pd_quake_loop1.wav": {
+   "bytes": 159956,
+   "sha256": "52a330a12c35191347008f4c546b1c83b4e387f3f33c9b60c3a5e8e545b0517e",
+   "timestamp": "2020-11-28T09:19:44.000Z"
   },
   "mars_e0m2/sound/dump/pd_water.wav": {
    "bytes": 92708,
@@ -989,21 +1066,6 @@
    "bytes": 40038,
    "sha256": "25aa667940a737e46da0a829d9cb94922972b9b19726664d1a1133a666dc1439",
    "timestamp": "2020-12-27T07:50:38.000Z"
-  },
-  "mars_e0m2/sound/dump/pd_quake_full.wav": {
-   "bytes": 156278,
-   "sha256": "872e0b0847fd366c59341d672cba9da0faaf85a881f8d4d5471a664923c8440e",
-   "timestamp": "2020-11-28T09:59:34.000Z"
-  },
-  "mars_e0m2/sound/dump/pd_quake_loop1.wav": {
-   "bytes": 159956,
-   "sha256": "52a330a12c35191347008f4c546b1c83b4e387f3f33c9b60c3a5e8e545b0517e",
-   "timestamp": "2020-11-28T09:19:44.000Z"
-  },
-  "mars_e0m2/music/track48.mp3": {
-   "bytes": 959690,
-   "sha256": "b9a4b7ccdfac63a1b7c1be2f4d0b55ed43006e11bd2c82b21d2e8228bf93d41f",
-   "timestamp": "2025-10-10T13:26:02.000Z"
   },
   "mars_e0m2/sound/mars/e0m2/army2/death.wav": {
    "bytes": 6644,
@@ -1040,6 +1102,11 @@
    "sha256": "47ff5c2a739dff33b96541533e9cc14a30a3df3ea603a01d1d2a81292b6e66b9",
    "timestamp": "2025-09-03T17:58:47.588Z"
   },
+  "mars_e0m2/sound/mars/e0m2/cutscene/ghosts_01.wav": {
+   "bytes": 132594,
+   "sha256": "d8e934236079911dc851177ecbb9fb6582a9f7f19d682f9610b914fce3a58537",
+   "timestamp": "2024-06-21T19:36:06.390Z"
+  },
   "mars_e0m2/sound/mars/e0m2/cutscene/hit1.wav": {
    "bytes": 9840,
    "sha256": "b5366f6c48a32d6d5e4863a8dd4d0b5f9567652a8994ac67a0dcc9cd58a91a82",
@@ -1055,11 +1122,6 @@
    "sha256": "40ac67b993c605b0694b0ffd26b38609392506866f642fe313fa70ad2cde1557",
    "timestamp": "2024-06-24T16:17:37.060Z"
   },
-  "mars_e0m2/sound/mars/e0m2/cutscene/ghosts_01.wav": {
-   "bytes": 132594,
-   "sha256": "d8e934236079911dc851177ecbb9fb6582a9f7f19d682f9610b914fce3a58537",
-   "timestamp": "2024-06-21T19:36:06.390Z"
-  },
   "mars_e0m2/sound/mars/e0m2/cutscene/scream01.wav": {
    "bytes": 69944,
    "sha256": "36861a65c7ca802f15612be61e9d7429978949eb1aa309504e898d34d0a0ce5d",
@@ -1070,40 +1132,95 @@
    "sha256": "41bf8a77119953601b69b30f3a42dc4485101b1f5a4d7e1cd0412390da7ca9cd",
    "timestamp": "2024-06-21T19:36:43.855Z"
   },
-  "mars_e0m2/progs.dat": {
-   "bytes": 749842,
-   "sha256": "cf5045e62b6668ef38eece435e868c67dcc3051212d1fab442c2413a71e57f41",
-   "timestamp": "2022-09-26T05:38:14.000Z"
-  },
   "mars_e0m2/sound/mars/e0m2/d3bells.wav": {
    "bytes": 149272,
    "sha256": "4a9cce4fb924d3e09d177f27a923f4f5bbd57d269ec073b7da3ed5a2ea2c9425",
    "timestamp": "2025-08-28T14:11:31.528Z"
   },
-  "mars_e0m2/sound/mars/e0m2/d3voice1.wav": {
-   "bytes": 37282,
-   "sha256": "d3f0b36e8a5c19862f84d621e2cebee699b917f61fadddbd83ee38cf0f10fbba",
-   "timestamp": "2025-09-10T19:53:33.710Z"
+  "mars_e0m2/sound/mars/e0m2/d3metal1.wav": {
+   "bytes": 493134,
+   "sha256": "827ff8768cda97409dc62cf581b2ba413e7ddb450ecc79ebc7448071eceae1ec",
+   "timestamp": "2025-08-17T15:02:34.460Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal10.wav": {
+   "bytes": 464344,
+   "sha256": "6400ac0ce0f03e207f7009704b78daa716d467aff235400487c5e17bfaf6c66e",
+   "timestamp": "2025-08-28T10:49:31.488Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal11.wav": {
+   "bytes": 545248,
+   "sha256": "10a8058fba94bad220ce29c6f4a68628272609949a94c190351a95247efafdff",
+   "timestamp": "2025-08-28T14:49:35.176Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal2.wav": {
+   "bytes": 620384,
+   "sha256": "fd59eec3d776d45c8025fc6391648d4ebbd10063141bffcaba52227443ae8b68",
+   "timestamp": "2025-08-17T15:16:25.832Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal3.wav": {
+   "bytes": 377254,
+   "sha256": "98ba6ff723bd3d5342b3ad232bd8e0ab1031633a01305db157f056b857826621",
+   "timestamp": "2025-08-17T15:16:41.248Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal4.wav": {
+   "bytes": 581058,
+   "sha256": "6fac17af033d52f4f5508112147d25afff6c9040b2fff7ea51170a2f05eddbcd",
+   "timestamp": "2025-08-17T15:17:04.247Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal5.wav": {
+   "bytes": 486028,
+   "sha256": "d03b09d9d7005c27df7be7254473b5614bc16098338842416642229066c40c68",
+   "timestamp": "2025-08-26T19:58:06.849Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal6.wav": {
+   "bytes": 454652,
+   "sha256": "851482457199d4a3d4af16fc54f08b6798e319d77dc388d77ea83447eff24d06",
+   "timestamp": "2025-08-26T19:58:22.444Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal7.wav": {
+   "bytes": 449168,
+   "sha256": "d9b7e4c55048bc0e21df43ea2200b6c4819ed1e7f195d476395cb462ab21193a",
+   "timestamp": "2025-08-28T10:43:04.388Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal8.wav": {
+   "bytes": 553230,
+   "sha256": "7192debb9c5b6dc4f149d9f346cb9fe29f10b1fcbc1371854e8e37d58f14e26a",
+   "timestamp": "2025-08-28T10:44:13.011Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3metal9.wav": {
+   "bytes": 402682,
+   "sha256": "f514cd69de70ea37c6d384541186540b4c5cd18dc469548d7a64f89219f79791",
+   "timestamp": "2025-08-28T10:47:33.394Z"
   },
   "mars_e0m2/sound/mars/e0m2/d3mncb.wav": {
    "bytes": 40962,
    "sha256": "c68bf055cebd5ce1d970eb29737c7f0b63495e5e73563c77656b91bca8a35e0a",
    "timestamp": "2025-08-28T14:46:05.000Z"
   },
+  "mars_e0m2/sound/mars/e0m2/d3voice1.wav": {
+   "bytes": 37282,
+   "sha256": "d3f0b36e8a5c19862f84d621e2cebee699b917f61fadddbd83ee38cf0f10fbba",
+   "timestamp": "2025-09-10T19:53:33.710Z"
+  },
   "mars_e0m2/sound/mars/e0m2/d3voice2.wav": {
    "bytes": 37816,
    "sha256": "12bb3dd414aab834a837e0fec6f14228124095b6d0ab56106708ec82e9aa9dcf",
    "timestamp": "2025-09-10T19:52:55.114Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/d3wnd.wav": {
+   "bytes": 192630,
+   "sha256": "bf6d8fb4a264454af609591ad8c8bb513fe9463f399be2f325a0ef724d8d85dd",
+   "timestamp": "2022-08-09T13:45:38.597Z"
   },
   "mars_e0m2/sound/mars/e0m2/d3wnd1.wav": {
    "bytes": 125096,
    "sha256": "04881eb9739a1261ba2f67efd82ba824703e7cbb321ac52461ef2fc3f44c5246",
    "timestamp": "2025-08-17T15:20:12.241Z"
   },
-  "mars_e0m2/sound/mars/e0m2/d3wnd.wav": {
+  "mars_e0m2/sound/mars/e0m2/d3wnd_0.wav": {
    "bytes": 192630,
-   "sha256": "bf6d8fb4a264454af609591ad8c8bb513fe9463f399be2f325a0ef724d8d85dd",
-   "timestamp": "2022-08-09T13:45:38.597Z"
+   "sha256": "6c496d239c79ae1880656b62bd94bbeab91b625652519098b593d1d6362bff5d",
+   "timestamp": "2022-08-07T20:08:24.431Z"
   },
   "mars_e0m2/sound/mars/e0m2/dmn1.wav": {
    "bytes": 84646,
@@ -1115,15 +1232,20 @@
    "sha256": "df05aab7df6f10624b5cb855f9417d8f26a68e3eec4bd6f2bc7384c41d1135d2",
    "timestamp": "2025-10-10T13:24:19.458Z"
   },
-  "mars_e0m2/sound/mars/e0m2/enf2/death2.wav": {
-   "bytes": 31044,
-   "sha256": "9e9a24943d4880211e19565142c1f92667ca32fab741f422cc8a76fb2c6044f7",
-   "timestamp": "2022-08-03T23:08:13.271Z"
+  "mars_e0m2/sound/mars/e0m2/drowning.wav": {
+   "bytes": 357676,
+   "sha256": "dab789ce1ff40d90ab5218ae848039030ccde89b7eefc50ffec83e0fdabe8ce0",
+   "timestamp": "2025-08-28T15:56:00.661Z"
   },
   "mars_e0m2/sound/mars/e0m2/enf2/death.wav": {
    "bytes": 17206,
    "sha256": "84f3c6cef2855bd0a671a701484d3c2c20af736078e3a5a3439bed1e10ec711b",
    "timestamp": "2024-12-07T11:26:29.025Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/enf2/death2.wav": {
+   "bytes": 31044,
+   "sha256": "9e9a24943d4880211e19565142c1f92667ca32fab741f422cc8a76fb2c6044f7",
+   "timestamp": "2022-08-03T23:08:13.271Z"
   },
   "mars_e0m2/sound/mars/e0m2/enf2/idle1.wav": {
    "bytes": 25852,
@@ -1134,16 +1256,6 @@
    "bytes": 5578,
    "sha256": "7693f49b64eb11a33caea16a457d2bc923cc8057b0af2bf9d2448dc434d053de",
    "timestamp": "2022-08-03T23:08:53.703Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3wnd_0.wav": {
-   "bytes": 192630,
-   "sha256": "6c496d239c79ae1880656b62bd94bbeab91b625652519098b593d1d6362bff5d",
-   "timestamp": "2022-08-07T20:08:24.431Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal3.wav": {
-   "bytes": 377254,
-   "sha256": "98ba6ff723bd3d5342b3ad232bd8e0ab1031633a01305db157f056b857826621",
-   "timestamp": "2025-08-17T15:16:41.248Z"
   },
   "mars_e0m2/sound/mars/e0m2/enf2/pain2.wav": {
    "bytes": 5710,
@@ -1160,95 +1272,65 @@
    "sha256": "0b80dedf5fe37ba3b23b6da7d68b0a982a68dab4a3f3da72647acce06278a98c",
    "timestamp": "2022-08-03T23:10:10.314Z"
   },
-  "mars_e0m2/progs/teleport.mdl": {
-   "bytes": 1058800,
-   "sha256": "98eeb63a1ded2d7a1d3788562478aff891af1be4ef1c552bcdb913cb338387b6",
-   "timestamp": "2022-07-31T05:06:04.000Z"
-  },
   "mars_e0m2/sound/mars/e0m2/enf2/site3.wav": {
    "bytes": 17104,
    "sha256": "3e7986f109a0a1a6dfd9c639fd7e43ec62bd20b676d06ca4ef8438cde5a03472",
    "timestamp": "2022-08-03T23:10:26.812Z"
-  },
-  "mars_e0m2/progs/v_spike.mdl": {
-   "bytes": 1058816,
-   "sha256": "ac4d47130af263cb6fd861d70ac09ebf758ab1a76da0b697e268382c65ae1a16",
-   "timestamp": "2022-08-07T09:30:54.000Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal1.wav": {
-   "bytes": 493134,
-   "sha256": "827ff8768cda97409dc62cf581b2ba413e7ddb450ecc79ebc7448071eceae1ec",
-   "timestamp": "2025-08-17T15:02:34.460Z"
   },
   "mars_e0m2/sound/mars/e0m2/enf2/site4.wav": {
    "bytes": 21850,
    "sha256": "287fab7bd9396330c35021cacf92d678a1297acc522ee0f750ae4132d405edab",
    "timestamp": "2022-08-03T23:10:40.406Z"
   },
-  "mars_e0m2/sound/mars/e0m2/ha.wav": {
-   "bytes": 17446,
-   "sha256": "1d4fa6d7e13b04a5dad1ef911149be23586af5dd84d6654b6998e89a51775748",
-   "timestamp": "2025-08-20T13:40:51.573Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal10.wav": {
-   "bytes": 464344,
-   "sha256": "6400ac0ce0f03e207f7009704b78daa716d467aff235400487c5e17bfaf6c66e",
-   "timestamp": "2025-08-28T10:49:31.488Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/hlmetalbreak.wav": {
-   "bytes": 18224,
-   "sha256": "7aa6168458a5702b2967d6e8b3a0d4bd8b4dda3b0df9e9a51c05a033f63994d3",
-   "timestamp": "2025-09-28T16:59:04.013Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal6.wav": {
-   "bytes": 454652,
-   "sha256": "851482457199d4a3d4af16fc54f08b6798e319d77dc388d77ea83447eff24d06",
-   "timestamp": "2025-08-26T19:58:22.444Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal7.wav": {
-   "bytes": 449168,
-   "sha256": "d9b7e4c55048bc0e21df43ea2200b6c4819ed1e7f195d476395cb462ab21193a",
-   "timestamp": "2025-08-28T10:43:04.388Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal9.wav": {
-   "bytes": 402682,
-   "sha256": "f514cd69de70ea37c6d384541186540b4c5cd18dc469548d7a64f89219f79791",
-   "timestamp": "2025-08-28T10:47:33.394Z"
-  },
   "mars_e0m2/sound/mars/e0m2/ghost/ghost1.wav": {
    "bytes": 150508,
    "sha256": "0d12c4dc9969f5d323de7fdacdc9ea76adead9cac0c2989e0395ef7fa6232479",
    "timestamp": "2023-06-06T11:21:01.900Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/laugh/laugh1.wav": {
-   "bytes": 90114,
-   "sha256": "1e58c6d4ac07e9881ce1b638510b906af2ac81d1af1a52eac211c6fed4d38734",
-   "timestamp": "2025-08-25T20:38:00.749Z"
   },
   "mars_e0m2/sound/mars/e0m2/ghost/ghost2.wav": {
    "bytes": 175950,
    "sha256": "a2e1f2215c09c9a51809c675b39967a9b29b7d005810f3b99ce48fa2c94c7a4c",
    "timestamp": "2023-06-06T11:22:14.067Z"
   },
-  "mars_e0m2/sound/mars/e0m2/laugh/laugh2.wav": {
-   "bytes": 44608,
-   "sha256": "0635d6853dfe89beda6cc88f78bba39d07452387fc847eb96f9bb2c60a95202e",
-   "timestamp": "2025-08-25T20:38:37.903Z"
-  },
   "mars_e0m2/sound/mars/e0m2/ghost/ghost3.wav": {
    "bytes": 191596,
    "sha256": "f588d85def1fa1427f0f6f6f30801c0591abf2f54c134b9acc07bebebf708ecd",
    "timestamp": "2023-06-06T11:22:28.475Z"
   },
-  "mars_e0m2/sound/mars/e0m2/d3metal5.wav": {
-   "bytes": 486028,
-   "sha256": "d03b09d9d7005c27df7be7254473b5614bc16098338842416642229066c40c68",
-   "timestamp": "2025-08-26T19:58:06.849Z"
+  "mars_e0m2/sound/mars/e0m2/ha.wav": {
+   "bytes": 17446,
+   "sha256": "1d4fa6d7e13b04a5dad1ef911149be23586af5dd84d6654b6998e89a51775748",
+   "timestamp": "2025-08-20T13:40:51.573Z"
   },
-  "mars_e0m2/sound/mars/e0m2/d3metal11.wav": {
-   "bytes": 545248,
-   "sha256": "10a8058fba94bad220ce29c6f4a68628272609949a94c190351a95247efafdff",
-   "timestamp": "2025-08-28T14:49:35.176Z"
+  "mars_e0m2/sound/mars/e0m2/hlmet1.wav": {
+   "bytes": 376994,
+   "sha256": "796f87677ff21a6099cc37497f33ece645f3736b318c6a22eef6b8d7aa9ee4ce",
+   "timestamp": "2025-08-26T18:02:20.635Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/hlmet2.wav": {
+   "bytes": 334790,
+   "sha256": "e8a1b3526a5402dfdc38b55c9bb381c2926ba5e484d54649fad4f3327abdf68b",
+   "timestamp": "2025-08-26T18:02:33.792Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/hlmetalbreak.wav": {
+   "bytes": 18224,
+   "sha256": "7aa6168458a5702b2967d6e8b3a0d4bd8b4dda3b0df9e9a51c05a033f63994d3",
+   "timestamp": "2025-09-28T16:59:04.013Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/laugh/laugh1.wav": {
+   "bytes": 90114,
+   "sha256": "1e58c6d4ac07e9881ce1b638510b906af2ac81d1af1a52eac211c6fed4d38734",
+   "timestamp": "2025-08-25T20:38:00.749Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/laugh/laugh2.wav": {
+   "bytes": 44608,
+   "sha256": "0635d6853dfe89beda6cc88f78bba39d07452387fc847eb96f9bb2c60a95202e",
+   "timestamp": "2025-08-25T20:38:37.903Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/laugh/laugh3.wav": {
+   "bytes": 88002,
+   "sha256": "62ecd3c75fbe2e04e895e72372d2beb5d37d087f4318449afa7e80e9438024a3",
+   "timestamp": "2025-08-25T20:38:58.435Z"
   },
   "mars_e0m2/sound/mars/e0m2/laugh/laugh4.wav": {
    "bytes": 50820,
@@ -1260,20 +1342,10 @@
    "sha256": "959b123e85e6719bc99f2dfc752a7d5d2f05e9981ddb413c4659a15bed897cb4",
    "timestamp": "2024-12-09T14:18:59.240Z"
   },
-  "mars_e0m2/sound/mars/e0m2/d3metal4.wav": {
-   "bytes": 581058,
-   "sha256": "6fac17af033d52f4f5508112147d25afff6c9040b2fff7ea51170a2f05eddbcd",
-   "timestamp": "2025-08-17T15:17:04.247Z"
-  },
   "mars_e0m2/sound/mars/e0m2/mek1.wav": {
    "bytes": 6664,
    "sha256": "13b87006ef64540d33aa0b0531a49b5dd1bd6ed1235175f4cee112e68555ac47",
    "timestamp": "2024-12-09T15:22:15.728Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/laugh/laugh3.wav": {
-   "bytes": 88002,
-   "sha256": "62ecd3c75fbe2e04e895e72372d2beb5d37d087f4318449afa7e80e9438024a3",
-   "timestamp": "2025-08-25T20:38:58.435Z"
   },
   "mars_e0m2/sound/mars/e0m2/metal_break.wav": {
    "bytes": 14790,
@@ -1284,11 +1356,6 @@
    "bytes": 41906,
    "sha256": "7fef8443301c7a68c550dfd28659e1cbc109e5feb717a73f3c362df569596f2d",
    "timestamp": "2010-05-29T04:31:51.351Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/drowning.wav": {
-   "bytes": 357676,
-   "sha256": "dab789ce1ff40d90ab5218ae848039030ccde89b7eefc50ffec83e0fdabe8ce0",
-   "timestamp": "2025-08-28T15:56:00.661Z"
   },
   "mars_e0m2/sound/mars/e0m2/mkda_wind1.wav": {
    "bytes": 37522,
@@ -1305,20 +1372,20 @@
    "sha256": "aa2c53799a291bd6e9a1295e479efcfcb89dc79db10e65ad38b51f8cf46c8600",
    "timestamp": "2022-08-19T10:11:09.939Z"
   },
-  "mars_e0m2/sound/mars/e0m2/d3metal2.wav": {
-   "bytes": 620384,
-   "sha256": "fd59eec3d776d45c8025fc6391648d4ebbd10063141bffcaba52227443ae8b68",
-   "timestamp": "2025-08-17T15:16:25.832Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/d3metal8.wav": {
-   "bytes": 553230,
-   "sha256": "7192debb9c5b6dc4f149d9f346cb9fe29f10b1fcbc1371854e8e37d58f14e26a",
-   "timestamp": "2025-08-28T10:44:13.011Z"
-  },
   "mars_e0m2/sound/mars/e0m2/plats/stop1.wav": {
    "bytes": 20522,
    "sha256": "bfd53af03f23c907c5b8a7c05b62b80e495061fc1342344bfa0b46a09593db9d",
    "timestamp": "2022-08-19T10:09:47.829Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/purr.wav": {
+   "bytes": 396888,
+   "sha256": "89ff683de104cad9f5e3ce5e46c9364effc716070f9719553859ada0bc1328c2",
+   "timestamp": "2025-09-03T17:36:04.743Z"
+  },
+  "mars_e0m2/sound/mars/e0m2/q2lava.wav": {
+   "bytes": 177634,
+   "sha256": "374388327f0727a27b529542e0c2b027245b0f05138d507d30bab7d292cc0877",
+   "timestamp": "2022-12-23T13:39:20.450Z"
   },
   "mars_e0m2/sound/mars/e0m2/rubble.wav": {
    "bytes": 60838,
@@ -1350,20 +1417,15 @@
    "sha256": "48eeef29ec521788bab301a6ff59185e67413ecb66ea4bc97596d30d5861e13f",
    "timestamp": "2022-08-10T19:29:51.465Z"
   },
-  "mars_e0m2/sound/mars/e0m2/q2lava.wav": {
-   "bytes": 177634,
-   "sha256": "374388327f0727a27b529542e0c2b027245b0f05138d507d30bab7d292cc0877",
-   "timestamp": "2022-12-23T13:39:20.450Z"
+  "mars_e0m2/sound/mars/e0m2/wood01.wav": {
+   "bytes": 538346,
+   "sha256": "6eb972828279b29f4b686d05683199493440116096aa45fc54073e0341b8d6fb",
+   "timestamp": "2025-09-21T15:47:12.202Z"
   },
   "mars_e0m2/sound/mars/e0m2/zombie/stuck1.wav": {
    "bytes": 25440,
    "sha256": "e25016ae178e48f86ffa115947b4f002234acd48c44f56ab16e4367da7bd137f",
    "timestamp": "2023-01-21T09:39:36.708Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/hlmet1.wav": {
-   "bytes": 376994,
-   "sha256": "796f87677ff21a6099cc37497f33ece645f3736b318c6a22eef6b8d7aa9ee4ce",
-   "timestamp": "2025-08-26T18:02:20.635Z"
   },
   "mars_e0m2/sound/mars/e0m2/zombie/stuck2.wav": {
    "bytes": 22396,
@@ -1374,11 +1436,6 @@
    "bytes": 12282,
    "sha256": "95f57c8bec9d4a9ba6194c5001054c55027d09e912e9963edcd105ab5c04f900",
    "timestamp": "2024-06-20T15:08:52.346Z"
-  },
-  "mars_e0m2/sound/mars/e0m2/hlmet2.wav": {
-   "bytes": 334790,
-   "sha256": "e8a1b3526a5402dfdc38b55c9bb381c2926ba5e484d54649fad4f3327abdf68b",
-   "timestamp": "2025-08-26T18:02:33.792Z"
   },
   "mars_e0m2/sound/mars/e0m2/zombie/stuck4.wav": {
    "bytes": 51108,
@@ -1400,15 +1457,20 @@
    "sha256": "32ac5f6827dce5a4427fcb95a0eee4dd51fb3e1a434968e54f0d283c039d85ef",
    "timestamp": "2020-09-10T15:21:08.842Z"
   },
+  "mars_e0m2/sound/mars/grw2.wav": {
+   "bytes": 96872,
+   "sha256": "1e401ac470a33baafa03e2041be79ee8430780cb18a72d590eaa2a78de7398c7",
+   "timestamp": "2025-08-17T15:16:06.524Z"
+  },
   "mars_e0m2/sound/mars/rumble_loop.wav": {
    "bytes": 55254,
    "sha256": "76534a09559fcc52ee2db5d2a1c7f593097116010f53c1282cd3e987c952421e",
    "timestamp": "2020-10-06T14:28:53.699Z"
   },
-  "mars_e0m2/sound/mars/grw2.wav": {
-   "bytes": 96872,
-   "sha256": "1e401ac470a33baafa03e2041be79ee8430780cb18a72d590eaa2a78de7398c7",
-   "timestamp": "2025-08-17T15:16:06.524Z"
+  "mars_e0m2/sound/mars/ssg.wav": {
+   "bytes": 244834,
+   "sha256": "c939e39696cf38cdaeee5b9e75af8a6ad20511c2ead0d8021dd47603ef922ce1",
+   "timestamp": "2017-05-26T21:15:42.000Z"
   },
   "mars_e0m2/sound/misc/menu1.wav": {
    "bytes": 12276,
@@ -1465,15 +1527,10 @@
    "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
    "timestamp": "2020-01-02T11:39:36.000Z"
   },
-  "mars_e0m2/sound/mars/e0m2/purr.wav": {
-   "bytes": 396888,
-   "sha256": "89ff683de104cad9f5e3ce5e46c9364effc716070f9719553859ada0bc1328c2",
-   "timestamp": "2025-09-03T17:36:04.743Z"
-  },
-  "mars_e0m2/sound/mars/ssg.wav": {
-   "bytes": 244834,
-   "sha256": "c939e39696cf38cdaeee5b9e75af8a6ad20511c2ead0d8021dd47603ef922ce1",
-   "timestamp": "2017-05-26T21:15:42.000Z"
+  "mars_e0m2/sound/pk/ghosts1.wav": {
+   "bytes": 133158,
+   "sha256": "e074681fa042f57166102131485052caf20de99713caff421b7347738be2b989",
+   "timestamp": "2024-02-12T17:39:36.554Z"
   },
   "mars_e0m2/sound/pk/spell1.wav": {
    "bytes": 55780,
@@ -1490,16 +1547,6 @@
    "sha256": "ec6cb188621c5f06e9c8df48eaf958580dd391a8b54351b2392d0838f90a10c9",
    "timestamp": "2022-07-15T19:20:48.233Z"
   },
-  "mars_e0m2/sound/pk/ghosts1.wav": {
-   "bytes": 133158,
-   "sha256": "e074681fa042f57166102131485052caf20de99713caff421b7347738be2b989",
-   "timestamp": "2024-02-12T17:39:36.554Z"
-  },
-  "mars_e0m2/sprites/pd_s_flame.spr": {
-   "bytes": 29224,
-   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
-   "timestamp": "2018-10-01T19:43:54.000Z"
-  },
   "mars_e0m2/sprites/mars_hl_aexplo.spr": {
    "bytes": 102936,
    "sha256": "e4e9eb75b9e255c2f7d7156033459eeb535b2a9f54a915d526bbbb4f86658c2c",
@@ -1510,60 +1557,10 @@
    "sha256": "1413af3ca442abe527397ca9b7aa6467a724b54afbed48d8a0b72015393f76d3",
    "timestamp": "2024-08-04T22:00:52.191Z"
   },
-  "mars_e0m2/sound/mars/e0m2/wood01.wav": {
-   "bytes": 538346,
-   "sha256": "6eb972828279b29f4b686d05683199493440116096aa45fc54073e0341b8d6fb",
-   "timestamp": "2025-09-21T15:47:12.202Z"
-  },
-  "mars_e0m2/quick.sav": {
-   "bytes": 3624110,
-   "sha256": "09001f1952c07a279d9e505968b7f0e63e7f652d75ae9b393229f7688de5b217",
-   "timestamp": "2025-10-14T16:29:44.144Z"
-  },
-  "mars_e0m2/music/track03.mp3": {
-   "bytes": 4862041,
-   "sha256": "74411caa3d0116eb3c2f878fdcaf305848328eef8c2610fad4d6fc667875d688",
-   "timestamp": "2022-12-08T12:39:02.518Z"
-  },
-  "mars_e0m2/music/track44.mp3": {
-   "bytes": 7647555,
-   "sha256": "faf2043f211dac809e27e0fe41e3ed1ea633f2fb22a4e8723328f2cffe869169",
-   "timestamp": "2022-12-08T12:38:49.462Z"
-  },
-  "mars_e0m2/music/track46.mp3": {
-   "bytes": 8518101,
-   "sha256": "fccc234656c1b051e10312cd857b29141e97939e5529986ac16dbc4a2f5ee29e",
-   "timestamp": "2022-12-08T12:38:33.651Z"
-  },
-  "mars_e0m2/music/track42.mp3": {
-   "bytes": 15356972,
-   "sha256": "7f39d4a1dc382a05f1ccffec6796e85ec619ad37f835f5b24be5b7b6c83c700f",
-   "timestamp": "2022-12-08T12:38:55.776Z"
-  },
-  "mars_e0m2/music/track45.mp3": {
-   "bytes": 17402481,
-   "sha256": "5985e93cfc615e80f4e329dca9b054e0a98be55f04659bd7c0b83e90bbc1f2d5",
-   "timestamp": "2022-12-08T12:38:43.057Z"
-  },
-  "mars_e0m2/maps/mars_e0m2.lit": {
-   "bytes": 20012144,
-   "sha256": "2e9df284f2f54cf802d55f5c82a4e9a1ee3f4b46cd498cd88f1b292324821cde",
-   "timestamp": "2025-10-15T13:26:46.539Z"
-  },
-  "mars_e0m2/music/track43.mp3": {
-   "bytes": 24602491,
-   "sha256": "9501730ac65a7960ba473f6da81d18489dc4b2bed458bf93786c15070d7fbb1a",
-   "timestamp": "2022-12-08T14:35:20.059Z"
-  },
-  "mars_e0m2/music/track47.mp3": {
-   "bytes": 26016091,
-   "sha256": "814f71ec930a097fe506b5e04e028ba9a727471624306d098d445888c7ebb83d",
-   "timestamp": "2024-12-19T21:17:01.678Z"
-  },
-  "mars_e0m2/maps/mars_e0m2.bsp": {
-   "bytes": 103823664,
-   "sha256": "83a6bbc838a2cfe61f95672e2f5daf9343a666fc14ac5f454fbc93aee580457b",
-   "timestamp": "2025-10-15T13:26:46.840Z"
+  "mars_e0m2/sprites/pd_s_flame.spr": {
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "timestamp": "2018-10-01T19:43:54.000Z"
   }
  },
  "install": {},
@@ -1571,7 +1568,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2025-10-15",
  "sha256": "9b108eb3fb846d53e271db21a1fb58841b66f0e32fe996c71fd097fb61757980",
  "tags": [
   "author=Mars",
@@ -1587,7 +1583,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Corrosive Eternity",
  "urls": [
   "https://www.quaketastic.com/files/single_player/maps/mars_e0m2.zip",
   "https://www.quaddicted.com/files/by-sha256/9b/9b108eb3fb846d53e271db21a1fb58841b66f0e32fe996c71fd097fb61757980/mars_e0m2.zip"

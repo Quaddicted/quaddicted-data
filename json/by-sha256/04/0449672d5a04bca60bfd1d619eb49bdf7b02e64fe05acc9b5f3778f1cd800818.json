@@ -1,12 +1,4 @@
 {
- "authors": [
-  "HeadThump",
-  "Lunaran",
-  "Omus",
-  "Spirit",
-  "adamllis",
-  "sielwolf"
- ],
  "bytes": 1795019,
  "description": "Teleporter madness / 6 SP maps / adamllis, HeadThump, Lunaran, Omus, Spirit, sielwolf",
  "files": {
@@ -60,7 +52,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-09-08",
  "sha256": "0449672d5a04bca60bfd1d619eb49bdf7b02e64fe05acc9b5f3778f1cd800818",
  "tags": [
   "author=HeadThump",
@@ -84,7 +75,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo2008 #4 - Teleporter madness",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08d_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/04/0449672d5a04bca60bfd1d619eb49bdf7b02e64fe05acc9b5f3778f1cd800818/smqe08d_pack.zip"

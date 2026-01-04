@@ -1,7 +1,4 @@
 {
- "authors": [
-  "SnAzBaZ"
- ],
  "bytes": 326473,
  "description": "Very small metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-24",
  "sha256": "4757d7cf01a5512c25658952eccc73baea49085193d3884ad964ea60f7be7b23",
  "tags": [
   "author=SnAzBaZ",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Emolt Quanta",
  "urls": [
   "https://www.quaddicted.com/filebase/emolt.zip",
   "https://www.quaddicted.com/files/by-sha256/47/4757d7cf01a5512c25658952eccc73baea49085193d3884ad964ea60f7be7b23/emolt.zip"

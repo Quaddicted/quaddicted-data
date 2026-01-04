@@ -1,7 +1,4 @@
 {
- "authors": [
-  "than"
- ],
  "bytes": 3233156,
  "description": "A remake/remix of DM6 'The Dark Zone': Quake's stock deathmatch level turned into a large, industrial base-style singleplayer map. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2018-10-08",
  "sha256": "a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260",
  "tags": [
   "author=than",
@@ -55,7 +51,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Dark Portal",
  "urls": [
   "https://www.quaddicted.com/filebase/dm6rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/a7/a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260/dm6rmx.zip"

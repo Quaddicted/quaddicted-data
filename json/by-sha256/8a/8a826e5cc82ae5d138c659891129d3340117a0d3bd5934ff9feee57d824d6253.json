@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders Gustafsson"
- ],
  "bytes": 433605,
  "description": "Small plain Medieval/brick map. A deathmatch level with monsters.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map does not have an exit."
  ],
- "release_date": "1996-11-22",
  "sha256": "8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253",
  "tags": [
   "author=Anders Gustafsson",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Church",
  "urls": [
   "https://www.quaddicted.com/filebase/church.zip",
   "https://www.quaddicted.com/files/by-sha256/8a/8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253/church.zip"

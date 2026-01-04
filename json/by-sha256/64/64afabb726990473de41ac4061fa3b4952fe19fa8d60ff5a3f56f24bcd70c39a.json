@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mr Ed"
- ],
  "bytes": 716346,
  "description": "Medium sized temple with Maya and Hexen2 textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-01-03",
  "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "tags": [
   "author=Mr Ed",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Temple",
  "urls": [
   "https://www.quaddicted.com/filebase/temple_e1.zip",
   "https://www.quaddicted.com/files/by-sha256/64/64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a/temple_e1.zip"

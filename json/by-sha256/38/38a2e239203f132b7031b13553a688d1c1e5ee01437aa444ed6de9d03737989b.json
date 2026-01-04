@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Michele (miccar) Cardinale",
-  "Simone (Simon2) Filosto"
- ],
  "bytes": 2098716,
  "description": "An Egyptian temple on an unknown island. Start map, medium temple map and small boss level, many cramped caverns and a dragon battle at the end.",
  "files": {
@@ -127,7 +123,6 @@
   "extract": "{base}/lisland/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-29",
  "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "tags": [
   "author=Michele (miccar) Cardinale",
@@ -150,7 +145,6 @@
   "type=mod",
   "zipbasedir=lisland/"
  ],
- "title": "Lost Island: The Island of the death",
  "urls": [
   "https://www.quaddicted.com/filebase/lisland.zip",
   "https://www.quaddicted.com/files/by-sha256/38/38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b/lisland.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Euclidius"
- ],
  "bytes": 190519173,
  "description": "Two-episode campaign containing 20+ maps in various 1997-era styles, with large rooms, abstract designs and some tough combat.",
  "files": {
@@ -2313,7 +2310,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-06-17",
  "sha256": "466f2e6a033b85a5d1c88769a71b97c1cbf60ce097783882f52d99db3cc007b3",
  "tags": [
   "author=Euclidius",
@@ -2329,7 +2325,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Euclid's Nightmare",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/46/466f2e6a033b85a5d1c88769a71b97c1cbf60ce097783882f52d99db3cc007b3/euclidius_v1.5.zip",
   "https://x901.net/quaddictedfiles/euclidius_v1.5.zip"

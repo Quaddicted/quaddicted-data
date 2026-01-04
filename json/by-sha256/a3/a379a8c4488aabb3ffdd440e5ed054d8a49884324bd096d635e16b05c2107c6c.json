@@ -1,7 +1,4 @@
 {
- "authors": [
-  "distrans"
- ],
  "bytes": 471941,
  "description": "Late entry for <a href=\"44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b\">SM161</a>.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-10-02",
  "sha256": "a379a8c4488aabb3ffdd440e5ed054d8a49884324bd096d635e16b05c2107c6c",
  "tags": [
   "author=distrans",
@@ -39,7 +35,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 161 - 50 brushes",
  "urls": [
   "https://www.quaddicted.com/filebase/sm161_distrans.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a379a8c4488aabb3ffdd440e5ed054d8a49884324bd096d635e16b05c2107c6c/sm161_distrans.zip"

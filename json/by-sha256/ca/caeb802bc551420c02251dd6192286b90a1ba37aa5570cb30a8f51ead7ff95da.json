@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Matthias Worch"
- ],
  "bytes": 2164318,
- "depends": [
-  "0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721"
- ],
  "description": "Medium-sized medieval stronghold surrounded by rocks and lava. A classic-style level in the spirit of <a href=\"0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721\">Beyond Belief</a>. The map source is included.",
  "files": {
   "bbelief2008.bsp": {
@@ -28,7 +22,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-08-04",
  "sha256": "caeb802bc551420c02251dd6192286b90a1ba37aa5570cb30a8f51ead7ff95da",
  "tags": [
   "author=Matthias Worch",
@@ -55,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "A Past and Future Secret",
  "urls": [
   "https://www.quaddicted.com/filebase/bbelief2008.zip",
   "https://www.quaddicted.com/files/by-sha256/ca/caeb802bc551420c02251dd6192286b90a1ba37aa5570cb30a8f51ead7ff95da/bbelief2008.zip"

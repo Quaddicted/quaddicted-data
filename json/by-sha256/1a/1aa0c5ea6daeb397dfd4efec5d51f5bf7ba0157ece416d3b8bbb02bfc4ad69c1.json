@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ace"
- ],
  "bytes": 927718,
  "description": "Two small maps: An orange base and a Wizard castle with a few tricks to kill monsters more easily.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-24",
  "sha256": "1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1",
  "tags": [
   "author=Ace",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Missle Bunker Bravo 7 & The Bastardry",
  "urls": [
   "https://www.quaddicted.com/filebase/bastardry.zip",
   "https://www.quaddicted.com/files/by-sha256/1a/1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1/bastardry.zip"

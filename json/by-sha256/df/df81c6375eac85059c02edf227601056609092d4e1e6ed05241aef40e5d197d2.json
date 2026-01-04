@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Nolcoz"
- ],
  "bytes": 5286630,
  "description": "Small non-playable machinima-type of map, made as a show-case for the cutscene features in the Progs_dump mod (included). It comes with a few new models, sounds, sprites and a music track. The map source is included.",
  "files": {
@@ -325,7 +322,6 @@
   "extract": "{base}/ca_show/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-01-31",
  "sha256": "df81c6375eac85059c02edf227601056609092d4e1e6ed05241aef40e5d197d2",
  "tags": [
   "author=Nolcoz",
@@ -349,7 +345,6 @@
   "type=mod",
   "zipbasedir=ca_show/"
  ],
- "title": "Cutscene Test Map",
  "urls": [
   "https://www.quaddicted.com/filebase/ca_show.zip",
   "https://www.quaddicted.com/files/by-sha256/df/df81c6375eac85059c02edf227601056609092d4e1e6ed05241aef40e5d197d2/ca_show.zip"

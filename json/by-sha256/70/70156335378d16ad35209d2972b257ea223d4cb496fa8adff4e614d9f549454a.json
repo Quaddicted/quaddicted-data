@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Woodham"
- ],
  "bytes": 1550063,
  "description": "Medium sized Metal map with some base monsters and a Base generator room.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-11-22",
  "sha256": "70156335378d16ad35209d2972b257ea223d4cb496fa8adff4e614d9f549454a",
  "tags": [
   "author=Mike Woodham",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "For My Babies 6",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb6.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70156335378d16ad35209d2972b257ea223d4cb496fa8adff4e614d9f549454a/fmb6.zip"

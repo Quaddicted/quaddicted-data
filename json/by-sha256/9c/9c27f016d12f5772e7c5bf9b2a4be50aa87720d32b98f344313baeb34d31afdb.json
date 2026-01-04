@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Scott McNutt"
- ],
  "bytes": 5536003,
  "description": "7-map pack including new versions of some maps previously released by the author. Contains various new weapons, monsters and mods such as a Chase Cam, flashlight/flares and environmental effects.",
  "files": {
@@ -567,7 +564,6 @@
   "extract": "{base}/smlevel/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-09",
  "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "tags": [
   "author=Scott McNutt",
@@ -587,7 +583,6 @@
   "type=mod",
   "zipbasedir=smlevel/"
  ],
- "title": "SM Levels Pack for QUAKE",
  "urls": [
   "https://www.quaddicted.com/filebase/smlevel.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb/smlevel.zip"

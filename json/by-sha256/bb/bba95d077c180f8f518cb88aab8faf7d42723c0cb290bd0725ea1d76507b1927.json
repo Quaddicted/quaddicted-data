@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi",
-  "Spirit",
-  "efdat",
-  "negke"
- ],
  "bytes": 1773463,
  "description": "1024\u00b3 / 6 SP maps / efdat, Hrimfaxi, neg!ke, Spirit",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-10-02",
  "sha256": "bba95d077c180f8f518cb88aab8faf7d42723c0cb290bd0725ea1d76507b1927",
  "tags": [
   "author=Hrimfaxi",
@@ -63,7 +56,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 127 - 1024^3",
  "urls": [
   "https://www.quaddicted.com/filebase/sm127_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/bb/bba95d077c180f8f518cb88aab8faf7d42723c0cb290bd0725ea1d76507b1927/sm127_pack.zip"

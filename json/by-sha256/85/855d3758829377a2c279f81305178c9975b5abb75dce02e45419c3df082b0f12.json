@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Darren Stabler"
- ],
  "bytes": 641050,
  "description": "Plain medium-sized castle with an underground cave.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-02",
  "sha256": "855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12",
  "tags": [
   "author=Darren Stabler",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Palace of Shadows",
  "urls": [
   "https://www.quaddicted.com/filebase/ps.zip",
   "https://www.quaddicted.com/files/by-sha256/85/855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12/ps.zip"

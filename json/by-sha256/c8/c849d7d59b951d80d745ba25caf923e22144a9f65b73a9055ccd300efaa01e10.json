@@ -1,40 +1,4 @@
 {
- "authors": [
-  "Annihilator",
-  "Bonn",
-  "Chocohearts",
-  "Chris Holden",
-  "Colossus",
-  "EduardoDeadPixel",
-  "Ekhudson",
-  "Fifthskip",
-  "Grash",
-  "Greenwood",
-  "HrnekBezucha",
-  "Iyago",
-  "Magnetbox",
-  "Mazu",
-  "Mr M",
-  "Mrtaufner",
-  "Naitelveni",
-  "Newhouse",
-  "Pinchy",
-  "Porglezomp",
-  "Qalten",
-  "Rabbit",
-  "Radiatoryang",
-  "Riktoi",
-  "SewerHrehorowicz",
-  "Stixc",
-  "Strideh",
-  "Tei",
-  "Wiedo",
-  "bmFbr",
-  "dougm nyc [Grue]",
-  "stickflip",
-  "unijorse",
-  "zbidou72"
- ],
  "bytes": 513781916,
  "description": "35 \"concrete murderzones\" inspired by modernist architecture, all made over 2.5 weeks by a variety of first-time mappers and veterans. Most maps make heavy use of Makkon textures. Built on Copper 1.19 (already included). Map source files are included for some of the levels. Custom start map with built-in difficulty select is included.",
  "files": {
@@ -2554,7 +2518,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits. Tested on IronWail, Quakespasm, and vkQuake. But there have been issues reported with Quakespasm Spiked."
  ],
- "release_date": "2022-09-28",
  "sha256": "c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10",
  "tags": [
   "author=Annihilator",
@@ -2603,7 +2566,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Quake Brutalist Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/c8/c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10/qbj_1.05.zip",
   "https://x901.net/quaddictedfiles/qbj_1.05.zip"

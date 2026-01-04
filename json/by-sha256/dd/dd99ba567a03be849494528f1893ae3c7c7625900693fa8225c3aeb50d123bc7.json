@@ -1,7 +1,4 @@
 {
- "authors": [
-  "N.I.B."
- ],
  "bytes": 546992,
  "description": "Medium sized, fairly plain Wizard 'tomb' with a few water areas.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-30",
  "sha256": "dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7",
  "tags": [
   "author=N.I.B.",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Tomb",
  "urls": [
   "https://www.quaddicted.com/filebase/thetomb.zip",
   "https://www.quaddicted.com/files/by-sha256/dd/dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7/thetomb.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "PuLSaR"
- ],
  "bytes": 3543139,
  "description": "Medium-sized Elder World-style map that features at least one room from each level in the fourth episode of Quake (except for E4M1). An expanded version of the author's <a href=\"da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255\">Retro Jam 4</a> entry.",
  "files": {
@@ -29,7 +26,6 @@
   "This map requires an engine port with increased limits.",
   " This is the version with minor cosmetic fixes. Original file a27e2f42a2a42eb50eb99e6255db9494 is in the trash/ directory."
  ],
- "release_date": "2016-02-14",
  "sha256": "5feae41358ed3b42e8b5c17e0c9c1e479dc3f7c67cc2fe644b98a8fe34b52d27",
  "tags": [
   "author=PuLSaR",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Elder Reality",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam4dlc_pulsar.zip",
   "https://www.quaddicted.com/files/by-sha256/5f/5feae41358ed3b42e8b5c17e0c9c1e479dc3f7c67cc2fe644b98a8fe34b52d27/retrojam4dlc_pulsar.zip"

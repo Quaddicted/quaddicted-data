@@ -1,7 +1,4 @@
 {
- "authors": [
-  "HeadThump"
- ],
  "bytes": 1266466,
  "description": "Fairly large wizard level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-26",
  "sha256": "47f58747c89e335ce2e13acd417e038b27bea5b9b50dc3af192b1e89ae8aa6c3",
  "tags": [
   "author=HeadThump",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ariadat",
  "urls": [
   "https://www.quaddicted.com/filebase/ariadat.zip",
   "https://www.quaddicted.com/files/by-sha256/47/47f58747c89e335ce2e13acd417e038b27bea5b9b50dc3af192b1e89ae8aa6c3/ariadat.zip"

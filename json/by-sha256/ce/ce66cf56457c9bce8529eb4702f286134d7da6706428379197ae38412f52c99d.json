@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Moz",
-  "Speedy",
-  "Tron",
-  "voodoochopstiks"
- ],
  "bytes": 1606729,
  "description": "Four impromptu Speedmaps put together using the common theme of a texture wad thrown together by Speedy.",
  "files": {
@@ -48,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-06-07",
  "sha256": "ce66cf56457c9bce8529eb4702f286134d7da6706428379197ae38412f52c99d",
  "tags": [
   "author=Moz",
@@ -68,7 +61,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Impromptu Speedmaps",
  "urls": [
   "https://www.quaddicted.com/filebase/blah1.zip",
   "https://www.quaddicted.com/files/by-sha256/ce/ce66cf56457c9bce8529eb4702f286134d7da6706428379197ae38412f52c99d/blah1.zip"

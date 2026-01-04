@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bonn"
- ],
  "bytes": 6984482,
  "description": "Large metal/runic industrial slime temple. The map source is included.",
  "files": {
@@ -38,7 +35,6 @@
  "notes": [
   "An updated (fullvis) version is available <a href=\"https://www.quaddicted.com/filebase/putrid_fullvis.zip\">here</a>."
  ],
- "release_date": "2021-08-02",
  "sha256": "86af313d274300aa35d967e85dba5f4c9a908bf5c72dc99680ab62f6fcd96c93",
  "tags": [
   "author=Bonn",
@@ -61,7 +57,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Putrid Pumps",
  "urls": [
   "https://www.quaddicted.com/filebase/putrid.zip",
   "https://www.quaddicted.com/files/by-sha256/86/86af313d274300aa35d967e85dba5f4c9a908bf5c72dc99680ab62f6fcd96c93/putrid.zip"

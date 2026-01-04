@@ -1,7 +1,4 @@
 {
- "authors": [
-  "remi"
- ],
  "bytes": 6632990,
  "description": "Around medium-sized brick/sewer level in <a href=\"323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9\">Honey</a>-style. Comes with a custom skybox.",
  "files": {
@@ -66,7 +63,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-11-15",
  "sha256": "27e3bd6f30cf5d21165f9fdf1f5810afb45ab781ace5dff8ab454229e22311fc",
  "tags": [
   "author=remi",
@@ -86,7 +82,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Primo",
  "urls": [
   "https://www.quaddicted.com/filebase/primo_1.1.0.zip",
   "https://www.quaddicted.com/files/by-sha256/27/27e3bd6f30cf5d21165f9fdf1f5810afb45ab781ace5dff8ab454229e22311fc/primo_1.1.0.zip"

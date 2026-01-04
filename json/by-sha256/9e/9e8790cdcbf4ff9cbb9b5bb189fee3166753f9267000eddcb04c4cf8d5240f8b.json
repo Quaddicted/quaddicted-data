@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tyler McNamee"
- ],
  "bytes": 356406,
  "description": "Small map with a bridge over lava.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-12",
  "sha256": "9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b",
  "tags": [
   "author=Tyler McNamee",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tyger's Lair",
  "urls": [
   "https://www.quaddicted.com/filebase/rjty.zip",
   "https://www.quaddicted.com/files/by-sha256/9e/9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b/rjty.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ruin"
- ],
  "bytes": 6202841,
  "description": "Remake of Blood's e1m1. Requires Darkplaces or another engine with support for transparent textures.",
  "files": {
@@ -85,7 +82,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-08-30",
  "sha256": "7bbf4ec8c6c2599bfbc22e8b88636781bb3e8c095ff23b8e5e509d88558c2a25",
  "tags": [
   "author=Ruin",
@@ -101,7 +97,6 @@
   "title=Cradle to the Grave",
   "type=mod"
  ],
- "title": "Cradle to the Grave",
  "urls": [
   "https://www.quaddicted.com/filebase/cradle.zip",
   "https://www.quaddicted.com/files/by-sha256/7b/7bbf4ec8c6c2599bfbc22e8b88636781bb3e8c095ff23b8e5e509d88558c2a25/cradle.zip"

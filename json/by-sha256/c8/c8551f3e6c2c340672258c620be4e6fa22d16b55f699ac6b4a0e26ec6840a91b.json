@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shelvid_"
- ],
  "bytes": 739672,
  "description": "Small to medium-sized military base with nightly outside areas. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-10-26",
  "sha256": "c8551f3e6c2c340672258c620be4e6fa22d16b55f699ac6b4a0e26ec6840a91b",
  "tags": [
   "author=Shelvid_",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Equivocal Facility",
  "urls": [
   "https://www.quaddicted.com/filebase/shelsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/c8/c8551f3e6c2c340672258c620be4e6fa22d16b55f699ac6b4a0e26ec6840a91b/shelsp1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dragons For Lunch"
- ],
  "bytes": 493829,
  "description": "Small medieval-style level. The map source is included.",
  "files": {
@@ -42,7 +39,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2020-10-30",
  "sha256": "45dd0372c8cd8e15ccb9384bb4c3624b3639a8b957f591f8b4d8ebd9664b14a0",
  "tags": [
   "author=Dragons For Lunch",
@@ -60,7 +56,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Flooded Ruins",
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_flood.zip",
   "https://www.quaddicted.com/files/by-sha256/45/45dd0372c8cd8e15ccb9384bb4c3624b3639a8b957f591f8b4d8ebd9664b14a0/dfl_flood.zip"

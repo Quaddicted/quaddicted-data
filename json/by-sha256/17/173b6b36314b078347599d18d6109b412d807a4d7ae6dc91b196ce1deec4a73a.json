@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tony Boyer"
- ],
  "bytes": 374859,
  "description": "Very small, plain Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-24",
  "sha256": "173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a",
  "tags": [
   "author=Tony Boyer",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Blister",
  "urls": [
   "https://www.quaddicted.com/filebase/blister.zip",
   "https://www.quaddicted.com/files/by-sha256/17/173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a/blister.zip"

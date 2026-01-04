@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dennis Katsonis"
- ],
  "bytes": 789919,
  "description": "Large base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-07",
  "sha256": "85aaf9e10cf9760c7c00fbd67965c90dfe8118a320bf907af5137cc0a08ef966",
  "tags": [
   "author=Dennis Katsonis",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Borax Factor",
  "urls": [
   "https://www.quaddicted.com/filebase/borax.zip",
   "https://www.quaddicted.com/files/by-sha256/85/85aaf9e10cf9760c7c00fbd67965c90dfe8118a320bf907af5137cc0a08ef966/borax.zip"

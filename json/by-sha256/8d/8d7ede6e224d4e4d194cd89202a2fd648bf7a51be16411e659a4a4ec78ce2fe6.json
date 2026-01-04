@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lethargy Software"
- ],
  "bytes": 9019819,
  "description": "Single player campaign with two episodes, each consisting of five small to medium sized maps in varying themes.",
  "files": {
@@ -122,7 +119,6 @@
  "notes": [
   "This map pack requires Scourge of Armagon."
  ],
- "release_date": "1998-07-14",
  "sha256": "8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6",
  "tags": [
   "author=Lethargy Software",
@@ -150,7 +146,6 @@
   "type=mod",
   "zipbasedir=dd/"
  ],
- "title": "Death's Dominion",
  "urls": [
   "https://www.quaddicted.com/filebase/dd.zip",
   "https://www.quaddicted.com/files/by-sha256/8d/8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6/dd.zip"

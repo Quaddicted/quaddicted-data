@@ -1,11 +1,5 @@
 {
- "authors": [
-  "ijed"
- ],
  "bytes": 793740,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "A dark turtlemap remake of e4m4.",
  "files": {
   "tpof.bsp": {
@@ -26,7 +20,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> to be installed."
  ],
- "release_date": "2007-03-10",
  "sha256": "96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0",
  "tags": [
   "author=ijed",
@@ -51,7 +44,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "The Palace of Fear",
  "urls": [
   "https://www.quaddicted.com/filebase/tpof.zip",
   "https://www.quaddicted.com/files/by-sha256/96/96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0/tpof.zip"

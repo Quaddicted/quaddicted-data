@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Void (tim)"
- ],
  "bytes": 241550,
  "description": "Very small brick/base prison map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-01-01",
  "sha256": "65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d",
  "tags": [
   "author=The Void (tim)",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cell Escape",
  "urls": [
   "https://www.quaddicted.com/filebase/celscape.zip",
   "https://www.quaddicted.com/files/by-sha256/65/65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d/celscape.zip"

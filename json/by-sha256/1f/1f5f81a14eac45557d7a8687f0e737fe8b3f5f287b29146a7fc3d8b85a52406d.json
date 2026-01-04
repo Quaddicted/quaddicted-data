@@ -1,10 +1,4 @@
 {
- "authors": [
-  "PM",
-  "Tronyn",
-  "Tyrann",
-  "necros"
- ],
  "bytes": 38296644,
  "description": "Three-map singleplayer campaign of epic proportions: A huge arcane demon fortress built into a mountain, complete with a canyon start map and a bloody boss arena. The levels are based on the Drake mod (included) which features a plethora of new monsters and items. Many secrets and hard gameplay.",
  "files": {
@@ -3560,7 +3554,6 @@
  "notes": [
   "These maps require a source port with BSP2 support as well as increased limits."
  ],
- "release_date": "2012-12-19",
  "sha256": "1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d",
  "tags": [
   "author=PM",
@@ -3603,7 +3596,6 @@
   "type=mod",
   "zipbasedir=wicked/"
  ],
- "title": "Something Wicked This Way Comes",
  "urls": [
   "https://www.quaddicted.com/filebase/something_wicked.zip",
   "https://www.quaddicted.com/files/by-sha256/1f/1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d/something_wicked.zip"

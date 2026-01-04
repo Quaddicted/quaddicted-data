@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Iikka \"Fingers\" Ker\u00e4nen"
- ],
  "bytes": 534236,
- "depends": [
-  "f60aa159e22e7c0e5a1df78a73185610c84b01b9e1a91c5a90c7955e3b622466"
- ],
  "description": "Fourth map of the IKSPQ series: a medium sized blue temple with an outside bit.",
  "files": {
   "IKSPQ4.BSP": {
@@ -23,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-24",
  "sha256": "b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
@@ -51,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Homecoming",
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq4.zip",
   "https://www.quaddicted.com/files/by-sha256/b0/b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6/ikspq4.zip"

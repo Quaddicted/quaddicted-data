@@ -1,19 +1,4 @@
 {
- "authors": [
-  "DaMaul",
-  "Edgecrusher",
-  "Fat Controller",
-  "Fern",
-  "Gilt",
-  "Grahf",
-  "Iikka \"Fingers\" Ker\u00e4nen",
-  "JAJ",
-  "Killazontherun",
-  "Palldjon",
-  "Scragbait",
-  "XeNoN",
-  "Zibbie"
- ],
  "bytes": 4160776,
  "description": "Pack of 14 small maps in various styles, each consisting of 100 brushes or less. Also features a start hub map.",
  "files": {
@@ -277,7 +262,6 @@
   "extract": "{base}/100brush/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-01-16",
  "sha256": "b2f2f6fe56c8afbc76535392ae5df791bdff2965cdf84b8a73c36adb8fcf5578",
  "tags": [
   "author=DaMaul",
@@ -322,7 +306,6 @@
   "type=mod",
   "zipbasedir=100brush/"
  ],
- "title": "100 Brush Competition #1",
  "urls": [
   "https://www.quaddicted.com/filebase/100brush.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2f2f6fe56c8afbc76535392ae5df791bdff2965cdf84b8a73c36adb8fcf5578/100brush.zip"

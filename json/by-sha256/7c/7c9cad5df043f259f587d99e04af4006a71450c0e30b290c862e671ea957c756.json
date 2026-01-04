@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kevin Rogers"
- ],
  "bytes": 1211578,
  "description": "Large maze-like base map.",
  "files": {
@@ -46,7 +43,6 @@
   "extract": "{base}/level5/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-05-19",
  "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
  "tags": [
   "author=Kevin Rogers",
@@ -60,7 +56,6 @@
   "type=mod",
   "zipbasedir=level5/"
  ],
- "title": "The 5th Level",
  "urls": [
   "https://www.quaddicted.com/filebase/level5.zip",
   "https://www.quaddicted.com/files/by-sha256/7c/7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756/level5.zip"

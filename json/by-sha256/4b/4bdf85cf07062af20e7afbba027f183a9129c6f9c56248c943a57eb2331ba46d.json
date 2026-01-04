@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Asl"
- ],
  "bytes": 7144283,
  "description": "Large lava castle / tomb map for vanilla Quake. Difficulty settings are not implemented and all skill levels will play the same.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "Likely requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-05-31",
  "sha256": "4bdf85cf07062af20e7afbba027f183a9129c6f9c56248c943a57eb2331ba46d",
  "tags": [
   "author=Asl",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Io. Brimstoneburg.",
  "urls": [
   "https://www.quaddicted.com/filebase/asl_2.zip",
   "https://www.quaddicted.com/files/by-sha256/4b/4bdf85cf07062af20e7afbba027f183a9129c6f9c56248c943a57eb2331ba46d/asl_2.zip"

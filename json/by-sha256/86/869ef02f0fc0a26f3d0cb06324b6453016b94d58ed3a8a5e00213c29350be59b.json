@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brian Morgan (Duley)"
- ],
  "bytes": 907878,
  "description": "Medium sized clean Base map hosting a genetic experiments facility.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-20",
  "sha256": "869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b",
  "tags": [
   "author=Brian Morgan (Duley)",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Harm's Way",
  "urls": [
   "https://www.quaddicted.com/filebase/harmsway.zip",
   "https://www.quaddicted.com/files/by-sha256/86/869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b/harmsway.zip"

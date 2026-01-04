@@ -1,15 +1,4 @@
 {
- "authors": [
-  "4LT",
-  "CommonCold",
-  "Lobotomy Lobster",
-  "Milestone",
-  "Mizuki",
-  "ZetaByt",
-  "iYago",
-  "mrtaufner",
-  "zigi"
- ],
  "bytes": 43548968,
  "description": "Short map-jam (effectively a speedmap session) of 9 maps made with one rule: maps must combine two different colors, themes or motifs. A start map is included.",
  "files": {
@@ -703,7 +692,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-06-17",
  "sha256": "52915bea35f25dc3756f6fca68ef90c144a3870549b2ae6bd969afd0a230d144",
  "tags": [
   "author=4LT",
@@ -726,7 +714,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Two Tone Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/52/52915bea35f25dc3756f6fca68ef90c144a3870549b2ae6bd969afd0a230d144/two_tone_jam.v2.zip",
   "https://x901.net/quaddictedfiles/two_tone_jam.v2.zip"

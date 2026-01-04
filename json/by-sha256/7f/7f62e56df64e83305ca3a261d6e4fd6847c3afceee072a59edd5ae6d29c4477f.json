@@ -1,24 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "Bloodshot",
-  "Ing",
-  "Ish",
-  "JCR",
-  "Krampus",
-  "Naitelveni",
-  "Pinchy Skree",
-  "Qmaster",
-  "Queenjazz",
-  "Rhoq",
-  "Scampie",
-  "Shambler",
-  "Shotro",
-  "Spipper",
-  "Strideh",
-  "ionous",
-  "negke"
- ],
  "bytes": 148689233,
  "description": "Annual Xmas mapping event. This pack features 21 small maps in varied styles where all gameplay takes place within a 1024x1024x1024 space. It includes a start map and is powered by the <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> devkit + some additional content. The map sources are included as well.",
  "files": {
@@ -8640,7 +8620,6 @@
  "notes": [
   "These maps require a source port with increased limits"
  ],
- "release_date": "2018-12-10",
  "sha256": "7f62e56df64e83305ca3a261d6e4fd6847c3afceee072a59edd5ae6d29c4477f",
  "tags": [
   "author=Bal",
@@ -8713,7 +8692,6 @@
   "type=mod",
   "zipbasedir=xmasjam2018/"
  ],
- "title": "Xmas Jam 2018",
  "urls": [
   "https://www.quaddicted.com/filebase/xmasjam2018.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7f62e56df64e83305ca3a261d6e4fd6847c3afceee072a59edd5ae6d29c4477f/xmasjam2018.zip"

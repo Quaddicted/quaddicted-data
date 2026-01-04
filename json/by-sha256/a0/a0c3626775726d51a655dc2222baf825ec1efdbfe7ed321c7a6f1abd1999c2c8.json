@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Spirit",
-  "lurker",
-  "st3ady"
- ],
  "bytes": 480917,
  "description": "Vondur's iceberg / 3 SP maps / lurker, Spirit, st3ady",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-11-03",
  "sha256": "a0c3626775726d51a655dc2222baf825ec1efdbfe7ed321c7a6f1abd1999c2c8",
  "tags": [
   "author=Spirit",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 146 - Vondur's Iceberg",
  "urls": [
   "https://www.quaddicted.com/filebase/sm146_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a0c3626775726d51a655dc2222baf825ec1efdbfe7ed321c7a6f1abd1999c2c8/sm146_pack.zip"

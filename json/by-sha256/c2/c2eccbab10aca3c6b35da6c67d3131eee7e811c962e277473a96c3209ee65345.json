@@ -1,7 +1,4 @@
 {
- "authors": [
-  "John Dreese"
- ],
  "bytes": 848574,
  "description": "Medium-sized lava cavern with a base part.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-20",
  "sha256": "c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345",
  "tags": [
   "author=John Dreese",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Tohnsay Predicament",
  "urls": [
   "https://www.quaddicted.com/filebase/tohnsay.zip",
   "https://www.quaddicted.com/files/by-sha256/c2/c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345/tohnsay.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GrazzasOnlyFan"
- ],
  "bytes": 7927814,
  "description": "A large base-themed map inspired by Half-Life 1 / Black Mesa with a ton of blue and green lighting, hence the name. The author's first release.",
  "files": {
@@ -78,7 +75,6 @@
  "notes": [
   "Difficulty settings are not implemented. Map source is included. Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-06-28",
  "sha256": "2bbdb18035cbc2b44ad506025e4288a444bc106748b7cab57ba8c895d03be72c",
  "tags": [
   "author=GrazzasOnlyFan",
@@ -102,7 +98,6 @@
   "title=Azure Moon",
   "type=map"
  ],
- "title": "Azure Moon",
  "urls": [
   "https://www.quaddicted.com/filebase/azuremoon_final.zip",
   "https://www.quaddicted.com/files/by-sha256/2b/2bbdb18035cbc2b44ad506025e4288a444bc106748b7cab57ba8c895d03be72c/azuremoon_final.zip"

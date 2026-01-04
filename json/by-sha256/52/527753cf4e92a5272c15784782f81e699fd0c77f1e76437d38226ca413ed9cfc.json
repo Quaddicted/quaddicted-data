@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Lieutenant"
- ],
  "bytes": 807221,
  "description": "Small to medium IKBase-style map featuring modified Hell Knights.",
  "files": {
@@ -54,7 +51,6 @@
   "extract": "{base}/lthsp1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-12-06",
  "sha256": "527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc",
  "tags": [
   "author=The Lieutenant",
@@ -72,7 +68,6 @@
   "type=mod",
   "zipbasedir=lthsp1/"
  ],
- "title": "Ad Infinitum",
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/52/527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc/lthsp1.zip"

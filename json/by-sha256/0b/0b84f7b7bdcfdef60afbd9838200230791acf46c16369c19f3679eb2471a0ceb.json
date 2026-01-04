@@ -1,7 +1,4 @@
 {
- "authors": [
-  "raven33 / Lilybug33"
- ],
  "bytes": 13685896,
  "description": "Two small maps, a classic-style base themed intro and a castle themed conclusion. Uses custom music by Angryfrogs, custom skyboxes by Makkon / Sock, and some id1 and mg1 textures. Map source files are included.",
  "files": {
@@ -138,7 +135,6 @@
  "notes": [
   "No custom start map or difficulty select is included, so use the console to load (\"map lb_fall01\") and configure (e.g. \"skill 0\" is Easy)."
  ],
- "release_date": "2022-06-25",
  "sha256": "0b84f7b7bdcfdef60afbd9838200230791acf46c16369c19f3679eb2471a0ceb",
  "tags": [
   "author=raven33 / Lilybug33",
@@ -163,7 +159,6 @@
   "title=Dare to Dream",
   "type=mod"
  ],
- "title": "Dare to Dream",
  "urls": [
   "https://www.quaddicted.com/filebase/lb_fall.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b84f7b7bdcfdef60afbd9838200230791acf46c16369c19f3679eb2471a0ceb/lb_fall.zip"

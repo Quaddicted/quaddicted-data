@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Stuart Maine"
- ],
  "bytes": 775056,
  "description": "A quite unique \"teleporting map\" that requires a lot of exploration and curiosity.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-30",
  "sha256": "ad0ceb8ee0dd3453eea541d858e1fb7378d380362149da33e73fd131467b01df",
  "tags": [
   "author=Stuart Maine",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Teleportation Central",
  "urls": [
   "https://www.quaddicted.com/filebase/tcentral.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/ad0ceb8ee0dd3453eea541d858e1fb7378d380362149da33e73fd131467b01df/tcentral.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "vaf"
- ],
  "bytes": 890892,
  "description": "Small Metal/runic map with a base part at the beginning.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "Repacked for Quaddicted."
  ],
- "release_date": "2018-03-25",
  "sha256": "c00acfbb59d1a50e630557dee81b0eda1ef7923529d01496cc13739a31b7ce41",
  "tags": [
   "author=vaf",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Metal Shrine",
  "urls": [
   "https://www.quaddicted.com/filebase/the_metal_shrine_repack.zip",
   "https://www.quaddicted.com/files/by-sha256/c0/c00acfbb59d1a50e630557dee81b0eda1ef7923529d01496cc13739a31b7ce41/the_metal_shrine_repack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Gemein"
- ],
  "bytes": 1420074,
  "description": "Detailed recreation of a gothic stone church (\"from somewhere in Canada\") with no monsters or gameplay, intended more as a mapping exercise / study rather than a playable level.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "May require a source port with increased limits."
  ],
- "release_date": "2001-10-04",
  "sha256": "332d0c93a61451337abd896ca132f5d992bbed567e316f12b9bfe253851e9e2f",
  "tags": [
   "author=Gemein",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Gem Church",
  "urls": [
   "https://www.quaddicted.com/filebase/gemch01.zip",
   "https://www.quaddicted.com/files/by-sha256/33/332d0c93a61451337abd896ca132f5d992bbed567e316f12b9bfe253851e9e2f/gemch01.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Reilly"
- ],
  "bytes": 544742,
  "description": "Small linear Wizard/Medieval map created for speedrunning.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-02-06",
  "sha256": "8d399359f47acddb513e51fec50d8d1f4a043aa476eb233a9d10a222d628051c",
  "tags": [
   "author=Marc Reilly",
@@ -33,7 +29,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Kiss the Sky",
  "urls": [
   "https://www.quaddicted.com/filebase/phallusy.zip",
   "https://www.quaddicted.com/files/by-sha256/8d/8d399359f47acddb513e51fec50d8d1f4a043aa476eb233a9d10a222d628051c/phallusy.zip"

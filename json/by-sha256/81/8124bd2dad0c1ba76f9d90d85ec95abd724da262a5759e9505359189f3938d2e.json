@@ -1,7 +1,4 @@
 {
- "authors": [
-  "nolcoz"
- ],
  "bytes": 2094131,
  "description": "\"Medium sized medieval and base map\".",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-12-26",
  "sha256": "8124bd2dad0c1ba76f9d90d85ec95abd724da262a5759e9505359189f3938d2e",
  "tags": [
   "author=nolcoz",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Secrets of The Mansion",
  "urls": [
   "https://www.quaddicted.com/filebase/tsotm.zip",
   "https://www.quaddicted.com/files/by-sha256/81/8124bd2dad0c1ba76f9d90d85ec95abd724da262a5759e9505359189f3938d2e/tsotm.zip"
