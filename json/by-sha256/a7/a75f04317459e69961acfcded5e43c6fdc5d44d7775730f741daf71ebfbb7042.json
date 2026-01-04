@@ -1,11 +1,5 @@
 {
- "authors": [
-  "RecycledOJ"
- ],
  "bytes": 10514981,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Medium sized map for Arcane Dimenions, decked in Makkon stone textures and featuring extensive use of the jump-boots powerup. Originally created for <a href=\"504984de0206082e0bd15ad5d136ca99ea9fb9bf2f8733569c2fddc909cd8ec7\">Rotting Jam</a> but extended and released standalone.",
  "files": {
   "ad_roj1.bsp": {
@@ -33,7 +27,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-03-31",
  "sha256": "a75f04317459e69961acfcded5e43c6fdc5d44d7775730f741daf71ebfbb7042",
  "tags": [
   "author=RecycledOJ",
@@ -52,7 +45,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "Grit Under the Eyelid",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/a7/a75f04317459e69961acfcded5e43c6fdc5d44d7775730f741daf71ebfbb7042/ad_roj1.zip",
   "https://x901.net/quaddictedfiles/ad_roj1.zip"

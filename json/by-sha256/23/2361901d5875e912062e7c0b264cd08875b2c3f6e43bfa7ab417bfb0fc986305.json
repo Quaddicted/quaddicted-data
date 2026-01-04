@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Albert van Zyl"
- ],
  "bytes": 9108464,
  "description": "Large map with a castle in a dark forest. Comes with a custom skybox and the map source is included.",
  "files": {
@@ -73,7 +70,6 @@
  "notes": [
   "This map requires a source port with increased limits and BSP2 support."
  ],
- "release_date": "2019-06-10",
  "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "tags": [
   "author=Albert van Zyl",
@@ -99,7 +95,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Binding Tower",
  "urls": [
   "https://www.quaddicted.com/filebase/bindingtower2.zip",
   "https://www.quaddicted.com/files/by-sha256/23/2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305/bindingtower2.zip"

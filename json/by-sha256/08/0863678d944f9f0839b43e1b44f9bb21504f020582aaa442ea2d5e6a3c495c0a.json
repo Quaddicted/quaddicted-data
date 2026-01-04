@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mfx"
- ],
  "bytes": 2646593,
- "depends": [
-  "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587"
- ],
  "description": "A rebalanced version of mfx's map from <a href=\"ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587\">Retro Jam 1</a>: a medieval building nestled in a rocky cavern and fronted by a lake of slime. Features traps and tough combat.",
  "files": {
   "gfx/": {
@@ -76,7 +70,6 @@
  "notes": [
   "This map is meant to be played with the <a href=\"https://www.quaddicted.com/filebase/retrojam1.zip\">Retro Jam 1</a> pack."
  ],
- "release_date": "2014-11-29",
  "sha256": "0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a",
  "tags": [
   "author=mfx",
@@ -98,7 +91,6 @@
   "type=map",
   "zipbasedir=retrojam1/"
  ],
- "title": "Arlyeh Center for Heart Diseases",
  "urls": [
   "https://www.quaddicted.com/filebase/retro_mfx_fix.zip",
   "https://www.quaddicted.com/files/by-sha256/08/0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a/retro_mfx_fix.zip"

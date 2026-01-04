@@ -1,7 +1,4 @@
 {
- "authors": [
-  "james4040"
- ],
  "bytes": 919856,
  "description": "Large plain Base map with nonlinear gameplay. A deathmatch map with single player settings.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-03-17",
  "sha256": "c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493",
  "tags": [
   "author=james4040",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Factory 969",
  "urls": [
   "https://www.quaddicted.com/filebase/fact969.zip",
   "https://www.quaddicted.com/files/by-sha256/c3/c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493/fact969.zip"

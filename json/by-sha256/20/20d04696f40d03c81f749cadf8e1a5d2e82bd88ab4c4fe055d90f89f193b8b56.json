@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DrMelon"
- ],
  "bytes": 270022,
  "description": "Short map in e1 wizard textures. The player's goal is to escape from a jail cell to a lighthouse they can view from the window. The author's first map.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-08-24",
  "sha256": "20d04696f40d03c81f749cadf8e1a5d2e82bd88ab4c4fe055d90f89f193b8b56",
  "tags": [
   "author=DrMelon",
@@ -42,7 +38,6 @@
   "title=A Room With A View",
   "type=map"
  ],
- "title": "A Room With A View",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/20/20d04696f40d03c81f749cadf8e1a5d2e82bd88ab4c4fe055d90f89f193b8b56/drmelon-roomview.zip",
   "https://x901.net/quaddictedfiles/drmelon-roomview.zip"

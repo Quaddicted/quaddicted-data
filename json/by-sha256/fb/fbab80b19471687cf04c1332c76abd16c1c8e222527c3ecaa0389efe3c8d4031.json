@@ -1,11 +1,5 @@
 {
- "authors": [
-  "eber150"
- ],
  "bytes": 7773716,
- "depends": [
-  "copper>=1.17"
- ],
  "description": "Medium-sized runic-themed map. The author's second release. Map source is included.",
  "files": {
   "spasm0010.png": {
@@ -66,7 +60,6 @@
  "notes": [
   "This map requires <a href=\"7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a\">Copper</a> ."
  ],
- "release_date": "2022-06-16",
  "sha256": "fbab80b19471687cf04c1332c76abd16c1c8e222527c3ecaa0389efe3c8d4031",
  "tags": [
   "author=eber150",
@@ -89,7 +82,6 @@
   "type=map",
   "zipbasedir=copper/maps/"
  ],
- "title": "Ten Thousand Days In The Fire",
  "urls": [
   "https://www.quaddicted.com/filebase/ttd.zip",
   "https://www.quaddicted.com/files/by-sha256/fb/fbab80b19471687cf04c1332c76abd16c1c8e222527c3ecaa0389efe3c8d4031/ttd.zip"

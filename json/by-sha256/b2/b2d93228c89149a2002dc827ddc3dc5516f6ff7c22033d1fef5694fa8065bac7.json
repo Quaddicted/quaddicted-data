@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Jacek",
-  "Zwiffle"
- ],
  "bytes": 310552,
  "description": "Bees / 2 __ maps / Jacek, Zwiffle",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "b2d93228c89149a2002dc827ddc3dc5516f6ff7c22033d1fef5694fa8065bac7",
  "tags": [
   "author=Jacek",
@@ -36,7 +31,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bees",
  "urls": [
   "https://www.quaddicted.com/filebase/sm87_maps.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2d93228c89149a2002dc827ddc3dc5516f6ff7c22033d1fef5694fa8065bac7/sm87_maps.zip"

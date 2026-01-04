@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 469968,
  "description": "Big low-detail fortress with oldschool crampiness inside.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-13",
  "sha256": "e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1",
  "tags": [
   "author=DAV",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Wall Fortress",
  "urls": [
   "https://www.quaddicted.com/filebase/qkwall.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1/qkwall.zip"

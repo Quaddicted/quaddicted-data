@@ -1,14 +1,5 @@
 {
- "authors": [
-  "ZealousQuakeFan",
-  "digs",
-  "necros",
-  "negke"
- ],
  "bytes": 2249952,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Unthemed / 6 SP maps / digs, necros, negke, ZealousQuakeFan",
  "files": {
   "sm164_digs.bsp": {
@@ -61,7 +52,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-06-06",
  "sha256": "84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0",
  "tags": [
   "author=ZealousQuakeFan",
@@ -82,7 +72,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 164 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm164_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/84/84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0/sm164_pack.zip"

@@ -1,11 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "Jacek",
-  "Preach",
-  "Scampie",
-  "Zwiffle"
- ],
  "bytes": 664242,
  "description": "Red Brick/Grey Brick (A Tribute to Headshot #1) / 4 SP, 1 DM maps / CZG, Jacek, Preach, Scampie, Zwiffle",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-02-29",
  "sha256": "ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495",
  "tags": [
   "author=CZG",
@@ -70,7 +62,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 70 - Red Brick/Grey Brick (A Tribute to Headshot #1)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm70_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495/sm70_pack.zip"

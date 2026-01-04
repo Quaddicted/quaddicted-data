@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 109834,
  "description": "Small map with tough arena fights in a couple of brick rooms.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-09-25",
  "sha256": "4727cc7fbdecec4bf2d085fd38503660831b804a429629631817055911cbc44e",
  "tags": [
   "author=digs",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Supmut",
  "urls": [
   "https://www.quaddicted.com/filebase/supmut.zip",
   "https://www.quaddicted.com/files/by-sha256/47/4727cc7fbdecec4bf2d085fd38503660831b804a429629631817055911cbc44e/supmut.zip"

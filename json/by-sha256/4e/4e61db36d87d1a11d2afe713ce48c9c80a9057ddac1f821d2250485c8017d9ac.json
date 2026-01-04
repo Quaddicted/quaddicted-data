@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Cocerello",
-  "Lunaran",
-  "Scampie",
-  "Tronyn",
-  "ericw / FifthElephant",
-  "mfx",
-  "skacky",
-  "sock"
- ],
  "bytes": 45264992,
  "description": "Map jam #2 - a community project at Func_Msgboard. The pack features 8 medium to large <a href=\"../?include=metadata-%3Etags.cs.%5B%22theme%3Dikblue%22%5D\">ikblue</a> / <a href=\"../?include=metadata-%3Etags.cs.%5B%22theme%3Dikwhite%22%5D\">ikwhite</a>-themed maps. It comes with a couple of modified models and custom skyboxes. The map sources are included.  Some of the maps require an engine port with increased limits.",
  "files": {
@@ -452,7 +442,6 @@
   "extract": "{base}/func_mapjam2/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-08-01",
  "sha256": "4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac",
  "tags": [
   "author=Cocerello",
@@ -495,7 +484,6 @@
   "type=mod",
   "zipbasedir=func_mapjam2/"
  ],
- "title": "Func Map Jam 2 - IKblue/IKwhite Theme",
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjam2.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac/func_mapjam2.zip"

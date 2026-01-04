@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DeeDoubleU"
- ],
  "bytes": 5568212,
  "description": "Large underground research facility.",
  "files": {
@@ -29,7 +26,6 @@
   "Part 2 is available <a href=\"e4619c14416238ae1afad46dbc60eeece3505f0472f45b3c0424efbc787f199a\">here</a>.",
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2016-02-20",
  "sha256": "cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101",
  "tags": [
   "author=DeeDoubleU",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Root of all Evil: Infernal Science (Part 1)",
  "urls": [
   "https://www.quaddicted.com/filebase/dwroae_m3a.zip",
   "https://www.quaddicted.com/files/by-sha256/cc/cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101/dwroae_m3a.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jacek Gordinier"
- ],
  "bytes": 852371,
  "description": "Two small Base maps.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-31",
  "sha256": "23e8b4eb64f2cb56f6f6af61bcf241f7d951ae825c25021d21f5d6c7fe134cba",
  "tags": [
   "author=Jacek Gordinier",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Iron Decay",
  "urls": [
   "https://www.quaddicted.com/filebase/kabsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/23/23e8b4eb64f2cb56f6f6af61bcf241f7d951ae825c25021d21f5d6c7fe134cba/kabsp2.zip"

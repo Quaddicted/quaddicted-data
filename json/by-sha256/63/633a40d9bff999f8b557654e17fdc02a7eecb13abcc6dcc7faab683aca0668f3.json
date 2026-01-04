@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ed Cope"
- ],
  "bytes": 288125,
  "description": "Small base map with many unaligned textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-02",
  "sha256": "633a40d9bff999f8b557654e17fdc02a7eecb13abcc6dcc7faab683aca0668f3",
  "tags": [
   "author=Ed Cope",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cope's first",
  "urls": [
   "https://www.quaddicted.com/filebase/cope.zip",
   "https://www.quaddicted.com/files/by-sha256/63/633a40d9bff999f8b557654e17fdc02a7eecb13abcc6dcc7faab683aca0668f3/cope.zip"

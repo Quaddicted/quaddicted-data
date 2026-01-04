@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Ruete / 'Gripp'"
- ],
  "bytes": 913459,
  "description": "Medium sized original Metal-style windtunnel base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-07",
  "sha256": "f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48",
  "tags": [
   "author=Mike Ruete / 'Gripp'",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Rust in Peace",
  "urls": [
   "https://www.quaddicted.com/filebase/grc4beta.zip",
   "https://www.quaddicted.com/files/by-sha256/f8/f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48/grc4beta.zip"

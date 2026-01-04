@@ -1,7 +1,4 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 473165,
  "description": "Metal-style remake of the popular Counterstrike map de_dust2, created for a \"Parody\"-themed speedmapping session.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-02-08",
  "sha256": "6667171f54295f378018a188bb78a961e5f50a0f4b4753d8233c465944efb423",
  "tags": [
   "author=necros",
@@ -33,7 +29,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "CS INVASION FLEET!",
  "urls": [
   "https://www.quaddicted.com/filebase/ne_dust2.zip",
   "https://www.quaddicted.com/files/by-sha256/66/6667171f54295f378018a188bb78a961e5f50a0f4b4753d8233c465944efb423/ne_dust2.zip"

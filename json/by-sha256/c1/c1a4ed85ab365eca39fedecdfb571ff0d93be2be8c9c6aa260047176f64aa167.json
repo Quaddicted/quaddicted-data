@@ -1,7 +1,4 @@
 {
- "authors": [
-  "David Nickerson"
- ],
  "bytes": 557135,
  "description": "Small orange/rock church surrounded by a stone graveyard. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-21",
  "sha256": "c1a4ed85ab365eca39fedecdfb571ff0d93be2be8c9c6aa260047176f64aa167",
  "tags": [
   "author=David Nickerson",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dave's Graves",
  "urls": [
   "https://www.quaddicted.com/filebase/dgrave.zip",
   "https://www.quaddicted.com/files/by-sha256/c1/c1a4ed85ab365eca39fedecdfb571ff0d93be2be8c9c6aa260047176f64aa167/dgrave.zip"

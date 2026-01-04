@@ -1,21 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Burnham",
-  "CaptainCam",
-  "Chedap",
-  "Chris Holden",
-  "Comrade Beep",
-  "Greenwood",
-  "Here",
-  "JCR",
-  "Kayne",
-  "MortalMaxx",
-  "NewHouse",
-  "Pinchy",
-  "Thulsa",
-  "Yoder"
- ],
  "bytes": 220222542,
  "description": "Second Halloween Jam community project featuring 14 levels of varying styles, and a start map. The levels run on the Arcane Dimensions mod (included). The map sources are included.",
  "files": {
@@ -8132,7 +8115,6 @@
  "notes": [
   "These maps require a source port with increased limits."
  ],
- "release_date": "2019-10-31",
  "sha256": "1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a",
  "tags": [
   "author=Artistical",
@@ -8193,7 +8175,6 @@
   "type=mod",
   "zipbasedir=hwjam2/"
  ],
- "title": "Halloween Jam 2",
  "urls": [
   "https://www.quaddicted.com/filebase/hwjam2.zip",
   "https://www.quaddicted.com/files/by-sha256/1e/1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a/hwjam2.zip"

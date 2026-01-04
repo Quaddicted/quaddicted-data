@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jonas N.P. Lindstrom"
- ],
  "bytes": 875266,
  "description": "Medium sized base map with many oddly or unaligned textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-03",
  "sha256": "3ad5afcd11dbaa243ecbeb58b5c8ff2a4f4e84c8394e505448530ba3918bf3ba",
  "tags": [
   "author=Jonas N.P. Lindstrom",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Base of Sadlark",
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark3.zip",
   "https://www.quaddicted.com/files/by-sha256/3a/3ad5afcd11dbaa243ecbeb58b5c8ff2a4f4e84c8394e505448530ba3918bf3ba/sadlark3.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Spain"
- ],
  "bytes": 690038,
  "description": "Part of the BadLands series: Small medieval map with a church.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-09",
  "sha256": "a32291ea251ec07b9eee427a73fec8c8afe27a4ae25b2d3801c8d41193ae782d",
  "tags": [
   "author=Chris Spain",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "BadLand1 : Break-In",
  "urls": [
   "https://www.quaddicted.com/filebase/badland1.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a32291ea251ec07b9eee427a73fec8c8afe27a4ae25b2d3801c8d41193ae782d/badland1.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Lane Powell"
- ],
  "bytes": 2888039,
- "depends": [
-  "quoth>=2.2"
- ],
  "description": "Large blue/metal level with caverns, blood, bones and otherworldy parts.",
  "files": {
   "lpqsp1.bsp": {
@@ -31,7 +25,6 @@
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth</a> and an engine port with increased limits."
  ],
- "release_date": "2016-09-19",
  "sha256": "50105e2a0c4ffa3d035a39c705b76d1791716db9e70fe25062e106037a2317f0",
  "tags": [
   "author=Lane Powell",
@@ -57,7 +50,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "The Bonehoard",
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/50/50105e2a0c4ffa3d035a39c705b76d1791716db9e70fe25062e106037a2317f0/lpqsp1.zip"

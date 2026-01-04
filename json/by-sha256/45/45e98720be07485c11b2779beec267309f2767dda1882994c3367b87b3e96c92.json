@@ -1,7 +1,4 @@
 {
- "authors": [
-  "angryuros"
- ],
  "bytes": 608470,
  "description": "Small and cramped idbase map. The author's first for Quake.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2024-06-15",
  "sha256": "45e98720be07485c11b2779beec267309f2767dda1882994c3367b87b3e96c92",
  "tags": [
   "author=angryuros",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Gubbins",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/45/45e98720be07485c11b2779beec267309f2767dda1882994c3367b87b3e96c92/gubbins.zip",
   "https://x901.net/quaddictedfiles/gubbins.zip"

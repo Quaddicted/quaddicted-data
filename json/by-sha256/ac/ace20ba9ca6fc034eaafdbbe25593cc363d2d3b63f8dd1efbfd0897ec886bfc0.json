@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ozric"
- ],
  "bytes": 780285,
  "description": "Medium sized Wizard map with a sense of exploration.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-28",
  "sha256": "ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0",
  "tags": [
   "author=Ozric",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Warpgate",
  "urls": [
   "https://www.quaddicted.com/filebase/warpgate.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0/warpgate.zip"

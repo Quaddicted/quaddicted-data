@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sodalimonada176"
- ],
  "bytes": 607813,
  "description": "Small blue medieval castle map for vanilla Quake.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-10-08",
  "sha256": "54cba7e4a01460c64e40ce0422caa0efc10def0f00502ed08ccd912b33f2ea87",
  "tags": [
   "author=sodalimonada176",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Blue Is The Darkest Shade",
  "urls": [
   "https://www.quaddicted.com/filebase/002blue.zip",
   "https://www.quaddicted.com/files/by-sha256/54/54cba7e4a01460c64e40ce0422caa0efc10def0f00502ed08ccd912b33f2ea87/002blue.zip"

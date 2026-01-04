@@ -1,7 +1,4 @@
 {
- "authors": [
-  "eber150"
- ],
  "bytes": 902902,
  "description": "A small single classic-style map inspired by id base maps but with some eldritch monsters. The author's first release. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-05-31",
  "sha256": "c95e5fe20108d34c90d657e68e874b9d1ffd02e7c99a8f78d73e09590100698d",
  "tags": [
   "author=eber150",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Slipgate to a Lost Dimension",
  "urls": [
   "https://www.quaddicted.com/filebase/eber1_final.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c95e5fe20108d34c90d657e68e874b9d1ffd02e7c99a8f78d73e09590100698d/eber1_final.zip"

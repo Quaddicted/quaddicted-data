@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 406947,
  "description": "Small wizard level.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-14",
  "sha256": "79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257",
  "tags": [
   "author=Unknown",
@@ -32,7 +28,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dark Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/dark.zip",
   "https://www.quaddicted.com/files/by-sha256/79/79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257/dark.zip"

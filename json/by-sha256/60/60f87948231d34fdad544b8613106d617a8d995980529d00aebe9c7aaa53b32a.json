@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rich Carlson"
- ],
  "bytes": 292727,
  "description": "Small space map with several floating platforms. Originally supposed to be the secret level of Ion Storm's Anachronox, but scrapped in later stages of the development and released a couple of years later.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-11-30",
  "sha256": "60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a",
  "tags": [
   "author=Rich Carlson",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "O B L I V I O N",
  "urls": [
   "https://www.quaddicted.com/filebase/oblivion_2.zip",
   "https://www.quaddicted.com/files/by-sha256/60/60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a/oblivion_2.zip"

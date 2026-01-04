@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jarkko Heilio"
- ],
  "bytes": 548017,
  "description": "This is the second version of <a href=\"724acc0a88f1718f9613dca4e78fa9710eb49a3d3b0360b3eec8d5d016821f73\">Mountain Base</a>, ostensibly being quite different in terms of gameplay.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-10",
  "sha256": "73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8",
  "tags": [
   "author=Jarkko Heilio",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Mountain Base 2",
  "urls": [
   "https://www.quaddicted.com/filebase/mountbase2.zip",
   "https://www.quaddicted.com/files/by-sha256/73/73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8/mountbase2.zip"

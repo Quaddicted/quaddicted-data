@@ -1,7 +1,4 @@
 {
- "authors": [
-  "xlarve"
- ],
  "bytes": 1567688,
  "description": "Large base map consisting of tight corridors with ambushes.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-08-07",
  "sha256": "eee9ecc8c084f63865f8a9e555dbf1461405a763fdf4fc9c6cae7089b8bd3b7c",
  "tags": [
   "author=xlarve",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Level Six",
  "urls": [
   "https://www.quaddicted.com/filebase/xl6.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/eee9ecc8c084f63865f8a9e555dbf1461405a763fdf4fc9c6cae7089b8bd3b7c/xl6.zip"

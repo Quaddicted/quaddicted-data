@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Mazu"
- ],
  "bytes": 1204051,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Small, runic themed arena map designed to work both in single-player and deathmatch. Contains an excess of monsters on hard skill.",
  "files": {
   "itisover2024.bsp": {
@@ -37,7 +31,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-01",
  "sha256": "be5340fc87d86533c3560bf13cd3cf804fd17cc94220b1890d7e9fcdcc2ea097",
  "tags": [
   "author=Mazu",
@@ -57,7 +50,6 @@
   "title=It Is Over 2024",
   "type=map"
  ],
- "title": "It Is Over 2024",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/be/be5340fc87d86533c3560bf13cd3cf804fd17cc94220b1890d7e9fcdcc2ea097/itisover2024.zip",
   "https://x901.net/quaddictedfiles/itisover2024.zip"

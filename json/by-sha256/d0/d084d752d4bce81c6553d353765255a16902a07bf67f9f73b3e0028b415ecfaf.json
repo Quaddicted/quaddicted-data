@@ -1,7 +1,4 @@
 {
- "authors": [
-  "marty"
- ],
  "bytes": 6084377,
  "description": "Temple themed map with bright outdoor sections.",
  "files": {
@@ -48,7 +45,6 @@
  "notes": [
   "This map requires Scourge of Armagon."
  ],
- "release_date": "1998-02-09",
  "sha256": "d084d752d4bce81c6553d353765255a16902a07bf67f9f73b3e0028b415ecfaf",
  "tags": [
   "author=marty",
@@ -68,7 +64,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "marty's stuff",
  "urls": [
   "https://www.quaddicted.com/filebase/martys.zip",
   "https://www.quaddicted.com/files/by-sha256/d0/d084d752d4bce81c6553d353765255a16902a07bf67f9f73b3e0028b415ecfaf/martys.zip"

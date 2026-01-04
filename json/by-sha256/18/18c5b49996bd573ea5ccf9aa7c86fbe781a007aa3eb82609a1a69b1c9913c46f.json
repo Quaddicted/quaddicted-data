@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fairweather"
- ],
  "bytes": 420212,
  "description": "Small 768*768 speedmap. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-07-16",
  "sha256": "18c5b49996bd573ea5ccf9aa7c86fbe781a007aa3eb82609a1a69b1c9913c46f",
  "tags": [
   "author=Fairweather",
@@ -50,7 +46,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "A Quick Trip to the Old World",
  "urls": [
   "https://www.quaddicted.com/filebase/fwsm1.zip",
   "https://www.quaddicted.com/files/by-sha256/18/18c5b49996bd573ea5ccf9aa7c86fbe781a007aa3eb82609a1a69b1c9913c46f/fwsm1.zip"

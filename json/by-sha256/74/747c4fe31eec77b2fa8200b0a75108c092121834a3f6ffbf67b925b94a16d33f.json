@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Nodding"
- ],
  "bytes": 2716973,
  "description": "Small boat-themed / dock map for vanilla Quake. The author's first release. Map source is included.",
  "files": {
@@ -80,7 +77,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-11-30",
  "sha256": "747c4fe31eec77b2fa8200b0a75108c092121834a3f6ffbf67b925b94a16d33f",
  "tags": [
   "author=Nodding",
@@ -102,7 +98,6 @@
   "type=mod",
   "zipbasedir=id1/"
  ],
- "title": "Ship Showdown",
  "urls": [
   "https://www.quaddicted.com/filebase/shipnod.zip",
   "https://www.quaddicted.com/files/by-sha256/74/747c4fe31eec77b2fa8200b0a75108c092121834a3f6ffbf67b925b94a16d33f/shipnod.zip"

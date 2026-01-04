@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 1314677,
  "description": "Medium-sized curvy metal castle. Originally meant for a mod but then turned into a regular map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-02-06",
  "sha256": "1351061ead4aa9805ce84a4d428ac8df53dadd411e74a52238fa30e9d6d7a3c6",
  "tags": [
   "author=Trinca",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The City of Angels",
  "urls": [
   "https://www.quaddicted.com/filebase/tcoa.zip",
   "https://www.quaddicted.com/files/by-sha256/13/1351061ead4aa9805ce84a4d428ac8df53dadd411e74a52238fa30e9d6d7a3c6/tcoa.zip"

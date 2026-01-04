@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Zwiffle",
-  "nane",
-  "necros"
- ],
  "bytes": 524245,
  "description": "Doom maps (no room over room/no slopes) / 2 SP, 1 DM maps / nane, necros, Zwiffle",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-04-17",
  "sha256": "0b11b16034346e2a932150fd0a19c9fde891863346924224a604000e0d4bad12",
  "tags": [
   "author=Zwiffle",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 75 - Doom maps (no room over room/no slopes)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm75_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b11b16034346e2a932150fd0a19c9fde891863346924224a604000e0d4bad12/sm75_pack.zip"

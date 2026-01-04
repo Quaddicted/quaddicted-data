@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Eternal_Summer"
- ],
  "bytes": 18541705,
  "description": "Detailed but tiny map set in a fog-covered town.",
  "files": {
@@ -1355,7 +1352,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-09-06",
  "sha256": "ff5c3a9b6b98bd547ed2f2dba776f3ec0a7b221fb393a9ba5675d0f110b8bfb9",
  "tags": [
   "author=Eternal_Summer",
@@ -1371,7 +1367,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Old Town",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/ff/ff5c3a9b6b98bd547ed2f2dba776f3ec0a7b221fb393a9ba5675d0f110b8bfb9/old_town.zip",
   "https://x901.net/quaddictedfiles/old_town.zip"

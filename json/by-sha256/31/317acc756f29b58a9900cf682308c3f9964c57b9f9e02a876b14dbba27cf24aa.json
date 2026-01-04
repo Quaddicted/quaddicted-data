@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Equim (Martin Alderson)"
- ],
  "bytes": 629371,
  "description": "Small realism map with three houses, a car, a truck and a pitch black boat.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-20",
  "sha256": "317acc756f29b58a9900cf682308c3f9964c57b9f9e02a876b14dbba27cf24aa",
  "tags": [
   "author=Equim (Martin Alderson)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Trinity",
  "urls": [
   "https://www.quaddicted.com/filebase/trinity.zip",
   "https://www.quaddicted.com/files/by-sha256/31/317acc756f29b58a9900cf682308c3f9964c57b9f9e02a876b14dbba27cf24aa/trinity.zip"

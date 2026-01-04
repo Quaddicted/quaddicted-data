@@ -1,7 +1,4 @@
 {
- "authors": [
-  "PuLSaR"
- ],
  "bytes": 3621762,
  "description": "Very large egyptian temple with diverse and challenging gameplay.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-07-15",
  "sha256": "a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e",
  "tags": [
   "author=PuLSaR",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Menkalinan",
  "urls": [
   "https://www.quaddicted.com/filebase/menk.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e/menk.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brian Kline (Larry)"
- ],
  "bytes": 770364,
  "description": "Small to medium Base-themed sewer map with lots of pipes and an outside area.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map has to be played in Scourge of Armagon."
  ],
- "release_date": "1997-07-23",
  "sha256": "d8959d3f3d3dd3043b0a784884549213e8dbe3f7626a586b21964883eb3b1581",
  "tags": [
   "author=Brian Kline (Larry)",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Seweage Playground",
  "urls": [
   "https://www.quaddicted.com/filebase/sewer12.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d8959d3f3d3dd3043b0a784884549213e8dbe3f7626a586b21964883eb3b1581/sewer12.zip"

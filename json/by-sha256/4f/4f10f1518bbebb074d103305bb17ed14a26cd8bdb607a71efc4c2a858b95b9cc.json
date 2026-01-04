@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daivuk"
- ],
  "bytes": 3346685,
  "description": "Medium-sized map combining brutalisim and gothic influences, with creative use of stock textures resulting in unique looks.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-12-10",
  "sha256": "4f10f1518bbebb074d103305bb17ed14a26cd8bdb607a71efc4c2a858b95b9cc",
  "tags": [
   "author=Daivuk",
@@ -47,7 +43,6 @@
   "title=Brutic",
   "type=map"
  ],
- "title": "Brutic",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/4f/4f10f1518bbebb074d103305bb17ed14a26cd8bdb607a71efc4c2a858b95b9cc/dkbrutic.zip",
   "https://x901.net/quaddictedfiles/dkbrutic.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kurtis"
- ],
  "bytes": 281982,
  "description": "Doom 2 MAP02 remake for Quake.",
  "files": {
@@ -63,7 +60,6 @@
  "notes": [
   "This will not work on a case-sensitive filesystem (Linux) if you install via the Quake Injector because the ZIP contains an \"Id1\" directory"
  ],
- "release_date": "2023-05-14",
  "sha256": "3df973ef895c63a89ac216dc7b739bc6c0a504d1b1c875b27a9dd4a106058ca3",
  "tags": [
   "author=Kurtis",
@@ -77,7 +73,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "Doom 2 MAP02 - Underhalls",
  "urls": [
   "https://www.quaddicted.com/filebase/d2_map02.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3df973ef895c63a89ac216dc7b739bc6c0a504d1b1c875b27a9dd4a106058ca3/d2_map02.zip"

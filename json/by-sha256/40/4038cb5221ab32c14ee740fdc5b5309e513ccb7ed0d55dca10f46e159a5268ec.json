@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fern (aka Fr3n)"
- ],
  "bytes": 752002,
  "description": "A nicely made egyptian remix of Quake's e1m3 - The Necropolis.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-02-27",
  "sha256": "4038cb5221ab32c14ee740fdc5b5309e513ccb7ed0d55dca10f46e159a5268ec",
  "tags": [
   "author=Fern (aka Fr3n)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Necromanicide",
  "urls": [
   "https://www.quaddicted.com/filebase/fr3n1m3.zip",
   "https://www.quaddicted.com/files/by-sha256/40/4038cb5221ab32c14ee740fdc5b5309e513ccb7ed0d55dca10f46e159a5268ec/fr3n1m3.zip"

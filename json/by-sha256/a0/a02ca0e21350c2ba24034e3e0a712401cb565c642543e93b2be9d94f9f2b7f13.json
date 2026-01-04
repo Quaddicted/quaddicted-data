@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rich \"xen\" Thorne"
- ],
  "bytes": 554836,
  "description": "Short, linear map in Q3 gothic textures, an enhanced version of the author's sm9 speedmap.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-15",
  "sha256": "a02ca0e21350c2ba24034e3e0a712401cb565c642543e93b2be9d94f9f2b7f13",
  "tags": [
   "author=Rich \"xen\" Thorne",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Realm of the tetris overlord",
  "urls": [
   "https://www.quaddicted.com/filebase/xnsm2_se.bsp.zip",
   "https://www.quaddicted.com/files/by-sha256/a0/a02ca0e21350c2ba24034e3e0a712401cb565c642543e93b2be9d94f9f2b7f13/xnsm2_se.bsp.zip"

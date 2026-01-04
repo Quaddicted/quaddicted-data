@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jim Lowell"
- ],
  "bytes": 599129,
  "description": "Small Rubicon-style industrial level with a mine tunnels section.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-02",
  "sha256": "804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0",
  "tags": [
   "author=Jim Lowell",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Industrial Combat",
  "urls": [
   "https://www.quaddicted.com/filebase/ic.zip",
   "https://www.quaddicted.com/files/by-sha256/80/804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0/ic.zip"

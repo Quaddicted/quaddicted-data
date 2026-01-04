@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Qmaster"
- ],
  "bytes": 9989813,
  "description": "Large Egyptian-themed space map with floating pyramids, oases and traps. It runs on the Keep mod and includes a patch for it as well as the qc source.",
  "files": {
@@ -1324,7 +1321,6 @@
   "This map requires the <a href=\"https://www.slipseer.com/index.php?resources/keep-v1-00-0.242/\">Keep</a> mod and a source port with increased limits.",
   "Cannot be run through the Quake Injector"
  ],
- "release_date": "2019-01-29",
  "sha256": "cfa6bbe3b7291f98b7041f200c8dba32c873f64efd740e39e5cd0ec55508b72f",
  "tags": [
   "author=Qmaster",
@@ -1343,7 +1339,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Egyptoagula",
  "urls": [
   "https://www.quaddicted.com/filebase/egyptoagula_final.zip",
   "https://www.quaddicted.com/files/by-sha256/cf/cfa6bbe3b7291f98b7041f200c8dba32c873f64efd740e39e5cd0ec55508b72f/egyptoagula_final.zip"

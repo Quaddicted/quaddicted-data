@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sam Caldwell  (ssaammwwe)"
- ],
  "bytes": 432063,
  "description": "Medium sized Metal/wood map with a slightly confusing, maze-like touch to it.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-20",
  "sha256": "4c4526e65d13647726d2b0da05c167beb19c1bba6cc65dcfb10b33ae739991c6",
  "tags": [
   "author=Sam Caldwell  (ssaammwwe)",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Doghouse",
  "urls": [
   "https://www.quaddicted.com/filebase/doghouse.zip",
   "https://www.quaddicted.com/files/by-sha256/4c/4c4526e65d13647726d2b0da05c167beb19c1bba6cc65dcfb10b33ae739991c6/doghouse.zip"

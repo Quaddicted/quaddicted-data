@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DaveDemon"
- ],
  "bytes": 37269,
  "description": "A huge box.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-06",
  "sha256": "f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de",
  "tags": [
   "author=DaveDemon",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "LoCaLH",
  "urls": [
   "https://www.quaddicted.com/filebase/localh.zip",
   "https://www.quaddicted.com/files/by-sha256/f5/f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de/localh.zip"

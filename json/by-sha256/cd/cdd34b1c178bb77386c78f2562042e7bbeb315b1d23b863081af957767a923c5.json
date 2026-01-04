@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Digs"
- ],
  "bytes": 202219,
  "description": "Small map with a unique Tron- or cyberspace-like texture theme.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-06-18",
  "sha256": "cdd34b1c178bb77386c78f2562042e7bbeb315b1d23b863081af957767a923c5",
  "tags": [
   "author=Digs",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Digs02 - Virtual World",
  "urls": [
   "https://www.quaddicted.com/filebase/digs02.zip",
   "https://www.quaddicted.com/files/by-sha256/cd/cdd34b1c178bb77386c78f2562042e7bbeb315b1d23b863081af957767a923c5/digs02.zip"

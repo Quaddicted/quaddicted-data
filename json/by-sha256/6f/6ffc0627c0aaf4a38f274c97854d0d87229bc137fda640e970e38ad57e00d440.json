@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Juzley"
- ],
  "bytes": 4225690,
- "depends": [
-  "ad>=1.71"
- ],
  "description": "Smallish industrial/base map using socktech textures. It comes with two new sound effects. The map source is included.",
  "files": {
   "ad_juz1.txt": {
@@ -51,7 +45,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions 1.71</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-05-07",
  "sha256": "6ffc0627c0aaf4a38f274c97854d0d87229bc137fda640e970e38ad57e00d440",
  "tags": [
   "author=Juzley",
@@ -80,7 +73,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Network Unreachable",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_juz1.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6ffc0627c0aaf4a38f274c97854d0d87229bc137fda640e970e38ad57e00d440/ad_juz1.zip"

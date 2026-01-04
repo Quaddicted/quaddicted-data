@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dean Scott"
- ],
  "bytes": 858434,
  "description": "Simple medium sized Metal map with a Chthon boss fight.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-03",
  "sha256": "88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75",
  "tags": [
   "author=Dean Scott",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pyro4 - The Awakening",
  "urls": [
   "https://www.quaddicted.com/filebase/pyro4.zip",
   "https://www.quaddicted.com/files/by-sha256/88/88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75/pyro4.zip"

@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Cocerello",
-  "Doomer",
-  "Naitelveni",
-  "Newhouse",
-  "SavageX"
- ],
  "bytes": 11456483,
  "description": "Week-long speedmapping session 181 / Copper theme / 6 SP maps, Cocerello, Doomer, Naitelveni, Newhouse, SavageX",
  "files": {
@@ -134,7 +127,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-01-12",
  "sha256": "953ada8e16eb396c33d13ea7e8e7b4e9a940481db8fa3cffe732517cbd322618",
  "tags": [
   "author=Cocerello",
@@ -158,7 +150,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 181 - Copper",
  "urls": [
   "https://www.quaddicted.com/filebase/sm181_pack_bugfixed.zip",
   "https://www.quaddicted.com/files/by-sha256/95/953ada8e16eb396c33d13ea7e8e7b4e9a940481db8fa3cffe732517cbd322618/sm181_pack_bugfixed.zip"

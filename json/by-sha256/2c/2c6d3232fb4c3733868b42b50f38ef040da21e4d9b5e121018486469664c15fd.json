@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Murray"
- ],
  "bytes": 303895,
  "description": "Small Wizard/ brick map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-02",
  "sha256": "2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd",
  "tags": [
   "author=Mark Murray",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Mayhem",
  "urls": [
   "https://www.quaddicted.com/filebase/mayhem2.zip",
   "https://www.quaddicted.com/files/by-sha256/2c/2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd/mayhem2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Scott McNutt"
- ],
  "bytes": 469202,
  "description": "Small Wizard tower-like map with multiple floors",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-30",
  "sha256": "00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59",
  "tags": [
   "author=Scott McNutt",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Royal Warriors",
  "urls": [
   "https://www.quaddicted.com/filebase/royalwar.zip",
   "https://www.quaddicted.com/files/by-sha256/00/00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59/royalwar.zip"

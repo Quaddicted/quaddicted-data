@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Xeryn"
- ],
  "bytes": 33411499,
  "description": "Brick-themed map with many blood/lava details and a couple of vertical sections.",
  "files": {
@@ -633,7 +630,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-02-25",
  "sha256": "389a0ece381bb3a3bf899286ffff30344087d4e6156f3892096eadf7e8a5c691",
  "tags": [
   "author=Xeryn",
@@ -649,7 +645,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Blessed Agony",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/38/389a0ece381bb3a3bf899286ffff30344087d4e6156f3892096eadf7e8a5c691/pain.zip",
   "https://x901.net/quaddictedfiles/pain.zip"

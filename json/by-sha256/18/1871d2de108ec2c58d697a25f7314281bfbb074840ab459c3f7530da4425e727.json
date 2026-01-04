@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPL"
- ],
  "bytes": 1013720,
  "description": "Small to medium Egyptian temple.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-13",
  "sha256": "1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727",
  "tags": [
   "author=JPL",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hatchepsout: The Hell Temple",
  "urls": [
   "https://www.quaddicted.com/filebase/hellchepsout.zip",
   "https://www.quaddicted.com/files/by-sha256/18/1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727/hellchepsout.zip"

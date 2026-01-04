@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shamblernaut"
- ],
  "bytes": 6081244,
  "description": "Large cloister/castle map combining Wizard/Medieval/Metal textures. Somewhat inspired by E2M5. It comes with a custom skybox.",
  "files": {
@@ -73,7 +70,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2018-11-09",
  "sha256": "097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c",
  "tags": [
   "author=Shamblernaut",
@@ -87,7 +83,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Cloisterfuck",
  "urls": [
   "https://www.quaddicted.com/filebase/snaut-cloisterfuck.zip",
   "https://www.quaddicted.com/files/by-sha256/09/097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c/snaut-cloisterfuck.zip"

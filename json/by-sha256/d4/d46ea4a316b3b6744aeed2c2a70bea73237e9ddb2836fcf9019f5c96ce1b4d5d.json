@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Mike Woodham",
-  "RPG",
-  "Scampie",
-  "Zwiffle",
-  "necros"
- ],
  "bytes": 2014181,
  "description": "Abandoned city / 5 SP, 1 DM maps / Drew, Mike Woodham, necros, RPG, Scampie, Zwiffle",
  "files": {
@@ -50,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-22",
  "sha256": "d46ea4a316b3b6744aeed2c2a70bea73237e9ddb2836fcf9019f5c96ce1b4d5d",
  "tags": [
   "author=Drew",
@@ -73,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 79 - Abandoned city",
  "urls": [
   "https://www.quaddicted.com/filebase/sm79_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d46ea4a316b3b6744aeed2c2a70bea73237e9ddb2836fcf9019f5c96ce1b4d5d/sm79_pack.zip"

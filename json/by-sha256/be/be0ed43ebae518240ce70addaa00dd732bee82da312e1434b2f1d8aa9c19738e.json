@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DMK"
- ],
  "bytes": 319362,
  "description": "Small base map with many deadly traps, set on the moon Titan.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-04-02",
  "sha256": "be0ed43ebae518240ce70addaa00dd732bee82da312e1434b2f1d8aa9c19738e",
  "tags": [
   "author=DMK",
@@ -32,7 +28,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Titan",
  "urls": [
   "https://www.quaddicted.com/filebase/titan.zip",
   "https://www.quaddicted.com/files/by-sha256/be/be0ed43ebae518240ce70addaa00dd732bee82da312e1434b2f1d8aa9c19738e/titan.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 777656,
  "description": "Short, abstract gothic-themed map based in a castle.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-08-29",
  "sha256": "f01bd4cbd7753871e456fd754d583f81b20adb7f468f92aa6adf0f18999565f2",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Gothic Intruder",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/f0/f01bd4cbd7753871e456fd754d583f81b20adb7f468f92aa6adf0f18999565f2/intruder.zip",
   "https://x901.net/quaddictedfiles/intruder.zip"

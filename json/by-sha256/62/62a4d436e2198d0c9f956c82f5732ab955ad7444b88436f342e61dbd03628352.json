@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 3341411,
  "description": "Episode with six medium-sized base and Wizard-themed levels, and a start map.",
  "files": {
@@ -50,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-01-16",
  "sha256": "62a4d436e2198d0c9f956c82f5732ab955ad7444b88436f342e61dbd03628352",
  "tags": [
   "author=czg",
@@ -78,7 +74,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Terra",
  "urls": [
   "https://www.quaddicted.com/filebase/terra.zip",
   "https://www.quaddicted.com/files/by-sha256/62/62a4d436e2198d0c9f956c82f5732ab955ad7444b88436f342e61dbd03628352/terra.zip"

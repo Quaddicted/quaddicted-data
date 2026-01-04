@@ -1,7 +1,4 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 1340940,
  "description": "Small, unique geocomp metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-01-25",
  "sha256": "5152922606ca8fe13c6154ec49bb92d6528c5ab99a57a2b59663dba7762314b5",
  "tags": [
   "author=necros",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "R_speeds be damned!",
  "urls": [
   "https://www.quaddicted.com/filebase/nesp16.zip",
   "https://www.quaddicted.com/files/by-sha256/51/5152922606ca8fe13c6154ec49bb92d6528c5ab99a57a2b59663dba7762314b5/nesp16.zip"

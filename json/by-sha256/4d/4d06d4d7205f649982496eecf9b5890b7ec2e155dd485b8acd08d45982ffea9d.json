@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 1201269,
  "description": "A well made, pretty huge and nicely balanced medieval level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-12-17",
  "sha256": "4d06d4d7205f649982496eecf9b5890b7ec2e155dd485b8acd08d45982ffea9d",
  "tags": [
   "author=czg",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Memento Mori",
  "urls": [
   "https://www.quaddicted.com/filebase/czg02.zip",
   "https://www.quaddicted.com/files/by-sha256/4d/4d06d4d7205f649982496eecf9b5890b7ec2e155dd485b8acd08d45982ffea9d/czg02.zip"

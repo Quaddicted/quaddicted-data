@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andy Baird"
- ],
  "bytes": 1742903,
  "description": "Large space base with many unusual custom textures, featuring officers quarters, mess hall, kitchen, and generator rooms",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-18",
  "sha256": "145232bf3d6da1bf2455db989b2db42fdddd98c20c3a23b86ac48c2a45ce9bd4",
  "tags": [
   "author=Andy Baird",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Wetbase",
  "urls": [
   "https://www.quaddicted.com/filebase/wetbase.zip",
   "https://www.quaddicted.com/files/by-sha256/14/145232bf3d6da1bf2455db989b2db42fdddd98c20c3a23b86ac48c2a45ce9bd4/wetbase.zip"

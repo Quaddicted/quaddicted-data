@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Gillian Vos"
- ],
  "bytes": 2949163,
  "description": "Medium sized medieval monastery in a classic-ish style for vanilla Quake. The author's first release. Map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "May require a modern engine / source port with increased limits."
  ],
- "release_date": "2022-10-19",
  "sha256": "8f1e744ff1a777c9b29f77044db3bebdd36b09727f7145fd2738548d9a86b7b7",
  "tags": [
   "author=Gillian Vos",
@@ -58,7 +54,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Devotion",
  "urls": [
   "https://www.quaddicted.com/filebase/devotion.zip",
   "https://www.quaddicted.com/files/by-sha256/8f/8f1e744ff1a777c9b29f77044db3bebdd36b09727f7145fd2738548d9a86b7b7/devotion.zip"

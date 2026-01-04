@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Keefner"
- ],
  "bytes": 1389546,
  "description": "Small castle courtyard map with a large cemetery, all in a classic style. The author's second release. Map source is included.",
  "files": {
@@ -48,7 +45,6 @@
  "notes": [
   "Only skill 1 (\"Normal\") is implemented."
  ],
- "release_date": "2022-02-15",
  "sha256": "929b737166ae30d68834d22f36620e4d5f96c1fc792c283500a3bc7ebf0692f0",
  "tags": [
   "author=Paul Keefner",
@@ -67,7 +63,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cemetery Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/cemetery_castle.zip",
   "https://www.quaddicted.com/files/by-sha256/92/929b737166ae30d68834d22f36620e4d5f96c1fc792c283500a3bc7ebf0692f0/cemetery_castle.zip"

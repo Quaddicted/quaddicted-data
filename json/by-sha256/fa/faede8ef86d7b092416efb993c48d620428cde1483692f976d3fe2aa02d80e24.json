@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Greenwood",
-  "muk0r"
- ],
  "bytes": 2097403,
  "description": "Large underground Egyptian vault.",
  "files": {
@@ -29,7 +25,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2021-07-13",
  "sha256": "faede8ef86d7b092416efb993c48d620428cde1483692f976d3fe2aa02d80e24",
  "tags": [
   "author=Greenwood",
@@ -50,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Perish the Thoth",
  "urls": [
   "https://www.quaddicted.com/filebase/perish.zip",
   "https://www.quaddicted.com/files/by-sha256/fa/faede8ef86d7b092416efb993c48d620428cde1483692f976d3fe2aa02d80e24/perish.zip"

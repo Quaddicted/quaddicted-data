@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Benjamin \"The Harb!ngeR of Fish\" Martyn Skinner"
- ],
  "bytes": 447400,
  "description": "A deathmatch map with some monsters thrown in.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-08-07",
  "sha256": "0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c",
  "tags": [
   "author=Benjamin \"The Harb!ngeR of Fish\" Martyn Skinner",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Cargo Hulk for STORM",
  "urls": [
   "https://www.quaddicted.com/filebase/cargoshp.zip",
   "https://www.quaddicted.com/files/by-sha256/0d/0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c/cargoshp.zip"

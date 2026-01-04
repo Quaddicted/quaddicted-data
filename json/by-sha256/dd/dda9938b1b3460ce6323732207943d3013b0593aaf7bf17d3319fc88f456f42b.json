@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Annihilator"
- ],
  "bytes": 569401,
  "description": "Small to medium sized white brick temple.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-26",
  "sha256": "dda9938b1b3460ce6323732207943d3013b0593aaf7bf17d3319fc88f456f42b",
  "tags": [
   "author=Annihilator",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Double Back",
  "urls": [
   "https://www.quaddicted.com/filebase/dblback.zip",
   "https://www.quaddicted.com/files/by-sha256/dd/dda9938b1b3460ce6323732207943d3013b0593aaf7bf17d3319fc88f456f42b/dblback.zip"

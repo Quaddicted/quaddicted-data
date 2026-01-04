@@ -1,7 +1,4 @@
 {
- "authors": [
-  "spy"
- ],
  "bytes": 10274752,
  "description": "A big castle using Quake III textures. Remake of a map with the same name from the game Blade of Darkness.",
  "files": {
@@ -802,7 +799,6 @@
   "extract": "{base}/bod/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-05-02",
  "sha256": "b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9",
  "tags": [
   "author=spy",
@@ -823,7 +819,6 @@
   "type=mod",
   "zipbasedir=bod/"
  ],
- "title": "Tower Of Dal Gurak",
  "urls": [
   "https://www.quaddicted.com/filebase/bod.zip",
   "https://www.quaddicted.com/files/by-sha256/b3/b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9/bod.zip"

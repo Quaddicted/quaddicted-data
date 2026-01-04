@@ -1,7 +1,4 @@
 {
- "authors": [
-  "R.P.G."
- ],
  "bytes": 1356368,
  "description": "Mini episode consisting of five small polished-up speedmaps, each following one of Quake's native texture themes.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-01-02",
  "sha256": "b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69",
  "tags": [
   "author=R.P.G.",
@@ -57,7 +53,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Quake Condensed",
  "urls": [
   "https://www.quaddicted.com/filebase/rpgsmse.zip",
   "https://www.quaddicted.com/files/by-sha256/b3/b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69/rpgsmse.zip"

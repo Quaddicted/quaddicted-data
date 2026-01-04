@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Turner"
- ],
  "bytes": 1269148,
  "description": "An 'Underearth' style sunken city map for vanilla Quake. Map 4 in the <a href='../?loadjstablefilter=true#%7B\"col_2\"%3A%7B\"flt\"%3A\"Mark%20Turner\"%7D%2C\"col_3\"%3A%7B\"flt\"%3A\"colony\"%7D%7D'>Colony</a> episode.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2025-07-18",
  "sha256": "6fdc1e9ce385b11dba6e425ec53c1e76505fee1880b024d2dfee726b18ccab73",
  "tags": [
   "author=Mark Turner",
@@ -32,7 +28,6 @@
   "title=Colony 4 : The Sunken Citadel",
   "type=map"
  ],
- "title": "Colony 4 : The Sunken Citadel",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/6f/6fdc1e9ce385b11dba6e425ec53c1e76505fee1880b024d2dfee726b18ccab73/colony4.zip",
   "https://www.quaketastic.com/files/colony4.zip"

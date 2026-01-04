@@ -1,7 +1,4 @@
 {
- "authors": [
-  "nadzia (narnar)"
- ],
  "bytes": 1494761,
  "description": "Vertical cathedral-themed level with many gray textures and a challenging finale.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-12-05",
  "sha256": "f3e7ff877d8f00e287b7202a3db578415fc80240e0be2de9ab56d7e1643ff558",
  "tags": [
   "author=nadzia (narnar)",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Katedra",
  "urls": [
   "https://www.quaddicted.com/filebase/nar_cat.zip",
   "https://www.quaddicted.com/files/by-sha256/f3/f3e7ff877d8f00e287b7202a3db578415fc80240e0be2de9ab56d7e1643ff558/nar_cat.zip"

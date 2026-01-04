@@ -1,7 +1,4 @@
 {
- "authors": [
-  "megaman"
- ],
  "bytes": 2508359,
  "description": "Large mine cavern map; a remake of the third level from Descent 2. Exploration-style gameplay and many secrets.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2017-07-13",
  "sha256": "2285af46d290b3e856f343ae16af666912c974542a6bcde92a3b720d971e8916",
  "tags": [
   "author=megaman",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Wenl Mine",
  "urls": [
   "https://www.quaddicted.com/filebase/megad2lvl3.zip",
   "https://www.quaddicted.com/files/by-sha256/22/2285af46d290b3e856f343ae16af666912c974542a6bcde92a3b720d971e8916/megad2lvl3.zip"

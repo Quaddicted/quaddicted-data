@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vondur"
- ],
  "bytes": 2280096,
  "description": "Small mappack in a swamp/tribal setting. Features a start, main level and boss map.",
  "files": {
@@ -55,7 +52,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-03-25",
  "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [
   "author=Vondur",
@@ -84,7 +80,6 @@
   "title=The Castle of Koohoo",
   "type=mod"
  ],
- "title": "The Castle of Koohoo",
  "urls": [
   "https://www.quaddicted.com/filebase/koohoo.zip",
   "https://www.quaddicted.com/files/by-sha256/40/409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391/koohoo.zip"

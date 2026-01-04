@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Cocerello",
-  "DOOMer",
-  "FifthElephant",
-  "Scampie",
-  "digs"
- ],
  "bytes": 7206575,
  "description": "Koohoo's Castle / 6 SP maps / Cocerello, digs, DOOMer, FifthElephant, Scampie. This is the later release by sock with the maps not in a pak file, no additional media and sock's entry removed.  Alternative versions of Cocerello's maps are included for use with Scorge of Armagon and Dissolution of Eternity.",
  "files": {
@@ -109,7 +102,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-06-13",
  "sha256": "50ea7f12d1b1c322b32e9ca3a2c6f140b42355c43007a9bbd67bc0740b768253",
  "tags": [
   "author=Cocerello",
@@ -137,7 +129,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 175 - Koohoo's Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/sm175_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/50/50ea7f12d1b1c322b32e9ca3a2c6f140b42355c43007a9bbd67bc0740b768253/sm175_pack.zip"

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Cybear",
-  "Fren",
-  "gibbie",
-  "than"
- ],
  "bytes": 757067,
  "description": "Use the decon textures created by Stecki / 4 SP maps / Cybear, Fren, gibbie, than",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-18",
  "sha256": "06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af",
  "tags": [
   "author=Cybear",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 34 - Use the decon textures created by Stecki",
  "urls": [
   "https://www.quaddicted.com/filebase/sm34_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/06/06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af/sm34_pack.zip"

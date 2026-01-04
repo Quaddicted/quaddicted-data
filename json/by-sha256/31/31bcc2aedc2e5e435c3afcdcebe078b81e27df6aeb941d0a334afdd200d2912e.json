@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Gonzoj"
- ],
  "bytes": 602226,
  "description": "Small to medium 'realism' prism escape map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-24",
  "sha256": "31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e",
  "tags": [
   "author=Gonzoj",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Escape",
  "urls": [
   "https://www.quaddicted.com/filebase/escape09.zip",
   "https://www.quaddicted.com/files/by-sha256/31/31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e/escape09.zip"

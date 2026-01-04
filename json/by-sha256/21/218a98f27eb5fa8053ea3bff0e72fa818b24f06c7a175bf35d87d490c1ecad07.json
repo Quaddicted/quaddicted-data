@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Mike Woodham",
-  "Zwiffle"
- ],
  "bytes": 2611104,
  "description": "The SM40 contest was something RPG started so that the SM40 Speedchainmap would actually get finished.",
  "files": {
@@ -36,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07",
  "tags": [
   "author=Mike Woodham",
@@ -54,7 +49,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "SM40 contest",
  "urls": [
   "https://www.quaddicted.com/filebase/sm40contest.zip",
   "https://www.quaddicted.com/files/by-sha256/21/218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07/sm40contest.zip"

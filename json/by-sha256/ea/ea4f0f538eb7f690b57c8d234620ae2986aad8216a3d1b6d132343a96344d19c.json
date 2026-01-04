@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Scampie"
- ],
  "bytes": 3736007,
  "description": "Short map with simple gameplay, set in a rocky cavern.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-07-31",
  "sha256": "ea4f0f538eb7f690b57c8d234620ae2986aad8216a3d1b6d132343a96344d19c",
  "tags": [
   "author=Scampie",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "ruin of the fae realm",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/ea/ea4f0f538eb7f690b57c8d234620ae2986aad8216a3d1b6d132343a96344d19c/potluck_scampie.zip",
   "https://x901.net/quaddictedfiles/potluck_scampie.zip"

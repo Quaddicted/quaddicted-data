@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 683471,
  "description": "A medium sized medieval map with new textures, gameplay focuses largely on discovering secrets.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-10",
  "sha256": "9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853",
  "tags": [
   "author=Neil Manke",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Silhouette of Darkness",
  "urls": [
   "https://www.quaddicted.com/filebase/siluette.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853/siluette.zip"

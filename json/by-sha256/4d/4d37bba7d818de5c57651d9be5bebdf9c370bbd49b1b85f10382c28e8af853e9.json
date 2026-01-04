@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Kevin Rohling"
- ],
  "bytes": 468375,
  "description": "Huge plain rooms, hard.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-10",
  "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
  "tags": [
   "author=Kevin Rohling",
@@ -58,7 +54,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hello",
  "urls": [
   "https://www.quaddicted.com/filebase/rohling.zip",
   "https://www.quaddicted.com/files/by-sha256/4d/4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9/rohling.zip"

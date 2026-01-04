@@ -1,9 +1,5 @@
 {
- "authors": [
-  "ComfyByTheFire"
- ],
  "bytes": 374178433,
- "current_main_group_package": true,
  "description": "Giant map with over 5000 enemies and an estimated 7-8 hours of playtime. Dressed in a mixture of themes with a strong bloody/organic motif and featuring a detailed story, custom entities from the Quoth mod (included) and lots of intense, difficult gameplay, even on skill 0.",
  "files": {
   "immortal/": {
@@ -2197,11 +2193,6 @@
  "notes": [
   "This map has specific technical requirements, please see the included readme for details."
  ],
- "provides": {
-  "immortal": "1.9"
- },
- "release_date": "2024-08-04",
- "release_group": "immortal",
  "sha256": "a04aee22a146df6dd97db37932c7c96028307dab4f6f96e15944bd0e5006bd5b",
  "tags": [
   "author=ComfyByTheFire",
@@ -2221,10 +2212,8 @@
   "type=mod",
   "version=1.9"
  ],
- "title": "The Immortal Lock",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/a0/a04aee22a146df6dd97db37932c7c96028307dab4f6f96e15944bd0e5006bd5b/immortal_v1_9.zip",
   "https://x901.net/quaddictedfiles/immortal_v1_9.zip"
- ],
- "version": "1.9"
+ ]
 }

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rudolf Kremers"
- ],
  "bytes": 285535,
  "description": "Small Metal level.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-05-23",
  "sha256": "7ea4f284f0f383f020ad7775928c8943de92f58f4610554394ab7486288eb6d8",
  "tags": [
   "author=Rudolf Kremers",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Grinding of Teeth",
  "urls": [
   "https://www.quaddicted.com/filebase/tspe.zip",
   "https://www.quaddicted.com/files/by-sha256/7e/7ea4f284f0f383f020ad7775928c8943de92f58f4610554394ab7486288eb6d8/tspe.zip"

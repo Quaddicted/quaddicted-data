@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Conrad Johnson"
- ],
  "bytes": 227265,
  "description": "Very small rocky map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-03",
  "sha256": "1b685de92587eaaf665eb0de18f511a7e949b31672c9f1fae8ed7429bf5d1f32",
  "tags": [
   "author=Conrad Johnson",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Con1",
  "urls": [
   "https://www.quaddicted.com/filebase/con1.zip",
   "https://www.quaddicted.com/files/by-sha256/1b/1b685de92587eaaf665eb0de18f511a7e949b31672c9f1fae8ed7429bf5d1f32/con1.zip"

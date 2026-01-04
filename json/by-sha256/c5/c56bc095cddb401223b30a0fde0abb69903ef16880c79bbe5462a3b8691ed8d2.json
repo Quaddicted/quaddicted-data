@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daniel Remar"
- ],
  "bytes": 634962,
  "description": "Dark oldschool dungeon level, originally made in 2019.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "UPDATE, 21 DECEMBER 2022: <a href=\"bc1e819702fe80dc80dcb22814cb71b0c5c520b53a91c27c0b3303ccd91e3ddb\">Deepest Oblivion v3</a> is now available."
  ],
- "release_date": "2020-08-01",
  "sha256": "c56bc095cddb401223b30a0fde0abb69903ef16880c79bbe5462a3b8691ed8d2",
  "tags": [
   "author=Daniel Remar",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Deepest Oblivion",
  "urls": [
   "https://www.quaddicted.com/filebase/rgdeep.zip",
   "https://www.quaddicted.com/files/by-sha256/c5/c56bc095cddb401223b30a0fde0abb69903ef16880c79bbe5462a3b8691ed8d2/rgdeep.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "bmFbr"
- ],
  "bytes": 3359275,
  "description": "Medium-sized cathedral with a base area. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-08-25",
  "sha256": "cf57728e2f358d2d00883584e2455e37eecea7741015cbadbce22f4543b88f29",
  "tags": [
   "author=bmFbr",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Doomed Cathedral",
  "urls": [
   "https://www.quaddicted.com/filebase/bmfbrsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/cf/cf57728e2f358d2d00883584e2455e37eecea7741015cbadbce22f4543b88f29/bmfbrsp1.zip"

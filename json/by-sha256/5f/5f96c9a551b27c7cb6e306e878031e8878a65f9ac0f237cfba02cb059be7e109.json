@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Roussel"
- ],
  "bytes": 664007,
  "description": "Smallish mix-of-textures map. A demo and the map source are included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-14",
  "sha256": "5f96c9a551b27c7cb6e306e878031e8878a65f9ac0f237cfba02cb059be7e109",
  "tags": [
   "author=Marc Roussel",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "No campers palace, die with honor!",
  "urls": [
   "https://www.quaddicted.com/filebase/misery.zip",
   "https://www.quaddicted.com/files/by-sha256/5f/5f96c9a551b27c7cb6e306e878031e8878a65f9ac0f237cfba02cb059be7e109/misery.zip"

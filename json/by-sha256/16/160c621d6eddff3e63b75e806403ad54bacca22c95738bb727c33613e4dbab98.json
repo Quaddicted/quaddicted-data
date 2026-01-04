@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Wright Bagwell (Paul_Bunyan)"
- ],
  "bytes": 845089,
  "description": "Medium to large Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-11",
  "sha256": "160c621d6eddff3e63b75e806403ad54bacca22c95738bb727c33613e4dbab98",
  "tags": [
   "author=Wright Bagwell (Paul_Bunyan)",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Darkness Diabolical",
  "urls": [
   "https://www.quaddicted.com/filebase/pb1.zip",
   "https://www.quaddicted.com/files/by-sha256/16/160c621d6eddff3e63b75e806403ad54bacca22c95738bb727c33613e4dbab98/pb1.zip"

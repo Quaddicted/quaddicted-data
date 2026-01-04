@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Asl"
- ],
  "bytes": 15929654,
  "description": "Large industrial sci-fi map with some Doom and Makkon textures, a few hundred monsters, and lot of secrets. Difficulty settings are not implemented.",
  "files": {
@@ -29,7 +26,6 @@
   "This map won't work in Quake Injector. It must be manually installed (move \"asl_3.bsp\" to the root of the id1/maps/ folder)",
   "You'll need a modern engine / source port with increased limits."
  ],
- "release_date": "2023-02-02",
  "sha256": "30e2f5a3266a25e8767084325273083a18885d4ffd64006e1bf39871444d558c",
  "tags": [
   "author=Asl",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Io. Loki Patera.",
  "urls": [
   "https://www.quaddicted.com/filebase/asl_3.zip",
   "https://www.quaddicted.com/files/by-sha256/30/30e2f5a3266a25e8767084325273083a18885d4ffd64006e1bf39871444d558c/asl_3.zip"

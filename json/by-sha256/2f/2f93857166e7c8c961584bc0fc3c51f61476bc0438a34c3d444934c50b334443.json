@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Russell McKenzie"
- ],
  "bytes": 595636,
  "description": "Very square and cramped \"my house\" type level. Comes with a difficulty selecting start level.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-07",
  "sha256": "2f93857166e7c8c961584bc0fc3c51f61476bc0438a34c3d444934c50b334443",
  "tags": [
   "author=Russell McKenzie",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Welcome to The Terrors",
  "urls": [
   "https://www.quaddicted.com/filebase/9terrors.zip",
   "https://www.quaddicted.com/files/by-sha256/2f/2f93857166e7c8c961584bc0fc3c51f61476bc0438a34c3d444934c50b334443/9terrors.zip"

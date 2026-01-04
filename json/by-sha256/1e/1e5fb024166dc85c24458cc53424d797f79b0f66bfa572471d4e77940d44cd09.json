@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Greg Watters"
- ],
  "bytes": 1133697,
  "description": "A pack of two maps that evokes the long blue corridors of e4m7 Azure Agony. (Don't miss the hint about going back to the start!)",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-01-14",
  "sha256": "1e5fb024166dc85c24458cc53424d797f79b0f66bfa572471d4e77940d44cd09",
  "tags": [
   "author=Greg Watters",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Inferno, The Plains of Purgatory",
  "urls": [
   "https://www.quaddicted.com/filebase/azspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/1e/1e5fb024166dc85c24458cc53424d797f79b0f66bfa572471d4e77940d44cd09/azspq1.zip"

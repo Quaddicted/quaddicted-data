@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Evan Wagner"
- ],
  "bytes": 965714,
  "description": "Medium sized Metal level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-19",
  "sha256": "d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc",
  "tags": [
   "author=Evan Wagner",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "A Subtle Dagger",
  "urls": [
   "https://www.quaddicted.com/filebase/evspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/d1/d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc/evspq1.zip"

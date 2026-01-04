@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Blackpope",
-  "E-werd",
-  "NotoriousRay",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 731331,
  "description": "Unthemed / 3 SP, 2 DM maps / Blackpope, E-werd, NotoriousRay, Scampie, Starbuck",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-08-10",
  "sha256": "cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a",
  "tags": [
   "author=Blackpope",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 44 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm44_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/cd/cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a/sm44_pack.zip"

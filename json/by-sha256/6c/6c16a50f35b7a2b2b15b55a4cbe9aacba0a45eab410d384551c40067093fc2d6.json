@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Tonhao"
- ],
  "bytes": 60755881,
- "current_main_group_package": true,
  "description": "An episode of 9 small maps with various classic themes (base, medieval, wizard, runic, brick, etc.) for vanilla Quake, but also works well in Copper / with co-op support.",
  "files": {
   "eod3.0/": {
@@ -501,11 +497,6 @@
   "After installing, start the episode via console command: \"map eod_intro\"",
   "May require a modern engine / source port with increased limits."
  ],
- "provides": {
-  "toneodspmp3": "3.0"
- },
- "release_date": "2023-08-06",
- "release_group": "toneodspmp3",
  "sha256": "6c16a50f35b7a2b2b15b55a4cbe9aacba0a45eab410d384551c40067093fc2d6",
  "tags": [
   "author=Tonhao",
@@ -524,10 +515,8 @@
   "version=3.0",
   "zipbasedir=/"
  ],
- "title": "Empire of Disorder v3.0",
  "urls": [
   "https://www.quaddicted.com/filebase/toneodspmp3_3.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6c16a50f35b7a2b2b15b55a4cbe9aacba0a45eab410d384551c40067093fc2d6/toneodspmp3_3.zip"
- ],
- "version": "3.0"
+ ]
 }

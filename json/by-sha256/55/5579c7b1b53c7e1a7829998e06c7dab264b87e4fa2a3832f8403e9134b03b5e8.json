@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DeeDoubleU"
- ],
  "bytes": 1144221,
  "description": "Small medieval/Episode 4-style level,  originally started for <a href=\"da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255\">Retro Jam 4</a>. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-11-25",
  "sha256": "5579c7b1b53c7e1a7829998e06c7dab264b87e4fa2a3832f8403e9134b03b5e8",
  "tags": [
   "author=DeeDoubleU",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ascension",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam4dlc_dw.zip",
   "https://www.quaddicted.com/files/by-sha256/55/5579c7b1b53c7e1a7829998e06c7dab264b87e4fa2a3832f8403e9134b03b5e8/retrojam4dlc_dw.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Noel Weer"
- ],
  "bytes": 5318918,
  "description": "Episode consisting of 5 medium sized levels, a start and a secret map, some new textures and sounds, and custents stuff. The first few maps are bases in snowy canyons, the last few otherworldly castles.",
  "files": {
@@ -206,7 +203,6 @@
   "extract": "{base}/schist/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-10",
  "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "tags": [
   "author=Noel Weer",
@@ -223,7 +219,6 @@
   "type=mod",
   "zipbasedir=schist/"
  ],
- "title": "Schist",
  "urls": [
   "https://www.quaddicted.com/filebase/schist.zip",
   "https://www.quaddicted.com/files/by-sha256/14/1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa/schist.zip"

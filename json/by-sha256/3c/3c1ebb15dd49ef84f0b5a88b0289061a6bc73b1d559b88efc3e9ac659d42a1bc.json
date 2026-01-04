@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder",
-  "Breezeep",
-  "Ing-ing",
-  "JCR",
-  "Nostalgick",
-  "QueenJazz",
-  "dumptruck_ds",
-  "ionous"
- ],
  "bytes": 16515215,
  "description": "Progs_dump mod (included) / 8 SP maps + start map / Breezeep, dumptruck_ds, Ing-ing, ionous, JCR, Nostalgick, QueenJazz, Andrew Yoder. Also includes a custom skybox, a few custom sounds and models, and some map sources.",
  "files": {
@@ -305,7 +295,6 @@
  "notes": [
   "Some of the maps may require a source port with increased limits."
  ],
- "release_date": "2018-10-07",
  "sha256": "3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc",
  "tags": [
   "author=Andrew Yoder",
@@ -336,7 +325,6 @@
   "type=speedmap",
   "zipbasedir=sm188/"
  ],
- "title": "Speedmapping pack 188 - Progs_dump",
  "urls": [
   "https://www.quaddicted.com/filebase/sm188.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc/sm188.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Robert \"Fat Controller\" Cruickshank"
- ],
  "bytes": 414610,
- "depends": [
-  "coe=1.0"
- ],
  "description": "<a href=\"ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d\">Coven of Ebony</a> Patch - includes some tweaks to the COE code and a better-looking Necromancer model.",
  "files": {
   "PAK1.PAK": {
@@ -33,11 +27,6 @@
   "extract": "{base}/coe/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "coe": "1.1"
- },
- "release_date": "2001-01-08",
- "release_group": "coe",
  "sha256": "8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac",
  "tags": [
   "author=Robert \"Fat Controller\" Cruickshank",
@@ -63,10 +52,8 @@
   "version=1.1",
   "zipbasedir=coe/"
  ],
- "title": "Coven of Ebony PATCH",
  "urls": [
   "https://www.quaddicted.com/filebase/coe_p.zip",
   "https://www.quaddicted.com/files/by-sha256/89/8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac/coe_p.zip"
- ],
- "version": "1.1"
+ ]
 }

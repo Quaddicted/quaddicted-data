@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 525792,
  "description": "czg's first entry for the second 100brush contest: a small blue rock thing floating in the void.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-03-30",
  "sha256": "e42be83f5168194551d16521a5c3664fc9937ebc2cb1efd7ad359b103381f603",
  "tags": [
   "author=czg",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "CZG's moonshot",
  "urls": [
   "https://www.quaddicted.com/filebase/czg_moon.zip",
   "https://www.quaddicted.com/files/by-sha256/e4/e42be83f5168194551d16521a5c3664fc9937ebc2cb1efd7ad359b103381f603/czg_moon.zip"

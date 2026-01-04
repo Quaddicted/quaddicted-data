@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sascha Otterbein (mne[MON]ik)"
- ],
  "bytes": 1246665,
  "description": "Large base map with a unique theme and reliance on exploration. Reinforcements teleport in if the mission is not completed within 15 minutes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-18",
  "sha256": "72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b",
  "tags": [
   "author=Sascha Otterbein (mne[MON]ik)",
@@ -38,7 +34,6 @@
   "type=unfinished",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Monolith Complex",
  "urls": [
   "https://www.quaddicted.com/filebase/tmc.zip",
   "https://www.quaddicted.com/files/by-sha256/72/72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b/tmc.zip"

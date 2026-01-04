@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Alterzero"
- ],
  "bytes": 3429662,
  "description": "Remake of E1M1 from DOOM: a small base map using mixed texture themes. The map source is included.",
  "files": {
@@ -45,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-10-17",
  "sha256": "0847d549f2a49685510041b9a46031a4b342c3492c0f7d860ba2b270f68d1da1",
  "tags": [
   "author=Alterzero",
@@ -65,7 +61,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Alter's Hangar",
  "urls": [
   "https://www.quaddicted.com/filebase/alt_e1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/08/0847d549f2a49685510041b9a46031a4b342c3492c0f7d860ba2b270f68d1da1/alt_e1m1.zip"

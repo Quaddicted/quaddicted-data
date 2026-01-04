@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 22024945,
  "description": "Medium / large runic base map with \"void vibes\", built on progs_dump 3.0 (already included). Some sounds from Arcane Dimensions, custom music \"Yss \u00c9skiuth\" by Immorpher. Map source is included.",
  "files": {
@@ -627,7 +624,6 @@
   "There's no custom start map. Load via console: \"game jpqm12; map jpqm12\"",
   "Requires a modern engine / source port with increased limits and BSP2 support."
  ],
- "release_date": "2022-10-03",
  "sha256": "5e28e1bf5bbeffe5cfaf6429f163dded2f5c2780d9561c696033139eb1afa816",
  "tags": [
   "author=JPal",
@@ -653,7 +649,6 @@
   "title=The Rust Forge",
   "type=mod"
  ],
- "title": "The Rust Forge",
  "urls": [
   "https://www.quaddicted.com/filebase/jpqm12.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5e28e1bf5bbeffe5cfaf6429f163dded2f5c2780d9561c696033139eb1afa816/jpqm12.zip"

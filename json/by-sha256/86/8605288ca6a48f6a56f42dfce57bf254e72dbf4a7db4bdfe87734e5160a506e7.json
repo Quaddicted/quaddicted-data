@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 266108,
  "description": "Small map using Dhell2 textures. Made for one of Aardappel's 100 Brush contests.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-03-19",
  "sha256": "8605288ca6a48f6a56f42dfce57bf254e72dbf4a7db4bdfe87734e5160a506e7",
  "tags": [
   "author=czg",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Rabbit in my deadlights",
  "urls": [
   "https://www.quaddicted.com/filebase/czg100b.zip",
   "https://www.quaddicted.com/files/by-sha256/86/8605288ca6a48f6a56f42dfce57bf254e72dbf4a7db4bdfe87734e5160a506e7/czg100b.zip"

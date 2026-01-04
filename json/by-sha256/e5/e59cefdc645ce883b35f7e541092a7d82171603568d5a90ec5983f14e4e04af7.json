@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Scampie",
-  "negke"
- ],
  "bytes": 309035,
  "description": "Castle MadFox / 2 SP maps / negke, Scampie",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-05-18",
  "sha256": "e59cefdc645ce883b35f7e541092a7d82171603568d5a90ec5983f14e4e04af7",
  "tags": [
   "author=Scampie",
@@ -41,7 +36,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 174 - Castle MadFox",
  "urls": [
   "https://www.quaddicted.com/filebase/sm174_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e59cefdc645ce883b35f7e541092a7d82171603568d5a90ec5983f14e4e04af7/sm174_pack.zip"

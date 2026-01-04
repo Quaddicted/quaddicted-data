@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tiddles"
- ],
  "bytes": 490955,
  "description": "Small rusty base map.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-19",
  "sha256": "f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91",
  "tags": [
   "author=Tiddles",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fatal Error",
  "urls": [
   "https://www.quaddicted.com/filebase/fatal-error.zip",
   "https://www.quaddicted.com/files/by-sha256/f9/f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91/fatal-error.zip"

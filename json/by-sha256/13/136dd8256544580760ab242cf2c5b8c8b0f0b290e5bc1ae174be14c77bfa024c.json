@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bill Graham/billcat"
- ],
  "bytes": 750105,
  "description": "Medium sized medieval map with erotic posters.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-22",
  "sha256": "136dd8256544580760ab242cf2c5b8c8b0f0b290e5bc1ae174be14c77bfa024c",
  "tags": [
   "author=Bill Graham/billcat",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Vampire Sisters",
  "urls": [
   "https://www.quaddicted.com/filebase/sisters.zip",
   "https://www.quaddicted.com/files/by-sha256/13/136dd8256544580760ab242cf2c5b8c8b0f0b290e5bc1ae174be14c77bfa024c/sisters.zip"

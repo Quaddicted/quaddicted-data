@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Site Z-374"
- ],
  "bytes": 62410063,
  "description": "Large brutalist themed map, an expanded version of the author's <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a> entry with many expanded areas and very high monster counts. Built on the Alkaline devkit (included).",
  "files": {
@@ -2795,7 +2792,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-06-22",
  "sha256": "53c8d9513a801ff5fd07b35f88a3af46aa6eac5b356df321c17580952cf2ceb1",
  "tags": [
   "author=Site Z-374",
@@ -2811,7 +2807,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Site Z-374",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/53/53c8d9513a801ff5fd07b35f88a3af46aa6eac5b356df321c17580952cf2ceb1/zet_z374_v1.01.zip",
   "https://x901.net/quaddictedfiles/zet_z374_v1.01.zip"

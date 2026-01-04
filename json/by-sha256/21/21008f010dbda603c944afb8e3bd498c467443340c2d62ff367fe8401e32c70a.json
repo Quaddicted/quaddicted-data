@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Clarke"
- ],
  "bytes": 883227,
  "description": "Medium to large Wizard castle.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-08-05",
  "sha256": "21008f010dbda603c944afb8e3bd498c467443340c2d62ff367fe8401e32c70a",
  "tags": [
   "author=Steve Clarke",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Notlob's Parting Shot",
  "urls": [
   "https://www.quaddicted.com/filebase/sgc3.zip",
   "https://www.quaddicted.com/files/by-sha256/21/21008f010dbda603c944afb8e3bd498c467443340c2d62ff367fe8401e32c70a/sgc3.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 577456,
  "description": "Small to medium-sized realism map with custom textures, set in a slaughterhouse, complete with bloody slaughter areas, freezer, and manager's office.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-05",
  "sha256": "04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427",
  "tags": [
   "author=Neil Manke",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Slaughterhouse",
  "urls": [
   "https://www.quaddicted.com/filebase/slaughtr.zip",
   "https://www.quaddicted.com/files/by-sha256/04/04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427/slaughtr.zip"

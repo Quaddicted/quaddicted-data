@@ -1,9 +1,4 @@
 {
- "authors": [
-  "RickyT23",
-  "Skacky",
-  "sock"
- ],
  "bytes": 22318516,
  "description": "Speedy map jam following the theme \"Fantasy brick cities in the skies\": three floating maps by Skacky, Sock and RickyT23. It comes with optional medieval-style item models.",
  "files": {
@@ -274,7 +269,6 @@
   "extract": "{base}//retrojam2"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-12-04",
  "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
  "tags": [
   "author=RickyT23",
@@ -305,7 +299,6 @@
   "type=mod",
   "zipbasedir=retrojam2/"
  ],
- "title": "Retro Jam 2 - Fantasy Brick Cities in the Skies Theme",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam2.zip",
   "https://www.quaddicted.com/files/by-sha256/ae/ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c/retrojam2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "marty"
- ],
  "bytes": 433846,
  "description": "Small Metal level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-22",
  "sha256": "e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840",
  "tags": [
   "author=marty",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Disturbed",
  "urls": [
   "https://www.quaddicted.com/filebase/disturb.zip",
   "https://www.quaddicted.com/files/by-sha256/e4/e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840/disturb.zip"

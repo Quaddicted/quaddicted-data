@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Entar",
-  "Preach",
-  "Zwiffle",
-  "negke"
- ],
  "bytes": 1203643,
  "description": "The Emerald City / 3 SP maps, 1 DM map / Entar, neg!ke, Preach, Zwiffle",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-14",
  "sha256": "6cb0e3248975fdbdf103ca5e4ee53aacbf5f6ddf02e7914f66050f51b426bfbe",
  "tags": [
   "author=Entar",
@@ -64,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo 2005 - The Emerald City",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe1.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6cb0e3248975fdbdf103ca5e4ee53aacbf5f6ddf02e7914f66050f51b426bfbe/smqe1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matt \"Lunaran\"  Breit"
- ],
  "bytes": 3331209,
  "description": "Large mountain base with Q2MP1 textures and some custom monsters.",
  "files": {
@@ -161,7 +158,6 @@
   "extract": "{base}/lunsp1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-06-27",
  "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "tags": [
   "author=Matt \"Lunaran\"  Breit",
@@ -187,7 +183,6 @@
   "type=mod",
   "zipbasedir=lunsp1/"
  ],
- "title": "Concentric Devastation",
  "urls": [
   "https://www.quaddicted.com/filebase/lunsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/11/11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c/lunsp1.zip"

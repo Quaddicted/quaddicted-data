@@ -1,7 +1,4 @@
 {
- "authors": [
-  "TDK Team"
- ],
  "bytes": 6981423,
  "description": "Large scale partial conversion with non-linear explorational gameplay, set in a medieval/fantasy world (complete with village, castle, church, forest, temple, etc) - 14 maps in total, modified monsters, and more.",
  "files": {
@@ -182,7 +179,6 @@
   "extract": "{base}/tdk/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-27",
  "sha256": "c53a92180f58d643cc4cdb06d81f2006575e92891fde19a3bfcf8f1f6d570777",
  "tags": [
   "author=TDK Team",
@@ -203,7 +199,6 @@
   "type=mod",
   "zipbasedir=tdk/"
  ],
- "title": "The Demon King",
  "urls": [
   "https://www.quaddicted.com/filebase/tdk11.zip",
   "https://www.quaddicted.com/files/by-sha256/c5/c53a92180f58d643cc4cdb06d81f2006575e92891fde19a3bfcf8f1f6d570777/tdk11.zip"

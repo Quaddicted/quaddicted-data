@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brainstorm"
- ],
  "bytes": 85557,
  "description": "Very tiny SP/DM map in the shape of a Quake rune.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-01",
  "sha256": "0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e",
  "tags": [
   "author=Brainstorm",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dis'z stupid!",
  "urls": [
   "https://www.quaddicted.com/filebase/stupid.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e/stupid.zip"

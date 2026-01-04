@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Apollo",
-  "Blitz",
-  "Cybear",
-  "NotoriousRay",
-  "XeNoN"
- ],
  "bytes": 1300989,
  "description": "Unthemed / 6 SP maps / Apollo, Cybear, NotoriousRay, Blitz, XeNoN",
  "files": {
@@ -54,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-20",
  "sha256": "4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686",
  "tags": [
   "author=Apollo",
@@ -78,7 +70,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 15 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm15_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686/sm15_pack.zip"

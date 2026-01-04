@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Moz",
-  "RPG",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 744030,
  "description": "Cube maps / 3 SP, 1 DM maps / Moz, Starbuck, Scampie, RPG",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-09-11",
  "sha256": "607d740c6011b48ce5388a7d9e9927042e795cf6183e32f2b8466daa169b1069",
  "tags": [
   "author=Moz",
@@ -56,7 +49,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 53 - Cube maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm53_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/60/607d740c6011b48ce5388a7d9e9927042e795cf6183e32f2b8466daa169b1069/sm53_pack.zip"

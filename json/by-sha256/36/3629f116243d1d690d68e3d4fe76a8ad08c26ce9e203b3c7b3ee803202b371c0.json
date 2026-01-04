@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Thuby"
- ],
  "bytes": 796667,
  "description": "Small shadowy medieval-themed castle map. Difficulty settings are not implemented (all skill levels play the same.) Map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-06-15",
  "sha256": "3629f116243d1d690d68e3d4fe76a8ad08c26ce9e203b3c7b3ee803202b371c0",
  "tags": [
   "author=Thuby",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Embrasure",
  "urls": [
   "https://www.quaddicted.com/filebase/thuby01.zip",
   "https://www.quaddicted.com/files/by-sha256/36/3629f116243d1d690d68e3d4fe76a8ad08c26ce9e203b3c7b3ee803202b371c0/thuby01.zip"

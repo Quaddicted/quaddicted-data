@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Giftmacher",
-  "Sock"
- ],
  "bytes": 30964728,
  "description": "Huge and intricately detailed map set in a medieval swampy environment. Loosely based on e1m3. The map source and the texture wad are included.",
  "files": {
@@ -1100,7 +1096,6 @@
   "The download includes an update to <a href=\"d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d\">Arcane Dimensions 1.5</a>, which is required.",
   "This release requires an engine with dramatically raised limits, such as Quakespasm 0.93.0 or higher."
  ],
- "release_date": "2017-06-17",
  "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
  "tags": [
   "author=Giftmacher",
@@ -1129,7 +1124,6 @@
   "type=mod",
   "zipbasedir=ad/"
  ],
- "title": "The Forgotten Sepulcher",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_sepulcher.zip",
   "https://www.quaddicted.com/files/by-sha256/db/dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb/ad_sepulcher.zip"

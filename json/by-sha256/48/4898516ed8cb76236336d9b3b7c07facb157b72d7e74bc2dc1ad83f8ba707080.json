@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Derek 'Lombard' Barr"
- ],
  "bytes": 1070084,
  "description": "Medium-sized medieval fortress. Comes with a start map and features a few new textures as well as a custom SNG model.",
  "files": {
@@ -46,7 +43,6 @@
   "extract": "{base}/lmed1/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-05",
  "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "tags": [
   "author=Derek 'Lombard' Barr",
@@ -68,7 +64,6 @@
   "type=mod",
   "zipbasedir=lmed1/"
  ],
- "title": "The Ancient Fortress",
  "urls": [
   "https://www.quaddicted.com/filebase/lmed1.zip",
   "https://www.quaddicted.com/files/by-sha256/48/4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080/lmed1.zip"

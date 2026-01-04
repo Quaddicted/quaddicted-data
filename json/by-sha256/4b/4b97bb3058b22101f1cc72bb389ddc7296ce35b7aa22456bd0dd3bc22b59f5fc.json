@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Einar Saukas (QC)",
-  "Neil Manke"
- ],
  "bytes": 1189137,
  "description": "First map of the Alba TC. Set in 14th century Scotland. A small canyon level.",
  "files": {
@@ -75,7 +71,6 @@
   "extract": "{base}/alba01/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-25",
  "sha256": "4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc",
  "tags": [
   "author=Einar Saukas (QC)",
@@ -106,7 +101,6 @@
   "type=mod",
   "zipbasedir=alba01/"
  ],
- "title": "Road to Inverurie",
  "urls": [
   "https://www.quaddicted.com/filebase/alba01.zip",
   "https://www.quaddicted.com/files/by-sha256/4b/4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc/alba01.zip"

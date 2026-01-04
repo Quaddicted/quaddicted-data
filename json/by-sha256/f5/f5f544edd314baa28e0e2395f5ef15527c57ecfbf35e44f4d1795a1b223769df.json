@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Spootnik"
- ],
  "bytes": 809861,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Small map created with protoype textures, consisting of various experimental 'challenges' in place of conventional gameplay.",
  "files": {
   "dope1.bsp": {
@@ -37,7 +31,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2024-01-11",
  "sha256": "f5f544edd314baa28e0e2395f5ef15527c57ecfbf35e44f4d1795a1b223769df",
  "tags": [
   "author=Spootnik",
@@ -55,7 +48,6 @@
   "title=Info Player Start: A Dope (Challenge) Map",
   "type=map"
  ],
- "title": "Info Player Start: A Dope (Challenge) Map",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/f5/f5f544edd314baa28e0e2395f5ef15527c57ecfbf35e44f4d1795a1b223769df/dope1.zip",
   "https://x901.net/quaddictedfiles/dope1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 3159620,
  "description": "Large Medieval mountain fortress with extreme scale and horde combat.",
  "files": {
@@ -37,11 +34,6 @@
  "notes": [
   "This map requires Scourge of Armagon and an engine port with increased limits. An updated version (that doesn't require SoA) is available <a href=\"c38af7e50ee791b94accbfe97285499571b6b212ad09142fff44ea9c9c18349e\">here</a>."
  ],
- "provides": {
-  "masque": "1.0"
- },
- "release_date": "2005-10-12",
- "release_group": "masque",
  "sha256": "6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -70,10 +62,8 @@
   "version=1.0",
   "zipbasedir=masque/"
  ],
- "title": "The Masque of Red Death",
  "urls": [
   "https://www.quaddicted.com/filebase/masque.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff/masque.zip"
- ],
- "version": "1.0"
+ ]
 }

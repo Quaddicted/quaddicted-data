@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ORL"
- ],
  "bytes": 4643322,
  "description": "Two old maps released for archival purposes: Laboratory X (oms24), a huge underground base with strange comic-style custom textures, and Neighboring Alcazar's (oms25), a medium-sized orange medieval fortress inside a canyon, which follows the same theme as <a href=\"bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441\">Conflagrant Rodent</a>.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2012-10-13",
  "sha256": "56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920",
  "tags": [
   "author=ORL",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Laboratory X & Neighboring Alcazar's",
  "urls": [
   "https://www.quaddicted.com/filebase/oms_unmentionables.zip",
   "https://www.quaddicted.com/files/by-sha256/56/56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920/oms_unmentionables.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Clarke"
- ],
  "bytes": 787339,
  "description": "Medium sized Wizard castle.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-26",
  "sha256": "32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193",
  "tags": [
   "author=Steve Clarke",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Notlob's Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/sgc6.zip",
   "https://www.quaddicted.com/files/by-sha256/32/32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193/sgc6.zip"

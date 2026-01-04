@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 634222,
  "description": "Small terracotta-colored Coagula-style space map. Also featured in the first Coagula mapping contest pack.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-05-07",
  "sha256": "915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Terracotta Terror",
  "urls": [
   "https://www.quaddicted.com/filebase/terror.zip",
   "https://www.quaddicted.com/files/by-sha256/91/915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae/terror.zip"

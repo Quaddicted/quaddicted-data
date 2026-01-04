@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "negke"
- ],
  "bytes": 1206070,
  "description": "80s arcade tribute / 5 SP maps / Drew (Quoth), negke",
  "files": {
@@ -41,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-02-17",
  "sha256": "4077ecaf15e110c8a92003f816cc41a121eed11c86019ce3bb24edd72dfebd49",
  "tags": [
   "author=Drew",
@@ -61,7 +56,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 158 - 80s arcade tribute",
  "urls": [
   "https://www.quaddicted.com/filebase/sm158_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/40/4077ecaf15e110c8a92003f816cc41a121eed11c86019ce3bb24edd72dfebd49/sm158_pack.zip"

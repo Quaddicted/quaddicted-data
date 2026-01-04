@@ -1,11 +1,5 @@
 {
- "authors": [
-  "apterous"
- ],
  "bytes": 19805445,
- "depends": [
-  "copper>=1.30"
- ],
  "description": "Large brutalist/concrete map in the spirit of <a href=\"c849d7d59b951d80d745ba25caf923e22144a9f65b73a9055ccd300efaa01e10\">QBJ</a> and <a href=\"24a93f05c7c71af8993229ad5446ce45ae47d176b02cc27b71fdd85dde69afa8\">QBJ2</a>. Easy skill has no monsters for those just wishing to explore and take in the visuals, whereas normal and hard have hundreds of enemies.",
  "files": {
   "copper/": {
@@ -58,7 +52,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2023-11-09",
  "sha256": "469b95616d62b61a8956adfeea2f896ac88f8702a580f8e4def2ffb3d67277ce",
  "tags": [
   "author=apterous",
@@ -77,7 +70,6 @@
   "title=Pale Peril",
   "type=map"
  ],
- "title": "Pale Peril",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/46/469b95616d62b61a8956adfeea2f896ac88f8702a580f8e4def2ffb3d67277ce/apterous_pale_peril.zip",
   "https://x901.net/quaddictedfiles/apterous_pale_peril.zip"

@@ -1,30 +1,4 @@
 {
- "authors": [
-  "ChrisHolden",
-  "Greenwood",
-  "Grue",
-  "Heresy",
-  "JCR",
-  "Krak",
-  "Krampus",
-  "Magnetbox",
-  "Makt",
-  "Mememind",
-  "Mrtaufner",
-  "Mykee",
-  "Naitelveni",
-  "Omni",
-  "Pinchy",
-  "Radiatoryang",
-  "Repator",
-  "Riktoi",
-  "Scythe",
-  "Textfish",
-  "Wiedo",
-  "ionous",
-  "ish",
-  "sock"
- ],
  "bytes": 243498274,
  "description": "Annual Christmas mapping event. This pack features 25 \"small\" maps in varying styles where all gameplay takes place within a 1024x1024x1024 space. It runs on <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> (included) and comes with some additional content like sounds, models, skyboxes and music tracks. The map sources are included.",
  "files": {
@@ -10521,7 +10495,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-12-14",
  "sha256": "9e4e3f1c9d2a4d0a8feafdc208e9f361e34879db46d83b503e8de307bd53e905",
  "tags": [
   "author=ChrisHolden",
@@ -10606,7 +10579,6 @@
   "type=mod",
   "zipbasedir=xmasjam2021/"
  ],
- "title": "Xmas Jam 2021",
  "urls": [
   "https://www.quaddicted.com/filebase/xmasjam2021.zip",
   "https://www.quaddicted.com/files/by-sha256/9e/9e4e3f1c9d2a4d0a8feafdc208e9f361e34879db46d83b503e8de307bd53e905/xmasjam2021.zip"

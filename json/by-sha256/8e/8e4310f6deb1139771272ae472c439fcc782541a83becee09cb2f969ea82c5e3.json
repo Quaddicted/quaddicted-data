@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Keefner"
- ],
  "bytes": 2248490,
  "description": "Small / medium level with a mix of medieval / industrial / base themes for vanilla Quake. Map source is included.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-11-30",
  "sha256": "8e4310f6deb1139771272ae472c439fcc782541a83becee09cb2f969ea82c5e3",
  "tags": [
   "author=Paul Keefner",
@@ -62,7 +58,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Short Fight",
  "urls": [
   "https://www.quaddicted.com/filebase/short_fight.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8e4310f6deb1139771272ae472c439fcc782541a83becee09cb2f969ea82c5e3/short_fight.zip"

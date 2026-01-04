@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brian Ball"
- ],
  "bytes": 1322852,
  "description": "Medium sized Wizard map with a mine bit leading through a waterfall canyon. There are many deadly traps, so frequent quicksaving is recommended.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-21",
  "sha256": "336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7",
  "tags": [
   "author=Brian Ball",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Halo of Fire (Leap of Faith)",
  "urls": [
   "https://www.quaddicted.com/filebase/halo.zip",
   "https://www.quaddicted.com/files/by-sha256/33/336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7/halo.zip"

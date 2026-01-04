@@ -1,7 +1,4 @@
 {
- "authors": [
-  "James Garrett"
- ],
  "bytes": 192676,
  "description": "A dungeon made of brick and wood.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "1997-02-16",
  "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
  "tags": [
   "author=James Garrett",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Jim's Dungeon",
  "urls": [
   "https://www.quaddicted.com/filebase/jdungeon.zip",
   "https://www.quaddicted.com/files/by-sha256/75/756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12/jdungeon.zip"

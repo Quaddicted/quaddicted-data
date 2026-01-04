@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Necros",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 724430,
  "description": "Unthemed / 3 __ maps / Scampie, Necros, Starbuck",
  "files": {
@@ -37,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-08-31",
  "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "tags": [
   "author=Necros",
@@ -54,7 +48,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 47 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm47_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/63/63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a/sm47_pack.zip"

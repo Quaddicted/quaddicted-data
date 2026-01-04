@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Fairweather",
-  "Greenwood",
-  "Markie Music",
-  "Mazu",
-  "Shamblernaut",
-  "Voidforce"
- ],
  "bytes": 15670500,
  "description": "Six small ~2-hour speedmaps + a start hub, all following different themes and based on the <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a> mod (included). It comes with a custom music track. The map sources are included.",
  "files": {
@@ -522,7 +514,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-01-04",
  "sha256": "25600d067aa318a670bfa3f00541e49cc9c237f9070a2ce037e517ac50c09cbc",
  "tags": [
   "author=Fairweather",
@@ -551,7 +542,6 @@
   "type=speedmap",
   "zipbasedir=/"
  ],
- "title": "We got bored lol",
  "urls": [
   "https://www.quaddicted.com/filebase/bored.zip",
   "https://www.quaddicted.com/files/by-sha256/25/25600d067aa318a670bfa3f00541e49cc9c237f9070a2ce037e517ac50c09cbc/bored.zip"

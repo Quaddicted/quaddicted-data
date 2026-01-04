@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders Elvstr\u00f6m \"Elvis\""
- ],
  "bytes": 1197076,
  "description": "Medium sized medieval castle with a temple and a sewer. Uses many new textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-02-23",
  "sha256": "99107ab00d9b58821044148c1bf277395c288e4c319c7b9b26b747ad44853636",
  "tags": [
   "author=Anders Elvstr\u00f6m \"Elvis\"",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Quakeshift",
  "urls": [
   "https://www.quaddicted.com/filebase/qshift.zip",
   "https://www.quaddicted.com/files/by-sha256/99/99107ab00d9b58821044148c1bf277395c288e4c319c7b9b26b747ad44853636/qshift.zip"

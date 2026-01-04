@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Bubbah"
- ],
  "bytes": 273712,
  "description": "Very small metal map with a slate.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-15",
  "sha256": "e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe",
  "tags": [
   "author=Bubbah",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bubbah's Slate",
  "urls": [
   "https://www.quaddicted.com/filebase/bub2.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe/bub2.zip"

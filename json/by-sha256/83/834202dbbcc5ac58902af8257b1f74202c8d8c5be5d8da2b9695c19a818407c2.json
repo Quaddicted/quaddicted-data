@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Fat Controller",
-  "Scampie",
-  "Xen",
-  "czg"
- ],
  "bytes": 1130633,
  "description": "~ish maps / 4 SP maps / czg, Fat Controller, Scampie, Xen",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-09-29",
  "sha256": "834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2",
  "tags": [
   "author=Fat Controller",
@@ -66,7 +59,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 51 - ~ish maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm51_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/83/834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2/sm51_pack.zip"

@@ -1,11 +1,4 @@
 {
- "authors": [
-  "4LT",
-  "Mazu",
-  "Pinchy",
-  "riktoi",
-  "zigi"
- ],
  "bytes": 41203739,
  "description": "4 silly prank maps + custom start map made in a month, organized by 4LT and Zigi. Built on modified progs_dump3 (already included), includes custom music and map source. The sequel to <a href=\"05a5f153cf6b496e401501f144c91b648e3a1e147c0314834bbc9f969b5c8996\">Joke Jam (2020)</a>.",
  "files": {
@@ -684,7 +677,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-04-01",
  "sha256": "6a6ac4e4983184eed2dfa00d0bfe07575a3ea9b070c31abae98a1cbe7caafe6b",
  "tags": [
   "author=4LT",
@@ -712,7 +704,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Joke Jam 2 - Quake April Fools Mega Jokemap Extravaganza Incorporated 2",
  "urls": [
   "https://www.quaddicted.com/filebase/jokejam2.zip",
   "https://www.quaddicted.com/files/by-sha256/6a/6a6ac4e4983184eed2dfa00d0bfe07575a3ea9b070c31abae98a1cbe7caafe6b/jokejam2.zip"

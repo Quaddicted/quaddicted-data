@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tigger-ON"
- ],
  "bytes": 480199,
  "description": "Small DM map with SP settings: an enemy base with a warehouse bit beneath. Uses Quake2 and other custom textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-06",
  "sha256": "18bd4ee7551ddde9c8aa12fd6d07535e0241b971544da026098b4fd7885ab783",
  "tags": [
   "author=Tigger-ON",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Stray Cat",
  "urls": [
   "https://www.quaddicted.com/filebase/tigcat02.zip",
   "https://www.quaddicted.com/files/by-sha256/18/18bd4ee7551ddde9c8aa12fd6d07535e0241b971544da026098b4fd7885ab783/tigcat02.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matt Sefton"
- ],
  "bytes": 890491,
  "description": "Medium sized medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-28",
  "sha256": "70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725",
  "tags": [
   "author=Matt Sefton",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Lost World",
  "urls": [
   "https://www.quaddicted.com/filebase/lostwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725/lostwrld.zip"

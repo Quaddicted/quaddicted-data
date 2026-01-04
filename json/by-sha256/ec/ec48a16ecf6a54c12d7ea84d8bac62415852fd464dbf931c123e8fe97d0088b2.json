@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Turner"
- ],
  "bytes": 513351,
  "description": "Medium sized map - a small base bit leading into a dark Wizard/brick dungeon.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-09-29",
  "sha256": "ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2",
  "tags": [
   "author=Mark Turner",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Colony",
  "urls": [
   "https://www.quaddicted.com/filebase/colony.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2/colony.zip"

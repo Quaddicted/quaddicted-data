@@ -1,19 +1,4 @@
 {
- "authors": [
-  "Bisquit",
-  "Fairweather",
-  "Greenwood",
-  "Idolon",
-  "Ish",
-  "Magnetbox",
-  "Mazu",
-  "Nickster",
-  "Pinchy",
-  "Spootnik",
-  "Strideh",
-  "Sze",
-  "iYago"
- ],
  "bytes": 272292070,
  "description": "13 varied (some rather large) maps + custom start map. This year, there was no 1024^3 space constraint, and jammers used a mix of Halloween and Christmas themes since there was no Halloween jam. Built on Arcane Dimensions v1.81 (already included). Features some some custom monsters and music, and some map source is included. Jam organized by Fairweather.",
  "files": {
@@ -11581,7 +11566,6 @@
  "notes": [
   "Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-12-21",
  "sha256": "0fc8f530297f27b1360f05ae59d8facd3a9aedf153ac4d02dc7af882f0b78e1e",
  "tags": [
   "author=Bisquit",
@@ -11633,7 +11617,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Twisted Christmas Jam 2022 (Release 3)",
  "urls": [
   "https://www.quaddicted.com/filebase/tcj_r3.zip",
   "https://www.quaddicted.com/files/by-sha256/0f/0fc8f530297f27b1360f05ae59d8facd3a9aedf153ac4d02dc7af882f0b78e1e/tcj_r3.zip"

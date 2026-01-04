@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ORL"
- ],
  "bytes": 11377530,
  "description": "SP episode with 8 medium sized Medieval/ Metal maps with some Base bits and a few custom textures (including start and secret level).",
  "files": {
@@ -65,7 +62,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-14",
  "sha256": "18bcb3fcd545b0f5c35c759572640733e3852f7137efb124061d8fc772a08740",
  "tags": [
   "author=ORL",
@@ -82,7 +78,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Orlmap episode",
  "urls": [
   "https://www.quaddicted.com/filebase/orlmaps.zip",
   "https://www.quaddicted.com/files/by-sha256/18/18bcb3fcd545b0f5c35c759572640733e3852f7137efb124061d8fc772a08740/orlmaps.zip"

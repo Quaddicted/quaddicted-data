@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jim Hendrickson"
- ],
  "bytes": 831157,
  "description": "Large interconnected Metal level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-26",
  "sha256": "b4ef9f01c8b723be7f9fbb6b5b5e89ecaba940ab1053ab85c5c5b91deed39b77",
  "tags": [
   "author=Jim Hendrickson",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bridges & Towers",
  "urls": [
   "https://www.quaddicted.com/filebase/bnt.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b4ef9f01c8b723be7f9fbb6b5b5e89ecaba940ab1053ab85c5c5b91deed39b77/bnt.zip"

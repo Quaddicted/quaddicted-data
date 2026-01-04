@@ -1,11 +1,5 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 1412830,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Around medium-sized level using developer textures; a test map for AD's Chaos mode. The map source and the texture wad are included.",
  "files": {
   "maps/": {
@@ -46,7 +40,6 @@
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.81</a>."
  ],
- "release_date": "2021-05-04",
  "sha256": "9c2607fb75f1145ebf69388df894aef4e0ef9abbb20a5c5afab30ccfc363eee8",
  "tags": [
   "author=sock",
@@ -73,7 +66,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Chaotic Trinity",
  "urls": [
   "https://www.quaddicted.com/filebase/test_chaos1.zip",
   "https://www.quaddicted.com/files/by-sha256/9c/9c2607fb75f1145ebf69388df894aef4e0ef9abbb20a5c5afab30ccfc363eee8/test_chaos1.zip"

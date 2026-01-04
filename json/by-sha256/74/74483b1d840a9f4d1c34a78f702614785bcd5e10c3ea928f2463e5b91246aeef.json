@@ -1,7 +1,4 @@
 {
- "authors": [
-  "EraserX"
- ],
  "bytes": 804033,
  "description": "Small Metal map: a beach leading into cramped caves with a few petrified dinosaurs.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-16",
  "sha256": "74483b1d840a9f4d1c34a78f702614785bcd5e10c3ea928f2463e5b91246aeef",
  "tags": [
   "author=EraserX",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Jurassic Cave",
  "urls": [
   "https://www.quaddicted.com/filebase/juracave.zip",
   "https://www.quaddicted.com/files/by-sha256/74/74483b1d840a9f4d1c34a78f702614785bcd5e10c3ea928f2463e5b91246aeef/juracave.zip"

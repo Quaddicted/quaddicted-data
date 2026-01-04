@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mars"
- ],
  "bytes": 21843254,
  "description": "Huge map featuring a cave system with a crypt beneath, a dungeon and some ruins; very high enemy count. It is based on the Progs_dump mod (included) and comes with a custom skybox as well as a few new sounds. The map source is included.",
  "files": {
@@ -498,7 +495,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-10-13",
  "sha256": "f2797a5b221bd89ee688b1a2bcfed282c2ab90c05104892f20c203ebc6acc4aa",
  "tags": [
   "author=Mars",
@@ -531,7 +527,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Forgotten Nightmare",
  "urls": [
   "https://www.quaddicted.com/filebase/mars_e0m1.zip",
   "https://www.quaddicted.com/files/by-sha256/f2/f2797a5b221bd89ee688b1a2bcfed282c2ab90c05104892f20c203ebc6acc4aa/mars_e0m1.zip"

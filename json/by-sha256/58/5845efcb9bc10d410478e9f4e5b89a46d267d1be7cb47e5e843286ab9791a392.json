@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Mike Woodham",
-  "Sloppy Jaloppy"
- ],
  "bytes": 1159319,
  "description": "Mike Woodham fixed and improved an old map by Sloppy Jaloppy. Yellow brick (like dm1) medieval.",
  "files": {
@@ -21,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-05-18",
  "sha256": "5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392",
  "tags": [
   "author=Mike Woodham",
@@ -40,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "For My Babies 5",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb5.zip",
   "https://www.quaddicted.com/files/by-sha256/58/5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392/fmb5.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jim Ahara"
- ],
  "bytes": 568687,
  "description": "Smallish map with mixed texture themes. Includes a chapel and stairs, and blue bricks.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-10",
  "sha256": "baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a",
  "tags": [
   "author=Jim Ahara",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Devil's Decree",
  "urls": [
   "https://www.quaddicted.com/filebase/decree.zip",
   "https://www.quaddicted.com/files/by-sha256/ba/baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a/decree.zip"

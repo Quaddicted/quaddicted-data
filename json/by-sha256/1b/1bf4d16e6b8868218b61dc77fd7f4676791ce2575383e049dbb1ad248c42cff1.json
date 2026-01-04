@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lilith/raven33"
- ],
  "bytes": 745537,
  "description": "Small base level. The map source is included.",
  "files": {
@@ -45,7 +42,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2021-03-22",
  "sha256": "1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1",
  "tags": [
   "author=Lilith/raven33",
@@ -61,7 +57,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "FirstCoolMap",
  "urls": [
   "https://www.quaddicted.com/filebase/firstcoolmaprelease.zip",
   "https://www.quaddicted.com/files/by-sha256/1b/1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1/firstcoolmaprelease.zip"

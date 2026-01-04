@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zwiffle"
- ],
  "bytes": 707566,
  "description": "Sealed version of Zwiffle's entry for the <a href=\"dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d\">q1tm3</a> event: A small to medium Knave map (fixed by aguirRe).",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-01-16",
  "sha256": "24d57bad5eac7a0effad0cec63e3e9802f6daafa565eaba18156a2bb57fabc4a",
  "tags": [
   "author=Zwiffle",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lairs of Kellephais",
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm3_zwiffle_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/24/24d57bad5eac7a0effad0cec63e3e9802f6daafa565eaba18156a2bb57fabc4a/q1tm3_zwiffle_v2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Franz Obermeier"
- ],
  "bytes": 757800,
  "description": "Medium sized Wizard/Medieval castle with a yard, a chapel, some dark corridors and lots of action.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-28",
  "sha256": "b442fd4e21218e84b7c6be538c3e26898491950b77d816cafcda25d5bf88dc6f",
  "tags": [
   "author=Franz Obermeier",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Obi's Quake World",
  "urls": [
   "https://www.quaddicted.com/filebase/fober1.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b442fd4e21218e84b7c6be538c3e26898491950b77d816cafcda25d5bf88dc6f/fober1.zip"

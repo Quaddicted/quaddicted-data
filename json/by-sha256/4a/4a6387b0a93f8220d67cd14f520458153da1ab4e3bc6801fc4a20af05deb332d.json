@@ -1,11 +1,4 @@
 {
- "authors": [
-  "PuLSaR",
-  "Scampie",
-  "Speedy",
-  "Zwiffle",
-  "metlslime"
- ],
  "bytes": 1457358,
  "description": "Vertical Swamps / 5 SP maps / metlslime, PuLSaR, Scampie, Speedy, Zwiffle",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-30",
  "sha256": "4a6387b0a93f8220d67cd14f520458153da1ab4e3bc6801fc4a20af05deb332d",
  "tags": [
   "author=PuLSaR",
@@ -66,7 +58,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 80 - Vertical Swamps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm80_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4a6387b0a93f8220d67cd14f520458153da1ab4e3bc6801fc4a20af05deb332d/sm80_pack.zip"

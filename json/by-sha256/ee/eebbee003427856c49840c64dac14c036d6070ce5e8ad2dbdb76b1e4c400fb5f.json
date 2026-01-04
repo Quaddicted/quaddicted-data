@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 1313072,
  "description": "Three small maps representing one. They are somewhat medieval/metal themed for the most part and have quite a few deadly traps.",
  "files": {
@@ -60,7 +57,6 @@
   "extract": "{base}/lastgame/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-20",
  "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [
   "author=J.F.Gustafsson",
@@ -78,7 +74,6 @@
   "type=mod",
   "zipbasedir=lastgame/"
  ],
- "title": "The last game",
  "urls": [
   "https://www.quaddicted.com/filebase/lastgame.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f/lastgame.zip"

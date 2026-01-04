@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Misyu",
-  "Vigil",
-  "Xen",
-  "necros"
- ],
  "bytes": 2414882,
  "description": "Chain map consisting of five speedmapped 'sections' by various authors, idbase themed and set underground, with a somewhat vertical layout. The map source is included.",
  "files": {
@@ -165,7 +159,6 @@
   "extract": "{base}/sm36/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-10-08",
  "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "tags": [
   "author=Misyu",
@@ -185,7 +178,6 @@
   "type=mod",
   "zipbasedir=sm36/"
  ],
- "title": "Subterranean Siege",
  "urls": [
   "https://www.quaddicted.com/filebase/sm36.zip",
   "https://www.quaddicted.com/files/by-sha256/1d/1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23/sm36.zip"

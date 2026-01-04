@@ -1,7 +1,4 @@
 {
- "authors": [
-  "D. North"
- ],
  "bytes": 491279,
  "description": "Small cramped Wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-02",
  "sha256": "e826d5bb111d2cafcb4658f3b19679282e2e694b29c5f96bc63ebb27b9a6081d",
  "tags": [
   "author=D. North",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Pyromid",
  "urls": [
   "https://www.quaddicted.com/filebase/pyromid.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e826d5bb111d2cafcb4658f3b19679282e2e694b29c5f96bc63ebb27b9a6081d/pyromid.zip"

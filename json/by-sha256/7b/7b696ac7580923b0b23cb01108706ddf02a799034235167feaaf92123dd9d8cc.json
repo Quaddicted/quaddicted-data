@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPL"
- ],
  "bytes": 3422130,
  "description": "Large, dark castle level with DKT3 textures.",
  "files": {
@@ -34,7 +31,6 @@
   "extract": "{base}/cda/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-10-22",
  "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "tags": [
   "author=JPL",
@@ -55,7 +51,6 @@
   "type=mod",
   "zipbasedir=cda/"
  ],
- "title": "Castle of The Dark Ages",
  "urls": [
   "https://www.quaddicted.com/filebase/cda.zip",
   "https://www.quaddicted.com/files/by-sha256/7b/7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc/cda.zip"

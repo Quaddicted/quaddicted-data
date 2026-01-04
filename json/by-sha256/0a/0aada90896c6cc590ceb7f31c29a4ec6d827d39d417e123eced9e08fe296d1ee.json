@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jay Vanover"
- ],
  "bytes": 415506,
  "description": "Medium sized Wizard/Metal dungeon with lots of water/lava.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-05",
  "sha256": "0aada90896c6cc590ceb7f31c29a4ec6d827d39d417e123eced9e08fe296d1ee",
  "tags": [
   "author=Jay Vanover",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fear No Fall",
  "urls": [
   "https://www.quaddicted.com/filebase/fearfall.zip",
   "https://www.quaddicted.com/files/by-sha256/0a/0aada90896c6cc590ceb7f31c29a4ec6d827d39d417e123eced9e08fe296d1ee/fearfall.zip"

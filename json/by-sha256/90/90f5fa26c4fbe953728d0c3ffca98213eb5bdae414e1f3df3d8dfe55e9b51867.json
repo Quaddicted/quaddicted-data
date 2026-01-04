@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ondrejoda"
- ],
  "bytes": 2087521,
  "description": "Three tiny, cramped beginner's maps. Walkthrough demos and the map sources are included.",
  "files": {
@@ -85,7 +82,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2021-07-22",
  "sha256": "90f5fa26c4fbe953728d0c3ffca98213eb5bdae414e1f3df3d8dfe55e9b51867",
  "tags": [
   "author=Ondrejoda",
@@ -101,7 +97,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Claustrophobica, FlatMap, A Place of Many Doors",
  "urls": [
   "https://www.quaddicted.com/filebase/mappack_2.zip",
   "https://www.quaddicted.com/files/by-sha256/90/90f5fa26c4fbe953728d0c3ffca98213eb5bdae414e1f3df3d8dfe55e9b51867/mappack_2.zip"

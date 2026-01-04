@@ -1,12 +1,5 @@
 {
- "authors": [
-  "lumisynth"
- ],
  "bytes": 703767,
- "current_main_group_package": true,
- "depends": [
-  "copper=1.30"
- ],
  "description": "Metal map set in a mountain crypt. The author's first finished map.",
  "files": {
   "hiddencrypt.bsp": {
@@ -32,11 +25,6 @@
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
  ],
- "provides": {
-  "hiddencrypt": "1.2"
- },
- "release_date": "2024-07-29",
- "release_group": "hiddencrypt",
  "sha256": "9a9b793d4e574e1c301173ae9e842cfda791cdaa02234a6def193609bf13be19",
  "tags": [
   "author=lumisynth",
@@ -58,10 +46,8 @@
   "version=1.2",
   "zipbasedir=copper/maps/"
  ],
- "title": "Hidden Cursed Crypt",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/9a/9a9b793d4e574e1c301173ae9e842cfda791cdaa02234a6def193609bf13be19/hiddencrypt_1.2.zip",
   "https://x901.net/quaddictedfiles/hiddencrypt_1.2.zip"
- ],
- "version": "1.2"
+ ]
 }

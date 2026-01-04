@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 3625274,
  "description": "Small map with abstract designs and mainly outdoor settings, with nightmare difficulty automatically enabled. The author's first map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-07-24",
  "sha256": "bf58cae9e7863f4de259d46cc91bad8fa5256d2489113f65826e67fa4e485372",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Rotten Caverns",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/bf/bf58cae9e7863f4de259d46cc91bad8fa5256d2489113f65826e67fa4e485372/recavup.zip",
   "https://x901.net/quaddictedfiles/recavup.zip"

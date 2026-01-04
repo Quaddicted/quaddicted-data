@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi"
- ],
  "bytes": 521710,
  "description": "Small Base-style speedmap.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-09-16",
  "sha256": "691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181",
  "tags": [
   "author=Hrimfaxi",
@@ -39,7 +35,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hrimspeed",
  "urls": [
   "https://www.quaddicted.com/filebase/hrimspeed.zip",
   "https://www.quaddicted.com/files/by-sha256/69/691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181/hrimspeed.zip"

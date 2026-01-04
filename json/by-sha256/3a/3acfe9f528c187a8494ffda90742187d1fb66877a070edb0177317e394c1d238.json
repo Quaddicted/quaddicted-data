@@ -1,7 +1,4 @@
 {
- "authors": [
-  "F14m3z"
- ],
  "bytes": 491241,
  "description": "Very small medieval level made for speedrunning.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-04-29",
  "sha256": "3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238",
  "tags": [
   "author=F14m3z",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Bilious Outpost",
  "urls": [
   "https://www.quaddicted.com/filebase/biliousoutpostfinal.zip",
   "https://www.quaddicted.com/files/by-sha256/3a/3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238/biliousoutpostfinal.zip"

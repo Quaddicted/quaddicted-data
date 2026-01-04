@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Taskmaster"
- ],
  "bytes": 539197,
  "description": "Short, fun map made of grey bricks and metal.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-17",
  "sha256": "695770447758f778d2c22d1c77a651894110a5100ec54297d30f4af7f85b8ec7",
  "tags": [
   "author=Taskmaster",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Eye Socket",
  "urls": [
   "https://www.quaddicted.com/filebase/eyesock.zip",
   "https://www.quaddicted.com/files/by-sha256/69/695770447758f778d2c22d1c77a651894110a5100ec54297d30f4af7f85b8ec7/eyesock.zip"

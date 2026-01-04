@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 284835,
  "description": "Small and very dark level consisting of two rooms connected by a drain pipe, possibly designed for deathmatch.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-01-23",
  "sha256": "275010827c077150d87289715e9c1850af76b5ab56522b15ddd796d77f0d8224",
  "tags": [
   "author=Unknown",
@@ -30,7 +26,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Waterways",
  "urls": [
   "https://www.quaddicted.com/filebase/watrways.zip",
   "https://www.quaddicted.com/files/by-sha256/27/275010827c077150d87289715e9c1850af76b5ab56522b15ddd796d77f0d8224/watrways.zip"

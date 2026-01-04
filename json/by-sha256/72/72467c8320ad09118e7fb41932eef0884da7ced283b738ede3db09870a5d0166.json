@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 1049080,
  "description": "Unsealed map using a variety of textures.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-09-02",
  "sha256": "72467c8320ad09118e7fb41932eef0884da7ced283b738ede3db09870a5d0166",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pipe Funeral",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/72/72467c8320ad09118e7fb41932eef0884da7ced283b738ede3db09870a5d0166/funeral.zip",
   "https://x901.net/quaddictedfiles/funeral.zip"

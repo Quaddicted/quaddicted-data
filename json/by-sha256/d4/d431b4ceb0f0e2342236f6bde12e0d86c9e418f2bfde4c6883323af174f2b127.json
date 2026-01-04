@@ -1,11 +1,5 @@
 {
- "authors": [
-  "DragonsForLunch"
- ],
  "bytes": 7239583,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Small castle surrounded by mountains, using custom textures by Makkon. The map source is included.",
  "files": {
   "dfl_evilwizard/Readme.txt": {
@@ -39,7 +33,6 @@
  "notes": [
   "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions 1.8</a> and thus a source port with increased limits."
  ],
- "release_date": "2020-12-19",
  "sha256": "d431b4ceb0f0e2342236f6bde12e0d86c9e418f2bfde4c6883323af174f2b127",
  "tags": [
   "author=DragonsForLunch",
@@ -67,7 +60,6 @@
   "type=map",
   "zipbasedir=ad/maps/"
  ],
- "title": "Evil Wizard",
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_evilwizard.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d431b4ceb0f0e2342236f6bde12e0d86c9e418f2bfde4c6883323af174f2b127/dfl_evilwizard.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "zbidou72"
- ],
  "bytes": 39684566,
  "description": "Large dark underwater base / temple adventure map with lots of exploration. Textures by Makkon, built on extras_r5 mod by Khreathor (already included) with features like ladders. Map source is included.",
  "files": {
@@ -450,11 +447,6 @@
   "No custom start map or difficulty settings. Load manually in console with \"map teuthis\"",
   "Requires a modern engine / source port with increased limits. Probably won't work on regular Quakespasm, for best results use Quakespasm Spiked or vkQuake."
  ],
- "provides": {
-  "teuthis": "1.0"
- },
- "release_date": "2022-04-13",
- "release_group": "teuthis",
  "sha256": "c8ab0db09c1e22f9f05b9f4923ab9ee1dac0dc513c592fedbd46556509be3c16",
  "tags": [
   "author=zbidou72",
@@ -483,10 +475,8 @@
   "type=mod",
   "version=1.0"
  ],
- "title": "Temple of Teuthis v1",
  "urls": [
   "https://www.quaddicted.com/filebase/teuthis.zip",
   "https://www.quaddicted.com/files/by-sha256/c8/c8ab0db09c1e22f9f05b9f4923ab9ee1dac0dc513c592fedbd46556509be3c16/teuthis.zip"
- ],
- "version": "1.0"
+ ]
 }

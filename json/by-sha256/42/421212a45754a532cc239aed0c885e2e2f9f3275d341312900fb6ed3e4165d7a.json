@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leafface"
- ],
  "bytes": 546849,
  "description": "Medium sized Wizard map. First map of the LFSP series.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-01",
  "sha256": "421212a45754a532cc239aed0c885e2e2f9f3275d341312900fb6ed3e4165d7a",
  "tags": [
   "author=Leafface",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The nowhere",
  "urls": [
   "https://www.quaddicted.com/filebase/lfsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/42/421212a45754a532cc239aed0c885e2e2f9f3275d341312900fb6ed3e4165d7a/lfsp1.zip"

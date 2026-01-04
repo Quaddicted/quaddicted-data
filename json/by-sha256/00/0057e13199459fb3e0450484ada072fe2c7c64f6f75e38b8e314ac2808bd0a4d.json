@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rastrelly"
- ],
  "bytes": 1558519,
  "description": "Medium-sized cathedral with some base elements. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-07-12",
  "sha256": "0057e13199459fb3e0450484ada072fe2c7c64f6f75e38b8e314ac2808bd0a4d",
  "tags": [
   "author=Rastrelly",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cathedral of the Doubt",
  "urls": [
   "https://www.quaddicted.com/filebase/cotdq1sp.zip",
   "https://www.quaddicted.com/files/by-sha256/00/0057e13199459fb3e0450484ada072fe2c7c64f6f75e38b8e314ac2808bd0a4d/cotdq1sp.zip"

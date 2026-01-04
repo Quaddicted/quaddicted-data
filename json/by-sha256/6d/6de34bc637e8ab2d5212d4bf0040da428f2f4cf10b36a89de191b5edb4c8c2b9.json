@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Swen Klemund"
- ],
  "bytes": 146124,
  "description": "Doom2 - Map07 converted for Quake with original textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-20",
  "sha256": "6de34bc637e8ab2d5212d4bf0040da428f2f4cf10b36a89de191b5edb4c8c2b9",
  "tags": [
   "author=Swen Klemund",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dead Simple  (Doom2-Map07)",
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_07.zip",
   "https://www.quaddicted.com/files/by-sha256/6d/6de34bc637e8ab2d5212d4bf0040da428f2f4cf10b36a89de191b5edb4c8c2b9/doom2_07.zip"

@@ -1,13 +1,4 @@
 {
- "authors": [
-  "DaZ",
-  "E-werd",
-  "Harb",
-  "Metlslime",
-  "NotoriousRay",
-  "Scampie",
-  "Starbuck"
- ],
  "bytes": 1862661,
  "description": "Crappy maps / 7 maps / DaZ, E-werd, Harb, Metlslime, NotoriousRay, Scampie, Starbuck",
  "files": {
@@ -56,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-09-14",
  "sha256": "c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b",
  "tags": [
   "author=DaZ",
@@ -87,7 +77,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 49 - Crappy maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm49_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c6/c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b/sm49_pack.zip"

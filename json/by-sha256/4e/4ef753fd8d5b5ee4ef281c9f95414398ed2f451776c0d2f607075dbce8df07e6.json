@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MadFox"
- ],
  "bytes": 1828442,
  "description": "Conversion of Quake II's map01, complete with textures and coloured lighting, but different monster placement.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "2007-03-07",
  "sha256": "4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6",
  "tags": [
   "author=MadFox",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Orb's Betrayal",
  "urls": [
   "https://www.quaddicted.com/filebase/orbit.zip",
   "https://www.quaddicted.com/files/by-sha256/4e/4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6/orbit.zip"

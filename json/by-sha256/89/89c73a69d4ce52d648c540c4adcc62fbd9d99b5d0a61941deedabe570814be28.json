@@ -1,11 +1,5 @@
 {
- "authors": [
-  "HanDuo"
- ],
  "bytes": 6406841,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Small temple map with Makkon textures. Map source is included. The author's first release.",
  "files": {
   "__MACOSX/._handuo_stepwell": {
@@ -182,7 +176,6 @@
   "Requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions v1.81+</a> and a modern engine / source port with increased limits.",
   "This file will not load in Quake Injector and requires manual installation."
  ],
- "release_date": "2022-11-05",
  "sha256": "89c73a69d4ce52d648c540c4adcc62fbd9d99b5d0a61941deedabe570814be28",
  "tags": [
   "author=HanDuo",
@@ -205,7 +198,6 @@
   "title=The Stepwell",
   "type=map"
  ],
- "title": "The Stepwell",
  "urls": [
   "https://www.quaddicted.com/filebase/handuo_stepwell.zip",
   "https://www.quaddicted.com/files/by-sha256/89/89c73a69d4ce52d648c540c4adcc62fbd9d99b5d0a61941deedabe570814be28/handuo_stepwell.zip"

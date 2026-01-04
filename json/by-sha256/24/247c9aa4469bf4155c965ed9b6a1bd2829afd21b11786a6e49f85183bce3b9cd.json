@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dennis Katsonis"
- ],
  "bytes": 20843086,
  "description": "Huge hellish fortress using a combination of Apocrypha/Ogro/Zerst\u00f6rer textures. Features a high monster count, a couple of technical additions, and a custom music track.",
  "files": {
@@ -162,7 +159,6 @@
  "notes": [
   "This map requires a source port with increased limits and BSP2 support."
  ],
- "release_date": "2020-02-16",
  "sha256": "247c9aa4469bf4155c965ed9b6a1bd2829afd21b11786a6e49f85183bce3b9cd",
  "tags": [
   "author=Dennis Katsonis",
@@ -185,7 +181,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Lords of Chaos",
  "urls": [
   "https://www.quaddicted.com/filebase/lordsofchaos.zip",
   "https://www.quaddicted.com/files/by-sha256/24/247c9aa4469bf4155c965ed9b6a1bd2829afd21b11786a6e49f85183bce3b9cd/lordsofchaos.zip"

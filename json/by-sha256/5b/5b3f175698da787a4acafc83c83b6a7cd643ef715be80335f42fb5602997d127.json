@@ -1,7 +1,4 @@
 {
- "authors": [
-  "NotoriousRay"
- ],
  "bytes": 1357038,
  "description": "some Speedmap by notorious ray",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127",
  "tags": [
   "author=NotoriousRay",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_ray_qwd.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127/sm83_ray_qwd.zip"

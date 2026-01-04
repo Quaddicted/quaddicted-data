@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matt Sefton"
- ],
  "bytes": 565264,
  "description": "Small Base map with an outdoor area.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-11",
  "sha256": "a69d7f5239df0b9695636b9ada4433944e4598413ebfb28627f847170b647a9a",
  "tags": [
   "author=Matt Sefton",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Underworld",
  "urls": [
   "https://www.quaddicted.com/filebase/undrwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/a6/a69d7f5239df0b9695636b9ada4433944e4598413ebfb28627f847170b647a9a/undrwrld.zip"

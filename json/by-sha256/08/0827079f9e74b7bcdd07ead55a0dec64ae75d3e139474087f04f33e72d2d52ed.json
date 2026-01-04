@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Viper"
- ],
  "bytes": 244803,
  "description": "Small WizMetal map made while learning how to use WorldCraft.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-24",
  "sha256": "0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed",
  "tags": [
   "author=Viper",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Cult",
  "urls": [
   "https://www.quaddicted.com/filebase/cult.zip",
   "https://www.quaddicted.com/files/by-sha256/08/0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed/cult.zip"

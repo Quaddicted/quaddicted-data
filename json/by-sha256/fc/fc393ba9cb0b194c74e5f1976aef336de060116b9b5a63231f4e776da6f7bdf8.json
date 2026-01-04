@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GraveyardKaiser"
- ],
  "bytes": 1085304,
  "description": "Small, abstract-themed wizard/castle map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2024-08-18",
  "sha256": "fc393ba9cb0b194c74e5f1976aef336de060116b9b5a63231f4e776da6f7bdf8",
  "tags": [
   "author=GraveyardKaiser",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Anatomy of a Wizard",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/fc/fc393ba9cb0b194c74e5f1976aef336de060116b9b5a63231f4e776da6f7bdf8/anawiz.zip",
   "https://x901.net/quaddictedfiles/anawiz.zip"

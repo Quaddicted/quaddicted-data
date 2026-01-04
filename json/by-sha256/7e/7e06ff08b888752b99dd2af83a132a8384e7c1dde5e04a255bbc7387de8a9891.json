@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Phil Hammond"
- ],
  "bytes": 229556,
  "description": "Small teleporter hub something.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-09",
  "sha256": "7e06ff08b888752b99dd2af83a132a8384e7c1dde5e04a255bbc7387de8a9891",
  "tags": [
   "author=Phil Hammond",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "FunRun",
  "urls": [
   "https://www.quaddicted.com/filebase/funrun.zip",
   "https://www.quaddicted.com/files/by-sha256/7e/7e06ff08b888752b99dd2af83a132a8384e7c1dde5e04a255bbc7387de8a9891/funrun.zip"

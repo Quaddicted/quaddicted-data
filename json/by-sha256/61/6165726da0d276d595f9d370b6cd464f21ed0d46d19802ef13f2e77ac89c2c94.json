@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Guilherme Nemeth"
- ],
  "bytes": 24308024,
  "description": "Large dark industrial map using IKbase textures. Comes with a custom music track by the author. The map source is included.",
  "files": {
@@ -53,7 +50,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-08-16",
  "sha256": "6165726da0d276d595f9d370b6cd464f21ed0d46d19802ef13f2e77ac89c2c94",
  "tags": [
   "author=Guilherme Nemeth",
@@ -74,7 +70,6 @@
   "type=map",
   "zipbasedir=nmth_machinery/"
  ],
- "title": "The Machinery",
  "urls": [
   "https://www.quaddicted.com/filebase/nmth_machinery_fix.zip",
   "https://www.quaddicted.com/files/by-sha256/61/6165726da0d276d595f9d370b6cd464f21ed0d46d19802ef13f2e77ac89c2c94/nmth_machinery_fix.zip"

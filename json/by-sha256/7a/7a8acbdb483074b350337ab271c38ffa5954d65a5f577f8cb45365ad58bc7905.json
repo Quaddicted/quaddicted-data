@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Windaws"
- ],
  "bytes": 3084164,
  "description": "Small runic level. The map source is included.",
  "files": {
@@ -50,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-06-13",
  "sha256": "7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905",
  "tags": [
   "author=Windaws",
@@ -66,7 +62,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Barbican Of Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/winbbcoh.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905/winbbcoh.zip"

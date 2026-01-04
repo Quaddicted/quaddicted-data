@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dia Westerteicher"
- ],
  "bytes": 1320255,
  "description": "Small space base with a hidden UFO beneath. Comes with strange new textures and three custom monsters (Drone, Red Demon, Snakeman).",
  "files": {
@@ -125,7 +122,6 @@
   "extract": "{base}/infectn/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-18",
  "sha256": "2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a",
  "tags": [
   "author=Dia Westerteicher",
@@ -145,7 +141,6 @@
   "type=mod",
   "zipbasedir=infectn/"
  ],
- "title": "Infection",
  "urls": [
   "https://www.quaddicted.com/filebase/infectn.zip",
   "https://www.quaddicted.com/files/by-sha256/2a/2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a/infectn.zip"

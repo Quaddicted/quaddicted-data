@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jean-Marc Gruninger"
- ],
  "bytes": 1115772,
  "description": "Medium sized Base map with a rocket/shuttle hangar. Must be played in Missionpack 1: Scourge of Armagon (hipnotic).",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-20",
  "sha256": "fccb9df7926073c5dc28c5e0d359484650d862aaf297be2a5e185318ec5e66eb",
  "tags": [
   "author=Jean-Marc Gruninger",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Mars 1",
  "urls": [
   "https://www.quaddicted.com/filebase/mars1.zip",
   "https://www.quaddicted.com/files/by-sha256/fc/fccb9df7926073c5dc28c5e0d359484650d862aaf297be2a5e185318ec5e66eb/mars1.zip"

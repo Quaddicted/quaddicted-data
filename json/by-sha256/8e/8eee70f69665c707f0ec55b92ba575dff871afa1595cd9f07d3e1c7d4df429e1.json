@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Glenn Ancheta"
- ],
  "bytes": 157306,
  "description": "More or less one Wizard-textured room with a few monsters.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-01",
  "sha256": "8eee70f69665c707f0ec55b92ba575dff871afa1595cd9f07d3e1c7d4df429e1",
  "tags": [
   "author=Glenn Ancheta",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Ledge",
  "urls": [
   "https://www.quaddicted.com/filebase/theledge.zip",
   "https://www.quaddicted.com/files/by-sha256/8e/8eee70f69665c707f0ec55b92ba575dff871afa1595cd9f07d3e1c7d4df429e1/theledge.zip"

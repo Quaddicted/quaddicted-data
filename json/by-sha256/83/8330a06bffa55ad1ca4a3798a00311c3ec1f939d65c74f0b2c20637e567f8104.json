@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Greenwood"
- ],
  "bytes": 17002133,
  "description": "Medium-sized castle using Daikatana E3 textures. Comes with a custom skybox and a poster screenshot.",
  "files": {
@@ -58,7 +55,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-03-18",
  "sha256": "8330a06bffa55ad1ca4a3798a00311c3ec1f939d65c74f0b2c20637e567f8104",
  "tags": [
   "author=Greenwood",
@@ -79,7 +75,6 @@
   "type=mod",
   "zipbasedir=zanthu/"
  ],
- "title": "Castle Zanthu",
  "urls": [
   "https://www.quaddicted.com/filebase/zanthu.zip",
   "https://www.quaddicted.com/files/by-sha256/83/8330a06bffa55ad1ca4a3798a00311c3ec1f939d65c74f0b2c20637e567f8104/zanthu.zip"

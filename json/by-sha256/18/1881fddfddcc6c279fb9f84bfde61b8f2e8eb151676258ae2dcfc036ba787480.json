@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jarkko Heilio"
- ],
  "bytes": 949667,
  "description": "Medium sized leaked tower map with mixed texture themes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-17",
  "sha256": "1881fddfddcc6c279fb9f84bfde61b8f2e8eb151676258ae2dcfc036ba787480",
  "tags": [
   "author=Jarkko Heilio",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tower Of Darkness",
  "urls": [
   "https://www.quaddicted.com/filebase/tower2a.zip",
   "https://www.quaddicted.com/files/by-sha256/18/1881fddfddcc6c279fb9f84bfde61b8f2e8eb151676258ae2dcfc036ba787480/tower2a.zip"

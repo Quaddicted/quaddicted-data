@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Qmaster"
- ],
  "bytes": 5164128,
  "description": "Huge underground necropolis in a Medieval/terracotta theme. It features the gremlin from SoA and has special optimizations for coop gameplay. The map source is included.",
  "files": {
@@ -333,7 +330,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2013-05-12",
  "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
  "tags": [
   "author=Qmaster",
@@ -357,7 +353,6 @@
   "title=Terracity",
   "type=mod"
  ],
- "title": "Terracity",
  "urls": [
   "https://www.quaddicted.com/filebase/terracity.zip",
   "https://www.quaddicted.com/files/by-sha256/ab/abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6/terracity.zip"

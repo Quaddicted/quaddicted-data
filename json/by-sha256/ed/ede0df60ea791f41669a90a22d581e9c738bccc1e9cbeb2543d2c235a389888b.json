@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tim Elek"
- ],
  "bytes": 598421,
  "description": "Small blue/red space level using Daikatana textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-23",
  "sha256": "ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b",
  "tags": [
   "author=Tim Elek",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Coagula3: Bone",
  "urls": [
   "https://www.quaddicted.com/filebase/coagula3_bone.zip",
   "https://www.quaddicted.com/files/by-sha256/ed/ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b/coagula3_bone.zip"

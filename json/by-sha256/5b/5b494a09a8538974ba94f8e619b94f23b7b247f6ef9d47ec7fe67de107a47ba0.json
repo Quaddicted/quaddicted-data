@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sid"
- ],
  "bytes": 788428,
  "description": "Small blue labyrinth filled with monsters.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-11-28",
  "sha256": "5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0",
  "tags": [
   "author=Sid",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dimension of the Dim",
  "urls": [
   "https://www.quaddicted.com/filebase/dumbdim.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0/dumbdim.zip"

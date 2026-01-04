@@ -1,12 +1,5 @@
 {
- "authors": [
-  "Arttis"
- ],
  "bytes": 14332341,
- "current_main_group_package": true,
- "depends": [
-  "copper>=1.19"
- ],
  "description": "Medium sized castle / medieval sewers map with Makkon textures. The author's first release. Version 1.2 fixes a bug with the silver key.",
  "files": {
   "arttis01.txt": {
@@ -33,11 +26,6 @@
   "Requires Copper v1.19+ (NOT included).",
   "Probably requires a modern engine / source port with increased limits."
  ],
- "provides": {
-  "arttis01": "1.2"
- },
- "release_date": "2022-10-05",
- "release_group": "arttis01",
  "sha256": "9a18438b2a4dc504ad8e9c929e9ca7c1affa5226c22bf025a7608b481c60d750",
  "tags": [
   "author=Arttis",
@@ -65,10 +53,8 @@
   "version=1.2",
   "zipbasedir=copper/"
  ],
- "title": "Feindlich Sewers v1.2",
  "urls": [
   "https://www.quaddicted.com/filebase/arttis01_02.zip",
   "https://www.quaddicted.com/files/by-sha256/9a/9a18438b2a4dc504ad8e9c929e9ca7c1affa5226c22bf025a7608b481c60d750/arttis01_02.zip"
- ],
- "version": "1.2"
+ ]
 }

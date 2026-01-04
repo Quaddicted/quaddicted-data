@@ -1,7 +1,4 @@
 {
- "authors": [
-  "\u00c9tienne (Blood Man) B\u00e9gin"
- ],
  "bytes": 980164,
  "description": "Very small Medieval map (+ a skill selection map and three demos) unnecessarily bundled in a .pak. Source is included.",
  "files": {
@@ -89,7 +86,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-05",
  "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
  "tags": [
   "author=\u00c9tienne (Blood Man) B\u00e9gin",
@@ -105,7 +101,6 @@
   "title=Shoot",
   "type=mod"
  ],
- "title": "Shoot",
  "urls": [
   "https://www.quaddicted.com/filebase/shoot.zip",
   "https://www.quaddicted.com/files/by-sha256/d4/d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1/shoot.zip"

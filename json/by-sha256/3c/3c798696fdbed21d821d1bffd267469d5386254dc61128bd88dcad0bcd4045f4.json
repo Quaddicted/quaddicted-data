@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Tr0n",
-  "Zwiffle"
- ],
  "bytes": 362128,
  "description": "The Room / 2 SP maps / Tr0n, Zwiffle",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-06-19",
  "sha256": "3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4",
  "tags": [
   "author=Tr0n",
@@ -41,7 +36,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 96 - The Room",
  "urls": [
   "https://www.quaddicted.com/filebase/sm96_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4/sm96_pack.zip"

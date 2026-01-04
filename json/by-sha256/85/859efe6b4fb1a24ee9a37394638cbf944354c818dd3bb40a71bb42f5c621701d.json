@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Sidhe"
- ],
  "bytes": 1680875,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium-sized ikwhite-themed temple featuring a boss-fight.",
  "files": {
   "shesp1.bsp": {
@@ -41,7 +35,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2008-08-03",
  "sha256": "859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d",
  "tags": [
   "author=Sidhe",
@@ -64,7 +57,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Dorghael Arhlannen",
  "urls": [
   "https://www.quaddicted.com/filebase/shesp1.zip",
   "https://www.quaddicted.com/files/by-sha256/85/859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d/shesp1.zip"

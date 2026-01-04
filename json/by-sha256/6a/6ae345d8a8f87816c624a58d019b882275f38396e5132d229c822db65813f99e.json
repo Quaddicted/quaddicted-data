@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Darren Stabler"
- ],
  "bytes": 544856,
  "description": "Small, boxed map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-07-28",
  "sha256": "6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e",
  "tags": [
   "author=Darren Stabler",
@@ -33,7 +29,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Potpourri",
  "urls": [
   "https://www.quaddicted.com/filebase/pop.zip",
   "https://www.quaddicted.com/files/by-sha256/6a/6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e/pop.zip"

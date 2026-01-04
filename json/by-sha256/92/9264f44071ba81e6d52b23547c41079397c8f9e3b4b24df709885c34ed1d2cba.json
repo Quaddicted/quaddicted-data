@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike Woodham"
- ],
  "bytes": 978361,
  "description": "Big wizmetal map, starts off with some grunts in a canyon. Comes with a start map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-15",
  "sha256": "9264f44071ba81e6d52b23547c41079397c8f9e3b4b24df709885c34ed1d2cba",
  "tags": [
   "author=Mike Woodham",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "For My Babies 3",
  "urls": [
   "https://www.quaddicted.com/filebase/fmb3.zip",
   "https://www.quaddicted.com/files/by-sha256/92/9264f44071ba81e6d52b23547c41079397c8f9e3b4b24df709885c34ed1d2cba/fmb3.zip"

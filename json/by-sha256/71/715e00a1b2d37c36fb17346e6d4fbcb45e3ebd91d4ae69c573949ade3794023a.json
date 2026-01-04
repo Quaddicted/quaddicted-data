@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ChAiNeR"
- ],
  "bytes": 421864,
  "description": "Medium sized, fairly dark Wizmetal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-06-10",
  "sha256": "715e00a1b2d37c36fb17346e6d4fbcb45e3ebd91d4ae69c573949ade3794023a",
  "tags": [
   "author=ChAiNeR",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Twisted Fate",
  "urls": [
   "https://www.quaddicted.com/filebase/chain2.zip",
   "https://www.quaddicted.com/files/by-sha256/71/715e00a1b2d37c36fb17346e6d4fbcb45e3ebd91d4ae69c573949ade3794023a/chain2.zip"

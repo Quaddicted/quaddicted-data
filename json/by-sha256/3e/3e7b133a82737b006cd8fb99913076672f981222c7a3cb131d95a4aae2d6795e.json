@@ -1,36 +1,4 @@
 {
- "authors": [
-  "Burnham",
-  "Chris Holden",
-  "Chuma",
-  "Colossus",
-  "Digs",
-  "Fairweather",
-  "Gila",
-  "Greenwood",
-  "Joy Modulo",
-  "Konig",
-  "Lob",
-  "Mazu",
-  "Mr Taufner",
-  "Naitelveni",
-  "Niccolicious",
-  "Nickster",
-  "PoolboyQ",
-  "RJ",
-  "RecycledOJ",
-  "Rick Lipsey",
-  "Scampie",
-  "Sodium Chloride",
-  "Spootnik",
-  "Strideh",
-  "Thelokk",
-  "bmFbr",
-  "iLike80sRock",
-  "iYago",
-  "lilybug33",
-  "radiatoryang"
- ],
  "bytes": 264448756,
  "description": "Community-based pack of 30 maps, all with the goal of remaking a multiplayer map from another game as a Quake singleplayer map. The maps use Copper (included) and are connected by a start map (also a remix, of Q3A's The Longest Yard)",
  "files": {
@@ -1869,7 +1837,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-02-04",
  "sha256": "3e7b133a82737b006cd8fb99913076672f981222c7a3cb131d95a4aae2d6795e",
  "tags": [
   "author=Burnham",
@@ -1914,7 +1881,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Remix Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/3e/3e7b133a82737b006cd8fb99913076672f981222c7a3cb131d95a4aae2d6795e/rmxjam_r3.zip",
   "https://x901.net/quaddictedfiles/rmxjam_r3.zip"

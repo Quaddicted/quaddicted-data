@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 10646497,
  "description": "Expanded standalone version of sock's map from <a href=\"4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac\">Func Map Jam 2</a>: a medium-sized, IKblue-themed, partially ruined temple with two individual routes for replayablility. It comes with a set of medieval-style item boxes.",
  "files": {
@@ -201,7 +198,6 @@
   "extract": "{base}/1000cuts/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-08-15",
  "sha256": "292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28",
  "tags": [
   "author=sock",
@@ -224,7 +220,6 @@
   "type=mod",
   "zipbasedir=1000cuts/"
  ],
- "title": "One Thousand Cuts",
  "urls": [
   "https://www.quaddicted.com/filebase/1000cuts1a.zip",
   "https://www.quaddicted.com/files/by-sha256/29/292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28/1000cuts1a.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Kell"
- ],
  "bytes": 2034914,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Knave-style remix/remake of E1M5 / Gloom Keep.",
  "files": {
   "e1m5quoth_crystal.bsp": {
@@ -46,7 +40,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2012-06-16",
  "sha256": "daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f",
  "tags": [
   "author=Kell",
@@ -72,7 +65,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Gloomier Keep",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quotha.zip",
   "https://www.quaddicted.com/files/by-sha256/da/daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f/e1m5quotha.zip"

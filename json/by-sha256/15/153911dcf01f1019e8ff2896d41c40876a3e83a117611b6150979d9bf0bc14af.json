@@ -1,7 +1,4 @@
 {
- "authors": [
-  "QBrt"
- ],
  "bytes": 605641,
  "description": "Small to medium-sized red/blue brick level with some cave bit at the end.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-01-22",
  "sha256": "153911dcf01f1019e8ff2896d41c40876a3e83a117611b6150979d9bf0bc14af",
  "tags": [
   "author=QBrt",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "brt08q1",
  "urls": [
   "https://www.quaddicted.com/filebase/brt08q1.zip",
   "https://www.quaddicted.com/files/by-sha256/15/153911dcf01f1019e8ff2896d41c40876a3e83a117611b6150979d9bf0bc14af/brt08q1.zip"

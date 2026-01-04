@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Roger Staines"
- ],
  "bytes": 574914,
  "description": "Medium sized wild west ghost town with two different game modes depending on the selected skill level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-18",
  "sha256": "dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35",
  "tags": [
   "author=Roger Staines",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Ghost Town",
  "urls": [
   "https://www.quaddicted.com/filebase/ghost.zip",
   "https://www.quaddicted.com/files/by-sha256/da/dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35/ghost.zip"

@@ -1,13 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "Gibbie",
-  "Scampie",
-  "Xenon",
-  "cybear",
-  "necros",
-  "than"
- ],
  "bytes": 1796313,
  "description": "Unthemed / 7 SP maps / cybear, CZG, Gibbie, necros, Scampie, than, Xenon",
  "files": {
@@ -66,7 +57,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-14",
  "sha256": "6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8",
  "tags": [
   "author=CZG",
@@ -91,7 +81,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 29 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm29_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6e/6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8/sm29_pack.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 1330383,
- "depends": [
-  "8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2"
- ],
  "description": "Military realism mod. Second part of <a href=\"8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2\">sofsp1</a> (required to play!) including both the second and the third map of the mission. The interior of a secret biolab facility with mutated animals, and, again, the canyon for the retreat.",
  "files": {
   "pak1.pak": {
@@ -81,7 +75,6 @@
   "extract": "{base}/soldier/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-10",
  "sha256": "c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0",
  "tags": [
   "author=Neil Manke",
@@ -101,7 +94,6 @@
   "type=mod",
   "zipbasedir=soldier/"
  ],
- "title": "Soldier of Fortune, Inc.: Episodes Two and Three",
  "urls": [
   "https://www.quaddicted.com/filebase/sofsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/c7/c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0/sofsp2.zip"

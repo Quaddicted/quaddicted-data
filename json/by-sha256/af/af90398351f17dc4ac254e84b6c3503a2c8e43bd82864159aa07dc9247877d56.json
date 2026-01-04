@@ -1,11 +1,5 @@
 {
- "authors": [
-  "ijed"
- ],
  "bytes": 2087524,
- "depends": [
-  "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c"
- ],
  "description": "3-map SP campaign for Nehahra.",
  "files": {
   "maelstromv2_quaddictedrepack.txt": {
@@ -66,7 +60,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "2005-12-31",
  "sha256": "af90398351f17dc4ac254e84b6c3503a2c8e43bd82864159aa07dc9247877d56",
  "tags": [
   "author=ijed",
@@ -86,7 +79,6 @@
   "title=A Descent into Maelstrom",
   "type=map"
  ],
- "title": "A Descent into Maelstrom",
  "urls": [
   "https://www.quaddicted.com/filebase/maelstromv2.zip",
   "https://www.quaddicted.com/files/by-sha256/af/af90398351f17dc4ac254e84b6c3503a2c8e43bd82864159aa07dc9247877d56/maelstromv2.zip"

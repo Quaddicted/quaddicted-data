@@ -1,7 +1,4 @@
 {
- "authors": [
-  "John Parr"
- ],
  "bytes": 260158,
  "description": "Small white medieval map with Hipnotic textures and lightning effects, has to be played with Scourge of Armagon.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/hipnotic/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-03",
  "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
  "tags": [
   "author=John Parr",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Temple of Lightning",
  "urls": [
   "https://www.quaddicted.com/filebase/tol.zip",
   "https://www.quaddicted.com/files/by-sha256/cf/cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb/tol.zip"

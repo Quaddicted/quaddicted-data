@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jacob Fike"
- ],
  "bytes": 617791,
  "description": "Small Wizard castle with some custom textures and Whaleboy's rain patch (optional).",
  "files": {
@@ -57,7 +54,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-22",
  "sha256": "4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56",
  "tags": [
   "author=Jacob Fike",
@@ -77,7 +73,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Doom Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/doomcasl.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56/doomcasl.zip"

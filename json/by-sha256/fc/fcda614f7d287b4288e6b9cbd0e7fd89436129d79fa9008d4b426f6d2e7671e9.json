@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rutger Baks"
- ],
  "bytes": 403344,
  "description": "A nice looking church but very short gameplay.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-02-29",
  "sha256": "fcda614f7d287b4288e6b9cbd0e7fd89436129d79fa9008d4b426f6d2e7671e9",
  "tags": [
   "author=Rutger Baks",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "r_church",
  "urls": [
   "https://www.quaddicted.com/filebase/r_church.zip",
   "https://www.quaddicted.com/files/by-sha256/fc/fcda614f7d287b4288e6b9cbd0e7fd89436129d79fa9008d4b426f6d2e7671e9/r_church.zip"

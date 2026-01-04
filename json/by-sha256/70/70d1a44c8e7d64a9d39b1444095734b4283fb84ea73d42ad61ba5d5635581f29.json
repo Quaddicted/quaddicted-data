@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Scott McNutt"
- ],
  "bytes": 133126,
  "description": "Very small Wizard room with multiple stories.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-23",
  "sha256": "70d1a44c8e7d64a9d39b1444095734b4283fb84ea73d42ad61ba5d5635581f29",
  "tags": [
   "author=Scott McNutt",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tower of Death",
  "urls": [
   "https://www.quaddicted.com/filebase/tod.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70d1a44c8e7d64a9d39b1444095734b4283fb84ea73d42ad61ba5d5635581f29/tod.zip"

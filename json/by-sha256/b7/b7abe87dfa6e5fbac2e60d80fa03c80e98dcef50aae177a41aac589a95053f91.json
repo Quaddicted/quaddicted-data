@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trace Stuart"
- ],
  "bytes": 609129,
  "description": "Small sewage plant, created for the Escape For Quake conversion.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-21",
  "sha256": "b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91",
  "tags": [
   "author=Trace Stuart",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Sector 3 - The Sewage Plant",
  "urls": [
   "https://www.quaddicted.com/filebase/3ssewage.zip",
   "https://www.quaddicted.com/files/by-sha256/b7/b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91/3ssewage.zip"

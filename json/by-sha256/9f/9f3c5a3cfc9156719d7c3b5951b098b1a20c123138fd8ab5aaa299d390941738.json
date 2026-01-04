@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Amrik",
-  "Cybear",
-  "malevola"
- ],
  "bytes": 576976,
  "description": "Unthemed / 4 DM maps / Aardappel, Amrik, Cybear, malevola",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-13",
  "sha256": "9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738",
  "tags": [
   "author=Aardappel",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 13 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm13_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9f/9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738/sm13_pack.zip"

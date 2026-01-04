@@ -1,15 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "Aru",
-  "Bal",
-  "Cybear",
-  "Frib",
-  "Notorious Ray",
-  "Raptor",
-  "Scampie",
-  "iNaNe"
- ],
  "bytes": 973128,
  "description": "Unthemed / 9 DM maps / Aardappel, Aru, Bal, Cybear, Frib, iNaNe, Raptor, Notorious Ray, Scampie",
  "files": {
@@ -68,7 +57,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-15",
  "sha256": "24abf54ee236344e0b5b709cef57291606d8cd6e3ba0bfb164dc4ad4758790c0",
  "tags": [
   "author=Aardappel",
@@ -97,7 +85,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 7 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm7_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/24/24abf54ee236344e0b5b709cef57291606d8cd6e3ba0bfb164dc4ad4758790c0/sm7_pack.zip"

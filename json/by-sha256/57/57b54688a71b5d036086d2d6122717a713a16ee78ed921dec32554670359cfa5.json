@@ -1,7 +1,4 @@
 {
- "authors": [
-  "dumptruck_ds"
- ],
  "bytes": 3363983,
  "description": "Large moldy blood dungeon \"in the style of E1M3\". The map source is included.",
  "files": {
@@ -38,7 +35,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2017-10-09",
  "sha256": "57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5",
  "tags": [
   "author=dumptruck_ds",
@@ -59,7 +55,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The End of Solace",
  "urls": [
   "https://www.quaddicted.com/filebase/endofsolace.zip",
   "https://www.quaddicted.com/files/by-sha256/57/57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5/endofsolace.zip"

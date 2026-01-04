@@ -1,9 +1,5 @@
 {
- "authors": [
-  "KenChennar alias Orl"
- ],
  "bytes": 223052962,
- "current_main_group_package": true,
  "description": "Redux version of the previously-released Ter Shibboleth <a href=\"0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859\">Part 1</a> and <a href=\"dd6e0601e0d306aaf93a374a5acebdc199d1bb5c49d44aa9662d5a3b826ab239\">Part 2</a>, featuring various changes including a port of the first five maps to Drake. An episode with eight huge, uniquely themed levels: a beach resort under a Golden Gate Bridge, a puzzle map set in an industrial storage facility, an Asian temple, a twisted otherworldly fortress, a desert mining town, a snowy village in the mountains, the city of Paris (complete with Notre Dame and the Eiffel tower), and an ancient Roman city next to a colosseum. Most of the maps use custom textures; the texture wads and the map sources are included.",
  "files": {
   "Tershibboleth/": {
@@ -3688,11 +3684,6 @@
  "notes": [
   "These maps require an source port with severely increased limits and BSP2 + protocol 999 support, such as Quakespasm 0.93.0 or higher. The memory heapsize needs to be set to around 1.5 GB!"
  ],
- "provides": {
-  "ter_shibboleth": "2.1"
- },
- "release_date": "2020-10-12",
- "release_group": "ter_shibboleth",
  "sha256": "3a52ac681e571ec330f6b23f83222021e65fc3664396b8ae80b38ef8f4824b6a",
  "tags": [
   "author=KenChennar alias Orl",
@@ -3747,10 +3738,8 @@
   "version=2.1",
   "zipbasedir=/"
  ],
- "title": "Ter Shibboleth: Drake Redux",
  "urls": [
   "https://www.quaddicted.com/filebase/ter_shibboleth_drake_redux.zip",
   "https://www.quaddicted.com/files/by-sha256/3a/3a52ac681e571ec330f6b23f83222021e65fc3664396b8ae80b38ef8f4824b6a/ter_shibboleth_drake_redux.zip"
- ],
- "version": "2.1"
+ ]
 }

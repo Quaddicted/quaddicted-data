@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zwiffle"
- ],
  "bytes": 235751,
  "description": "Doom 3 / 1 SP map / Zwiffle",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "5ac7151c380ba16c4744e9dfdf90273ceab3ee9357e8a4acf057184e7a2a7b7c",
  "tags": [
   "author=Zwiffle",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Untitled",
  "urls": [
   "https://www.quaddicted.com/filebase/sm86_zwiffle.zip",
   "https://www.quaddicted.com/files/by-sha256/5a/5ac7151c380ba16c4744e9dfdf90273ceab3ee9357e8a4acf057184e7a2a7b7c/sm86_zwiffle.zip"

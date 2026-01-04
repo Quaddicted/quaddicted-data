@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Phil Hammond"
- ],
  "bytes": 110135,
  "description": "Very small, very dark and plain blueish maze-like map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-12",
  "sha256": "f0bb5f57c7a39012d0b39dc7c88f9f0a5f4f0b52ecc8b9434d07ae9844439856",
  "tags": [
   "author=Phil Hammond",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Welcome To The Mill",
  "urls": [
   "https://www.quaddicted.com/filebase/themill.zip",
   "https://www.quaddicted.com/files/by-sha256/f0/f0bb5f57c7a39012d0b39dc7c88f9f0a5f4f0b52ecc8b9434d07ae9844439856/themill.zip"

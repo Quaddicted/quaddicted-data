@@ -1,12 +1,5 @@
 {
- "authors": [
-  "Nickster"
- ],
  "bytes": 19144245,
- "current_main_group_package": true,
- "depends": [
-  "copper=1.30"
- ],
  "description": "Small-scale map in Q3A textures, with platforming sections and lots of visual detail.",
  "files": {
   "maps/nkstrq1m1.bsp": {
@@ -88,11 +81,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "provides": {
-  "nkstrq1m1": "1.1"
- },
- "release_date": "2024-06-21",
- "release_group": "nkstrq1m1",
  "sha256": "35712c45cfd4cf8bd30a98855a48c6ba4ac8a7e64b7a017221a42d1d6cbf8b86",
  "tags": [
   "author=Nickster",
@@ -115,10 +103,8 @@
   "version=1.1",
   "zipbasedir=copper/"
  ],
- "title": "Smells Like Grandma's (v1.1)",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/35/35712c45cfd4cf8bd30a98855a48c6ba4ac8a7e64b7a017221a42d1d6cbf8b86/nkstrq1m1_v1.1.zip",
   "https://x901.net/quaddictedfiles/nkstrq1m1_v1.1.zip"
- ],
- "version": "1.1"
+ ]
 }

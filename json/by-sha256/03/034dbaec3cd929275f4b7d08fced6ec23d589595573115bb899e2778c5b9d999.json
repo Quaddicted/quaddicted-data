@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 808363,
  "description": "Small blue brick map with a lava pool in the center.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-01-14",
  "sha256": "034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999",
  "tags": [
   "author=Unknown",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Portal Endurance",
  "urls": [
   "https://www.quaddicted.com/filebase/pabc8.zip",
   "https://www.quaddicted.com/files/by-sha256/03/034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999/pabc8.zip"

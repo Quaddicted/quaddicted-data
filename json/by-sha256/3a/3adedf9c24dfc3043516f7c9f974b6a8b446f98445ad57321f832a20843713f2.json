@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Juha Koiste"
- ],
  "bytes": 728691,
  "description": "Medium sized Medieval castle with some blue and gray brick bits.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-28",
  "sha256": "3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2",
  "tags": [
   "author=Juha Koiste",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hell's Castle",
  "urls": [
   "https://www.quaddicted.com/filebase/hellctle.zip",
   "https://www.quaddicted.com/files/by-sha256/3a/3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2/hellctle.zip"

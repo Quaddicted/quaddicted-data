@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Simon Brown"
- ],
  "bytes": 370258,
  "description": "Small map consisting of a series of plain, mostly rock-textured rooms. \"Based on the Doom 2 level \"Crusade\" by Michael Newton\" and \"on the film \"Indiana Jones and the Last Crusade.'\"",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "release_date": "1997-03-02",
  "sha256": "fa532dca738684134b87963213a368ffc6d40b6b1c80d589b3a7cb8724d5712e",
  "tags": [
   "author=Simon Brown",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Crusade 5",
  "urls": [
   "https://www.quaddicted.com/filebase/crusade5.zip",
   "https://www.quaddicted.com/files/by-sha256/fa/fa532dca738684134b87963213a368ffc6d40b6b1c80d589b3a7cb8724d5712e/crusade5.zip"

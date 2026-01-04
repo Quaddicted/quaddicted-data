@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Cyberelic (Ben Johns)"
- ],
  "bytes": 1506224,
  "description": "Mini-campaign of three very small medieval levels and three small and cramped deathmatch maps (which are also playable on single player mode).",
  "files": {
@@ -54,7 +51,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "1999-02-14",
  "sha256": "b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46",
  "tags": [
   "author=Cyberelic (Ben Johns)",
@@ -73,7 +69,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cyberelic",
  "urls": [
   "https://www.quaddicted.com/filebase/cyberelic1.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46/cyberelic1.zip"

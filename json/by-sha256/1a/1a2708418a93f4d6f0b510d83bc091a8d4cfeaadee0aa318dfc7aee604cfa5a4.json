@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Inforatt (?)"
- ],
  "bytes": 1089961,
  "description": "Episode with six small to medium leaked maps in various texture themes.",
  "files": {
@@ -45,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-30",
  "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
  "tags": [
   "author=Inforatt (?)",
@@ -66,7 +62,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Series 1",
  "urls": [
   "https://www.quaddicted.com/filebase/series1.zip",
   "https://www.quaddicted.com/files/by-sha256/1a/1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4/series1.zip"

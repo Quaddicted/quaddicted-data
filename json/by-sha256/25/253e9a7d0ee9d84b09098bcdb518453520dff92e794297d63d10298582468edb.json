@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dan Edwards"
- ],
  "bytes": 231771,
  "description": "Small, plain and linear Metal map with a crypt corridor. Map source is included.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-11",
  "sha256": "253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb",
  "tags": [
   "author=Dan Edwards",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Crypt",
  "urls": [
   "https://www.quaddicted.com/filebase/crypt2.zip",
   "https://www.quaddicted.com/files/by-sha256/25/253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb/crypt2.zip"

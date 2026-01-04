@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Skullzrawk9"
- ],
  "bytes": 504334,
  "description": "Short base-themed map centered around a mysterious structure.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2024-02-20",
  "sha256": "6e8dcde54e83560b2515277f198fedf3fcd8ddacbf14b3e86a37da812bb6e9c9",
  "tags": [
   "author=Skullzrawk9",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Planetside",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/6e/6e8dcde54e83560b2515277f198fedf3fcd8ddacbf14b3e86a37da812bb6e9c9/planetside.zip",
   "https://x901.net/quaddictedfiles/planetside.zip"

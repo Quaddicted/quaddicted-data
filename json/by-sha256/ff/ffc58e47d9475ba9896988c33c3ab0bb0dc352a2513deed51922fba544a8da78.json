@@ -1,7 +1,4 @@
 {
- "authors": [
-  "rj"
- ],
  "bytes": 6587588,
  "description": "Episode with four medium-sized classic id-themed maps + custom start and end map. Mostly vanilla Quake with a few extras, comes with its own progs.dat. Based on previously released speedmaps (details in included readme).",
  "files": {
@@ -101,7 +98,6 @@
  "notes": [
   "Saving regularly is recommended in the final level ('Stories can Wait') due to the shub teleporter being prone to causing crashes."
  ],
- "release_date": "2023-05-04",
  "sha256": "ffc58e47d9475ba9896988c33c3ab0bb0dc352a2513deed51922fba544a8da78",
  "tags": [
   "author=rj",
@@ -123,7 +119,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Time to Belong",
  "urls": [
   "https://www.quaddicted.com/filebase/ttb101.zip",
   "https://www.quaddicted.com/files/by-sha256/ff/ffc58e47d9475ba9896988c33c3ab0bb0dc352a2513deed51922fba544a8da78/ttb101.zip"

@@ -1,12 +1,4 @@
 {
- "authors": [
-  "aj_the_boomer",
-  "alexUnder",
-  "VoidForce",
-  "ish",
-  "Lord Asaki",
-  "PuLSaR"
- ],
  "bytes": 96373416,
  "description": "Pack of five maps (+ start map) with a focus on traps and movement puzzles, and no monster combat. Uses the Arcane Dimensions code and assets (included).",
  "files": {
@@ -9393,7 +9385,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2025-07-04",
  "sha256": "8733979e4837a798958a402400dd82a5b73953e92e13d2e2129e5e7a3b19d9c5",
  "tags": [
   "author=Lord Asaki",
@@ -9415,7 +9406,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Map-Center's Quake Traps Jam 1",
  "urls": [
   "https://www.quaketastic.com/files/jam/mc_trapsjam.zip",
   "https://www.quaddicted.com/files/by-sha256/87/8733979e4837a798958a402400dd82a5b73953e92e13d2e2129e5e7a3b19d9c5/mc_trapsjam.zip"

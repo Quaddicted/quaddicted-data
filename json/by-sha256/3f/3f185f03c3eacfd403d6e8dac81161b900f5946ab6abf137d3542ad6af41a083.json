@@ -1,9 +1,5 @@
 {
- "authors": [
-  "John Romero"
- ],
  "bytes": 291684,
- "current_main_group_package": true,
  "description": "Original e2m6 cave entrance, cut from the final Quake release due to size limits.",
  "files": {
   "e2m10.bsp": {
@@ -26,11 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "e2m10": "2.0"
- },
- "release_date": "2001-06-23",
- "release_group": "e2m10",
  "sha256": "3f185f03c3eacfd403d6e8dac81161b900f5946ab6abf137d3542ad6af41a083",
  "tags": [
   "author=John Romero",
@@ -52,10 +43,8 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lost Entrance of the Dismal Oubliette",
  "urls": [
   "https://www.quaddicted.com/filebase/e2m10.zip",
   "https://www.quaddicted.com/files/by-sha256/3f/3f185f03c3eacfd403d6e8dac81161b900f5946ab6abf137d3542ad6af41a083/e2m10.zip"
- ],
- "version": "2.0"
+ ]
 }

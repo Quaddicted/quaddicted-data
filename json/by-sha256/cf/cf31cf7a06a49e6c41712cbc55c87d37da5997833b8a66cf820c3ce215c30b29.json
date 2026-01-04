@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Amrik",
-  "Apollo",
-  "FrikaC",
-  "Gibbie",
-  "Mystery8",
-  "Vigil"
- ],
  "bytes": 676053,
  "description": "Unthemed / 4 SP, 2 DM maps / Amrik, Apollo, FrikaC, Gibbie, Mystery8, Vigil",
  "files": {
@@ -50,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-06-10",
  "sha256": "cf31cf7a06a49e6c41712cbc55c87d37da5997833b8a66cf820c3ce215c30b29",
  "tags": [
   "author=Amrik",
@@ -73,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 20 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm20_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/cf/cf31cf7a06a49e6c41712cbc55c87d37da5997833b8a66cf820c3ce215c30b29/sm20_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Insane Ninja Viper"
- ],
  "bytes": 126482,
  "description": "Small horde arena combat map with a story. Map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-14",
  "sha256": "22e2ddf07d36f4576184c6c907194f6dde2d3ce6a1aeb2bf76d260fd4fa71dc6",
  "tags": [
   "author=Insane Ninja Viper",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Insaneninjaviper",
  "urls": [
   "https://www.quaddicted.com/filebase/insane01.zip",
   "https://www.quaddicted.com/files/by-sha256/22/22e2ddf07d36f4576184c6c907194f6dde2d3ce6a1aeb2bf76d260fd4fa71dc6/insane01.zip"

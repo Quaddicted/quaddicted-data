@@ -1,7 +1,4 @@
 {
- "authors": [
-  "ray (tigger-up-late)"
- ],
  "bytes": 645271,
  "description": "A small map. Originally a deathmatch map the author did place some monsters into it.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-17",
  "sha256": "b2ad74e6389faa240ba348f2a84e38e934a5918e86a67f3ff933d1f6e85194c8",
  "tags": [
   "author=ray (tigger-up-late)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "dock 5",
  "urls": [
   "https://www.quaddicted.com/filebase/dock5.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2ad74e6389faa240ba348f2a84e38e934a5918e86a67f3ff933d1f6e85194c8/dock5.zip"

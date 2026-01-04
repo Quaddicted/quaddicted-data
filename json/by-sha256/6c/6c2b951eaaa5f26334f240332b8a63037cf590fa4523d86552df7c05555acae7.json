@@ -1,7 +1,4 @@
 {
- "authors": [
-  "LZM"
- ],
  "bytes": 494845,
  "description": "Small, weird base map with a few textures from Zerst\u00f6rer (no exit).",
  "files": {
@@ -47,7 +44,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-08-17",
  "sha256": "6c2b951eaaa5f26334f240332b8a63037cf590fa4523d86552df7c05555acae7",
  "tags": [
   "author=LZM",
@@ -64,7 +60,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "LZM Nuclear Research Labs",
  "urls": [
   "https://www.quaddicted.com/filebase/lzmlabs.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6c2b951eaaa5f26334f240332b8a63037cf590fa4523d86552df7c05555acae7/lzmlabs.zip"

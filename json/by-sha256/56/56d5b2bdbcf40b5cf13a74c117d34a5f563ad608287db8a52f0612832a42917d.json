@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Pablo Dictter"
- ],
  "bytes": 699855,
  "description": "Small and straightforward base map with lots of crates.",
  "files": {
@@ -40,7 +37,6 @@
  "notes": [
   "This is the same as pdq1sp1.zip but with the additional map scraps in the zip archive."
  ],
- "release_date": "2003-08-01",
  "sha256": "56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d",
  "tags": [
   "author=Pablo Dictter",
@@ -58,7 +54,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Fistfucking Little Box",
  "urls": [
   "https://www.quaddicted.com/filebase/pdq1sp1_c.zip",
   "https://www.quaddicted.com/files/by-sha256/56/56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d/pdq1sp1_c.zip"

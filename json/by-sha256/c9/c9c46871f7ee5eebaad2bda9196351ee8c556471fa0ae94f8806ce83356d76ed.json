@@ -1,7 +1,4 @@
 {
- "authors": [
-  "CommonCold"
- ],
  "bytes": 6234815,
  "description": "Small space base arena map inspired by Turok 2, made for the <a href=\"https://www.youtube.com/watch?v=8cz1YLIxleg\">official Horde Mode</a> in the Dimension of the Machine expansion update in December 2021. Map source is included.",
  "files": {
@@ -79,7 +76,6 @@
   "For best results in multiplayer, start with an official horde map first, then when in-game the host should use console command \"map cchorde1\" to change the level over.",
   "Requires Dimension of the Machine (NOT included) and a modern engine / source port that can run the updated mg1 progs for horde mode. As of February 2022 that's basically just the official QuakeEx / Kex 2021 re-release engine, with inconvenient bugs in other source ports."
  ],
- "release_date": "2022-02-20",
  "sha256": "c9c46871f7ee5eebaad2bda9196351ee8c556471fa0ae94f8806ce83356d76ed",
  "tags": [
   "author=CommonCold",
@@ -102,7 +98,6 @@
   "type=map",
   "zipbasedir=mg1/"
  ],
- "title": "Adon's Quota",
  "urls": [
   "https://www.quaddicted.com/filebase/cchorde1.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9c46871f7ee5eebaad2bda9196351ee8c556471fa0ae94f8806ce83356d76ed/cchorde1.zip"

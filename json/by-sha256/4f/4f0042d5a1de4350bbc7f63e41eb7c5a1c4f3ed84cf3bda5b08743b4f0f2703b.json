@@ -1,7 +1,4 @@
 {
- "authors": [
-  "baby111485"
- ],
  "bytes": 111111,
  "description": "As per screenshot.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-07",
  "sha256": "4f0042d5a1de4350bbc7f63e41eb7c5a1c4f3ed84cf3bda5b08743b4f0f2703b",
  "tags": [
   "author=baby111485",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "First",
  "urls": [
   "https://www.quaddicted.com/filebase/first.zip",
   "https://www.quaddicted.com/files/by-sha256/4f/4f0042d5a1de4350bbc7f63e41eb7c5a1c4f3ed84cf3bda5b08743b4f0f2703b/first.zip"

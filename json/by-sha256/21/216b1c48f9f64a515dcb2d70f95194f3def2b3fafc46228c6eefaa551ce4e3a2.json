@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JAR"
- ],
  "bytes": 542018,
  "description": "Very small map leading from a base through a canyon. Uses a few Doom textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-08",
  "sha256": "216b1c48f9f64a515dcb2d70f95194f3def2b3fafc46228c6eefaa551ce4e3a2",
  "tags": [
   "author=JAR",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "MidKnight1",
  "urls": [
   "https://www.quaddicted.com/filebase/mdkt1.zip",
   "https://www.quaddicted.com/files/by-sha256/21/216b1c48f9f64a515dcb2d70f95194f3def2b3fafc46228c6eefaa551ce4e3a2/mdkt1.zip"

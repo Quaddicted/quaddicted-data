@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Omus",
-  "Text_Fish",
-  "Zwiffle",
-  "lurker",
-  "negke"
- ],
  "bytes": 1648504,
  "description": "City in a forest / 5 SP maps / lurker, negke, Omus, Text_Fish, Zwiffle",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-08-25",
  "sha256": "26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3",
  "tags": [
   "author=Omus",
@@ -66,7 +58,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo2008 #2 - City in a forest",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08b_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/26/26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3/smqe08b_pack.zip"

@@ -1,16 +1,4 @@
 {
- "authors": [
-  "DragonsForLunch",
-  "Entsoy",
-  "Heresy",
-  "Mazu",
-  "Naitelveni",
-  "Newhouse",
-  "PalmliX",
-  "Qmaster",
-  "RadiatorYang",
-  "Rooster"
- ],
  "bytes": 95737183,
  "description": "Community mapping event in celebration of Quake's 25th anniversary: nine large levels in varying themes + a starting hub, all following the \"625\" rule of using only six different textures (6 for June), featuring two surprises and five enemy types (2 and 5 for 25 years of Quake). They run on the Progs_dump mod (included) and come with additional sounds, models, skyboxes and music tracks in two formats. The map and qc sources are included.",
  "files": {
@@ -1158,7 +1146,6 @@
   "These maps require a source port with increased limits + BSP2 support.",
   "An updated version is available <a href=\"https://www.quaddicted.com/filebase/sinister625_final.zip\">here</a>."
  ],
- "release_date": "2021-06-22",
  "sha256": "4602c28d2e9e86f115fab775bc9e11d73b8fda6df9c05caa2bd0a0e6be734842",
  "tags": [
   "author=DragonsForLunch",
@@ -1205,7 +1192,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Sinister 625",
  "urls": [
   "https://www.quaddicted.com/filebase/sinister625.zip",
   "https://www.quaddicted.com/files/by-sha256/46/4602c28d2e9e86f115fab775bc9e11d73b8fda6df9c05caa2bd0a0e6be734842/sinister625.zip"

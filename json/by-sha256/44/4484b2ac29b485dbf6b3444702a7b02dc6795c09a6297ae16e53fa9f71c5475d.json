@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Breezeep",
-  "JCR",
-  "negke"
- ],
  "bytes": 17756753,
  "description": "Mayan / 4 SP maps / Artistical, Breezeep, JCR, negke impersonating Shambler<br><br> Includes custom skyboxes and map sources. Some of the maps probably require a source port with increased limits.",
  "files": {
@@ -193,7 +187,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-07-01",
  "sha256": "4484b2ac29b485dbf6b3444702a7b02dc6795c09a6297ae16e53fa9f71c5475d",
  "tags": [
   "author=Artistical",
@@ -213,7 +206,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 184 - Mayan",
  "urls": [
   "https://www.quaddicted.com/filebase/sm184_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/44/4484b2ac29b485dbf6b3444702a7b02dc6795c09a6297ae16e53fa9f71c5475d/sm184_pack.zip"

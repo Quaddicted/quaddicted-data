@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Scampie"
- ],
  "bytes": 1897564,
  "description": "Medium-sized idbase map with many crates and a critical slipgate malfunction.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2012-04-02",
  "sha256": "42194ac8ba5142a901c369213026f3cd20ae0575bb622953b6e305976c716c95",
  "tags": [
   "author=Scampie",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dead Memories",
  "urls": [
   "https://www.quaddicted.com/filebase/scampsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/42/42194ac8ba5142a901c369213026f3cd20ae0575bb622953b6e305976c716c95/scampsp1.zip"

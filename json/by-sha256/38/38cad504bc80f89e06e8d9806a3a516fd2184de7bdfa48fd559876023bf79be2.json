@@ -1,9 +1,5 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 16510638,
- "current_main_group_package": true,
  "description": "Demo version of an atmospheric singleplayer campaign with three small medieval levels (two of which are remakes of the orignal E1M1 and E1M2). It features both normal gameplay and a new, very unique stealth mode. The enemy AI has been vastly improved, and there are countless visual overhauls and miscellaneous additions.",
  "files": {
   "its_demo_v1_1_readme.txt": {
@@ -730,11 +726,6 @@
  "notes": [
   "This is version <b>1.1</b> which has several improvements and additions; version 1.0 can be found <a href=\"http://www.quaddicted.com/filebase/its_demo_v1.zip\">here</a>."
  ],
- "provides": {
-  "its_demo": "1.1"
- },
- "release_date": "2012-12-30",
- "release_group": "its_demo",
  "sha256": "38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2",
  "tags": [
   "author=sock",
@@ -787,10 +778,8 @@
   "version=1.1",
   "zipbasedir=shadows/"
  ],
- "title": "In The Shadows [Demo v1.1]",
  "urls": [
   "https://www.quaddicted.com/filebase/its_demo_v1_1.zip",
   "https://www.quaddicted.com/files/by-sha256/38/38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2/its_demo_v1_1.zip"
- ],
- "version": "1.1"
+ ]
 }

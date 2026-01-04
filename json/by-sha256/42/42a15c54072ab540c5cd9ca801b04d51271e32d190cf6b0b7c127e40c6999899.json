@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Martin Hryniewieck"
- ],
  "bytes": 688923,
  "description": "Small Wizard map in hub form with a few traps.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-20",
  "sha256": "42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899",
  "tags": [
   "author=Martin Hryniewieck",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Place Of Belonging",
  "urls": [
   "https://www.quaddicted.com/filebase/placebo.zip",
   "https://www.quaddicted.com/files/by-sha256/42/42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899/placebo.zip"

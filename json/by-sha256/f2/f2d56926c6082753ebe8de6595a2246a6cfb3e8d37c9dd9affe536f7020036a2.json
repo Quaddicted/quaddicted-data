@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Lawitzki"
- ],
  "bytes": 4409354,
  "description": "Around medium-sized cistern/sewer level. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-07-04",
  "sha256": "f2d56926c6082753ebe8de6595a2246a6cfb3e8d37c9dd9affe536f7020036a2",
  "tags": [
   "author=Paul Lawitzki",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Down the Gutter",
  "urls": [
   "https://www.quaddicted.com/filebase/plaw01.zip",
   "https://www.quaddicted.com/files/by-sha256/f2/f2d56926c6082753ebe8de6595a2246a6cfb3e8d37c9dd9affe536f7020036a2/plaw01.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "George J. Fiffy II"
- ],
  "bytes": 596537,
  "description": "Medium Wizard/Metal map with a Chthon battle.",
  "files": {
@@ -30,11 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "4fiffy4": "1.0"
- },
- "release_date": "1997-06-17",
- "release_group": "4fiffy4",
  "sha256": "620e029071a2d9cbf18fa308aa83f9c0da35b4365a80e9e550b04380c89e7981",
  "tags": [
   "author=George J. Fiffy II",
@@ -58,10 +50,8 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "REoL TOUGH: Antichrist!",
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy4.zip",
   "https://www.quaddicted.com/files/by-sha256/62/620e029071a2d9cbf18fa308aa83f9c0da35b4365a80e9e550b04380c89e7981/4fiffy4.zip"
- ],
- "version": "1.0"
+ ]
 }

@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Trinca",
-  "lurker",
-  "st3ady"
- ],
  "bytes": 735028,
  "description": "Unlikely escape / 4 SP maps / Drew, lurker, st3ady, Trinca",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-11-17",
  "sha256": "6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa",
  "tags": [
   "author=Drew",
@@ -64,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 147 - Unlikely escape",
  "urls": [
   "https://www.quaddicted.com/filebase/sm147_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/68/6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa/sm147_pack.zip"

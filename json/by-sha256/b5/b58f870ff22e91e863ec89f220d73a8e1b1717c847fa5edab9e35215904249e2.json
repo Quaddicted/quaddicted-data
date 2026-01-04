@@ -1,16 +1,4 @@
 {
- "authors": [
-  "Adib Murad",
-  "Avix",
-  "Chuma",
-  "CommonCold",
-  "Icecoldtofu",
-  "Ish",
-  "Konig",
-  "RecycledOJ",
-  "Shadesmaster",
-  "Zigi"
- ],
  "bytes": 87362607,
  "description": "11 maps featuring the most infamous texture from DOOM, FireBlu! Made using Dumptruck_ds's Speedmapping Progs.",
  "files": {
@@ -633,7 +621,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-05-25",
  "sha256": "b58f870ff22e91e863ec89f220d73a8e1b1717c847fa5edab9e35215904249e2",
  "tags": [
   "author=Adib Murad",
@@ -668,7 +655,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Fireblu Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/fbj.zip",
   "https://www.quaddicted.com/files/by-sha256/b5/b58f870ff22e91e863ec89f220d73a8e1b1717c847fa5edab9e35215904249e2/fbj.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Glenn Ancheta"
- ],
  "bytes": 183737,
  "description": "Smallish Wizard map with most rooms are connected by upside-down cross teleporters.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-23",
  "sha256": "e70b1f32fa69f90389fe6a9fc46208d965691fecba845db817ce12a09740c38e",
  "tags": [
   "author=Glenn Ancheta",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "CrossRoad",
  "urls": [
   "https://www.quaddicted.com/filebase/crosroad.zip",
   "https://www.quaddicted.com/files/by-sha256/e7/e70b1f32fa69f90389fe6a9fc46208d965691fecba845db817ce12a09740c38e/crosroad.zip"

@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Justin Fleck"
- ],
  "bytes": 19630059,
- "current_main_group_package": true,
  "description": "Medium sized industrial Cr8 base map, a remix of rd1m4 from <a href=\"78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591\">Runner's Delight (1999)</a>. Built on Alkaline 1.2 RC1 devkit (already included). Map source is included too.",
  "files": {
   "rd1m4rmx/": {
@@ -2412,7 +2408,6 @@
   "This release is packaged as a mod but there's no custom start map; load the level manually via console: \"map rd1m4rmx\"",
   "Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-12-27",
  "sha256": "e007c4c6c1c03b6bcc01dd2c081795110d4f77538a3e72f9ac91904328274dbe",
  "tags": [
   "author=Justin Fleck",
@@ -2437,7 +2432,6 @@
   "title=Tempus is the Ignis",
   "type=mod"
  ],
- "title": "Tempus is the Ignis",
  "urls": [
   "https://www.quaddicted.com/filebase/rd1m4rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/e0/e007c4c6c1c03b6bcc01dd2c081795110d4f77538a3e72f9ac91904328274dbe/rd1m4rmx.zip"

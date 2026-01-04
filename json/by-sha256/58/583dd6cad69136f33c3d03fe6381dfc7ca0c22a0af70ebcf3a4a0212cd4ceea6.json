@@ -1,11 +1,5 @@
 {
- "authors": [
-  "distrans"
- ],
  "bytes": 9123935,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium-sized base map using Doom 3 textures. It comes with a number of custom ambient sounds and features hard combat.",
  "files": {
   "dis_sp6.txt": {
@@ -191,7 +185,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2008-05-19",
  "sha256": "583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6",
  "tags": [
   "author=distrans",
@@ -218,7 +211,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Ruined Nation",
  "urls": [
   "https://www.quaddicted.com/filebase/dis_sp6.zip",
   "https://www.quaddicted.com/files/by-sha256/58/583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6/dis_sp6.zip"

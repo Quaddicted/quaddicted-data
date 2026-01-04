@@ -1,11 +1,4 @@
 {
- "authors": [
-  "NotoriousRay",
-  "PuLSaR",
-  "RPG",
-  "Zwiffle",
-  "distrans"
- ],
  "bytes": 1479873,
  "description": "Large Rubicon-style industrial base. A chain map by  NotoriousRay, RPG, PuLSaR, Zwiffle, and distrans.",
  "files": {
@@ -24,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-07-18",
  "sha256": "229be72c5fbedb82582c035af385d1e03dfdc0ea3de7842d73f9d171cbfd22ce",
  "tags": [
   "author=NotoriousRay",
@@ -45,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Rubicondom",
  "urls": [
   "https://www.quaddicted.com/filebase/sm82.zip",
   "https://www.quaddicted.com/files/by-sha256/22/229be72c5fbedb82582c035af385d1e03dfdc0ea3de7842d73f9d171cbfd22ce/sm82.zip"

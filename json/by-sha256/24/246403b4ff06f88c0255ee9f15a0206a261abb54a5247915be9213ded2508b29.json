@@ -1,18 +1,4 @@
 {
- "authors": [
-  "AlekswithaK",
-  "Danz",
-  "Fairweather",
-  "Greenwood",
-  "JCR",
-  "Markie Music",
-  "Mazu",
-  "Pinchy",
-  "PoolboyQ",
-  "VoidForce",
-  "h4724",
-  "khreathor"
- ],
  "bytes": 126009044,
  "description": "First episode of a four-episode project: nine medium to large Egyptian-themed levels including a start map. They are based on the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod (included) and feature new monsters, weapons, sounds, skyboxes and custom music tracks. The map sources are included.",
  "files": {
@@ -1195,11 +1181,6 @@
   "UPDATE, 15 Feb 2023: <a href=\"15bbc5dc0eb3fee5763835cea1aa62ab263545ca8c04aaa019982d45d1e8d11d\">new version v2.2</a> features updated versions of all episode 1 maps and much much more.",
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "provides": {
-  "dwell": "1.0"
- },
- "release_date": "2020-10-01",
- "release_group": "dwell",
  "sha256": "246403b4ff06f88c0255ee9f15a0206a261abb54a5247915be9213ded2508b29",
  "tags": [
   "author=AlekswithaK",
@@ -1253,10 +1234,8 @@
   "version=1.0",
   "zipbasedir=dwell/"
  ],
- "title": "Dwell - Episode 1 (Version 1.0)",
  "urls": [
   "https://www.quaddicted.com/filebase/dwellv1.zip",
   "https://www.quaddicted.com/files/by-sha256/24/246403b4ff06f88c0255ee9f15a0206a261abb54a5247915be9213ded2508b29/dwellv1.zip"
- ],
- "version": "1.0"
+ ]
 }

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Alex Andreu (Deathmonger)"
- ],
  "bytes": 501764,
- "depends": [
-  "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5"
- ],
  "description": "Small, unfinished base map.",
  "files": {
   "DM1M1.bsp": {
@@ -21,7 +15,6 @@
  "notes": [
   "Requires <a href=\"168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5\">Badpak</a> to play."
  ],
- "release_date": "1998-10-26",
  "sha256": "6d9a45277245a477c410b3abb48f50518ec7c7d3975fabf235129d5606d3d9ce",
  "tags": [
   "author=Alex Andreu (Deathmonger)",
@@ -39,7 +32,6 @@
   "type=map",
   "zipbasedir=bad/maps/"
  ],
- "title": "Installation of Disavowed",
  "urls": [
   "https://www.quaddicted.com/filebase/dm1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/6d/6d9a45277245a477c410b3abb48f50518ec7c7d3975fabf235129d5606d3d9ce/dm1m1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chuma"
- ],
  "bytes": 4156677,
  "description": "The latest entry in the author's 'Dungeon' series of maps, featuring spacious, boxy areas and lots of colored light.",
  "files": {
@@ -49,7 +46,6 @@
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>.",
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2024-06-18",
  "sha256": "bfc0900ab7e079e256ff7307f40df2f48cd6f40a9095e630b037ff9b246ade5e",
  "tags": [
   "author=Chuma",
@@ -66,7 +62,6 @@
   "type=map",
   "zipbasedir=copper/"
  ],
- "title": "Dungeon Echo Paradox",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/bf/bfc0900ab7e079e256ff7307f40df2f48cd6f40a9095e630b037ff9b246ade5e/dungeonechoparadox-1.0.zip",
   "https://x901.net/quaddictedfiles/dungeonechoparadox-1.0.zip"

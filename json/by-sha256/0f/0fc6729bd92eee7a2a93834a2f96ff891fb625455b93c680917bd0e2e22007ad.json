@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Madfox"
- ],
  "bytes": 16759946,
  "description": "Large mixed theme map set in a partly technological, party runic and partly medieval complex. Features plenty of new custom content, including a large variety of new monsters.",
  "files": {
@@ -602,7 +599,6 @@
  "notes": [
   "This map requires an engine port with increased limits and skybox support."
  ],
- "release_date": "2016-03-06",
  "sha256": "0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad",
  "tags": [
   "author=Madfox",
@@ -621,7 +617,6 @@
   "type=mod",
   "zipbasedir=fourfeather0/"
  ],
- "title": "FourFeather",
  "urls": [
   "https://www.quaddicted.com/filebase/fourfeather0.zip",
   "https://www.quaddicted.com/files/by-sha256/0f/0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad/fourfeather0.zip"

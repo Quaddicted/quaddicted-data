@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Doug Wheeler aka Bullseye8841"
- ],
  "bytes": 1141690,
  "description": "<i>A marketplace-themed SP map of moderate size</i>.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-12-24",
  "sha256": "211232477b4777cb2f7eeb68442833fae50a450b952e04fef36873b1803c96a9",
  "tags": [
   "author=Doug Wheeler aka Bullseye8841",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Bizarre Bazaar",
  "urls": [
   "https://www.quaddicted.com/filebase/dw_bizbazfinal.zip",
   "https://www.quaddicted.com/files/by-sha256/21/211232477b4777cb2f7eeb68442833fae50a450b952e04fef36873b1803c96a9/dw_bizbazfinal.zip"

@@ -1,29 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Bloodshot",
-  "Breezeep",
-  "Danzadan",
-  "DraQu",
-  "Giftmacher",
-  "Mariteaux",
-  "Naitelveni",
-  "NewHouse",
-  "Promeus",
-  "QueenJazz",
-  "Shadesmaster",
-  "TheMusic",
-  "digs",
-  "ionous",
-  "mukor",
-  "onetruepurple",
-  "prengle",
-  "rj",
-  "scar3crow",
-  "skacky",
-  "wedge_one",
-  "ww"
- ],
  "bytes": 67467008,
  "description": "Pack featuring 22 maps (including a start hub) recreating or reinterpreting the theme and style of the original DM4- The Bad Place. Three short demos and the map sources are included.",
  "files": {
@@ -631,7 +606,6 @@
   "Several of these maps require a source port with increased limits and/or BSP2 support.",
   "There is an <a href=\"0dfb8510f20f85556362c04f5a731781bbae92e3a0c736b3df765c51dd3e508f\">addon</a> to this pack featuring updated versions of some of the maps and three new ones."
  ],
- "release_date": "2018-03-22",
  "sha256": "ed67bde135d884b0c161f4e78dc1c68f1796a6b047b535a20f568a9698904ec3",
  "tags": [
   "author=Artistical",
@@ -705,7 +679,6 @@
   "type=mod",
   "zipbasedir=dm4jam/"
  ],
- "title": "DM4 Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/dm4jam.zip",
   "https://www.quaddicted.com/files/by-sha256/ed/ed67bde135d884b0c161f4e78dc1c68f1796a6b047b535a20f568a9698904ec3/dm4jam.zip"

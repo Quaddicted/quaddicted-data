@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Juha Koiste"
- ],
  "bytes": 1118536,
  "description": "Medium sized map: a Metal temple with a warehouse leading into a Base.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-10",
  "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "tags": [
   "author=Juha Koiste",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Area 51",
  "urls": [
   "https://www.quaddicted.com/filebase/jtkmap6.zip",
   "https://www.quaddicted.com/files/by-sha256/b0/b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c/jtkmap6.zip"

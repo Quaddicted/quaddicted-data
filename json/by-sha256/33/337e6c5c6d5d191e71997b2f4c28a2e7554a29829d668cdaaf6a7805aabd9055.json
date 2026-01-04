@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Doom-pope"
- ],
  "bytes": 961742,
  "description": "Small level featuring a blue underground castle. The map source is included.",
  "files": {
@@ -70,7 +67,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-02-20",
  "sha256": "337e6c5c6d5d191e71997b2f4c28a2e7554a29829d668cdaaf6a7805aabd9055",
  "tags": [
   "author=Doom-pope",
@@ -89,7 +85,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Realm of Apocrypha",
  "urls": [
   "https://www.quaddicted.com/filebase/doom-pope_tra.zip",
   "https://www.quaddicted.com/files/by-sha256/33/337e6c5c6d5d191e71997b2f4c28a2e7554a29829d668cdaaf6a7805aabd9055/doom-pope_tra.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Mista Heita"
- ],
  "bytes": 5745960,
- "depends": [
-  "quoth>=2.2"
- ],
  "description": "Medium-sized dark, orange industrial/military base map using modified idbase textures. Comes with a custom skybox. The map source is included.",
  "files": {
   "gfx/env/mars_bk.tga": {
@@ -66,7 +60,6 @@
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2</a> and a source port with increased limits."
  ],
- "release_date": "2020-08-30",
  "sha256": "4d1307c8d2d97d7f0734412cef329f5e36c74c85837a2f3aae274aa7240f6d16",
  "tags": [
   "author=Mista Heita",
@@ -91,7 +84,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "Blood Colored Rust",
  "urls": [
   "https://www.quaddicted.com/filebase/mhsp01.zip",
   "https://www.quaddicted.com/files/by-sha256/4d/4d1307c8d2d97d7f0734412cef329f5e36c74c85837a2f3aae274aa7240f6d16/mhsp01.zip"

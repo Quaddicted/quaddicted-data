@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matt Sefton"
- ],
  "bytes": 799748,
  "description": "Medium sized Metal/runic level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-14",
  "sha256": "94d46b1b418eedff8e968b21caae6140eefddb02d4a373da2f5aaea28f986eae",
  "tags": [
   "author=Matt Sefton",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Arcane",
  "urls": [
   "https://www.quaddicted.com/filebase/arcane.zip",
   "https://www.quaddicted.com/files/by-sha256/94/94d46b1b418eedff8e968b21caae6140eefddb02d4a373da2f5aaea28f986eae/arcane.zip"

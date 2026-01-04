@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shambler"
- ],
  "bytes": 4051121,
  "description": "Very small map with a blue castle in a canyon. Comes with a custom skybox.",
  "files": {
@@ -60,7 +57,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-07-20",
  "sha256": "d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311",
  "tags": [
   "author=Shambler",
@@ -78,7 +74,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Crown Of Thorns",
  "urls": [
   "https://www.quaddicted.com/filebase/shamsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/d5/d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311/shamsp1.zip"

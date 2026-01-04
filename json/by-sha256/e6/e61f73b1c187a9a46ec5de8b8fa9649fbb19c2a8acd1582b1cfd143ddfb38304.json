@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Holden"
- ],
  "bytes": 12111229,
  "description": "Small green temple map using a custom texture set. It also features a custom skybox and the map source is included.",
  "files": {
@@ -65,7 +62,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-01-18",
  "sha256": "e61f73b1c187a9a46ec5de8b8fa9649fbb19c2a8acd1582b1cfd143ddfb38304",
  "tags": [
   "author=Chris Holden",
@@ -85,7 +81,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Green Hale",
  "urls": [
   "https://www.quaddicted.com/filebase/ghspch01.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e61f73b1c187a9a46ec5de8b8fa9649fbb19c2a8acd1582b1cfd143ddfb38304/ghspch01.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Juha Koiste"
- ],
  "bytes": 244003,
  "description": "Very small wizard map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-17",
  "sha256": "93101fc06cf708423b078859bede1240c7d84b956b09347d31923beed63b3a0d",
  "tags": [
   "author=Juha Koiste",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Temple of Torment",
  "urls": [
   "https://www.quaddicted.com/filebase/ttot.zip",
   "https://www.quaddicted.com/files/by-sha256/93/93101fc06cf708423b078859bede1240c7d84b956b09347d31923beed63b3a0d/ttot.zip"

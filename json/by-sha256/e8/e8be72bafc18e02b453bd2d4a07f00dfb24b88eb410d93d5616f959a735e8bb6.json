@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Text_Fish",
-  "Trinca",
-  "ZealousQuakeFan",
-  "digs"
- ],
  "bytes": 3189538,
  "description": "15 years tribute / 5 SP maps / digs, Drew, Text_Fish, Trinca, ZealousQuakeFan",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-06-25",
  "sha256": "e8be72bafc18e02b453bd2d4a07f00dfb24b88eb410d93d5616f959a735e8bb6",
  "tags": [
   "author=Drew",
@@ -74,7 +66,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo 2011 - 15 years tribute",
  "urls": [
   "https://www.quaddicted.com/filebase/smqx11_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e8be72bafc18e02b453bd2d4a07f00dfb24b88eb410d93d5616f959a735e8bb6/smqx11_pack.zip"

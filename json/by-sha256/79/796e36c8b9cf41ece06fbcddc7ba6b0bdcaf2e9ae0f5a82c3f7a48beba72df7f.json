@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Pingu"
- ],
  "bytes": 607308,
  "description": "Fairly small temple map consisting of two deathmatch maps by Pingu, spliced together and converted to SP by Mike Woodham.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-07-01",
  "sha256": "796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f",
  "tags": [
   "author=Pingu",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "A2D2 - Ambush Keen Pilgrims",
  "urls": [
   "https://www.quaddicted.com/filebase/a2d2.zip",
   "https://www.quaddicted.com/files/by-sha256/79/796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f/a2d2.zip"

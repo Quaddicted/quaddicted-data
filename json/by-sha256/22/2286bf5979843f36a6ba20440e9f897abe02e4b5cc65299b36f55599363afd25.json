@@ -1,21 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Entsoy",
-  "Fairweather",
-  "Greenwood",
-  "Makkon",
-  "Mista Heita",
-  "Mobin",
-  "Nyo",
-  "Pinchy",
-  "Quasiotter",
-  "Shades",
-  "Strideh",
-  "Voidforce",
-  "Xeo",
-  "vbs"
- ],
  "bytes": 254720363,
  "description": "Third Halloween Jam, a community project featuring 13 levels + a start map in varying sizes and themes. Most of the maps use custom textures. The pack is based on the <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a> mod (included) and comes with various custom content like models, sounds, skyboxes, and music tracks. Some of the map sources are included.",
  "files": {
@@ -10963,7 +10946,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-10-27",
  "sha256": "2286bf5979843f36a6ba20440e9f897abe02e4b5cc65299b36f55599363afd25",
  "tags": [
   "author=Artistical",
@@ -11047,7 +11029,6 @@
   "type=mod",
   "zipbasedir=hwjam3/"
  ],
- "title": "Halloween Jam 3",
  "urls": [
   "https://www.quaddicted.com/filebase/hwjam3.zip",
   "https://www.quaddicted.com/files/by-sha256/22/2286bf5979843f36a6ba20440e9f897abe02e4b5cc65299b36f55599363afd25/hwjam3.zip"

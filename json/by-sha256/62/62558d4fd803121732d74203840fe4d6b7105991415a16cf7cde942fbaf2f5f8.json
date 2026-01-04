@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matthias Worch"
- ],
  "bytes": 259664,
  "description": "Tiny base map. Another conversion of Doom 2 map01, albeit made from scratch and using Quake textures. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-09",
  "sha256": "62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8",
  "tags": [
   "author=Matthias Worch",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "DooM II Map01",
  "urls": [
   "https://www.quaddicted.com/filebase/map01.zip",
   "https://www.quaddicted.com/files/by-sha256/62/62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8/map01.zip"

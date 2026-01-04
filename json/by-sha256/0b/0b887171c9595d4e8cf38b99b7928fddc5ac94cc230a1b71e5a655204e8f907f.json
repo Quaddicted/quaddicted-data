@@ -1,11 +1,5 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 6939416,
- "depends": [
-  "ad>=1.71"
- ],
  "description": "Medium-sized military base with an artillery battery. Comes with a custom skybox. The map source is included.",
  "files": {
   "README - ad_jpqm5 - The Battery.txt": {
@@ -81,7 +75,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> and a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-07-18",
  "sha256": "0b887171c9595d4e8cf38b99b7928fddc5ac94cc230a1b71e5a655204e8f907f",
  "tags": [
   "author=JPal",
@@ -107,7 +100,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "The Battery",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_jpqm5.zip",
   "https://www.quaddicted.com/files/by-sha256/0b/0b887171c9595d4e8cf38b99b7928fddc5ac94cc230a1b71e5a655204e8f907f/ad_jpqm5.zip"

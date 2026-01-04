@@ -1,12 +1,5 @@
 {
- "authors": [
-  "Drew",
-  "Zwiffle"
- ],
  "bytes": 824741,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Caught between slipgates / 2 SP maps / Drew (Quoth), Zwiffle",
  "files": {
   "sm153_drew.bsp": {
@@ -24,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-06-22",
  "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "tags": [
   "author=Drew",
@@ -45,7 +37,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 153 - Caught between slipgates",
  "urls": [
   "https://www.quaddicted.com/filebase/sm153_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/05/05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51/sm153_pack.zip"

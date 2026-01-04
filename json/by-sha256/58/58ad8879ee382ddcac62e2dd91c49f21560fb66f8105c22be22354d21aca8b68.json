@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 1403385,
  "description": "Large underground catacomb level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-01-25",
  "sha256": "58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68",
  "tags": [
   "author=czg",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Februus Depth",
  "urls": [
   "https://www.quaddicted.com/filebase/februus.zip",
   "https://www.quaddicted.com/files/by-sha256/58/58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68/februus.zip"

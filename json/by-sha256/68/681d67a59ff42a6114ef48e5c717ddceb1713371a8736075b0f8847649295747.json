@@ -1,15 +1,4 @@
 {
- "authors": [
-  "Atomic",
-  "Chuma",
-  "Colossus",
-  "RecycledOJ",
-  "Shadesmaster",
-  "Spootnik",
-  "iYago",
-  "magnetbox",
-  "mtsch"
- ],
  "bytes": 81791574,
  "description": "Pack of 9 maps made over a weekend, with only one rule: must include a Thunderbolt (lightning gun). Also includes a number of 'mini' quad/pent/suit powerups lasting only 8 seconds.",
  "files": {
@@ -847,7 +836,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-11-21",
  "sha256": "681d67a59ff42a6114ef48e5c717ddceb1713371a8736075b0f8847649295747",
  "tags": [
   "author=Atomic",
@@ -871,7 +859,6 @@
   "type=mod",
   "type=speedmap"
  ],
- "title": "SM227 - Thunderbolts and Lightning",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/68/681d67a59ff42a6114ef48e5c717ddceb1713371a8736075b0f8847649295747/sm227.zip",
   "https://x901.net/quaddictedfiles/sm227.zip"

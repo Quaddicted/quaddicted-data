@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Exabyt"
- ],
  "bytes": 13695593,
- "depends": [
-  "copper=1.30"
- ],
  "description": "Large metal map with many light fixtures and various traps and setpieces involving moving parts.",
  "files": {
   "maps/": {
@@ -61,7 +55,6 @@
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
  ],
- "release_date": "2024-04-11",
  "sha256": "16c3107c413b9cef531b6ef3866ddaa539b1e84b6027fab50c17611b9f4a30f7",
  "tags": [
   "author=Exabyt",
@@ -79,7 +72,6 @@
   "type=map",
   "zipbasedir=copper/"
  ],
- "title": "Ferric Oxide",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/16/16c3107c413b9cef531b6ef3866ddaa539b1e84b6027fab50c17611b9f4a30f7/ferric_oxide_v1.01.zip",
   "https://x901.net/quaddictedfiles/ferric_oxide_v1.01.zip"

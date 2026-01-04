@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GunSgtHighway"
- ],
  "bytes": 16714764,
  "description": "The first map by GunSgtHighway.",
  "files": {
@@ -90,7 +87,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-12-02",
  "sha256": "b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba",
  "tags": [
   "author=GunSgtHighway",
@@ -110,7 +106,6 @@
   "title=Temple of doom",
   "type=map"
  ],
- "title": "Temple of doom",
  "urls": [
   "https://www.quaddicted.com/filebase/gsh_tod.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba/gsh_tod.zip"

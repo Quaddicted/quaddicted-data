@@ -1,11 +1,5 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 5999527,
- "depends": [
-  "quoth>=2.2"
- ],
  "description": "Large village-type of level; a valley with several buildings including a mill and basement/dungeon areas beneath. It also comes with a few custom models and sounds.",
  "files": {
   "digs09.txt": {
@@ -71,7 +65,6 @@
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and a source port with increased limits and BSP2 support."
  ],
- "release_date": "2018-10-27",
  "sha256": "ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40",
  "tags": [
   "author=digs",
@@ -100,7 +93,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "The Zombie's House",
  "urls": [
   "https://www.quaddicted.com/filebase/digs09.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40/digs09.zip"

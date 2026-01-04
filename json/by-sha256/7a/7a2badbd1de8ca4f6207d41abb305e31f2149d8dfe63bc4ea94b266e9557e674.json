@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrej 'MC' Kacian"
- ],
  "bytes": 744245,
  "description": "Two boxed base maps with unusual texturing and lighting. The mission is to make one's way up a tower and escape through the hangar.",
  "files": {
@@ -55,7 +52,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-07-16",
  "sha256": "7a2badbd1de8ca4f6207d41abb305e31f2149d8dfe63bc4ea94b266e9557e674",
  "tags": [
   "author=Andrej 'MC' Kacian",
@@ -68,7 +64,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Tower",
  "urls": [
   "https://www.quaddicted.com/filebase/tower.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7a2badbd1de8ca4f6207d41abb305e31f2149d8dfe63bc4ea94b266e9557e674/tower.zip"

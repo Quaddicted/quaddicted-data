@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tonhao"
- ],
  "bytes": 46493278,
  "description": "Small medieval map with a non-linear layout. Based on the Alkaline devkit (included).",
  "files": {
@@ -2985,7 +2982,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-02-20",
  "sha256": "cc9d348b4a116ce60cbaa89c8deb2b95e9e0ef78c0a26a297d7ad5a7927e0317",
  "tags": [
   "author=Tonhao",
@@ -3001,7 +2997,6 @@
   "type=map",
   "type=mod"
  ],
- "title": "Ruins of the Unforgotten Souls",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/cc/cc9d348b4a116ce60cbaa89c8deb2b95e9e0ef78c0a26a297d7ad5a7927e0317/alk_tonrotusspmp4_1_1_1.zip",
   "https://x901.net/quaddictedfiles/alk_tonrotusspmp4_1_1_1.zip"

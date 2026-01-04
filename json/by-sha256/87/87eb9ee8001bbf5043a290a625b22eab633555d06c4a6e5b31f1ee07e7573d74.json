@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Tr0n",
-  "Zwiffle",
-  "bambuz"
- ],
  "bytes": 676495,
  "description": "The Rabbit Hole / 3 SP maps / bambuz, Tr0n, Zwiffle",
  "files": {
@@ -37,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-06-05",
  "sha256": "87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74",
  "tags": [
   "author=Tr0n",
@@ -54,7 +48,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 94 - The Rabbit Hole",
  "urls": [
   "https://www.quaddicted.com/filebase/sm94_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/87/87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74/sm94_pack.zip"

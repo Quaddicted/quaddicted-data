@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 6788677,
  "description": "Large, intricate levels with great gameplay and connectivity, offset with interesting details and clever design. The start map is followed by 2 q2base and a q3gothic map. It also features some new ambient sounds.",
  "files": {
@@ -266,7 +263,6 @@
   "extract": "{base}/czg07/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-05-25",
  "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
  "tags": [
   "author=czg",
@@ -304,7 +300,6 @@
   "type=mod",
   "zipbasedir=czg07/"
  ],
- "title": "Insomnia",
  "urls": [
   "https://www.quaddicted.com/filebase/czg07.zip",
   "https://www.quaddicted.com/files/by-sha256/38/38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257/czg07.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Darren Stabler"
- ],
  "bytes": 670098,
  "description": "Medium sized boxed  Ebon-style map with some outdoor areas.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-08-10",
  "sha256": "bc7af2616a64f9b86340f860ff6bc6080f3a5c165a9cb9243c5963de81bf4fb4",
  "tags": [
   "author=Darren Stabler",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Forsaken Citadel",
  "urls": [
   "https://www.quaddicted.com/filebase/fc.zip",
   "https://www.quaddicted.com/files/by-sha256/bc/bc7af2616a64f9b86340f860ff6bc6080f3a5c165a9cb9243c5963de81bf4fb4/fc.zip"

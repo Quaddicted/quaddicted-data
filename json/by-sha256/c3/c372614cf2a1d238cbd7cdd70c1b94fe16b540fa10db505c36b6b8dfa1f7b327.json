@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi"
- ],
  "bytes": 1357570,
  "description": "Medium sized gothic fortress with Q3A textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-12-13",
  "sha256": "c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327",
  "tags": [
   "author=Hrimfaxi",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Cappuccino: The refill",
  "urls": [
   "https://www.quaddicted.com/filebase/cappuccino_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/c3/c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327/cappuccino_v2.zip"

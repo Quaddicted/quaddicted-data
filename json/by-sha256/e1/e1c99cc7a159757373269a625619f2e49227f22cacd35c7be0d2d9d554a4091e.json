@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Kell"
- ],
  "bytes": 1890122,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Large interconnected red Knave-style castle with an insane number of secrets.",
  "files": {
   "red777.bsp": {
@@ -26,7 +20,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2005-11-05",
  "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "tags": [
   "author=Kell",
@@ -52,7 +45,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Red 777",
  "urls": [
   "https://www.quaddicted.com/filebase/red777.zip",
   "https://www.quaddicted.com/files/by-sha256/e1/e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e/red777.zip"

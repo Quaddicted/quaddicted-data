@@ -1,7 +1,4 @@
 {
- "authors": [
-  "iYago"
- ],
  "bytes": 1338215,
  "description": "Small to medium-sized level in Gloom Keep style, with a dark brick dungeon beneath. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-05-15",
  "sha256": "e871c8a7bf337d1f7dd6270619095fab49f2f204c5cd10f51b3e3a1d05dfd8f1",
  "tags": [
   "author=iYago",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hushed Walls",
  "urls": [
   "https://www.quaddicted.com/filebase/hush.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e871c8a7bf337d1f7dd6270619095fab49f2f204c5cd10f51b3e3a1d05dfd8f1/hush.zip"

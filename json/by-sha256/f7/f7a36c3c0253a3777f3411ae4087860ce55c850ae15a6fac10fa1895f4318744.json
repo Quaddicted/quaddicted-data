@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Michael Reed"
- ],
  "bytes": 611846,
  "description": "Medium sized realism map made for the PC Gamer magazine. Grab a PCG issue on Quake2 from their warehouse and pay a visit to the Coconut Monkey.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-07-20",
  "sha256": "f7a36c3c0253a3777f3411ae4087860ce55c850ae15a6fac10fa1895f4318744",
  "tags": [
   "author=Michael Reed",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "PC Gamer Warehouse",
  "urls": [
   "https://www.quaddicted.com/filebase/pcgwhse.zip",
   "https://www.quaddicted.com/files/by-sha256/f7/f7a36c3c0253a3777f3411ae4087860ce55c850ae15a6fac10fa1895f4318744/pcgwhse.zip"

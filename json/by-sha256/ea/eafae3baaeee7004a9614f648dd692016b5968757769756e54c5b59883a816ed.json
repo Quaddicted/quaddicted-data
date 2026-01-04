@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DeeDoubleU"
- ],
  "bytes": 559202,
  "description": "Small medieval-style fortress where all items are hidden in countless secrets which have to be discovered in order to survive.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-11-14",
  "sha256": "eafae3baaeee7004a9614f648dd692016b5968757769756e54c5b59883a816ed",
  "tags": [
   "author=DeeDoubleU",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Secret",
  "urls": [
   "https://www.quaddicted.com/filebase/dwsecret.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/eafae3baaeee7004a9614f648dd692016b5968757769756e54c5b59883a816ed/dwsecret.zip"

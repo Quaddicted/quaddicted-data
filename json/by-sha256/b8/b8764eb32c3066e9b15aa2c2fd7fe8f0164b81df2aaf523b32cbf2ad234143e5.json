@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Wilson (Thundermug)"
- ],
  "bytes": 2087631,
  "description": "Two medium sized, boxed maps with a story and cutscenes. Starts in a base and progresses through a canyon/caves to a Wizard section.",
  "files": {
@@ -60,7 +57,6 @@
   "extract": "{base}/wind/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-26",
  "sha256": "b8764eb32c3066e9b15aa2c2fd7fe8f0164b81df2aaf523b32cbf2ad234143e5",
  "tags": [
   "author=Steve Wilson (Thundermug)",
@@ -79,7 +75,6 @@
   "type=mod",
   "zipbasedir=wind/"
  ],
- "title": "Valley of the wind",
  "urls": [
   "https://www.quaddicted.com/filebase/wind.zip",
   "https://www.quaddicted.com/files/by-sha256/b8/b8764eb32c3066e9b15aa2c2fd7fe8f0164b81df2aaf523b32cbf2ad234143e5/wind.zip"

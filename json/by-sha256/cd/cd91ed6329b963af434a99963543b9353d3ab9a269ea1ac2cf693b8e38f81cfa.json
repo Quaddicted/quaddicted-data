@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Eric",
-  "Kell",
-  "Vondur",
-  "Zwiffle",
-  "ionous",
-  "necros"
- ],
  "bytes": 15844864,
  "description": "Hub-based pack with 9 medium to large levels (including start and secret maps). Uses Knave textures and features new monsters/powerups.",
  "files": {
@@ -726,7 +718,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-05-29",
  "sha256": "cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa",
  "tags": [
   "author=Eric",
@@ -760,7 +751,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Contract Revoked: The Lost Chapters",
  "urls": [
   "https://www.quaddicted.com/filebase/chapters.zip",
   "https://www.quaddicted.com/files/by-sha256/cd/cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa/chapters.zip"

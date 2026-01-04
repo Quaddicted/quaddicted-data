@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rick Troppman"
- ],
  "bytes": 1048089,
  "description": "Medium sized base map inspired by The Slipgate Complex. Also features a few Ogres and Knights.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-17",
  "sha256": "0c92c11f45322027ad6b005bdcb35714f37878239fb18098d68c0952fe02d604",
  "tags": [
   "author=Rick Troppman",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Comm Center",
  "urls": [
   "https://www.quaddicted.com/filebase/commctr.zip",
   "https://www.quaddicted.com/files/by-sha256/0c/0c92c11f45322027ad6b005bdcb35714f37878239fb18098d68c0952fe02d604/commctr.zip"

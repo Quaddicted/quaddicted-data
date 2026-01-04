@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tim Elek"
- ],
  "bytes": 2069928,
  "description": "Two (3) small, story-driven maps with medieval villages, temples and tombs, using Hexen2 textures.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-10-18",
  "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "tags": [
   "author=Tim Elek",
@@ -58,7 +54,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Occursed",
  "urls": [
   "https://www.quaddicted.com/filebase/cursed.zip",
   "https://www.quaddicted.com/files/by-sha256/cb/cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f/cursed.zip"

@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Notorious Ray",
-  "Scampie",
-  "Speedy",
-  "Starbuck",
-  "than"
- ],
  "bytes": 890591,
  "description": "Unthemed / 6 DM maps / Notorious Ray, Starbuck, Scampie, Speedy, than",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-08-14",
  "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "tags": [
   "author=Notorious Ray",
@@ -72,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 30 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm30_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ca/ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776/sm30_pack.zip"

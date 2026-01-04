@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Connor Fitzgerald feat. Biff Debris",
-  "Evan Wagner",
-  "Kell",
-  "inertia"
- ],
  "bytes": 2476666,
  "description": "Episode consisting of five classic deathmatch maps converted for single player (with speedrunning in mind): <br><br> dmc2m1 : Deadalus Revisited (imp1dm6) by Biff Debris<br> dmc2m2 : Slipstream         (slip)    by Inertia<br> dmc2m3 : Black Rain         (evdm1)   by Evan Wagner<br> dmc2m4 : The Killing Jar    (kdmj)    by Kell<br> dmc2m5 : Void Runner        (kdmv)    by Kell<br>",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-05-12",
  "sha256": "c9b7c8c78b0808972a2ca7055df3ba1898f8004d1cc34f09ae1f0f9042889a4e",
  "tags": [
   "author=Connor Fitzgerald feat. Biff Debris",
@@ -72,7 +65,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Deathmatch Classics Vol. 2",
  "urls": [
   "https://www.quaddicted.com/filebase/dmc2.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9b7c8c78b0808972a2ca7055df3ba1898f8004d1cc34f09ae1f0f9042889a4e/dmc2.zip"

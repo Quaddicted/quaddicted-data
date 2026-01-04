@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Kell",
-  "necros"
- ],
  "bytes": 53512930,
  "description": "Expansion mod featuring many new monsters, weapons, items and QC features. Some maps are included for demo purposes but the primary aim is to provide a new/improved set of entities for mappers to use. Many subsequently released maps require Quoth to be installed, making it an essential download for players too.",
  "files": {
@@ -1902,11 +1898,6 @@
  "notes": [
   "This is version 2.1 - a patch to version 2.2 is available <a href=\"https://www.quaddicted.com/filebase/quoth2pt2patch_2.zip\">here</a> and version 2.2 (full) is available <a href=\"https://www.quaddicted.com/filebase/quoth2pt2full_2.zip\">here</a>."
  ],
- "provides": {
-  "quoth": "2.1"
- },
- "release_date": "2008-03-09",
- "release_group": "quoth",
  "sha256": "8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1",
  "tags": [
   "author=Kell",
@@ -1944,10 +1935,8 @@
   "version=2.1",
   "zipbasedir=quoth/"
  ],
- "title": "Quoth",
  "urls": [
   "https://www.quaddicted.com/filebase/quoth.zip",
   "https://www.quaddicted.com/files/by-sha256/86/8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1/quoth.zip"
- ],
- "version": "2.1"
+ ]
 }

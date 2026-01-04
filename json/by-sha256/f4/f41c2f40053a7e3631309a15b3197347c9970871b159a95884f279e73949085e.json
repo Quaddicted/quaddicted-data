@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ondrejoda"
- ],
  "bytes": 1899586,
  "description": "Small brick building inside a cavern. The map source and a walkthrough demo are included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-07-30",
  "sha256": "f41c2f40053a7e3631309a15b3197347c9970871b159a95884f279e73949085e",
  "tags": [
   "author=Ondrejoda",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Wizard Base",
  "urls": [
   "https://www.quaddicted.com/filebase/wbase_2021.zip",
   "https://www.quaddicted.com/files/by-sha256/f4/f41c2f40053a7e3631309a15b3197347c9970871b159a95884f279e73949085e/wbase_2021.zip"

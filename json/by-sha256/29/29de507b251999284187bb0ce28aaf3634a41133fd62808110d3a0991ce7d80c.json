@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Stan C."
- ],
  "bytes": 644348,
  "description": "Small to medium Wizard/Metal map with waterfall canyon leading to a cave with an eddy, a temple and underground caverns.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-27",
  "sha256": "29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c",
  "tags": [
   "author=Stan C.",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Downward Spiral",
  "urls": [
   "https://www.quaddicted.com/filebase/dspirl11.zip",
   "https://www.quaddicted.com/files/by-sha256/29/29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c/dspirl11.zip"

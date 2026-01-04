@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Stephen Parker"
- ],
  "bytes": 3031142,
  "description": "Mini-episode with four small to medium Wizard-style maps and a start map.",
  "files": {
@@ -81,7 +78,6 @@
  "notes": [
   "In the third map, some teleporters may be malfunctioning in newer engines, leaving player/monsters stuck in the ceiling. Use noclip/fullbright temporarily to be able to proceed in these situations."
  ],
- "release_date": "1997-07-19",
  "sha256": "9dacf0389b907eef8d0b388ce9ad07719d4926c21f4687ae70e0ebda0b493979",
  "tags": [
   "author=Stephen Parker",
@@ -101,7 +97,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Maelstrom",
  "urls": [
   "https://www.quaddicted.com/filebase/maelstrm.zip",
   "https://www.quaddicted.com/files/by-sha256/9d/9dacf0389b907eef8d0b388ce9ad07719d4926c21f4687ae70e0ebda0b493979/maelstrm.zip"

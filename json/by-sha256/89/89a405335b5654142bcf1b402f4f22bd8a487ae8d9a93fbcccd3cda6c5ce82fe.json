@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vigil"
- ],
  "bytes": 420569,
  "description": "Medium sized Wizmetal/industrial sky fortress.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-12-19",
  "sha256": "89a405335b5654142bcf1b402f4f22bd8a487ae8d9a93fbcccd3cda6c5ce82fe",
  "tags": [
   "author=Vigil",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Unseen Assailant",
  "urls": [
   "https://www.quaddicted.com/filebase/jjspq2.zip",
   "https://www.quaddicted.com/files/by-sha256/89/89a405335b5654142bcf1b402f4f22bd8a487ae8d9a93fbcccd3cda6c5ce82fe/jjspq2.zip"

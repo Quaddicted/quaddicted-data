@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Zwiffle",
-  "negke"
- ],
  "bytes": 460050,
  "description": "Unthemed / 2 SP maps / negke, Zwiffle",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-04-11",
  "sha256": "149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca",
  "tags": [
   "author=Zwiffle",
@@ -42,7 +37,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 163 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm163_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/14/149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca/sm163_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DEAD MEAT"
- ],
  "bytes": 753262,
  "description": "Small, boxed mix-texture pseudo gallery displaying some of Michael Whelan's artwork. Only one monster. Comes with a demo.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-12",
  "sha256": "7c19d74f672cd1ce5ff26675f58587619d90d698c14802a46bc791d541c8325a",
  "tags": [
   "author=DEAD MEAT",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Gallery Of The Mind",
  "urls": [
   "https://www.quaddicted.com/filebase/gallery.zip",
   "https://www.quaddicted.com/files/by-sha256/7c/7c19d74f672cd1ce5ff26675f58587619d90d698c14802a46bc791d541c8325a/gallery.zip"

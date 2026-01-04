@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Digs"
- ],
  "bytes": 2973189,
  "description": "Large brick/metal complex where reality is twisted and many optical illusions occur. Nonlinear, explorational gameplay with puzzles and a great number of secret areas. The sequel to <a href=\"be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91\">digs05</a>.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This level requires an engine port with increased limits, and r_wateralpha to be set to 0.3"
  ],
- "release_date": "2011-07-01",
  "sha256": "df2dee29f37b0da7c55d29951a7d14c03cbc364a0f6f6c84d189bacf8a907f1f",
  "tags": [
   "author=Digs",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Anomaly 2: Water",
  "urls": [
   "https://www.quaddicted.com/filebase/digs06.zip",
   "https://www.quaddicted.com/files/by-sha256/df/df2dee29f37b0da7c55d29951a7d14c03cbc364a0f6f6c84d189bacf8a907f1f/digs06.zip"

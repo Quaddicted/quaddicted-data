@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Wilson"
- ],
  "bytes": 668705,
  "description": "Small Wizard-like map with a few custom textures. According to redrum.txt, this is the deathmatch version of \"Valley of the Wind\" (wind.zip).",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-03",
  "sha256": "badb3fa50d2c468d5c8b106d65479f446b1796806e8607582313c5af5c3802da",
  "tags": [
   "author=Steve Wilson",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Red Room",
  "urls": [
   "https://www.quaddicted.com/filebase/redrum.zip",
   "https://www.quaddicted.com/files/by-sha256/ba/badb3fa50d2c468d5c8b106d65479f446b1796806e8607582313c5af5c3802da/redrum.zip"

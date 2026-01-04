@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brendy Caldwell"
- ],
  "bytes": 6627608,
  "description": "Small tomb / crypt brick map built within a 1024^3 volume, textured with Makkon and based on Progs_dump (included). Map source is included.",
  "files": {
@@ -640,7 +637,6 @@
   "Skill 0 (Easy) is not implemented, will play like skill 1 (Normal).",
   "Watch the author's <a href=\"https://youtu.be/s5HIHTISenE\">design breakdown video on YouTube</a>."
  ],
- "release_date": "2022-03-01",
  "sha256": "02f951e263ff7695e93b7022a2449ae1a0c313a61c5d36383bebad66a2277f91",
  "tags": [
   "author=Brendy Caldwell",
@@ -666,7 +662,6 @@
   "title=Under A Stone Blanket",
   "type=mod"
  ],
- "title": "Under A Stone Blanket",
  "urls": [
   "https://www.quaddicted.com/filebase/stoneblanket.zip",
   "https://www.quaddicted.com/files/by-sha256/02/02f951e263ff7695e93b7022a2449ae1a0c313a61c5d36383bebad66a2277f91/stoneblanket.zip"

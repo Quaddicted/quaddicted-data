@@ -1,17 +1,4 @@
 {
- "authors": [
-  "EricW",
-  "FifthElephant",
-  "Lunaran",
-  "Preach",
-  "PulSaR",
-  "Scampie",
-  "ionous",
-  "mfx",
-  "necros",
-  "others",
-  "sock"
- ],
  "bytes": 216225166,
  "description": "Large-scale single player campaign with many new levels, some of them labeled as \"test\" maps, featuring a whole line-up of new monsters and items as well as several tweaks and changes to the gameplay. It is also meant to serve as a tool box for level designers. Map and QC sources are included.",
  "files": {
@@ -9194,11 +9181,6 @@
   "A patch for 1.5 is available <a href=\"https://www.quaddicted.com/filebase/ad_v1_50patch1.zip\">here</a>",
   "These maps require an engine port with increased limits as well as support for BSP2 and transparent textures. They are mainly designed to be played with <a href=\"http://quakespasm.sourceforge.net\">QuakeSpasm 0.92.0</a> or later."
  ],
- "provides": {
-  "ad": "1.50"
- },
- "release_date": "2016-12-03",
- "release_group": "ad",
  "sha256": "d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d",
  "tags": [
   "author=EricW",
@@ -9288,10 +9270,8 @@
   "version=1.50",
   "zipbasedir=ad/"
  ],
- "title": "Arcane Dimensions 1.50",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_v1_50final.zip",
   "https://www.quaddicted.com/files/by-sha256/d7/d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d/ad_v1_50final.zip"
- ],
- "version": "1.50"
+ ]
 }

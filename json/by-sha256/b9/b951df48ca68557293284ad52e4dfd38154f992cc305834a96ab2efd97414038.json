@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MadFox"
- ],
  "bytes": 1092192,
  "description": "Large Wizard castle with several water and outdoor areas.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-11-11",
  "sha256": "b951df48ca68557293284ad52e4dfd38154f992cc305834a96ab2efd97414038",
  "tags": [
   "author=MadFox",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Burgt",
  "urls": [
   "https://www.quaddicted.com/filebase/burgtx12.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b951df48ca68557293284ad52e4dfd38154f992cc305834a96ab2efd97414038/burgtx12.zip"

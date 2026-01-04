@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Daryl Deep"
- ],
  "bytes": 859996,
  "description": "E1M1 of Wolfenstein 3D, complete with original textures and layout. Uses some SOA entities.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-12",
  "sha256": "b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072",
  "tags": [
   "author=Daryl Deep",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Wolf3D",
  "urls": [
   "https://www.quaddicted.com/filebase/wolf3d.zip",
   "https://www.quaddicted.com/files/by-sha256/b7/b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072/wolf3d.zip"

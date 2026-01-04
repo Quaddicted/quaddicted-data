@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jonas N.P. Lindstrom"
- ],
  "bytes": 949811,
  "description": "Medium sized cramped odd Metal etc map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-04",
  "sha256": "b5151ffc12194df5f7221050a468573363d3e9fc4839472a92c9014456593cda",
  "tags": [
   "author=Jonas N.P. Lindstrom",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The house of Sadlark (2)",
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark2.zip",
   "https://www.quaddicted.com/files/by-sha256/b5/b5151ffc12194df5f7221050a468573363d3e9fc4839472a92c9014456593cda/sadlark2.zip"

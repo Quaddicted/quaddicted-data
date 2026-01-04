@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jon \"Starbuck\" Miles"
- ],
  "bytes": 446844,
  "description": "Small egyptian style turtle map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-12-27",
  "sha256": "c471aeb497c29b9c8ccdde89c45dc65735ce3f8ade48198adef8da9e64562f63",
  "tags": [
   "author=Jon \"Starbuck\" Miles",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Whisperer In Shadows",
  "urls": [
   "https://www.quaddicted.com/filebase/whisper.zip",
   "https://www.quaddicted.com/files/by-sha256/c4/c471aeb497c29b9c8ccdde89c45dc65735ce3f8ade48198adef8da9e64562f63/whisper.zip"

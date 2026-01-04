@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Chris \"1600frogs\" Brady"
- ],
  "bytes": 3661325,
- "depends": [
-  "copper>=1.00"
- ],
  "description": "Smallish brick-themed map with vertical progression, centered around a railway bridge and supply train.",
  "files": {
   "copper/": {
@@ -62,7 +56,6 @@
   "This map requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper</a>.",
   "May require a modern engine / source port with increased limits."
  ],
- "release_date": "2023-08-10",
  "sha256": "65f3fe0c5324076ac09fa28a9a5c2865e179c7b85b6ed3e9546594e0a85616d4",
  "tags": [
   "author=Chris \"1600frogs\" Brady",
@@ -84,7 +77,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "Bog Man Has Had Enough",
  "urls": [
   "https://www.quaddicted.com/filebase/frogsbog_v1.zip",
   "https://www.quaddicted.com/files/by-sha256/65/65f3fe0c5324076ac09fa28a9a5c2865e179c7b85b6ed3e9546594e0a85616d4/frogsbog_v1.zip"

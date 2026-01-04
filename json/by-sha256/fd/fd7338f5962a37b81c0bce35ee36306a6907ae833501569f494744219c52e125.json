@@ -1,7 +1,4 @@
 {
- "authors": [
-  "John \"DaMaul\" McCann"
- ],
  "bytes": 929744,
  "description": "Medium sized brown fortress level with a small Wizard end battle map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-02-10",
  "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "tags": [
   "author=John \"DaMaul\" McCann",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Suicide Nation",
  "urls": [
   "https://www.quaddicted.com/filebase/damaul3.zip",
   "https://www.quaddicted.com/files/by-sha256/fd/fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125/damaul3.zip"

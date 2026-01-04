@@ -1,7 +1,4 @@
 {
- "authors": [
-  "c0j"
- ],
  "bytes": 559962,
  "description": "Small / medium brick castle in classic style. Map source is included.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "Note that only skill 1 (Normal) difficulty setting is implemented."
  ],
- "release_date": "2022-01-18",
  "sha256": "3f85e556e8cd13717b6205943d12896079596ccb14d7cb3f98fcf4955406e0f4",
  "tags": [
   "author=c0j",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Alena Kingdom",
  "urls": [
   "https://www.quaddicted.com/filebase/ba1_qmap.zip",
   "https://www.quaddicted.com/files/by-sha256/3f/3f85e556e8cd13717b6205943d12896079596ccb14d7cb3f98fcf4955406e0f4/ba1_qmap.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Laidlaw"
- ],
  "bytes": 771910,
  "description": "Small to medium chapel with a graveyard and caverns beneath. Lots of back and forth running between the rooms.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-03",
  "sha256": "11dd91500dfb68b2a1502fffcca1a5cf37bf9a666e003c3bfbe539e4acde6e7c",
  "tags": [
   "author=Marc Laidlaw",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Chapel Shoggoth",
  "urls": [
   "https://www.quaddicted.com/filebase/shoggoth.zip",
   "https://www.quaddicted.com/files/by-sha256/11/11dd91500dfb68b2a1502fffcca1a5cf37bf9a666e003c3bfbe539e4acde6e7c/shoggoth.zip"

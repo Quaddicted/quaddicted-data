@@ -1,7 +1,4 @@
 {
- "authors": [
-  "marty"
- ],
  "bytes": 653578,
  "description": "Small detailed Base map with a lava cavern bit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-05",
  "sha256": "ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc",
  "tags": [
   "author=marty",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Prey2",
  "urls": [
   "https://www.quaddicted.com/filebase/prey2.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc/prey2.zip"

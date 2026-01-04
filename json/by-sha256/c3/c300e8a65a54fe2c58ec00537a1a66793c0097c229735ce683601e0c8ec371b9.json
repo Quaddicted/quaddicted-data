@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Anders Gustavsson"
- ],
  "bytes": 1663836,
  "description": "Three small space base maps with unusual but not necessarily bad new textures.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-06",
  "sha256": "c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9",
  "tags": [
   "author=Anders Gustavsson",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Area 51",
  "urls": [
   "https://www.quaddicted.com/filebase/area51.2.zip",
   "https://www.quaddicted.com/files/by-sha256/c3/c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9/area51.2.zip"

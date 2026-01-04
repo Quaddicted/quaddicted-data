@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DeSoto"
- ],
  "bytes": 1277793,
  "description": "Medium sized, mashup of texture themes with some paintings by H.R. Giger, Boris Vallejo and Olivia.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-28",
  "sha256": "8316b448dd341bb7076801ef93183f0fc4f3242e67a08ed0849d6944fdfcb706",
  "tags": [
   "author=DeSoto",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Ascent from Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/afhell.zip",
   "https://www.quaddicted.com/files/by-sha256/83/8316b448dd341bb7076801ef93183f0fc4f3242e67a08ed0849d6944fdfcb706/afhell.zip"

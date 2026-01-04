@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Bisseker (tiddles)"
- ],
  "bytes": 124202,
  "description": "Small, cramped, dark, plain Wizard-style deathmatch map with monsters but no exit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-05-01",
  "sha256": "ac3ddf44268c79ce8de8cf765eeb69e7ab2f5c06627e6f27a2d416b1e207d7b9",
  "tags": [
   "author=Peter Bisseker (tiddles)",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Crossfire",
  "urls": [
   "https://www.quaddicted.com/filebase/cross_2.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/ac3ddf44268c79ce8de8cf765eeb69e7ab2f5c06627e6f27a2d416b1e207d7b9/cross_2.zip"

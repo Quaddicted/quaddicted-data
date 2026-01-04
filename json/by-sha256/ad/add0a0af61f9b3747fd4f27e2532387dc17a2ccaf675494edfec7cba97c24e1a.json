@@ -1,8 +1,4 @@
 {
- "authors": [
-  "adamllis",
-  "negke"
- ],
  "bytes": 466568,
  "description": "Tricking maps / 3 SP maps / adamllis, neg!ke",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-01-10",
  "sha256": "add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a",
  "tags": [
   "author=adamllis",
@@ -47,7 +42,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 116 - Tricking maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm116_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a/sm116_pack.zip"

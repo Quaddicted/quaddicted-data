@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GatorMan"
- ],
  "bytes": 988861,
  "description": "Medium to large, fairly plain, linear Medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-11",
  "sha256": "2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad",
  "tags": [
   "author=GatorMan",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "GatorMan's Diversion",
  "urls": [
   "https://www.quaddicted.com/filebase/gatordiv.zip",
   "https://www.quaddicted.com/files/by-sha256/2f/2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad/gatordiv.zip"

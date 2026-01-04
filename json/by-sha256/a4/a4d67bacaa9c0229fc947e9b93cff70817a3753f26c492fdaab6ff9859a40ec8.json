@@ -1,19 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "Danzadan",
-  "Esrael",
-  "Fairweather",
-  "Ing-ing",
-  "JCR",
-  "MortalMaxx",
-  "Mugwump",
-  "Pinchy",
-  "ish",
-  "kamp",
-  "khreathor",
-  "uKKo"
- ],
  "bytes": 49267028,
  "description": "14 speedjam SP levels made on a 64 unit grid, three custom skyboxes, four music tracks, and some map sources.",
  "files": {
@@ -405,7 +390,6 @@
  "notes": [
   "These maps probably require a source port with increased limits."
  ],
- "release_date": "2019-04-25",
  "sha256": "a4d67bacaa9c0229fc947e9b93cff70817a3753f26c492fdaab6ff9859a40ec8",
  "tags": [
   "author=Artistical",
@@ -444,7 +428,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 194 - BigMcGee",
  "urls": [
   "https://www.quaddicted.com/filebase/sm194_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/a4/a4d67bacaa9c0229fc947e9b93cff70817a3753f26c492fdaab6ff9859a40ec8/sm194_pack.zip"

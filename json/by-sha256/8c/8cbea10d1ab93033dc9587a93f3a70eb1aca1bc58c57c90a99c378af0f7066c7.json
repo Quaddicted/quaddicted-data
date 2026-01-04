@@ -1,7 +1,4 @@
 {
- "authors": [
-  "goldenboy"
- ],
  "bytes": 505865,
  "description": "A former speedmap. Medievalish and with a twist in the end dedicated to the <a href=\"http://www.celephais.net/board/\">Func_Msgboard</a>.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2009-01-29",
  "sha256": "8cbea10d1ab93033dc9587a93f3a70eb1aca1bc58c57c90a99c378af0f7066c7",
  "tags": [
   "author=goldenboy",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Palace Revolution",
  "urls": [
   "https://www.quaddicted.com/filebase/gb_palace.zip",
   "https://www.quaddicted.com/files/by-sha256/8c/8cbea10d1ab93033dc9587a93f3a70eb1aca1bc58c57c90a99c378af0f7066c7/gb_palace.zip"

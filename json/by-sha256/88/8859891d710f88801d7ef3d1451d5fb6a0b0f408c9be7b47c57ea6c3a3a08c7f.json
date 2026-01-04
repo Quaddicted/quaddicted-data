@@ -1,7 +1,4 @@
 {
- "authors": [
-  "skacky"
- ],
  "bytes": 2567104,
  "description": "Small to medium-sized Knave-themed level. The map source and a texture wad are included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-05-26",
  "sha256": "8859891d710f88801d7ef3d1451d5fb6a0b0f408c9be7b47c57ea6c3a3a08c7f",
  "tags": [
   "author=skacky",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "A Quick One Before Azathoth Devours Fodrian",
  "urls": [
   "https://www.quaddicted.com/filebase/azathoth.zip",
   "https://www.quaddicted.com/files/by-sha256/88/8859891d710f88801d7ef3d1451d5fb6a0b0f408c9be7b47c57ea6c3a3a08c7f/azathoth.zip"

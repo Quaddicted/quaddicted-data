@@ -1,7 +1,4 @@
 {
- "authors": [
-  "scar3crow"
- ],
  "bytes": 2458829,
  "description": "Medium-sized Ebon fortress/metal-themed level. The map source is included.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2019-09-06",
  "sha256": "3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22",
  "tags": [
   "author=scar3crow",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Ensnared Horizon",
  "urls": [
   "https://www.quaddicted.com/filebase/scar3sp01.zip",
   "https://www.quaddicted.com/files/by-sha256/3e/3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22/scar3sp01.zip"

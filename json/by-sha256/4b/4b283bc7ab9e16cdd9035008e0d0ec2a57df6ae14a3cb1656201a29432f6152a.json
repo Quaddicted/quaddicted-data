@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Wheeler"
- ],
  "bytes": 4713110,
  "description": "Small mansion in a dark forest, with complete custom texture set. \"This pak uses Ultimate Weapons combo mod as a base and includes these monsters: Snakeman, Dragon, Raptor, Cyberdemon, Blarg, Spider, Grunts package, Femenforcer.\"",
  "files": {
@@ -846,7 +843,6 @@
   "extract": "{base}/drastic/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-09",
  "sha256": "4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a",
  "tags": [
   "author=Mark Wheeler",
@@ -867,7 +863,6 @@
   "type=mod",
   "zipbasedir=drastic/"
  ],
- "title": "Drastic Lodge",
  "urls": [
   "https://www.quaddicted.com/filebase/drasticl.zip",
   "https://www.quaddicted.com/files/by-sha256/4b/4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a/drasticl.zip"

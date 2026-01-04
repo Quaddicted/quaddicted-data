@@ -1,8 +1,4 @@
 {
- "authors": [
-  "ShadoW",
-  "negke"
- ],
  "bytes": 577826,
  "description": "Small Metal level; the single player version of <a href=\"http://www.shadowsdomain.wordpress.com/levels/quake/deep-scars/\">q1shw2</a>. The GPL map source is included.",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-05-13",
  "sha256": "8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2",
  "tags": [
   "author=ShadoW",
@@ -49,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Deep Scars (single player version)",
  "urls": [
   "https://www.quaddicted.com/filebase/q1shw2sp.zip",
   "https://www.quaddicted.com/files/by-sha256/8b/8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2/q1shw2sp.zip"

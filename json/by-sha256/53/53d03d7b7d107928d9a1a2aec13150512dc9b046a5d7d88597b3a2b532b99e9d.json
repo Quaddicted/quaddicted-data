@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Noel Weer"
- ],
  "bytes": 781103,
  "description": "Copper/metal level that kind of feels like a DOOM map.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map requires Scourge of Armagon."
  ],
- "release_date": "1997-09-09",
  "sha256": "53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d",
  "tags": [
   "author=Noel Weer",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Horripalatia",
  "urls": [
   "https://www.quaddicted.com/filebase/horrid.zip",
   "https://www.quaddicted.com/files/by-sha256/53/53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d/horrid.zip"

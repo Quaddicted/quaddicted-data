@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ondrejoda"
- ],
  "bytes": 1379826,
  "description": "Three tiny beginner's levels. The map sources are included.",
  "files": {
@@ -54,7 +51,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2021-07-15",
  "sha256": "435e7691dbf74222dfe73c8ec5481b30a5f5f58e66eeb47564202110c324bed1",
  "tags": [
   "author=Ondrejoda",
@@ -75,7 +71,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Begining, The MiniBase, The Temple",
  "urls": [
   "https://www.quaddicted.com/filebase/first_maps.zip",
   "https://www.quaddicted.com/files/by-sha256/43/435e7691dbf74222dfe73c8ec5481b30a5f5f58e66eeb47564202110c324bed1/first_maps.zip"

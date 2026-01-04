@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Richard Dale Carlson"
- ],
  "bytes": 658100,
  "description": "Smallish Wizard/Metal map with a hub structure.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-15",
  "sha256": "a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5",
  "tags": [
   "author=Richard Dale Carlson",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pandemonium",
  "urls": [
   "https://www.quaddicted.com/filebase/pand01a.zip",
   "https://www.quaddicted.com/files/by-sha256/a2/a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5/pand01a.zip"

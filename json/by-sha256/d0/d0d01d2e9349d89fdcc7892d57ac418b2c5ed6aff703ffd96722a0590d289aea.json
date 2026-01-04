@@ -1,10 +1,4 @@
 {
- "authors": [
-  "HeadThump",
-  "Speedy",
-  "Trinca",
-  "Zwiffle"
- ],
  "bytes": 2555774,
  "description": "Results of the <a href=\"http://www.quakeexpo.com\">QuakeExpo 2006</a> turtlemap event: 4 around medium sized SP maps of varying themes by HeadThump, Popacabra, Trinca and Zwiffle.",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-31",
  "sha256": "d0d01d2e9349d89fdcc7892d57ac418b2c5ed6aff703ffd96722a0590d289aea",
  "tags": [
   "author=HeadThump",
@@ -62,7 +55,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "QExpo 2006 Turtlemap pack",
  "urls": [
   "https://www.quaddicted.com/filebase/tmqe06_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d0/d0d01d2e9349d89fdcc7892d57ac418b2c5ed6aff703ffd96722a0590d289aea/tmqe06_pack.zip"

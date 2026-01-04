@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Kell"
- ],
  "bytes": 1226270,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Large Metal/ruinic map with a fairly open layout / progression and attention to detail.",
  "files": {
   "kellmet1.bsp": {
@@ -26,7 +20,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2008-01-01",
  "sha256": "ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773",
  "tags": [
   "author=Kell",
@@ -50,7 +43,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "I Pity Thee Not",
  "urls": [
   "https://www.quaddicted.com/filebase/kellmet1.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773/kellmet1.zip"

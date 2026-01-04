@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Here"
- ],
  "bytes": 622851,
  "description": "Short q3gothic map with a somewhat deathmatch-like layout/feeling.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-11-08",
  "sha256": "2168017c395c53f279d69b2fd15ebe579e74304b9dac7083ef6be66290b1707c",
  "tags": [
   "author=Here",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "hyperevolt",
  "urls": [
   "https://www.quaddicted.com/filebase/heresp1.zip",
   "https://www.quaddicted.com/files/by-sha256/21/2168017c395c53f279d69b2fd15ebe579e74304b9dac7083ef6be66290b1707c/heresp1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 487136,
  "description": "Small castle with a few custom textures and many func_illusionaries.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-16",
  "sha256": "f6f5898d1baeaa7f054b997d21af2da9ff71b98b4c43c104828f5d64dc87c02d",
  "tags": [
   "author=Neil Manke",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Outpost",
  "urls": [
   "https://www.quaddicted.com/filebase/janitor1.zip",
   "https://www.quaddicted.com/files/by-sha256/f6/f6f5898d1baeaa7f054b997d21af2da9ff71b98b4c43c104828f5d64dc87c02d/janitor1.zip"

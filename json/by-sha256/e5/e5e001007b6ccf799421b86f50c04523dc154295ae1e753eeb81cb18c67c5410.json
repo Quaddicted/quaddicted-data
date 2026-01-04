@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Digs"
- ],
  "bytes": 3492680,
  "description": "Large fortress with four differently-colored/textured areas around a Minecraft-styled courtyard.",
  "files": {
@@ -28,7 +25,6 @@
  "notes": [
   "This map requires an engine port with increased limits. Support for colored lighting recommended."
  ],
- "release_date": "2016-03-24",
  "sha256": "e5e001007b6ccf799421b86f50c04523dc154295ae1e753eeb81cb18c67c5410",
  "tags": [
   "author=Digs",
@@ -52,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Isolation",
  "urls": [
   "https://www.quaddicted.com/filebase/digs08.zip",
   "https://www.quaddicted.com/files/by-sha256/e5/e5e001007b6ccf799421b86f50c04523dc154295ae1e753eeb81cb18c67c5410/digs08.zip"

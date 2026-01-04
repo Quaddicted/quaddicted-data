@@ -1,7 +1,4 @@
 {
- "authors": [
-  "super"
- ],
  "bytes": 536942,
  "description": "Small to medium-sized runic level with an interconnected layout.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-02-27",
  "sha256": "f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339",
  "tags": [
   "author=super",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Runic Fear",
  "urls": [
   "https://www.quaddicted.com/filebase/runfear.zip",
   "https://www.quaddicted.com/files/by-sha256/f3/f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339/runfear.zip"

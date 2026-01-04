@@ -1,11 +1,5 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 11216543,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Two-map SP unit: a large medieval dungeon in an underground lava cave (using rtGnosis textures), and a medium sized IKbase-themed stargate facility. It comes with a couple of new sounds and a custom skybox.",
  "files": {
   "gfx/": {
@@ -176,7 +170,6 @@
  "notes": [
   "These maps require <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>."
  ],
- "release_date": "2008-08-18",
  "sha256": "39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3",
  "tags": [
   "author=necros",
@@ -206,7 +199,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "The Living End & Elder World Waystation",
  "urls": [
   "https://www.quaddicted.com/filebase/ne_lend_doom.zip",
   "https://www.quaddicted.com/files/by-sha256/39/39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3/ne_lend_doom.zip"

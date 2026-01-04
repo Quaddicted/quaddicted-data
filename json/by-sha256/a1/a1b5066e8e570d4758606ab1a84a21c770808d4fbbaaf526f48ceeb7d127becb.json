@@ -1,11 +1,5 @@
 {
- "authors": [
-  "vIE888"
- ],
  "bytes": 7136541,
- "depends": [
-  "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c"
- ],
  "description": "SP campaign for Nehahra with three small to medium-sized maps: a base, caverns with an ancient temple beneath, and a snowy village floating in the void. It uses modified textures from RTP and comes with four new music tracks.",
  "files": {
   "tsd/": {
@@ -122,7 +116,6 @@
  "notes": [
   "These maps require <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a>."
  ],
- "release_date": "2010-05-08",
  "sha256": "a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb",
  "tags": [
   "author=vIE888",
@@ -146,7 +139,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "The Snowy Dream",
  "urls": [
   "https://www.quaddicted.com/filebase/tsd.zip",
   "https://www.quaddicted.com/files/by-sha256/a1/a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb/tsd.zip"

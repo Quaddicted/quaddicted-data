@@ -1,19 +1,4 @@
 {
- "authors": [
-  "Aesopolis",
-  "Colossus",
-  "CommonCold",
-  "Konig",
-  "MadScientist",
-  "Recycledoj",
-  "Sock",
-  "Spootnik",
-  "alexUnder",
-  "bizzozeron",
-  "brain O)))",
-  "iYago",
-  "rabbit"
- ],
  "bytes": 325597210,
  "description": "Pack of non combat maps. Some puzzles, some platforming and a lot of exploration! In comparison with 2 previous Explore jam packs this one is leaning toward walking simulators with a lot of environmental storytelling.",
  "files": {
@@ -8112,7 +8097,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-06-03",
  "sha256": "128f25cf48fd7ceba40440e8f2af289900836d6a7354c9d77c0601a4628a0c4d",
  "tags": [
   "author=Aesopolis",
@@ -8149,7 +8133,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Explore Jam 3 (1.15)",
  "urls": [
   "https://www.quaddicted.com/filebase/explorejam3_v1.15.zip",
   "https://www.quaddicted.com/files/by-sha256/12/128f25cf48fd7ceba40440e8f2af289900836d6a7354c9d77c0601a4628a0c4d/explorejam3_v1.15.zip"

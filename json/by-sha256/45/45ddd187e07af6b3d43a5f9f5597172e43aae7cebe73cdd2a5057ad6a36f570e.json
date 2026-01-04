@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Greenwood",
-  "Mazu",
-  "bmFbr"
- ],
  "bytes": 139609760,
  "description": "Industrial themed total conversion episode of six maps, with all new weapons, monsters and items, set in the Slave Zero X universe and forming a prequel to the original Slave Zero game.",
  "files": {
@@ -2447,7 +2442,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-01-16",
  "sha256": "45ddd187e07af6b3d43a5f9f5597172e43aae7cebe73cdd2a5057ad6a36f570e",
  "tags": [
   "author=Greenwood",
@@ -2465,7 +2459,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Episode Enyo",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/45/45ddd187e07af6b3d43a5f9f5597172e43aae7cebe73cdd2a5057ad6a36f570e/enyo_hd_20240115.zip",
   "https://x901.net/quaddictedfiles/enyo_hd_20240115.zip"

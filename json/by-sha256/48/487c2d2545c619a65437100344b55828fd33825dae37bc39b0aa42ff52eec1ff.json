@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Al Conrad"
- ],
  "bytes": 792770,
  "description": "Around medium sized map with a sort of novelty theme: The player has to complete four distinct areas representing each element - earth, water, air, fire.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-16",
  "sha256": "487c2d2545c619a65437100344b55828fd33825dae37bc39b0aa42ff52eec1ff",
  "tags": [
   "author=Al Conrad",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Elementals",
  "urls": [
   "https://www.quaddicted.com/filebase/elements.zip",
   "https://www.quaddicted.com/files/by-sha256/48/487c2d2545c619a65437100344b55828fd33825dae37bc39b0aa42ff52eec1ff/elements.zip"

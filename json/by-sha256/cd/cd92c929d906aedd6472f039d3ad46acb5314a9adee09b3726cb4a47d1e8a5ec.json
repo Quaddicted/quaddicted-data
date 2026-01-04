@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Artistical",
-  "DraQu",
-  "JCR",
-  "muk0r",
-  "onetruepurple",
-  "ww"
- ],
  "bytes": 3783495,
  "description": "1024 units / 6 SP maps / Artistical, DraQu, JCR, muk0r, onetruepurple, ww<br><br>Includes map sources and some of the maps may require a source port with increased limits.",
  "files": {
@@ -110,7 +102,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-07-05",
  "sha256": "cd92c929d906aedd6472f039d3ad46acb5314a9adee09b3726cb4a47d1e8a5ec",
  "tags": [
   "author=Artistical",
@@ -134,7 +125,6 @@
   "type=speedmap",
   "zipbasedir=id1/"
  ],
- "title": "Speedmapping pack 185 - 1024 Units",
  "urls": [
   "https://www.quaddicted.com/filebase/sm185_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/cd/cd92c929d906aedd6472f039d3ad46acb5314a9adee09b3726cb4a47d1e8a5ec/sm185_pack.zip"

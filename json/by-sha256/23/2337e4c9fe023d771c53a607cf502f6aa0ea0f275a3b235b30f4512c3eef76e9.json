@@ -1,8 +1,4 @@
 {
- "authors": [
-  "digs",
-  "scampie"
- ],
  "bytes": 527087,
  "description": "Islands / 2 SP maps / digs, scampie",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-05-20",
  "sha256": "2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9",
  "tags": [
   "author=digs",
@@ -43,7 +38,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 170 - Islands",
  "urls": [
   "https://www.quaddicted.com/filebase/sm170_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/23/2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9/sm170_pack.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "spootnik"
- ],
  "bytes": 12262226,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Large underground castle / medieval sewer map in the style of Honey. Custom music is \"Only Child\" by Julia Kent (track 22).",
  "files": {
   "ad/": {
@@ -53,7 +47,6 @@
   "Load manually via console: \"game ad; map warden\"",
   "Note: a modern engine with increased limits is recommended. Tested on Ironwail and vkQuake."
  ],
- "release_date": "2023-03-17",
  "sha256": "88b5a8425360dbef4e16151d17a80771b868792d83bdf51598aee1f7d7af22da",
  "tags": [
   "author=spootnik",
@@ -80,7 +73,6 @@
   "title=The Warden",
   "type=map"
  ],
- "title": "The Warden",
  "urls": [
   "https://www.quaddicted.com/filebase/warden.zip",
   "https://www.quaddicted.com/files/by-sha256/88/88b5a8425360dbef4e16151d17a80771b868792d83bdf51598aee1f7d7af22da/warden.zip"

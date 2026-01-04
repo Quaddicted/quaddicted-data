@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Richard Neff"
- ],
  "bytes": 1069189,
  "description": "Around medium sized simple Metal/ Wizard castle with long corridors, a church room and very few (base) enemies. Comes with a start map. Map sources are included.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-31",
  "sha256": "81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468",
  "tags": [
   "author=Richard Neff",
@@ -55,7 +51,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Hub",
  "urls": [
   "https://www.quaddicted.com/filebase/hub.zip",
   "https://www.quaddicted.com/files/by-sha256/81/81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468/hub.zip"

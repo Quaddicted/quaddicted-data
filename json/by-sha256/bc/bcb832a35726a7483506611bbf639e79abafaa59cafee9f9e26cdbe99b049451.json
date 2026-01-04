@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Martin R. Goedtke  (Iam)"
- ],
  "bytes": 789538,
  "description": "Medium sized brick/metal map with some large rooms and creative ideas.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-23",
  "sha256": "bcb832a35726a7483506611bbf639e79abafaa59cafee9f9e26cdbe99b049451",
  "tags": [
   "author=Martin R. Goedtke  (Iam)",
@@ -47,7 +43,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Myworld is Yourworld",
  "urls": [
   "https://www.quaddicted.com/filebase/iam1.zip",
   "https://www.quaddicted.com/files/by-sha256/bc/bcb832a35726a7483506611bbf639e79abafaa59cafee9f9e26cdbe99b049451/iam1.zip"

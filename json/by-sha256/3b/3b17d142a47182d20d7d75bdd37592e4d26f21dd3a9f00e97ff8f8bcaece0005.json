@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Trinca",
-  "Zwiffle",
-  "generic",
-  "negke"
- ],
  "bytes": 1783076,
  "description": "Unthemed / 4 SP maps / generic, neg!ke, Trinca, Zwiffle",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-11-28",
  "sha256": "3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005",
  "tags": [
   "author=Trinca",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 112 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm112_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3b/3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005/sm112_pack.zip"

@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "FifthElephant",
-  "Jackfapoff",
-  "Orbs",
-  "RickyT23",
-  "Scampie",
-  "ijed",
-  "negke"
- ],
  "bytes": 5973577,
  "description": "Rubicon 2 with a Quad / 9 SP maps / Drew, FifthElephant, ijed, Jackfapoff, negke, Orbs, RickyT23, Scampie  sm169_drew requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a>; sm169_ijed uses the BSP2 format (_ijed2 is vanilla Quake).",
  "files": {
@@ -102,7 +92,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-04-22",
  "sha256": "54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95",
  "tags": [
   "author=Drew",
@@ -141,7 +130,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping Pack 169 - Rubicon2 with a Quad",
  "urls": [
   "https://www.quaddicted.com/filebase/sm169_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/54/54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95/sm169_pack.zip"

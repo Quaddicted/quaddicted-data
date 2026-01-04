@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Chuma"
- ],
  "bytes": 11422729,
- "depends": [
-  "copper>=1.00"
- ],
  "description": "Singleplayer conversion of American McGees DM7, cut from the original game but included in the re-release.",
  "files": {
   "dm7sp/": {
@@ -66,7 +60,6 @@
   "This map requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper</a>",
   "See also: <a href=\"78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870\">dmc1m2</a>"
  ],
- "release_date": "2023-08-29",
  "sha256": "ff3cbb320d167cea31b977d7bca31e72741fe572bac322b1f22cdbed809f7ef9",
  "tags": [
   "author=Chuma",
@@ -90,7 +83,6 @@
   "title=Agoraphobia - dm7sp",
   "type=map"
  ],
- "title": "Agoraphobia - dm7sp",
  "urls": [
   "https://www.quaddicted.com/filebase/dm7sp.zip",
   "https://www.quaddicted.com/files/by-sha256/ff/ff3cbb320d167cea31b977d7bca31e72741fe572bac322b1f22cdbed809f7ef9/dm7sp.zip"

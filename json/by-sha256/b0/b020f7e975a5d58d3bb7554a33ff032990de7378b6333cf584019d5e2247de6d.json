@@ -1,11 +1,5 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 2941879,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "A large tower-like Quoth single player map with an unusual texture theme and independent puzzles/traps routes, originally started for the <a href=\"d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f\">Vertical Competition</a> (=768*768 base with unlimited vertical height, no player teleportation).",
  "files": {
   "768_negke.bsp": {
@@ -26,7 +20,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2008-08-01",
  "sha256": "b020f7e975a5d58d3bb7554a33ff032990de7378b6333cf584019d5e2247de6d",
  "tags": [
   "author=negke",
@@ -51,7 +44,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Skinny Norris",
  "urls": [
   "https://www.quaddicted.com/filebase/768_negke.zip",
   "https://www.quaddicted.com/files/by-sha256/b0/b020f7e975a5d58d3bb7554a33ff032990de7378b6333cf584019d5e2247de6d/768_negke.zip"

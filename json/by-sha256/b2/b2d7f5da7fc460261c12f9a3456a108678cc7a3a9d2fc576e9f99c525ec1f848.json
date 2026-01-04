@@ -1,7 +1,4 @@
 {
- "authors": [
-  "vIE888"
- ],
  "bytes": 5162481,
  "description": "Episode with six small maps of varying themes and a few new monsters.",
  "files": {
@@ -518,7 +515,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-06-12",
  "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
  "tags": [
   "author=vIE888",
@@ -546,7 +542,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Myths",
  "urls": [
   "https://www.quaddicted.com/filebase/themyths.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848/themyths.zip"

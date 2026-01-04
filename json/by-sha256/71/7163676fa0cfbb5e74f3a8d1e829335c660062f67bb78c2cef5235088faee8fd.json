@@ -1,27 +1,5 @@
 {
- "authors": [
-  "Chris Holden",
-  "DragonsForLunch",
-  "FifthElephant",
-  "Greenwood",
-  "Mista Heita",
-  "Myki",
-  "Pinchy",
-  "Qmaster",
-  "Quasiotter",
-  "Shadesmaster",
-  "Skorly",
-  "alex_mmc",
-  "bmFbr",
-  "gnemeth",
-  "ish",
-  "onetruepurple",
-  "zigi"
- ],
  "bytes": 168331827,
- "depends": [
-  "quoth>=2.2"
- ],
  "description": "\"Blue\"-themed community map pack with 15 mostly small to medium-sized levels including a start map. It comes with a few high-res textures, custom skyboxes, and music tracks. The map sources are included.",
  "files": {
   "docs/": {
@@ -837,7 +815,6 @@
  "notes": [
   "These maps require <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> and a source port supporting the <i>-quoth</i> commandline switch. Additionally, for some of these maps it must have increased limits and/or BSP2 support."
  ],
- "release_date": "2021-01-20",
  "sha256": "7163676fa0cfbb5e74f3a8d1e829335c660062f67bb78c2cef5235088faee8fd",
  "tags": [
   "author=Chris Holden",
@@ -906,7 +883,6 @@
   "type=mod",
   "zipbasedir=bluemonday/"
  ],
- "title": "Blue Monday Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/bluemonday_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/71/7163676fa0cfbb5e74f3a8d1e829335c660062f67bb78c2cef5235088faee8fd/bluemonday_v2.zip"

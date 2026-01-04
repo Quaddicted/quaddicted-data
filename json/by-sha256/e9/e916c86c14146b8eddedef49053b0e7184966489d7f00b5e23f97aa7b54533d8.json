@@ -1,16 +1,4 @@
 {
- "authors": [
-  "ASO3000",
-  "Anon/Ranger",
-  "David",
-  "DiamondBlack",
-  "DocDuodenum",
-  "Redead ITA",
-  "Sobersamson",
-  "Sockstah",
-  "Streaky",
-  "ZungryWare"
- ],
  "bytes": 39110650,
  "description": "A set of 11 beginner levels in various themes. Features a start map and a custom music track. The map sources are included. One of the maps (huh_tombandtower) requires a source port with increased limits.",
  "files": {
@@ -422,7 +410,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-09-23",
  "sha256": "e916c86c14146b8eddedef49053b0e7184966489d7f00b5e23f97aa7b54533d8",
  "tags": [
   "author=ASO3000",
@@ -456,7 +443,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "HUH: A /vr/ mapping project",
  "urls": [
   "https://www.quaddicted.com/filebase/huh_final.zip",
   "https://www.quaddicted.com/files/by-sha256/e9/e916c86c14146b8eddedef49053b0e7184966489d7f00b5e23f97aa7b54533d8/huh_final.zip"

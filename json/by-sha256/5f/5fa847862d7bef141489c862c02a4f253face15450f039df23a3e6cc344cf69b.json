@@ -1,12 +1,5 @@
 {
- "authors": [
-  "huanlopan",
-  "id"
- ],
  "bytes": 976713,
- "depends": [
-  "drake>=2.0"
- ],
  "description": "Modified version of the original E1M5- Gloom Keep featuring enemies and items from the <a href=\"https://www.quaddicted.com/filebase/drakebeta2021.zip\">Drake</a> mod. The map source is included.",
  "files": {
   "e1m5drake.MAP": {
@@ -33,7 +26,6 @@
   "This map requires <a href=\"https://www.quaddicted.com/filebase/drakebeta2021.zip\">Drake</a> and a source port with increased limits (due to the mod).",
   "Currently cannot be run through the Quake Injector"
  ],
- "release_date": "2021-07-06",
  "sha256": "5fa847862d7bef141489c862c02a4f253face15450f039df23a3e6cc344cf69b",
  "tags": [
   "author=huanlopan",
@@ -57,7 +49,6 @@
   "type=map",
   "zipbasedir=drake/maps/"
  ],
- "title": "Gloom Keep [Drake remix]",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5drake.zip",
   "https://www.quaddicted.com/files/by-sha256/5f/5fa847862d7bef141489c862c02a4f253face15450f039df23a3e6cc344cf69b/e1m5drake.zip"

@@ -1,18 +1,4 @@
 {
- "authors": [
-  "Bal",
-  "Bloodshot",
-  "Greenwood",
-  "Juzley",
-  "Makkon",
-  "Mista Heita",
-  "Scampie",
-  "Shamblernaut",
-  "bmFbr",
-  "grome",
-  "khreathor",
-  "zigi"
- ],
  "bytes": 183314967,
  "description": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
  "files": {
@@ -2531,11 +2517,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "provides": {
-  "alkaline": "1.00"
- },
- "release_date": "2021-06-13",
- "release_group": "alkaline",
  "sha256": "2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5",
  "tags": [
   "author=Bal",
@@ -2603,10 +2584,8 @@
   "version=1.00",
   "zipbasedir=/"
  ],
- "title": "Alkaline",
  "urls": [
   "https://www.quaddicted.com/filebase/alkaline.zip",
   "https://www.quaddicted.com/files/by-sha256/25/2599f2952d2e21d64bbd6a978c30c146ee2ad1599c2072210f33352feee694b5/alkaline.zip"
- ],
- "version": "1.00"
+ ]
 }

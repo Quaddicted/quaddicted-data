@@ -1,12 +1,4 @@
 {
- "authors": [
-  "R.P.G.",
-  "ShadoW",
-  "Tyrann",
-  "Vondur",
-  "negke feat. Lunaran",
-  "spirit"
- ],
  "bytes": 6271800,
  "description": "Eight small deathmatch levels by various authors converted into an action-packed single player episode. Comes with a start map and a secret level. The GPL map sources are included. <br><br> dmc3 : Deathmatch Classics Vol.3 by negke<br> dmc3m1 : Orange Whip (lundm1) by Lunaran<br> dmc3m2 : Zeal &amp; Fury (spirit1dm3) by spirit<br> dmc3m3 : Deep Scars (q1shw2) by ShadoW<br> dmc3m4 : Aghast (aghast) by Vondur<br> dmc3m5 : Devastation (q1shw1) by ShadoW<br> dmc3m6 : Dark Ritual (ritual) by Tyrann<br> dmc3m7 : /me Votes Vondur For World Domination (rpgdm1) by R.P.G.<br> dmc3m8 : Base Of Two Deaths (negdm1) by negke",
  "files": {
@@ -118,7 +110,6 @@
  "notes": [
   "There is a progression stopping bug in dm3m8 - a hotfix is available <a href=\"http://quaketastic.com/files/single_player/maps/dmc3m8_hotfix.zip\">here</a>.<br>Additionally, two of the maps are incompatible with QW servers. Alternate versions of them are available <a href=\"http://quaddicted.com/filebase/dmc3m67qw.zip\">here</a>."
  ],
- "release_date": "2011-06-21",
  "sha256": "016c9d9a70761470534d0ae5294b4d2bce69a4ea5983e8df008714ffe06ef572",
  "tags": [
   "author=R.P.G.",
@@ -157,7 +148,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Deathmatch Classics Vol. 3",
  "urls": [
   "https://www.quaddicted.com/filebase/dmc3.zip",
   "https://www.quaddicted.com/files/by-sha256/01/016c9d9a70761470534d0ae5294b4d2bce69a4ea5983e8df008714ffe06ef572/dmc3.zip"

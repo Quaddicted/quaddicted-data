@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew 'than' Palmer"
- ],
  "bytes": 463666,
  "description": "Small wizard-style deathmatch arena with single player settings. The map source is included (in standard and WC format).",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-05-09",
  "sha256": "cb54009fef9348c1d75592cd43f49002dbaf6f784b098139babdd213c6792da7",
  "tags": [
   "author=Andrew 'than' Palmer",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pretend Dead Friend",
  "urls": [
   "https://www.quaddicted.com/filebase/apdm3.zip",
   "https://www.quaddicted.com/files/by-sha256/cb/cb54009fef9348c1d75592cd43f49002dbaf6f784b098139babdd213c6792da7/apdm3.zip"

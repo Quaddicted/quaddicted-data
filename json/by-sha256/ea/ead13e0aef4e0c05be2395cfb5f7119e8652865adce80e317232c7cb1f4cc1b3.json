@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 533908,
  "description": "Medium wizard level in E1M2 style.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-19",
  "sha256": "ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3",
  "tags": [
   "author=J.F.Gustafsson",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "F**king hostile",
  "urls": [
   "https://www.quaddicted.com/filebase/hostile.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3/hostile.zip"

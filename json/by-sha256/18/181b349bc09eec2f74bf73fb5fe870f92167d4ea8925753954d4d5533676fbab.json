@@ -1,14 +1,4 @@
 {
- "authors": [
-  "Greenwood",
-  "Hardcore Mazu",
-  "Heresy",
-  "JCR",
-  "Pinchy",
-  "Shadesmaster",
-  "Smilecythe",
-  "Vurkka"
- ],
  "bytes": 84829465,
  "description": "Ten maps of varying themes based on the <a href=\"6e28e7330430642bec0afb35c55c7866a29ecd03c20691812f1648a055bd747f\">Jump mod</a> (included) which adds double/triple-jump abilities. The map sources are included.",
  "files": {
@@ -895,7 +885,6 @@
  "notes": [
   "Some of these maps require a source port with increased limits."
  ],
- "release_date": "2020-01-27",
  "sha256": "181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab",
  "tags": [
   "author=Greenwood",
@@ -935,7 +924,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "January Jump Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/jan_jump_jam_2020.zip",
   "https://www.quaddicted.com/files/by-sha256/18/181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab/jan_jump_jam_2020.zip"

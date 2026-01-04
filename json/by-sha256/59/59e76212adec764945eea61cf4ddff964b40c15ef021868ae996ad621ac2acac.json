@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Chris \"1600frogs\" Brady"
- ],
  "bytes": 29511706,
- "depends": [
-  "copper>=1.20"
- ],
  "description": "Medium-sized floating castle ruins map <i>(\"15-20 minutes\")</i> with an interconnected layout inspired by level design tropes in From Software's games. Textures and skybox by Makkon. Music is \"Blue Laggon\" by Flat Stone. Map source is included.",
  "files": {
   "copper/": {
@@ -96,7 +90,6 @@
  "notes": [
   "Requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper v1.20+</a> (NOT included). May require a modern engine / source port with increased limits. <i>\"Tested on QSS and Ironwail.\"</i>"
  ],
- "release_date": "2023-04-17",
  "sha256": "59e76212adec764945eea61cf4ddff964b40c15ef021868ae996ad621ac2acac",
  "tags": [
   "author=Chris \"1600frogs\" Brady",
@@ -124,7 +117,6 @@
   "title=Crack in the Sky v1.0p1",
   "type=map"
  ],
- "title": "Crack in the Sky v1.0p1",
  "urls": [
   "https://www.quaddicted.com/filebase/frogscrack_v1p1.zip",
   "https://www.quaddicted.com/files/by-sha256/59/59e76212adec764945eea61cf4ddff964b40c15ef021868ae996ad621ac2acac/frogscrack_v1p1.zip"

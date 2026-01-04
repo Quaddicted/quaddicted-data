@@ -1,9 +1,4 @@
 {
- "authors": [
-  "RPG",
-  "Scampie",
-  "Zwiffle"
- ],
  "bytes": 570570,
  "description": "A new end map for Quake / 3 SP maps / RPG, Scampie, Zwiffle",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-01",
  "sha256": "511624766a6aad12efc7aa1f2c0938e93ba4db66c66ade0aad86a2e4c4d74096",
  "tags": [
   "author=RPG",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 77 - A new end map for Quake",
  "urls": [
   "https://www.quaddicted.com/filebase/sm77_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/51/511624766a6aad12efc7aa1f2c0938e93ba4db66c66ade0aad86a2e4c4d74096/sm77_pack.zip"

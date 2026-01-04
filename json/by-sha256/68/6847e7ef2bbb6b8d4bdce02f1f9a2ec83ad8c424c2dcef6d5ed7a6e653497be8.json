@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tony Newton"
- ],
  "bytes": 685363,
  "description": "Medium sized Base map, a storage building with a power generator.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-25",
  "sha256": "6847e7ef2bbb6b8d4bdce02f1f9a2ec83ad8c424c2dcef6d5ed7a6e653497be8",
  "tags": [
   "author=Tony Newton",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Stores",
  "urls": [
   "https://www.quaddicted.com/filebase/stores.zip",
   "https://www.quaddicted.com/files/by-sha256/68/6847e7ef2bbb6b8d4bdce02f1f9a2ec83ad8c424c2dcef6d5ed7a6e653497be8/stores.zip"

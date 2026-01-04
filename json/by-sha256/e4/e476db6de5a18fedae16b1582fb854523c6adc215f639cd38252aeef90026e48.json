@@ -1,8 +1,4 @@
 {
- "authors": [
-  "generic",
-  "negke"
- ],
  "bytes": 1632487,
  "description": "Mini-Marcher / 2 SP maps / generic, neg!ke",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-08-13",
  "sha256": "e476db6de5a18fedae16b1582fb854523c6adc215f639cd38252aeef90026e48",
  "tags": [
   "author=generic",
@@ -41,7 +36,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 126 - Mini-Marcher",
  "urls": [
   "https://www.quaddicted.com/filebase/sm126_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e4/e476db6de5a18fedae16b1582fb854523c6adc215f639cd38252aeef90026e48/sm126_pack.zip"

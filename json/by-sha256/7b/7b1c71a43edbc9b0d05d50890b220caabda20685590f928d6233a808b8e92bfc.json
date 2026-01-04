@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ray \"NotoriousRAY\" O'Neill"
- ],
  "bytes": 2623322,
  "description": "Very large, detailed, Base map with a few outside areas and three new monsters (modified Enforcers, Scourge).",
  "files": {
@@ -167,7 +164,6 @@
   "extract": "{base}/pbrsp1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-09-28",
  "sha256": "7b1c71a43edbc9b0d05d50890b220caabda20685590f928d6233a808b8e92bfc",
  "tags": [
   "author=Ray \"NotoriousRAY\" O'Neill",
@@ -187,7 +183,6 @@
   "type=mod",
   "zipbasedir=pbrsp1/"
  ],
- "title": "Hexameron: Phase One",
  "urls": [
   "https://www.quaddicted.com/filebase/pbrsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/7b/7b1c71a43edbc9b0d05d50890b220caabda20685590f928d6233a808b8e92bfc/pbrsp1.zip"

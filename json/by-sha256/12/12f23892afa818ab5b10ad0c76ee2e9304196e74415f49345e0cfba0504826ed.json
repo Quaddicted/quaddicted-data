@@ -1,10 +1,4 @@
 {
- "authors": [
-  "American McGee",
-  "John Romero",
-  "Tim Willits",
-  "rj"
- ],
  "bytes": 4737339,
  "description": "The original Quake episode 1 maps fused into one, with a new layout encouraging nonlinearity.",
  "files": {
@@ -41,7 +35,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-06-20",
  "sha256": "12f23892afa818ab5b10ad0c76ee2e9304196e74415f49345e0cfba0504826ed",
  "tags": [
   "author=American McGee",
@@ -61,7 +54,6 @@
   "type=mod",
   "zipbasedir=e1/"
  ],
- "title": "Dimension of the Fused",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/12/12f23892afa818ab5b10ad0c76ee2e9304196e74415f49345e0cfba0504826ed/e1.zip",
   "https://x901.net/quaddictedfiles/e1.zip"

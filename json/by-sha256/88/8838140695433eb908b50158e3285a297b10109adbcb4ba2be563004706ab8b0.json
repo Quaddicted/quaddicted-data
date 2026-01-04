@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Boss300"
- ],
  "bytes": 4144604,
  "description": "Large abstract level floating in the void, with mixed texture themes and a very large enemy count / horde combat.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-03-16",
  "sha256": "8838140695433eb908b50158e3285a297b10109adbcb4ba2be563004706ab8b0",
  "tags": [
   "author=Boss300",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Insides-Out",
  "urls": [
   "https://www.quaddicted.com/filebase/insides.zip",
   "https://www.quaddicted.com/files/by-sha256/88/8838140695433eb908b50158e3285a297b10109adbcb4ba2be563004706ab8b0/insides.zip"

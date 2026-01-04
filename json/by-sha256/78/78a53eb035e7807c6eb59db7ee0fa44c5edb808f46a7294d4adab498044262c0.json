@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lukasxd"
- ],
  "bytes": 448461,
  "description": "Small base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2014-11-22",
  "sha256": "78a53eb035e7807c6eb59db7ee0fa44c5edb808f46a7294d4adab498044262c0",
  "tags": [
   "author=Lukasxd",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Full of Boxes",
  "urls": [
   "https://www.quaddicted.com/filebase/f_box.zip",
   "https://www.quaddicted.com/files/by-sha256/78/78a53eb035e7807c6eb59db7ee0fa44c5edb808f46a7294d4adab498044262c0/f_box.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MadFox"
- ],
  "bytes": 2633504,
  "description": "Large map with a mixture of base and medieval elements.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-28",
  "sha256": "06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c",
  "tags": [
   "author=MadFox",
@@ -48,7 +44,6 @@
   "version=1.1",
   "zipbasedir=id1/maps/"
  ],
- "title": "Grunt Grenadin",
  "urls": [
   "https://www.quaddicted.com/filebase/grunt.zip",
   "https://www.quaddicted.com/files/by-sha256/06/06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c/grunt.zip"

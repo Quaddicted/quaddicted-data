@@ -1,11 +1,4 @@
 {
- "authors": [
-  "CZG",
-  "Drew",
-  "HeadThump",
-  "Scampie",
-  "Zwiffle"
- ],
  "bytes": 953119,
  "description": "100 min timelimit enforced / 5 SP maps / CZG, Drew, HeadThump, Scampie, Zwiffle",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-04-24",
  "sha256": "02c1cff9b78677ee42e04f79b46d1bff994e15525b826baae46d6c7b0a82f83f",
  "tags": [
   "author=CZG",
@@ -65,7 +57,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 76 - 100 min timelimit enforced",
  "urls": [
   "https://www.quaddicted.com/filebase/sm76_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/02/02c1cff9b78677ee42e04f79b46d1bff994e15525b826baae46d6c7b0a82f83f/sm76_pack.zip"

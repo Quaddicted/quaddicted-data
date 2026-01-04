@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tom Cleghorn aka Murgatroyd"
- ],
  "bytes": 849314,
  "description": "Medium sized Base/mine map with a Medieval temple area.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-16",
  "sha256": "b969b49d4041c630ffd3f9a6367ba1577e83ebbdb9d8afcc64e39083e6acad5b",
  "tags": [
   "author=Tom Cleghorn aka Murgatroyd",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Trouble Down T'Pit",
  "urls": [
   "https://www.quaddicted.com/filebase/coopmine.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b969b49d4041c630ffd3f9a6367ba1577e83ebbdb9d8afcc64e39083e6acad5b/coopmine.zip"

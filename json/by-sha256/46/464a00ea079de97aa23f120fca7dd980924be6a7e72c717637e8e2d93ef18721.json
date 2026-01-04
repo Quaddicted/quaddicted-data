@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 6721634,
  "description": "Medium to large abstract metal/industrial-ish level floating in the void. It is based on the Progs_dump mod (included) and comes with a couple of new models and sounds. The map and qc sources are included.",
  "files": {
@@ -508,7 +505,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-11-11",
  "sha256": "464a00ea079de97aa23f120fca7dd980924be6a7e72c717637e8e2d93ef18721",
  "tags": [
   "author=JPal",
@@ -538,7 +534,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Edge of Sanity",
  "urls": [
   "https://www.quaddicted.com/filebase/jpqm8.zip",
   "https://www.quaddicted.com/files/by-sha256/46/464a00ea079de97aa23f120fca7dd980924be6a7e72c717637e8e2d93ef18721/jpqm8.zip"

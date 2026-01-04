@@ -1,9 +1,4 @@
 {
- "authors": [
-  "OG",
-  "Yoder",
-  "czg"
- ],
  "bytes": 24896809,
  "description": "Four small to medium-sized spooky Halloween maps: an arctic outpost, a Q2-textured mining complex, a pumpkin spice latte franchise place, and an infinite horde arena. Comes with a few new features, a custom skybox and new sounds. The map sources are included.",
  "files": {
@@ -205,7 +200,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-10-19",
  "sha256": "8d87948bc267cb7cc2adaf03fb4651fa350b6536892bed310d7e3ef48076abea",
  "tags": [
   "author=OG",
@@ -242,7 +236,6 @@
   "type=mod",
   "zipbasedir=du2/"
  ],
- "title": "Disconcerting Unease 2",
  "urls": [
   "https://www.quaddicted.com/filebase/du2.zip",
   "https://www.quaddicted.com/files/by-sha256/8d/8d87948bc267cb7cc2adaf03fb4651fa350b6536892bed310d7e3ef48076abea/du2.zip"

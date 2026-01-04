@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Eblan Bush"
- ],
  "bytes": 245373,
  "description": "Small to medium-sized plain beginner's map using mixed texture themes.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-12-18",
  "sha256": "57c6c175dc39a34a9fbad25d4963e8f593cba87dfdbf25ee53fb627b6c0a7e82",
  "tags": [
   "author=Eblan Bush",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Horror Wonderful",
  "urls": [
   "https://www.quaddicted.com/filebase/hor1.zip",
   "https://www.quaddicted.com/files/by-sha256/57/57c6c175dc39a34a9fbad25d4963e8f593cba87dfdbf25ee53fb627b6c0a7e82/hor1.zip"

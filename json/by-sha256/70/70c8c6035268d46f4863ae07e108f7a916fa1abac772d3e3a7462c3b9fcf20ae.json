@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tim Elek"
- ],
  "bytes": 1593594,
  "description": "Two medium sized Metal/Wizard maps and a start map.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-08-13",
  "sha256": "70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae",
  "tags": [
   "author=Tim Elek",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Castle Golgotha",
  "urls": [
   "https://www.quaddicted.com/filebase/golgotha.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae/golgotha.zip"

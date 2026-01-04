@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 1153541,
  "description": "Medium-sized brick/metal dungeon.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-06-16",
  "sha256": "6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d",
  "tags": [
   "author=Trinca",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Death Lair",
  "urls": [
   "https://www.quaddicted.com/filebase/tdl.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d/tdl.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Redfield"
- ],
  "bytes": 11500058,
- "depends": [
-  "ad>=1.70"
- ],
  "description": "Large Egyptian level with an archeological research base built into a tomb below a pyramid. The map features several popcultural references and the map source is included.",
  "files": {
   "ad_paradiseREADME.txt": {
@@ -186,7 +180,6 @@
  "notes": [
   "This map requires <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>  and a source port with increased limits."
  ],
- "release_date": "2017-09-23",
  "sha256": "594edcc26317612e44f476dce99ca3c10a50a2501514ee9ecc90b7ce375739a0",
  "tags": [
   "author=Redfield",
@@ -218,7 +211,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Paradise Sickness",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_paradise.zip",
   "https://www.quaddicted.com/files/by-sha256/59/594edcc26317612e44f476dce99ca3c10a50a2501514ee9ecc90b7ce375739a0/ad_paradise.zip"

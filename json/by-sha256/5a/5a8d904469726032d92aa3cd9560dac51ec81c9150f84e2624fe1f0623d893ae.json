@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ankh"
- ],
  "bytes": 711485,
  "description": "Quake's E4M1 - The Sewage System with medieval monsters. Quite hard. The GPL map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-04-16",
  "sha256": "5a8d904469726032d92aa3cd9560dac51ec81c9150f84e2624fe1f0623d893ae",
  "tags": [
   "author=Ankh",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Sewage System Massacre",
  "urls": [
   "https://www.quaddicted.com/filebase/ssm.zip",
   "https://www.quaddicted.com/files/by-sha256/5a/5a8d904469726032d92aa3cd9560dac51ec81c9150f84e2624fe1f0623d893ae/ssm.zip"

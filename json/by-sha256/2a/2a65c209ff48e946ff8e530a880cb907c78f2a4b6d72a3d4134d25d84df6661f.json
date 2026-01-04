@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Qmaster"
- ],
  "bytes": 372258,
  "description": "Very small level based on E4M3, mostly populated by fiends. An early map by the author from 2008. The map source is included in standard and WC format.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-07-16",
  "sha256": "2a65c209ff48e946ff8e530a880cb907c78f2a4b6d72a3d4134d25d84df6661f",
  "tags": [
   "author=Qmaster",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Shrine of the Fiends",
  "urls": [
   "https://www.quaddicted.com/filebase/sotf1.zip",
   "https://www.quaddicted.com/files/by-sha256/2a/2a65c209ff48e946ff8e530a880cb907c78f2a4b6d72a3d4134d25d84df6661f/sotf1.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Taskmaster"
- ],
  "bytes": 1754495,
  "description": "A well-designed medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-25",
  "sha256": "15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f",
  "tags": [
   "author=Taskmaster",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Retinal Tear",
  "urls": [
   "https://www.quaddicted.com/filebase/rettear.zip",
   "https://www.quaddicted.com/files/by-sha256/15/15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f/rettear.zip"

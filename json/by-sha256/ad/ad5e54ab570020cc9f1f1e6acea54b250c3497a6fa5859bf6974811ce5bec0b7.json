@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Clarke"
- ],
  "bytes": 1015431,
  "description": "Large, somewhat non-linear/hub Base map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-22",
  "sha256": "ad5e54ab570020cc9f1f1e6acea54b250c3497a6fa5859bf6974811ce5bec0b7",
  "tags": [
   "author=Steve Clarke",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Notlob's Moonshot",
  "urls": [
   "https://www.quaddicted.com/filebase/sgc8.zip",
   "https://www.quaddicted.com/files/by-sha256/ad/ad5e54ab570020cc9f1f1e6acea54b250c3497a6fa5859bf6974811ce5bec0b7/sgc8.zip"

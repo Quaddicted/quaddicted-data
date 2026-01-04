@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Speedy",
-  "Spirit",
-  "Zwiffle",
-  "bambuz",
-  "negke"
- ],
  "bytes": 951582,
  "description": "Netherworld assembly line / 5 SP maps, 1 DM map / bambuz, negke, Speedy, Spirit, Zwiffle",
  "files": {
@@ -74,7 +67,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-06-02",
  "sha256": "eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9",
  "tags": [
   "author=Speedy",
@@ -98,7 +90,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 142 - Netherworld assembly line",
  "urls": [
   "https://www.quaddicted.com/filebase/sm142_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9/sm142_pack.zip"

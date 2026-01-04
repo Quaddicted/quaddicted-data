@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fred Hite,Jr (DEVIANT)"
- ],
  "bytes": 529093,
  "description": "Small metal map with some base textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-21",
  "sha256": "b97c09ce862ead92088d0dfa018d5806cdc317f3693ae78b08fb4ee690e23f4f",
  "tags": [
   "author=Fred Hite,Jr (DEVIANT)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "COMPUGIB",
  "urls": [
   "https://www.quaddicted.com/filebase/compugib.zip",
   "https://www.quaddicted.com/files/by-sha256/b9/b97c09ce862ead92088d0dfa018d5806cdc317f3693ae78b08fb4ee690e23f4f/compugib.zip"

@@ -1,24 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder",
-  "CatchDaSmile",
-  "Chris Holden",
-  "Grash",
-  "Grue",
-  "Hardcore Mazu",
-  "Naitelveni",
-  "Pinchy",
-  "Smuphix",
-  "Wind_f",
-  "ZetaByt",
-  "alexUnder",
-  "bmFbr",
-  "jitspoe",
-  "recycledoj",
-  "riktoi",
-  "sze",
-  "zbidou72"
- ],
  "bytes": 243541955,
  "description": "17 stinky sewer-themed maps (+ custom start map) running on a pre-release version of Alkaline 1.2 (already included), \"created by a bunch of cool people\" over a 4-week period. Features some custom music. Map sources included. Jam organized by bmFbr.",
  "files": {
@@ -3347,7 +3327,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-11-10",
  "sha256": "ff4a1016f152ecaa2ab0007e164de4cb8fda4e60f36acd9bca16e6581a180f8c",
  "tags": [
   "author=Andrew Yoder",
@@ -3390,7 +3369,6 @@
   "type=mod",
   "zipbasedir=sewerjam2/"
  ],
- "title": "Sewer Jam 2 v1.2.1",
  "urls": [
   "https://www.quaddicted.com/filebase/sewerjam2_v1.2.1.zip",
   "https://www.quaddicted.com/files/by-sha256/ff/ff4a1016f152ecaa2ab0007e164de4cb8fda4e60f36acd9bca16e6581a180f8c/sewerjam2_v1.2.1.zip"

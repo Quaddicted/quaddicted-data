@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Brian Hess a.k.a. Wendigo"
- ],
  "bytes": 369370,
  "description": "Small moon base with custom textures. A deathmatch level with monsters.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map does not have an exit. A hotfix that adds one is available <a href=\"http://quaketastic.com/files/single_player/maps/lunar_spfix.zip\">here</a>."
  ],
- "release_date": "1997-02-23",
  "sha256": "62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5",
  "tags": [
   "author=Brian Hess a.k.a. Wendigo",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lunar Base",
  "urls": [
   "https://www.quaddicted.com/filebase/lunar.zip",
   "https://www.quaddicted.com/files/by-sha256/62/62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5/lunar.zip"

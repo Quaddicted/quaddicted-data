@@ -1,11 +1,5 @@
 {
- "authors": [
-  "vIE888"
- ],
  "bytes": 71867775,
- "depends": [
-  "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c"
- ],
  "description": "A medieval/fantasy episode with 11 small levels. It is hub-based and features an RPG-like 'quest' gameplay. Comes with a complete set of replacement sounds and music.",
  "files": {
   "Quaddicted_repack.txt": {
@@ -1078,7 +1072,6 @@
  "notes": [
   "This episode requires <a href=\"5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c\">Nehahra</a> and it is recommended to use the Darkplaces engine."
  ],
- "release_date": "2011-06-20",
  "sha256": "008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6",
  "tags": [
   "author=vIE888",
@@ -1101,7 +1094,6 @@
   "type=mod",
   "zipbasedir=rotcs/"
  ],
- "title": "Retribution of the ConeScript",
  "urls": [
   "https://www.quaddicted.com/filebase/rotcs.zip",
   "https://www.quaddicted.com/files/by-sha256/00/008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6/rotcs.zip"

@@ -1,19 +1,4 @@
 {
- "authors": [
-  "Digs",
-  "Dumptruck",
-  "Ing",
-  "Ish",
-  "JCR",
-  "Naitelveni",
-  "Newhouse",
-  "Nyo",
-  "Pinchy",
-  "Scrama",
-  "Skacky",
-  "Ukko",
-  "onetruepurple"
- ],
  "bytes": 30552446,
  "description": "Comes with two custom skyboxes and a music track. Some map sources are included.",
  "files": {
@@ -350,7 +335,6 @@
  "notes": [
   "These maps probably require a source port with increased limits."
  ],
- "release_date": "2019-01-01",
  "sha256": "8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e",
  "tags": [
   "author=Digs",
@@ -389,7 +373,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "SM190 - Six textures",
  "urls": [
   "https://www.quaddicted.com/filebase/sm190_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/83/8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e/sm190_pack.zip"

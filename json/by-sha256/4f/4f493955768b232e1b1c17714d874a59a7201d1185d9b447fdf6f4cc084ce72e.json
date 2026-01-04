@@ -1,7 +1,4 @@
 {
- "authors": [
-  "aDaya"
- ],
  "bytes": 11102443,
  "description": "Large temple complex using Egyptian textures from Rogue/Q1MP2, featuring somewhat nonlinear gameplay. The map source and a few texture wads are included.",
  "files": {
@@ -53,7 +50,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2018-10-29",
  "sha256": "4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e",
  "tags": [
   "author=aDaya",
@@ -74,7 +70,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "A Once Glorious City",
  "urls": [
   "https://www.quaddicted.com/filebase/glorious.zip",
   "https://www.quaddicted.com/files/by-sha256/4f/4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e/glorious.zip"

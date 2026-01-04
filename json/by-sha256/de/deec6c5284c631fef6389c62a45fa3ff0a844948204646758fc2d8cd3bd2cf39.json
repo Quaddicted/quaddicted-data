@@ -1,7 +1,4 @@
 {
- "authors": [
-  "K\u00e4ty Olup"
- ],
  "bytes": 3480599,
  "description": "Small / medium medieval castle level for vanilla Quake. The author's first release. Map source is included.",
  "files": {
@@ -38,7 +35,6 @@
  "notes": [
   "Difficulty settings are not implemented."
  ],
- "release_date": "2022-10-20",
  "sha256": "deec6c5284c631fef6389c62a45fa3ff0a844948204646758fc2d8cd3bd2cf39",
  "tags": [
   "author=K\u00e4ty Olup",
@@ -60,7 +56,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Clock of Death",
  "urls": [
   "https://www.quaddicted.com/filebase/clockofdeath.zip",
   "https://www.quaddicted.com/files/by-sha256/de/deec6c5284c631fef6389c62a45fa3ff0a844948204646758fc2d8cd3bd2cf39/clockofdeath.zip"

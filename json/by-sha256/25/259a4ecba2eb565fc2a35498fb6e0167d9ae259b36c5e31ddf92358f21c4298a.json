@@ -1,12 +1,5 @@
 {
- "authors": [
-  "zbidou72"
- ],
  "bytes": 28438695,
- "current_main_group_package": true,
- "depends": [
-  "alkaline>=1.10"
- ],
  "description": "Large industrial dock-themed map with lots of exploration, using Makkon and MG1 textures. This is an updated overhaul / redesign of the author's previous release <a href=\"f02171f5628faf94d81e0d11518699f8b2f7a8191ab2a4b5eeff4a3e695db447\">Null Bearing (2020)</a>. Version 1.2 re-enables infighting and makes some encounters less brutal. Map source is included.",
  "files": {
   "gfx/": {
@@ -113,11 +106,6 @@
   "Requires <a href=\"e5a21dd119f14272d9926f064b9418cc16112c8ee86ba6d82434dde5c68b7cc9\">Alkaline 1.1+</a> (NOT included).",
   "Requires a modern engine / source port with increased limits."
  ],
- "provides": {
-  "nullbear2": "1.2"
- },
- "release_date": "2022-09-30",
- "release_group": "nullbear2",
  "sha256": "259a4ecba2eb565fc2a35498fb6e0167d9ae259b36c5e31ddf92358f21c4298a",
  "tags": [
   "author=zbidou72",
@@ -151,10 +139,8 @@
   "version=1.2",
   "zipbasedir=alk1.1/"
  ],
- "title": "Null Bearing Redux v1.2",
  "urls": [
   "https://www.quaddicted.com/filebase/nullbear2v12.zip",
   "https://www.quaddicted.com/files/by-sha256/25/259a4ecba2eb565fc2a35498fb6e0167d9ae259b36c5e31ddf92358f21c4298a/nullbear2v12.zip"
- ],
- "version": "1.2"
+ ]
 }

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Nicolas 'hexcalk' Maeder"
- ],
  "bytes": 581596,
  "description": "Small medieval/Wizard-style level. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2017-01-13",
  "sha256": "495bed5656c80c88ccf77a9c0ec17c8058680efa5456ec13024caff7932d2829",
  "tags": [
   "author=Nicolas 'hexcalk' Maeder",
@@ -48,7 +44,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Baneful Politic Comply",
  "urls": [
   "https://www.quaddicted.com/filebase/hc2.zip",
   "https://www.quaddicted.com/files/by-sha256/49/495bed5656c80c88ccf77a9c0ec17c8058680efa5456ec13024caff7932d2829/hc2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Noel Weer"
- ],
  "bytes": 549979,
  "description": "Medium sized map in azure/blue style.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-02",
  "sha256": "71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5",
  "tags": [
   "author=Noel Weer",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Azurette",
  "urls": [
   "https://www.quaddicted.com/filebase/azurette.zip",
   "https://www.quaddicted.com/files/by-sha256/71/71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5/azurette.zip"

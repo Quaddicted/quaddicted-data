@@ -1,10 +1,4 @@
 {
- "authors": [
-  "DaZ",
-  "Speedy",
-  "Starbuck",
-  "gemein"
- ],
  "bytes": 547646,
  "description": "Unthemed / 4 DM maps / DaZ, gemein, Starbuck, Speedy",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "8a45f143d5808f5152403d246901df6580c3af83f36c5bb2439f5873a935a935",
  "tags": [
   "author=DaZ",
@@ -58,7 +51,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 38 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm38_temp.zip",
   "https://www.quaddicted.com/files/by-sha256/8a/8a45f143d5808f5152403d246901df6580c3af83f36c5bb2439f5873a935a935/sm38_temp.zip"

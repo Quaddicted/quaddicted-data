@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jonas N.P. Lindstrom"
- ],
  "bytes": 942990,
  "description": "Medium \"non linear (sort of) Sadlark metal style map.\"",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-10",
  "sha256": "6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc",
  "tags": [
   "author=Jonas N.P. Lindstrom",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dig me no grave",
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark7.zip",
   "https://www.quaddicted.com/files/by-sha256/6c/6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc/sadlark7.zip"

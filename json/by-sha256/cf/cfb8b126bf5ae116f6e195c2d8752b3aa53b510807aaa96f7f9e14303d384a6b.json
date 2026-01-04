@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mick Brown"
- ],
  "bytes": 641652,
  "description": "Fairly large wizard canal system with boats, sluices and a cool flood wave. Quite hard.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-02",
  "sha256": "cfb8b126bf5ae116f6e195c2d8752b3aa53b510807aaa96f7f9e14303d384a6b",
  "tags": [
   "author=Mick Brown",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Canal",
  "urls": [
   "https://www.quaddicted.com/filebase/canal.zip",
   "https://www.quaddicted.com/files/by-sha256/cf/cfb8b126bf5ae116f6e195c2d8752b3aa53b510807aaa96f7f9e14303d384a6b/canal.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 4337423,
  "description": "Three medium sized maps inspired by Hexen2, with many custom monsters.",
  "files": {
@@ -601,7 +598,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-08-25",
  "sha256": "f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -621,7 +617,6 @@
   "title=Fearcraft",
   "type=mod"
  ],
- "title": "Fearcraft",
  "urls": [
   "https://www.quaddicted.com/filebase/alk12.zip",
   "https://www.quaddicted.com/files/by-sha256/f3/f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb/alk12.zip"

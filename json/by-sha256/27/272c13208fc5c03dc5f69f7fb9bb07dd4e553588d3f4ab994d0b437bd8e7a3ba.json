@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 1720991,
  "description": "Sequel of <a href=\"7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066\">starship</a>: a medium sized, plain map set on an icy planet with low gravity. Features new textures and reskinned/ modified monsters.",
  "files": {
@@ -154,7 +151,6 @@
   "extract": "{base}/moon/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-22",
  "sha256": "272c13208fc5c03dc5f69f7fb9bb07dd4e553588d3f4ab994d0b437bd8e7a3ba",
  "tags": [
   "author=Neil Manke",
@@ -178,7 +174,6 @@
   "type=mod",
   "zipbasedir=moon/"
  ],
- "title": "Starship 2",
  "urls": [
   "https://www.quaddicted.com/filebase/starshp2.zip",
   "https://www.quaddicted.com/files/by-sha256/27/272c13208fc5c03dc5f69f7fb9bb07dd4e553588d3f4ab994d0b437bd8e7a3ba/starshp2.zip"

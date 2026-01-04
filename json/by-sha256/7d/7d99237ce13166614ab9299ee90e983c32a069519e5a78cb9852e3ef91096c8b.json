@@ -1,7 +1,4 @@
 {
- "authors": [
-  "czg"
- ],
  "bytes": 113340,
  "description": "Small plain tower. A nostalgia remake of czg's very first map (in Thred!).",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1999-12-22",
  "sha256": "7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b",
  "tags": [
   "author=czg",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tower of Obscurity",
  "urls": [
   "https://www.quaddicted.com/filebase/czg00.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b/czg00.zip"

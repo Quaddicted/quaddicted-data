@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Matthias Worch"
- ],
  "bytes": 468328,
  "description": "Small Metal level.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-20",
  "sha256": "64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a",
  "tags": [
   "author=Matthias Worch",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Armageddon 2",
  "urls": [
   "https://www.quaddicted.com/filebase/arma2.zip",
   "https://www.quaddicted.com/files/by-sha256/64/64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a/arma2.zip"

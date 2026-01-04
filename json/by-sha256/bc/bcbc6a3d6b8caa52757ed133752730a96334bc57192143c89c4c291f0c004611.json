@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marcus Dromowicz"
- ],
  "bytes": 1346716,
  "description": "Huge wizmetal medieval map with tense gameplay and cutscenes.",
  "files": {
@@ -78,7 +75,6 @@
   "extract": "{base}/mexx8/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-25",
  "sha256": "bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611",
  "tags": [
   "author=Marcus Dromowicz",
@@ -105,7 +101,6 @@
   "type=mod",
   "zipbasedir=mexx8/"
  ],
- "title": "Prelude to Apocalypse & Mordrigor's Demise",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx8.zip",
   "https://www.quaddicted.com/files/by-sha256/bc/bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611/mexx8.zip"

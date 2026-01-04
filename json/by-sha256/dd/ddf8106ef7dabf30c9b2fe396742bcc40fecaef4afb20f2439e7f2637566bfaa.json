@@ -1,7 +1,4 @@
 {
- "authors": [
-  "nadzia (narnar)"
- ],
  "bytes": 1748162,
  "description": "Small, vertical wizard themed level tight on ammunition.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2015-11-18",
  "sha256": "ddf8106ef7dabf30c9b2fe396742bcc40fecaef4afb20f2439e7f2637566bfaa",
  "tags": [
   "author=nadzia (narnar)",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Finally",
  "urls": [
   "https://www.quaddicted.com/filebase/finally.zip",
   "https://www.quaddicted.com/files/by-sha256/dd/ddf8106ef7dabf30c9b2fe396742bcc40fecaef4afb20f2439e7f2637566bfaa/finally.zip"

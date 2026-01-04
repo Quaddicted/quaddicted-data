@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Hrimfaxi",
-  "Spirit",
-  "Trinca",
-  "negke"
- ],
  "bytes": 1899640,
  "description": "Unthemed / 6 SP maps / Drew, Hrimfaxi, neg!ke, Trinca, Spirit",
  "files": {
@@ -49,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-11-21",
  "sha256": "b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e",
  "tags": [
   "author=Drew",
@@ -71,7 +63,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 111 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm111_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b2/b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e/sm111_pack.zip"

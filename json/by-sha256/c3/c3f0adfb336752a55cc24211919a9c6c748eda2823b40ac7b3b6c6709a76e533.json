@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tobias Reichert"
- ],
  "bytes": 1154437,
  "description": "Large map with mixed texture styles, many traps and some puzzles.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-14",
  "sha256": "c3f0adfb336752a55cc24211919a9c6c748eda2823b40ac7b3b6c6709a76e533",
  "tags": [
   "author=Tobias Reichert",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Fate for Walhalla",
  "urls": [
   "https://www.quaddicted.com/filebase/walhalla.zip",
   "https://www.quaddicted.com/files/by-sha256/c3/c3f0adfb336752a55cc24211919a9c6c748eda2823b40ac7b3b6c6709a76e533/walhalla.zip"

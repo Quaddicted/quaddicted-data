@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 327415,
  "description": "Rescue mission / 1 SP map / neg!ke",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-12-05",
  "sha256": "04618b6574ade9daf91df0396d542729298a7698105a9e1b499b7b6cc6b58994",
  "tags": [
   "author=negke",
@@ -33,7 +29,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 113 - Rescue mission",
  "urls": [
   "https://www.quaddicted.com/filebase/sm113_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/04/04618b6574ade9daf91df0396d542729298a7698105a9e1b499b7b6cc6b58994/sm113_pack.zip"

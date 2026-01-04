@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mfx"
- ],
  "bytes": 2363548,
- "depends": [
-  "ad>=1.42"
- ],
  "description": "Remake/remix of stock Quake map E3M2 - The Vaults of Zin. The map source is included.This map requires <a href=\"ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6\">Arcane Dimensions</a>, updated with <a href=\"https://www.quaddicted.com/filebase/ad_v1_42patch2.zip\">v1.4patch2</a> or later.",
  "files": {
   "ad_e3m2.txt": {
@@ -58,7 +52,6 @@
   "extract": "{base}/ad/"
  },
  "json_version": "2025.09.27",
- "release_date": "2016-05-20",
  "sha256": "7a854bcf4780eeaf5ef6cc55acf80a71cceee14494ea80e3bf20cfe25749ded5",
  "tags": [
   "author=mfx",
@@ -80,7 +73,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "The Faults Within",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_e3m2.zip",
   "https://www.quaddicted.com/files/by-sha256/7a/7a854bcf4780eeaf5ef6cc55acf80a71cceee14494ea80e3bf20cfe25749ded5/ad_e3m2.zip"

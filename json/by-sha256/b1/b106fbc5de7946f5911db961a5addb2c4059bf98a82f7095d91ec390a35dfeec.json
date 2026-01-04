@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 486117,
  "description": "Small, dark wizard map.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-01-18",
  "sha256": "b106fbc5de7946f5911db961a5addb2c4059bf98a82f7095d91ec390a35dfeec",
  "tags": [
   "author=Neil Manke",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "darknite",
  "urls": [
   "https://www.quaddicted.com/filebase/darknite.zip",
   "https://www.quaddicted.com/files/by-sha256/b1/b106fbc5de7946f5911db961a5addb2c4059bf98a82f7095d91ec390a35dfeec/darknite.zip"

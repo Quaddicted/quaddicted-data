@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MetzMan"
- ],
  "bytes": 8162140,
  "description": "Large level with a medieval castle, a base excarvation site leading to an otherworldly pyramid, and a tentacle monster exit. The map source is included.This map requires a source port with increased limits + BSP2 support. It is unvised, so perfomance may suffer on slower machines.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-09-29",
  "sha256": "26d85207f2abdbd55cb0cdee6551b294983ef149a7f8f98e036cafca88fa8900",
  "tags": [
   "author=MetzMan",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Roots",
  "urls": [
   "https://www.quaddicted.com/filebase/metzman_roots.zip",
   "https://www.quaddicted.com/files/by-sha256/26/26d85207f2abdbd55cb0cdee6551b294983ef149a7f8f98e036cafca88fa8900/metzman_roots.zip"

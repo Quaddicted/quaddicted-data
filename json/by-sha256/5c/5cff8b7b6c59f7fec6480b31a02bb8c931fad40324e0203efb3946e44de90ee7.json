@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Swen Klemund"
- ],
  "bytes": 578038,
  "description": "Doom2 - Map08 converted for Quake with original textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-19",
  "sha256": "5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7",
  "tags": [
   "author=Swen Klemund",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tricks and Traps  (Doom2-Map08)",
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_08.zip",
   "https://www.quaddicted.com/files/by-sha256/5c/5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7/doom2_08.zip"

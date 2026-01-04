@@ -1,7 +1,4 @@
 {
- "authors": [
-  "T.H. Johansen (TJ)"
- ],
  "bytes": 452496,
  "description": "Medium sized boxed Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-22",
  "sha256": "d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168",
  "tags": [
   "author=T.H. Johansen (TJ)",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Altar of Pain",
  "urls": [
   "https://www.quaddicted.com/filebase/tef_aop.zip",
   "https://www.quaddicted.com/files/by-sha256/d2/d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168/tef_aop.zip"

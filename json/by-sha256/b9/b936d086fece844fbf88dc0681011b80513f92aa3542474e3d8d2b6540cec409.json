@@ -1,28 +1,4 @@
 {
- "authors": [
-  "4LT",
-  "66ppt99",
-  "Chuma",
-  "Colossus",
-  "CommonCold",
-  "DavidDG",
-  "Dooplon",
-  "DraQu",
-  "Haikids",
-  "INfront95",
-  "Jitspoe",
-  "Joymodulo",
-  "Makkon",
-  "NewHouse",
-  "Nolcoz",
-  "Pinchy",
-  "Rabbit",
-  "Riktoi",
-  "Scampie",
-  "SimonN",
-  "Tei",
-  "mrtaufner"
- ],
  "bytes": 510755797,
  "description": "Pack of 24 maps made with a 'liminal spaces' theme, with a focus on strange, empty places with an eerie atmosphere, and (mostly) no combat. One for explorers.",
  "files": {
@@ -7995,7 +7971,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-06-03",
  "sha256": "b936d086fece844fbf88dc0681011b80513f92aa3542474e3d8d2b6540cec409",
  "tags": [
   "author=4LT",
@@ -8032,7 +8007,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Liminal Spaces Jam",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/b9/b936d086fece844fbf88dc0681011b80513f92aa3542474e3d8d2b6540cec409/limjam.zip",
   "https://x901.net/quaddictedfiles/limjam.zip"

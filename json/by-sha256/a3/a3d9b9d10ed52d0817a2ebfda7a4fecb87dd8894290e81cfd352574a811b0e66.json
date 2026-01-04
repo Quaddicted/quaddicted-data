@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 1957516,
  "description": "A series of four small maps with mixed textures and poor layout/construction quality.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-07-02",
  "sha256": "a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66",
  "tags": [
   "author=Unknown",
@@ -55,7 +51,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Untitled",
  "urls": [
   "https://www.quaddicted.com/filebase/level2.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66/level2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leafface"
- ],
  "bytes": 849942,
  "description": "Medium to large Metal map. Secret level of the LFSP series.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-01",
  "sha256": "b74fb456eaa4487ad2c11b89cbaa3720fbc080e66300fa378e458664937313c8",
  "tags": [
   "author=Leafface",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Purgatory",
  "urls": [
   "https://www.quaddicted.com/filebase/lfspplus.zip",
   "https://www.quaddicted.com/files/by-sha256/b7/b74fb456eaa4487ad2c11b89cbaa3720fbc080e66300fa378e458664937313c8/lfspplus.zip"

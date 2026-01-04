@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Cullen Wheeler"
- ],
  "bytes": 745333,
  "description": "Smallish basic looking Basemetal map featuring somewhat interesting rotation puzzles.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map requires Scourge of Armagon."
  ],
- "release_date": "1998-01-22",
  "sha256": "91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23",
  "tags": [
   "author=Cullen Wheeler",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "The Biogenetic Forge",
  "urls": [
   "https://www.quaddicted.com/filebase/bioforge.zip",
   "https://www.quaddicted.com/files/by-sha256/91/91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23/bioforge.zip"

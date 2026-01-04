@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jeds"
- ],
  "bytes": 82074,
  "description": "Small dark watery box utilising the Dopefish background texture.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-04-18",
  "sha256": "3c45709ba827afabba6e76e1babbdbfbe3a425218aeb672f71a70658e76a70f7",
  "tags": [
   "author=Jeds",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The qpi start",
  "urls": [
   "https://www.quaddicted.com/filebase/qpi1.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3c45709ba827afabba6e76e1babbdbfbe3a425218aeb672f71a70658e76a70f7/qpi1.zip"

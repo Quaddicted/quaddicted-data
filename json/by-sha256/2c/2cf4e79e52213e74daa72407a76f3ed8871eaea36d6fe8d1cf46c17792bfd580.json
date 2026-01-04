@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Goatlord",
-  "Lombard"
- ],
  "bytes": 3818145,
  "description": "Mini-campaign with three small SP levels: a base warehouse, a cathedral and a mine. It also comes with a start map, an additional DM map, and features all new textures as well as a modified palette giving monsters and items a new look.",
  "files": {
@@ -291,7 +287,6 @@
   "extract": "{base}/lomgoat/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-14",
  "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "tags": [
   "author=Goatlord",
@@ -313,7 +308,6 @@
   "type=mod",
   "zipbasedir=lomgoat/"
  ],
- "title": "Lomgoat",
  "urls": [
   "https://www.quaddicted.com/filebase/lomgoat.zip",
   "https://www.quaddicted.com/files/by-sha256/2c/2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580/lomgoat.zip"

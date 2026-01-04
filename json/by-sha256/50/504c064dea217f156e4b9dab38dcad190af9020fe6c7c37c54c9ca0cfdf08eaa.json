@@ -1,11 +1,5 @@
 {
- "authors": [
-  "JPL"
- ],
  "bytes": 9116072,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Small to medium-sized medieval / hell map, the sequel to <a href=\"7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc\">Castle of the Dark Ages</a>. Uses DKT and Doom3 textures, and comes with a few additional ambient sounds as well as a hell skybox.",
  "files": {
   "gfx/env/hellsky2bk.tga": {
@@ -111,7 +105,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
  ],
- "release_date": "2010-11-10",
  "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
  "tags": [
   "author=JPL",
@@ -139,7 +132,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "The Gateway to Hell",
  "urls": [
   "https://www.quaddicted.com/filebase/gth.zip",
   "https://www.quaddicted.com/files/by-sha256/50/504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa/gth.zip"

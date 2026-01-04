@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Speedy"
- ],
  "bytes": 2457310,
  "description": "Around medium sized base map with Cr8 textures and somewhat non-linear gameplay relying on exploration (for ammo). Comes with a custom skybox and support for colored lighting.",
  "files": {
@@ -70,7 +67,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-06-14",
  "sha256": "97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838",
  "tags": [
   "author=Speedy",
@@ -96,7 +92,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Explore or Die",
  "urls": [
   "https://www.quaddicted.com/filebase/xplore.zip",
   "https://www.quaddicted.com/files/by-sha256/97/97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838/xplore.zip"

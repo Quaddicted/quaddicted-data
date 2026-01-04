@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Hrimfaxi",
-  "Leviathan",
-  "Pushplay",
-  "Remnent",
-  "czg"
- ],
  "bytes": 2138141,
  "description": "Results of the second Quake Turtlemap event: 4 small to medium SP maps and one DM map in varying themes - all made in one week or less.",
  "files": {
@@ -69,7 +62,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-12-22",
  "sha256": "4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc",
  "tags": [
   "author=Hrimfaxi",
@@ -95,7 +87,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Quake Turtlemap 2",
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm2.zip",
   "https://www.quaddicted.com/files/by-sha256/44/4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc/q1tm2.zip"

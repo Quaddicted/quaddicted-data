@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Graham Davis (OrbItaL)"
- ],
  "bytes": 6310625,
- "current_main_group_package": true,
  "description": "Mini SP campaign consisting of three medium sized outdoor levels (+ start map) in Wizard/ Canyon/ Egyptian style. Uses custents and has a few new monsters like improved Grunts/ Ogres and Mechs. The maps are only playable in DOS/ Winquake or a high-limit engine. For regular GL engines, download the fixed version instead: <a href=\"96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c\">sop_v2</a>.",
  "files": {
   "sop/Config.cfg": {
@@ -332,11 +328,6 @@
  "notes": [
   "This file was repackaged by Spirit. You can find the original .zip in the <a href=\"http://www.quaddicted.com/filebase/trash/\" rel=\"nofollow\">trash</a>"
  ],
- "provides": {
-  "sop_v2": "2.0"
- },
- "release_date": "1999-08-01",
- "release_group": "sop_v2",
  "sha256": "e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af",
  "tags": [
   "author=Graham Davis (OrbItaL)",
@@ -357,10 +348,8 @@
   "type=mod",
   "version=2.0"
  ],
- "title": "The Source of Power",
  "urls": [
   "https://www.quaddicted.com/filebase/sop123.zip",
   "https://www.quaddicted.com/files/by-sha256/e3/e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af/sop123.zip"
- ],
- "version": "2.0"
+ ]
 }

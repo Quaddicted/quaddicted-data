@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MadFox"
- ],
  "bytes": 939494,
  "description": "Medium sized metal/dungeon map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-01",
  "sha256": "10fdabd6836032781a2abc35c3d38576e68ee8e5fa9c3fad9c9a4b67a001cca9",
  "tags": [
   "author=MadFox",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Gravey Trail",
  "urls": [
   "https://www.quaddicted.com/filebase/trail.zip",
   "https://www.quaddicted.com/files/by-sha256/10/10fdabd6836032781a2abc35c3d38576e68ee8e5fa9c3fad9c9a4b67a001cca9/trail.zip"

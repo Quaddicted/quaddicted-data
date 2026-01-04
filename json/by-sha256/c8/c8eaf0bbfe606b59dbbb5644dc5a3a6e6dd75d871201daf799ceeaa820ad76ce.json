@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andr04x"
- ],
  "bytes": 5017001,
  "description": "Around medium-sized map with a Knave-textured courtyard, a blue subterranean church and a base. Comes with a custom skybox. The map source is included.",
  "files": {
@@ -90,7 +87,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2021-06-08",
  "sha256": "c8eaf0bbfe606b59dbbb5644dc5a3a6e6dd75d871201daf799ceeaa820ad76ce",
  "tags": [
   "author=Andr04x",
@@ -110,7 +106,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "Sub Base",
  "urls": [
   "https://www.quaddicted.com/filebase/subq1sp.zip",
   "https://www.quaddicted.com/files/by-sha256/c8/c8eaf0bbfe606b59dbbb5644dc5a3a6e6dd75d871201daf799ceeaa820ad76ce/subq1sp.zip"

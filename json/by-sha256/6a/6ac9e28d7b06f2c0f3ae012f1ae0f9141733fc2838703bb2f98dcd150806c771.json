@@ -1,18 +1,4 @@
 {
- "authors": [
-  "Chris Holden",
-  "DariusGi",
-  "Greenwood",
-  "Mazu",
-  "Newhouse",
-  "VuRkka",
-  "Yoder",
-  "alexUnder",
-  "iYago",
-  "ish",
-  "riktoi",
-  "zigi"
- ],
  "bytes": 13385547,
  "description": "Eleven small classic-style / vanilla maps made in 48 hours, all themed after Quake episode 4 - The Elder World. Custom start map is included, as well as map source.",
  "files": {
@@ -249,7 +235,6 @@
  "notes": [
   "Some maps may require a modern engine / source port with increased limits."
  ],
- "release_date": "2022-05-23",
  "sha256": "6ac9e28d7b06f2c0f3ae012f1ae0f9141733fc2838703bb2f98dcd150806c771",
  "tags": [
   "author=Chris Holden",
@@ -292,7 +277,6 @@
   "type=mod",
   "type=speedmap"
  ],
- "title": "Speedmapping pack 218 - Episode 4",
  "urls": [
   "https://www.quaddicted.com/filebase/sm218.zip",
   "https://www.quaddicted.com/files/by-sha256/6a/6ac9e28d7b06f2c0f3ae012f1ae0f9141733fc2838703bb2f98dcd150806c771/sm218.zip"

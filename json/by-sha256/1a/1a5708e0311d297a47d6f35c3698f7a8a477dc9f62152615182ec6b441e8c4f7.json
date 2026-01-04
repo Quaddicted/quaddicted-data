@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Scampie",
-  "Windlash",
-  "Zwiffle"
- ],
  "bytes": 460641,
  "description": "Arena / 2 SP, 1 DM maps / Scampie, Windlash, Zwiffle",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-05-08",
  "sha256": "1a5708e0311d297a47d6f35c3698f7a8a477dc9f62152615182ec6b441e8c4f7",
  "tags": [
   "author=Scampie",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 78 - Arena",
  "urls": [
   "https://www.quaddicted.com/filebase/sm78_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1a/1a5708e0311d297a47d6f35c3698f7a8a477dc9f62152615182ec6b441e8c4f7/sm78_pack.zip"

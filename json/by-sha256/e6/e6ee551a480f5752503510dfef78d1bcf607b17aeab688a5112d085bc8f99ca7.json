@@ -1,7 +1,4 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 7184734,
  "description": "Large Metal/gothic lava fortress with a bunch of modified and new monsters, as well as a medium sized, hard secret map. Very high monster count in both maps, compensated by slight changes to some weapons and ammo system.",
  "files": {
@@ -366,7 +363,6 @@
  "notes": [
   "Requires an engine with increased limits."
  ],
- "release_date": "2003-07-09",
  "sha256": "e6ee551a480f5752503510dfef78d1bcf607b17aeab688a5112d085bc8f99ca7",
  "tags": [
   "author=necros",
@@ -392,7 +388,6 @@
   "title=Dawn of Eternity",
   "type=mod"
  ],
- "title": "Dawn of Eternity",
  "urls": [
   "https://www.quaddicted.com/filebase/nesp09.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e6ee551a480f5752503510dfef78d1bcf607b17aeab688a5112d085bc8f99ca7/nesp09.zip"

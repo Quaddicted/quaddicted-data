@@ -1,15 +1,4 @@
 {
- "authors": [
-  "Aesopolis",
-  "AlexUnder",
-  "Chris Holden",
-  "Greenwood",
-  "RickyT23",
-  "Shadesmaster",
-  "Yoder",
-  "ish",
-  "stickflip"
- ],
  "bytes": 72972516,
  "description": "Nine small / medium maps made in a week using MachineGames' new textures for the rerelease. A variety of themes and styles. Based on Copper mod (already included). Custom start map, MAP source, and QC source code is included.",
  "files": {
@@ -1154,7 +1143,6 @@
  "notes": [
   "Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-05-11",
  "sha256": "c03235e804a9c8f23c6cc65eb340a2d45d033eb8c9f221b18ceb332dfe852342",
  "tags": [
   "author=Aesopolis",
@@ -1201,7 +1189,6 @@
   "type=mapjam",
   "type=mod"
  ],
- "title": "Speedmapping pack 217 - Remaster Textures",
  "urls": [
   "https://www.quaddicted.com/filebase/sm_217.zip",
   "https://www.quaddicted.com/files/by-sha256/c0/c03235e804a9c8f23c6cc65eb340a2d45d033eb8c9f221b18ceb332dfe852342/sm_217.zip"

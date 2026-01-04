@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "DaZ",
-  "Fern",
-  "NorotiousRay",
-  "Vigil",
-  "Vondur"
- ],
  "bytes": 838090,
  "description": "Unthemed / 6 DM maps / Vondur, Fern, Aardappel, Vigil, NorotiousRay, DaZ",
  "files": {
@@ -50,7 +42,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-08",
  "sha256": "e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a",
  "tags": [
   "author=Aardappel",
@@ -73,7 +64,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 6 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm6_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e8/e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a/sm6_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Greenwood"
- ],
  "bytes": 5091305,
  "description": "Around medium-sized idbase map.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2019-12-20",
  "sha256": "51f6502bd842a0a9d0e439e0f59000f13333141be0f15d1185c323f64bf0612d",
  "tags": [
   "author=Greenwood",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Off Base",
  "urls": [
   "https://www.quaddicted.com/filebase/offbase.zip",
   "https://www.quaddicted.com/files/by-sha256/51/51f6502bd842a0a9d0e439e0f59000f13333141be0f15d1185c323f64bf0612d/offbase.zip"

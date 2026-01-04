@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Leonardi"
- ],
  "bytes": 1442512,
  "description": "Small beginner's base map. Comes with a custom music track. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2020-09-23",
  "sha256": "667577b803e740112d77ff6f6ddc5f417ca49fd80866b07f3e494235b089a45e",
  "tags": [
   "author=Leonardi",
@@ -50,7 +46,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Berthe, Mistress of Novices",
  "urls": [
   "https://www.quaddicted.com/filebase/berthe.zip",
   "https://www.quaddicted.com/files/by-sha256/66/667577b803e740112d77ff6f6ddc5f417ca49fd80866b07f3e494235b089a45e/berthe.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "nolcoz"
- ],
  "bytes": 11971494,
- "depends": [
-  "quoth>=2.2"
- ],
  "description": "Short arena-style map themed and timed to a techno music track.",
  "files": {
   "cgl_q.txt": {
@@ -51,7 +45,6 @@
  "notes": [
   "This map requires <a href=\"9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139\">Quoth 2.2</a> a source port with support for external music."
  ],
- "release_date": "2020-01-09",
  "sha256": "918b1009f498372e203709e61d3b97f4eac3bd32dd4a0b16d1821fe3fa50a238",
  "tags": [
   "author=nolcoz",
@@ -76,7 +69,6 @@
   "type=map",
   "zipbasedir=quoth/"
  ],
- "title": "The C.G.L Project",
  "urls": [
   "https://www.quaddicted.com/filebase/cgl_q.zip",
   "https://www.quaddicted.com/files/by-sha256/91/918b1009f498372e203709e61d3b97f4eac3bd32dd4a0b16d1821fe3fa50a238/cgl_q.zip"

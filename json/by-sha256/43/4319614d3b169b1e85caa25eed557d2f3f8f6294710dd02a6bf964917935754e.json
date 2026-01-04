@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Lomax"
- ],
  "bytes": 371605,
  "description": "This level is a near 100% conversion with full Doom2 textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-16",
  "sha256": "4319614d3b169b1e85caa25eed557d2f3f8f6294710dd02a6bf964917935754e",
  "tags": [
   "author=Peter Lomax",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Doom2 Map01 - Entryway",
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_01.zip",
   "https://www.quaddicted.com/files/by-sha256/43/4319614d3b169b1e85caa25eed557d2f3f8f6294710dd02a6bf964917935754e/doom2_01.zip"

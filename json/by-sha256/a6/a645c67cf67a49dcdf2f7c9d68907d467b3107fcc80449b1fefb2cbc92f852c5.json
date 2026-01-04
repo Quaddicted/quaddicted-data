@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Cocerello"
- ],
  "bytes": 3226352,
  "description": "A late entry to <a href=\"bb80595c90b64c7c0cf04f6272d509ccbb699774bb05af8f25630554e1f69e50\">Retro Jam 7 - Koohoo Theme</a>  with some freedom of choice in progression and plenty of short side areas, for vanilla Quake. The map features coop spawn points and has deathmatch support, and even Omicron bots play decently. Map source is included.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-04-02",
  "sha256": "a645c67cf67a49dcdf2f7c9d68907d467b3107fcc80449b1fefb2cbc92f852c5",
  "tags": [
   "author=Cocerello",
@@ -67,7 +63,6 @@
   "type=mapjam",
   "zipbasedir=id1/maps/"
  ],
- "title": "Work is a Nightmare",
  "urls": [
   "https://www.quaddicted.com/filebase/rj7_cocerello.zip",
   "https://www.quaddicted.com/files/by-sha256/a6/a645c67cf67a49dcdf2f7c9d68907d467b3107fcc80449b1fefb2cbc92f852c5/rj7_cocerello.zip"

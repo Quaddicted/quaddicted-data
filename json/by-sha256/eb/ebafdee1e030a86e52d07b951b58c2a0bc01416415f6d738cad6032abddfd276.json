@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Digs"
- ],
  "bytes": 5217963,
  "description": "Oldschool episode with nine small to medium-sized levels including a start map and a secret level. The maps are around id quality in terms of construction, style and gameplay. It also features a new rocket enforcer enemy type.",
  "files": {
@@ -79,7 +76,6 @@
   "extract": "{base}/digs01/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-05-22",
  "sha256": "ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276",
  "tags": [
   "author=Digs",
@@ -110,7 +106,6 @@
   "type=mod",
   "zipbasedir=digs01/"
  ],
- "title": "Digs01",
  "urls": [
   "https://www.quaddicted.com/filebase/digs01.zip",
   "https://www.quaddicted.com/files/by-sha256/eb/ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276/digs01.zip"

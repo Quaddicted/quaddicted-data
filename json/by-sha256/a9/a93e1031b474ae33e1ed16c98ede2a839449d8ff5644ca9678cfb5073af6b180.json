@@ -1,16 +1,4 @@
 {
- "authors": [
-  "Amperz",
-  "Chrisholden",
-  "Greenwood",
-  "Ish",
-  "Mazu",
-  "Mrtaufner",
-  "Spootnik",
-  "poopfiend",
-  "riktoi",
-  "stickflip"
- ],
  "bytes": 39881484,
  "description": "Maps made using Kreathor's prototype texture wad. Uses the copper mod (included).",
  "files": {
@@ -1723,7 +1711,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-05-11",
  "sha256": "a93e1031b474ae33e1ed16c98ede2a839449d8ff5644ca9678cfb5073af6b180",
  "tags": [
   "author=Amperz",
@@ -1754,7 +1741,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "SM 224 - Prototype Jam #4 (v.1.0.3 for Copper)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm224_1-0-3.zip",
   "https://www.quaddicted.com/files/by-sha256/a9/a93e1031b474ae33e1ed16c98ede2a839449d8ff5644ca9678cfb5073af6b180/sm224_1-0-3.zip"

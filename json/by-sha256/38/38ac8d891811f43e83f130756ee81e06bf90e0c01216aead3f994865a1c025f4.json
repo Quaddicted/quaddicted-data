@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marc Roussel"
- ],
  "bytes": 758490,
  "description": "Small wizard map that requires finding some secrets to proceed. Comes with two demos.",
  "files": {
@@ -40,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-07",
  "sha256": "38ac8d891811f43e83f130756ee81e06bf90e0c01216aead3f994865a1c025f4",
  "tags": [
   "author=Marc Roussel",
@@ -60,7 +56,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Wrong Way",
  "urls": [
   "https://www.quaddicted.com/filebase/death.zip",
   "https://www.quaddicted.com/files/by-sha256/38/38ac8d891811f43e83f130756ee81e06bf90e0c01216aead3f994865a1c025f4/death.zip"

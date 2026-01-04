@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Trinca",
-  "generic"
- ],
  "bytes": 677177,
  "description": "Unthemed / 3 SP maps / generic, Trinca",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-02-28",
  "sha256": "3bc12d52c0774bc4013b9a4a3daddc100dc99710381c1fcd6f4d7366a3ff2801",
  "tags": [
   "author=Trinca",
@@ -47,7 +42,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 120 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm120_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3b/3bc12d52c0774bc4013b9a4a3daddc100dc99710381c1fcd6f4d7366a3ff2801/sm120_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Vi3D"
- ],
  "bytes": 625392,
  "description": "Small classic id1 style map for vanilla Quake. The author's first release. Map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "Difficulty settings are not implemented."
  ],
- "release_date": "2022-11-20",
  "sha256": "1ae10a34d33f4309f10bcca5768deeedd34858531378258c5fae159d30173fb2",
  "tags": [
   "author=Vi3D",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Babby's First Map",
  "urls": [
   "https://www.quaddicted.com/filebase/bfmv1.zip",
   "https://www.quaddicted.com/files/by-sha256/1a/1ae10a34d33f4309f10bcca5768deeedd34858531378258c5fae159d30173fb2/bfmv1.zip"

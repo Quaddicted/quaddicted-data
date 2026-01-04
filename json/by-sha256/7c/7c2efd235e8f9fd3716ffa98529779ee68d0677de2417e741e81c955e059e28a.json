@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lunaran"
- ],
  "bytes": 3466968,
  "description": "Updated version of <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a>, featuring bug-fixes and further gameplay tweaks, most notably compatibility to the KexQuake port from the official Quake \"revitalization\" update. The mod source is included.",
  "files": {
@@ -718,11 +715,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "copper": "1.17"
- },
- "release_date": "2021-08-25",
- "release_group": "copper",
  "sha256": "7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a",
  "tags": [
   "author=Lunaran",
@@ -741,10 +733,8 @@
   "version=1.17",
   "zipbasedir=/"
  ],
- "title": "Copper - Version 1.17",
  "urls": [
   "https://www.quaddicted.com/filebase/copper_v1_17.zip",
   "https://www.quaddicted.com/files/by-sha256/7c/7c2efd235e8f9fd3716ffa98529779ee68d0677de2417e741e81c955e059e28a/copper_v1_17.zip"
- ],
- "version": "1.17"
+ ]
 }

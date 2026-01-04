@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sonnenblume"
- ],
  "bytes": 46532344,
  "description": "Three-map mini-episode with a small base level, a medium-sized nonlinear wizard-style map, and a large homage to E4M4- The Palace of Hate. It comes with custom music tracks. The map sources are incuded.",
  "files": {
@@ -78,7 +75,6 @@
  "notes": [
   "The third map requires a source port with increased limits."
  ],
- "release_date": "2021-09-01",
  "sha256": "e0a66606d653af0b133edb69384a7b6c4ce7b2a2c9af261460fb8f09734f70e8",
  "tags": [
   "author=Sonnenblume",
@@ -106,7 +102,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Cimmerian Night",
  "urls": [
   "https://www.quaddicted.com/filebase/cimmeriannight.zip",
   "https://www.quaddicted.com/files/by-sha256/e0/e0a66606d653af0b133edb69384a7b6c4ce7b2a2c9af261460fb8f09734f70e8/cimmeriannight.zip"

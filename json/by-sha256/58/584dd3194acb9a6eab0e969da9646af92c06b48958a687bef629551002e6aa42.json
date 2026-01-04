@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Magicman"
- ],
  "bytes": 781143,
  "description": "A short map where most action happens underwater. Comes with a new dual-uzi snake monster and a big boss snake.",
  "files": {
@@ -54,7 +51,6 @@
   "extract": "{base}/anaconda/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-04-02",
  "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [
   "author=Magicman",
@@ -78,7 +74,6 @@
   "type=mod",
   "zipbasedir=anaconda/"
  ],
- "title": "Anaconda",
  "urls": [
   "https://www.quaddicted.com/filebase/anaconda.zip",
   "https://www.quaddicted.com/files/by-sha256/58/584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42/anaconda.zip"

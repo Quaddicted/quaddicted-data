@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Glenn Ancheta"
- ],
  "bytes": 159538,
  "description": "Very small and plain vertical map with a few ogres.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-16",
  "sha256": "92fb5733d73db258f05ec88863896bac101e893a9bcb1612e144fdde2a02e8ce",
  "tags": [
   "author=Glenn Ancheta",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Climb",
  "urls": [
   "https://www.quaddicted.com/filebase/climb.zip",
   "https://www.quaddicted.com/files/by-sha256/92/92fb5733d73db258f05ec88863896bac101e893a9bcb1612e144fdde2a02e8ce/climb.zip"

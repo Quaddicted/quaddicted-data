@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Scott McNutt"
- ],
  "bytes": 525853,
  "description": "Small Wizard map with some traps. Comes with a start map.",
  "files": {
@@ -25,11 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "houstrps": "1.0"
- },
- "release_date": "1996-10-22",
- "release_group": "houstrps",
  "sha256": "32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85",
  "tags": [
   "author=Scott McNutt",
@@ -52,10 +44,8 @@
   "version=1.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "House of Traps",
  "urls": [
   "https://www.quaddicted.com/filebase/houstrps.zip",
   "https://www.quaddicted.com/files/by-sha256/32/32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85/houstrps.zip"
- ],
- "version": "1.0"
+ ]
 }

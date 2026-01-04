@@ -1,13 +1,4 @@
 {
- "authors": [
-  "Bloodworks",
-  "Cunnah",
-  "Greenwood",
-  "Naitelveni",
-  "bmFbr",
-  "quasiotter",
-  "zigi"
- ],
  "bytes": 33398667,
  "description": "Seven smallish maps with moving objects. They are based on the <a href=\"bea8c6ffb5ee2649db2805ef3bee8e976285affc0a20415da5aa7f3880bbdd36\">Copper</a> mod (included) and come with custom skyboxes and two music tracks. Some map sources are included.",
  "files": {
@@ -633,7 +624,6 @@
  "notes": [
   "Some of these maps require a source port with increased limits and/or BSP2 support."
  ],
- "release_date": "2021-01-25",
  "sha256": "6efe30edd79dd2516ffdb3a569144f0e4e1e0b8e06524f5f3bde5195e9443398",
  "tags": [
   "author=Bloodworks",
@@ -666,7 +656,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Speedmapping pack 211 - Moving parts",
  "urls": [
   "https://www.quaddicted.com/filebase/sm211_moving_parts.zip",
   "https://www.quaddicted.com/files/by-sha256/6e/6efe30edd79dd2516ffdb3a569144f0e4e1e0b8e06524f5f3bde5195e9443398/sm211_moving_parts.zip"

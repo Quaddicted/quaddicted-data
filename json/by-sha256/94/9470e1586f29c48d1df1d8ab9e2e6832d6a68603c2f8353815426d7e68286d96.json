@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Psycho"
- ],
  "bytes": 765839,
  "description": "Small  to medium-sized medieval castle with a dungeon and a lava cave beneath.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-24",
  "sha256": "9470e1586f29c48d1df1d8ab9e2e6832d6a68603c2f8353815426d7e68286d96",
  "tags": [
   "author=Psycho",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Castle Amber",
  "urls": [
   "https://www.quaddicted.com/filebase/camber.zip",
   "https://www.quaddicted.com/files/by-sha256/94/9470e1586f29c48d1df1d8ab9e2e6832d6a68603c2f8353815426d7e68286d96/camber.zip"

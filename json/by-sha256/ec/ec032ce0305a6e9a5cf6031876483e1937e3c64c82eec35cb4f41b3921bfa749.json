@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 1214810,
  "description": "Large plain rooms alternating between very bright and very dark.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-03-17",
  "sha256": "ec032ce0305a6e9a5cf6031876483e1937e3c64c82eec35cb4f41b3921bfa749",
  "tags": [
   "author=Unknown",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hello",
  "urls": [
   "https://www.quaddicted.com/filebase/level.zip",
   "https://www.quaddicted.com/files/by-sha256/ec/ec032ce0305a6e9a5cf6031876483e1937e3c64c82eec35cb4f41b3921bfa749/level.zip"

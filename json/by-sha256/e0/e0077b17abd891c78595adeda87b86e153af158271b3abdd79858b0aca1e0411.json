@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Scott McNutt"
- ],
  "bytes": 688900,
- "current_main_group_package": true,
  "description": "Same as <a href=\"32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85\">houstrps</a> except this map has Willy the Spider in the last room.",
  "files": {
   "HOUSP.TXT": {
@@ -44,11 +40,6 @@
   "extract": "{base}/housep/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "houstrps": "2.0"
- },
- "release_date": "1996-11-20",
- "release_group": "houstrps",
  "sha256": "e0077b17abd891c78595adeda87b86e153af158271b3abdd79858b0aca1e0411",
  "tags": [
   "author=Scott McNutt",
@@ -74,10 +65,8 @@
   "version=2.0",
   "zipbasedir=housep/"
  ],
- "title": "House of Traps (Spider)",
  "urls": [
   "https://www.quaddicted.com/filebase/housp.zip",
   "https://www.quaddicted.com/files/by-sha256/e0/e0077b17abd891c78595adeda87b86e153af158271b3abdd79858b0aca1e0411/housp.zip"
- ],
- "version": "2.0"
+ ]
 }

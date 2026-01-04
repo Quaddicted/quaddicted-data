@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 24190783,
  "description": "Huge two-episode campaign featuring 12 medium-to large medieval/wizard/terrain style maps (+ start and end maps) plus many new monsters, sounds, textures and QC features. Also includes seven deathmatch maps that can be played in SP via 'arena mode'.",
  "files": {
@@ -1198,7 +1195,6 @@
   "extract": "{base}/soe/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-04-01",
  "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -1223,7 +1219,6 @@
   "type=mod",
   "zipbasedir=soe/"
  ],
- "title": "Soul of Evil",
  "urls": [
   "https://www.quaddicted.com/filebase/soe_full.zip",
   "https://www.quaddicted.com/files/by-sha256/94/9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673/soe_full.zip"

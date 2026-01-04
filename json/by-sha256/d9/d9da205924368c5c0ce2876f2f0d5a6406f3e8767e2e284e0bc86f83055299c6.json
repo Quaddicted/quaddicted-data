@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Fairweather",
-  "Juzley"
- ],
  "bytes": 35937637,
  "description": "Episode with five medium to large maps in varying themes plus a start map. It is based on the <a href=\"8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f\">Copper</a> mod (included) and comes with two custom skyboxes, a few sounds and music tracks. The map sources are included.",
  "files": {
@@ -588,7 +584,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-03-15",
  "sha256": "d9da205924368c5c0ce2876f2f0d5a6406f3e8767e2e284e0bc86f83055299c6",
  "tags": [
   "author=Fairweather",
@@ -626,7 +621,6 @@
   "type=mod",
   "zipbasedir=pun/"
  ],
- "title": "The Punishment Due",
  "urls": [
   "https://www.quaddicted.com/filebase/pun.zip",
   "https://www.quaddicted.com/files/by-sha256/d9/d9da205924368c5c0ce2876f2f0d5a6406f3e8767e2e284e0bc86f83055299c6/pun.zip"

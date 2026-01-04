@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rutger Baks"
- ],
  "bytes": 483402,
  "description": "A nice looking but boxed and very short wizmetal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-02-08",
  "sha256": "e63d554d1c9e1cedf8e30b046bf810f124e17779674b9b90a3fd948897d64f2d",
  "tags": [
   "author=Rutger Baks",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "666",
  "urls": [
   "https://www.quaddicted.com/filebase/r_666.zip",
   "https://www.quaddicted.com/files/by-sha256/e6/e63d554d1c9e1cedf8e30b046bf810f124e17779674b9b90a3fd948897d64f2d/r_666.zip"

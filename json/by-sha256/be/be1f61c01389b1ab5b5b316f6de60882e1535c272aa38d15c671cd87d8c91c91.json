@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Digs"
- ],
  "bytes": 1541573,
  "description": "Medium-sized base map with a unique twist: 'anomalies' have warped several areas which now play tricks on the player's mind and perception.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-01-04",
  "sha256": "be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91",
  "tags": [
   "author=Digs",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Anomaly",
  "urls": [
   "https://www.quaddicted.com/filebase/digs05.zip",
   "https://www.quaddicted.com/files/by-sha256/be/be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91/digs05.zip"

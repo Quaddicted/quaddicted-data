@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DragonsForLunch"
- ],
  "bytes": 5176633,
  "description": "Medium-sized medieval castle level. It is based on the Progs_dump mod (included) and comes with some custom sounds and models. The map and qc sources are included.This map requires a source port with increased limits.",
  "files": {
@@ -638,7 +635,6 @@
  "notes": [
   "The mod folder has a config.cfg file which may override the current user configuration."
  ],
- "release_date": "2021-02-24",
  "sha256": "7eb5ad28389039e362fea730b59cdd7ae2e624ffaddd9b618615bdbef9583054",
  "tags": [
   "author=DragonsForLunch",
@@ -665,7 +661,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Godfreys Demesne",
  "urls": [
   "https://www.quaddicted.com/filebase/dfl_godfreys.zip",
   "https://www.quaddicted.com/files/by-sha256/7e/7eb5ad28389039e362fea730b59cdd7ae2e624ffaddd9b618615bdbef9583054/dfl_godfreys.zip"

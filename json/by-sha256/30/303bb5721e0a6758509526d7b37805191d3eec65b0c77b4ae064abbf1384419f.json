@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter Bisseker (tiddles)"
- ],
  "bytes": 269565,
  "description": "Small to medium, linear, dark Maya-style map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-09-29",
  "sha256": "303bb5721e0a6758509526d7b37805191d3eec65b0c77b4ae064abbf1384419f",
  "tags": [
   "author=Peter Bisseker (tiddles)",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Tomb",
  "urls": [
   "https://www.quaddicted.com/filebase/tomb_2.zip",
   "https://www.quaddicted.com/files/by-sha256/30/303bb5721e0a6758509526d7b37805191d3eec65b0c77b4ae064abbf1384419f/tomb_2.zip"

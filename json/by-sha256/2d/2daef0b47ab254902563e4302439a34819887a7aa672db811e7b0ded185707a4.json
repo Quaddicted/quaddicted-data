@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Blitz",
-  "Headthump",
-  "Hrimfaxi",
-  "Jago",
-  "Zwiffle"
- ],
  "bytes": 4795331,
  "description": "Five medium-sized maps consisting of 1000 brushes or less, and DKTe3 textures. Includes a start map.",
  "files": {
@@ -141,7 +134,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-12-19",
  "sha256": "2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4",
  "tags": [
   "author=Blitz",
@@ -173,7 +165,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "1000 Brush/Winter map pack",
  "urls": [
   "https://www.quaddicted.com/filebase/dkt1000.zip",
   "https://www.quaddicted.com/files/by-sha256/2d/2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4/dkt1000.zip"

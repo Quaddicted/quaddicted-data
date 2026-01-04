@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Stephen \"The Viper\" Peterson"
- ],
  "bytes": 1733128,
  "description": "Small to medium-sized crude recreation of the author's school with many rooms in long corridors, a gym, a basement and a front yard.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-06-20",
  "sha256": "7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3",
  "tags": [
   "author=Stephen \"The Viper\" Peterson",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "FLSMAP:  Combat Education",
  "urls": [
   "https://www.quaddicted.com/filebase/flsmap.zip",
   "https://www.quaddicted.com/files/by-sha256/7e/7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3/flsmap.zip"

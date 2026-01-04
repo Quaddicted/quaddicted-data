@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Naitelveni",
-  "NewHouse",
-  "mukor"
- ],
  "bytes": 5238358,
  "description": "Result of a 24-hour map jam following a Base theme: three small maps in different base settings. The map sources are included.",
  "files": {
@@ -112,7 +107,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2017-01-11",
  "sha256": "8769d2a9785f2ec4e9232ce0b3bd595b1243cdb5a6bf47e697eb71698252ff6a",
  "tags": [
   "author=Naitelveni",
@@ -136,7 +130,6 @@
   "type=map",
   "type=speedmap"
  ],
- "title": "24h Jam - Base theme",
  "urls": [
   "https://www.quaddicted.com/filebase/24h_jam.zip",
   "https://www.quaddicted.com/files/by-sha256/87/8769d2a9785f2ec4e9232ce0b3bd595b1243cdb5a6bf47e697eb71698252ff6a/24h_jam.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 398946,
  "description": "A bright, tall, slightly repetitive base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-13",
  "sha256": "febf1acf4259138bb4e256d5113e8272435c17714d4fbfae51c90e727d3735d7",
  "tags": [
   "author=DAV",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Space Ship",
  "urls": [
   "https://www.quaddicted.com/filebase/qkship.zip",
   "https://www.quaddicted.com/files/by-sha256/fe/febf1acf4259138bb4e256d5113e8272435c17714d4fbfae51c90e727d3735d7/qkship.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Alan Troup"
- ],
  "bytes": 125985,
  "description": "One room with a \"water elevator\", struts and monsters.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-08-28",
  "sha256": "75d694e64d6d74880ed90bbd93a155a4cf7d1b345205a37825ea4b9594e34bb2",
  "tags": [
   "author=Alan Troup",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Shaft of the Soulless",
  "urls": [
   "https://www.quaddicted.com/filebase/shaft29.zip",
   "https://www.quaddicted.com/files/by-sha256/75/75d694e64d6d74880ed90bbd93a155a4cf7d1b345205a37825ea4b9594e34bb2/shaft29.zip"

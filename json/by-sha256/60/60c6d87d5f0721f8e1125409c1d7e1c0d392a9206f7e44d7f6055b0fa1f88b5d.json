@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Vondur",
-  "czg"
- ],
  "bytes": 1968194,
  "description": "Polished remake of E1M1 with some additional areas. Map sources are included.",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-04-26",
  "sha256": "60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d",
  "tags": [
   "author=Vondur",
@@ -53,7 +48,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Slipgate Duplex",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/60/60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d/e1m1rmx.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dabbler (Jan Buchholz)"
- ],
  "bytes": 724217,
  "description": "Medium-sized Q2base level with a sewer system. Buttons are often hidden in shadows.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-08",
  "sha256": "d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e",
  "tags": [
   "author=Dabbler (Jan Buchholz)",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pumping station 43/A",
  "urls": [
   "https://www.quaddicted.com/filebase/ps43a.zip",
   "https://www.quaddicted.com/files/by-sha256/d1/d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e/ps43a.zip"

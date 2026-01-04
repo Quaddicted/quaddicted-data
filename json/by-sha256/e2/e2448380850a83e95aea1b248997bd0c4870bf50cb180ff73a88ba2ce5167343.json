@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marcus Dromowicz"
- ],
  "bytes": 5011436,
  "description": "Episode with four varied, medium to large Wizard maps, as well as a start map. Also features some modified progs, like rotation, breaking walls and cutscenes.",
  "files": {
@@ -190,7 +187,6 @@
   "extract": "{base}/mexx9/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-12",
  "sha256": "e2448380850a83e95aea1b248997bd0c4870bf50cb180ff73a88ba2ce5167343",
  "tags": [
   "author=Marcus Dromowicz",
@@ -215,7 +211,6 @@
   "type=mod",
   "zipbasedir=mexx9/"
  ],
- "title": "Penumbra of Domination",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx9.zip",
   "https://www.quaddicted.com/files/by-sha256/e2/e2448380850a83e95aea1b248997bd0c4870bf50cb180ff73a88ba2ce5167343/mexx9.zip"

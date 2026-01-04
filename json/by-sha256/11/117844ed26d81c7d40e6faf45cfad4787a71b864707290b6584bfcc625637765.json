@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fredrik 'PeyloW' Olsson"
- ],
  "bytes": 842525,
  "description": "Small Wizard temple in a canyon with a prison/ torture chamber beneath.",
  "files": {
@@ -38,7 +35,6 @@
   "extract": "{base}/temple/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-21",
  "sha256": "117844ed26d81c7d40e6faf45cfad4787a71b864707290b6584bfcc625637765",
  "tags": [
   "author=Fredrik 'PeyloW' Olsson",
@@ -56,7 +52,6 @@
   "type=mod",
   "zipbasedir=temple/"
  ],
- "title": "Temple of Tourment",
  "urls": [
   "https://www.quaddicted.com/filebase/temple2.zip",
   "https://www.quaddicted.com/files/by-sha256/11/117844ed26d81c7d40e6faf45cfad4787a71b864707290b6584bfcc625637765/temple2.zip"

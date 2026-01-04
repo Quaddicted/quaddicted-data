@@ -1,7 +1,4 @@
 {
- "authors": [
-  "zigi"
- ],
  "bytes": 17284601,
  "description": "Large murky medieval fortress inspired by Foggy Bogbottom and The Forgotten Sepulcher from <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a>.",
  "files": {
@@ -93,7 +90,6 @@
  "notes": [
   "Comes with a custom skybox and a music track. The map source is included.This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2020-09-01",
  "sha256": "11f6f8728089bb963a23a54eb6d80108c319a54f0c9a421d92ba3e5429ba31a2",
  "tags": [
   "author=zigi",
@@ -121,7 +117,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "A Verdant Dawn",
  "urls": [
   "https://www.quaddicted.com/filebase/zigisp1.zip",
   "https://www.quaddicted.com/files/by-sha256/11/11f6f8728089bb963a23a54eb6d80108c319a54f0c9a421d92ba3e5429ba31a2/zigisp1.zip"

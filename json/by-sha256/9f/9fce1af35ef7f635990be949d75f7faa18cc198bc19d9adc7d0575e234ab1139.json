@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Kell",
-  "Preach",
-  "necros"
- ],
  "bytes": 54792367,
- "current_main_group_package": true,
  "description": "Update to <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth 2</a> with a focus on refinement, such as fixing bugs and rebalancing monsters, with some minor new features.",
  "files": {
   "launch.bat": {
@@ -2032,11 +2026,6 @@
  "notes": [
   "This is the <b>full</b> version. The smaller version 2.2 <u>patch</u> to update an existing 2.1 installation is available <a href=\"33c5fcaf006a30d0692fd6ec72c59ee7141bacd656cd335d03944d439c6656fd\">here</a>."
  ],
- "provides": {
-  "quoth": "2.2"
- },
- "release_date": "2014-05-04",
- "release_group": "quoth",
  "sha256": "9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139",
  "tags": [
   "author=Kell",
@@ -2061,10 +2050,8 @@
   "version=2.2",
   "zipbasedir=quoth/"
  ],
- "title": "Quoth 2.2",
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2full_2.zip",
   "https://www.quaddicted.com/files/by-sha256/9f/9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139/quoth2pt2full_2.zip"
- ],
- "version": "2.2"
+ ]
 }

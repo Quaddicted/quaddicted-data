@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Erik Robson"
- ],
  "bytes": 2671536,
  "description": "Single player mission consisting of three small to medium, farily plain Wizard maps with a few modified/reskinned monsters and some custents bits. The goal is to infilitrate and secure a medieval lighthouse compound.",
  "files": {
@@ -160,7 +157,6 @@
   "extract": "{base}/lighthse/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-01",
  "sha256": "041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7",
  "tags": [
   "author=Erik Robson",
@@ -182,7 +178,6 @@
   "type=mod",
   "zipbasedir=lighthse/"
  ],
- "title": "Lighthouse Assult",
  "urls": [
   "https://www.quaddicted.com/filebase/lighthse1.zip",
   "https://www.quaddicted.com/files/by-sha256/04/041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7/lighthse1.zip"

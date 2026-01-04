@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Suzanne 'Trashbang' Will"
- ],
  "bytes": 11684094,
- "depends": [
-  "copper>=1.20"
- ],
  "description": "Medium to large, semi-linear level with a dungeon ruin and a surprise reveal. Includes some custom audio and music. Map source is also included.",
  "files": {
   "maps/": {
@@ -106,7 +100,6 @@
  "notes": [
   "This map requires <a href=\"f0f66dc2330ba4a88eca55975b08027286f7ce2c49f4de88744ae8f4373ee3f8\">Copper</a> and a source port with increased limits."
  ],
- "release_date": "2023-05-13",
  "sha256": "e2084b9acd3ad249a5d6c0eca9d18443a3ef2dd9daed072a242dbc50b0de9eb7",
  "tags": [
   "author=Suzanne 'Trashbang' Will",
@@ -124,7 +117,6 @@
   "type=mod",
   "zipbasedir=copper/"
  ],
- "title": "Only You Can Prevent Containment Breaches",
  "urls": [
   "https://www.quaddicted.com/filebase/suzyctmt.zip",
   "https://www.quaddicted.com/files/by-sha256/e2/e2084b9acd3ad249a5d6c0eca9d18443a3ef2dd9daed072a242dbc50b0de9eb7/suzyctmt.zip"

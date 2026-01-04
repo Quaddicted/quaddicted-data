@@ -1,17 +1,4 @@
 {
- "authors": [
-  "Danzadan",
-  "Daya",
-  "HexenMapper",
-  "Kres",
-  "Naitelveni",
-  "NewHouse",
-  "Pritchard",
-  "Spud",
-  "Topher",
-  "Vingal",
-  "brassbite"
- ],
  "bytes": 40365478,
  "description": "Ten small to large levels in varying themes/styles and a start hub map to access each of them. Most mappers involved were relatively new to mapping. Comes with three custom skyboxes and an ambient music track. The map sources are included.",
  "files": {
@@ -338,7 +325,6 @@
  "notes": [
   "These maps require a source port with increased limits."
  ],
- "release_date": "2017-10-26",
  "sha256": "6fdf0c6635bebe38a6aa57d51aa4724b59887844aca5926be8fc440d8a3b8074",
  "tags": [
   "author=Danzadan",
@@ -393,7 +379,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Quake Upstart Mapping Project 2017",
  "urls": [
   "https://www.quaddicted.com/filebase/qump.zip",
   "https://www.quaddicted.com/files/by-sha256/6f/6fdf0c6635bebe38a6aa57d51aa4724b59887844aca5926be8fc440d8a3b8074/qump.zip"

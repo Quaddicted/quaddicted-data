@@ -1,19 +1,4 @@
 {
- "authors": [
-  "Arkii",
-  "Burnham",
-  "Chris Holden",
-  "Greenwood",
-  "Hardcore Mazu",
-  "KONAir",
-  "Pinchy",
-  "Voidforce",
-  "Yoder",
-  "omni",
-  "quasiotter",
-  "schnedwob",
-  "zigi"
- ],
  "bytes": 13303553,
  "description": "Speedmapping pack 206: 13 singleplayer levels and a simple start map using <a href=\"http://khreathor.xyz/site/prototype/\">khreathor's prototype textures</a>. The map sources are included.",
  "files": {
@@ -285,7 +270,6 @@
  "notes": [
   "Some of these maps probably require a source port with increased limits."
  ],
- "release_date": "2020-02-10",
  "sha256": "7d7ca10a3b44b797ef64652887ed9100d8abd7f2bbabfe628727d3a198659d61",
  "tags": [
   "author=Arkii",
@@ -325,7 +309,6 @@
   "type=speedmap",
   "zipbasedir=sm206/"
  ],
- "title": "Speedmapping pack 206: Prototype textures",
  "urls": [
   "https://www.quaddicted.com/filebase/sm206.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d7ca10a3b44b797ef64652887ed9100d8abd7f2bbabfe628727d3a198659d61/sm206.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Phil Hammond"
- ],
  "bytes": 164655,
  "description": "Very small, plain and dark base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-18",
  "sha256": "f7b04a2d514289dd0a60fb05eead02b2196541b9b5199f98d6d51a84cc9b0041",
  "tags": [
   "author=Phil Hammond",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Flyer",
  "urls": [
   "https://www.quaddicted.com/filebase/flyer.zip",
   "https://www.quaddicted.com/files/by-sha256/f7/f7b04a2d514289dd0a60fb05eead02b2196541b9b5199f98d6d51a84cc9b0041/flyer.zip"

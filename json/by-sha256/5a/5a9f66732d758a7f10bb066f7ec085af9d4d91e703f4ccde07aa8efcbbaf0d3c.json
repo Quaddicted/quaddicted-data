@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Nehahra Team"
- ],
  "bytes": 55108663,
  "description": "Two-episode campaign featuring 17 medium-to-large maps, cutscenes, new monsters, weapons and many other features. Comes with a custom engine.",
  "files": {
@@ -3182,7 +3179,6 @@
  "notes": [
   "You can turn off the new AI (side-strafing monsters) with <code>nomonsters \"1\"</code>."
  ],
- "release_date": "2000-08-17",
  "sha256": "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
  "tags": [
   "author=Nehahra Team",
@@ -3211,7 +3207,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Nehahra",
  "urls": [
   "https://www.quaddicted.com/filebase/nehahra.zip",
   "https://www.quaddicted.com/files/by-sha256/5a/5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c/nehahra.zip"

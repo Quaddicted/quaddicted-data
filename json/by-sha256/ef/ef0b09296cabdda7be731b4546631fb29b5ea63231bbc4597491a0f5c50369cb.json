@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 564481,
  "description": "Medium sized Wizard prison map with a small mine bit.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-08",
  "sha256": "ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb",
  "tags": [
   "author=J.F.Gustafsson",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Keys to liberty",
  "urls": [
   "https://www.quaddicted.com/filebase/ktl.zip",
   "https://www.quaddicted.com/files/by-sha256/ef/ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb/ktl.zip"

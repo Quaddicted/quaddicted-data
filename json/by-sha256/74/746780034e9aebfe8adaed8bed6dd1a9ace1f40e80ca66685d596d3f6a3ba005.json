@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Omus",
-  "efdat",
-  "negke"
- ],
  "bytes": 1398643,
  "description": "Traps / 3 SP maps / efdat, neg!ke, Omus",
  "files": {
@@ -32,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-11-13",
  "sha256": "746780034e9aebfe8adaed8bed6dd1a9ace1f40e80ca66685d596d3f6a3ba005",
  "tags": [
   "author=Omus",
@@ -49,7 +43,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 129 - Traps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm129_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/74/746780034e9aebfe8adaed8bed6dd1a9ace1f40e80ca66685d596d3f6a3ba005/sm129_pack.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Quiet-Emerald"
- ],
  "bytes": 6720618,
  "description": "Large dungeon ruins beneath a mountain with a lava-filled central hall.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-09-06",
  "sha256": "f80133b7491513b2466eed11f6ad3e2782c79cebff7fa1031e7e740e0c7521e8",
  "tags": [
   "author=Quiet-Emerald",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Beneath The Mountain",
  "urls": [
   "https://www.quaddicted.com/filebase/btm.zip",
   "https://www.quaddicted.com/files/by-sha256/f8/f80133b7491513b2466eed11f6ad3e2782c79cebff7fa1031e7e740e0c7521e8/btm.zip"

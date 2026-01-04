@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Neil Manke"
- ],
  "bytes": 1615375,
  "description": "Medium sized starship with all new custom textures, slightly tougher and reskinned monsters, and a few extra progs.",
  "files": {
@@ -110,7 +107,6 @@
   "extract": "{base}/space/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-28",
  "sha256": "7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066",
  "tags": [
   "author=Neil Manke",
@@ -136,7 +132,6 @@
   "type=mod",
   "zipbasedir=space/"
  ],
- "title": "Starship",
  "urls": [
   "https://www.quaddicted.com/filebase/starship.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066/starship.zip"

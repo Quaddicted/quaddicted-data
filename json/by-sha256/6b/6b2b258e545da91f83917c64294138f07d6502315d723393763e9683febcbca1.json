@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tony Boyer"
- ],
  "bytes": 734733,
  "description": "Small, simple brick level with a few custom window textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-05-24",
  "sha256": "6b2b258e545da91f83917c64294138f07d6502315d723393763e9683febcbca1",
  "tags": [
   "author=Tony Boyer",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Blister2",
  "urls": [
   "https://www.quaddicted.com/filebase/blister2.zip",
   "https://www.quaddicted.com/files/by-sha256/6b/6b2b258e545da91f83917c64294138f07d6502315d723393763e9683febcbca1/blister2.zip"

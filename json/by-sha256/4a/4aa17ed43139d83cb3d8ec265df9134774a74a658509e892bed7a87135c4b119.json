@@ -1,7 +1,4 @@
 {
- "authors": [
-  "PME"
- ],
  "bytes": 657194,
  "description": "Medium sized Wizard/Metal map with a cage ride, an underwater ruin and a few tricks'n'traps.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-17",
  "sha256": "4aa17ed43139d83cb3d8ec265df9134774a74a658509e892bed7a87135c4b119",
  "tags": [
   "author=PME",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Cage",
  "urls": [
   "https://www.quaddicted.com/filebase/pmecage.zip",
   "https://www.quaddicted.com/files/by-sha256/4a/4aa17ed43139d83cb3d8ec265df9134774a74a658509e892bed7a87135c4b119/pmecage.zip"

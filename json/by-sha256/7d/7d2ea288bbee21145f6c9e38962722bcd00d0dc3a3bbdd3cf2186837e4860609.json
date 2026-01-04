@@ -1,7 +1,4 @@
 {
- "authors": [
-  "HS Xsniper (Michael Rogers)"
- ],
  "bytes": 130569,
  "description": "Small, leaked map with a mix of Base/Metal textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-06",
  "sha256": "7d2ea288bbee21145f6c9e38962722bcd00d0dc3a3bbdd3cf2186837e4860609",
  "tags": [
   "author=HS Xsniper (Michael Rogers)",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Temple Of Doom",
  "urls": [
   "https://www.quaddicted.com/filebase/temple.zip",
   "https://www.quaddicted.com/files/by-sha256/7d/7d2ea288bbee21145f6c9e38962722bcd00d0dc3a3bbdd3cf2186837e4860609/temple.zip"

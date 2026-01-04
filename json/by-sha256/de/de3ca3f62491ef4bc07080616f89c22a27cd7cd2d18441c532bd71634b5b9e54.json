@@ -1,7 +1,4 @@
 {
- "authors": [
-  "c0j"
- ],
  "bytes": 235704,
  "description": "Small cave / brick castle map.",
  "files": {
@@ -23,7 +20,6 @@
  "notes": [
   "Note that only skill 1 (Normal) is implemented."
  ],
- "release_date": "2022-01-16",
  "sha256": "de3ca3f62491ef4bc07080616f89c22a27cd7cd2d18441c532bd71634b5b9e54",
  "tags": [
   "author=c0j",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Lost Pantera",
  "urls": [
   "https://www.quaddicted.com/filebase/pum1.zip",
   "https://www.quaddicted.com/files/by-sha256/de/de3ca3f62491ef4bc07080616f89c22a27cd7cd2d18441c532bd71634b5b9e54/pum1.zip"

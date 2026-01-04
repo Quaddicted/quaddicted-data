@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Unknown"
- ],
  "bytes": 412548,
  "description": "Small brick castle with a courtyard.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-09-06",
  "sha256": "eebeff64a0fbe0f3a5c7028070012fd7b2a3987cebf7b8d8d56856f07afcaf93",
  "tags": [
   "author=Unknown",
@@ -30,7 +26,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Courtyard",
  "urls": [
   "https://www.quaddicted.com/filebase/pabc3.zip",
   "https://www.quaddicted.com/files/by-sha256/ee/eebeff64a0fbe0f3a5c7028070012fd7b2a3987cebf7b8d8d56856f07afcaf93/pabc3.zip"

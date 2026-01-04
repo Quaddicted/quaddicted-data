@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 678607,
  "description": "\"Stargate-themed\" map with lots of lava.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-01-13",
  "sha256": "8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a",
  "tags": [
   "author=DAV",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "StarGate",
  "urls": [
   "https://www.quaddicted.com/filebase/qkstarg.zip",
   "https://www.quaddicted.com/files/by-sha256/85/8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a/qkstarg.zip"

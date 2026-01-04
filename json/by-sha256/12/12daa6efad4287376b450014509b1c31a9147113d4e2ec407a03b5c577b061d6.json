@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 10279093,
  "description": "Large medieval city at nighttime with a strong focus on exploration and route choices. It comes with custom medieval-style items. The map source is included in the PAK.",
  "files": {
@@ -221,7 +218,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2013-12-18",
  "sha256": "12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6",
  "tags": [
   "author=sock",
@@ -252,7 +248,6 @@
   "type=mod",
   "zipbasedir=zendar/"
  ],
- "title": "The Horde of Zendar",
  "urls": [
   "https://www.quaddicted.com/filebase/zendar1d.zip",
   "https://www.quaddicted.com/files/by-sha256/12/12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6/zendar1d.zip"

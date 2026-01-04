@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chuma"
- ],
  "bytes": 3369316,
  "description": "Very small map aiming to recreate System Control of Doom TNT.",
  "files": {
@@ -65,7 +62,6 @@
   }
  },
  "json_version": "2025.09.27",
- "release_date": "2023-07-26",
  "sha256": "87636e947871103077f21ad39444b9b1cd3ac1983953b516f621ab768eff52f2",
  "tags": [
   "author=Chuma",
@@ -80,7 +76,6 @@
   "title=System Control (tntmap01)  / Snartroom (snartroom)",
   "type=map"
  ],
- "title": "System Control (tntmap01)  / Snartroom (snartroom)",
  "urls": [
   "https://www.quaddicted.com/filebase/tntmap01.zip",
   "https://www.quaddicted.com/files/by-sha256/87/87636e947871103077f21ad39444b9b1cd3ac1983953b516f621ab768eff52f2/tntmap01.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris Holden"
- ],
  "bytes": 2570509,
  "description": "Around medium-sized blood cistern level using terracotta-style custom textures. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-05-04",
  "sha256": "46b387315ad17852dc9af74ac73dde239b8e2fd3e614ab6f3b100e13e4b512aa",
  "tags": [
   "author=Chris Holden",
@@ -50,7 +46,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Sinister Cistern",
  "urls": [
   "https://www.quaddicted.com/filebase/sincinch.zip",
   "https://www.quaddicted.com/files/by-sha256/46/46b387315ad17852dc9af74ac73dde239b8e2fd3e614ab6f3b100e13e4b512aa/sincinch.zip"

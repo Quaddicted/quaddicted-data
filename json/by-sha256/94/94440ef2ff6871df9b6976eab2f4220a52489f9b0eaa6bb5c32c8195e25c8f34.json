@@ -1,11 +1,5 @@
 {
- "authors": [
-  "necros"
- ],
  "bytes": 4562974,
- "depends": [
-  "n3sp02=1.0"
- ],
  "description": "Extended files for <a href=\"1b65bb6dfb337e6b30a2f65b90c42c2fb47c549d02b00a48a52be58db6a85f9e\">n3sp02_13</a>: contains TGA texture replacements, skybox and music.",
  "files": {
   "Readme.txt": {
@@ -163,11 +157,6 @@
   "extract": "{base}/n3sp02/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "n3sp02": "1.1"
- },
- "release_date": "2001-07-24",
- "release_group": "n3sp02",
  "sha256": "94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34",
  "tags": [
   "author=necros",
@@ -187,10 +176,8 @@
   "version=1.1",
   "zipbasedir=n3sp02/"
  ],
- "title": "Castle Necrosis (Extended Files)",
  "urls": [
   "https://www.quaddicted.com/filebase/n3sp02_extd.zip",
   "https://www.quaddicted.com/files/by-sha256/94/94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34/n3sp02_extd.zip"
- ],
- "version": "1.1"
+ ]
 }

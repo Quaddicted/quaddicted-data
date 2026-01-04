@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Preach",
-  "Scampie"
- ],
  "bytes": 410842,
  "description": "DaPak (A Tribute to Headshot #2) / 2 SP maps / Preach, Scampie",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-03-07",
  "sha256": "22e4aaf90ae314e89a0035dc8e8543dc072d273e76af46a333a91ed23a9f4eee",
  "tags": [
   "author=Preach",
@@ -41,7 +36,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 71 -  DaPak (A Tribute to Headshot #2)",
  "urls": [
   "https://www.quaddicted.com/filebase/sm71_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/22/22e4aaf90ae314e89a0035dc8e8543dc072d273e76af46a333a91ed23a9f4eee/sm71_pack.zip"

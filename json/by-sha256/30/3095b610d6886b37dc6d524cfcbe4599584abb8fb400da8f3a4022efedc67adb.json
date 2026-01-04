@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Peter van Wingerden"
- ],
  "bytes": 1416355,
  "description": "Medium-sized puzzle map with Hipnotic/Metal textures. The layout is cramped and fairly nonlinear, the gameplay relies heavily on finding secret areas and hidden buttons.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-11-23",
  "sha256": "3095b610d6886b37dc6d524cfcbe4599584abb8fb400da8f3a4022efedc67adb",
  "tags": [
   "author=Peter van Wingerden",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The House of Seraphim",
  "urls": [
   "https://www.quaddicted.com/filebase/seraphim.zip",
   "https://www.quaddicted.com/files/by-sha256/30/3095b610d6886b37dc6d524cfcbe4599584abb8fb400da8f3a4022efedc67adb/seraphim.zip"

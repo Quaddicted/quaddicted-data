@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "generic"
- ],
  "bytes": 692671,
  "description": "Otherworldly color / 2 SP maps / Drew, generic",
  "files": {
@@ -31,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-06-08",
  "sha256": "9d986c81318738831d53d75aef22d0a3a6d4c3500bc58462078cf40e24cfd489",
  "tags": [
   "author=Drew",
@@ -46,7 +41,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 152 - Otherworldly color",
  "urls": [
   "https://www.quaddicted.com/filebase/sm152_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9d/9d986c81318738831d53d75aef22d0a3a6d4c3500bc58462078cf40e24cfd489/sm152_pack.zip"

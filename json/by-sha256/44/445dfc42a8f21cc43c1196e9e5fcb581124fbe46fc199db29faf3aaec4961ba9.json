@@ -1,11 +1,5 @@
 {
- "authors": [
-  "mfx"
- ],
  "bytes": 2125051,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Medium-sized underground ruins in Knave style with many tight spaces and initially limited supplies. The map source is included.",
  "files": {
   "mfxsp10.bsp": {
@@ -28,7 +22,6 @@
   "extract": "{base}/quoth/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-04-23",
  "sha256": "445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9",
  "tags": [
   "author=mfx",
@@ -55,7 +48,6 @@
   "type=map",
   "zipbasedir=quoth/maps/"
  ],
- "title": "Pain in the Arch",
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp10.zip",
   "https://www.quaddicted.com/files/by-sha256/44/445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9/mfxsp10.zip"

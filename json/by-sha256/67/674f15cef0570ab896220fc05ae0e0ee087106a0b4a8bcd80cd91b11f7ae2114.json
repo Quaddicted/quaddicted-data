@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DrMelon"
- ],
  "bytes": 612466,
  "description": "Short experimental map with a semi-realistic theme, centered around a unique idea involving altered player perspective. The texture wad is included.",
  "files": {
@@ -38,7 +35,6 @@
  "notes": [
   "This file was repackaged for Quake Injector compatibility."
  ],
- "release_date": "2023-09-02",
  "sha256": "674f15cef0570ab896220fc05ae0e0ee087106a0b4a8bcd80cd91b11f7ae2114",
  "tags": [
   "author=DrMelon",
@@ -52,7 +48,6 @@
   "title=A Smaller Slipgate",
   "type=map"
  ],
- "title": "A Smaller Slipgate",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/67/674f15cef0570ab896220fc05ae0e0ee087106a0b4a8bcd80cd91b11f7ae2114/drmelon-smallgate.zip",
   "https://x901.net/quaddictedfiles/drmelon-smallgate.zip"

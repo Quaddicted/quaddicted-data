@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Lee \"RoughTank\" Hirst"
- ],
  "bytes": 1294422,
  "description": "Small metal / runic map in a classic id1 style for vanilla Quake. The author's first release. Difficulty settings are not implemented. Map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-02-26",
  "sha256": "f51b206064a0330d196d755ce8086f43bf8e9584120ab5704f68678c17c88c20",
  "tags": [
   "author=Lee \"RoughTank\" Hirst",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Elder World's Ruin",
  "urls": [
   "https://www.quaddicted.com/filebase/lee1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/f5/f51b206064a0330d196d755ce8086f43bf8e9584120ab5704f68678c17c88c20/lee1m1.zip"

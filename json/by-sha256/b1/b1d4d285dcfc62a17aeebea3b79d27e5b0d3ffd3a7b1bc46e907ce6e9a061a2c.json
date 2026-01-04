@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jose C. Rodriguez (JCR)"
- ],
  "bytes": 1881070,
  "description": "Small prison tract built into a dark mire cavern. The map source is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-05-01",
  "sha256": "b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c",
  "tags": [
   "author=Jose C. Rodriguez (JCR)",
@@ -45,7 +41,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Mire Prison",
  "urls": [
   "https://www.quaddicted.com/filebase/mire_prison_jcr.zip",
   "https://www.quaddicted.com/files/by-sha256/b1/b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c/mire_prison_jcr.zip"

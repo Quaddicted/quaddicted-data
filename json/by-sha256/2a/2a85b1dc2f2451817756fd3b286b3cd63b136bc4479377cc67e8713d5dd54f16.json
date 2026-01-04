@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 2194051,
  "description": "Two tricky speedmaps by digs.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2012-07-25",
  "sha256": "2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16",
  "tags": [
   "author=digs",
@@ -54,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping Pack 168 - Unthemed",
  "urls": [
   "https://www.quaddicted.com/filebase/sm168_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2a/2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16/sm168_pack.zip"

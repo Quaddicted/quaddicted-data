@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Xenos"
- ],
  "bytes": 5516102,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Small lava void map with floating islands. Map source is included. The author's first release.",
  "files": {
   "infernalislands/": {
@@ -147,7 +141,6 @@
   "Requires Arcane Dimensions v1.81+ (NOT included).",
   "This won't work in Quake Injector and must be manually installed. Just move the two subfolders /gfx/ and /maps/ into your /ad/ mod folder, and ignore the other unnecessary files."
  ],
- "release_date": "2023-02-07",
  "sha256": "b709eeb7f06377d1d9d3bfa7e73e0b22bd21573ecee6cc8b98bd6e39b8807d35",
  "tags": [
   "author=Xenos",
@@ -172,7 +165,6 @@
   "title=Infernal Islands",
   "type=map"
  ],
- "title": "Infernal Islands",
  "urls": [
   "https://www.quaddicted.com/filebase/infernalislands.zip",
   "https://www.quaddicted.com/files/by-sha256/b7/b709eeb7f06377d1d9d3bfa7e73e0b22bd21573ecee6cc8b98bd6e39b8807d35/infernalislands.zip"

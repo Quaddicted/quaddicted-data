@@ -1,7 +1,4 @@
 {
- "authors": [
-  "digs"
- ],
  "bytes": 687775,
  "description": "sock's Egypt texture set / 1 SP map / digs",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-08-23",
  "sha256": "b419fa0ac3f4603463cafd3bcae3078bf8aaa3addfb1ec00dc149d5e1e965eaa",
  "tags": [
   "author=digs",
@@ -36,7 +32,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 165 - egyptian using sock's textures",
  "urls": [
   "https://www.quaddicted.com/filebase/sm165_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b419fa0ac3f4603463cafd3bcae3078bf8aaa3addfb1ec00dc149d5e1e965eaa/sm165_pack.zip"

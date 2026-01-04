@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trinca"
- ],
  "bytes": 3508243,
  "description": "A pretty big and hard base map. The map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-05-15",
  "sha256": "b54bacebf3ce44e4bf983982bdc3480f4c5abe13c45d19b40fbc4548bfa8071a",
  "tags": [
   "author=Trinca",
@@ -49,7 +45,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Freaky base",
  "urls": [
   "https://www.quaddicted.com/filebase/fbase.zip",
   "https://www.quaddicted.com/files/by-sha256/b5/b54bacebf3ce44e4bf983982bdc3480f4c5abe13c45d19b40fbc4548bfa8071a/fbase.zip"

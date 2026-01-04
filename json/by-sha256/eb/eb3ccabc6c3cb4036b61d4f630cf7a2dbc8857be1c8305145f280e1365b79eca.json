@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Qmaster"
- ],
  "bytes": 1332505,
  "description": "Medium-sized \"hipmetal\" level with lightning gun combat against Vores and Scourges. Originally made in 2013. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires Mission Pack 1: Scourge of Armagon (hipnotic)"
  ],
- "release_date": "2017-07-16",
  "sha256": "eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca",
  "tags": [
   "author=Qmaster",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=hipnotic/maps/"
  ],
- "title": "Return to Limbo - I",
  "urls": [
   "https://www.quaddicted.com/filebase/limbo2.zip",
   "https://www.quaddicted.com/files/by-sha256/eb/eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca/limbo2.zip"

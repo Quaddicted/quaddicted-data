@@ -1,7 +1,4 @@
 {
- "authors": [
-  "K.S."
- ],
  "bytes": 573862,
  "description": "Small to medium sized blue brick map. Very basic in terms of looks and gameplay, however there are many original machines, animated bits and mapobjects.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-07-17",
  "sha256": "8f463258014890b5d2f3f9356631cf46132e33c3f3b33b1b437fda3fb10e0254",
  "tags": [
   "author=K.S.",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Weird comic art Quake",
  "urls": [
   "https://www.quaddicted.com/filebase/wca.zip",
   "https://www.quaddicted.com/files/by-sha256/8f/8f463258014890b5d2f3f9356631cf46132e33c3f3b33b1b437fda3fb10e0254/wca.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Guilherme Nemeth"
- ],
  "bytes": 5666717,
  "description": "Medium-sized runic map. It is based on the progs_dump mod (included) and a few extra models and sounds as well as a music track by the author. The map source is included.",
  "files": {
@@ -120,7 +117,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2020-04-16",
  "sha256": "c4e076e15990717039c478daeac470868343176c04b477017ed3c227ca6d44ca",
  "tags": [
   "author=Guilherme Nemeth",
@@ -142,7 +138,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Keeper Of The Hell Gate",
  "urls": [
   "https://www.quaddicted.com/filebase/keeper.zip",
   "https://www.quaddicted.com/files/by-sha256/c4/c4e076e15990717039c478daeac470868343176c04b477017ed3c227ca6d44ca/keeper.zip"

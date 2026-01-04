@@ -1,9 +1,4 @@
 {
- "authors": [
-  "Speedy",
-  "Vondur",
-  "czg"
- ],
  "bytes": 1726012,
  "description": "Harder version of <a href=\"60c6d87d5f0721f8e1125409c1d7e1c0d392a9206f7e44d7f6055b0fa1f88b5d\">e1m1rmx</a> with additional monsters, route and gameplay changes.",
  "files": {
@@ -27,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-04-29",
  "sha256": "d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6",
  "tags": [
   "author=Speedy",
@@ -48,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Slipgate Duplex HARDCORE",
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1rmx_hard.zip",
   "https://www.quaddicted.com/files/by-sha256/d6/d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6/e1m1rmx_hard.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fairweather"
- ],
  "bytes": 3141436,
  "description": "Large Knave-textured level. Comes with a 100% completion demo (protocol 666). The map source is included.",
  "files": {
@@ -38,7 +35,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-08-21",
  "sha256": "499fbd7694714668389230ddd833f97bfb9147c552477bbe552810649e377abc",
  "tags": [
   "author=Fairweather",
@@ -56,7 +52,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Dead But Dreaming",
  "urls": [
   "https://www.quaddicted.com/filebase/dbdreaming.zip",
   "https://www.quaddicted.com/files/by-sha256/49/499fbd7694714668389230ddd833f97bfb9147c552477bbe552810649e377abc/dbdreaming.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "J.F.Gustafsson"
- ],
  "bytes": 707645,
  "description": "Medium sized map, a short Base leading to Wizard areas with an underwater part in-between.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-21",
  "sha256": "df2e4bfd80b778b8ab089ef8c5ecc8b426afeb65b30e6e977f544cd934b03e22",
  "tags": [
   "author=J.F.Gustafsson",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Out of time",
  "urls": [
   "https://www.quaddicted.com/filebase/out1.zip",
   "https://www.quaddicted.com/files/by-sha256/df/df2e4bfd80b778b8ab089ef8c5ecc8b426afeb65b30e6e977f544cd934b03e22/out1.zip"

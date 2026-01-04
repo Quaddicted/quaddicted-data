@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marcus Dromowicz"
- ],
  "bytes": 595290,
  "description": "Medium sized plain Metal level with many monsters/non-stop action.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-03",
  "sha256": "0abccd5b0080bffc3e24f2409bf018cf4e07dc144e854314b7a58e8daa8e8aef",
  "tags": [
   "author=Marcus Dromowicz",
@@ -40,7 +36,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Terror of Tzeentch",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx5.zip",
   "https://www.quaddicted.com/files/by-sha256/0a/0abccd5b0080bffc3e24f2409bf018cf4e07dc144e854314b7a58e8daa8e8aef/mexx5.zip"

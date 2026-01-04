@@ -1,22 +1,4 @@
 {
- "authors": [
-  "66ppt99",
-  "Chris Holden",
-  "Fairweather",
-  "Grash",
-  "Greenwood",
-  "Hardcore Mazu",
-  "Konig",
-  "Niccolicious",
-  "Pinchy",
-  "RecycledOJ",
-  "Repator",
-  "Spootnik",
-  "bizzozeron",
-  "iYago",
-  "ish",
-  "riktoi"
- ],
  "bytes": 26804491,
  "description": "16 speedmaps with varying themes + custom start map. Each map has at least 2 quad damage powerups, requiring players to chain together quad buffs into a \"quad run.\" Many maps may feel difficult, even on skill 0. Beginners beware. Built on Copper (already included). Organized by Greenwood.",
  "files": {
@@ -624,7 +606,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-03-10",
  "sha256": "c78c2116529263b1dbdc06a78d05867bfc9f9cbd1357da331f82a23b0bec1068",
  "tags": [
   "author=66ppt99",
@@ -670,7 +651,6 @@
   "type=mod",
   "type=speedmap"
  ],
- "title": "Speedmapping pack 223 - Quad Run II",
  "urls": [
   "https://www.quaddicted.com/filebase/sm223.zip",
   "https://www.quaddicted.com/files/by-sha256/c7/c78c2116529263b1dbdc06a78d05867bfc9f9cbd1357da331f82a23b0bec1068/sm223.zip"

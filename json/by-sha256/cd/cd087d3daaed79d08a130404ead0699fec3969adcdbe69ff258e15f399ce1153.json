@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Travis Pease"
- ],
  "bytes": 199692,
  "description": "Small, mixed texture map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-04",
  "sha256": "cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153",
  "tags": [
   "author=Travis Pease",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Altus Mors",
  "urls": [
   "https://www.quaddicted.com/filebase/altus2.zip",
   "https://www.quaddicted.com/files/by-sha256/cd/cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153/altus2.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Thobias \"Loke\" Fast"
- ],
  "bytes": 1448321,
  "description": "Small symmetrical medieval level with a base exit.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2011-07-10",
  "sha256": "4be96210a58924266b39697e3f6143454bc877abb6744af9c272189549372c86",
  "tags": [
   "author=Thobias \"Loke\" Fast",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Fortress of Resurrection",
  "urls": [
   "https://www.quaddicted.com/filebase/resurrection.zip",
   "https://www.quaddicted.com/files/by-sha256/4b/4be96210a58924266b39697e3f6143454bc877abb6744af9c272189549372c86/resurrection.zip"

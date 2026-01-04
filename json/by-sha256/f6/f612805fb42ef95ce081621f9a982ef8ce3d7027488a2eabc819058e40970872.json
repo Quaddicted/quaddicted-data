@@ -1,7 +1,4 @@
 {
- "authors": [
-  "T.H. Johansen (TJ)"
- ],
  "bytes": 423951,
  "description": "Medium sized woodbox map",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-23",
  "sha256": "f612805fb42ef95ce081621f9a982ef8ce3d7027488a2eabc819058e40970872",
  "tags": [
   "author=T.H. Johansen (TJ)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Slime Ground",
  "urls": [
   "https://www.quaddicted.com/filebase/tef_sg.zip",
   "https://www.quaddicted.com/files/by-sha256/f6/f612805fb42ef95ce081621f9a982ef8ce3d7027488a2eabc819058e40970872/tef_sg.zip"

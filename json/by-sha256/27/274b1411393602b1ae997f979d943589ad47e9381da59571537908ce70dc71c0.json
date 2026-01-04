@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mike_C"
- ],
  "bytes": 1847585,
  "description": "Medium-sized oldschool-style brick dungeon level. The map source is included.",
  "files": {
@@ -33,7 +30,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-09-18",
  "sha256": "274b1411393602b1ae997f979d943589ad47e9381da59571537908ce70dc71c0",
  "tags": [
   "author=Mike_C",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Through the Gates of the Silver Key",
  "urls": [
   "https://www.quaddicted.com/filebase/throughthegatesv3.zip",
   "https://www.quaddicted.com/files/by-sha256/27/274b1411393602b1ae997f979d943589ad47e9381da59571537908ce70dc71c0/throughthegatesv3.zip"

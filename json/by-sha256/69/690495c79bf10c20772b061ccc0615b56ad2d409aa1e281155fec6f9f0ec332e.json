@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Markus Klar"
- ],
  "bytes": 834575,
  "description": "Medium sized Base map with an original and unique twist: the illusion of walking on multiple plains - nine years before Prey.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-31",
  "sha256": "690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e",
  "tags": [
   "author=Markus Klar",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Fly",
  "urls": [
   "https://www.quaddicted.com/filebase/thefly.zip",
   "https://www.quaddicted.com/files/by-sha256/69/690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e/thefly.zip"

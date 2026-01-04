@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Psycho"
- ],
  "bytes": 665624,
  "description": "Smallish mix-style pseudo-prison map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-10",
  "sha256": "d83b2eae432cd35b8429cbce1d7014f84d148cae3449b29d2a294bbb02a28423",
  "tags": [
   "author=Psycho",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Jailbreak",
  "urls": [
   "https://www.quaddicted.com/filebase/jailbrk.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d83b2eae432cd35b8429cbce1d7014f84d148cae3449b29d2a294bbb02a28423/jailbrk.zip"

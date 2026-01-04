@@ -1,9 +1,4 @@
 {
- "authors": [
-  "ionous",
-  "negke",
-  "skacky"
- ],
  "bytes": 13580696,
  "description": "Three vertical metal/runic-themed maps - late entries to <a href=\"7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818\">Retro Jam 3</a>, ironically labeled \"DLC\". The map sources are included.",
  "files": {
@@ -130,7 +125,6 @@
  "notes": [
   "ionous' map requires a source port with BSP2 support; skacky's map requires a port with increased limits."
  ],
- "release_date": "2015-07-26",
  "sha256": "b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc",
  "tags": [
   "author=ionous",
@@ -158,7 +152,6 @@
   "type=mod",
   "zipbasedir=retrojam3dlc/"
  ],
- "title": "Retro Jam 3 DLC",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam3dlc.zip",
   "https://www.quaddicted.com/files/by-sha256/b3/b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc/retrojam3dlc.zip"

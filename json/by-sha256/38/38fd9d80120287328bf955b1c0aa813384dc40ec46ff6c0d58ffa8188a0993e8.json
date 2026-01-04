@@ -1,7 +1,4 @@
 {
- "authors": [
-  "DAV"
- ],
  "bytes": 429543,
  "description": "Cramped and weird oldschool map. Tower-like structure with Fiend cages and \"evil\" staircases.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-01-07",
  "sha256": "38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8",
  "tags": [
   "author=DAV",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "House",
  "urls": [
   "https://www.quaddicted.com/filebase/qkhouse.zip",
   "https://www.quaddicted.com/files/by-sha256/38/38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8/qkhouse.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jon Seigel"
- ],
  "bytes": 695429,
  "description": "Medium to large Metal level.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-31",
  "sha256": "a45fd8ec529d6577321cad5703228362ccc55f1f0f5fe2bc25c2f6025f1d50bf",
  "tags": [
   "author=Jon Seigel",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The First Attempt",
  "urls": [
   "https://www.quaddicted.com/filebase/tms1.zip",
   "https://www.quaddicted.com/files/by-sha256/a4/a45fd8ec529d6577321cad5703228362ccc55f1f0f5fe2bc25c2f6025f1d50bf/tms1.zip"

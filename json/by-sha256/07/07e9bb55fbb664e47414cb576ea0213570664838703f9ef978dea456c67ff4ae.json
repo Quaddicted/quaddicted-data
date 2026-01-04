@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Creed"
- ],
  "bytes": 464913,
  "description": "About medium sized Metal castle traversed by water.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-18",
  "sha256": "07e9bb55fbb664e47414cb576ea0213570664838703f9ef978dea456c67ff4ae",
  "tags": [
   "author=Creed",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Discordia",
  "urls": [
   "https://www.quaddicted.com/filebase/discord.zip",
   "https://www.quaddicted.com/files/by-sha256/07/07e9bb55fbb664e47414cb576ea0213570664838703f9ef978dea456c67ff4ae/discord.zip"

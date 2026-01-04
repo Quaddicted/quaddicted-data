@@ -1,13 +1,4 @@
 {
- "authors": [
-  "American McGee",
-  "Connor Fitzgerald feat. Preacher",
-  "Ghandi",
-  "John Romero",
-  "Pingu",
-  "Yataze",
-  "ZTN"
- ],
  "bytes": 2178487,
  "description": "Episode consisting of seven classic deathmatch maps converted for single player (with speedrunning in mind):<br><br>dmc1m1 : basewalk (basewalk) by Preacher<br>dmc1m2 : Acrophobia (dm7) by (maybe) American McGee<br>dmc1m3 : Bloodrun (ztndm3) by ZTN<br>dmc1m4 : DeutschMaschine (cmt3) by Gandhi<br>dmc1m5 : Domination (p3a) by Pingu<br>dmc1m6 : #endif (endif) by Yataze<br>dmc1m7 : Lost Entrance to the Dismal Oubliette (e2m10) by John Romero<br>",
  "files": {
@@ -56,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-12-18",
  "sha256": "78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870",
  "tags": [
   "author=American McGee",
@@ -90,7 +80,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Deathmatch Classics Vol. 1",
  "urls": [
   "https://www.quaddicted.com/filebase/dmc1.zip",
   "https://www.quaddicted.com/files/by-sha256/78/78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870/dmc1.zip"

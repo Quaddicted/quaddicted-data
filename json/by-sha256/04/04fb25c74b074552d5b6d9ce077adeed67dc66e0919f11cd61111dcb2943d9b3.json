@@ -1,7 +1,4 @@
 {
- "authors": [
-  "XeNoN"
- ],
  "bytes": 1241108,
  "description": "Four beginner maps with strange textures.",
  "files": {
@@ -35,7 +32,6 @@
   "extract": "{base}/id1/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-22",
  "sha256": "04fb25c74b074552d5b6d9ce077adeed67dc66e0919f11cd61111dcb2943d9b3",
  "tags": [
   "author=XeNoN",
@@ -58,7 +54,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "Return to Earth",
  "urls": [
   "https://www.quaddicted.com/filebase/rte.zip",
   "https://www.quaddicted.com/files/by-sha256/04/04fb25c74b074552d5b6d9ce077adeed67dc66e0919f11cd61111dcb2943d9b3/rte.zip"

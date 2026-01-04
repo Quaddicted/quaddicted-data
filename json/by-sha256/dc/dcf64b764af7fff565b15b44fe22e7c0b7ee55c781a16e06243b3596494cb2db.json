@@ -1,7 +1,4 @@
 {
- "authors": [
-  "MadFox"
- ],
  "bytes": 1304313,
  "description": "Large cave/castle map. Requires some exploration.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2004-08-28",
  "sha256": "dcf64b764af7fff565b15b44fe22e7c0b7ee55c781a16e06243b3596494cb2db",
  "tags": [
   "author=MadFox",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "In the Cave",
  "urls": [
   "https://www.quaddicted.com/filebase/cave.zip",
   "https://www.quaddicted.com/files/by-sha256/dc/dcf64b764af7fff565b15b44fe22e7c0b7ee55c781a16e06243b3596494cb2db/cave.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jimmy / James Paddock"
- ],
  "bytes": 1547585,
  "description": "Small / medium sized base themed map in a classic id1 style for vanilla Quake. The author's first release for Quake.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2023-04-01",
  "sha256": "ea4c4f09746f5a9360f86f948056e34d58b8fcb92dfcdac428bf3118d7362ede",
  "tags": [
   "author=Jimmy / James Paddock",
@@ -46,7 +42,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Outpost 91",
  "urls": [
   "https://www.quaddicted.com/filebase/outpost91_b1.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea4c4f09746f5a9360f86f948056e34d58b8fcb92dfcdac428bf3118d7362ede/outpost91_b1.zip"

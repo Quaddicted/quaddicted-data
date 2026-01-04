@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zied Rieke"
- ],
  "bytes": 1369067,
  "description": "Fairly large, plain base level with a flying enforcer and non-linear gameplay.",
  "files": {
@@ -34,7 +31,6 @@
   "extract": "{base}/v6/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-01",
  "sha256": "ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1",
  "tags": [
   "author=Zied Rieke",
@@ -53,7 +49,6 @@
   "type=mod",
   "zipbasedir=v6/"
  ],
- "title": "Vivisect Six",
  "urls": [
   "https://www.quaddicted.com/filebase/v6.zip",
   "https://www.quaddicted.com/files/by-sha256/eb/ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1/v6.zip"

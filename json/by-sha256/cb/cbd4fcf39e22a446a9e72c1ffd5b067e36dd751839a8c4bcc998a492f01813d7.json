@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Luke Higgins"
- ],
  "bytes": 728754,
  "description": "Smallish Wizard castle with a handful of custom textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-08-01",
  "sha256": "cbd4fcf39e22a446a9e72c1ffd5b067e36dd751839a8c4bcc998a492f01813d7",
  "tags": [
   "author=Luke Higgins",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Ruiner's Revulsion",
  "urls": [
   "https://www.quaddicted.com/filebase/trr.zip",
   "https://www.quaddicted.com/files/by-sha256/cb/cbd4fcf39e22a446a9e72c1ffd5b067e36dd751839a8c4bcc998a492f01813d7/trr.zip"

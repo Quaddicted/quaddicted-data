@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris \"1600frogs\" Brady"
- ],
  "bytes": 2262196,
  "description": "Small linear medieval castle themed map for vanilla Quake. Map source is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-12-10",
  "sha256": "78224c3b7dce4cede2d74b153cb30a4e436bdc33e66c18d87fb13fcb37062d17",
  "tags": [
   "author=Chris \"1600frogs\" Brady",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Rising Action",
  "urls": [
   "https://www.quaddicted.com/filebase/frogsaction_v1.zip",
   "https://www.quaddicted.com/files/by-sha256/78/78224c3b7dce4cede2d74b153cb30a4e436bdc33e66c18d87fb13fcb37062d17/frogsaction_v1.zip"

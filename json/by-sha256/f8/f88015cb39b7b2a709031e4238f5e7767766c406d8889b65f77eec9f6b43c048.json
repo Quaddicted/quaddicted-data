@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marcus Dromowicz"
- ],
  "bytes": 580057,
  "description": "Medium sized plain Medieval map with a tower and a dungeon area.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-02-14",
  "sha256": "f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048",
  "tags": [
   "author=Marcus Dromowicz",
@@ -42,7 +38,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "A Bishop's Bane (Domina Domino)",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx7.zip",
   "https://www.quaddicted.com/files/by-sha256/f8/f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048/mexx7.zip"

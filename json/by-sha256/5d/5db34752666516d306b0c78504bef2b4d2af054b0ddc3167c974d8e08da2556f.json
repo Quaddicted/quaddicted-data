@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Chuma",
-  "EmeraldTiger",
-  "Shadesmaster",
-  "alexUnder"
- ],
  "bytes": 164188510,
  "description": "Pack of four maps in various styles, based on the <a href=\"33cd97c54ff7d5acc7f9a2c64e3059ba246325e13bbbf3ccf3d84b2e618b2d57\">Re:Mobilize</a> mod (included), all taking advantage of new gameplay mechanics.",
  "files": {
@@ -941,11 +935,6 @@
  "notes": [
   "May require a source port with increased limits / BSP2 support."
  ],
- "provides": {
-  "remobilize": "1.1J"
- },
- "release_date": "2023-10-08",
- "release_group": "remobilize",
  "sha256": "5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f",
  "tags": [
   "author=Chuma",
@@ -968,10 +957,8 @@
   "type=mod",
   "version=1.1J"
  ],
- "title": "Re:Mobilize Jam 1: Re:Collections",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/5d/5db34752666516d306b0c78504bef2b4d2af054b0ddc3167c974d8e08da2556f/rmj1.zip",
   "https://x901.net/quaddictedfiles/rmj1.zip"
- ],
- "version": "1.1J"
+ ]
 }

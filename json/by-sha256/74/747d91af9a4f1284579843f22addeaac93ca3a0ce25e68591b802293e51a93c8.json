@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Ludovic Texier"
- ],
  "bytes": 354551,
  "description": "Small Wizard-textured building in a water pool.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-08-12",
  "sha256": "747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8",
  "tags": [
   "author=Ludovic Texier",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Keep it dark!",
  "urls": [
   "https://www.quaddicted.com/filebase/k_dark1b.zip",
   "https://www.quaddicted.com/files/by-sha256/74/747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8/k_dark1b.zip"

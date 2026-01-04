@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 12582570,
  "description": "Medium-sized metal cathedral in the void. It is based on the Progs_dump mod (included) and comes with a custom music track. The map source is included.",
  "files": {
@@ -514,7 +511,6 @@
  "notes": [
   "This map requires a source port with increased limits + BSP2 support."
  ],
- "release_date": "2021-05-01",
  "sha256": "d20d6537efead2954ef637f77f02f2181a69074403e2d26da7f2b248757c8831",
  "tags": [
   "author=JPal",
@@ -538,7 +534,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Halls of the Void",
  "urls": [
   "https://www.quaddicted.com/filebase/jpqm7.zip",
   "https://www.quaddicted.com/files/by-sha256/d2/d20d6537efead2954ef637f77f02f2181a69074403e2d26da7f2b248757c8831/jpqm7.zip"

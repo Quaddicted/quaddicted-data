@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fern (aka Fr3n)"
- ],
  "bytes": 868691,
  "description": "Originally designed for speedrunning but playable for all players. Dressed in Sock's egyptian textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-09-29",
  "sha256": "276d109ab4e109d127ccf7529d52ee8ddcb787312b0bc4b8ec9b6a162924a4ee",
  "tags": [
   "author=Fern (aka Fr3n)",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Grand Guignol",
  "urls": [
   "https://www.quaddicted.com/filebase/fr3nrun2.zip",
   "https://www.quaddicted.com/files/by-sha256/27/276d109ab4e109d127ccf7529d52ee8ddcb787312b0bc4b8ec9b6a162924a4ee/fr3nrun2.zip"

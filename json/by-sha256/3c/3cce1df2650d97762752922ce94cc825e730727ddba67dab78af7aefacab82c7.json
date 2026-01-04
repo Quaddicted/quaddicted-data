@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 1962529,
  "description": "Medium-sized terracotta style map with a built-in skill selection room and an additional alternative game mode.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2010-08-13",
  "sha256": "3cce1df2650d97762752922ce94cc825e730727ddba67dab78af7aefacab82c7",
  "tags": [
   "author=negke",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Red Slammer",
  "urls": [
   "https://www.quaddicted.com/filebase/mappi.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3cce1df2650d97762752922ce94cc825e730727ddba67dab78af7aefacab82c7/mappi.zip"

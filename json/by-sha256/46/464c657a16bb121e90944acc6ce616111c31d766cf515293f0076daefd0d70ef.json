@@ -1,21 +1,5 @@
 {
- "authors": [
-  "Bal",
-  "Breezeep",
-  "FifthElephant",
-  "ItEndsWithTens",
-  "Naitelveni",
-  "Pritchard",
-  "Redfield",
-  "dumptruck_ds",
-  "ionous",
-  "mukor",
-  "negke"
- ],
  "bytes": 50928643,
- "depends": [
-  "ad>=1.70"
- ],
  "description": "Func Xmas Jam 2017 - a community project at Func_Msgboard. This pack features 11 small AD maps in varied styles where all gameplay takes place within a 1024x1024x1024 space. It comes with a few custom skyboxes, sounds, and a music track. The map sources are included.",
  "files": {
   "func_xmasjam2017.txt": {
@@ -686,7 +670,6 @@
  "notes": [
   "These maps require <a href=\"5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999\">Arcane Dimensions</a> 1.60 or later and a source port with increased limits."
  ],
- "release_date": "2017-12-27",
  "sha256": "464c657a16bb121e90944acc6ce616111c31d766cf515293f0076daefd0d70ef",
  "tags": [
   "author=Bal",
@@ -742,7 +725,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Xmas Jam 2017 - 1024\u00b3 theme",
  "urls": [
   "https://www.quaddicted.com/filebase/func_xmasjam2017.zip",
   "https://www.quaddicted.com/files/by-sha256/46/464c657a16bb121e90944acc6ce616111c31d766cf515293f0076daefd0d70ef/func_xmasjam2017.zip"

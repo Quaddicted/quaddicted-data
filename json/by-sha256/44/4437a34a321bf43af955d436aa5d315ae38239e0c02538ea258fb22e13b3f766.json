@@ -1,7 +1,4 @@
 {
- "authors": [
-  "SavageX"
- ],
  "bytes": 2017193,
  "description": "Medium-sized base map using FreeDoom textures. The map source is included.",
  "files": {
@@ -45,7 +42,6 @@
   "extract": "{base}//"
  },
  "json_version": "2025.09.27",
- "release_date": "2018-04-07",
  "sha256": "4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766",
  "tags": [
   "author=SavageX",
@@ -65,7 +61,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "The Dreaded Dreadbase of Dread",
  "urls": [
   "https://www.quaddicted.com/filebase/dreadbase.zip",
   "https://www.quaddicted.com/files/by-sha256/44/4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766/dreadbase.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Trace Stuart"
- ],
  "bytes": 721342,
  "description": "Small base/prison, created for the Escape For Quake conversion.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-12-23",
  "sha256": "aa9b89f642326633258b7d8db3898c357c7ca2a09a8bed30f2f2dcdf1f4a3e89",
  "tags": [
   "author=Trace Stuart",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Three's Arena",
  "urls": [
   "https://www.quaddicted.com/filebase/3sarena.zip",
   "https://www.quaddicted.com/files/by-sha256/aa/aa9b89f642326633258b7d8db3898c357c7ca2a09a8bed30f2f2dcdf1f4a3e89/3sarena.zip"

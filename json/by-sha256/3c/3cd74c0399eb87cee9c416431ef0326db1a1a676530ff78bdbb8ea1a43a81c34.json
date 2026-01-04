@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Speedy"
- ],
  "bytes": 601701,
  "description": "This level was inspired by Doom2 map01. Grey-blue textures, Base-style.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2003-10-30",
  "sha256": "3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34",
  "tags": [
   "author=Speedy",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "SPD",
  "urls": [
   "https://www.quaddicted.com/filebase/spd2.zip",
   "https://www.quaddicted.com/files/by-sha256/3c/3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34/spd2.zip"

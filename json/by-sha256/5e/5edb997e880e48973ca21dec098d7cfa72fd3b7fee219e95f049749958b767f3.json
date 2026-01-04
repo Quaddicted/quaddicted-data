@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Hrimfaxi",
-  "Tron",
-  "Voodoochopstiks",
-  "generic",
-  "negke"
- ],
  "bytes": 1806944,
  "description": "Secret maps / 6 SP maps / Voodoochopstiks, Drew, generic, Hrimfaxi, neg!ke, Tron",
  "files": {
@@ -55,7 +47,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-09-19",
  "sha256": "5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3",
  "tags": [
   "author=Drew",
@@ -81,7 +72,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 104 - Secret Maps",
  "urls": [
   "https://www.quaddicted.com/filebase/sm104_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3/sm104_pack.zip"

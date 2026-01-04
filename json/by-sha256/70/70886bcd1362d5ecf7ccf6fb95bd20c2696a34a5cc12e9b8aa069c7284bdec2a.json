@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 3563556,
  "description": "Medium-sized Egyptian pyramid level, originally started for the <a href=\"d270bdc48ee9db7f2bc79d7c4b9c433df7cc6f64ee3d90a32c0b393c6f4d1dc7\">Retro Map Jam 6</a> community event. The map source is included.",
  "files": {
@@ -47,7 +44,6 @@
  "notes": [
   "This map requires either a source port with increased limits, or needs to be run as a mod using the included progs.dat file."
  ],
- "release_date": "2017-08-27",
  "sha256": "70886bcd1362d5ecf7ccf6fb95bd20c2696a34a5cc12e9b8aa069c7284bdec2a",
  "tags": [
   "author=negke",
@@ -86,7 +82,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Egyptgington",
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam6_negke.zip",
   "https://www.quaddicted.com/files/by-sha256/70/70886bcd1362d5ecf7ccf6fb95bd20c2696a34a5cc12e9b8aa069c7284bdec2a/retrojam6_negke.zip"

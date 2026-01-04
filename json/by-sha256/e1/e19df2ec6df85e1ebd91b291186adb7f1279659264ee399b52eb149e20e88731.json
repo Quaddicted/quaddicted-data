@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 197153,
  "description": "Late entry for <a href=\"d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed\">SM171</a>.",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2013-06-04",
  "sha256": "e19df2ec6df85e1ebd91b291186adb7f1279659264ee399b52eb149e20e88731",
  "tags": [
   "author=negke",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 171 - Bricks",
  "urls": [
   "https://www.quaddicted.com/filebase/sm171_negke.zip",
   "https://www.quaddicted.com/files/by-sha256/e1/e19df2ec6df85e1ebd91b291186adb7f1279659264ee399b52eb149e20e88731/sm171_negke.zip"

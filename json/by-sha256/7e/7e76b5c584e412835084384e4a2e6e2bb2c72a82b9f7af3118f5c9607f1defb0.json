@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Tom Cleghorn aka Murgatroyd"
- ],
  "bytes": 570274,
  "description": "Small to medium horizontal Wizard with different texture combinations is each room. Features Willy the Spider.",
  "files": {
@@ -70,7 +67,6 @@
   "extract": "{base}/wishwell/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-22",
  "sha256": "7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0",
  "tags": [
   "author=Tom Cleghorn aka Murgatroyd",
@@ -92,7 +88,6 @@
   "type=mod",
   "zipbasedir=wishwell/"
  ],
- "title": "The Wishing Well",
  "urls": [
   "https://www.quaddicted.com/filebase/wishwell.zip",
   "https://www.quaddicted.com/files/by-sha256/7e/7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0/wishwell.zip"

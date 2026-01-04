@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GunSgtHighway"
- ],
  "bytes": 243684572,
  "description": "Two base maps: a space ship hangar and a huge UAC facility with labs, tech areas, offices, personel quarters and a cantina. It attempts to connect Wolfenstein, Doom and Quake. It runs on the Progs_dump mod (included), uses many new textures, and comes with additional assets, a custom skybox and music tracks in WAV format.",
  "files": {
@@ -838,7 +835,6 @@
  "notes": [
   "These maps require a source port with increased limits + BSP2 support. Additionally, due to the large filesize of the skybox and music, the memory heapsize must be increased. A smaller version of the skybox is available <a href=\"http://www.quaketastic.com/files/texture_wads/andoria_smaller_skybox.zip\">here</a>."
  ],
- "release_date": "2020-12-17",
  "sha256": "e2efb10efeb36af3d4b6b9e1ddeac537c8bb9b4773f701a1c1e8317785cad419",
  "tags": [
   "author=GunSgtHighway",
@@ -876,7 +872,6 @@
   "type=mod",
   "zipbasedir=/"
  ],
- "title": "Adoria",
  "urls": [
   "https://www.quaddicted.com/filebase/gsh_adoria.zip",
   "https://www.quaddicted.com/files/by-sha256/e2/e2efb10efeb36af3d4b6b9e1ddeac537c8bb9b4773f701a1c1e8317785cad419/gsh_adoria.zip"

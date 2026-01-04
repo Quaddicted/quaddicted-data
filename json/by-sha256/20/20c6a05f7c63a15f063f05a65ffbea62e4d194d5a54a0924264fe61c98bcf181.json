@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Dustin \"Tronyn\" Geeraert"
- ],
  "bytes": 2946003,
- "depends": [
-  "drake>=1.0"
- ],
  "description": "Small medieval outpost with a unique texture theme and horde-based combat. A touched-up version of an old deathmatch map converted for SP mode. Comes with a custom skybox.",
  "files": {
   "drysorrow.txt": {
@@ -71,7 +65,6 @@
  "notes": [
   "This map requires the <a href=\"http://quaddicted.com/filebase/drake290111.zip\">Drake</a> mod."
  ],
- "release_date": "2011-01-29",
  "sha256": "20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
@@ -92,7 +85,6 @@
   "type=map",
   "zipbasedir=wicked/"
  ],
- "title": "Dry Sorrow",
  "urls": [
   "https://www.quaddicted.com/filebase/drysorrow.zip",
   "https://www.quaddicted.com/files/by-sha256/20/20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181/drysorrow.zip"

@@ -1,17 +1,4 @@
 {
- "authors": [
-  "Andrew Yoder",
-  "Artistical",
-  "Axebeard",
-  "Burnham",
-  "Greenwood",
-  "MortalMaxx",
-  "Nolcoz",
-  "Pinchy",
-  "Ryan Trawick",
-  "Ubiquitous",
-  "khreathor"
- ],
  "bytes": 91670984,
  "description": "Community mapping pack with 11 sewer-themed levels and a start map based on the Extras mod with a few additions, among which are two new enemies. It also features custom skyboxes and a few music tracks. The map sources are included.",
  "files": {
@@ -768,7 +755,6 @@
  "notes": [
   "Some of these map require a source port with increased limits."
  ],
- "release_date": "2019-09-02",
  "sha256": "b63646b8170b58ff5e08855408b6c6e4938e73b78bfe3137dd13304939d4bc3c",
  "tags": [
   "author=Andrew Yoder",
@@ -816,7 +802,6 @@
   "type=mod",
   "zipbasedir=swjam/"
  ],
- "title": "Quake Sewer Jam",
  "urls": [
   "https://www.quaddicted.com/filebase/sewerjam.zip",
   "https://www.quaddicted.com/files/by-sha256/b6/b63646b8170b58ff5e08855408b6c6e4938e73b78bfe3137dd13304939d4bc3c/sewerjam.zip"

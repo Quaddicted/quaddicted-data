@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Lunaran"
- ],
  "bytes": 5197459,
- "current_main_group_package": true,
  "description": "Latest version of the popular Copper mod. This update mainly focuses on a new Nightmare skill with many revamped monster abilities, as well as a new HUD, many new mapper features and various bugfixes.",
  "files": {
   "copper/": {
@@ -815,11 +811,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "copper": "1.30"
- },
- "release_date": "2023-10-31",
- "release_group": "copper",
  "sha256": "2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8",
  "tags": [
   "author=Lunaran",
@@ -837,10 +828,8 @@
   "type=mod",
   "version=1.30"
  ],
- "title": "Copper v1.30",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/29/2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8/copper_v1_30.zip",
   "https://x901.net/quaddictedfiles/copper_v1_30.zip"
- ],
- "version": "1.30"
+ ]
 }

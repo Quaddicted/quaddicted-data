@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Livehyperion"
- ],
  "bytes": 8419025,
- "depends": [
-  "copper=1.30"
- ],
  "description": "Gothic-themed map set in an overridden chapel. The author's first finished map.",
  "files": {
   "hgs.bsp": {
@@ -31,7 +25,6 @@
  "notes": [
   "This map requires <a href=\"2932bdfda11224125c3f7207701bed8c4b7a765a2370a581589a5e17337b7eb8\">Copper</a>."
  ],
- "release_date": "2024-09-18",
  "sha256": "05301468d36e0b017c4f90622100bc0bb325ea2d2d8c44be915b9f7732edfbce",
  "tags": [
   "author=Livehyperion",
@@ -49,7 +42,6 @@
   "type=map",
   "zipbasedir=copper/maps"
  ],
- "title": "Hellgate Sanctuary",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/05/05301468d36e0b017c4f90622100bc0bb325ea2d2d8c44be915b9f7732edfbce/hgs.zip",
   "https://x901.net/quaddictedfiles/hgs.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Zied Rieke"
- ],
  "bytes": 828722,
  "description": "A small base level with lots of monsters and little ammo. Features 'new' flying enforcer enemy.",
  "files": {
@@ -62,7 +59,6 @@
   "extract": "{base}/3oc/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-06-27",
  "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "tags": [
   "author=Zied Rieke",
@@ -85,7 +81,6 @@
   "type=mod",
   "zipbasedir=3oc/"
  ],
- "title": "Three of Clubs",
  "urls": [
   "https://www.quaddicted.com/filebase/3oc.zip",
   "https://www.quaddicted.com/files/by-sha256/d7/d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816/3oc.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andrew 'than' Palmer"
- ],
  "bytes": 1799110,
  "description": "Detailed remake of Quake's semi-stock map DM7: A small to medium-sized medieval fortress inside a canyon. The map source (in standard and WC format) is included.",
  "files": {
@@ -30,7 +27,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2012-05-07",
  "sha256": "5c547dfdff16a30d0df54e159f0e87903eb1bfbbca837073342ee4fac5f50d41",
  "tags": [
   "author=Andrew 'than' Palmer",
@@ -53,7 +49,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Geophobia",
  "urls": [
   "https://www.quaddicted.com/filebase/dm7rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/5c/5c547dfdff16a30d0df54e159f0e87903eb1bfbbca837073342ee4fac5f50d41/dm7rmx.zip"

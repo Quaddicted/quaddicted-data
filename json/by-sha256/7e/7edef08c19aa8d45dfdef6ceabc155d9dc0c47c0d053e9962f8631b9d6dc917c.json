@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 5162171,
  "description": "Medium-sized medieval towers in a mine canyon with many secret areas that allow for somewhat nonlinear gameplay, a built-in skill selection area, and custom medieval-themed items. The map source is included in the pak.",
  "files": {
@@ -132,7 +129,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2013-09-28",
  "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "tags": [
   "author=sock",
@@ -155,7 +151,6 @@
   "type=mod",
   "zipbasedir=ivory/"
  ],
- "title": "The Ivory Tower",
  "urls": [
   "https://www.quaddicted.com/filebase/ivory1b.zip",
   "https://www.quaddicted.com/files/by-sha256/7e/7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c/ivory1b.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "zigi"
- ],
  "bytes": 16882459,
  "description": "A large Doom themed map, using the SMEJ2 progs (already included). Contains music from Doom 2 OST. Map source is included.",
  "files": {
@@ -789,7 +786,6 @@
   "Start map is not included. Load manually in console via \"map zigisp2\".",
   "Probably requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-07-16",
  "sha256": "fc0dc5fa15842d0d9959ef5c7ec6a8385f88ba9fd694321f139435b484e513df",
  "tags": [
   "author=zigi",
@@ -815,7 +811,6 @@
   "title=Disposal Of Otherworldly Monsters",
   "type=mod"
  ],
- "title": "Disposal Of Otherworldly Monsters",
  "urls": [
   "https://www.quaddicted.com/filebase/zigisp2.zip",
   "https://www.quaddicted.com/files/by-sha256/fc/fc0dc5fa15842d0d9959ef5c7ec6a8385f88ba9fd694321f139435b484e513df/zigisp2.zip"

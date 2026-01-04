@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fern (aka Fr3n)"
- ],
  "bytes": 799520,
  "description": "A fast and brutal map in  ancient-temple textures.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-02-27",
  "sha256": "88189149ec9b35054858f22b56657bbcd8f770f98b36726f05d87c881203a584",
  "tags": [
   "author=Fern (aka Fr3n)",
@@ -44,7 +40,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Return to Dust",
  "urls": [
   "https://www.quaddicted.com/filebase/perssp2.zip",
   "https://www.quaddicted.com/files/by-sha256/88/88189149ec9b35054858f22b56657bbcd8f770f98b36726f05d87c881203a584/perssp2.zip"

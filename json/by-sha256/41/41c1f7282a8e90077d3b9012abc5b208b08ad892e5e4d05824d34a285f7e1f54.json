@@ -1,7 +1,4 @@
 {
- "authors": [
-  "John \"metlslime\" Fitzgibbons"
- ],
  "bytes": 2764680,
  "description": "Large rusty metal/industrial complex with custom textures, a few code tweaks, a start map and a cool Zelda tribute secret level.",
  "files": {
@@ -114,7 +111,6 @@
   "extract": "{base}/rubicon/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-02-25",
  "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",
@@ -141,7 +137,6 @@
   "type=mod",
   "zipbasedir=rubicon/"
  ],
- "title": "Rubicon",
  "urls": [
   "https://www.quaddicted.com/filebase/rubicon.zip",
   "https://www.quaddicted.com/files/by-sha256/41/41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54/rubicon.zip"

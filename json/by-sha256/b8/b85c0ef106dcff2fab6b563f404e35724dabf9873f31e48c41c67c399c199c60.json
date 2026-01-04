@@ -1,11 +1,4 @@
 {
- "authors": [
-  "Zwiffle",
-  "bambuz",
-  "generic",
-  "lurker",
-  "negke"
- ],
  "bytes": 1447160,
  "description": "Episode 1 in one map / 5 SP maps / bambuz, generic, lurker, neg!ke, Zwiffle",
  "files": {
@@ -44,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-07-27",
  "sha256": "b85c0ef106dcff2fab6b563f404e35724dabf9873f31e48c41c67c399c199c60",
  "tags": [
   "author=Zwiffle",
@@ -66,7 +58,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo 2006 #2 - Episode 1 in one map",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe06b_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b8/b85c0ef106dcff2fab6b563f404e35724dabf9873f31e48c41c67c399c199c60/smqe06b_pack.zip"

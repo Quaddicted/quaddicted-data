@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Pete Jones"
- ],
  "bytes": 704880,
  "description": "Small map inspired by some memorable areas in the first episode.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-25",
  "sha256": "efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487",
  "tags": [
   "author=Pete Jones",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Secret Civilization",
  "urls": [
   "https://www.quaddicted.com/filebase/civil.zip",
   "https://www.quaddicted.com/files/by-sha256/ef/efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487/civil.zip"

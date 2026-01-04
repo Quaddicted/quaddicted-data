@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mikko Sandt"
- ],
  "bytes": 1343609,
  "description": "Moody (ik)base map with outdoor parts.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2007-09-22",
  "sha256": "c42c5dc26e774e59ea9dfcbc628d0477a6357ef6fa4d6e06f7cc3e405f0f6ca5",
  "tags": [
   "author=Mikko Sandt",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "MSQ1: Distractions",
  "urls": [
   "https://www.quaddicted.com/filebase/distractions.zip",
   "https://www.quaddicted.com/files/by-sha256/c4/c42c5dc26e774e59ea9dfcbc628d0477a6357ef6fa4d6e06f7cc3e405f0f6ca5/distractions.zip"

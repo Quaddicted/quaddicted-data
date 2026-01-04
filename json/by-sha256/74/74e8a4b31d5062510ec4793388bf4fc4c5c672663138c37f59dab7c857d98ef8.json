@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Rodrigo HernandeZ B."
- ],
  "bytes": 1909364,
  "description": "Large stone map with many custom textures, several new monsters such as agents and cyborgs (?), a few new weapons, and some custom progs like rotation and cutscences. All text messages are in Spanish.",
  "files": {
@@ -290,7 +287,6 @@
   "extract": "{base}/ruliano/"
  },
  "json_version": "2025.09.27",
- "release_date": "1998-03-08",
  "sha256": "74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8",
  "tags": [
   "author=Rodrigo HernandeZ B.",
@@ -313,7 +309,6 @@
   "type=mod",
   "zipbasedir=ruliano/"
  ],
- "title": "Ruliano",
  "urls": [
   "https://www.quaddicted.com/filebase/ruliano.zip",
   "https://www.quaddicted.com/files/by-sha256/74/74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8/ruliano.zip"

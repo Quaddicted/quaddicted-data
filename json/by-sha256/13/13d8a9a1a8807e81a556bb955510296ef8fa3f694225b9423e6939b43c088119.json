@@ -1,7 +1,4 @@
 {
- "authors": [
-  "GrazzasOnlyFan"
- ],
  "bytes": 59279254,
  "description": "Large sci-fi gothic mountain prison for vanilla Quake inspired by Dark Souls, with textures by Makkon. Difficulty settings are not implemented. Map source is included.",
  "files": {
@@ -108,7 +105,6 @@
  "notes": [
   "Requires a modern engine / source port with increased limits."
  ],
- "release_date": "2022-09-04",
  "sha256": "13d8a9a1a8807e81a556bb955510296ef8fa3f694225b9423e6939b43c088119",
  "tags": [
   "author=GrazzasOnlyFan",
@@ -137,7 +133,6 @@
   "title=Prison of Hope",
   "type=map"
  ],
- "title": "Prison of Hope",
  "urls": [
   "https://www.quaddicted.com/filebase/prisonofhope.zip",
   "https://www.quaddicted.com/files/by-sha256/13/13d8a9a1a8807e81a556bb955510296ef8fa3f694225b9423e6939b43c088119/prisonofhope.zip"

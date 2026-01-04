@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Eric Stevens (Axeme)"
- ],
  "bytes": 299835,
  "description": "Beginner map designed mostly for deathmatch.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-10-13",
  "sha256": "d8482ad57c29da0bd5f451323177bc810fba7a1edd8edb44adae5a033594a6bb",
  "tags": [
   "author=Eric Stevens (Axeme)",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "axeme7",
  "urls": [
   "https://www.quaddicted.com/filebase/axeme7.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d8482ad57c29da0bd5f451323177bc810fba7a1edd8edb44adae5a033594a6bb/axeme7.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Paul Cook"
- ],
  "bytes": 178522,
  "description": "A room with brushes in it.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-08-31",
  "sha256": "c9eec35edc240b5d362029504ac6e16243d9842ab9659c10b3d98e0d43aca4aa",
  "tags": [
   "author=Paul Cook",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "ANOXIA",
  "urls": [
   "https://www.quaddicted.com/filebase/anoxia.zip",
   "https://www.quaddicted.com/files/by-sha256/c9/c9eec35edc240b5d362029504ac6e16243d9842ab9659c10b3d98e0d43aca4aa/anoxia.zip"

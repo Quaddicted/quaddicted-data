@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Roger Staines"
- ],
  "bytes": 571588,
  "description": "Medium sized Base map with Wizard bits.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-17",
  "sha256": "abb0318538199d65eb0364f1071297f0d6d59b2aeb38d9887958062b443e264c",
  "tags": [
   "author=Roger Staines",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hellbase",
  "urls": [
   "https://www.quaddicted.com/filebase/hellbase.zip",
   "https://www.quaddicted.com/files/by-sha256/ab/abb0318538199d65eb0364f1071297f0d6d59b2aeb38d9887958062b443e264c/hellbase.zip"

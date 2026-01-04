@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Steve Rescoe"
- ],
  "bytes": 604171,
  "description": "Smallish castle.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-06",
  "sha256": "b40cabc6d0ac413eacb39321d1f11f21f6a88c46afe4f5ce60aa82574a7cf8ac",
  "tags": [
   "author=Steve Rescoe",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Castled!",
  "urls": [
   "https://www.quaddicted.com/filebase/castled.zip",
   "https://www.quaddicted.com/files/by-sha256/b4/b40cabc6d0ac413eacb39321d1f11f21f6a88c46afe4f5ce60aa82574a7cf8ac/castled.zip"

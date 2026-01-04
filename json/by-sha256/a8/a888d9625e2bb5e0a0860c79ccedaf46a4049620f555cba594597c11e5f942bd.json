@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Steve Rescoe"
- ],
  "bytes": 1044804,
- "current_main_group_package": true,
  "description": "This is the GLquake version of <a href=\"2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab\">shadow</a> supporting transparent water.",
  "files": {
   "Pak0.pak": {
@@ -92,11 +88,6 @@
   "extract": "{base}/shadowgl/"
  },
  "json_version": "2025.09.27",
- "provides": {
-  "shadow": "2.0"
- },
- "release_date": "1997-02-16",
- "release_group": "shadow",
  "sha256": "a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd",
  "tags": [
   "author=Steve Rescoe",
@@ -126,10 +117,8 @@
   "version=2.0",
   "zipbasedir=shadowgl/"
  ],
- "title": "Shadow over Innsmouth (GL)",
  "urls": [
   "https://www.quaddicted.com/filebase/shadowgl.zip",
   "https://www.quaddicted.com/files/by-sha256/a8/a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd/shadowgl.zip"
- ],
- "version": "2.0"
+ ]
 }

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Dave Kelvin (Kevlar)"
- ],
  "bytes": 638404,
  "description": "Medium sized Metal map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-07-24",
  "sha256": "85ae898d5e49323dd61d82601e91f11114f3a139ff8c5a86ff8da018829c9198",
  "tags": [
   "author=Dave Kelvin (Kevlar)",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The NetherWorld",
  "urls": [
   "https://www.quaddicted.com/filebase/networld.zip",
   "https://www.quaddicted.com/files/by-sha256/85/85ae898d5e49323dd61d82601e91f11114f3a139ff8c5a86ff8da018829c9198/networld.zip"

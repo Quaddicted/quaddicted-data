@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Chris"
- ],
  "bytes": 99577,
  "description": "*Very* small (and very early?) wizard level. Map file is included.",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-12-22",
  "sha256": "536c94b450c460f0bb8bd6c744ecb9f1416c37d5a50de315eeececb71dfceb3a",
  "tags": [
   "author=Chris",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Sham",
  "urls": [
   "https://www.quaddicted.com/filebase/sham.zip",
   "https://www.quaddicted.com/files/by-sha256/53/536c94b450c460f0bb8bd6c744ecb9f1416c37d5a50de315eeececb71dfceb3a/sham.zip"

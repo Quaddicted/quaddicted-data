@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Aardappel",
-  "NaNe",
-  "XeNoN",
-  "than"
- ],
  "bytes": 756389,
  "description": "Metal at night / 4 __ maps / Aardappel, NaNe, than, XeNoN",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-07-15",
  "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
  "tags": [
   "author=Aardappel",
@@ -63,7 +56,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 24 - Metal at night",
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/de/def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082/sm24_pack.zip"

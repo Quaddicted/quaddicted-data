@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shamblernaut"
- ],
  "bytes": 4471104,
  "description": "Medium-sized toxic sewer/industrial base map.",
  "files": {
@@ -29,7 +26,6 @@
   "This map requires a source port with increased limits.",
   "Rezipped for Quaddicted"
  ],
- "release_date": "2017-12-11",
  "sha256": "5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532",
  "tags": [
   "author=Shamblernaut",
@@ -51,7 +47,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Organic Dissociation",
  "urls": [
   "https://www.quaddicted.com/filebase/snaut-acidtrip_rezipped.zip",
   "https://www.quaddicted.com/files/by-sha256/5e/5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532/snaut-acidtrip_rezipped.zip"

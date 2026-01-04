@@ -1,9 +1,4 @@
 {
- "authors": [
-  "adamllis",
-  "generic",
-  "negke"
- ],
  "bytes": 877642,
  "description": "Darkness / 3 SP maps / adamllis, generic, neg!ke",
  "files": {
@@ -37,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2006-01-31",
  "sha256": "84e6a5698c6f0d54afe8bc1c4f84a71aa446a9254323dd3495a173c5da73ad13",
  "tags": [
   "author=adamllis",
@@ -54,7 +48,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 118 - Darkness",
  "urls": [
   "https://www.quaddicted.com/filebase/sm118_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/84/84e6a5698c6f0d54afe8bc1c4f84a71aa446a9254323dd3495a173c5da73ad13/sm118_pack.zip"

@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Andrew 'than' Palmer"
- ],
  "bytes": 4716678,
- "depends": [
-  "quoth>=2.0"
- ],
  "description": "Large ruined subterranean library with tight corridors, bloodfalls and eerie atmosphere. The map source is included.",
  "files": {
   "apsp3/": {
@@ -61,7 +55,6 @@
  "notes": [
   "This map requires <a href=\"8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1\">Quoth</a> and an engine port with increased limits."
  ],
- "release_date": "2012-10-30",
  "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
  "tags": [
   "author=Andrew 'than' Palmer",
@@ -89,7 +82,6 @@
   "title=Subterranean Library",
   "type=map"
  ],
- "title": "Subterranean Library",
  "urls": [
   "https://www.quaddicted.com/filebase/apsp3.zip",
   "https://www.quaddicted.com/files/by-sha256/10/10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc/apsp3.zip"

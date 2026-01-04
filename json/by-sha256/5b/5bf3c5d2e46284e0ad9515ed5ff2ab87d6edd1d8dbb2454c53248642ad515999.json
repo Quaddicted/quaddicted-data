@@ -1,18 +1,4 @@
 {
- "authors": [
-  "EricW",
-  "FifthElephant",
-  "Giftmacher",
-  "Lunaran",
-  "Preach",
-  "PulSaR",
-  "Scampie",
-  "ionous",
-  "mfx",
-  "necros",
-  "others",
-  "sock"
- ],
  "bytes": 230839743,
  "description": "Large-scale single player campaign with many new levels, some of them labeled as \"test\" maps, featuring a whole line-up of new monsters and items as well as several tweaks and changes to the gameplay. Furthermore, it is meant to serve as a tool box for level designers, offering a large number of modified and new things to use in custom-made maps. Map and QC sources are included.",
  "files": {
@@ -9760,11 +9746,6 @@
   "These maps (and likely all subsequent maps based on AD) require a source port with increased limits as well as support for BSP2 and transparent textures. Quakespasm 0.93+ is strongly recommended.",
   "An additional bug-fix <b>patch</b> is available: <a href=\"https://www.quaddicted.com/filebase/ad_v1_70patch1.zip\">here</a>"
  ],
- "provides": {
-  "ad": "1.70"
- },
- "release_date": "2017-12-31",
- "release_group": "ad",
  "sha256": "5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999",
  "tags": [
   "author=EricW",
@@ -9856,10 +9837,8 @@
   "version=1.70",
   "zipbasedir=ad/"
  ],
- "title": "Arcane Dimensions 1.70",
  "urls": [
   "https://www.quaddicted.com/filebase/ad_v1_70final.zip",
   "https://www.quaddicted.com/files/by-sha256/5b/5bf3c5d2e46284e0ad9515ed5ff2ab87d6edd1d8dbb2454c53248642ad515999/ad_v1_70final.zip"
- ],
- "version": "1.70"
+ ]
 }

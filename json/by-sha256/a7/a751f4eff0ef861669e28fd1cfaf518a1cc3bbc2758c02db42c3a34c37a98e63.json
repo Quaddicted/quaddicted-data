@@ -1,11 +1,5 @@
 {
- "authors": [
-  "Chuma"
- ],
  "bytes": 17176993,
- "depends": [
-  "ad>=1.80"
- ],
  "description": "Short map for Arcane Dimensions in Makkon stone textures, featuring a recurring blood motif and boss fight.",
  "files": {
   "freyja.txt": {
@@ -93,7 +87,6 @@
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "release_date": "2024-02-28",
  "sha256": "a751f4eff0ef861669e28fd1cfaf518a1cc3bbc2758c02db42c3a34c37a98e63",
  "tags": [
   "author=Chuma",
@@ -112,7 +105,6 @@
   "type=map",
   "zipbasedir=ad/"
  ],
- "title": "Freyja's Demise",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/a7/a751f4eff0ef861669e28fd1cfaf518a1cc3bbc2758c02db42c3a34c37a98e63/freyja-ad-1.5.zip",
   "https://x901.net/quaddictedfiles/freyja-ad-1.5.zip"

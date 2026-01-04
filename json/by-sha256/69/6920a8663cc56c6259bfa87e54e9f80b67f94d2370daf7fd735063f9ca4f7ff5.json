@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Levelord"
- ],
  "bytes": 473039,
  "description": "Small orange base map, made for Computer Gaming World magazine. The map source is included.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-03-20",
  "sha256": "6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5",
  "tags": [
   "author=Levelord",
@@ -39,7 +35,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Hipside",
  "urls": [
   "https://www.quaddicted.com/filebase/hipside.zip",
   "https://www.quaddicted.com/files/by-sha256/69/6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5/hipside.zip"

@@ -1,7 +1,4 @@
 {
- "authors": [
-  "The Lieutenant"
- ],
  "bytes": 607508,
  "description": "Fifth map of the LTHSP series: a small unique blue metal map featuring Crossbow Knights and, like the other LTH maps, supports colored lighting (which you might want to disable in this case).",
  "files": {
@@ -65,7 +62,6 @@
   "extract": "{base}/lthsp5/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-04-12",
  "sha256": "acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257",
  "tags": [
   "author=The Lieutenant",
@@ -85,7 +81,6 @@
   "type=mod",
   "zipbasedir=lthsp5/"
  ],
- "title": "Exodus",
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp5.zip",
   "https://www.quaddicted.com/files/by-sha256/ac/acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257/lthsp5.zip"

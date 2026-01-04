@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Mark Turner"
- ],
  "bytes": 1030073,
  "description": "E1 themed medieval map that serves as a sequel to <a href=\"https://www.quaddicted.com/db/v1/maps/ec48a16ecf6a54c12d7ea84d8bac62415852fd464dbf931c123e8fe97d0088b2\">Colony</a> and <a href=\"https://www.quaddicted.com/db/v1/maps/6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3\">Colony 2</a> from 1997/1998.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps"
  },
  "json_version": "2025.09.27",
- "release_date": "2025-02-04",
  "sha256": "a25043c2b6c1c73b24e4a00c63d95a8a9e08943d8b8e39d7c4571ae3a1899d99",
  "tags": [
   "author=Mark Turner",
@@ -34,7 +30,6 @@
   "type=map",
   "zipbasedir=id1/maps"
  ],
- "title": "Colony 3 : Demon Keep",
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/a2/a25043c2b6c1c73b24e4a00c63d95a8a9e08943d8b8e39d7c4571ae3a1899d99/colony3.zip",
   "https://www.quaketastic.com/files/colony3.zip"

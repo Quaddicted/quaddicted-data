@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Spirit",
-  "Trinca",
-  "bambuz",
-  "negke"
- ],
  "bytes": 326013,
  "description": "Only one texture / 4 SP maps / bambuz, neg!ke, Spirit, Trinca",
  "files": {
@@ -38,7 +32,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-12-12",
  "sha256": "ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db",
  "tags": [
   "author=Spirit",
@@ -57,7 +50,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 114 - Only one texture",
  "urls": [
   "https://www.quaddicted.com/filebase/sm114_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db/sm114_pack.zip"

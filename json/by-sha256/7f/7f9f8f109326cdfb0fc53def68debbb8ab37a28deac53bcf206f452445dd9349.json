@@ -1,7 +1,4 @@
 {
- "authors": [
-  "negke"
- ],
  "bytes": 106960,
  "description": "Tilted / 1 SP map / negke",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-09-02",
  "sha256": "7f9f8f109326cdfb0fc53def68debbb8ab37a28deac53bcf206f452445dd9349",
  "tags": [
   "author=negke",
@@ -34,7 +30,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack QExpo2008 #3 - Tilted",
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08c_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7f/7f9f8f109326cdfb0fc53def68debbb8ab37a28deac53bcf206f452445dd9349/smqe08c_pack.zip"

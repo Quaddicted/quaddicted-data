@@ -1,7 +1,4 @@
 {
- "authors": [
-  "RPG"
- ],
  "bytes": 1217793,
  "description": "some Speedmap by rpg",
  "files": {
@@ -15,7 +12,6 @@
   "extract": "{base}/id/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-08-06",
  "sha256": "6942a4571b5e8d3aad9494d2bb7bae49613fccdd6af17af6fddf8ff13efdc4db",
  "tags": [
   "author=RPG",
@@ -27,7 +23,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Title",
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_rpg_qwd.zip",
   "https://www.quaddicted.com/files/by-sha256/69/6942a4571b5e8d3aad9494d2bb7bae49613fccdd6af17af6fddf8ff13efdc4db/sm83_rpg_qwd.zip"

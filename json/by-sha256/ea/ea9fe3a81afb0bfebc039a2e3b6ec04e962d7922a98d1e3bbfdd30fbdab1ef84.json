@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Pingu"
- ],
  "bytes": 827390,
  "description": "Small-to-medium egypt style outpost surrounded by snowy mountains.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2000-04-01",
  "sha256": "ea9fe3a81afb0bfebc039a2e3b6ec04e962d7922a98d1e3bbfdd30fbdab1ef84",
  "tags": [
   "author=Pingu",
@@ -41,7 +37,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "The Journey Home",
  "urls": [
   "https://www.quaddicted.com/filebase/a3.zip",
   "https://www.quaddicted.com/files/by-sha256/ea/ea9fe3a81afb0bfebc039a2e3b6ec04e962d7922a98d1e3bbfdd30fbdab1ef84/a3.zip"

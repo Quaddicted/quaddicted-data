@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Fredrik Martinsson"
- ],
  "bytes": 163340,
  "description": "Smallish and very basic Wizard/Medieval map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-09-07",
  "sha256": "2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4",
  "tags": [
   "author=Fredrik Martinsson",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Pagan",
  "urls": [
   "https://www.quaddicted.com/filebase/pagan.zip",
   "https://www.quaddicted.com/files/by-sha256/2f/2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4/pagan.zip"

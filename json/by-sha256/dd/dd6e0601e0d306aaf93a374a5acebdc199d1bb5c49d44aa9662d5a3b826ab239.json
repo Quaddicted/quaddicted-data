@@ -1,7 +1,4 @@
 {
- "authors": [
-  "KenChennar alias Orl"
- ],
  "bytes": 139964520,
  "description": "The sequel to <a href=\"0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859\">Ter Shibboleth</a>, follwing the same boundary-pushing vein in three huge levels with impressive vistas: a snowy village in the mountains, the city of Paris (complete with Notre Dame and the Eiffel tower), and an ancient Roman city next to a colosseum. The levels run on the Drake mod which is included.",
  "files": {
@@ -3572,11 +3569,6 @@
  "notes": [
   "These levels require a source port with increased limits and BSP2 support as well as server protocol 999. The memory heapsize must be set to at least 1 GB. Due to the large open areas and no optimization (VIS), a considerable impact on performance should be expected."
  ],
- "provides": {
-  "ter_shibboleth": "2.0"
- },
- "release_date": "2020-01-15",
- "release_group": "ter_shibboleth",
  "sha256": "dd6e0601e0d306aaf93a374a5acebdc199d1bb5c49d44aa9662d5a3b826ab239",
  "tags": [
   "author=KenChennar alias Orl",
@@ -3610,10 +3602,8 @@
   "version=2.0",
   "zipbasedir=shib/"
  ],
- "title": "Ter Shibboleth Part 2",
  "urls": [
   "https://www.quaddicted.com/filebase/ter_shibboleth_part_2_rev2.zip",
   "https://www.quaddicted.com/files/by-sha256/dd/dd6e0601e0d306aaf93a374a5acebdc199d1bb5c49d44aa9662d5a3b826ab239/ter_shibboleth_part_2_rev2.zip"
- ],
- "version": "2.0"
+ ]
 }

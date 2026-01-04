@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Sean Reed"
- ],
  "bytes": 809556,
  "description": "Medium sized fairly plain Metal map with a Wizard brick bit and a Base-style train.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1997-10-09",
  "sha256": "a3a6095356b7cc0bde14938828d2df37b879139e9e42402afa61af4974b5dccb",
  "tags": [
   "author=Sean Reed",
@@ -36,7 +32,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Loupus' Gloom",
  "urls": [
   "https://www.quaddicted.com/filebase/gloom.zip",
   "https://www.quaddicted.com/files/by-sha256/a3/a3a6095356b7cc0bde14938828d2df37b879139e9e42402afa61af4974b5dccb/gloom.zip"

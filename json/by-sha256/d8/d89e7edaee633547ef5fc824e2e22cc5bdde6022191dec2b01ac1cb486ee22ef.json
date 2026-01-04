@@ -1,10 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Tron",
-  "generic",
-  "negke"
- ],
  "bytes": 1213888,
  "description": "What if two maps mated / 4 SP maps / Drew, generic, neg!ke, Tron",
  "files": {
@@ -43,7 +37,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2005-09-26",
  "sha256": "d89e7edaee633547ef5fc824e2e22cc5bdde6022191dec2b01ac1cb486ee22ef",
  "tags": [
   "author=Drew",
@@ -62,7 +55,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 105 - What if two maps mated",
  "urls": [
   "https://www.quaddicted.com/filebase/sm105_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d8/d89e7edaee633547ef5fc824e2e22cc5bdde6022191dec2b01ac1cb486ee22ef/sm105_pack.zip"

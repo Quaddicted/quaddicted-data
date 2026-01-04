@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Pin"
- ],
  "bytes": 2718599,
  "description": "Small linear map in a runic style. Uses progs_dump (included) for a couple of enemy tweaks. Map source is included.",
  "files": {
@@ -640,7 +637,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2022-08-02",
  "sha256": "e9b84cc719aa1b0935f3b3b33bf475fb531a0e4b22db21fa3dde5816deb430ec",
  "tags": [
   "author=Pin",
@@ -661,7 +657,6 @@
   "title=Runic Warrens",
   "type=mod"
  ],
- "title": "Runic Warrens",
  "urls": [
   "https://www.quaddicted.com/filebase/pin_rw.zip",
   "https://www.quaddicted.com/files/by-sha256/e9/e9b84cc719aa1b0935f3b3b33bf475fb531a0e4b22db21fa3dde5816deb430ec/pin_rw.zip"

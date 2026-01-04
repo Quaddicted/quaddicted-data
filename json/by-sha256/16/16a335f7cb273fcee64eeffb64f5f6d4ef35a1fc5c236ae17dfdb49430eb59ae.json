@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Qubix"
- ],
  "bytes": 340904,
  "description": "A small base map.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2002-05-25",
  "sha256": "16a335f7cb273fcee64eeffb64f5f6d4ef35a1fc5c236ae17dfdb49430eb59ae",
  "tags": [
   "author=Qubix",
@@ -35,7 +31,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Security Base",
  "urls": [
   "https://www.quaddicted.com/filebase/simmer1.zip",
   "https://www.quaddicted.com/files/by-sha256/16/16a335f7cb273fcee64eeffb64f5f6d4ef35a1fc5c236ae17dfdb49430eb59ae/simmer1.zip"

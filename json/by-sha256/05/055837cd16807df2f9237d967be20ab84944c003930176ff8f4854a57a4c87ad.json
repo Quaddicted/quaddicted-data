@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Jim Lowell"
- ],
  "bytes": 504026,
  "description": "About medium sized Metal map. Map source is included (Thred format).",
  "files": {
@@ -25,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-17",
  "sha256": "055837cd16807df2f9237d967be20ab84944c003930176ff8f4854a57a4c87ad",
  "tags": [
   "author=Jim Lowell",
@@ -43,7 +39,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Critters",
  "urls": [
   "https://www.quaddicted.com/filebase/critters.zip",
   "https://www.quaddicted.com/files/by-sha256/05/055837cd16807df2f9237d967be20ab84944c003930176ff8f4854a57a4c87ad/critters.zip"

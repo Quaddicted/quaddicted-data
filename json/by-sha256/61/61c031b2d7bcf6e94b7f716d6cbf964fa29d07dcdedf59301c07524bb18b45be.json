@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Marcus Dromowicz"
- ],
  "bytes": 500950,
  "description": "Medium sized plain Metal level with many monsters/non-stop action.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-11-15",
  "sha256": "61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be",
  "tags": [
   "author=Marcus Dromowicz",
@@ -38,7 +34,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Nurgle's Vault",
  "urls": [
   "https://www.quaddicted.com/filebase/mexx4.zip",
   "https://www.quaddicted.com/files/by-sha256/61/61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be/mexx4.zip"

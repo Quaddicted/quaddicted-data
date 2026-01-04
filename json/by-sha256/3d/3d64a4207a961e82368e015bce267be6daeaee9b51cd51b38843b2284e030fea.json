@@ -1,7 +1,4 @@
 {
- "authors": [
-  "JPal"
- ],
  "bytes": 4290002,
  "description": "Large white brick/medieval fortress. Comes with a custom skybox. The map source is included.",
  "files": {
@@ -78,7 +75,6 @@
  "notes": [
   "This map requires a source port with increased limits."
  ],
- "release_date": "2020-04-23",
  "sha256": "3d64a4207a961e82368e015bce267be6daeaee9b51cd51b38843b2284e030fea",
  "tags": [
   "author=JPal",
@@ -98,7 +94,6 @@
   "type=map",
   "zipbasedir=/"
  ],
- "title": "The Underkeep",
  "urls": [
   "https://www.quaddicted.com/filebase/jp1m2.zip",
   "https://www.quaddicted.com/files/by-sha256/3d/3d64a4207a961e82368e015bce267be6daeaee9b51cd51b38843b2284e030fea/jp1m2.zip"

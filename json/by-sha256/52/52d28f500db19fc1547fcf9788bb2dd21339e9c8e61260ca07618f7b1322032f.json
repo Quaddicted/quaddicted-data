@@ -1,9 +1,5 @@
 {
- "authors": [
-  "Digs"
- ],
  "bytes": 4026515,
- "current_main_group_package": true,
  "description": "Very large, nonlinear base map with a unique twist: progression requires rocket jumping and the way to proceed is hidden, which essentially makes this a trick jump puzzle map (with respawning items).",
  "files": {
   "digs07.bsp": {
@@ -29,11 +25,6 @@
  "notes": [
   "This map requires an engine port with increased limits. This is an updated version with bugfixes/tweaks."
  ],
- "provides": {
-  "digs07": "2.0"
- },
- "release_date": "2014-02-27",
- "release_group": "digs07",
  "sha256": "52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f",
  "tags": [
   "author=Digs",
@@ -57,10 +48,8 @@
   "version=2.0",
   "zipbasedir=id1/maps/"
  ],
- "title": "RJ Zone (Version 2)",
  "urls": [
   "https://www.quaddicted.com/filebase/digs07_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/52/52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f/digs07_v2.zip"
- ],
- "version": "2.0"
+ ]
 }

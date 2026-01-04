@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shaun [Kona] Ross"
- ],
  "bytes": 2723613,
  "description": "Large interconnected blue/brown Wizard map with several new monsters such as deadlier Ogres, axe knights, improved Hell Knights and the Scourge from SOA; a few new textures and quite tough gameplay.",
  "files": {
@@ -489,7 +486,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "release_date": "2001-05-26",
  "sha256": "3042f86e1177d2c506fbd415bc8702567a934f9b20c27285ed02b988bfb00bb4",
  "tags": [
   "author=Shaun [Kona] Ross",
@@ -513,7 +509,6 @@
   "title=Grisly Manifest",
   "type=mod"
  ],
- "title": "Grisly Manifest",
  "urls": [
   "https://www.quaddicted.com/filebase/alk11.zip",
   "https://www.quaddicted.com/files/by-sha256/30/3042f86e1177d2c506fbd415bc8702567a934f9b20c27285ed02b988bfb00bb4/alk11.zip"

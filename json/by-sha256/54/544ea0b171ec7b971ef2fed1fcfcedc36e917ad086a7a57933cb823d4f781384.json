@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Shadesmaster"
- ],
  "bytes": 58668446,
  "description": "Mini episode of 3 levels of various themes (base, medieval, runic) + custom start map. Built on progs_dump v3 (already included).",
  "files": {
@@ -1003,7 +1000,6 @@
  "notes": [
   "May require a modern engine / source port with increased limits and features."
  ],
- "release_date": "2022-09-09",
  "sha256": "544ea0b171ec7b971ef2fed1fcfcedc36e917ad086a7a57933cb823d4f781384",
  "tags": [
   "author=Shadesmaster",
@@ -1027,7 +1023,6 @@
   "type=episode",
   "type=mod"
  ],
- "title": "Sacrilege (Demo)",
  "urls": [
   "https://www.quaddicted.com/filebase/sac.zip",
   "https://www.quaddicted.com/files/by-sha256/54/544ea0b171ec7b971ef2fed1fcfcedc36e917ad086a7a57933cb823d4f781384/sac.zip"

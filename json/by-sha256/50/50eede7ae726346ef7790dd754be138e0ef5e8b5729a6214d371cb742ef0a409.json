@@ -1,7 +1,4 @@
 {
- "authors": [
-  "Andy House"
- ],
  "bytes": 258172,
  "description": "Small deathmatch level with a few monsters thrown in but no exit. It is based on the main office for Magnet Interactive Studios.",
  "files": {
@@ -20,7 +17,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "1996-09-17",
  "sha256": "50eede7ae726346ef7790dd754be138e0ef5e8b5729a6214d371cb742ef0a409",
  "tags": [
   "author=Andy House",
@@ -37,7 +33,6 @@
   "type=map",
   "zipbasedir=id1/maps/"
  ],
- "title": "Magnet Interactive Studios",
  "urls": [
   "https://www.quaddicted.com/filebase/magnet.zip",
   "https://www.quaddicted.com/files/by-sha256/50/50eede7ae726346ef7790dd754be138e0ef5e8b5729a6214d371cb742ef0a409/magnet.zip"

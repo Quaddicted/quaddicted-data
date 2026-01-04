@@ -1,8 +1,4 @@
 {
- "authors": [
-  "Drew",
-  "Hrimfaxi"
- ],
  "bytes": 1614316,
  "description": "Finish some scrap / 2 SP maps / Drew, Hrimfaxi",
  "files": {
@@ -26,7 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2025.09.27",
- "release_date": "2008-12-02",
  "sha256": "6b8fdbc0885c4985414cd7c56b3a4d517157c8836ce239ec547f7be17665c440",
  "tags": [
   "author=Drew",
@@ -44,7 +39,6 @@
   "type=speedmap",
   "zipbasedir=id1/maps/"
  ],
- "title": "Speedmapping pack 149 - Finish some scrap",
  "urls": [
   "https://www.quaddicted.com/filebase/sm149_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6b/6b8fdbc0885c4985414cd7c56b3a4d517157c8836ce239ec547f7be17665c440/sm149_pack.zip"

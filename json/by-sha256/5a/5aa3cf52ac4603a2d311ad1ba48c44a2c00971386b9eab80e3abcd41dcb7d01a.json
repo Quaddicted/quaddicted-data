@@ -1,12 +1,4 @@
 {
- "authors": [
-  "Digs",
-  "Ing-ing",
-  "Naitelveni",
-  "Pinchy",
-  "ionous",
-  "ish"
- ],
  "bytes": 11959529,
  "description": "Five speedjam levels, custom skyboxes and a music track.",
  "files": {
@@ -193,7 +185,6 @@
  "notes": [
   "These maps probably require a source port with increased."
  ],
- "release_date": "2019-02-19",
  "sha256": "5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a",
  "tags": [
   "author=Digs",
@@ -216,7 +207,6 @@
   "type=map",
   "zipbasedir=id1/"
  ],
- "title": "SM192 - Rooftops",
  "urls": [
   "https://www.quaddicted.com/filebase/sm192_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5a/5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a/sm192_pack.zip"

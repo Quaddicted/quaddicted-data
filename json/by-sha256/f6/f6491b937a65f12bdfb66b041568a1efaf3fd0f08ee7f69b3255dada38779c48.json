@@ -1,7 +1,4 @@
 {
- "authors": [
-  "sock"
- ],
  "bytes": 5656008,
  "description": "Large brick-style dungeon with wind tunnels. It has a built-in skill selection area and comes with custom medieval items. The map source is included in the PAK.",
  "files": {
@@ -124,7 +121,6 @@
  "notes": [
   "This map requires an engine port with increased limits."
  ],
- "release_date": "2013-07-06",
  "sha256": "f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48",
  "tags": [
   "author=sock",
@@ -149,7 +145,6 @@
   "type=mod",
   "zipbasedir=backstein/"
  ],
- "title": "Backsteingotik",
  "urls": [
   "https://www.quaddicted.com/filebase/backstein1e.zip",
   "https://www.quaddicted.com/files/by-sha256/f6/f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48/backstein1e.zip"
