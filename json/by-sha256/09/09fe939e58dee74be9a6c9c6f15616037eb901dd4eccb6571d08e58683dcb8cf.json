@@ -1,0 +1,59 @@
+{
+  "bytes": 27516403,
+  "description": "Large, spacious <a href=\"409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391\">Koohoo</a>-themed map with traps and some platformer style gameplay.",
+  "files": {
+    "cg_koohoo 1.4/maps/cg_koohoo.bsp": {
+      "bytes": 37921744,
+      "sha256": "a858ea789335ee38c332c08f9e85d188bb196cec8f8de553f4e567197fcc3cdd",
+      "timestamp": "2026-02-22T07:08:13.000Z"
+    },
+    "cg_koohoo 1.4/maps/cg_koohoo.lit": {
+      "bytes": 11723504,
+      "sha256": "18ae0173694c9afecb78ec96d46c0195886e2f049e90d2c4f68d36b8d5f11e44",
+      "timestamp": "2026-02-22T07:08:12.000Z"
+    },
+    "cg_koohoo 1.4/music/track100.ogg": {
+      "bytes": 10968023,
+      "sha256": "00c9307d036261e36294834dbe83c0a47a26b0239f619aa749a7bb942a1ee6a1",
+      "timestamp": "2023-12-10T01:07:18.000Z"
+    },
+    "cg_koohoo 1.4/src/cg_koohoo.map": {
+      "bytes": 33166067,
+      "sha256": "e80e4db9bc12ef33dddcfa01061ea5c7a78d2f890ec210cb5582f666611c8d39",
+      "timestamp": "2026-02-22T06:12:00.000Z"
+    },
+    "cg_koohoo 1.4/Trials of Koohoo.txt": {
+      "bytes": 2313,
+      "sha256": "d1a757d5ee5bfd33546bed50fbe6ccbcf37c15f5051fa9505ec3723c7e34f274",
+      "timestamp": "2026-02-20T05:51:40.000Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/cg_koohoo 1.4/": "/ad/"
+    }
+  },
+  "json_version": "2025.09.27",
+  "notes": [
+    "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>."
+  ],
+  "sha256": "09fe939e58dee74be9a6c9c6f15616037eb901dd4eccb6571d08e58683dcb8cf",
+  "tags": [
+    "author=CeeGee",
+    "commandline=-game ad",
+    "dependency=ad_v1_80p1final",
+    "depends=('ad>=1.81')",
+    "exceeds_quake_limits=yes",
+    "filename=cg_koohoo 1.4.zip",
+    "game=quake",
+    "game_mode=singleplayer",
+    "link=[Slipseer](https://www.slipseer.com/index.php?resources/trials-of-koohoo.562/)",
+    "release_date=2026-02-19",
+    "title=Trials of Koohoo",
+    "type=map",
+    "startmap=cg_koohoo"
+  ],
+  "urls": [
+    "https://www.quaketastic.com/files/single_player/maps/cg_koohoo_1.4.zip"
+  ]
+}
