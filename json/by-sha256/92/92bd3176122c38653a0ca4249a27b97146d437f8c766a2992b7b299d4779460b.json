@@ -1,0 +1,60 @@
+{
+  "bytes": 3868249,
+  "description": "Two medium-large levels for Quoth in a hybrid runic/tech/medieval/blue/city theme.",
+  "files": {
+    "lpqsp3.txt": {
+      "bytes": 843,
+      "sha256": "bd58ccdd53f5b4117262fa20ba354b16fa22730d49ecf244b9aa528bbc25e26c",
+      "timestamp": "2026-05-29T17:46:25.000Z"
+    },
+    "maps/lpqsp3a.bsp": {
+      "bytes": 2654088,
+      "sha256": "24b706cde82f18289f6828906b790e70ee5cf8b9c7f9354a4082ddd5a9040275",
+      "timestamp": "2026-05-29T17:45:55.000Z"
+    },
+    "maps/lpqsp3a.lit": {
+      "bytes": 1521296,
+      "sha256": "9f74b85e6168eeba1d59641e931c2620da417209936f90b7c5caba25eec37a19",
+      "timestamp": "2026-05-29T17:45:55.000Z"
+    },
+    "maps/lpqsp3b.lit": {
+      "bytes": 2816963,
+      "sha256": "3c2dd75e1722211c3611aebd6cda69236d51f49db902e4abbf99045b2c2a1b41",
+      "timestamp": "2026-05-29T17:45:55.000Z"
+    },
+    "maps/lpqsp3b.bsp": {
+      "bytes": 4506512,
+      "sha256": "e8a4fdfef86c4923f1a26463fd2aa242eb3bd55b8c319859de81a40923598764",
+      "timestamp": "2026-05-29T17:45:55.000Z"
+    },
+    "progs/qwindow.mdl": {
+      "bytes": 77168,
+      "sha256": "facf489ac59158a3013118ca196f11a25a543f26559d5b72eef44968aa05008f",
+      "timestamp": "2026-05-20T01:37:51.000Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/": "/quoth/"
+    }
+  },
+  "json_version": "2025.09.27",
+  "sha256": "92bd3176122c38653a0ca4249a27b97146d437f8c766a2992b7b299d4779460b",
+  "tags": [
+    "author=Lane Powell",
+    "commandline=-game quoth",
+    "dependency=quoth2pt2full_2",
+    "depends=('quoth>=2.2')",
+    "exceeds_quake_limits=yes",
+    "filename=lpqsp3.zip",
+    "game=quake",
+    "link=[Slipseer](https://www.slipseer.com/index.php?resources/azure-anesthetics.596/)",
+    "release_date=2026-06-01",
+    "title=Azure Anesthetics",
+    "type=map",
+    "startmap=lpqsp3a"
+  ],
+  "urls": [
+    "https://www.quaketastic.com/files/single_player/maps/lpqsp3.zip"
+  ]
+}

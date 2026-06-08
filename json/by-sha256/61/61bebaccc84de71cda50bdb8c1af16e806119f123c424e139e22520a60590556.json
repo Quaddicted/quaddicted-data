@@ -1,0 +1,47 @@
+{
+  "bytes": 944936,
+  "description": "Medium sized metal map inspired by American McGee's work in Quake's episode 3.",
+  "files": {
+    "ccsp1.bsp": {
+      "bytes": 1198476,
+      "sha256": "712e8f01ea061262434ac34ad69606a8b58485876ec029281d12f248adeda7f3",
+      "timestamp": "2026-01-02T01:04:47.704Z"
+    },
+    "ccsp1.lit": {
+      "bytes": 577331,
+      "sha256": "4da98a6d43f4d405ae742ca77be2174aa6216045745ad30b2ca2744d48c973ba",
+      "timestamp": "2026-01-02T01:04:47.704Z"
+    },
+    "ccsp1.map": {
+      "bytes": 896016,
+      "sha256": "75f9d975c9f5efce5603031b6629eddcef47720b41f3d95ff17b44b4b5634d7b",
+      "timestamp": "2026-01-02T01:05:38.849Z"
+    },
+    "ccsp1_README.txt": {
+      "bytes": 1013,
+      "sha256": "420eebbe6d9cf3455e33ac028b7569b4259eebfbfc62f9442539e0f784830d0e",
+      "timestamp": "2026-01-01T08:24:49.444Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/": "/id1/maps/"
+    }
+  },
+  "json_version": "2025.09.27",
+  "sha256": "61bebaccc84de71cda50bdb8c1af16e806119f123c424e139e22520a60590556",
+  "tags": [
+    "author=Tritum",
+    "filename=chthonscrypt_v1.01.zip",
+    "game=quake",
+    "game_mode=singleplayer",
+    "link=[Slipseer](https://www.slipseer.com/index.php?resources/chthons-crypt.551/)",
+    "release_date=2026-01-01",
+    "title=Chthon’s Crypt",
+    "type=map",
+    "startmap=ccsp1"
+  ],
+  "urls": [
+    "https://www.quaketastic.com/files/chthonscrypt_v1.01.zip"
+  ]
+}
