@@ -1,0 +1,100 @@
+{
+  "bytes": 5934905,
+  "description": "Medium-sized medieval SP map for Arcane Dimensions (required).",
+  "files": {
+    "sound/ad_rivets/bleacher_l.wav": {
+      "bytes": 78440,
+      "sha256": "5edb89635a386ff74a4c54434c246a1fae3c2a9fa95a89727abede284e3ff02a",
+      "timestamp": "2025-06-16T11:13:22.000Z"
+    },
+    "sound/ad_rivets/bubbles1_l.wav": {
+      "bytes": 98772,
+      "sha256": "5773460f72123d4dd018d96e6336d4cf2ef0a99bb209482ac5f6ba5f6cb1cdb8",
+      "timestamp": "2025-06-03T09:23:55.000Z"
+    },
+    "sound/ad_rivets/icecave_amb1_l.wav": {
+      "bytes": 267800,
+      "sha256": "2b2209fd22191da19b6b25b3306297a70f424f84fe45983e347e779430e97523",
+      "timestamp": "2025-05-20T07:39:03.000Z"
+    },
+    "sound/ad_rivets/lava_loop1_l.wav": {
+      "bytes": 134486,
+      "sha256": "cb8a6c5a6ca5ce17ec8dae25c65fd4dacef57122e93db4b75b70b67ceb0b9181",
+      "timestamp": "2025-06-17T08:04:56.000Z"
+    },
+    "sound/ad_rivets/liquid_bubble_l.wav": {
+      "bytes": 129758,
+      "sha256": "a656d4ad64c713a0c6e358676349ebb150090dbdae45cf1459e7922b55104540",
+      "timestamp": "2025-04-24T12:40:09.000Z"
+    },
+    "sound/ad_rivets/lowboom_nl.wav": {
+      "bytes": 333310,
+      "sha256": "043435ffe4429dab2b44d1e692e06be4266503f402d391112cae4c25ff0e16fa",
+      "timestamp": "2025-06-17T09:56:40.000Z"
+    },
+    "maps/ad_rivets.bsp": {
+      "bytes": 10830856,
+      "sha256": "10e31e0585a0afd6b7acb4e0dacca7fd8ad5a32beae812a0753f854ccc7db464",
+      "timestamp": "2025-06-17T11:46:26.000Z"
+    },
+    "maps/ad_rivets.lit": {
+      "bytes": 2554139,
+      "sha256": "de4a7a5606e4231b782b7109a7123a600273e1eb63b1d2390f12cdd7b6a2f695",
+      "timestamp": "2025-06-17T11:46:26.000Z"
+    },
+    "maps/ad_rivets.map": {
+      "bytes": 8088915,
+      "sha256": "5fb315d8a5017555641864d3beab52b7e310d1fdeac10745cc8d08a711271f9c",
+      "timestamp": "2025-06-17T11:40:08.000Z"
+    },
+    "maps/ad_rivets.txt": {
+      "bytes": 4017,
+      "sha256": "c8bb9e3093bb6216b033f996a88be623bf75e4d6f0f33431992f04234c5d53f0",
+      "timestamp": "2025-06-17T12:19:01.232Z"
+    },
+    "maps/DawnofDarkness_ext.wad": {
+      "bytes": 1380348,
+      "sha256": "1349a12225420baf63850142dce10adb147d7fafd72f46221ee459b2c33d5b39",
+      "timestamp": "2025-06-14T14:28:24.000Z"
+    },
+    "progs/ad_rivets/misc_goyle.mdl": {
+      "bytes": 81476,
+      "sha256": "6f160279ad36f7a6accef977655735749361b55dbfa2a14c9632069132230bfb",
+      "timestamp": "2024-07-29T14:30:54.000Z"
+    },
+    "progs/ad_rivets/misc_statue.mdl": {
+      "bytes": 206364,
+      "sha256": "fbfcd2f52c69da9d65b41318326a2774b689ceb5cce0b020b291c8ef7d6cb7fc",
+      "timestamp": "2024-07-29T14:33:06.000Z"
+    }
+  },
+  "install": {
+    "extractmapping": {
+      "/": "/ad/"
+    }
+  },
+  "json_version": "2025.09.27",
+  "notes": [
+    "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>."
+  ],
+  "sha256": "bc39088ec6e3dbe6452a325219df482dafdeb0e041110b3d11233faba28ff09c",
+  "tags": [
+    "author=Calluna Vulgaris",
+    "commandline=-game ad",
+    "dependency=ad_v1_80p1final",
+    "depends=('ad>=1.81')",
+    "exceeds_quake_limits=yes",
+    "filename=ad_rivets_1.0.zip",
+    "game=quake",
+    "game_mode=singleplayer",
+    "game_mode=cooperative",
+    "link=[Slipseer](https://www.slipseer.com/index.php?resources/rivets-never-rust.472/)",
+    "release_date=2025-06-17",
+    "title=Rivets Never Rust",
+    "type=map",
+    "startmap=ad_rivets"
+  ],
+  "urls": [
+    "https://www.quaketastic.com/files/single_player/ad_rivets_1.0.zip"
+  ]
+}
