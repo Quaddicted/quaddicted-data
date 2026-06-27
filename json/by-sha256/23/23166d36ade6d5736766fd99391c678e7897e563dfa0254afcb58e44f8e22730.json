@@ -1,7 +1,27 @@
 {
  "bytes": 294327,
+ "description": "A tactical mod where the player controls three elite Enforcers.",
+ "install": {
+  "extract": "{base}/"
+ },
  "json_version": "2025.09.27",
  "sha256": "23166d36ade6d5736766fd99391c678e7897e563dfa0254afcb58e44f8e22730",
+ "tags": [
+  "author=Matthew \"Quake Matt\" Lawrence",
+  "filename=reinforcer_11.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "mod:maps=no",
+  "mod:models=yes",
+  "mod:quakec=yes",
+  "mod:sounds=no",
+  "provides='reinforcer=1.1'",
+  "release_date=2005-08-16",
+  "release_group=reinforcer",
+  "title=Reinforcer",
+  "type=mod",
+  "version=1.1"
+ ],
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/23/23166d36ade6d5736766fd99391c678e7897e563dfa0254afcb58e44f8e22730/reinforcer_11.zip"
  ]
