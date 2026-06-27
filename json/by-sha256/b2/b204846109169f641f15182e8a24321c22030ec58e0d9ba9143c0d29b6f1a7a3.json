@@ -1,8 +1,26 @@
 {
  "bytes": 24713240,
+ "description": "Horizontally mirrored version of the vanilla Quake maps. Based on The Original Quake Map Sources released October 2006 during Quake's 10th Anniversary by John Romero. The multiplayer maps have also been modified.",
+  "install": {
+   "extract": "{base}/quake_mirrored/"
+  },
  "json_version": "2025.09.27",
  "sha256": "b204846109169f641f15182e8a24321c22030ec58e0d9ba9143c0d29b6f1a7a3",
+ "tags": [
+  "author=Mars",
+  "author:original Quake levels=id Software",
+  "commandline=-game quake_mirrored",
+  "filename=quake_mirrored.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "game_mode=cooperative",
+  "game_mode=deathmatch",
+  "release_date=2026-06-22",
+  "title=Quake Mirrored",
+  "type=episode"
+ ],
  "urls": [
-  "https://www.quaddicted.com/files/by-sha256/b2/b204846109169f641f15182e8a24321c22030ec58e0d9ba9143c0d29b6f1a7a3/quake_mirrored.zip"
+  "https://www.quaddicted.com/files/by-sha256/b2/b204846109169f641f15182e8a24321c22030ec58e0d9ba9143c0d29b6f1a7a3/quake_mirrored.zip",
+  "https://www.quaketastic.com/files/single_player/maps/quake_mirrored.zip"
  ]
 }
