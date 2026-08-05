@@ -282,7 +282,7 @@
  "sha256": "497dc736fb7806eb69e45be94b0594fcef11a863e32fbfee81b00444b092e7ae",
  "tags": [
   "author=Sportster_v90 (Calluna Vulgaris)",
-  "commandline=-game alk",
+  "commandline=-game alk -heapsize 393216",
   "depends=('alk=1.2')",
   "filename=alk_alloy_1.2.zip",
   "game=quake",
