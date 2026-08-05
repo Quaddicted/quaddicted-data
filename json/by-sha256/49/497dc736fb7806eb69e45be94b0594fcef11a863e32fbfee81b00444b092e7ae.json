@@ -1,0 +1,303 @@
+{
+ "bytes": 38500562,
+ "description": "Large Rubicon themed map (about one hour gameplay on hard)",
+ "files": {
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-02-22T09:35:52.000Z"
+  },
+  "maps/alk_alloy.bsp": {
+   "bytes": 90480012,
+   "sha256": "73990d992680f447bc227ee6c9941a35eeeab130fec70a63eebad28e9c5d7803",
+   "timestamp": "2026-03-16T16:20:06.000Z"
+  },
+  "maps/alk_alloy.lit": {
+   "bytes": 14328692,
+   "sha256": "61059f9dae3a0349dc1c18e42dd18abf6e66280b8ac08d70ad253d86e1972a02",
+   "timestamp": "2026-03-16T16:12:14.000Z"
+  },
+  "maps/alk_alloy.map": {
+   "bytes": 60160184,
+   "sha256": "1e942cd672b93bfe1947578baa997a3fe97466bcf5bf204f315b858e6cc814e9",
+   "timestamp": "2026-03-16T09:47:26.000Z"
+  },
+  "maps/alk_alloy.txt": {
+   "bytes": 3885,
+   "sha256": "0de31b5718261792d1d694bf5adf657be3eff27c4f9c72a3facff0b3324e7835",
+   "timestamp": "2026-07-01T20:23:06.000Z"
+  },
+  "maps/jf2_fb.txt": {
+   "bytes": 784,
+   "sha256": "2827483c879bdd19752513c839363f797eb638b0943c84370b835220586f3378",
+   "timestamp": "2026-02-22T09:39:52.000Z"
+  },
+  "maps/jf2_fb.wad": {
+   "bytes": 613156,
+   "sha256": "26d39b99e17895cd88ea71cb654ee0e94e6aa5703d7ce33bffe8740c398cda3f",
+   "timestamp": "2026-02-22T09:37:14.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-02-22T09:34:46.000Z"
+  },
+  "progs/vtube_rang.mdl": {
+   "bytes": 18536,
+   "sha256": "079219be5a456fc364f5d3f2c2df535b21845693ccbc7c609512bbe6fcd2efa9",
+   "timestamp": "2026-02-17T09:21:12.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-02-22T09:35:06.000Z"
+  },
+  "sound/alk_alloy/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-02-22T09:35:06.000Z"
+  },
+  "sound/alk_alloy/1shot_creep_06_3s.wav": {
+   "bytes": 132346,
+   "sha256": "431c615727815e9ea06675927738227a5885390e4985294498c9b04f5bed1fa0",
+   "timestamp": "2004-07-01T16:36:24.000Z"
+  },
+  "sound/alk_alloy/1shot_eerie_01.wav": {
+   "bytes": 293018,
+   "sha256": "1aaffc411c692e5b420018d93363b192961626b2aa7397c9400b19890c8b382a",
+   "timestamp": "2004-07-01T16:39:50.000Z"
+  },
+  "sound/alk_alloy/1shot_metalhit_10.wav": {
+   "bytes": 281820,
+   "sha256": "0a5455b535df6e19c0fa2b798a6bd8f17a7e1204f7896b99e132d674d02375e8",
+   "timestamp": "2025-12-28T14:05:38.000Z"
+  },
+  "sound/alk_alloy/1shot_motion_01.wav": {
+   "bytes": 238464,
+   "sha256": "1ca3763652eb2ae9c1e9bae449805262259eb092a03fd4349ea64fe69147d69c",
+   "timestamp": "2026-02-15T10:59:44.000Z"
+  },
+  "sound/alk_alloy/conveyor1fix.wav": {
+   "bytes": 117250,
+   "sha256": "ffea3b6988b5f0fd43fa5c2d2f91ec9d786127613a9d019ee697a0126c9da28b",
+   "timestamp": "2026-01-08T20:16:48.000Z"
+  },
+  "sound/alk_alloy/curnt2l.wav": {
+   "bytes": 183438,
+   "sha256": "239fd66269250f5493de4cc614095d0abc4a63da256c0bf2a8204a09abb70437",
+   "timestamp": "2025-11-01T12:04:16.000Z"
+  },
+  "sound/alk_alloy/fan1_start.wav": {
+   "bytes": 61264,
+   "sha256": "1d9ca94149a43d80f3cb69ee6312f7961edc149a505243898c13cdcf19b86354",
+   "timestamp": "2026-01-31T14:25:14.000Z"
+  },
+  "sound/alk_alloy/fan1qt.wav": {
+   "bytes": 44228,
+   "sha256": "6b6407ded4f15049093cc3162a21aca0ac170385a9fd016cc6e75773c6411d72",
+   "timestamp": "2026-01-31T14:25:36.000Z"
+  },
+  "sound/alk_alloy/generator_electric.wav": {
+   "bytes": 247384,
+   "sha256": "8f5004d6b83b1c11969544252589675fefda3b5634057e8fcb38ea9d67b8f396",
+   "timestamp": "2026-01-09T11:32:10.000Z"
+  },
+  "sound/alk_alloy/grinder.wav": {
+   "bytes": 264572,
+   "sha256": "70789db5c6e505292dd6031241aff19bd7b327677033cac5f98c1dcfeed5c6db",
+   "timestamp": "2026-01-09T11:32:10.000Z"
+  },
+  "sound/alk_alloy/impressive_a.wav": {
+   "bytes": 42060,
+   "sha256": "1c401b15d67e223cd1dab97f2146d11430cef3e29dba8647be2203c588fad55f",
+   "timestamp": "1999-11-22T05:42:32.000Z"
+  },
+  "sound/alk_alloy/liquid_bubble_l.wav": {
+   "bytes": 129758,
+   "sha256": "a656d4ad64c713a0c6e358676349ebb150090dbdae45cf1459e7922b55104540",
+   "timestamp": "2025-04-24T15:40:08.000Z"
+  },
+  "sound/alk_alloy/liquid_burnlong.wav": {
+   "bytes": 710182,
+   "sha256": "9c9c77941f88416e3f20dfc4f028cc6c9719dd7f58a15dfc6124f1bb5a17f61a",
+   "timestamp": "2025-12-18T12:01:54.000Z"
+  },
+  "sound/alk_alloy/llollipop_growe.wav": {
+   "bytes": 178622,
+   "sha256": "961da1b0db4704d87e7d455a924a43dd06d5adf5484e0ce0cbd8c411948fbd7c",
+   "timestamp": "2026-02-13T18:16:00.000Z"
+  },
+  "sound/alk_alloy/lowboom.wav": {
+   "bytes": 666640,
+   "sha256": "ad591a6f574f48e654e32dacee6b7d862df8b47e20ef116f84415ad9aa515559",
+   "timestamp": "2026-01-09T11:32:10.000Z"
+  },
+  "sound/alk_alloy/machinea1.wav": {
+   "bytes": 314794,
+   "sha256": "af6c32af2cbac08d23e0626d83b2d55467f1d6aedf9f9c09a05fe3256e589c39",
+   "timestamp": "2026-01-09T11:32:10.000Z"
+  },
+  "sound/alk_alloy/metal_cut.wav": {
+   "bytes": 151114,
+   "sha256": "08e31b9efffd9f2d1b44ecb8d45514108b0a4efcf3de0399988e281c2274c4ea",
+   "timestamp": "2025-11-12T10:49:54.000Z"
+  },
+  "sound/alk_alloy/moan2e.wav": {
+   "bytes": 69130,
+   "sha256": "f4ac46b68e1ca3dd8df31c3661eb83809b95d514bb5e46dae701956dd3f34112",
+   "timestamp": "2026-02-17T09:07:46.000Z"
+  },
+  "sound/alk_alloy/pothit6.wav": {
+   "bytes": 17290,
+   "sha256": "dfb4296dbf00366c29e6f2faf59d9505f38f9907ea200c5369c3025963df4826",
+   "timestamp": "2025-07-02T14:40:44.000Z"
+  },
+  "sound/alk_alloy/slam_08_boomy.wav": {
+   "bytes": 66732,
+   "sha256": "9219de2f840e70ba4367ac6be79452acd6872916f517c728ff56206c442ec5c1",
+   "timestamp": "2004-07-01T16:31:58.000Z"
+  },
+  "sound/alk_alloy/wind_high2fix.wav": {
+   "bytes": 87668,
+   "sha256": "11fe2ee4961d949ca89f919ce4f7771facedf51a34636270b79db0170137dabf",
+   "timestamp": "2026-01-07T15:37:42.000Z"
+  },
+  "sound/alk_alloy/wind_low.wav": {
+   "bytes": 58476,
+   "sha256": "0759ad526d301c3bb14c467818bacdbe3a64237657c45a435e06cb166b570b85",
+   "timestamp": "2025-07-01T10:39:40.000Z"
+  },
+  "sound/alk_alloy/wind_rumb.wav": {
+   "bytes": 63320,
+   "sha256": "22e86d6875a1fb4206ec0fe139f6bbffe942453f14687cddf743ce598a4a44a0",
+   "timestamp": "2025-11-12T10:27:46.000Z"
+  },
+  "textures/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-02-22T09:35:16.000Z"
+  },
+  "textures/alk_alloy/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-02-22T09:35:16.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_2tek.tga": {
+   "bytes": 49170,
+   "sha256": "8f4db4b98e5a05e2e4b2d330d0504d3d17cbcbf07cdc0411ffbe50c44fb01890",
+   "timestamp": "2025-06-26T11:41:14.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_2tek1.tga": {
+   "bytes": 49170,
+   "sha256": "f507ee397d2b63c3cfcfc19ca24bf4bc68ac2ffb79ea76ab5c6e8db79f3c37a9",
+   "timestamp": "2025-06-29T13:47:18.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_2tek1_luma.tga": {
+   "bytes": 880,
+   "sha256": "d137e75486e900e112766a6e0fa6e68bf354910058f6fcba98ab2152822f9c55",
+   "timestamp": "2025-06-29T13:51:08.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_2tek_luma.tga": {
+   "bytes": 923,
+   "sha256": "48cb96c05d4af7f04e92227d850ff8cd31d785efee35c971ee8bfef543a99dd3",
+   "timestamp": "2025-06-26T11:54:12.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_8b.tga": {
+   "bytes": 24594,
+   "sha256": "b6dd9798160e972a58e50a268f6ad7ec893b48d4a3d9f4220cd2641be38116c4",
+   "timestamp": "2025-06-26T11:41:14.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_8b_luma.tga": {
+   "bytes": 656,
+   "sha256": "3236a7cd1777578c4867b043f6281e68014a4a8e19d9726a736a1ad6e3a82dda",
+   "timestamp": "2025-06-26T11:53:02.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_8c.tga": {
+   "bytes": 24594,
+   "sha256": "e15ea1ec46fefea37c51bab5fca99068a76c6a65eee15e41b299176adbd05525",
+   "timestamp": "2025-06-26T11:41:14.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_8c_luma.tga": {
+   "bytes": 656,
+   "sha256": "3236a7cd1777578c4867b043f6281e68014a4a8e19d9726a736a1ad6e3a82dda",
+   "timestamp": "2025-06-26T11:52:34.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_8d.tga": {
+   "bytes": 24594,
+   "sha256": "4b37e248f2668e5b7602939428e14fe218262b64b9c6b39c91102e88a5de9b9b",
+   "timestamp": "2025-06-29T13:47:18.000Z"
+  },
+  "textures/alk_alloy/jf2mfx10_8d_luma.tga": {
+   "bytes": 848,
+   "sha256": "5e7132220cef388840b02bbc609a75bceaba70833ea6bb9925ba4976307b637a",
+   "timestamp": "2025-06-29T13:50:18.000Z"
+  },
+  "textures/alk_alloy/jf2mfxtek8.tga": {
+   "bytes": 24620,
+   "sha256": "42468221677f378540ea85524b78973d5e9d306326b7c858038f1fb9a2ad6944",
+   "timestamp": "2025-06-28T15:49:24.000Z"
+  },
+  "textures/alk_alloy/jf2mfxtek8_luma.tga": {
+   "bytes": 1408,
+   "sha256": "9d9733296ba339256f5faea8c26b13e37a9b40d7668e373764334fa88406a9f1",
+   "timestamp": "2025-06-28T15:49:08.000Z"
+  },
+  "textures/alk_alloy/jf2tech07.tga": {
+   "bytes": 6162,
+   "sha256": "7a5526472c88a189ccbcd0c9de371dba1a02f954ce305a5343ff146ec5dbabc6",
+   "timestamp": "2025-06-26T11:41:14.000Z"
+  },
+  "textures/alk_alloy/jf2tech07_luma.tga": {
+   "bytes": 324,
+   "sha256": "1584d42f4ae422b4b58692186cffed5e9dcc71ca8414b94ad75326b730897846",
+   "timestamp": "2025-06-26T11:46:58.000Z"
+  },
+  "textures/alk_alloy/jf2tech07s.tga": {
+   "bytes": 2909,
+   "sha256": "9b68b9050d242aee03c28bcdd28872ef0ff7a791ba9240475db62fc5e3d0661f",
+   "timestamp": "2026-01-25T13:19:16.000Z"
+  },
+  "textures/alk_alloy/jf2tech07s_luma.tga": {
+   "bytes": 324,
+   "sha256": "bd427b7b4cb7c197b2a6f796d33b9d7130db168b568354d8fe9ecb527b70aacc",
+   "timestamp": "2026-01-26T09:52:40.000Z"
+  },
+  "textures/alk_alloy/jf2tech09.tga": {
+   "bytes": 12306,
+   "sha256": "88b989c4224b5605aaea1d1c900730f7515434255d5d08f87492bd42e68ac511",
+   "timestamp": "2025-06-26T11:41:14.000Z"
+  },
+  "textures/alk_alloy/jf2tech09_luma.tga": {
+   "bytes": 543,
+   "sha256": "c9fd140677b97973a3f23d2ecfbbdef1eb472fc5824c5c8b678126b910dab629",
+   "timestamp": "2025-06-26T11:46:22.000Z"
+  }
+ },
+ "install": {
+  "extractmapping": {
+   "/": "/alk/"
+  }
+ },
+ "json_version": "2025.09.27",
+ "sha256": "497dc736fb7806eb69e45be94b0594fcef11a863e32fbfee81b00444b092e7ae",
+ "tags": [
+  "author=Sportster_v90 (Calluna Vulgaris)",
+  "commandline=-game alk",
+  "depends=('alk=1.2')",
+  "filename=alk_alloy_1.2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "game_mode=cooperative",
+  "provides='alk_alloy=1.2'",
+  "release_date=2026-03-16",
+  "release_group=alk_alloy",
+  "startmap=alk_alloy",
+  "title=Stain in the Alloy",
+  "type=map",
+  "version=1.2"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/49/497dc736fb7806eb69e45be94b0594fcef11a863e32fbfee81b00444b092e7ae/alk_alloy_1.2.zip",
+  "https://www.quaketastic.com/files/single_player/alk_alloy_1.2.zip"
+ ]
+}

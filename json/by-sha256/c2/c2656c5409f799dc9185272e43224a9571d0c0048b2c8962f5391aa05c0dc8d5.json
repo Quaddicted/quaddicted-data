@@ -1,0 +1,284 @@
+{
+ "bytes": 20078708,
+ "files": {
+  "quake_mirrored/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-07-03T21:00:54.000Z"
+  },
+  "quake_mirrored/demo1.dem": {
+   "bytes": 943256,
+   "sha256": "2b2671584680113f7847b575aa091b134f10bc58aeb7b1140294287b70b12282",
+   "timestamp": "2026-06-29T17:22:54.000Z"
+  },
+  "quake_mirrored/demo2.dem": {
+   "bytes": 1830490,
+   "sha256": "e1fa43df81461803a41795819d0d53ca66ecc4c55a76c84150a0c8c013dbe977",
+   "timestamp": "2026-06-29T17:22:54.000Z"
+  },
+  "quake_mirrored/demo3.dem": {
+   "bytes": 1494665,
+   "sha256": "63da719c4a93f8389f8417f3fb5864a6e244c636230a1278d35eeed8d717fed3",
+   "timestamp": "2026-06-29T17:22:54.000Z"
+  },
+  "quake_mirrored/info.txt": {
+   "bytes": 956,
+   "sha256": "82bb659c17901cad70a92b85115d4ef2e2ffab6dc7d2a9df8317e1569f53bbce",
+   "timestamp": "2026-07-03T21:00:28.000Z"
+  },
+  "quake_mirrored/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-07-03T21:00:54.000Z"
+  },
+  "quake_mirrored/maps/dm1.bsp": {
+   "bytes": 552504,
+   "sha256": "374fb8a1d85ae5355db253eb0c77f25185e38b72c4a0bff1d803a415bd26347e",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/dm2.bsp": {
+   "bytes": 954012,
+   "sha256": "f7ee53d31bb101af47fbf3d0484b8faa81e8798e47804d97d2296bb3e5530b9f",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/dm3.bsp": {
+   "bytes": 964880,
+   "sha256": "3f76ec14a359ce3382ef9712412a0f1a341742a526a12d4b0ab8ac377e99ec25",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/dm4.bsp": {
+   "bytes": 362844,
+   "sha256": "c936793da132b121904038dc83294cd1847bc83ac1550036ef7ab0d402863c1c",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/dm5.bsp": {
+   "bytes": 488136,
+   "sha256": "366efd49e07296ae28006297bd6531daeedf128bb5fe39017fb27d5fcb0c48d5",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/dm6.bsp": {
+   "bytes": 473816,
+   "sha256": "b38fafa16819948a6559f00a6e2082972fd6363495dd9cbd5209b6f7e88d42bc",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e1m1.bsp": {
+   "bytes": 1359172,
+   "sha256": "9f8eb1b6814ada0adb0aca76e3246e5ffea58d8145207bf17da02c116b1c7c3f",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m2.bsp": {
+   "bytes": 1366524,
+   "sha256": "37f3d197a069a56229d124abc09d67742b55fc03ee5876dffeade22ecf7ac54e",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m3.bsp": {
+   "bytes": 1230904,
+   "sha256": "fe7e87d8acb1bab4846c0ae0661b1b3bc72b94abcdb42bfac5218634d8a008d2",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m4.bsp": {
+   "bytes": 1482712,
+   "sha256": "397ae640c38e1ad001bdad3441e89e07eaa1f0ef58ce503d83c301dca8137ace",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m5.bsp": {
+   "bytes": 1400744,
+   "sha256": "da981a12115e947562230466eabdf827f0404a0bc83f65a0d22ba9854d0eb0c2",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m6.bsp": {
+   "bytes": 1091620,
+   "sha256": "269adc3046a8ad92ff8909b7db183fa62459fb9b18ec3f19aa58213c8aeaaa9b",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m7.bsp": {
+   "bytes": 613588,
+   "sha256": "586c34718e67025f13791a93cda06345b1302ba48ac4b08640fe90a418f854da",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e1m8.bsp": {
+   "bytes": 937864,
+   "sha256": "bb05257378e403d7aee48f68f70d1482abb271cb8535f4b1045941147dc8fc7c",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  },
+  "quake_mirrored/maps/e2m1.bsp": {
+   "bytes": 1392528,
+   "sha256": "4a009ea1101652df34a834b90334b0cd1c3f5ea6fb5f8d486f56af8cb301575c",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e2m2.bsp": {
+   "bytes": 1383860,
+   "sha256": "39606e6a3172630d31030ec990fae65e5be207ae7b5abede7fa85473463820c1",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e2m3.bsp": {
+   "bytes": 1340768,
+   "sha256": "57e36ecdecdc2071956448d0f39cdd113c422c98bc8b3e379bf67b9bf52b3b2c",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e2m4.bsp": {
+   "bytes": 1368692,
+   "sha256": "a82e0ffcb454fc40e89973867816f08e6e5e9004c5ce2991ff929f55483fc0ec",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e2m5.bsp": {
+   "bytes": 1413500,
+   "sha256": "1d2a05f33e93dc36f8c0d56cb7b16567b204707bc17319ce176db184be9e5aa7",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e2m6.bsp": {
+   "bytes": 1241984,
+   "sha256": "9f989da214cddc9b287ebb9c09451a1435f3b909e49bc1d2cba9a7e7af02354f",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e2m7.bsp": {
+   "bytes": 1396060,
+   "sha256": "ae6c3261efe9ae6cde8fb94f74f61442e17a2048c8dc0b4e0063f18b496b6cc9",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m1.bsp": {
+   "bytes": 1363628,
+   "sha256": "117bd60bc1e7b9d601920c569fb38c31412200f44e399ee448fe5fd27aea985f",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m2.bsp": {
+   "bytes": 1064336,
+   "sha256": "e8a86a05dc52041584e6b8169d0ae0830a7d028a62bf727d997a4e5a3223c869",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m3.bsp": {
+   "bytes": 1000788,
+   "sha256": "56d22a2046b91995d36f78f16837c4a769e6ce6d5870a083bbf5ba47963d5e19",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m4.bsp": {
+   "bytes": 1409492,
+   "sha256": "51be053a89770bcfc08188534b2dc4ee2d002f59dbb090e4f3c1d6890e9a7201",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m5.bsp": {
+   "bytes": 1445312,
+   "sha256": "eb9f41f1bcb775d77afbb7b4757c2285cf5e898d2278784d8cf8a067d9ebfc69",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m6.bsp": {
+   "bytes": 1448984,
+   "sha256": "522a539f40ad96dab4c3f5ba57d04c15a14cd6d4a0411ab546f2fdd73f4f9516",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e3m7.bsp": {
+   "bytes": 1085156,
+   "sha256": "5bd645def6d454697b4ceeaa64ea5b59a16fc98019385ff153cc0e983e96e459",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m1.bsp": {
+   "bytes": 1408740,
+   "sha256": "aa63ae685a3ed29abb3b117fefc2d158792ee00b193d242580ef9806c2ec38bb",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m2.bsp": {
+   "bytes": 1153760,
+   "sha256": "5187b7a4a8e5746a7a29b6df92d1ff3089ab4afab8bf6ce5ca21f4f46cf19143",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m3.bsp": {
+   "bytes": 1328984,
+   "sha256": "b27ccf649d72290b5d256a124b983d736bc88f0e5a7536e50065b20d5ceff728",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m4.bsp": {
+   "bytes": 1348552,
+   "sha256": "0226a46eb23767f93b7ea40182da617f0c6b552c1391eebc247c4210eabdc6ca",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m5.bsp": {
+   "bytes": 1305324,
+   "sha256": "d06c8807aeecc4d117d50ea1abff9c7702196bdde327b6cb75026a3bb4867ec5",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m6.bsp": {
+   "bytes": 1209372,
+   "sha256": "c4a6528689538e1046f594808c450a1627da9c8db25ca908d84ae8e081599334",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m7.bsp": {
+   "bytes": 1461748,
+   "sha256": "39893a8b50b159cefff6c8ad083ff938a36a88f9d5fe820bf3056033f76b1927",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/e4m8.bsp": {
+   "bytes": 1128652,
+   "sha256": "ecb469767029bbea6728db0a815a254a2e39e7fe81f420c98a828e6bbdd2be7b",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/end.bsp": {
+   "bytes": 483368,
+   "sha256": "906ec1e5057b0fa3145d0f866a7ae4f4ff9bdd7b0ef2d23e3cbd0e3c5e501648",
+   "timestamp": "2026-06-29T17:23:24.000Z"
+  },
+  "quake_mirrored/maps/start.bsp": {
+   "bytes": 1483204,
+   "sha256": "2e3445d0ca7d6655e65cc5775e5d6877de96b369ff33fe5fecea074df63901d7",
+   "timestamp": "2026-06-29T17:22:46.000Z"
+  }
+ },
+ "description": "Horizontally mirrored version of the vanilla Quake maps. Based on The Original Quake Map Sources released October 2006 during Quake's 10th Anniversary by John Romero. The multiplayer maps have also been modified.",
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2025.09.27",
+ "sha256": "c2656c5409f799dc9185272e43224a9571d0c0048b2c8962f5391aa05c0dc8d5",
+ "tags": [
+  "author=Mars",
+  "author:original Quake levels=id Software",
+  "commandline=-game quake_mirrored",
+  "filename=quake_mirrored_v1.1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "game_mode=cooperative",
+  "game_mode=deathmatch",
+  "filename=quake_mirrored_v1.1.zip",
+  "provides='quake_mirrored=1.1'",
+  "release_date=2026-07-03",
+  "release_group=quake_mirrored",
+  "startmap=start",
+  "startmap=e1m1",
+  "startmap=e1m2",
+  "startmap=e1m3",
+  "startmap=e1m4",
+  "startmap=e1m5",
+  "startmap=e1m6",
+  "startmap=e1m7",
+  "startmap=e1m8",
+  "startmap=e2m1",
+  "startmap=e2m2",
+  "startmap=e2m3",
+  "startmap=e2m4",
+  "startmap=e2m5",
+  "startmap=e2m6",
+  "startmap=e2m7",
+  "startmap=e3m1",
+  "startmap=e3m2",
+  "startmap=e3m3",
+  "startmap=e3m4",
+  "startmap=e3m5",
+  "startmap=e3m6",
+  "startmap=e3m7",
+  "startmap=e4m1",
+  "startmap=e4m2",
+  "startmap=e4m3",
+  "startmap=e4m4",
+  "startmap=e4m5",
+  "startmap=e4m6",
+  "startmap=e4m7",
+  "startmap=e4m8",
+  "startmap=end",
+  "title=Quake Mirrored",
+  "type=episode",
+  "version=1.1"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/41/4108605842870e051b71be0721da4be004b22765dd4ba2bb0fc2e6769a55a17f/basetohell.zip",
+  "https://www.quaketastic.com/files/single_player/maps/quake_mirrored_v1.1.zip"
+ ]
+}
