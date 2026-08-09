@@ -84,13 +84,15 @@
   }
  },
  "install": {
-  "extract": "{base}/"
+  "extractmapping": {
+   "/M&M/": "/mines/"
+  }
  },
  "json_version": "2025.09.27",
  "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "tags": [
   "author=Ed Cope",
-  "commandline=-game M&M",
+  "commandline=-game mines",
   "filename=mines.zip",
   "game=quake",
   "game_mode=singleplayer",
