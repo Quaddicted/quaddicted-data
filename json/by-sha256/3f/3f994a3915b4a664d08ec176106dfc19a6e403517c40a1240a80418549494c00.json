@@ -1,0 +1,350 @@
+{
+ "bytes": 110006285,
+ "files": {
+  "demo1.dem": {
+   "bytes": 747163,
+   "sha256": "c9edf381657df6628e5b9d0b1698e3d56e4aaff6a60dca562375469078d3f1ec",
+   "timestamp": "2026-08-02T14:52:28.000Z"
+  },
+  "demo2.dem": {
+   "bytes": 824095,
+   "sha256": "2da7644b7770f716dadf0d8d029629c0932135537ba573b401654031bd8718b8",
+   "timestamp": "2026-08-02T14:52:52.000Z"
+  },
+  "demo3.dem": {
+   "bytes": 1418271,
+   "sha256": "cd17cab0fbe6827a1c8dbf7fb22e2cb5b798be85a3e222915342e9f9f332d1fe",
+   "timestamp": "2026-08-02T14:53:08.000Z"
+  },
+  "demo4.dem": {
+   "bytes": 1165074,
+   "sha256": "d97869775df083dd626c98524cf644a23ec992a853213d8f61e71e38627ffd44",
+   "timestamp": "2026-08-02T14:53:16.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-06-14T14:19:30.000Z"
+  },
+  "gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "2cffce0c29080abc7d1e8a3bb5ac19726f7c83c5f3f830277d3eda1ffff18963",
+   "timestamp": "2022-01-27T08:49:20.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-08-02T17:47:08.000Z"
+  },
+  "maps/e1m1.bsp": {
+   "bytes": 1762352,
+   "sha256": "ce1ab5f76f4fe17edc2ec7eccd5f174426ea6a268aba7df9fac8feb610969a63",
+   "timestamp": "2026-08-02T14:40:40.000Z"
+  },
+  "maps/e1m2.bsp": {
+   "bytes": 1832500,
+   "sha256": "abd54eeb9aa194456fa4384e1a17e4f0f3353213be705d9e6c67ee765a11d71f",
+   "timestamp": "2026-08-02T17:46:46.000Z"
+  },
+  "maps/e1m3.bsp": {
+   "bytes": 1758748,
+   "sha256": "1dd0b86f8f54c8f08a18961638efc2eb31a1febfa068cd0692a558bcf710a419",
+   "timestamp": "2026-08-02T14:40:46.000Z"
+  },
+  "maps/e1m4.bsp": {
+   "bytes": 2265776,
+   "sha256": "c193a1231e6e62c74098b552ec2ae367dd455d049b12bb8f2d553bb16354f370",
+   "timestamp": "2026-08-02T14:40:52.000Z"
+  },
+  "maps/e1m5.bsp": {
+   "bytes": 2992260,
+   "sha256": "634796f2aca378983167ec851797d1a362c7ec4d2525b808ccb2998e1296550b",
+   "timestamp": "2026-08-02T14:41:12.000Z"
+  },
+  "maps/e1m6.bsp": {
+   "bytes": 1768832,
+   "sha256": "9ffc0b73569f54bf85aa874d627132d567737b3aa66a7fcfdc7a51a0779dd23b",
+   "timestamp": "2026-08-02T14:41:14.000Z"
+  },
+  "maps/e1m7.bsp": {
+   "bytes": 905924,
+   "sha256": "3b5a114604ff5cd6474f43e8487fad12fbb73a830f3ec9ac13372e9de8621ac9",
+   "timestamp": "2026-08-02T14:41:16.000Z"
+  },
+  "maps/e1m8.bsp": {
+   "bytes": 1437456,
+   "sha256": "901e0e0548a1f4803f69d67f905ee319c2767d0bca61c01d963477efcb4467a4",
+   "timestamp": "2026-08-02T14:41:18.000Z"
+  },
+  "maps/e2m1.bsp": {
+   "bytes": 1970844,
+   "sha256": "7793c463d8c9ce115e80ddc28404ec3ccb605c1469c346ef973a35519250be21",
+   "timestamp": "2026-08-02T14:41:30.000Z"
+  },
+  "maps/e2m2.bsp": {
+   "bytes": 3478924,
+   "sha256": "cb59f7f5521fd4a32461b2fbe0039177f559467702346b88e02957591bcfd1e2",
+   "timestamp": "2026-08-02T14:42:34.000Z"
+  },
+  "maps/e2m3.bsp": {
+   "bytes": 3308408,
+   "sha256": "b8ba981f9d37ec377352c2ccc8d8ca455a55fd9664e02eb99f0f4ea52fafc413",
+   "timestamp": "2026-08-02T14:43:02.000Z"
+  },
+  "maps/e2m4.bsp": {
+   "bytes": 3951236,
+   "sha256": "d5f48479d6736c0a298267e4b35cd2784aedd60e9d1035a32f9ee962ecc13644",
+   "timestamp": "2026-08-02T14:43:44.000Z"
+  },
+  "maps/e2m5.bsp": {
+   "bytes": 4033844,
+   "sha256": "1c5a90c1bebd55def6bb56de383e1c6a6845669857b95e56fa88b08500b8b39c",
+   "timestamp": "2026-08-02T14:44:36.000Z"
+  },
+  "maps/e2m6.bsp": {
+   "bytes": 4929632,
+   "sha256": "52d40ffe3f5dad9bb2a7ed4959bb2e8812c2d5d32510350e8e7b6f40a30060c3",
+   "timestamp": "2026-08-02T17:34:28.000Z"
+  },
+  "maps/e2m7.bsp": {
+   "bytes": 2030164,
+   "sha256": "f11875bbabca1de6c06439ba5d6cdd7a7a565392394d7895d5cbcd4e6f17b0bf",
+   "timestamp": "2026-08-02T17:32:38.000Z"
+  },
+  "maps/e3m1.bsp": {
+   "bytes": 2079904,
+   "sha256": "1d37c87ea40e91e23150ef03fce45a69aa9688eae0875cd08f78ba8671b75f92",
+   "timestamp": "2026-08-02T14:45:56.000Z"
+  },
+  "maps/e3m2.bsp": {
+   "bytes": 1392652,
+   "sha256": "3010d4e5387fdeebfb9679f0a721cc088bc5551ce8f0bc16f283c9af4926c7a9",
+   "timestamp": "2026-08-02T14:45:58.000Z"
+  },
+  "maps/e3m3.bsp": {
+   "bytes": 3638520,
+   "sha256": "78931c962b1d905b41a3632d19eee70d8ec082a0dbab2ef57dc26039b6239145",
+   "timestamp": "2026-08-02T14:46:10.000Z"
+  },
+  "maps/e3m4.bsp": {
+   "bytes": 2024344,
+   "sha256": "2301ce3566722126262740b0dc87f95f616e446ac2c1749e4832ce15f1ccced2",
+   "timestamp": "2026-08-02T14:46:18.000Z"
+  },
+  "maps/e3m5.bsp": {
+   "bytes": 1339304,
+   "sha256": "5dfce9f8a4dd9329fef66666e92c705c842080a776009ff1feaf0f2dfcb15a23",
+   "timestamp": "2026-08-02T14:46:24.000Z"
+  },
+  "maps/e3m6.bsp": {
+   "bytes": 3529268,
+   "sha256": "43c6a9d0eb45c677ce5f575598ff36fafe44f09b170d9a2228abca7858331220",
+   "timestamp": "2026-08-02T14:46:42.000Z"
+  },
+  "maps/e3m7.bsp": {
+   "bytes": 3475200,
+   "sha256": "ca4d041d635ecbd8135246566ebbffffceebd7f1c4300899c4c6ac27a975f4bd",
+   "timestamp": "2026-08-02T14:47:04.000Z"
+  },
+  "maps/e4m1.bsp": {
+   "bytes": 2600492,
+   "sha256": "632db2954d220a3d81609e0abc9d8b37afc343ee4305af3adf18fb03aee5df7b",
+   "timestamp": "2026-08-02T14:47:10.000Z"
+  },
+  "maps/e4m2.bsp": {
+   "bytes": 1714748,
+   "sha256": "d9da472674b508ad4845a83b1a10699f7de64112682eb74326fd10d08c8651f9",
+   "timestamp": "2026-08-02T14:47:12.000Z"
+  },
+  "maps/e4m3.bsp": {
+   "bytes": 2282960,
+   "sha256": "70697b08dc17aac21f8f6be6966e47a52c7b66bb36785377a45f6ac6ba12157c",
+   "timestamp": "2026-08-02T14:47:16.000Z"
+  },
+  "maps/e4m4.bsp": {
+   "bytes": 1403068,
+   "sha256": "8c849ef2aa09f4e73f18685f90393176b82bb73bf7238daab0f264f222ae53b4",
+   "timestamp": "2026-08-02T14:47:22.000Z"
+  },
+  "maps/e4m5.bsp": {
+   "bytes": 4307800,
+   "sha256": "7539b637a06eb801be57de1ce4a92eebc2207fb40b9d2ecf973359ad3a8b7a87",
+   "timestamp": "2026-08-02T14:47:44.000Z"
+  },
+  "maps/e4m6.bsp": {
+   "bytes": 4602028,
+   "sha256": "81543229947bfcad391afd0c749edfb02a7b3a58ec147727fd19ac31f7bbb3a0",
+   "timestamp": "2026-08-02T14:47:58.000Z"
+  },
+  "maps/e4m7.bsp": {
+   "bytes": 2230964,
+   "sha256": "0d93f549be170bac4345a1690c958630cbee2a0cb6a02ee5723b227c342cf419",
+   "timestamp": "2026-08-02T14:48:04.000Z"
+  },
+  "maps/e4m8.bsp": {
+   "bytes": 4884776,
+   "sha256": "327551e657222cc972c9f7217cda364dc6eb3c89fd7086c6f4385bc69985834e",
+   "timestamp": "2026-08-02T14:48:26.000Z"
+  },
+  "maps/end.bsp": {
+   "bytes": 5044020,
+   "sha256": "47a19d381eaf41582be8ad712a6438be61a1f9aee6381cc98fa9caab9e363a58",
+   "timestamp": "2026-08-02T14:48:52.000Z"
+  },
+  "maps/start.bsp": {
+   "bytes": 2108192,
+   "sha256": "d8cb38352dcf1d46e377030f7882746347620e4b14442593973a1d084f1e3f65",
+   "timestamp": "2026-08-02T17:34:46.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-06-14T14:19:30.000Z"
+  },
+  "music/track02.mp3": {
+   "bytes": 2538057,
+   "sha256": "0cbbb5d837fa44b384b32492cb8e924d51d9ae2c9b60d76de9d3bd72db98c958",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track03.mp3": {
+   "bytes": 3751183,
+   "sha256": "90940c7c1a28559f0434eac513e1bdf3e29212bb2c8b61d8d45ce87507940c4c",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track04.mp3": {
+   "bytes": 7681044,
+   "sha256": "d8e03c621abb0dcff8996cc4a0cbf4e55528c2ffde13bcb3d7d3edccd8359ffa",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track05.mp3": {
+   "bytes": 6625175,
+   "sha256": "2cab1a0e61687e46c5aa270abd60a50cd8ed4435aad9b15a21b32a8a03b561c1",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track06.mp3": {
+   "bytes": 7931820,
+   "sha256": "001201a87811f1484bdc680595a19dcb22851e527dabf6f8a94a5010196587cf",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track07.mp3": {
+   "bytes": 8024293,
+   "sha256": "bac8bf3434373631af657847612839a822021e70eced5b5014cdf52fa5860166",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track08.mp3": {
+   "bytes": 7407281,
+   "sha256": "8dbc38a4bc3b3cadb1f9ae0e47cf881b7a34234a0db2d25c3d1c2685d6d22377",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track09.mp3": {
+   "bytes": 7506547,
+   "sha256": "fadf25d69040b1a26a536dbb8113dc87c2ea712abe72f4e34fda0ab89fe4ca08",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track10.mp3": {
+   "bytes": 6913044,
+   "sha256": "71332fb44d9d0c28305a43ac98c4f4fee877cccd4be8ca20b7f0af69b1d0ffdb",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track11.mp3": {
+   "bytes": 8161488,
+   "sha256": "36bf1a88cab6d7ea8195ce0a0e96d7ca3f0139d1fa3ed1f8a69ea44fd047b6e8",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "music/track12.mp3": {
+   "bytes": 7009801,
+   "sha256": "e0a08ce601e0ec9a50662eeecf53a4c638f6dc9ac56dd0663feec0e811c0d6d8",
+   "timestamp": "2026-08-02T17:41:58.000Z"
+  },
+  "progs.dat": {
+   "bytes": 335414,
+   "sha256": "b6ecdddbc8a3ded783d778ea24473ad60fff5e2a1ff08a31bf1be713986c3dd4",
+   "timestamp": "2026-08-02T00:03:50.000Z"
+  },
+  "quake.rc": {
+   "bytes": 480,
+   "sha256": "4e3d94b79112a5853d223c3696fe802f61b3095be6fb094e8f0df4f1bfd14a69",
+   "timestamp": "2026-08-02T14:53:56.000Z"
+  },
+  "tremor.txt": {
+   "bytes": 5354,
+   "sha256": "73d5ea4fafb84a618d546076eec640c7843cda4569f62a36e700d85fbcc8cb6d",
+   "timestamp": "2026-08-02T14:54:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/tremor/"
+ },
+ "json_version": "2025.09.27",
+ "sha256": "3f994a3915b4a664d08ec176106dfc19a6e403517c40a1240a80418549494c00",
+ "tags": [
+  "author=Ionous",
+  "author=Skacky",
+  "author=onetruepurple",
+  "author=cardo",
+  "author=Miss Bubbles",
+  "author=Zothique",
+  "author=Kell",
+  "author=negke",
+  "author=Fairweather",
+  "author=Newhouse",
+  "author=Chris Holden",
+  "author=AlekswithaK",
+  "author=Khreathor",
+  "author=Biff_Debris",
+  "title=Tremor",
+  "description=A parallel/alternative version of Quake: full 32-level campaign with four episodes plus start and end map, offering an authentic, lo-fi, WINQUAKE.EXE-compatible experience that could have been straight from 1996 for the most part. Comes with a new atmospheric soundtrack and four startup demos. It also features an optional shotgun start mode.",
+  "commandline=-game tremor",
+  "filename=tremor.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "game_mode=cooperative",
+  "link=https://www.moddb.com/mods/tremor-an-alternate-version-of-quake",
+  "link=https://www.slipseer.com/index.php?resources/tremor.614",
+  "release_date=2026-07-22",
+  "startmap=start",
+  "startmap=e1m1",
+  "startmap=e1m2",
+  "startmap=e1m3",
+  "startmap=e1m4",
+  "startmap=e1m5",
+  "startmap=e1m6",
+  "startmap=e1m7",
+  "startmap=e1m8",
+  "startmap=e2m1",
+  "startmap=e2m2",
+  "startmap=e2m3",
+  "startmap=e2m4",
+  "startmap=e2m5",
+  "startmap=e2m6",
+  "startmap=e2m7",
+  "startmap=e3m1",
+  "startmap=e3m2",
+  "startmap=e3m3",
+  "startmap=e3m4",
+  "startmap=e3m5",
+  "startmap=e3m6",
+  "startmap=e3m7",
+  "startmap=e4m1",
+  "startmap=e4m2",
+  "startmap=e4m3",
+  "startmap=e4m4",
+  "startmap=e4m5",
+  "startmap=e4m6",
+  "startmap=e4m7",
+  "startmap=e4m8",
+  "startmap=end",
+  "type=episode",
+  "nonspecific_tag=music",
+  "theme=classic",
+  "theme=base",
+  "theme=medieval",
+  "theme=metal",
+  "theme=runic",
+  "theme=wizard"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/3f/3f994a3915b4a664d08ec176106dfc19a6e403517c40a1240a80418549494c00/tremor.zip",
+  "https://www.slipseer.com/index.php?resources/tremor.614/download"
+ ]
+}
