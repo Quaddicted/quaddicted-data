@@ -28,6 +28,9 @@ jobs:
     - name: Install validation requirements
       run: pip install -r ./tools/requirements.txt
 
+    - name: Install quaddicted_tools
+      run: pip install ./tools/
+
     - name: Validate JSON packages
       run: |
         LOGGING_LEVEL=ERROR \
