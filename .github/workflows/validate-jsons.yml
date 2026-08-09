@@ -24,17 +24,11 @@ jobs:
       with:
         repository: Quaddicted/tools
         path: tools
-        
-    - name: Install uv
-      uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
-      with:
-        version: "0.12.3"
-        activate-environment: "true"
 
     - name: Install validation requirements
-      run: uv --active pip install -r ./tools/requirements.txt
+      run: pip install -r ./tools/requirements.txt
 
     - name: Validate JSON packages
       run: |
         LOGGING_LEVEL=ERROR \
-        uv --active run ./tools/scripts/validate_dir_of_jsons.py --directory ./quaddicted-data
+        python ./tools/scripts/validate_dir_of_jsons.py --directory ./quaddicted-data
