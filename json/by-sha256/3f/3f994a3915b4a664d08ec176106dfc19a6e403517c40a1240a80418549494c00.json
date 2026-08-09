@@ -1,5 +1,6 @@
 {
  "bytes": 110006285,
+ "description": "A parallel/alternative version of Quake: full 32-level campaign with four episodes plus start and end map, offering an authentic, lo-fi, WINQUAKE.EXE-compatible experience that could have been straight from 1996 for the most part. Comes with a new atmospheric soundtrack and four startup demos. It also features an optional shotgun start mode.",
  "files": {
   "demo1.dem": {
    "bytes": 747163,
@@ -293,7 +294,6 @@
   "author=Khreathor",
   "author=Biff_Debris",
   "title=Tremor",
-  "description=A parallel/alternative version of Quake: full 32-level campaign with four episodes plus start and end map, offering an authentic, lo-fi, WINQUAKE.EXE-compatible experience that could have been straight from 1996 for the most part. Comes with a new atmospheric soundtrack and four startup demos. It also features an optional shotgun start mode.",
   "commandline=-game tremor",
   "filename=tremor.zip",
   "game=quake",
