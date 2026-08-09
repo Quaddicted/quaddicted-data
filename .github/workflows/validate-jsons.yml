@@ -32,9 +32,9 @@ jobs:
         activate-environment: "true"
 
     - name: Install validation requirements
-      run: uv pip install -r ./tools/requirements.txt
+      run: uv --active pip install -r ./tools/requirements.txt
 
     - name: Validate JSON packages
       run: |
         LOGGING_LEVEL=ERROR \
-        uv run ./tools/scripts/validate_dir_of_jsons.py --directory ./quaddicted-data
+        uv --active run ./tools/scripts/validate_dir_of_jsons.py --directory ./quaddicted-data
