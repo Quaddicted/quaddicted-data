@@ -1,6 +1,6 @@
 {
  "bytes": 2781926,
- "description": "Medium sized wizmetal map visually inspired by E2M5 and E3M6, with occasionally chaotic gameplay that encourages infighting.",
+ "description": "Medium-sized wizmetal map visually inspired by E2M5 and E3M6, with occasionally chaotic gameplay that encourages infighting.",
  "files": {
   "ad_behop_1d_readme.txt": {
    "bytes": 2476,
@@ -28,12 +28,11 @@
  },
  "json_version": "2025.09.27",
  "notes": [
-  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>.",
-  "May require a source port with increased limits / BSP2 support."
+  "This map requires <a href=\"7ad993da6c760c446ca31fad71e9f5b6c9eee99b6354f161aa746b572fe70a7d\">Arcane Dimensions</a>."
  ],
  "sha256": "e616f0398ea0c9180f576b86ef71d49b43988b2d55344e35a8a5c571306c1e4d",
  "tags": [
-  "author=Sock",
+  "author=sock",
   "commandline=-game ad",
   "dependency=ad_v1_80p1final",
   "depends=('ad>=1.80')",
