@@ -1,6 +1,6 @@
 {
  "bytes": 28206782,
- "description": "Pack of 24 maps in a retro e2/metal/wizard style, connected by a start map. The first Quake jam hosted by Quake 2's Map Center discord, featuring entries from many first-time Quake mappers alongside a few veterans.",
+ "description": "Pack of 24 maps in a retro E2/metal/wizard style, connected by a start map. The first Quake jam hosted by Map-Center discord, featuring entries from many first-time Quake mappers alongside a few veterans.",
  "files": {
   "mc_retrojam1/bots/": {
    "bytes": 0,
@@ -467,9 +467,6 @@
   "extract": "{base}/"
  },
  "json_version": "2025.09.27",
- "notes": [
-  "May require a source port with increased limits / BSP2 support."
- ],
  "sha256": "7c3c3248aad0ed208ea072fc595220627d403f158a82884b0b6630f0f06229d9",
  "tags": [
   "author=Atom1K",
@@ -486,7 +483,7 @@
   "author=Niccolicious",
   "author=Shades",
   "author=Simon Novak",
-  "author=Sock",
+  "author=sock",
   "author=StormCatcher.77",
   "author=Thelokk",
   "author=Thunder Goose",
@@ -504,6 +501,30 @@
   "link=[ModDB page](https://www.moddb.com/games/quake/addons/map-center-quake-retrojam-1)",
   "release_date=2024-08-08",
   "startmap=start",
+  "startmap=mc_rj1_atom1k",
+  "startmap=mc_rj1_cc",
+  "startmap=mc_rj1_chnuckierdbeer",
+  "startmap=mc_rj1_chuma",
+  "startmap=mc_rj1_colossus",
+  "startmap=mc_rj1_detrohogga",
+  "startmap=mc_rj1_deviltower",
+  "startmap=mc_rj1_dumptruck",
+  "startmap=mc_rj1_fix",
+  "startmap=mc_rj1_indigo",
+  "startmap=mc_rj1_ioridyson",
+  "startmap=mc_rj1_iyago",
+  "startmap=mc_rj1_jerry",
+  "startmap=mc_rj1_kdmg",
+  "startmap=mc_rj1_knefarious",
+  "startmap=mc_rj1_niccolicious",
+  "startmap=mc_rj1_scump",
+  "startmap=mc_rj1_shades",
+  "startmap=mc_rj1_simonn",
+  "startmap=mc_rj1_sixsik6",
+  "startmap=mc_rj1_sock",
+  "startmap=mc_rj1_stormcatcher77",
+  "startmap=mc_rj1_thelokk",
+  "startmap=mc_rj1_thundergoose",
   "title=Map-Center Quake Retrojam 1",
   "type=map",
   "type=mapjam"
