@@ -1,6 +1,6 @@
 {
  "bytes": 83722614,
- "description": "An episode with 6+4 levels and start map. The pak is compatible with original quake.exe and winquake. Base and Medieval themes: mostly ID textures with plenty of new edits. Includes a new ambient soundtrack.",
+ "description": "An episode with 10 levels (3 of which are secret levels) and a start map, designed to be compatible with original quake.exe and Winquake. Base and Medieval themes: mostly ID textures with plenty of new edits. Comes with a new ambient soundtrack and the map sources are included (inside the .pak).",
  "files": {
   "music/track02.mp3": {
    "bytes": 1901505,
@@ -89,7 +89,7 @@
  "json_version": "2025.09.27",
  "sha256": "ad4ca40bf42aab0fc69226ca4d8fad0cc84ba5f8b0372717346300dd1be89b94",
  "tags": [
-  "author=Sock",
+  "author=sock",
   "author=Zothique",
   "commandline=-game ritual",
   "filename=ritual_v0_96.zip",
@@ -98,6 +98,16 @@
   "link=[Youtube trailer](https://www.youtube.com/watch?v=CCfRqpIObtw)",
   "release_date=2025-01-05",
   "startmap=start",
+  "startmap=ze1m1",
+  "startmap=ze1m1s",
+  "startmap=ze1m2",
+  "startmap=ze1m3",
+  "startmap=ze1m3s",
+  "startmap=ze1m4",
+  "startmap=ze1m5",
+  "startmap=ze1m5s",
+  "startmap=ze1m6",
+  "startmap=ze1end",
   "title=Ritual",
   "type=episode",
   "zipbasedir=ritual"
