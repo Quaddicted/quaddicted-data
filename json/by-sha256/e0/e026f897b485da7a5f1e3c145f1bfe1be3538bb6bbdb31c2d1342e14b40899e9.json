@@ -1,8 +1,42 @@
 {
  "bytes": 1352899,
+ "description": "Map 5 in the Colony episode.",
+ "files": {
+  "colony5.bsp": {
+   "bytes": 2445924,
+   "sha256": "2458f46a27007430f02fdd43991838008099b8569b781aea5073e254e14eaf3a",
+   "timestamp": "2026-09-25T20:42:30.000Z"
+  },
+  "colony5.map": {
+   "bytes": 2806352,
+   "sha256": "cbd7292f38bf2e46e5007da67d803e81612f38fa870c54622c7a5f8d30bf96c9",
+   "timestamp": "2026-09-25T20:41:58.000Z"
+  },
+  "colony5.txt": {
+   "bytes": 1311,
+   "sha256": "49172890dbf773cb54df1993d7b54afc9a0c8080c7b01b9b2b26b3f12d6f716d",
+   "timestamp": "2026-09-25T21:07:40.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
  "json_version": "2025.09.27",
  "sha256": "e026f897b485da7a5f1e3c145f1bfe1be3538bb6bbdb31c2d1342e14b40899e9",
+ "tags": [
+  "author=Mark Turner",
+  "filename=colony5.zip",
+  "game=quake",
+  "game_mode=cooperative",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "size=medium",
+  "startmap=colony5",
+  "title=Colony5: The Ancient Archive",
+  "type=map"
+  ],
  "urls": [
-  "https://www.quaddicted.com/files/by-sha256/e0/e026f897b485da7a5f1e3c145f1bfe1be3538bb6bbdb31c2d1342e14b40899e9/colony5.zip"
+  "https://www.quaddicted.com/files/by-sha256/e0/e026f897b485da7a5f1e3c145f1bfe1be3538bb6bbdb31c2d1342e14b40899e9/colony5.zip",
+  "https://www.quaketastic.com/files/colony5.zip"
  ]
 }
