@@ -1,0 +1,143 @@
+{
+ "bytes": 11794923,
+ "description": "The author's third map for Quake 1 single player.",
+ "files": {
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-09-16T23:23:08.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-09-16T23:23:08.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "3da19e6822edcc3870072409d0aeb3b4b470a6c59c74a5f9b8bfeefe655f3405",
+   "timestamp": "2022-10-19T19:55:56.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "cbf8de3af603a9fc91d7533619ed72ade3cbfde856c8f4f273c1f8b12af72a13",
+   "timestamp": "2022-10-19T19:56:12.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "aff0502b2d2260de6c7dc4b10bb8765b11e85062fdb2fa3224d41e5d21d1513c",
+   "timestamp": "2022-10-19T19:56:08.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "b7efde04b48e6bde158c4a760e6c7a6ccc9563011fc8d9cb8b5502971871952b",
+   "timestamp": "2022-10-19T19:56:06.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "578aa512cad9015b90d5288147d36464b6deaad31341b206d0296b7f0e8751b8",
+   "timestamp": "2022-10-19T19:56:02.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_up.tga": {
+   "bytes": 3145772,
+   "sha256": "4d23ac2745f30032a2904e0143e2d7900698fbb60b9a42fc72e7b3106a10848f",
+   "timestamp": "2022-10-19T19:56:14.000Z"
+  },
+  "gfx/env/mak_beksinskisky1_wind.cfg": {
+   "bytes": 52,
+   "sha256": "ec14f819b5b7c9937c61ce793d97db4d831b52d42e78ee03b53ec48a33a31dc0",
+   "timestamp": "2025-10-28T11:28:46.000Z"
+  },
+  "lostplace_readme.txt": {
+   "bytes": 4196,
+   "sha256": "b247cd84c66ec3662e17e819212a8673685989145a4cf6ab577e2a3a399d9dcc",
+   "timestamp": "2026-09-16T17:04:16.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-09-16T23:23:08.000Z"
+  },
+  "maps/lostplace.bsp": {
+   "bytes": 15078872,
+   "sha256": "561bdfcd05af0e445df28343ca01903b5f012d332f0b8e3eed309ca0b050e267",
+   "timestamp": "2026-09-16T23:22:48.000Z"
+  },
+  "maps/lostplace.lit": {
+   "bytes": 2827952,
+   "sha256": "03eb12133a1d9646ddffe58814bcd01c736294a1408e548e325fd2ec71f8ee93",
+   "timestamp": "2026-09-16T23:22:48.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-09-16T23:23:08.000Z"
+  },
+  "sound/vanisch/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-09-16T23:23:08.000Z"
+  },
+  "sound/vanisch/windgust1.wav": {
+   "bytes": 110288,
+   "sha256": "be28de40857304c1a9e169dd483795b2cd23356b81633133c7872e5657111c70",
+   "timestamp": "2026-03-28T18:44:12.000Z"
+  },
+  "sound/vanisch/windgust2.wav": {
+   "bytes": 110284,
+   "sha256": "b818f61172795942402ff0ca0d1295a91c36a245edc80689c35fe64a8ac1a4e2",
+   "timestamp": "2026-03-28T18:44:12.000Z"
+  },
+  "sound/vanisch/windgust3.wav": {
+   "bytes": 110030,
+   "sha256": "fdbb85f091cd9447f1500173aff70236abcdb947ba0758711816da59c5293344",
+   "timestamp": "2026-03-28T18:44:12.000Z"
+  },
+  "sound/vanisch/windgust4.wav": {
+   "bytes": 198502,
+   "sha256": "9a5c5a3da44f981c9deb8b437f57b3e3a35f2bcab318a1a3223f0a18fa4d2101",
+   "timestamp": "2026-03-28T18:44:12.000Z"
+  },
+  "sound/vanisch/windgust5.wav": {
+   "bytes": 198494,
+   "sha256": "f55fb77a15a80390ef560962f29ad8311c58af1ddf51f39ffebc4784cf837afe",
+   "timestamp": "2026-03-28T18:44:12.000Z"
+  },
+  "sound/vanisch/windgust6.wav": {
+   "bytes": 396944,
+   "sha256": "27a19679e7164a6e7bb8e4d6bc42cc8c12a5cd56bba45218e2ec5f1dc528da0d",
+   "timestamp": "2026-03-28T18:44:12.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2026-09-16T23:23:08.000Z"
+  },
+  "source/lostplace.map": {
+   "bytes": 8849309,
+   "sha256": "45309cd7158794452d25a2583b68b3bf686102ad084d7ce5248666a5a6d768e2",
+   "timestamp": "2026-09-16T23:21:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper"
+ },
+ "json_version": "2025.09.27",
+ "sha256": "ec17b0537536d4daf2d8c8952c4276075c512ff9bd4dcd359307c43076097cf2",
+ "tags": [
+  "author=Vanisch",
+  "commandline=-game copper",
+  "depends=('copper')",
+  "filename=lostplace.101.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "mod=copper",
+  "size=small",
+  "startmap=lostplace",
+  "title=Lost Place",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/files/by-sha256/ec/ec17b0537536d4daf2d8c8952c4276075c512ff9bd4dcd359307c43076097cf2/lostplace.101.zip",
+  "https://www.quaketastic.com/files/lostplace.101.zip"
+ ]
+}
