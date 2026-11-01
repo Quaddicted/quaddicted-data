@@ -283,7 +283,7 @@
  "tags": [
   "author=Sportster_v90 (Calluna Vulgaris)",
   "commandline=-game alk1.2 -heapsize 393216",
-  "depends=('alk=1.2')",
+  "depends=('alkaline>=1.20')",
   "filename=alk_alloy_1.2.zip",
   "game=quake",
   "game_mode=singleplayer",
