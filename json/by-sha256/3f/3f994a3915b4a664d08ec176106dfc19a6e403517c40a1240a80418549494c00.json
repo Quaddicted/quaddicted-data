@@ -301,7 +301,9 @@
   "game_mode=cooperative",
   "link=https://www.moddb.com/mods/tremor-an-alternate-version-of-quake",
   "link=https://www.slipseer.com/index.php?resources/tremor.614",
+  "provides='tremor=1.04'",
   "release_date=2026-07-22",
+  "release_group=tremor",
   "startmap=start",
   "startmap=e1m1",
   "startmap=e1m2",
@@ -341,10 +343,11 @@
   "theme=medieval",
   "theme=metal",
   "theme=runic",
-  "theme=wizard"
+  "theme=wizard",
+  "version=1.04"
  ],
  "urls": [
   "https://www.quaddicted.com/files/by-sha256/3f/3f994a3915b4a664d08ec176106dfc19a6e403517c40a1240a80418549494c00/tremor.zip",
-  "https://www.slipseer.com/index.php?resources/tremor.614/download"
+  "https://www.slipseer.com/index.php?resources/tremor.614/version/1202/download"
  ]
 }
