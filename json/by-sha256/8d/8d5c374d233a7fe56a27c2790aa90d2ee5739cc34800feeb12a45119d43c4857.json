@@ -1,0 +1,59 @@
+{
+ "bytes": 1227914,
+ "files": {
+  "COPYING": {
+   "bytes": 17992,
+   "sha256": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+   "timestamp": "2009-01-28T05:20:58.000Z"
+  },
+  "eng95.exe": {
+   "bytes": 995328,
+   "sha256": "c43879c2a1bc444ec4794a86835a6ebbc12f2c801523607fadac2e4396f8cbbc",
+   "timestamp": "2013-12-31T07:28:26.000Z"
+  },
+  "engoo.txt": {
+   "bytes": 13539,
+   "sha256": "280c0e8e2014a1504a9d577573f913fbfe7d0a02d15febdf1949ddd7dfee6bd5",
+   "timestamp": "2013-12-31T07:31:52.000Z"
+  },
+  "engqsb.exe": {
+   "bytes": 880640,
+   "sha256": "42bc7c67c58f5b4db90bf20ec2dc557917df6f18086ef2b2ce57c3d8bb6d5905",
+   "timestamp": "2013-12-31T07:03:46.000Z"
+  },
+  "engwin.exe": {
+   "bytes": 876544,
+   "sha256": "62d79205b7d35dffc28d885bba14cc5962c474f9dc7f5c1f2b7a9dae1a11f9bf",
+   "timestamp": "2013-12-31T07:28:32.000Z"
+  },
+  "id1/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2013-12-30T08:25:14.000Z"
+  },
+  "id1/particle.spr": {
+   "bytes": 67788,
+   "sha256": "55220269ab68420531fc1cb5066ff56598cdf3b3474af3a58e88b39a4c20ccb3",
+   "timestamp": "2013-05-19T01:13:54.000Z"
+  }
+ },
+ "install": {
+  "extractmapping": {
+   "/": "/"
+  }
+ },
+ "json_version": "2025.09.27",
+ "sha256": "8d5c374d233a7fe56a27c2790aa90d2ee5739cc34800feeb12a45119d43c4857",
+ "tags": [
+  "filename=eng277w.zip",
+  "game=quake",
+  "type=engine",
+  "release_group=engoo",
+  "author=leilei",
+  "release_date=2013-12-31",
+  "platform=windows",
+  "license=gpl",
+  "provides=\"engoo=2.77\""
+ ],
+ "urls": []
+}
