@@ -1,5 +1,6 @@
 {
  "bytes": 20078708,
+ "description": "Horizontally mirrored version of the vanilla Quake maps. Based on The Original Quake Map Sources released October 2006 during Quake's 10th Anniversary by John Romero. The multiplayer maps have also been modified.",
  "files": {
   "quake_mirrored/": {
    "bytes": 0,
@@ -222,11 +223,10 @@
    "timestamp": "2026-06-29T17:22:46.000Z"
   }
  },
- "description": "Horizontally mirrored version of the vanilla Quake maps. Based on The Original Quake Map Sources released October 2006 during Quake's 10th Anniversary by John Romero. The multiplayer maps have also been modified.",
  "install": {
   "extract": "{base}/"
  },
- "json_version": "2025.09.27",
+ "json_version": "20250720-fromsolr",
  "sha256": "c2656c5409f799dc9185272e43224a9571d0c0048b2c8962f5391aa05c0dc8d5",
  "tags": [
   "author=Mars",
